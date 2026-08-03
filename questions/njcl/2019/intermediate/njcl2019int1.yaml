@@ -1,0 +1,165 @@
+tournament: NJCL Certamen
+year: 2019
+division: Intermediate
+round: Round 1
+questions:
+  - tossup:
+      question: "Please translate this sentence into English:  <latin>Fīlia</latin> patrem in <latin>tabernā labōrantem vīdit</latin>."
+      answer: "THE DAUGHTER SAW (HER / THE / A) FATHER WORKING IN THE SHOP / TAVERN / BAR / INN"
+    boni:
+      - question: "...:  Duae <latin>sorōrēs</latin>, per <latin>viās ambulantēs, subitō clāmōrem audīvērunt</latin>."
+        answer: "TWO SISTERS, (WHILE) WALKING THROUGH THE STREETS, SUDDENLY HEARD"
+      - question: "...:  <latin>Puellīs</latin> domum currentibus, coquus <latin>cēnam</latin> optimam <latin>parābat</latin>."
+        answer: "WHILE / SINCE / BECAUSE / AS THE GIRLS WERE RUNNING HOME // WITH THE GIRLS RUNNING HOME, THE COOK WAS PREPARING / PREPARED AN EXCELLENT / THE BEST DINNER"
+  - tossup:
+      question: "The spring at Joppa ran perpetually red because of what hero, who stopped there to wash his hands after killing Poseidon’s sea-monster and freeing Andromeda?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What mother of Andromeda had provoked Poseidon into sending the sea-monster by claiming she was more beautiful than the Nereïds?"
+        answer: "CASSIOPEIA"
+      - question: "When he left Ethiopia, Perseus left which of his sons on the throne?"
+        answer: "PERSES"
+  - tossup:
+      question: "What emperor caused a stir by putting his freedmen in charge of the various government departments in the first century AD?"
+      answer: "(TI.) CLAUDIUS (NERO)"
+    boni:
+      - question: "Name one of the chief freedmen in Claudius’ household that allegedly made a killing selling access and privileges to the highest bidder."
+        answer: "SEE BELOW"
+      - question: "Name another."
+        answer: "PALLAS / NARCISSUS / CALLISTUS / POLYBIUS"
+  - tossup:
+      question: "“Journal,” “diurnal,” and “diary” are all derived from what Latin noun?"
+      answer: "<latin>DIĒS</latin>"
+    boni:
+      - question: "What derivative of <latin>diēs</latin> means “depressing or dreary”?"
+        answer: "DISMAL"
+      - question: "What derivative of <latin>diēs</latin> means “a face of a clock or watch that is marked to show time”?"
+        answer: "DIAL"
+  - tossup:
+      question: "What mood of a verb is used for a command?"
+      answer: "IMPERATIVE"
+    boni:
+      - question: "What mood of a verb is used for statement of facts?"
+        answer: "INDICATIVE"
+      - question: "What form of a verb is used with <latin>nōlī</latin> to express a negative command?"
+        answer: "INFINITIVE"
+  - tossup:
+      question: "Which attendant of Diana was placed in the sky as the constellation Ursa Major after she was"
+      answer: "transformed into a bear? CALLISTO"
+    boni:
+      - question: "Name Callisto’s son who nearly shot her because he didn’t recognize her in bear form."
+        answer: "ARCAS"
+      - question: "Name Callisto’s father who was transformed into a wolf."
+        answer: "LYCAON"
+  - tossup:
+      question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: <latin>Quī prīnceps scrīpsit sententiās Stōicās</latin> in <latin>librō suō</latin>, quem <latin>Meditātiōnēs appellāmus</latin>?"
+      answer: "MARCUS AURELIUS (ANTONINUS)"
+    boni:
+      - question: "<latin>Respondē Latīnē</latin>: <latin>quōcum Mārcus Aurēlius rēxit aequā potestāte</latin>?"
+        answer: "(CUM) <latin>LŪCIŌ VĒRŌ</latin>"
+      - question: "<latin>Respondē Anglicē</latin>: quis erat <latin>fīlius Mārcī Aurēliī quī</latin> imperium <latin>Rōmānum</latin> quoque <latin>rēxit</latin>?"
+        answer: "COMMODUS"
+  - tossup:
+      question: "Quid <latin>Anglicē</latin> significat: <latin>gubernātor</latin>?"
+      answer: "STEERSMAN / PILOT / DIRECTOR / RULER / GOVERNOR / HELMSMAN"
+    boni:
+      - question: "Quid <latin>Anglicē</latin> significat: <latin>crīnis</latin>?"
+        answer: "HAIR / TAIL OF A COMET"
+      - question: "Quid <latin>Anglicē</latin> significat: <latin>ubīque</latin>?"
+        answer: "EVERYWHERE / WHERE(SOE)VER / ANYWHERE / IN ANY PLACE WHATEVER"
+  - tossup:
+      question: "Identify the case and the reason for the case of the Latin word for “city” in this sentence: <latin>Mīlitēs</latin> praedam ex <latin>illā</latin> parte urbis <latin>tulērunt</latin>."
+      answer: "PARTITIVE GENITIVE / OF THE WHOLE"
+    boni:
+      - question: "Identify the case of the words in the third line of this inscription?"
+        answer: "DATIVE"
+      - question: "According to this inscription, Quintus Petronius Urbicus fulfilled his vow to the gods and to the"
+        answer: "praetor Genius.  Name one of the things about Petronius explicitly mentioned in the first eight lines of this inscription. HE IS THE SON OF QUINTUS / HE IS OF THE FABIAN TRIBE / HE IS THE PREFECT OF THE 4TH COHORT (OF GAULS)"
+  - tossup:
+      question: "A terrible fit of madness brought on by Hera led Heracles to kill his three children by what Theban princess, his first wife?"
+      answer: "MEGARA"
+    boni:
+      - question: "Megara was the daughter of which Theban king?"
+        answer: "CREON"
+      - question: "According to some versions, to which nephew of his did Heracles give Megara after he recovered from this fit of madness?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "Complete the following analogy: Massilia: Marseilles :: Lutetia: ___."
+      answer: "PARIS"
+    boni:
+      - question: "Complete the following analogy: <latin>Arausiō</latin>: Orange :: Aelia <latin>Capitōlīna</latin> : ____."
+        answer: "JERUSALEM"
+      - question: "Complete the following analogy: <latin>Lugdūnum</latin> : Lyons :: Vindobona: ___."
+        answer: "VIENNA"
+  - tossup:
+      question: "Say in Latin using the idiom iter facere to mean “travel”: I will travel to Rome."
+      answer: ""
+    boni:
+      - question: "Say in Latin using the same idiom: The huntress will have traveled to the countryside with us."
+        answer: "<latin>VĒNĀTRĪX RŪS NŌBĪSCUM</latin> ITER <latin>FĒCERIT</latin>"
+      - question: "Say in Latin using the same idiom: The soldiers had wanted to travel home as quickly as possible."
+        answer: "<latin>MĪLITĒS</latin> DOMUM QUAM <latin>CELERRIMĒ</latin> ITER FACERE VOLUERANT / <latin>CUPĪ</latin>(V)ERANT"
+  - tossup:
+      question: "Give the present passive infinitive for <latin>pōnō</latin>, meaning “to be put”."
+      answer: "<latin>PŌNĪ</latin>"
+    boni:
+      - question: "Give the perfect active infinitive for <latin>cēdō</latin>, meaning “to have yielded”."
+        answer: "CESSISSE"
+      - question: "Give the future active infinitive for <latin>mittō</latin>, meaning \"to be about to send\"."
+        answer: "<latin>MISSŪRUS</latin> (-A, -UM ESSE)"
+  - tossup:
+      question: "When you are recognized, please perform the following commands:  Surge et fac sonum canis."
+      answer: "STUDENT STANDS UP AND BARK"
+    boni:
+      - question: "Please perform the following commands:  Manibus super caput <latin>sublātīs</latin>, surge et <latin>ambulā</latin> ad <latin>mē</latin>."
+        answer: "STUDENT RAISES BOTH HANDS ABOVE THE HEAD AND THEN GETS UP & WALKS TO THE MODERATOR"
+      - question: "Please perform the following commands:  Manibus <latin>iūnctīs, pulsāte pavīmentum</latin> pedibus."
+        answer: "STUDENTS JOIN HANDS AND THEN TAP / POUND THE FLOOR WITH THEIR FEET"
+  - tossup:
+      question: "Which daughter of Cadmus and Harmonia was unable to endure the lightning that flashed around her lover Zeus and was killed before she could give birth to Dionysus?"
+      answer: "SEMELE"
+    boni:
+      - question: "Zeus took the unborn child and sewed it into which body part of his?"
+        answer: "THIGH"
+      - question: "To what other daughter of Cadmus and Harmonia, the wife of Athamas, was Dionysus given to rear?"
+        answer: "INO"
+  - tossup:
+      question: "What is the Latin term for the ceremony in which a patron saw his clients in the morning?"
+      answer: "<latin>SALŪTĀTIŌ</latin>"
+    boni:
+      - question: "What Latin term refers to the gift basket of food or money given out to clients?"
+        answer: "SPORTULA"
+      - question: "In what part of the patron’s house did the <latin>salūtātiō</latin> usually take place?"
+        answer: "IN THE ATRIUM / VESTIBULUM"
+  - tossup:
+      question: "Please listen to the following sentences, which I shall read twice, and answer the question that follows"
+      answer: "in Latin: <latin>Multī pīrātae</latin> erant in omnibus partibus maris.  Dum enim <latin>legiōnēs Rōmānae contrā aliōs hostēs</latin> pugnant, <latin>pīrātae</latin> tam <latin>audācēs fīēbant</latin> ut <latin>nōn sōlum nāvēs</latin> sed etiam <latin>īnsulās urbēsque oppugnārent</latin>.  (repeat) The question:  Ubi erant <latin>multī pīrātae</latin>? IN OMNIBUS PARTIBUS MARIS / IN <latin>MARĪ</latin>"
+    boni:
+      - question: "<latin>Legiōnibus Rōmānīs contrā hostēs</latin> pugnantibus, <latin>quālēs pīrātae fīēbant</latin>?"
+        answer: "<latin>AUDĀCĒS</latin>"
+      - question: "<latin>Quās rēs pīrātae oppugnābant, Rōmānīs</latin> absentibus?"
+        answer: "<latin>NĀVĒS / ĪNSULĀS / URBĒS</latin>"
+  - tossup:
+      question: "Yearning for his home and wife, who refused an offer to make him immortal if he would remain on the island of Ogygia?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Name the immortal who had detained Odysseus on Ogygia for seven years."
+        answer: "CALYPSO"
+      - question: "Who was sent to inform Calypso that she must let Odysseus go?"
+        answer: "HERMES"
+  - tossup:
+      question: "What war lasted three years and ended with the Romans systematically burning the city of Carthage for 17 days and utterly destroying all the buildings and walls of the city?"
+      answer: "THIRD PUNIC WAR"
+    boni:
+      - question: "What Roman statesman, who had fought in the Second Punic War, urged the Romans to destroy Carthage by ending his every speech, no matter the topic, with <latin>Carthāgō dēlenda</latin> est?"
+        answer: "CATO THE ELDER // CATO THE CENSOR"
+      - question: "What Numidian king’s repeated encroachment on Carthaginian territory led to Carthaginian retaliations that may have convinced the Romans that Carthage was still a threat?"
+        answer: "MASINISSA"
+  - tossup:
+      question: "What Latin phrase is used in English to mean “proceed expeditiously but prudently” and literally translates as “make haste slowly”?"
+      answer: "<latin>FESTĪNĀ LENTĒ</latin>"
+    boni:
+      - question: "What Latin phrase is used in English to refer to someone who is unique and literally translates as “of his or her own kind”?"
+        answer: "<latin>SUĪ</latin> GENERIS"
+      - question: "“The weather in North Dakota in the summertime is supposed to be much cooler than the rest of the Country, and that’s why I enjoy giving my dog food,” is an example of what Latin phrase that refers to an inference or a statement that does not follow from the premises?"
+        answer: "<latin>NŌN</latin> SEQUITUR"

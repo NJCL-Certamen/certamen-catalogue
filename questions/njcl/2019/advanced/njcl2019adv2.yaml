@@ -1,0 +1,165 @@
+tournament: NJCL Certamen
+year: 2019
+division: Advanced
+round: Round 2
+questions:
+  - tossup:
+      question: "It took blows from Apollo, Euphorbus, and Hector to kill which Greek warrior, who, in an attempt to push the Trojans back, had donned the armor of his great friend Achilles?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "Following the death of Patroclus, who comes from the sea to console Achilles?"
+        answer: "THETIS"
+      - question: "How many Trojans did Achilles kill on Patroclus’ grave at his funeral?"
+        answer: "TWELVE"
+  - tossup:
+      question: "By spreading a false rumor that the emperor had fled to Egypt, whom did the praetorian prefect Nymphidius Sabinus raise to the imperial purple, an act that turned the praetorians against his fellow prefect Tigellinus and the emperor Nero?"
+      answer: "(SER. SULPICIUS) GALBA"
+    boni:
+      - question: "Whom did Galba name as his praetorian prefect, offending Sabinus, who was hoping for sole control of the guard?"
+        answer: "(CORNELIUS) LACO"
+      - question: "Of what emperor did Sabinus then claim to be the son, so that the guard would proclaim him emperor in place of Galba?"
+        answer: "GAIUS (IULIUS CAESAR GERMANICUS) / CALIGULA"
+  - tossup:
+      question: "Which of the following nouns, IF ANY, does not belong with the others because of case? <latin>puerī, virī, agrī, rūrī</latin>"
+      answer: "<latin>RŪRĪ</latin>"
+    boni:
+      - question: "….  <latin>lātitūdine, animālī, castrīs</latin>, mare.</latin>"
+        answer: "<latin>MARE</latin>"
+      - question: "….  <latin>glīs, aetās, salūs, pōns</latin>.</latin>"
+        answer: "SAME CASE / ALL ARE NOMINATIVE"
+  - tossup:
+      question: "Translate the dependent clause in the following sentence into Latin: The sky was so bright that everyone closed their eyes."
+      answer: "<latin>UT <latin>OMNĒS OCULŌS</latin> (<latin>SUŌS</latin>) CLAUDERENT</latin>"
+    boni:
+      - question: "Translate: There were those who did not close their eyes."
+        answer: "<latin>ERANT</latin> [THOSE : <latin>EĪ</latin>/<latin>ALIQUĪ</latin>/<latin>NŌNNŪLLĪ</latin>] <latin>QUĪN / QUĪ NŌN OCULŌS</latin> (<latin>SUŌS</latin>) CLAUDERENT / <latin>CLAUSĒRUNT</latin>"
+      - question: "Translate: Those who did not close their eyes are blind."
+        answer: "[THOSE: <latin>EĪ</latin>/<latin>ILLĪ</latin>] <latin>QUĪ NŌN OCULŌS</latin> (<latin>SUŌS</latin>) <latin>CLAUSĒRUNT</latin>/<latin>CLAUDĒBANT CAECĪ</latin> SUNT</latin>"
+  - tossup:
+      question: "What mythological tribe endured the abduction of Antiope during Heracles’ expedition to obtain the girdle of their queen, Hippolyta?"
+      answer: "AMAZONS"
+    boni:
+      - question: "Name the home city of the Amazons, which was situated at the mouth of the Thermodon River."
+        answer: "THEMISCYRA"
+      - question: "Themiscyra lay on the northern coast of what inland sea, whose eastern end was the site of Colchis?"
+        answer: "BLACK SEA / EUXINE SEA / PONTUS EUXINUS"
+  - tossup:
+      question: "Unlike Caesar who held the title of consul or dictator in each year of his reign over Rome, Augustus applied to himself in perpetuity only the powers of what other Republican magistrate as the basis for his domestic powers?"
+      answer: "TRIBUNE // TRIBUNICIAN POWER / AUTHORITY / <latin>TRIBŪNĪCIA POTESTĀS</latin>"
+    boni:
+      - question: "Give the letter and name for the bust that represents a wife of Augustus."
+        answer: "A – LIVIA"
+      - question: "Give the letter and name for the bust that represents a lover of Hadrian?"
+        answer: "C – ANTINOÜS"
+  - tossup:
+      question: "While only the first speech was verbally delivered in front of the praetor <latin>urbānus</latin>, what series of speeches did Cicero compose against the governor of Sicily on charges of corruption in 70 BC?"
+      answer: "<title><latin>(<latin>ACTIŌNĒS</latin>) IN VERREM</latin> / (SPEECHES) AGAINST VERRES</title>"
+    boni:
+      - question: "What other prominent orator and chief rival of Cicero defended Verres in this trial?"
+        answer: "(Q.) HORTENSIUS (HORTALUS)"
+      - question: "In what complicated case of 81 BC, which is Cicero’s first extant speech, had he also been able to hold his own against Hortensius?"
+        answer: "<latin>PRŌ QUĪNCTIŌ</latin> / ON BEHALF OF / FOR / IN FRONT OF QUINCTIUS"
+  - tossup:
+      question: "What type of infinitive is often used for the imperfect indicative in narration?"
+      answer: "HISTORICAL INFINITIVE"
+    boni:
+      - question: "What type of infinitive is found in the following sentence? <latin>solēbat obtinēre</latin> quod <latin>dēsīderābat</latin>.</latin>"
+        answer: "COMPLEMENTARY INFINITIVE"
+      - question: "What rare type of infinitive is found in the following quotation from The Aeneid? <latin>nōn Libycōs populāre penātīs vēnimus</latin>.</latin>"
+        answer: "INFINITIVE OF PURPOSE"
+  - tossup:
+      question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Correpēns humī</latin>, virginem pulcherrimam <latin>momordī</latin> quae <latin>nūper</latin> uxor <latin>Orpheī</latin> facta erat.</latin>"
+      answer: "<latin>ANGUIS</latin>"
+    boni:
+      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Sī viātor</latin> fessus <latin>fīat</latin>, velit <latin>mē</latin> quaerere ut bene <latin>illīc</latin> dormiat.</latin>"
+        answer: "<latin>CAUPŌNA</latin>"
+      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Nisi <latin>vigilēs</latin> apud <latin>tē</latin> fuissent, omnia quam <latin>vēlōcissimē</latin> rapuissem.</latin>"
+        answer: "<latin>FŪR</latin>"
+  - tossup:
+      question: "When Caesar invaded Italy in 49 BC, across what sea did Pompey flee?"
+      answer: "ADRIATIC (SEA)"
+    boni:
+      - question: "Where in Italy did Caesar capture three legions under Lucius Domitius?"
+        answer: "CORFINIUM"
+      - question: "At what decisive battle did Caesar defeat Pompey’s forces in Greece?"
+        answer: "PHARSALUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Mīrābile dictū, deī</latin> deaeque temporibus <latin>antīquissimīs virōs vīsitābant</latin>.  <latin>Homērus, poēta clārissimus, nōbīs nārrat</latin> deam Minervam <latin>Tēlemachum vīsitāvisse</latin> ad eum hortandum ut patrem eius quaereret.  <latin>Tēlemachus</latin>, autem, quod Minerva <latin>sē aliēnā</latin> veste <latin>occultāverat, nescīvit</latin> deam ipsam <latin>sē vīsitāre</latin>.</latin> The question: <latin>Quis <latin>nōbīs nārrat</latin> deam <latin>Tēlemachum vīsitāvisse</latin>?"
+      answer: "<latin>HOMĒRUS / POĒTA</latin> (<latin>CLĀRISSMUS NŌBĪS NĀRRAT</latin>)</latin>"
+    boni:
+      - question: "<latin>Quid Minerva <latin>Tēlemachum hortāta</latin> est ut faceret?</latin>"
+        answer: "<latin>UT PATREM (EIUS) QUAERERET / <latin>INVENĪRET / REPERĪRET</latin>"
+      - question: "<latin>Cūr Tēlemachus nescīvit</latin> deam ipsam <latin>sē vīsitāre</latin>? QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
+        answer: "<latin>QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
+  - tossup:
+      question: "Degree and agree may differ by only a letter or two, but they come from two different Latin roots. Identify the ultimate Latin roots of both degree and agree."
+      answer: "DEGREE - <latin>GRADIOR / <latin>GRADĪ</latin> // GRADUS</latin>, AGREE - <latin>GRĀTUS</latin>"
+    boni:
+      - question: "The English word “tense” has two distinct meanings. “Tense” can be an aspect of a verb that indicates time, or it can be an adjective that means “rigid or stretched tight.” Both of these meanings come from two different Latin words. Identify the Latin roots for both uses of the word tense."
+        answer: "TENSE (noun) – <latin>TEMPUS</latin>, TENSE (adjective) – <latin>TENDŌ</latin> / TENDERE</latin>"
+      - question: "The English words conserve and deserve also come from two different Latin verbs. However, those Latin verbs both ultimately derive from what Latin noun?"
+        answer: "<latin>SERVUS</latin>"
+  - tossup:
+      question: "What Roman historian describes the laws and customs of the <latin>Ingaevōnēs</latin> and other Germanic tribes in his ethnographic treatise <title><latin>Dē Ōrīgine</latin> et <latin>Sitū Germānōrum</latin>?</latin></title>"
+      answer: "TACITUS"
+    boni:
+      - question: "Tacitus and Pliny the Younger prosecuted what ex-governor of Africa for corruption?"
+        answer: "MARIUS PRISCUS"
+      - question: "In what work does Tacitus stage an imaginary discussion at the house of Curiatus Maternus?"
+        answer: "<title><latin>DIALOGUS <latin>DĒ ŌRĀTŌRIBUS</latin> / DIALOGUE ON ORATORS<title>"
+  - tossup:
+      question: "Complete this analogy: <latin>sparsisse: sparsa esse :: obtulisse: _____</latin>"
+      answer: "<latin>OBLĀTA</latin> ESSE</latin>"
+    boni:
+      - question: "Complete this analogy: <latin>spargō</latin>: sparsus esse :: <latin>tundō</latin> : _____</latin>"
+        answer: "<latin>TŪNSUS</latin>/<latin>TŪSUS</latin> ESSE</latin>"
+      - question: "Complete this analogy: <latin>spargō</latin>: spargere :: geram : _____</latin>"
+        answer: "<latin>GESTŪRUS</latin> (-A/-UM) (ESSE)</latin>"
+  - tossup:
+      question: "What work of Latin literature features the characters Quartilla, Ascyltus, Giton, and Encolpius?"
+      answer: "<title><latin>SATYRICON</latin></title>"
+    boni:
+      - question: "What collection of poems contains the <latin><title><latin>Cīris</latin></title></latin> and the <latin><title><latin>Morētum</latin></title></latin>?"
+        answer: "<title><latin>APPENDIX <latin>VERGILIĀNA</latin> / VERGILIAN APPENDIX</title>"
+      - question: "What author wrote a collection of satires which features the characters Naevolus, Virro, and Umbricius?"
+        answer: "JUVENAL"
+  - tossup:
+      question: "Disturbed by the sudden sound of rustling leaves while cooling himself on a hot day, who threw his unerring spear into a nearby bush, striking and killing his wife Procris?"
+      answer: "CEPHALUS"
+    boni:
+      - question: "After this misfortune, Amphitryon called Cephalus to Thebes, where he hoped to use the grieving husband’s dog Laelaps in order to capture what sort of animal that was ravaging Teumessus?"
+        answer: "VIXEN / FOX"
+      - question: "As payment, Amphitryon promised Cephalus a share in the spoils of a war that had not yet been fought. Specifically, he would gain part of the profits from Amphitryon’s raid against what tribe?"
+        answer: "TAPHIANS / TELEBOANS"
+  - tossup:
+      question: "From what Latin word with what meaning do we derive the English word ammunition?"
+      answer: "<latin>MOENIA</latin> – WALLS // <latin>MŪNIŌ / MŪNĪRE</latin> - BUILD / FORTIFY"
+    boni:
+      - question: "From what Latin word with what meaning do we derive the English word mundane and mound?"
+        answer: "<latin>MUNDUS</latin> - WORLD"
+      - question: "What Latin noun is the ultimate root of common and remunerate?"
+        answer: "<latin>MŪNUS</latin> - GIFT / DUTY"
+  - tossup:
+      question: "What kind of animal helped Psyche sort grains into separate heaps, helped Daedalus thread a shell after he lured it through with a drop of honey, and became human when Aeacus prayed to Zeus for companions?"
+      answer: "ANT(S)"
+    boni:
+      - question: "What did Aeacus call the new men and women who arose from the ants?"
+        answer: "MYRMIDONS"
+      - question: "In the <title>Aeneid</title>, Aeneas’ forces are compared to ants as they load their ships in preparation to leave what city?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī dēsultōrēs, venetōs, bīgās</latin>, et <latin>spīnam vidērent</latin>?"
+      answer: "<latin>(IN) <latin>CIRCŌ</latin> (<latin>MAXIMŌ</latin>)</latin> / (IN THE) CIRCUS (MAXIMUS)"
+    boni:
+      - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī ōllās, titulōs, columbārium</latin>, et <latin>sarcophagōs vidērent</latin>?</latin>"
+        answer: "<latin>(IN) <latin>SEPULCRŌ / TUMULŌ</latin>"
+      - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī</latin> molam, <latin>catīllum, frūmentum</latin>, et <latin>pistōrem invenīrent</latin>?</latin>"
+        answer: "<latin>(IN) <latin>PISTRĪNĀ</latin>"
+  - tossup:
+      question: "What character is Vergil describing in the following lines from the <title>Aeneid</title>? “<latin>Portitor <latin>hās</latin> horrendus <latin>aquās</latin> et <latin>flūmina</latin> servat / <latin>terribilī squālōre</latin>.</latin>”"
+      answer: "CHARON"
+    boni:
+      - question: "In the <title>Aeneid</title>, who says, “<latin>Rēs dūra</latin> et <latin>rēgnī novitās mē tālia cōgunt</latin>/ <latin>mōlīrī</latin>, et <latin>lātē fīnīs custōde tuērī</latin>.</latin>”"
+        answer: "DIDO"
+      - question: "In the <title>Aeneid</title>, shortly after Dido utters those lines, who says: “<latin>Nāte</latin> dea, quae nunc <latin>animō</latin> sententia surgit? Omnia <latin>tūta vidēs</latin>, classem <latin>sociōsque receptōs</latin>.</latin>”"
+        answer: "ACHATES"

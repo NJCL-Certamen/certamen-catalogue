@@ -1,0 +1,165 @@
+tournament: NJCL Certamen
+year: 2022
+division: Advanced
+round: Finals
+questions:
+  - tossup:
+      question: "More often than not, the contingent of moderators running this tournament dislistkes challenges. Some moderators, however, enjoy a good challenge. Describe this challenge that has been given to all of this tournament’s moderators: <latin>Cōnāminī nūllīs quaestiōnibus extrāneīs ūtī!</latin>"
+      answer: "TRY NOT TO USE EXTRA QUESTIONS (CHALLENGE) vel sim."
+    boni:
+      - question: "Now again describe this challenge straight from the moderators’ room. <latin>Cōnāminī haud nimium “Iuvencōs Russōs” haurīre!</latin>"
+        answer: "TRY NOT TO DRINK TOO MANY RED BULLS (CHALLENGE) vel sim."
+      - question: "Now again describe this final challenge, one that we almost fail every year: <latin>Cōnāminī ex harēnā nōn ēicī antequam certāmen fīniātur.</latin>"
+        answer: "TRY NOT TO GET KICKED OUT OF THE ARENA / SAND / ROOM / THEATER / ETC. (BEFORE THE ROUND IS FINISHED CHALLENGE) vel sim"
+  - tossup:
+      question: "What author describes the daily rhythms of the life of a Christian believer from dawn to night by including six hymns sung daily at certain moments in a work titled <title><latin>Cathemerinōn Liber</latin></title>?"
+      answer: "(AURELIUS) PRUDENTIUS (CLEMENS)"
+    boni:
+      - question: "What work of Prudentius derives its name from Greek meaning “about the crowns” and includes 14 hymns in honor of Christian martyrs?"
+        answer: "<title><latin>PERISTEPHANŌN</latin></title>"
+      - question: "What work by Prudentius recounted the dispute around replacing the Altar of Victory in the <latin>cūria</latin>?"
+        answer: "<title><latin>(LIBRĪ) CONTRĀ SYMMACHUM</latin></title>"
+  - tossup:
+      question: "What law, which banned owning ships with the capacity of more than 300 amphorae, was passed at the start of the Second Punic War and forbade senators from engaging in large-scale overseas commerce?"
+      answer: "<latin>LĒX CLAUDIA</latin>"
+    boni:
+      - question: "What law, dated between 339 and 318 BC, formalized the automatic admission of ex-magistrates to the senate for life?"
+        answer: "<latin>LĒX OVĪNIA</latin>"
+      - question: "What early law, sponsored by the consuls of 454 BC, limited the size of fines consuls could impose, as well as letting fines be paid in cattle instead of in bronze?"
+        answer: "<latin>LĒX ĀTERNIA-TARPĒIA</latin>"
+  - tossup:
+      question: "<latin>Audī dīligenter et respondē Latīnē: Dīc — utēns aliīs verbīs — quid significet “nix”</latin>?"
+      answer: "<latin>PRUĪNA // {FRIGIDA / GELĀTA} AQUA CADĒNS DĒ CAELŌ</latin> VEL SIM."
+    boni:
+      - question: "<latin>Audī dīligenter et respondē Latīnē: Dīc — utēns aliīs verbīs — quid significet “epithalamium”</latin>?"
+        answer: "<latin>CARMEN NUPTIĀLE</latin> VEL SIM."
+      - question: "<latin>Audī dīligenter et respondē Latīnē: Dīc — utēns aliīs verbīs — quid significet “ingeminō”</latin>?"
+        answer: "<latin>DĪCŌ {RŪRSUS / ITERUM} // AUGEŌ / MULTIPLICŌ / ITERŌ</latin> VEL SIM."
+  - tossup:
+      question: "A son of Hermaon and Thronia is the presumed eponym of what region, which was given to Aegyptus by his father, Belus, and whose king Emathion was killed by Heracles?"
+      answer: "ARABIA"
+    boni:
+      - question: "Thronia was also the sister of Aegyptus and thus also a daughter of Belus by what woman, a daughter of the river Nile?"
+        answer: "ANCHINOË"
+      - question: "Belus had become sole ruler of Egypt after what twin brother of his migrated to Phoenicia?"
+        answer: "AGENOR"
+  - tossup:
+      question: "For the verb <latin>meō</latin>, give the third person plural, future passive imperative."
+      answer: "<latin>MEANTOR</latin>"
+    boni:
+      - question: "Give the third person singular, future active imperative of the verb <latin>prosum</latin>."
+        answer: "<latin>PRODESTŌ</latin>"
+      - question: "Give the third person plural, future active imperative of the verb <latin>intereō</latin>."
+        answer: "<latin>INTEREUNTŌ</latin>"
+  - tossup:
+      question: "What people, one of whose prophets rode a magical arrow and was named Abaris, included a maiden named Opis and hosted Apollo in the winter in their northern home?"
+      answer: "HYPERBOREANS // HYPERBOREI(OI)"
+    boni:
+      - question: "According to Pindar, Heracles received an olive tree from the land of the Hyperboreans and planted it in what city, where it would be “a shade for [Zeus]’ sacred precinct and a crown of glory for men”?"
+        answer: "OLYMPIA"
+      - question: "Opis, together with what other Hyperborean maiden, came to Delos at the time of Apollo’s and Artemis’ births to give offerings to Eileithyia so that Leto would have a painless delivery?"
+        answer: "ARGE(S)"
+  - tossup:
+      question: "Before the reforms of Marius, members of which Roman social group were — unlike the <latin>assiduī</latin> — excluded from military service due to their lack of property?"
+      answer: "<latin>PRŌLĒTĀRIĪ</latin> / (URBAN) PROLETARIAT / CAPITE CĒNSĪ"
+    boni:
+      - question: "Based on the word’s etymology, what was considered the only contribution of the <latin>prōlētāriī</latin> to the state, since they could not serve in the army?"
+        answer: "CHILDREN / <latin>PRŌLĒS</latin>"
+      - question: "Regardless of the number of <latin>prōlētāriī</latin> in Rome at any given time, how many of the original 193 voting centuries in the <latin>comitia centuriāta</latin> did the <latin>prōlētāriī</latin> make up?"
+        answer: "ONE"
+  - tossup:
+      question: "The Aetolian man Hegio recovers his lost son Philopolemus in what play by Plautus, in which Hegio accidentally trades his long-missing son for Philopolemus in a prisoner exchange?"
+      answer: "(PLAUTUS’) <title><latin>CAPTĪVĪ</latin></title>"
+    boni:
+      - question: "In what comedy of Plautus does an enslaved man dress as a foreigner to sell the parasite Saturio’s daughter into feigned slavery for a huge sum, then have Saturio recover her and make off with the money?"
+        answer: "(PLAUTUS’) <title><latin>PERSA</latin></title>"
+      - question: "In Plautus’ <title><latin>Rudēns</latin></title>, an enslaved man and a fisherman engage in a tug-of-war over what pimp’s sunken chest?"
+        answer: "LABRAX’S"
+  - tossup:
+      question: "Of the words <latin>rogus, quercus, fluvius, reus,</latin> and <latin>mūrus,</latin> which is being described in the following sentence: <latin>Cum Aenēās ex Carthāgine dēsereret, Dīdō in hōc locō ardēbat?</latin>"
+      answer: "<latin>ROGUS</latin>"
+    boni:
+      - question: "From the list in the tossup, <latin>rogus, quercus, fluvius, reus,</latin> and <latin>mūrus,</latin> which is being described in the following sentence: <latin>Haec est rēs quā Aenēās et comitēs ūsī sunt ad puppēs novās faciendās?</latin>"
+        answer: "<latin>QUERCUS</latin>"
+      - question: "From the list in the tossup, <latin>rogus, quercus, fluvius, reus,</latin> and <latin>mūrus,</latin> which is being described in the following sentence: <latin>Est quī in līte requīrat advocātum aut pūblicum aut prīvātum causārum dīcendārum grātiā.</latin>"
+        answer: "<latin>REUS</latin>"
+  - tossup:
+      question: "Listen to the following inscription, which I will read twice as prose, then answer the questions that follow in LATIN: <latin>Vēr tibi contribuat sua mūnera flōrea grāta. Et tibi grāta cōmis nūtet aestīva voluptās. Reddat et autumnus Bacchī tibi mūnera semper. Ac leve hibernī tempus tellūre dīcētur.</latin> (CIL XI 6565). Q: <latin>Quae dōna contribuit vēr?</latin>"
+      answer: "<latin>(SUA GRĀTA) FLŌREA / FLŌRID (MŪNERA) / FLŌRĒS</latin>"
+    boni:
+      - question: "<latin>Quandō vīnum redditur?</latin>"
+        answer: "<latin>(IN) AUTUMNŌ // AUTUMNUS REDDIT {VĪNUM // MŪNERA BACCHĪ}</latin>"
+      - question: "<latin>Pro hīs sententiīs, quid hieme accidet in terrā?</latin>"
+        answer: "<latin>NIHIL / LEVIA / LEVE / LEVIS RĒS</latin> vel sim."
+  - tossup:
+      question: "With support from the Pharisees, what man did Pompey champion over his younger brother Aristobulus as claimant to the Judaean throne in 64 BC?"
+      answer: "JOHN (II) / HYRCANUS (II) // JOHN HYRCANUS (II)"
+    boni:
+      - question: "What Nabataean king also supported John Hyrcanus to the Judaean throne?"
+        answer: "ARETAS (III)"
+      - question: "What socio-religious sect of the Jewish people, generally contrasted with the Pharisees doctrinally, supported Aristobulus to the throne?"
+        answer: "SADDUCEES"
+  - tossup:
+      question: "What author, who repeatedly used the technique of <emphasis>aprosdokēton</emphasis> to end poems, claimed “<latin>hominem pāgina nostra sapit</latin>” in a collection whose twelfth and final book was written just before his death at Bilbilis?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "Martial credited a number of <latin>auctōrēs</latin> as inspirations, including Domitius Marsus, who wrote a poignant epigram on what author’s death in 19 BC?"
+        answer: "(ALBIUS) TIBULLUS"
+      - question: "Martial also cited as an <latin>auctor</latin> what other author, who wrote an epic that probably covered Germanicus’ expeditions near the North Sea?"
+        answer: "ALBINOVANUS PEDO"
+  - tossup:
+      question: "Only prayers by Aeacus relieved the infertility that the gods leveled on Greece after the death of what man, whose limbs were impiously scattered by his murderer, Pelops?"
+      answer: "STYMPHALUS"
+    boni:
+      - question: "Another explanation of the infertility was the treacherous murder of what man, who in one story was killed by an ambush at Thebes after winning all the events at the Panathenaic Games?"
+        answer: "ANDROGEÜS"
+      - question: "What man was said by the people of Stymphalus to have reared Hera and given her three names — Maiden, Bride, and Widow — at various points of her life?"
+        answer: "TEMENUS"
+  - tossup:
+      question: "Susan Schearer is known for the cane she used for many years. As a result, the first World Series of Certamen trophy was the Schearer Stick, which underwent many changes over the years as each team added to it. Using <latin>baculum</latin> for “stick,” say in Latin: “That stick has been changed so much that I don’t recognize it.”"
+      answer: "<latin>ILLUD BACULUM {TAM / ADEŌ / TANTUM} MŪTĀTUM EST, UT NŌN ID {AGNŌSCAM / COGNŌSCAM / AGNŌSCEREM / COGNŌSCEREM}</latin>"
+    boni:
+      - question: "Using a supine, translate into Latin: “We no longer use the stick because it was very difficult to carry.”"
+        answer: "<latin>NŌN IAM BACULŌ ŪTIMUR QUOD (ID) ERAT DIFFICILLIMUM PORTĀTŪ</latin>"
+      - question: "The Schearer Stick, which was used for a decade, has been replaced by a large trophy of a Thumb of Approval. Using <latin>approbātiō</latin> for “approval,” say in Latin: “Perhaps we will use the thumb of approval for ten years.”"
+        answer: "<latin>{FORTASSE ŪTĒMUR // FORSITAN or HAUD SCIŌ AN ŪTĀMUR} POLLICE APPROBĀTIŌNIS DECEM ANNŌS</latin>"
+  - tossup:
+      question: "What suffix is added to forms of the nouns <latin>ops</latin>, <latin>signum</latin>, <latin>lūx</latin>, and <latin>aquila</latin> to indicate someone is carrying those things?"
+      answer: "<latin>-(I)FER</latin>"
+    boni:
+      - question: "Using a different suffix with the same meaning, what Latin word means one who bears defensive military gear, such as a shield?"
+        answer: "<latin>ARMIGER</latin>"
+      - question: "The suffix -<latin>ārius</latin> can denote someone associated with another root Latin noun. Based on the epithet <latin>culicārius</latin>, what was Apollo thought to ward off?"
+        answer: "MOSQUITOES / GNATS / MIDGES / FLIES"
+  - tossup:
+      question: "Before you is a sampling of Latin works — in fact, a list of 15 works all beginning with the preposition “<latin>dē</latin>”! Which of these works, written by an author who was a tribune in the <latin>Legiō Sexta Ferrāta</latin> and stationed in Syria, fills in a theme neglected by Vergil in its section <title><latin>Dē Cultū Hortōrum</latin></title>?"
+      answer: "<title><latin>DĒ ARBORIBUS</latin></title>"
+    boni:
+      - question: "Which of these works was written by an author who claims in book five of that work that he established a basilica at the ancient town of Fanum Fortunae?"
+        answer: "<title><latin>DĒ ARCHITECTŪRĀ</latin></title>"
+      - question: "To what friend of Seneca the Younger was his <title><latin>Dē Beneficiīs</latin></title> dedicated?"
+        answer: "AEBUTIUS LIBERALIS"
+  - tossup:
+      question: "Who became the first man to be chosen as emperor by non-Romans thanks to the support of the Visigothic king Theodoric II, but was quickly rejected by Gaiseric and the Romans themselves, who favored Majorian?"
+      answer: "AVITUS"
+    boni:
+      - question: "At what Visigothic capital was Avitus first proclaimed emperor in July of 455 AD before being officially confirmed at Arles?"
+        answer: "TOULOUSE / <latin>TOLŌSA</latin>"
+      - question: "What contemporary Eastern Roman emperor formally recognized Avitus as emperor?"
+        answer: "MARCIAN"
+  - tossup:
+      question: "Which two of the following five words are derived from the same Latin root: lucrative, reluctant, luxury, prolix, lucubrate."
+      answer: "RELUCTANT & LUXURY"
+    boni:
+      - question: "What Latin word with what meaning is at the ultimate root of “lettuce”?"
+        answer: "<latin>LAC</latin>, MILK"
+      - question: "From what Latin noun with what meaning is “deracinate” derived?"
+        answer: "<latin>RADIX</latin>, ROOT"
+  - tossup:
+      question: "What grandson of Hypseus, who was worshiped on the island of Ceüs as a god of the cooling etesian winds, once made an atoning sacrifice of bulls to the dryads and Orpheus that was left to rot for nine days?"
+      answer: "ARISTAEÜS"
+    boni:
+      - question: "Aristaeüs was also worshiped as a god under the epithets Agrius and Nomius. What do these epithets mean?"
+        answer: "HUNTER and SHEPHERD / PASTORAL"
+      - question: "Near what Thracian mountain did Aristaeüs live before disappearing at the end of his life?"
+        answer: "(MOUNT) HAEMUS"

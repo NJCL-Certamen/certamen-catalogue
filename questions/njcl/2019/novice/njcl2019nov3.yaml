@@ -1,0 +1,165 @@
+tournament: NJCL Certamen
+year: 2019
+division: Novice
+round: Round 3
+questions:
+  - tossup:
+      question: "Using the verb <latin>dīcō</latin>, say in Latin, “it has been said.”"
+      answer: "DICTUM EST"
+    boni:
+      - question: "Using the verb <latin>dūcō</latin> Say in Latin, “you all led.”"
+        answer: "<latin>DŪXISTIS / DŪCĒBĀTIS</latin>"
+      - question: "Using the verb <latin>fugiō</latin> Say in Latin, “they have fled.”"
+        answer: "<latin>FŪGĒRUNT / FŪGĒRE</latin>"
+  - tossup:
+      question: "The principate wasn’t initially created as a strict hereditary monarchy, but by the time of the Flavians, the hereditary principle of succession was well-established.  What alternative principle of succession did Nerva luck into by fortuitously having no children?"
+      answer: "ADOPTION / SELECTION (OF HIS SUCCESSOR)"
+    boni:
+      - question: "What succeeding emperor took it a step further by choosing his successor’s successor as well?"
+        answer: ""
+      - question: "What emperor violated his predecessors’ principle of succession by selection, to Rome’s great loss, when he had the misfortune of having an adult son on the time of his death?"
+        answer: "MARCUS AURELIUS (ANTONINUS)"
+  - tossup:
+      question: "Who is this person? His best friend was called “faithful Achates.” During his well-known journey, he visited Buthrotum, Carthage, and, finally, Italy. He was a son of the goddess Venus and the mortal Anchises."
+      answer: "AENEAS"
+    boni:
+      - question: "What son of Priam did Aeneas meet in Buthrotum?"
+        answer: "HELENUS"
+      - question: "While in Carthage, Aeneas fell in love with what Phoenician queen, whom he eventually abandoned in order to travel to Italy?"
+        answer: "DIDO"
+  - tossup:
+      question: "Which of the following words, ningit, <latin>valēte</latin>, quattuor, nocte would be an appropriate response"
+      answer: "to the question Quaenam <latin>tempestās</latin> est? NINGIT"
+    boni:
+      - question: "Of the items stilus, liber, raeda, <latin>hōrologium</latin>, which would help you answer the question <latin>Quōta</latin>"
+        answer: "<latin>hōra</latin> est? <latin>HŌROLOGIUM</latin>"
+      - question: "And of the items <latin>aurīgam</latin>, tunicam, <latin>culīnam, salūtem, fūrem</latin> which would be an appropriate answer to the question Quid <latin>amīcus</latin> tuus gerit?"
+        answer: "TUNICAM"
+  - tossup:
+      question: "Which of the following Latin words is an adjective: <latin>mīles</latin>, pedes, <latin>dīves, diēs, urbēs</latin>?"
+      answer: "<latin>DĪVES</latin>"
+    boni:
+      - question: "Give the dative singular of <latin>diēs</latin>."
+        answer: "<latin>DIĒĪ</latin>"
+      - question: "Give the accusative plural masculine of <latin>dīves</latin>."
+        answer: "<latin>DĪVITĒS</latin>"
+  - tossup:
+      question: "What emperor married a Christian wife and tolerated Christians for the first 19 years of his reign, but then issued an edict in 303 AD that led to the burning of churches and the destruction of scriptures across the empire?"
+      answer: "(C. AURELIUS VALERIUS) DIOCLETIAN(US)"
+    boni:
+      - question: "Diocletian’s change in policy towards the Christians is often attributed to the influence of which of his fellow tetrarchs?"
+        answer: "(C.) GALERIUS (VALERIUS MAXIMIANUS)"
+      - question: "What tetrarch continued to persecute Christians even after Galerius repented on his death bed?"
+        answer: ""
+  - tossup:
+      question: "Translate <latin>equīs</latin> as used in this Latin sentence: <latin>Leō</latin> celerior <latin>equīs</latin> currere poterat."
+      answer: "THAN THE HORSES"
+    boni:
+      - question: "Now translate:  <latin>Leō cunīculum</latin> currentem capere voluit. THE LION WANTED TO CAPTURE THE RUNNING RABBIT/RABBIT WHICH/THAT WAS RUNNING"
+        answer: ""
+      - question: "Now translate:  <latin>Cunīculus</latin> celerius cucurrerat ."
+        answer: "THE RABBIT HAD RUN TOO QUICKLY/RATHER QUICKLY/MORE QUICKLY"
+  - tossup:
+      question: "What whirlpool near the Strait of Messina was imagined as a female monster that sucked down nearby waters three times daily, eventually belching them forth again?"
+      answer: "CHARYBDIS"
+    boni:
+      - question: "Opposite Charybdis near the Strait of Messina lived what other female monster, whose snaky heads attacked the ships of passing sailors?"
+        answer: "SCYLLA"
+      - question: "In Book XII of Homer’s Odyssey, Odysseus and his crew attempt to navigate the Strait. How many of Odysseus’ sailors does Scylla snatch as they sail past?"
+        answer: "SIX"
+  - tossup:
+      question: "For the sentence, “The architect who is walking to the river gave money to the merchants,” what case and use would “merchants” be, if translated into Latin?"
+      answer: "DATIVE OF INDIRECT OBJECT"
+    boni:
+      - question: "For the same sentence, what case and use would “river” be, if translated into Latin?"
+        answer: "ACCUSATIVE OF PLACE TO WHICH (PROMPT ON “OBJECT OF PREPOSITION”)"
+      - question: "Now translate that full sentence into Latin."
+        answer: "ARCHITECTUS <latin>AMBULĀNS / QUĪ</latin> AMBULAT AD <latin>FLŪMEN</latin> / FLUVIUM / <latin>RĪVUM</latin> / AMNEM <latin>PECŪNIAM MERCĀTŌRIBUS</latin> DABAT / DEDIT"
+  - tossup:
+      question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī animālia, murmillōnēs, rētiāriōs</latin>, et <latin>harēnam</latin>  <latin>vidēbant</latin>?"
+      answer: "(IN) <latin>AMPHITHEĀTRŌ</latin> / (IN THE) AMPHITHEATER / (IN THE) COLOSSEUM // (IN) <latin>CIRCŌ</latin> / (IN THE) CIRCUS"
+    boni:
+      - question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī</latin> templa, <latin>basilicās, cūriam</latin>, et <latin>rōstra vidēbant</latin>?"
+        answer: ""
+      - question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī</latin> mappam, <latin>aurīgās, mētās, equōs</latin>, et <latin>carcerēs vidēbant</latin>?"
+        answer: "(IN) <latin>CIRCŌ</latin> / (AT THE) CIRCUS"
+  - tossup:
+      question: "What derivative of fortis and <latin>faciō</latin> means “to strengthen something to protect it from attack”?"
+      answer: "FORTIFY"
+    boni:
+      - question: "What derivative of fortis means “to make someone do something against their will”?"
+        answer: "FORCE"
+      - question: "What derivative of fortis can be defined as “a state of physical ease”?"
+        answer: "COMFORT / EFFORTLESSNESS"
+  - tossup:
+      question: "According to Ovid’s Metamorphoses, what pair of lovers could only “inhale the breath of each other's mouth” since an “envious wall” stood between their two houses, and so they decided to meet at the tomb of Ninus?"
+      answer: "PYRAMUS AND THISBE"
+    boni:
+      - question: "From what Assyrian town did Pyramus and Thisbe hail?"
+        answer: "BABYLON"
+      - question: "What other pair of tragic lovers were separated by the Hellespont, necessitating a daily midnight swim?"
+        answer: "HERO AND LEANDER"
+  - tossup:
+      question: "What is the Latin for the abbreviation A.U.C.?"
+      answer: "AB URBE <latin>CONDITĀ / ANNŌ</latin> URBIS CONDITAE"
+    boni:
+      - question: "Translate that Latin phrase."
+        answer: "FROM THE FOUNDING OF THE CITY / IN THE YEAR OF THE CITY’S FOUNDING (RESPECTIVELY)"
+      - question: "What is the Latin and English for the abbreviation aet. <latin>AETĀTIS / AETĀTE</latin>, OF THE AGE/AGED"
+        answer: ""
+  - tossup:
+      question: "Tullus Hostilius is credited with building what edifice in the forum that stood until the first century BC and held meetings of the Senate?"
+      answer: "<latin>CŪRIA</latin> (<latin>HOSTĪLIA</latin>)"
+    boni:
+      - question: "What Alban leader did Tullus Hostilius have torn into multiple pieces?"
+        answer: "METTIUS FUFETIUS"
+      - question: "Who succeeded Tullus Hostilius after he died in a fire?"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "What son of Zeus was forced throughout most of his life to serve others because of his impetuous nature that caused him to kill people in anger, hence incurring servitude to atone for said murders, such as the murder of Iphitus?"
+      answer: "HERACLES"
+    boni:
+      - question: "Put these images from Heracles’ life in chronological order, giving us the order by letter."
+        answer: "C E B A D"
+      - question: "Give the letters and the name of the labor for the three images that depict labors that Heracles performed for Eurystheus."
+        answer: "A – CERBERUS, B – (LERNAEAN) HYDRA, E – NEMEAN LION"
+  - tossup:
+      question: "What is the case and reason for the word “sister” in the following sentence: pater meus stolam <latin>sorōrī trādidit</latin>."
+      answer: "DATIVE OF INDIRECT OBJECT"
+    boni:
+      - question: "What is the case and reason for the word “sister” in the following sentence: <latin>sorōrī nōmen</latin> est <latin>Aurēlia</latin>."
+        answer: "DATIVE OF POSSESSION"
+      - question: "What is the case and reason for the word “sister” in the following sentence: ad forum cum <latin>sorōre meā contendō</latin>."
+        answer: "ABLATIVE OF ACCOMPANIMENT"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows:"
+      answer: "Post <latin>cēnam</latin>, agricola <latin>amīcō fābulam dē familiā suā narrābat</latin>.  “Ego sum <latin>fēlīx</latin>,” inquit “quod mea uxor Caecilia est optima!  <latin>Meī amīcī dīcunt</latin> ‘est pulchra!’ sed ego eam <latin>amō</latin> quod <latin>prūdēns</latin> et fortis est.  <latin>Ōlim</latin>, ubi Caecilia in <latin>silvā</latin> cum <latin>līberīs nostrīs</latin> erat, <latin>trēs lupī appropinquāvērunt</latin>.  Mea uxor <latin>nōn</latin> cucurrit, <latin>nōn lacrimāvit</latin>, illa fortiter <latin>clāmāvit</latin> ‘<latin>Abīte, lupī</latin>!’ et <latin>lupī</latin> statim <latin>abiērunt</latin>!” The question:  Why does the farmer love Caecilia? BECAUSE SHE IS BRAVE / STRONG / SENSIBLE / PRUDENT Very good!  Now answer these bonus questions IN LATIN"
+    boni:
+      - question: "Quid <latin>amīcī dē uxōre</latin> agricolae <latin>dīcunt</latin>? EST PULCHRA / (<latin>DĪCUNT</latin>) ESSE PULCHRAM"
+        answer: ""
+      - question: "Quid Caecilia <latin>nōn fēcit</latin> ubi <latin>lupōs vīdit</latin>? <latin>NŌN</latin> CUCURRIT / <latin>NŌN LACRIMĀVIT</latin>"
+        answer: ""
+  - tossup:
+      question: "Because of her troublesome nature, what goddess was not invited to the wedding of Peleus and Thetis, but showed up uninvited and threw a golden apple into the ceremony?"
+      answer: "ERIS / DISCORD"
+    boni:
+      - question: "The apple bore what inscription? Please offer an English translation."
+        answer: "FOR / TO THE FAIREST"
+      - question: "Three goddesses—Athena, Hera, and Aphrodite—all claimed the apple, each thinking herself to be the fairest. What mortal Trojan was ultimately given the task of “judging” which of the three was most beautiful?"
+        answer: "PARIS / ALEXANDER"
+  - tossup:
+      question: "Which of the following words, if any, comes from the same Latin root as the English word gender: digest, gaudy, generation, genial?"
+      answer: "GENERATION"
+    boni:
+      - question: "From what Latin verb do we ultimately derive the English word digest?"
+        answer: "<latin>GERŌ</latin>"
+      - question: "Scholars argue about the derivation of the English word gaudy. Some derive it from the Catalan architect Gaudi’s name; others from the French name of a plant. Still others claim that gaudy derives from what Latin noun?"
+        answer: "GAUDIUM"
+  - tossup:
+      question: "In the late second century large swaths of public land gained since the Second Punic War were held and cultivated by a small number of landholders.  What tribune attempted to rebuild the class of small farmers by enforcing the law that no one could hold more than 500 <latin>iūgera</latin> of public land and redistributing the rest to small farmers?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "Who led the mob that murdered Tiberius Gracchus?"
+        answer: "(P. CORNELIUS) SCIPIO NASICA (SERAPIO)"
+      - question: "Who was Tiberius’ brother-in-law, who assented after the fact to his murder?"
+        answer: ""

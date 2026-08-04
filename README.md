@@ -45,3 +45,7 @@ The following pseudo-html tags are used to indicate that certain text needs deco
 - `<latin></latin>` - indicates Latin or other ancient language text, which the moderator should not be pronouncing like English. In NJCL questions this type of text is **bolded**
 - `<title></title>` - indicates text that is the title of a literary work. In NJCL questions titles are *italicized*
 - `<emphasis></emphasis>` - indicates text that requires emphasis (or text that is the crucial part of a long and interpretive answer). In NJCL questions this type of text is usually <u>underlined</u>
+
+## Issues
+
+Is there an improvement to this project that you'd like to see? You can suggest improvements via the [Issues Tab](https://github.com/NJCL-Certamen/certamen-catalogue/issues) or you can take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines how to contribute the improvement yourself.

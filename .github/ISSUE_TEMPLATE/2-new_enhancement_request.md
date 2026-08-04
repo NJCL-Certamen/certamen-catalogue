@@ -2,7 +2,7 @@
 name: Enhancement Request
 about: Suggest an enhancement for this project. Improve an existing feature
 title: ''
-labels: enhancement
+labels: ''
 assignees: @NJCL-Certamen/theri-s-coder-friends
 ---
 

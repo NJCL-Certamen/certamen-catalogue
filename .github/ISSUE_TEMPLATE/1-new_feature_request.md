@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an idea or possible new feature for this project
 title: ''
 labels: ''
-assignees: @NJCL-Certamen/theri-s-coder-friends
+assignees: ''
 ---
 
 # **🚀 Feature Request**

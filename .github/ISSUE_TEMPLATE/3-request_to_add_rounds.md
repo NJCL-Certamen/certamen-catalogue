@@ -3,7 +3,7 @@ name: Request to Add Round(s)
 about: Request that a particular round or tournament be added to the catalogue
 title: ''
 labels: ''
-assignees: @NJCL-Certamen/theri-s-coder-friends
+assignees: ''
 ---
 
 # **Request to Add Round(s)**

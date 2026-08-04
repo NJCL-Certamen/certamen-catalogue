@@ -4,7 +4,6 @@ about: "Request that a particular round or tournament be added to the catalogue"
 title: ""
 labels: "Type: roundRequest"
 assignees: @NJCL-Certamen/theri-s-coder-friends
-
 ---
 
 # **Request to Add Round(s)**

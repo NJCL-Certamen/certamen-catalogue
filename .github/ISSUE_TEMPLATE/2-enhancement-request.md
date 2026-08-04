@@ -4,7 +4,6 @@ about: "Suggest an enhancement for this project. Improve an existing feature"
 title: ""
 labels: "Type: Enhancement"
 assignees: @NJCL-Certamen/theri-s-coder-friends
-
 ---
 
 # **🚀 Enhancement Request**

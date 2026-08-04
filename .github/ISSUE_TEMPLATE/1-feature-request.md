@@ -4,7 +4,6 @@ about: "Suggest an idea or possible new feature for this project."
 title: ""
 labels: "Type: Feature"
 assignees: @NJCL-Certamen/theri-s-coder-friends
-
 ---
 
 # **🚀 Feature Request**

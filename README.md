@@ -1,6 +1,6 @@
 # Certamen Catalogue
 
-This project is designed to create a central repository for *Certamen* rounds in a format that can be read and used by other applications. Our aim is to facilitate any and all who want to explore the possibilities of combining *Certamen* with technology.
+This project is designed to create a central repository for *Certamen* rounds in a format that can be read and used by other applications. Our aim is to facilitate the work of any and all who want to explore the possibilities of combining *Certamen* with technology.
 
 ## Project Structure
 

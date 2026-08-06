@@ -1,4 +1,4 @@
-tournament: 2022 NJCL Certamen
+tournament: NJCL Certamen
 year: 2022
 division: Advanced
 round: Round 3
@@ -64,9 +64,9 @@ questions:
       answer: "THE CAPTAIN / HELMSMAN / STEERSMAN MUST STEER THE SHIP // THE SHIP MUST BE / IS (ABOUT) TO BE SAILED BY THE HELMSMAN / STEERSMAN / CAPTAIN"
     boni:
       - question: "Now translate this sentence: <latin>Nam scit utrum māne nāvigent</latin>."
-      answer: "FOR (S)HE / THEY KNOW(S) WHETHER THEY (SHOULD / WILL) SAIL / ARE SAILING IN THE MORNING"
+        answer: "FOR (S)HE / THEY KNOW(S) WHETHER THEY (SHOULD / WILL) SAIL / ARE SAILING IN THE MORNING"
       - question: "And translate this sentence: <latin>Ut fāma est, māgna tempestās aequorī diūtissimē minātūra est</latin>."
-      answer: "AS THE STORY / RUMOR IS / GOES, A GREAT STORM WILL / IS ABOUT / GOING TO THREATEN THE SEA FOR A VERY LONG / THE LONGEST TIME"
+        answer: "AS THE STORY / RUMOR IS / GOES, A GREAT STORM WILL / IS ABOUT / GOING TO THREATEN THE SEA FOR A VERY LONG / THE LONGEST TIME"
   - tossup:
       question: "What man, after convincing a Tegean king to join a doomed expedition by giving a lock of Medusa’s hair to Sterope, wrestled the river god Acheloüs for the hand of Deianeira?"
       answer: "HERACLES / HERCULES"

@@ -60,8 +60,8 @@ questions:
       - question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: <latin>Quālis Rōmānus</latin> aut <latin>Rōmāna</latin> tunicam, togam praetextam, et <latin>mulleōs gerēbat</latin>?"
         answer: "<latin>MAGISTRĀTUS / SENĀTOR</latin> / MAGISTRATE / SENATOR"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows:"
-      answer: "<latin>Postrīdiē</latin>, agricola et <latin>amīcus</latin> ad <latin>theātrum ambulāvērunt</latin>.  <latin>Fābula</latin> erat <latin>dē</latin> Hercule et <latin>Leōne Nemaeā</latin>.  In <latin>fābulā, leō āctrīcem oppugnāvit</latin> et <latin>āctrīx clāmāvit</latin>, “Ubi est <latin>Herculēs</latin>? <latin>Herculēs sōlus mē servāre</latin> potest!”  Tum <latin>āctor quī</latin> in <latin>fābulā</latin> erat <latin>Herculēs intrāvit</latin>.  Sed <latin>āctor</latin> erat vir parvus, et <latin>omnēs</latin> in <latin>theātrō magnā vōce rīdēbant</latin>.  Deinde agricola <latin>clāmāvit</latin> “<latin>Nōn</latin> est <latin>Herculēs</latin>, est <latin>rīdiculus mūs</latin>!” The question: In the play, who attacked the actress? (AN ACTOR PLAYING) A/THE (NEMEAN) LION / DUDE IN A LION SUIT (PROMPT ON “ACTOR”)"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Postrīdiē, agricola et amīcus ad theātrum ambulāvērunt.  Fābula erat dē Hercule et Leōne Nemaeā.  In fābulā, leō āctrīcem oppugnāvit et āctrīx clāmāvit, “Ubi est Herculēs? Herculēs sōlus mē servāre potest!”  Tum āctor quī in fābulā erat Herculēs intrāvit.  Sed āctor erat vir parvus, et omnēs in theātrō magnā vōce rīdēbant.  Deinde agricola clāmāvit “Nōn est Herculēs, est rīdiculus mūs</latin>!” The question: In the play, who attacked the actress?"
+      answer: "(AN ACTOR PLAYING) A/THE (NEMEAN) LION / DUDE IN A LION SUIT (PROMPT ON “ACTOR”)"
     boni:
       - question: "Why was everyone in the theater laughing?"
         answer: "BECAUSE THE ACTOR PLAYING HERCULES WAS A SMALL MAN"

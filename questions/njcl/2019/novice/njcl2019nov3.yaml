@@ -132,13 +132,13 @@ questions:
       - question: "What is the case and reason for the word “sister” in the following sentence: ad forum cum <latin>sorōre meā contendō</latin>."
         answer: "ABLATIVE OF ACCOMPANIMENT"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows:"
-      answer: "Post <latin>cēnam</latin>, agricola <latin>amīcō fābulam dē familiā suā narrābat</latin>.  “Ego sum <latin>fēlīx</latin>,” inquit “quod mea uxor Caecilia est optima!  <latin>Meī amīcī dīcunt</latin> ‘est pulchra!’ sed ego eam <latin>amō</latin> quod <latin>prūdēns</latin> et fortis est.  <latin>Ōlim</latin>, ubi Caecilia in <latin>silvā</latin> cum <latin>līberīs nostrīs</latin> erat, <latin>trēs lupī appropinquāvērunt</latin>.  Mea uxor <latin>nōn</latin> cucurrit, <latin>nōn lacrimāvit</latin>, illa fortiter <latin>clāmāvit</latin> ‘<latin>Abīte, lupī</latin>!’ et <latin>lupī</latin> statim <latin>abiērunt</latin>!” The question:  Why does the farmer love Caecilia? BECAUSE SHE IS BRAVE / STRONG / SENSIBLE / PRUDENT Very good!  Now answer these bonus questions IN LATIN"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Post cēnam, agricola amīcō fābulam dē familiā suā narrābat.  “Ego sum fēlīx,” inquit “quod mea uxor Caecilia est optima!  Meī amīcī dīcunt ‘est pulchra!’ sed ego eam amō quod prūdēns et fortis est.  Ōlim, ubi Caecilia in silvā cum līberīs nostrīs erat, trēs lupī appropinquāvērunt.  Mea uxor nōn cucurrit, nōn lacrimāvit, illa fortiter clāmāvit ‘Abīte, lupī!’ et lupī statim abiērunt</latin>!” The question:  Why does the farmer love Caecilia?"
+      anwer: "BECAUSE SHE IS BRAVE / STRONG / SENSIBLE / PRUDENT"
     boni:
-      - question: "Quid <latin>amīcī dē uxōre</latin> agricolae <latin>dīcunt</latin>? EST PULCHRA / (<latin>DĪCUNT</latin>) ESSE PULCHRAM"
-        answer: ""
-      - question: "Quid Caecilia <latin>nōn fēcit</latin> ubi <latin>lupōs vīdit</latin>? <latin>NŌN</latin> CUCURRIT / <latin>NŌN LACRIMĀVIT</latin>"
-        answer: ""
+      - question: "Very good!  Now answer these bonus questions IN LATIN: <latin>Quid amīcī dē uxōre agricolae dīcunt</latin>?"
+        answer: "<latin>EST PULCHRA / (DĪCUNT) ESSE PULCHRAM</latin>"
+      - question: "<latin>Quid Caecilia nōn fēcit ubi lupōs vīdit</latin>?"
+        answer: "<latin>NŌN CUCURRIT / NŌN LACRIMĀVIT</latin>"
   - tossup:
       question: "Because of her troublesome nature, what goddess was not invited to the wedding of Peleus and Thetis, but showed up uninvited and threw a golden apple into the ceremony?"
       answer: "ERIS / DISCORD"

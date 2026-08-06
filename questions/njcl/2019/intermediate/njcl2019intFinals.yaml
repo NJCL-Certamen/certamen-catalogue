@@ -60,8 +60,8 @@ questions:
       - question: "The Thebans told a similar story, however they identified the heroine not as Galanthis, but as what daughter of Tiresias?"
         answer: "HISTORIS"
   - tossup:
-      question: "Please listen to the following epitaph, which I shall read twice, and answer the question that follows in English:"
-      answer: "<latin>vīdī</latin> pȳ<latin>rāmidās</latin> sine <latin>tē</latin>, dulcissime <latin>frāter</latin>, et tibi, quod <latin>potuī, lacrimās hīc</latin> ego maesta <latin>profūdī</latin>, et <latin>nostrī</latin> memorem <latin>lūctūs</latin> hanc <latin>sculpō querēlam</latin>.  sit <latin>nōmen Decimī Gentiānī</latin> pȳ<latin>rāmide altā</latin>, pontificis comitisque <latin>tuīs, Trāiāne, triumphīs</latin>.  (repeat) The question: In what emotional state did the author carve this epitaph? GRIEVING / SAD / MOURNFUL / SORROWFUL"
+      question: "Please listen to the following epitaph, which I shall read twice, and answer the question that follows in English: <latin>vīdī pȳrāmidās sine tē, dulcissime frāter, et tibi, quod potuī, lacrimās hīc ego maesta profūdī, et nostrī memorem lūctūs hanc sculpō querēlam.  sit nōmen Decimī Gentiānī pȳrāmide altā, pontificis comitisque tuīs, Trāiāne, triumphīs</latin>.  (repeat) The question: In what emotional state did the author carve this epitaph?"
+      answer: "GRIEVING / SAD / MOURNFUL / SORROWFUL"
     boni:
       - question: "Who wrote these lines?"
         answer: "THE SISTER OF DECIMUS / GENTIANUS"
@@ -85,7 +85,7 @@ questions:
         answer: "(L. SERGIUS) CATILINA / CATILINE"
   - tossup:
       question: "<latin>Dēscrībāmus</latin> nunc <latin>proprietātēs dictiōnum</latin> in <latin>hāc sententiā</latin>:   Nec verbum <latin>verbō cūrābis</latin> reddere <latin>fīdus</latin> interpres. <latin>Quō cāsū</latin> est “verbum”?"
-      answer: "(IN) <latin>ACCŪSĀTĪVŌ</latin>"
+      answer: "<latin>(IN) ACCŪSĀTĪVŌ</latin>"
     boni:
       - question: "<latin>Quō</latin> tempore est “<latin>cūrābis</latin>”?"
         answer: "(IN) <latin>FUTŪRŌ</latin>"

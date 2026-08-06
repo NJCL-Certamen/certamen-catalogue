@@ -108,8 +108,8 @@ questions:
       - question: "Name those twins, who were abandoned at birth and reared by horse-herders."
         answer: "NELEUS AND PELIAS"
   - tossup:
-      question: "Please listen to the following sentences, which I shall read twice, and answer the question that follows in Latin:"
-      answer: "<latin>Quīdam</latin> vir in <latin>amphitheātrō oculōs</latin> clausit <latin>nē</latin> in <latin>voluptātēs vulgī</latin> incideret.  Utinam <latin>aurēs interclūsisset</latin>!  Nam ubi <latin>ūnus ē gladiātōribus</latin> cecidit et <latin>clāmor</latin> ortus est, ille, <latin>cūriōsitāte</latin> victus, <latin>oculōs</latin> aperuit.  Simulatque <latin>vīdit</latin> sanguinem, <latin>saevitātem</latin> quandam simul imbibit. The question:  <latin>Quō cōnsiliō</latin> vir <latin>oculōs</latin> in <latin>amphitheātrō</latin> clauserat? <latin>NĒ</latin> IN <latin>VOLUPTĀTĒS</latin> (<latin>VULGĪ</latin>) INCIDERET"
+      question: "Please listen to the following sentences, which I shall read twice, and answer the question that follows in Latin: <latin>Quīdam vir in amphitheātrō oculōs clausit nē in voluptātēs vulgī incideret.  Utinam aurēs interclūsisset!  Nam ubi ūnus ē gladiātōribus cecidit et clāmor ortus est, ille, cūriōsitāte victus, oculōs aperuit.  Simulatque vīdit sanguinem, saevitātem quandam simul imbibit</latin>. The question:  <latin>Quō cōnsiliō vir oculōs in amphitheātrō clauserat</latin>?"
+      answer: "<latin>NĒ IN VOLUPTĀTĒS (VULGĪ) INCIDERET</latin>"
     boni:
       - question: "Quid hic vir facere <latin>nōn</latin> potuerat?"
         answer: "<latin>AURĒS INTERCLŪDERE</latin>"

@@ -109,3 +109,6 @@ questions:
         answer: "POURING (SEA)WATER INTO HER LAP"
 ```
 
+## Important Notes
+
+- Please use quotation marks (") around all question and answer fields to avoid issues with colons (:) and other punctuation

@@ -49,12 +49,13 @@ def check_if_tournament_exists(tournament: str, args: argparse.Namespace) -> str
     if completed.returncode != 0:
         return None
     
-    result = completed.stdout.strip()
+    result = completed.stdout.replace('id', '', 1).strip()
     return result if result else None
 
 def build_insert_sql(data: dict[str, Any], args: argparse.Namespace) -> str:
     tournament_name = str(data.get("tournament") or "").strip()
     year = str(data.get("year") or "")
+    division = str(data.get("division") or "")
     round_name = str(data.get("round") or "")
     questions = data.get("questions") or []
 
@@ -67,13 +68,14 @@ def build_insert_sql(data: dict[str, Any], args: argparse.Namespace) -> str:
           f"VALUES ({sql_literal(tournament_id)}, {sql_literal(tournament_name)}) "
           "ON DUPLICATE KEY UPDATE tournament_name = VALUES(tournament_name);"
       )
-    round_id = make_id("round", tournament_name, year, round_name)
+      
+    round_id = make_id("round", tournament_name, year, round_name, division)
 
 
     statements.append(
-        "INSERT INTO round (id, round, year, tournament_id) "
-        f"VALUES ({sql_literal(round_id)}, {sql_literal(round_name)}, {sql_literal(year)}, {sql_literal(tournament_id)}) "
-        "ON DUPLICATE KEY UPDATE round = VALUES(round), year = VALUES(year), tournament_id = VALUES(tournament_id);"
+        "INSERT INTO round (id, round, year, tournament_id, division) "
+        f"VALUES ({sql_literal(round_id)}, {sql_literal(round_name)}, {sql_literal(year)}, {sql_literal(tournament_id)}, {sql_literal(division)}) "
+        "ON DUPLICATE KEY UPDATE round = VALUES(round), year = VALUES(year), tournament_id = VALUES(tournament_id), division = VALUES(division);"
     )
 
     for index, item in enumerate(questions, start=1):
@@ -132,7 +134,8 @@ def import_yaml(yaml_path: Path, args: argparse.Namespace) -> bool:
         print(f"The YAML file {yaml_path} must contain a top-level mapping.", file=sys.stderr)
         return False
 
-    sql = build_insert_sql(data)
+    sql = build_insert_sql(data, args)
+    # print(sql)
     run_sql(sql, args)
     print(f"Imported {len(data.get('questions') or [])} tossups from {yaml_path.name}.")
     return True

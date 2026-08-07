@@ -25,8 +25,9 @@ def parse_args() -> argparse.Namespace:
 def process_dir(dir: Path, args) -> None:
     for item in dir.iterdir():
       if item.is_file():
-        print(f"Processing file {item.name}", file=sys.stdout)
-        import_yaml(item, args)
+        if item.name != "index.yaml":
+          print(f"Processing file {item.name}", file=sys.stdout)
+          import_yaml(item, args)
       elif item.is_dir():
         process_dir(item, args)
 

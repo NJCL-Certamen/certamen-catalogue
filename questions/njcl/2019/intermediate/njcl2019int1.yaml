@@ -132,12 +132,12 @@ questions:
       - question: "In what part of the patron’s house did the <latin>salūtātiō</latin> usually take place?"
         answer: "IN THE ATRIUM / VESTIBULUM"
   - tossup:
-      question: "Please listen to the following sentences, which I shall read twice, and answer the question that follows"
-      answer: "in Latin: <latin>Multī pīrātae</latin> erant in omnibus partibus maris.  Dum enim <latin>legiōnēs Rōmānae contrā aliōs hostēs</latin> pugnant, <latin>pīrātae</latin> tam <latin>audācēs fīēbant</latin> ut <latin>nōn sōlum nāvēs</latin> sed etiam <latin>īnsulās urbēsque oppugnārent</latin>.  (repeat) The question:  Ubi erant <latin>multī pīrātae</latin>? IN OMNIBUS PARTIBUS MARIS / IN <latin>MARĪ</latin>"
+      question: "Please listen to the following sentences, which I shall read twice, and answer the question that follows in Latin: <latin>Multī pīrātae erant in omnibus partibus maris.  Dum enim legiōnēs Rōmānae contrā aliōs hostēs pugnant, pīrātae tam audācēs fīēbant ut nōn sōlum nāvēs sed etiam īnsulās urbēsque oppugnārent</latin>.  (repeat) The question:  <latin>Ubi erant multī pīrātae</latin>?"
+      answer: "<latin>IN OMNIBUS PARTIBUS MARIS / IN MARĪ</latin>"
     boni:
-      - question: "<latin>Legiōnibus Rōmānīs contrā hostēs</latin> pugnantibus, <latin>quālēs pīrātae fīēbant</latin>?"
+      - question: "<latin>Legiōnibus Rōmānīs contrā hostēs pugnantibus, quālēs pīrātae fīēbant</latin>?"
         answer: "<latin>AUDĀCĒS</latin>"
-      - question: "<latin>Quās rēs pīrātae oppugnābant, Rōmānīs</latin> absentibus?"
+      - question: "<latin>Quās rēs pīrātae oppugnābant, Rōmānīs absentibus</latin>?"
         answer: "<latin>NĀVĒS / ĪNSULĀS / URBĒS</latin>"
   - tossup:
       question: "Yearning for his home and wife, who refused an offer to make him immortal if he would remain on the island of Ogygia?"

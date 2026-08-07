@@ -44,8 +44,8 @@ questions:
       - question: "Complete this analogy: <latin>laudātae</latin> estis : <latin>laudāminī</latin> :: <latin>tetigērunt</latin>:: _____."
         answer: "TANGUNT"
   - tossup:
-      question: "(HAND OUT THE VISUAL AND GIVE 5 SECONDS TO INSPECT IT)"
-      answer: "This map shows not one, but three empires into which Europe and Asia Minor were split until what emperor, having overcome the opposition of his predecessor’s brother, Quintillus, brought both of the offshoot empires back under the sway of Rome, earning himself the title <latin>Restitūtor</latin> Orbis?"
+      question: "(HAND OUT THE VISUAL AND GIVE 5 SECONDS TO INSPECT IT) This map shows not one, but three empires into which Europe and Asia Minor were split until what emperor, having overcome the opposition of his predecessor’s brother, Quintillus, brought both of the offshoot empires back under the sway of Rome, earning himself the title <latin>Restitūtor Orbis</latin>?"
+      answer: "(L. DOMITIUS) AURELIAN(US)"
     boni:
       - question: "Give the name of the emperor who ruled the green portion before being dethroned by Aurelian."
         answer: "TETRICUS (II)"
@@ -92,21 +92,21 @@ questions:
       - question: "Name one of the two sects of philosophers that led the opposition to the Flavians?"
         answer: "STOICS / CYNICS"
   - tossup:
-      question: "Now translate:  Quaedam mulier ex <latin>currū</latin> quam <latin>celerrimē</latin> excessit A CERTAIN WOMAN DEPARTED / LEFT THE (FROM) CHARIOT/CAR AS QUICKLY AS POSSIBLE."
-      answer: ""
+      question: "Now translate:  <latin>Quaedam mulier ex currū quam celerrimē excessit</latin>"
+      answer: "A CERTAIN WOMAN DEPARTED / LEFT THE (FROM) CHARIOT/CAR AS QUICKLY AS POSSIBLE."
     boni:
       - question: "Translate this sentence into English:  <latin>Quī cīvium quīnque mulierēs</latin> mittere <latin>cōnstituit</latin>?"
         answer: "WHICH / WHO OF THE CITIZENS DECIDED TO SEND FIVE WOMEN?"
       - question: "Now translate:  <latin>Trēs</latin> ex mulieribus per multa maria <latin>nāvem solvērunt</latin>."
         answer: "THREE OF THE WOMEN SET SAIL THROUGH MANY SEAS"
   - tossup:
-      question: "Listen to the following passage, which I will read twice, and answer IN LATIN the question that follows:"
-      answer: "<latin>Nāvis</latin> quae <latin>plūrimōs diēs</latin> et <latin>noctēs nāvigāverat, dēnique</latin> ad <latin>īnsulam vēnit</latin>.  In <latin>īnsulā</latin> erant <latin>multī bovēs</latin>, et nautae in <latin>nāve</latin> nihil <latin>cibī habēbant</latin>. Itaque nautae <latin>bovēs</latin> interficere et <latin>cēnāre valdē cupiēbant</latin>.  Sed dux <latin>nautārum</latin> inquit, “Scelestum est interficere <latin>hōs bovēs</latin>!  Pontifex <latin>nōs bōbus nocēre</latin> vetuit.  <latin>Sī bovēs ā vōbīs</latin> interficientur, <latin>vōs ipsī interficiēminī</latin>.” The question:  Quid accidet <latin>sī bovēs</latin> interficientur? NAUTAE (<latin>IPSĪ</latin>) INTERFICIENTUR"
+      question: "Listen to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Nāvis quae plūrimōs diēs et noctēs nāvigāverat, dēnique ad īnsulam vēnit.  In īnsulā erant multī bovēs, et nautae in nāve nihil cibī habēbant. Itaque nautae bovēs interficere et cēnāre valdē cupiēbant.  Sed dux nautārum inquit, “Scelestum est interficere hōs bovēs!  Pontifex nōs bōbus nocēre vetuit.  Sī bovēs ā vōbīs interficientur, vōs ipsī interficiēminī</latin>.” The question:  <latin>Quid accidet sī bovēs interficientur</latin>?"
+      answer: "<latin>NAUTAE (IPSĪ) INTERFICIENTUR</latin>"
     boni:
-      - question: "Quid nautae facere <latin>cupiēbant</latin>?"
-        answer: "INTERFICERE <latin>BOVĒS</latin> // <latin>CĒNĀRE</latin> / EDERE / <latin>CŌNSŪMERE</latin> (<latin>BOVĒS</latin>)"
-      - question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Quis est dux <latin>nautārum</latin>?"
-        answer: "ULIXES / ULYSSES"
+      - question: "<latin>Quid nautae facere cupiēbant</latin>?"
+        answer: "<latin>INTERFICERE BOVĒS // CĒNĀRE / EDERE / CŌNSŪMERE (BOVĒS)</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis est dux nautārum</latin>?"
+        answer: "<latin>ULIXES</latin> / ULYSSES"
   - tossup:
       question: "What city witnessed all of the following mythological events: an altar erected to Heracles the Glorious Victor, a youth ransomed with his sister’s veil, an infant bursting into tears at the sight of his father’s helmet, and a defeated warrior dragged three times around its walls."
       answer: "TROY"

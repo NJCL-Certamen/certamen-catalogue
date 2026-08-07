@@ -18,15 +18,15 @@ questions:
       - question: "From what Latin noun with what meaning do we ultimately derive the English word “pontoon”?"
         answer: "<latin>PŌNS</latin> - BRIDGE"
       - question: "From what Latin noun with what meaning do we ultimately derive the English word “pact”?"
-        answer: "PAX – PEACE"
+        answer: "<latin>PAX</latin> – PEACE"
   - tossup:
-      question: "Listen to the following passage, which I will read twice, and answer IN LATIN the question that follows"
-      answer: "Quinque <latin>annōs, Rōmānī</latin> bellum magnum <latin>contrā Graecōs</latin> in <latin>Italiā gerēbant</latin>. <latin>Rēx</latin> Pyrrhus, <latin>imperātor</latin> Graecus, <latin>multīs proeliīs vīcit</latin>, sed <latin>Rōmānōs</latin> vincere <latin>nōn</latin> poterat.  Tandem, Pyrrhus ad urbem Tarentum pedem rettulit, et <latin>Fābricius, imperātor Rōmānus</latin>, castra <latin>Rōmāna</latin> posuit proxima <latin>castrīs Pyrrhī</latin>. The question: Quid Pyrrhus facere <latin>nōn</latin> poterat? (<latin>NŌN</latin> POTERAT) VINCERE <latin>RŌMĀNŌS</latin>"
+      question: "Listen to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Quinque annōs, Rōmānī bellum magnum contrā Graecōs in Italiā gerēbant. Rēx Pyrrhus, imperātor Graecus, multīs proeliīs vīcit, sed Rōmānōs vincere nōn poterat.  Tandem, Pyrrhus ad urbem Tarentum pedem rettulit, et Fābricius, imperātor Rōmānus, castra Rōmāna posuit proxima castrīs Pyrrhī. The question: Quid Pyrrhus facere nōn poterat</latin>?"
+      answer: "<latin>(NŌN POTERAT) VINCERE RŌMĀNŌS</latin>"
     boni:
-      - question: "The passage continues:"
-        answer: "Nocte, medicus <latin>Pyrrhī</latin> ad <latin>Fābricium imperātōrem Rōmānum vēnit</latin>.  “<latin>Prōmittō</latin>,” inquit medicus, “mortem <latin>Pyrrhī venēnō sī tū</latin> mihi multum <latin>aurī</latin> dabis.”  <latin>Fābricius</latin>, autem, medicum ad Pyrrhum <latin>revenīre</latin> iussit. The question: Quid cupit medicus? (CUPIT) AURUM / MULTUM <latin>AURĪ</latin> / PRAEMIUM"
-      - question: "<latin>Medicō audītō</latin>, quid <latin>Fābricius fēcit</latin>?"
-        answer: "<latin>MĪSIT</latin> MEDICUM AD PYRRHUM / IUSSIT MEDICUM AD PYRRHUM <latin>REVENĪRE</latin>"
+      - question: "The passage continues: <latin>Nocte, medicus Pyrrhī ad Fābricium imperātōrem Rōmānum vēnit.  “Prōmittō,” inquit medicus, “mortem Pyrrhī venēnō sī tū mihi multum aurī dabis.”  Fābricius, autem, medicum ad Pyrrhum revenīre iussit</latin>. The question: <latin>Quid cupit medicus</latin>?"
+        answer: "<latin>(CUPIT) AURUM / MULTUM AURĪ / PRAEMIUM</latin>"
+      - question: "<latin>Medicō audītō, quid Fābricius fēcit</latin>?"
+        answer: "<latin>MĪSIT MEDICUM AD PYRRHUM / IUSSIT MEDICUM AD PYRRHUM REVENĪRE</latin>"
   - tossup:
       question: "What case and use is <latin>barbarī</latin> for the sentence, “<latin>Fīlia barbarī</latin> gladium <latin>magnā</latin> cum <latin>cūrā portābat</latin>”?"
       answer: "GENITIVE OF POSSESSION"

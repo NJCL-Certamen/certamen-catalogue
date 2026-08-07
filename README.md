@@ -48,4 +48,4 @@ The following pseudo-html tags are used to indicate that certain text needs deco
 
 ## Issues
 
-Is there an improvement to this project that you'd like to see? You can suggest improvements via the [Issues Tab](https://github.com/NJCL-Certamen/certamen-catalogue/issues) or you can take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines how to contribute the improvement yourself.
+Is there an improvement to this project that you'd like to see? You can suggest improvements via the [Issues Tab](https://github.com/NJCL-Certamen/certamen-catalogue/issues) or you can take a look at [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute the improvement yourself.

@@ -4,7 +4,7 @@ This script is intended to help someone who has cloned this project to convert t
 
 ## Running the Script
 
-From **the root folder** of the project run the following command `/bin/python3 scripts/db/v1/import_questions.py` (your python executable may vary)
+From **the root folder** of the project run the following command `/bin/python3 scripts/db/v1/import_questions.py` (your python executable may vary). If you get an error about 'yaml' not being a module you may need to install pyyaml (`pip install pyyaml`)
 
 ### DB Parameters
 

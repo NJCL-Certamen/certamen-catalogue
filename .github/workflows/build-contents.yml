@@ -9,9 +9,17 @@ permissions:
 
 jobs:
   run-script:
+    if: github.actor != 'Certamen-Automation-Bot[bot]'
     runs-on: ubuntu-latest
 
     steps:
+      - name: Create Github App Token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.BOT_APP_ID }}
+          private-key: ${{ vars.BOT_PRIVATE_KEY }}
+
       - name: Checkout repository code
         uses: actions/checkout@v6
 
@@ -35,8 +43,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           if ! git diff --cached --quiet; then
+            git checkout -b new-index-yaml
             git commit -m "chore: updates index.yaml [skip ci]"
-            git push origin HEAD:main
+            git push origin HEAD:new-index-yaml
+
           else
             echo "No changes detected. Skipping commit."
           fi

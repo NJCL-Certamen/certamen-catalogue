@@ -18,7 +18,7 @@ This skill has been used to convert most of the current YAML files in the reposi
 
 ### Scripts Folder
 
-The `scripts/` folder will hold various scripts that can be used to create, manipulate, or use the YAML round files
+The `scripts/` folder will hold various scripts that can be used to create, manipulate, or use the YAML round files. It currently holds [a script for inserting all existing round yamls into a SQL database](https://github.com/NJCL-Certamen/certamen-catalogue/blob/main/scripts/db/README.md).
 
 ## Certamen Round YAML format
 
@@ -45,6 +45,10 @@ The following pseudo-html tags are used to indicate that certain text needs deco
 - `<latin></latin>` - indicates Latin or other ancient language text, which the moderator should not be pronouncing like English. In NJCL questions this type of text is **bolded**
 - `<title></title>` - indicates text that is the title of a literary work. In NJCL questions titles are *italicized*
 - `<emphasis></emphasis>` - indicates text that requires emphasis (or text that is the crucial part of a long and interpretive answer). In NJCL questions this type of text is usually <u>underlined</u>
+
+## Examples
+
+This project has a companion project [certamen-questions-app](https://github.com/NJCL-Certamen/certamen-questions-app) that can serve as an example for anyone who wants to pull the round files directly from Github using HTTP (instead of inserting them in a database).
 
 ## Issues
 

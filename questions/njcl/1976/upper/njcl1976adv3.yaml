@@ -1,0 +1,156 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Round 3
+questions:
+  - tossup:
+      question: "For what was Midas' father famous?"
+      answer: "HE WAS GORDIAS, WHO TIED THE GORDIAN KNOT"
+    boni:
+      - question: "What was foretold for the man who untied it?"
+        answer: "HE WOULD RULE ASIA"
+      - question: "Did anyone ever untie it?"
+        answer: "NO"
+      - question: "Who cut through it with his sword?"
+        answer: "ALEXANDER"
+  - tossup:
+      question: "Change the verb <latin>malo</latin> to plural."
+      answer: "<latin>MALUMUS</latin>"
+    boni:
+      - question: "Change the verb form <latin>vis</latin> to subjunctive."
+        answer: "<latin>VELIS</latin>"
+      - question: "Change the verb form <latin>ferunt</latin> to singular"
+        answer: "<latin>FERT</latin>"
+      - question: "Change the verb form <latin>suffert</latin> to perfect"
+        answer: "<latin>SUSTULIT</latin>"
+  - tossup:
+      question: "In the <title>Aeneid</title>, to whom does Jupiter address the line, <latin>Parce metu, Cytherea</latin>?"
+      answer: "VENUS"
+    boni:
+      - question: "To whom is spoken the line <latin>Italiam non sponte sequor</latin>?"
+        answer: "DIDO"
+      - question: "What is distinctive about this line in the poem?"
+        answer: "IT IS INCOMPLETE"
+      - question: "True or false: the scansion of the three complete feet in that line is dactyl spondee dactyl."
+        answer: "TRUE"
+  - tossup:
+      question: "Who was invited to join the first triumvirate but refused, leaving the place filled by Crassus?"
+      answer: "CICERO"
+    boni:
+      - question: "What is the meaning of the name Cicero?"
+        answer: "VETCH OR CHICK-PEA"
+      - question: "Who was Cicero's beloved daughter?"
+        answer: "TULLIA"
+      - question: "What was the year of Cicero's birth?"
+        answer: "106 BC"
+  - tossup:
+      question: "Who was cursed with such insatiable hunger that he devoured himself?"
+      answer: "ERYSICTHON"
+    boni:
+      - question: "What deity had he offended?"
+        answer: "DEMETER"
+      - question: "How had he offended her?"
+        answer: "BY CUTTING DOWN A TREE (OR TREES) SACRED TO HER"
+      - question: "What god aided his daughter as she tried to help her father?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What is the genitive of <latin>nemo</latin>?"
+      answer: "<latin>NULLIUS</latin>"
+    boni:
+      - question: "What is the dative of <latin>nemo</latin>?"
+        answer: "<latin>NEMINI</latin>"
+      - question: "What is the ablative of <latin>nemo</latin>?"
+        answer: "<latin>NULLO</latin>"
+      - question: "What is the accusative of <latin>nemo</latin>?"
+        answer: "<latin>NEMINEM</latin>"
+  - tossup:
+      question: "What rhetorical device is the repetition of a word at the beginning of successive clauses?"
+      answer: "ANAPHORA"
+    boni:
+      - question: "What is the device used when Cupid is called <latin>amor</latin> or Ceres <latin>frumentum</latin>?"
+        answer: "METONYMY"
+      - question: "What is the term for the repetition of copulative conjunctions?"
+        answer: "POLYSYNDETON"
+      - question: "What is the term for the omission of copulative conjunctions?"
+        answer: "ASYNDETON"
+  - tossup:
+      question: "How did the plebeians revolt against the patricians in 494 BC?"
+      answer: "THEY LEFT THE CITY AND REFUSED TO WORK"
+    boni:
+      - question: "To what did Menenius compare the roles of the two classes in order to persuade the plebeians to return?"
+        answer: "THE PATRICIANS TO THE STOMACH, THE PLEBEIANS TO THE LIMBS - DEPENDENT ON EACH OTHER"
+      - question: "What legal reform was the result of the secession of the plebeians?"
+        answer: "THE TRIBUNATE"
+      - question: "What temple was built to commemorate the agreement between the two classes?"
+        answer: "THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "Who was the blind prophet of Thebes?"
+      answer: "TEIRESIAS"
+    boni:
+      - question: "What did Teiresias tell Oedipus that Oedipus refused to believe?"
+        answer: "THAT HE HAD KILLED HIS OWN FATHER"
+      - question: "Who was Oedipus' father?"
+        answer: "LAIUS"
+      - question: "Who was the seer of the Greeks at Troy?"
+        answer: "CALCHAS"
+  - tossup:
+      question: "From what adjective does the proper name Letitia come?"
+      answer: "<latin>LAETUS</latin>"
+    boni:
+      - question: "What is its feminine genitive singular?"
+        answer: "<latin>LAETAE</latin>"
+      - question: "What is its masculine genitive plural comparative?"
+        answer: "<latin>LAETIORUM</latin>"
+      - question: "What is its comparative adverb?"
+        answer: "<latin>LAETIUS</latin>"
+  - tossup:
+      question: "Who wrote an epic on the Roman civil war?"
+      answer: "LUCAN"
+    boni:
+      - question: "What was its name?"
+        answer: "<title>THE PHARSALIA</title>"
+      - question: "What was its political slant?"
+        answer: "PRO-REPUBLICAN AND ANTI-CAESAR"
+      - question: "What other writer was Lucan's uncle?"
+        answer: "SENECA"
+  - tossup:
+      question: "What did aurifices make?"
+      answer: "GOLD OBJECTS"
+    boni:
+      - question: "What did eborarii make?"
+        answer: "IVORY OBJECTS"
+      - question: "What did pistores make?"
+        answer: "GRAIN OR BREAD"
+      - question: "What did fabri solearii make?"
+        answer: "SHOES"
+  - tossup:
+      question: "Where was the chief oracle of Zeus?"
+      answer: "DODONA"
+    boni:
+      - question: "What tree was sacred to him there?"
+        answer: "AN OAK"
+      - question: "What form did the prophecy of Zeus take?"
+        answer: "THE RUSTLING OF THE LEAVES"
+      - question: "Who built the oracle at Dodona?"
+        answer: "DEUCALION"
+  - tossup:
+      question: "What is the prose version of the poetic verb inflection <latin>-ere</latin>?"
+      answer: "<latin>-ERUNT</latin>"
+    boni:
+      - question: "What is the variant inflection of the second person singular present passive indicative?"
+        answer: "<latin>-RE</latin> RATHER THAN <latin>-RIS</latin>."
+      - question: "What is the archaic form of the passive infinitive of the first conjugation, as found as late as in Vergil?"
+        answer: "<latin>-ARIER</latin>"
+      - question: "What is this archaic form in the third conjugation?"
+        answer: "<latin>-IER</latin>"
+  - tossup:
+      question: "What Roman historian wrote a biographical work about his father-in-law?"
+      answer: "TACITUS"
+    boni:
+      - question: "What was its title?"
+        answer: "<title>AGRICOLA</title>"
+      - question: "Where was Agricola military governor?"
+        answer: "BRITAIN"
+      - question: "Under what emperor did Agricola serve?"
+        answer: "DOMITIAN"
+        

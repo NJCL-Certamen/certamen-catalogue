@@ -1,0 +1,154 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Semifinals
+questions:
+  - tossup:
+      question: "How many of the Seven Wonders of the Ancient World were in Italy?"
+      answer: "ZERO"
+    boni:
+      - question: "Given that all the Greek islands are in Europe, how many of the Wonders were in Europe?"
+        answer: "TWO - AT OLYMPIA AND RHODES"
+      - question: "How many were in Asia?"
+        answer: "THREE - AT HALICARNASSUS, BABYLON, AND EPHESUS"
+      - question: "How many were in Africa?"
+        answer: "TWO - AT GIZA AND ALEXANDRIA"
+  - tossup:
+      question: "How many letters are there in the Greek alphabet?"
+      answer: "24"
+    boni:
+      - question: "How did the Romans transliterate the Greek theta?"
+        answer: "TH"
+      - question: "How did they transliterate the Greek xi?"
+        answer: "X"
+      - question: "What Latin and English vowels could each have come from either of two vowels in Greek?"
+        answer: "E AND O"
+  - tossup:
+      question: "Who was the only one of the fifty Danaids who did not murder her husband?"
+      answer: "HYPERMNESTRA"
+    boni:
+      - question: "Who was her husband?"
+        answer: "LYNCEUS"
+      - question: "Of what race were they the parents?"
+        answer: "THE ARGIVES (GREEKS)"
+      - question: "What is the fate of they 49 Danaids who killed their husbands?"
+        answer: "FOR ALL ETERNITY THEY MUST DRAW WATER IN SIEVES"
+  - tossup:
+      question: "In the Aeneid, who speaks the line <latin>imperium sine fine dedi</latin>?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who speaks the lines that follow? <latin>Tu regere imperio populos, Romane, memento</latin>?"
+        answer: "THE GHOST OF ANCHISES"
+      - question: "<latin>Tros Tyriusque mihi nullo discrimine agetur</latin>?"
+        answer: "DIDO"
+      - question: "<latin>O fortunati, quorum iam moenia surgunt</latin>?"
+        answer: "AENEAS"
+  - tossup:
+      question: "What was Rome's chief naval station after 31 BC?"
+      answer: "MISENUM"
+    boni:
+      - question: "What trusted advisor to Augustus was the engineer for the construction?"
+        answer: "AGRIPPA"
+      - question: "What was Rome's chief port and first colony?"
+        answer: "OSTIA"
+      - question: "What were Rome's “bread baskets,” the sources of her grain? You must name at least 2."
+        answer: "SICILY, SARDINIA, AND NORTH AFRICA"
+  - tossup:
+      question: "What is the second person plural perfect active indicative of <latin>pono</latin>?"
+      answer: "<latin>POSUISTIS</latin>"
+    boni:
+      - question: "Change <latin>posuistis</latin> to pluperfect."
+        answer: "<latin>POSUERATIS</latin>"
+      - question: "Change <latin>posueratis</latin> to passive."
+        answer: "<latin>POSITI ERATIS</latin>"
+      - question: "Change <latin>positi eratis</latin> to subjunctive: <latin>POSITĪ ESSETIS</latin>"
+  - tossup:
+      question: "What were the <latin>talaria</latin>?"
+      answer: "THE WINGED SANDALS OF HERMES"
+    boni:
+      - question: "Other than Jupiter, who was the Roman god of thunderstorms?"
+        answer: "SUMMANUS"
+      - question: "Who was the Roman god of untilled land?"
+        answer: "SILVANUS"
+      - question: "Who bore the epithet Pluvius in his role as god of rain?"
+        answer: "JUPITER"
+  - tossup:
+      question: "What Roman writer was famous for his epigrams?"
+      answer: "MARTIAL"
+    boni:
+      - question: "What was his full name?"
+        answer: "MARCUS VALERIUS MARTIALIS"
+      - question: "What was another name for Vergil's <title>Eclogues</title>?"
+        answer: "THE <title>BUCOLICS</title>"
+      - question: "Where did Vergil die?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "What was the <latin>Ulpium</latin> in Rome?"
+      answer: "THE FORUM OF TRAJAN"
+    boni:
+      - question: "What was Rome's cattle market?"
+        answer: "THE <latin>FORUM BOARIUM</latin>"
+      - question: "What was the tallest of Rome's seven hills?"
+        answer: "THE QUIRINAL"
+      - question: "At the foot of what hill, directly opposite the Forum, was the <latin>Circus Maximus</latin>?"
+        answer: "THE PALATINE"
+  - tossup:
+      question: "What is an idiomatic English translation of the Latin term, <latin>res frumentaria</latin>?"
+      answer: "GRAIN SUPPLY"
+    boni:
+      - question: "Give an idiomatic translation for the Latin idiom <latin>res gestae</latin>"
+        answer: "ACCOMPLISHMENTS"
+      - question: "Give an idiomatic translation for the Latin idiom <latin>res novae</latin>"
+        answer: "REVOLUTION"
+      - question: "Give an idiomatic translation for the Latin idiom <latin>res publica</latin>"
+        answer: "GOVERNMENT, STATE"
+  - tossup:
+      question: "What creature, whose name means “Phoenician,” played an important role in ancient mythology?"
+      answer: "THE PHOENIX"
+    boni:
+      - question: "What son of Saturn was turned into a woodpecker by Circe for spurning her affections?"
+        answer: "PICUS"
+      - question: "What king was turned into a kingfisher by the gods after he had drowned?"
+        answer: "CEYX"
+      - question: "His grieving wife was also turned into a kingfisher. Who was she?"
+        answer: "ALCYONE or HALCYONE"
+  - tossup:
+      question: "Who wrote works on the Catilinarian conspiracy and the war with Jugurtha?"
+      answer: "SALLUST"
+    boni:
+      - question: "Who wrote the <latin>Lives of the Twelve Caesars</latin>?"
+        answer: "SUETONIUS"
+      - question: "Who was Vergil's fourth century biographer?"
+        answer: "DONATUS"
+      - question: "Who was Vergil's fourth century commentator?"
+        answer: "SERVIUS"
+  - tossup:
+      question: "What event in 70 AD is important in both Roman and Judaic history?"
+      answer: "THE DESTRUCTION OF THE TEMPLE (THE FALL OF JERUSALEM)"
+    boni:
+      - question: "Give the year of the first consulship of Julius Caesar"
+        answer: "59 BC"
+      - question: "Give the year of the first consulship of Cicero"
+        answer: "63 BC"
+      - question: "Give the year of the first consulship of Pompey the Great"
+        answer: "70 BC"
+  - tossup:
+      question: "What son of Priam was killed at the altar by Pyrrhus?"
+      answer: "POLITES"
+    boni:
+      - question: "Which of his sons was killed in Helen's bedroom?"
+        answer: "DEIPHOBUS"
+      - question: "Which of his sons was murdered in Thrace?"
+        answer: "POLYDORUS"
+      - question: "Which of his daughters was sacrificed at the tomb of Achilles by demand of the Greek hero's ghost?"
+        answer: "POLYXENA"
+  - tossup:
+      question: "Who was the Roman Aesop?"
+      answer: "PHAEDRUS, A FIRST CENTURY AD FABULIST"
+    boni:
+      - question: "Who was the author of the <title>Vulgate</title>?"
+        answer: "ST JEROME"
+      - question: "Who wrote the <title>City of God</title> and the <title>Confessions</title>?"
+        answer: "ST AUGUSTINE"
+      - question: "Who wrote the satire on urban life with the city mouse and his country cousin?"
+        answer: "(Q.) HORATIUS (FLACCUS) / HORACE"

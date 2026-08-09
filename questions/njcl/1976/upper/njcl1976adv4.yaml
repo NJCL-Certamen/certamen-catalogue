@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Round 4
+questions: 
+  - tossup:
+      question: "What title refers to works by both Plato and Cicero?"
+      answer: "<title>THE REPUBLIC</title>"
+    boni:
+      - question: "What great philosopher was Plato's mentor?"
+        answer: "SOCRATES"
+      - question: "In what work did Plato reproduce the legal defense of Socrates?"
+        answer: "<title>THE APOLOGY</title>"
+      - question: "Which of Plato's works translates literally as the “drinking party”?"
+        answer: "<title>THE SYMPOSIUM</title>"
+  - tossup:
+      question: "By what process does a prepositional prefix often change its final consonant to blend with the initial consonant of its verb?"
+      answer: "ASSIMILATION"
+    boni:
+      - question: "What form does ab- take as attached to the present system of <latin>fero</latin>?"
+        answer: "AU-"
+      - question: "What happens to trans- as a prefix before a hard consonant?"
+        answer: "THE -NS- DISAPPEARS"
+      - question: "."
+        answer: "Name a prefix that cannot exist by itself as a preposition. SE-, RE-, DIS-, ETC."
+  - tossup:
+      question: "What was the island retreat of the emperor Tiberius?"
+      answer: "CAPRI (CAPREAE)"
+    boni:
+      - question: "How did Capri get its name?"
+        answer: "FROM THE WILD GOATS (CAPRAE) WHICH LIVED THERE"
+      - question: "When Tiberius retreated to Capri, who did he leave in charge in Rome?"
+        answer: "SEJANUS"
+      - question: "How did Sejanus meet his death?"
+        answer: "TIBERIUS HAD HIM EXECUTED FOR CONSPIRACY."
+  - tossup:
+      question: "Cassandra's curse was that she was never heeded, although her prophecies always came true. What had she done to earn this?"
+      answer: "SCORNED THE AFFECTIONS OF APOLLO"
+    boni:
+      - question: "How many sons did Priam have?"
+        answer: "50"
+      - question: "How many daughters?"
+        answer: "12"
+      - question: "Who was the youngest son?"
+        answer: "POLYDORUS"
+  - tossup:
+      question: "What four-word phrase in the first few lines of the Aeneid expresses Vergil's incredulity at the vindictiveness of the gods?"
+      answer: "<latin>TANTAENE ANIMIS CAELESTIBUS IRAE</latin>?"
+    boni:
+      - question: "What poetic device is being used?"
+        answer: "CHIASMUS"
+      - question: "What case is <latin>irae</latin>?"
+        answer: "NOMINATIVE PLURAL"
+      - question: "Line 33 of Book I contains the very Vergilian word <latin>molis</latin> and is a comment on the hardship and grief that accompanied the hero. What is this line?"
+        answer: "<latin>TANTAE MOLIS ERAT ROMANAM CONDERE GENTEM</latin>"
+  - tossup:
+      question: "In what case would find the personal objects of the verb memini?"
+      answer: "GENITIVE"
+    boni:
+      - question: "Of what type of verb are odi and memini examples?"
+        answer: "DEFECTIVE"
+      - question: "In how many tenses do they exist?"
+        answer: "THREE"
+      - question: "Using two defective verbs, translate this sentence into Latin: “I will begin to remember.”"
+        answer: "<latin>COEPERO MEMINISSE</latin>"
+  - tossup:
+      question: "On what hill in Rome would you go to find the Tarpeian Rock?"
+      answer: "THE CAPITOLINE"
+    boni:
+      - question: "Where would you go to find these Roman city landmarks? The Basilica Julia?"
+        answer: "THE FORUM"
+      - question: "The shrine of Aesculapius?"
+        answer: "TIBER ISLAND"
+      - question: "The equestrian statue of Marcus Aurelius?"
+        answer: "THE CAPITOLINE"
+  - tossup:
+      question: "What arrived in the Silver Age to spoil the complete happiness men had known in the Golden Age?"
+      answer: "WOMEN"
+    boni:
+      - question: "Who was the first woman?"
+        answer: "PANDORA"
+      - question: "What does her name mean?"
+        answer: "“ALL GIFTS,” BECAUSE THE GODS HAD GIVEN HER EVERYTHING FOR WHICH WOMEN ARE FAMOUS"
+      - question: "Who was her husband?"
+        answer: "EPIMETHEUS"
+  - tossup:
+      question: "Who was the heroine of Catullus' poetry?"
+      answer: "LESBIA"
+    boni:
+      - question: "Who was she in reality?"
+        answer: "CLODIA"
+      - question: "To what historian did Catullus dedicate his <latin>novum libellum</latin>?"
+        answer: "CORNELIUS NEPOS"
+      - question: "What was Catullus' home city?"
+        answer: "VERONA"
+  - tossup:
+      question: "From what Roman writing substance does our word “paper” come?"
+      answer: "PAPYRUS"
+    boni:
+      - question: "How many letters were in the Classical Latin alphabet?"
+        answer: "23"
+      - question: "Which 2 letters, adjacent in the alphabet, were written in the classical period with the same symbol?"
+        answer: "U AND V"
+      - question: "What languages other than Greek contributed early Latin?"
+        answer: "OSCAN AND ETRUSCAN"
+  - tossup:
+      question: "What rare honor was bestowed an a Vestal Virgin if she died during her term of service?"
+      answer: "BURIAL WITHIN THE CITY WALLS"
+    boni:
+      - question: "What punishment awaited a Vestal Virgin for breaking her vows of chastity?"
+        answer: "BEING BURIED ALIVE"
+      - question: "How many Vestals were chosen each year in imperial Rome?"
+        answer: "6"
+      - question: "Which Roman official selected them?"
+        answer: "THE <latin>PONTIFEX MAXIMUS</latin>"
+  - tossup:
+      question: "Who sits forever in Pluto's chair of forgetfulness?"
+      answer: "PEIRITHOUS"
+    boni:
+      - question: "Who had accompanied him to Hades?"
+        answer: "THESEUS"
+      - question: "What was their mission there?"
+        answer: "PEIRITHOUS WANTED TO CARRY OFF PERSEPHONE"
+      - question: "Who freed Theseus from the chair, but was unable to free Peirithous?"
+        answer: "HERCULES"
+  - tossup:
+      question: "What emperor ruled from 161 to 180 AD?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What was the name of his philosophical works?"
+        answer: "THE MEDITATIONS"
+      - question: "What emperor, in power in the late third century AD, set up wage and price controls in a vain effort to stabilize the Empire's economy?"
+        answer: "DIOCLETIAN"
+      - question: "What was the most important effect of Caracalla's edict of 212?"
+        answer: "UNIVERSAL CITIZENSHIP FOR FREE-BORN MALES IN THE EMPIRE"
+  - tossup:
+      question: "Who was sent to fetch Odysseus for the Greek army and refused to be taken in by Odysseus' pretense of insanity?"
+      answer: "He was later the victim of a “frame-up” by Odysseus and was executed by the Greeks. PALAMEDES"
+    boni:
+      - question: "( What did Odysseus do in his pretense of insanity?"
+        answer: "PLOWED HIS FIELD AND SOWED SALT"
+      - question: "What did Palamedes do to prove him sane?"
+        answer: "PUT THE INFANT TELEMACHUS IN THE PATH OF THE PLOW"
+      - question: "Who was Odysseus' father?"
+        answer: "LAERTES"
+  - tossup:
+      question: "Where did 300 Spartans try to resist the Persians?"
+      answer: "THERMOPYLAE"
+    boni:
+      - question: "Who led them?"
+        answer: "LEONIDAS"
+      - question: "Who led the Persians?"
+        answer: "XERXES"
+      - question: "What naval victory for the Greeks followed soon afterwards?"
+        answer: "SALAMIS"

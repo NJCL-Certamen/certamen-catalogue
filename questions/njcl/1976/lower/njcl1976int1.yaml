@@ -1,0 +1,149 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 1
+questions:
+  - tossup:
+      question: "What are the Latin words which mean in English a legal summons and imply a penalty for refusal?"
+      answer: "<latin>SUB POENA</latin>"
+    boni:
+      - question: "What English word meaning “improve” comes from <latin>melior</latin>?"
+        answer: "AMELIORATE"
+      - question: "The Latin word for “herd” produced the Latin word for “money” because a man's wealth was measured by his livestock. What are these two words?"
+        answer: "<latin>PECUS</latin> and <latin>PECUNIA</latin>"
+  - tossup:
+      question: "What is the first person singular future indicative of the verb <latin>eo</latin>?"
+      answer: "<latin>IBO</latin>"
+    boni:
+      - question: "What is the plural active imperative of <latin>fero</latin>?"
+        answer: "<latin>FERTE</latin>"
+      - question: "What is the superlative form of <latin>celeriter</latin>?"
+        answer: "<latin>CELERRIME</latin>"
+      - question: "What is the Latin phrase for “as quickly as possible”?"
+        answer: "QUAM CELERRIME</latin>"
+  - tossup:
+      question: "Why do we remember August 24, 79 AD?"
+      answer: "THE ERUPTION OF VESUVIUS"
+    boni:
+      - question: "Why do we remember 753 BC?"
+        answer: "THE FOUNDING OF ROME"
+      - question: "Why do we remember 146 BC?"
+        answer: "THE FALL OF CARTHAGE AND CORINTH"
+      - question: "Why do we remember 476 AD?"
+        answer: "THE END OF THE WESTERN EMPIRE"
+  - tossup:
+      question: "Who was the Roman god of wine?"
+      answer: "BACCHUS"
+    boni:
+      - question: "Who was Bacchus' mother?"
+        answer: "SEMELE"
+      - question: "Who was his father?"
+        answer: "JUPITER"
+      - question: "Who was his mortal foster father?"
+        answer: "SILENUS"
+  - tossup:
+      question: "For what Latin words does the abbreviation NB stand?"
+      answer: "<latin>NOTA BENE</latin>"
+    boni:
+      - question: "What does the abbreviation ad lib stand for?"
+        answer: "<latin>AD LIBITUM</latin>"
+      - question: "What does the abbreviation AD stand for?"
+        answer: "<latin>ANNO DOMINI</latin>"
+      - question: "What does the abbreviation q.v. stand for?"
+        answer: "<latin>QUOD VIDE</latin>"
+  - tossup:
+      question: "What is the future participle of <latin>esse</latin>?"
+      answer: "<latin>FUTURUS</latin>"
+    boni:
+      - question: "What is its perfect infinitive?"
+        answer: "<latin>FUISSE</latin>"
+      - question: "What is its second person plural subjunctive present?"
+        answer: "<latin>SITIS</latin>"
+      - question: "What is its first person singular subjunctive imperfect?"
+        answer: "<latin>ESSEM</latin>"
+  - tossup:
+      question: "On which hill of Rome was Tiberius' palace?"
+      answer: "PALATINE"
+    boni:
+      - question: "Name three of the other six."
+        answer: "QUIRINAL, ESQUILINE, VIMINAL, CAELIAN, CAPITOLINE, AVENTINE"
+  - tossup:
+      question: "Who threw the golden apple that led to the Trojan War?"
+      answer: "ERIS / DISCORDIA"
+    boni:
+      - question: "Who was first asked to be the judge?"
+        answer: "ZEUS / JUPITER"
+      - question: "Where did the deities find Paris?"
+        answer: "MT. IDA"
+      - question: "Who threw a golden apple to Atalanta?"
+        answer: "HIPPOMENES / MELANION"
+  - tossup:
+      question: "The golden apple thrown by Eris had “for the fairest” inscribed on it. Though it is three words in English, what one Latin word would say the same?"
+      answer: "<latin>FORMOSISSIMAE (PULCHERRIMAE, BELLISSIMAE</latin>, etc)"
+    boni:
+      - question: "What Latin word means “today”?"
+        answer: "<latin>HODIE</latin>"
+      - question: "What Latin word means “yesterday”?"
+        answer: "<latin>HERI</latin>"
+      - question: "What Latin word means “tomorrow”?"
+        answer: "<latin>CRAS</latin>"
+  - tossup:
+      question: "What English word comes from <latin>cras</latin>?"
+      answer: "PROCRASTINATE"
+    boni:
+      - question: "What praenomen is abbreviated T?"
+        answer: "TITUS"
+      - question: "What praenomen is abbreviated P?"
+        answer: "PUBLIUS"
+      - question: "What praenomen is abbreviated Q?"
+        answer: "QUINTUS"
+  - tossup:
+      question: "Who was the great delayer against Hannibal?"
+      answer: "Q. FABIUS MAXIMUS “CUNCTATOR”"
+    boni:
+      - question: "Where was Hannibal's great defeat in 202 BC?"
+        answer: "ZAMA"
+      - question: "What king of Syria did Hannibal encourage against Rome?"
+        answer: "ANTIOCHUS"
+      - question: "What name was given to Scipio to commemorate his victories against Carthage?"
+        answer: "AFRICANUS"
+  - tossup:
+      question: "Who was the architect of the Labyrinth?"
+      answer: "DAEDALUS"
+    boni:
+      - question: "Who was his son?"
+        answer: "ICARUS"
+      - question: "Who lived in the Labyrinth?"
+        answer: "THE MINOTAUR"
+      - question: "On what island was the Labyrinth located?"
+        answer: "CRETE"
+  - tossup:
+      question: "What is the first person singular active perfect indicative of iacio?"
+      answer: "IECI"
+    boni:
+      - question: "What is its third person plural active present subjunctive?"
+        answer: "IACIANT"
+      - question: "What is its first person plural active future indicative?"
+        answer: "IACIEMUS"
+      - question: "What is its third person singular perfect passive indicative with a feminine subject?"
+        answer: "IACTA EST"
+  - tossup:
+      question: "Who was raped by Sextus Tarquinius?"
+      answer: "LUCRETIA"
+    boni:
+      - question: "Who was Sextus' father?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "What was the result of this insult?"
+        answer: "THE TARQUINS WERE DRIVEN FROM ROME AND THE REPUBLIC WAS BORN."
+      - question: "What year did the expulsion take place?"
+        answer: "510 BC"
+  - tossup:
+      question: "What Phaeacian princess helped Odysseus?"
+      answer: "NAUSICAÄ"
+    boni:
+      - question: "What was Odysseus' next stop after Phaeacia?"
+        answer: "ITHACA"
+      - question: "With whom did Odysseus spend seven years?"
+        answer: "CALYPSO"
+      - question: "What people on his route were cannibals?"
+        answer: "THE LAESTRYGONIANS"

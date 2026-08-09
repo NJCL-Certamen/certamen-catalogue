@@ -1,0 +1,153 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Semifinals
+questions:
+  - tossup:
+      question: "How did the Romans preserve oysters?"
+      answer: "WASHED IN VINEGAR, PACKED IN PITCH-SEALED JARS"
+    boni:
+      - question: "What were the <latin>haruspicēs</latin>?"
+        answer: "PRIESTS WHO TOLD THE FUTURE BY ANIMAL ENTRAILS"
+      - question: "What was the <latin>praefectus annonae</latin> in charge of?"
+        answer: "GRAIN SUPPLY"
+      - question: "In Roman art, what garment would an artist use to depict a barbarian?"
+        answer: "TROUSERS / LONG-SLEEVED TUNIC"
+  - tossup:
+      question: "What are the principal parts of <latin>vetō</latin>?"
+      answer: "<latin>vetō, vetāre, vetui, vetitus</latin>"
+    boni:
+      - question: "Do the verb <latin>ferō</latin> and the noun <latin>ferrum</latin> have any parts in common?"
+        answer: "NO"
+      - question: "By spelling only do the verb <latin>ferō</latin> and the verb <latin>feriō</latin> have any parts in common?"
+        answer: "YES (1st person plural active indicative)"
+      - question: "Do the verb <latin>ferō</latin> and the adjective <latin>ferus</latin> have any parts in common?"
+        answer: "YES"
+  - tossup:
+      question: "What goddess was so remorseful over the horrors of the Iron Age that Jupiter placed her in the stars as the constellation <latin>Virgo</latin>?"
+      answer: "ASTRAEA"
+    boni:
+      - question: "How did Jason die?"
+        answer: "CRUSHED UNDER HIS SHIP / BY FALLING BEAM"
+      - question: "Who was the Noah of Greek Mythology?"
+        answer: "DEUCALION"
+      - question: "Who was Deucalion's wife?"
+        answer: "PYRRHA"
+  - tossup:
+      question: "What Roman king first bridged the Tiber?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "He also established Rome's first colony, what was it?"
+        answer: "OSTIA"
+      - question: "By what sign did Tarquin the 1st know he would become king of Rome?"
+        answer: "AN EAGLE TOOK HIS HAT OFF HIS HEAD AND THEN PUT IT BACK"
+      - question: "Who was widowed on the Ides of March?"
+        answer: "CALPURNIA"
+  - tossup:
+      question: "What is the antonym of <latin>semper</latin>?"
+      answer: "<latin>NUMQUAM</latin>"
+    boni:
+      - question: "Give an antonym of <latin>socius</latin>"
+        answer: "<latin>HOSTIS</latin>"
+      - question: "Give an antonym of <latin>gravis</latin>"
+        answer: "<latin>LEVIS</latin>"
+      - question: "Give an antonym of <latin>vacuus</latin>."
+        answer: "<latin>PLENUS</latin>"
+  - tossup:
+      question: "Who brought the curse to the house of Atreus?"
+      answer: "TANTALUS"
+    boni:
+      - question: "What was Atreus' crime?"
+        answer: "FEEDING THYESTES THE FLESH OF HIS CHILDREN"
+      - question: "What was Tantalus' punishment?"
+        answer: "SAT WITHIN REACH OF FOOD AND DRINK BUT WAS UNABLE TO EAT OR DRINK"
+      - question: "What region of Hades does Tantalus share with Sisyphus and Ixion?"
+        answer: "Tartarus"
+  - tossup:
+      question: "What race provided the first wives of the early Romans?"
+      answer: "SABINES"
+    boni:
+      - question: "What Sabine girl betrayed the city for the trinkets on the enemy soldiers' arms?"
+        answer: "TARPEIA"
+      - question: "What was her punishment?"
+        answer: "DEATH / THROWN FROM TARPEIAN ROCK"
+      - question: "What Sabine shared the throne with Romulus?"
+        answer: "TITUS TATIUS"
+  - tossup:
+      question: "Give an idiomatic, not literal, translation of the phrase <latin>imperata facere</latin>."
+      answer: "TO OBEY ORDERS"
+    boni:
+      - question: "Give an idiomatic translation of the phrase <latin>iter facere</latin>"
+        answer: TO MARCH
+      - question: "Give an idiomatic translation of the phrase <latin>potestatem facere</latin>"
+        answer: TO GIVE AN OPPORTUNITY // TO MAKE POSSIBLE
+      - question: "Give an idiomatic translation of the phrase <latin>verba facere</latin>"
+        answer: TO SPEAK / TALK
+  - tossup:
+      question: "Where was Rome's official mint?"
+      answer: "TEMPLE OF JUNO MONETA"
+    boni:
+      - question: "What were the <latin>metae</latin> in the Circus?"
+        answer: "END POSTS ON THE <latin>SPINA</latin>"
+      - question: "What Roman symbol of unity used to appear on the American dime?"
+        answer: "<latin>FASCĒS</latin>"
+      - question: "What were the entrance and exit gates to the Colosseum called?"
+        answer: "<latin>VOMITORIA</latin>"
+  - tossup:
+      question: "What is the English translation for the Latin proverb <latin>bīs dat quī citō dat</latin>"
+      answer: "HE GIVES TWICE WHO GIVES QUICKLY"
+    boni:
+      - question: "What is the Latin idiom for “to pitch camp”?"
+        answer: "<latin>CASTRA PONERE</latin>"
+      - question: "What is the Latin idiom for “to wage war”?"
+        answer: "<latin>BELLUM GERERE / INFERRE</latin>"
+      - question: "What is the Latin idiom for “to set sail”?"
+        answer: "<latin>VELUM DARE</latin>"
+  - tossup:
+      question: "Who was the son of Hector?"
+      answer: "ASTYANAX / SCAMANDRIUS"
+    boni:
+      - question: "Who was the son of Achilles?"
+        answer: "PYRRHUS / NEOPTOLEMUS"
+      - question: "Who was the son of Aeneas?"
+        answer: "ASCANIUS / IULUS / SILVIUS"
+  - tossup:
+      question: "From what battle site did Caesar send his famous message “<latin>veni, vidi, vici</latin>”?"
+      answer: "ZELA"
+    boni:
+      - question: "Who was the mother of the Gracchi?"
+        answer: "CORNELIA"
+      - question: "What lieutenant of Caesar made an error through fear and haste?"
+        answer: CONSIDIUS
+      - question: "How does Caesar refer to himself in his commentaries?"
+        answer: "THIRD PERSON / CAESAR"
+  - tossup:
+      question: "How would you translate <latin>alter...alter</latin>?"
+      answer: "ONE...ANOTHER"
+    boni:
+      - question: "Translate the correlative <latin>tot...quot</latin>"
+        answer: AS MANY AS
+      - question: "Translate the correlative <latin>tantus...quantus</latin>"
+        answer: AS GREAT AS
+      - question: "Translate the correlative <latin>tam...quam</latin>"
+        answer: AS...AS
+  - tossup:
+      question: "What is the name of the 3-headed dog at the gate of Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "What 6-headed monster devoured 6 of Ulysses' men at the Straits of Messina?"
+        answer: "SCYLLA"
+      - question: "What monster is contained in the Labyrinth at Crete?"
+        answer: "MINOTAUR"
+      - question: "What was the 3-headed monster slain by Hercules?"
+        answer: "GERYON"
+  - tossup:
+      question: What office did Cicero hold when he delivered his orations against Catiline?
+      answer: "<latin>CONSUL</latin>"
+    boni:
+      - question: "Give the Latin for the office of provincial governor."
+        answer: "<latin>PROPRAETOR / PROCONSUL</latin>"
+      - question: "Give the Latin for the office in charge of population count."
+        answer: "<latin>CENSOR</latin>"
+      - question: "Give the Latin for the office in charge of games."
+        answer: "<latin>AEDILIS</latin>"

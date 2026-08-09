@@ -1,0 +1,147 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Finals
+questions:
+  - tossup:
+      question: "What was Vergil's cognomen?"
+      answer: "MARO"
+    boni:
+      - question: "What praenomen did he share with Ovid?"
+        answer: "PUBLIUS"
+      - question: "What was the year of Vergil's death?"
+        answer: "19 BC"
+      - question: "What two members of Maecenas' literary circle ignored the wishes of the dying Vergil that the Aeneid be burned and published it?"
+        answer: "PLOTIUS TUCCA AND VARIUS RUFUS"
+  - tossup:
+      question: "Which Egyptian god did the Romans and Greeks consider to be the corresponding god to Jupiter and Zeus?"
+      answer: "AMMON"
+    boni:
+      - question: "Five goddesses were called the Appiades because they shared a temple near the Appian Way. Name 2 for 5 points, 4 for 10 points, all 5 for 15 points."
+        answer: "CONCORDIA, MINERVA, PAX, VENUS, AND VESTA"
+  - tossup:
+      question: "What was the special duty of the slave who rode beside the triumphator in his chariot in the triumphal procession?"
+      answer: "HE WHISPERED IN HIS EAR, <latin>HOMINEM TE MEMENTO</latin>."
+    boni:
+      - question: "What Persian king is credited with the unification of the Medes and the Persians into the Persian Empire?"
+        answer: "CYRUS THE GREAT"
+      - question: "What was the title of Xenophon's book on a Persian civil war?"
+        answer: "ANABASIS"
+      - question: "What two royal brothers fought over Persia in the Anabasis?"
+        answer: "CYRUS AND ARTAXERXES (ARSACES)"
+  - tossup:
+      question: "Answering in Latin, tell me what a Roman would look into to see his reflection."
+      answer: "<latin>SPECULUM</latin>"
+    boni:
+      - question: "Translating the English “sightsee” with the Latin verb <latin>spectare</latin>, give three versions of the English sentence, “He went to Rome to sightsee.”"
+        answer: "<latin>VENIT ROMAM UT SPECTARET, VENIT ROMAM AD SPECTANDUM, VENIT ROMAM SPECTATUM</latin>"
+  - tossup:
+      question: "What poet called his beloved “Cynthia”?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "Though much different from Vergil in his attitude toward the Empire, what did Propertius write about Vergil's epic as it was being written?"
+        answer: "<latin>NESCIO QUID MAIUS NASCITUR ILIADE</latin> - SOMETHING GREATER THAN THE ILIAD IS BEING BORN"
+      - question: "In what other Augustan age epic is Aeneas a character?"
+        answer: "<title>METAMORPHOSES</title> (OF OVID)"
+      - question: "What metamorphosis of lifeless objects to living beings was borrowed from Vergil by Ovid?"
+        answer: "THE METAMORPHOSIS OF AENEAS' SHIPS INTO NYMPHS - <title>AENEID</title> IX, <title>METAMORPHOSES</title> XIV"
+  - tossup:
+      question: "What is the literal meaning of the name of the lake which marked the entrance to Hades?"
+      answer: "THE BIRDLESS PLACE"
+    boni:
+      - question: "Two of the three judges of the underworld were brothers. Who was not related to the other two?"
+        answer: "AEACUS"
+      - question: "Who were the other two?"
+        answer: "MINOS AND RHADAMANTHUS"
+      - question: "Who was their brother?"
+        answer: "SARPEDON"
+  - tossup:
+      question: "Whose last words were, <latin>Qualis artifex pereo</latin>?"
+      answer: "NERO"
+    boni:
+      - question: "Whose last words were, <latin>Vae, puto, deus fio</latin>?"
+        answer: "VESPASIAN"
+      - question: "What mad emperor was murdered in 41 AD?"
+        answer: "CALIGULA"
+      - question: "Who was his fourth wife, murdered with him?"
+        answer: "MILONIA (CAESONIA)"
+  - tossup:
+      question: "In old Greek and old Latin, a dual number existed midway between singular and plural. What words in Latin, unsurprisingly enough, maintain what is left of the dual endings?"
+      answer: "AMBO AND DUO"
+    boni:
+      - question: "What is the neuter nominative plural of duo?"
+        answer: "DUO"
+      - question: "What is the masculine dative plural of ambo?"
+        answer: "AMBOBUS"
+      - question: "What is the feminine nominative plural of ambo?"
+        answer: "AMBAE"
+  - tossup:
+      question: "In the Aeneid, with whom do you associate the adjective <latin>fidus</latin>?"
+      answer: "ACHATES"
+    boni:
+      - question: "An ally of Troy, he later settled after the war in Sicily near Mt. Eryx. There he hosted the Aeneadae, helped them bury Anchises, and won the archery contest in the funeral games. Who was he?"
+        answer: "ACESTES"
+      - question: "Who gave Aeneas the prophecy of a sow with thirty young?"
+        answer: "HELENUS"
+      - question: "Who said, <latin>Facilis descensus Averno</latin>?"
+        answer: "THE SIBYL"
+  - tossup:
+      question: "What king, a brother of Sisyphus, had his subjects call him Zeus and was killed by a thunderbolt from the real thing for his impiety?"
+      answer: "SALMONEUS"
+    boni:
+      - question: "Who was caused by Zeus to grow into manhood in a single day so that he could avenge the death of his father Alcmaeon?"
+        answer: "ACARNAN"
+      - question: "A mortal playmate of the child Zeus was changed to stone for calling little Zeus mortal. Who was he?"
+        answer: "CELMUS"
+      - question: "What nymph was turned into a turtle for refusing to attend the wedding of Zeus and Hera?"
+        answer: "CHELONE"
+  - tossup:
+      question: "What emperor was assassinated in 96 AD?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "What ultimate dishonor was then paid him?"
+        answer: "THE <latin>DAMNATIO MEMORIAE</latin>"
+      - question: "Who succeeded him?"
+        answer: "NERVA"
+      - question: "Who did Nerva adopt as a successor?"
+        answer: "TRAJAN"
+  - tossup:
+      question: "What third conjugation verb shares some of its archaic forms with the verb <latin>esse</latin>?"
+      answer: "EDERE - TO EAT"
+    boni:
+      - question: "Even the Romans always talked about the weather but never did anything about it. Translate this Latin phrase: <latin>ningit</latin>"
+        anwer: "IT IS SNOWING"
+      - question: "Translate this Latin phrase: <latin>tonat</latin>"
+        answer: "IT IS THUNDERING."
+      - question: "Translate this Latin phrase: <latin>grandinat</latin>"
+        answer: "IT IS HAILING."
+  - tossup:
+      question: "Whom did Plato call the tenth Muse?"
+      answer: "SAPPHO"
+    boni:
+      - question: "Who wrote <title>The Peloponnesian War</title>?"
+        answer: "THUCYDIDES"
+      - question: "What Greek historian tells the story of King Croesus?"
+        answer: "HERODOTUS"
+      - question: "Who wrote the <title>Politics</title> and the <title>Nicomachean Ethics</title>?"
+        answer: "ARISTOTLE"
+  - tossup:
+      question: "27 Greek forces, the Athenians and the Mycenaeans among them, set sail for Troy from a single Boeotian port with a total of 1116 ships, but we know the port best because of a sacrifice made there. What is this place?"
+      answer: "AULIS"
+    boni:
+      - question: "What was the criminal court of Athens?"
+        answer: "THE AREOPAGUS, NAMED FOR ARES, WHO WAS SUPPOSEDLY TRIED THERE BY HIS FELLOW GODS"
+      - question: "What was the grove where Plato taught?"
+        answer: "ACADEME"
+      - question: "What name is given to columns in the shape of maidens?"
+        answer: "CARYATIDS"
+  - tossup:
+      question: "The House of Atreus is generally thought to be the most accursed in mythology, but the curse actually began 2 generations earlier. Who were the father and grandfather of Atreus?"
+      answer: "HIS FATHER WAS PELOPS, HIS GRANDFATHER TANTALUS"
+    boni:
+      - question: "The crime of Atreus was to kill the children of his brother Thyestes and serve them to him as a main course. What had provoked him to such a crime?"
+        answer: "THE CHILDREN HE KILLED WERE THE PRODUCT OF THE ADULTEROUS LIAISON OF THYESTES AND AEROPE, ATREUS' WIFE."
+      - question: "What queen of Thebes planned to kill Niobe's oldest son, but by mistake killed her own son?"
+        answer: "AEDON, WHO WAS THEN TURNED INTO A NIGHTINGALE."
+      - question: "Who was the cousin of Orestes and Electra who helped them to murder their mother and her lover, and who later married Electra?"
+        answer: "PYLADES"

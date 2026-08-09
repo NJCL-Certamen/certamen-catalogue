@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Round 1
+questions:
+  - tossup:
+      question: "What did the closing of the doors of the Temple of Janus signify?"
+      answer: "PEACE"
+    boni:
+      - question: "What was the mint of ancient Rome?"
+        answer: "THE TEMPLE OF JUNO MONETA"
+      - question: "What twins were honored by a temple in the Forum?"
+        answer: "CASTOR AND POLLUX"
+      - question: "Often called the Gemini, they bore what other name?"
+        answer: "DIOSCURI OR TYNDARIDAE"
+  - tossup:
+      question: "What is the so-called “neuter law” of Latin grammar?"
+      answer: "NOMINATIVE AND ACCUSATIVE CASES ARE IDENTICAL"
+    boni:
+      - question: "What is the nominative plural of <latin>exemplar</latin>?"
+        answer: "<latin>EXEMPLARIA</latin>"
+      - question: "What is the genitive plural of <latin>mare</latin>?"
+        answer: "<latin>MARIUM</latin>"
+      - question: "What is the accusative plural of <latin>locus</latin>?"
+        answer: "<latin>LOCA</latin>"
+  - tossup:
+      question: "What evil king tried to marry Perseus' mother, Danaë, and was later punished with a look at Medusa?"
+      answer: "POLYDECTES"
+    boni:
+      - question: "To whom did Perseus' give Polydectes' throne?"
+        answer: "DICTYS, POLYDECTES' BROTHER AND PERSEUS' FOSTER FATHER."
+      - question: "How did Zeus appear to Danaë to father Perseus?"
+        answer: "A SHOWER OF GOLD"
+      - question: "Who was the father of Danaë, fated to die at the hands of his grandson?"
+        answer: "ACRISIUS"
+  - tossup:
+      question: "What important author was a native of Mantua?"
+      answer: "VERGIL"
+    boni:
+      - question: "How many books are there in his <title>Aeneid</title>?"
+        answer: "12"
+      - question: "How many books are in his <title>Georgics</title>?"
+        answer: "4"
+      - question: "How many books are in his <title>Eclogues</title>?"
+        answer: "10"
+  - tossup:
+      question: "What modern nation corresponds to the Roman province of Illyricum?"
+      answer: "YUGOSLAVIA"
+    boni:
+      - question: "Give me the Roman region that contained all or most of Portugal"
+        answer: "LUSITANIA"
+      - question: "Give me the Roman region that contained all or most of Tunisia"
+        answer: "AFRICA"
+      - question: "Give me the Roman region that contained all or most of Morocco"
+        answer: "MAURETANIA"
+  - tossup:
+      question: "After <latin>si, nisi, num</latin>, and <latin>ne</latin>, what change is produced on the pronoun <latin>aliquis</latin>?"
+      answer: "THE <latin>ALI-</latin> IS DROPPED"
+    boni:
+      - question: "What word begins a Latin question when the expected answer is “Yes”?"
+        answer: "<latin>NONNE</latin>"
+      - question: "What word begins a Latin question when the expected answer is “No”?"
+        answer: "<latin>NUM</latin>"
+      - question: "What tense of the subjunctive is necessary to translate this sentence: “He asked me what I would be doing today”?"
+        answer: "IMPERFECT"
+  - tossup:
+      question: "What daughter of Aeolus committed incest with her brother Macareus and then killed herself at the command of Aeolus?"
+      answer: "CANACE"
+    boni:
+      - question: "Who was the mother of Andromeda?"
+        answer: "CASSIOPEIA"
+      - question: "Spell Cassiopeia."
+        answer: "CASSIOPEIA/CASSIOPEA/CASSIEPEA"
+      - question: "Which deity had Cassiopeia angered with her boasts of beauty?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What people does Vergil refer to as Tyrians?"
+      answer: "CARTHAGINIANS"
+    boni:
+      - question: "What place does Vergil call Sidon?"
+        answer: "CARTHAGE"
+      - question: "Who does Vergil sometimes refer to as Elissa?"
+        answer: "DIDO"
+      - question: "What form of address for Aeneas refers to his status as Venus' son?"
+        answer: "<latin>NATE DEA</latin>"
+  - tossup:
+      question: "By what process could an Athenian citizen be banished from his city-state?"
+      answer: "OSTRACISM"
+    boni:
+      - question: "How did this word come to be derived from ostraka, “potsherds”?"
+        answer: "THE NAMES OF THE CANDIDATES FOR OSTRACISM WERE INSCRIBED ON POTSHERDS FOR THE VOTING PROCESS"
+      - question: "For how long was the Athenian banished?"
+        answer: "TEN YEARS"
+      - question: "Who was ostracized about 470 BC for favoring detente with Sparta?"
+        answer: "THEMISTOCLES"
+  - tossup:
+      question: "What Latin word for a baby refers to his inability to speak?"
+      answer: "<latin>INFANS</latin>"
+    boni:
+      - question: "What term for themselves did the Romans have that referred to their unique style of dress?"
+        answer: "THE <latin>GENS TOGATA</latin>"
+      - question: "The Greeks had a word for someone who didn't speak Greek, and it came to mean a foreigner. The Romans borrowed the word with the latter meaning and its derivative in English has a more pejorative sense than ever. What was the Latin word?"
+        answer: "<latin>BARBARUS</latin>"
+      - question: "What language of the Samnites contributed greatly to early Latin?"
+        answer: "OSCAN"
+  - tossup:
+      question: "At whose wedding did the battle of the Lapiths and Centaurs take place?"
+      answer: "PEIRITHOUS AND HIPPODAMIA"
+    boni:
+      - question: "What wedding of mortal and immortal united the parents of Achilles?"
+        answer: "PELEUS AND THETIS"
+      - question: "How were the festivities marred by the goddess Eris?"
+        answer: "SHE THREW THE GOLDEN APPLE."
+      - question: "What Roman poet wrote a long poem on the wedding?"
+        answer: "CATULLUS"
+  - tossup:
+      question: "To whom did Cicero address his work <title><latin>De Officiis</latin></title>?"
+      answer: "HIS SON, MARCUS"
+    boni:
+      - question: "What is the earliest surviving complete oration of Cicero?"
+        answer: "<latin><title>PRO ROSCIO; PRO QUINCTIO</title></latin> IS EARLIER, BUT FRAGMENTARY"
+      - question: "Titus Pomponius, a companion of Cicero, was given a nickname because of the place of his education. What is this name, by which he is commonly known?"
+        answer: "ATTICUS"
+      - question: "In what incredibly prolific year did Cicero compose many of his philosophical works, including <latin><title>De Consolatione, De Finibus, De Natura Deorum</title></latin>, and the <title>Tusculan Disputations</title>?"
+        answer: "45 BC"
+  - tossup:
+      question: "What year saw four different emperors?"
+      answer: "69 AD"
+    boni:
+      - question: "Who had the first of them succeeded?"
+        answer: "NERO"
+      - question: "Who, the fourth of them, reigned until 79?"
+        answer: "VESPASIAN"
+      - question: "Who were the three in between?"
+        answer: "GALBA, OTHO, VITELLIUS"
+  - tossup:
+      question: "Who, on the road to Athens, killed these villains: Cercyon, Periphates, Phaea, Procrustes, Sciron, and Sinis?"
+      answer: "THESEUS"
+    boni:
+      - question: "How did Procrustes molest travelers?"
+        answer: "THE PROCRUSTEAN BED"
+      - question: "How did Sinis molest travelers?"
+        answer: "HE WAS THE “PINE-BENDER.”"
+      - question: "What had his father Aegeus left for Theseus under a huge rock, so that he would have it only when he was old and strong enough to come to his father's court in Athens?"
+        answer: "A SWORD AND SANDALS"
+  - tossup:
+      question: "Which of Cicero's orations was in defense of a man's claim to citizenship?"
+      answer: "<latin><title>PRO ARCHIA</title></latin>"
+    boni:
+      - question: "Against whom did Cicero address his <title>Philippics</title>?"
+        answer: "MARC ANTONY"
+      - question: "From what Greek orator had he borrowed the title?"
+        answer: "DEMOSTHENES"
+      - question: "Against whom had Demosthenes addressed his <title>Philippics</title>?"
+        answer: "PHILIP OF MACEDON"

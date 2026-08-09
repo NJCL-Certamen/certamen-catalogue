@@ -1,0 +1,153 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Finals
+questions:
+  - tossup:
+      question: "What distinguishes the first person plural present indicative of <latin>venio</latin> from the first person plural perfect indicative?"
+      answer: "THE LONG -E IN THE PERFECT."
+    boni:
+      - question: "What is the perfect infinitive of <latin>respondeo</latin>?"
+        answer: "<latin>RESPONDISSE</latin>"
+      - question: "What is the perfect infinitive of <latin>audeo</latin>?"
+        answer: "<latin>AUSUS ESSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>iubeo</latin>?"
+        answer: "<latin>IUSSISSE</latin>"
+  - tossup:
+      question: "On what nearby town did Tullius Hostilius wage war?"
+      answer: "ALBA LONGA"
+    boni:
+      - question: "Who were the two sets of triplets - one Roman, one Alban, - who fought each other in that war?"
+        answer: "THE ROMANS HORATII, THE ALBANS CURIATII"
+      - question: "Why did Horatia, sister of the Roman triplets, grieve when her brothers were victorious?"
+        answer: "ONE OF THE CURIATII WAS HER BETROTHED."
+      - question: "How did her brother react?"
+        answer: "HE KILLED HER."
+  - tossup:
+      question: "How many Gorgons were there?"
+      answer: "THREE"
+    boni:
+      - question: "Which was mortal?"
+        answer: "MEDUSA"
+      - question: "Which two were immortal?"
+        answer: "EURYALE AND STHENO"
+  - tossup:
+      question: "What is the Latin word for iron?"
+      answer: "<latin>FERRUM</latin>"
+    boni:
+      - question: "Do the verb <latin>fero</latin> and the noun <latin>ferrum</latin> have any parts in common?"
+        answer: "yes FERRI"
+      - question: "By spelling only, do the verbs <latin>fero</latin> and <latin>ferio</latin> have any parts in common?"
+        answer: "YES: FIRST PERSON PLURAL PRESENT ACTIVE INDICATIVE"
+      - question: "Do the adjective <latin>ferus</latin> and the verb <latin>fero</latin> have any parts in common?"
+        answer: "YES: MANY"
+  - tossup:
+      question: "What Roman king first bridged the Tiber?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "He also established the first colony of Rome. What was it?"
+        answer: "OSTIA"
+      - question: "By what sign did Tarquinius Priscus know he would be king?"
+        answer: "AN EAGLE SNATCHED OFF HIS HAT AND THEN REPLACED IT"
+      - question: "Which king, when he was a boy, had his hair catch fire and not burn?"
+        answer: "SERVIUS TULLIUS"
+  - tossup:
+      question: "For the patronage of what city did two gods compete?"
+      answer: "ATHENS"
+    boni:
+      - question: "Which two gods?"
+        answer: "ATHENA AND POSEIDON"
+      - question: "What was Athena’s incentive gift?"
+        answer: "THE OLIVE"
+      - question: "What was Poseidon’s?"
+        answer: "THE HORSE"
+  - tossup:
+      question: "What is the imperative singular of <latin>eo</latin>?"
+      answer: "<latin>I</latin>"
+    boni:
+      - question: "What is the imperative singular of <latin>fero</latin>?"
+        answer: "<latin>FER</latin>"
+      - question: "What is the imperative plural of <latin>audeo</latin>?"
+        answer: "<latin>AUDETE</latin>"
+      - question: "What is the future imperative plural of <latin>habeo</latin>?"
+        answer: "<latin>HABETOTE</latin>"
+  - tossup:
+      question: "What race provided the wives for the early Romans?"
+      answer: "THE SABINES"
+    boni:
+      - question: "What Roman girl betrayed the city for the trinkets on the enemy soldiers’ arms?"
+        answer: "TARPEIA"
+      - question: "What was her fate?"
+        answer: "THE SABINE SOLDIERS CRUSHED HER BENEATH THEIR SHIELDS."
+      - question: "What Sabine king shared the throne of the reconciled peoples with Romulus?"
+        answer: "TITUS TATIUS"
+  - tossup:
+      question: "What immortal fell in love with Endymion?"
+      answer: "DIANA"
+    boni:
+      - question: "Name the divine lover of Tithonus."
+        answer: "AURORA"
+      - question: "Name the divine lover of Alcmene."
+        answer: "ZEUS"
+      - question: "Name the divine lover of Coronis"
+        answer: "APOLLO"
+  - tossup:
+      question: "From what Latin root verb comes the English insurrection?"
+      answer: "<latin>SURGO</latin>"
+    boni:
+      - question: "Which English word in the following is not a derivative of <latin>capio</latin>: captivate, conceive, decapitate, receipt?"
+        answer: "DECAPITATE"
+      - question: "Which English word is not a derivative of <latin>caput</latin>: decapitate, chapter, capitalist, incapacitate?"
+        answer: "INCAPACITATE"
+      - question: "Which English word is not a derivative of <latin>cupio</latin>: concupiscent, concubine, cupidity?"
+        answer: "CONCUBINE"
+  - tossup:
+      question: "What man of the late republic was consul seven times?"
+      answer: "MARIUS"
+    boni:
+      - question: "What was his political party?"
+        answer: "THE <latin>POPULARES</latin>"
+      - question: "What was the opposition?"
+        answer: "<latin>OPTIMATES</latin>"
+      - question: "Through which of Caesar's parents was he the nephew of Marius?"
+        answer: "HIS FATHER"
+  - tossup:
+      question: "What nine-headed monster was slain by Hercules as one of his labors?"
+      answer: "HYDRA"
+    boni:
+      - question: "What three-headed monster was he also sent to kill?"
+        answer: "GERYON"
+      - question: "What monster did he kill for stealing his cattle?"
+        answer: "CACUS"
+      - question: "What six-headed monster devoured six of Odysseus' men at the Straits of Messina?"
+        answer: "SCYLLA"
+  - tossup:
+      question: "What is the antonym of <latin>calor</latin>?"
+      answer: "<latin>FRIGUS</latin>"
+    boni:
+      - question: "Name the Latin antonym of each of <latin>ater</latin>"
+        answer: "<latin>ALBUS</latin>"
+      - question: "Name the Latin antonym of each of <latin>diu</latin>"
+        answer: "<latin>BREVITER</latin>"
+      - question: "Name the Latin antonym of each of <latin>plenus</latin>"
+        answer: "<latin>VACUUS</latin>"
+  - tossup:
+      question: "How many books did Caesar write in his <title>Commentaries on the Gallic Wars</title>?"
+      answer: "SEVEN"
+    boni:
+      - question: "Who added to the work?"
+        answer: "AULUS HIRTIUS"
+      - question: "What other war did Caesar write on?"
+        answer: "THE CIVIL WAR"
+      - question: "How does Caesar refer to himself in the commentaries?"
+        answer: "IN THE THIRD PERSON"
+  - tossup:
+      question: "Who was Tantalus' famous daughter?"
+      answer: "NIOBE"
+    boni:
+      - question: "How many children did she have?"
+        answer: "FOURTEEN"
+      - question: "How many of them were killed as her punishment?"
+        answer: "ALL"
+      - question: "By whom?"
+        answer: "APOLLO AND DIANA"

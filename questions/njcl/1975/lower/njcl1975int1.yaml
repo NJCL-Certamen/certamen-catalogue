@@ -1,0 +1,143 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Round 1
+questions:
+  - tossup:
+      question: "Who offered Death her own life in an effort to save that of her husband Admetus?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "The monster Chimaera had a body with the parts of 3 different animals, which 3?"
+        answer: LION, GOAT, AND SERPENT
+  - tossup:
+      question: "What was the name give to the private study or reception room set aside for the head of the Roman household?"
+      answer: "<latin>TABLINUM</latin>"
+    boni:
+      - question: "What was the name of the toga worn by men running for public office?"
+        answer: "<latin>TOGA CANDIDA</latin>"
+      - question: "What toga did a Roman boy wear until the age of 16 or so?"
+        answer: "<latin>(TOGA) PRAETEXTA</latin>"
+      - question: "What did he wear after the the <latin>toga praetexta</latin>?"
+        answer: "<latin>(TOGA) VIRILIS</latin>"
+  - tossup:
+      question: "What was the date of the formation of the First Triumvirate?"
+      answer: "60 BC"
+    boni:
+      - question: "Name the members of the 2nd Triumvirate."
+        answer: "OCTAVIAN, ANTONY, AND LEPIDUS"
+  - tossup:
+      question: "How do you say “one mile” in Latin?"
+      answer: "<latin>MILLE PASSŪS</latin>
+    boni:
+      - question: "What is the 3rd person singular pluperfect indicative of <latin>sum</latin>?"
+        answer: "<latin>FUERAT</latin>"
+      - question: "What is the 1st person plural pluperfect active indicative of <latin>sedeō</latin>?"
+        answer: "<latin>SEDIMUS</latin>"
+      - question: "What is the 3rd person singular imperfect active indicative of <latin>dicō</latin>?"
+        answer: "<latin>DICERET</latin>"
+  - tossup:
+      question: "What is a <latin>biga</latin>?"
+      answer: "TWO-HORSE CHARIOT"
+    boni:
+      - question: "In 69 AD there were 3 emperors who each ruled only a matter of months; name them."
+        answer: "GALBA, OTHO, AND VITELLIUS"
+  - tossup:
+      question: "What case is usually governed by the adjective <latin>diligens</latin>?"
+      answer: GENITIVE
+    boni:
+      - question: "What is the nominative plural of the noun whose most common form is <latin>vī</latin>?"
+        answer: "<latin>virēs</latin>"
+      - question: "Correct the following paradigm: <latin>tria, triōrum, tribus, tria, tribus</latin>."
+        answer: "<latin>TRIUM</latin> NOT <latin>TRIŌRUM</latin>"
+      - question: "Correct the following paradigm: <latin>volō, vis, vit</latin>."
+        answer: "<latin>VULT</latin> NOT <latin>VIT</latin>"
+  - tossup:
+      question: "Who led the Spartans who died at Thermopylae"
+      answer: "LEONIDAS"
+    boni:
+      - question: "What was the governing body of Sparta?"
+        answer: "GEROUSIA"
+      - question: "what virtuous individual refused a bribe by the general Pyrrhus?"
+        answer: "FABRICIUS"
+      - question: "What was the name of the Acropolis of Corinth?"
+        answer: "ACROCORINTH"
+  - tossup:
+      question: "How do you say “with me” in Latin?"
+      answer: "<latin>MĒCUM</latin>"
+    boni:
+      - question: "Give the Latin and the English for the abbreviation p.m."
+        answer: "<latin>POST MERIDIEM</latin> - AFTERNOON"
+      - question: "Give the Latin and the English for the abbreviation i.e."
+        answer: "<latin>ID EST</latin> - THAT IS"
+      - question: "Give the Latin and the English for the abbreviation Q.E.D."
+        answer: "<latin>QUOD ERAT DEMONSTRANDUM</latin> - THAT WHICH HAD TO BE PROVEN"
+  - tossup:
+      question: "What Roman general defeated Hanniabl in the 2nd Punic War?"
+      answer: "(P. CORNELIUS) SCIPIO AFRICANUS"
+    boni:
+      - question: "What Roman general conquered the Samnites in the Social War?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+      - question: "What general of the 2nd Punic War was nicknamed Cunctator?"
+        answer: "(Q.) FABIUS (MAXIMUS VERRUCOSUS CUNCTATOR)"
+      - question: "What Roman general was defeated in 9 AD at the Teutoborg Forest?"
+        answer: "(P. QUINCTILIUS) VARUS"
+  - tossup:
+      question: "From what Latin base word comes the English “insatiable”?"
+      answer: "<latin>SATIS</latin>"
+    boni:
+      - question: "What is the plural active imperative of <latin>ferō</latin>?"
+        answer: "<latin>FERTE</latin>"
+      - question: "What is the vocative singular masculine of <latin>meus</latin>?"
+        answer: "<latin>MĪ</LATIN>"
+      - question: "What is the feminine accusative singular of <latin>hic</latin>?"
+        answer: "<latin>hanc</latin>"
+  - tossup:
+      question: "What nymph was a consort of king Numa?"
+      answer: "EGERIA"
+    boni:
+      - question: "Who was the faithful wife of Ulysses?"
+        answer: "PENELOPE"
+      - question: "What was his faithful dog's name?"
+        answer: "ARGUS"
+      - question: "Who was his faithful son?"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "What was the platform in the Forum where orators made their speeches?"
+      answer: "<latin>ROSTRA</latin>"
+    boni:
+      - question: "What city was founded by Ascanius Iulus?"
+        answer: "ALBA LONGA"
+      - question: "Who was the last of the Julio-Claudian emperors?"
+        answer: "NERO"
+      - question: "What dynasty followed the Julio-Claudians?"
+        answer: "FLAVIAN"
+  - tossup:
+      question: "What case is governed by the preposition <latin>extra</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "With the adjective in the superlative degree, give the ablative of the phrase <latin>iter facile</latin>."
+        answer: "<latin>ITINERE FACILLIMŌ</LATIN>"
+      - question: "What is the 3rd person plural passive perfect subjunctive of <latin>petō</latin>?"
+        answer: "<latin>PETITĪ SINT</latin>"
+      - question: "What is the Latin for has he been absent?”"
+        answer: "<latin>AFUITNE</latin>"
+  - tossup:
+      question: "What Roman emperor's name meant “Bootling”?"
+      answer: "CALIGULA"
+    boni:
+      - question: "Who was famous for saying “<latin>Carthagō delenda est</latin>”?"
+        answer: (M. PORCIUS) CATO THE ELDER / THE CENSOR / CENSORIUS
+      - question: "What was the year of Nero's great fire?"
+        answer: 64 AD
+      - question: "Who was chieftain of the Haedui and bitter enemy of Julius Caesar?"
+        answer: "DUMNORIX"
+  - tossup:
+      question: "How do you say in Latin “for 2 hours”?"
+      answer: <latin>DUĀS HORĀS</latin>
+    boni:
+      - question: "What are the 3 active infinitives of <latin>tangō</latin>?"
+        answer: "<latin>TANGERE, TETIGISSE, TACTURUS ESSE</latin>"
+      - question: "In what respect does a relative pronoun not necessarily agree with its antecedent?"
+        answer: "CASE"
+      - question: "What is the genitive plural of <latin>species</latin>?"
+        answer: "<latin>SPECIĒRUM</latin>"

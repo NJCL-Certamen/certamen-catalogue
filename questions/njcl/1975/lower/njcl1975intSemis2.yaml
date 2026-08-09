@@ -1,0 +1,153 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "When Romans were given <latin>Panem et Circenses</latin>, what did they get?"
+      answer: "BREAD AND CIRCUSES // A DISTRACTION FROM OTHER CONDITIONS"
+    boni:
+      - question: "Where was Rome's chief grain supply?"
+        answer: "SICILY / EGYPT"
+      - question: "Part of the Circus might be a man with a <latin>rete</latin>. What was this?"
+        answer: "(GLADIATOR'S) NET"
+      - question: "Where was Rome's <latin>Circus Maximus</latin>?"
+        answer: "FOOT OF THE PALATINE / BETWEEN PALATINE AND AVENTINE"
+  - tossup:
+      question: "Give the superlative of <latin>celeriter</latin>."
+      answer: "<latin>CELERRIMĒ</latin>"
+    boni:
+      - question: "Give the superlative of <latin>facilis</latin>."
+        answer: "<latin>FACILLIMUS</latin>"
+      - question: "Give the superlative of <latin>bene</latin>."
+        answer: "<latin>OPTIMĒ</latin>"
+      - question: "Give the superlative of <latin>magnopere</latin>."
+        answer: "<latin>MAXIMĒ</latin>"
+  - tossup:
+      question: "What early Roman is famous for defending a bridge to ward off the Etruscans?"
+      answer: "HORATIUS (COCLES)"
+    boni:
+      - question: "Who was the leader of the Etruscans?"
+        answer: "LARS PORSENNA"
+      - question: "What was the name of the bridge?"
+        answer: "<latin>PONS SUBLICIUS</latin> / PILE BRIDGE"
+      - question: "What river did it cross?"
+        answer: "TIBER"
+  - tossup:
+      question: "Who was the mother of the Minotaur?"
+      answer: "PASIPHAË"
+    boni:
+      - question: "Who was the mother of Telemachus?"
+        answer: "PENELOPE"
+      - question: "Who was the mother of Romulus and Remus?"
+        answer: "RHEA SILVIA / ILIA"
+      - question: "Who was the mother of Perseus?"
+        answer: "DANAË"
+  - tossup:
+      question: "The Romans discovered what now-common material used in the construction of the Colosseum?"
+      answer: "CONCRETE"
+    boni:
+      - question: "What large building in Rome was built first by Agrippa to all the gods?"
+        answer: "PANTHEON"
+      - question: "What Roman baths are used now for summer opera?"
+        answer: "(BATHS OF) CARACALLA"
+      - question: "Which building in the Forum housed all public records?"
+        answer: "<latin>TABULARIUM</latin>"
+  - tossup:
+      question: "In what case do these verbs take their object: <latin>parcō, resistō, confidō, persuadeō</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "Give the noun in the proper case: “We trusted the <emphasis>army</emphasis>.”"
+        answer: "<latin>EXERCITUĪ</latin>"
+      - question: "Give the noun in the proper case: “They resisted the <emphasis>men</emphasis>.”"
+        answer: "<latin>HOMINIBUS / VIRĪS</latin>"
+      - question: "Give the noun in the proper case: “She persuaded her <emphasis>brother</emphasis> to stay.”"
+        answer: "<latin>FRATRĪ</latin>"
+  - tossup:
+      question: "The year 63 BC is famous as the birth of what famous Roman?"
+      answer: "(C. IULIUS CAESAR) OCTAVIAN(US) / AUGUSTUS"
+    boni:
+      - question: "Who was born in 100 BC?"
+        answer: "(C. IULIUS) CAESAR"
+      - question: "Who was Augustus' wife?"
+        answer: "SCRIBONIA / LIVIA"
+      - question: "What year did Augustus die?"
+        answer: "14 AD"
+  - tossup:
+      question: "What Roman god's name is an anagram for the English plural of male sheep?"
+      answer: "MARS"
+    boni:
+      - question: "What was his Greek name?"
+        answer: "ARES"
+      - question: "Who were Mars' 2 parents?"
+        answer: "JUPITER AND JUNO"
+      - question: "Name Mars' full brother."
+        answer: "VULCAN"
+  - tossup:
+      question: "Who built the Appian Way?"
+      answer: "APPIUS CLAUDIUS CAECUS"
+    boni:
+      - question: "What was physically wrong with Appius Claudius?"
+        answer: "BLIND"
+      - question: "What woman's tomb still exists in excellent condition on the <latin>Via Appia</latin>?"
+        answer: "CAECILIA METELLA'S"
+      - question: "At what large city does the Appian Way turn east to Brundisium?"
+        answer: "CAPUA"
+  - tossup:
+      question: "Give the plural of <latin>opus</latin>."
+      answer: "<latin>OPERA</latin>"
+    boni:
+      - question: "Give the plural of <latin>senatus</latin>."
+        answer: "<latin>SENATŪS</latin>"
+      - question: "Give the plural of <latin>locus</latin>."
+        answer: "<latin>LOCA</latin>"
+      - question: "Give the plural of <latin>pectus</latin>."
+        answer: "<latin>PECTORA</latin>"
+  - tossup:
+      question: "Who was the ruler of Athens in its Golden Age?"
+      answer: "PERICLES"
+    boni:
+      - question: "Who was the ruler of Athens during the last Persian War?"
+        answer: "THEMISTOCLES"
+      - question: "Name 2 great Athenian law-givers."
+        answer: "SOLON, DRACO, PERICLES, ARISTIDES"
+  - tossup:
+      question: "What Trojan hero supposedly founded a new Troy in Italy?"
+      answer: "AENEAS"
+    boni:
+      - question: "Who was Hector's wife?"
+        answer: "ANDROMACHE"
+      - question: "Who was Aeneas' son?"
+        answer: "ASCANIUS / IULUS / ILUS / SILVIUS"
+      - question: "Which goddess persuaded Aeolus to try to drown the Trojans?"
+        answer: "HERA / JUNO"
+  - tossup:
+      question: "What character is portrayed with a sword over his head?"
+      answer: "DAMOCLES"
+    boni:
+      - question: "What character is portrayed with a lantern?"
+        answer: "DIOGENES"
+      - question: "What Sicilian discovered the principle of displacement of water?"
+        answer: "ARCHIMEDES"
+      - question: "Archimedes yelled “<latin>Eureka</latin>!” what does this mean?"
+        answer: "I HAVE FOUND (IT)"
+  - tossup:
+      question: "<latin>undeviginti et sedecim sunt</latin> in Latin?"
+      answer: "<latin>TRIGINTA (ET) QUINQUE</latin>"
+    boni:
+      - question: "<latin>Duodecim det sex sunt</latin>?"
+        answer: "<latin>DUODEVIGINTI</latin>"
+      - question: "<latin>octo et septem sunt</latin>"
+        answer: "<latin>QUINDECIM</latin>"
+      - question: "<latin>triginta duo et sexaginta septem sunt</latin>"
+        answer: "<latin>UNDECENTUM</latin>"
+  - tossup:
+      question: "What priestess of Apollo presided at Delphi?"
+      answer: "PYTHIA"
+    boni:
+      - question: "What priestess of Apollo was a Trojan princess"
+        answer: "CASSANDRA (N.B. the movie Troy didn't come out until 30 years after this round, so “Briseis” is even more wrong here than normal)"
+      - question: "What priestess of Apollo took Aeneas to the Underworld?"
+        answer: "SIBYL (OF CUMAE) / DEIPHOBE"
+      - question: "Who was Apollo's first love?"
+        answer: "DAPHNE"

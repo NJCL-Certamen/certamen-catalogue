@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Third Place Round
+questions:
+  - tossup:
+      question: "The incestuous union of brother and sister produced the Gorgons, and the Graeae. Other legends or writers add, variously, Scylla, the Hesperides, and the Sirens. Who were the incestuous pair?"
+      answer: "PHORCYS AND CETO"
+    boni:
+      - question: "Who, a mortal favorite of Venus, was the product of a father-daughter union?"
+        answer: "ADONIS"
+      - question: "What famous adulterer was the product of an incestuous father and daughter?"
+        answer: "AEGISTHUS"
+      - question: "Who was the father of Aegisthus?"
+        answer: "THYESTES"
+  - tossup:
+      question: "What two ancient institutions were abolished by the emperor Theodosius I?"
+      answer: "THE VESTAL VIRGINS IN 380 AND THE OLYMPIC GAMES IN 393"
+    boni:
+      - question: "When were the Olympics held again for the first time?"
+        answer: "1892"
+      - question: "When had they first been held?"
+        answer: "776 BC"
+      - question: "What was the penalty for insulting a Vestal?"
+        answer: " BEING BEATEN TO DEATH"
+  - tossup:
+      question: "What type of subordinate subjunctive clause would you expect after the adverb <latin>adeo</latin>?"
+      answer: "FINAL OR RESULT"
+    boni:
+      - question: "What emotion would a Roman be feeling if he used following expression <latin>vae</latin>?"
+        answer: "GRIEF OR SORROW"
+      - question: "What emotion would a Roman be feeling if he used following expression <latin>io</latin>?"
+        answer: "JOY"
+      - question: "What emotion would a Roman be feeling if he used following expression <latin>heu</latin>?"
+        answer: "GRIEF OR SORROW"
+  - tossup:
+      question: "To what early Roman poet is a Saturnian metre epic, surviving only in fragments, on the Punic War attributed?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "Give an English translation of the Latin comedy title <title>Mostellaria</title
+        answer: "THE HAUNTED HOUSE"
+      - question: "Give an English translation of the Latin comedy title <title>Aulularia</title>
+        answer: "THE POT OF GOLD"
+      - question: "Give an English translation of the Latin comedy title <title>Adelphi</title>
+        answer: "THE BROTHERS"
+  - tossup:
+      question: "Where did the Greeks go to hide so that the Trojans would believe thay had left and accept the Trojan Horse?"
+      answer: "TENEDOS"
+    boni:
+      - question: "Whose idea was the horse?"
+        answer: "ODYSSEUS"
+      - question: "Who actually built it?"
+        answer: "EPEUS"
+      - question: "Who posed as a Greek traitor to convince the Trojans that the Greeks had abandoned the war?"
+        answer: "SINON"
+  - tossup:
+      question: "Who were called the “red riders” or “red phantoms”?"
+      answer: "THE PARTHIANS"
+    boni:
+      - question: "What Roman general subdued the Parthians during Nero's reign?"
+        answer: "(CN. DOMITIUS) CORBULO"
+      - question: "Who regained the standards lost at Carrhae?"
+        answer: "AUGUSTUS (or his emissary Tiberius)"
+      - question: "How did he do so?"
+        answer: "BY DIPLOMACY"
+  - tossup:
+      question: "What fourth declension noun is the technical term for metric accent?"
+      answer: "<latin>ICTUS</latin>"
+    boni:
+      - question: "What does it mean in Latin?"
+        answer: "A BLOW OR STRIKE"
+      - question: "What is the natural pause in a line of hexameter, usually in the third foot?"
+        answer: "THE CAESURA"
+      - question: "What does the word mean?"
+        answer: "A CUTTING"
+  - tossup:
+      question: "During what holiday were slaves allowed to speak disrespectfully to their masters?"
+      answer: "<latin>SATURNALIA</latin>"
+    boni:
+      - question: "What Roman poet wrote a satire in which his slave upbraids him?"
+        answer: " HORACE"
+      - question: "What did Horace call his satires?"
+        answer: "<latin<title>SERMONES</title></latin>"
+      - question: "Name one other work of Horace."
+        answer: "<title>ODES, EPODES, <latin>CARMEN SAECULARE, ARS POETICA</latin></title>"
+  - tossup:
+      question: "Who are the three Fates?"
+      answer: "CLOTHO, ATROPOS, AND LACHESIS"
+    boni:
+      - question: "What is the task of Clotho?"
+        answer: "SHE SPINS THE THREAD OF LIFE"
+      - question: "What is the task of Lachesis?"
+        answer: "SHE DECIDES ITS LENGTH."
+      - question: "What is the task of Atropos?"
+        answer: "SHE CUTS IT"
+  - tossup:
+      question: "Who built the Temple of Vesta, said to be the oldest in Rome?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "To what modern nation would you go to find the ancient <latin>Carthago</latin>?"
+        answer: "TUNISIA"
+      - question: "To what modern nation would you go to find the ancient Troy?"
+        answer: "TURKEY"
+      - question: "To what modern nation would you go to find the ancient <latin>Aquincum</latin>?"
+        answer: "HUNGARY ( IT IS BUDAPEST)"
+  - tossup:
+      question: "What is the perfect infinitive of <latin>curro</latin>?"
+      answer: "<latin>CUCURRISSE</latin>"
+    boni:
+      - question: "What is the perfect infinitive of <latin>disco</latin>?"
+        answer: " <latin>DIDICISSE</latin>"
+      - question: "What is the perfect infinitive of <latin>posco</latin>?"
+        answer: "<latin>POPOSCISSE</latin>"
+      - question: "What types of perfects are these?"
+        answer: "REDUPLICATED"
+  - tossup:
+      question: "What renowned rhetorician instructed the young Cicero?"
+      answer: "APOLLONIUS MOLO(N)"
+    boni:
+      - question: "What stylistic device would I be using if, for example, I said “roof” and meant the entire building?"
+        answer: "SYNECDOCHE"
+      - question: "What has happened when an expected elision does not occur?"
+        answer: "HIATUS"
+      - question: "The English word “sophmore” comes from the Greek for “wise fool.” Of what literary device is “sophmore” an example?"
+        answer: "OXYMORON"
+  - tossup:
+      question: "Who are the three Furies?"
+      answer: "ALECTO, MEGAERA, AND TISIPHONE"
+    boni:
+      - question: "Who were also called Morae?"
+        answer: " THE FATES"
+      - question: "Who were also called Semnai?"
+        answer: " THE FURIES"
+      - question: "Who were also called Eumenides?"
+        answer: " THE FURIES"
+  - tossup:
+      question: "What Roman playwright told the story of the house of Atreus in his tragedy <latin>Thyestes</latin>?"
+      answer: "SENECA"
+    boni:
+      - question: "Who wrote <title>Oedipus at Colonus</title>?"
+        answer: "SOPHOCLES"
+      - question: "Of the three great Greek tragedians, who was earliest?"
+        answer: "AESCHYLUS"
+      - question: "Who wrote the <title>Trojan Women</title>?"
+        answer: "EURIPIDES"
+  - tossup:
+      question: " Where was the birthplace of Cicero?"
+      answer: "ARPINUM"
+    boni:
+      - question: "Which Roman author was born in Sulmo?"
+        answer: "OVID"
+      - question: "Which Roman author was born in Patavia?"
+        answer: "LIVY"
+      - question: "Which Roman author was born in Bilbilis, in Spain?"
+        answer: "MARTIAL"

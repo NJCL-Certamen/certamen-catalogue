@@ -1,0 +1,152 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Advanced"
+round: Round 2
+questions:
+  - tossup:
+      question: "Where did Cicero stand to deliver his second and third orations, against Catiline?"
+      answer: "AT THE ROSTRUM, IN THE FORUM"
+    boni:
+      - question: "Where had the first been delivered?"
+        answer: "THE TEMPLE OF JUPITER STATOR"
+      - question: "Where was the fourth delivered?"
+        answer: "THE TEMPLE OF CONCORD"
+      - question: "When was Cicero assassinated?"
+        answer: "43 BC"
+  - tossup:
+      question: "Change to singular the verb <latin>ferunt</latin>."
+      answer: "FERT"
+    boni:
+      - question: "Change the verb form <latin>vis</latin> to plural"
+        answer: "<latin>VULTIS</latin>"
+      - question: "Change the verb form <latin>porto</latin> to subjunctive"
+        anwer: "<latin>PORTEM</latin>"
+      - question: "Change the verb form <latin>faciunt</latin> to passive"
+        answer: "<latin>FIUNT</latin>"
+  - tossup:
+      question: "Where was the worship of Demeter centered?"
+      answer: "ELEUSIS"
+    boni:
+      - question: "What religious ritual was celebrated there?"
+        answer: "THE ELEUSINIAN MYSTERIES"
+      - question: "What queen of Eleusis hired Demeter as her baby's nurse, without knowing the goddess' true identity?"
+        answer: "METANIRA"
+      - question: "What did Demeter try to give the child, only to be prevented by the fear of the mother?"
+        answer: "IMMORTALITY"
+  - tossup:
+      question: "In the <title>Aeneid</title>, to whom is Aeneas referring when he calls them, <latin>O terque quaterque beati</latin>?"
+      answer: "THOSE WHO DIED IN DEFENSE OF TROY // <latin>QUIS ANTE ORA PATRUM TROIAE SUB MOENIBUS ALTIS CONTIGIT OPPETERE</latin>"
+    boni:
+      - question: "Who says, <latin>Tuus, o regina, quid optes explorare labor; mihi iussa capessere fas est</latin>?"
+        answer: "AEOLUS"
+      - question: "To whom does he say it?"
+        answer: "JUNO"
+      - question: "Who says, <latin>Infandum, regina, iubes renovare dolorem</latin>?"
+        answer: "AENEAS, TO DIDO."
+  - tossup:
+      question: "Which Roman emperor conquered what is now Romania?"
+      answer: "TRAJAN"
+    boni:
+      - question: "What did the Romans call Romania?"
+        answer: "DACIA"
+      - question: "To what Roman city landmark would you go to find artistic representation of the campaign against Dacia?"
+        answer: "TRAJAN'S COLUMN"
+      - question: "One of Europe's most famous rivers flows through Dacia, and our name for it is clearly derived from the Romans' name for it. What is it?"
+        answer: "THE DANUBE (DANUVIUS)"
+  - tossup:
+      question: "What is the negative in a subjunctive clause of purpose?"
+      answer: "<latin>NE</latin>"
+    boni:
+      - question: "What is the negative in a subjunctive clause of result?"
+        answer: "<latin>UT...NON</latin>"
+      - question: "What is the negative in a subjunctive clause of fear?"
+        answer: "<latin>UT</latin>"
+      - question: "What is the standard negative of a hortatory subjunctive?"
+        answer: "<latin>NE</latin>"
+  - tossup:
+      question: "Who was invincible as long as he was in contact with his mother, the goddess of the earth?"
+      answer: "ANTAEUS"
+    boni:
+      - question: "How had Achilles acquired his invulnerability?"
+        answer: "HE WAS DIPPED IN THE RIVER STYX BY HIS MOTHER"
+      - question: "From whom did Perseus receive the cap of invisibility?"
+        answer: "THE HYPERBOREANS"
+      - question: "Who accompanied him to their land?"
+        answer: "HERMES"
+  - tossup:
+      question: "Who wrote an epic entitled De Rerum Natura?"
+      answer: "LUCRETIUS"
+    boni:
+      - question: "What Greek philosopher's theories did he espouse?"
+        answer: "EPICURUS"
+      - question: "How many books are there in his work?"
+        answer: "SIX"
+      - question: "To what genre does his epic belong?"
+        answer: "DIDACTIC POETRY"
+  - tossup:
+      question: "In what province did Cicero serve as quaestor?"
+      answer: "SICILY"
+    boni:
+      - question: "Who was the governor of Sicily exposed and prosecuted by Cicero?"
+        answer: "VERRES"
+      - question: "Where was the villa of Cicero near which he died?"
+        answer: "FORMIAE"
+      - question: "Who stuck pins through Cicero's tongue after his head had been cut off and put on display?"
+        answer: "FULVIA, MARC ANTONY'S WIFE"
+  - tossup:
+      question: "What is the nominative plural of <latin>quies</latin>?"
+      answer: "<latin>QUIETES</latin>"
+    boni:
+      - question: "Give me the nominative singular of the third declension nominative plural form <latin>febres</latin>"
+        answer: "<latin>FEBRIS</latin>"
+      - question: "Give me the nominative singular of the third declension nominative plural form <latin>orbes</latin>"
+        answer: "<latin>ORBIS</latin>"
+      - question: "Give me the nominative singular of the third declension nominative plural form <latin>divites</latin>"
+        answer: "<latin>DIVES</latin>"
+  - tossup:
+      question: "Who killed Patroclus?"
+      answer: "HECTOR"
+    boni:
+      - question: "Who killed Hector?"
+        answer: "ACHILLES"
+      - question: "Who killed Achilles?"
+        answer: "PARIS"
+      - question: "Who guided Paris' arrow into the heel of Achilles?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What Roman poet died in 8 BC?"
+      answer: "HORACE"
+    boni:
+      - question: "What was his full name?"
+        answer: "QUINTUS HORATIUS FLACCUS"
+      - question: "What was Livy's full name?"
+        answer: "TITUS LIVIUS"
+      - question: "What was Ovid's full name?"
+        answer: "PUBLIUS OVIDIUS NASO"
+  - tossup:
+      question: "Who was the wife and mother of Oedipus?"
+      answer: "JOCASTA"
+    boni:
+      - question: "Who was his uncle and brother-in-law?"
+        answer: "CREON"
+      - question: "Who was Oedipus' daughter and half-sister, persecuted by Creon?"
+        answer: "ANTIGONE"
+      - question: "Who was Antigone's lover, son of Creon?"
+        answer: "HAEMON"
+  - tossup:
+      question: "Who wrote the <title>Satyricon</title>?"
+      answer: "PETRONIUS"
+    boni:
+      - question: "In Latin, what was his title in Nero's court?"
+        answer: "<latin>ARBITER ELEGANTIAE</latin>"
+      - question: "As part of what conspiracy was he forced to commit suicide?"
+        answer: "THE PISONIAN CONSPIRACY"
+      - question: "What method did he use?"
+        answer: "HE OPENED HIS VEINS AND BLED TO DEATH"
+  - tossup:
+      question: "What symbol of fertility is often found on Roman tombs?"
+      answer: "THE EGG"
+    boni:
+      - question: "Name the members of the first triumvirate in the chronological order of their deaths."
+        answer: "CRASSUS (53), POMPEY (48), CAESAR (44)"
+        

@@ -84,12 +84,12 @@ questions:
       - question: "At what decisive battle did Caesar defeat Pompey’s forces in Greece?"
         answer: "PHARSALUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Mīrābile dictū, deī</latin> deaeque temporibus <latin>antīquissimīs virōs vīsitābant</latin>.  <latin>Homērus, poēta clārissimus, nōbīs nārrat</latin> deam Minervam <latin>Tēlemachum vīsitāvisse</latin> ad eum hortandum ut patrem eius quaereret.  <latin>Tēlemachus</latin>, autem, quod Minerva <latin>sē aliēnā</latin> veste <latin>occultāverat, nescīvit</latin> deam ipsam <latin>sē vīsitāre</latin>.</latin> The question: <latin>Quis <latin>nōbīs nārrat</latin> deam <latin>Tēlemachum vīsitāvisse</latin>?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Mīrābile dictū, deī deaeque temporibus antīquissimīs virōs vīsitābant.  Homērus, poēta clārissimus, nōbīs nārrat deam Minervam Tēlemachum vīsitāvisse ad eum hortandum ut patrem eius quaereret.  Tēlemachus, autem, quod Minerva sē aliēnā veste occultāverat, nescīvit deam ipsam sē vīsitāre</latin>. The question: <latin>Quis <latin>nōbīs nārrat</latin> deam <latin>Tēlemachum vīsitāvisse</latin>?"
       answer: "<latin>HOMĒRUS / POĒTA</latin> (<latin>CLĀRISSMUS NŌBĪS NĀRRAT</latin>)</latin>"
     boni:
       - question: "<latin>Quid Minerva <latin>Tēlemachum hortāta</latin> est ut faceret?</latin>"
-        answer: "<latin>UT PATREM (EIUS) QUAERERET / <latin>INVENĪRET / REPERĪRET</latin>"
-      - question: "<latin>Cūr Tēlemachus nescīvit</latin> deam ipsam <latin>sē vīsitāre</latin>? QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
+        answer: "<latin>UT PATREM (EIUS) QUAERERET / INVENĪRET / REPERĪRET</latin>"
+      - question: "<latin>Cūr Tēlemachus nescīvit deam ipsam sē vīsitāre</latin>? QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
         answer: "<latin>QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
   - tossup:
       question: "Degree and agree may differ by only a letter or two, but they come from two different Latin roots. Identify the ultimate Latin roots of both degree and agree."

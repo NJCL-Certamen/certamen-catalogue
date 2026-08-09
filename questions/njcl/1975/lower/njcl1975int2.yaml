@@ -1,0 +1,151 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Round 2
+questions:
+  - tossup:
+      question: "What English word is the Roman numeral for 1009?"
+      answer: "MIX"
+    boni:
+      - question: "Express 263 with Roman numerals."
+        answer: "CCLXIII"
+      - question: "Express 599 with Roman numerals."
+        answer: "DIC"
+      - question: "Express 824 with Roman numerals."
+        answer: "DCCCXXIV"
+  - tossup:
+      question: "Who were the parents of Jupiter and Juno?"
+      answer: "SATURN AND OPS"
+    boni:
+      - question: "Who were the parents of Apollo and Diana?"
+        answer: "JUPITER AND LATONA"
+      - question: "Who were the parents of Pegasus?"
+        answer: "MEDUSA AND NEPTUNE"
+      - question: "Who were the parents of Paris?"
+        answer: "PRIAM AND HECUBA"
+  - tossup:
+      question: "In the following sentence, what will be the case of the word “bridge”: “The tree grows under the bridge”?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What case is used with the preposition <latin>de</latin>?"
+        answer: "ABLATIVE"
+      - question: "What case is used with the preposition <latin>intra</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What case is used with the preposition <latin>apud</latin>?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "For what do we remember August 24, 79 AD?"
+      answer: "ERUPTION OF VESUVIUS"
+    boni:
+      - question: "Why is the date 753 BC important?"
+        answer: "FOUNDING OF ROME"
+      - question: "Why is the date 146 BC important?"
+        answer: "END OF THE THIRD PUNIC WAR // FALL OF CARTHAGE / CORINTH"
+      - question: "Why is the date 476 AD important?"
+        answer: "END OF THE WESTERN ROMAN EMPIRE"
+  - tossup:
+      question: "What were Roman <latin>thermae</latin>?"
+      answer: "BATHS"
+    boni:
+      - question: "What was the cold bath called?"
+        answer: "<latin>FRIGIDARIUM</latin>"
+      - question: "What was the <latin>unctorium</latin>"
+        answer: "OIL ANOINTING ROOM"
+      - question: "Name one of the 2 remaining baths in Rome."
+        answer: "(BATHS OF) CARACALLA / DIOCLETIAN"
+  - tossup:
+      question: "Who is the Roman god of the grape harvest?"
+      answer: "BACCHUS"
+    boni:
+      - question: "Who was Bacchus' mother?"
+        answer: "SEMELE"
+      - question: "Who was Bacchus' father?"
+        answer: "JUPITER"
+      - question: "What was Bacchus' Greek name?"
+        answer: "DIONYSUS"
+  - tossup:
+      question: "From what mythological source is the word “music” derived?"
+      answer: "MUSE"
+    boni:
+      - question: "Give the English titles of the famous musical - <latin><title>Coma</title></latin>"
+        answer: "HAIR"
+      - question: "Give the English titles of the famous musical - <latin><title>Vale Avis</title></latin>"
+        answer: "BYE BYE BIRDIE"
+      - question: "Give the English titles of the famous musical - <latin><title>Mea Pulchra Femina</title></latin>"
+        answer: "MY FAIR LADY"
+  - tossup:
+      question: "Who said “<latin>Et tu, Brute</latin>”?"
+      answer: (C. IULIUS) CAESAR
+    boni:
+      - question: "Name the members of the 1st Triumvirate."
+        answer: "CAESAR, POMPEY, CRASSUS"
+  - tossup:
+      question: "In the Zodiac the Latin word for “archer” is what?"
+      answer: "<latin>SAGITTARIUS</latin>"
+    boni:
+      - question: "Give the Latin for the sign that means “water bearer”"
+        answer: "<latin>AQUARIUS</latin>"
+      - question: "Give the Latin for the sign that means “bull”"
+        answer: "<latin>TAURUS</latin>"
+      - question: "Give the Latin for the sign that means “ram”"
+        answer: "<latin>ARIES</latin>"
+  - tossup:
+      question: "Given that it takes 4 people to play bridge per table, Juno is having the ladies in to play bridge. She has invited the Fates, the Muses, and the Graces. If she plays herself, how many others will she have to invite to make up 4 tables?"
+      answer: "NONE"
+    boni:
+      - question: "Give the answer in Latin: the number of years in the Trojan War."
+        answer: "<latin>DECEM</latin>"
+      - question: "Give the answer in Latin: the number of hills in Rome."
+        answer: "<latin>SEPTEM</latin>"
+      - question: "Give the answer in Latin: the number of consuls each year."
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "Translate into Latin: we used to live."
+      answer: "<latin>HABITĀBĀMUS / VIVĒBAMUS</latin>"
+    boni:
+      - question: "Translate into Latin: they did work."
+        answer: "<latin>LABORĀVERUNT // LABOREM FĒCĒRUNT</latin>"
+      - question: "Translate into Latin: I was telling."
+        answer: "<latin>NARRĀBAM</latin>"
+      - question: "Translate into Latin: he is shouting."
+        answer: "<latin>CLAMAT</latin>"
+  - tossup:
+      question: "Who was the gladiator who led a slave revolt in 73 BC?"
+      answer: "SPARTACUS"
+    boni:
+      - question: "What Roman general defeated Spartacus?"
+        answer: "CRASSUS"
+      - question: "Did Spartacus ever fight in the colosseum?"
+        answer: "NO"
+      - question: "On what mountain did Spartacus take refuge?"
+        answer: "VESUVIUS"
+  - tossup:
+      question: "What is the Latin word for “country”?"
+      answer: "<latin>PATRIA / RUS</latin>"
+    boni:
+      - question: "Give the Latin for the modern day country of Spain."
+        answer: "<latin>HISPANIA</latin>"
+      - question: "Give the Latin for the modern day country of France."
+        answer: "<latin>GALLIA</latin>"
+      - question: "Give the Latin for the modern day country of England."
+        answer: "<latin>BRITANNIA</latin>"
+  - tossup:
+      question: "Who was sent on 12 labors?"
+      answer: "HERCULES"
+    boni:
+      - question: "What king sent him?"
+        answer: "EURYSTHEUS"
+      - question: "For whom did Hercules have to hold up the sky?"
+        answer: "ATLAS"
+      - question: "Where did Hercules get the lion skin he wore?"
+        answer: "NEMEA / FROM THE NEMEAN LION"
+  - tossup:
+      question: "Give the correct form for the word “tell” in this sentence: I can tell many stories about the gods."
+      answer: "NARRĀRE"
+    boni:
+      - question: "Give the case of “stories” in that sentence."
+        answer: "ACCUSATIVE"
+      - question: "Give the case of “gods” in that sentence."
+        answer: "ABLATIVE"
+      - question: "Give the Latin for “I can”"
+        answer: "<latin>POSSUM</latin>"

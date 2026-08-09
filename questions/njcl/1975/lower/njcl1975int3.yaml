@@ -1,0 +1,151 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Round 3
+questions:
+  - tossup:
+      question: "What is the Latin word for “yesterday”?"
+      answer: "<latin>HERI</latin>"
+    boni:
+      - question: "What is the Latin word for “today”?"
+        answer: "<latin>HODIE</latin>"
+      - question: "What is the Latin word for “tomorrow”?"
+        answer: "<latin>CRAS</latin>"
+      - question: "What is the Latin word for “in the morning”?"
+        answer: "<latin>MANE</latin>"
+  - tossup:
+      question: "Who was the architect of the Labyrinth?"
+      answer: "DAEDALUS"
+    boni:
+      - question: "Who was his son?"
+        answer: "ICARUS"
+      - question: "Who lived in the Labyrinth?"
+        answer: "MINOTAUR"
+      - question: "On what island was the Labyrinth?"
+        answer: "CRETE"
+  - tossup:
+      question: "Who was raped by Sextus Tarquinius?"
+      answer: "LUCRETIA"
+    boni:
+      - question: "Who was Sextus' father?"
+        answer: "(L.) TARQUINIUS SUPERBUS / THE PROUD"
+      - question: "What was the result of this insult?"
+        answer: "TARQUINS WERE DRIVEN FROM ROME"
+      - question: "What year was all this?"
+        answer: "510 BC"
+  - tossup:
+      question: "What <latin>praenomen</latin> was abbreviated C.?"
+      answer: "GAIUS"
+    boni:
+      - question: "What <latin>praenomen</latin> was abbreviated T.?"
+        answer: "TITUS"
+      - question: "What <latin>praenomen</latin> was abbreviated P.?"
+        answer: "PUBLIUS"
+      - question: "What <latin>praenomen</latin> was abbreviated Q.?"
+        answer: "QUINTUS"
+  - tossup:
+      question: "Using the verb <latin>iacere</latin>, give the Latin for “I have thrown.”"
+      answer: "<latin>IĒCĪ</latin>"
+    boni:
+      - question: "Using the verb <latin>iacere</latin>, give the Latin for “we had thrown.”"
+        answer: "<latin>IĒCERAMUS</latin>"
+      - question: "Using the verb <latin>iacere</latin>, give the Latin for “you will throw.”"
+        answer: "<latin>IACIES</latin>"
+      - question: "Using the verb <latin>iacere</latin>, give the Latin for “they are throwing.”"
+        answer: "<latin>IACIUNT</latin>"
+  - tossup:
+      question: "What Phaeacian princess helped Odysseus?"
+      answer: "NAUSICAӒ"
+    boni:
+      - question: "Where did Odysseus go from Phaeacia?"
+        answer: "ITHACA"
+      - question: "With whom did Odysseus spend 7 years?"
+        answer: "CALYPSO"
+      - question: "What people on his route were cannibals?"
+        answer: "LAESTRYGONIANS"
+  - tossup:
+      question: "Who was the great delayer against Hannibal?"
+      answer: "(Q.) FABIUS MAXIMUS / VERRUCOSUS / CUNCTATOR"
+    boni:
+      - question: "What general did Hannibal 1st meet after he entered Italy?"
+        answer: "(P. CORNELIUS) SCIPIO THE ELDER"
+      - question: "What general was sent home to Rome in the 1st Punic War to sue for peace but instead encouraged Rome to keep fighting?"
+        answer: "(M. ATILIUS) REGULUS"
+      - question: "What was the <latin><emphasis>corvus</emphasis></latin> which the Romans invented for the 1st Punic War?"
+        answer: "A GANG PLANK WITH A SPIKE SO ROMANS COULD BOARD ENEMY SHIPS"
+  - tossup:
+      question: "For what does N.B. stand?"
+      answer: "<latin>NOTĀ BENE</latin>"
+    boni:
+      - question: "For what does Ad lib. stand?"
+        answer: "<latin>AD LIBITUM</latin>"
+      - question: "For what does Rx. stand?"
+        answer: "<latin>RECIPE</latin>"
+      - question: "For what does A.D. stand?"
+        answer: "<latin>ANNŌ DOMINĪ</latin>"
+  - tossup:
+      question: "Give the future active participle of <latin>esse</latin>."
+      answer: "<latin>FUTURUS</latin>"
+    boni:
+      - question: "Give the perfect infinitive of <latin>esse</latin>."
+        answer: "<latin>FUISSE</latin>"
+      - question: "Give the 1st person singular present subjunctive of <latin>esse</latin>."
+        answer: "<latin>SIM</latin>"
+      - question: "Give the 2nd person plural pluperfect indicative of <latin>esse</latin>."
+        answer: "<latin>FUERATIS</latin>"
+  - tossup:
+      question: "Who first mad a lyre?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "What did Mercury use to make this lyre?"
+        answer: "TURTLE SHELL"
+      - question: "To whom did Mercury give the lyre?"
+        answer: "APOLLO"
+      - question: "Who used a lyre to win back his wife?"
+        answer: "ORPHEUS"
+  - tossup:
+      question: "Which of Caesar's wives was divorced by Caesar because “Caesar's wife must be above suspicion”?"
+      answer: "POMPEIA"
+    boni:
+      - question: "Who bore Caesar's only son?"
+        answer: "CLEOPATRA"
+      - question: "Which wife was Cinna's daughter?"
+        answer: "CORNELIA"
+      - question: "Who was Caesar's sister?"
+        answer: "JULIA"
+  - tossup:
+      question: "On which hill of Rome was the Palace of Tiberius?"
+      answer: "PALATINE"
+    boni:
+      - question: "Name 3 other hills of Rome."
+        answer: "QUIRINAL, ESQUILINE, VIMINAL, CAPITOLINE, CAELIAN, AVENTINE"
+  - tossup:
+      question: "Give the superlative of <latin>grave</latin>."
+      answer: "<latin>GRAVISSIM<emphasis>UM</emphasis></latin>"
+    boni:
+      - question: "Give the ablative singular of <latin>grave</latin>."
+        answer: "<latin>GRAVĪ</latin>"
+      - question: "Give the accusative plural neuter comparative of <latin>grave</latin>."
+        answer: "<latin>GRAVIORA</latin>"
+      - question: "Give the nominative plural neuter positive of <latin>grave</latin>."
+        answer: "<latin>GRAVIA</latin>"
+  - tossup:
+      question: "Who threw the golden apple into the wedding feast of Peleus and Thetis?"
+      answer: "ERIS / DISCORDIA"
+    boni:
+      - question: "Who was 1st asked to judge the beauty contest?"
+        answer: "ZEUS / JUPITER"
+      - question: "Where was Paris before he came to judge the contest?"
+        answer: "MT. IDA"
+      - question: "Who threw a golden apple to Atalanta?"
+        answer: "HIPPOMENES / MELANION"
+  - tossup:
+      question: "What name was given to the Roman series of political offices?"
+      answer: "<latin>CURSUS HONORUM</latin>"
+    boni:
+      - question: "Which officer was a judicial official?"
+        answer: "<latin>PRAETOR</latin>"
+      - question: "Which officer was the chief magistrate?"
+        answer: "<latin>CONSUL</latin>"
+      - question: "Which officer was in charge of public works?"
+        answer: "AEDILE"

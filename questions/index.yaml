@@ -1,4 +1,24 @@
 links:
+- rel: 1975 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int1.yaml
+- rel: 1975 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3.yaml
+- rel: 1975 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int2.yaml
+- rel: 1975 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis.yaml
+- rel: 1975 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis2.yaml
+- rel: 1976 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intFinals.yaml
+- rel: 1976 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv2.yaml
+- rel: 1976 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv1.yaml
+- rel: 1976 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advFinals.yaml
+- rel: 1976 NJCL Certamen Advanced Third Place Round
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv3rdPlace.yaml
 - rel: 2022 NJCL Certamen Advanced Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv2.yaml
 - rel: 2022 NJCL Certamen Advanced Semifinals

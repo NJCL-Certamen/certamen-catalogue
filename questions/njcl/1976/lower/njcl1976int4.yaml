@@ -1,0 +1,156 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 4
+questions:
+  - tossup:
+      question: "What was the exact date of Julius Caesar's assassination?"
+      answer: "MARCH 15, 44 BC"
+    boni:
+      - question: "What did the Romans call the 13th or 15th of a month?"
+        answer: "THE IDES"
+      - question: "What did they dall the 5th or 7th?"
+        answer: "THE NONES"
+      - question: "What day was the Kalends?"
+        answer: "THE FIRST"
+  - tossup:
+      question: "What is the English translation of <latin>nauta</latin>?"
+      answer: "SAILOR"
+    boni:
+      - question: "What does a <latin>coquus</latin> do for a living?"
+        answer: "COOK"
+      - question: "What does a <latin>latro</latin> do for a living?"
+        answer: "THIEF / ROBBER / STEALS"
+      - question: "What does a <latin>lanista</latin> do for a living?"
+        answer: "TRAINS GLADIATORS"
+  - tossup:
+      question: "Who was cursed with the golden touch?"
+      answer: "MIDAS"
+    boni:
+      - question: "Who gave it to him?"
+        answer: "BACCHUS"
+      - question: "What caused Midas to regret his new power?"
+        answer: "TURNING HIS DAUGHTER TO GOLD"
+      - question: "What river washed it away?"
+        answer: "PACTOLUS"
+  - tossup:
+      question: "In what person does Caesar refer to himself in his Gallic commentaries?"
+      answer: "3rd"
+    boni:
+      - question: "Who were the two comic playwrights of early Rome?"
+        answer: "PLAUTUS OR TERENCE"
+      - question: "What Augustan age historian wrote extensively of Rome's early period?"
+        answer: "(T.) LIVIUS / LIVY"
+      - question: "What did Livy call his book work?"
+        answer: "<latin><title>AB URBE CONDITA</title></latin>"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "What case is used in an extent of time construction?"
+        answer: "ACCUSATIVE"
+      - question: "What case is used to address someone?"
+        answer: "VOCATIVE"
+      - question: "What case is used after the adjective memor?"
+        answer: "GENITIVE"
+  - tossup:
+      question: "Who was the father of Polyphemus?"
+      answer: "NEPTUNE"
+    boni:
+      - question: "How did Odysseus conceal his identity from Polyphemus?"
+        answer: "BY CALLING HIMSELF “NO MAN”"
+      - question: "How did Odysseus and his men escape the cave of the cyclops?"
+        answer: "CLINGING TO THE BELLIES OF HIS SHEEP"
+      - question: "What nymph did Polyphemus love?"
+        answer: "GALATEA"
+  - tossup:
+      question: "With what Gallic tribe does Book I of Caesar's <title>Commentaries</title> concern itself?"
+      answer: "THE HELVETIANS"
+    boni:
+      - question: "What modern nation calls itself Helvetia?"
+        answer: "SWITZERLAND"
+      - question: "Who was a leader of the Aedui and bitter enemy of Julius Caesar?"
+        answer: "DUMNORIX"
+      - question: "What barbarian general was defeated by Caesar at Alesia?"
+        answer: "VERCINGETORIX"
+  - tossup:
+      question: "How would you translate <latin>alter...alter</latin>?"
+      answer: "THE ONE...THE OTHER"
+    boni:
+      - question: "Translate the correlatives <latin>tot...quot</latin>."
+        answer: "AS MANY...AS"
+      - question: "Translate the correlatives <latin>tantus...quantus</latin>."
+        answer: "AS GREAT...AS"
+      - question: "Translate the correlatives <latin>tam...quam</latin>."
+        answer: "AS...AS"
+  - tossup:
+      question: "Who was the son of Hector?"
+      answer: "ASTYANAX / SCAMANDRIUS"
+    boni:
+      - question: "Spell Astyanax."
+        answer: "A-S-T-Y-A-N-A-X"
+      - question: "Spell Laocoön."
+        answer: "L-A-O-C-O-Ö-N"
+    boni:
+      - question: "Spell Aeneas."
+        answer: "A-E-N-E-A-S"
+  - tossup:
+      question: "From what battle site did Caesar send his famous message, “<latin>Veni, vidi, vici</latin>”?"
+      answer: "ZELA"
+    boni:
+      - question: "Where was Caesar when he said, “<latin>Alea iacta est</latin>”?"
+        answer: "THE RUBICON"
+      - question: "What does the phrase mean?"
+        answer: "“THE DIE IS CAST”"
+      - question: "What were Caesar's dying words?"
+        answer: "“ET TU, BRUTE?”"
+  - tossup:
+      question: "What is the English translation for the Latin proverb, “<latin>Bis dat qui cito dat</latin>”?"
+      answer: "“HE GIVES TWICE WHO GIVES QUICKLY”"
+    boni:
+      - question: "What is the Latin idiom for “pitch camp”?"
+        answer: "<latin>CASTRA PONERE</latin>"
+      - question: "What is the Latin idiom for “wage war”?"
+        answer: "<latin>BELLUM GERERE / INFERRE</latin>"
+      - question: "What is the Latin idiom for “set sail”?"
+        answer: "<latin>VELUM DARE</latin>"
+  - tossup:
+      question: "How did Jupiter disguise himself with Europa?"
+      answer: "AS A WHITE BULL"
+    boni:
+      - question: "How did he disguise himself with Leda?"
+        answer: "AS A SWAN"
+      - question: "How did he appear to Semele, at her request?"
+        answer: "AS HIMSELF"
+      - question: "What was the unfortunate result?"
+        answer: "HIS BRILLIANCE INCINERATED HER"
+  - tossup:
+      question: "What was the <latin>Cloaca Maxima</latin>?"
+      answer: "THE ROMAN SEWER SYSTEM"
+    boni:
+      - question: "Where was the sacred fire kept?"
+        answer: "THE TEMPLE OF VESTA"
+      - question: "What priests interpreted the flight of birds?"
+        answer: "AUGURS"
+      - question: "What priests interpreted the entrails of animals?"
+        answer: "<latin>HARUSPICES</latin>"
+  - tossup:
+      question: "What is the genitive gerund of <latin>ferre</latin>?"
+      answer: "<latin>FERENDI</latin>"
+    boni:
+      - question: "What is the genitive gerund of <latin>eo</latin>?"
+        answer: "<latin>EUNDI</latin>"
+      - question: "What is the gerund of <latin>possum</latin>?"
+        answer: "THERE IS NONE"
+      - question: "What participle is identical in form to the gerundive?"
+        answer: "<latin>FUTURE PASSIVE</latin>"
+  - tossup:
+      question: "Who made the first lyre?"
+      answer: "MERCURY"
+    boni:
+      - question: "What was his raw material?"
+        answer: "A TURTLE SHELL"
+      - question: "Who did he give it to?"
+        answer: "APOLLO"
+      - question: "What mortal played it best?"
+        answer: "ORPHEUS"

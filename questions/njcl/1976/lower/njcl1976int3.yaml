@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 3
+questions:
+  - tossup:
+      question: "What is abbreviated etc?"
+      answer: "<latin>ET CETERA</latin>"
+    boni:
+      - question: "What is abbreviated i.e.?"
+        answer: "<latin>ID EST</latin>"
+      - question: "What is abbreviated e.g.?"
+        answer: "<latin>EXEMPLI GRATIA</latin>"
+      - question: "What is abbreviated MD?"
+        answer: "<latin>MEDICINAE DOCTOR</latin>"
+  - tossup:
+      question: "Who left his plow to become dictator of Rome?"
+      answer: "CINCINNATUS"
+    boni:
+      - question: "What Road runs through the Forum?"
+        answer: "THE <latin>VIA SACRA</latin>"
+      - question: "What Roman was buried in the Forum?"
+        answer: "JULIUS CAESAR"
+      - question: "What Roman jumped into a chasm in the Forum?"
+        answer: "CURTIUS"
+  - tossup:
+      question: "Who was the mother of the Minotuar?"
+      answer: "PASIPHAË"
+    boni:
+      - question: "The mother of Telemachus?"
+        answer: "PENELOPE"
+      - question: "The mother of Romulus and Remus?"
+        answer: "RHEA SILVIA"
+      - question: "The mother of Perseus?"
+        answer: "DANAË"
+  - tossup:
+      question: "What is the positive degree of <latin>maxime</latin>?"
+      answer: "<latin>MAGNOPERE</latin>"
+    boni:
+      - question: "The comparative?"
+        answer: "<latin>MAIUS</latin>"
+      - question: "What is the comparative degree of <latin>bene</latin>?"
+        answer: "<latin>MELIUS</latin>"
+      - question: "What is its superlative?"
+        answer: "<latin>OPTIME</latin>"
+  - tossup:
+      question: "What early Roman is famous for defending a bridge to ward off the Etruscans?"
+      answer: "HORATIUS (COCLES)"
+    boni:
+      - question: "Who was commanding the Etruscans?"
+        answer: "LARS PORSENNA"
+      - question: "Who burned off his right hand to show Lars Porsenna Roman <latin>fortitudo</latin>?"
+        answer: "(Q. MUCIUS) SCAEVOLA"
+      - question: "Who escaped Lars Porsenna and was returned to him to show Roman <latin>fides</latin>?"
+        answer: "CLOELIA"
+  - tossup:
+      question: "What priestess of Apollo sat at Delphi?"
+      answer: "PYTHIA"
+    boni:
+      - question: "What priestess of Apollo was a Trojan princess?"
+        answer: "CASSANDRA"
+      - question: "Who took Aeneas to Hades?"
+        answer: "THE SIBYL"
+      - question: "What was Apollo's tree, to remind him of Daphne?"
+        answer: "THE LAUREL"
+  - tossup:
+      question: "Spell Aphrodite."
+      answer: "A-P-H-R-O-D-I-T-E"
+    boni:
+      - question: "Spell Andromache."
+        answer: "A-N-D-R-O-M-A-C-H-E"
+      - question: "Spell Ascanius."
+        answer: "A-S-C-A-N-I-U-S"
+      - question: "Spell Persephone."
+        answer: "P-E-R-S-E-P-H-O-N-E"
+  - tossup:
+      question: "The Romans discovered what now common building material used in the construction of the Colosseum?"
+      answer: "CONCRETE"
+    boni:
+      - question: "What large building in Rome was constructed by Agrippa for all the gods?"
+        answer: "THE PANTHEON"
+      - question: "What building in the Forum housed public records?"
+        answer: "THE <latin>TABULARIUM</latin>"
+      - question: "What Roman baths still stand and provide a breathtaking setting for summer opera?"
+        answer: "THE BATHS OF CARACALLA"
+  - tossup:
+      question: "Who was the centaur who instructed many heroes?"
+      answer: "CHEIRON"
+    boni:
+      - question: "What city was founded by Cadmus?"
+        answer: "THEBES"
+      - question: "What monster terrorized Thebes with a riddle?"
+        answer: "SPHINX"
+      - question: "What was the correct answer to the riddle?"
+        answer: "“MAN”"
+  - tossup:
+      question: "What results from the contraction of <latin>magis</latin> and <latin>volo</latin>?"
+      answer: "<latin>MALO</latin>"
+    boni:
+      - question: "What is its present infinitive?"
+        answer: "<latin>MALLE</latin>"
+      - question: "What is its second person singular present indicative?"
+        answer: "<latin>MAVIS</latin>"
+      - question: "What is its third person plural pluperfect active subjunctive?"
+        answer: "<latin>MALUISSENT</latin>"
+  - tossup:
+      question: "Who was the first Christian emperor?"
+      answer: "CONSTANTINE I / THE GREAT"
+    boni:
+      - question: "Where does an arch in his honor stand?"
+        answer: "IN ROME, NEAR THE COLOSSEUM"
+      - question: "What other arches stand in the Forum?"
+        answer: "TITUS and SEPTIMUS SEVERUS"
+  - tossup:
+      question: "What was the Roman name of Hermes?"
+      answer: "MERCURY"
+    boni:
+      - question: "Who turned Arachne into a spider?"
+        answer: "MINERVA"
+      - question: "Why a spider?"
+        answer: "ARACHNE HAD CHALLENGED HER TO A WEAVING CONTEST"
+      - question: "What had Arachne woven into her tapestry to arouse Minerva's wrath?"
+        answer: "THE MISDEEDS OF THE IMMORTALS"
+  - tossup:
+      question: "What case is required by <latin>utor</latin>?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "Without regard to long or short vowels, how many cases of the noun <latin>vultus</latin> are spelled <latin>vultus</latin>?"
+        answer: "FOUR"
+      - question: "What is the present passive infinitive of <latin>sumo</latin>?"
+        answer: "<latin>SUMI</latin>"
+      - question: "What is the singular imperative of <latin>duco</latin>?"
+        answer: "<latin>DUC</latin>"
+  - tossup:
+      question: "Who was Rome's first emperor?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Who was Rome's last early king?"
+        answer: "TARQUIN(IUS) SUPERBUS / THE PROUD"
+      - question: "Where was Cicero quaestor?"
+        answer: "SICILY"
+      - question: "Where was Caesar born?"
+        answer: "IN ROME"
+      - question: "What was the term of service for a professional Roman soldier?"
+        answer: "TWENTY YEARS"
+  - tossup:
+      question: "What was the name of the guard dog of Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "Who was the boatman of the Styx?"
+        answer: "CHARON"
+      - question: "What was the river of fire in Hades?"
+        answer: "PHLEGETHON"
+      - question: "What was the river of forgetfulness?"
+        answer: "LETHE"

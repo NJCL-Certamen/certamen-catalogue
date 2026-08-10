@@ -1,0 +1,150 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 2
+questions:
+  - tossup:
+      question: "Whose conspiracy threatened Rome during Cicero's consulship?"
+      answer: "CATILINE"
+    boni:
+      - question: "Who opposed Marius in the Civil War?"
+        answer: "(P. CORNELIUS) SULLA (FELIX)"
+      - question: "What general triumphed over Hannibal?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)"
+      - question: "Who often said, “<latin>Carthago delenda est</latin>”?"
+        answer: "(M. PORCIUS) CATO THE ELDER / THE CENSOR / <latin>MAIOR / CENSORIUS</latin>"
+  - tossup:
+      question: "Who offered Death her own life to save the life of her husband Admetus?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Who wrestled with Death to save Alcestis' life?"
+        answer: "HERCULES"
+      - question: "What god, as a penalty from Zeus, was for a year a servant of Admetus?"
+        answer: "APOLLO"
+      - question: "What had Apollo done?"
+        answer: "KILLED THE CYCLOPES"
+  - tossup:
+      question: "How do you say “one mile” in Latin?"
+      answer: "<latin>MILLE PASSŪS</latin>"
+    boni:
+      - question: "What is the third person plural pluperfect indicative of <latin>sum</latin>?"
+        answer: "<latin>FUERANT</latin>"
+      - question: "What is the second person singular perfect indicative of <latin>sedeo</latin>?"
+        answer: "<latin>SEDISTI</latin>"
+      - question: "What is the first person singular perfect subjunctive of <latin>sequor</latin>?"
+        answer: "<latin>SECUTUS SIM</latin>"
+  - tossup:
+      question: "What was the date of the formation of the first triumvirate?"
+      answer: "60 BC"
+    boni:
+      - question: "Who were the members of the second triumvirate?"
+        answer: "LEPIDUS, MARC ANTONY, OCTAVIAN"
+  - tossup:
+      question: "Who was the god with the epithet <latin>Stator</latin>?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who was his sister and wife?"
+        answer: "JUNO"
+      - question: "Who else among the Olympians were his sisters?"
+        answer: "DEMETER and VESTA"
+  - tossup:
+      question: "What is the nominative plural of <latin>senatus</latin>?"
+      answer: "<latin>SENATŪS</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>virtus</latin>?"
+        answer: "<latin>VIRTUTES</latin>"
+      - question: "What is the nominative plural of <latin>vulnus</latin>?"
+        answer: "<latin>VULNERA</latin>"
+      - question: "What is the nominative plural of <latin>morbus</latin>?"
+        answer: "<latin>MORBI</latin>"
+  - tossup:
+      question: "What name for Italy means “the land in the west”?"
+      answer: "HESPERIA"
+    boni:
+      - question: "What town was founded by Iulus?"
+        answer: "ALBA LONGA"
+      - question: "Who was the last of the Julio-Claudian emperors?"
+        answer: "NERO"
+      - question: "What dynasty followed the Julio-Claudian?"
+        answer: "FLAVIAN"
+  - tossup:
+      question: "Who was sent on twelve labors?"
+      answer: "HERCULES"
+    boni:
+      - question: "What king sent him?"
+        answer: "EURYSTHEUS"
+      - question: "For whom did Hercules have to hold up the sky?"
+        answer: "ATLAS"
+      - question: "In what land did Hercules get his lion skin?"
+        answer: "NEMEA"
+  - tossup:
+      question: "What is the first person singular perfect active indicative of <latin>tollo</latin>?"
+      answer: "<latin>SUSTULI</latin>"
+    boni:
+      - question: "What is the third person plural perfect passive subjunctive of <latin>tollo</latin>?"
+        answer: "<latin>SUBLATI SINT</latin>"
+      - question: "What is its second person plural future passive indicative?"
+        answer: "<latin>TOLLEMINI</latin>"
+      - question: "What is the first person singular perfect active indicative of audeo?"
+        answer: "<latin>AUSUS SUM</latin>"
+  - tossup:
+      question: "<latin>Tormenta</latin> is the general name for what devices?"
+      answer: "CATAPULTS AND OTHER HURLING DEVICES (SIEGE MACHINES)"
+    boni:
+      - question: "Identify the siege machine called <latin>aries</latin>."
+        answer: "BATTERING RAM"
+      - question: "Identify the siege machine called <latin>scalae</latin>"
+        answer: "LADDERS"
+      - question: "Identify the siege machine called <latin>testudo</latin>"
+        answer: "INTERLOCKED OVERHEAD SHIELDS"
+  - tossup:
+      question: "Who was the god of earthquakes?"
+      answer: "POSEIDON / NEPTUNE"
+    boni:
+      - question: "The god of boundaries?"
+        answer: "TERMINUS"
+      - question: "The goddess of the rainbow?"
+        answer: "IRIS"
+      - question: "The god of healing?"
+        answer: "ASCLEPIUS / AESCULAPIUS"
+  - tossup:
+      question: "What is the present infinitive of <latin>volo</latin>?"
+      answer: "<latin>VELLE</latin>"
+    boni:
+      - question: "What is its third person singular present indicative?"
+        answer: "<latin>VULT</latin>"
+      - question: "What is its perfect infinitive?"
+        answer: "<latin>VOLUISSE</latin>"
+      - question: "What is its first person singular present subjunctive?"
+        answer: "<latin>VELIM</latin>"
+  - tossup:
+      question: "Who was the gladiator who led a slave revolt in 73 BC?"
+      answer: "SPARTACUS"
+    boni:
+      - question: "What Roman general defeated him only to have Pompey get most of the credit?"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "On what mountain did Spartacus take refuge?"
+        answer: "VESUVIUS"
+      - question: "Did Spartacus ever fight in the Colosseum?"
+        answer: "NO!"
+  - tossup:
+      question: "What nymph was a consort of King Numa?"
+      answer: "EGERIA"
+    boni:
+      - question: "What god is called <latin>Optimus Maximus</latin>?"
+        answer: "JUPITER"
+      - question: "What god is called <latin>Ultor</latin>?"
+        answer: "MARS"
+      - question: "What Greek goddess is called Pallas?"
+        answer: "ATHENA"
+  - tossup:
+      question: "Correct the following paradigm: <latin>tria, triorum, tribus, tria, tribus</latin>."
+      answer: "<latin>TRIUM</latin>, NOT <latin>TRIORUM</latin>"
+    boni:
+      - question: "What is the nominative plural of the noun <latin>vis</latin>?"
+        answer: "<latin>VIRES</latin>"
+      - question: "What is the universal genitive singular of <latin>unus</latin>?"
+        answer: "<latin>UNIUS</latin>"
+      - question: "What is the universal dative singular of <latin>totus</latin>?"
+        answer: "<latin>TOTI</latin>"
+        

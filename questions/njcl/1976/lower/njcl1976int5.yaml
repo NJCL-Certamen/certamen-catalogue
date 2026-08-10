@@ -1,0 +1,151 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 5
+questions:
+  - tossup:
+      question: "What English word is the Roman-numeral for 1009?"
+      answer: "MIX"
+    boni:
+      - question: "Express 262 in Roman numerals."
+        answer: "CCLXII"
+      - question: "Express 144 in Roman numberals."
+        answer: "CXLIV (or CXXXXIIII)"
+      - question: "Express 804 in Roman numerals"
+        answer: "DCCCIV"
+  - tossup:
+      question: "Who were Jupiter's parents?"
+      answer: "SATURN AND RHEA / OPS"
+    boni:
+      - question: "Who were Apollo's parents?"
+        answer: "JUPITER AND LATONA"
+      - question: "Who were Aesculapius' parents?"
+        answer: "APOLLO AND CORONIS"
+      - question: "Who were Hermes' parents?"
+        answer: "JUPITER AND MAIA"
+  - tossup:
+      question: "What case is demanded by the preposition <latin>de</latin>?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What cases follows <latin>super</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What cases follows <latin>apud</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What cases follows <latin>satis</latin>?"
+        answer: "GENITIVE"
+  - tossup:
+      question: "How many Punic Wars were there?"
+      answer: "THREE"
+    boni:
+      - question: "Which Punic War witnessed the battle of Zama?"
+        answer: "SECOND"
+      - question: "Which Punic War witnessed the annexation as provinces of Sicily, Sardinia, and Corsica?"
+        answer: "FIRST"
+      - question: "Which Punic War witnessed the battle of Cannae?"
+        answer: "SECOND"
+  - tossup:
+      question: "Which side did Juno favor in the Trojan War?"
+      answer: "THE Greeks"
+    boni:
+      - question: "Which side did Poseidon favor?"
+        answer: "GREECE"
+      - question: "Which side did Apollo favor?"
+        answer: "TROY"
+      - question: "Which side did Aphrodite favor?"
+        answer: "TROY"
+  - tossup:
+      question: "What can an intransitive verb not have?"
+      answer: "A DIRECT OBJECT"
+    boni:
+      - question: "Is <latin>sto</latin> transitive or intransitive?"
+        answer: "INTRANSITIVE"
+      - question: "Is <latin>resisto</latin> transitive or intransitive?"
+        answer: "INTRANSITIVE IN LATIN (TAKES DATIVE OBJECT)"
+      - question: "Is <latin>habeo</latin> transitive or intransitive?"
+        answer: "TRANSITIVE"
+  - tossup:
+      question: "What was the year of Caesar's birth?"
+      answer: "102 / 100 BC"
+    boni:
+      - question: "What was the original terminus of the Appian Way?"
+        answer: "CAPUA"
+      - question: "What king of the Suebi was defeated by Caesar?"
+        answer: "ARIOVISTUS"
+      - question: "What political opponent of Caesar killed himself in Africa after the death there of Pompey?"
+        answer: "(M. PORCIUS) CATO THE YOUNGER / THE PHILOSOPHER / <latin>MINOR</latin>"
+  - tossup:
+      question: "Who turned Odysseus' men into swine?"
+      answer: "CIRCE"
+    boni:
+      - question: "What god intervened to save Odysseus from the same fate?"
+        answer: "HERMES"
+      - question: "How long was Odysseus with Circe?"
+        answer: "ONE YEAR"
+      - question: "What was the name of her island?"
+        answer: "AEAEA"
+  - tossup:
+      question: "How many active infinitives can a Latin verb have?"
+      answer: "THREE"
+    boni:
+      - question: "Give all three infinitives of <latin>do</latin>.
+        answer: "<latin>DARE, DEDISSE, DATURUS ESSE</latin>"
+  - tossup:
+      question: "What Roman admiral was hostage of the Carthaginians and an inspiration to the Romans?"
+      answer: "(M. ATILIUS) REGULUS"
+    boni:
+      - question: "Who was the father of Hannibal?"
+        answer: "HAMILCAR BARCA"
+      - question: "Who was Hannibal's brother?"
+        answer: "HASDRUBAL MAGO"
+      - question: "Where did Hannibal commit suicide?"
+        answer: "BITHYNIA (ASIA MINOR)"
+  - tossup:
+      question: "Who was the beloved of Orpheus?"
+      answer: "EURYDICE"
+    boni:
+      - question: "How did she die?"
+        answer: "SNAKEBITE"
+      - question: "Why could Orpheus not win her back from Hades?"
+        answer: "HE BROKE HIS SOLEMN PROMISE AND LOOKED BACK AT HER DURING THE ASCENT"
+      - question: "How did Orpheus die?"
+        answer: "TORN APART BY MAENADS"
+  - tossup:
+      question: "What is the vocative of the phrase <latin>mea mater</latin>?"
+      answer: "<latin>MEA MATER</latin>"
+    boni:
+      - question: "What is the vocative of <latin>meus pater</latin>?"
+        answer: "<latin>MI PATER</latin>"
+      - question: "What is the vocative of <latin>mea soror</latin>?"
+        answer: "<latin>MEA SOROR</latin>"
+      - question: "What is the vocative of <latin>meus filius</latin>?"
+        answer: "<latin>MI FILI</latin>"
+  - tossup:
+      question: "What was a <latin>biga</latin>?"
+      answer: "A TWO-HORSE CHARIOT"
+    boni:
+      - question: "What was a trireme?"
+        answer: "THE STANDARD ROMAN WARSHIP"
+      - question: "What was a <latin>corvus</latin>?"
+        answer: "A SPIKED PLANK FOR BOARDING ENEMY SHIPS"
+      - question: "What was a <latin>galea</latin>?"
+        answer: "A HELMET"
+  - tossup:
+      question: "Who demanded of his father Apollo that he be allowed to drive the chariot of the sun?"
+      answer: "PHAËTHON"
+    boni:
+      - question: "Who was Phaëthon's mother?"
+        answer: "CLYMENE"
+      - question: "How did he die?"
+        answer: "ZEUS STRUCK HIM WITH A THUNDERBOLT"
+      - question: "What happened to his sisters, the Heliades?"
+        answer: "THEY WERE TURNED INTO POPLAR TREES"
+  - tossup:
+      question: "What is the genitive plural of <latin>cinis</latin>?"
+      answer: "<latin>CINERUM</latin>"
+    boni:
+      - question: "What is the ablative singular of <latin>vulnus</latin>?"
+        answer: "<latin>VULNERE</latin>"
+      - question: "What is the ablative plural of <latin>bos</latin>?"
+        answer: "<latin>BOBUS</latin>"
+      - question: "What is the nominative plural of </latin>os</latin>, “bone”?"
+        answer: "<latin>OSSA</latin>"

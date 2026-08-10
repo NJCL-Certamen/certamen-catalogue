@@ -1,6 +1,8 @@
 links:
 - rel: 1975 NJCL Certamen Intermediate Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int1.yaml
+- rel: 1975 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intFinals.yaml
 - rel: 1975 NJCL Certamen Intermediate Third Place Round
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3rdPlace.yaml
 - rel: 1975 NJCL Certamen Intermediate Round 3
@@ -11,6 +13,8 @@ links:
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis.yaml
 - rel: 1975 NJCL Certamen Intermediate Semifinals 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis2.yaml
+- rel: 1975 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv1.yaml
 - rel: 1976 NJCL Certamen Intermediate Round 6
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int6.yaml
 - rel: 1976 NJCL Certamen Intermediate Semifinals 3

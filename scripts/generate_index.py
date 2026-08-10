@@ -28,7 +28,8 @@ def process_file(yaml_path: Path, path: str) -> dict[str, Any] | None:
       "href": f"{path}/{yaml_path.name}",
       "year": data.get("year"),
       "tournament": data.get("tournament"),
-      "division": data.get("division")
+      "division": data.get("division"),
+      "round": data.get("round")
     }
 
 

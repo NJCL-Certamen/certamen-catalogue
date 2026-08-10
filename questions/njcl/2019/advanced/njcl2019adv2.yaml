@@ -109,12 +109,12 @@ questions:
         answer: "<title><latin>DIALOGUS <latin>DĒ ŌRĀTŌRIBUS</latin> / DIALOGUE ON ORATORS<title>"
   - tossup:
       question: "Complete this analogy: <latin>sparsisse: sparsa esse :: obtulisse: _____</latin>"
-      answer: "<latin>OBLĀTA</latin> ESSE</latin>"
+      answer: "<latin>OBLĀTA ESSE</latin>"
     boni:
-      - question: "Complete this analogy: <latin>spargō</latin>: sparsus esse :: <latin>tundō</latin> : _____</latin>"
-        answer: "<latin>TŪNSUS</latin>/<latin>TŪSUS</latin> ESSE</latin>"
-      - question: "Complete this analogy: <latin>spargō</latin>: spargere :: geram : _____</latin>"
-        answer: "<latin>GESTŪRUS</latin> (-A/-UM) (ESSE)</latin>"
+      - question: "Complete this analogy: <latin>spargō: sparsus esse :: tundō : _____</latin>"
+        answer: "<latin>TŪNSUS/TŪSUS ESSE</latin>"
+      - question: "Complete this analogy: <latin>spargō: spargere :: geram : _____</latin>"
+        answer: "<latin>GESTŪRUS (-A/-UM) (ESSE)</latin>"
   - tossup:
       question: "What work of Latin literature features the characters Quartilla, Ascyltus, Giton, and Encolpius?"
       answer: "<title><latin>SATYRICON</latin></title>"

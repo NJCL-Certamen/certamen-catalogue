@@ -1,0 +1,147 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Semifinals
+questions:
+  - tossup:
+      question: "What are the principal parts of <latin>egredior</latin>?"
+      answer: "<latin>EGREDIOR, EGREDI, EGRESSUS SUM</latin>"
+    boni:
+      - question: "What is its second person plural future indicative?"
+        answer: "<latin>EGREDIEMINI</latin>"
+      - question: "What is its third person singular imperfect subjunctive?"
+        answer: "<latin>EGREDERETUR</latin>"
+      - question: "What is its first person singular pluperfect subjunctive?"
+        answer: "<latin>EGRESSUS ESSEM</latin>"
+  - tossup:
+      question: "Who fashioned the first man and woman from clay?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "What did he steal from the gods and give to man?"
+        answer: "FIRE"
+      - question: "How was he punished?"
+        answer: "A VULTURE GNAWS HIS LIVER"
+      - question: "Where is he so punished?"
+        answer: "CHAINED TO MT. CAUCASUS"
+  - tossup:
+      question: "What was the sacred boundary around Rome?"
+      answer: "THE <latin>POMERIUM</latin>"
+    boni:
+      - question: "The Colossus which gave the Colosseum its name was in whose likeness?"
+        answer: "NERO'S"
+      - question: "What structure did the Colosseum replace?"
+        answer: "NERO'S <latin>DOMUS AUREA</latin>"
+      - question: "What is the proper name for the Colosseum?"
+        answer: "THE FLAVIAN AMPHITHEATRE"
+  - tossup:
+      question: "What do the verbs <latin>fido</latin> and <latin>soleo</latin> have in common?"
+      answer: "THEY ARE SEMI-DEPONENT"
+    boni:
+      - question: "What tenses exist only in the passive form in semi-deponent verbs?"
+        answer: "PERFECT, PLUPERFECT, FUTURE PERFECT"
+  - tossup:
+      question: "Who was Gaia's offspring and mate?"
+      answer: "URANUS"
+    boni:
+      - question: "Their offspring included Prometheus and Saturn. What group did these brothers belong to?"
+        answer: "THE TITANS"
+      - question: "How many were there?"
+        answer: "TWELVE"
+      - question: "Who overthrew them?"
+        answer: "JUPITER"
+  - tossup:
+      question: "What was an <latin>impluvium</latin>?"
+      answer: "RAIN BASIN"
+    boni:
+      - question: "In what room of the house was it found?"
+        answer: "THE <latin>ATRIUM</latin>"
+      - question: "What was the hole through which the rain fell?"
+        answer: "<latin>COMPLUVIUM</latin>"
+      - question: "What did the Romans call apartment houses?"
+        answer: "<latin>INSULAE</latin>"
+  - tossup:
+      question: "Generally, what is the gender of trees?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of rivers?"
+        answer: "MASCULINE"
+      - question: "What is the gender of months?"
+        answer: "MASCULINE"
+      - question: "What is the gender of indeclinable nouns?"
+        answer: "NEUTER"
+  - tossup:
+      question: "What was the name of the winged horse?"
+      answer: "PEGASUS"
+    boni:
+      - question: "What hero rode him?"
+        answer: "BELLEROPHON"
+      - question: "Spell Bellerophon"
+        answer: "B-E-L-L-E-R-O-P-H-O-N"
+      - question: "Spell the name of the monster he slew."
+        answer: "C-H-I-M-A-E-R-A"
+  - tossup:
+      question: "What terrific defeat did the Romans suffer at the hands of Hannibal?"
+      answer: "CANNAE"
+    boni:
+      - question: "What commander of the Romans was killed?"
+        answer: "AEMILIUS PAULLUS"
+      - question: "What was the year of the battle?"
+        answer: "216 BC"
+      - question: "What section of Italy is Cannae in?"
+        answer: "APULIA (SE, EAST COAST)"
+  - tossup:
+      question: "What is the singular imperative of <latin>sequor</latin>?"
+      answer: "<latin>SEQUERE</latin>"
+    boni:
+      - question: "What is the third person plural perfect subjunctive of <latin>sequor</latin> with a neuter subject?"
+        answer: "<latin>SECUTA SINT</latin>"
+      - question: "What is the second person singular present indicative of <latin>sequor</latin>?"
+        answer: "<latin>SEQUERIS</latin>"
+      - question: "What is its first person plural imperfect indicative?"
+        answer: "<latin>SEQUEBAMINI</latin>"
+  - tossup:
+      question: "What was the metamorphosis of Callisto?"
+      answer: "INTO A BEAR"
+    boni:
+      - question: "What old couple were simultaneously turned into trees?"
+        answer: "BAUCIS AND PHILEMON"
+      - question: "What two disguised gods had they been kind to?"
+        answer: "ZEUS AND HERMES // JUPITER AND MERCURY"
+      - question: "What was their house turned into?"
+        answer: "A TEMPLE OR SHRINE"
+  - tossup:
+      question: "When did Caesar become <latin>proconsul</latin> in Gaul?"
+      answer: "58 BC"
+    boni:
+      - question: "What are the <latin>tres partes</latin> into which Caesar divides Gaul?"
+        answer: "AQUITANIA, BELGIUM, AND THE CELTAE"
+  - tossup:
+      question: "What case object is demanded by the verbs <latin>noceo, parco</latin>, and <latin>persuadeo</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "Translate into Latin: Do not harm her."
+        answer: "<latin>NOLI / NOLITE EI NOCERE</latin>"
+      - question: "Translate into Latin: Spare the bravest soldiers."
+        answer: "<latin>PARCE / PARCITE MILITIBUS FORTISSIMIS</latin>"
+      - question: "Translate into Latin: Persuade your king."
+        answer: "<latin>PERSUADE / PERSUADETE TUO / VESTRO REGĪ</latin>"
+  - tossup:
+      question: "What does Neptune always carry?"
+      answer: "A TRIDENT"
+    boni:
+      - question: "Who carries a shield with Medusa's head on it?"
+        answer: "MINERVA"
+      - question: "Who carried the caduceus?"
+        answer: "MERCURY"
+      - question: "What goddess carried bow and arrow?"
+        answer: "DIANA"
+  - tossup:
+      question: "What name was given to the series of Roman political offices?"
+      answer: "THE <latin>CURSUS HONORUM</latin>"
+    boni:
+      - question: "Which officer's duties were chiefly judicial?"
+        answer: "PRAETOR"
+      - question: "Which officer was a commissioner of public works?"
+        answer: "AEDILE"
+      - question: "Which office was at the top of the <latin>cursus honorum</latin>?"
+        answer: "CONSUL"

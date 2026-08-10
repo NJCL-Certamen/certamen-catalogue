@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What are the principal parts of <latin>veto</latin>?"
+      answer: "<latin>VETO, VETARE, VETUI, VETITUM</latin>"
+    boni:
+      - question: "What does this verb mean?"
+        answer: "“FORBID”"
+      - question: "What is its first person singular pluperfect active subjunctive?"
+        answer: "<latin>VETUISSEM</latin>"
+      - question: "What is its third person plural future passive indicative?"
+        answer: "<latin>VETABUNTUR</latin>"
+  - tossup:
+      question: "To what group do the following names all refer: Semnae, Erinyes, Eumenides, Dirae?"
+      answer: "THE FURIES"
+    boni:
+      - question: "Who was pursued by the Furies for murdering his mother?"
+        answer: "ORESTES"
+      - question: "What god aided him in escaping the curse of the Furies?"
+        answer: "APOLLO"
+      - question: "Who was his sister who aided him in the murder?"
+        answer: "ELECTRA"
+  - tossup:
+      question: "What great-uncle of Romulus and Remus usurped the throne of Alba Longa from his brother and was killed by the famous brothers?"
+      answer: "AMULIUS"
+    boni:
+      - question: "Who was his brother, the rightful king?"
+        answer: "NUMITOR"
+      - question: "Who was the shepherd who guarded Romulus and Remus?"
+        answer: "FAUSTULUS"
+      - question: "Who was their divine father?"
+        answer: "MARS"
+  - tossup:
+      question: "What is the meaning of the noun <latin>coniunx</latin>?"
+      answer: "“SPOUSE”"
+    boni:
+      - question: "What verb is it related to?"
+        answer: "<latin>IUNGO</latin>"
+      - question: "What is the accusative singular of <latin>coniunx</latin>?"
+        answer: "<latin>CONIUGEM</latin>"
+      - question: "What is the first person singular passive subjunctive perfect of <latin>iungo</latin>?"
+        answer: "<latin>IUNCTUS SIM</latin>"
+  - tossup:
+      question: "Whose death was the cause for Athens' punishment of 14 young people a year sent to Crete as Minotaur fodder?"
+      answer: "ANDROGEOS, SON OF MINOS."
+    boni:
+      - question: "What king, father of Theseus, gave his name to the sea in which he died?"
+        answer: "AEGEUS"
+      - question: "Whom did Theseus leave behind on Naxos?"
+        answer: "ARIADNE"
+      - question: "Who rescued and married her?"
+        answer: "BACCHUS"
+  - tossup:
+      question: "Who was the father of Caesar's first wife?"
+      answer: "CINNA"
+    boni:
+      - question: "Of whom was Cinna a political ally?"
+        answer: "MARIUS"
+      - question: "What was the relationship between Marius and Caesar?"
+        answer: "UNCLE-NEPHEW"
+      - question: "Who became Caesar's son-in-law?"
+        answer: "POMPEY"
+  - tossup:
+      question: "The Latin words <latin>venum</latin> and <latin>eo</latin>, ire contract to form what verb?"
+      answer: "<latin>VENEO / VENIRE</latin>"
+    boni:
+      - question: "What is its meaning?"
+        answer: "“TO BE ON SALE”"
+      - question: "What words contract to <latin>vendere</latin>?"
+        answer: "<latin>VENUM</latin> AND <latin>DARE</latin>"
+      - question: "What does <latin>vendere</latin> mean?"
+        answer: "“TO SELL”"
+  - tossup:
+      question: "Who is represented by the constellation Gemini?"
+      answer: "CASTOR AND POLLUX"
+    boni:
+      - question: "Who was their mother?"
+        answer: "LEDA"
+      - question: "Of the two, whose father was Zeus?"
+        answer: "POLLUX"
+      - question: "Who were their sisters?"
+        answer: "HELEN AND CLYTEMNESTRA"
+  - tossup:
+      question: "Who supposedly said, “How easily I could conquer the world, had I the Romans for soldiers, or they me for king”?"
+      answer: "PYRRHUS (OF EPIRUS)"
+    boni:
+      - question: "What bizarre weapon was Pyrrhus first to use against the Romans?"
+        answer: "ELEPHANTS"
+      - question: "How did the Romans rout the elephants?"
+        answer: "THEY SCARED THEM WITH FIERY MISSILES"
+      - question: "What Roman was too honorable to take a bribe from a treacherous member of Pyrrhus' staff?"
+        answer: "FABRICIUS"
+  - tossup:
+      question: "What irregular verb means “become”?"
+      answer: "<latin>FIO, FIERI</latin>"
+    boni:
+      - question: "For what verb does <latin>fio</latin> provide the passive voice?"
+        answer: "<latin>FACIO</latin>"
+      - question: "What is the perfect infinitive of <latin>fio</latin>?"
+        answer: "<latin>FACTUS ESSE</latin>"
+      - question: "What is the third person singular present subjunctive of <latin>fio<latin>?"
+        answer: "<latin>FIAT</latin>"
+  - tossup:
+      question: "What were Acheron and Cocytus?"
+      answer: "RIVERS OF THE UNDERWORLD"
+    boni:
+      - question: "Who was the father of the race of the Centaurs?"
+        answer: "IXION"
+      - question: "Who did he attempt to seduce?"
+        answer: "JUNO"
+      - question: "How did Zeus punish him?"
+        answer: "ETERNAL TORMENT ON THE WHEEL IN HADES"
+  - tossup:
+      question: "What war did the Romans fight from 92 to 90 BC?"
+      answer: "THE SOCIAL / ITALIAN / MARSIC WAR"
+    boni:
+      - question: "Why was it so called?"
+        answer: "IT WAS WAGED BY ROME'S EX-ALLIES"
+      - question: "What tribe led the others against Rome?"
+        answer: "THE SAMNITES"
+      - question: "What general led the Roman troops?"
+        answer: "SULLA"
+  - tossup:
+      question: "What does the Latin idiom <latin>pedem referre</latin> mean?"
+      answer: "RETREAT"
+    boni:
+      - question: "Translate the idiom <latin>gratiam habere</latin>."
+        answer: "“BE GRATEFUL”"
+      - question: "Translate the idiom <latin>in animo habere</latin>."
+        answer: "“INTEND”"
+      - question: "Translate the idiom <latin>orationem habere</latin>."
+        answer: "“DELIVER AN ORATION”"
+  - tossup:
+      question: "What is Vesta's Greek name?"
+      answer: "HESTIA"
+    boni:
+      - question: "What is Vulcan's Greek name?"
+        answer: "HEPHAESTUS"
+      - question: "Spell Hephaestus."
+        answer: "H-E-P-H-A-E-S-T-U-S"
+      - question: "Who did Zeus force to marry Hephaestus as a punishment to her?"
+        answer: "APHRODITE"
+  - tossup:
+      question: "Who beat whom at Pharsalus in 48 BC?"
+      answer: "CAESAR BEAT POMPEY"
+    boni:
+      - question: "Where did Pompey flee, only to meet his death there?"
+        answer: "EGYPT"
+      - question: "How did his marriage to Caesar's daughter end?"
+        answer: "WITH HER DEATH IN 54 BC"
+      - question: "What famous family did he next marry into?"
+        answer: "THE SCIPIOS"

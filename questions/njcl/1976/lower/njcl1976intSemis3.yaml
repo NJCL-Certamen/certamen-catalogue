@@ -1,0 +1,147 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Semifinals 3
+questions:
+  - tossup:
+      question: "What are the principal parts of <latin>cerno</latin>?"
+      answer: "<latin>CERNO, CERNERE, CREVI, CRETUM</latin>"
+    boni:
+      - question: "What is its first person singular imperfect passive indicative?"
+        answer: "<latin>CERNEBAR</latin>"
+      - question: "What is its second person singular present passive indicative?"
+        answer: "<latin>CERNERIS</latin>"
+      - question: "What is its first person singular pluperfect passive subjunctive?"
+        answer: "<latin>CRETUS ESSEM</latin>"
+  - tossup:
+      question: "What office was held by the Roman commander slain by the Parthians in 53 BC?"
+      answer: "TRIUMVIR - CRASSUS"
+    boni:
+      - question: "What distinguished him other than honor?"
+        answer: "TREMENDOUS WEALTH"
+      - question: "Where was the battle?"
+        answer: "CARRHAE"
+      - question: "For what rather shady business practice was he famous?"
+        answer: "BUYING BURNING HOUSES ON THE SPOT AND THEN SAVING THEM WITH HIS PRIVATE FIRE BRIGADE"
+  - tossup:
+      question: "What is the most sacred oath a god can take?"
+      answer: "BY THE RIVER STYX"
+    boni:
+      - question: "What is the food of the gods?"
+        answer: "AMBROSIA"
+      - question: "What two figures served as cupbearers to the gods?"
+        answer: "HEBE AND GANYMEDE"
+  - tossup:
+      question: "Which word of the following four is not a derivative of <latin>pes, pedis</latin>: biped, impede, pedal, pediatrician?"
+      answer: "PEDIATRICIAN"
+    boni:
+      - question: "Which of the following is not related to the verb <latin>alo, alere</latin>: altitudo, alma, alter, alumnus?"
+        answer: "ALTER"
+      - question: "Which of the following is not derived from <latin>ago</latin>: inactive, compact, cogent, transaction?"
+        answer: "COMPACT"
+      - question: "Which of the following is not derived from <latin>dico</latin>: indict, ditto, ridiculous, edict?"
+        answer: "RIDICULOUS"
+  - tossup:
+      question: "What was the full name of Pompey?"
+      answer: "GNAEUS POMPEIUS MAGNUS"
+    boni:
+      - question: "To what military campaign did Cicero commend Pompey in an oration?"
+        answer: "THE WAR AGAINST MITHRIDATES"
+      - question: "What were the names of Pompey's wives?"
+        answer: "JULIA AND CORNELIA"
+  - tossup:
+      question: "Whose wife was Amphitrite?"
+      answer: "NEPTUNE"
+    boni:
+      - question: "Whose wife was Hippolyta?"
+        answer: "THESEUS (or ACASTUS)"
+      - question: "Whose wife was Thetis?"
+        answer: "PELEUS"
+      - question: "Whose wife was Niobe?"
+        answer: "AMPHION"
+  - tossup:
+      question: "What is the first person singular present active indicative of <latin>sumo</latin>?"
+      answer: "<latin>SUMO</latin>"
+    boni:
+      - question: "What is its third person plural future perfect active indicative?"
+        answer: "<latin>SUMPSERINT</latin>"
+      - question: "What is second person plural pluperfect active subjunctive?"
+        answer: "<latin>SUMPSISSETIS</latin>"
+      - question: "Change <latin>sumpsissetis</latin> to passive."
+        answer: "<latin>SUMPTI ESSETIS</latin>"
+  - tossup:
+      question: "What was the so-called “year of confusion,” necessary so Caesar's calendar could be instituted the next year?"
+      answer: "46 BC"
+    boni:
+      - question: "Name three of the four months when the Ides fall on the fifteenth."
+        answer: "MARCH, MAY, JULY, OCTOBER"
+  - tossup:
+      question: "Who was Odysseus' son?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "To whom did he go first for news of his father?"
+        answer: "NESTOR"
+      - question: "Then to whom?"
+        answer: "MENELAÜS"
+      - question: "Where was Menelaüs king?"
+        answer: "SPARTA"
+  - tossup:
+      question: "What is the standard gender of the fifth declension?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the dative plural of <latin>res</latin>?"
+        answer: "<latin>REBUS</latin>"
+      - question: "What is the dative singular of <latin>vultus</latin>?"
+        answer: "<latin>VULTUI</latin>"
+      - question: "What is the accusative singular of <latin>cornu</latin>?"
+        answer: "<latin>CORNU</latin>"
+  - tossup:
+      question: "Who followed Augustus as emperor?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "In what year did Tiberius succeed Augustus?"
+        answer: "14 AD"
+      - question: "Who succeeded Tiberius?"
+        answer: "Caligula"
+      - question: "Who succeeded him?"
+        answer: "Claudius"
+  - tossup:
+      question: "Who among the twelve Olympians was the offspring of Jupiter and Juno?"
+      answer: "MARS"
+    boni:
+      - question: "By which of his Olympian sisters besides Juno did Jupiter have children?"
+        answer: "DEMETER"
+      - question: "Who was the child?"
+        answer: "PERSEPHONE"
+      - question: "What is the Roman name for Demeter?"
+        answer: "CERES"
+  - tossup:
+      question: "What possessive pronoun in the third person singular <emphasis>cannot</emphasis> be used reflexively?"
+      answer: "<latin>EIUS</latin>"
+    boni:
+      - question: "What is the feminine singular accusative of <latin>idem</latin>?"
+        answer: "<latin>EANDEM</latin>"
+      - question: "What is the masculine plural genitive of <latin>idem</latin>?"
+        answer: "<latin>EORUNDEM</latin>"
+      - question: "What is the neuter accusative plural of <latin>is</latin>?"
+        answer: "<latin>EA</latin>"
+  - tossup:
+      question: "Who took care of the Romans' teeth?"
+      answer: "THE BARBERS"
+    boni:
+      - question: "What were the <latin>acta diurna</latin>?"
+        answer: "PUBLIC NOTICES POSTED DAILY IN THE FORUM - THE ROMAN VERSION OF A NEWSPAPER"
+      - question: "What was the <latin>praefectus annonae</latin> in charge of?"
+        answer: "THE GRAIN SUPPLY"
+      - question: "How did the Romans preserve oysters?"
+        answer: "WASHED IN VINEGAR AND PACKED IN PITCH-SEALED JARS"
+  - tossup:
+      question: "What goddess was so remorseful over the horrors of the Iron Age that Jupiter placed her in the stars as the constellation Virgo?"
+      answer: "ASTRAEA, GODDESS OF INNOCENCE AND PURITY"
+    boni:
+      - question: "How did Jason die?"
+        answer: "CRUSHED UNDER THE ARGO, WHICH HAD FALLEN ON HIM"
+      - question: "Who was the Noah of Greek mythology?"
+        answer: "DEUCALION"
+      - question: "Who was his wife?"
+        answer: "PYRRHA"

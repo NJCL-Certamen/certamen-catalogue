@@ -1,0 +1,155 @@
+tournament: "NJCL Certamen"
+year: 1976
+division: "Intermediate"
+round: Round 6
+questions:
+  - tossup:
+      question: "What was the name of the common class in Roman society?"
+      answer: "THE PLEBEIANS"
+    boni:
+      - question: "Who were the nobility?"
+        answer: "THE PATRICIANS"
+      - question: "What two brothers, champions of the plebeians, met violent deaths in the late second century BC?"
+        answer: "THE GRACCHI"
+      - question: "Who was their mother?"
+        answer: "CORNELIA"
+  - tossup:
+      question: "How many conjugations are there?"
+      answer: "FOUR"
+    boni:
+      - question: "What is the second person plural perfect active indicative of <latin>porto</latin>?"
+        answer: "<latin>PORTAVISTIS</latin>"
+      - question: "What is the third person plural pluperfect active indicative of <latin>maneo</latin>?"
+        answer: "<latin>MANSERANT</latin>"
+      - question: "What is the first person plural imperfect passive subjunctive of <latin>audio</latin>?"
+        answer: "<latin>AUDIREMUR</latin>"
+  - tossup:
+      question: "What the Greek name for Bacchus?"
+      answer: "DIONYSUS"
+    boni:
+      - question: "What were his followers called?"
+        answer: "BACCHAE, BACCHANTES, MAENADS"
+      - question: "What king of Thebes was killed by them?"
+        answer: "PENTHEUS"
+      - question: "Who was his mother, a follower of Bacchus?"
+        answer: "AGAVE"
+  - tossup:
+      question: "What was a Roman family's dining room?"
+      answer: "<latin>TRICLINIUM</latin>"
+    boni:
+      - question: "What were the <latin>ova</latin> in a Roman meal?"
+        answer: "EGGS"
+      - question: "What were the <latin>mala</latin> in a Roman meal?"
+        answer: "APPLES"
+      - question: "What was the <latin>gustatio</latin> in a Roman meal?"
+        answer: "APPETIZER(EGGS, SHELLFISH, OR SALAD)"
+  - tossup:
+      question: "What is the gender of an infinitive?"
+      answer: "NEUTER"
+    boni:
+      - question: "What verbal supplies its oblique cases?"
+        answer: "THE GERUND"
+      - question: "What is the ablative gerund of <latin>do</latin>?"
+        answer: "<latin>DANDŌ</latin>"
+      - question: "What is the genitive gerund of <latin>debeo</latin>?"
+        answer: "<latin>DEBENDĪ</latin>"
+  - tossup:
+      question: "To whom did Paris award the golden apple?"
+      answer: "VENUS"
+    boni:
+      - question: "What had she promised him?"
+        answer: "THE MOST BEAUTIFUL WOMAN IN THE WORLD."
+      - question: "What had Juno promised him?"
+        answer: "A THRONE (POLITICAL POWER)"
+      - question: "What had Minerva promised him?"
+        answer: "VICTORY AND WISDOM"
+  - tossup:
+      question: "What were Roman <latin>thermae</latin>?"
+      answer: "BATHS"
+    boni:
+      - question: "What was the cold room?"
+        answer: "<latin>FRIGIDARIUM</latin>"
+      - question: "What was the <latin>unctorium</latin>?"
+        answer: "A ROOM FOR ANOINTING OIL"
+      - question: "What was a strigil?"
+        answer: "A SCRAPER FOR REMOVING OIL"
+  - tossup:
+      question: "What case is used for the agent in a future passive participle construction of obligation?"
+      answer: "DATIVE"
+    boni:
+      - question: "Translate: <latin>Videndus es mihi</latin>."
+        answer: "“I MUST SEE YOU.”"
+      - question: "Translate: <latin>Translate: <latin>Hoc sciendum est vobis</latin>."
+        answer: "“YOU MUST KNOW THIS.”"
+      - question: "Translate: <latin>Caesari illa agenda sunt</latin>."
+        answer: "“CAESAR MUST DO THOSE THINGS.”"
+  - tossup:
+      question: "Who, cursed by Juno, cannot speak, but only repeat what is said to her?"
+      answer: "ECHO"
+    boni:
+      - question: "Who did she fall in love with?"
+        answer: "NARCISSUS"
+      - question: "What was Narcissus' problem?"
+        answer: "HE COULD ONLY LOVE HIS OWN REFLECTION"
+      - question: "Who was turned into a sunflower for love of Apollo?"
+        answer: "CLYTIË"
+  - tossup:
+      question: "Who was Julius Caesar's first wife?"
+      answer: "CORNELIA"
+    boni:
+      - question: "How did their marriage end?"
+        answer: "WITH HER DEATH IN 68 BC"
+      - question: "Who was his second wife?"
+        answer: "POMPEIA"
+      - question: "Who was widowed by his assassination?"
+        answer: "CALPURNIA"
+  - tossup:
+      question: "What is the Latin verb meaning to grow?"
+      answer: "<latin>CRESCERE</latin>"
+    boni:
+      - question: "What is its future infinitive?"
+        answer: "<latin>CRETURUS ESSE</latin>"
+      - question: "What is its perfect infinitive?"
+        answer: "<latin>CREVISSE</latin>"
+      - question: "What is its first person plural imperfect subjunctive?"
+        answer: "<latin>CRESCEREMUS</latin>"
+  - tossup:
+      question: "Who loved Thisbe?"
+      answer: "PYRAMUS"
+    boni:
+      - question: "Where did they live?"
+        answer: "BABYLON"
+      - question: "Where did they die?"
+        answer: "TOMB OF NINUS"
+      - question: "What tree's berries turned red with their blood?"
+        answer: "THE MULBERRY"
+  - tossup:
+      question: "Who gave his name to any victory too costly to be worthwhile?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "Of what country was he king?"
+        answer: "EPIRUS"
+      - question: "Where did the Romans finally defeat him?"
+        answer: "BENEVENTUM"
+      - question: "What does Beneventum mean?"
+        answer: "“WELCOME”"
+  - tossup:
+      question: "What form is <latin>fregisse</latin>?"
+      answer: "PERFECT ACTIVE INFINITIVE OF FRANGERE"
+    boni:
+      - question: "What is its future active participle?"
+        answer: "<latin>FRACTURUS</latin>"
+      - question: "What is its second person singular active perfect indicative?"
+        answer: "<latin>FREGISTI</latin>"
+      - question: "What English adjective derives from it?"
+        answer: "FRAGILE, FRANGIBLE, FRACTIOUS"
+  - tossup:
+      question: "What goddess' tree was the myrtle?"
+      answer: "APHRODITE / VENUS"
+    boni:
+      - question: "What goddess' tree was the cypress?"
+        answer: "ARTEMIS / DIANA"
+      - question: "What was the bird of Juno?"
+        answer: "THE PEACOCK"
+      - question: "What was the bird of Jupiter?"
+        answer: "THE EAGLE"

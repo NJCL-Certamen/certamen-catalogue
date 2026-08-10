@@ -87,7 +87,7 @@ questions:
       question: "How many active infinitives can a Latin verb have?"
       answer: "THREE"
     boni:
-      - question: "Give all three infinitives of <latin>do</latin>.
+      - question: "Give all three infinitives of <latin>do</latin>."
         answer: "<latin>DARE, DEDISSE, DATURUS ESSE</latin>"
   - tossup:
       question: "What Roman admiral was hostage of the Carthaginians and an inspiration to the Romans?"

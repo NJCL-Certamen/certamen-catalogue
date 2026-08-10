@@ -29,7 +29,7 @@ questions:
         answer: "SAME CASE / ALL ARE NOMINATIVE"
   - tossup:
       question: "Translate the dependent clause in the following sentence into Latin: The sky was so bright that everyone closed their eyes."
-      answer: "<latin>UT <latin>OMNĒS OCULŌS</latin> (<latin>SUŌS</latin>) CLAUDERENT</latin>"
+      answer: "<latin>UT OMNĒS OCULŌS (SUŌS) CLAUDERENT</latin>"
     boni:
       - question: "Translate: There were those who did not close their eyes."
         answer: "<latin>ERANT</latin> [THOSE : <latin>EĪ</latin>/<latin>ALIQUĪ</latin>/<latin>NŌNNŪLLĪ</latin>] <latin>QUĪN / QUĪ NŌN OCULŌS</latin> (<latin>SUŌS</latin>) CLAUDERENT / <latin>CLAUSĒRUNT</latin>"

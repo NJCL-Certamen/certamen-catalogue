@@ -87,10 +87,10 @@ questions:
       question: "<latin>Responde Latinē: quis in familiā Rōmānā est soror mātris tuae</latin>?"
       answer: "<latin>MĀTERTERA</latin>"
     boni:
-      - question: "<latin>Responde Latinē<: quis in familiā Rōmānā est soror patris tuī/latin>?"
-        answer: "AMITA"
+      - question: "<latin>Responde Latinē: quis in familiā Rōmānā est soror patris tuī</latin>?"
+        answer: "<latin>AMITA</latin>"
       - question: "<latin>Responde Latinē: quis in familiā Rōmānā est pater aviae tuae</latin>?"
-        answer: "PROAVUS"
+        answer: "<latin>PROAVUS</latin>"
   - tossup:
       question: "Which Latin author’s wide-ranging works include all of the following: Medea, Andromache, Sota, Thyestes, Euhemerus, and Hedyphagetica?"
       answer: "(Q.) ENNIUS"

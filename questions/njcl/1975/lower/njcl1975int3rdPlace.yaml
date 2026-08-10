@@ -1,0 +1,147 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Third Place Round
+questions:
+  - tossup:
+      question: "What was the head of Roman state religion called?"
+      answer: "<latin>PONTIFEX MAXIMUS</latin>"
+    boni:
+      - question: "Who interpreted the will of the gods when auspices were taken by magistrates before any public occasion?"
+        answer: "AUGUR"
+      - question: "What priestesses directed the worship of the goddess of the hearth?"
+        answer: "VESTAL VIRGINS"
+      - question: "What were the 2 sets of household gods?"
+        answer: "<latin>LARES</latin> AND <latin>PENATES</latin>"
+  - tossup:
+      question: "Which song from <title>The Sound of Music</title> is mad up of manhy legitimate Latin words?"
+      answer: "DO RE MI"
+    boni:
+      - question: "Give the grammatical construction <emphasis>and</emphasis> meaning for <latin>do</latin>."
+        answer: "FIRST PERSON SINGULAR PRESENT TENSE - I GIVE"
+      - question: "Give the grammatical construction <emphasis>and</emphasis> meaning for <latin>re</latin>."
+        answer: "ABLATIVE SINGULAR OF <latin>RES</latin> - WITH / BY (A) THING"
+      - question: "Give the grammatical construction <emphasis>and</emphasis> meaning for <latin>mi</latin>."
+        answer: "CONTRACTED DATIVE OF <latin>EGO</latin> - TO / FOR ME // VOCATIVE SINGULAR OF <latin>MEUS</latin> - MY"
+  - tossup:
+      question: "What British queen burned London in 50 AD?"
+      answer: "BOUDICCA / BOADICEA"
+    boni:
+      - question: "What German king did Caesar put down in 58 BC?"
+        answer: "ARIOVISTUS"
+      - question: "What Numidian king did Rome fight in the early 1st century BC?"
+        answer: "JUGURTHA"
+      - question: "What king of Epirus fought Rome in the early 3rd century BC?"
+        answer: "PYRRHUS"
+  - tossup:
+      question: "Who was the god or goddess of earthquakes?"
+      answer: "POSEIDON / NEPTUNE"
+    boni:
+      - question: "Who was the god or goddess of the boundaries?"
+        answer: "TERMINUS"
+      - question: "Who was the god or goddess of the rainbow?"
+        answer: "IRIS"
+      - question: "Who was the god or goddess of the health whose shrine was at Epidaurus?"
+        answer: "ASCLEPIUS / AESCULAPIUS"
+  - tossup:
+      question: "What does the medical suffix <latin>-emia</latin> mean?"
+      answer: "BLOOD"
+    boni:
+      - question: "What does the medical suffix <latin>-otomy</latin> mean?"
+        answer: "CUT INTO"
+      - question: "What does the medical suffix <latin>-coccus</latin> mean?"
+        answer: "BACTERIA"
+      - question: "What does the medical suffix <latin>-oma</latin> mean?"
+        answer: "TUMOR"
+  - tossup:
+      question: "Give the 2nd person plural imperfect subjunctive of <latin>volo</latin> - to wish."
+      answer: "<latin>VELLETIS</latin>"
+    boni:
+      - question: "Give the 1st person plural present subjunctive of <latin>volo</latin> - to wish."
+        answer: "<latin>VELIMUS</latin>"
+      - question: "Give the 2nd person singular future indicative of <latin>volo</latin> - to wish."
+        answer: "<latin>VOLES</latin>"
+      - question: "Give the 3rd person singular present indicative of <latin>volo</latin> - to wish."
+        answer: "<latin>VULT</latin>"
+  - tossup:
+      question: "Who was the Greek historian who wrote <title>The Peloponnesian War</title>?"
+      answer: "THUCYDIDES"
+    boni:
+      - question: "What 2 sides waged this war?"
+        answer: "ATHENS AND SPARTA"
+      - question: "Which historian recorded the Persian Wars?"
+        answer: "HERODOTUS"
+      - question: "Which historian recorded Roman history from its founding to the Augustan Age?"
+        answer: "(T.) LIVIUS / LIVY"
+  - tossup:
+      question: "<latin>Quae unum oculum unumque dentem habebant</latin>?"
+      answer: <latin>GRAEAE</latin>
+    boni:
+      - question: "<latin>Quot Graeae erant</latin>?"
+        answer: "<latin>TRES</latin>"
+      - question: "<latin>Quis oculum eārum surripuit</latin>?"
+        answer: <latin>PERSEUS</latin>
+      - question: "<latin>Quam Perseus occīdit</latin>?"
+        answer: "<latin>MEDUSA(M)</latin>"
+  - tossup:
+      question: "What are the 1st and last letters of the Greek alphabet?"
+      answer: "ALPHA, OMEGA"
+    boni:
+      - question: "How many letters in the Greek alphabet?"
+        answer: "24"
+      - question: "Which Greek letter looks like our X?"
+        answer: "CHI"
+      - question: "Which Greek letter looks like our P?"
+        answer: "RHO"
+  - tossup:
+      question: "How does a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "Translate the relative pronoun in the following phrase: The women, <emphasis>to whom</emphasis> we gave the jewels."
+        answer: "<latin>QUIBUS</latin>"
+      - question: "Translate the relative pronoun in the following phrase: The boy <emphasis>whose</emphasis> father I know."
+        answer: "<latin>CUIUS</latin>"
+      - question: "Translate the relative pronoun in the following phrase: The girls whom I saw."
+        answer: "<latin>QUĀS</latin>"
+  - tossup:
+      question: "What emperor built an arch in Rome to commemorate his victory over Jerusalem?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "What emperor erected a column to mark his victory over the Dacians?"
+        answer: "(M. ULPIUS) TRAJAN(US)"
+      - question: "What emperor's arch still stands in the Forum near the Senate House?"
+        answer: "(L.) SEPTIMIUS SEVERUS'"
+      - question: "What emperor's house was called the <latin>Domus Aurea</latin>?"
+        answer: "NERO'S"
+  - tossup:
+      question: "How was Orestes punished for murdering his mother?"
+      answer: "FURIES PURSUED HIM"
+    boni:
+      - question: "Name the 3 furies?"
+        answer: "TISIPHONE, MEGAERA, ALLECTO"
+  - tossup:
+      question: "What Latin expression would you use today to indicate that something was so <emphasis>in itself</emphasis>?"
+      answer: "<latin>PER SĒ</latin>"
+    boni:
+      - question: "What Latin expression would you use today to plead no contest in court?"
+        answer: "<latin>NOLO CONTENDERE</latin>"
+      - question: "What Latin expression would you use today to describe a burglar's procedures?"
+        answer: "<latin>MODUS OPERANDI</latin>"
+      - question: "What Latin expression would you use today to say a conclusion is falsely reached?"
+        answer: "<latin>NON SEQUITUR</latin>"
+  - tossup:
+      question: "Give the Latin word and its meaning for the English derivative ventilate?"
+      answer: "<latin>VENTUS</latin> - WIND"
+    boni:
+      - question: "Give the Latin words and their meanings for the word carnivorous?"
+        answer: "<latin>CARO</latin> - MEAT, <latin>VORARE</latin> - EAT"
+      - question: "Give the Latin word and its meaning for the word procrastinate?"
+        answer: "<latin>CRAS</latin> - TOMORROW"
+  - tossup:
+      question: "What is the name given to the “heaven” or realm of the blessed spirits in the Underworld?"
+      answer: "ELYSIUM / ELYSIAN FIELDS"
+    boni:
+      - question: "Who carried souls over the river Styx?"
+        answer: "CHARON"
+      - question: "What two prerequisites had to be met before a sould could cross the Styx?"
+        answer: "HAD TO BE BURIED, HAD TO HAVE A COIN IN THE MOUTH"

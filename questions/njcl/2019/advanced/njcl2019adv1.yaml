@@ -23,9 +23,9 @@ questions:
       question: "What Latin poet of the first century B.C. was rumored to have been driven to insanity by a love potion but is more well known for rendering the <latin><title>Peri Physeos</title></latin> of Epicurus into a six-book Latin epic poem, <latin><title><latin>Dē Rērum Nātūrā</latin></title><latin>?"
       answer: "(T.) LUCRETIUS (CARUS)"
     boni:
-      - question: "To whom was Lucretius’s <latin><title><latin>Dē Rērum Nātūrā</latin></title></latin> addressed?"
+      - question: "To whom was Lucretius’s <title><latin>Dē Rērum Nātūrā</latin></title> addressed?"
         answer: "(C.) MEMMIUS"
-      - question: "According to Roman tradition, which later Latin author assumed the toga <latin>virīlis</latin> in 55 B.C., the same year that Lucretius died?"
+      - question: "According to Roman tradition, which later Latin author assumed the <latin>toga virīlis</latin> in 55 B.C., the same year that Lucretius died?"
         answer: "(P.) VERGIL(IUS) (MARO)"
   - tossup:
       question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: <latin>quī prīnceps futūrus dormīvit</latin> per <latin>mūsicam Nerōnis</latin> et erat pater <latin>duōrum imperātōrum aliōrum</latin><latin>?"

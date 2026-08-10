@@ -1,0 +1,151 @@
+tournament: NJCL Certamen
+year: 1975
+division: Intermediate
+round: Finals
+questions:
+  - tossup:
+      question: "Poseidon was the name of what Roman god?"
+      answer: "NEPTUNE"
+    boni:
+      - question: "What son of his soothed the waves by the sound of a trumpet made of a seashell?"
+        answer: "TRITON"
+      - question: "What was Neptune's gift to Athens?"
+        answer: "HORSE / SALT SPRING"
+      - question: "What gift of Athena beat Neptune's horse?"
+        answer: "OLIVE (TREE)"
+  - tossup:
+      question: "What is the imperative singular of <latin>eo</latin>?"
+      answer: "<latin>I</latin>"
+    boni:
+      - question: "What is the imperative singular of <latin>fero</latin>?"
+        answer: "<latin>FER</latin>"
+      - question: "What is the imperative singular of <latin>vinco</latin>?"
+        answer: "<latin>VINCE</latin>"
+      - question: "What is the imperative singular of <latin>conor</latin>?"
+        answer: "<latin>CONARE</latin>"
+  - tossup:
+      question: "What is the English translation of the motto <latin>nihil nisi deō</latin>?"
+      answer: "NOTHING EXCEPT FOR GOD"
+    boni:
+      - question: "Translate the motto of Dartmouth “<latin>vox clamantis in desertō</latin>” into English."
+        answer: "THE VOICE OF ONE CRYING / SHOUTING IN THE DESERT"
+      - question: "Translate the motto of Virginia “<latin>sic semper tyrranīs</latin>” into English."
+        answer: "THUS ALWAYS TO TYRANTS"
+      - question: "Translate the motto of Columbia “<latin>in lumine tuō videbimus lumen</latin>” into English."
+        answer: "IN YOUR LIGHT WE WILL SEE THE LIGHT"
+  - tossup:
+      question: "Who built the Arch of Titus?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "To whom is it dedicated?"
+        answer: "VESPASIAN"
+      - question: "What was their relationship?"
+        answer: "FATHER AND SON"
+      - question: "In what emperor's reign was a later revolt of the Jews?"
+        answer: (P. AELIUS) HADRIAN(US)
+  - tossup:
+      question: "Who could be called the Dioscuri or <latin>Tyndaridae</latin>?"
+      answer: "CASTOR AND POLYDEUCES / POLLUX"
+    boni:
+      - question: "Who is called <latin>Stator</latin>?"
+        answer: "JUPITER"
+      - question: "Who is called <latin>Ultor</latin>?"
+        answer: "MARS"
+      - question: "Who is called <latin>Līber</latin>?"
+        answer: "BACCHUS"
+  - tossup:
+      question: "What is the Latin verb meaning “to prefer”?"
+      answer: "MALO"
+    boni:
+      - question: "Of what two words is <latin>malo</latin> a contraction?"
+        answer: "<latin>MAGIS</latin> and <latin>VOLO</latin>"
+      - question: "What other verb is a contraction with <latin>volo</latin>?"
+        answer: "<latin>NOLO</latin>"
+      - question: "How would a Roman say “don't ask”?"
+        answer: "<latin>NOLI(TE) QUAERERE / (INTER)ROGARE / PETERE</latin>"
+  - tossup:
+      question: "What famous emperor ruled from 161-180 AD?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What emperor, in power in the late 3rd century AD, set up wage and price controls in a vain effort to stabilize the empire's economy?"
+        answer: "DIOCLETIAN"
+      - question: "What was the main effect of Caracalla's edict in 212?"
+        answer: "UNIVERSAL CITIZENSHIP (FOR ALL FREE-BORN MALES IN THE EMPIRE)"
+      - question: "Who was Augustus' nephew and intended successor, who did not outlive him?"
+        answer: "MARCELLUS"
+  - tossup:
+      question: "What immortal fell in love with Endymion?"
+      answer: "ARTEMIS / DIANA / SELENE / LUNA"
+    boni:
+      - question: "Name the immortal lover Anchises."
+        answer: "APHRODITE / VENUS"
+      - question: "Name the immortal lover Rhea Silvia."
+        answer: "ARES / MARS"
+      - question: "Name the immortal lover Alcmene."
+        answer: "ZEUS"
+  - tossup:
+      question: "From what Latin root verb comes the English word resurrection?"
+      answer: "<latin>SURGO / REGO</latin>"
+    boni:
+      - question: "Using Anglo-Saxon words describe the Latin derived punishment decapitation"
+        answer: "BEHEADING"
+      - question: "Using Anglo-Saxon words describe the Latin derived punishment evisceration"
+        answer: "DISEMBOWELMENT"
+      - question: "Using Anglo-Saxon words describe the Latin derived punishment defenestration"
+        answer: "BEING THROWN OUT A WINDOW"
+  - tossup:
+      question: "What is the general term for a siege engine?"
+      answer: "<latin>TORMENTUM</latin>"
+    boni:
+      - question: "What is the English for the military term <latin>testudo</latin>"
+        answer: "FORMATION IN WHICH BACK RANKS HOLD THEIR SHIELDS UP TO FORM A PROTECTION FROM MISSILES"
+      - question: "What is the English for the military term <latin>scalae</latin>"
+        answer: "(SCALING) LADDERS"
+      - question: "What is the English for the military term <latin>turris</latin>"
+        answer: "TOWER (ON WHEELS)"
+  - tossup:
+      question: "What man of the late republic was consul 7 times?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "To what party did he belong?"
+        answer: "<latin>POPULARES</latin>"
+      - question: "Who was his famous nephew?"
+        answer: "(C. IULIUS) CAESAR"
+      - question: "Who was his opponent in the Civil Wars?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "Which river in Hades signifies forgetfulness?"
+      answer: "LETHE"
+    boni:
+      - question: "Besides Lethe and Styx, what are the other 3 rivers in Hades?"
+        answer: "ACHERON, (PYRI)PHLEGETHON, COCYTUS"
+  - tossup:
+      question: "Name 1 neuter nominative plural which does not end in -a."
+      answer: "<latin>QUAE / HAEC / DUO / AMBO</latin>"
+    boni:
+      - question: "Give the genitive singular feminine of <latin>ipse</latin>."
+        answer: "<latin>IPSIUS</latin>"
+      - question: "Give the genitive singular of <latin>fides</latin>."
+        answer: "<latin>FIDEI</latin>"
+      - question: "Give the ablative singular of <latin>quercus</latin>."
+        answer: "<latin>QUERCŪ</latin>"
+  - tossup:
+      question: "What is the name given to the hardened volcanic mud under which Herculaneum lay buried for centuries."
+      answer: "TUFA"
+    boni:
+      - question: "In the 1st centuries BC and AD, who were the enemies of Rome so feared they were called the “red riders” or “red phantoms”?"
+        answer: "PARTHIANS"
+      - question: "Who is regarded as the 1st national hero of France?"
+        answer: "VERCINGETORIX"
+      - question: "What province was the personal property of the emperor without whose permission one couldn't enter?"
+        answer: "EGYPT / <latin>AEGYPTUS</latin>"
+  - tossup:
+      question: "From what Latin writing substance comes our word “paper”?"
+      answer: "<latin>PAPYRUS</latin>"
+    boni:
+      - question: "True or False, the Romans used no punctuation marks?"
+        answer: "TRUE"
+      - question: "True or False, in classical prose, the Romans did not space between words?"
+        answer: "TRUE"
+      - question: "True or False, In imperial times, the Romans used only capital letters?"
+        answer: "TRUE"

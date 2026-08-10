@@ -109,12 +109,12 @@ questions:
       question: "What third conjugation verb shares some of its archaic forms with the verb <latin>esse</latin>?"
       answer: "EDERE - TO EAT"
     boni:
-      - question: "Even the Romans always talked about the weather but never did anything about it. Translate this Latin phrase: <latin>ningit</latin>"
-        anwer: "IT IS SNOWING"
-      - question: "Translate this Latin phrase: <latin>tonat</latin>"
-        answer: "IT IS THUNDERING."
-      - question: "Translate this Latin phrase: <latin>grandinat</latin>"
-        answer: "IT IS HAILING."
+      - question: "Even the Romans always talked about the weather but never did anything about it. Translate this Latin phrase: <latin>ningit</latin>."
+        answer: "IT IS SNOWING"
+      - question: "Translate this Latin phrase: <latin>tonat</latin>."
+        answer: "IT IS THUNDERING"
+      - question: "Translate this Latin phrase: <latin>grandinat</latin>."
+        answer: "IT IS HAILING"
   - tossup:
       question: "Whom did Plato call the tenth Muse?"
       answer: "SAPPHO"

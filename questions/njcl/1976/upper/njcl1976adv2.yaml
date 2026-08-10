@@ -20,7 +20,7 @@ questions:
       - question: "Change the verb form <latin>vis</latin> to plural"
         answer: "<latin>VULTIS</latin>"
       - question: "Change the verb form <latin>porto</latin> to subjunctive"
-        anwer: "<latin>PORTEM</latin>"
+        answer: "<latin>PORTEM</latin>"
       - question: "Change the verb form <latin>faciunt</latin> to passive"
         answer: "<latin>FIUNT</latin>"
   - tossup:

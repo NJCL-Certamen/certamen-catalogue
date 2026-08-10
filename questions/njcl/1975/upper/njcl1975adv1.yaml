@@ -1,0 +1,147 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Round 1
+questions:
+  - tossup:
+      question: "Which of the 7 wonders of the world was found on the Greek mainland?"
+      answer: "STATUE OF ZEUS AT OLYMPIA"
+    boni:
+      - question: "Tell me the site of the Temple of Artemis."
+        answer: "EPHESUS"
+      - question: "Tell me the site of the Great Pyramids."
+        answer: "GIZA"
+      - question: "Tell me the site of the Tomb of King Mausolus."
+        answer: "HALICARNASSUS"
+  - tossup:
+      question: "Identify this grammatical form: <latin>potuissemus</latin>"
+      answer: "PLUPERFECT SUBJUNCTIVE (ACTIVE) 1ST PERSON PLURAL OF <latin>POSSUM</latin>"
+    boni:
+      - question: "Translate <latin>mansisse</latin>."
+        answer: "TO HAVE REMAINED"
+      - question: "Translate <latin>generosus</latin>."
+        answer: "WELL BORN"
+      - question: "Translate <latin>fatalis</latin>."
+        answer: "FATEFUL"
+  - tossup:
+      question: "To whom is Cicero's <latin><title>De Officiis</title</latin> addressed?"
+      answer: "HIS SON, MARCUS"
+    boni:
+      - question: "In what incredibly prolific year did Cicero compose many of his philosophical works, including <title>Hortensius, <latin>De Consolatione, De Finibus</latin, The Tusculan Disputations</title>, and <title><latin>De Natura Deorum</latin></title>?"
+        answer: "45 BC"
+      - question: "What is the earliest surviving complete orations of Cicero?"
+        answer: "<latin><title>PRO ROSCIO AMERINO</title></latin> (<latin><title>Pro Quinctio</title></latin> is earlier, but fragmentary)"
+      - question: "Titus Pomponius, a contemporary of Cicero, was given a nickname because of the place of his education. What is this name, by which he is commonly known?"
+        answer: "ATTICUS"
+  - tossup:
+      question: "What king of Rome as a boy had his hair catch fire and miraculously not burn?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was the wife of Servius Tullius?"
+        answer: "TARQUINIA (DAUGHTER OF TARQUINIUS PRISCUS)"
+      - question: "Whom did Servius Tullius' daughter marry?"
+        answer: "THE SONS OF TARQUINIUS PRISCUS (TARQUINIUS SUPERBUS AND ARRUNS TARQUINIUS)"
+      - question: "How was Servius Tullius killed?"
+        answer: "HIS SON-IN-LAW THREW HIM DOWN THE SENATE STEPS AND HIS DAUGHTER RAN HIM OVER WITH A CHARIOT"
+  - tossup:
+      question: "Who was the only one of the 50 Danaïds who did not murder her husband?"
+      answer: "HYPERMNESTRA"
+    boni:
+      - question: "What were the names of the 3 Gorgons?"
+        answer: "MEDUSA, EURYALE, STHENO"
+  - tossup:
+      question: "For what <latin>praenomen</latin> did the abbreviation A. stand?"
+      answer: "AULUS"
+    boni:
+      - question: "For what <latin>praenomen</latin> did the abbreviation Cn. stand?"
+        answer: "GNAEUS"
+      - question: "For what <latin>praenomen</latin> did the abbreviation D. stand?"
+        answer: "DECIMUS"
+      - question: "For what <latin>praenomen</latin> did the abbreviation Ti. stand?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "Give the neuter accusative of <latin>duo</latin>."
+      answer: "<latin>DUO</latin>"
+    boni:
+      - question: "What is the adverb of <latin>facilis</latin>?"
+        answer: "<latin>FACILE</latin>"
+      - question: "What is the genitive plural masculine of <latin>idem</latin>?"
+        answer: "<latin>EORUNDEM</latin>"
+      - question: "What is the neuter nominative plural of <latin>qui</latin>?"
+        answer: "<latin>QUAE</latin>"
+  - tossup:
+      question: "Who was invited to join the 1st Triumvirate but refused, leaving the space filled by Crassus?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "What is the meaning of the name Cicero?"
+        answer: "VETCH / CHICK-PEA"
+      - question: "Cicero and Demosthenes both delivered orations named what?"
+        answer: "PHILIPPICS"
+      - question: "Who was Cicero's arch rival at the bar?"
+        answer: "HORTENSIUS (HORTALUS)"
+  - tossup:
+      question: "What prefect of Judaea offended the Jews upon his arrival in 26 AD by bringing images of the Emperor into Jerusalem and was eventually recalled to Rome by that same emperor?"
+      answer: "PONTIUS PILATE / PILATUS"
+    boni:
+      - question: "Who was that emperor?"
+        answer: "TIBERIUS"
+      - question: "Where was Tiberius' island retreat?"
+        answer: "CAPRI / CAPREAE"
+      - question: "Whom did Tiberius leave in charge back in Rome?"
+        answer: "(AELIUS) SEJANUS"
+  - tossup:
+      question: "What Olympian deity is given the same name by both the Romans and the Greeks?"
+      answer: "APOLLO"
+    boni:
+      - question: "What is Proserpina's Greek name?"
+        answer: "PERSEPHONE"
+      - question: "Who is the Roman Poseidon?"
+        answer: "NEPTUNE"
+      - question: "Give Mercury's Greek name."
+        answer: "HERMES"
+  - tossup:
+      question: "On what Roman hill would you find the Tarpeian Rock?"
+      answer: "CAPITOLINE"
+    boni:
+      - question: "The Capitoline and Palatine are Rome's most famous hills; what are three of the other five?"
+        answer: "CAELIAN, ESQUILINE, AVENTINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "On the works of what Greek poet were Vergil's <title>Eclogues</title> based?"
+      answer: "THEOCRITUS'"
+    boni:
+      - question: "What sort of men did Pindar glorify in his poetry?"
+        answer: "ATHLETES / WARRIORS"
+      - question: "To what Greek historian do we owe much of our knowledge of the Persian king Cyrus?"
+        answer: "XENOPHON"
+      - question: "What Alexandrian Greek wrote a work of 13 books on geometry, naming it <title>The Elements</title>"
+        answer: "EUCLID"
+  - tossup:
+      question: "To what early Roman poet is a Saturnian meter epic, surviving only in a few fragments, on the Punic War attributed?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "Give an English translation or the comedy title <title><latin>Mostellaria</latin></title>"
+        answer: "THE HAUNTED HOUSE"
+      - question: "Give an English translation or the comedy title <title><latin>Aulularia</latin></title>"
+        answer: "THE POT OF GOLD"
+      - question: "Give an English translation or the comedy title <title><latin>Adelphi</latin></title>"
+        answer: "THE BROTHERS"
+  - tossup:
+      question: "How many Punic Wars were there?"
+      answer: "3"
+    boni:
+      - question: "In which did Hannibal fight?"
+        answer: "2ND"
+      - question: "What is the meaning of <latin>Punica fides</latin>"
+        answer: "FALSE PROMISES (OF THE CARTHAGINIANS) / DECEIT"
+      - question: "From the beginning of the first to the end of the last, what years do the Punic Wars cover?"
+        answer: "264-146 BC"
+  - tossup:
+      question: "Into what was the metamorphosis of Arachne?"
+      answer: "SPIDER"
+    boni:
+      - question: "Into what was the metamorphosis of Actaeon?"
+        answer: "STAG"
+      - question: "Into what was the metamorphosis of Callisto?"
+        answer: "BEAR"
+      - question: "Into what was the metamorphosis of Philemon?"
+        answer: "OAK"

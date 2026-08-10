@@ -61,7 +61,8 @@ questions:
         answer: "<latin>POSUERATIS</latin>"
       - question: "Change <latin>posueratis</latin> to passive."
         answer: "<latin>POSITI ERATIS</latin>"
-      - question: "Change <latin>positi eratis</latin> to subjunctive: <latin>POSITĪ ESSETIS</latin>"
+      - question: "Change <latin>positi eratis</latin> to subjunctive."
+        answer: "<latin>POSITĪ ESSETIS</latin>"
   - tossup:
       question: "What were the <latin>talaria</latin>?"
       answer: "THE WINGED SANDALS OF HERMES"

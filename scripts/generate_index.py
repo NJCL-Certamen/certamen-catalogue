@@ -25,7 +25,10 @@ def process_file(yaml_path: Path, path: str) -> dict[str, Any] | None:
       
     return {
       "rel": f"{data.get('year')} {data.get('tournament')} {data.get('division')} {data.get('round')}",
-      "href": f"{path}/{yaml_path.name}"
+      "href": f"{path}/{yaml_path.name}",
+      "year": data.get("year"),
+      "tournament": data.get("tournament"),
+      "division": data.get("division")
     }
 
 
@@ -49,6 +52,10 @@ def export_yaml(contents: list[dict[str, Any]]) -> int:
     for link in contents:
       file_str += f"- rel: {link.get('rel')}\n"
       file_str += f"  href: {link.get('href')}\n"
+      file_str += f"  tournament: {link.get('tournament')}\n"
+      file_str += f"  year: {link.get('year')}\n"
+      file_str += f"  division: {link.get('division')}\n"
+      file_str += f"  round: {link.get('round')}\n"
     contents_path.write_text(file_str)
     return 0
 

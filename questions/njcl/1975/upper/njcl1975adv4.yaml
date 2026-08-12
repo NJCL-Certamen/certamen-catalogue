@@ -1,0 +1,153 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Round 4
+questions:
+  - tossup:
+      question: "How did the plebs revolt against the patricians in 494 BC?"
+      answer: "LEFT CITY / REFUSED TO WORK / SECEEDED"
+    boni:
+      - question: "To what did Menenius compare the roles of the plebs and patricians in order to convince the plebs to return to work?"
+        answer: "PATRICIANS LIKE STOMACH, PLEBS LIKE LIMBS OF THE BODY, BOTH INTERDEPENDENT"
+      - question: "What was the major legal result of the 1st secession of the plebs?"
+        answer: "CREATION OF THE TRIBUNATE"
+      - question: "What temple was buil to mark the end of the struggle between the patricians and plebs?"
+        answer: "TEMPLE OF CONCORD"
+  - tossup:
+      question: "Who killed Patroclus?"
+      answer: "HECTOR"
+    boni:
+      - question: "Who killed Hector?"
+        answer: "ACHILLES"
+      - question: "Who killed Achilles?"
+        answer: "PARIS"
+      - question: "Who killed Paris?"
+        answer: "PHILOCTETES"
+  - tossup:
+      question: "In what province did Cicero serve as <latin>quaestor</latin>?"
+      answer: "SICILY / <latin>SICILIA</latin>"
+    boni:
+      - question: "Who was the governor of Sicily whom Cicero exposed?"
+        answer: "VERRES"
+      - question: "Where was Cicero's villa where he died?"
+        answer: "FORMIA(E)"
+      - question: "Who stuck pins through Cicero's tongue after his head was cut off and put on display?"
+        answer: "FULVIA (M. ANTONY'S WIFE)"
+  - tossup:
+      question: "Give the plural nominative of <latin>mille</latin>."
+      answer: "<latin>MILIA</latin>"
+    boni:
+      - question: "Give the accusative plural of <latin>miles</latin>."
+        answer: "<latin>MILITES</latin>"
+      - question: "Give the ablative singular of <latin>nemo</latin>."
+        answer: "<latin>NULLO</latin>"
+      - question: "Give the dative singular of <latin>is</latin>."
+        answer: "<latin>EĪ</latin>"
+  - tossup:
+      question: "What rhetorical or stylistic device is achieved through the repetition of the same word at the beginning of successive clauses?"
+      answer: "ANAPHORA"
+    boni:
+      - question: "What rhetorical or stylistic device is achieved by arranging words in A-B-B-A order?"
+        answer: "CHIASMUS"
+      - question: "What rhetorical or stylistic device is achieved by calling <latin>vinum</latin> Bacchus or <latin>frumentum</latin> Ceres?"
+        answer: "METONYMY"
+      - question: "What is the term for the use of an unnecessary number of copulative conjunctions in a sentence?"
+        answer: "POLYSYNDETON"
+  - tossup:
+      question: "Where did Caesar defeat Pompey?"
+      answer: "PHARSALUS"
+    boni:
+      - question: "Where did Caesar defeat the senatorial army in Spain?"
+        answer: "ILERDA"
+      - question: "Where did Caesar defeat the senatorial army in Africa?"
+        answer: "THAPSUS"
+      - question: "Where did Caesar finally defeat Pompey's sons?"
+        answer: "MUNDA"
+  - tossup:
+      question: "What ancient tale did Shakespeare use as basis for his <title>Romeo and Juliet</title>?"
+      answer: "PYRAMUS AND THISBE"
+    boni:
+      - question: "Where did Pyramus and Thisbe agree to meet?"
+        answer: "TOMB OF NINUS / OUTSIDE CITY WALLS / UNDER A MULBERRY TREE"
+      - question:  "Why are mulberries red?"
+        answer: "PYRAMUS AND THISBE' BLOOD WAS SPLASHED ON THEM"
+      - question: "What animal appears in the story of Pyramus and Thisbe?"
+        answer: "LION(NESS)"
+  - tossup:
+      question: "What did <latin>aurificēs</latin> make?"
+      answer: "GOLD JEWELRY"
+    boni:
+      - question: "What did <latin>speculariī</latin> make?"
+        answer: "MIRRORS"
+      - question: "What did <latin>eborariī</latin> make?"
+        answer: "IVORY GOODS"
+      - question: "What did <latin>fabrī soleariī</latin> make?"
+        answer: "SHOES"
+  - tossup:
+      question: "What tense is used with <latin>dum</latin>?"
+      answer: "PRESENT"
+    boni:
+      - question: "What mood of verb is used after <latin>postquam</latin>?"
+        answer: "INDICATIVE"
+      - question: "What does <latin>ut</latin> mean when used with indicative?"
+        answer: "AS / LIKE / WHEN"
+      - question: "What tense of a verb is used in a subjunctive purpose clause when the main verb is future perfect tense?"
+        answer: "PRESENT"
+  - tossup:
+      question: "Who was the author of the <title><latin>Eunuchus</latin></title>?"
+      answer: "(P.) TERENTIUS / TERENCE (AFER)"
+    boni:
+      - question: "Who was the author of the <title><latin>Carmen Saeculare</latin></title>?"
+        answer: "(Q.) HORATIUS / HORACE (FLACCUS)"
+      - question: "Who was the author of the <title><latin>Culex</latin></title>?"
+        answer: "(P.) VERGIL(IUS MARO)"
+      - question: "Who was the author of the <title><latin>De Rerum Natura</latin></title>?"
+        answer: "(T.) LUCRETIUS"
+  - tossup:
+      question: "What oath did Hannibal make as a small boy?"
+      answer: "TO FIGHT ROME ALL HIS LIFE"
+    boni:
+      - question: "How many elephants survived Hannibal's march across the Alps?"
+        answer: "1"
+      - question: "Who was Hannibal's brother?"
+        answer: "HASDRUBAL / MAGO"
+      - question: "How did Hannibal die?"
+        answer: "DRANK POISON / SUICIDE"
+  - tossup:
+      question: "Who was the blind prophet of Thebes?"
+      answer: "TEIRESIAS"
+    boni:
+      - question: "What did Oedipus do when he realized he had killed his father and married his mother?"
+        answer: "BLINDED HIMSELF"
+      - question: "What walks on 4 legs in the morning, 2 at noon, and 3 at night?"
+        answer: "MAN"
+      - question: "Who was Jocasta's brother, antagonist of Antigone?"
+        answer: "CREON"
+  - tossup:
+      question: "What name is given to Rome that suggests that it will last forever?"
+      answer: "THE ETERNAL CITY / CITTA ETERNA"
+    boni:
+      - question: "According to Lord Byron “When the Colosseum falls, Rome falls.” What does he say will happen when Rome falls?"
+        answer: "THE WORLD WILL FALL"
+      - question: "What is the proper name of the Colosseum?"
+        answer: "FLAVIAN AMPHITHEATER / <latin>AMPHITHEATRUM FLAVIUM</latin>"
+  - tossup:
+      question: "Roman dates are commonly expressed by the names of the year's consuls in what construction?"
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: "What case is used in Latin to show agent in a passive periphrastic?"
+        answer: "DATIVE"
+      - question: "What case is used in Latin to show place where with towns?"
+        answer: "LOCATIVE"
+      - question: "What case is used in Latin to show agent with a gerundive?"
+        answer: "DATIVE"
+  - tossup:
+      question: "Name the only significant prose writer of the Augustan Age."
+      answer: "LIVY"
+    boni:
+      - question: "Give Livy's whole name."
+        answer: "TITUS LIVIUS"
+      - question: "Give Horace's whole name."
+        answer: "QUINTUS HORATIUS FLACCUS"
+      - question: "Give Martial's whole name."
+        answer: "MARCUS VALERIUS MARTIALIS"

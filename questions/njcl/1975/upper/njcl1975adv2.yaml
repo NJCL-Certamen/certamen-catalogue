@@ -1,0 +1,139 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Round 2
+questions:
+  - tossup:
+      question: "Who wrote the <title>Satyricon</title>?"
+      answer: "PETRONIUS"
+    boni:
+      - question: "In Latin, what was his title in Nero's court?"
+        answer: "<latin>ARBITER ELEGANTIAE</latin>"
+      - question: "As part of what conspiracy was he forced to commit suicide?"
+        answer: "PISONIAN (CONSPIRACY)"
+      - question: "What method did he use?"
+        answer: "OPENED HIS VEINS"
+  - tossup:
+      question: "Who was the master sculptor of the Parthenon?"
+      answer: "PHIDIAS"
+    boni:
+      - question: "What 3 goddesses were involved in the judgement of Paris?"
+        answer: "HERA, ATHENA, APHRODITE // JUNO, MINERVA, VENUS"
+  - tossup:
+      question: "What was the term of service for a Roman professional soldier?"
+      answer: "20 YEARS"
+    boni:
+      - question: "Name 3 of the four months in which the Ides are on the 15th rather than the 13th."
+        answer: "MARCH, MAY, JULY, OCTOBER"
+  - tossup:
+      question: "From what Latin adjective does the proper name Letitia come?"
+      answer: "<latin>laetus</latin>"
+    boni:
+      - question: "What is the feminine singular genitive?"
+        answer: "<latin>LAETAE</latin>"
+      - question: "What is the feminine plural genitive of the comparative?"
+        answer: "<latin>LAETIORUM</latin>"
+      - question: "What is the masculine accusative plural of the superlative?"
+        answer: "<latin>LAETISSIMŌS</latin>"
+  - tossup:
+      question: "What was Vesta's Greek name?"
+      answer: "HESTIA"
+    boni:
+      - question: "Although Livy says Numa Pompilius, who was the selector of the first Vestal Virgins?"
+        answer: "AENEAS"
+      - question: "How many years did a Vestal Virgin serve?"
+        answer: "30"
+      - question: "Was she free to marry after this period?"
+        answer: "YES"
+  - tossup:
+      question: "What symbol of fertility is often found on Roman tombs?"
+      answer: "EGG"
+    boni:
+      - question: "Name the members of the 1st Triumvirate in chronological order of their deaths."
+        answer: "CRASSUS, POMPEY, CAESAR"
+  - tossup:
+      question: "Who sits forever in the chair of forgetfulness?"
+      answer: "PEIRITHOÜS"
+    boni:
+      - question: "Of whom was he king?"
+        answer: "LAPITHS"
+      - question: "Whom did he marry?"
+        answer: "HIPPODAMEIA"
+      - question: "As told by Ovid, what bloody battle broke out at the wedding?"
+        answer: "BATTLE OF THE LAPITHS AND CENTAURS"
+  - tossup:
+      question: "How many books are there in the <title>Aeneid</title>?"
+      answer: "12"
+    boni:
+      - question: "How many books are there in the <title>Eclogues</title>?"
+        answer: "10"
+      - question: "How many books are there in the <title>Georgics</title>?"
+        answer: "4"
+      - question: "By what name are the <title>Eclogues</title> also called?"
+        answer: "<title>Bucolics</title>"
+  - tossup:
+      question: "What is the nominative plural of <latin>locus</latin>?"
+      answer: "<latin>LOCA</latin>"
+    boni:
+      - question: "Give the nominative singular of <latin>carnēs</latin>."
+        answer: "<latin>CARO</latin>"
+      - question: "Give the nominative singular of <latin>vulnera</latin>."
+        answer: "<latin>VULNUS</latin>"
+      - question: "Give the nominative singular of <latin>orbēs</latin>."
+        answer: "<latin>ORBIS</latin>"
+  - tossup:
+      question: "What son of Priam was killed at an altar by Pyrrhus?"
+      answer: "POLITES"
+    boni:
+      - question: "Who was Priam's youngest son?"
+        answer: "POLYDORUS"
+      - question: "Which of his sons was killed in Helen's bedroom?"
+        answer: "DEIPHOBUS"
+      - question: "Which of his sons was killed in Thrace?"
+        answer: "POLYDORUS"
+  - tossup:
+      question: "Who ruled from 117 to 134 AD?"
+      answer: "(P. AELIUS) HADRIAN(US)"
+    boni:
+      - question: "Where is his vast villa?"
+        answer: "TIBUR (TIVOLI)"
+      - question: "Who preceded him as emperor?"
+        answer: "(M. ULPIUS) TRAJAN(US)"
+      - question: "Who followed him as emperor?"
+        answer: "ANTONINUS PIUS"
+  - tossup:
+      question: "What is an idiomatic English translation for <latin>res frumentaria</latin>?"
+      answer: "GRAIN SUPPLY"
+    boni:
+      - question: "What is an idiomatic English translation for <latin>res gestae</latin>?"
+        answer: "ACCOMPLISHMENTS"
+      - question: "What is an idiomatic English translation for <latin>res novae</latin>?"
+        answer: "REVOLUTION"
+      - question: "What is an idiomatic English translation for <latin>res publica</latin>?"
+        answer: "GOVERNMENT / STATE"
+  - tossup:
+      question: "Which Titan sided with Zeus in his war against the Titans?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "What does his name mean?"
+        answer: "FORETHOUGHT / FORESIGHT"
+      - question: "Who was his brother?"
+        answer: "EPIMETHEUS / ATLAS / MENOETIUS"
+      - question: "Who was Epimetheus' wife?"
+        answer: "PANDORA"
+  - tossup:
+      question: "What event in 70 AD is important in both Roman and Judaic histories?"
+      answer: "DESTRUCTION OF THE TEMPLE / FALL OF JERUSALEM"
+    boni:
+      - question: "Give the year of Julius Caesar's first consulship."
+        answer: "59 AD"
+      - question: "Give the year of Cicero's first consulship."
+        answer: "63 AD"
+      - question: "Give the year of Pompey the Great's first consulship."
+        answer: "70 AD"
+  - tossup:
+      question: "What change does the conjunction <latin>si</latin> make on the pronoun <latin>aliquis</latin>?"
+      answer: "BECOMES <latin>QUIS</latin> / THE <latin>ALI-</latin> DROPS AWAY"
+    boni:
+      - question: "What other words cause the same change?"
+        answer: "NISI, NUM, NE"

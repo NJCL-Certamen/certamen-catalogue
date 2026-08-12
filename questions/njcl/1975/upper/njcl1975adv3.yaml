@@ -1,0 +1,149 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Round 3
+questions:
+  - tossup:
+      question: "Who said, “<latin>O fortunatam natam me consule Romam</latin>!”?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "What Gallic tribe was instrumental in Cicero's efforts to expose the Catilinarian conspiracy?"
+        answer: "ALLOBROGES"
+      - question: "Into what prison were the Catilinarian conspirators caught in Rome thrown?"
+        answer: "MAMERTINE"
+      - question: "What enemy of Rome, upon being thrown into this infamous dungeon, exclaimed, “By Hercules, how cold your bath is!”?"
+        answer: "JUGURTHA"
+  - tossup:
+      question: "What is the plural form of the verb <latin>it</latin>"
+      answer: "<latin>EUNT</latin>"
+    boni:
+      - question: "Change the verb <latin>vult</latin> to the plural."
+        answer: "<latin>VOLUNT</latin>"
+      - question: "Change the verb <latin>vis</latin> to the plural."
+        answer: "<latin>VULTIS</latin>"
+      - question: "Change the verb <latin>vult</latin> to the plural."
+        answer: "<latin>VOLUNT</latin>"
+  - tossup:
+      question: "Who was Tantalus' famous daughter?"
+      answer: "NIOBE"
+    boni:
+      - question: "How many children did she have?"
+        answer: "14"
+      - question: "How many of them were killed?"
+        answer: "ALL / 12"
+      - question: "Who killed them?"
+        answer: "DIANA / ARTEMIS AND APOLLO"
+  - tossup:
+      question: "Who was the mother of Romulus and Remus?"
+      answer: "RHEA SILVIA / ILIA"
+    boni:
+      - question: "Who tried to prevent her from having children by making her a Vestal Virgin?"
+        answer: AMULIUS (HER UNCLE)
+      - question: "How did he punish her for having them?"
+        answer: "HAD HER BURIED ALIVE"
+      - question: "What shepherd raised them?"
+        answer: "FAUSTULUS"
+  - tossup:
+      question: "What do the neuter nouns <latin>nihil, fas</latin>, and <latin>instar</latin> have in common?"
+      answer: "THEY ARE INDECLINABLE"
+    boni:
+      - question: "What is the term for the endings <latin>-ne, -ve</latin>, and <latin>-que</latin>?"
+        answer: "ENCLITIC"
+      - question: "Does an enclitic change the accented syllable of the word to which it is attached?"
+        answer: "NOPE"
+      - question: "To what monosyllable is <latin>-ve</latin> an alternative?"
+        answer: "<latin>AUT / VEL</latin>"
+  - tossup:
+      question: "Who fulfilled a prophecy by presenting himself to his uncle wearing one shoe?"
+      answer: "JASON"
+    boni:
+      - question: "Who was Jason's father?"
+        answer: "AESON"
+      - question: "Who had ridden the golden ram to Colchis?"
+        answer: "PHRIXUS"
+      - question: "Who was his sister, who had died during the journey?"
+        answer: "HELLE"
+  - tossup:
+      question: "What great event marked 449 BC?"
+      answer: "(ESTABLISHMENT OF) THE TWELVE TABLES"
+    boni:
+      - question: "Who were the magistrates who established these laws?"
+        answer: "<latin>DECEMVIRĪ (LEGIBUS SCRIBUNDĪS)</latin>"
+      - question: "Which of the original <latin>Decemvirī</latin> was the only one reelected?"
+        answer: "APPIUS CLAUDIUS (CAUDEX INREGILLENSIS)"
+      - question: "Appius Claudius later molested a virtuous young Roman girl and made a mockery of justice by sitting as his own judge and jury. Who was she?"
+        answer: "VERGINIA"
+  - tossup:
+      question: "What verb borrows its perfect stem from <latin>suffero</latin>?"
+      answer: "<latin>TOLLO</latin>"
+    boni:
+      - question: "What is the 2nd person plural, pluperfect indicative of <latin>proficiscor</latin>?"
+        answer: <latin>PROFECTI ERATIS</latin>
+      - question: "What is the 1st person singular perfect subjunctive of <latin>obliviscor</latin>?"
+        answer: "<latin>OBLITUS/-A/-UM SIM</latin>"
+      - question: "What is the perfect infinitive of <latin>nanciscor</latin>?"
+        answer: "<latin>NACTUS ESSE</latin>"
+  - tossup:
+      question: "What month did the Romans consider unfavorable for weddings?"
+      answer: "MAY"
+    boni:
+      - question: "How long was the standard engagement?"
+        answer: "2 YEARS"
+      - question: "Into how many strands was a Roman bride's hair traditionally braided?"
+        answer: "6"
+      - question: "What was the customary cry of good fortune at a Roman wedding?"
+        answer: "<latin>TALASSIO</latin>"
+  - tossup:
+      question: "Who was the father of Danaë, fated to be killed by her son Perseus?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "What 3 things did the Hyperboreans give Perseus to aid him in his hunt for Medusa?"
+        answer: "WINGED SANDALS, MAGIC WALLET, CAP OF INVISIBILITY"
+  - tossup:
+      question: "What Etruscan king helped Tarquin in his attempt to regain the throne of Rome?"
+      answer: "LARS PORSENA"
+    boni:
+      - question: "Who burned off his right hand to prove Roman bravery to Porsena?"
+        answer: (Q. MUCIUS) SCAEVOLA
+      - question: "What does Scaevola mean?"
+        answer: "LEFT-HANDED"
+      - question: "What modern region of Italy is the ancient Etruria, land of the Etruscans?"
+        answer: "TUSCANY"
+  - tossup:
+      question: "What is the accusative plural of <latin>animal</latin>?"
+      answer: "<latin>ANIMALIA</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>marmor</latin>?"
+        answer: "<latin>MARMORA</latin>"
+      - question: "What is the nominative plural of <latin>murmur</latin>?"
+        answer: "<latin>MURMURES</latin>"
+      - question: "What is the accusative singular of <latin>semen</latin>?"
+        answer: "<latin>SEMEN</latin>"
+  - tossup:
+      question: "What evil king tried to kill Perseus' mother Danaë and was later punished with a look at Medusa?"
+      answer: "POLYDECTES"
+    boni:
+      - question: "To whom did Perseus give the throne of Polydectes out of gratitude for his aid?"
+        answer: "DICTYS"
+      - question: "What group of witches, visited by Perseus, had one eye and one tooth between them?"
+        answer: "GRAEAE"
+  - tossup:
+      question: "How many times did Caesar invade Britain?"
+      answer: "TWICE"
+    boni:
+      - question: "Under whose rule was the 1st lasting conquest of Britain?"
+        answer: "CLAUDIUS'"
+      - question: "What British tribe did Caesar describe as painting themselves blue?"
+        answer: "<latin>PICTĪ</latin> / PICTS"
+      - question: "What battle marked the end of Rome's conquest of Gaul?"
+        answer: "ALESIA"
+  - tossup:
+      question: "By what process does a prepositional prefix often change its final consonant to blend with the initial consonant of its verb?"
+      answer: "ASSIMILATION"
+    boni:
+      - question: "What form does <latin>ab</latin> take as attached to the present system of <latin>fero</latin>?"
+        answer: "<latin>AU-</latin>"
+      - question: "What frequently happens to <latin>trans</latin> as a prefix, for example with <latin>duco</latin>?"
+        answer: "<latin>-NS</latin> DISAPPEARS"
+      - question: "What vowel change does <latin>cum</latin> always undergo as a prefix?"
+        answer: "U TO O"

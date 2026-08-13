@@ -47,6 +47,24 @@ links:
   year: 1975
   division: Advanced
   round: Round 3
+- rel: 1975 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Semifinals
+- rel: 1975 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Finals
+- rel: 1975 NJCL Certamen Advanced Unknown Round
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advUnknown.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Unknown Round
 - rel: 1975 NJCL Certamen Advanced Round 4
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv4.yaml
   tournament: NJCL Certamen
@@ -59,6 +77,12 @@ links:
   year: 1975
   division: Advanced
   round: Round 1
+- rel: 1975 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Semifinals 2
 - rel: 1975 NJCL Certamen Advanced Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv2.yaml
   tournament: NJCL Certamen

@@ -1,0 +1,144 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Finals
+questions:
+  - tossup:
+      question: "What is the syntax of <latin>O tempora, o mores</latin>?"
+      answer: "ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "Name the satirical author who called their works <latin><title>Sermones</title></latin>."
+        answer: "(Q.) HORATIUS / HORACE (FLACCUS) / (C.) LUCILIUS"
+      - question: "Name the satirical author who called their works <latin><title>Epigrammata</title></latin>."
+        answer: "(M. VALERIUS) MARTIAL(IS)"
+      - question: "Name the satirical author who called their works <latin>farrago</latin>."
+        answer: "(D. IUNIUS) JUVENAL(IS)"
+  - tossup:
+      question: "Who was the lover of Clytemnestra?"
+      answer: "AEGISTHUS"
+    boni:
+      - question: "Who was the father of Theseus?"
+        answer: "AEGEUS"
+      - question: "Who was king of Colchis and father of Medea?"
+        answer: "AEËTES"
+      - question: "What prince of Egypt gave his 50 sons in marriage to the 50 daughters of his brother Danaüs"
+        answer: "AEGYPTUS"
+  - tossup:
+      question: "What was the special duty of the slave who rode beside the <latin>triumphator</latin> in his chariot in the triumphal process?"
+      answer: "HE WHISPERED <latin>HOMINEM TE MEMENTO</latin> IN HIS EAR"
+    boni:
+      - question: "When were the standards lost in the Roman defeat at Carrhae in 53 BC regained?"
+        answer: "20 BC"
+      - question: "The emperor Augustus regained them - was it by force or diplomacy?"
+        answer: "DIPLOMACY"
+      - question: "What Persian king is credited with the unification of the Medes and the Persians into the Persian Empire?"
+        answer: "CYRUS I / THE GREAT"
+  - tossup:
+      question: "What native of Tarragon in Spain, born in 348 AD, abandoned a distinguished administrative career and became the greatest of the Christian poets?"
+      answer: "(AURELIUS CLEMENS) PRUDENTIUS"
+    boni:
+      - question: "What was the Roman name of Milan?"
+        answer: "<latin>MEDIOLANUM</latin>"
+      - question: "What was the Roman name of Cartagena?"
+        answer: "<latin>CARTHAGO NOVA</latin>"
+      - question: "What was the Roman name of Zaragosa?"
+        answer: "<latin>CAESAR AUGUSTA</latin>"
+  - tossup:
+      question: "What son of Saturn was turned into a woodpecker by Circe after he rejected her to remain faithful to his wife Pomona?"
+      answer: "PICUS"
+    boni:
+      - question: "What mythical character found himself immobilized by the iron nails in his shoes as he walked over a deposit of magnetized ore?"
+        answer: "MAGNES"
+      - question: "Who was turned into a sunflower as a result of her unrequited love for Apollo?"
+        answer: "CLYTIË"
+      - question: "What creature, whose name means literally “Phoenician,” played an important part in ancient mythology?"
+        answer: "PHOENIX"
+  - tossup:
+      question: "We know one famous queen of Egypt as Cleopatra, but it is actually a common name among the Ptolemies. How many women named Cleopatra sat on the Egyptian throne?"
+      answer: "7"
+    boni:
+      - question: "Who was granted the privilege of pardoning a convicted criminal if she met him on his way to be executed?"
+        answer: "VESTAL VIRGIN"
+      - question: "What rare honor was bestowed on a Vestal Virgin if she died during her time of service?"
+        answer: "BURIAL WITHIN THE WALLS"
+      - question: "When was the sacred fire of the Vestal Virgins exstinguished for all time?"
+        answer: "380 AD"
+  - tossup:
+      question: "What are the only two syllables of a Latin word which can carry stress-accent?"
+      answer: "PENULT AND ANTEPENULT // 2ND TO LAST AND 3RD TO LAST"
+    boni:
+      - question: "How do you form the negative of a result clause?"
+        answer: "<latin>UT NON</latin>"
+      - question: "How do you form the negative of a purpose clause?"
+        answer: "<latin>NE</latin>"
+      - question: "How do you form the negative of a fear clause?"
+        answer: "<latin>UT</latin>"
+  - tossup:
+      question: "What are the first and last words in the <title>Aeneid</title>?"
+      answer: "<latin>ARMA</latin> AND <latin>UMBRAS</latin>"
+  - tossup:
+      question: "Jason, Castor, Achilles, and Hercules all had the same tutor. Who was he?"
+      answer: "CHEIRON"
+    boni:
+      - question: "Who was served as dinner by his father Tantalus and later restored to life by Zeus?"
+        answer: "PELOPS"
+      - question: "What youth, beloved of Diana, was condemned by Jupiter to eternal slumber?"
+        answer: "ENDYMION"
+      - question: "What god's temple sat on an island in the Tiber, because the god had once swum there in the form of a snake?"
+        answer: "AESCULAPIUS"
+  - tossup:
+      question: "What Greek city had magistrates called Archons?"
+      answer: "ATHENS"
+    boni:
+      - question: "Who wrote <title>Oedipus at Colonus</title>?"
+        answer: "SOPHOCLES"
+      - question: "Of the 3 great Greek tragedians, who is the earliest?"
+        answer: "AESCHYLUS"
+      - question: "What was a <latin>dithyramb</latin>?"
+        answer: "CHORAL HYMN IN PRAISE OF DIONYSUS"
+  - tossup:
+      question: "What is a <latin>cippus</latin>?"
+      answer: "A TYPE OF ROMAN FUNERAL MONUMENT"
+    boni:
+      - question: "What is the subject of the reliefs on Trajan's Column?"
+        answer: "DACIAN WAR"
+      - question: "At which of his many villas did Cicero meet his violent death?"
+        answer: "FORMIA(E)"
+      - question: "What did Brennus do in 390 BC?"
+        answer: (LED THE GAULS / SENONES TO) SACK ROME
+  - tossup:
+      question: "What type of conditional sentence has imperfect subjunctives in both clauses?"
+      answer: "PRESENT CONTRARY TO FACT"
+    boni:
+      - question: "From what Latin phrase does the English “willy-nilly” come?"
+        answer: "VELLE, NOLLE"
+      - question: "What Latin words does the abbreviation q.v. stand for?"
+        answer: "<latin>QUOD VIDE</latin>"
+      - question: "What type of construction is this?"
+        answer: "SUBORDINATE IMPERATIVE"
+  - tossup:
+      question: "Of what people was Turnus king?"
+      answer: "RUTULI(ANS)"
+    boni:
+      - question: "Where was Horace's longed-for farm?"
+        answer: "THE SABINE HILLS"
+      - question: "What Greek traveler of the 2nd century AD wrote the first known guidebook?"
+        answer: "PAUSANIAS"
+      - question: "Who wrote the line <latin>Mens sana in corpore sano</latin>?"
+        answer: "(D. IUNIUS) JUVENAL(IS)"
+  - tossup:
+      question: "What name was given to the deified Romulus?"
+      answer: "QUIRINUS"
+    boni:
+      - question: "What were the Latin terms for the 3 classes into which non-citizen residents of Rome were classed?"
+        answer: "<latin>SERVI, PEREGRINI, LIBERTI</latin>"
+  - tossup:
+      question: "Who was in his old age turned into a grasshopper by Aurora?"
+      answer: "TITHONUS"
+    boni:
+      - question: "What nymph was the mother by Apollo of the foolish Phaëthon?"
+        answer: "CLYMENE"
+      - question: "Who was the mortal mother of Aesculapius?"
+        answer: "CORONIS"
+      - question: "Who was the father of Daphne?"
+        answer: "PENEIUS"

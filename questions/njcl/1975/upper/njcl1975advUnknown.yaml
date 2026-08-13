@@ -1,0 +1,57 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Unknown Round
+questions:
+  - tossup:
+      question: "What two gods built the walls of Troy?"
+      answer: "POSEIDON / NEPTUNE AND APOLLO"
+    boni:
+      - question: "Who made Priam king of Troy?"
+        answer: "HERACLES / HERCULES"
+      - question: "What companion of Hercules was drowned by a water nymph during the voyage of the Argo?"
+        answer: "HYLAS"
+      - question: "Whose name means “swollen foot”?"
+        answer: "OEDIPUS'"
+  - tossup:
+      question: "Identify the author of this poem: <latin>Non amo te, Sabidi, nec possum dicere quare; hoc tantum possum dicere: non amo te</latin>?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "Who was the author of the <latin><title>Medicamina Faciei Femineae</title></latin>?"
+        answer: "(P.) OVID(IUS NASO)"
+      - question: "Cornelius Celsus, who lived in the time of Tiberius, wrote one of the earliest and most voluminous works of a scientific nature. What was its subject matter?"
+        answer: "MEDICINE"
+      - question: "Who was the author of a famous book on agriculture entitled <latin><title>De Re Rustica</title></latin>?"
+        answer: "COLUMELLA / CATO THE ELDER"
+  - tossup:
+      question: "What was the minimum age for a candidate for the consulship?"
+      answer: "43 YEARS"
+    boni:
+      - question: "When a man's property was seized and auctioned off to pay his debts, what action had been taken against him?"
+        answer: "<latin>BONŌRUM EMPTIO</latin>"
+      - question: "The Romans played with dice, but theirs did not use numbers as do ours. What was the highest throw on a Roman die?"
+        answer: "VENUS"
+      - question: "What did the Romans call their version of a safety pin?"
+        answer: "<latin>FIBULA</latin>"
+  - tossup:
+      question: "Who were chthonic deities?"
+      answer: "MINOR GODS OF THE LOWER REALM"
+    boni:
+      - question: "What were the crashing rocks narrowly escaped by Jason and his men?"
+        answer: "SYMPLEGADES"
+      - question: "Who told Odysseus and Diomedes the oracle concerning the horses of Rhesus?"
+        answer: "DOLON"
+      - question: "Who gained strength whenever he touched his mother Gaia?"
+        answer: "ANTAEUS"
+      - question: "Who had to hold him aloft to defeat him?"
+        answer: "HERCULES / HERACLES"
+  - tossup:
+      question: "What Roman grammarian is credited with composing the 1st Latin dictionary?"
+      answer: "VERRIUS FLACCUS"
+    boni:
+      - question: "What is the subject of Ovid's poem, <latin><title>Fastī</title></latin>?"
+        answer: "ROMAN FEAST DAYS AND HOLIDAYS"
+      - question: "What were the years of Lucretius' birth and death?"
+        answer: "99-55 BC"
+      - question: "The teachings of which Greek philosopher did he extol with his didactic epic?"
+        answer: "EPICURUS"

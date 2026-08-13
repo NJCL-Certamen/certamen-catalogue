@@ -1,0 +1,139 @@
+tournament: NJCL Certamen
+year: 1975
+division: Advanced
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "Who was the wife of Maecenas?"
+      answer: "TERENTIA"
+    boni:
+      - question: "What two members of Maecenas' literary circle ignored the wishes of the dying Vergil and published the <title>Aeneid</title>?"
+        answer: "PLOTIUS TUCCA AND VARIUS RUFUS"
+      - question: "What Greek writer authored works whose titles when translated into Latin include <latin>Equites, Vespae, Ranae, Aves</latin>, and <latin>Nubes</latin>?"
+        answer: "ARISTOPHANES"
+      - question: "What Roman woman writer of the Augustan age wrote love letters to a beau named Cerinthus?"
+        answer: "SULPICIA"
+  - tossup:
+      question: "What adulterous pair of immortals were caught in a net?"
+      answer: "MARS AND VENUS // ARES AND APHRODITE"
+    boni:
+      - question: "Zeus was the father of the Graces; who was their mother?"
+        answer: "EURYNOME"
+      - question: "Zeus was the father of the Muses; who was their mother?"
+        answer: "MNEMOSYNE"
+      - question: "What is the early Latin name for the Muses?"
+        answer: "<latin>CAMENAE</latin>"
+  - tossup:
+      question: "What was the site of the last battle between Pyrrhus and the Romans?"
+      answer: "BENEVENTUM"
+    boni:
+      - question: "What Roman maiden swam the Tiber to freedom?"
+        answer: "CLOELIA"
+      - question: "Who rode his horse into a gulf in the Forum?"
+        answer: "METTIUS CURTIUS"
+      - question: "What Roman general subdued the Parthians during Nero's reign?"
+        answer: "(DOMITIUS) CORBULO"
+  - tossup:
+      question: "What renowned rhetorician instructed the young Cicero?"
+      answer: "APOLLONIUS MOLO(N OF RHODES)"
+    boni:
+      - question: "What stylistic device would I be using if, for example, I said “roof” and meant the house as a whole?"
+        answer: "SYNECDOCHE"
+      - question: "What has happened when an expected elision does not occur?"
+        answer: "HIATUS"
+      - question: "The English word “sophomore” comes from the Greek for “wise fool;” of what literary device is sophmore an example?"
+        answer: "OXYMORON"
+  - tossup:
+      question: "Who wrote the <title><latin>Anabasis</latin></title>?"
+      answer: "XENOPHON"
+    boni:
+      - question: "What does <latin>anabasis</latin> mean?"
+        answer: "A MARCH OUT / UP"
+      - question: "Who was the Persian protagonist?"
+        answer: "CYRUS"
+      - question: "True or false, it was Xenophon's first hand report of the campaign?"
+        answer: "TRUE"
+  - tossup:
+      question: "What was the only instance where a mortal and immortal actually married?"
+      answer: "PELEUS AND THETIS"
+    boni:
+      - question: "Who were the 3 judges of the Underworld?"
+        answer: "MINOS, RHADAMANTHYS, AEACUS"
+  - tossup:
+      question: "Who built the Temple of Vesta, said to be the oldest in Rome?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "To what modern nation would one go to see the remains of <latin>Carthago</latin>?"
+        answer: "TUNISIA"
+      - question: "To what modern nation would one go to see the remains of <latin>Eboracum</latin>?"
+        answer: "GREAT BRITAIN / ENGLAND"
+      - question: "To what modern nation would one go to see the remains of <latin>Massilia</latin>?"
+        answer: "FRANCE"
+  - tossup:
+      question: "Who was the author of <title><latin>De Vita Caesarum Libri Octo</latin></title>?"
+      answer: "SUETONIUS"
+    boni:
+      - question: "What biographical work did Tacitus write about his father-in-law?"
+        answer: "<title>Agricola</title>"
+      - question: "What late 1st century AD satirist bitterly parodied life in the big city?"
+        answer: "(D. IUNIUS) JUVENAL(IS)"
+      - question: "What contemporary of Vergil wrote “Something greater than the <title>Iliad</title> is being born”?"
+        answer: "PROPERTIUS"
+  - tossup:
+      question: "What type of subordinate subjunctive clause would you expect after the adverb <latin>tam</latin>?"
+      answer: "RESULT / FINAL"
+    boni:
+      - question: "What emotion would a Roman be feeling if he used the expression <latin>heu</latin>?"
+        answer: "GRIEF / SORROW"
+      - question: "What emotion would a Roman be feeling if he used the expression <latin>paveo</latin>?"
+        answer: "FEAR"
+      - question: "What emotion would a Roman be feeling if he used the expression <latin>io</latin>?"
+        answer: "JOY"
+  - tossup:
+      question: "At what battle was the emperor Valens killed?"
+      answer: "ADRIANOPLE (378 AD)"
+    boni:
+      - question: "Who were the victors of the battle of Carrhae?"
+        answer: "PARTHIANS"
+      - question: "Who were the victors of the battle of Cannae?"
+        answer: "HANNIBAL / CARTHAGINIANS"
+      - question: "Who were the victors of the battle of Marathon?"
+        answer: "ATHENIANS"
+  - tossup:
+      question: "Of what group of deities is Clotho a member?"
+      answer: "FATES"
+    boni:
+      - question: "Are the Dirae and the Eumenides the same group?"
+        answer: "YES"
+      - question: "Are the Erinyes and the Semnae the same group?"
+        answer: "YES"
+      - question: "Are the Furies and the Parcae the same group?"
+        answer: "NO"
+  - tossup:
+      question: "What ancient version of blackballing was named for the potsherds used in the vote?"
+      answer: "OSTRACISM"
+    boni:
+      - question: "What word used for the Athenian popular assembly eventually became the Christian Greek word for “church”?"
+        answer: "<latin>ECCLESIA</latin>"
+      - question: "What was the executive council of the <latin>ecclesia</latin>?"
+        answer: "<latin>BOULE</latin>"
+      - question: "What was the Athenian version of the Romans' <latin>Rostra</latin>?"
+        answer: "<latin>PNYX</latin>"
+  - tossup:
+      question: "What Roman author told the story of the house of Atreus in his tragedy <title>Thyestes</title>?"
+      answer: "(L. ANNAEUS) SENECA THE YOUNGER"
+    boni:
+      - question: "What famous writer was b orn in Verona?"
+        answer: "(M. VALERIUS) CATULLUS"
+      - question: "What famous writer was b orn in Sulmo?"
+        answer: "(P.) OVID(IUS NASO)"
+      - question: "What famous writer was b orn in Patavia?"
+        answer: "(T.) LIVIUS / LIVY"
+  - tossup:
+      question: "From the Greek for “year” and “name,” what system of dating labels a year by the name of a magistrate, e.g. a <latin>consul</latin> or an <latin>archon</latin>?"
+      answer: "EPONYMOUS"
+    boni:
+      - question: "What would the eponymous year <latin>consulibus Hirtiō Pansāque</latin> in our BC/AD terminology?"
+        answer: "43 BC"
+      - question: "What would the eponymous year <latin>consulibus Pompeiō Crassōque</latin> in our BC/AD terminology?"
+        answer: "70 / 55 BC"

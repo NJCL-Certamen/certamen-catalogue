@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: Round 4
+questions:
+  - tossup:
+      question: "What verbal noun is a defective noun of the fourth declension?"
+      answer: "THE SUPINE"
+    boni:
+      - question: "What is the only standard use of the accusative supine?"
+        answer: "PURPOSE (AFTER VERBS OF MOTION)"
+      - question: "What infinitive makes use of the supine?"
+        answer: "FUTURE PASSIVE"
+  - tossup:
+      question: "Who was the mother of Neoptolemus?"
+      answer: "DEIDAMIA"
+    boni:
+      - question: "By what other name is Neoptolemus known?"
+        answer: "PYRRHUS"
+      - question: "Who had to be sacrificed on Achilles' tomb?"
+        answer: "POLYXENA"
+  - tossup:
+      question: "Leading a revolt in Britain against the Romans, what woman warrior sacked several towns before being defeated?"
+      answer: "BOUDICCA / BOADICEA"
+    boni:
+      - question: "Who led the capture of Veii in the early 4th century BC?"
+        answer: "CAMILLUS"
+      - question: "Who left his plow to become dictator?"
+        answer: "CINCINNATUS"
+  - tossup:
+      question: "Who is the first of the four emperors treated in Tacitus' <title><latin>Annales</latin></title>?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What is the other important chronicle by Tacitus?"
+        answer: "THE <title>HISTORIAE</title>"
+      - question: "Which of his works was written in praise of his father-in-law?"
+        answer: "THE <title>AGRICOLA</title>"
+  - tossup:
+      question: "What Roman room comes from a Latin adjective for black because of the smoke-blackened walls?"
+      answer: "<latin>ATRIUM</latin>"
+    boni:
+      - question: "What feature of the <latin>triclinium</latin> gives it its name?"
+        answer: "THREE COUCHES"
+      - question: "What was a Roman house's entrance hall?"
+        answer: "THE <latin>FAUCES</latin>"
+  - tossup:
+      question: "What is the second plural perfect active indicative of <latin>posco</latin>?"
+      answer: "<latin>POPOSCISTIS</latin>"
+    boni:
+      - question: "What is the same form of <latin>findo</latin>?"
+        answer: "<latin>FIDISTIS</latin>"
+      - question: "What is the same form of <latin>tundo</latin>?"
+        answer: "<latin>TUTUDISTIS</latin>"
+  - tossup:
+      question: "Who was Niobe's husband?"
+      answer: "AMPHION"
+    boni:
+      - question: "Who was her father?"
+        answer: "TANTALUS"
+      - question: "Where was Amphion king?"
+        answer: "THEBES"
+  - tossup:
+      question: "In what province did Cicero serve as <latin>quaestor</latin>?"
+      answer: "SICILY"
+    boni:
+      - question: "In what provinces did Caesar serve as proconsul in the years 58 - 49 BC?"
+        answer: "CISALPINE GAUL AND ILLYRICUM"
+      - question: "Who were the consuls of 55 BC?"
+        answer: "POMPEY AND CRASSUS"
+  - tossup:
+      question: "Who wrote the <title><latin>De Rerum Natura</latin></title>?"
+      answer: "LUCRETIUS"
+    boni:
+      - question: "What philosopher did he follow?"
+        answer: "EPICURUS"
+      - question: "How many books are in his epic?"
+        answer: "SIX"
+  - tossup:
+      question: "What is the poetic variant of the third plural perfect active indicative inflection <latin>-erunt</latin>?"
+      answer: "<latin>-ERE</latin>"
+    boni:
+      - question: "What is the archaic form of the passive infinitive of the first conjugation, as found as late as in Vergil?"
+        answer: "<latin>-ARIER</latin>"
+      - question: "What is this archaic form in the third conjugation?"
+        answer: "<latin>-IER</latin>"
+  - tossup:
+      question: "Using two defective verbs, translate this sentence into Latin: (You may direct it at me if you like.) I have begun to hate you."
+      answer: "<latin>COEPI TE ODISSE</latin>"
+    boni:
+      - question: "Change the verb form <latin>malo</latin> to plural."
+        answer: "<latin>MALUMUS</latin>"
+      - question: "Change <latin>vult</latin> to plural."
+        answer: "<latin>VOLUNT</latin>"
+  - tossup:
+      question: "In what river did Midas wash away his golden touch?"
+      answer: "PACTOLUS"
+    boni:
+      - question: "What punishment did Midas receive for preferring Pan's music to Apollo's?"
+        answer: "THE EARS OF AN ASS"
+      - question: "Who was judge of that contest, with whose verdict in Apollo's favor Midas disagreed?"
+        answer: "THE MOUNTAIN GOD TMOLUS"
+  - tossup:
+      question: "What office was instituted as a result of the Secession of the Plebs in 494 BC?"
+      answer: "THE TRIBUNATE"
+    boni:
+      - question: "Who convinced them to return with a parable?"
+        answer: "MENENIUS (AGRIPPA)"
+      - question: "What change in the administration of the Roman army traditionally took place in 406 BC?"
+        answer: "THE INTRODUCTION OF PAY"
+  - tossup:
+      question: "Who wrote an epic on the war between Caesar and Pompey?"
+      answer: "LUCAN"
+    boni:
+      - question: "What is the name of this work?"
+        answer: "<title><latin>BELLUM CIVILE / PHARSALIA</latin></title>"
+      - question: "In whose court did Lucan serve?"
+        answer: "NERO'S"
+  - tossup:
+      question: "What Latin letter or letters transliterate the Greek upsilon?"
+      answer: "Y"
+    boni:
+      - question: "What Latin letter or letters transliterate the Greek eta?"
+        answer: "E"
+      - question: "What Latin letter or letters transliterate the Greek chi?"
+        answer: "CH"
+  - tossup:
+      question: "What is the Latin verb whose perfect infinitive is <latin>posuisse</latin>?"
+      answer: "<latin>PONO</latin>"
+    boni:
+      - question: "What Latin verb's perfect infinitive is <latin>potuisse</latin>?"
+        answer: "<latin>POSSUM</latin>"
+      - question: "What verb's perfect infinitive is <latin>afuisse</latin>?"
+        answer: "<latin>ABSUM</latin>"
+  - tossup:
+      question: "Which god is also known as Mulciber?"
+      answer: "VULCAN"
+    boni:
+      - question: "Where did Vulcan land when Jupiter threw him out of Heaven?"
+        answer: "LEMNOS"
+      - question: "How did he assist in the birth of Minerva?"
+        answer: "HE SPLIT JUPITER'S HEAD OPEN WITH AN AXE."
+  - tossup:
+      question: "What was Rome's <latinannona</latin?"
+      answer: "HER GRAIN SUPPLY"
+    boni:
+      - question: "What was Rome's nearest port?"
+        answer: "OSTIA"
+      - question: "Claudius made improvemnts to the Ostian harbor to make it competitive with a port about 140 miles to the south, which up to then had been more important in the grain trade. What was this other port?"
+        answer: "PUTEOLI"
+  - tossup:
+      question: "What was the first oration Cicero delivered in public?"
+      answer: "<title><latin>PRO QUINCTIO</latin></title>"
+    boni:
+      - question: "What was the year?"
+        answer: "81 BC"
+      - question: "His second oration, <title><latin>Pro Roscio Amerino</latin></title>, made clear his antagonism to what powerful figure of the time?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "What Latin ablative absolute is still used in English to mean “with the necessary changes being made”?"
+      answer: "<latin>MUTATIS MUTANDIS</latin>"
+    boni:
+      - question: "What does the frequent dictionary notation q.v. stand for?"
+        answer: "<latin>QUOD VIDE</latin>"
+      - question: "What does qq.v. stand for?"
+        answer: "<latin>QUAE VIDE</latin>"

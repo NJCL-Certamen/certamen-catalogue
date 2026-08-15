@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What is the perfect active indicative of <latin>sancio</latin>?"
+      answer: "<latin>SANXISSE</latin>"
+    boni:
+      - question: "What is its third plural perfect passive subjunctive?"
+        answer: "<latin>SANCTI SINT</latin>"
+      - question: "Change <latin>sancti sint</latin> to active."
+        answer: "<latin>SANXERINT</latin>"
+  - tossup:
+      question: "Which of the following did not enter the Underworld while still living: Odysseus, Psyche, Perseus, Theseus?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who were the two immortal Gorgons?"
+        answer: "STHENO AND EURYALE"
+      - question: "Which divinity punished Medusa with her unique appearance?"
+        answer: "ATHENA"
+  - tossup:
+      question: "At the battle of Cannae, who were the <latin>volones</latin>?"
+      answer: "SLAVES WHO SERVED AS VOLUNTEERS (VOLONES) IN THE ROMAN ARMY."
+    boni:
+      - question: "Where was the army of Varus destroyed in 9 AD?"
+        answer: "TEUTOBERG FOREST"
+      - question: "Three legions were destroyed in that battle, and their numbers were superstitiously never used again. What were those numbers?"
+        answer: "XVII, XVIII, AND XIX"
+  - tossup:
+      question: "Who is the Aeneid says, <latin>“Nascetur pulchra Troianus origine Caesar, imperium Oceano, famam qui terminet astris</latin>”?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who says, “<latin>O fortunati, quorum iam moenia surgunt</latin>”?"
+        answer: "AENEAS"
+      - question: "Who is the first Trojan to address Dido?"
+        answer: "ILIONEUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>surgo</latin>?"
+      answer: "<latin>SURREXISSE</latin>"
+    boni:
+      - question: "What is the genitive plural of its present participle?"
+        answer: "<latin>SURGENTIUM</latin>"
+      - question: "What English noun derived from <latin>surgo</latin> means a small uprising or minor revolution?"
+        answer: "INSURRECTION"
+  - tossup:
+      question: "What is the contracted form of <latin>atque</latin>?"
+      answer: "<latin>AC</latin>"
+    boni:
+      - question: "<latin>Amabo</latin> and <latin>sodes</latin> are Latin ways to say what?"
+        answer: "PLEASE, IF YOU WOULD, ETC"
+      - question: "Despite its appearance, what mood is the conversational word cedo?"
+        answer: "IMPERATIVE (PLURAL: CETTE)"
+  - tossup:
+      question: "What goddesses are the doorkeepers of Olympus?"
+      answer: "THE HORAE"
+    boni:
+      - question: "Who is the Muse of dance?"
+        answer: "TERPSICHORE"
+      - question: "Who is the Muse of comedy?"
+        answer: "THALIA"
+  - tossup:
+      question: "Who instructed Hercules on the lyre?"
+      answer: "LINUS"
+    boni:
+      - question: "Who was Hercules' wife, the woman responsible for his death?"
+        answer: "DEIANIRA"
+      - question: "Who was the centaur whose blood was the agent of Hercules' death?"
+        answer: "NESSUS"
+  - tossup:
+      question: "Who was the author of the <title>Peloponnesian War</title>?"
+      answer: "THUCYDIDES"
+    boni:
+      - question: "What Greek poet wrote the <title>Works and Days</title>?"
+        answer: "HESIOD"
+      - question: "Which Greek dramatist wrote the <title>Bacchae</title>?"
+        answer: "EURIPIDES"
+  - tossup:
+      question: "What was the name of the spear a Roman soldier would use mainly for thrusting?"
+      answer: "<latin>HASTA</latin>"
+    boni:
+      - question: "What was the spear he would throw?"
+        answer: "<latin>PILUM</latin>"
+      - question: "What would be the weapon of troops called <latin>funditores</latin>?"
+        answer: "THE SLING"
+  - tossup:
+      question: "Express the phrase 300 soldiers in the dative."
+      answer: "<latin>TRECENTIS MILITIBUS</latin>"
+    boni:
+      - question: "What is the present infinitive of <latin>queo</latin>?"
+        answer: "<latin>QUIRE</latin>"
+      - question: "What is the third plural present indicative?"
+        answer: "<latin>QUEUNT</latin>"
+  - tossup:
+      question: "Where in Colchis was the palace of Aeëtes?"
+      answer: "AEA"
+    boni:
+      - question: "Who had brought the Fleece to Colchis?"
+        answer: "PHRIXUS"
+      - question: "Who was the father of Phrixus?"
+        answer: "ATHAMAS"
+  - tossup:
+      question: "What was Alexander the Great's favorite book?"
+      answer: "THE <title>ILIAD</title>"
+    boni:
+      - question: "What was the name of Alexander's horse?"
+        answer: "BUCEPHALUS"
+      - question: "How old was Alexander at the time of his death?"
+        answer: "32"
+  - tossup:
+      question: "Who, in respect to his contemporary Vergil, wrote “<latin>nescio quid maius nascitur Iliade</latin>”?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "What was his name for his beloved?"
+        answer: "CYNTHIA"
+      - question: "Where was Propertius born?"
+        answer: "ASSISI"
+  - tossup:
+      question: "The classical Latin word for head is of course <latin>caput</latin>. The French and Italian words for head, however, come from a word that was a slang term for the head. What is the meaning of that word, <latin>testa</latin>?"
+      answer: "JUG"
+    boni:
+      - question: "What far less dignified word than <latin>equus</latin> gave all the Romance languages their words for horse, and gave us cavalry."
+        answer: "<latin>CABALLUS</latin>"
+      - question: "What Latin word does the English lb stand for?"
+        answer: "<latin>LIBRA</latin>"
+  - tossup:
+      question: "What type of subordinate clause might follow a word like <latin>talis</latin> or <latin>tantus</latin>?"
+      answer: "RESULT"
+    boni:
+      - question: "What is the negative of a result clause?"
+        answer: "<latin>UT NON</latin>"
+      - question: "What is the negative of a purpose clause?"
+        answer: "<latin>NE</latin>"
+  - tossup:
+      question: "Which of the following was not a direct ancestor of Aeneas: Teucer, Assaracus, Ilus, Dardanus?"
+      answer: "ILUS (HIS GREAT-UNCLE)"
+    boni:
+      - question: "Who was the father of Anchises?"
+        answer: "CAPYS"
+      - question: "Besides being a distant cousin, what relation was Priam to Aeneas?"
+        answer: "FATHER-IN-LAW"
+  - tossup:
+      question: "Where was Julius Caesar's last battle?"
+      answer: "MUNDA, SPAIN"
+    boni:
+      - question: "What was the year?"
+        answer: "45 BC"
+      - question: "What battle was the subject of his famous boast, <latin>Veni vidi vici</latin>?"
+        answer: "Zela"
+  - tossup:
+      question: "From what Greek orator did Cicero borrow the title <title>Philippic Orations</title>?"
+      answer: "DEMOSTHENES"
+    boni:
+      - question: "How many <title>Philippics</title> did Cicero write?"
+        answer: "FOURTEEN"
+      - question: "Over what period of time did he deliver these speeches?"
+        answer: "EIGHT MONTHS"
+  - tossup:
+      question: "What English noun comes from the Latin verb <latin>attero</latin>?"
+      answer: "ATTRITION"
+    boni:
+      - question: "What Latin noun with its roots in <latin>ager</latin> ultimately produced the English noun pilgrim?"
+        answer: "<latin>PEREGRINUS</latin>"
+      - question: "What Latin noun is hidden in the English noun parapet?"
+        answer: "<latin>PECTUS</latin>"

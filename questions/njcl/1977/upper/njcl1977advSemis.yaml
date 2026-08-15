@@ -1,0 +1,164 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: Semifinals
+questions:
+  - tossup:
+      question: "What verb is the root of <latin>altus</latin> and <latin>almus</latin>?"
+      answer: "<latin>ALO</latin>"
+    boni:
+      - question: "What is the root verb whose derivatives in Latin include <latin>numen</latin>?"
+        answer: "<latin>NUO</latin> (EXISTS IN CLASSICAL LATIN ONLY IN COMPOUNDS)"
+      - question: "What Latin imperative does the abbreviation cf. stand for?"
+        answer: "<latin>CONFER</latin>"
+  - tossup:
+      question: "Who was the only son of Aegyptus to survive his wedding night?"
+      answer: "LYNCEUS"
+    boni:
+      - question: "Who was his bride?"
+        answer: "HYPERMNESTRA"
+      - question: "What was the eternal punishment of her 49 murderous sisters?"
+        answer: "DRAWING WATER WITH SIEVES"
+  - tossup:
+      question: "Who was the last emperor of the Western Empire?"
+      answer: "ROMULUS AUGUSTULUS"
+    boni:
+      - question: "When was he deposed?"
+        answer: "476 AD"
+      - question: "Who deposed him?"
+        answer: "ODO(V)ACER"
+  - tossup:
+      question: "In what Roman literary work do we find the <title><latin>Somnum Scipionis</latin></title>?"
+      answer: "(CICERO'S) <latin><title>DE RE PUBLICA</title></latin>"
+    boni:
+      - question: "From what Roman work comes the question: <latin>quid rides? mutato nomine de te fabula narratur</latin>?"
+        answer: "(HORACE'S) <title>SATIRES / <latin>SERMONES</latin></title>"
+      - question: "From what Roman work comes the infamous line: <latin>O Tite tute Tati tibi tanta tyranne tulisti</latin>?"
+        answer: "(ENNIUS') <title><latin>ANNALES</latin></title>"
+  - tossup:
+      question: "What is the ablative singular of the phrase <latin>novus homo</latin>?"
+      answer: "<latin>NOVO HOMINE</latin>"
+    boni:
+      - question: "What is the ablative of <latin>nemo</latin>?"
+        answer: "<latin>NULLŌ</latin>"
+      - question: "What is the dative of <latin>nemo</latin>?"
+        answer: "<latin>NEMINĪ</latin>"
+  - tossup:
+      question: "What identical nouns in Latin mean heel and pebble?"
+      answer: "<latin>CALX</latin> AND <latin>CALX</latin>"
+    boni:
+      - question: "What Latin word can mean either “sheep” or “may you rejoice”?"
+        answer: "<latin>OVES</latin>"
+      - question: "What participle means either “extended” or “having suffered”?"
+        answer: "<latin>PASSUS</latin>"
+  - tossup:
+      question: "By what other name is Damastes known?"
+      answer: "PROCRUSTES / PROCOPTAS / POLYPEMON"
+    boni:
+      - question: "What victim of Theseus was called the Pinebender?"
+        answer: "SINIS / PITYOCAMPTES"
+      - question: "Which villain killed by Theseus compelled strangers to wrestle with him?"
+        answer: "CERCYON"
+  - tossup:
+      question: "What military disaster befell the Romans in 321 BC?"
+      answer: "(THE BATTLE OF THE) CAUDINE FORKS"
+    boni:
+      - question: "What war was in progress?"
+        answer: "THE SECOND SAMNITE"
+      - question: "How many Samnite Wars were there?"
+        answer: "THREE"
+  - tossup:
+      question: "With what Greek comedy is the term “Cloudcuckooland” associated?"
+      answer: "<title>THE BIRDS</title>"
+    boni:
+      - question: "Who wrote it?"
+        answer: "ARISTOPHANES"
+      - question: "To what subdivision of Greek comedy does he belong?"
+        answer: "OLD COMEDY"
+  - tossup:
+      question: "What rhetorical or prosodic device is the repetition of a noun in several different cases?"
+      answer: "POLYPTOTON"
+    boni:
+      - question: "What is the repetition of a word at the beginning of successive clauses?"
+        answer: "ANAPHORA"
+      - question: "What is exaggeration for effect?"
+        answer: "HYPERBOLE"
+  - tossup:
+      question: "What occupation was a <latin>carnifex</latin>?"
+      answer: "EXECUTIONER"
+    boni:
+      - question: "What occupation was a <latin>tibicen</latin>?"
+        answer: "A FLUTE-PLAYER"
+      - question: "What occupation was a <latin>caupo</latin>?"
+        answer: "AN INNKEEPER"
+  - tossup:
+      question: "Who was the father of Narcissus?"
+      answer: "CEPHISSUS"
+    boni:
+      - question: "Whom did Echo annoy with her chatter?"
+        answer: "HERA"
+      - question: "Who acquired the power of understanding animals' speech when snakes licked his ears?"
+        answer: "MELAMPUS"
+  - tossup:
+      question: "What Roman ceremony included a slave who had to repeat the phrase <latin>Hominem te memento</latin>?"
+      answer: "A TRIUMPHAL PROCESSION"
+    boni:
+      - question: "What building was the destination of a triumphal parade?"
+        answer: "THE TEMPLE OF JUPITER CAPITOLINUS / OPTIMUS MAXIMUS"
+      - question: "What was the minimum number of enemy dead for a triumph?"
+        answer: "5000"
+  - tossup:
+      question: "What Greek author wrote works on hunting, estate management, cavalry command, and the philosophy of Socrates, but is best known for his <title><latin>Anabasis</latin></title>?"
+      answer: "XENOPHON"
+    boni:
+      - question: "For ten points, what two titles did Xenophon and Plato both use? All four works are concerned with Socrates."
+        answer: "<title>SYMPOSIUM</title> AND <title>APOLOGY</title>"
+  - tossup:
+      question: "What Latin noun meant “eyebrow” and by extension “Haughtiness”?"
+      answer: "<latin>SUPERCILIUM</latin>"
+    boni:
+      - question: "Which of the following does not have its root in the noun <latin>facies</latin>: surface, superficial, artificial, façade?"
+        answer: "ARTIFICIAL"
+      - question: "What is the meaning of the Latin noun <latin>pollex</latin>?"
+        answer: "THUMB (or BIG TOE)"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>sepelio</latin>?"
+      answer: "<latin>SEPULTUS</latin>"
+    boni:
+      - question: "What is the perfect passive participle of <latin>saepio</latin>?"
+        answer: "<latin>SAEPTUS</latin>"
+      - question: "What conjugation do they belong to?"
+        answer: "THE FOURTH"
+  - tossup:
+      question: "What was the land Odysseus visited last?"
+      answer: "PHAEACIA / SCHERIA"
+    boni:
+      - question: "Who was the princess?"
+        answer: "NAUSICAÄ"
+      - question: "Who was the bard who sang to Odysseus at the Phaeacian court about the Trojan War?"
+        answer: "DEMODOCUS"
+  - tossup:
+      question: "Who led the defense of the Capitoline after being awakened by the sacred geese?"
+      answer: "(M.) MANLIUS CAPITOLINUS"
+    boni:
+      - question: "What bridge did Horatius Cocles defend so valiantly?"
+        answer: "<latin>PONS SUBLICIUS</latin>"
+      - question: "Who was leading the attacking army?"
+        answer: "LARS PORSENA"
+  - tossup:
+      question: "In a work by what author was an emperor upon his death turned not into a god but a pumpkin?"
+      answer: "(L. ANNAEUS) SENECA THE YOUNGER"
+    boni:
+      - question: "Who was the emperor?"
+        answer: "CLAUDIUS"
+      - question: "By whom was Seneca ordered to take his own life?"
+        answer: "NERO"
+  - tossup:
+      question: "Although they both mean helmet, <latin>galea</latin> and <latin>cassis</latin> in strict terminology distinguish the materials they were made from. What was a <latin>cassis</latin> made of?"
+      answer: "METAL (USUALLY BRONZE)"
+    boni:
+      - question: "What was a <latin>galea</latin> made of?"
+        answer: "LEATHER"
+      - question: "What was a soldier's <latin>sagum</latin> made of?"
+        answer: "CLOTH"
+        

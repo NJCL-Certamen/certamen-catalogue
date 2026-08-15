@@ -1,0 +1,164 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Given that the e is long, what is the meaning of <latin>ēst</latin>?"
+      answer: "HE EATS"
+    boni:
+      - question: "What is this verb's archaic present infinitive?"
+        answer: "<latin>ĒSSE</latin>"
+      - question: "What is its perfect infinitive?"
+        answer: "<latin>EDISSE</latin>"
+  - tossup:
+      question: "Who was the mother of Antaeus?"
+      answer: "GAIA"
+    boni:
+      - question: "What was the building material with which Antaeus built a temple to his father, Poseidon?"
+        answer: "THE SKULLS OF HIS VICTIMS"
+      - question: "Who finally killed him?"
+        answer: "HERACLES"
+  - tossup:
+      question: "Which Roman emperor conquered what is now Romania?"
+      answer: "(M. ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "What was the Roman province established there?"
+        answer: "DACIA"
+      - question: "What were the years of Trajan's reign?"
+        answer: "117-131 AD"
+  - tossup:
+      question: "Whom did Cicero attack with his Philippics?"
+      answer: "MARC(US) ANTONY / ANTONIUS"
+    boni:
+      - question: "Who was Cicero's arch rival at the bar?"
+        answer: "HORTENSIUS"
+      - question: "True or False - Cicero and Hortensius, outside of court, were good friends."
+        answer: "FALSE"
+  - tossup:
+      question: "What Latin verb is at the root of the English verb pardon?"
+      answer: "<latin>DONO</latin>"
+    boni:
+      - question: "Using two different constructions with <latin>dono</latin>, put this sentence into Latin: He gives the flowers to his wife."
+        answer: "<latin>FLOREM UXORI SUAE DONAT. FLORE UXOREM SUAM DONAT</latin> (parallel: present)"
+  - tossup:
+      question: "Change to the singular the verb <latin>fertis</latin>."
+      answer: "<latin>FERS</latin>"
+    boni:
+      - question: "Change <latin>volo</latin> to subjunctive."
+        answer: "<latin>VELIM</latin>"
+      - question: "Change <latin>facit</latin> to passive."
+        answer: "<latin>FIT</latin>"
+  - tossup:
+      question: "What early Trojan defrauded the gods who built for him the walls of Troy?"
+      answer: "LAOMEDON"
+    boni:
+      - question: "Who were the gods?"
+        answer: "APOLLO AND POSEIDON / NEPTUNE"
+      - question: "Which of Laemedon's sons survived him?"
+        answer: "PRIAM / TITHONUS"
+  - tossup:
+      question: "Who taunted the defeated Romans with the sarcastic phrase <latin>vae victīs</latin>?"
+      answer: "BRENNUS"
+    boni:
+      - question: "When did he capture Rome?"
+        answer: "390 / 387 BC"
+      - question: "What battle a few miles away had preceded the capture of the city?"
+        answer: "(THE BATTLE OF THE) ALLIA RIVER"
+  - tossup:
+      question: "Many Roman names have other meanings, and probably refer to something the original possessor of the name was known for. What Roman author's name means quiet?"
+      answer: "(CORNELIUS) TACITUS'"
+    boni:
+      - question: "What early writer's name means broad or flat?"
+        answer: "(T. MACCIUS) PLAUTUS'"
+      - question: "Whose name could mean a priest of Mars?"
+        answer: "(M. VALERIUS) MARTIAL'S"
+  - tossup:
+      question: "What is the syntax of <latin>O tempora O mores</latin>?"
+      answer: "ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "What is the case of <latin>animīs</latin> in <latin>Tantaene animīs caelestibus irae</latin>?"
+        answer: "DATIVE"
+      - question: "What Latin verb is at the root of the word genitive?"
+        answer: "<latin>GIGNO</latin>"
+  - tossup:
+      question: "What praenomen is abbreviated D?"
+      answer: "DECIMUS"
+    boni:
+      - question: "What praenomen is abbreviated M'?"
+        answer: "MANIUS"
+      - question: "What praenomen is abbreviated Sp?"
+        answer: "SPURIUS"
+  - tossup:
+      question: "What was the name of Circe's island?"
+      answer: "AEAEA"
+    boni:
+      - question: "What son of Circe and Odysseus, in a post-Homeric version, later kills Odysseus by accident?"
+        answer: "TELEGONUS"
+      - question: "What was Calypso's island?"
+        answer: "OGYGIA"
+  - tossup:
+      question: "Who refused a place in the first triumvirate?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "When was the second triumvirate founded?"
+        answer: "43 BC"
+      - question: "When was it renewed?"
+        answer: "37 BC"
+  - tossup:
+      question: "Who speaks the line, “<latin>Tros Tyriusque mihi nullo discrimine agetur</latin>”?"
+      answer: "DIDO"
+    boni:
+      - question: "Who says, “<latin>Tuus, o regina, quid optes explorare labor; mihi iussa capessere fas est</latin>”?"
+        answer: "AEOLUS"
+      - question: "Who says, “<latin>Infandum, regina, iubes renovare dolorem</latin>”?"
+        answer: "AENEAS"
+  - tossup:
+      question: "What is the second plural perfect active indicative of <latin>curro</latin>?"
+      answer: "<latin>CUCURRISTIS</latin>"
+    boni:
+      - question: "What is the perfect passive participle of the verb <latin>sero</latin>, meaning sow?"
+        answer: "<latin>SATUS</latin>"
+      - question: "What is the perfect passive participle of the verb <latin>sero</latin>, meaning entwine?"
+        answer: "<latin>SERTUS</latin>"
+  - tossup:
+      question: "What legal term in English means in Latin somewhere else?"
+      answer: "ALIBI"
+    boni:
+      - question: "Which of the following words for crimes is a Latin derivative: murder, theft, fraud, embezzlement?"
+        answer: "FRAUD"
+      - question: "Which of the following is not a Latin derivative: arson, larceny, bribery, forgery?"
+        answer: "BRIBERY"
+  - tossup:
+      question: "Who was the nephew and companion of Hercules?"
+      answer: "IOLAÜS"
+    boni:
+      - question: "Who obliged Hercules by lighting his funeral pyre?"
+        answer: "POEAS / PHILOCTETES"
+      - question: "Whom did the gods give in marriage to Hercules after his deification?"
+        answer: "HEBE"
+  - tossup:
+      question: "What was the name of Cleopatra's son who may have been sired by Julius Caesar?"
+      answer: "CAESARION (PTOLEMY XV)"
+    boni:
+      - question: "When was he born?"
+        answer: "47 BC"
+      - question: "At whose order was he killed?"
+        answer: "(C. IULIUS CAESAR) OCTAVIAN(US)'S"
+  - tossup:
+      question: "Who was Ovid's patron?"
+      answer: "MESSALA CORVINUS"
+    boni:
+      - question: "What is Ovid's longest work?"
+        answer: "<title>THE METAMORPHOSES</title>"
+      - question: "Who else wrote a work called the <title>Metamorphoses<title>?"
+        answer: "APULEIUS"
+  - tossup:
+      question: "What kind of perfects do the following verbs have in common: <latin>curro, cano, cado, caedo</latin>?"
+      answer: "REDUPLICATED"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>fallo</latin>?"
+        answer: "<latin>FEFELLISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>pello</latin>?"
+        answer: "<latin>PEPULISSE</latin>"
+        

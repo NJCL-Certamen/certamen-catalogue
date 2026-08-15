@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What is the masculine singular genitive of <latin>unus</latin>?"
+      answer: "<latin>UNIUS</latin>"
+    boni:
+      - question: "What is the feminine singular dative?"
+        answer: "<latin>UNI</latin>"
+      - question: "Which of the following genitive singular forms is wrong: <latin>ullius, totius, alterius, uterius</latin>?"
+        answer: "<latin>UTERIUS</latin> SHOULD BE <latin>UTRIUS</latin>"
+  - tossup:
+      question: "Who sent Hercules on his Twelve Labors?"
+      answer: "EURYSTHEUS"
+    boni:
+      - question: "What was the first of these?"
+        answer: "KILLING THE NEMEAN LION"
+      - question: "Who was the Amazon queen whose girdle Hercules had to obtain?"
+        answer: "HIPPOLYTA"
+  - tossup:
+      question: "Where was Cicero when he delivered the first oration against Catiline?"
+      answer: "THE TEMPLE OF JUPITER STATOR"
+    boni:
+      - question: "Where were the second and third delivered?"
+        answer: "FROM THE <latin>ROSTRA</latin>"
+      - question: "Where was the fourth delivered?"
+        answer: "IN THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "Who wrote <latin>odi et amo</latin>?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "Where was he born?"
+        answer: "VERONA"
+      - question: "What was his name for his beloved?"
+        answer: "LESBIA"
+  - tossup:
+      question: "What is the meaning of the Latin word which has unchanged become the English noun agenda?"
+      answer: "THINGS WHICH HAVE TO BE DONE"
+    boni:
+      - question: "What Latin words yield the English willy nilly?"
+        answer: "<latin>VOLENS NOLENS</latin> / <latin>VELLE NOLLE</latin>"
+      - question: "What proper adjective associated with Roman history has been corrupted into “parting” as in the phrases “parting shot” and “parting glance”?"
+        answer: "PARTHIAN"
+  - tossup:
+      question: "What is the meaning in classical prose of the Latin adjective <latin>fatalis</latin>?"
+      answer: "FATEFUL / PORTENTUOUS"
+    boni:
+      - question: "What is the Latin adjective meaning deadly or fatal?"
+        answer: "<latin>MORTIFER / LETIFER</latin>"
+      - question: "What does the adjective <latin>generosus</latin> mean in classical prose?"
+        answer: "WELL-BORN"
+  - tossup:
+      question: "Who could meet his father only after he had lifted a great rock?"
+      answer: "THESEUS"
+    boni:
+      - question: "What lay underneath?"
+        answer: "A SWORD AND SANDALS"
+      - question: "Who was Theseus' mother?"
+        answer: "AETHRA"
+  - tossup:
+      question: "When the Romans first encountered them, they were so bewildered they could only call them “Lucanian oxen.” What were they?"
+      answer: "ELEPHANTS"
+    boni:
+      - question: "Fighting whose army did the Romans encounter them first?"
+        answer: "PYRRHUS'"
+      - question: "What could elephantus mean by metonymy?"
+        answer: "IVORY"
+  - tossup:
+      question: "What is Vergil's ten-poem collection of pastoral poetry?"
+      answer: "THE <title>ECLOGUES</title>"
+    boni:
+      - question: "What was his next major work?"
+        answer: "THE <title>GEORGICS</title>"
+      - question: "How many <title>Georgics<title> are there?"
+        answer: "FOUR"
+  - tossup:
+      question: "What is the second singular perfect active indicative of <latin>cerno</latin>?"
+      answer: "<latin>CREVISTI</latin>"
+    boni:
+      - question: "Change <latin>crevisti</latin> to passive."
+        answer: "<latin>CRETUS ES</latin>"
+      - question: "Change <latin>crevisti</latin> to pluperfect subjunctive."
+        answer: "<latin>CREVISSES</latin>"
+  - tossup:
+      question: "What is the meaning of the Latin noun contained in the English verb genuflect?"
+      answer: "KNEE"
+    boni:
+      - question: "What is its declension and gender?"
+        answer: "FOURTH NEUTER"
+      - question: "How many different cases can the form <latin>genu</latin> be?"
+        answer: "FOUR"
+  - tossup:
+      question: "How many children/siblings did Oedipus have?"
+      answer: "FOUR"
+    boni:
+      - question: "Name the males."
+        answer: "POLYNICES AND ETEOCLES"
+      - question: "Name the females."
+        answer: "ANTIGONE AND ISMENE"
+  - tossup:
+      question: "What Roman maiden swam the Tiber to freedom only to be returned to her Etruscan captors?"
+      answer: "CLOELIA"
+    boni:
+      - question: "What maiden betrayed Rome to the Sabines?"
+        answer: "TARPEIA"
+      - question: "Who was commanding the Sabines?"
+        answer: "TITUS TATIUS"
+  - tossup:
+      question: "Who was the patron of Vergil?"
+      answer: "(C. CILNIUS) MAECENAS"
+    boni:
+      - question: "Who, in one of his poems, addressed Maecenas as a descendant of Etruscan kings?"
+        answer: "(Q.) HORATIUS / HORACE (FLACCUS)"
+      - question: "Did Maecenas ever hold an elective office?"
+        answer: "NO"
+  - tossup:
+      question: "What Latin noun is the root of the English verb extirpate?"
+      answer: "<latin>STIRPS</latin>"
+    boni:
+      - question: "What is the meaning of the Latin noun at the root of the English verb eradicate?"
+        answer: "ROOT"
+      - question: "What is the meaning of the Latin noun as the root of the English verb incinerate?"
+        answer: "ASH"
+  - tossup:
+      question: "What is the nominative plural of the phrase <latin>senatus consultum</latin>?"
+      answer: "<latin>SENATUS CONSULTA</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>senex</latin>?"
+        answer: "<latin>SENUM</latin>"
+      - question: "What is the genitive plural of <latin>iuvenis</latin>?"
+        answer: "<latin>IUVENUM</latin>"
+  - tossup:
+      question: "At what event did Eris throw her golden apple?"
+      answer: "THE WEDDING OF PELEUS AND THETIS"
+    boni:
+      - question: "Who was the son of the these two?"
+        answer: "ACHILLES"
+      - question: "Whose wedding was marred by the battle of the Lapiths and the Centaurs?"
+        answer: "PIRITHOUS AND HIPPODAMIA"
+  - tossup:
+      question: "What was the year of Pompeii's destruction?"
+      answer: "79 AD"
+    boni:
+      - question: "What was the exact date?"
+        answer: "AUGUST 24"
+      - question: "In what century was Pompeii rediscovered?"
+        answer: "THE EIGHTEENTH"
+  - tossup:
+      question: "Who was the author of the <title>Mostellaria</title> and the <title>Casina</title>?"
+      answer: "(T. MACCIUS) PLAUTUS"
+    boni:
+      - question: "Who was the author of the <title>Phormio</title> and the <title>Adelphoe</title>?"
+        answer: "(P.) TERENTIUS / TERENCE (AFER)"
+      - question: "Who was the author of the <title>Thyestes</title> and the <title>Hercules Furens</title>?"
+        answer: "(L. ANNAEUS) SENECA THE YOUNGER"
+  - tossup:
+      question: "What praenomen is abbreviated A?"
+      answer: "AULUS"
+    boni:
+      - question: "Which is abbreviated Cn?"
+        answer: "GNAEUS"
+      - question: "Which is abbreviated L?"
+        answer: "LUCIUS"

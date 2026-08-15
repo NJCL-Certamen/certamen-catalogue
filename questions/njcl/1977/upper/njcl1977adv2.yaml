@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What is the third singular perfect active indicative of <latin>cado</latin>?"
+      answer: "<latin>CECIDIT</latin>"
+    boni:
+      - question: "What is the same form of <latin>caedo</latin>?"
+        answer: "<latin>CECIDIT</latin>"
+      - question: "What is the same form of <latin>cano</latin>?"
+        answer: "<latin>CECINIT</latin>"
+  - tossup:
+      question: "From what were sprung a race of men called Myrmidons?"
+      answer: "ANTS"
+    boni:
+      - question: "Where was their island home?"
+        answer: "AEGINA"
+      - question: "Who was their first king?"
+        answer: "AEACUS"
+  - tossup:
+      question: "How many of the Seven Wonders of the World glorified Greek divinities?"
+      answer: "THREE"
+    boni:
+      - question: "Which divinity was honored by a temple at Ephesus?"
+        answer: "ARTEMIS"
+      - question: "Who was honored by the Colossus of Rhodes?"
+        answer: "HELIOS / APOLLO"
+  - tossup:
+      question: "Who wrote <latin>Non amo te, Sabidi</latin>?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "Where was Martial's birthplace?"
+        answer: "BILBILIS, SPAIN"
+      - question: "What are his verses called?"
+        answer: "EPIGRAMS"
+  - tossup:
+      question: "Which noun of the following four is out of place: <latin>anguis, volucris, coluber, serpens</latin>?"
+      answer: "<latin>VOLUCRIS</latin>"
+    boni:
+      - question: "What is a synonym for <latin>volucris</latin>?"
+        answer: "<latin>AVIS</latin>"
+      - question: "What do the other nouns all mean?"
+        answer: "SNAKE"
+  - tossup:
+      question: "What Latin noun is at the root of the English military rank of colonel?"
+      answer: "<latin>COLUMNA</latin>"
+    boni:
+      - question: "What Latin verb is at the root of sergeant?"
+        answer: "<latin>SERVIO</latin>"
+      - question: "Does admiral have a Classical Latin root?"
+        answer: "NO"
+  - tossup:
+      question: "Who was the father of Danaë?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "In the land of what king did Danaë arrive after Acrisius expelled her?"
+        answer: "POLYDECTES"
+      - question: "Who, a brother of Polydectes, gave shelter to Danaë and the infant Perseus?"
+        answer: "DICTYS"
+  - tossup:
+      question: "What enemy people did the Romans defeat at the battle of Alesia?"
+      answer: "THE GAULS"
+    boni:
+      - question: "What was the year?"
+        answer: "52 BC"
+      - question: "Who was the enemy commander?"
+        answer: "VERCINGETORIX"
+  - tossup:
+      question: "Who wrote a history of Rome in 142 books?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What was his birthplace?"
+        answer: "PATAVIUM"
+      - question: "Of the 142 books, how many are extant and complete?"
+        answer: "35"
+  - tossup:
+      question: "What English phrase preserves unchanged a Latin ablative absolute and means “with the situation reversed”?"
+      answer: "VICE VERSA"
+    boni:
+      - question: "What English noun meaning “an accident of fortune” comes from the Latin noun in vice versa?"
+        answer: "VICISSITUDE"
+      - question: "What English adjective meaning “experienced through sympathetic participation in the experience of another” comes from the same noun?"
+        answer: "VICARIOUS"
+  - tossup:
+      question: "What is the syncopated form of the second singular perfect active indicative of <latin>portō</latin>?"
+      answer: "<latin>PORTASTI</latin>"
+    boni:
+      - question: "What is the syncopated form of the same verb in the perfect infinitive?"
+        answer: "<latin>PORTASSE</latin>"
+      - question: "In the third plural perfect active indicative?"
+        answer: "<latin>PORTARUNT</latin>"
+  - tossup:
+      question: "What is the native Italian name for the Muses?"
+      answer: "<latin>CAMENAE</latin>"
+    boni:
+      - question: "Who was Muse of love poetry?"
+        answer: "ERATO"
+      - question: "Who was Muse of epic poetry?"
+        answer: "CALLIOPE"
+  - tossup:
+      question: "Between January, 68 AD, and January, 70 AD, how many emperors did Rome have?"
+      answer: "FIVE"
+    boni:
+      - question: "Who was the last of them, whose reign lasted ten years?"
+        answer: "(T. FLAVIUS) VESPASIAN(US)"
+      - question: "How many of his sons succeeded him?"
+        answer: "TWO"
+  - tossup:
+      question: "Who in the Aeneid says, “<latin>Parce metu, Cytherea</latin>”?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who is <latin>Cytherea</latin>?"
+        answer: "VENUS"
+      - question: "Whom in disguise does Aeneas address as “<latin>O dea certe</latin>”?"
+        answer: "VENUS"
+  - tossup:
+      question: "From what Latin verb does the English noun “parent” come?"
+      answer: "<latin>PARIO</latin>"
+    boni:
+      - question: "What does it mean?"
+        answer: "GIVE BIRTH"
+      - question: "What is its perfect active infinitive?"
+        answer: "<latin>PEPERISSE</latin>"
+  - tossup:
+      question: "What was a Roman asking you if he walked up to you and said, “<latin>Ningitne</latin>?”"
+      answer: "IS IT SNOWING?"
+    boni:
+      - question: "Tell this clown it is raining."
+        answer: "<latin>PLUIT</latin>"
+      - question: "Tell this clown it is thundering."
+        answer: "<latin>TONAT</latin>"
+  - tossup:
+      question: "What was done with the eyes of the slain Argus?"
+      answer: "THEY WERE PUT INTO THE TAIL OF THE PEACOCK"
+    boni:
+      - question: "Over whom had Argus been guardian?"
+        answer: "IO"
+      - question: "Who killed Argus?"
+        answer: "HERMES / MERCURY"
+  - tossup:
+      question: "Where was Caesar's decisive victory over Pompey?"
+      answer: "PHARSALUS"
+    boni:
+      - question: "What was the year?"
+        answer: "48 BC"
+      - question: "The date is the same as an important date in modern military history. What was the date?"
+        answer: "AUGUST 9 - NAGASAKI"
+  - tossup:
+      question: "Who wrote a lost oratorical work called the <title><latin>Anticato</latin><title> and a lost verse tribute to Terence?"
+      answer: "(C. IULIUS) CAESAR"
+    boni:
+      - question: "Who wrote the eighth book of Caesar's <title>Gallic War</title>?"
+        answer: "AULUS HIRTIUS"
+      - question: "How many books are there in Caesar's <title><latin>De Bello Civili</latin></title>?"
+        answer: "THREE"
+  - tossup:
+      question: "What was the Latin noun for the Romans' main meal of the day?"
+      answer: "<latin>CENA</latin>"
+    boni:
+      - question: "What is the Latin noun for lunch?"
+        answer: "<latin>PRANDIUM</latin>"
+      - question: "What is the Latin noun for breakfast?"
+        answer: "<latin>IENTACULUM</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: Semifinals 3
+questions:
+  - tossup:
+      question: "Translate into the nominative case the phrase “both poets.”"
+      answer: "<latin>POETAE AMBO</latin>"
+    boni:
+      - question: "Put the phrase “both nights” into the genitive."
+        answer: "<latin>AMBARUM NOCTIUM</latin>"
+      - question: "Put the phrase “both daughters” into the ablative."
+        answer: "<latin>AMBABUS FILIABUS</latin>"
+  - tossup:
+      question: "What function of Mercury is indicated by his name Hermes Psychopompus?"
+      answer: "THE ESCORTING OF THE DEAD TO HADES."
+    boni:
+      - question: "What two animals were sacred to Aesculapius, were found in his temples, and were thought to have curative powers in their licks?"
+        answer: "THE SNAKE AND THE DOG"
+      - question: "Who was the mother of Aesculapius?"
+        answer: "CORONIS"
+  - tossup:
+      question: "As you may have guessed, the word “aedile” comes from the word aedes, “temple.” The aedile's original function was the supervision of whose temple?"
+      answer: "CERES'"
+    boni:
+      - question: "What festival did the Romans celebrate on February 15?"
+        answer: "<latin>LUPERCALIA</latin>"
+      - question: "We still celebrate on March 17, but we call it St Patrick's Day. What did the Romans celebrate on March 17?"
+        answer: "<latin>LIBERALIA</latin>"
+  - tossup:
+      question: "What Roman author gave us the phrase <latin>panem et circenses</latin>?"
+      answer: "JUVENAL"
+    boni:
+      - question: "What Roman work describes the <title><latin>Cena Trimalchionis</latin></title>?"
+        answer: "THE <title>SATYRICON</title>"
+      - question: "What Roman work is the only classical recounting of the tale of Cupid and Psyche?"
+        answer: "<title>THE GOLDEN ASS</title>"
+  - tossup:
+      question: "What English noun comes from the Latin verb <latin>scindo</latin>?"
+      answer: "SCISSORS"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>pendo</latin>?"
+        answer: "<latin>PEPENDISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>pardo</latin>?"
+        answer: "<latin>PEPERCISSE</latin>"
+  - tossup:
+      question: "What was the livelihood of a <latin>latro</latin>?"
+      answer: "HE WAS A THIEF"
+    boni:
+      - question: "What occupation was a <latin>pistor</latin>?"
+        answer: "A BAKER"
+      - question: "What occupation was a <latin>lanius</latin>?"
+        answer: "A BUTCHER"
+  - tossup:
+      question: "At the home of what king did Demeter take refuge during her search for Persephone?"
+      answer: "CELEUS"
+    boni:
+      - question: "Who was the queen?"
+        answer: "METANIRA"
+      - question: "Who was the infant Demeter intended to make immortal?"
+        answer: "DEMOPHOON / TRIPTOLEMUS"
+  - tossup:
+      question: "What was the old name of Constantinople?"
+      answer: "BYZANTIUM"
+    boni:
+      - question: "In what year was Constantinople founded?"
+        answer: "330 AD (OFFICIALLY INAUGURATED) / 324 AD (ACTUALLY FOUNDED)"
+      - question: "What was the year of the battle of the Mulvian Bridge?"
+        answer: "312 AD"
+  - tossup:
+      question: "Which work of Cicero is also known as the <title>Laelius</title>?"
+      answer: "<latin><title>DE AMICITIA</title></latin>"
+    boni:
+      - question: "Which one is also known as <latin><title>Cato Maior</title></latin>?"
+        answer: "<title><latin>DE SENECTUTE</latin></title>"
+      - question: "What lost work was written out of grief over his daughter's death?"
+        answer: "THE <latin><title>CONSOLATIO</title></latin>"
+  - tossup:
+      question: "In a regular third or fourth conjugation verb, what other form is identical in both voices to the first singular present subjunctive?"
+      answer: "THE FIRST SINGULAR FUTURE INDICATIVE"
+    boni:
+      - question: "What is this form, passive, for <latin>capio</latin>?"
+        answer: "<latin>CAPIAR</latin>"
+      - question: "What is the present imperative of <latin>reor</latin>?"
+        answer: "<latin>RERE</latin>"
+  - tossup:
+      question: "With your answer in Latin, what is <latin>ter quinque</latin>?"
+      answer: "<latin>QUINDECIM</latin>"
+    boni:
+      - question: "What is the Latin noun for one half?"
+        answer: "<latin>DIMIDIUM</latin>"
+      - question: "How would you say “three fifths” in Latin?"
+        answer: "<latin>TRES QUINTAE (PARTES)</latin>"
+  - tossup:
+      question: "Bellerophon's name means he once had certain dealings with a man named Bellerus. What was Bellerophon to Bellerus?"
+      answer: "HIS KILLER"
+    boni:
+      - question: "What was his name before he killed Bellerus and acquired his new name?"
+        answer: "HIPPONOÜS"
+      - question: "Who falsely accused Bellerophon of trying to seduce her?"
+        answer: "ANTEIA or STHENEBOEA"
+  - tossup:
+      question: "What is the modern name of <latin>Nicaea</latin>?"
+      answer: "NICE"
+    boni:
+      - question: "What large city derives its name from its Latin one, <latin>Colonia Agrippina</latin>?"
+        answer: "COLOGNE"
+      - question: "What is the modern name for the ancient <latin>Tergeste</latin>?"
+        answer: "TRIESTE"
+  - tossup:
+      question: "Who in the Aeneid speaks the line, “<latin>Equo ne credite, Teucri</latin>”?"
+      answer: "LAOCOÖN"
+    boni:
+      - question: "Whose death is described with this, one of the most metrically striking in the poem: <latin>Avulsumque umeris caput, et sine nomine corpus</latin>?"
+        answer: "PRIAM'S"
+      - question: "Who says, “<latin>Hoc opus, hic labor est</latin>”?"
+        answer: "THE SIBYL"
+  - tossup:
+      question: "What sort of words are <latin>Aeneadae</latin>, <latin>Heraclidae</latin>, and <latin>Atreidae</latin>?"
+      answer: "PATRONYMICS"
+    boni:
+      - question: "What sort of verbs are <latin>licet, oportet</latin>, and <latin>paenitet</latin>?"
+        answer: "IMPERSONAL"
+      - question: "What English word for prison is derived from <latin>paenitet</latin>?"
+        answer: "PENITENTIARY"
+  - tossup:
+      question: "What is the nominative singular of the present active participle of <latin>eo</latin>?"
+      answer: "<latin>IENS</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>uro</latin>?"
+        answer: "<latin>USSISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>coquo</latin>?"
+        answer: "<latin>COXISSE</latin>"
+  - tossup:
+      question: "What god was called <latin>Ennosigaeus</latin>, the Earth Shaker?"
+      answer: "POSEIDON"
+    boni:
+      - question: "What island was devastated with a plague sent by a jealous Hera because it was named for one of Zeus' conquests?"
+        answer: "AEGINA"
+      - question: "What goddess was called <latin>Tritogeneia</latin>?"
+        answer: "Athena"
+  - tossup:
+      question: "Where was an armistice, temporary as it turned out, between Octavian and Antony signed in 40 BC?"
+      answer: "BRUNDISIUM"
+    boni:
+      - question: "One of the negotiators was a man who helped Vergil recover his confiscated farm, and is mentioned gratefully in the Eclogues more than once. Who was he?"
+        answer: "(C.) ASINIUS POLLIO"
+      - question: "Where was another treaty, also temporary, between Antony and Octavian signed in 37 BC?"
+        answer: "TARENTUM"
+  - tossup:
+      question: "<title>Aeneid</title> VI.846, <latin>unus qui nobis cunctando restituis rem</latin>, refers to Fabius Cunctator; from what earlier epicist did Vergil borrow the line?"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "What earlier writer did Horace call his “lantern,” but still criticize for writing like a muddy river, dictating 200 verses an hour while standing on one foot?"
+        answer: "(C.) LUCILIUS"
+      - question: "From what early Roman dramatist did Caligula borrow his motto: <latin>oderint dum metuant</latin> - let them hate, as long as they fear?"
+        answer: "(L.) ACCIUS"
+  - tossup:
+      question: "In that quotation from Accius: <latin>oderint dum metuant</latin>, what kind of subordinate clause is <latin>dum metuant</latin>?"
+      answer: "PROVISO"
+    boni:
+      - question: "What compound of <latin>dum</latin> and another particle often introduces a proviso?"
+        answer: "DUMMODO"
+      - question: "Translate the following proviso of Martial: <latin>Sint Maecenates, non deerunt Marones</latin>."
+        answer: "AS LONG AS THERE ARE MAECENASES, THERE WILL BE NO LACK OF VERGILS"

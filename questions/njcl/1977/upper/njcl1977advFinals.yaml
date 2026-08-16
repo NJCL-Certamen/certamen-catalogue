@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Advanced"
+round: Finals
+questions:
+  - tossup:
+      question: "What Latin noun is at the root of the English word inertia?"
+      answer: "<latin>ARS</latin>"
+    boni:
+      - question: "Which of the following English nouns does not ultimately go back to the Latin word quattuor: quarantine, quarry (Meaning “that which is hunted”), quarry (meaning “a place to cut rock”), squadron?"
+        answer: "QUARRY (THAT WHICH IS HUNTED)"
+      - question: "What English adjective and noun derives through a series of meanings from the Latin noun for hinge?"
+        answer: "CARDINAL"
+  - tossup:
+      question: "Who were the doctors of the Greek forces at Troy?"
+      answer: "MACHAON AND PODALIRIUS"
+    boni:
+      - question: "Who was their father?"
+        answer: "AESCULAPIUS"
+      - question: "Who was the Greek seer at Troy?"
+        answer: "CALCHAS"
+  - tossup:
+      question: "Who were the first two consuls of the Roman Republic?"
+      answer: "(L. TARQUINIUS) COLLATINUS AND (L. IUNIUS) BRUTUS"
+    boni:
+      - question: "What was the year of their consulship?"
+        answer: "509 BC"
+      - question: "What was a consul suffectus?"
+        answer: "ONE APPOINTED TO FILL AN UNEXPIRED TERM"
+  - tossup:
+      question: "Although it is usually thought of as a Christian concept in an individual, the Golden Age Latin authors seemed to think that the <latin>gens togata</latin> suffered from an original sin as well. What was Rome's original sin?"
+      answer: "ROMULUS' MURDER OF REMUS"
+    boni:
+      - question: "It was sometimes implied that Rome's original sin went back to the early days of Troy. What did some authors imply was Troy's original sin?"
+        answer: "THE FRAUD OF LAOMEDON"
+      - question: "Since slander of Romulus was slander of Augustus, what variant story of the death of Remus was sometimes used?"
+        answer: "THAT CELER, ROMULUS' AIDE, KILLED REMUS"
+  - tossup:
+      question: "What Latin adjective is a contraction of the present active participle of <latin>provideo</latin>?"
+      answer: "<latin>PRUDENS</latin>"
+    boni:
+      - question: "By way of French, what Latin verb gives us our verb pursue?"
+        answer: "<latin>PROSEQUOR</latin>"
+      - question: "Do survey and convey have the same root verb?"
+        answer: "NO (SURVEY=SUPER+VIDEO, CONVEY=CUM+VIARE)"
+  - tossup:
+      question: "The following words all have the Greek word <latin>νησος</latin> in common: Indonesia, Micronesia, Polynesia, Peloponnesus. What does <latin>νησος</latin> mean?"
+      answer: "ISLAND"
+    boni: 
+      - question: "What does Micronesia mean?"
+        answer: "SMALL ISLANDS"
+      - question: "What does Polynesia mean?"
+        answer: "MANY ISLANDS"
+  - tossup:
+      question: "Cleobis and Biton were the sons of a priestess of Hera; they once pulled their mother's chariot five miles to the Temple of Hera when no beasts of burden were available. Their mother prayed that they receive the greatest good men can have. What did Hera grant them a few hours later?"
+      answer: "PAINLESS DEATHS IN THEIR SLEEP"
+    boni:
+      - question: "Once in a temple of Artemis, a young man named Acontius tricked a young woman into betrothing herself to him. What did he do?"
+        answer: "INSCRIBED “I SWEAR BY ARTEMIS TO MARRY ACONTIUS” ON A PIECE OF FRUIT AND THREW IT TO HER FEET. SHE PICKED IT UP, READ THE INSCRIPTION ALOUD, AND BY ARTEMIS' EXPRESS WILL HAD TO HONOR IT"
+      - question: "What was her name?"
+        answer: "CYDIPPE"
+  - tossup:
+      question: "What previously great power did the Romans defeat decisively at the battle of Pydna?"
+      answer: "MACEDON(IA)"
+    boni:
+      - question: "What was the year?"
+        answer: "168 BC"
+      - question: "What son and namesake of a general was commander there?"
+        answer: "(L.) AEMILIUS PAULLUS"
+  - tossup:
+      question: "Only one Greek tragedy which survives has its basis in real history instead of myth or legend. Which one is it?"
+      answer: "THE <title>PERSAE</title>"
+    boni:
+      - question: "Who wrote it?"
+        answer: "AESCHYLUS"
+      - question: "How, according to tradition, did Aeschylus die?"
+        answer: "A BIRD DROPPED A TURTLE ON HIS HEAD"
+  - tossup:
+      question: "Translate the phrase “amazing to say.”"
+      answer: "<latin>MIRABILE DICTU</latin>"
+    boni:
+      - question: "Translate the phrase: Flowers are beautiful to see."
+        answer: "<latin>FLORES SUNT BELLI VISU</latin>"
+      - question: "Translate the phrase: Music is pleasing to hear."
+        answer: "<latin>MUSICA EST GRATA AUDITU</latin>"
+  - tossup:
+      question: "Translate into English the motto of the National Lampoon: <latin>ars gratia pecuniae</latin>."
+      answer: "ART FOR THE SAKE OF MONEY"
+    boni:
+      - question: "What is the comparative of <latin>diu</latin>?"
+        answer: "<latin>DIUTIUS</latin>"
+      - question: "What is the superlative of <latin>vetus</latin>?"
+        answer: "<latin>VETERRIMUS</latin>"
+  - tossup:
+      question: "Who was the bronze guardian of Crete?"
+      answer: "TALUS"
+    boni:
+      - question: "What siren, distressed at her failure to lure Odysseus and his men with her singing, threw herself into the sea? Her body washed ashore in Italy and the spot was named for her."
+        answer: "PARTHENOPE"
+      - question: "What miracle did Zeus grant to the mother of Acarnan and Amphoterus?"
+        answer: "HE CAUSED THEM TO GROW TO MANHOOD IN A SINGLE DAY TO AVENGE THE MURDER OF THEIR FATHER"
+  - tossup:
+      question: "When Corinth was refounded in the 40s BC, what Latin name was given to it?"
+      answer: "<latin>LAUS IULII</latin>"
+    boni:
+      - question: "What emperor began and abandoned the digging of a canal across the isthmus of Corinth?"
+        answer: "NERO"
+      - question: "What century finally witnessed the completion of such a canal?"
+        answer: "THE NINETEENTH"
+  - tossup:
+      question: "What character scornfully addresses the Trojans as <latin>Laomedontiadae</latin>?"
+      answer: "(THE HARPY) CELAENO"
+    boni:
+      - question: "What prophecy does she give them?"
+        answer: "THAT THEY WON'T REACH THEIR DESTINATION UNTIL HUNGER HAS MADE THEM EAT THEIR TABLES"
+      - question: "Who in Book VII exclaims to Aeneas that the prophecy has been fulfilled?"
+        answer: "ASCANIUS"
+  - tossup:
+      question: "Of what rhetorical device is ”not bad“ an example?"
+      answer: "LITOTES"
+    boni:
+      - question: "What is the inversion of the usual order of words?"
+        answer: "ANASTROPHE / HYPERBATON"
+      - question: "What device's name, in literal Greek, means ”one thing through two“?"
+        answer: "HENDIADYS"
+  - tossup:
+      question: "You should know by now that the perfect of <latin>tollo</latin> is <latin>sustuli</latin>. What is the perfect of <latin>attollo</latin>?"
+      answer: "IT HAS NONE"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>crepo</latin>?"
+        answer: "<latin>CREPUISSE</latin>"
+      - question: "What is the syncopated perfect active infinitive of <latin>nosco</latin>?"
+        answer: "<latin>NOSSE</latin>"
+  - tossup:
+      question: "To whom did Priam send his son Polydorus, only for the host to turn on his guest and murder him?"
+      answer: "POLYM(N)ESTOR"
+    boni:
+      - question: "How did Hecuba avenge Polydorus?"
+        answer: "KILLED POLYMESTOR'S CHILDREN AND BLINDED HIM"
+      - question: "Who was Polymestor's wife?"
+        answer: "ILIONE (A DAUGHTER OF PRIAM)"
+  - tossup:
+      question: "To what office was Caesar elected in 63 BC?"
+      answer: "<latin>PONTIFEX MAXIMUS</latin>"
+    boni:
+      - question: "What office was abolished after his death?"
+        answer: "DICTATOR"
+      - question: "Which emperor refused to accept the title of Augustus?"
+        answer: "VITELLIUS"
+  - tossup:
+      question: "Several of Rome's literati have gotten together to drink themselves into oblivion. Vergil is knocking them back at a fast clip like the typical teenager he is. Cicero is trying to look dignified, as is fitting for a middle-aged gentleman in his fifties, and every few minutes he addresses himself to no one in particular and says, ”<latin>Quo usque tandem abutemur nostris iecoribus</latin>?“ Horace and Livy are underage, so they promised to stay away from the hard stuff, but they seem to be snitching swigs from the bottle of Falernian, which is a good vintage, Caesar is oozing around the room with a bottle of Mareotic in his hand, saying, ”<latin>Veni vidi bibi</latin>,“ and laughing at his own joke. Everyone is getting quite stiff, but no one is as stiff as Catullus, who has been dead for several days. What year is it?"
+      answer: "54 BC"
+    boni:
+      - question: "How many years later would these bozos have to have their party to include the newborn Ovid?"
+        answer: "ELEVEN"
+      - question: "If the party had been held the previous year, to celebrate Vergil's donning the <latin>toga virilis</latin>, what event of the same day would they have been mourning?"
+        answer: "THE DEATH OF LUCRETIUS"
+  - tossup:
+      question: "What is the tense of the subjunctive in a present contrary-to-fact clause?"
+      answer: "IMPERFECT"
+    boni:
+      - question: "Translate into English: <latin>Nisi vidissem, non credidissem</latin>."
+        answer: "IF I HADN'T SEEN, I WOULDN'T HAVE BELIEVED"
+      - question: "Translate into Latin: If I were wise, I wouldn't be here."
+        answer: "<latin>SI SAPIREM / SAPIENS ESSEM, NON ADESSEM / HIC ESSEM // ABESSEM</latin>"
+        

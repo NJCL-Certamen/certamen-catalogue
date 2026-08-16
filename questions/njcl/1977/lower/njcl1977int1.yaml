@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Round 1
+questions:
+  - tossup:
+      question: "What is the genitive singular of <latin>grex</latin>?"
+      answer: "<latin>GREGIS</latin>"
+    boni:
+      - question: "What is the dative singular of <latin>lux</latin>?"
+        answer: "<latin>LUCI</latin>"
+      - question: "What is the genitive plural of <latin>nox</latin>?"
+        answer: "<latin>NOCTIUM</latin>"
+  - tossup:
+      question: "What is the Roman name of Hera?"
+      answer: "JUNO"
+    boni:
+      - question: "What is the Greek name for Venus?"
+        answer: "APHRODITE"
+      - question: "Spell Aphrodite."
+        answer: "A-P-H-R-O-D-I-T-E"
+  - tossup:
+      question: "What vowel is characteristic of a second conjugation active infinitive?"
+      answer: "LONG -E-"
+    boni:
+      - question: "What vowel is characteristic of a fourth conjugation adtive infinitive?"
+        answer: "LONG -I-"
+      - question: "Name a present active infinitive that doesn't end in -RE."
+        answer: "<latin>ESSE, POSSE, VELLE, NOLLE, MALLE</latin>, ANY DEPONENT"
+  - tossup:
+      question: "What was the year of the foundation of Rome?"
+      answer: "753 BC"
+    boni:
+      - question: "Who was her founder?"
+        answer: "ROMULUS"
+      - question: "Who was his brother?"
+        answer: "REMUS"
+  - tossup:
+      question: "What is the feminine genitive singular of <latin>hic</latin>?"
+      answer: "<latin>HUIUS</latin>"
+    boni:
+      - question: "What is its masculine accusative singular?"
+        answer: "<latin>HUNC</latin>"
+      - question: "What is its neuter genitive plural?"
+        answer: "<latin>HORUM</latin>"
+  - tossup:
+      question: "Who is the Roman king of the gods?"
+      answer: "JUPITER"
+    boni:
+      - question: "Where is his throne?"
+        answer: "MT. OLYMPUS"
+      - question: "What is his Greek name?"
+        answer: "ZEUS"
+  - tossup:
+      question: "What is the first plural present passive indicative of <latin>porto</latin>?"
+      answer: "<latin>PORTAMUR</latin>"
+    boni:
+      - question: "What is the third plural present active subjunctive of <latin>laudo</latin>?"
+        answer: "<latin>LAUDENT</latin>"
+      - question: "What is the first singular present active subjunctive of <latin>moneo</latin>?"
+        answer: "<latin>MONEAM</latin>"
+  - tossup:
+      question: "Who was the first emperor of Rome?"
+      answer: "AUGUSTUS CAESAR"
+    boni:
+      - question: "After what battle did Augustus emerge as the sole power in Rome?"
+        answer: "ACTIUM"
+      - question: "What was the year of the battle of Actium?"
+        answer: "31 BC"
+  - tossup:
+      question: "What form of <latin>Roma</latin> means “at Rome”?"
+      answer: "<latin>ROMAE</latin>"
+    boni:
+      - question: "How would you say ”at Athens“?"
+        answer: "<latin>ATHENIS</latin>"
+      - question: "How would you say ”at home“?"
+        answer: "<latin>DOMI</latin>"
+  - tossup:
+      question: "Who commanded the Greeks at Troy?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Who was the Greeks' greatest warrior?"
+        answer: "ACHILLES"
+      - question: "Who was the Trojans' greatest warrior?"
+        answer: "HECTOR"
+  - tossup:
+      question: "What is the present passive infinitive of <latin>duco</latin>?"
+      answer: "<latin>DUCI</latin>"
+    boni:
+      - question: "What is its active perfect infinitive?"
+        answer: "<latin>DUXISSE</latin>"
+      - question: "What is its active future infinitive?"
+        answer: "<latin>DUCTURUM ESSE</latin>"
+  - tossup:
+      question: "Who was Augustus' adoptive father?"
+      answer: "(C. JULIUS) CAESAR"
+    boni:
+      - question: "What was the year of Caesar's birth?"
+        answer: "102 / 100 BC"
+      - question: "What was the exact date of his death?"
+        answer: "March 15, 44 BC"
+  - tossup:
+      question: "What is the feminine accusative singular of the relative pronoun <latin>qui</latin>?"
+      answer: "<latin>QUAM</latin>"
+    boni:
+      - question: "What is the meaning of <latin>quamquam</latin>?"
+        answer: "ALTHOUGH"
+      - question: "What is the meaning of <latin>quia</latin>?"
+        answer: "BECAUSE"
+  - tossup:
+      question: "Who commanded the search for the Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "Why were his men called the Argonauts?"
+        answer: "AFTER THEIR SHIP, THE ARGO"
+      - question: "What princess helped Jason get the prize?"
+        answer: "MEDEA"
+  - tossup:
+      question: "What is the Latin word for today?"
+      answer: "<latin>HODIE</latin>"
+    boni:
+      - question: "What is the Latin word for tomorrow?"
+        answer: "<latin>CRAS</latin>"
+      - question: "What English verb comes from it?"
+        answer: "PROCRASTINATE"
+  - tossup:
+      question: "What king of Rome succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "How many kings of early Rome were there?"
+        answer: "SEVEN"
+      - question: "Who was the last of them?"
+        answer: "(L.) TARQUIN(IUS) SUPERBUS / THE PROUD"
+  - tossup:
+      question: "What is the superlative degree of <latin>carus</latin>?"
+      answer: "<latin>CARISSIMUS</latin>"
+    boni:
+      - question: "What is its comparative degree?"
+        answer: "<latin>CARIOR, CARIUS</latin>"
+      - question: "What is its positive adverb?"
+        answer: "<latin>CARE</latin>>"
+  - tossup:
+      question: "Who was the father of Zeus?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who was his mother?"
+        answer: "RHEA"
+      - question: "How many siblings did Zeus have?"
+        answer: "FIVE"
+  - tossup:
+      question: "What is the second singular perfect active indicative of <latin>dico</latin>?"
+      answer: "<latin>DIXISTI</latin>"
+    boni:
+      - question: "What is the same form changed to subjunctive?"
+        answer: "<latin>DIXERIS</latin>"
+      - question: "What is dixisti changed to passive?"
+        answer: "<latin>DICTUS ES</latin>"
+  - tossup:
+      question: "What river did Caesar cross in 49 BC as a symbolic gesture?"
+      answer: "THE RUBICON"
+    boni:
+      - question: "What did he say when he had crossed?"
+        answer: "THE DIE IS CAST / <latin>ALEA IACTA EST</latin>"
+      - question: "What conflict was the result?"
+        answer: "THE ROMAN CIVIL WAR (CAESAR VS POMPEY)"
+        

@@ -155,6 +155,12 @@ links:
   year: 2022
   division: Novice
   round: Round 1
+- rel: 1977 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Finals
 - rel: 1977 NJCL Certamen Advanced Round 4
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv4.yaml
   tournament: NJCL Certamen
@@ -179,6 +185,12 @@ links:
   year: 1977
   division: Advanced
   round: Round 3
+- rel: 1977 NJCL Certamen Advanced Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Semifinals 3
 - rel: 1977 NJCL Certamen Advanced Semifinals
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis.yaml
   tournament: NJCL Certamen

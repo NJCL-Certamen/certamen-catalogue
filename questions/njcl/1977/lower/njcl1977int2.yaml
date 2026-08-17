@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Round 2
+questions:
+  - tossup:
+      question: "What is the prose nominative plural form of <latin>locus</latin>?"
+      answer: "<latin>LOCA</latin>"
+    boni:
+      - question: "What is the gender of <latin>agricola</latin>?"
+        answer: "MASCULINE"
+      - question: "What is the gender of <latin>laurus</latin>?"
+        answer: "FEMININE"
+  - tossup:
+      question: "Who was the Roman god of fire?"
+      answer: "VULCAN"
+    boni:
+      - question: "Who was his Greek counterpart?"
+        answer: "HEPHAESTUS"
+      - question: "Spell Hephaestus."
+        answer: "H-E-P-H-A-E-S-T-U-S"
+  - tossup:
+      question: "What Latin verb is the root of the legal term verdict?"
+      answer: "<latin>DICO</latin>"
+    boni:
+      - question: "What Latin noun lies at the root of perjury?"
+        answer: "<latin>IUS</latin>"
+      - question: "What is the Latin noun meaning judge?"
+        answer: "<latin>IUDEX</latin>"
+  - tossup:
+      question: "Who was the second emperor of Rome?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What was his relationship to Augustus?"
+        answer: "STEPSON AND SON-IN-LAW"
+      - question: "What was the year he took the <latin>imperium</latin>?"
+        answer: "14 AD"
+  - tossup:
+      question: "What is the dative singular of <latin>spes</latin>?"
+      answer: "<latin>SPEI</latin>"
+    boni:
+      - question: "What is its ablative plural?"
+        answer: "<latin>SPEBUS</latin>"
+      - question: "What does it mean?"
+        answer: "HOPE"
+  - tossup:
+      question: "Who was the incestuous king of Thebes?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who was his mother and wife?"
+        answer: "JOCASTA"
+      - question: "Who was his father?"
+        answer: "LAIUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>doceo</latin>?"
+      answer: "<latin>DOCUISSE</latin>"
+    boni:
+      - question: "What is the Latin for ”I have been taught“?"
+        answer: "<latin>DOCTUS SUM</latin>"
+      - question: "What is the Latin for ”I will be taught“?"
+        answer: "<latin>DOCEBOR</latin>"
+  - tossup:
+      question: "What noble family was thrown out of Rome at the end of the early kingdom?"
+      answer: "THE TARQUINS"
+    boni:
+      - question: "From what Italian people did they come?"
+        answer: "THE ETRUSCANS"
+      - question: "What was the year of their expulsion from Rome?"
+        answer: "510 BC"
+  - tossup:
+      question: "What case is demanded by the preposition <latin>per</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case follows <latin>sine</latin>?"
+        answer: "ABLATIVE"
+      - question: "What preposition can be suffixed to its objects to form one word?"
+        answer: "<latin>CUM</latin>"
+  - tossup:
+      question: "Who was the king of Troy during the Trojan War?"
+      answer: "PRIAM"
+    boni:
+      - question: "Who was his wife?"
+        answer: "HECUBA"
+      - question: "Who was the wife of Hector?"
+        answer: "ANDROMACHE"
+  - tossup:
+      question: "Translate the Latin noun verbum."
+      answer: "WORD / VERB"
+    boni:
+      - question: "How would you say two words?"
+        answer: "<latin>DUO VERBA</latin>"
+      - question: "How would you say a thousand words?"
+        answer: "<latin>MILLE VERBA</latin>"
+  - tossup:
+      question: "How many wars did Rome fight with Carthage?"
+      answer: "THREE"
+    boni:
+      - question: "What Carthaginian general penetrated deep into Italy in the Second Punic War?"
+        answer: "HANNIBAL"
+      - question: "At whose hand did Hannibal die?"
+        answer: "HIS OWN"
+  - tossup:
+      question: "What is the nominative plural of <latin>manus</latin>?"
+      answer: "<latin>MANUS</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>pes</latin>?"
+        answer: "<latin>PEDUM</latin>"
+      - question: "What is the nominative plural of <latin>corpus</latin>?"
+        answer: "<latin>CORPORA</latin>"
+  - tossup:
+      question: "How many gods were Olympus dwellers?"
+      answer: "TWELVE"
+    boni:
+      - question: "Name the two sisters of Zeus other than his wife Hera."
+        answer: "DEMETER AND HESTIA"
+  - tossup:
+      question: "What is the second plural future passive indicative of <latin>audio</latin>?"
+      answer: "<latin>AUDIEMINI</latin>"
+    boni:
+      - question: "What is the same word in the present?"
+        answer: "<latin>AUDIMINI</latin>"
+      - question: "Change <latin>audimini</latin> to the singular."
+        answer: "<latin>AUDIRIS</latin>"
+  - tossup:
+      question: "What was the full name of the great delayer against Hannibal?"
+      answer: "(Q.) FABIUS MAXIMUS / VERRUCOSUS / CUNCTATOR"
+    boni:
+      - question: "Where was Hannibal's great defeat in 202 BC?"
+        answer: "ZAMA"
+      - question: "What name was given to a Scipio to commemorate his victories against Carthage?"
+        answer: "AFRICANUS"
+  - tossup:
+      question: "What type of verbs are <latin>sequor</latin> and <latin>hortor</latin>?"
+      answer: "DEPONENT"
+    boni:
+      - question: "What is the first singular perfect subjunctive of <latin>sequor</latin>?"
+        answer: "<latin>SECUTUS SIM</latin>"
+      - question: "What is the third plural future indicative of <latin>hortor</latin>?"
+        answer: "<latin>HORTABUNTUR</latin>"
+  - tossup:
+      question: "Which side in the Trojan War was taken by Neptune?"
+      answer: "THE GREEK"
+    boni:
+      - question: "By Juno?"
+        answer: "THE GREEK"
+      - question: "By Apollo?"
+        answer: "THE TROJAN"
+  - tossup:
+      question: "What is the accusative plural of <latin>mare</latin>?"
+      answer: "<latin>MARIA</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>ius</latin>?"
+        answer: "<latin>IURA</latin>"
+      - question: "What is the genitive plural of <latin>pons</latin>?"
+        answer: "<latin>PONTIUM</latin>"
+  - tossup:
+      question: "What was the name of the series of Roman political offices?"
+      answer: "<latin>CURSUS HONORUM</latin>"
+    boni:
+      - question: "What office began the official <latin>cursus</latin>?"
+        answer: "QUAESTORSHIP"
+      - question: "What office officially was higher than the consulship?"
+        answer: "THE CENSORSHIP"

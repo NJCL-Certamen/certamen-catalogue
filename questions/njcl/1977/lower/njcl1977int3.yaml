@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Round 3
+questions:
+  - tossup:
+      question: "How do you translate the interrogative <latin>cur</latin>?"
+      answer: "WHY"
+    boni:
+      - question: "Translate the following English sentences into Latin: Where are you?"
+        answer: "<latin>UBI ES</latin>?"
+      - question: "Where are you going?"
+        answer: "<latin>QUO IS</latin>?"
+  - tossup:
+      question: "Who was the immortal lover of Aphrodite?"
+      answer: "ARES"
+    boni:
+      - question: "Who was her immortal husband?"
+        answer: "HEPHAESTUS"
+      - question: "Who was her immortal som?"
+        answer: "EROS"
+  - tossup:
+      question: "What part of a sentence can an intransitive verb not have?"
+      answer: "A DIRECT OBJECT"
+    boni:
+      - question: "What is the first singular future indicative of <latin>eo</latin>?"
+        answer: "<latin>IBO</latin>"
+      - question: "What is the second plural imperfect subjunctive of <latin>eo</latin>?"
+        answer: "<latin>IRETIS</latin>"
+  - tossup:
+      question: "What was the largest unit of the Roman army?"
+      answer: "THE LEGION"
+    boni:
+      - question: "Into how many cohorts was a legion divided?"
+        answer: "TEN"
+      - question: "How many men was a legion supposed to contain?"
+        answer: "SIX THOUSAND"
+  - tossup:
+      question: "What is the neuter singular accusative of <latin>ille</latin>?"
+      answer: "<latin>ILLUD</latin>"
+    boni:
+      - question: "What is the neuter singular genitive?"
+        answer: "<latin>ILLIUS</latin>"
+      - question: "What is the feminine singular dative?"
+        answer: "<latin>ILLI</latin>"
+  - tossup:
+      question: "Who wandered for ten years after the Trojan War?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Who turned his men into swine?"
+        answer: "CIRCE"
+      - question: "What god helped Odysseus avoid the same fate?"
+        answer: "HERMES"
+  - tossup:
+      question: "What is the singular imperative of <latin>conor</latin>?"
+      answer: "<latin>CONARE</latin>"
+    boni:
+      - question: "What is the singular imperative of <latin>facio</latin>?"
+        answer: "<latin>FAC</latin>"
+      - question: "What is the future singular imperative of <latin>sum</latin>?"
+        answer: "<latin>ESTO</latin>"
+  - tossup:
+      question: "What was an <latin>impluvium</latin>?"
+      answer: "A RAIN BASIN IN THE FLOOR"
+    boni:
+      - question: "What was a <latin>compluvium</latin>?"
+        answer: "THE HOLE IN THE CEILING THE RAIN FELL THROUGH"
+      - question: "What was the courtyard in the middle of the house?"
+        answer: "PERISTYLE / <latin>PERISTYLIUM</latin>"
+  - tossup:
+      question: "What is the translation of the Latin noun <latin>sagitta</latin>?"
+      answer: "ARROW"
+    boni:
+      - question: "Translate the noun <latin>frumentum</latin>"
+        answer: "GRAIN"
+      - question: "Translate the noun <latin>litus</latin>"
+        answer: "SHORE"
+  - tossup:
+      question: "What immortal twins were Latona's children?"
+      answer: "APOLLO AND DIANA"
+    boni:
+      - question: "Who was turned into a stag and torn to pieces by his own dogs for having stumbled upon Diana bathing?"
+        answer: "ACTAEON"
+      - question: "Spell Actaeon."
+        answer: "A-C-T-A-E-O-N"
+  - tossup:
+      question: "<latin>Responde Latine. Quot digitos habes</latin>?"
+      answer: "<latin>DECEM</latin>"
+    boni:
+      - question: "<latin>Quot capita</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot oculos</latin>?"
+        answer: "<latin>DUOS / DUO</latin>"
+  - tossup:
+      question: "What was the political party of Julius Caesar?"
+      answer: "THE <latin>POPULARES</latin>"
+    boni:
+      - question: "What was the opposition?"
+        answer: "THE <latin>OPTIMATES</latin>"
+      - question: "Who was Caesar's famous uncle?"
+        answer: "MARIUS"
+  - tossup:
+      question: "What is the third plural active pluperfect subjunctive of <latin>struo</latin>?"
+      answer: "<latin>STRUXISSENT</latin>"
+    boni:
+      - question: "What is the first plural active imperfect subjunctive of <latin>careo</latin>?"
+        answer: "<latin>CAREREMUS</latin>"
+      - question: "What is the third singular passive imperfect subjunctive of <latin>laudo</latin>?"
+        answer: "<latin>LAUDARETUR</latin>"
+  - tossup:
+      question: "Who threw a golden apple marked formosissimae?"
+      answer: "ERIS / DISCORDIA"
+    boni:
+      - question: "Who threw three golden apples to win a race?"
+        answer: "HIPPOMENES / MELANION"
+      - question: "Who was racing against him?"
+        answer: "ATALANTA"
+  - tossup:
+      question: "What case shows duration of time?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Translate into Latin: Caesar was fighting for three hours."
+        answer: "<latin>CAESAR TRES HORAS PUGNABAT</latin>"
+      - question: "We were at Rome for five days."
+        answer: "<latin>ERAMUS ROMAE QUINQUE DIES</latin>"
+  - tossup:
+      question: "Who was emperor at the time of the birth of Christ?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Who was emperor at the time of the Crucifixion?"
+        answer: "TIBERIUS"
+      - question: "Was crucifixion a common, Roman form of punishment?"
+        answer: "YES, VERY."
+  - tossup:
+      question: "Translate the one-word motto of Harvard University: <latin>Veritas</latin>."
+      answer: "TRUTH"
+    boni:
+      - question: "Translate the motto of Columbia University: <latin>In Lumine tuo videbimus lumen</latin>."
+        answer: "IN YOUR LIGHT WE SHALL SEE THE LIGHT"
+      - question: "Translate the motto of the Jesuits: <latin>Ad maiorem Dei gloriam</latin>."
+        answer: "TO THE GREATER GLORY OF GOD"
+  - tossup:
+      question: "Who sent two serpents to kill the infant Hercules?"
+      answer: "JUNO"
+    boni:
+      - question: "Who was the mother of Hercules?"
+        answer: "ALCMENA"
+      - question: "What was the nine-headed serpent he killed?"
+        answer: "THE HYDRA"
+  - tossup:
+      question: "What is the Latin word for wife?"
+      answer: "<latin>UXOR</latin>"
+    boni:
+      - question: "WHAT is the Latin word for slave?"
+        answer: "<latin>SERVUS / PUER</latin>"
+      - question: "What is the Latin word for grandfather?"
+        answer: "<latin>AVUS</latin>"
+  - tossup:
+      question: "What was the Roman name for France?"
+      answer: "<latin>GALLIA</latin>"
+    boni:
+      - question: "What was the Roman name for Spain?"
+        answer: "<latin>HISPANIA</latin>"
+      - question: "What do we call the land the Romans called <latin>Caledonia</latin>?"
+        answer: "SCOTLAND"
+        

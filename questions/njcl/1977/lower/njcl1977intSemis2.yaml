@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What is the vocative of <latin>Quintus</latin>?"
+      answer: "<latin>QUINTE</latin>"
+    boni:
+      - question: "What is the vocative of <latin>Publius</latin>?"
+        answer: "<latin>PUBLI</latin>"
+      - question: "What is the vocative of the adjective <latin>pius</latin>?"
+        answer: "<latin>PIE</latin>"
+  - tossup:
+      question: "Who was pursued by Apollo and turned into a tree?"
+      answer: "DAPHNE"
+    boni:
+      - question: "What kind of tree?"
+        answer: "LAUREL"
+      - question: "Whose tree was the olive?"
+        answer: "ATHENA'S"
+  - tossup:
+      question: "What is the third plural pluperfect active subjunctive of <latin>venio</latin>?"
+      answer: "<latin>VENISSENT</latin>"
+    boni:
+      - question: "Change <latin>venissent</latin> to indicative."
+        answer: "<latin>VENERANT</latin>"
+      - question: "Change <latin>venerant</latin> to imperfect."
+        answe4r: "<latin>VENIEBANT</latin>"
+  - tossup:
+      question: "Who was Hannibal's father?"
+      answer: "HAMILCAR BARCA"
+    boni:
+      - question: "What pledge did Hannibal make to his father?"
+        answer: "TO FIGHT ROME ALL HIS LIFE"
+      - question: "How many sons did Hamilcar Barca have?"
+        answer: "THREE"
+  - tossup:
+      question: "What is the positive adverb of <latin>facilis</latin>?"
+      answer: "<latin>FACILE</latin>"
+    boni:
+      - question: "What is the positive adverb of <latin>magnus</latin>?"
+        answer: "<latin>MAGNOPERE</latin>"
+      - question: "What is the superlative adverb of <latin>magnus</latin>?"
+        answer: "<latin>MAXIME</latin>"
+  - tossup:
+      question: "In what form did Zeus visit Europa?"
+      answer: "AS A BULL"
+    boni:
+      - question: "In what form did he visit Alcmena?"
+        answer: "AS HER HUSBAND AMPHITRYON"
+      - question: "What happen when he showed his true form to Semele?"
+        answer: "SHE WAS INCINERATED"
+  - tossup:
+      question: "What Latin phrase is abbreviated i.e.?"
+      answer: "<latin>ID EST</latin>"
+    boni:
+      - question: "What is abbreviated e.g.?"
+        answer: "<latin>EXEMPLI GRATIA</latin>"
+      - question: "What is abbreviated Q.E.D.?"
+        answer: "<latin>QUOD ERAT DEMONSTRANDUM</latin>"
+  - tossup:
+      question: "What year did the Romans call the consulship of Julius and Caesar?"
+      answer: "59 BC"
+    boni:
+      - question: "Who was Caesar's colleague in the consulship of 59 BC?"
+        answer: "(M. CALPURNIUS) BIBULUS"
+      - question: "What other offices had they already shared?"
+        answer: "AEDILESHIP AND QUAESTORSHIP"
+  - tossup:
+      question: "What case is required after <latin>suadeo</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "What is the first singular perfect active indicative of <latin>persuadeo</latin>?"
+        answer: "<latin>PERSUASI</latin>"
+      - question: "What is the same form of <latin>respondeo</latin>?"
+        answer: "<latin>RESPONDI</latin>"
+  - tossup:
+      question: "Who was the son of Semele?"
+      answer: "BACCHUS"
+    boni:
+      - question: "Who was his mortal foster father?"
+        answer: "SILENUS / ATHAMAS"
+      - question: "Who, to his regret, was rewarded by Bacchus for a kindness to Silenus?"
+        answer: "MIDAS"
+  - tossup:
+      question: "What is the dative plural of <latin>virtus</latin>?"
+      answer: "<latin>VIRTUTIBUS</latin>"
+    boni:
+      - question: "What is the dative singular of <latin>usus</latin>?"
+        answer: "<latin>USUI</latin>"
+      - question: "What is the dative plural of <latin>exercitus</latin>?"
+        answer: "<latin>EXERCITIBUS</latin>"
+  - tossup:
+      question: "What two men led the assassins of Caesar?"
+      answer: "BRUTUS AND CASSIUS"
+    boni:
+      - question: "What protege of Caesar's opposed them?"
+        answer: "MARC ANTONY"
+      - question: "What battleground was the site of their deaths?"
+        answer: "PHILIPPI"
+  - tossup:
+      question: "What is the superlative of <latin>acer</latin>?"
+      answer: "<latin>ACERRIMUS</latin>"
+    boni:
+      - question: "What is the superlative of <latin>aeger</latin>?"
+        answer: "<latin>AEGERRIMUS</latin>"
+      - question: "What is the superlative of <latin>similis</latin>?"
+        answer: "<latin>SIMILLIMUS</latin>"
+  - tossup:
+      question: "Who was the mother of Perseus?"
+      answer: "DANAË"
+    boni:
+      - question: "Who was her father?"
+        answer: "ACRISIUS"
+      - question: "How did Zeus appear to Danaë?"
+        answer: "AS A SHOWER OF GOLDEN RAIN"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>fero</latin>?"
+      answer: "<latin>LATUS</latin>"
+    boni:
+      - question: "What does the identical adjective mean?"
+        answer: "WIDE"
+      - question: "What does the noun <latin>latus</latin> mean?"
+        answer: "SIDE"
+  - tossup:
+      question: "What disastrous defeat did the Carthaginians inflict on the Romans in 216 BC?"
+      answer: "THE BATTLE OF CANNAE"
+    boni:
+      - question: "Who commanded the Carthaginians?"
+        answer: "HANNIBAL"
+      - question: "Which consul died in the battle?"
+        answer: "L. AEMILIUS PAULLUS"
+  - tossup:
+      question: "What is 1999 in Roman numerals?"
+      answer: "MIM / MDCCCCLXXXXVIIII"
+    boni:
+      - question: "What are these? LXXIX?"
+        answer: "79"
+      - question: "MDI?"
+        answer: "1501"
+  - tossup:
+      question: "Who was the mortal husband of Leda?"
+      answer: "TYNDAREUS"
+    boni:
+      - question: "What was unusual about Helen's birth?"
+        answer: "SHE HATCHED FROM AN EGG"
+      - question: "Why?"
+        answer: "ZEUS HAD VISITED LEDA IN THE FORM OF A SWAN"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>fero</latin>?"
+      answer: "<latin>TULISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>aufero</latin>?"
+        answer: "<latin>ABSTULISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>suffero</latin>?"
+        answer: "<latin>SUSTULISSE</latin>"
+  - tossup:
+      question: "What was the year of the great fire of Rome?"
+      answer: "64 AD"
+    boni:
+      - question: "On whom did Nero blame it?"
+        answer: "THE CHRISTIANS"
+      - question: "How many of them did Nero send to their deaths in the Colosseum?"
+        answer: "NONE!!!"

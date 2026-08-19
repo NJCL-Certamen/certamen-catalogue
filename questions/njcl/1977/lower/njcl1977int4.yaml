@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Round 4
+questions:
+  - tossup:
+      question: "What is the Latin word for tree?"
+      answer: "<latin>ARBOR</latin>"
+    boni:
+      - question: "What is the genitive plural?"
+        answer: "<latin>ARBORUM</latin>"
+      - question: "What is the gender?"
+        answer: "FEMININE"
+  - tossup:
+      question: "Who was the goddess of witchcraft?"
+      answer: "HECATE (HECUBA)"
+    boni:
+      - question: "Whose bird was the peacock?"
+        answer: "JUNO'S"
+      - question: "Whose bird was the owl?"
+        answer: "ATHENA'S"
+  - tossup:
+      question: "What is the genitive plural of the future passive participle of <latin>laudo</latin>?"
+      answer: "<latin>LAUDANDŌRUM</latin>"
+    boni:
+      - question: "What is the genitive plural of its future active participle?"
+        answer: "<latin>LAUDATURŌRUM</latin>"
+      - question: "What is the genitive plural of its present active participle?"
+        answer: "<latin>LAUDANTIUM</latin>"
+  - tossup:
+      question: "What was the original full name of the first emperor?"
+      answer: "GAIUS OCTAVIUS"
+    boni:
+      - question: "What did his name become after his adoption by Julius Caesar?"
+        answer: "GAIUS JULIUS CAESAR OCTAVIANUS"
+      - question: "Who gave him the name Augustus?"
+        answer: "THE SENATE"
+  - tossup:
+      question: "How do you say one mile in Latin?"
+      answer: "<latin>MILLE PASSUS</latin>"
+    boni:
+      - question: "What is the literal translation of <latin>mille passus</latin>?"
+        answer: "1000 STEPS / PACES"
+      - question: "How do you say ten miles?"
+        answer: "<latin>DECEM MILIA PASSUUM</latin>"
+  - tossup:
+      question: "Who stole fire for men?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "How was he punished?"
+        answer: "CHAINED TO A ROCK WITH AN EAGLE TO GNAW HIS LIVER"
+      - question: "Who decreed his punishment?"
+        answer: "ZEUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>do</latin>?"
+      answer: "<latin>DEDISSE</latin>"
+    boni:
+      - question: "What is the future active infinitive of <latin>sto</latin>?"
+        answer: "<latin>STATURUM ESSE</latin>"
+      - question: "What is the perfect passive infinitive of <latin>ago</latin>?"
+        answer: "<latin>ACTUM ESSE</latin>"
+  - tossup:
+      question: "What hill of Rome was the site of many emperor's homes?"
+      answer: "THE PALATINE"
+    boni:
+      - question: "Five points for three, ten points for all six, what are the others?"
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "What is the Roman numeral for 50?"
+      answer: "L"
+    boni:
+      - question: "What is 199 in Roman numerals?"
+        answer: "CIC"
+      - question: "What does CMIV mean?"
+        answer: "904"
+  - tossup:
+      question: "How many Muses were there?"
+      answer: "9"
+    boni:
+      - question: "Who was their father?"
+        answer: "ZEUS"
+      - question: "Who was the god of music?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What is the second plural passive present subjunctive of <latin>porto</latin>?"
+      answer: "<latin>PORTEMINI</latin>"
+    boni:
+      - question: "What is the same form of <latin>duco</latin>?"
+        answer: "<latin>DUCAMINI</latin>"
+      - question: "What is the second plural passive future indicative of <latin>duco</latin>?"
+        answer: "<latin>DUCEMINI</latin>"
+  - tossup:
+      question: "Who opposed Marius in a civil war?"
+      answer: "SULLA"
+    boni:
+      - question: "How many times did Marius serve as consul?"
+        answer: "SEVEN"
+      - question: "What Asian king had Sulla fought?"
+        answer: "MITHRIDATES"
+  - tossup:
+      question: "What is the translation of the idiom <latin>ius iurandum</latin>?"
+      answer: "OATH"
+    boni:
+      - question: "What is the nominative plural?"
+        answer: "<latin>IURA IURANDA</latin>"
+      - question: "What is the ablative singular?"
+        answer: "<latin>IURE IURANDO</latin>"
+  - tossup:
+      question: "Who was the slayer of Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Whom did he rescue from a sea monster?"
+        answer: "ANDROMEDA"
+      - question: "What type of creature was Medusa?"
+        answer: "A GORGON"
+  - tossup:
+      question: "What is the gender of an infinitive?"
+      answer: "NEUTER"
+    boni:
+      - question: "For what verbal does it supply the nominative?"
+        answer: "THE GERUND"
+      - question: "What is the genitive gerund of <latin>puto</latin>?"
+        answer: "PUTANDI"
+  - tossup:
+      question: "Who gave his name to a victory too costly to the victor to be worthwhile?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "Where was he king?"
+        answer: "EPIRUS"
+      - question: "Where is Epirus?"
+        answer: "NW GREECE, WEST OF MACEDONIA"
+  - tossup:
+      question: "What case normally follows <latin>super</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case follows <latin>apud</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What case follows <latin>satis</latin>?"
+        answer: "GENITIVE"
+  - tossup:
+      question: "Whom did Pluto kidnap as his bride?"
+      answer: "PROSERPINA"
+    boni:
+      - question: "Whose daughter was she?"
+        answer: "CERES'"
+      - question: "What fruit was her downfall?"
+        answer: "A POMEGRANATE"
+  - tossup:
+      question: "What is the genitive singular of <latin>fur</latin>?"
+      answer: "<latin>FURIS</latin>"
+    boni:
+      - question: "What does <latin>fur</latin> mean?"
+        answer: "THIEF"
+      - question: "What English adjective comes from it?"
+        answer: "FURTIVE"
+  - tossup:
+      question: "To what modern nation would you go to see the ruins of Rome?"
+      answer: "ITALY"
+    boni:
+      - question: "The ruins of Carthage?"
+        answer: "TUNISIA"
+      - question: "The ruins of Troy?"
+        answer: "TURKEY"

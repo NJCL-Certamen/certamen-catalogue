@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Semifinals
+questions:
+  - tossup:
+      question: "What is the third plural perfect active indicative of <latin>tango</latin>?"
+      answer: "<latin>TETIGERUNT</latin>"
+    boni:
+      - question: "Change <latin>tetigerunt</latin> to future perfect."
+        answer: "<latin>TETIGERINT</latin>"
+      - question: "Change <latin>tetigerint</latin> to passive."
+        answer: "<latin>TACTI ERUNT</latin>"
+  - tossup:
+      question: "Who was fated to appear wearing only one shoe to King Pelias?"
+      answer: "JASON"
+    boni:
+      - question: "How had he lost his other shoe?"
+        answer: "FORDING A STREAM"
+      - question: "Whom did he help across the stream?"
+        answer: "HERA (IN DISGUISE)"
+  - tossup:
+      question: "Translate with an active English sentence: <latin>Mihi putandum est</latin>."
+      answer: "I HAVE TO THINK"
+    boni:
+      - question: "Using the same construction, translate into Latin: You must do those things."
+        answer: "<latin>ILLA TIBI AGENDA SUNT</latin>"
+      - question: "Using the same construction, translate into Latin: You will have to know these things."
+        answer: "<latin>HAEC TIBI SCIENDA ERUNT</latin>"
+  - tossup:
+      question: "What Roman admiral was hostage of the Carthaginians and an example of Roman <latin>fides</latin>?"
+      answer: "REGULUS"
+    boni:
+      - question: "What was his advice to the Romans?"
+        answer: "KEEP FIGHTING"
+      - question: "Which Punic War was this?"
+        answer: "FIRST"
+  - tossup:
+      question: "How many tenses of the infinitive are there?"
+      answer: "THREE"
+    boni:
+      - question: "What is the present passive infinitive of <latin>facio</latin>?"
+        answer: "<latin>FIERI</latin>"
+      - question: "What is the present active infinitive of <latin>malo</latin>?"
+        answer: "<latin>MALLE</latin>"
+  - tossup:
+      question: "Who punished Cassandra with unheeded prophecy?"
+      answer: "APOLLO"
+    boni:
+      - question: "What had she done?"
+        answer: "SPURNED HIS LOVE"
+      - question: "To whom was she given at the fall of Troy?"
+        answer: "AGAMEMNON"
+  - tossup:
+      question: "What is the translation of the Latin verb form <latin>praesum</latin>?"
+      answer: "I AM IN CHARGE"
+    boni:
+      - question: "Translate this sentence with <latin>praesum</latin>: Caesar is in charge of the army."
+        answer: "<latin>CAESAR EXERCITUI PRAEEST</latin>"
+      - question: "Translate this sentence with <latin>praesum</latin>: Let us command the legion."
+        answer: "<latin>PRAESIMUS LEGIONI</latin>"
+  - tossup:
+      question: "Who followed Tiberius as emperor?"
+      answer: "CALIGULA / GAIUS"
+    boni:
+      - question: "What was his praenomen?"
+        answer: "GAIUS"
+      - question: "How did he die?"
+        answer: "ASSASSINATED"
+  - tossup:
+      question: "What Latin compound noun means horn of plenty?"
+      answer: "<latin>CORNUCOPIA</latin>"
+    boni:
+      - question: "What is the dative singular of <latin>cornu</latin>?"
+        answer: "<latin>CORNU</latin>"
+      - question: "What is its genitive plural?"
+        answer: "<latin>CORNUUM</latin>"
+  - tossup:
+      question: "What was the name of the Cyclops Odysseus blinded?"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "Who was Polyphemus' father?"
+        answer: "POSEIDON"
+      - question: "Who was Odysseus' father?"
+        answer: "LAERTES"
+  - tossup:
+      question: "What is the third singular perfect active indicative of <latin>fugio</latin>?"
+      answer: "<latin>FUGIT</latin>"
+    boni:
+      - question: "Change this form to subjunctive."
+        answer: "<latin>FUGERIT</latin>"
+      - question: "What is the first plural imperfect active indicative of <latin>fugio</latin>?"
+        answer: "<latin>FUGIEBAMUS</latin>"
+  - tossup:
+      question: "Who was the great orator of Caesar's day?"
+      answer: "CICERO"
+    boni:
+      - question: "Whose conspiracy did he thwart?"
+        answer: "(L. SERGIUS) CATILINA'S / CATILINE'S"
+      - question: "Who ordered Cicero killed?"
+        answer: "MARC(US) ANTONY / ANTONIUS"
+  - tossup:
+      question: "What is the nominative plural of <latin>ōs</latin>, ”mouth“?"
+      answer: "<latin>ORA</latin>"
+    boni:
+      - question: "What does a feminine singular noun <latin>ora</latin> mean?"
+        answer: "SHORE"
+      - question: "What is the nominative plural of <latin>os</latin>, ”bone“?"
+        answer: "<latin>OSSA</latin>"
+  - tossup:
+      question: "Who slew the Chimaera?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "Spell Chimaera."
+        answer: "C-H-I-M-E-R-A"
+      - question: "Spell Bellerophon."
+        answer: "B-E-L-L-E-R-O-P-H-O-N"
+  - tossup:
+      question: "What Latin noun gives us the verb aviate?"
+      answer: "<latin>AVIS</latin>"
+    boni:
+      - question: "What is the English word for a place birds are kept?"
+        answer: "AVIARY"
+      - question: "What is an apiary?"
+        answer: "A PLACE FOR BEES"
+  - tossup:
+      question: "What two cities fell in 146 BC?"
+      answer: "CARTHAGE AND CORINTH"
+    boni:
+      - question: "What did the Romans call their province of Greece?"
+        answer: "ACHAIA / MACEDONIA"
+      - question: "What did they call the province that included the site of Carthage?"
+        answer: "AFRICA (PROCONSULARIS)"
+  - tossup:
+      question: "What is the meaning of the Latin noun <latin>sanguis</latin>?"
+      answer: "BLOOD"
+    boni:
+      - question: "What English adjective derived from it means optimistic?"
+        answer: "SANGUINE"
+      - question: "What English adjective derived from it means bloodthirsty?"
+        answer: "SANGUINARY"
+  - tossup:
+      question: "What nymph detained Odysseus for seven years?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Odysseus' wife?"
+        answer: "PENELOPE"
+      - question: "What was his island kingdom?"
+        answer: "ITHACA"
+  - tossup:
+      question: "What is the dative plural of <latin>filia</latin>?"
+      answer: "<latin>FILIABUS</latin>"
+    boni:
+      - question: "What is the phrase <latin>duo di</latin> in the ablative?"
+        answer: "<latin>DUOBUS DEIS</latin>"
+      - question: "What is the phrase <latin>duae deae</latin> in the ablative?"
+        answer: "<latin>DUABUS DEABUS</latin>"
+  - tossup:
+      question: "It is the year 288 BC, and you are trying out your new chariot. If you start from Rome and go all the way down the Appian Way, what will be your last stop?"
+      answer: "CAPUA"
+    boni:
+      - question: "Where did the Appian Way end after its extension?"
+        answer: "BRUNDISIUM"
+      - question: "What is its name in Latin?"
+        answer: "<latin>VIA APPIA</latin>"

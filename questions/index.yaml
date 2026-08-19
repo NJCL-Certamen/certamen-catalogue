@@ -227,6 +227,12 @@ links:
   year: 1977
   division: Intermediate
   round: Round 4
+- rel: 1977 NJCL Certamen Intermediate Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Semifinals 3
 - rel: 1977 NJCL Certamen Intermediate Semifinals
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis.yaml
   tournament: NJCL Certamen

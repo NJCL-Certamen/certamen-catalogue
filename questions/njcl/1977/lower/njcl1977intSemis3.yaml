@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Semifinals 3
+questions:
+  - tossup:
+      question: "What is the third singular present passive indicative of <latin>fero</latin>?"
+      answer: "<latin>FERTUR</latin>"
+    boni:
+      - question: "Change <latin>fertur</latin> to second person."
+        answer: "<latin>FERRIS</latin>"
+      - question: "Change <latin>ferris</latin> to active."
+        answer: "<latin>FERS</latin>"
+  - tossup:
+      question: "What did the newborn Mercury make from a turtleshell?"
+      answer: "A LYRE"
+    boni:
+      - question: "To whom did he give it?"
+        answer: "APOLLO"
+      - question: "Who was Mercury's mother?"
+        answer: "MAIA"
+  - tossup:
+      question: "What is the present imperative of <latin>egredior</latin>?"
+      answer: "<latin>EGREDERE</latin>"
+    boni:
+      - question: "What is its third plural imperfect subjunctive?"
+        answer: "<latin>EGREDERENTUR</latin>"
+      - question: "Change <latin>egrederentur</latin> to pluperfect."
+        answer: "<latin>EGRESSI ESSENT</latin>"
+  - tossup:
+      question: "What is the sacred boundary around Rome?"
+      answer: "THE <latin>POMERIUM</latin>"
+    boni:
+      - question: "What hill, not one of Rome's seven, was named for the god of beginnings?"
+        answer: "THE JANICULUM"
+      - question: "What was the name of Rome's main sewer line?"
+        answer: "THE <latin>CLOACA MAXIMA</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>frango</latin>?"
+      answer: "<latin>FREGISSE</latin>"
+    boni:
+      - question: "What is the Latin adjective meaning breakable?"
+        answer: "<latin>FRAGILIS</latin>"
+      - question: "What is its superlative?"
+        answer: "<latin>FRAGILISSIMUS</latin>"
+  - tossup:
+      question: "Who was the mother of Andromeda?"
+      answer: "CASSIOPEIA"
+    boni:
+      - question: "Who was Andromeda's father?"
+        answer: "CEPHEUS"
+      - question: "Who was her suitor before Perseus?"
+        answer: "HER UNCLE, PHINEUS"
+  - tossup:
+      question: "What is the comparative adverb of <latin>bonus</latin>?"
+      answer: "<latin>MELIUS</latin>"
+    boni:
+      - question: "What is the comparative adverb of <latin>malus</latin>?"
+        answer: "<latin>PEIUS</latin>"
+      - question: "What is the superlative adverb of <latin>malus</latin>?"
+        answer: "<latin>PESSIME</latin>"
+  - tossup:
+      question: "What was the combination market place and public square of a Roman city?"
+      answer: "<latin>FORUM</latin>"
+    boni:
+      - question: "What was its Greek counterpart?"
+        answer: "<latin>AGORA</latin>"
+      - question: "What is the root meaning of the Latin word <latin>forum</latin>?"
+        answer: "OUTDOORS"
+  - tossup:
+      question: "What is the neuter genitive singular of the adjective <latin>solus</latin>?"
+      answer: "<latin>SOLIUS</latin>"
+    boni:
+      - question: "What is the genitive singular of the noun <latin>solum</latin>?"
+        answer: "<latin>SOLI</latin>"
+      - question: "What is the genitive plural of the noun <latin>sol</latin>?"
+        answer: "<latin>SOLUM</latin>"
+  - tossup:
+      question: "What was the gift of Athena in her contest with Poseidon for the patronage of Athens?"
+      answer: "THE OLIVE TREE"
+    boni:
+      - question: "Into what did Leto change the rude peasants of Lycia?"
+        answer: "FROGS"
+      - question: "Whom did Demeter punish with insatiable hunger for his impiety?"
+        answer: "ERYSICHTHON"
+  - tossup:
+      question: "What English adjective comes from the diminutive of <latin>pars</latin>?"
+      answer: "PARTICULAR"
+    boni:
+      - question: "What English word meaning rain or snow comes from the Latin word for head?"
+        answer: "PRECIPITATION"
+      - question: "What English medical term for a part of the blood means literally little body?"
+        answer: "CORPUSCLE"
+  - tossup:
+      question: "What did the Romans call the notices posted in the forum that took the place of a newpaper?"
+      answer: "<latin>ACTA DIURNA</latin>"
+    boni:
+      - question: "What famous monument to the reign of Augustus did the Senate dedicate on January 30, 9 BC?"
+        answer: "THE <latin>ARA PACIS</latin>"
+      - question: "Why is January 16, 27 BC, an important date in Augustus' life?"
+        answer: "IT IS THE DATE OF HIS RECEIVING THE TITLE AUGUSTUS"
+  - tossup:
+      question: "What single English verb translates the Latin idiom <latin>in animo habēre</latin>?"
+      answer: "PLAN, INTEND"
+    boni:
+      - question: "What single verb translates the idiom <latin>pedem referre</latin>?"
+        answer: "RETREAT"
+      - question: "What single noun translates the idiom <latin>res novae</latin>?"
+        answer: "REVOLUTION"
+  - tossup:
+      question: "Who was the boatman of the Styx?"
+      answer: "CHARON"
+    boni:
+      - question: "What was the river of forgetfulness?"
+        answer: "LETHE"
+      - question: "What was the river of fire?"
+        answer: "PHLEGETHON"
+  - tossup:
+      question: "Although to us it means a countertop, what was a <latin>formica</latin> to a Roman?"
+      answer: "AN ANT"
+    boni:
+      - question: "What was a <latin>rana</latin>?"
+        answer: "A FROG"
+      - question: "What was a <latin>pullus</latin>?"
+        answer: "A CHICKEN"
+  - tossup:
+      question: "Who could wear a <latin>clavus latus</latin> on his toga?"
+      answer: "A SENATOR"
+    boni:
+      - question: "What province was the exclusive property of the emperor?"
+        answer: "EGYPT"
+      - question: "Caesar increased the membership of the Senate from Sulla's 600 to 900; Augustus reduced it to what?"
+        answer: "BACK TO 600"
+  - tossup:
+      question: "What is the gender of <latin>tempus</latin>?"
+      answer: "NEUTER"
+    boni:
+      - question: "What is the gender of <latin>vulnus</latin>?"
+        answer: "NEUTER"
+      - question: "What is the declension of <latin>artus</latin>?"
+        answer: "FOURTH"
+  - tossup:
+      question: "Who was the mortal half-brother of Hercules?"
+      answer: "IPHICLES"
+    boni:
+      - question: "What was miraculous about the night Hercules was conceived?"
+        answer: "JUPITER MADE IT LAST THREE TIMES LONGER THAN NORMAL"
+      - question: "Why did Juno cause Eurystheus to be born a few minutes before Hercules?"
+        answer: "BECAUSE JUPITER HAD DECREED THAT THE FIRST BORN MALE OF THAT DAY WOULD RULE THE DESCENDANTS OF PERSEUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>condo</latin>?"
+      answer: "<latin>CONDIDISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>caveo</latin>?"
+        answer: "<latin>CAVISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>fleo</latin>?"
+        answer: "<latin>FLEVISSE</latin>"
+  - tossup:
+      question: "What eminent republican was so opposed to Julius Caesar he killed himself in 46 BC?"
+      answer: "(M. PORCIUS) CATO THE YOUNGER"
+    boni:
+      - question: "What was his nationality, by which he is normally differentiated from his ancestor Cato the Censor?"
+        answer: "UTICENSIS"
+      - question: "What is his ancestor's most famous dictum?"
+        answer: "<latin>CARTHAGO DELENDA EST</latin>"

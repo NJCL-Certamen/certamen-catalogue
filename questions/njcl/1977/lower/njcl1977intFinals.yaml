@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1977
+division: "Intermediate"
+round: Finals
+questions:
+  - tossup:
+      question: "What is the third singular perfect active indicative of <latin>premo</latin>?"
+      answer: "<latin>PRESSIT</latin>"
+    boni:
+      - question: "Change <latin>pressit</latin> to passive."
+        answer: "<latin>PRESSUS EST</latin>"
+      - question: "What is the third singular perfect indicative of <latin>proficiscor</latin>?"
+        answer: "<latin>PROFECTUS EST</latin>"
+  - tossup:
+      question: "Who were the parents of Cronus?"
+      answer: "URANUS AND GAIA"
+    boni:
+      - question: "What was the Roman name for Cronus?"
+        answer: "SATURN"
+      - question: "Who was the first born of Cronus and Rhea?"
+        answer: "HESTIA"
+  - tossup:
+      question: "What is the first singular perfect active indicative of <latin>veto</latin>?"
+      answer: "<latin>VETUI</latin>"
+    boni:
+      - question: "What is <latin>vetui</latin> changed to passive?"
+        answer: "<latin>VETITUS SUM</latin>"
+      - question: "What is the second singular pluperfect active subjunctive of <latin>veto</latin>?"
+        answer: "<latin>VETUISSES</latin>"
+  - tossup:
+      question: "What is the proper name of the Colosseum?"
+      answer: "THE FLAVIAN AMPHITHEATRE / <latin>AMPHITHEATRUM FLAVIUM</latin>"
+    boni:
+      - question: "Whose colossus is it named for?"
+        answer: "NERO'S"
+      - question: "What arch stands next to it even today?"
+        answer: "CONSTANTINE'S"
+  - tossup:
+      question: "What emotion does <latin>vae</latin> express?"
+      answer: "SORROW"
+    boni:
+      - question: "What expresses joy?"
+        answer: "<latin>IO</latin>"
+      - question: "What does <latin>heu</latin> express?"
+        answer: "SORROW"
+  - tossup:
+      question: "How did Penelope stall her suitors?"
+      answer: "BY WEAVING AND UNWEAVING THE CLOTH ON HER LOOM"
+    boni:
+      - question: "What was she supposedly weaving?"
+        answer: "A SHROUD FOR LAERTES"
+      - question: "Who was her father?"
+        answer: "ICARIUS"
+  - tossup:
+      question: "What is the Latin word for 100?"
+      answer: "<latin>CENTUM</latin>"
+    boni:
+      - question: "What is 20?"
+        answer: "<latin>VIGINTI</latin>"
+      - question: "What is the ordinal form of 100?"
+        answer: "<latin>CENTE(N)SIMUS</latin>"
+  - tossup:
+      question: "Where was Rome's mint?"
+      answer: "THE TEMPLE OF JUNO MONETA"
+    boni:
+      - question: "Which hill was it on?"
+        answer: "THE CAPITOLINE"
+      - question: "What was the Latin name for the citadel of the Capitoline?"
+        answer: "THE <latin>ARX</latin>"
+  - tossup:
+      question: "To what conjugation belongs the <latin>cum-</latin> compound of <latin>do</latin>?"
+      answer: "THE THIRD"
+    boni:
+      - question: "To what conjugation belongs the <latin>cum-</latin> compound of <latin>sto</latin>?"
+        answer: "FIRST"
+      - question: "What verb is a compound of <latin>do</latin> and means sell?"
+        answer: "<latin>VENDO</latin>"
+  - tossup:
+      question: "Who was the legendary founder of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "Who was his sister?"
+        answer: "EUROPA"
+      - question: "Who was his wife?"
+        answer: "HARMONIA"
+  - tossup:
+      question: "What Latin noun is the root of the English adjective cordial?"
+      answer: "<latin>COR</latin>"
+    boni:
+      - question: "What is its nominative plural?"
+        answer: "<latin>CORDA</latin>"
+      - question: "What is the meaning of the Latin noun at the root of the English adjective coronary?"
+        answer: "CROWN"
+  - tossup:
+      question: "Whose temple was on an island in the middle of the Tiber?"
+      answer: "AESCULAPIUS"
+    boni:
+      - question: "Whose temple contained the state treasury?"
+        answer: "SATURN'S"
+      - question: "Whose temple commemorated civil amity in Rome?"
+        answer: "THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "What is the second singular pluperfect active indicative of <latin>iungo</latin>?"
+      answer: "<latin>IUNXERAS</latin>"
+    boni:
+      - question: "Change <latin>iunxeras</latin> to passive."
+        answer: "<latin>IUNCTUS ERAS</latin>"
+      - question: "Change <latin>iunctus eras</latin> to subjunctive."
+        answer: "<latin>IUNCTUS ESSES</latin>"
+  - tossup:
+      question: "What is the name of the staff of Hermes?"
+      answer: "THE CADUCEUS"
+    boni:
+      - question: "Who carries a trident?"
+        answer: "POSEIDON"
+      - question: "Whose staff is often confused with the caduceus?"
+        answer: "ASCLEPIUS'"
+  - tossup:
+      question: "What is the antonym of <latin>parvus</latin>?"
+      answer: "<latin>MAGNUS</latin>"
+    boni:
+      - question: "What is the antonym of <latin>lentus</latin>?"
+        answer: "<latin>CELER</latin>"
+      - question: "What is the antonym of <latin>citra</latin>?"
+        answer: "<latin>TRANS / ULTRA</latin>"
+  - tossup:
+      question: "Who became Caesar's son-in-law?"
+      answer: "POMPEY"
+    boni:
+      - question: "How did the marriage of Pompey and Julia end?"
+        answer: "WITH HER DEATH IN 54"
+      - question: "Who was Julia's mother?"
+        answer: "CORNELIA"
+  - tossup:
+      question: "What interrogative translates to the English archaism whence?"
+      answer: "<latin>UNDE</latin>"
+    boni:
+      - question: "What translates thence?"
+        answer: "<latin>INDE / ILLINC</latin>"
+      - question: "Ask in Latin: Where are you coming from, Anthony?"
+        answer: "<latin>UNDE VENIS, ANTONI</latin>?"
+  - tossup:
+      question: "What two heroes encountered men sprung from dragon's teeth?"
+      answer: "JASON AND CADMUS"
+    boni:
+      - question: "None survived of the men so born in Jason's presence; how many survived to help Cadmus build Thebes?"
+        answer: "FIVE"
+      - question: "Who was Cadmus' father-in-law?"
+        answer: "ARES"
+  - tossup:
+      question: "What is the first singular perfect active of <latin>cresco</latin>?"
+      answer: "<latin>CREVI</latin>"
+    boni:
+      - question: "What is the perfect passive participle of <latin>fodio</latin>?"
+        answer: "<latin>FOSSUS</latin>"
+      - question: "What is the perfect passive participle of <latin>findo</latin>?"
+        answer: "<latin>FISSUS</latin>"
+  - tossup:
+      question: "Who was Caesar's first wife?"
+      answer: "CORNELIA"
+    boni:
+      - question: "His second?"
+        answer: "POMPEIA"
+      - question: "His third?"
+        answer: "CALPURNIA"

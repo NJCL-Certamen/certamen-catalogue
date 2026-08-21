@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Round 1
+questions:
+  - tossup:
+      question: "What is the nominative plural of <latin>rosa</latin>?"
+      answer: "<latin>ROSAE</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>virtus</latin>?"
+        answer: "<latin>VIRTUTES</latin>"
+      - question: "What is the nominative plural of <latin>vir</latin>?"
+        answer: "<latin>VIRI</latin>"
+  - tossup:
+      question: "Who was the founder of the city of Rome?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Who was his brother?"
+        answer: "REMUS"
+      - question: "How did Remus die?"
+        answer: "ROMULUS KILLED HIM"
+  - tossup:
+      question: "What is the Greek name for Jupiter?"
+      answer: "ZEUS"
+    boni:
+      - question: "What is the Greek name for Juno?"
+        answer: "HERA"
+      - question: "For Neptune?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "How would you translate the verb form <latin>porto</latin>?"
+      answer: "I CARRY"
+    boni:
+      - question: "The verb form <latin>portabit</latin>?"
+        answer: "HE WILL CARRY"
+      - question: "The verb form <latin>portabant</latin>?"
+        answer: "THEY WERE CARRYING"
+  - tossup:
+      question: "What case follows the preposition <latin>cum</latin>?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "The preposition <latin>per</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "The adjective <latin>dignus</latin>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Who was Rome's first emperor?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Whose adopted son was he?"
+        answer: "JULIUS CAESAR'S"
+      - question: "What relation to Caesar was he really?"
+        answer: "GREAT-NEPHEW"
+  - tossup:
+      question: "Who had to perform 12 Labors?"
+      answer: "HERCULES"
+    boni:
+      - question: "For whom did he have to perform them?"
+        answer: "EURYSTHEUS"
+      - question: "To appease what divinity's wrath did he perform them?"
+        answer: "JUNO'S"
+  - tossup:
+      question: "What is a <latin>nauta</latin>?"
+      answer: "A SAILOR"
+    boni:
+      - question: "What is its genitive plural?"
+        answer: "<latin>NAUTARUM</latin>"
+      - question: "Translate into the nominative the phrase: these good sailors."
+        answer: "<latin>HI BONI NAUTAE</latin>"
+  - tossup:
+      question: "Translate into Latin the phrase, “I am running.”"
+      answer: "<latin>CURRO</latin>"
+    boni:
+      - question: "Ask me, Why are you running?"
+        answer: "<latin>CUR / QUID CURRIS?</latin>"
+      - question: "Tell me, “I will run also.”"
+        answer: "<latin>QUOQUE CURRAM</latin>"
+  - tossup:
+      question: "What happened on March 15, 44 BC?"
+      answer: "JULIUS CAESAR WAS ASSASSINATED"
+    boni:
+      - question: "What religious office did he held at the time of his death?"
+        answer: "<latin>PONTIFEX MAXIMUS</latin>"
+      - question: "What political office?"
+        answer: "DICTATOR FOR LIFE"
+  - tossup:
+      question: "Who was the father of the Minotaur?"
+      answer: "THE CRETAN BULL"
+    boni:
+      - question: "The mother?"
+        answer: "PASIPHAË"
+      - question: "Who was Pasiphaë's husband?"
+        answer: "KING MINOS"
+  - tossup:
+      question: "What are the Latin words which mean in English a legal summons and imply a penalty for refusal?"
+      answer: "<latin>SUB POENA</latin>"
+    boni:
+      - question: "What is the opposite of <latin>dexter</latin>?"
+        answer: "<latin>SINISTER</latin>"
+      - question: "What is the opposite of <latin>odium</latin>?"
+        answer: "<latin>AMOR</latin>"
+  - tossup:
+      question: "What is the feminine singular dative of <latin>is</latin>?"
+      answer: "<latin>EI</latin>"
+    boni:
+      - question: "What is the masculine singular dative?"
+        answer: "<latin>EI</latin>"
+      - question: "What is the neuter plural dative?"
+        answer: "<latin>EIS</latin>"
+  - tossup:
+      question: "On what hill was Romulus' house?"
+      answer: "PALATINE"
+    boni:
+      - question: "What are the other six?"
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "Who was the Roman god of wine?"
+      answer: "BACCHUS / LIBER"
+    boni:
+      - question: "Who was his mother?"
+        answer: "SEMELE"
+      - question: "Her fate?"
+        answer: "INCINERATION BY THE GLORY OF JUPITER"
+  - tossup:
+      question: "What are the Latin words for boy and girl?"
+      answer: "<latin>PUER & PUELLA</latin>"
+    boni:
+      - question: "To what adults could these nouns be applied?"
+        answer: "SLAVES"
+      - question: "What is another name for slave?"
+        answer: "<latin.SERVUS, SCLAVUS</latin>"
+  - tossup:
+      question: "Translate into English the verb form <latin>dedi</latin>."
+      answer: "I GAVE / I'VE GIVEN"
+    boni:
+      - question: "The form <latin>dederam</latin>."
+        answer: "I HAD GIVEN"
+      - question: "The form <latin>debemus</latin>."
+        answer: "WE OUGHT, WE OWE"
+  - tossup:
+      question: "Who left his plow to become the dictator of Rome?"
+      answer: "CINCINNATUS"
+    boni:
+      - question: "What crisis threatened Rome?"
+        answer: "THE WAR WITH THE AEDUI"
+      - question: "What was the century?"
+        answer: "5TH BC (458 BC)"
+  - tossup:
+      question: "Spell PERSEPHONE."
+      answer: "P-E-R-S-E-P-H-O-N-E"
+    boni:
+      - question: "Spell APHRODITE."
+        answer: "A-P-H-R-O-D-I-T-E"
+      - question: "Spell HEPHAESTUS."
+        answer: "H-E-P-H-A-E-S-T-U-S"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>sto</latin>?"
+      answer: "<latin>STETISSE</latin>"
+    boni:
+      - question: "Of <latin>moneo</latin>?"
+        answer: "<latin>MONUISSE</latin>"
+      - question: "Of <latin>maneo</latin>?"
+        answer: "<latin>MANSISSE</latin>"

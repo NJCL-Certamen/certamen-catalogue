@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Round 2
+questions:
+  - tossup:
+      question: "What is the adverb form of <latin>magnus</latin>?"
+      answer: "<latin>MAGNOPERE</latin>"
+    boni:
+      - question: "What is the superlative degree of <latin>magnopere</latin>?"
+        answer: "<latin>MAXIME</latin>"
+      - question: "What is the comparative degree?"
+        answer: "<latin>MAGIS</latin>"
+  - tossup:
+      question: "Why do we remember the year 79 AD?"
+      answer: "THE ERUPTION OF VESUVIUS"
+    boni:
+      - question: "The year 31 BC?"
+        answer: "THE BATTLE OF ACTIUM"
+      - question: "The year 100 BC?"
+        answer: "THE BIRTH OF CAESAR (may be 102 BC)"
+  - tossup:
+      question: "What centaur instructed many heroes?"
+      answer: "CHIRON"
+    boni:
+      - question: "What city did Cadmus found?"
+        answer: "THEBES"
+      - question: "Who correctly answered the riddle of the Sphinx of Thebes?"
+        answer: "OEDIPUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>fero</latin>?"
+      answer: "<latin>TULISSE</latin>"
+    boni:
+      - question: "What is its perfect passive infinitive?"
+        answer: "<latin>LATUM ESSE</latin>"
+      - question: "What is its future active infinitive?"
+        answer: "<latin>LATURUM ESSE</latin>"
+  - tossup:
+      question: "What is the Latin word for today?"
+      answer: "<latin>HODIE</latin>"
+    boni:
+      - question: "Of what two Latin words is it a contraction?"
+        answer: "<latin>HOC & DIE</latin>"
+      - question: "What is the Latin word for yesterday?"
+        answer: "<latin>HERI</latin>"
+  - tossup:
+      question: "Who was the father of Hannibal?"
+      answer: "HAMILCAR BARCA"
+    boni:
+      - question: "Who was the great delayer against Hannibal?"
+        answer: "Q. FABIUS MAXIMUS CUNCTATOR"
+      - question: "What general received the name Africanus to commemorate his victory over Carthage?"
+        answer: "SCIPIO"
+  - tossup:
+      question: "Who threw the golden apple that led to the Trojan War?"
+      answer: "ERIS / DISCORDIA"
+    boni:
+      - question: "Who threw three golden apples to distract his opponent in a foot race?"
+        answer: "HIPPOMENES / MELANION"
+      - question: "Who was his opponent?"
+        answer: "ATALANTA"
+  - tossup:
+      question: "What is the future participle of <latin>sum</latin>?"
+      answer: "<latin>FUTURUS</latin>"
+    boni:
+      - question: "What is its perfect infinitive?"
+        answer: "<latin>FUISSE</latin>"
+      - question: "What is its first person singular imperfect subjunctive?"
+        answer: "<latin>ESSEM</latin>"
+  - tossup:
+      question: "In the nominative, what is the Latin for “my wife”?"
+      answer: "<latin>MEA UXOR / CONIUNX</latin>"
+    boni:
+      - question: "What English adjective comes from uxor and means “hen-pecked”?"
+        answer: "UXORIOUS"
+      - question: "What English adjective comes from coniunx and means “marital”?"
+        answer: "CONJUGAL"
+  - tossup:
+      question: "What king succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "Who succeeded Numa?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "Who succeeded Tullus Hostilius?"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "Who was saved from death by the selfishness of his wife Alcestis?"
+      answer: "ADMETUS"
+    boni:
+      - question: "Who wrestled death for Alcestis?"
+        answer: "HERCULES"
+      - question: "Where was Admetus king?"
+        answer: "PHERAE / THESSALY"
+  - tossup:
+      question: "What is the nominative plural of <latin>senatus</latin>?"
+      answer: "<latin>SENATŪS</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>senectus</latin>?"
+        answer: "<latin>SENECTUTES</latin>"
+      - question: "What is the nominative plural of <latin>vulnus</latin>?"
+        answer: "<latin>VULNERA</latin>"
+  - tossup:
+      question: "How would a Roman say, “I will say”?"
+      answer: "<latin>DICAM</latin>"
+    boni:
+      - question: "“I will see”?"
+        answer: "<latin>VIDEBO</latin>"
+      - question: "“They said”?"
+        answer: "<latin>DIXERUNT</latin>"
+  - tossup:
+      question: "Who succeeded Augustus?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What was their non-adoptive relationship?"
+        answer: "STEP-SON & STEP-FATHER"
+      - question: "Who was Augustus' wife and Tiberius' mother?"
+        answer: "LIVIA"
+  - tossup:
+      question: "What god had the epithet <latin>Stator</latin>?"
+      answer: "JUPITER"
+    boni:
+      - question: "The epithet <latin>Ultor</latin>?"
+        answer: "MARS"
+      - question: "The epithet <latin>Phoebus</latin>?"
+        answer: "APOLLO"
+  - tossup:
+      question: "Translate the verb form <latin>audeo</latin>."
+      answer: "I DARE"
+    boni:
+      - question: "Translate <latin>audio</latin>."
+        answer: "I HEAR"
+      - question: "Translate <latin>augeo</latin>."
+        answer: "I INCREASE"
+  - tossup:
+      question: "What Latin pronoun means I?"
+      answer: "<latin>EGO</latin>"
+    boni:
+      - question: "What is its accusative singular?"
+        answer: "<latin>ME</latin>"
+      - question: "What is its nominative plural?"
+        answer: "<latin>NOS</latin>"
+  - tossup:
+      question: "What was the date of the formation of the 1st triumvirate?"
+      answer: "60 BC"
+    boni:
+      - question: "Which of its members was the richest man in Rome?"
+        answer: "CRASSUS"
+      - question: "Which of its members was the father-in-law of another?"
+        answer: "CAESAR"
+  - tossup:
+      question: "Which side in the Trojan War had the backing of Apollo?"
+      answer: "TROY"
+    boni:
+      - question: "Of Hera?"
+        answer: "GREECE"
+      - question: "Of Poseidon?"
+        answer: "GREECE"
+  - tossup:
+      question: "For what words in Latin does the abbreviation N.B. stand?"
+      answer: "<latin>NOTA BENE</latin>"
+    boni:
+      - question: "What does Rx. mean?"
+        answer: "<latin>RECIPE</latin>"
+      - question: "What does A.D. stand for?"
+        answer: "<latin>ANNO DOMINI</latin>"

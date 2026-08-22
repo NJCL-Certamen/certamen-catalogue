@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Round 3
+questions:
+  - tossup:
+      question: "What is the Latin word for gold?"
+      answer: "<latin>AURUM</latin>"
+    boni:
+      - question: "For silver?"
+        answer: "<latin>ARGENTUM</latin>"
+      - question: "For iron?"
+        answer: "<latin>FERRUM</latin>"
+  - tossup:
+      question: "Who was the mother of Aesculapius?"
+      answer: "CORONIS"
+    boni:
+      - question: "His father?"
+        answer: "APOLLO"
+      - question: "What was Aesculapius' field?"
+        answer: "MEDICINE"
+  - tossup:
+      question: "What enemy of Rome was defeated at the Battle of Zama?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "What was the year?"
+        answer: "202 BC"
+      - question: "Where is Zama?"
+        answer: "NORTHA AFRICA"
+  - tossup:
+      question: "What is the translation of the verb form <latin>ducebar</latin>?"
+      answer: "I WAS BEING LED"
+    boni:
+      - question: "The form <latin>ducetur</latin>?"
+        answer: "HE WILL BE LED"
+      - question: "The form <latin>ducta est</latin>?"
+        answer: "SHE HAS BEEN LED"
+  - tossup:
+      question: "What is the comparative of <latin>malus</latin>?"
+      answer: "<latin>PEIOR</latin>"
+    boni:
+      - question: "The superlative?"
+        answer: "<latin>PESSIMUS</latin>"
+      - question: "What is the antonym of <latin>malus</latin>?"
+        answer: "<latin>BONUS</latin>"
+  - tossup:
+      question: "What god kidnaped Persephone?"
+      answer: "PLUTO"
+    boni:
+      - question: "Who was her mother?"
+        answer: "DEMETER"
+      - question: "What fruit caused her grief?"
+        answer: "A POMEGRANATE"
+  - tossup:
+      question: "What was called the <latin>Regina Viarum</latin>?"
+      answer: "THE APPIAN WAY"
+    boni:
+      - question: "What southern Italian city was the terminus of the completed Appian Way?"
+        answer: "BRUNDISIUM"
+      - question: "What road ran through the Forum?"
+        answer: "THE <latin>VIA SACRA</latin>"
+  - tossup:
+      question: "Translate the verb form <latin>puniantur</latin>."
+      answer: "LET THEM BE PUNISHED"
+    boni:
+      - question: "Translate into Latin, “I will be punished.”"
+        answer: "<latin>PUNIAR</latin>"
+      - question: "We have been punished."
+        answer: "<latin>PUNITI SUMUS</latin>"
+  - tossup:
+      question: "What is the translation of <latin>pecus</latin>?"
+      answer: "HERD"
+    boni:
+      - question: "Of <latin>pectus</latin>?"
+        answer: "CHEST"
+      - question: "Of <latin>peritus</latin>?"
+        answer: "SKILLED"
+  - tossup:
+      question: "Whose beloved was Eurydice?"
+      answer: "ORPHEUS'"
+    boni:
+      - question: "How did she die?"
+        answer: "SNAKEBITE"
+      - question: "How did he die?"
+        answer: "TORN APART BY MAENADS"
+  - tossup:
+      question: "What river flows through Rome?"
+      answer: "THE TIBER"
+    boni:
+      - question: "What was Rome's nearest seaport?"
+        answer: "OSTIA"
+      - question: "What did the Romans consider their first colony?"
+        answer: "OSTIA"
+  - tossup:
+      question: "Translate the verb form <latin>laudaris</latin>."
+      answer: "YOU ARE BEING PRAISED"
+    boni:
+      - question: "Translate the verb form <latin>laudamini</latin>"
+        answer: "YOU (PL) ARE BEING PRAISED"
+      - question: "Translate the verb form <latin>laudemini</latin>."
+        answer: "MAY YOU BE PRAISED"
+  - tossup:
+      question: "What is the antonym of <latin>mors</latin>?"
+      answer: "<latin>VITA / NATUS</latin>"
+    boni:
+      - question: "What is the antonym of <latin>iuventus</latin>?"
+        answer: "<latin>SENECTUS</latin>"
+      - question: "What is the antonym of <latin>hic</latin>?"
+        answer: "<latin>ILLE</latin>"
+  - tossup:
+      question: "What change of attire did a young Roman make about the age of 14?"
+      answer: "HE TOOK ON THE <latin>TOGA VIRILIS</latin>"
+    boni:
+      - question: "What had he worn before?"
+        answer: "THE <latin>TOGA PRAETEXTA</latin>"
+      - question: "What did he wear under either of them?"
+        answer: "A TUNIC(A)"
+  - tossup:
+      question: "Who traveled for ten years after the Trojan War?"
+      answer: "ODYSSEUS / ULYSSES"
+    boni:
+      - question: "Where was his home?"
+        answer: "ITHACA"
+      - question: "Who was his wife?"
+        answer: "PENELOPE"
+  - tossup:
+      question: "What is the Latin word for tree?"
+      answer: "<latin>ARBOR</latin>"
+    boni:
+      - question: "For dog?"
+        answer: "<latin>CANIS</latin>"
+      - question: "For cat?"
+        answer: "<latin>FELES</latin>"
+  - tossup:
+      question: "What is the antonym of the verb <latin>claudo</latin>?"
+      answer: "<latin>APERIO</latin>"
+    boni:
+      - question: "Tell Marcus to open the door."
+        answer: "<latin>APERI, MARCE, PORTAM</latin>"
+      - question: "Tell Claudius to close the door."
+        answer: "<latin>CLAUDE, CLAUDI, PORTAM</latin>."
+  - tossup:
+      question: "What object of Apollo's affections was turned into a tree?"
+      answer: "DAPHNE"
+    boni:
+      - question: "What lover of Apollo did he kill for infidelity?"
+        answer: "CORONIS"
+      - question: "What kind of tree?"
+        answer: "LAUREL"
+  - tossup:
+      question: "How many Punic Wars did Rome fight with Carthage?"
+      answer: "THREE"
+    boni:
+      - question: "Whan was Carthage finally conquered?"
+        answer: "146 BC"
+      - question: "What other city was conquered the same year?"
+        answer: "CORINTH"
+  - tossup:
+      question: "What is the meaning of <latin>clam</latin>?"
+      answer: "SECRETLY"
+    boni:
+      - question: "What is an English derivative?"
+        answer: "CLANDESTINE"
+      - question: "What is its Latin antonym?"
+        answer: "<latin>CORAM</latin>"

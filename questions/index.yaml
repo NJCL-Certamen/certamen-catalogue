@@ -89,6 +89,12 @@ links:
   year: 1975
   division: Intermediate
   round: Semifinals
+- rel: 1978 NJCL Certamen Intermediate Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int4.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 4
 - rel: 1978 NJCL Certamen Intermediate Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int2.yaml
   tournament: NJCL Certamen

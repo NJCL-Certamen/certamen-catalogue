@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Round 4
+questions:
+  - tossup:
+      question: "What is the present participle of <latin>eo</latin>?"
+      answer: "<latin>IENS / EUNTIS</latin>"
+    boni:
+      - question: "Translate into Latin: I will go."
+        answer: "<latin>IBO</latin>"
+      - question: "We have gone."
+        answer: "<latin>IIMUS / IVIMUS</latin>"
+  - tossup:
+      question: "Whose son was Polyphemus?"
+      answer: "POSEIDON'S"
+    boni:
+      - question: "To what race did Polyphemus belong?"
+        answer: "THE CYCLOPES"
+      - question: "Using what alias did Ulysses blind him?"
+        answer: "NEMO (“No man”)"
+  - tossup:
+      question: "What were Caesar's words as he crossed the Rubicon?"
+      answer: "<latin>ALEA IACTA EST</latin> - THE DIE IS CAST"
+    boni:
+      - question: "What was the year?"
+        answer: "49 BC"
+      - question: "What general led the opposition?"
+        answer: "(CN.) POMPEIUS / POMPEY (MAGNUS)"
+  - tossup:
+      question: "What is the English for <latin>mens</latin>?"
+      answer: "MIND"
+    boni:
+      - question: "For <latin>mensa</latin>?"
+        answer: "TABLE"
+      - question: "For <latin>mensis</latin>?"
+        answer: "MONTH"
+  - tossup:
+      question: "What is the present passive infinitive of <latin>fero</latin>?"
+      answer: "<latin>FERRI</latin>"
+    boni:
+      - question: "Translate, using <latin>fero</latin>: I will bear."
+        answer: "<latin>FERAM</latin>"
+      - question: "They will be borne."
+        answer: "<latin>FERENTUR</latin>"
+  - tossup:
+      question: "Who tamed Pegasus?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "What monster did Bellerophon slay?"
+        answer: "THE CHIMAERA"
+      - question: "With what act did Bellerophon, later in his life, anger the gods?"
+        answer: "HE TRIED TO FLY PEGASUS TO OLYMPUS"
+  - tossup:
+      question: "What two brothers were political reformers in the late second-century BC?"
+      answer: "THE GRACCHI"
+    boni:
+      - question: "Who was their mother?"
+        answer: "CORNELIA"
+      - question: "In a famous story, what metaphor did she use to describe them?"
+        answer: "THEY WERE HER JEWELS"
+  - tossup:
+      question: "What is a Latin word for river?"
+      answer: "<latin>FLUMEN / FLUVIUS / AMNIS</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>flumen</latin>?"
+        answer: "<latin>FLUMINUM</latin>"
+      - question: "What is the genitive plural of <latin>iter</latin>?"
+        answer: "<latin>ITINERUM</latin>"
+  - tossup:
+      question: "What verb form can mean either I fly or I wish?"
+      answer: "<latin>VOLO</latin>"
+    boni:
+      - question: "What is the infinitive to fly?"
+        answer: "<latin>VOLARE</latin>"
+      - question: "What is the infinitive to wish?"
+        answer: "<latin>VELLE</latin>"
+  - tossup:
+      question: "Who was the beloved of Pyramus?"
+      answer: "THISBE"
+    boni:
+      - question: "Where did they live?"
+        answer: "BABYLON"
+      - question: "Which of them died first?"
+        answer: "PYRAMUS"
+  - tossup:
+      question: "Who was Julius Caesar's prominent uncle?"
+      answer: "MARIUS"
+    boni:
+      - question: "Who was Caesar's widow?"
+        answer: "CALPURNIA"
+      - question: "Which wife left him a widower in 68 BC?"
+        answer: "CORNELIA"
+  - tossup:
+      question: "What Latin noun is at the root of the English adjective nominative?"
+      answer: "<latin>NOMEN</latin>"
+    boni:
+      - question: "What English noun derives from <latin>honestas</latin>?"
+        answer: "HONESTY"
+      - question: "What Latin verb is the root of a noun in English which is commonly shortened to TV?"
+        answer: "<latin>VIDEO</latin>"
+  - tossup:
+      question: "Translate into Latin: I am asleep."
+      answer: "<latin>DORMIO</latin>"
+    boni:
+      - question: "Ask the question: Are you asleep?"
+        answer: "<latin>DORMISNE</latin>"
+      - question: "Translate: I will sleep for six hours."
+        answer: "<latin>SEX HORAS DORMIAM</latin>"
+  - tossup:
+      question: "Who angered Latona with her boasts of superior fertility?"
+      answer: "NIOBE"
+    boni:
+      - question: "How many children did Niobe have?"
+        answer: "FOURTEEN"
+      - question: "Where was Niobe queen?"
+        answer: "THEBES"
+  - tossup:
+      question: "What oath did Hannibal make to his father?"
+      answer: "TO FIGHT ROME ALL HIS LIFE"
+    boni:
+      - question: "What king did Hannibal incite against the Romans after the Second Punic War was over?"
+        answer: "ANTIOCHUS"
+      - question: "Where did Hannibal commit suicide?"
+        answer: "BITHYNIA / ASIA MINOR"
+  - tossup:
+      question: "What is the locative of <latin>Roma</latin>?"
+      answer: "<latin>ROMAE</latin>"
+    boni:
+      - question: "What is the locative of <latin>Athenae</latin>?"
+        answer: "<latin>ATHENIS</latin>"
+      - question: "What is the locative of <latin>domus</latin>?"
+        answer: "<latin>DOMI</latin>"
+  - tossup:
+      question: "What Latin verb means to warn?"
+      answer: "<latin>MONERE</latin>"
+    boni:
+      - question: "What Latin verb means to fortify?"
+        answer: "<latin>MUNIRE</latin>"
+      - question: "What is the English for <latin>mulier</latin>?"
+        answer: "WOMAN"
+  - tossup:
+      question: "Who was the son of Danaë?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who was her father?"
+        answer: "ACRISIUS"
+      - question: "How did Zeus appear to her?"
+        answer: "AS A SHOWER OF GOLD"
+  - tossup:
+      question: "When did Caesar become <latin>quaestor</latin>?"
+      answer: "68 BC"
+    boni:
+      - question: "What was Caesar's office while he commanded the troops in Gaul?"
+        answer: "<latin>PROCONSUL</latin>"
+      - question: "What was the decisive battle between Caesar and Pompey in 48 BC?"
+        answer: "PHARSALUS"
+  - tossup:
+      question: "What is the antonym of <latin>magnus</latin>?"
+      answer: "<latin>PARVUS</latin>"
+    boni:
+      - question: "What is the adverb of <latin>parvus</latin>?"
+        answer: "<latin>PARUM</latin>"
+      - question: "What is the superlative of <latin>parum</latin>?"
+        answer: "<latin>MINIME</latin>"

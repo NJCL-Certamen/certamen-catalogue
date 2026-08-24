@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Round 5
+questions:
+  - tossup:
+      question: "Change <latin>ferunt</latin> to singular."
+      answer: "<latin>FERT</latin>"
+    boni:
+      - question: "Change <latin>fert</latin> to the subjunctive."
+        answer: "<latin>FERAT</latin>"
+      - question: "Change <latin>ferat</latin> to the imperfect."
+        qanswer: "<latin>FERRET</latin>"
+  - tossup:
+      question: "Who fell in love with his own refelction?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What nymph fell in love with him?"
+        answer: "ECHO"
+      - question: "Who had cursed her with this unrequited love?"
+        answer: "JUNO"
+  - tossup:
+      question: "What group was compased of Octavian, Antony and Lepidus?"
+      answer: "THE SECOND TRIUMVIRATE"
+    boni:
+      - question: "What was the year of its formation?"
+        answer: "43 BC"
+      - question: "Who of the second triumvirate died first?"
+        answer: "ANTONY"
+  - tossup:
+      question: "What is the comparative of <latin>bonus</latin>?"
+      answer: "<latin>MELIOR</latin>"
+    boni:
+      - question: "What is the comparative of <latin>bene</latin>?"
+        answer: "<latin>MELIUS</latin>"
+      - question: "What is the superlative of <latin>bene</latin>?"
+        answer: "<latin>OPTIME</latin>"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>iubeo</latin>?"
+      answer: "<latin>IUSSUS</latin>"
+    boni:
+      - question: "Of <latin>iacio</latin>?"
+        answer: "<latin>IACTUS</latin>"
+      - question: "Of <latin>iuro</latin>?"
+        answer: "<latin>IURATUS</latin>"
+  - tossup:
+      question: "From what battle site did Caesar send a famous three-word message?"
+      answer: "ZELA"
+    boni:
+      - question: "What was it?"
+        answer: "<latin>VENI VIDI VICI</latin>"
+      - question: "Where is Zela?"
+        answer: "PONTUS / ASIA MINOR"
+  - tossup:
+      question: "What was the name of the guarddog of Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "Who was the boatman of the Styx?"
+        answer: "CHARON"
+      - question: "Who conducted soals to Charon?"
+        answer: "HERMES / MERCURY"
+  - tossup:
+      question: "What is the meaning of the Latin verb at the root of the English word imbibe?"
+      answer: "DRINK"
+    boni:
+      - question: "What is this verb's present antive infninitive?"
+        answer: "<latin>BIBERE</latin>"
+      - question: "What is the Latin for “I was drinking”?"
+        answer: "<latin>BIBEBAM</latin>"
+  - tossup:
+      question: "What is the Latin noun for moon?"
+      answer: "<latin>LUNA</latin>"
+    boni:
+      - question: "What is the Latin noun for sun?"
+        answer: "<latin>SOL</latin>"
+      - question: "What is the Latin noun for star?"
+        answer: "<latin>STELLA</latin>"
+  - tossup:
+      question: "What was the <latin>Cloaca Maxima</latin>?"
+      answer: "ROME'S SEWER SYSTEM"
+    boni:
+      - question: "What was the <latin>Pomerium</latin>?"
+        answer: "THE SACRED BOUNDARY AROUND ROME"
+      - question: "Where was the sacred fire kept?"
+        answer: "THE TEMPLE OF VESTA"
+  - tossup:
+      question: "Who had the golden touch?"
+      answer: "MIDAS"
+    boni:
+      - question: "Who had given it to him?"
+        answer: "BACCHUS"
+      - question: "What river washed it away?"
+        answer: "PACTOLUS"
+  - tossup:
+      question: "What is the adverb of <latin>facilis</latin>?"
+      answer: "<latin>FACILE</latin>"
+    boni:
+      - question: "What is the adverb of <latin>fortis</latin>?"
+        answer: "<latin>FORTITER</latin>"
+      - question: "What is the adverb of <latin>ferox</latin>?"
+        answer: "<latin>FEROCITER</latin>"
+  - tossup:
+      question: "What is the ablative singular of <latin>mare</latin>?"
+      answer: "<latin>MARI</latin>"
+    boni:
+      - question: "What is the ablative singular of <latin>res</latin>?"
+        answer: "<latin>RE</latin>"
+      - question: "What is the ablatibe singular of <latin>locus</latin>?"
+        answer: "<latin>LOCO</latin>"
+  - tossup:
+      question: "How many Gorgons are there?"
+      answer: "THREE"
+    boni:
+      - question: "How many Muses?"
+        answer: "NINE"
+      - question: "How many Furies?"
+        answer: "THREE"
+  - tossup:
+      question: "Who had the Ara Pacis built?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Which king supposedly instituted the Vestal Virgins at Rome?"
+        answer: "NUMA POMPILIUS"
+      - question: "What nymph was consort to King Numa?"
+        answer: "EGERIA"
+  - tossup:
+      question: "What is the nominative plural of the pronoun <latin>tu</latin>?"
+      answer: "<latin>VOS</latin>"
+    boni:
+      - question: "What is the possessive adjective for <latin>vos</latin>?"
+        answer: "<latin>VESTER</latin>"
+      - question: "In the plural, how would a Roman say with you?"
+        answer: "<latin>VOBISCUM</latin>"
+  - tossup:
+      question: "What is the feminine nominative singular of the present adtive participle of <latin>cano</latin>?"
+      answer: "<latin>CANENS</latin>"
+    boni:
+      - question: "Whe masculine plural dative of the present active participle of <latin>fero</latin>?"
+        answer: "<latin>FERENTIBUS</latin>"
+      - question: "Change <latin>ferentibus</latin> to singular?"
+        answer: "<latin>FERENTI</latin>"
+  - tossup:
+      question: "Who slew the Gorgon Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What maiden did he rescue from a sea monster?"
+        answer: "ANDROMEDA"
+      - question: "Who was Andromeda's vain mother?"
+        answer: "CASSIOPEIA"
+  - tossup:
+      question: "Where was Cicero born?"
+      answer: "ARPINUM"
+    boni:
+      - question: "Where was he quaestor?"
+        answer: "SICILY"
+      - question: "What public official did he prosecute for his wrongdoings in Sicily?"
+        answer: "VERRES"
+  - tossup:
+      question: "Change <latin>ducam</latin> to the passive."
+      answer: "<latin>DUCAR</latin>"
+    boni:
+      - question: "Change <latin>ducebam</latin> to the subjunctive."
+        answer: "<latin>DUCEREM</latin>"
+      - question: "Change <latin>ducerem</latin> to the plural."
+        answer: "<latin>DUCEREMUS</latin>"

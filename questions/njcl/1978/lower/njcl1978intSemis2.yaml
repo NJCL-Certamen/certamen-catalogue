@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What is the present infinitive of <latin>nolo</latin>?"
+      answer: "<latin>NOLLE</latin>"
+    boni:
+      - question: "What compound of <latin>volo</latin> means prefer?"
+        answer: "<latin>MALLE</latin>"
+      - question: "What word has <latin>volo</latin> combined with to form <latin>malle</latin>?"
+        answer: "<latin>MAGIS</latin>"
+  - tossup:
+      question: "What was built to house the Minotaur?"
+      answer: "THE LABYRINTH"
+    boni:
+      - question: "Who was the architect?"
+        answer: "DAEDALUS"
+      - question: "Who was his son?"
+        answer: "ICARUS"
+  - tossup:
+      question: "What dynastic succession came to an end in 68 AD?"
+      answer: "THE JULIO-CLAUDIAN EMPERORS"
+    boni:
+      - question: "Who was the last of the Julio-Claudian emperors?"
+        answer: "NERO"
+      - question: "How many Julio-Claudian emperors were there?"
+        answer: "FIVE"
+  - tossup:
+      question: "What is the Latin noun for danger?"
+      answer: "<latin>PERICULUM</latin>"
+    boni:
+      - question: "What is the Latin noun for help?"
+        answer: "<latin>AUXILIUM</latin>"
+      - question: "What is the Latin noun for trumpet?"
+        answer: "<latin>TUBA</latin>"
+  - tossup:
+      question: "What English verb meaning improve comes from the comparative of <latin>bonus</latin>?"
+      answer: "AMELIORATE"
+    boni:
+      - question: "What is the superlative of <latin>acer</latin>?"
+        answer: "<latin>ACERRIMUS</latin>"
+      - question: "What is the superlative of <latin>agilis</latin>?"
+        answer: "<latin>AGILISSIMUS</latin>"
+  - tossup:
+      question: "Who was the last king of Troy?"
+      answer: "PRIAM"
+    boni:
+      - question: "Who was his queen?"
+        answer: "HECUBA"
+      - question: "Who was his bravest and strongest son?"
+        answer: "HECTOR"
+  - tossup:
+      question: "What public figures interpreted the flights of birds?"
+      answer: "<latin>AUGURES</latin>"
+    boni:
+      - question: "What public figures interpreted the entrails of sacrificial animals?"
+        answer: "<latin>HARUSPICES</latin>"
+      - question: "What was the function of a building called a <latin>basilica</latin>?"
+        answer: "A LAW COURT"
+  - tossup:
+      question: "What is the meaning of the Latin idiom <latin>velum dare</latin>?"
+      answer: "SET SAIL"
+    boni:
+      - question: "What is the meaning of the idiom <latin>castra ponere</latin>?"
+        answer: "PITCH CAMP"
+      - question: "What is the meaning of the idiom <latin>bellum gerere</latin>?"
+        answer: "WAGE WAR"
+  - tossup:
+      question: "What is the singular active imperative of <latin>duco</latin>?"
+      answer: "<latin>DUC</latin>"
+    boni:
+      - question: "What is the singular active imperative of <latin>hortor</latin>?"
+        answer: "<latin>HORTARE</latin>"
+      - question: "What is the plural active imperative of <latin>capio</latin>?"
+        answer: "<latin>CAPITE</latin>"
+  - tossup:
+      question: "What is the Greek name for Vulcan?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "What is the Greek name for Vesta?"
+        answer: "HESTIA"
+      - question: "What is the Greek name for Mars?"
+        answer: "ARES"
+  - tossup:
+      question: "What was Julius Caesar's last battle?"
+      answer: "MUNDA (in 45 BC)"
+    boni:
+      - question: "Where is Munda?"
+        answer: "SPAIN"
+      - question: "Who was the foe?"
+        answer: "THE SONS OF POMPEY / LABIENUS"
+  - tossup:
+      question: "In general, what is the gender of trees?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of months?"
+        answer: "MASCULINE"
+      - question: "What is the gender of all indeclinable nouns?"
+        answer: "NEUTER"
+  - tossup:
+      question: "What is the name of verbs with active meanings but only passive forms?"
+      answer: "DEPONENT"
+    boni:
+      - question: "Give an example of a semi-deponent verb."
+        answer: "<latin>FIDO, SOLEO, AUDEO, GAUDEO</latin>"
+      - question: "How would a Roman say, “We have dared”?"
+        answer: "<latin>AUSI SUMUS</latin>"
+  - tossup:
+      question: "What old couple were rewarded for their hospitality to two disguised gods?"
+      answer: "BAUCIS AND PHILEMON"
+    boni:
+      - question: "Who were the two gods?"
+        answer: "ZEUS AND HERMES / JUPITER AND MERCURY"
+      - question: "What kinds of trees were Baucis and Philemon turned into?"
+        answer: "BAUCIS INTO AN OAK, PHILEMON INTO A LINDEN"
+  - tossup:
+      question: "Who supposedly said, “How easily I could conquer the world, had I the Romans for soldiers, or they me for a king”?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "After what battle see the last of Pyrrhus?"
+        answer: "BENEVENTUM"
+      - question: "How did the Romans rout his elephants?"
+        answer: "SCARED THEM WITH FIERY MISSILES"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>sumo</latin>?"
+      answer: "<latin>SUMPSISSE</latin>"
+    boni:
+      - question: "What is the perfect passive infinitive of <latin>sumo</latin>?"
+        answer: "<latin>SUMPTUM ESSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>dico</latin>?"
+        answer: "<latin>DIXISSE</latin>"
+  - tossup:
+      question: "What is the dative singular of <latin>cornu</latin>?"
+      answer: "<latin>CORNU</latin>"
+    boni:
+      - question: "What is the ablative singular of <latin>cornu</latin>?"
+        answer: "<latin>CORNU</latin>"
+      - question: "What is the genitive plural of <latin>cornu</latin>?"
+        answer: "<latin>CORNUUM</latin>"
+  - tossup:
+      question: "What were they competing for in a famous contest between Poseidon and Athena?"
+      answer: "THE PATRONAGE OF ATHENS"
+    boni:
+      - question: "What was Athena's gift?"
+        answer: "THE OLIVE"
+      - question: "What was Poseidon's gift?"
+        answer: "A SALT SPRING / HORSE"
+  - tossup:
+      question: "What Roman king first bridged the Tiber?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "What is Ancus Marcius' number in the list of Rome's early kings?"
+        answer: "FOURTH"
+      - question: "Who succeeded him?"
+        answer: "TARQUINIUS PRISCUS"
+  - tossup:
+      question: "Which of the following is not a derivatime of <latin>patior</latin>: passion, impatient, surpass, compassion?"
+      answer: "SURPASS"
+    boni:
+      - question: "With what other verb does patior share its perfect participle?"
+        answer: "<latin>PANDO</latin>"
+      - question: "What noun resembles these participles?"
+        answer: "<latin>PASSUS</latin> (“STEP”)"

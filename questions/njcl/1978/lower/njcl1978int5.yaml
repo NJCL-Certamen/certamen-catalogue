@@ -10,7 +10,7 @@ questions:
       - question: "Change <latin>fert</latin> to the subjunctive."
         answer: "<latin>FERAT</latin>"
       - question: "Change <latin>ferat</latin> to the imperfect."
-        qanswer: "<latin>FERRET</latin>"
+        answer: "<latin>FERRET</latin>"
   - tossup:
       question: "Who fell in love with his own refelction?"
       answer: "NARCISSUS"

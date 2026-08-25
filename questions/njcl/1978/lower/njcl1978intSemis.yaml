@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Semifinals
+questions:
+  - tossup:
+      question: "How would a Roman say, “Where is the Senate House?”"
+      answer: "<latin>UBI EST CURIA?</latin>"
+    boni:
+      - question: "Tell him the <latin>Curia</latin> is in the Forum."
+        answer: "<latin>CURIA IN FORO EST</latin>"
+      - question: "Tell him the Temple of Vesta is also in the Forum."
+        answer: "<latin>TEMPLUM VESTAE QUOQUE IN FORO EST</latin>"
+  - tossup:
+      question: "Whom did Athena change into a spider?"
+      answer: "ARACHNE"
+    boni:
+      - question: "At what had Arachne claimed to be better than Athena?"
+        answer: "WEAVING"
+      - question: "What did Arachne depict on her tapestry to earn the goddess' wrath?"
+        answer: "DIVINE MISDEEDS"
+  - tossup:
+      question: "What was the year of the expulsion of the Tarquins?"
+      answer: "510 BC"
+    boni:
+      - question: "From what people did they come?"
+        answer: "ETRUSCANS"
+      - question: "What was the first consular year?"
+        answer: "509 BC"
+  - tossup:
+      question: "What is the Latin word for soldier?"
+      answer: "<latin>MILES</latin>"
+    boni:
+      - question: "What is the Latin word for knight?"
+        answer: "<latin>EQUES</latin>"
+      - question: "What is the Latin word for army?"
+        answer: "<latin>EXERCITUS</latin>"
+  - tossup:
+      question: "What is Latin for “We have been warned”?"
+      answer: "<latin>MONITI SUMUS</latin>"
+    boni:
+      - question: "Change <latin>moniti sumus</latin> to subjunctive."
+        answer: "<latin>MONITI SIMUS</latin>"
+      - question: "Change <latin>moniti simus</latin> to pluperfect."
+        answer: "<latin>MONITI ESSEMUS</latin>"
+  - tossup:
+      question: "Who commanded the Greeks at Troy?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Who was his brother, Helen's husband?"
+        answer: "MENELAÜS"
+      - question: "Who were Helen's twin brothers?"
+        answer: "CASTOR AND POLLUX"
+  - tossup:
+      question: "Who was Tiberius' successor?"
+      answer: "CALIGULA / GAIUS"
+    boni:
+      - question: "Where was Tiberius' island retreat?"
+        answer: "CAPRI / <latin>CAPREAE</latin>"
+      - question: "What head of the Pretorian Guard was the agent for much of Tiberius' tyranny?"
+        answer: "SEJANUS"
+  - tossup:
+      question: "What is the Latin for “I can't walk”?"
+      answer: "<latin>NON POSSUM AMBULARE / NEQUEO AMBULARE</latin>"
+    boni:
+      - question: "Translate “He has to walk.”"
+        answer: "<latin>EI AMBULANDUM EST / DEBET AMBULARE</latin>"
+      - question: "Translate “He seems to be walking.”"
+        answer: "<latin>VIDETUR AMBULARE</latin>"
+  - tossup:
+      question: "What is the Latin noun for health?"
+      answer: "<latin>SALUS</latin>"
+    boni:
+      - question: "What is the Latin noun for swamp?"
+        answer: "<latin>PALUS</latin>"
+      - question: "What is the Latin noun for wolf?"
+        answer: "<latin>LUPUS</latin>"
+  - tossup:
+      question: "Who was the mother of Hercules?"
+      answer: "ALCMENA"
+    boni:
+      - question: "Who was her mortal husband?"
+        answer: "AMPHITRYON"
+      - question: "Who was their mortal child?"
+        answer: "IPHICLES"
+  - tossup:
+      question: "What modern nation corresponds to ancient Gaul?"
+      answer: "FRANCE"
+    boni:
+      - question: "What modern nation corresponds to ancient Helvetia?"
+        answer: "SWITZERLAND"
+      - question: "What modern nation corresponds to ancient Hibernia?"
+        answer: "IRELAND"
+  - tossup:
+      question: "What Latin noun is at the root of the English verb remunerate?"
+      answer: "<latin>MUNUS</latin>"
+    boni:
+      - question: "What Latin verb is the root of the English noun tangent?"
+        answer: "<latin>TANGO</latin>"
+      - question: "What Latin noun is the root of the English coronation?"
+        answer: "<latin>CORONA</latin>"
+  - tossup:
+      question: "What is the feminine singular accusative of <latin>hic</latin>?"
+      answer: "<latin>HANC</latin>"
+    boni:
+      - question: "What is the same case of <latin>ille</latin>?"
+        answer: "<latin>ILLAM</latin>"
+      - question: "What is the same case of <latin>idem</latin>?"
+        answer: "<latin>EANDEM</latin>"
+  - tossup:
+      question: "Whom did Artemis turn into a stag?"
+      answer: "ACTAEON"
+    boni:
+      - question: "What nymph was turned into a bear?"
+        answer: "CALLISTO"
+      - question: "Who was turned into a heifer?"
+        answer: "IO"
+  - tossup:
+      question: "What foreign general was the first to use elephants against Rome?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What was his kingdom?"
+        answer: "EPIRUS"
+      - question: "Where is Epirus?"
+        answer: "NW GREECE"
+  - tossup:
+      question: "What is the Latin word for forest?"
+      answer: "<latin>SILVA</latin>"
+    boni:
+      - question: "What is the Latin word for sand?"
+        answer: "<latin>ARENA / HARENA</latin>"
+      - question: "What is the Latin word for shore?"
+        answer: "<latin>LITUS / ORA</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>vinco</latin>?"
+      answer: "<latin>VICISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>vivo</latin>?"
+        answer: "<latin>VIXISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>volvo</latin>?"
+        answer: "<latin>VOLUISSE</latin>"
+  - tossup:
+      question: "Where was the birthplace of Apollo and Artemis?"
+      answer: "DELOS"
+    boni:
+      - question: "Who was their mother?"
+        answer: "LETO"
+      - question: "Where was Apollo's most important oracle?"
+        answer: "DELPHI"
+  - tossup:
+      question: "What early first-century BC conflict set Rome against some of her Italian allies?"
+      answer: "THE SOCIAL WAR (or THE MARSIAN WAR)"
+    boni:
+      - question: "What tribe was chief among the rebellious allies?"
+        answer: "THE MARSI"
+      - question: "What reform was the result of the Social War?"
+        answer: "CITIZENSHIP FOR THE ITALIAN SUBJECT TRIBES"
+  - tossup:
+      question: "What is the genitive plural of <latin>urbs</latin>?"
+      answer: "<latin>URBIUM</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>civis</latin>?"
+        answer: "<latin>CIVIUM</latin>"
+      - question: "What is the genitive plural of <latin>canis</latin>?"
+        answer: "<latin>CANUM</latin>"

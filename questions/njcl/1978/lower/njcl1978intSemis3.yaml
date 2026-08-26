@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Semifinals 3
+questions:
+  - tossup:
+      question: "What Latin adverb means “for a long time”?"
+      answer: "<latin>DIU</latin>>"
+    boni:
+      - question: "What is its comparative?"
+        answer: "<latin>DIUTIUS</latin>"
+      - question: "What is its superlative?"
+        answer: "<latin>DIUTISSIME</latin>"
+  - tossup:
+      question: "What nine-headed monster was slain by Hercules as his first labor?"
+      answer: "THE HYDRA"
+    boni:
+      - question: "What three-headed monster did he slay on another labor?"
+        answer: "GERYON"
+      - question: "What monster did he kill for stealing his cattle?"
+        answer: "CACUS"
+  - tossup:
+      question: "What man of the late Republic was consul seven times?"
+      answer: "MARIUS"
+    boni:
+      - question: "What political party did he represent?"
+        answer: "THE <latin>POPULARES</latin>"
+      - question: "What was the opposition?"
+        answer: "THE <latin>OPTIMATES</latin>"
+  - tossup:
+      question: "What is the translation of the Latin noun <latin>lumen</latin>?"
+      answer: "LIGHT"
+    boni:
+      - question: "What is the translation of the Latin noun <latin>limen</latin>?"
+        answer: "DOORSTEP / THRESHOLD"
+      - question: "What is the translation of the Latin noun <latin>numen</latin>?"
+        answer: "DIVINITY"
+  - tossup:
+      question: "What is the Latin for one mile?"
+      answer: "<latin>MILLE PASSUS</latin>"
+    boni:
+      - question: "What is the Latin for two miles?"
+        answer: "<latin>DUO MILIA PASSUUM</latin>"
+      - question: "What is the Latin for one hundred miles?"
+        answer: "<latin>CENTUM MILIA PASSUUM</latin>"
+  - tossup:
+      question: "Who was the incestuous king of Thebes?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who was his father?"
+        answer: "LAIUS"
+      - question: "Who was his wife/mother?"
+        answer: "JOCASTA"
+  - tossup:
+      question: "What was the largest unit of the Roman army?"
+      answer: "THE LEGION"
+    boni:
+      - question: "How many cohorts were in a legion?"
+        answer: "TEN"
+      - question: "How many men were officially in a legion?"
+        answer: "SIX THOUSAND"
+  - tossup:
+      question: "Translate the Latin <latin>Ubi sumus</latin>?"
+      answer: "WHERE ARE WE?"
+    boni:
+      - question: "Translate the Latin <latin>Quo it</latin>?"
+        answer: "WHERE IS HE GOING?"
+      - question: "Translate the Latin <latin>Unde venis</latin>?"
+        answer: "WHERE ARE YOU COMING FROM?"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>struo</latin>?"
+      answer: "<latin>STRUXISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>venio</latin>?"
+        answer: "<latin>VENISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>reor</latin>?"
+        answer: "<latin>RATUS ESSE</latin>"
+  - tossup:
+      question: "Wha was Aphrodite's immortal lover?"
+      answer: "ARES"
+    boni:
+      - question: "Who was her immortal husband?"
+        answer: "HEPHAESTUS"
+      - question: "Who was her immortal son?"
+        answer: "EROS"
+  - tossup:
+      question: "What was the name of the series of Roman political offices?"
+      answer: "THE <latin>CURSUS HONORUM</latin>"
+    boni:
+      - question: "What office began the official <latin>cursus</latin>?"
+        answer: "THE QUAESTORSHIP"
+      - question: "According to law, how many years had to elapse before an ex-consul could stand for that office again?"
+        answer: "TEN"
+  - tossup:
+      question: "<latin>Responde Latine: Quot oculos habes</latin>?"
+      answer: "<latin>DUOS</latin>"
+    boni:
+      - question: "<latin>Quot bracchia</latin>?"
+        answer: "<latin>DUO</latin>"
+      - question: "<latin>Quot corda</latin>?"
+        answer: "<latin>UNUM</latin>"
+  - tossup:
+      question: "What is the Latin noun for grandfather?"
+      answer: "<latin>AVUS</latin>"
+    boni:
+      - question: "What is the Latin noun for uncle?"
+        answer: "<latin>AVUNCULUS</latin>"
+      - question: "What is the Latin noun for nephew?"
+        answer: "<latin>NEPOS</latin>"
+  - tossup:
+      question: "Whose bird was the peacock?"
+      answer: "JUNO'S"
+    boni:
+      - question: "Whose bird was the owl?"
+        answer: "MINERVA'S"
+      - question: "Who was the goddess of childbirth?"
+        answer: "LUCINA / JUNO"
+  - tossup:
+      question: "What name did Augustus receive when he was born?"
+      answer: "GAIUS OCTAVIUS"
+    boni:
+      - question: "After his adoption by Julius Caesar, what did his name become?"
+        answer: "(GAIUS JULIUS CAESAR) OCTAVIAN(US)"
+      - question: "When did the Senate make him Augustus?"
+        answer: "27 BC"
+  - tossup:
+      question: "signature What is the perfect active infinitive of <latin>ago</latin>?"
+      answer: "<latin>EGISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>frango</latin>?"
+        answer: "<latin>FREGISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>tango</latin>?"
+        answer: "<latin>TETIGISSE</latin>"
+  - tossup:
+      question: "What is the dative plural of the present active participle of <latin>laudo</latin>?"
+      answer: "<latin>LAUDANTIBUS</latin>"
+    boni:
+      - question: "What is the dative plural of <latin>laudo</latin>'s future active participle?"
+        answer: "<latin>LAUDATURIS</latin>"
+      - question: "What is the dative plural of <latin>laudo</latin>'s future passive participle?"
+        answer: "<latin>LAUDANDIS</latin>"
+  - tossup:
+      question: "Who stole fire for men?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "Who was his brother?"
+        answer: "EPIMETHEUS"
+      - question: "Who was the bride of Epimetheus?"
+        answer: "PANDORA"
+  - tossup:
+      question: "What Roman admiral was a hostage of the Carthaginians and an example of Roman fides?"
+      answer: "REGULUS"
+    boni:
+      - question: "During his brief release, what did he tell the Romans?"
+        answer: "KEEP FIGHTING"
+      - question: "Which Punic War was this?"
+        answer: "THE FIRST"
+  - tossup:
+      question: "Change <latin>vidit</latin> to the subjunctive."
+      answer: "<latin>VIDERIT</latin>"
+    boni:
+      - question: "Change <latin>viderit</latin> to the passive."
+        answer: "<latin>VISUS SIT</latin>"
+      - question: "Change <latin>visus sit</latin> to the imperfect."
+        answer: "<latin>VIDERETUR</latin>"

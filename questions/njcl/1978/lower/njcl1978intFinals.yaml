@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Intermediate"
+round: Finals
+questions:
+  - tossup:
+      question: "Translate the Latin <latin>Exercitui praesum</latin>."
+      answer: "I AM IN COMMAND OF THE ARMY"
+    boni:
+      - question: "Translate <latin>Marcum legioni praefecimus</latin>."
+        answer: "WE PUT MARCUS IN COMMAND OF THE LEGION"
+      - question: "Translate the English “Commanding the legion is very difficult.”"
+        answer: "<latin>LEGIONI PRAEESSE EST DIFFICILLIMUM</latin>"
+  - tossup:
+      question: "Who was fated to appear, wearing only one shoe, to King Pelias?"
+      answer: "JASON"
+    boni:
+      - question: "How had he lost the other shoe?"
+        answer: "HELPING THE DISGUISED JUNO ACROSS A STREAM"
+      - question: "What relation to Jason was Pelias?"
+        answer: "HIS UNCLE"
+  - tossup:
+      question: "What year did the Romans sarcastically call the consulship of Julius and Caesar?"
+      answer: "59 BC"
+    boni:
+      - question: "What consular colleague of Caesar's did this joke ridicule?"
+        answer: "BIBULUS"
+      - question: "What <latin>honores</latin> had they already shared?"
+        answer: "QUAESTORSHIP AND AEDILESHIP"
+  - tossup:
+      question: "What is the superlative of <latin>aeger</latin>?"
+      answer: "<latin>AEGERRIMUS</latin>"
+    boni:
+      - question: "What is the superlative of <latin>humilia</latin>?"
+        answer: "<latin>HUMILLIMUS</latin>"
+      - question: "What is the superlative of <latin>vetus</latin>?"
+        answer: "<latin>VETERRIMUS</latin>"
+  - tossup:
+      question: "What Latin phrase is abbreviated e.g.?"
+      answer: "<latin>EXEMPLI GRATIA</latin>"
+    boni:
+      - question: "What Latin phrase is abbreviated Q.E.D.?"
+        answer: "<latin>QUOD ERAT DEMONSTRANDUM</latin>"
+      - question: "What Latin phrase is abbreviated i.e.?"
+        answer: "<latin>ID EST</latin>"
+  - tossup:
+      question: "Who was the mother of Helen?"
+      answer: "LEDA"
+    boni:
+      - question: "In what guise did her lover Zeus visit her?"
+        answer: "AS A SWAN"
+      - question: "Who was Leda's mortal husband?"
+        answer: "TYNDAREUS"
+  - tossup:
+      question: "What disastrous defeat did the Romans suffer in 216 BC?"
+      answer: "CANNAE"
+    boni:
+      - question: "Who commanded the enemy?"
+        answer: "HANNIBAL"
+      - question: "What consul was killed at Cannae?"
+        answer: "(L. AEMILIUS) PAULLUS"
+  - tossup:
+      question: "What is 73 in Roman numerals?"
+      answer: "LXXIII"
+    boni:
+      - question: "What is 199 in Roman numerals?"
+        answer: "CIC"
+      - question: "What is 499 in Roman numerals?"
+        answer: "ID"
+  - tossup:
+      question: "How does a Roman say, “It is raining.”"
+      answer: "<latin>PLUIT</latin>"
+    boni:
+      - question: "How would he say, “It is snowing.”"
+        answer: "<latin>NINGIT</latin>"
+      - question: "How would he say, “It is thundering.”"
+        answer: "<latin>TONAT</latin>"
+  - tossup:
+      question: "Who turned Ulysses' men into swine?"
+      answer: "CIRCE"
+    boni:
+      - question: "With what god's help did Ulysses avoid the same fate?"
+        answer: "MERCURY'S"
+      - question: "What nymph detained him for seven years?"
+        answer: "CALYPSO"
+  - tossup:
+      question: "Where did the assassins of Caesar make their final, fatal stand against the forces of Antony and Octavian?"
+      answer: "PHILIPPI"
+    boni:
+      - question: "What was the year?"
+        answer: "42 BC"
+      - question: "Where is Philippi?"
+        answer: "MACEDONIA (NW GREECE)"
+  - tossup:
+      question: "What single Latin word means “I am present”?"
+      answer: "<latin>ADSUM</latin>"
+    boni:
+      - question: "How would a Roman say, “I have been absent”?"
+        answer: "<latin>AFUI</latin>"
+      - question: "How would he say, “I will survive”?"
+        answer: "<latin>SUPERERO</latin>"
+  - tossup:
+      question: "Which of the following English words does not come from the Latin verb <latin>vivo</latin>: vivacious, revival, victuals, vivisection?"
+      answer: "VIVISECTION (VIVISECTION COMES FROM THE ADJECTIVE VIVUS)"
+    boni:
+      - question: "What Latin adjective is the root of the English noun dime?"
+        answer: "<latin>DECIMUS</latin>"
+      - question: "Which of the following does not come from <latin>ars</latin>: artist, inert, inertia, article?"
+        answer: "ARTICLE (FROM <latin>ARTUS</latin>)"
+  - tossup:
+      question: "Whose wife was Amphitrite?"
+      answer: "POSEIDON'S"
+    boni:
+      - question: "Whose wfie was Thetis?"
+        answer: "PELEUS'"
+      - question: "Whose wife was Niobe?"
+        answer: "AMPHION'S"
+  - tossup:
+      question: "What was Pompey's praenomen?"
+      answer: "GNAEUS"
+    boni:
+      - question: "What was Cicero's praenomen?"
+        answer: "MARCUS"
+      - question: "What was Crassus' praenomen?"
+        answer: "MARCUS"
+  - tossup:
+      question: "What is the first person singular future indicative of <latin>pereo</latin>?"
+      answer: "<latin>PERIBO</latin>"
+    boni:
+      - question: "Change <latin>peribo</latin> to imperfect."
+        answer: "<latin>PERIBAM</latin>"
+      - question: "Change <latin>peribam</latin> to subjunctive."
+        answer: "<latin>PERIREM</latin>"
+  - tossup:
+      question: "What does the Latin noun <latin>sagitta</latin> mean?"
+      answer: "ARROW"
+    boni:
+      - question: "What kind of bird is an <latin>anser</latin>?"
+        answer: "GOOSE"
+      - question: "What kind of bird is a <latin>columba</latin>?"
+        answer: "DOVE"
+  - tossup:
+      question: "What prince of Troy became a cupbearer on Olympus?"
+      answer: "GANYMEDE"
+    boni:
+      - question: "What was the food of the gods?"
+        answer: "AMBROSIA"
+      - question: "What was the most sacred oath of the gods?"
+        answer: "BY THE RIVER STYX"
+  - tossup:
+      question: "What two sets of triplets fought in a war between Rome and Alba Longa?"
+      answer: "THE HORATII (ROMAN) AND THE CURIATII (ALBAN)"
+    boni:
+      - question: "Why did Horatia, the sister of the Roman triplets, grieve when her brothers were victorious?"
+        answer: "ONE OF THE CURIATII WAS HER BETROTHED."
+      - question: "What was the reaction of her surviving brother?"
+        answer: "HE KILLED HER."
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>respondeo</latin>?"
+      answer: "<latin>RESPONDISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>spondeo</latin>?"
+        answer: "<latin>SPOPONDISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>suadeo</latin>?"
+        answer: "<latin>SUASISSE</latin>"

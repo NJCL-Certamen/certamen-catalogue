@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Round 1
+questions:
+  - tossup:
+      question: "What is the Latin for “I shall be touched”?"
+      answer: "<latin>TANGAR</latin>"
+    boni:
+      - question: "What is the Latin for “I have been touched”?"
+        answer: "<latin>TACTUS SUM</latin>"
+      - question: "What is the Latin for “I shall have been touched”?"
+        answer: "<latin>TACTUS ERO</latin>"
+  - tossup:
+      question: "What goddess so grieved at Iron Age humanity's wickedness that Jupiter placed her in the stars as the constellation Virgo?"
+      answer: "ASTRAEA, GODDESS OF INNOCENCE AND PURITY"
+    boni:
+      - question: "Who was the Noah of Greek mythology?"
+        answer: "DEUCALION"
+      - question: "Who was his wife?"
+        answer: "PYRRHA"
+  - tossup:
+      question: "What was the name of the Roman grain supply?"
+      answer: "THE <latin>ANNONA</latin>"
+    boni:
+      - question: "Until the Empire, what public officials were in charge of it?"
+        answer: "THE (A)EDILES"
+      - question: "What office was created by Augustus to administer it?"
+        answer: "<latin>PRAEFECTUS ANNONAE</latin>"
+  - tossup:
+      question: "What important author came from Arpinum?"
+      answer: "CICERO"
+    boni:
+      - question: "When was he born?"
+        answer: "106 BC"
+      - question: "When was he killed?"
+        answer: "43 BC"
+  - tossup:
+      question: "What <latin>praenomen</latin> is abbreviated P?"
+      answer: "PUBLIUS"
+    boni:
+      - question: "What <latin>praenomen</latin> is abbreviated T?"
+        answer: "TITUS"
+      - question: "What <latin>praenomen</latin> is abbreviated M'?"
+        answer: "MANIUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>cerno</latin>?"
+      answer: "<latin>CREVISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>cresco</latin>?"
+        answer: "<latin>CREVISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>fleo</latin>?"
+        answer: "<latin>FLEVISSE</latin>"
+  - tossup:
+      question: "How many children/siblings did Oedipus have?"
+      answer: "FOUR"
+    boni:
+      - question: "Name the males."
+        answer: "ETEOCLES AND POLYNICES"
+      - question: "Name the females."
+        answer: "ANTIGONE AND ISMENE"
+  - tossup:
+      question: "What was the year of the four emperors?"
+      answer: "69 AD"
+    boni:
+      - question: "Who was the first of them?"
+        answer: "GALBA"
+      - question: "What dynasty was begun with the last of them?"
+        answer: "THE FLAVIANS"
+  - tossup:
+      question: "Who wrote <latin>Odi et amo</latin>?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "Where was he born?"
+        answer: "VERONA"
+      - question: "What was his name for his beloved?"
+        answer: "LESBIA"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "What determines its case?"
+        answer: "ITS USE IN ITS OWN CLAUSE"
+      - question: "What is the process by which it sometimes shares its antecedent's case despite its function within its own clause?"
+        answer: "CASE BY ATTRACTION"
+  - tossup:
+      question: "Which of the following does not come from amicus: inimical, amicable, amiable, ceramic?"
+      answer: "CERAMIC"
+    boni:
+      - question: "What is the meaning of the Latin word which has become the English word addendum?"
+        answer: "SOMETHING WHICH MUST BE ADDED"
+      - question: "What is the meaning of the Latin word which has become the English word agenda?"
+        answer: "THINGS WHICH MUST BE DONE"
+  - tossup:
+      question: "Who could meet his father only after he had lifted a great rock?"
+      answer: "THESEUS"
+    boni:
+      - question: "What did he find beneath it?"
+        answer: "A SWORD AND A PAIR OF SANDALS"
+      - question: "Who were Theseus' parents?"
+        answer: "AEGEUS AND AETHRA"
+  - tossup:
+      question: "What was the mint of ancient Rome?"
+      answer: "THE TEMPLE OF JUNO MONETA"
+    boni:
+      - question: "What temple's doors represented peace and war with their position?"
+        answer: "THE TEMPLE OF JANUS"
+      - question: "Whom was a small round temple near that of Vesta dedicated?"
+        answer: "CASTOR AND POLLUX"
+      - question: "Who rode a horse into the ground in the Forum?"
+        answer: "METTIUS CURTIUS"
+  - tossup:
+      question: "What important author was from Mantua?"
+      answer: "(P.) VERGIL(IUS MARO)"
+    boni:
+      - question: "When was he born there?"
+        answer: "70 BC"
+      - question: "When did he die?"
+        answer: "19 BC"
+  - tossup:
+      question: "Change <latin>ferunt</latin> to singular."
+      answer: "<latin>FERT</latin>"
+    boni:
+      - question: "Change <latin>fers</latin> to plural."
+        answer: "<latin>FERTIS</latin>"
+      - question: "Change <latin>ferebar</latin> to subjunctive."
+        answer: "<latin>FERRER</latin>"
+  - tossup:
+      question: "What is the ablative singular of <latin>lac</latin>?"
+      answer: "<latin>LACTE</latin>"
+    boni:
+      - question: "What is the ablative singular of <latin>mel</latin>?"
+        answer: "<latin>MELLE</latin>"
+      - question: "What is the ablative singular of <latin>quies</latin>?"
+        answer: "<latin>QUIETE</latin>"
+  - tossup:
+      question: "Who was Achilles' best friend?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "Who was Theseus' best friend?"
+        answer: "PIRITHOÜS"
+      - question: "Who was Hercules' nephew and companion?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "Which Roman emperor conquered the province of Dacia?"
+      answer: "(M. ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "To what landmark in Rome would you look for an artistic representation of the conquest?"
+        answer: "THE COLUMN OF TRAJAN"
+      - question: "In what Italian city, site of a major battle three centuries before, was an arch which still stands built to celebrate Trajan's victories in Dacia?"
+        answer: "BENEVENTUM"
+  - tossup:
+      question: "Who was the patron of Horace and Vergil?"
+      answer: "(C. CILNIUS) MAECENAS"
+    boni:
+      - question: "What work of Horace opens <latin>Qui fit, Maecenas...</latin>?"
+        answer: "THE SATIRES"
+      - question: "When was Horace born?"
+        answer: "65 BC"
+  - tossup:
+      question: "What is the negative introduction of a subjunctive clause of purpose?"
+      answer: "<latin>NE</latin>"
+    boni:
+      - question: "What is the negative introduction of a subjunctive clause of result?"
+        answer: "<latin>UT...NON</latin>"
+      - question: "Translate: I will go lest they harm me."
+        answer: "<latin>IBO NE MIHI NOCEANT</latin>"

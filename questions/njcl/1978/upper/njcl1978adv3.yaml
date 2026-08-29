@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Round 3
+questions:
+  - tossup:
+      question: "Responde Latine. <latin>Quot aures habes</latin>?"
+      answer: "<latin>DUAS</latin>"
+    boni:
+      - question: "<latin>Quot genua habes</latin>?"
+        answer: "<latin>DUO</latin>"
+      - question: "<latin>Quot nasos habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+  - tossup:
+      question: "Who turned into a sunflower out of unrequited love for Apollo?"
+      answer: "CLYTIË"
+    boni:
+      - question: "Who turned into poplars from grief over their dead brother?"
+        answer: "THE SISTERS OF PHAETHON"
+      - question: "Who was turned into a grasshopper by his lover Aurora?"
+        answer: "TITHONUS"
+  - tossup:
+      question: "Who succeeded Vespasian?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "How were they related?"
+        answer: "FATHER AND SON"
+      - question: "Who succeeded Titus?"
+        answer: "(HIS BROTHER) DOMITIAN"
+  - tossup:
+      question: "What character in the <title>Aeneid</title> speaks the line: <latin>Forsan et haec olim meminisse iuvabit</latin>?"
+      answer: "AENEAS"
+    boni:
+      - question: "Whom is he addressing?"
+        answer: "HIS MEN"
+      - question: "Who says: <latin>Tros Tyriusque mihi nullo discrimine agetur</latin>?"
+        answer: "DIDO"
+  - tossup:
+      question: "What is the accusative singular of <latin>vis</latin>?"
+      answer: "<latin>VIM</latin>"
+    boni:
+      - question: "What is its ablative singular?"
+        answer: "<latin>VI</latin>"
+      - question: "What is the accusative plural of <latin>prex</latin>?"
+        answer: "<latin>PRECES</latin>"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>fodio</latin>?"
+      answer: "<latin>FOSSUS/-A/-UM</latin>"
+    boni:
+      - question: "What is the perfect passive participle of <latin>sancio</latin>?"
+        answer: "<latin>SANCTUS/-A/-UM</latin>"
+      - question: "What is the perfect passive participle of <latin>gero</latin>?"
+        answer: "<latin>GESTUS/-A/-UM</latin>"
+  - tossup:
+      question: "Who killed the Calydonian Boar?"
+      answer: "MELEAGER"
+    boni:
+      - question: "What object, safeguarded by his mother, represented his lifespan?"
+        answer: "A PIECE OF FIREWOOD"
+      - question: "Who was his mother?"
+        answer: "ALTHAEA"
+  - tossup:
+      question: "What foreign enemy taunted the defeated Romans with the words <latin>vae victis</latin>?"
+      answer: "BRENNUS"
+    boni:
+      - question: "What was the year?"
+        answer: "390 / 387 BC"
+      - question: "Who was the Roman awakened by squawking geese and thus roused to defend the Capitol?"
+        answer: "MANLIUS"
+  - tossup:
+      question: "What earlier poet did Horace call his “lantern”?"
+      answer: "(C.) LUCILIUS"
+    boni:
+      - question: "What early Roman epicist wrote a poem on Roman history entitled <title><latin>Annales</latin></title>?"
+        answer: "(Q.) ENNIUS"
+      - question: "What second-century AD historian wrote a prose work of the same title?"
+        answer: "(CORNELIUS) TACITUS"
+  - tossup:
+      question: "Translate into Latin: Let us defeat the soldiers of Caesar."
+      answer: "<latin>MILITES CAESARIS VINCAMUS</latin>"
+    boni:
+      - question: "Translate into English: <latin>Pedites pedem rettulerunt ne caperentur</latin>."
+        answer: "THE INFANTRY RETREATED LEST THEY BE CAPTURED"
+      - question: "Translate into English: <latin>Flumen est tam latum ut non transire possimus</latin>."
+        answer: "THE RIVER IS SO WIDE THAT WE CANNOT CROSS"
+  - tossup:
+      question: "How would a Roman say one hundred miles?"
+      answer: "<latin>CENTUM MILIA PASSUUM</latin>"
+    boni:
+      - question: "How would he say two hundred miles?"
+        answer: "<latin>BUCENTA MILIA PASSUUM</latin>"
+      - question: "How would he say a thousand miles?"
+        answer: "<latin>MILLE MILIA PASSUUM</latin>"
+  - tossup:
+      question: "Who was the muse of dance?"
+      answer: "TERPSICHORE"
+    boni:
+      - question: "Who was the muse of astronomy?"
+        answer: "URANIA"
+      - question: "Who was the muse of comedy?"
+        answer: "THALIA"
+  - tossup:
+      question: "When was the great fire during Nero's reign?"
+      answer: "64 AD"
+    boni:
+      - question: "What was the Latin name for the palace of Nero?"
+        answer: "<latin>DOMUS AUREA</latin>"
+      - question: "Who was Nero's mother?"
+        answer: "AGRIPPINA THE YOUNGER"
+  - tossup:
+      question: "Who wrote the Satyricon?"
+      answer: "(C.) PETRONIUS (ARBITER)"
+    boni:
+      - question: "Who wrote an epic entitled <latin><title>Bellum Civile</title></latin>?"
+        answer: "(M. ANNAEUS) LUCAN(US)"
+      - question: "By what title is it more often but less correctly known?"
+        answer: "<latin><title>PHARSALIA</title></latin>"
+  - tossup:
+      question: "Which of the following is not a derivative of <latin>caput</latin>: chapel, chapter, chef, captain?"
+      answer: "CHAPEL"
+    boni:
+      - question: "Which two of the following have the same root: rigid, dirigible, indirect?"
+        answer: "DIRIGIBLE AND INDIRECT"
+      - question: "Which of the following does not have the same root as the other two: panic, pantry, companion?"
+        answer: "PANIC"
+  - tossup:
+      question: "What is the second person plural perfect active indicative of <latin>tollo</latin>?"
+      answer: "<latin>SUSTULISTIS</latin>"
+    boni:
+      - question: "Change <latin>sustulistis</latin> to passive."
+        answer: "<latin>SUBLATI ESTIS</latin>"
+      - question: "Change <latin>sublati estis</latin> to pluperfect subjunctive."
+        answer: "<latin>SUBLATI ESSETIS</latin>"
+  - tossup:
+      question: "Who must for all eternity attempt to draw water with sieves?"
+      answer: "THE DANAIDAE"
+    boni:
+      - question: "How many of them share this fate?"
+        answer: "49"
+      - question: "What was their crime?"
+        answer: "MURDERING THEIR BRIDEGROOMS ON THEIR WEDDING NIGHT"
+  - tossup:
+      question: "What foreign foe was a worthy opponent to the Roman armies in Africa in the last two decades of the second century BC?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "Who defeated Jugurtha's troops several times but lost the command to another?"
+        answer: "(Q. CAECILIUS) METELLUS NUMIDICUS"
+      - question: "Who replaced Metellus?"
+        answer: "(C.) MARIUS"
+  - tossup:
+      question: "Who was the patron of Ovid and Tibullus?"
+      answer: "(M. VALERIUS) MESSALLA CORVINUS"
+    boni:
+      - question: "What was Ovid's phrase for the reason for his exile?"
+        answer: "<latin>CARMEN ET ERROR</latin>"
+      - question: "Which of his works is a didactic poem on cosmetics and skin-care?"
+        answer: "<latin><title>MEDICAMINA FACIEI FEMINEAE / MEDICINA FACIEI</title></latin>"
+  - tossup:
+      question: "Translate to Latin: We have come to see the emperor."
+      answer: "<latin>VENIMUS UT IMPERATOREM VIDEREMUS / AD IMPERATOREM VIDENDUM / IMPERATOREM VISUM</latin>"
+    boni:
+      - question: "Translate: The emperor persuaded us to come."
+        answer: "<latin>IMPERATOR NOBIS UT VENIREMUS PERSUASIT</latin>"
+      - question: "Translate: We will have to see the emperor."
+        answer: "<latin>IMPERATOR NOBIS VIDENDUS ERIT</latin>"

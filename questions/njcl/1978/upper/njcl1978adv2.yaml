@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Round 2
+questions:
+  - tossup:
+      question: "Translate: <latin>Caesar senatus consulta recepit</latin>."
+      answer: "CAESAR RECEIVED THE DECREES OF THE SENATE"
+    boni:
+      - question: "Translate: <latin>Oratio Ciceronis ab ducentis senatoribus audita est</latin>."
+        answer: "CICERO'S ORATION WAS HEARD BY TWO HUNDRED SENATORS"
+      - question: "Translate: <latin>Vulgus extra curiam fortiter plausit</latin>."
+        answer: "THE CROWD OUTSIDE THE SENATE HOUSE APPLAUDED LOUDLY"
+  - tossup:
+      question: "Who was invincible as long as he was in touch with his mother, the earth goddess?"
+      answer: "ANTAEUS"
+    boni:
+      - question: "How had Achilles acquired his invulnerability?"
+        answer: "THETIS HAD DIPPED HIM IN THE STY"
+      - question: "Who was the mortal baby Demeter tried to make invulnerable?"
+        answer: "DEMOPHON (OR TRIPTOLEMUS)"
+  - tossup:
+      question: "What was the civil crisis of 494 BC?"
+      answer: "THE SECESSION OF THE PLEBS"
+    boni:
+      - question: "Who convinced them to return with an analogy of the city to the human body?"
+        answer: "MENENIUS"
+      - question: "What was constructed to commemorate the harmony agreed to?"
+        answer: "THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "Who was the earliest and greatest of the Greek epicists?"
+      answer: "HOMER"
+    boni:
+      - question: "Into how many books is the <title>Iliad</title> divided?"
+        answer: "24"
+      - question: "What Greek poet, author of the Theogony and the Works and Days, follows Homer by a century or so?"
+        answer: "HESIOD"
+  - tossup:
+      question: "What is the nominative plural of <latin>vultus</latin>?"
+      answer: "<latin>VULTUS</latin>"
+    boni:
+      - question: "For the genitive singular third declension form <latin>orbis</latin>, give the nominative singular."
+        answer: "<latin>ORBIS</latin>"
+      - question: "For the genitive singular third declension form <latin>stirpis</latin>, give the nominative singular."
+        answer: "<latin>STIRPS</latin>"
+  - tossup:
+      question: "Change <latin>nolunt</latin> to the singular."
+      answer: "<latin>NON VULT</latin>"
+    boni:
+      - question: "Change <latin>nolo</latin> to plural."
+        answer: "<latin>NOLUMUS</latin>"
+      - question: "Change <latin>nolo</latin> to future."
+        answer: "<latin>NOLAM</latin>"
+  - tossup:
+      question: "What was the curse of Cassandra?"
+      answer: "UNERRING BUT UNBELIEVED PROPHECIES"
+    boni:
+      - question: "What had she done to earn this curse?"
+        answer: "SCORNED APOLLO'S AFFECTIONS"
+      - question: "What was her fate after the Trojan War?"
+        answer: "SHE WAS TAKEN HOME BY AGAMEMNON AND MURDERED WITH HIM."
+  - tossup:
+      question: "Which of the emperors of 69 AD lived to see 70 AD?"
+      answer: "(T. FLAVIUS) VESPASIAN(US)"
+    boni:
+      - question: "Who had preceded him?"
+        answer: "(A.) VITELLIUS"
+      - question: "Who preceded Vitellius?"
+        answer: "(M. SALVIUS) OTHO"
+  - tossup:
+      question: "Who was the major historian living in Augustus' era?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What was the title of his work?"
+        answer: "<latin><title>AB URBE CONDITA</title></latin>"
+      - question: "How many books did it contain?"
+        answer: "142"
+  - tossup:
+      question: "In what case would you find the object of <latin>parco</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "In what case would you find the object of <latin>vescor</latin>?"
+        answer: "ABLATIVE"
+      - question: "In what case would you find the object of <latin>moneo</latin>?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "What type of verbs exist only in the perfect system?"
+      answer: "DEFECTIVE"
+    boni:
+      - question: "Using a defective verb, translate: I cannot remember."
+        answer: "<latin>NON POSSUM MEMINISSE</latin>"
+      - question: "Using a defective verb, translate: I will always hate Rome."
+        answer: "<latin>>SEMPER ROMAM ODERO</latin>"
+  - tossup:
+      question: "Who was the mother of the Muses?"
+      answer: "MNEMOSYNE"
+    boni:
+      - question: "What mountain was sacred to them?"
+        answer: "HELICON"
+      - question: "What was the native Italic version of the Muses?"
+        answer: "<latin>CAMENAE</latin>"
+  - tossup:
+      question: "Who betrayed Rome for the gold on the enemy soldiers' arms?"
+      answer: "TARPEIA"
+    boni:
+      - question: "Who were the enemy?"
+        answer: "THE SABINES"
+      - question: "What did they do with Tarpeia?"
+        answer: "CRUSHED HER BENEATH THEIR SHIELDS"
+  - tossup:
+      question: "To whom did Cicero address his work <latin><title>De Officiīs</title></latin>?"
+      answer: "HIS SON, MARCUS"
+    boni:
+      - question: "Which of his orations was in support of a friend's case for citizenship?"
+        answer: "<latin><title>PRO ARCHIĀ</title></latin>"
+      - question: "Which of his orations was on behalf of a famous actor?"
+        answer: "<latin><title>PRO ROSCIŌ COMOEDŌ</title></latin>"
+  - tossup:
+      question: "<latin>Responde Latine: Quot manus habes</latin>?"
+      answer: "<latin>DUAS</latin>"
+    boni:
+      - question: "<latin>Quot crura habes</latin>?"
+        answer: "<latin>DUO</latin>"
+      - question: "<latin>Quot digiti in utraque manu sunt</latin>?"
+        answer: "<latin>QUINQUE</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>veto</latin>?"
+      answer: "<latin>VETUISSE</latin>"
+    boni:
+      - question: "What is its future active infinitive?"
+        answer: "<latin>VETITURUM ESSE</latin>"
+      - question: "What is its present active infinitive?"
+        answer: "<latin>VETARE</latin>"
+  - tossup:
+      question: "During what event did Eris throw the golden apple?"
+      answer: "THE WEDDING OF PELEUS AND THETIS"
+    boni:
+      - question: "What disrupted the wedding of Pirithous and Hippodamia?"
+        answer: "THE BATTLE OF THE LAPITHS AND CENTAURS"
+      - question: "Who was the king of the Lapiths?"
+        answer: "PEIRITHOÜS"
+  - tossup:
+      question: "Who was a trusted advisor to Augustus as well as his son-in-law?"
+      answer: "(M. VIPSANIUS) AGRIPPA"
+    boni:
+      - question: "Who was Augustus' promiscuous daughter to whom Agrippa was married?"
+        answer: "JULIA"
+      - question: "Who were their three sons?"
+        answer: "GAIUS, LUCIUS AND POSTUMUS"
+  - tossup:
+      question: "What was the site of Ovid's exile?"
+      answer: "TOMIS, IN DACIA"
+    boni:
+      - question: "What was the site of his birth?"
+        answer: "SULMO"
+      - question: "What was the year of his birth?"
+        answer: "43 BC"
+  - tossup:
+      question: "Which of the following does not come from <latin>cedo</latin>: antecedent, success, secession, supersede?"
+      answer: "SUPERSEDE"
+    boni:
+      - question: "What verb is the root of supersede?"
+        answer: "<latin>SEDEO</latin>"
+      - question: "Which two of the following words have the same root: consensus, censorious, descend, senseless?"
+        answer: "CONSENSUS AND SENSELESS"

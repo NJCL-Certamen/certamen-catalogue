@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Round 4
+questions:
+  - tossup:
+      question: "<latin>Responde Latine. Quot umeros habes</latin>?"
+      answer: "<latin>DUO(S)</latin>"
+    boni:
+      - question: "<latin>Quot menta habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot calces habes</latin>?"
+        answer: "<latin>DUAS</latin>"
+  - tossup:
+      question: "Who was the wife of Cadmus?"
+      answer: "HARMONIA"
+    boni:
+      - question: "Who was his sister?"
+        answer: "EUROPA"
+      - question: "Who was his father?"
+        answer: "AGENOR"
+  - tossup:
+      question: "What Roman woman swam the Tiber to freedom?"
+      answer: "CLOELIA"
+    boni:
+      - question: "Who was the Etruscan king holding her captive?"
+        answer: "LARS PORSENA"
+      - question: "Who burned off his hand in a show of bravado to Porsena?"
+        answer: "(GAIUS MUCIUS) SCAEVOLA"
+  - tossup:
+      question: "What Roman dramatist's works include the titles <title>Medea, Oedipus</title> and <title>Thyestes</title>?"
+      answer: "SENECA THE YOUNGER (THE PHILOSPHER)"
+    boni:
+      - question: "What was his father's genre?"
+        answer: "RHETORIC"
+      - question: "Where were both Senecae born?"
+        answer: "CORDUBA, SPAIN"
+  - tossup:
+      question: "What is the perfect passive infinitive of <latin>scribo</latin>?"
+      answer: "<latin>SCRIPTUM ESSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive?"
+        answer: "<latin>SCRIPSISSE</latin>"
+      - question: "Translate: We shall have written."
+        answer: "<latin>SCRIPSERIMUS</latin>"
+  - tossup:
+      question: "What is the Latin word for bronze?"
+      answer: "<latin>AES</latin>"
+    boni:
+      - question: "What idiomatic phrase with <latin>aes</latin> means debt?"
+        answer: "<latin>AES ALIENUM</latin>"
+      - question: "What is the ablative of this phrase?"
+        answer: "<latin>AERE ALIENO</latin>"
+  - tossup:
+      question: "What was the name of a race of men sprung from ants?"
+      answer: "MYRMIDONS"
+    boni:
+      - question: "What was the race of warriors sprung from Cadmus' dragon teeth?"
+        answer: "THE SPARTOI"
+      - question: "What other hero watched men grow from dragon's teeth?"
+        answer: "JASON"
+  - tossup:
+      question: "Who was Rome's first Christian emperor?"
+      answer: "CONSTANTINE I / THE GREAT"
+    boni:
+      - question: "What was the year of the battle of the Mulvian Bridge?"
+        answer: "312 AD"
+      - question: "What rival commanded the army Constantine's forces defeated there?"
+        answer: "MAXENTIUS"
+  - tossup:
+      question: "Whom does Vergil call Tyrians?"
+      answer: "CARTHAGINIANS"
+    boni:
+      - question: "Who is Elissa?"
+        answer: "DIDO"
+      - question: "Who is meant when the dying Dido says: <latin>Exoriare aliquis nostris ex, ossibus ultor</latin>?"
+        answer: "HANNIBAL (BARCA)"
+  - tossup:
+      question: "What English noun comes from the Latin verb <latin>scindo</latin>?"
+      answer: "SCISSORS"
+    boni:
+      - question: "Which of the following is not a derivative of <latin>sto</latin>: status, distant, constant, thermostat?"
+        answer: "THERMOSTAT"
+      - question: "What is arable land?"
+        answer: "LAND WHICH CAN BE PLOWED"
+  - tossup:
+      question: "What is the meaning of <latin>cum primum</latin>?"
+      answer: "AS SOON AS"
+    boni:
+      - question: "What is the meaning of <latin>quam celerrime</latin>?"
+        answer: "AS QUICKLY AS POSSIBLE"
+      - question: "What is the meaning of <latin>saepius</latin>?"
+        answer: "MORE OFTEN"
+  - tossup:
+      question: "What is the name of the band of chieftains led by Polyneices in his attempt to gain back Oedipus' throne?"
+      answer: "THE SEVEN AGAINST THEBES"
+    boni:
+      - question: "Who alone of the seven survived?"
+        answer: "ADRASTUS"
+      - question: "What was the later expedition composed of the descendants of the seven?"
+        answer: "THE EPIGONI"
+  - tossup:
+      question: "What commander's troops met almost total annihilation in 9 AD?"
+      answer: "(P. QUINCTILIUS) VARUS'"
+    boni:
+      - question: "Where was the disaster?"
+        answer: "THE TEUTOBERG FOREST, GERMANY"
+      - question: "Who was the enemy chieftain?"
+        answer: "ARMINIUS"
+  - tossup:
+      question: "What work by Cicero contains the <title><latin>Somnum Scipionis</latin></title>?"
+      answer: "<latin><title>DE RE PUBLICA</title></latin>"
+    boni:
+      - question: "Who was the other great orator of Cicero's day?"
+        answer: "HORTENSIUS (HORTALUS)"
+      - question: "At whom did Cicero direct his Philippic Orations?"
+        answer: "MARC(US) ANTONY / ANTONIUS"
+  - tossup:
+      question: "What effect would the conjunction <latin>nisi</latin> have on the pronoun <latin>aliquis</latin>?"
+      answer: "THE <latin>ALI-</latin> WOULD BE DROPPED"
+    boni:
+      - question: "What Latin adverb indicates that the expected answer to the question is no?"
+        answer: "<latin>NUM</latin>"
+      - question: "What indicates that yes is expected?"
+        answer: "<latin>NONNE</latin>"
+  - tossup:
+      question: "What is the third person plural perfect active indicative of <latin>cognosco</latin>?"
+      answer: "<latin>COGNOVERUNT</latin>"
+    boni:
+      - question: "Change <latin>cognoverunt</latin> to subjunctive."
+        answer: "<latin>COGNOVERINT</latin>"
+      - question: "Change <latin>cognoverint</latin> to passive."
+        answer: "<latin>COGNITI SINT</latin>"
+  - tossup:
+      question: "What princess was the last delay of Ulysses?"
+      answer: "NAUSICAÄ"
+    boni:
+      - question: "What was the name of her people?"
+        answer: "PHAEACIANS"
+      - question: "Who was their king?"
+        answer: "ALCINOÜS"
+  - tossup:
+      question: "What statesman committed suicide rather than face life under Julius Caesar's absolute rule?"
+      answer: "(M. PORCIUS) CATO THE YOUNGER"
+    boni:
+      - question: "What North African city was his home?"
+        answer: "UTICA"
+      - question: "What was the battle fought between the Caesarians and the republicans in 46 BC?"
+        answer: "THE BATTLE OF THAPSUS"
+  - tossup:
+      question: "Who completed Caesar's work <latin><title>De Bellō Gallicō</title></latin>?"
+      answer: "AULUS HIRTIUS"
+    boni:
+      - question: "Which book in the <title>Commentaries</title> did he write?"
+        answer: "VIII"
+      - question: "In which work of Cicero's are Caesar's rhetorical skills lauded?"
+        answer: "<title></latin>BRUTUS / DE CLARIS ORATORIBUS</latin></title>"
+  - tossup:
+      question: "What would you be in English if in Latin you were an <latin>aurifex</latin>?"
+      answer: "A GOLDSMITH"
+    boni:
+      - question: "What would you be if you were a <latin>pistor</latin>?"
+        answer: "BAKER"
+      - question: "What would you be if you were a <latin>latro</latin>?"
+        answer: "THIEF"

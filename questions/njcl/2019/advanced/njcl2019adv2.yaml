@@ -71,9 +71,9 @@ questions:
       question: "Of the words <latin>fūr, hērōs, caupōna, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Correpēns humī, virginem pulcherrimam momordī quae nūper uxor Orpheī facta erat.</latin>"
       answer: "<latin>ANGUIS</latin>"
     boni:
-      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Sī viātor</latin> fessus <latin>fīat</latin>, velit <latin>mē</latin> quaerere ut bene <latin>illīc</latin> dormiat.</latin>"
+      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Sī viātor fessus fīat, velit mē quaerere ut bene illīc dormiat.</latin>"
         answer: "<latin>CAUPŌNA</latin>"
-      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Nisi <latin>vigilēs</latin> apud <latin>tē</latin> fuissent, omnia quam <latin>vēlōcissimē</latin> rapuissem.</latin>"
+      - question: "Of the words <latin>fūr, hērōs, caupōna</latin>, imber</latin>, and <latin>anguis</latin>, which is being described in this Latin sentence: <latin>Nisi vigilēs apud tē fuissent, omnia quam vēlōcissimē rapuissem</latin>."
         answer: "<latin>FŪR</latin>"
   - tossup:
       question: "When Caesar invaded Italy in 49 BC, across what sea did Pompey flee?"

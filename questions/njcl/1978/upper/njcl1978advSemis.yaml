@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Semifinals
+questions:
+  - tossup:
+      question: "<latin>Responde Latine. Quot pulmones habes</latin>?"
+      answer: "<latin>DUO(S)</latin>"
+    boni:
+      - question: "<latin>Quot iecora habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot supercilia habes</latin>?"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "Who was the father of Medea?"
+      answer: "AEËTES"
+    boni:
+      - question: "Where on Cochis was his fortress?"
+        answer: "AEA"
+      - question: "Who was his son killed and dismembered by Medea?"
+        answer: "ABSYRTUS"
+  - tossup:
+      question: "How many battles were fought at Philippi between the Caesarians and the tyrannicides?"
+      answer: "TWO"
+    boni:
+      - question: "After which did Cassius take his own life?"
+        answer: "AFTER THE FIRST"
+      - question: "What was the exact date of the second battle?"
+        answer: "OCTOBER 23, 42 BC"
+  - tossup:
+      question: "What <latin>praenomen</latin> is shared by Vergil and Ovid?"
+      answer: "PUBLIUS"
+    boni:
+      - question: "What was Ovid's <latin>cognomen</latin>?"
+        answer: "NASO"
+      - question: "What was Vergil's?"
+        answer: "MARO"
+  - tossup:
+      question: "What tense of the subjunctive is required for a present contrary-to-fact condition?"
+      answer: "IMPERFECT"
+    boni:
+      - question: "Translate to English: <latin>Si dives essem, felix essem</latin>."
+        answer: "IF I WERE RICH, I WOULD BE HAPPY"
+      - question: "Translate to English: <latin>Nisi heri vicissemus, hodie non certaremus</latin>."
+        answer: "IF WE HADN'T WON YESTERDAY, TODAY WE WOULDN'T BE PLAYING CERTAMEN"
+  - tossup:
+      question: "What kind of tree is an <latin>ulmus</latin>?"
+      answer: "ELM"
+    boni:
+      - question: "What kind is a <latin>quercus</latin>?"
+        answer: "OAK"
+      - question: "What kind is a <latin>ficus</latin>?"
+        answer: "FIG"
+  - tossup:
+      question: "Who at the age of a few hours invented the lyre and stole his half-brother Apollo's horses?"
+      answer: "MERCURY"
+    boni:
+      - question: "What herb did Mercury give Ulysses to protect him from Circe's powers?"
+        answer: "MOLY"
+      - question: "What were Mercury's winged sandals called?"
+        answer: "<latin>TALARIA</latin>"
+  - tossup:
+      question: "What posthumous penalty was exacted on Domitian?"
+      answer: "<latin>DAMNATIO MEMORIAE</latin>"
+    boni:
+      - question: "Who succeeded him?"
+        answer: "NERVA"
+      - question: "Whom did Nerva adopt as his son and successor?"
+        answer: "TRAJAN"
+  - tossup:
+      question: "What Roman author wrote a biography of his father-in-law, a provincial governor?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "What was the name of the work and the subject?"
+        answer: "(CN. IULIUS) AGRICOLA"
+      - question: "What historian, almost contemporary with Tacitus, was the author of the <title>Lives of the Twelve Caesars</title>?"
+        answer: "(C.) SUETONIUS (TRANQUILLUS)"
+  - tossup:
+      question: "Translate into one Latin word: I had been present."
+      answer: "<latin>ADFUERAM</latin>"
+    boni:
+      - question: "Translate into Latin: Marcus said that I had been present."
+        answer: "<latin>MARCUS DIXIT ME ADFUISSE</latin>"
+      - question: "Translate into Latin: Marcus said that I would be present."
+        answer: "<latin>MARCUS DIXIT ME ADFUTURUM ESSE</latin>"
+  - tossup:
+      question: "What is the third person singular pluperfect passive subjunctive of <latin>vinco</latin>?"
+      answer: "<latin>VICTUS ESSET</latin>"
+    boni:
+      - question: "Change <latin>victus esset</latin> to active."
+        answer: "<latin>VICISSET</latin>"
+      - question: "Change <latin>vicisset</latin> to perfect."
+        answer: "<latin>VICERIT</latin>"
+  - tossup:
+      question: "Who was changed into a kingfisher out of grief for her drowned husband?"
+      answer: "ALCYONE"
+    boni:
+      - question: "Who betrayed her father Nisus because of her passion for the attacking Minos?"
+        answer: "SCYLLA"
+      - question: "What was it which guaranteed Nisus' safety as long as he kept it?"
+        answer: "A PURPLE LOCK OF HAIR"
+  - tossup:
+      question: "Whom did Augustus first select as his heir?"
+      answer: "(HIS NEPHEW) MARCELLUS"
+    boni:
+      - question: "Who was Augustus' first wife?"
+        answer: "SCRIBONIA (CLAUDIA)"
+      - question: "Who was the first wife of Tiberius, whom Augustus forced him to divorce so he could marry Julia?"
+        answer: "VIPSANIA (AGRIPPINA)"
+  - tossup:
+      question: "As part of what conspiracy was Seneca the Younger forced to take his own life by Nero?"
+      answer: "THE PISONIAN CONSPIRACY"
+    boni:
+      - question: "Who was Seneca the Younger's author nephew?"
+        answer: "(M. ANNAEUS) LUCAN(US)"
+      - question: "Where was Lucan born?"
+        answer: "CORDUBA"
+  - tossup:
+      question: "What is the present passive infinitive of <latin>traho</latin>?"
+      answer: "<latin>TRAHI</latin>"
+    boni:
+      - question: "What is the third person plural perfect active subjunctive of <latin>traho</latin>?"
+        answer: "<latin>TRAXERINT</latin>"
+      - question: "Change <latin>traxerint</latin> to passive."
+        answer: "<latin>TRACTĪ SINT</latin>"
+  - tossup:
+      question: "What is the dative plural of <latin>bos</latin>?"
+      answer: "<latin>BOBUS</latin>"
+    boni:
+      - question: "What is the dative plural of <latin>sus</latin>?"
+        answer: "<latin>SUBUS / SUIBUS</latin>"
+      - question: "What is the dative plural of <latin>os</latin>, bone?"
+        answer: "<latin>OSSIBUS</latin>"
+  - tossup:
+      question: "Who killed the villain Procrustes?"
+      answer: "THESEUS"
+    boni:
+      - question: "What was the name of the Pine-Bender?"
+        answer: "SINIS"
+      - question: "What villain killed by Theseus compelled passersby to wash his feet and kicked them over a cliff as they did so?"
+        answer: "SC(E)IRON"
+  - tossup:
+      question: "Who refused a place in the first triumvirate?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "Who took the place he refused?"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "Where did Crassus die?"
+        answer: "CARRHAE"
+  - tossup:
+      question: "What device is in play when Cupid is called <latin>Amor</latin> or ivory <latin>elephantus</latin>?"
+      answer: "METONYMY"
+    boni:
+      - question: "What is the name for the repetition of copulative conjunctions?"
+        answer: "POLYSYNDETON"
+      - question: "What is the name for the omission of copulative conjunctions?"
+        answer: "ASYNDETON"
+  - tossup:
+      question: "What Latin adverb is an English legal noun and means in Latin “somewhere else”?"
+      answer: "ALIBI"
+    boni:
+      - question: "What English phrase is an unchanged Latin ablative absolute and means “with the situation turned around”?"
+        answer: "VICE VERSA"
+      - question: "What is an English word, unchanged from the Latin, which means judge or mediator?"
+        answer: "ARBITER"

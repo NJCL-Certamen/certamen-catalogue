@@ -24,10 +24,10 @@ questions:
       - question: "Translate <latin>fatalis</latin>."
         answer: "FATEFUL"
   - tossup:
-      question: "To whom is Cicero's <latin><title>De Officiis</title</latin> addressed?"
+      question: "To whom is Cicero's <latin><title>De Officiis</title></latin> addressed?"
       answer: "HIS SON, MARCUS"
     boni:
-      - question: "In what incredibly prolific year did Cicero compose many of his philosophical works, including <title>Hortensius, <latin>De Consolatione, De Finibus</latin, The Tusculan Disputations</title>, and <title><latin>De Natura Deorum</latin></title>?"
+      - question: "In what incredibly prolific year did Cicero compose many of his philosophical works, including <title>Hortensius, <latin>De Consolatione, De Finibus</latin>, The Tusculan Disputations</title>, and <title><latin>De Natura Deorum</latin></title>?"
         answer: "45 BC"
       - question: "What is the earliest surviving complete orations of Cicero?"
         answer: "<latin><title>PRO ROSCIO AMERINO</title></latin> (<latin><title>Pro Quinctio</title></latin> is earlier, but fragmentary)"

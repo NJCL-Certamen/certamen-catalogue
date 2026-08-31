@@ -13,7 +13,7 @@ import re
 TAG_REGEX = r"<(latin|title|emphasis)>"
 
 def check_tags(input: str) -> bool:
-    match = re.match(TAG_REGEX, input)
+    match = re.search(TAG_REGEX, input)
     if match == None:
       return True
     
@@ -24,7 +24,7 @@ def check_tags(input: str) -> bool:
       print(f"Invalid unclosed {match.group(1)} tag in {input}")
       return False
 
-    if check_tags(input[match.end() + 1:end_index]) == False:
+    if check_tags(input[match.end():end_index]) == False:
       return False
     
     if end_index + len(close_tag) >= len(input) or input[end_index + len(close_tag)] == None:

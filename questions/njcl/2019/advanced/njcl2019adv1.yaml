@@ -36,12 +36,12 @@ questions:
       - question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: quae erant <latin>nōmina fīliōrum Vespasiānī quī ambō imperātōrēs factī</latin> sunt?</latin>"
         answer: "<latin>TITUS (FLAVIUS VESPASIANUS) ET DOMITIANUS</latin> / TITUS & DOMITIAN"
   - tossup:
-      question: "<latin>Quid <latin>Anglicē</latin> significat <latin>nōnnumquam</latin>?"
+      question: "<latin>Quid Anglicē significat nōnnumquam</latin>?"
       answer: "SOMETIMES / NOT NEVER"
     boni:
-      - question: "<latin>Quid <latin>Anglicē</latin> significat <latin>nōnnūsquam</latin>?"
+      - question: "<latin>Quid Anglicē significat nōnnūsquam</latin>?"
         answer: "SOMEWHERE / NOT NOWHERE"
-      - question: "<latin>Quid <latin>Anglicē</latin> significat <latin>nōnnūllī</latin>?"
+      - question: "<latin>Quid Anglicē significat nōnnūllī</latin>?"
         answer: "SOME / SEVERAL / NOT NONE"
   - tossup:
       question: "What goddess refused marriage with both Poseidon and Apollo, preferring to remain a virgin and tend to the home and the hearth?"
@@ -61,12 +61,12 @@ questions:
         answer: "<latin>AGER</latin> – FIELD"
   - tossup:
       question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī mīmōs, cuneōs, saltātōrēs</latin>, et scaenam <latin>vidēbant</latin>?"
-      answer: "<latin>(IN) <latin>THEĀTRŌ</latin> // AD / APUD <latin>THEĀTRUM</latin> // (IN / AT) THE THEATER // <latin>(IN) <latin>FĀBULĀ RĪCĪNIĀTĀ</latin> / (IN A) MIME (IF ONLY “<latin>THEĀTRUM</latin>” IS GIVEN PROMPT FOR “MORE INFORMATION”)"
+      answer: "<latin>(IN) THEĀTRŌ // AD / APUD THEĀTRUM</latin> // (IN / AT) THE THEATER // <latin>(IN) FĀBULĀ RĪCĪNIĀTĀ</latin> / (IN A) MIME (IF ONLY “<latin>THEĀTRUM</latin>” IS GIVEN PROMPT FOR “MORE INFORMATION”)"
     boni:
       - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī</latin> camillum, <latin>nōdum Herculāneum</latin>, flammeum, et farreum <latin>lībum vidēbant</latin>?"
-        answer: "<latin>APUD / AD <latin>NŪPTIĀS / CŌNFARREĀTIŌNEM</latin> // IN <latin>NŪPTIĪS / CŌNFARREĀTIŌNE</latin>"
-      - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī ostreās, ōva</latin>, carnem, <latin>lēctōs</latin>, et ferculum <latin>inveniēbant</latin>?"
-        answer: "<latin>AD / APUD <latin>TRICLĪNIUM</latin> // (IN) <latin>TRICLĪNIŌ</latin>"
+        answer: "<latin>APUD / AD NŪPTIĀS / CŌNFARREĀTIŌNEM // IN NŪPTIĪS / CŌNFARREĀTIŌNE</latin>"
+      - question: "<latin>Respondē Latīnē: Ubi Rōmānī ostreās, ōva, carnem, lēctōs, et ferculum inveniēbant</latin>?"
+        answer: "<latin>AD / APUD TRICLĪNIUM // (IN) TRICLĪNIŌ</latin>"
   - tossup:
       question: "What substance was provided for the Trojan forces by Euneüs, led to the death of the Athenian Icarius, was given to Odysseus by Maron in twelve jars, and had Dionysus as its divine patron?"
       answer: "WINE"
@@ -121,7 +121,7 @@ questions:
     boni:
       - question: "What is the case and reason of “Italians” in the following sentence: <latin>nēmō Italōrum Rōmānōs</latin> vincere potuit.</latin>"
         answer: "PARTITIVE GENITIVE (GENITIVE OF THE WHOLE)"
-      - question: "What is the case and reason of “age” in the following sentence: <latin>tertiam <latin>aetātem</latin> hominum <latin>vīvēbat</latin>.</latin>"
+      - question: "What is the case and reason of “age” in the following sentence: <latin>tertiam aetātem hominum vīvēbat</latin>."
         answer: "COGNATE ACCUSATIVE or DURATION OF TIME"
   - tossup:
       question: "Against which enemy did the Romans begin a conflict in Oscan territory when the city of Capua requested aid against marauders in 343 BC?"

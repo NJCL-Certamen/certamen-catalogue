@@ -87,13 +87,13 @@ questions:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Mīrābile dictū, deī deaeque temporibus antīquissimīs virōs vīsitābant.  Homērus, poēta clārissimus, nōbīs nārrat deam Minervam Tēlemachum vīsitāvisse ad eum hortandum ut patrem eius quaereret.  Tēlemachus, autem, quod Minerva sē aliēnā veste occultāverat, nescīvit deam ipsam sē vīsitāre</latin>. The question: <latin>Quis <latin>nōbīs nārrat</latin> deam <latin>Tēlemachum vīsitāvisse</latin>?"
       answer: "<latin>HOMĒRUS / POĒTA</latin> (<latin>CLĀRISSMUS NŌBĪS NĀRRAT</latin>)</latin>"
     boni:
-      - question: "<latin>Quid Minerva <latin>Tēlemachum hortāta</latin> est ut faceret?</latin>"
+      - question: "<latin>Quid Minerva Tēlemachum hortāta est ut faceret?</latin>"
         answer: "<latin>UT PATREM (EIUS) QUAERERET / INVENĪRET / REPERĪRET</latin>"
-      - question: "<latin>Cūr Tēlemachus nescīvit deam ipsam sē vīsitāre</latin>? QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
-        answer: "<latin>QUOD MINERVA/DEA <latin>SĒ</latin> (<latin>ALIĒNĀ</latin> VESTE) <latin>OCCULTĀVERAT</latin>/<latin>OCCULTĀVIT</latin>/<latin>OCCULTĀBAT</latin>"
+      - question: "<latin>Cūr Tēlemachus nescīvit deam ipsam sē vīsitāre</latin>?"
+        answer: "<latin>QUOD MINERVA/DEA SĒ (ALIĒNĀ VESTE) OCCULTĀVERAT / OCCULTĀVIT / OCCULTĀBAT</latin>"
   - tossup:
       question: "Degree and agree may differ by only a letter or two, but they come from two different Latin roots. Identify the ultimate Latin roots of both degree and agree."
-      answer: "DEGREE - <latin>GRADIOR / <latin>GRADĪ</latin> // GRADUS</latin>, AGREE - <latin>GRĀTUS</latin>"
+      answer: "DEGREE - <latin>GRADIOR / GRADĪ // GRADUS</latin>, AGREE - <latin>GRĀTUS</latin>"
     boni:
       - question: "The English word “tense” has two distinct meanings. “Tense” can be an aspect of a verb that indicates time, or it can be an adjective that means “rigid or stretched tight.” Both of these meanings come from two different Latin words. Identify the Latin roots for both uses of the word tense."
         answer: "TENSE (noun) – <latin>TEMPUS</latin>, TENSE (adjective) – <latin>TENDŌ</latin> / TENDERE</latin>"
@@ -119,10 +119,10 @@ questions:
       question: "What work of Latin literature features the characters Quartilla, Ascyltus, Giton, and Encolpius?"
       answer: "<title><latin>SATYRICON</latin></title>"
     boni:
-      - question: "What collection of poems contains the <latin><title><latin>Cīris</latin></title></latin> and the <latin><title><latin>Morētum</latin></title></latin>?"
-        answer: "<title><latin>APPENDIX <latin>VERGILIĀNA</latin> / VERGILIAN APPENDIX</title>"
+      - question: "What collection of poems contains the <latin><title>Cīris</title></latin> and the <latin><title>Morētum</title></latin>?"
+        answer: "<title><latin>APPENDIX VERGILIĀNA</latin> / VERGILIAN APPENDIX</title>"
       - question: "What author wrote a collection of satires which features the characters Naevolus, Virro, and Umbricius?"
-        answer: "JUVENAL"
+        answer: "(D. IUNIUS) JUVENAL(IS)"
   - tossup:
       question: "Disturbed by the sudden sound of rustling leaves while cooling himself on a hot day, who threw his unerring spear into a nearby bush, striking and killing his wife Procris?"
       answer: "CEPHALUS"
@@ -149,14 +149,14 @@ questions:
         answer: "CARTHAGE"
   - tossup:
       question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>: Ubi <latin>Rōmānī dēsultōrēs, venetōs, bīgās</latin>, et <latin>spīnam vidērent</latin>?"
-      answer: "<latin>(IN) <latin>CIRCŌ</latin> (<latin>MAXIMŌ</latin>)</latin> / (IN THE) CIRCUS (MAXIMUS)"
+      answer: "<latin>(IN) CIRCŌ (MAXIMŌ)</latin> / (IN THE) CIRCUS (MAXIMUS)"
     boni:
       - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī ōllās, titulōs, columbārium</latin>, et <latin>sarcophagōs vidērent</latin>?</latin>"
-        answer: "<latin>(IN) <latin>SEPULCRŌ / TUMULŌ</latin>"
-      - question: "<latin>Respondē Latīnē</latin>: Ubi <latin>Rōmānī</latin> molam, <latin>catīllum, frūmentum</latin>, et <latin>pistōrem invenīrent</latin>?</latin>"
-        answer: "<latin>(IN) <latin>PISTRĪNĀ</latin>"
+        answer: "<latin>(IN) SEPULCRŌ / TUMULŌ</latin>"
+      - question: "<latin>Respondē Latīnē: Ubi Rōmānī molam, catīllum, frūmentum, et pistōrem invenīrent</latin>?"
+        answer: "<latin>(IN) PISTRĪNĀ</latin>"
   - tossup:
-      question: "What character is Vergil describing in the following lines from the <title>Aeneid</title>? “<latin>Portitor <latin>hās</latin> horrendus <latin>aquās</latin> et <latin>flūmina</latin> servat / <latin>terribilī squālōre</latin>.</latin>”"
+      question: "What character is Vergil describing in the following lines from the <title>Aeneid</title>? “<latin>Portitor hās horrendus aquās et flūmina servat / terribilī squālōre</latin>.”"
       answer: "CHARON"
     boni:
       - question: "In the <title>Aeneid</title>, who says, “<latin>Rēs dūra</latin> et <latin>rēgnī novitās mē tālia cōgunt</latin>/ <latin>mōlīrī</latin>, et <latin>lātē fīnīs custōde tuērī</latin>.</latin>”"

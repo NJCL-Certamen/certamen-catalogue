@@ -27,10 +27,10 @@ def check_tags(input: str) -> bool:
     if check_tags(input[match.end():end_index]) == False:
       return False
     
-    if end_index + len(close_tag) >= len(input) or input[end_index + len(close_tag)] == None:
+    if end_index + len(close_tag) >= len(input):
       return True
     else:
-      return check_tags(input[end_index + len(close_tag)])
+      return check_tags(input[end_index + len(close_tag):])
 
 def process_file(file: Path) -> bool:
     if not file.exists():

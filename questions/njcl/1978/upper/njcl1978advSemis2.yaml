@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What is the Latin word for summer?"
+      answer: "<latin>AESTAS</latin>"
+    boni:
+      - question: "What is the Latin word for spring?"
+        answer: "<latin>VER</latin>"
+      - question: "What is the Latin word for winter?"
+        answer: "<latin>HIEMS / BRUMA</latin>"
+  - tossup:
+      question: "Who were the two immortal Gorgons?"
+      answer: "STHENO AND EURYALE"
+    boni:
+      - question: "Who were the three old women who shared a tooth and an eye?"
+        answer: "THE GRAIAE"
+      - question: "Who was the betrothed of Andromeda when Perseus entered the picture?"
+        answer: "PHINEUS (HER UNCLE)"
+  - tossup:
+      question: "Who was the father of Alexander?"
+      answer: "PHILIP II OF MACEDON"
+    boni:
+      - question: "Who was Alexander's tutor?"
+        answer: "ARISTOTLE"
+      - question: "What was Alexander's age at his death?"
+        answer: "32"
+  - tossup:
+      question: "Who was the author of <title>The Frogs, The Wasps</title> and <title>The Birds</title>?"
+      answer: "ARISTOPHANES"
+    boni:
+      - question: "What other Greek comedic playwright wrote <title>Arbitration, The Girl from Samos</title> and <title>The Miser</title>?"
+        answer: "MENANDER"
+      - question: "What Greek satirist wrote <title>Dialogues of the Dead</title>, <title>Dialogues of the Gods</title> and <title>Icaromenippus</title>?"
+        answer: "LUCIAN"
+  - tossup:
+      question: "What Latin present active participle contracts to form the Latin adjective <latin>prudens</latin>?"
+      answer: "<latin>PROVIDENS</latin>"
+    boni:
+      - question: "What Latin adjective contracts to the noun <latin>bruma</latin>?"
+        answer: "<latin>BREVISSIMA</latin>"
+      - question: "What infinitive contracts to <latin>fore</latin>?"
+        answer: "<latin>FUTURUM ESSE</latin>"
+  - tossup:
+      question: "Which of the following is not a derivative of <latin>vix</latin>: vicarious, vicissitude, vicious, vice versa?"
+      answer: "VICIOUS"
+    boni:
+      - question: "Which of the following is not a derivative of <latin>vinco</latin>: evict, victuals, victim, Vincent?"
+        answer: "VICTUALS"
+      - question: "Which of the following is not a derivative of <latin>cado</latin>: cadence, cadet, occasion, casualty?"
+        answer: "CADET"
+  - tossup:
+      question: "Where did Theseus abandon Ariadne?"
+      answer: "NAXOS (DIA)"
+    boni:
+      - question: "Who, according to some legends, found her there and married her?"
+        answer: "BACCHUS"
+      - question: "Whom did Theseus marry?"
+        answer: "HIPPOLYTA (LATER PHAEDRA)"
+  - tossup:
+      question: "Who was insulted by Appius Claudius?"
+      answer: "VERGINIA"
+    boni:
+      - question: "What was her father's reaction?"
+        answer: "HE KILLED HER"
+      - question: "What political upheaval resulted?"
+        answer: "THE OVERTHROW OF THE DECEMVIRS"
+  - tossup:
+      question: "What is the name of the epic of Lucretius?"
+      answer: "<title><latin>DE RERUM NATURA</latin></title>"
+    boni:
+      - question: "How many books does it contain?"
+        answer: "SIX"
+      - question: "What philosopher's tenets are explained and espoused by Lucretius?"
+        answer: "EPICURUS'"
+  - tossup:
+      question: "Using <latin>disco</latin>, translate: I have learned."
+      answer: "<latin>DIDICI</latin>"
+    boni:
+      - question: "Using <latin>posco</latin>, translate: I have demanded."
+        answer: "<latin>POPOSCI</latin>"
+      - question: "What types of perfect are these?"
+        answer: "REDUPLICATED"
+  - tossup:
+      question: "Translate into the genitive the phrase “one whole day.”"
+      answer: "<latin>UNIUS TOTIUS DIEI</latin>"
+    boni:
+      - question: "Translate into Latin: We will remain for three days."
+        answer: "<latin>TRES DIES MANEBIMUS.</latin>"
+      - question: "Translate into Latin: We will leave in three days."
+        answer: "<latin>TRIBUS DIEBUS EGREDIEMUR.</latin>"
+  - tossup:
+      question: "Whom did Demeter punish with insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "What god had Sisyphus offended?"
+        answer: "ZEUS"
+      - question: "Who was the father of the centaurs?"
+        answer: "IXION"
+  - tossup:
+      question: "What battle did the Romans win in 168 BC?"
+      answer: "PYDNA"
+    boni:
+      - question: "Who were the enemy?"
+        answer: "THE MACEDONIANS"
+      - question: "The Roman commander at Pydna to some degree avenged the death in battle of his father some 48 years before. What was the name of both men?"
+        answer: "(L.) AEMILIUS PAULLUS"
+  - tossup:
+      question: "What character in the <title>Aeneid</title> says <latin>Parce metu, Cytherea</latin>?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who is being addressed?"
+        answer: "VENUS"
+      - question: "Who says: <latin>Infandum regina iubes renovare dolorem</latin>?"
+        answer: "AENEAS"
+  - tossup:
+      question: "What is the second person plural perfect active indicative of <latin>mitto</latin>?"
+      answer: "<latin>MISISTIS</latin>"
+    boni:
+      - question: "What is the third person singular pluperfect active subjunctive of <latin>cedo</latin>?"
+        answer: "<latin>CESSISSET</latin>"
+      - question: "Change <latin>cessisset</latin> to indicative."
+        answer: "<latin>CESSERAT</latin>"
+  - tossup:
+      question: "Translate into English: <latin>Cum exercitus hostium victus esset, Romani laetati sunt</latin>."
+      answer: "WHEN THE ENEMY'S ARMY HAD BEEN DEFEATED, THE ROMANS REJOICED."
+    boni:
+      - question: "Change the dependent clause to an ablative absolute."
+        answer: "<latin>EXERCITŪ HOSTIUM VICTŌ</latin>"
+      - question: "Change the independent clause to use a semi-deponent verb."
+        answer: "<latin>ROMANĪ GAVISĪ SUNT</latin>."
+  - tossup:
+      question: "Which two gods built the walls of Troy?"
+      answer: "APOLLO AND POSEIDON"
+    boni:
+      - question: "Who defrauded them of their payment?"
+        answer: "LAOMEDON"
+      - question: "What was Poseidon's revenge?"
+        answer: "HE SENT A SEA-MONSTER"
+  - tossup:
+      question: "What was the title of the slave that led a Roman boy to school?"
+      answer: "<latin>PAEDAGOGUS</latin>"
+    boni:
+      - question: "What was the name of a slave's personal savings, by which he might eventually purchase his freedom?"
+        answer: "<latin>PECULIUM</latin>"
+      - question: "Who was Cicero's freedman secretary?"
+        answer: "TIRO"
+  - tossup:
+      question: "Who wrote a satire in which an emperor is not deified but pumpkinified?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "Who is the emperor?"
+        answer: "CLAUDIUS"
+      - question: "What is the name of the satire?"
+        answer: "<title><latin>APOCOLOCYNTOSIS</latin></title>"
+  - tossup:
+      question: "What is the more traditional genitive plural of <latin>deus</latin>?"
+      answer: "<latin>DEUM</latin>"
+    boni:
+      - question: "Name another second declension noun which can be found with a genitive plural in <latin>-um</latin> rather than <latin>-orum</latin>."
+        answer: "<latin>VIR, NUMMUS, DIVUS, SUPERUS</latin>"
+      - question: "What word for god is always used for a deified human?"
+        answer: "<latin>DIVUS</latin>"

@@ -239,6 +239,12 @@ links:
   year: 2022
   division: Intermediate
   round: Round 2
+- rel: 2022 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov2.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice
+  round: Round 2
 - rel: 2022 NJCL Certamen Novice Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov1.yaml
   tournament: NJCL Certamen

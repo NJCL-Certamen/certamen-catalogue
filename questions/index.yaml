@@ -1,532 +1,10 @@
 links:
-- rel: 1975 NJCL Certamen Advanced Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv4.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Round 4
-- rel: 1975 NJCL Certamen Advanced Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advFinals.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Finals
-- rel: 1975 NJCL Certamen Advanced Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Semifinals 2
-- rel: 1975 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv3.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Round 3
-- rel: 1975 NJCL Certamen Advanced Unknown Round
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advUnknown.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Unknown Round
-- rel: 1975 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv1.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Round 1
-- rel: 1975 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Semifinals
-- rel: 1975 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv2.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Advanced
-  round: Round 2
-- rel: 1975 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int2.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Round 2
-- rel: 1975 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Round 3
-- rel: 1975 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int1.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Round 1
-- rel: 1975 NJCL Certamen Intermediate Third Place Round
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3rdPlace.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Third Place Round
-- rel: 1975 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intFinals.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Finals
-- rel: 1975 NJCL Certamen Intermediate Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Semifinals 2
-- rel: 1975 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis.yaml
-  tournament: NJCL Certamen
-  year: 1975
-  division: Intermediate
-  round: Semifinals
-- rel: 1978 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv2.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Round 2
-- rel: 1978 NJCL Certamen Advanced Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978advSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Semifinals 2
-- rel: 1978 NJCL Certamen Advanced Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv4.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Round 4
-- rel: 1978 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978advSemis.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Semifinals
-- rel: 1978 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv3.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Round 3
-- rel: 1978 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv1.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Advanced
-  round: Round 1
-- rel: 1978 NJCL Certamen Intermediate Semifinals 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis3.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Semifinals 3
-- rel: 1978 NJCL Certamen Intermediate Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int4.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Round 4
-- rel: 1978 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intFinals.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Finals
-- rel: 1978 NJCL Certamen Intermediate Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Semifinals 2
-- rel: 1978 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int2.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Round 2
-- rel: 1978 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int3.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Round 3
-- rel: 1978 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int1.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Round 1
-- rel: 1978 NJCL Certamen Intermediate Round 5
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int5.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Round 5
-- rel: 1978 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis.yaml
-  tournament: NJCL Certamen
-  year: 1978
-  division: Intermediate
-  round: Semifinals
-- rel: 2022 NJCL Certamen Advanced Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022advFinals.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Advanced
-  round: Finals
-- rel: 2022 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv2.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Advanced
-  round: Round 2
-- rel: 2022 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv3.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Advanced
-  round: Round 3
-- rel: 2022 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022advSemis.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Advanced
-  round: Semifinals
-- rel: 2022 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv1.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Advanced
-  round: Round 1
-- rel: 2022 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int3.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Intermediate
-  round: Round 3
-- rel: 2022 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int1.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Intermediate
-  round: Round 1
-- rel: 2022 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022intSemis.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Intermediate
-  round: Semifinals
-- rel: 2022 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022intFinals.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Intermediate
-  round: Finals
-- rel: 2022 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int2.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Intermediate
-  round: Round 2
-- rel: 2022 NJCL Certamen Novice Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov2.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Novice
-  round: Round 2
-- rel: 2022 NJCL Certamen Novice Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov1.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Novice
-  round: Round 1
-- rel: 2022 NJCL Certamen Novice Division Round Three
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov3.yaml
-  tournament: NJCL Certamen
-  year: 2022
-  division: Novice Division
-  round: Round Three
-- rel: 1977 NJCL Certamen Advanced Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advFinals.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Finals
-- rel: 1977 NJCL Certamen Advanced Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv4.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Round 4
-- rel: 1977 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv1.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Round 1
-- rel: 1977 NJCL Certamen Advanced Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Semifinals 2
-- rel: 1977 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv3.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Round 3
-- rel: 1977 NJCL Certamen Advanced Semifinals 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis3.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Semifinals 3
-- rel: 1977 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Semifinals
-- rel: 1977 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv2.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Advanced
-  round: Round 2
-- rel: 1977 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int1.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Round 1
-- rel: 1977 NJCL Certamen Intermediate Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Semifinals 2
-- rel: 1977 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int3.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Round 3
-- rel: 1977 NJCL Certamen Intermediate Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int4.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Round 4
-- rel: 1977 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intFinals.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Finals
-- rel: 1977 NJCL Certamen Intermediate Semifinals 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis3.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Semifinals 3
-- rel: 1977 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Semifinals
-- rel: 1977 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int2.yaml
-  tournament: NJCL Certamen
-  year: 1977
-  division: Intermediate
-  round: Round 2
-- rel: 1976 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv1.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Round 1
-- rel: 1976 NJCL Certamen Advanced Third Place Round
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv3rdPlace.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Third Place Round
-- rel: 1976 NJCL Certamen Advanced Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Semifinals 2
-- rel: 1976 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv3.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Round 3
-- rel: 1976 NJCL Certamen Advanced Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv4.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Round 4
-- rel: 1976 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advSemis.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Semifinals
-- rel: 1976 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv2.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Round 2
-- rel: 1976 NJCL Certamen Advanced Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advFinals.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Advanced
-  round: Finals
-- rel: 1976 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int3.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 3
-- rel: 1976 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int1.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 1
-- rel: 1976 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int2.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 2
-- rel: 1976 NJCL Certamen Intermediate Round 5
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int5.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 5
-- rel: 1976 NJCL Certamen Intermediate Round 6
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int6.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 6
-- rel: 1976 NJCL Certamen Intermediate Semifinals 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis2.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Semifinals 2
-- rel: 1976 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Semifinals
-- rel: 1976 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intFinals.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Finals
-- rel: 1976 NJCL Certamen Intermediate Semifinals 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis3.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Semifinals 3
-- rel: 1976 NJCL Certamen Intermediate Round 4
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int4.yaml
-  tournament: NJCL Certamen
-  year: 1976
-  division: Intermediate
-  round: Round 4
-- rel: 2019 NJCL Certamen Advanced Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv2.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Advanced
-  round: Round 2
-- rel: 2019 NJCL Certamen Advanced Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019advFinals.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Advanced
-  round: Finals
-- rel: 2019 NJCL Certamen Advanced Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv1.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Advanced
-  round: Round 1
-- rel: 2019 NJCL Certamen Advanced Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019advSemis.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Advanced
-  round: Semifinals
-- rel: 2019 NJCL Certamen Advanced Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv3.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Advanced
-  round: Round 3
-- rel: 2019 NJCL Certamen Intermediate Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019intFinals.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Intermediate
-  round: Finals
-- rel: 2019 NJCL Certamen Intermediate Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int3.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Intermediate
-  round: Round 3
-- rel: 2019 NJCL Certamen Intermediate Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int2.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Intermediate
-  round: Round 2
-- rel: 2019 NJCL Certamen Intermediate Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int1.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Intermediate
-  round: Round 1
-- rel: 2019 NJCL Certamen Intermediate Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019intSemis.yaml
-  tournament: NJCL Certamen
-  year: 2019
-  division: Intermediate
-  round: Semifinals
-- rel: 2019 NJCL Certamen Novice Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/novice/njcl2019novFinals.yaml
+- rel: 2019 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/novice/njcl2019nov3.yaml
   tournament: NJCL Certamen
   year: 2019
   division: Novice
-  round: Finals
+  round: Round 3
 - rel: 2019 NJCL Certamen Novice Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/novice/njcl2019nov1.yaml
   tournament: NJCL Certamen
@@ -545,9 +23,567 @@ links:
   year: 2019
   division: Novice
   round: Round 2
-- rel: 2019 NJCL Certamen Novice Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/novice/njcl2019nov3.yaml
+- rel: 2019 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/novice/njcl2019novFinals.yaml
   tournament: NJCL Certamen
   year: 2019
   division: Novice
+  round: Finals
+- rel: 2019 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv2.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Advanced
+  round: Round 2
+- rel: 2019 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv3.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Advanced
   round: Round 3
+- rel: 2019 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019advSemis.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Advanced
+  round: Semifinals
+- rel: 2019 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019adv1.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Advanced
+  round: Round 1
+- rel: 2019 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/advanced/njcl2019advFinals.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Advanced
+  round: Finals
+- rel: 2019 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int3.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Intermediate
+  round: Round 3
+- rel: 2019 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019intFinals.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Intermediate
+  round: Finals
+- rel: 2019 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int1.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Intermediate
+  round: Round 1
+- rel: 2019 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019int2.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Intermediate
+  round: Round 2
+- rel: 2019 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2019/intermediate/njcl2019intSemis.yaml
+  tournament: NJCL Certamen
+  year: 2019
+  division: Intermediate
+  round: Semifinals
+- rel: 1976 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv2.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Round 2
+- rel: 1976 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv3.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Round 3
+- rel: 1976 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Semifinals
+- rel: 1976 NJCL Certamen Advanced Third Place Round
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv3rdPlace.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Third Place Round
+- rel: 1976 NJCL Certamen Advanced Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv4.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Round 4
+- rel: 1976 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Semifinals 2
+- rel: 1976 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Finals
+- rel: 1976 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv1.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Advanced
+  round: Round 1
+- rel: 1976 NJCL Certamen Intermediate Round 6
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int6.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 6
+- rel: 1976 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int1.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 1
+- rel: 1976 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Semifinals
+- rel: 1976 NJCL Certamen Intermediate Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int4.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 4
+- rel: 1976 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Semifinals 2
+- rel: 1976 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int2.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 2
+- rel: 1976 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int3.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 3
+- rel: 1976 NJCL Certamen Intermediate Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Semifinals 3
+- rel: 1976 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Finals
+- rel: 1976 NJCL Certamen Intermediate Round 5
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/lower/njcl1976int5.yaml
+  tournament: NJCL Certamen
+  year: 1976
+  division: Intermediate
+  round: Round 5
+- rel: 1996 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996adv1.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Advanced
+  round: Round 1
+- rel: 1996 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996adv2.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Advanced
+  round: Round 2
+- rel: 1996 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Advanced
+  round: Semifinals
+- rel: 1996 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996adv3.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Advanced
+  round: Round 3
+- rel: 1996 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Advanced
+  round: Finals
+- rel: 2022 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov2.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice
+  round: Round 2
+- rel: 2022 NJCL Certamen Novice Division Round Three
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov3.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice Division
+  round: Round Three
+- rel: 2022 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov1.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice
+  round: Round 1
+- rel: 2022 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv1.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Advanced
+  round: Round 1
+- rel: 2022 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv2.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Advanced
+  round: Round 2
+- rel: 2022 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022adv3.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Advanced
+  round: Round 3
+- rel: 2022 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022advSemis.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Advanced
+  round: Semifinals
+- rel: 2022 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/advanced/njcl2022advFinals.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Advanced
+  round: Finals
+- rel: 2022 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int1.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Intermediate
+  round: Round 1
+- rel: 2022 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int3.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Intermediate
+  round: Round 3
+- rel: 2022 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022intSemis.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Intermediate
+  round: Semifinals
+- rel: 2022 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022int2.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Intermediate
+  round: Round 2
+- rel: 2022 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/intermediate/njcl2022intFinals.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Intermediate
+  round: Finals
+- rel: 1975 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Semifinals 2
+- rel: 1975 NJCL Certamen Advanced Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv4.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Round 4
+- rel: 1975 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv2.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Round 2
+- rel: 1975 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv1.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Round 1
+- rel: 1975 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975adv3.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Round 3
+- rel: 1975 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Semifinals
+- rel: 1975 NJCL Certamen Advanced Unknown Round
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advUnknown.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Unknown Round
+- rel: 1975 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/upper/njcl1975advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Advanced
+  round: Finals
+- rel: 1975 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Semifinals
+- rel: 1975 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int1.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Round 1
+- rel: 1975 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Semifinals 2
+- rel: 1975 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int2.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Round 2
+- rel: 1975 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Round 3
+- rel: 1975 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Finals
+- rel: 1975 NJCL Certamen Intermediate Third Place Round
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1975/lower/njcl1975int3rdPlace.yaml
+  tournament: NJCL Certamen
+  year: 1975
+  division: Intermediate
+  round: Third Place Round
+- rel: 1977 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv2.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Round 2
+- rel: 1977 NJCL Certamen Advanced Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Semifinals 3
+- rel: 1977 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Round 3
+- rel: 1977 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv1.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Round 1
+- rel: 1977 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Semifinals 2
+- rel: 1977 NJCL Certamen Advanced Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977adv4.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Round 4
+- rel: 1977 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Finals
+- rel: 1977 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/upper/njcl1977advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Advanced
+  round: Semifinals
+- rel: 1977 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Semifinals 2
+- rel: 1977 NJCL Certamen Intermediate Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int4.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Round 4
+- rel: 1977 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Semifinals
+- rel: 1977 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Round 3
+- rel: 1977 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Finals
+- rel: 1977 NJCL Certamen Intermediate Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977intSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Semifinals 3
+- rel: 1977 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int2.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Round 2
+- rel: 1977 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1977/lower/njcl1977int1.yaml
+  tournament: NJCL Certamen
+  year: 1977
+  division: Intermediate
+  round: Round 1
+- rel: 1978 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv2.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Round 2
+- rel: 1978 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv3.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Round 3
+- rel: 1978 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv1.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Round 1
+- rel: 1978 NJCL Certamen Advanced Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978adv4.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Round 4
+- rel: 1978 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Semifinals 2
+- rel: 1978 NJCL Certamen Advanced Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978advSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Semifinals 3
+- rel: 1978 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/upper/njcl1978advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Advanced
+  round: Semifinals
+- rel: 1978 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Semifinals
+- rel: 1978 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int1.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 1
+- rel: 1978 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Semifinals 2
+- rel: 1978 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int3.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 3
+- rel: 1978 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int2.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 2
+- rel: 1978 NJCL Certamen Intermediate Semifinals 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intSemis3.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Semifinals 3
+- rel: 1978 NJCL Certamen Intermediate Round 5
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int5.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 5
+- rel: 1978 NJCL Certamen Intermediate Round 4
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978int4.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Round 4
+- rel: 1978 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1978/lower/njcl1978intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1978
+  division: Intermediate
+  round: Finals

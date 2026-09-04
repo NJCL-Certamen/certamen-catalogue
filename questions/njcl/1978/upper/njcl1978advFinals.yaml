@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Finals
+questions:
+  - tossup:
+      question: "Change to passive the verb form <latin>faciam</latin>."
+      answer: "<latin>FIAM</latin>"
+    boni:
+      - question: "What idiom with <latin>facio</latin> means to inform?"
+        answer: "<latin>CERTIOREM FACERE</latin>"
+      - question: "Which of the following is not derived from <latin>facio</latin>: fashion, malfeasance, misfit, surfeit?"
+        answer: "MISFIT"
+  - tossup:
+      question: "Who besides Orestes was pursued by the Furies for matricide?"
+      answer: "ALCMAEON"
+    boni:
+      - question: "Who were Alcmaeon's parents?"
+        answer: "AMPHIARAÜS AND ERIPHYLE"
+      - question: "What miracle did Zeus grant to Alcmaeon's widow Callirhoe?"
+        answer: "HE ALLOWED HER SONS ACARNAN AND AMPHOTERUS TO GROW TO MANHOOD IN A SINGLE DAY TO AVENGE ALCMAEON'S MURDER."
+  - tossup:
+      question: "What title was officially granted to Octavian by the Senate in 29 BC?"
+      answer: "<latin>IMPERATOR</latin>"
+    boni:
+      - question: "What is the exact date of the Senate's bestowal on him of the title Augustus?"
+        answer: "JANUARY 16, 27 BC"
+      - question: "What is the exact date of Julius Caesar's deification by the Senate?"
+        answer: "JANUARY 1, 42 BC"
+  - tossup:
+      question: "Who wrote a work called the <latin><title>Carmen Saeculare</title></latin>?"
+      answer: "HORACE"
+    boni:
+      - question: "What work by Horace is a treatise in verse on the writing of verse?"
+        answer: "THE <latin><title>ARS POETICA</title></latin>"
+      - question: "What Greek philosopher wrote a prose work on the same subject entitled Poetics?"
+        answer: "ARISTOTLE"
+  - tossup:
+      question: "What even more alliterative Latin proverb has been translated into the alliterative English “Forewarned is forearmed”?"
+      answer: "<latin>PRAEMONITUS PRAEMUNITUS</latin>"
+    boni:
+      - question: "What is the translation of the formulaic phrase <latin>di duint</latin>?"
+        answer: "MAY THE GODS GRANT IT"
+      - question: "What is the classical Latin form for <latin>duint</latin>?"
+        answer: "<latin>DENT</latin>"
+  - tossup:
+      question: "L-I-B-E-R. When this means “book,” is the I short or long?"
+      answer: "SHORT"
+    boni:
+      - question: "Which of the following is not from the adjective <latin>līber</latin>: livery, delivery, deliberate, liberal?"
+        answer: "DELIBERATE"
+      - question: "What familiar English abbreviation is related to the root of deliberate?"
+        answer: "LB"
+  - tossup:
+      question: "What is the first of the four tasks imposed on Psyche by Aphrodite?"
+      answer: "THE SORTING OF GRAIN"
+    boni:
+      - question: "How is it done for her?"
+        answer: "ANTS DO IT"
+      - question: "What is her last task?"
+        answer: "FETCHING A JAR OF PERSEPHONE'S BEAUTY"
+  - tossup:
+      question: "What was the name of the son of Julius Caesar and Cleopatra?"
+      answer: "CAESARION"
+    boni:
+      - question: "Which of the tyrannicides was the son of Caesar's long-time mistress?"
+        answer: "(M. IUNIUS) BRUTUS"
+      - question: "Which of the tyrannicides had been Caesar's first father-in-law?"
+        answer: "CINNA"
+      - question: "Who ordered Caesar to divorce his first wife, but was refused?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "What Greek poet is Catullus translating rather literally when he writes: <latin>Ille mi par esse deo videtur</latin>?"
+      answer: "SAPPHO"
+    boni:
+      - question: "What sort of person is an epinician ode written to?"
+        answer: "A VICTOR IN WAR OR ATHLETICS"
+      - question: "What Greek poet is best known for his epinician odes?"
+        answer: "PINDAR"
+  - tossup:
+      question: "What is the dative of <latin>nemo</latin>?"
+      answer: "<latin>NEMINI</latin>"
+    boni:
+      - question: "What is the ablative?"
+        answer: "<latin>NULLO</latin>"
+      - question: "What is the accusative?"
+        answer: "<latin>NEMINEM</latin>"
+  - tossup:
+      question: "What distinguishes the perfect stems of <latin>cado</latin> and <latin>caedo</latin>?"
+      answer: "<latin>CADO</latin>'S IS <latin>CECIDI</latin>, <latin>CAEDO</latin>'S IS <latin>CECĪDI</latin>"
+    boni:
+      - question: "Which of them yields the English decide?"
+        answer: "<latin>CAEDO</latin>"
+      - question: "Which of them yields the English circumcision?"
+        answer: "<latin>CAEDO</latin>"
+  - tossup:
+      question: "Who fought in the womb and throughout life with his brother Acrisius?"
+      answer: "PROËTUS"
+    boni:
+      - question: "Who was Proëtus' perfidious wife?"
+        answer: "ANT(E)IA / STHENEBOEA"
+      - question: "Whom did she unjustly accuse of raping her?"
+        answer: "BELLEROPHON"
+  - tossup:
+      question: "What son of a famous father shared the consulate with Augustus in the fall of 30 BC?"
+      answer: "MARCUS TULLIUS CICERO"
+    boni:
+      - question: "From what year to what year was Octavian continuously consul?"
+        answer: "31 TO 23 BC"
+      - question: "What was the term for a consul appointed to complete another's term?"
+        answer: "<latin>CONSUL SUFFECTUS</latin>"
+  - tossup:
+      question: "From what work is the <latin><title>Cena Trimalchionis?</title></latin>"
+      answer: "<title>SATYRICON</title>"
+    boni:
+      - question: "Who is the hero of Apuleius' <title>Metamorphoses</title>, also known as <title>The Golden Ass</title>?"
+        answer: "LUCIUS"
+      - question: "What love story of mythology takes up almost three of the eleven books in the <title>Metamorphoses</title> of Apuleius?"
+        answer: "THE STORY OF CUPID AND PSYCHE"
+  - tossup:
+      question: "Change <latin>vis</latin> to the subjunctive."
+      answer: "<latin>VELIS</latin>"
+    boni:
+      - question: "Make <latin>velis</latin> negative."
+        answer: "<latin>NOLIS</latin>"
+      - question: "Change <latin>audeo</latin> to the perfect subjunctive."
+        answer: "<latin>AUSIM</latin>"
+  - tossup:
+      question: "<latin>Responde Latine: Quot pollices habes</latin>?"
+      answer: "<latin>DUO(S)</latin>"
+    boni:
+      - question: "<latin>Quot talos habes</latin>?"
+        answer: "<latin>DUO(S)</latin>"
+      - question: "<latin>Quot cubita habes</latin>?"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "What ally of Troy was a son of Aurora?"
+      answer: "MEMNON"
+    boni:
+      - question: "Where was Memnon king?"
+        answer: "ETHIOPIA"
+      - question: "Who was Memnon's brother, by various tales king of Egypt or Arabia?"
+        answer: "EMATHION"
+  - tossup:
+      question: "What was the Latin term for the ritual sacrifice of a pig, a sheep and a bull?"
+      answer: "<latin>SUOVETAURILIA</latin>"
+    boni:
+      - question: "Where did a triumphal procession begin?"
+        answer: "<latin>THE CAMPUS MARTIUS</latin>"
+      - question: "Where did it end?"
+        answer: "THE TEMPLE OF CAPITOLINE JUPITER"
+  - tossup:
+      question: "What character in the <title>Aeneid</title> says: <latin>Tu regere imperio populos, Romane, memento?</latin>"
+      answer: "ANCHISES"
+    boni:
+      - question: "To whom does Aeneas say: <latin>Italiam non sponte sequor</latin>?"
+        answer: "DIDO"
+      - question: "Who says: <latin>Facilis descensus Averno</latin>?"
+        answer: "THE SIBYL"
+  - tossup:
+      question: "What is the exact date in Roman dating of the death of Julius Caesar?"
+      answer: "<latin>IDUS MARTIAE AUC DCCX</latin>"
+    boni:
+      - question: "What is the exact date of Cicero's death?"
+        answer: "<latin>DIE SEPTIMO ANTE IDUS DECEMBRES DCCXI</latin>"
+      - question: "What is the exact date of the eruption of Vesuvius?"
+        answer: "<latin>DIE NONO ANTE KALENDAS SEPTEMBRES DCCCXXXII</latin>"

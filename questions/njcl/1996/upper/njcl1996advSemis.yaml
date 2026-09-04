@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Translate into English: <latin>Negant sē servōs fustibus verberāvīsse.</latin>"
+      answer: "THEY DENY THAT THEY BEAT (HAVE BEATEN) THE SLAVES WITH CLUBS or THEY SAY THAT THEY DID NOT BEAT (HAVE NOT BEATEN) THE SLAVES WITH CLUBS"
+    boni:
+      - question: "Translate into English: <latin>Duo vīcīnī dīcunt servōs gladiōs interfectōs esse.</latin>"
+        answer: "TWO NEIGHBORS SAY THAT THE SLAVES WERE KILLED WITH SWORDS"
+      - question: "Translate into English: <latin>Scīmus eōs homōcidī argūtum īrī.</latin>"
+        answer: "WE KNOW THAT THEY WILL BE CHARGED WITH MURDER / HOMICIDE"
+  - tossup:
+      question: "When Jupiter was pursuing Juturna, who warned her and told Juno what was going on?"
+      answer: "LARA"
+    boni:
+      - question: "Who was Lara's father?"
+        answer: "THE TIBER"
+      - question: "Lara bore Mercury what deities?"
+        answer: "THE LARES"
+  - tossup:
+      question: "What was unusual about the home of Aeolus, the King of the Winds?"
+      answer: "FLOATING ISLAND (ENCLOSED BY A RAMPART OF BRONZE)"
+    boni:
+      - question: "Where did Aeolus keep the winds?"
+        answer: "IN A CAVE"
+      - question: "Who was his wife?"
+        answer: "CYANE or ENARETE"
+  - tossup:
+      question: "Give the two supines of <latin>rapiō</latin>."
+      answer: "<latin>RAPTUM & RAPTU</latin>"
+    boni:
+      - question: "Give the gerunds of <latin>rapiō</latin>."
+        answer: "<latin>RAPIENDĪ, -AE, -UM, (-AE)</latin>"
+      - question: "Give the perfect active infinitive of <latin>rapiō</latin>."
+        answer: "<latin>RAPUISSE</latin>"
+  - tossup:
+      question: "In which of his speeches did Cicero unsuccessfully defend his client against the charge of murdering Clodius?"
+      answer: "<title><latin>PRO MILONE</latin></title>"
+    boni:
+      - question: "In which of his speeches did Cicero defend his client against the charge of poisoning a certain Oppianicus?"
+        answer: "<title><latin>PRO CLUENTIO</latin></title>"
+      - question: "In which of his speeches did Cicero defend the claim of a Greek poet to Roman citizenship?"
+        answer: "<title><latin>PRO ARCHIĀ</latin></title>"
+  - tossup:
+      question: "What is the Latin term for days favorable for work and business?"
+      answer: "<latin>DIES FASTI</latin>"
+    boni:
+      - question: "What is the Latin term for days unfavorable for work and business?"
+        answer: "<latin>DIES NEFASTI</latin>"
+      - question: "What is the Latin term for days which are the anniversaries of Roman defeats or disasters?"
+        answer: "<latin>DIES ATRI</latin>"
+  - tossup:
+      question: "Spell the Latin word for which <latin>ain</latin> is a contraction (moderator says, “A - I - N.”)."
+      answer: "<latin>AISNE</latin>"
+    boni:
+      - question: "Of what is <latin>sultis</latin> a contraction?"
+        answer: "<latin>SI VULTIS</latin>"
+      - question: "Of what is <latin>faxim</latin> an alternate form?"
+        answer: "<latin>FECERIM</latin>"
+  - tossup:
+      question: "What Latin conjunction would introduce the dependent subjunctive clause for this sentence: “She speaks so that she may persuade them more easily.”"
+      answer: "<latin>QUŌ</latin>"
+    boni:
+      - question: "The boy was so tired that he went to bed."
+        answer: "<latin>UT</latin>"
+      - question: "We fear that Carthage will not be captured."
+        answer: "<latin>UT</latin>"
+  - tossup:
+      question: "Who was the first native Italian to write Latin literature?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "Naevius was imprisoned and died in exile because of his clash with what powerful Roman family?"
+        answer: "THE METELLI"
+      - question: "Although Naevius is best known for his epic <title>Bellum Poenicum</title>, he wrote at least two <latin>fabulae praetextae</latin>. Name one."
+        answer: "ROMULUS / CLASTIDIUM"
+  - tossup:
+      question: "Translate the Ciceronian idiom <latin>obvius esse</latin>."
+      answer: "TO MEET"
+    boni:
+      - question: "<latin>legem rogāre</latin>."
+        answer: "TO PROPOSE / INTRODUCE A LAW"
+      - question: "<latin>id temporis</latin>."
+        answer: "AT THAT TIME / THEN"
+  - tossup:
+      question: "What son of Nestor was one of Helen’s suitors?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "From whom did Antilochus take second place by cheating in the chariot race at Patroclus’ funeral games?"
+        answer: "MENELAUS (ANTILOCHUS CONFESSED AND CEDED THE PRIZE)"
+      - question: "By whom was Antilochus killed while defending Nestor in battle?"
+        answer: "MEMNON"
+  - tossup:
+      question: "What Athenian archon had the epithet “the just”?"
+      answer: "ARIST(E)IDES"
+    boni:
+      - question: "Who was his political rival?"
+        answer: "THEMISTOCLES"
+      - question: "What punishment did Themistocles machinate for Aristides?"
+        answer: "OSTRACISM"
+  - tossup:
+      question: "Which emperor moved his imperial residence to Ravenna because he felt it was more secure?"
+      answer: "HONORIUS"
+    boni:
+      - question: "What Visigoth caused Honorius’ insecurity?"
+        answer: "ALARIC"
+      - question: "Ravenna had been an important city in the empire prior to Honorius’ move. What military force had Augustus based there in 49 B.C.?"
+        answer: "ADRIATIC / EASTERN FLEET"
+  - tossup:
+      question: "What derivative of <latin>salīre</latin> meaning “to jump” is an English adjective meaning “lustful”?"
+      answer: "SALACIOUS"
+    boni:
+      - question: "What related Latin adjective means “lustful”?"
+        answer: "SALAX"
+      - question: "What Latin adjective meaning “shrewd” is formed by changing just one letter in <latin>salax</latin>?"
+        answer: "<latin>SAGAX</latin>"
+  - tossup:
+      question: "Who wrote the following lines of poetry? <latin>Tā mihi & sōla domus, & tā, & Cynthia, & sōla parēntīs, omnia & tā nōs & trāe & tempora & laetitiae.</latin>"
+      answer: "(SEX.) PROPERTIUS"
+    boni:
+      - question: "What is the meter of the preceding lines?"
+        answer: "ELEGIAC (COUPLETS)"
+      - question: "Who was Propertius’ literary patron?"
+        answer: "(C. CILNIUS) MAECENAS"
+  - tossup:
+      question: "What goddess had the epithet <latin>Pandēmos</latin>?"
+      answer: "APHRODITE"
+    boni:
+      - question: "Which of her epithets means “she who rises up”?"
+        answer: "ANADYOMENE"
+      - question: "Which of her epithets means “heavenly”?"
+        answer: "URANIA"
+  - tossup:
+      question: "Listen carefully to the following paragraph, which I will read twice, and answer in English the question about it. <latin>Cum Antonius ad thermās cum paedagōgō ambulāret, animadvertit poētam recitantem novissima carmina magnā studiō. Antonius, dēfessus itinere, et paedagōgus officiōsus constitērunt sub arbore ut poētam bene audīrent.</latin>"
+      answer: "WITH WHOM WAS ANTONIUS WALKING?"
+    boni:
+      - question: "What was the poet doing when Antonius saw him?"
+        answer: "RECITING (THE NEWEST) POEMS (WITH GREAT EAGERNESS)"
+      - question: "Why did Antonius and his pedagogue sit under a tree?"
+        answer: "TO HEAR THE POET WELL"
+  - tossup:
+      question: "Which of the assassins of Julius Caesar had escaped from the disaster at Carrhae, where he had served as one of Crassus’ quaestors?"
+      answer: "(C.) CASSIUS (LONGINUS)"
+    boni:
+      - question: "Which of the assassins of Caesar had distinguished himself with a naval victory over the Veneti in 56 BC?"
+        answer: "DECIMUS (IUNIUS) BRUTUS"
+      - question: "Which of the assassins of Caesar was the first to strike a blow on the Ides of March, 44 BC?"
+        answer: "(P. SERVILIUS) CASCA (LONGUS)"
+  - tossup:
+      question: "Whose school of philosophy got its name because he liked to walk around while he talked?"
+      answer: "ARISTOTLE’S"
+    boni:
+      - question: "What was the school’s name, which derived from this practice?"
+        answer: "PERIPATETIC"
+      - question: "What other name of his school came from an epithet of Apollo, to whom the grove where he taught was sacred?"
+        answer: "LYCEUM"
+  - tossup:
+      question: "The Greek and Roman gods are often described as anthropomorphic. According to its roots, what does “anthropomorphic” mean?"
+      answer: "HAVING THE SHAPE OF MAN; i.e. having human attributes"
+    boni:
+      - question: "What cognate English word is the study of word formations in linguistics?"
+        answer: "MORPHOLOGY"
+      - question: "What cognate English word is a linguistic unit that cannot be divided into smaller meaningful parts?"
+        answer: "MORPHEME"

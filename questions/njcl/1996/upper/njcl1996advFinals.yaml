@@ -1,0 +1,145 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What hero established the Olympic games?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Heracles/Hercules won all of the contests in the first Olympic Games. For five points each, name two of the prizes given to him by the gods."
+        answer: "ROBE (ATHENA), HORSES (POSEIDON), CLUB & COAT OF MAIL (HEPHAESTUS), SWORD (HERMES), BOW & ARROWS (APOLLO)"
+  - tossup:
+      question: "Translate the following Latin sentence into English: <latin>Mīlitēs nōn poterant continērī quīn in urbem irrumpērent.</latin>"
+      answer: "THE SOLDIERS COULDN’T BE CONTAINED FROM BURSTING INTO THE CITY"
+    boni:
+      - question: "<latin>Nihil tam difficile est quīn discī possit.</latin>"
+        answer: "NOTHING IS SO DIFFICULT THAT IT CAN’T BE LEARNED"
+      - question: "<latin>Quīn dīligentius audiās.</latin>"
+        answer: "WHY DON’T YOU LISTEN MORE CAREFULLY"
+  - tossup:
+      question: "The Romans played games and gambled with <latin>tali</latin>. How many sides of a <latin>talus</latin> could have numbers printed on them?"
+      answer: "FOUR"
+    boni:
+      - question: "How many <latin>tali</latin> were used at a time?"
+        answer: "FOUR"
+      - question: "Our modern dice have six numbered faces. What would a Roman call that, instead of a <latin>talus</latin>?"
+        answer: "TESSERA"
+  - tossup:
+      question: "Differentiate in meaning between <latin>marmor</latin> and <latin>murmur</latin>."
+      answer: "<latin>MARMOR</latin> -- MARBLE, MARBLE BUILDING / SEA; <latin>MURMUR</latin> -- MURMUR, GRUMBLING"
+    boni:
+      - question: "Differentiate in meaning between <latin>ebur</latin> and <latin>āber</latin>."
+        answer: "<latin>EBUR</latin> -- IVORY / ELEPHANT; <latin>ĀBER</latin> -- FERTILE, PRODUCTIVE or noun TEAT, UDDER"
+      - question: "Differentiate in meaning between <latin>lippus</latin> and <latin>lepus</latin>."
+        answer: "<latin>LIPPUS</latin> -- SORE-EYED, INFLAMED; <latin>LEPUS</latin> -- HARE"
+  - tossup:
+      question: "What English word derived via French from Latin words meaning “not” and “hot” is used to describe a person who is “casually unconcerned”?"
+      answer: "NONCHALANT"
+    boni:
+      - question: "What English word derived via French from the Latin word meaning “cover” is used in English to describe someone “whose career is promoted by an influential person”?"
+        answer: "PROTÉGÉ"
+      - question: "What French phrase derived from Latin words meaning “good” and “live” is used in English to describe a person who “enjoys good food and wine and lives luxuriously”?"
+        answer: "BON VIVANT"
+  - tossup:
+      question: "Give a synonym of <latin>meminī</latin>."
+      answer: "<latin>RECORDOR, REMINISCOR, RETINĒRE (IN) MEMORIĀ TENĒRE</latin>"
+    boni:
+      - question: "Give a synonym of the verb <latin>loquor</latin>."
+        answer: "<latin>MĒNĀRE, FLUĒRE, FUNDĒRE, LIQUEĒRE, SOLVĒRE</latin>"
+      - question: "Give a synonym of <latin>plangō</latin>."
+        answer: "<latin>FERIĀRE, IĀCĒRE, PERCUTIĒRE, LĀMENTOR, PLĒRĒ, ULULĀRE, FLĒRE, DOLEĒRE</latin>"
+  - tossup:
+      question: "One might say that Odysseus suffers from nostalgia. According to its roots, what is Odysseus literally aching for?"
+      answer: "A RETURN [<latin>nostos</latin>]"
+    boni:
+      - question: "In order to analyze whether someone is afflicted with nostalgia, a diagnosis must be made. What is the meaning of the inceptive Greek verb at the root of <latin>diagnosis</latin>?"
+        answer: "PERCEIVE, KNOW [<latin>gignōskō</latin>]"
+      - question: "What English word, also a derivative of <latin>gignōskō</latin>, means “a pithy saying, a maxim”?"
+        answer: "GNOME (<latin>nōmē</latin>)"
+  - tossup:
+      question: "What speech did Cicero deliver between the First and Second Catilinarians?"
+      answer: "<latin><title>PRO MURĒNA</title></latin>"
+    boni:
+      - question: "Against what charge was Cicero defending Murena?"
+        answer: "ELECTION BRIBERY / ELECTORAL CORRUPTION"
+      - question: "In that same year Cicero also delivered a speech in support of what ex-consul?"
+        answer: "(C.) RABIRIUS"
+  - tossup:
+      question: "What Athenian aristocrat and his followers seized the Acropolis in 632 BC in an attempt to make himself tyrant?"
+      answer: "CYLON"
+    boni:
+      - question: "What archon besieged and defeated them?"
+        answer: "MEGACLES"
+      - question: "To what city did Cylon flee, whose army he led against Athens?"
+        answer: "MEGARA"
+  - tossup:
+      question: "About which Latin poet did Jerome write “<latin>postea amatorio poculo in furorem versus</latin>” i.e. -- “driven to madness by a love potion”?"
+      answer: "(T.) LUCRETIUS (CARUS)"
+    boni:
+      - question: "To whom did Lucretius dedicate his <latin><title>De Rerum Natura</title></latin>?"
+        answer: "(C.) MEMMIUS"
+      - question: "According to Jerome, who revised and published the <latin><title>De Rerum Natura</title></latin>?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "What two gifts does Helen give Telemachus before he leaves Sparta?"
+      answer: "1) (SILVER & GOLD) MIXING BOWL MADE BY HEPHAESTUS; 2) ROBE FOR HIS FUTURE BRIDE"
+    boni:
+      - question: "What omen does Telemachus see just before leaving Sparta?"
+        answer: "EAGLE CARRYING A WHITE GOOSE IN HIS TALONS"
+      - question: "What interpretation of this omen does Helen give?"
+        answer: "ODYSSEUS WILL COME HOME AND TAKE REVENGE"
+  - tossup:
+      question: "Name the Roman province that during the reign of Augustus bordered most of the southern coast of the <latin>Pontus Euxinus</latin>."
+      answer: "BITHYNIA & PONTUS"
+    boni:
+      - question: "For five points each, name two of the provinces which were south of Bithynia & Pontus."
+        answer: "ASIA, GALATIA, CILICIA, CYPRUS, SYRIA, JUDAEA, PHOENICIA, AEGYPTUS"
+  - tossup:
+      question: "The ambassadors of what tribe provided vital evidence against Catiline in 63 BC?"
+      answer: "ALLOBROGES"
+    boni:
+      - question: "Which of Catiline’s co-conspirators had negotiated with the Allobroges and was arrested as a result of their evidence?"
+        answer: "(P. CORNELIUS) LENTULUS (SURA)"
+      - question: "What office did Lentulus hold at this time?"
+        answer: "PRAETOR"
+  - tossup:
+      question: "Who predicted that Cronus would be overthrown by one of his own children?"
+      answer: "GAEA"
+    boni:
+      - question: "Who served Cronus the potion to make him spew up the swallowed children?"
+        answer: "METIS / ZEUS"
+      - question: "In some sources Zeus himself serves the potion. In what guise did he do it?"
+        answer: "CUP-BEARER"
+  - tossup:
+      question: "Other than assonance or alliteration, identify the figure of speech in these lines: <latin>Tum vīctā revocant vērēs, fāssēsque per herbam implentur veteris Bacchī pinguisque ferīnae.</latin>"
+      answer: "METONYMY"
+    boni:
+      - question: "Other than assonance or alliteration, identify the figure of speech in this line: <latin>collī squāmea circum terga datī</latin>"
+        answer: "TMESIS"
+      - question: "Other than assonance or alliteration, identify the figure of speech in this line: <latin>inclāsīs uterō Danaēs et pōnea fārtim laxat claustra Sinīs.</latin>"
+        answer: "HYSTERON PROTERON"
+  - tossup:
+      question: "What use of the accusative case is found in the following sentence: <latin>Ā mē infēlīcem!</latin>"
+      answer: "EXCLAMATION"
+    boni:
+      - question: "What use of the accusative case is found in the idiom <latin>id temporis</latin>?"
+        answer: "ADVERBIAL"
+      - question: "What use of the accusative case is found in the following sentence: <latin>Mē augārem nōmināverunt.</latin>"
+        answer: "PREDICATE"
+  - tossup:
+      question: "If someone says about you, “<latin>abiit ad maiores</latin>,” what are they saying about you?"
+      answer: "YOU’RE DEAD"
+    boni:
+      - question: "If someone calls you an “<latin>asinus ad lyram</latin>,” what are they saying about you?"
+        answer: "YOU HAVE NO APPRECIATION FOR THE ARTS (music, painting, etc.)"
+      - question: "If someone calls you an “<latin>edax rerum</latin>,” what are they saying about you?"
+        answer: "YOU’RE A GLUTTON"
+  - tossup:
+      question: "According to Ovid, what landmark must Orpheus pass before looking back at Eurydice?"
+      answer: "(VALLEY OF) LAKE AVERNUS"
+    boni:
+      - question: "How many days did Orpheus sit unsuccessfully on the banks of the river Styx after losing Eurydice for the second time?"
+        answer: "SEVEN"
+      - question: "After Orpheus finally did leave the Underworld, where did he live for three years?"
+        answer: "IN THRACE / MT. RHODOPE / MT. HAEMUS)"

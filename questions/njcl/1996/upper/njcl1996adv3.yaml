@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What English name is derived from the Greek meaning “earth-worker” -- i.e., “farmer”?"
+      answer: "GEORGE"
+    boni:
+      - question: "What man’s name means “horse-loving”?"
+        answer: "PHILIP"
+      - question: "What woman’s name means “bee,” spelled b-e-e?"
+        answer: "MELISSA"
+  - tossup:
+      question: "What epic poem was left unfinished because its author was forced to commit suicide by Nero in AD 65?"
+      answer: "<latin><title>PHARSALIA / BELLUM CIVILE / DE BELLO CIVILI</title></latin>"
+    boni:
+      - question: "Who is the author of this epic?"
+        answer: "(M. ANNAEUS) LUCAN(US)"
+      - question: "To what does the title <title><latin>Pharsalia</latin></title> refer?"
+        answer: "BATTLE (SITE) OF PHARSALUS/IA (48 BC) (WHERE CAESAR DEFEATED POMPEY)"
+  - tossup:
+      question: "Make the phrase <latin>illud nemus</latin> ablative singular."
+      answer: "<latin>ILLO NEMORE</latin>"
+    boni:
+      - question: "Make <latin>illō nemore</latin> genitive plural."
+        answer: "<latin>ILLORUM NEMORUM</latin>"
+      - question: "Make <latin>illōrum nemorum</latin> accusative."
+        answer: "<latin>ILLA NEMORA</latin>"
+  - tossup:
+      question: "Whom did the Romans defeat at the Battle of Lake Regillus in 496 BC?"
+      answer: "THE LATINS"
+    boni:
+      - question: "Who mediated the treaty between the Latins and the Romans in 493 BC?"
+        answer: "SPURIUS CASSIUS (VECELLINUS)"
+      - question: "What is the Latin name for this treaty?"
+        answer: "FOEDUS CASSIANUM"
+  - tossup:
+      question: "Give a prepositional synonym of <latin>ergō</latin>."
+      answer: "<latin>VERSUS / ADVERSUM/-US / AD</latin>"
+    boni:
+      - question: "Give a prepositional synonym of <latin>sine</latin>."
+        answer: "<latin>ABSQUE</latin>"
+      - question: "Give a prepositional synonym of <latin>coram</latin>."
+        answer: "<latin>PALAM / PRAE / ANTE / APUD / CONTRA / CUM</latin>"
+  - tossup:
+      question: "Name a more famous sister or half-sister of Timandra, Phoebe, and Philonoe."
+      answer: "HELEN / CLYTEMNESTRA"
+    boni:
+      - question: "Who was the father of all those but except Helen?"
+        answer: "TYNDAREUS"
+      - question: "Who was their mother?"
+        answer: "LEDA"
+  - tossup:
+      question: "What is Terence’s earliest play?"
+      answer: "<title>ANDRIA</title>"
+    boni:
+      - question: "In his prologue Terence defends his literary practice of <latin>contaminatio</latin>; what is <latin>contaminatio</latin>?"
+        answer: "THE COMBINATION OF PARTS OR ELEMENTS OF MORE THAN ONE PLAY INTO ONE"
+      - question: "Who wrote both of his source plays for the <title>Andria</title>?"
+        answer: "MENANDER"
+  - tossup:
+      question: "What member of Odysseus' band does Aeneas encounter on Sicily?"
+      answer: "ACHAEMENIDES"
+    boni:
+      - question: "About what monster does he tell Aeneas?"
+        answer: "POLYPHEMUS"
+      - question: "Does Aeneas rescue Achaemenides from this land?"
+        answer: "YES"
+  - tossup:
+      question: "Give the second person singular present imperative of the verb <latin>oblivīscor</latin>."
+      answer: "<latin>OBLIVISCERE</latin>"
+    boni:
+      - question: "Change <latin>oblīvīscere</latin> to plural."
+        answer: "<latin>OBLIVISCIMINI</latin>"
+      - question: "Change <latin>oblīvīsciminī</latin> to the third person plural future imperative."
+        answer: "<latin>OBLIVĪSCUNTOR</latin>"
+  - tossup:
+      question: "What Latin term was used to describe the familial and political background of men such as Cato the Elder, Marius, and Cicero?"
+      answer: "<latin>NOVUS HOMO</latin>"
+    boni:
+      - question: "Into what social class was Cicero born?"
+        answer: "EQUESTRIAN / EQUITES / ORDO EQUESTRIS"
+      - question: "Name the first emperor from the equestrian order."
+        answer: "(T. FLAVIUS) VESPASIAN"
+  - tossup:
+      question: "What expansionist king was defeated by Lucullus in 69 BC?"
+      answer: "TIGRANES I / THE GREAT"
+    boni:
+      - question: "What was Tigranes’ kingdom?"
+        answer: "ARMENIA"
+      - question: "Alliance with what other eastern monarch had set Tigranes against Rome?"
+        answer: "MITHRIDATES [VI / EUPATOR (DIONYSUS) / GREAT]"
+  - tossup:
+      question: "What Latin adjective with what meaning is the root of “desiccant”?"
+      answer: "<latin>SICCUS</latin> -- DRY"
+    boni:
+      - question: "What Latin noun with what meaning is the root of “succulent”?"
+        answer: "<latin>SUCCUS</latin> -- JUICE"
+      - question: "What Latin noun with what meaning is the root of “saccular”?"
+        answer: "<latin>SACCUS</latin> -- BAG, SACK"
+  - tossup:
+      question: "Who tested the fidelity of his wife by courting her disguised as a stranger?"
+      answer: "CEPHALUS"
+    boni:
+      - question: "Who was Cephalus' wife?"
+        answer: "PROCRIS"
+      - question: "Procris gave Cephalus a famous hunting dog named <latin>Laelaps</latin>. According to Ovid, who had given the dog to her?"
+        answer: "DIANA / CYNTHIA"
+  - tossup:
+      question: "What use of the dative case is found in the following sentence: <latin>Virtūtis semper voluptātibus inhaerent.</latin>"
+      answer: "WITH COMPOUNDS / COMPOUND VERBS"
+    boni:
+      - question: "Name a use of the dative case found in the following sentence: <latin>Tertiam aciem nostrīs subsidiō mīsit.</latin>"
+        answer: "DOUBLE DATIVE, DATIVE OF SERVICE, REFERENCE, PURPOSE"
+      - question: "What use of the dative case is found in the pronoun of the following sentence: <latin>Suae sibi servit patrī.</latin>"
+        answer: "ETHICAL / REFERENCE"
+  - tossup:
+      question: "The poems of a lady named Sulpicia were preserved as a part of what other poet’s works?"
+      answer: "(ALBIUS) TIBULLUS'"
+    boni:
+      - question: "Sulpicia’s uncle was Tibullus’ patron. Name him."
+        answer: "(MARCUS VALERIUS) MESSALLA (or CORVINUS is acceptable alone)"
+      - question: "What other poet’s works were also included in the Corpus Tibullianum?"
+        answer: "LYGDAMUS'"
+  - tossup:
+      question: "What god was sealed in a bronze jar by the Aloadae?"
+      answer: "ARES / MARS"
+    boni:
+      - question: "Name the two Aloadae."
+        answer: "OTUS AND EPHIALTES"
+      - question: "What deity rescued Ares?"
+        answer: "HERMES / AEGEP(HI)AN / PAN"
+  - tossup:
+      question: "Name two of the three parts of speech that <latin>pone</latin> can be."
+      answer: "VERB, PREPOSITION & ADVERB"
+    boni:
+      - question: "Translate <latin>pone</latin> as a verb?"
+        answer: "PUT! PLACE!"
+      - question: "What does <latin>pone</latin> mean as a preposition?"
+        answer: "BEHIND, AFTER"
+  - tossup:
+      question: "Who, until his premature death in AD 19, was the designated heir of the emperor Tiberius?"
+      answer: "GERMANICUS"
+    boni:
+      - question: "Besides being his adopted son, what was Germanicus’ relationship to Tiberius?"
+        answer: "NEPHEW (SON OF TIBERIUS’ BROTHER DRUSUS)"
+      - question: "Who accused Tiberius of having Germanicus poisoned?"
+        answer: "AGRIPPINA THE ELDER (G'S WIFE)"
+  - tossup:
+      question: "Name the historian who recorded the death of Cicero in his massive work <title>Ab Urbe Condita</title>."
+      answer: "LIVY (TITUS LIVIUS)"
+    boni:
+      - question: "When Livy was writing his history, he alternated living at Rome with long sojourns in his hometown. What was his hometown?"
+        answer: "PADUA / PATAVIUM"
+      - question: "One of Livy’s contemporaries accused him of having traces of <latin>Patavinitas</latin> or “Patavinity” in his prose. For what was Livy being criticized?"
+        answer: "FOR USING PROVINCIAL LANGUAGE / THE LANGUAGE OF PADUA / SLANG / COUNTRIFIED SPEECH"
+  - tossup:
+      question: "Translate the following quotation from Pliny the Younger into English: <latin>Nūllus est liber tam malus ut nōn aliquā partē prōsit.</latin>"
+      answer: "THERE IS NO BOOK SO BAD THAT IT IS NOT BENEFICIAL IN SOME PART"
+    boni:
+      - question: "Translate the following quotation from Cicero into English: <latin>Saepe nē ūtile quidem est scīre quid futūrum sit.</latin>"
+        answer: "OFTEN IT’S NOT EVEN USEFUL TO KNOW WHAT THE FUTURE IS / WILL BE or ...WHAT WILL BE / EXIST"
+      - question: "Translate the following quotation from Seneca into English: <latin>Exigō ō mē nē ut optimus pār sim, sed ut malus melior.</latin>"
+        answer: "I REQUIRE MYSELF / DEMAND OF MYSELF / NOT TO BE EQUAL TO THE BEST, BUT TO BE BETTER THAN THE BAD"

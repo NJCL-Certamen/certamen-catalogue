@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Who immortalized the wife of Quintus Caecilius Metellus as Lesbia in his poetry?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "What was probably the real name of Lesbia?"
+        answer: "CLODIA"
+      - question: "What orator fiercely attacked Clodia in his <latin>Pro Caelio</latin>?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "According to Hesiod, who was the first born of Cronus and Rhea?"
+      answer: "HESTIA"
+    boni:
+      - question: "Who was the second born?"
+        answer: "DEMETER"
+      - question: "Who was the fifth born?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "Name the twin brothers who fought in their mother's womb."
+      answer: "PROËTUS & ACRISIUS"
+    boni:
+      - question: "Whom did Proetus marry?"
+        answer: "ANT(E)IA / STHENEBOEA"
+      - question: "With what hero did Anteia fall in love?"
+        answer: "BELLEROPHON"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>multus</latin>."
+      answer: "<latin>PLURIOR, PLURIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>prior</latin>."
+        answer: "<latin>PRIOR, PRIMUS</latin>"
+      - question: "Give the comparative and superlative forms of <latin>hebes</latin>."
+        answer: "<latin>HEBETIOR, HEBETISSIMUS</latin>"
+  - tossup:
+      question: "<latin>legō</latin> means “I collect.” What does <latin>lectitō</latin> mean?"
+      answer: "(I) COLLECT OFTEN, EAGERLY"
+    boni:
+      - question: "<latin>Sitis</latin> means “thirst.” What does the verb <latin>sitiō</latin> mean?"
+        answer: "(I) AM THIRSTY / THIRST"
+      - question: "<latin>cantō</latin> means “I sing.” What does <latin>cantillō</latin> mean?"
+        answer: "(I) CHIRP, WARBLE, HUM, SING LOW"
+  - tossup:
+      question: "Differentiate in meaning between <latin>pavor</latin> and <latin>paveō</latin>."
+      answer: "<latin>PAVOR</latin> - FEAR; <latin>PAVEO</latin> - (I) FEAR, TREMBLE"
+    boni:
+      - question: "Differentiate in meaning between <latin>cavō</latin> and <latin>caveō</latin>."
+        answer: "<latin>CAVO</latin> -- I HOLLOW OUT; <latin>CAVEO</latin> -- I TAKE HEED, BEWARE"
+      - question: "Differentiate in meaning between <latin>modo</latin> (must pronounce with short “o”) and <latin>madeō</latin>."
+        answer: "<latin>MODO</latin> -- ONLY, MERELY, BUT, JUST, IMMEDIATELY, PROVIDED THAT; <latin>MADEO</latin> -- I AM WET, DRUNK"
+  - tossup:
+      question: "What two words combine to form the Latin verb <latin>mālō</latin>?"
+      answer: "<latin>MAGIS</latin> & <latin>VOLO</latin>"
+    boni:
+      - question: "What does <latin>mālō</latin> mean?"
+        answer: "PREFER"
+      - question: "<latin>māla</latin> is a contracted form of <latin>maxilla</latin>. What is a <latin>māla</latin>?"
+        answer: "CHEEK, JAW"
+  - tossup:
+      question: "Which of the emperors of AD 193 executed the assassins of Commodus?"
+      answer: "DIDIUS JULIANUS"
+    boni:
+      - question: "How had Julianus gained imperial power?"
+        answer: "BOUGHT THE THRONE AT AN AUCTION (HELD BY THE PRAETORIANS)"
+      - question: "Whom had the Praetorians murdered after his reign of 87 days?"
+        answer: "PERTINAX"
+  - tossup:
+      question: "What historian had Punic documents translated for one of his monographs when he was governor of Numidia?"
+      answer: "(C.) SALLUST(IUS CRISPUS)"
+    boni:
+      - question: "What is the Latin title of this history?"
+        answer: "<title><latin>BELLUM JUGURTHINUM / BELLUM IUGURTHAE</latin></title>"
+      - question: "What Greek historian most profoundly influenced Sallust?"
+        answer: "THUCYDIDES"
+  - tossup:
+      question: "If something is described as “sudorific,” what does it induce?"
+      answer: "SWEAT"
+    boni:
+      - question: "If something is described as “vermilingual,” what is peculiar about it?"
+        answer: "IT HAS A WORM-SHAPED TONGUE"
+      - question: "If something is described as “interarticular,” where can it be found?"
+        answer: "IN BETWEEN BONE JOINTS"
+  - tossup:
+      question: "Using the Latin verb <latin>ambulō</latin>, <latin>ambulāre</latin> translate “walk” in the following sentence: “While I was walking home, I saw a huge fire burning next door.”"
+      answer: "<latin>ambulāns / ambulāre</latin>"
+    boni:
+      - question: "If I were not walking home, I would not be able to see the danger."
+        answer: "<latin>ambulārem</latin>"
+      - question: "Let’s walk next door and see if anyone’s home."
+        answer: "<latin>ambulemus</latin>"
+  - tossup:
+      question: "Who banished Agrippina the Younger because she was involved in the conspiracy of Gaetulicus in AD 39?"
+      answer: "GAIUS (CALIGULA)"
+    boni:
+      - question: "By whom was Agrippina recalled from exile?"
+        answer: "(HER UNCLE) CLAUDIUS"
+      - question: "Who had been Agrippina’s first husband and the father of her son Nero?"
+        answer: "CN. DOMITIUS AHENOBARBUS"
+  - tossup:
+      question: "Translate into English: <latin>Puella intrāvit tabernam ad pulchra vestīmenta videnda.</latin>"
+      answer: "THE GIRL ENTERED THE SHOP TO SEE THE BEAUTIFUL CLOTHES"
+    boni:
+      - question: "Translate into English: <latin>Tribus horīs mīlitibus vincendum est.</latin>"
+        answer: "THE SOLDIERS MUST WIN (WITH)IN THREE HOURS; or IT MUST BE WON BY THE SOLDIERS (WITH)IN THREE HOURS"
+      - question: "Translate into English: <latin>amandīs aliīs discimus nūs ipsōs amāre.</latin>"
+        answer: "BY LOVING OTHERS, WE LEARN TO LOVE OURSELVES"
+  - tossup:
+      question: "Name the wooden statue of Athena which safeguarded the city of Troy."
+      answer: "THE PALLADIUM"
+    boni:
+      - question: "What two Greeks stole the statue during the Trojan war?"
+        answer: "ODYSSEUS AND DIOMEDES"
+      - question: "What captured Trojan seer had suggested this strategy?"
+        answer: "HELENUS"
+  - tossup:
+      question: "According to Homer why did the gods protect Aeneas when he fought in a battle in the Trojan War?"
+      answer: "HE WAS DESTINED TO FOUND A NEW HOME FOR THE TROJANS"
+    boni:
+      - question: "Which deity saved Aeneas when Diomedes hurled a huge rock at him?"
+        answer: "APHRODITE"
+      - question: "On another occasion in the war, which deity saved Aeneas by sending a mist to dim Achilles’ eyes?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What Roman statesman, orator, and writer was convinced that the survival of Rome depended upon the destruction of its ancient rival Carthage?"
+      answer: "(M. PORCIUS) CATO THE ELDER / <latin>MAIOR</latin> / THE CENSOR"
+    boni:
+      - question: "What genre was Cato the first to write in Latin prose?"
+        answer: "HISTORY"
+      - question: "What was the title of Cato’s history?"
+        answer: "<title><latin>ORIGINES</latin></title>"
+  - tossup:
+      question: "Complete this analogy: <latin>gradior : graderer :: minor : ________?</latin>"
+      answer: "<latin>minarer</latin>"
+    boni:
+      - question: "<latin>minor : minorer :: feror : _______?</latin>"
+        answer: "<latin>ferrer</latin>"
+      - question: "<latin>nō : navistis :: offerō : _______?</latin>"
+        answer: "<latin>obtulistis</latin>"
+  - tossup:
+      question: "What war gave Rome control of Latium?"
+      answer: "LATIN WAR"
+    boni:
+      - question: "What series of three wars gave Rome control of central Italy?"
+        answer: "SAMNITE WARS"
+      - question: "What leader did the Romans defeat to gain control of southern Italy?"
+        answer: "PYRRHUS (FIGHTING ON BEHALF OF TARENTUM)"
+  - tossup:
+      question: "In how many months of the Julian calendar did the Ides occur on the 13th?"
+      answer: "EIGHT"
+    boni:
+      - question: "What were the four months in which the Ides fell on the 15th?"
+        answer: "MARCH, MAY, JULY & OCTOBER"
+      - question: "What date is <latin>pridie idus Aprīlis</latin> in the modern calendar?"
+        answer: "APRIL 12"
+  - tossup:
+      question: "Name the author of <title>De Vītā Caesārum</title>."
+      answer: "(C.) SUETONIUS (TRANQUILLUS)"
+    boni:
+      - question: "Whose biography is the first in the <title><latin>De Vītā Caesārum</latin></title>?"
+        answer: "JULIUS CAESAR’S"
+      - question: "Whose biography is the last?"
+        answer: "DOMITIAN’S"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1978
+division: "Advanced"
+round: Semifinals 3
+questions:
+  - tossup:
+      question: "Translate into English: <latin>Utere tuō cerebrō</latin>."
+      answer: "USE YOUR BRAIN"
+    boni:
+      - question: "Translate into Latin: Let us remember these men."
+        answer: "<latin>VIRŌRUM HŌRUM MEMINERIMUS</latin>"
+      - question: "Translate into Latin: We will remember these things."
+        answer: "<latin>HAEC MEMINERIMUS</latin>"
+  - tossup:
+      question: "Who was the wife Paris abandoned for Helen?"
+      answer: "OENONE"
+    boni:
+      - question: "Who was the son of Priam sent away from Troy to live with his sister Ilione?"
+        answer: "POLYDORUS"
+      - question: "Who was Ilione's husband, who perfidiously murdered Polydorus?"
+        answer: "POLYMESTOR"
+  - tossup:
+      question: "Who was the unscrupulous demagogue who used Marius for his own ends?"
+      answer: "(L. APPULEIUS) SATURNINUS"
+    boni:
+      - question: "Who was Saturninus' ally?"
+        answer: "(SERVILIUS) GLAUCIA"
+      - question: "What statesman opposed Saturninus and Glaucia, and was forced to go into exile?"
+        answer: "(Q. CAECILIUS) METELLUS NUMIDICUS"
+  - tossup:
+      question: "Who wrote the Oresteia trilogy?"
+      answer: "AESCHYLUS"
+    boni:
+      - question: "Which of the following four plays is not in the trilogy: <title>Agamemnon, The Libation Bearers, The Suppliants, The Eumenides</title>?"
+        answer: "<title>THE SUPPLIANTS</title>"
+      - question: "Which of Aeschylus' tragedies is the only surviving Greek tragedy to have purely historical roots?"
+        answer: "<title>THE PERSAE</title>"
+  - tossup:
+      question: "What is the syntax of <latin>O tempora! O mores!</latin>?"
+      answer: "ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "In Cicero's famous question using the word, what are the person and number of <latin>abutere</latin>?"
+        answer: "SECOND PERSON SINGULAR"
+      - question: "What is the syntax of <latin>me consule</latin> in Cicero's famous <latin>O fortunatam natam me consule Romam</latin>?"
+        answer: "ABLATIVE ABSOLUTE"
+  - tossup:
+      question: "Change the verb form <latin>malo</latin> to plural."
+      answer: "<latin>MALUMUS</latin>"
+    boni:
+      - question: "Change <latin>malo</latin> to third person."
+        answer: "<latin>MAVULT</latin>"
+      - question: "Change <latin>MAVULT</latin> to plural."
+        answer: "<latin>MALUNT</latin>"
+  - tossup:
+      question: "Who led the Myrmidons at Troy?"
+      answer: "ACHILLES"
+    boni:
+      - question: "What was their island home?"
+        answer: "AEGINA"
+      - question: "The Myrmidons sprang from ants as an answer to what king's prayers?"
+        answer: "AEACUS'"
+  - tossup:
+      question: "When were the standards lost at Carrhae regained?"
+      answer: "20 BC"
+    boni:
+      - question: "Who received them?"
+        answer: "TIBERIUS"
+      - question: "Where was the Parthian capital at this time?"
+        answer: "ECBATANA"
+  - tossup:
+      question: "Who was the historian of the Peloponnesian War?"
+      answer: "THUCYDIDES"
+    boni:
+      - question: "Who was the author of the <title>Anabasis</title>?"
+        answer: "XENOPHON"
+      - question: "What pretender to the Persian throne is portrayed in the <title>Anabasis</title> leading an army of ten thousand Greek mercenaries?"
+        answer: "CYRUS II"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>tero</latin>?"
+      answer: "<latin>TRITUM</latin>"
+    boni:
+      - question: "What is the perfect passive participle of <latin>sero</latin> meaning sow?"
+        answer: "<latin>SATUM</latin>"
+      - question: "What is the same part of <latin>sero</latin> meaning weave?"
+        answer: "<latin>SERTUM</latin>"
+  - tossup:
+      question: "Translate into English: <latin>Me paenitet</latin>."
+      answer: "I REGRET IT."
+    boni:
+      - question: "Translate into English: <latin>Me taedet</latin>."
+        answer: "IT WEARIES ME."
+      - question: "Translate into English: <latin>Me miseret</latin>."
+        answer: "IT GRIEVES ME."
+  - tossup:
+      question: "Who was the nephew of Daedalus slain by his jealous uncle?"
+      answer: "PERDIX (TALUS)"
+    boni:
+      - question: "How many young men and women did Athens have to send to Minos annually as Minotaur fodder?"
+        answer: "SEVEN MEN, SEVEN WOMEN"
+      - question: "Whose death did this atone for?"
+        answer: "ANDROGEOS'"
+  - tossup:
+      question: "What room in a Roman house is called by a Greek word which means “three couches”?"
+      answer: "THE <latin>TRICLINIUM</latin>"
+    boni:
+      - question: "What room gets its name because of smoke-blackened walls?"
+        answer: "<latin>ATRIUM</latin>"
+      - question: "What word for the foyer or entrance hall means literally “jaws” or “maw”?"
+        answer: "<latin>FAUCES</latin>"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> says: <latin>Durate et vosmet rebus servate secundis</latin>?"
+      answer: "AENEAS"
+    boni:
+      - question: "Who says: <latin>Tuus, o regina, quid optes explorare labor; mihi iussa capessere fas est?</latin>"
+        answer: "AEOLUS"
+      - question: "Whom is he addressing?"
+        answer: "JUNO"
+  - tossup:
+      question: "Which of these does not have the same root as the others: <latin>benevolentia, volucris, voluntas, voluptas</latin>?"
+      answer: "<latin>VOLUCRIS</latin>"
+    boni:
+      - question: "What is the infinitive of the verb at its root?"
+        answer: "<latin>VOLARE</latin>"
+      - question: "What is the infinitive of the verb at the root of the others?"
+        answer: "<latin>VELLE</latin>"
+  - tossup:
+      question: "What Latin phrase often means “something” but literally means “I don't know what”?"
+      answer: "<latin>NESCIO QUID</latin>"
+    boni:
+      - question: "What is the singular imperative of <latin>scio</latin>?"
+        answer: "<latin>SCITO</latin>"
+      - question: "Which of the following is not a derivative of <latin>scio</latin>: science, scout, omniscient, plebiscite?"
+        answer: "SCOUT"
+  - tossup:
+      question: "Why did Zeus not father a child by Thetis?"
+      answer: "BECAUSE HER SON WAS DESTINED TO BE GREATER THAN HIS FATHER"
+    boni:
+      - question: "Where did Thetis hide her son to keep him out of the Trojan War?"
+        answer: "THE COURT OF KING LYCOMEDES"
+      - question: "Who was destined to die at his grandson's hands and, despite his machinations to avoid it, was so slain years later by a wayward discus?"
+        answer: "ACRISIUS"
+  - tossup:
+      question: "What king of Lydia was notorious for his great wealth?"
+      answer: "CROESUS"
+    boni:
+      - question: "What Persian king ended Croesus' reign about 550 BC?"
+        answer: "CYRUS THE GREAT"
+      - question: "Who was the son of Cyrus the Great?"
+        answer: "CAMBYSES"
+  - tossup:
+      question: "What literary device do you employ when you praise with the words “not bad”?"
+      answer: "LITOTES"
+    boni:
+      - question: "What device is the use of a noun in several different cases?"
+        answer: "POLYPTOTON"
+      - question: "What is the use of a part to represent the whole?"
+        answer: "SYNECDOCHE"
+  - tossup:
+      question: "What is the Latin for “I have been running”?"
+      answer: "<latin>CUCURRI</latin>"
+    boni:
+      - question: "Translate into English: <latin>Fefelli</latin>."
+        answer: "I HAVE DECEIVED"
+      - question: "Change <latin>fefelli</latin> to passive."
+        answer: "FALSUS SUM."

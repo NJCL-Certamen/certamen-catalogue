@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Where was the Persian army met by a force of only 300 Spartans?"
+      answer: "THERMOPYLAE"
+    boni:
+      - question: "Who commanded the Spartans?"
+        answer: "LEONIDAS"
+      - question: "Who commanded the Persians?"
+        answer: "XERXES"
+  - tossup:
+      question: "In what war did the Romans fight battles at Agrigentum, Mylae, Ecnomus, Drepana, and the Aegates Islands?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "Which of these battles did the Romans lose?"
+        answer: "DREPANA"
+      - question: "Which of these battles was fought on land?"
+        answer: "AGRIGENTUM"
+  - tossup:
+      question: "Who was the king of the Laestrygonians?"
+      answer: "ANTIPHATES / LAMUS"
+    boni:
+      - question: "What was their city?"
+        answer: "TELEPYLUS"
+      - question: "How many of Odysseus' ships escaped the carnage there?"
+        answer: "ONLY ONE - ODYSSEUS' OWN"
+  - tossup:
+      question: "What praenomen is abbreviated <latin>N.</latin>?"
+      answer: "NUMERIUS"
+    boni:
+      - question: "<latin>Ser.?</latin>"
+        answer: "SERVIUS"
+      - question: "<latin>K.?</latin>"
+        answer: "KAESO (CAESO)"
+  - tossup:
+      question: "What is the difference in meaning between <latin>anguis</latin> and <latin>unguis</latin>?"
+      answer: "<latin>ANGUIS</latin> - SNAKE; <latin>UNGUIS</latin> -- FINGERNAIL, CLAW, NAIL, HOOF"
+    boni:
+      - question: "What is the difference in meaning between <latin>nimis</latin> and <latin>nummus</latin>?"
+        answer: "<latin>NIMIS</latin> -- TOO MUCH, TOO; <latin>NUMMUS</latin> -- COIN, MONEY, TRIFLE"
+      - question: "What is the difference in meaning between <latin>lutum</latin> and <latin>sputum</latin>?"
+        answer: "<latin>LUTUM</latin> -- MUD; <latin>SPUTUM</latin> -- SPITTLE"
+  - tossup:
+      question: "Give the Latin title of the comedy by Plautus in which the slave Tranio convinces his master’s father that his house is haunted."
+      answer: "MOSTELLARIA"
+    boni:
+      - question: "Name the Plautine comedy in which a clever slave manages to steal away from a boastful soldier the girl loved by his young master."
+        answer: "MILES GLORIOSUS"
+      - question: "Name the Plautine comedy named for the clever slave who tricks a pimp out of the girl his young master loves."
+        answer: "PSEUDOLUS"
+  - tossup:
+      question: "What wind god was said to be Iris’ husband?"
+      answer: "ZEPHYRUS / FAVONIUS"
+    boni:
+      - question: "What Titan was Iris’ father?"
+        answer: "THAUMAS"
+      - question: "What Oceanid was her mother?"
+        answer: "ELECTRA"
+  - tossup:
+      question: "Translate: <latin>Sī quis vestrum amārem invēneris, beatus eris.</latin>"
+      answer: "IF ANY(one) OF YOU FIND(S) (SHALL HAVE FOUND) LOVE, YOU WILL BE HAPPY (BLESSED)"
+    boni:
+      - question: "Translate: <latin>Sī quis vestrum amārem invēnerīs, beatus sīs.</latin>"
+        answer: "IF ANY(one) OF YOU SHOULD FIND LOVE, YOU WOULD BE HAPPY (BLESSED) or IF ANY(one) OF YOU FOUND LOVE, YOU WOULD BE HAPPY (BLESSED)"
+      - question: "It is not always necessary to drop the prefix <latin>ali-</latin> before <latin>sī, nisi, nē</latin> and <latin>num</latin>. Why would someone choose to leave the <latin>ali-</latin> attached?"
+        answer: "EMPHASIS (on the person more than the general act)"
+  - tossup:
+      question: "What Latin verb with what meaning is the ultimate root of the term for the figure of speech known as “preterition”?"
+      answer: "<latin>EO, IRE</latin> - GO"
+    boni:
+      - question: "What Latin verb with what meaning gives us the term “hiatus”?"
+        answer: "<latin>HIO, HIARE</latin> - BREATHE, GASP, YAWN"
+      - question: "What Latin verb with what meaning is the ultimate root of the term “elision”?"
+        answer: "<latin>LAEDO, LAEDERE</latin> - HARM"
+  - tossup:
+      question: "Of what larger work is the <title><latin>Cena Trimalchionis</latin></title> a famous episode?"
+      answer: "<title>SATYRICON</title>"
+    boni:
+      - question: "Who is believed to be the author of the <title>Satyricon</title>?"
+        answer: "(C. / T.) PETRONIUS (NIGER / ARBITER)"
+      - question: "Who is the narrator of the <title>Satyricon</title>?"
+        answer: "ENCOLPIUS"
+  - tossup:
+      question: "Translate the Ciceronian idiom <latin>mente captus</latin>."
+      answer: "FOOLISH, CRAZY"
+    boni:
+      - question: "<latin>praeter opinionem</latin>."
+        answer: "CONTRARY TO EXPECTATION (not “OPINION”)"
+      - question: "<latin>parvī refert</latin>."
+        answer: "IT MATTERS LITTLE"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Greek root as the others: elephant, diaphanous, phantom, fantasy?"
+      answer: "ELEPHANT"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Greek root as the others: skeptic, stethoscope, bishop, eschew?"
+        answer: "ESCHEW"
+      - question: "Which of the following, if any, is NOT derived from the same Greek root as the others: paradox, doxology, dogmatic, docket?"
+        answer: "DOCKET"
+  - tossup:
+      question: "Who, with 300 of his supporters, was clubbed to death on the Capitol in 133 BC?"
+      answer: "TIBERIUS GRACCHUS"
+    boni:
+      - question: "Who was the ex-consul who led the mob against Tiberius Gracchus?"
+        answer: "SCIPIO NASICA"
+      - question: "What group had passed Tiberius’ land reform program?"
+        answer: "POPULAR ASSEMBLY / <latin>CONCILIUM PLEBIS</latin>"
+  - tossup:
+      question: "Where did the triumphal procession of a victorious Roman general end?"
+      answer: "TEMPLE OF JUPITER CAPITOLINUS / OPTIMUS MAXIMUS"
+    boni:
+      - question: "According to tradition, which king was responsible for laying the foundation of that temple?"
+        answer: "TARQUINIUS PRISCUS"
+      - question: "In the first year of the republic, the temple was dedicated to three deities. Name them."
+        answer: "JUPITER (OPTIMUS MAXIMUS), JUNO (TINIA) & MINERVA (MINVRA)"
+  - tossup:
+      question: "Which Roman poet wrote a poem in the Getic language that was spoken at Tomi on the Black Sea?"
+      answer: "(P.) OVID(IUS NASO)"
+    boni:
+      - question: "Name a work of Ovid which was at least a part of the reason for his exile?"
+        answer: "<title><latin>ARS AMATORIA</latin> / METAMORPHOSES</title>"
+      - question: "Name the work which Ovid began during the voyage to Tomi."
+        answer: "<title><latin>TRISTIA</latin></title>"
+  - tossup:
+      question: "With one word, say in Latin “in the evening.”"
+      answer: "<latin>VESPERE / VESPERI</latin>"
+    boni:
+      - question: "What Latin word, related to <latin>vesper</latin>, means “bat”?"
+        answer: "<latin>VESPERTILIO</latin>"
+      - question: "What is a <latin>vespa</latin>?"
+        answer: "WASP"
+  - tossup:
+      question: "Give the second person singular imperfect passive subjunctive of <latin>faciō</latin>."
+      answer: "<latin>FIERES</latin>"
+    boni:
+      - question: "Change <latin>fierēs</latin> to perfect."
+        answer: "<latin>FACTUS SIS</latin>"
+      - question: "Change <latin>factus sīs</latin> to pluperfect."
+        answer: "<latin>FACTUS ESSES</latin>"
+  - tossup:
+      question: "The original title of Julius Caesar’s account of his conquest of Gaul was <title><latin>Gaiī Iulii Caesaris Commentarii Rerum Gestarum</latin></title>. By what Latin title is this work known today?"
+      answer: "<title><latin>(COMMENTARII) DE BELLO GALLICO</latin></title>"
+    boni:
+      - question: "Caesar also wrote a three book account of the events of 49 and 48 B.C. What is the Latin title of this work?"
+        answer: "<title><latin>(COMMENTARII) DE BELLO CIVILI</latin></title>"
+      - question: "Cicero wrote that Caesar’s writings corrected and purified the Latin language. Name Caesar’s lost work on Latin grammar."
+        answer: "<title><latin>DE ANALOGIA</latin></title>"
+  - tossup:
+      question: "According to Vergil, who was the father of Latinus?"
+      answer: "FAUNUS (After the answer, say “by the nymph Marica”)"
+    boni:
+      - question: "Who is named as his mother in other accounts?"
+        answer: "CIRCE"
+      - question: "By what father?"
+        answer: "ODYSSEUS / TELEMACHUS"
+  - tossup:
+      question: "On what island inhabited only by women did the Argonauts land?"
+      answer: "LEMNOS"
+    boni:
+      - question: "Name the only man who survived the slaughter by the women of Lemnos?"
+        answer: "THOAS"
+      - question: "Who were Thoas' parents?"
+        answer: "DIONYSUS AND ARIADNE"

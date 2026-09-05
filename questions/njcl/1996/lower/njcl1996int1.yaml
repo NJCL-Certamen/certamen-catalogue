@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What name was given to the large agricultural estates which resulted from the distribution of the <latin>ager publicus</latin> in the 2nd century BC?"
+      answer: "<latin>LATIFUNDIA</latin>"
+    boni:
+      - question: "What was the manager or overseer of a <latin>latifundia</latin> called?"
+        answer: "<latin>VILICUS</latin>"
+      - question: "In the 1st century BC much of the slave labor on these estates was replaced by <latin>coloni</latin>. Who were <latin>coloni</latin>?"
+        answer: "TENANT FARMERS (i.e. One who farms land owned by another and pay rent in cash or kind)"
+  - tossup:
+      question: "What collection of oracles was lost in the fire of 83 BC in Rome?"
+      answer: "THE SIBYLLINE BOOKS"
+    boni:
+      - question: "According to legend, to what Roman king were the books sold?"
+        answer: "TARQUINIUS PRISCUS / SUPERBUS"
+      - question: "How many men were in the priestly college he set up for their care?"
+        answer: "FIFTEEN (THE QUINDECIMVIRI)"
+  - tossup:
+      question: "The Latin verb <latin>animadvertere</latin> is formed from a combination of three words. What preposition with what meaning is contained in <latin>animadvertere</latin>?"
+      answer: "<latin>AD</latin> -- TO, TOWARDS"
+    boni:
+      - question: "What verb with what meaning is contained in <latin>animadvertere</latin>?"
+        answer: "<latin>VERTERE</latin> -- TO TURN"
+      - question: "What noun with what meaning is contained in <latin>animadvertere</latin>?"
+        answer: "<latin>ANIMUS</latin> -- MIND, SPIRIT, SOUL / <latin>ANIMA</latin> -- BREATH"
+  - tossup:
+      question: "<latin>Quod animal facit mel?</latin>"
+      answer: "<latin>APIS</latin>"
+    boni:
+      - question: "<latin>Quod animal ululat ubi lūna plēna est?</latin>"
+        answer: "<latin>LUPUS, BŪBŌ, VERSIPELLIS, CANIS</latin>"
+      - question: "<latin>Quod animal edit cāseum?</latin>"
+        answer: "<latin>MŪS (FĒLĒS)</latin>"
+  - tossup:
+      question: "What Latin word with what meaning lies at the root of the English word “desperate”?"
+      answer: "<latin>SPĒS</latin> -- HOPE / <latin>SPĒRĀRE</latin> -- HOPE"
+    boni:
+      - question: "What Latin word with what meaning lies at the root of the English word “disparate” (dis-pcr-it)?"
+        answer: "<latin>PARĀRE</latin> -- TO PREPARE"
+      - question: "What Latin word with what meaning lies at the root of the English word “dispirit” (dis-pir’it)?"
+        answer: "<latin>SPIRĪTUS</latin> -- BREATH or <latin>SPĪRĀRE</latin> -- TO BREATHE"
+  - tossup:
+      question: "Odysseus returned home after how many years of absence?"
+      answer: "TWENTY"
+    boni:
+      - question: "What was his kingdom?"
+        answer: "ITHACA"
+      - question: "Who was his long-suffering wife?"
+        answer: "PENELOPE"
+  - tossup:
+      question: "Give the first person singular, present passive subjunctive of <latin>vehō</latin>."
+      answer: "<latin>VEHAR</latin>"
+    boni:
+      - question: "Change <latin>vehar</latin> to imperfect."
+        answer: "<latin>VEHERER</latin>"
+      - question: "Change <latin>veherer</latin> to pluperfect active."
+        answer: "<latin>VEXISSEM</latin>"
+  - tossup:
+      question: "What tense is <latin>iaciēs</latin>?"
+      answer: "FUTURE"
+    boni:
+      - question: "What tense is <latin>iaciās</latin>?"
+        answer: "PRESENT"
+      - question: "What tense is <latin>iacēs</latin>?"
+        answer: "PRESENT"
+  - tossup:
+      question: "Differentiate in meaning between <latin>āter</latin> and <latin>ātrium</latin>."
+      answer: "<latin>ĀTER</latin> -- BLACK, GLOOMY, SAD"
+    boni:
+      - question: "Differentiate in meaning between <latin>diēs</latin> and <latin>diū</latin>."
+        answer: "<latin>DIĒS</latin> -- DAY / <latin>DIŪ</latin> -- FOR A LONG TIME"
+      - question: "Differentiate in meaning between <latin>et</latin> and <latin>it</latin>."
+        answer: "<latin>ET</latin> -- AND / <latin>IT</latin> -- HE GOES"
+  - tossup:
+      question: "Who was the Greek god of prophecy?"
+      answer: "APOLLO"
+    boni:
+      - question: "Where did Apollo establish his main oracle in Greece?"
+        answer: "DELPHI"
+      - question: "What dragon did he kill at Delphi?"
+        answer: "PYTHON / PYTHOS (not PYTHIA)"
+  - tossup:
+      question: "What two parts of speech can <latin>adeō</latin> be?"
+      answer: "VERB & ADVERB"
+    boni:
+      - question: "Translate <latin>adeō</latin> as an adverb."
+        answer: "SO FAR, SO MUCH, MOREOVER"
+      - question: "Translate <latin>adeō</latin> as a verb."
+        answer: "I APPROACH"
+  - tossup:
+      question: "Who was the twin half-brother of Iphicles?"
+      answer: "HERACLES / HERCULES or ALCIDES"
+    boni:
+      - question: "Who was the mother of these twins?"
+        answer: "ALCMENE"
+      - question: "Who was the father of Iphicles?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "Give a synonym of <latin>quandō</latin>."
+      answer: "<latin>UBI, CUM, UT</latin> (donde is NOT acceptable)"
+    boni:
+      - question: "Give a synonym of <latin>sed</latin>."
+        answer: "<latin>AT, AST, AUTEM, VĒRUM, ATQUE, VĒRŌ, CETERUM</latin>"
+      - question: "Give a synonym of <latin>statim</latin>."
+        answer: "<latin>SUBITŌ, REPENTE, PRŌTINUS, EXTEMPLŌ, CONFESTIM, NUNC</latin>"
+  - tossup:
+      question: "Who failed to win re-election as tribune in 121 BC?"
+      answer: "GAIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "Name the rival tribune of 122 who had undermined the popular support for Gaius’ reforms?"
+        answer: "(M. LIVIUS) DRUSUS THE ELDER"
+      - question: "Gaius resorted to violence and the Senate issued the first declaration of a public emergency. What was this decree called?"
+        answer: "<latin>SENATUS CONSULTUM ULTIMUM</latin>"
+  - tossup:
+      question: "Who forbade the memory of his brother and ordered the erasure of his name from all inscriptions in AD 212?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Name the brother whom Caracalla had murdered."
+        answer: "GETA"
+      - question: "What is the Latin term for the erasure of the memory or record of someone?"
+        answer: "<latin>DAMNĀTIŌ MEMORIAE</latin>"
+  - tossup:
+      question: "Translate into Latin the relative pronoun for the following English sentence: “Julia, whose mother is rich, is the daughter of a senator.”"
+      answer: "<latin>CUIUS</latin> ..."
+    boni:
+      - question: "The soldier did not like the others with whom he was traveling."
+        answer: "<latin>QUIBUS(CUM) ...</latin>"
+      - question: "The farm, of which Horace was in charge, is burning to the ground."
+        answer: "<latin>CUĪ</latin>"
+  - tossup:
+      question: "Which centaur tried to kidnap Deianira, the wife of Hercules?"
+      answer: "NESSUS"
+    boni:
+      - question: "According to Ovid, who was the father of Nessus?"
+        answer: "IXION"
+      - question: "How did Hercules kill Nessus?"
+        answer: "SHOT WITH AN ARROW (WHICH HAD BEEN DIPPED IN HYDRA’S BLOOD)"
+  - tossup:
+      question: "Latin is an inflected language. What is the meaning of the verb at the root of “inflected”?"
+      answer: "BEND"
+    boni:
+      - question: "Latin nouns have gender. What is the meaning of the noun at the root of “gender”?"
+        answer: "ORIGIN, RACE, KIND"
+      - question: "In Latin, as in English, there are three degrees of comparison. What is the meaning of the adjective at the root of “comparison”?"
+        answer: "EQUAL"
+  - tossup:
+      question: "Who gave shelter to Danae and her son Perseus?"
+      answer: "DICTYS"
+    boni:
+      - question: "On what island did Dictys live?"
+        answer: "SERIPHUS(OS)"
+      - question: "Name Dictys’ brother who wanted to marry Danae."
+        answer: "POLYDECTES"
+  - tossup:
+      question: "What foreign enemy general campaigned in Italy for 16 years, but was unable to capture Rome?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "Why was Hannibal forced to return to Carthage in 203 BC?"
+        answer: "SCIPIO (THE FUTURE AFRICANUS) AND HIS LEGIONS HAD LANDED IN CARTHAGE"
+      - question: "In what year did Scipio defeat Hannibal at the Battle of Zama?"
+        answer: "202 BC"

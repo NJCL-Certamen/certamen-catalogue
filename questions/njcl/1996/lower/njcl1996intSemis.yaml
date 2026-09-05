@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What deity loved the island of Lemnos in particular?"
+      answer: "HEPHAESTUS / MULCIBER / VULCAN"
+    boni:
+      - question: "Why?"
+        answer: "HE LANDED THERE WHEN FLUNG FROM OLYMPUS AND WAS WELL TREATED"
+      - question: "What god brought his new bride there?"
+        answer: "DIONYSUS / BACCHUS / <latin>LĪBER</latin>"
+  - tossup:
+      question: "Listen carefully to the following sentences, which I will read twice, and answer in Latin the question about them: “<latin>Ōlim erat Rōmae quīdam puer, Marcus nōmine, quī suam umbram timēbat. Itaque ā sē semper currēbat</latin>.” What did Marcus fear?"
+      answer: "<latin>SUAM UMBRAM</latin>"
+    boni:
+      - question: "Where did Marcus live?"
+        answer: "<latin>RŌMAE</latin>"
+      - question: "From whom did Marcus always run?"
+        answer: "<latin>Ā SĒ / Ā MARCŌ / Ā SUĀ UMBRĀ</latin>"
+  - tossup:
+      question: "<latin>Respondē Latīnē</latin>: How many months are in the modern year?"
+      answer: "<latin>DUODECIM</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē</latin>: How many calendar days are in the modern leap year?"
+        answer: "<latin>TRECENTĪ ET SEXĀGINTĀ SEX / TRECENTĪ ET SEX ET SEXĀGINTĀ</latin>"
+      - question: "<latin>Responde Latīnē</latin>: How many seconds are in an hour?"
+        answer: "<latin>TRIA MĪLIA ET SESCENTĪ</latin>"
+  - tossup:
+      question: "Give the second person plural, imperfect active indicative of <latin>respiciō</latin>."
+      answer: "<latin>RESPICIĒBĀTIS</latin>"
+    boni:
+      - question: "Change <latin>respiciēbātis</latin> to pluperfect."
+        answer: "<latin>RESPEXERĀTIS</latin>"
+      - question: "Change <latin>respexerātis</latin> to future perfect."
+        answer: "<latin>RESPEXERITIS</latin>"
+  - tossup:
+      question: "Which republican magistrate was accompanied by six lictors and was responsible for the administration of justice?"
+      answer: "<latin>PRAETOR</latin>"
+    boni:
+      - question: "What was the title of the praetor who dealt with lawsuits involving foreigners?"
+        answer: "<latin>PRAETOR PEREGRINUS</latin>"
+      - question: "At one time praetors had military duties as shown by the term <latin>praetorium</latin>. What was a <latin>praetorium</latin>?"
+        answer: "GENERAL’S TENT / COMMANDER’S HOUSE / GENERAL’S COUNCIL OR STAFF"
+  - tossup:
+      question: "Who besides Leda is sometimes named as Helen’s mother?"
+      answer: "NEMESIS"
+    boni:
+      - question: "What was odd about Helen’s birth?"
+        answer: "SHE WAS HATCHED FROM AN EGG"
+      - question: "This birth was unusual because Zeus wooed her mother in what form?"
+        answer: "A SWAN"
+  - tossup:
+      question: "Give a synonym of <latin>magis</latin>."
+      answer: "<latin>PLŪS, AMPLIUS</latin>"
+    boni:
+      - question: "Give a synonym of <latin>sōlum</latin>."
+        answer: "<latin>MODO, TANTUM, SED, AT, AST, AUTEM, VĒRUM, ATQUĪ, VĒRŌ, CETERUM</latin>"
+      - question: "Give a synonym of <latin>dēnique</latin>."
+        answer: "<latin>DĒMUM, POSTRĒMŌ, TANDEM</latin>"
+  - tossup:
+      question: "Where was Laius headed when he met Oedipus on the road?"
+      answer: "DELPHI"
+    boni:
+      - question: "What oracle had Oedipus received at Delphi?"
+        answer: "THAT HE WOULD KILL HIS FATHER AND MARRY HIS MOTHER"
+      - question: "What king of Platea buried the dead Laius and his party?"
+        answer: "DAMASISTRATUS"
+  - tossup:
+      question: "What derivative of two Latin words meaning “what kind of” and “make” is an English word meaning “modify or restrict”?"
+      answer: "QUALIFY"
+    boni:
+      - question: "The Latin verb <latin>facere</latin> has brought about many English derivatives. When combined with a Latin word meaning “branch,” what English word meaning “a consequence” is formed?"
+        answer: "RAMIFICATION"
+      - question: "When <latin>facere</latin> combines with a Latin word meaning “offspring,” what English word meaning “abundantly productive” is formed?"
+        answer: "PROLIFIC"
+  - tossup:
+      question: "What city was founded by Alexander the Great in Egypt?"
+      answer: "ALEXANDRIA"
+    boni:
+      - question: "Who moved the capital of Egypt from Memphis to Alexandria?"
+        answer: "PTOLEMY I (SOTER)"
+      - question: "What did Ptolemy I establish in Alexandria in connection with the Museum?"
+        answer: "LIBRARY"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: sauce, saline, salad, sausage, sautee?"
+      answer: "SAUTEE"
+    boni:
+      - question: "From what Latin verb with what meaning is “sautee” derived?"
+        answer: "<latin>SALĪRE -- TO JUMP</latin>"
+      - question: "What popular food condiment’s name comes from <latin>salīre</latin>, to salt?"
+        answer: "SALSA"
+  - tossup:
+      question: "What war was ended with the Roman victory at Pydna in 168 BC?"
+      answer: "THE THIRD MACEDONIAN WAR"
+    boni:
+      - question: "What Roman general carried the day?"
+        answer: "(L.) AEMILIUS PAULLUS"
+      - question: "What did he do with the booty?"
+        answer: "DEPOSITED IT IN THE ROMAN TREASURY (EXCEPT FOR THE BOOKS OF KING PERSEUS, WHICH HE USED TO FOUND ROME’S FIRST PUBLIC LIBRARY)"
+  - tossup:
+      question: "What emperor employed secret police called <latin>frumentarii</latin>?"
+      answer: "COMMODUS"
+    boni:
+      - question: "Who was his praetorian prefect, said to have sold 25 consulships in one day?"
+        answer: "CLEANDER"
+      - question: "Who was Commodus’ sister, who plotted to assassinate him?"
+        answer: "LUCILLA"
+  - tossup:
+      question: "Which of the villains Theseus met on the road to Athens had a daughter who bore Theseus a son?"
+      answer: "SIN(N)IS / PITYOCAMPTES (THE PINE-BENDER)"
+    boni:
+      - question: "What was her name?"
+        answer: "PERIG(O)UNE"
+      - question: "Who was the son?"
+        answer: "MELANIPPUS"
+  - tossup:
+      question: "Translate into English the following maxim of the ancient Romans: “<latin>Sī vīs pācem, parā bellum</latin>.”"
+      answer: "IF YOU WANT PEACE, PREPARE FOR WAR"
+    boni:
+      - question: "Translate into English the following quotation from Tibullus: “<latin>Dīvīna nātūra dedit agrōs, ars hūmāna aedificāvit urbēs</latin>.”"
+        answer: "DIVINE NATURE GAVE (US) THE FIELDS, HUMAN ART BUILT THE CITIES"
+      - question: "Translate into English the following quotation from Cicero: “<latin>Ō praeclārum custōdem ovium, lupum</latin>.”"
+        answer: "WHAT AN OUTSTANDING / NOTORIOUS GUARD OF SHEEP, THE WOLF"
+  - tossup:
+      question: "Translate the Caesarean idiom <latin>dolōrem capere</latin>."
+      answer: "TO BE GRIEVED, SUFFER GRIEF, GRIEVE"
+    boni:
+      - question: "...<latin>in servum animadvertere</latin>."
+        answer: "TO PUNISH A SLAVE"
+      - question: "...<latin>adversō colle</latin>."
+        answer: "UP THE HILL"
+  - tossup:
+      question: "What mortal woman chose Idas over Apollo?"
+      answer: "MARPESSA"
+    boni:
+      - question: "Who was Marpessa’s father, who died in Idas’ pursuit of her hand?"
+        answer: "EVENUS"
+      - question: "What hero married Cleopatra, daughter of Idas and Marpessa?"
+        answer: "MELEAGER"
+  - tossup:
+      question: "In what region of Italy did the town of Pompeii flourish?"
+      answer: "CAMPANIA"
+    boni:
+      - question: "Name a neighboring town in Campania."
+        answer: "HERCULANEUM, NOLA, NUCERIA, STABIAE, NEAPOLIS, MISENUM"
+      - question: "Name another."
+        answer: "HERCULANEUM, NOLA, NUCERIA, STABIAE, NEAPOLIS, MISENUM"
+  - tossup:
+      question: "Using <latin>cēnō, cēnāre</latin>, translate into Latin the verb for the following indirect statement: “I don’t think that Marcia has dined at Publius’ house.”"
+      answer: "<latin>CĒNĀVISSE</latin>"
+    boni:
+      - question: "“I didn’t think that Marcia would dine at Publius’ house.”"
+        answer: "<latin>CĒNĀTŪRAM ESSE</latin>"
+      - question: "“I didn’t think that Marcia was dining at Publius’ house.”"
+        answer: "<latin>CĒNĀRE</latin>"
+  - tossup:
+      question: "What English word, derived from Greek words meaning “on” and “people,” describes a rapidly spreading contagious disease?"
+      answer: "EPIDEMIC"
+    boni:
+      - question: "What word related to epidemic is used to describe a geographically wide epidemic?"
+        answer: "PANDEMIC"
+      - question: "What word related to epidemic means “prevalent in a particular locality or people”?"
+        answer: "ENDEMIC"

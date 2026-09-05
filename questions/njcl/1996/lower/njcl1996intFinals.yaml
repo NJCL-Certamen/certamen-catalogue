@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Which of the Roman emperors made Italy subject to the same land taxes as the rest of the empire?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "For what did Diocletian need money?"
+        answer: "SUPPORT OF THE ARMIES"
+      - question: "In order to curb inflation, what edict did Diocletian issue in AD 301?"
+        answer: "EDICT OF PRICES (SPECIFIED MAXIMUM PRICES & WAGES)"
+  - tossup:
+      question: "What Latin preposition is preserved in the English adjective “puny”?"
+      answer: "<latin>POST</latin>"
+    boni:
+      - question: "What Latin verb is the root of “puny”?"
+        answer: "<latin>NASCĪ</latin>"
+      - question: "What word, derived from <latin>nascor</latin> and borrowed from the French, is used in English when identifying a married woman by her maiden name?"
+        answer: "NEE (ne), e.g. Mrs. Mary Parks nee Doe"
+  - tossup:
+      question: "A nymph fleeing from Pan was transformed into reeds on the banks of what river?"
+      answer: "LADON"
+    boni:
+      - question: "Who was the nymph?"
+        answer: "SYRINX"
+      - question: "Which of Heracles’ labors did he complete on the shores of Ladon?"
+        answer: "CAPTURING THE CERYNITIAN HIND"
+  - tossup:
+      question: "What spring was created by a stamp of Pegasus’ foot?"
+      answer: "HIPPOCRENE / PIRENE (at Corinth)"
+    boni:
+      - question: "Where was Hippocrene?"
+        answer: "MOUNT HELICON or TROEZEN"
+      - question: "Who was the mother of Pegasus?"
+        answer: "MEDUSA"
+  - tossup:
+      question: "Sometimes common Latin words have their roots in Greek. What is the meaning of the Greek noun at the root of <latin>basilica</latin>?"
+      answer: "KING"
+    boni:
+      - question: "What are the meanings of the Greek roots of <latin>peristylum</latin>?"
+        answer: "AROUND & COLUMN"
+      - question: "What are the meanings of the two Greek words from which <latin>naumachia</latin> is derived?"
+        answer: "SHIP & BATTLE"
+  - tossup:
+      question: "Translate this adage into English: “<latin>Vīta ipsa, quā fruimur, brevis est</latin>.”"
+      answer: "LIFE ITSELF, WHICH WE ENJOY, IS BRIEF"
+    boni:
+      - question: "Translate this adage into English: “<latin>Nēmō dēbet studēre dīvitiīs et honōribus</latin>.”"
+        answer: "NO ONE SHOULD BE EAGER FOR RICHES AND HONORS"
+      - question: "Translate this adage into English: “<latin>Nonne habēs aliquid quod mihi monstrāre vīs?</latin>”"
+        answer: "SURELY YOU HAVE SOMETHING (WHICH) YOU WANT TO SAY TO SHOW ME / YOU HAVE SOMETHING (WHICH) YOU WANT TO SHOW ME, DON’T YOU?"
+  - tossup:
+      question: "What river god pursued his beloved under the sea?"
+      answer: "ALPHEIUS"
+    boni:
+      - question: "Who was the nymph?"
+        answer: "ARETHUSA"
+      - question: "Where does a spring bear her name?"
+        answer: "SICILY (or ORTYGIA or SYRACUSE)"
+  - tossup:
+      question: "Who guides Aeneas into the Underworld?"
+      answer: "SIBYL OF CUMAE / DEIPHOEBE"
+    boni:
+      - question: "Who in the Underworld refuses to talk to Aeneas?"
+        answer: "DIDO"
+      - question: "Where in the Underworld does Aeneas find his father?"
+        answer: "FIELDS OF THE BLESSED / ELYSIAN FIELDS"
+  - tossup:
+      question: "What body part, whose name is a Latin distributive numeral, was originally thought of as being twelve fingers long?"
+      answer: "DUODENUM"
+    boni:
+      - question: "Speaking of internal organs, from what adjective with what meaning is “intestines” derived?"
+        answer: "<latin>INTUS</latin> -- WITHIN"
+      - question: "What parts of the body mean “little bellies”?"
+        answer: "VENTRICLES"
+  - tossup:
+      question: "Name the chieftain of the Aedui who came to Rome in 60 BC seeking protection from Ariovistus."
+      answer: "DIVITIACUS"
+    boni:
+      - question: "Of what confederation of German tribes was Ariovistus the leader?"
+        answer: "THE SUEBI"
+      - question: "Who defeated Ariovistus in 58 BC?"
+        answer: "(C.) JULIUS CAESAR"
+  - tossup:
+      question: "Make the phrase <latin>ista fidēs</latin> dative singular."
+      answer: "<latin>ISTĪ FIDEĪ</latin>"
+    boni:
+      - question: "Make <latin>istī fideī</latin> genitive singular."
+        answer: "<latin>ISTĪUS FIDEĪ</latin>"
+      - question: "Make <latin>istīus fideī</latin> ablative plural."
+        answer: "<latin>ISTĪS FIDĒBUS</latin>"
+  - tossup:
+      question: "What use of the ablative case is found in this sentence: “<latin>Augustus nātus est Marco Tulliō Cicerōne et Gaiō Antoniō consulibus</latin>?”"
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: "What use of the ablative case is found in this sentence: “<latin>Augustus nātus est Atiā et Gaiō Octāviō</latin>?”"
+        answer: "SOURCE, ORIGIN"
+      - question: "What use of the ablative case is found in this sentence: “<latin>Augustus est maior nātū quam Tiberius</latin>?”"
+        answer: "RESPECT, SPECIFICATION"
+  - tossup:
+      question: "Listen carefully to the following paragraph, which I will read twice, and answer in English the question about it. “<latin>Cum Britannī Gallīs auxilia dedissent, hieme orientī Caesar in Britanniam proficīscī contendit. Quā dē causā volēbat in insulā perspicere genus hominum, cognoscere loca, mōrēs, lēgēs.</latin>”"
+      answer: "IN THE BEGINNING OF WINTER"
+    boni:
+      - question: "What did the Britons do to attract Caesar’s interest?"
+        answer: "BECAUSE THE BRITS HAD GIVEN THE GAULS AID / SOLDIERS"
+      - question: "After getting a look at the Britons, what did Caesar want to learn about them?"
+        answer: "THEIR PLACES, CUSTOMS, AND LAWS"
+  - tossup:
+      question: "Who was called the most beautiful of Priam’s daughters?"
+      answer: "LAODICE"
+    boni:
+      - question: "Who was her husband?"
+        answer: "HELICAON (SON OF ANTENOR)"
+      - question: "What happened to her at Troy’s fall?"
+        answer: "SHE WAS SWALLOWED UP BY A CHASM"
+  - tossup:
+      question: "Who was the ruler of the Persian Empire when Alexander the Great invaded Asia?"
+      answer: "DARIUS (III)"
+    boni:
+      - question: "Where did Alexander defeat Darius and the “Grand Army” of the Persian Empire in 335 BC?"
+        answer: "ISSUS"
+      - question: "Where did Alexander defeat Darius and his second “Grand Army” in 331 BC?"
+        answer: "GAUGAMELA"
+  - tossup:
+      question: "Translate <latin>cum</latin> into English for this Latin sentence: “<latin>Hoc nōn difficile est, cum omnia intellegāmus.</latin>”"
+      answer: "WHEN / SINCE / BECAUSE"
+    boni:
+      - question: "Translate <latin>cum</latin> into English for this Latin sentence: “<latin>Cum omnēs mīlitēs concidissent, tamen ācerrimē dux resistēbat.</latin>”"
+        answer: "ALTHOUGH"
+      - question: "Translate <latin>cum</latin> into English for this Latin sentence: “<latin>Cum difficile est, tum nē aequum quidem.</latin>”"
+        answer: "NOT ONLY, BOTH"
+  - tossup:
+      question: "After Domitian recalled a legion to fight on the Danube, Britain was held by three legions. Name a city which was the headquarters of one of these legions."
+      answer: "EBORACUM (YORK), DEVA (CHESTER), ISCA (CAERLEON)"
+    boni:
+      - question: "Name another."
+        answer: "EBORACUM (YORK), DEVA (CHESTER), ISCA (CAERLEON)"
+      - question: "Name the third."
+        answer: "EBORACUM (YORK), DEVA (CHESTER), ISCA (CAERLEON)"
+  - tossup:
+      question: "Give a deponent synonym of <latin>oppugnō</latin>."
+      answer: "AGGREDIOR, ADORIOR"
+    boni:
+      - question: "Give a deponent synonym of <latin>custodiō</latin>."
+        answer: "<latin>TUEOR, INTUEOR</latin>"
+      - question: "Give a deponent synonym of <latin>cadō</latin>."
+        answer: "<latin>LĀBOR, ALLĀBOR, PROLĀBOR</latin>"
+  - tossup:
+      question: "What was a gladiator called at his first public appearance?"
+      answer: "TIRO"
+    boni:
+      - question: "What did the title <latin>primus palus</latin> indicate about an experienced gladiator?"
+        answer: "FIRST SWORD / BEST IN HIS CLASS"
+      - question: "When a gladiator won his freedom, what was he given?"
+        answer: "<latin>RUDIS</latin> / WOODEN SWORD"
+  - tossup:
+      question: "<latin>Rogā me Anglicē quod nōmen mihi sit.</latin>"
+      answer: "PLAYER SHOULD ASK YOU YOUR NAME"
+    boni:
+      - question: "<latin>Dīc mihi Anglicē cur certāmen amēs.</latin>"
+        answer: "PLAYER SHOULD TELL YOU WHY HE (SHE) LOVES CERTAMEN"
+      - question: "<latin>Dīcite mihi Anglicē unde vēnerītis.</latin>"
+        answer: "ALL PLAYERS SHOULD SAY WHERE (WHAT STATE) THEY’RE FROM"

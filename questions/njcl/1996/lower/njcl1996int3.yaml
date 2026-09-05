@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who helped Heracles kill the Hydra?"
+      answer: "IOLAÜS"
+    boni:
+      - question: "How was Iolaüs related to Heracles?"
+        answer: "NEPHEW (SON OF HALF-BROTHER IPHICLES)"
+      - question: "How did Iolaüs help kill the Hydra?"
+        answer: "SEARED STUMPS OF SEVERED HEADS"
+  - tossup:
+      question: "What type of dependent subjunctive clause is found in the following Latin sentence: “<latin>Amīcum mīsit quī eīs persuadēret</latin>”?"
+      answer: "RELATIVE CLAUSE OF PURPOSE"
+    boni:
+      - question: "“<latin>Tam fortis erat iuvenis ut in illā aciē interficerētur</latin>.”?"
+        answer: "RESULT / CONSECUTIVE"
+      - question: "“<latin>Perseus ōrāculum rogāvit num sibi fīlius esset</latin>.”?"
+        answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "Make the phrase <latin>ille portus</latin> genitive singular."
+      answer: "<latin>ILLĪUS PORTŪS</latin>"
+    boni:
+      - question: "Make <latin>illīus portūs</latin> plural."
+        answer: "<latin>ILLŌRUM PORTUUM</latin>"
+      - question: "Make <latin>illōrum portuum</latin> dative."
+        answer: "<latin>ILLĪS PORTIBUS</latin>"
+  - tossup:
+      question: "What king received Odysseus hospitably and sent him to Ithaca in one of his ships?"
+      answer: "ALCINOÜS"
+    boni:
+      - question: "Name the king’s daughter who had discovered the shipwrecked Odysseus when doing the family laundry."
+        answer: "NAUSICAÄ"
+      - question: "What other hero visited Alcinous on his return home?"
+        answer: "JASON"
+  - tossup:
+      question: "Differentiate in meaning between <latin>aedificō</latin> and <latin>afficiō</latin>."
+      answer: "<latin>AEDIFICŌ</latin> -- I BUILD; <latin>AFFICIŌ</latin> -- I AFFECT, ATTACK, WEAKEN"
+    boni:
+      - question: "Differentiate in meaning between <latin>paene</latin> and <latin>paenitet</latin>."
+        answer: "<latin>PAENE</latin> -- ALMOST; <latin>PAENITET</latin> -- IT GRIEVES, DISPLEASES / BE SORRY, REGRET"
+      - question: "Differentiate in meaning between <latin>venia</latin> and <latin>venēnum</latin>."
+        answer: "<latin>VENIA</latin> -- MERCY, PARDON; <latin>VENENUM</latin> -- POISON, SORCERY, RUIN, VENOM"
+  - tossup:
+      question: "Who was the maiden rescued from a sea monster by Perseus?"
+      answer: "ANDROMEDA"
+    boni:
+      - question: "Who was her mother?"
+        answer: "CASSIOPEIA"
+      - question: "Why was she being sacrificed to the sea monster?"
+        answer: "CASSIOPEIA HAD SAID THAT SHE (EITHER HERSELF OR HER DAUGHTER) WAS AS BEAUTIFUL AS THE NEREIDS"
+  - tossup:
+      question: "Who was the Roman commander who after his consulship in 74 BC invaded Pontus and forced Mithridates to flee to Armenia?"
+      answer: "(L. LICINIUS) LUCULLUS"
+    boni:
+      - question: "Who was his infamous brother-in-law, by whom Lucullus’ troops were incited to mutiny?"
+        answer: "(P.) CLODIUS (PULCHER)"
+      - question: "Who took over Lucullus’ command?"
+        answer: "(CN.) POMPEY / POMPEIUS (MAGNUS) (by the Lex Manilia); not Sextus or Strabo"
+  - tossup:
+      question: "Translate the motto of Alabama: “<latin>Audēmus iūra nostra dēfendere.</latin>”"
+      answer: "WE DARE TO DEFEND OUR RIGHTS / LAWS / JUSTICE / DUTIES"
+    boni:
+      - question: "Translate the motto of the Dominion of Canada: “<latin>ā marī usque ad mare.</latin>”"
+        answer: "FROM SEA TO SEA"
+      - question: "Translate the motto of Wellesley College: “<latin>nōn ministrārī, sed ministrāre.</latin>”"
+        answer: "NOT TO BE SERVED / MANAGED, BUT TO SERVE / MANAGE"
+  - tossup:
+      question: "What Roman military commander at the Isthmian Games of 196 BC proclaimed the freedom of Greece?"
+      answer: "(T. QUINCTIUS) FLAMINĪNUS"
+    boni:
+      - question: "Whom had Flamininus defeated so that he could grant this freedom?"
+        answer: "PHILIP V OF MACEDONIA"
+      - question: "After what battle in 197 BC did this occur?"
+        answer: "CYNOSCEPHALAE"
+  - tossup:
+      question: "Give an antonym of <latin>paucī</latin>."
+      answer: "<latin>(PER)MULTĪ, COMPLŪRĒS, PLĒRĪQUE</latin>"
+    boni:
+      - question: "Give an antonym of <latin>vesper</latin>."
+        answer: "<latin>AURŌRA, TEMPUS MĀTŪTĪNUM, PRIMA LUX, ORTUS, MĀNE</latin>"
+      - question: "Give an antonym of <latin>intellegens</latin>."
+        answer: "<latin>BRŪTUS, STULTUS, STUPIDUS, FATUUS, INSCIUS, NESCIUS, IGNĀRUS</latin>"
+  - tossup:
+      question: "What word borrowed directly from Latin and used in English for “a busybody” got its name from the idea that a busybody is always saying “What now?”"
+      answer: "<latin>QUIDNUNC</latin>"
+    boni:
+      - question: "What word borrowed from Latin and used in English for “a music medley” literally means “What you please”?"
+        answer: "<latin>QUODLIBET</latin>"
+      - question: "What word for “someone known for making brief, witty remarks” probably derives from the Latin word for “what”?"
+        answer: "QUIPSTER"
+  - tossup:
+      question: "What fortress plateau in Palestine held out for months against a besieging Roman army?"
+      answer: "MASADA"
+    boni:
+      - question: "What Roman commander finally took it?"
+        answer: "FLAVIUS SILVA"
+      - question: "What was the year?"
+        answer: "73 AD"
+  - tossup:
+      question: "The words <latin>sine mē</latin> can be a phrase or a complete sentence. Translate them as a prepositional phrase."
+      answer: "WITHOUT ME"
+    boni:
+      - question: "Translate <latin>sine mē</latin> as a complete sentence."
+        answer: "ALLOW ME, LET ME, LEAVE ME ALONE"
+      - question: "What is the perfect participle of <latin>sinō</latin>?"
+        answer: "SITUS/-UM"
+  - tossup:
+      question: "Who is the mother of Asclepius by the god Apollo?"
+      answer: "CORONIS"
+    boni:
+      - question: "Who is the mother of Philammon by the god Apollo?"
+        answer: "CHIONE"
+      - question: "Who is the mother of Aristaeus by the god Apollo?"
+        answer: "CYRENE"
+  - tossup:
+      question: "What derivative of <latin>oblīviscor</latin> is an English noun meaning “total forgetfulness”?"
+      answer: "OBLIVION"
+    boni:
+      - question: "What derivative of <latin>mercor</latin> is a noun which describes goods that can be bought or sold?"
+        answer: "MERCHANDISE"
+      - question: "What derivative of <latin>conor</latin> is an adjective which describes a use of the present tense in which action is attempted or begun in present time but never completed at all?"
+        answer: "CONATIVE"
+  - tossup:
+      question: "What were the <latin>Acta Diurna</latin>?"
+      answer: "(OFFICIAL) DAILY GAZETTE / NEWS (POSTED ON WHITE BOARDS)"
+    boni:
+      - question: "In what part of the city were the <latin>Acta Diurna</latin> posted?"
+        answer: "FORUM"
+      - question: "Where were official copies of the <latin>Acta Diurna</latin> deposited?"
+        answer: "TABULARIUM (ARCHIVES)"
+  - tossup:
+      question: "One of the titles of the British monarch appears on the seal as <latin>F.D.</latin>, which stands for <latin>Fideī Dēfensor</latin>. What is the English translation of this abbreviation?"
+      answer: "DEFENDER OF THE FAITH"
+    boni:
+      - question: "Also appearing on the seal is <latin>D.G.</latin>. What is the Latin and English for this abbreviation?"
+        answer: "<latin>DEĪ GRĀTIĀ</latin> -- BY THE GRACE (favor, etc.) OF GOD"
+      - question: "A related abbreviation is <latin>D.V.</latin>. What is the Latin and English for this abbreviation?"
+        answer: "<latin>DEŌ VOLENTE</latin> -- (WITH) GOD WILLING"
+  - tossup:
+      question: "Say in Latin: He will see."
+      answer: "<latin>VIDĒBIT</latin>"
+    boni:
+      - question: "Say in Latin: He will seem."
+        answer: "<latin>VIDĒBITUR</latin>"
+      - question: "Say in Latin: It seems to me."
+        answer: "<latin>VIDĒTUR MIHI</latin>"
+  - tossup:
+      question: "What dying emperor advised his sons and co-heirs to maintain family harmony, enrich the soldiers, and scorn everyone else?"
+      answer: "(L.) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Who were his sons and co-heirs?"
+        answer: "CARACALLA & GETA"
+      - question: "Caracalla murdered Geta in A.D. 212. Who assassinated Caracalla in A.D. 217?"
+        answer: "(THE PRAETORIAN PREFECT) MACRINUS"
+  - tossup:
+      question: "Name the daughter of the King Creon of Corinth whom Jason married."
+      answer: "GLAUCE / CREUSA"
+    boni:
+      - question: "How did the rejected Medea kill Glauce?"
+        answer: "GAVE HER A POISONED ROBE (WHICH BURNED HER FLESH)"
+      - question: "How did Medea get revenge against Jason?"
+        answer: "KILLS THEIR CHILDREN"

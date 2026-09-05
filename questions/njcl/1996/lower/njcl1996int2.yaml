@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1996
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>Q.E.D.</latin>."
+      answer: "<latin>QUOD ERAT DĒMONSTRANDUM</latin> -- WHICH WAS TO BE PROVED, DEMONSTRATED"
+    boni:
+      - question: "Give the Latin and English for the abbreviation <latin>Q.E.F.</latin>."
+        answer: "<latin>QUOD ERAT FACIENDUM</latin> -- WHICH WAS TO BE DONE"
+      - question: "Give the Latin and English for the abbreviation <latin>Q.E.I.</latin>."
+        answer: "<latin>QUOD ERAT INVENIENDUM</latin> -- WHICH WAS TO BE FOUND"
+  - tossup:
+      question: "Who was the only Roman monarch to be expelled?"
+      answer: "TARQUINIUS SUPERBUS / TARQUIN THE PROUD"
+    boni:
+      - question: "In what year was Tarquin dethroned?"
+        answer: "510 BC"
+      - question: "To what city did Tarquin flee when he left Rome?"
+        answer: "CAERE / CERVETERI"
+  - tossup:
+      question: "From what Latin adjective with what meaning is the English adjective “eager” derived?"
+      answer: "<latin>ĀCER</latin> -- BITTER, SHARP"
+    boni:
+      - question: "What household cooking substance is derived from <latin>ācer</latin>?"
+        answer: "VINEGAR"
+      - question: "What is the Latin word for vinegar?"
+        answer: "<latin>ACĒTUM</latin>"
+  - tossup:
+      question: "What great Trojan hero was the husband of Andromache?"
+      answer: "HECTOR"
+    boni:
+      - question: "What Greek hero killed Hector?"
+        answer: "ACHILLES"
+      - question: "What fate did Hector’s infant son Astyanax suffer?"
+        answer: "THROWN FROM THE WALLS OF TROY"
+  - tossup:
+      question: "Who was the oldest of the four emperors proclaimed in AD 69?"
+      answer: "GALBA (BORN c. 3 BC)"
+    boni:
+      - question: "Who urged Galba to take the imperial throne from Nero?"
+        answer: "VINDEX"
+      - question: "Who bribed the Praetorian Guard to support Galba?"
+        answer: "NYMPHIDIUS SABINUS"
+  - tossup:
+      question: "What daughter of Cadmus was the wife of Athamas?"
+      answer: "INO"
+    boni:
+      - question: "Who asked the Furies to drive Athamas and Ino mad?"
+        answer: "JUNO / HERA"
+      - question: "What minor deity did Ino become?"
+        answer: "LEUCOTHEA (LEUCOTHŌE) / MATER MATUTA"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: “Crās plūs dolōris habēbimus.”?"
+      answer: "PARTITIVE / GENITIVE OF THE WHOLE"
+    boni:
+      - question: "What use of the genitive case is found in the following sentence: “Hortus est plēnus flōrum.”?"
+        answer: "WITH (SPECIAL) ADJECTIVES / OBJECTIVE"
+      - question: "What use of the genitive case is found in the following sentence: “Senatōrum togae sunt sordidae.”?"
+        answer: "POSSESSIVE"
+  - tossup:
+      question: "Who ruled Italy after the deposition of the boy emperor Romulus Augustulus?"
+      answer: "ODO(V)ACER"
+    boni:
+      - question: "To what Germanic tribe did Odo(v)acer belong?"
+        answer: "OSTROGOTHS"
+      - question: "Who was the emperor in the eastern empire at this time?"
+        answer: "ZENO"
+  - tossup:
+      question: "What Latin preposition is the root of “country”?"
+      answer: "<latin>CONTRA / CUM / ULTRA</latin>"
+    boni:
+      - question: "What Latin adjective is the root of “farm”?"
+        answer: "<latin>FIRMUS</latin>"
+      - question: "What Latin noun is the root of “salvage”?"
+        answer: "<latin>SALŪS</latin>"
+  - tossup:
+      question: "Using the verb <latin>volō, velle</latin>, translate “want” into Latin for the following sentence: “Julia, do you really want to go to the zoo?”"
+      answer: "<latin>VĪS(NE) / VĪN</latin>"
+    boni:
+      - question: "Julia, I don’t know why you want to go to the zoo to see those silly animals."
+        answer: "<latin>VELĪS</latin>"
+      - question: "I think I want to stay home."
+        answer: "<latin>VELLE</latin>"
+  - tossup:
+      question: "Name the son of Zeus and Hera who was the god of war."
+      answer: "ARES"
+    boni:
+      - question: "What other deity appreciated Ares because he increased the inhabitants of his kingdom?"
+        answer: "HADES"
+      - question: "What bird was sacred to Ares?"
+        answer: "VULTURE / BUZZARD"
+  - tossup:
+      question: "Who was Odysseus’ father, for whom Penelope was supposedly weaving a shroud?"
+      answer: "LAERTES"
+    boni:
+      - question: "What did she promise to do when she finished it?"
+        answer: "CHOOSE FROM AMONG THE SUITORS"
+      - question: "Which father of one of the suitors was killed by the elderly Laertes?"
+        answer: "EUPEITHES"
+  - tossup:
+      question: "Change <latin>aggrediēbantur</latin> to subjunctive."
+      answer: "<latin>AGGREDERENTUR</latin>"
+    boni:
+      - question: "Change <latin>aggrederentur</latin> to present."
+        answer: "<latin>AGGREDIANTUR</latin>"
+      - question: "Change <latin>aggrediantur</latin> to perfect."
+        answer: "<latin>AGGRESSĪ SINT</latin>"
+  - tossup:
+      question: "What was a <latin>laudatio funebris</latin>?"
+      answer: "FUNERAL ORATION"
+    boni:
+      - question: "Who delivered a <latin>laudatio</latin>?"
+        answer: "A MAGISTRATE OR CLOSE RELATIVE"
+      - question: "Where was the <latin>laudatio</latin> usually delivered?"
+        answer: "IN THE FORUM"
+  - tossup:
+      question: "In what modern country would all or most of the imperial province of Asia have been located?"
+      answer: "TURKEY"
+    boni:
+      - question: "...of Baetica have been located?"
+        answer: "SPAIN"
+      - question: "...of Macedonia have been located?"
+        answer: "GREECE"
+  - tossup:
+      question: "Complete this analogy: <latin>scīre : scientia :: posse : ________?</latin>"
+      answer: "<latin>POTESTĀS, POTENTIA</latin>"
+    boni:
+      - question: "<latin>audax : audācia :: senex : ________?</latin>"
+        answer: "<latin>SENECTŪS, SENECTA</latin>"
+      - question: "<latin>exīre : exitus :: inīre : _______?</latin>"
+        answer: "<latin>INITIUM, INITUS</latin>"
+  - tossup:
+      question: "What common English pair would be represented in Latin as <latin>lac et crustula</latin>?"
+      answer: "MILK AND COOKIES"
+    boni:
+      - question: "...<latin>perna et ōva</latin>?"
+        answer: "HAM AND EGGS / BACON AND EGGS"
+      - question: "...<latin>complexūs et oscula</latin>?"
+        answer: "HUGS AND KISSES"
+  - tossup:
+      question: "Who killed Theseus by pushing him over a cliff?"
+      answer: "LYCOMEDES"
+    boni:
+      - question: "On what island did this murder occur?"
+        answer: "SCYRUS / SCYROS"
+      - question: "Name Lycomedes’ grandson."
+        answer: "NEOPTOLEMUS / PYRRHUS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>columna</latin> and <latin>calumnia</latin>."
+      answer: "<latin>COLUMNA</latin> -- COLUMN; <latin>CALUMNIA</latin> -- TRICKERY, DISGRACE, SLANDER, CALUMNY"
+    boni:
+      - question: "Differentiate in meaning between <latin>custōs</latin> and <latin>castus</latin>."
+        answer: "<latin>CUSTŌS</latin> -- GUARD; <latin>CASTUS</latin> -- PURE, CHASTE"
+      - question: "Differentiate in meaning between <latin>mōlēs</latin> and <latin>mollis</latin>."
+        answer: "<latin>MŌLĒS</latin> -- MASS, BULK; <latin>MOLLIS</latin> -- SOFT, MILD, TENDER"
+  - tossup:
+      question: "Give the present active participle of <latin>cūrō, cūrāre</latin>."
+      answer: "<latin>CŪRĀNS</latin>"
+    boni:
+      - question: "Give the same form for <latin>dīrigō</latin>."
+        answer: "<latin>DĪRIGĒNS</latin>"
+      - question: "Give the same form for <latin>impleō</latin>."
+        answer: "<latin>IMPLĒNS</latin>"

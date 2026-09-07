@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Round 1
+questions:
+  - tossup:
+      question: "Give the remaining principal parts of the Latin verb <latin>do</latin>."
+      answer: "<latin>DARE, DEDI, DATUS</latin>"
+    boni:
+      - question: "What conjugation do most of its compounds belong to?"
+        answer: "THIRD"
+      - question: "Give one that remains in the first conjugation."
+        answer: "<latin>CIRCUMDO, MANDO, INTERDO</latin>"
+  - tossup:
+      question: "What was the exact date of Rome's founding?"
+      answer: "APRIL 21, 753 BC"
+    boni:
+      - question: "What is the region of Italy Rome is found in?"
+        answer: "LATIUM"
+      - question: "Which hill was first settled?"
+        answer: "PALATINE"
+  - tossup:
+      question: "What is the Latin name for Ares?"
+      answer: "MARS"
+    boni:
+      - question: "What is the Latin name for Aphrodite?"
+        answer: "VENUS"
+      - question: "What is the Latin name for Apollo?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What Latin verb gave us the English word document?"
+      answer: "<latin>DOCEO</latin>"
+    boni:
+      - question: "What does the Latin verb mean?"
+        answer: "TEACH"
+      - question: "What are the principal parts of the Latin verb that means learn?"
+        answer: "<latin>DISCO, DISCERE, DIDICI, (DISCITURUS)</latin> (or other verb)"
+  - tossup:
+      question: "Translate the Latin sentence: <latin>Videre possum</latin>."
+      answer: "I CAN SEE"
+    boni:
+      - question: "Using the same verbs translate the English: Can you see?"
+        answer: "<latin>VIDERE POTESNE?</latin>"
+      - question: "I think that we ought to see."
+        answer: "<latin>PUTO NOS VIDERE DEBERE or PUTO NOBIS VIDENDUM ESSE.</latin>"
+  - tossup:
+      question: "Who was Julius Caesar's adopted son and heir?"
+      answer: "OCTAVIAN"
+    boni:
+      - question: "What was the real family relationship between them?"
+        answer: "GREATUNCLE AND GREATNEPHEW"
+      - question: "When was Caesar born?"
+        answer: "100 BC"
+  - tossup:
+      question: "What is the positive adverb of <latin>bonus</latin>?"
+      answer: "<latin>BENE</latin>"
+    boni:
+      - question: "The comparative?"
+        answer: "<latin>MELIUS</latin>"
+      - question: "The superlative?"
+        answer: "<latin>OPTIME</latin>"
+  - tossup:
+      question: "What creatures had snakes for hair?"
+      answer: "THE GORGONS"
+    boni:
+      - question: "Which one was mortal?"
+        answer: "MEDUSA"
+      - question: "Who slew Medusa?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "What declensions are almost exclusively feminine?"
+      answer: "1ST AND 5TH"
+    boni:
+      - question: "Name a first declension masculine noun."
+        answer: "<latin>NAUTA, AGRICOLA, PIRATA, POETA, INCOLA</latin>"
+      - question: "Name a fifth declension masculine noun."
+        answer: "<latin>DIES, MERIDIES</latin>"
+  - tossup:
+      question: "What English verb comes from the Latin noun <latin>nihil</latin>?"
+      answer: "ANNIHILATE"
+    boni:
+      - question: "What English synonym comes from <latin>radix</latin>?"
+        answer: "ERADICATE"
+      - question: "What English synonym comes from <latin>stirps</latin>?"
+        answer: "EXTIRPATE"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>iacio</latin>?"
+      answer: "<latin>IECISSE</latin>"
+    boni:
+      - question: "Using this verb, say: We will throw."
+        answer: "<latin>IACIEMUS</latin>"
+      - question: "Quote and translate a famous sentence from antiquity which uses this verb."
+        answer: "<latin>ALEA IACTA EST - THE DIE IS CAST.</latin>"
+  - tossup:
+      question: "Who was the father of Zeus?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who was the mother of Zeus?"
+        answer: "RHEA"
+      - question: "What relation to Zeus was Rhea besides mother?"
+        answer: "MOTHER-IN-LAW"
+  - tossup:
+      question: "What part of speech is the Latin word <latin>diu</latin>?"
+      answer: "ADVERB"
+    boni:
+      - question: "The word <latin>deus</latin>?"
+        answer: "NOUN"
+      - question: "The word <latin>dives</latin>?"
+        answer: "ADJECTIVE"
+  - tossup:
+      question: "Who offered her own life to save her husband's?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Who was her husband?"
+        answer: "ADMETUS"
+      - question: "Who prevented Death from claiming her?"
+        answer: "HERCULES"
+  - tossup:
+      question: "Distinguish in meaning between the Latin verbs <latin>audĕo audēre</latin> and <latin>audio audīre</latin>."
+      answer: "<latin>AUDERE</latin> IS DARE, <latin>AUDIRE</latin> IS HEAR"
+    boni:
+      - question: "Give the Latin for: They have heard."
+        answer: "<latin>AUDIVERUNT</latin>"
+      - question: "Give the Latin for: They have dared."
+        answer: "<latin>AUSI SUNT</latin>"
+  - tossup:
+      question: "What is the Latin for the phrase: a short life?"
+      answer: "<latin>VITA BREVIS</latin>"
+    boni:
+      - question: "Give the same phrase in the ablative singular."
+        answer: "<latin>VITA BREVI</latin>"
+      - question: "Give the same phrase in the genitive plural."
+        answer: "<latin>VITARUM BREVIUM</latin>"
+  - tossup:
+      question: "Who on his first day of life stole his brother's cattle?"
+      answer: "HERMES"
+    boni:
+      - question: "Who was his brother?"
+        answer: "APOLLO"
+      - question: "What did Mermes/Mercury give Apollo to expiate the crime?"
+        answer: "A LYRE"
+  - tossup:
+      question: "On what day next month will we celebrate the 1900th anniversary of the eruption of Vesuvius?"
+      answer: "THE 24TH"
+    boni:
+      - question: "Name at least two cities destroyed in the eruption."
+        answer: "POMPEII, HERCULANEUM, STABIAE"
+      - question: "Who was emperor at the time?"
+        answer: "TITUS"
+  - tossup:
+      question: "Who was Rome's first king?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Her last?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "How many kings were there?"
+        answer: "SEVEN"
+  - tossup:
+      question: "How many wars did Rome fight with Carthage?"
+      answer: "THREE"
+    boni:
+      - question: "What are they called?"
+        answer: "THE PUNIC WARS"
+      - question: "Who said, “Carthāgo delenda est?”"
+        answer: "(M. PORCIUS) CATO THE CENSOR / THE ELDER"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Round 2
+questions:
+  - tossup:
+      question: "Who were the parents of Persephone?"
+      answer: "ZEUS AND DEMETER"
+    boni:
+      - question: "What is her Latin name?"
+        answer: "PROSERPINA"
+      - question: "Who kidnapped her?"
+        answer: "PLUTO"
+  - tossup:
+      question: "Who appealed to Rome to stop the Helvetians migrating across their territory?"
+      answer: "THE AEDUI"
+    boni:
+      - question: "Near what city did Caesar finally defeat the Helvetians?"
+        answer: "BIBRACTE"
+      - question: "Against what Suebic (or German) chieftain did the Gauls next request Caesar's aid?"
+        answer: "ARIOVISTUS"
+  - tossup:
+      question: "What is the superlative of <latin>altus</latin>?"
+      answer: "<latin>ALTISSIMUS</latin>"
+    boni:
+      - question: "What is the comparative of <latin>planus</latin>?"
+        answer: "<latin>PLANIOR</latin>"
+      - question: "What is the superlative of <latin>pulcher</latin>?"
+        answer: "<latin>PULCHERRIMUS</latin>"
+  - tossup:
+      question: "What name is given to the deified Romulus?"
+      answer: "QUIRINUS"
+    boni:
+      - question: "Who was the shepherd who cared for the twins?"
+        answer: "FAUSTULUS"
+      - question: "Who was Faustulus' wife?"
+        answer: "ACCA LAURENTIA"
+  - tossup:
+      question: "Who was the god of earthquakes?"
+      answer: "POSEIDON"
+    boni:
+      - question: "What animal did Poseidon give men?"
+        answer: "HORSE"
+      - question: "What gift of Athena did the Athenians prefer?"
+        answer: "OLIVE TREE"
+  - tossup:
+      question: "Who was Crete's most famous king?"
+      answer: "MINOS"
+    boni:
+      - question: "Who was his wife?"
+        answer: "PASIPHAË"
+      - question: "What monster did she bear?"
+        answer: "MINOTAUR"
+  - tossup:
+      question: "Who bequeathed his kingdom to Rome in 133 BC?"
+      answer: "ATTALUS (III)"
+    boni:
+      - question: "What was his kindgom?"
+        answer: "PERGAMUM"
+      - question: "What name was given to the former kingdom of Pergamum as a Roman province?"
+        answer: "ASIA"
+  - tossup:
+      question: "What are the Latin words abbreviated AD?"
+      answer: "<latin>ANNO DOMINI</latin>"
+    boni:
+      - question: "If we used Latin instead of English for “before Christ,” what would the initials be?"
+        answer: "AC (<latin>ANTE CHRISTUM</latin>)"
+      - question: "What does the phrase <latin>ante bellum</latin> mean?"
+        answer: "BEFORE THE WAR"
+  - tossup:
+      question: "What Latin noun would be a general term for all these Latin nouns: <latin>laurus, pinus, quercus, ulmus</latin>?"
+      answer: "<latin>ARBOR</latin>"
+    boni:
+      - question: "What Latin noun would be a general term for these: <latin>vultur, aquila, columba, pavo</latin>?"
+        answer: "<latin>AVIS</latin>"
+      - question: "What Latin noun would be a general term for these: <latin>stola, tunica, solea, toga</latin>?"
+        answer: "<latin>VESTIS / VESTIMENTUM</latin>"
+  - tossup:
+      question: "What mortal drove the chariot of the sun?"
+      answer: "PHAËTHON"
+    boni:
+      - question: "Who was his mother?"
+        answer: "CLYMENE"
+      - question: "Who was his mortal stepfather?"
+        answer: "MEROPS"
+  - tossup:
+      question: "<latin>Responde Latine: Quot bracchia habes</latin>?"
+      answer: "<latin>DUO</latin>"
+    boni:
+      - question: "<latin>Quot capita habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot oculos habes</latin>?"
+        answer: "<latin>DUO / DUOS</latin>"
+  - tossup:
+      question: "Whose bird was the owl?"
+      answer: "ATHENA'S"
+    boni:
+      - question: "The peacock?"
+        answer: "HERA'S"
+      - question: "The eagle?"
+        answer: "ZEUS'"
+  - tossup:
+      question: "Give the English verb which comes from the comparative of <latin>bonus</latin>."
+      answer: "AMELIORATE"
+    boni:
+      - question: "Name an English adjective from the comparative of <latin>malus</latin>."
+        answer: "PEJORATIVE"
+      - question: "Name an English adverb from the superlative of <latin>bonus</latin>."
+        answer: "OPTIMISTICALLY / OPTIMALLY"
+  - tossup:
+      question: "Translate the Latin word <latin>ala</latin>."
+      answer: "WING"
+    boni:
+      - question: "Translate the Latin word <latin>ara</latin>."
+        answer: "ALTAR"
+      - question: "Translate the Latin word <latin>arca</latin>."
+        answer: "CHEST, BOX, STRONGBOX"
+  - tossup:
+      question: "What is the nominative plural of <latin>virtus</latin>?"
+      answer: "<latin>VIRTUTES</latin>"
+    boni:
+      - question: "What is the nominative plural of <latin>vultus</latin>?"
+        answer: "<latin>VULTUS</latin>"
+      - question: "What is the nominative plural of <latin>vulnus</latin>?"
+        answer: "<latin>VULNERA</latin>"
+  - tossup:
+      question: "What did a Roman call his first name?"
+      answer: "<latin>PRAENOMEN</latin>"
+    boni:
+      - question: "For what praenomen did C. stand?"
+        answer: "GAIUS"
+      - question: "For what praenomen did M. stand?"
+        answer: "MARCUS"
+  - tossup:
+      question: "Which of the following is not a Latin derivative: art, sculpture, theatre, painting?"
+      answer: "THEATRE (Greek root)"
+    boni:
+      - question: "What Latin verb is at the root of paint?"
+        answer: "<latin>PINGO</latin>"
+      - question: "Of color, texture, tint and hue, which is not from Latin?"
+        answer: "HUE"
+  - tossup:
+      question: "Who was sent in 460 BC to rescue the Roman forces trapped on Mount Algidus?"
+      answer: "(L. QUINCTIUS) CINCINNATUS"
+    boni:
+      - question: "What office was Cincinnatus given?"
+        answer: "THE DICTATORSHIP"
+      - question: "Whom were the Romans fighting?"
+        answer: "AEQUI"
+  - tossup:
+      question: "Who was Augustus' promiscuous daughter?"
+      answer: "JULIA"
+    boni:
+      - question: "How many times was she married?"
+        answer: "THREE"
+      - question: "Which of her husbands fathered her children?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "What is the 2nd person singular perfect active indicative of <latin>capio</latin>?"
+      answer: "<latin>CEPISTI</latin>"
+    boni:
+      - question: "Change <latin>cepisti</latin> to passive."
+        answer: "<latin>CAPTUS ES</latin>"
+      - question: "Change <latin>cepisti</latin> to pluperfect."
+        answer: "<latin>CEPERAS</latin>"

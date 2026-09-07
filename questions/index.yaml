@@ -89,6 +89,12 @@ links:
   year: 2019
   division: Intermediate
   round: Semifinals
+- rel: 1979 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1979/lower/njcl1979int1.yaml
+  tournament: NJCL Certamen
+  year: 1979
+  division: Intermediate
+  round: Round 1
 - rel: 1976 NJCL Certamen Advanced Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv2.yaml
   tournament: NJCL Certamen

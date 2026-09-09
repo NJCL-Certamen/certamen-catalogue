@@ -101,6 +101,12 @@ links:
   year: 1979
   division: Intermediate
   round: Round 2
+- rel: 1979 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1979/lower/njcl1979int3.yaml
+  tournament: NJCL Certamen
+  year: 1979
+  division: Intermediate
+  round: Round 3
 - rel: 1976 NJCL Certamen Advanced Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1976/upper/njcl1976adv2.yaml
   tournament: NJCL Certamen

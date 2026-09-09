@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Round 3
+questions:
+  - tossup:
+      question: "What marked a Roman boy's transition to manhood?"
+      answer: "TAKING ON THE <latin>TOGA VIRILIS</latin>"
+    boni:
+      - question: "What had he worn before?"
+        answer: "THE <latin>TOGA PRAETEXTA</latin>"
+      - question: "What kind of apparel was a <latin>cucullus</latin>?"
+        answer: "A HOOD"
+  - tossup:
+      question: "Who was left orders by his father to lift a great rock?"
+      answer: "THESEUS"
+    boni:
+      - question: "What was beneath it?"
+        answer: "A SWORD AND A PAIR OF SANDALS"
+      - question: "Who was Theseus' father?"
+        answer: "AEGEUS (ĕ'jus or ĕ'je'us)"
+  - tossup:
+      question: "In what year did Caesar cross the Rubicon?"
+      answer: "49 BC"
+    boni:
+      - question: "How long did Caesar's first dictatorship last?"
+        answer: "ELEVEN DAYS"
+      - question: "Where and in what year did Caesar defeat Pompey for the last time?"
+        answer: "PHARSALUS IN 48 BC"
+  - tossup:
+      question: "Translate the Latin adjective <latin>aeger</latin>."
+      answer: "SICK"
+    boni:
+      - question: "Translate the noun <latin>morbus</latin>."
+        answer: "DISEASE"
+      - question: "Translate the verb <latin>patior</latin>."
+        answer: "SUFFER, AIL; EXPERIENCE, UNDERGO"
+  - tossup:
+      question: "Who founded Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "Whose daughter did he marry?"
+        answer: "ARES'"
+      - question: "Whom did Cadmus marry?"
+        answer: "HERMIONE / HARMONIA"
+  - tossup:
+      question: "What case follows <latin>satis</latin>?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What case follows <latin>cupidus</latin>?"
+        answer: "GENITIVE"
+      - question: "What case follows <latin>dignus</latin>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "What case is governed by <latin>trans</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case is governed by <latin>cum</latin>?"
+        answer: "ABLATIVE"
+      - question: "What case is governed by <latin>pro</latin>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Translate into English: <latin>Cibum parabam</latin>."
+      answer: "I WAS PREPARING FOOD."
+    boni:
+      - question: "Translate into Latin: We were watching the horses."
+        answer: "<latin>EQUOS SPECTABAMUS</latin>."
+      - question: "Translate into Latin: They warned the girls."
+        answer: "<latin>PUELLAS MONUERUNT</latin>."
+  - tossup:
+      question: "Where was Pyrrhus king?"
+      answer: "EPIRUS (e pi'rus)"
+    boni:
+      - question: "What Italian city-state did he aid against Rome?"
+        answer: "TARENTUM"
+      - question: "What ally of Rome did he almost expel from Sicily?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "Who lost a shoe helping an old woman across a stream?"
+      answer: "JASON"
+    boni:
+      - question: "Who was the old woman?"
+        answer: "HERA"
+      - question: "Whom was Jason going to see?"
+        answer: "PELIAS, HIS UNCLE"
+  - tossup:
+      question: "To what god did merchants pray for protection?"
+      answer: "MERCURY"
+    boni:
+      - question: "To what god did thieves pray?"
+        answer: "ALSO MERCURY"
+      - question: "Who was the goddess of marriage?"
+        answer: "JUNO"
+  - tossup:
+      question: "What is the Latin phrase which means 'this woman'?"
+      answer: "<latin>HAEC MULIER / FEMINA</latin>"
+    boni:
+      - question: "Put the phrase into the genitive singular."
+        answer: "<latin>HUIUS MULIERIS/FEMINAE</latin>"
+      - question: "Put the phrase into the ablative plural."
+        answer: "<latin>HIS MULIERIBUS/FEMINIS</latin>"
+  - tossup:
+      question: "What is the ablative plural of <latin>filia</latin>?"
+      answer: "<latin>FILIABUS</latin>"
+    boni:
+      - question: "What is the ablative plural of <latin>res</latin>?"
+        answer: "<latin>REBUS</latin>"
+      - question: "What is the ablative plural of <latin>homo</latin>?"
+        answer: "<latin>HOMINIBUS</latin>"
+  - tossup:
+      question: "Whose temple sits on an island in the Tiber?"
+      answer: "AESCULAPIUS'"
+    boni:
+      - question: "Whose temple was Rome's mint?"
+        answer: "THE TEMPLE OF JUNO MONETA"
+      - question: "Whose temple contained an eternal flame?"
+        answer: "VESTA'S"
+  - tossup:
+      question: "Translate the Latin noun <latin>sagitta</latin>."
+      answer: "ARROW"
+    boni:
+      - question: "With what would you shoot a <latin>sagitta</latin>?"
+        answer: "<latin>ARCUS</latin>"
+      - question: "What was a <latin>hasta</latin>?"
+        answer: "<latin>SPEAR</latin>"
+  - tossup:
+      question: "Who was his adopted son who succeeded Augustus?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "In what year did Tiberius become emperor?"
+        answer: "14 AD"
+      - question: "What was the real relationship between Augustus and Tiberius?"
+        answer: "STEPSON / STEPFATHER"
+  - tossup:
+      question: "What is the present passive infintve of <latin>duco</latin>?"
+      answer: "<latin>DUCI</latin>"
+    boni:
+      - question: "What is the present passive infintve of <latin>moneo</latin>?"
+        answer: "<latin>MONERI</latin>"
+      - question: "What is the present passive infintve of <latin>audio</latin>?"
+        answer: "<latin>AUDIRI</latin>"
+  - tossup:
+      question: "What is the singular present imperative of <latin>dono</latin>?"
+      answer: "<latin>DONA</latin>"
+    boni:
+      - question: "What is the singular present imperative of <latin>mereo</latin>?"
+        answer: "<latin>MERE</latin>"
+      - question: "What is the singular present imperative of <latin>dico</latin>?"
+        answer: "<latin>DIC</latin>"
+  - tossup:
+      question: "Which noun doesn't belong with the other three: <latin>digitus, manus, pullus, pollex</latin>?"
+      answer: "<latin>PULLUS</latin>"
+    boni:
+      - question: "If you were given a <latin>cena</latin>, would you wear it or eat it?"
+        answer: "EAT IT"
+      - question: "If you were given a <latin>codex</latin>, would you read it or drink it?"
+        answer: "READ IT"
+  - tossup:
+      question: "What deity harassed Hercules?"
+      answer: "JUNO"
+    boni:
+      - question: "Who ordered him to perform the Twelve Labors?"
+        answer: "EURYSTHEUS"
+      - question: "What was the first of them?"
+        answer: "KILLING THE NEMEAN LION"

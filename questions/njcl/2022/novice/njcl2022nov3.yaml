@@ -5,7 +5,7 @@ round: Round Three
 questions:
   - tossup:
       question: "In what year did the Roman empire see a plague, a fire in Rome, and the eruption of Mt. Vesuvius?"
-      answer: "79 AD // 832 AUC"
+      answer: "79 AD / 832 AUC"
     boni:
       - question: "What “darling of mankind” saw these events happen during his short reign that lasted until 81 AD?"
         answer: "TITUS"
@@ -24,9 +24,9 @@ questions:
       answer: "CALLIDA"
     boni:
       - question: "Now, change this phrase <latin>scrīptrīx callida</latin>, to the genitive plural."
-        answer: "SCRĪPTRĪCUM CALLIDĀRUM"
+        answer: "<latin>SCRĪPTRĪCUM CALLIDĀRUM</latin>"
       - question: "Finally, give the correct form of <latin>callida</latin> to complete the blank in the following sentence: <latin>puella pecūniam scrīptrīcibus</latin> [BLANK] dedit."
-        answer: "CALLIDĪS"
+        answer: "<latin>CALLIDĪS</latin>"
   - tossup:
       question: "What Roman god, sometimes identified as a patron of astronomy due to the planet that bears his name and as the protector of thieves because of his juvenile record, is identified with the Greek Hermes?"
       answer: "MERCURY / <latin>MERCURIUS</latin>"
@@ -125,27 +125,27 @@ questions:
         answer: "(MOUNT) IDA"
   - tossup:
       question: "The Parisii were a group of Gauls that dwelled near the Seine River and gave their name to the modern city of Paris. What name did the Romans use to refer to this city?"
-      answer: "<latin>LUTETIA</latin>"
+      answer: "LUTETIA"
     boni:
       - question: "Originally a Greek colony on the Mediterranean coast, what did the Romans call the modern city Marseilles?"
-        answer: "<latin>MASSILIA / MASSALIA</latin>"
+        answer: "MASSILIA / MASSALIA"
       - question: "What did the Romans call the fortified town, used to defend against Germanic people, which eventually became the modern city Vienna?"
-        answer: "<latin>VINDOBONA</latin>"
+        answer: "VINDOBONA"
   - tossup:
-      question: "Respondē Latīne: Quot pedēs canī sunt?"
+      question: "<latin>Respondē Latīne: Quot pedēs canī sunt</latin>?"
       answer: "<latin>QUATTUOR (PEDĒS)</latin>"
     boni:
-      - question: "Respondē Latīne: Quot pulmōnēs porcō sunt?"
+      - question: "<latin>Respondē Latīne: Quot pulmōnēs porcō sunt</latin>?"
         answer: "<latin>DUO (PULMŌNĒS)</latin>"
-      - question: "Respondē Latīne: Quot oculī septem delphīnīs sunt?"
+      - question: "<latin>Respondē Latīne: Quot oculī septem delphīnīs sunt</latin>?"
         answer: "<latin>QUATTUORDECIM</latin>"
   - tossup:
-      question: "Which of the following phrases does NOT belong because of grammar: circum urbem, dē librīs, in inimīcōs, per iānuam?"
+      question: "Which of the following phrases does NOT belong because of grammar: <latin>circum urbem, dē librīs, in inimīcōs, per iānuam</latin>?"
       answer: "<latin>DĒ LIBRĪS</latin>"
     boni:
-      - question: "Which of the following takes an object in the same case as dē: ad, trāns, prō, ob?"
+      - question: "Which of the following takes an object in the same case as <latin>dē: ad, trāns, prō, ob</latin>?"
         answer: "<latin>PRŌ</latin>"
-      - question: "Which of the following takes an object in the same case as circum: sine, ex, ab, contrā?"
+      - question: "Which of the following takes an object in the same case as <latin>circum: sine, ex, ab, contrā</latin>?"
         answer: "<latin>CONTRĀ</latin>"
   - tossup:
       question: "What man interrupted his journey to Iolcus to carry a disguised goddess across a river, earning her help and favor when he led the Argonauts?"

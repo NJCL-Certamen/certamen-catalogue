@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Semifinals
+questions:
+  - tossup:
+      question: "Who was the Gallic chieftain who laid siege to Rome in 390 BC?"
+      answer: "BRENNUS"
+    boni:
+      - question: "At what river had the Romans earlier fought a disastrous battle against the Gauls?"
+        answer: "THE RIVER ALLIA"
+      - question: "How long did the Gauls hold the capitol?"
+        answer: "SEVEN MONTHS"
+  - tossup:
+      question: "Say in Latin: We have led."
+      answer: "<latin>DUXIMUS</latin>"
+    boni:
+      - question: "Change duximus to subjunctive."
+        answer: "<latin>DUXERIMUS</latin>"
+      - question: "Change duxerimus to passive."
+        answer: "<latin>DUCTI SIMUS</latin>"
+  - tossup:
+      question: "<latin>Quot aures habes?</latin>"
+      answer: "<latin>DUAS</latin>"
+    boni:
+      - question: "<latin>Quot linguas?</latin>"
+        answer: "<latin>UNAM</latin>"
+      - question: "<latin>Quot labia habes?</latin>"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "Who was the gods' blacksmith?"
+      answer: "HEPHAESTUS / VULCAN"
+    boni:
+      - question: "Who was his wife?"
+        answer: "APHRODITE / VENUS"
+      - question: "Who was her divine lover?"
+        answer: "ARES / MARS"
+  - tossup:
+      question: "What tense of the subjunctive is formed on the present active infinitive?"
+      answer: "IMPERFECT"
+    boni:
+      - question: "What is the 3rd person singular active imperfect subjunctive of <latin>condo</latin>?"
+        answer: "<latin>CONDERET</latin>"
+      - question: "What is the 2nd person plural passive imperfect subjunctive of <latin>mitto</latin>?"
+        answer: "<latin>MITTEREMINI</latin>"
+  - tossup:
+      question: "Translate into English: <latin>Pluit feles canesque</latin>."
+      answer: "IT IS RAINING CATS AND DOGS."
+    boni:
+      - question: "Translate: <latin>Ningit</latin>."
+        answer: "IT IS SNOWING"
+      - question: "Translate: <latin>Grandinat</latin>."
+        answer: "IT IS HAILING"
+  - tossup:
+      question: "What is the gender of <latin>pax</latin>?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of <latin>pons</latin>?"
+        answer: "MASCULINE"
+      - question: "What is the gender of <latin>dens</latin>?"
+        answer: "MASCULINE"
+  - tossup:
+      question: "Who succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "Who was supposedly his divine consort?"
+        answer: "EGERIA (A NYMPH)"
+      - question: "Who succeeded Numa?"
+        answer: "TULLIUS HOSTILIUS"
+  - tossup:
+      question: "As in “He is taller than I,” what is the Latin word for is?"
+      answer: "<latin>EST</latin>"
+    boni:
+      - question: "For than?"
+        answer: "<latin>QUAM</latin>"
+      - question: "For I?"
+        answer: "<latin>EGO</latin>"
+  - tossup:
+      question: "What is the accusative singular of <latin>dies</latin>?"
+      answer: "<latin>DIEM</latin>"
+    boni:
+      - question: "What is the accusative singular of <latin>quies</latin>?"
+        answer: "<latin>QUIETEM</latin>"
+      - question: "What is the accusative singular of <latin>requies</latin>?"
+        answer: "<latin>REQUIETEM / REQUIEM</latin>"
+  - tossup:
+      question: "What was the name of Mythology's winged horse?"
+      answer: "PEGASUS"
+    boni:
+      - question: "Who tamed and rode Pegasus?"
+        answer: "BELLEROPHON"
+      - question: "What monster did they slay?"
+        answer: "THE CHIMAERA"
+  - tossup:
+      question: "What road ran through the Forum?"
+      answer: "THE <latin>VIA SACRA (VICUS TUSCUS</latin>?)"
+    boni:
+      - question: "What was the original terminus of the <latin>Via Appia</latin>?"
+        answer: "CAPUA"
+      - question: "Where was it later extended to?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "Who was the wife of Odysseus?"
+      answer: "PENELOPE"
+    boni:
+      - question: "Where was his kingdom?"
+        answer: "ITHACA"
+      - question: "How long was he gone from home?"
+        answer: "TWENTY YEARS"
+  - tossup:
+      question: "What Latin phrase means at the same time?"
+      answer: "<latin>EODEM TEMPORE</latin>"
+    boni:
+      - question: "Of the same type?"
+        answer: "<latin>EIUSDEM GENERIS</latin>"
+      - question: "Of the same cities?"
+        answer: "<latin>EARUNDEM URBIUM</latin>"
+  - tossup:
+      question: "What is the plural present imperative of <latin>venio</latin>?"
+      answer: "<latin>VENITE</latin>"
+    boni:
+      - question: "What is the plural present imperative of <latin>duco</latin>?"
+        answer: "<latin>DUCITE</latin>"
+      - question: "What is the plural present imperative of <latin>fleo</latin>?"
+        answer: "<latin>FLETE</latin>"
+  - tossup:
+      question: "Who slew the Python?"
+      answer: "APOLLO"
+    boni:
+      - question: "Who slew the giant Antaeus?"
+        answer: "HERCULES"
+      - question: "What did Hercules have to do to overcome Antaeus?"
+        answer: "RAISE HIM OVER HIS HEAD AND OUT OF CONTANT WITH HIS MOTHER, THE EARTH."
+  - tossup:
+      question: "Who was Tiberius' treacherous right-hand man?"
+      answer: "SEJANUS"
+    boni:
+      - question: "Who was Tiberius' first wife?"
+        answer: "VIPSANIA (AGRIPPINA)"
+      - question: "Who was her father?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "Of the six indicative tenses, how many have no corresponding subjunctive?"
+      answer: "TWO"
+    boni:
+      - question: "Which two?"
+        answer: "FUTURE AND FUTURE PERFECT"
+      - question: "What conjunction introduces most affirmative subjunctive clauses?"
+        answer: "<latin>UT</latin>"
+  - tossup:
+      question: "Who turned into a laurel rather than submit to Appolo's attentions?"
+      answer: "DAPHNE"
+    boni:
+      - question: "Who was turned into a stag by Artemis and killed by his own dogs?"
+        answer: "ACTAEON"
+      - question: "How did Actaeon incur the wrath of Artemis?"
+        answer: "HE SAW HER BATHING"
+  - tossup:
+      question: "Where did Julius Caesar participate in his last battle?"
+      answer: "MUNDA (SPAIN)"
+    boni:
+      - question: "Who were the enemy?"
+        answer: "THE SONS OF POMPEY"
+      - question: "What was the year?"
+        answer: "45 BC"

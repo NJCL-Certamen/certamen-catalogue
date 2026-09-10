@@ -45,12 +45,12 @@ questions:
         answer: "<latin>LUTUM</latin> -- MUD; <latin>SPUTUM</latin> -- SPITTLE"
   - tossup:
       question: "Give the Latin title of the comedy by Plautus in which the slave Tranio convinces his master’s father that his house is haunted."
-      answer: "MOSTELLARIA"
+      answer: "<title>MOSTELLARIA</title>"
     boni:
       - question: "Name the Plautine comedy in which a clever slave manages to steal away from a boastful soldier the girl loved by his young master."
-        answer: "MILES GLORIOSUS"
+        answer: "<latin><title>MILES GLORIOSUS</title></latin>"
       - question: "Name the Plautine comedy named for the clever slave who tricks a pimp out of the girl his young master loves."
-        answer: "PSEUDOLUS"
+        answer: "<title>PSEUDOLUS</title>"
   - tossup:
       question: "What wind god was said to be Iris’ husband?"
       answer: "ZEPHYRUS / FAVONIUS"
@@ -112,7 +112,7 @@ questions:
       answer: "TEMPLE OF JUPITER CAPITOLINUS / OPTIMUS MAXIMUS"
     boni:
       - question: "According to tradition, which king was responsible for laying the foundation of that temple?"
-        answer: "TARQUINIUS PRISCUS"
+        answer: "(L.) TARQUINIUS PRISCUS"
       - question: "In the first year of the republic, the temple was dedicated to three deities. Name them."
         answer: "JUPITER (OPTIMUS MAXIMUS), JUNO (TINIA) & MINERVA (MINVRA)"
   - tossup:

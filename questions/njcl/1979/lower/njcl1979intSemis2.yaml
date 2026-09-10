@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What was the Greek name for Vesta?"
+      answer: "HESTIA"
+    boni:
+      - question: "Among the six children of Cronus and Rhea, where in rank does Hestia come?"
+        answer: "FIRST"
+      - question: "Who is second?"
+        answer: "DEMETER"
+  - tossup:
+      question: "In what year were Pompey and Crassus elected to the consulship?"
+      answer: "70 BC"
+    boni:
+      - question: "In the same year, what former provincial governor was prosecuted by Cicero for extortion?"
+        answer: "VERRES (FORMER GOVERNOR OF SICILY)"
+      - question: "Who represented Verres at the trial?"
+        answer: "HORTENSIUS (HORTALUS)"
+  - tossup:
+      question: "What are the principal parts of the irregular Latin verb which means go?"
+      answer: "<latin>EO, IRE, IVI</latin>, ----"
+    boni:
+      - question: "Using it, say: I will go."
+        answer: "<latin>IBO</latin>"
+      - question: "Using it, say: I was going."
+        answer: "<latin>IBAM</latin>"
+  - tossup:
+      question: "Which of the duties of the king was not inherited by the consuls?"
+      answer: "SUPERVISION OF RELIGIOUS FUNCTIONS"
+    boni:
+      - question: "What official took over this duty?"
+        answer: "<latin>PONTIFEX MAXIMUS / REX SACRORUM</latin>"
+      - question: "What was the name of the Pontifex Maximus' official residence?"
+        answer: "THE <latin>REGIA</latin>"
+  - tossup:
+      question: "What is the opposite of <latin>novus</latin>?"
+      answer: "<latin>ANTIQUUS / VETUS</latin>"
+    boni:
+      - question: "What is the comparative of <latin>vetus</latin>?"
+        answer: "<latin>VETUSTIOR</latin>"
+      - question: "What is the superlative of <latin>vetus</latin>?"
+        answer: "<latin>VETERRIMUS</latin>"
+  - tossup:
+      question: "<latin>Quot umeros habes</latin>?"
+      answer: "<latin>DUO / DUOS</latin>"
+    boni:
+      - question: "<latin>Quot ora habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot colla habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+  - tossup:
+      question: "Who was the mother of Persaus?"
+      answer: "DANAË"
+    boni:
+      - question: "What form did Zeus take to seduce her?"
+        answer: "A SHOWER OF GOLD"
+      - question: "Who was her father?"
+        answer: "ACRISIUS (a kris'i us)"
+  - tossup:
+      question: "What Latin words contract to a noun which means no one?"
+      answer: "<latin>NE</latin> AND <latin>HOMO</latin>"
+    boni:
+      - question: "What is the Latin word?"
+        answer: "<latin>NEMO</latin>"
+      - question: "What two cases do not occur?"
+        answer: "GENITIVE AND ABLATIVE"
+  - tossup:
+      question: "Who were the twin sons born to Leda?"
+      answer: "CASTOR AND POLYDEUCES / POLLUX"
+    boni:
+      - question: "Who were their sisters?"
+        answer: "HELEN AND CLYTEMNESTRA"
+      - question: "Who were the twins born to Latona?"
+        answer: "APOLLO AND DIANA"
+  - tossup:
+      question: "When was Rome's first consular year?"
+      answer: "509 BC"
+    boni:
+      - question: "Who were the consuls?"
+        answer: "(L. TARQUINIUS) COLLATINUS AND (L. JUNIUS) BRUTUS"
+      - question: "Who was the wife of L. Tarquinius Collatinus?"
+        answer: "LUCRETIA"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>iubeo</latin>?"
+      answer: "<latin>IUSSISSE</latin>"
+    boni:
+      - question: "Change <latin>iussisse</latin> to passive."
+        answer: "<latin>IUSSUS ESSE</latin>"
+      - question: "Change <latin>iussisse</latin> to future."
+        answer: "<latin>IUSSURUS ESSE</latin>"
+  - tossup:
+      question: "Change <latin>ego</latin> to plural."
+      answer: "<latin>NOS</latin>"
+    boni:
+      - question: "Change <latin>vobis</latin> to singular."
+        answer: "<latin>TIBI / TE</latin>"
+      - question: "Change <latin>sibi</latin> to plural."
+        answer: "<latin>SIBI</latin>"
+  - tossup:
+      question: "What is the positive adverb from <latin>brevis</latin>?"
+      answer: "<latin>BREVITER</latin>"
+    boni:
+      - question: "Change <latin>breviter</latin> to comparative."
+        answer: "<latin>BREVIUS</latin>"
+      - question: "Change <latin>breviter</latin> to superlative."
+        answer: "<latin>BREVISSIME</latin>"
+  - tossup:
+      question: "What is the Latin noun for summer?"
+      answer: "<latin>AESTAS</latin>"
+    boni:
+      - question: "What is its opposite?"
+        answer: "<latin>HIEMS / BRUMA</latin>"
+      - question: "What is the Latin noun for spring?"
+        answer: "<latin>VER</latin>"
+  - tossup:
+      question: "Where did Tiberius exile himself in 6 BC?"
+      answer: "RHODES"
+    boni:
+      - question: "How long was he there?"
+        answer: "SEVEN YEARS"
+      - question: "What was his island retreat during his reign?"
+        answer: "CAPRI"
+  - tossup:
+      question: "What are the two completely different meanings of the verb form volo?"
+      answer: "I FLY AND I WISH"
+    boni:
+      - question: "Give the two corresponding infinitives."
+        answer: "<latin>VOLARE</latin> AND <latin>VELLE</latin>"
+      - question: "What compound of <latin>velle</latin> means the opposite?"
+        answer: "<latin>NOLLE</latin>"
+  - tossup:
+      question: "Who was purported to be the son of Julius Caesar and Cleopatra?"
+      answer: "CAESARION"
+    boni:
+      - question: "Who claimed that Caesar had acknowledged Caesarion as his son?"
+        answer: "MARC ANTONY"
+      - question: "What happened to Caesarion after the battle of Actium?"
+        answer: "HE WAS EXECUTED BY ORDER OF OCTAVIAN"
+  - tossup:
+      question: "What cases can show possession?"
+      answer: "DATIVE AND GENITIVE"
+    boni:
+      - question: "What cases can show agent?"
+        answer: "DATIVE AND ABLATIVE"
+      - question: "What cases can be prepositional objects?"
+        answer: "ACCUSATIVE AND ABLATIVE"
+  - tossup:
+      question: "Which centaur tutored heroes?"
+      answer: "CHIRON"
+    boni:
+      - question: "Which centaur tried to rape Hercules' wife?"
+        answer: "NESSUS"
+      - question: "What was Nessus' eventual revenge on his killer Hercules?"
+        answer: "NESSUS' BLOOD WAS THE POISON THAT KILLED HIM"
+  - tossup:
+      question: "By what do the gods swear their most inviolable oaths?"
+      answer: "THE STYX"
+    boni:
+      - question: "What is the underworld's river of forgetfulness?"
+        answer: "LETHE"
+      - question: "What is the underworld's river of fire?"
+        answer: "PHLEGETHON"

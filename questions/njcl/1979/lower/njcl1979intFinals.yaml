@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Intermediate"
+round: Finals
+questions:
+  - tossup:
+      question: "Who killed his lover Coronis for infidelity?"
+      answer: "APOLLO"
+    boni:
+      - question: "Who was their son?"
+        answer: "ASCLEPIUS / AESCULAPIUS"
+      - question: "Of what was he god?"
+        answer: "MEDICINE"
+  - tossup:
+      question: "Who was the British queen who led a revolt during the reign of Claudius?"
+      answer: "BOUDICCA / BOADICEA"
+    boni:
+      - question: "What was the queen of the Ethiopians who attacked the Roman forces during the rule of Augustus?"
+        answer: "CANDACE"
+      - question: "Who was the queen of Palmyra who revolted against Rome during Aurelian's reign?"
+        answer: "ZENOBIA"
+  - tossup:
+      question: "Supply a Latin noun which sums up these Latin nouns: <latin>leo, cervus, taurus, ovis</latin>."
+      answer: "<latin>ANIMALIA / QUADRUPEDES</latin>"
+    boni:
+      - question: "Supply one for these nouns: corvus, perdix, anas, anser. <latin>AVES</latin>"
+        answer: "<latin>AVES</latin>"
+      - question: "Supply one for these nouns: murex, tonsicula, tructa, pistrix. <latin>PISCES</latin>"
+        answer: "<latin>PISCES</latin>"
+  - tossup:
+      question: "What early king was fathered by a burning ember?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was his mother?"
+        answer: "OCRISIA"
+      - question: "Who told Ocrisia to stand in front of a fire?"
+        answer: "TANAQUIL"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>maneo</latin>?"
+      answer: "<latin>MANSISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>augeo</latin>?"
+        answer: "<latin>AUXISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>spondeo</latin>?"
+        answer: "<latin>SPOPONDISSE</latin>"
+  - tossup:
+      question: "What is the feminine singular accusative of <latin>is</latin>?"
+      answer: "<latin>EAM</latin>"
+    boni:
+      - question: "The masculine dative singular?"
+        answer: "<latin>EI</latin>"
+      - question: "The neuter accusative singular?"
+        answer: "<latin>ID</latin>"
+  - tossup:
+      question: "Who was the incestuous king of Thebes?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who was his father?"
+        answer: "LAIUS"
+      - question: "Who was his wife/mother?"
+        answer: "JOCASTA"
+  - tossup:
+      question: "What is the present passive infinitive of <latin>facio</latin>?"
+      answer: "<latin>FIERI</latin>"
+    boni:
+      - question: "What is the Latin for: It will be done?"
+        answer: "<latin>FIET</latin>"
+      - question: "What is the Latin for: It has been done?"
+        answer: "<latin>FACTUM EST</latin>"
+  - tossup:
+      question: "What two characters in mythology threw golden apples?"
+      answer: "ERIS AND HIPPOMENES / MELANION"
+    boni:
+      - question: "Why did Hippomenes (Melanion) do so?"
+        answer: "TO DISTRACT ATALANTA AND BEAT HER IN A FOOT RACE"
+      - question: "Where did Eris throw a golden apple?"
+        answer: "AT THE WEDDING OF PELEUS AND THETIS"
+  - tossup:
+      question: "Discounting adoptive connections, what was the relationship of Tiberius to Caligula?"
+      answer: "GREAT-UNCLE"
+    boni:
+      - question: "Of Caligula to Claudius?"
+        answer: "NEPHEW"
+      - question: "Of Claudius to Nero?"
+        answer: "GREAT-UNCLE AND STEPFATHER"
+  - tossup:
+      question: "<latin>Responde Latine: Quot frontes habes?</latin>"
+      answer: "<latin>UNUM</latin>"
+    boni:
+      - question: "<latin>Quot mentes habes?</latin>"
+        answer: "<latin>UNAM</latin>"
+      - question: "<latin>Quot menta habes?</latin>"
+        answer: "<latin>UNUM</latin>"
+  - tossup:
+      question: "<latin>Responde Latine: Quot mariti habes?</latin>"
+      answer: "<latin>UNUM</latin>"
+    boni:
+      - question: "What Latin noun means spouse?"
+        answer: "<latin>CONIUNX</latin>"
+      - question: "What Latin verb is at its root?"
+        answer: "<latin>IUNGO</latin>"
+  - tossup:
+      question: "<latin>Responde Latine: Quot partes orationis est?</latin>"
+      answer: "<latin>QUATTUOR</latin>"
+    boni:
+      - question: "What two parts of speech can <latin>ferri</latin> be?"
+        answer: "VERB AND NOUN"
+      - question: "What does it mean as a verb?"
+        answer: "TO BE BORNE"
+  - tossup:
+      question: "To answer the question correctly, wait for the spotter to recognize the directions in the Latin sentence: <latin>Tange caput vicini tui</latin>."
+      answer: "(STUDENT SHOULD TOUCH THE HEAD OF THE PERSON SITTING, NEXT TO HIM)"
+    boni:
+      - question: "<latin>Tege oculum dextrum manu sinistra</latin>."
+        answer: "(STUDENT SHOULD COVER HIS RIGHT EYE WITH HIS LEFT HAND)"
+      - question: "<latin>Surge, tolle genu sinistrum et tene manibus ambabus</latin>."
+        answer: "(STUDENT SHOULD GET UP, LIFT HIS LEFT KNEE AND HOLD IT WITH BOTH HANDS)"
+  - tossup:
+      question: "What modern nation would you be in if you visited the site of the Temple of Diana at Ephesus?"
+      answer: "TURKEY"
+    boni:
+      - question: "What nation would you be in if you visited the site of the Tomb of Mausolus?"
+        answer: "TURKEY"
+      - question: "How many sites of the Seven Wonders of the World could you see if you refused to leave the European mainland?"
+        answer: "ONE (THE STATUE OF ZEUS AT OLYMPIA)"
+  - tossup:
+      question: "What is the positive adverb of <latin>magnus</latin>?"
+      answer: "<latin>MAGNOPERE</latin>"
+    boni:
+      - question: "What is the positive adverb of <latin>facilis</latin>?"
+        answer: "<latin>FACILE</latin>"
+      - question: "What is the superlative adverb of <latin>facilis</latin>?"
+        answer: "<latin>FACILLIME</latin>"
+  - tossup:
+      question: "What king of Pontus ordered in 88 BC the massacre of all Italians living in Asia Minor?"
+      answer: "MITHRIDATES"
+    boni:
+      - question: "Who was the commander-in-chief of Mithridates' forces?"
+        answer: "ARCHELAÜS"
+      - question: "What Roman leader won the battles of Chaeronea and Orchomenus?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "What do the Latin verbs have in common for which the English translations are: speak, follow, judge and congratulate?"
+      answer: "THEY ARE DEPONENT (<latin>loquor, sequor, arbitror, gratulor</latin>)"
+    boni:
+      - question: "Name a deponent verb meaning fear or respect."
+        answer: "<latin>VEREOR</latin>"
+      - question: "Name a deponent verb meaning try."
+        answer: "<latin>CONOR</latin>"
+  - tossup:
+      question: "What god was called Ultor?"
+      answer: "MARS"
+    boni:
+      - question: "What god was called Tritogeneia?"
+        answer: "MINERVA / ATHENA"
+      - question: "What god was called Nicaeus?"
+        answer: "ZEUS / JUPITER"
+  - tossup:
+      question: "Where did Jason go to find the Golden Fleece?"
+      answer: "COLCHIS / AEA"
+    boni:
+      - question: "Who had brought it there?"
+        answer: "PHRIXUS"
+      - question: "Who was Phrixus' sister?"
+        answer: "HELLE"

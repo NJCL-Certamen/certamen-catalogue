@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Advanced"
+round: Round 1
+questions:
+  - tossup:
+      question: "<latin>Quot terga habes</latin>?"
+      answer: "<latin>UNUM</latin>"
+    boni:
+      - question: "<latin>Quot corda habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot crura habes</latin>?"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "Using <latin>sisto</latin>, give to one person the order to stop."
+      answer: "<latin>SISTE</latin>"
+    boni:
+      - question: "Using <latin>eo</latin>, give one person the order to go."
+        answer: "<latin>I</latin>"
+      - question: "Using <latin>sequor</latin>, give one person the order to follow."
+        answer: "<latin>SEQUERE</latin>"
+  - tossup:
+      question: "In what city did Spartacus' slave rebellion begin?"
+      answer: "CAPUA"
+    boni:
+      - question: "Who finally defeated Spartacus?"
+        answer: "CRASSUS"
+      - question: "In what region of Italy did Crassus finally rout the slave army?"
+        answer: "APULIA"
+  - tossup:
+      question: "Who was the mortal half-brother of Hercules?"
+      answer: "IPHICLES"
+    boni:
+      - question: "Who was their mother?"
+        answer: "ALCMENA"
+      - question: "Who was her husband?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "What was the occupation of a <latin>fullo</latin>?"
+      answer: "A DRY-CLEANER"
+    boni:
+      - question: "What was the occupation of a <latin>fur</latin>?"
+        answer: "A THIEF"
+      - question: "What was the occupation of a <latin>chirurgus</latin>?"
+        answer: "SURGEON"
+  - tossup:
+      question: "In the sentence “We stayed for two days,” what case would two days require?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What would the Latin phrase for two days be?"
+        answer: "<latin>DIES DUO / DUOS / DUAS</latin>"
+      - question: "If the sentence were: We left on the third day, what would on the third day be?"
+        answer: "<latin>DIE TERTIO / TERTIA</latin>"
+  - tossup:
+      question: "What are the only cases in which you find a supine?"
+      answer: "ACCUSATIVE AND ABLATIVE"
+    boni:
+      - question: "What declension do supines belong to?"
+        answer: "FOURTH"
+      - question: "What is the Latin phrase meaning hard to do?"
+        answer: "<latin>DIFFICILE FACTU</latin>"
+  - tossup:
+      question: "In the <title>Aeneid</title>, who says, “<latin>Italiam non sponte sequor</latin>”?"
+      answer: "AENEAS"
+    boni:
+      - question: "To whom?"
+        answer: "DIDO"
+      - question: "What is striking about this and 53 other lines in the poem?"
+        answer: "THEY ARE INCOMPLETE"
+  - tossup:
+      question: "Who was turned into a spider by an angry Athena?"
+      answer: "ARACHNE"
+    boni:
+      - question: "Into what was Callisto changed?"
+        answer: "A BEAR"
+      - question: "Who was her son?"
+        answer: "ARCAS"
+  - tossup:
+      question: "Who escorted souls of the dead to Hades?"
+      answer: "HERMES/MERCURY (PSYCHO-POMPUS)"
+    boni:
+      - question: "Who was the boatman who carried them across the Styx?"
+        answer: "CHARON"
+      - question: "What was the name of the watchdog of Hades?"
+        answer: "CERBERUS"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>frango</latin>?"
+      answer: "<latin>FREGISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>tango</latin>?"
+        answer: "<latin>TETIGISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>iungo</latin>?"
+        answer: "<latin>IUNXISSE</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>fero</latin>?"
+      answer: "<latin>TULISSE</latin>"
+    boni:
+      - question: "What is the meaning of the unrelated adjective which is identical to the perfect passive participle of <latin>fero</latin>?"
+        answer: "WIDE"
+      - question: "What does the noun <latin>latus</latin> mean?"
+        answer: "SIDE"
+  - tossup:
+      question: "What was the year of four emperors?"
+      answer: "69 AD"
+    boni:
+      - question: "Name them."
+        answer: "GALBA, OTHO, VITELLIUS, VESPASIAN"
+      - question: "Until what year did Vespasian reign?"
+        answer: "79 AD"
+  - tossup:
+      question: "How many participles does a regular transitive Latin verb have?"
+      answer: "FOUR"
+    boni:
+      - question: "How many more could it have but for which Latin has no form?"
+        answer: "TWO"
+      - question: "Which two participial possibilities do not exist?"
+        answer: "PRESENT PASSIVE AND PERFECT ACTIVE"
+  - tossup:
+      question: "Who was the author of the <latin><title>Ars Poetica</title></latin>?"
+      answer: "HORACE"
+    boni:
+      - question: "By what other title is it known?"
+        answer: "<title>EPISTLE TO THE PISOS</title>"
+      - question: "In what meter is it written?"
+        answer: "DACTYLIC HEXAMETER"
+  - tossup:
+      question: "Who was the father of the Muses?"
+      answer: "ZEUS"
+    boni:
+      - question: "Who was their mother?"
+        answer: "MNEMOSYNE"
+      - question: "How many were there?"
+        answer: "NINE"
+  - tossup:
+      question: "Who was elected sole consul in 52 BC?"
+      answer: "POMPEY"
+    boni:
+      - question: "Whose death in 54 BC had weakened the first Triumvirate?"
+        answer: "JULIA'S"
+      - question: "Where did Crassus die?"
+        answer: "CARRHAE, 53 BC"
+  - tossup:
+      question: "What is Ovid's longest work?"
+      answer: "THE <title>METAMORPHOSES</title>"
+    boni:
+      - question: "How many books?"
+        answer: "FIFTEEN"
+      - question: "What meter is it in?"
+        answer: "DACTYLIC HEXAMETER"
+  - tossup:
+      question: "Where was Vergil's birthplace?"
+      answer: "MANTUA / ANDES"
+    boni:
+      - question: "What year was he born?"
+        answer: "70 BC"
+      - question: "The exact date?"
+        answer: "OCTOBER 15"
+  - tossup:
+      question: "What color is <latin>albus</latin>?"
+      answer: "WHITE"
+    boni:
+      - question: "What is the opposite?"
+        answer: "<latin>ATER</latin> (not <latin>niger</latin>, the opposite of <latin>candidus</latin>)"
+      - question: "What color is <latin>rossus</latin>?"
+        answer: "RED"

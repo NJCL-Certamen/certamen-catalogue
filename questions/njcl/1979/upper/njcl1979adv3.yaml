@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Advanced"
+round: Round 3
+questions:
+  - tossup:
+      question: "What literary device would be in use if the famous quotation were, “Me Tarzan, Jane you”?"
+      answer: "CHIASMUS"
+    boni:
+      - question: "What device is the repetition of copulative conjunctions?"
+        answer: "POLYSYNDETON"
+      - question: "What is the repetition of a word at the beginning of several successive clauses?"
+        answer: "ANAPHORA"
+  - tossup:
+      question: "Who was adopted by Augustus at the same time as Tiberius?"
+      answer: "AGRIPPA POSTUMUS"
+    boni:
+      - question: "Whom did Augustus compel Tiberius to adopt?"
+        answer: "TIBERIUS' NEPHEW GERMANICUS"
+      - question: "How many post-Tiberian emperors were flesh-and-blood relatives of Germanicus?"
+        answer: "THREE (SON CALIGULA, BROTHER CLAUDIUS, GRANDSON NERO)"
+  - tossup:
+      question: "What is the nominative plural of <latin>locus</latin>?"
+      answer: "<latin>LOCA</latin>"
+    boni:
+      - question: "The genitive plural of <latin>mare</latin>?"
+        answer: "<latin>MARIUM</latin>"
+      - question: "The neuter nominative plural of <latin>vetus</latin>?"
+        answer: "<latin>VETERA</latin>"
+  - tossup:
+      question: "What is the superlative of <latin>similis</latin>?"
+      answer: "<latin>SIMILLIMUS</latin>"
+    boni:
+      - question: "What is the superlative of <latin>humilis</latin>?"
+        answer: "<latin>HUMILLIMUS</latin>"
+      - question: "What is the superlative of <latin>nobilis</latin>?"
+        answer: "<latin>NOBILISSIMUS</latin>"
+  - tossup:
+      question: "What foreign enemy referred to Rome as “a city for sale”?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "What Roman commander led a successful campaign against Jugurtha but couldn't force a surrender?"
+        answer: "(Q. CAECILIUS) METELLUS (NUMIDICUS)"
+      - question: "Who took over the command from Metellus?"
+        answer: "(C.) MARIUS"
+  - tossup:
+      question: "From a work by what Roman poet do we get much of our knowledge of Roman holidays?"
+      answer: "(P.) OVID(IUS NASO)"
+    boni:
+      - question: "What is the work?"
+        answer: "<latin><title>FASTI</title></latin>"
+      - question: "What was the site of Ovid's exile?"
+        answer: "TOMIS, IN DACIA"
+  - tossup:
+      question: "Who cursed a man with insatiable hunger for cutting down her sacred oaks?"
+      answer: "DEMETER"
+    boni:
+      - question: "Who was the accursed?"
+        answer: "ERYSICHTHON"
+      - question: "What did he finally eat before she destroyed him?"
+        answer: "HIS OWN FLESH"
+  - tossup:
+      question: "Of what type of verb is <latin>odi</latin> an example?"
+      answer: "DEFECTIVE"
+    boni:
+      - question: "Using it, say I used to hate."
+        answer: "<latin>ODERAM</latin>"
+      - question: "Using it, say I will hate."
+        answer: "<latin>ODERO</latin>"
+  - tossup:
+      question: "Which member of the first triumvirate died first?"
+      answer: "(M. LICINIUS) CRASSUS"
+    boni:
+      - question: "Who was next to die?"
+        answer: "(CN.) POMPEIUS / POMPEY (MAGNUS)"
+      - question: "Where and when?"
+        answer: "EGYPT, SEPTEMBER 28, 48 BC"
+  - tossup:
+      question: "In what war did the disaster of the Caudine Forks occur?"
+      answer: "THE SECOND SAMNITE WAR"
+    boni:
+      - question: "What was the ordeal of the captured Romans?"
+        answer: "FORCED TO PASS IN TUNICS ONLY UNDER A YOKE OF SPEARS"
+      - question: "What was the year?"
+        answer: "321 BC"
+  - tossup:
+      question: "What is the 2nd person plural perfect active indicative of <latin>vinco</latin>?"
+      answer: "<latin>VICISTIS</latin>"
+    boni:
+      - question: "Change <latin>vicistis</latin> to pluperfect subjunctive."
+        answer: "<latin>VICISSETIS</latin>"
+      - question: "Change <latin>vicissetis</latin> to passive."
+        answer: "<latin>VICTI ESSETIS</latin>"
+  - tossup:
+      question: "Who was the seer of the Greeks at Troy?"
+      answer: "CALCHAS"
+    boni:
+      - question: "Calchas was fated to die when he met a greater seer than himself. Who was it?"
+        answer: "MOPSUS"
+      - question: "What seer understood the speech of the birds and animals?"
+        answer: "MELAMPUS (TIRESIAS UNDERSTOOD THE SPEECH OF BIRDS ONLY)"
+  - tossup:
+      question: "What Latin word for a small child refers to his inability to speak?"
+      answer: "<latin>INFANS</latin>"
+    boni:
+      - question: "What term for themselves used by the Romans referred to their style of dress?"
+        answer: "THE <latin>GENS TOGATA</latin>"
+      - question: "What is the Latin word for our trousers?"
+        answer: "<latin>BRACCAE</latin>"
+  - tossup:
+      question: "Who was the first king of the Myrmidons?"
+      answer: "AEACUS"
+    boni:
+      - question: "What was their island home?"
+        answer: "AEGINA"
+      - question: "Who curse the island with the plague?"
+        answer: "HERA"
+  - tossup:
+      question: "Distinguish in meaning between <latin>posui</latin> and <latin>potui</latin>."
+      answer: "<latin>POSUI</latin> - I HAVE PLACED; <latin>POTUI</latin> - I HAVE BEEN ABLE"
+    boni:
+      - question: "Change <latin>posui</latin> to passive subjunctive."
+        answer: "<latin>POSITUS SIM</latin>"
+      - question: "Change <latin>potui</latin> to the present subjunctive."
+        answer: "<latin>POSSIM</latin>"
+  - tossup:
+      question: "Change to plural the verb form <latin>vis</latin>."
+      answer: "<latin>VULTIS</latin>"
+    boni:
+      - question: "Change <latin>ferunt</latin> to singular."
+        answer: "<latin>FERT</latin>"
+      - question: "Change <latin>nolunt</latin> to singular."
+        answer: "<latin>NON VULT</latin>"
+  - tossup:
+      question: "Who wrote a biography called <title>Agricola</title>?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "What relation was he to Gnaeus Julius Agricola?"
+        answer: "SON-IN-LAW"
+      - question: "On what distant land was it a treatise?"
+        answer: "BRITAIN"
+  - tossup:
+      question: "What is the punishment in Hades of the Danaïds?"
+      answer: "DRAWING WATER IN SIEVES"
+    boni:
+      - question: "What was their crime?"
+        answer: "MURDERING THEIR BRIDEGROOMS"
+      - question: "Who alone of them did not?"
+        answer: "HYPERMNESTRA"
+  - tossup:
+      question: "What was Catullus' name for his beloved?"
+      answer: "LESBIA"
+    boni:
+      - question: "What was probably her true identity?"
+        answer: "CLODIA"
+      - question: "To what friend does Catullus dedicate his libellus?"
+        answer: "CORNELIUS NEPOS"
+  - tossup:
+      question: "What was a tonstrina?"
+      answer: "A BARBER SHOP"
+    boni:
+      - question: "In Latin, who practiced his trade within?"
+        answer: "A <latin>TONSOR</latin>"
+      - question: "What did a <latin>pistor</latin> do for a living?"
+        answer: "HE WAS A BAKER"

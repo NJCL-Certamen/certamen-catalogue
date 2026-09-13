@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Advanced"
+round: Round 1
+questions:
+  - tossup:
+      question: "What is the positive adverb of acer?"
+      answer: "<latin>ACRITER</latin>"
+    boni:
+      - question: "The superlative adverb?"
+        answer: "<latin>ACERRIME</latin>"
+      - question: "The positive adverb of <latin>atrox</latin>?"
+        answer: "<latin>ATROCITER</latin>"
+  - tossup:
+      question: "How many Graces were there?"
+      answer: "THREE"
+    boni:
+      - question: "What did the Greeks call them?"
+        answer: "THE <latin>CHARITES</latin>"
+      - question: "Who was their mother?"
+        answer: "EURYNOME"
+  - tossup:
+      question: "Whom does Vergil call Elissa?"
+      answer: "DIDO"
+    boni:
+      - question: "What land does he call Trinacria?"
+        answer: "SICILY"
+      - question: "What island does he call Ortygia?"
+        answer: "DELOS (or a small island near Syra)"
+  - tossup:
+      question: "Who was the commander of the Pompeian forces at the battle of Thapsus?"
+      answer: "(Q.) METELLUS SCIPIO"
+    boni:
+      - question: "What former lieutenant of Caesar's fought on the side of the Pompeian forces?"
+        answer: "(T.) LABIENUS"
+      - question: "Who committed suicide after Caesar's victory?"
+        answer: "CATO THE UTICAN / THE YOUNGER / <latin>UTICENSIS</latin>"
+  - tossup:
+      question: "What was the Roman Empire's second dynasty?"
+      answer: "THE FLAVIANS"
+    boni:
+      - question: "How many Flavian-emperors were there?"
+        answer: "THREE"
+      - question: "How were they interrelated?"
+        answer: "A FATHER AND TWO SONS"
+  - tossup:
+      question: "How many books are there in the <latin><title>Commentarii de Bello Gallico</title></latin>?"
+      answer: "EIGHT"
+    boni:
+      - question: "How many are Caesar's work?"
+        answer: "SEVEN"
+      - question: "Who wrote the eighth?"
+        answer: "AULUS HIRTIUS"
+  - tossup:
+      question: "What is the genitive singular of <latin>lac</latin>?"
+      answer: "<latin>LACTIS</latin>"
+    boni:
+      - question: "What is the genitive singular of <latin>mel</latin>?"
+        answer: "<latin>MELLIS</latin>"
+      - question: "What is the genitive singular of <latin>caro</latin>?"
+        answer: "<latin>CARNIS</latin>"
+  - tossup:
+      question: "Who was the evil king who tried to seduce Danaë?"
+      answer: "POLYDECTES"
+    boni:
+      - question: "Who was his kindly brother?"
+        answer: "DICTYS"
+      - question: "Where was Polydectes, and later Dictys, king?"
+        answer: "SERIPHOS"
+  - tossup:
+      question: "Who was Cicero's dear friend, many of Cicero's letters to whom survive?"
+      answer: "(T. POMPONIUS) ATTICUS"
+    boni:
+      - question: "How did he acquire the agnomen Atticus?"
+        answer: "HE STUDIED IN ATHENS"
+      - question: "How were his family and Cicero's joined by marriage?"
+        answer: "ATTICUS' SISTER MARRIED QUINTUS TULLIUS CICERO, BROTHER OF THE ORATOR"
+  - tossup:
+      question: "What battle ended the Second Macedonian War?"
+      answer: "CYNOSCEPHALAE"
+    boni:
+      - question: "Who was the Roman commander?"
+        answer: "(T. QUINCTIUS) FLAMINIUS"
+      - question: "What was the year of the battle?"
+        answer: "197 BC"
+  - tossup:
+      question: "What is the enclitic which indicates an interrogative sentence?"
+      answer: "<latin>-NE</latin>"
+    boni:
+      - question: "What introduces a question expecting the answer yes?"
+        answer: "<latin>NONNE</latin>"
+      - question: "What introduces a question expecting the answer no?"
+        answer: "<latin>NUM</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>lego</latin>?"
+      answer: "<latin>LEGISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>rego</latin>?"
+        answer: "<latin>REXISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>tego</latin>?"
+        answer: "<latin>TEXISSE</latin>"
+  - tossup:
+      question: "What is the present active infinitive of <latin>fero</latin>?"
+      answer: "<latin>FERRE</latin>"
+    boni:
+      - question: "What is the present active infinitive of <latin>ferio</latin>?"
+        answer: "<latin>FERIRE</latin>"
+      - question: "What is the present active infinitive of <latin>farcio</latin>?"
+        answer: "<latin>FARCIRE</latin>"
+  - tossup:
+      question: "Who is the Roman goddess of the dawn?"
+      answer: "AURORA"
+    boni:
+      - question: "Who was she in Greek?"
+        answer: "EOS"
+      - question: "Who was the goddess of the rainbow?"
+        answer: "IRIS"
+  - tossup:
+      question: "What historian wrote an account of the Catilinarian conspiracy? What was his full name?"
+      answer: "(C.) SALLUST(IUS CRISPUS)"
+    boni:
+      - question: "Where was his birthplace?"
+        answer: "AMITERNUM (IN THE SABINE TERRITORY)"
+  - tossup:
+      question: "What deity's lover was the mortal Anchises?"
+      answer: "VENUS"
+    boni:
+      - question: "Who was their son?"
+        answer: "AENEAS"
+      - question: "What was Anchises' punishment for being indiscreet about having made love with a goddess?"
+        answer: "ZEUS LAMED HIM WITH A THUNDERBOLT"
+  - tossup:
+      question: "What modern (1979) nation is roughly coextensive with the Roman province of Dalmatia?"
+      answer: "YUGOSLAVIA"
+    boni:
+      - question: "With the province of Dacia?"
+        answer: "ROMANIA"
+      - question: "With the province of Lusitania?"
+        answer: "PORTUGAL"
+  - tossup:
+      question: "What is the ablative gerund of <latin>do</latin>?"
+      answer: "<latin>DANDO</latin>"
+    boni:
+      - question: "What is the genitive gerund of <latin>eo</latin>?"
+        answer: "<latin>EUNDI</latin>"
+      - question: "What is the accusative gerund of <latin>dormio</latin>?"
+        answer: "<latin>DORMIENDUM</latin>"
+  - tossup:
+      question: "What is the genitive singular of the phrase one horse?"
+      answer: "<latin>EQUI UNIUS</latin>"
+    boni:
+      - question: "The dative singular?"
+        answer: "<latin>EQUO UNI</latin>"
+      - question: "Double <latin>equo uni</latin>."
+        answer: "<latin>EQUIS DUOBUS</latin>"
+  - tossup:
+      question: "A Latin word for winter, <latin>bruma</latin>, is a contraction of what?"
+      answer: "<latin>BREVISSIMA</latin>"
+    boni:
+      - question: "What Latin verb, a contraction, means prefer?"
+        answer: "<latin>MALO, MALLE</latin>"
+      - question: "What are the elements contained in malo?"
+        answer: "<latin>MAGIS AND VOLO</latin>"

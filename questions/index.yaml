@@ -95,6 +95,12 @@ links:
   year: 1979
   division: Advanced
   round: Round 1
+- rel: 1979 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1979/upper/njcl1979adv3.yaml
+  tournament: NJCL Certamen
+  year: 1979
+  division: Advanced
+  round: Round 3
 - rel: 1979 NJCL Certamen Advanced Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1979/upper/njcl1979adv1.yaml
   tournament: NJCL Certamen

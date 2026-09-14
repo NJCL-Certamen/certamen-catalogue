@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Advanced"
+round: Semifinals
+questions:
+  - tossup:
+      question: "Name a netuer nominative plural which does not end in <latin>-a</latin>."
+      answer: "<latin>QUAE, HAEC, DUO, AMBO</latin>"
+    boni:
+      - question: "How must a relative pronoun agree with its antecedent?"
+        answer: "IN GENDER AND NUMBER"
+      - question: "What is it called when a relative pronoun takes its case from its antecedent rather than from its function in its own clause?"
+        answer: "CASE BY ATTRACTION"
+  - tossup:
+      question: "Who begins a work, “<latin>Qui fit</latin>”?"
+      answer: "HORACE"
+    boni:
+      - question: "What work?"
+        answer: "<title>THE SATIRES / <latin>SERMONES</latin></title>"
+      - question: "What word follows “<latin>Qui fit</latin>”?"
+        answer: "<latin>MAECENAS</latin>"
+  - tossup:
+      question: "Who was the unjustly accused son of Theseus?"
+      answer: "HIPPOLYTUS"
+    boni:
+      - question: "Who had accused him?"
+        answer: "PHAEDRA, HIS STEPMOTHER"
+      - question: "Which divinity grantdd Theseus' wish that Hippolytus die?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What Latin noun is a general term for these nouns: <latin>torus, sella, lectus, mensa</latin>?"
+      answer: "<latin>SUPELLEX</latin>"
+    boni:
+      - question: "What Latin noun contains all of these: <latin>mala, uva, fici, pruna</latin>?"
+        answer: "<latin>FRUGES (or POMA)</latin>"
+      - question: "What Latin noun includes all of these; <latin>vespertilio, iumentum, caper, lepus</latin>?"
+        answer: "<latin>ANIMALIA</latin>"
+  - tossup:
+      question: "Who is the author of the <title>Works and Days</title>?"
+      answer: "HESIOD"
+    boni:
+      - question: "What is the meter?"
+        answer: "DACTYLIC HEXAMETER"
+      - question: "What is his poem on the birth of the gods?"
+        answer: "<title>THE THEOGONY</title>"
+  - tossup:
+      question: "What Latin word used in scholarly English writing is abbreviated sc?"
+      answer: "<latin>SCILICET</latin>"
+    boni:
+      - question: "Of what is <latin>scilicet</latin> a contraction?"
+        answer: "<latin>SCIRE LICET</latin>"
+      - question: "What is the abbreviation for <latin>videlicet</latin>?"
+        answer: "VIZ"
+  - tossup:
+      question: "Who wrote an epic poem on the Roman civil war?"
+      answer: "LUCAN"
+    boni:
+      - question: "Although it is usually called Pharsalia, what is its more proper title?"
+        answer: "THE <latin><title>BELLUM CIVILE</title></latin>"
+      - question: "What is the number of books?"
+        answer: "TEN"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>cerno</latin>?"
+      answer: "<latin>CREVISSE</latin>"
+    boni:
+      - question: "What other verb has the same perfect active infinitive?"
+        answer: "<latin>CRESCO</latin>"
+      - question: "What two verbs share the same perfect active infinitive <latin>pendisse</latin>?"
+        answer: "<latin>PENDO AND PENDEO</latin>"
+  - tossup:
+      question: "Change <latin>vult</latin> to subjunctive."
+      answer: "<latin>VELIT</latin>"
+    boni:
+      - question: "What is the tense of the archaic subjunctive form <latin>ausim</latin>?"
+        answer: "PERFECT"
+      - question: "What would be the more normal classical form for the archaic form <latin>faxim</latin>?"
+        answer: "<latin>FECERIM</latin>"
+  - tossup:
+      question: "Which of the following is a derivative of <latin>do</latin>: dance, date (the fruit), date (a social occasion), dandy?"
+      answer: "DATE (SOCIAL OCCASION)"
+    boni:
+      - question: "Which of the following is not a derivative of a compound of <latin>do</latin>: traitor, addition, predator, condition?"
+        answer: "PREDATOR"
+      - question: "What Latin verb lies at the ultimate root of predator?"
+        answer: "<latin>PRAEHENDO</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>parco</latin>?"
+      answer: "<latin>PEPERCISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>posco</latin>?"
+        answer: "<latin>POPOSCISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>pango</latin>?"
+        answer: "<latin>PEPIGISSE</latin> / <latin>PEGISSE</latin> / <latin>PANXISSE</latin>"
+  - tossup:
+      question: "In what month and year did Octavian march upon Rome?"
+      answer: "JULY 43 BC"
+    boni:
+      - question: "What was Octavian's first consular act?"
+        answer: "TO RESCIND THE AMNESTY GRANTED THE TYRANNICIDES"
+      - question: "What law empowered the second triumbirate?"
+        answer: "THE <latin>LEX TITIA</latin>"
+  - tossup:
+      question: "What is the comparative of <latin>idoneus</latin>?"
+      answer: "<latin>MAGIS IDONEUS</latin>"
+    boni:
+      - question: "What is the comparative of <latin>frugi</latin>?"
+        answer: "<latin>FRUGALIOR</latin>"
+      - question: "What two superlatives exist for <latin>pius</latin>?"
+        answer: "<latin>PIISSIMUS</latin> AND <latin>PIENTISSIMUS</latin>"
+  - tossup:
+      question: "Who was the first Greek to die at Troy?"
+      answer: "PROTESILAÜS"
+    boni:
+      - question: "Who was his wife?"
+        answer: "LAODAMEIA"
+      - question: "Who killed Protesilaüs?"
+        answer: "HECTOR"
+  - tossup:
+      question: "What was the Latin term for a resolution of the plebeian assembly?"
+      answer: "<latin>PLEBISCITUM</latin>"
+    boni:
+      - question: "What law gave plebiscita the force of law?"
+        answer: "THE <latin>LEX HORTENSIA</latin>"
+      - question: "What law granted intermarriage between plebeians and patricians?"
+        answer: "THE <latin>LEX CANULEIA</latin>"
+  - tossup:
+      question: "Where was Cicero's birthplace?"
+      answer: "ARPINUM"
+    boni:
+      - question: "What was his exact date of birth?"
+        answer: "JANUARY 3, 106 BC"
+      - question: "What was his first case in the courts?"
+        answer: "<latin><title>PRO QUINCTIO</title></latin>"
+  - tossup:
+      question: "Which of Rome's hills contains the Tarpeian Rock?"
+      answer: "THE CAPITOLINE"
+    boni:
+      - question: "Which hill contains a peak called the Cispius?"
+        answer: "THE ESQUILINE"
+      - question: "Where is the Germalus?"
+        answer: "ON THE PALATINE"
+  - tossup:
+      question: "What deity did Cassiopeia anger by boasting of her daughter's beauty?"
+      answer: "POSEIDON / NEPTUNE / NEREÏDS"
+    boni:
+      - question: "What deity did Medusa offend?"
+        answer: "ATHENA / MINERVA"
+      - question: "Who out of jealousy turned Scylla into a horrible monster?"
+        answer: "CIRCE"
+  - tossup:
+      question: "Who committed incest with her brother Macareus?"
+      answer: "CANACE"
+    boni:
+      - question: "Who was their father?"
+        answer: "AEOLUS (not the wind god)"
+      - question: "What was Aeolus' punishment of Canace?"
+        answer: "HE KILLED HER (OR SHE KILLED HERSELF ON HIS ORDERS)"
+  - tossup:
+      question: "Who was the Roman commander at the siege of Syracuse in 212 BC?"
+      answer: "MARCELLUS"
+    boni:
+      - question: "Who had designed the Syracusan war machines?"
+        answer: "ARCHIMEDES"
+      - question: "How did the Romans capture Syracuse?"
+        answer: "IT WAS DELIVERED TO THEM BY A TRAITOR"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1979
+division: "Advanced"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "Distinguish by their works between Seneca the Elder and Seneca the Younger."
+      answer: "SENECA THE ELDER WROTE A LOST HISTORY OF HIS OWN ERA AND WORKS ON ORATORY; SENECA THE YOUNGER WROTE ESSAYS, SATIRE, TRAGEDIES AND A LOST BIOGRAPHY OF HIS FATHER"
+    boni:
+      - question: "Do the same for the Plinies."
+        answer: "THE ELDER WROTE THE NATURAL HISTORY, SCHOLARSY TREATISES AND HISTORIES; THE YOUNGER WROTE LETTERS AND SOME LOST POETRY AND RHETORIC"
+      - question: "What other author was a relative of the Senecas?"
+        answer: "LUCAN"
+  - tossup:
+      question: "What omen at Aulis told Calchas that the Trojan War would last at least nine years?"
+      answer: "A SNAKE CRAWLED OUT FROM UNDER THE ALTAR AND ATE A SPARROW AND HER EIGHT BABIES."
+    boni:
+      - question: "What had Agamemnon done to persuade Calchas to join the Greek army?"
+        answer: "BUILT A TEMPLE TO ARTEMIS, WHOSE PRIEST CALCHAS WAS."
+      - question: "What seer told the Greeks that Troy would not fall until they had rescued Philoctetes?"
+        answer: "HELENUS"
+  - tossup:
+      question: "Who is 24 BC led a conspiracy against the life of Augustus?"
+      answer: "FANNIUS RUFUS"
+    boni:
+      - question: "Who was the consul implicated in the plot?"
+        answer: "VARRO MURENA"
+      - question: "To whom did Augustus give his signet ring during his dangerous illness in 24 BC?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "Name the three great Greek tragedians in chronological order of their deaths."
+      answer: "AESCHYLUS, EURIPIDES, SOPHOCLES"
+    boni:
+      - question: "Which of them dressed himself and his chorus in mourning at the news of another's death?"
+        answer: "SOPHOCLES SO HONORED EURIPIDES"
+      - question: "Which of them composed a poem to his friend Herodotus?"
+        answer: "SOPHOCLES"
+  - tossup:
+      question: "What two heroes fought warriors which had sprung from dragon's teeth?"
+      answer: "CADMUS AND JASON"
+    boni:
+      - question: "What two characters in mythology threw golden apples?"
+        answer: "HIPPOMENES / MELANION AND ERIS"
+      - question: "Atalanta and Hippomenes (Melanion) offended Aphrodite; what was their punishment?"
+        answer: "THEY WERE TURNED INTO LIONS"
+  - tossup:
+      question: "How many letters does the Greek alphabet contain?"
+      answer: "24"
+    boni:
+      - question: "Which one does th transliterate?"
+        answer: "THETA"
+      - question: "Which one does z transliterate?"
+        answer: "ZETA"
+  - tossup:
+      question: "Who was the author of a work more correctly titled <latin><title>Ab excessu divi Augusti</title></latin>?"
+      answer: "TACITUS"
+    boni:
+      - question: "Which work is it?"
+        answer: "THE <title><latin>ANNALES</latin></title>"
+      - question: "What year begins the subject matter of his <latin><title>Historiae</title></latin>?"
+        answer: "69 AD"
+  - tossup:
+      question: "Who was the Roman consul who won the battle of Cape Ecnomus and invaded Africa?"
+      answer: "(M. ATILIUS) REGULUS"
+    boni:
+      - question: "Who was the commander who defeated Regulus in the Valley of Bagradas near Carthage?"
+        answer: "XANTHIPPUS, A SPARTAN MERCENARY WORKING FOR THE CARTHAGINIANS"
+      - question: "What happened to Regulus?"
+        answer: "ALLOWED TO RETURN TO ROME TO SUE FOR PEACE, HE TOLD THE ROMANS TO KEEP FIGHTING AND WENT BACK TO CARTHAGE; HE DIED THERE IN CAPTIVETY. PERHAPS HE WAS TORTURED TO DEATH, BUT THAT VERSION MAY HAVE BEEN INVENTED TO FORGIVE HIS WIDOW'S TORTURING PUNIC PRISONERS IN ROME"
+  - tossup:
+      question: "<latin>Quot ulnas habes?</latin>"
+      answer: "<latin>DUAS</latin>"
+    boni:
+      - question: "<latin>Quot ungues habes?</latin>"
+        answer: "<latin>DECEM / VIGINTI</latin>"
+      - question: "<latin>Quot renes habes?</latin>"
+        answer: "<latin>DUO / DUOS</latin>"
+  - tossup:
+      question: "Who was the author of the <title><latin>Mostellaria</latin></title>?"
+      answer: "PLAUTUS"
+    boni:
+      - question: "What was Terence's full name?"
+        answer: "PUBLIUS TERENTIUS AFER"
+      - question: "What Greek comic wrote the <title>Dyscolus</title> and the <title>Girl from Samos</title>?"
+        answer: "MENANDER"
+  - tossup:
+      question: "Who was the murdered brother of Medea?"
+      answer: "ABSYRTUS"
+    boni:
+      - question: "Who was their father?"
+        answer: "AEËTES"
+      - question: "Who were Aeetes' sisters?"
+        answer: "CIRCE AND PASIPHAË"
+  - tossup:
+      question: "What praenomen is abbreviated M'?"
+      answer: "MANIUS"
+    boni:
+      - question: "Which one is abbreviated Cn?"
+        answer: "GNAEUS"
+      - question: "Which one is abbreviated Mam?"
+        answer: "MAMERCUS"
+  - tossup:
+      question: "<latin>Quod nomen est animalis quod volat?</latin>"
+      answer: "<latin>AVIS</latin>"
+    boni:
+      - question: "<latin>Quod nomen est animalis quod mel facit?</latin>"
+        answer: "<latin>APIS</latin>"
+      - question: "<latin>Quod nomen est animalis quod regem silvae vocamus?</latin>"
+        answer: "<latin>LEO</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>fallo</latin>?"
+      answer: "<latin>FEFELLISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>pello</latin>?"
+        answer: "<latin>PEPULISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>ballo</latin>?"
+        answer: "<latin>BALLAVISSE</latin>"
+  - tossup:
+      question: "Of what classical verb form is <latin>fuat</latin> an archaic form?"
+      answer: "<latin>SIT</latin>"
+    boni:
+      - question: "<latin>Esse</latin> is to be; what is <latin>ēsse</latin>?"
+        answer: "TO EAT"
+      - question: "<latin>Meto</latin> means gather, reap; what is <latin>mēto</latin>?"
+        answer: "MEASURE"
+  - tossup:
+      question: "What language is the common ancestor of Latin, Greek and our Germanic tongue?"
+      answer: "INDO-EUROPEAN"
+    boni:
+      - question: "Derivatives are words which come to English from Latin; what is the term for words in Latin and English descended along different paths from the same Indo-European root?"
+        answer: "COGNATES"
+      - question: "What English verb is cognate to <latin>gnosco</latin>?"
+        answer: "KNOW"
+  - tossup:
+      question: "Name the three Fates."
+      answer: "CLOTHO, LACHESIS, ATROPOS"
+    boni:
+      - question: "Which one measures out life's thread?"
+        answer: "LACHESIS"
+      - question: "Which one cuts it?"
+        answer: "ATROPOS (THE INEVITABLE)"
+  - tossup:
+      question: "Which Macedonian king entered into a compact of mutual assistance with Hannibal in 215 BC?"
+      answer: "PHILIP V"
+    boni:
+      - question: "Who was the Roman general sent to deal with Philip V?"
+        answer: "VALERIUS LAEVINUS"
+      - question: "What king of Asia Minor allied himself with Laevinus against Philip V?"
+        answer: "ATTALUS I OF PERGAMUM"
+  - tossup:
+      question: "Where were you if you were being ministered to by a slave called a perfusor?"
+      answer: "AT THE BATHS"
+    boni:
+      - question: "What would you buy from a lanius?"
+        answer: "MEAT"
+      - question: "What would you be doing if you needed the services of a caupo?"
+        answer: "TRAVELING"
+  - tossup:
+      question: "Where did 300 Spartans attempt to repel the Persians?"
+      answer: "THERMOPYLAE"
+    boni:
+      - question: "Who led the Spartans?"
+        answer: "LEONIDAS"
+      - question: "What was the naval victory that saved Greece?"
+        answer: "SALAMIS"

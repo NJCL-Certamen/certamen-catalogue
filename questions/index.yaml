@@ -257,6 +257,42 @@ links:
   year: 1976
   division: Intermediate
   round: Round 5
+- rel: 1996 NJCL Certamen Novice Round 10
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Round 10
+- rel: 1996 NJCL Certamen Novice Round 100
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Round 100
+- rel: 1996 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996nov1.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Round 1
+- rel: 1996 NJCL Certamen Novice Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996novExtras.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Extra Questions
+- rel: 1996 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996nov3.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Round 3
+- rel: 1996 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/novice/njcl1996nov2.yaml
+  tournament: NJCL Certamen
+  year: 1996
+  division: Novice
+  round: Round 2
 - rel: 1996 NJCL Certamen Advanced Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1996/upper/njcl1996adv1.yaml
   tournament: NJCL Certamen

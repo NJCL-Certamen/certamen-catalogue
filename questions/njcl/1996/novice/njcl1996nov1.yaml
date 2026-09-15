@@ -1,0 +1,180 @@
+tournament: NJCL Certamen
+year: 1996
+division: Novice
+round: Round 1
+questions:
+- tossup:
+    question: <latin>Quae pars capitis est haec?</latin>
+    answer: <latin>OCULUS</latin>
+  boni:
+  - question: <latin>Quae pars ōris est haec?</latin>
+    answer: <latin>LINGUA</latin>
+  - question: <latin>Quae pars bracchiī est haec?</latin>
+    answer: <latin>CUBITUM</latin>
+- tossup:
+    question: Make the phrase <latin>haec culīna</latin> ablative singular.
+    answer: <latin>HĀC CULĪNĀ</latin>
+  boni:
+  - question: Make <latin>hāc culīnā</latin> plural.
+    answer: <latin>HĪS CULĪNĪS</latin>
+  - question: Make <latin>hīs culīnīs</latin> genitive.
+    answer: <latin>HĀRUM CULĪNĀRUM</latin>
+- tossup:
+    question: 'Which of the following English words, if any, is derived from the pronoun
+      <latin>ego</latin>: eagle, egg, egalitarian, egotist, egret?'
+    answer: EGOTIST
+  boni:
+  - question: From what Latin noun is "eagle" derived?
+    answer: <latin>AQUILA</latin>
+  - question: From what Latin adjective is "egalitarian" derived?
+    answer: <latin>AEQUUS</latin>
+- tossup:
+    question: Who succeeded Vespasian as emperor?
+    answer: TITUS
+  boni:
+  - question: How were they related?
+    answer: FATHER AND SON
+  - question: Who succeeded Titus?
+    answer: (HIS BROTHER) DOMITIAN
+- tossup:
+    question: What is the Greek name for Vulcan?
+    answer: HEPHAESTUS
+  boni:
+  - question: What is the Greek name for Mars?
+    answer: ARES
+  - question: What is the Greek name for Vesta?
+    answer: HESTIA
+- tossup:
+    question: 'Translate into Latin the prepositional phrase in the following English
+      sentence: Antonia is sitting in the garden.'
+    answer: <latin>IN HORTŌ</latin>
+  boni:
+  - question: 'Translate into Latin the prepositional phrase in the following English
+      sentence: Soon her mother walks into the garden.'
+    answer: <latin>IN HORTUM</latin>
+  - question: 'Translate into Latin the prepositional phrase in the following English
+      sentence: Her mother then tells her about the journey.'
+    answer: <latin>DĒ ITINERE</latin> / <latin>DĒ VIĀ</latin> / <latin>DĒ CURSŪ</latin>
+- tossup:
+    question: Give an antonym of <latin>dominus</latin>.
+    answer: <latin>DOMINA, SERVUS/-A, FAMULUS, VERNA</latin>
+  boni:
+  - question: Give an antonym of <latin>urbs</latin>.
+    answer: <latin>RŪS, AGER, OPPIDUM, VĪCUS, CAMPUS, SILVA</latin>
+  - question: Give an antonym of <latin>angustus</latin>.
+    answer: <latin>AMPLUS, LĀTUS, LARGUS</latin>
+- tossup:
+    question: Who killed her brother, chopped his body into pieces, and threw them
+      into the sea?
+    answer: MEDEA
+  boni:
+  - question: What was her brother's name?
+    answer: ABSYRTUS / APSYRTUS
+  - question: Who picked up the pieces of Absyrtus’ body in order to give it a proper
+      burial?
+    answer: (KING) AEETES (HIS FATHER)
+- tossup:
+    question: Where in nature do you find nymphs called oreads?
+    answer: THE MOUNTAINS
+  boni:
+  - question: Where do you find dryads?
+    answer: IN OAK TREES
+  - question: Where do you find meliae?
+    answer: IN ASH TREES
+- tossup:
+    question: What river flows through Rome?
+    answer: TIBER
+  boni:
+  - question: What city was located at the Tiber’s mouth?
+    answer: OSTIA, PORTUS
+  - question: In what mountain range is the source of the Tiber?
+    answer: APENNINES
+- tossup:
+    question: 'Change this Latin sentence to the plural: <latin>Māter est bona.</latin>'
+    answer: <latin>MĀTRĒS SUNT BONAE</latin>
+  boni:
+  - question: 'Change this Latin sentence to the plural: <latin>Iter est malum.</latin>'
+    answer: <latin>ITINERA SUNT MALA</latin>
+  - question: 'Change this Latin sentence to the singular: <latin>Vīna sunt dulcia.</latin>'
+    answer: <latin>VĪNUM EST DULCE</latin>
+- tossup:
+    question: Give the second person plural, perfect active indicative of <latin>necō</latin>.
+    answer: <latin>NECĀVISTIS</latin>
+  boni:
+  - question: Change <latin>necāvistis</latin> to imperfect.
+    answer: <latin>NECĀBĀTIS</latin>
+  - question: Change <latin>necābātis</latin> to future.
+    answer: <latin>NECĀBITIS</latin>
+- tossup:
+    question: 'Complete this analogy: <latin>portō : portābis :: terreō : _______?</latin>'
+    answer: <latin>TERRĒBIS</latin>
+  boni:
+  - question: '<latin>portō : portāvit :: doceō : _______?</latin>'
+    answer: <latin>DOCUIT</latin>
+  - question: '<latin>portō : portāverās :: dēleō : _______?</latin>'
+    answer: <latin>DĒLĒVERĀS</latin>
+- tossup:
+    question: What two Greek chieftains at Troy were brothers?
+    answer: AGAMEMNON AND MENELAÜS
+  boni:
+  - question: Who was their father?
+    answer: ATREUS
+  - question: Who was Menelaüs’ wife?
+    answer: HELEN
+- tossup:
+    question: Who wandered for ten years after the Trojan War?
+    answer: ODYSSEUS, ULYSSES
+  boni:
+  - question: Who turned Odysseus’ men into swine?
+    answer: CIRCE
+  - question: What god helped Odysseus avoid the same fate?
+    answer: HERMES, MERCURY
+- tossup:
+    question: Name the earliest written code of Roman laws.
+    answer: (LAWS OF) THE TWELVE TABLES
+  boni:
+  - question: Where did the Romans display these laws, engraved on bronze tablets?
+    answer: <latin>FORUM / CURIA</latin>
+  - question: What name was given to the commission which drew up the Twelve Tables?
+    answer: <latin>DECEMVIRĪ (legibus scrībundīs)</latin>
+- tossup:
+    question: To what Etruscan family did the fifth and seventh kings of Rome belong?
+    answer: TARQUINS (TARQUINII)
+  boni:
+  - question: Which of the Tarquins became king by killing his father-in-law, Servius
+      Tullius?
+    answer: SUPERBUS
+  - question: Which of the Tarquins was assassinated by the sons of Ancus Marcius?
+    answer: PRISCUS
+- tossup:
+    question: Some might not think that abstract art is art, but one thing is certain.
+      The word "abstract" is derived from Latin. From what root verb with what meaning
+      is "abstract" derived?
+    answer: <latin>TRAHERE</latin> -- TO DRAG, DRAW
+  boni:
+  - question: The art style of "impressionism" derives from what Latin root verb with
+      what meaning?
+    answer: <latin>PREMERE</latin> -- TO PRESS
+  - question: The art style of "surrealism" derives from what Latin noun with what
+      meaning?
+    answer: <latin>RĒS</latin> -- THING, MATTER, ETC.
+- tossup:
+    question: Differentiate in meaning between <latin>cūr</latin> and <latin>cor</latin>.
+    answer: <latin>CŪR</latin> -- WHY?; <latin>COR</latin> -- HEART
+  boni:
+  - question: Differentiate in meaning between <latin>amō</latin> and <latin>emō</latin>.
+    answer: <latin>AMŌ</latin> -- I LOVE; <latin>EMŌ</latin> -- I BUY
+  - question: Differentiate in meaning between <latin>petō</latin> and <latin>pōtō</latin>.
+    answer: <latin>PETŌ</latin> -- I SEEK, BEG, ASK; <latin>PŌTŌ</latin> -- I DRINK,
+      ABSORB
+- tossup:
+    question: Which future member of the First Triumvirate proved himself to be a
+      capable military leader by defeating Spartacus?
+    answer: (M. LICINIUS) CRASSUS
+  boni:
+  - question: Who, returning with his troops from Spain, arrived too late for the
+      final battle, but joined the final slaughter and crucified 5000 slaves along
+      the Via Appia?
+    answer: (CN. POMPEIUS MAGNUS) POMPEY
+  - question: Whom had Pompey been fighting in Spain?
+    answer: SERTORIUS

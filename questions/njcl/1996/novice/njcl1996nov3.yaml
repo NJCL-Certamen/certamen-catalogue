@@ -1,0 +1,187 @@
+tournament: NJCL Certamen
+year: 1996
+division: Novice
+round: Round 3
+questions:
+- tossup:
+    question: How many years did Odysseus spend on Circe’s island?
+    answer: ONE
+  boni:
+  - question: What was the name of her island?
+    answer: AEAEA
+  - question: What herb did Hermes give to Odysseus to protect him from Circe’s spells?
+    answer: MOLY
+- tossup:
+    question: Give an antonym of <latin>callidus</latin>.
+    answer: <latin>STULTUS, STUPIDUS, FATUUS, BRŪTUS</latin>
+  boni:
+  - question: Give a synonym of <latin>paupertās</latin>.
+    answer: <latin>INOPIA, PAUPERIĒS, NECESSITĀS</latin>
+  - question: Give a synonym of <latin>fortitūdō</latin>.
+    answer: <latin>VIRTŪS, RŌBUR, VĪRĒS, ANIMUS, ANIMA</latin>
+- tossup:
+    question: What English word for "a period of isolation" got its name from the
+      notion that it was originally forty days long?
+    answer: QUARANTINE
+  boni:
+  - question: What English adjective meaning "intensely painful" originally referred
+      to the act of torture on the cross?
+    answer: EXCRUCIATING
+  - question: What English word, borrowed directly from the Latin for "a means of
+      looking", is used to describe "any wide range"?
+    answer: SPECTRUM
+- tossup:
+    question: Which Roman king established the cult of Vesta?
+    answer: NUMA POMPILIUS
+  boni:
+  - question: Numa was not a Roman by birth. To what tribe did he belong?
+    answer: SABINE
+  - question: Name the nymph who helped Numa rule.
+    answer: EGERIA
+- tossup:
+    question: 'Translate the following Latin sentence into English: <latin>Poēta,
+      cuius librum legēbāmus, est cliēns senatōris.</latin>'
+    answer: THE POET, WHOSE BOOK WE WERE READING, IS THE CLIENT OF A SENATOR
+  boni:
+  - question: <latin>Ille, quōcum iter faciēbas nuntium necāvit</latin>.
+    answer: THAT MAN WITH WHOM YOU WERE JOURNEYING KILLED THE MESSENGER
+  - question: <latin>Puerī, quōs apud Marcum vīdistī, sunt fīliī senātōris.</latin>
+    answer: THE BOYS WHOM YOU SAW AT MARCUS’ HOUSE ARE SONS OF A SENATOR
+- tossup:
+    question: 'Translate the pronoun into Latin for this sentence: The senators praised
+      themselves.'
+    answer: <latin>SĒ(SĒ)</latin>
+  boni:
+  - question: 'Translate "myself" in this sentence: I blamed myself.'
+    answer: <latin>MĒ</latin>
+  - question: 'Translate "yourself" in this sentence: Quintus, be true to yourself.'
+    answer: <latin>TIBI</latin>
+- tossup:
+    question: 'Which of the following Latin nouns, if any, does NOT belong because
+      of gender: <latin>mūrus, pēs, poēta, vulnus, dominus</latin>?'
+    answer: <latin>VULNUS</latin>
+  boni:
+  - question: 'Which of the following Latin verbs, if any, does NOT belong because
+      of conjugation: <latin>aedificō, vertō, amō, necō, levō</latin>?'
+    answer: <latin>VERTŌ</latin>
+  - question: 'Which of the following Latin adjectives, if any, does NOT belong because
+      of declension: <latin>ācer, pulcher, magnus, līber, niger</latin>?'
+    answer: <latin>ĀCER</latin>
+- tossup:
+    question: Which imperial dynasty was distinguished by strong women who were the
+      real power behind the throne?
+    answer: SEVERAN
+  boni:
+  - question: What name did these women share?
+    answer: JULIA
+  - question: The exception to this female domination was the founder of the dynasty.
+      Name him.
+    answer: SEPTIMIUS SEVERUS
+- tossup:
+    question: What god kidnapped Proserpina?
+    answer: PLUTO / ORCUS / DIS
+  boni:
+  - question: Who was Proserpina’s mother?
+    answer: CERES
+  - question: What fruit caused her grief?
+    answer: POMEGRANATE
+- tossup:
+    question: Who was the first wife of Heracles?
+    answer: MEGARA
+  boni:
+  - question: Who caused Heracles to go mad and kill Megara and their children?
+    answer: HERA
+  - question: Who told Heracles to serve Eurystheus?
+    answer: ORACLE AT DELPHI / PYTHIA / APOLLO
+- tossup:
+    question: The Latin word <latin>nāvī</latin> can be either a noun or a verb. What
+      case is the noun form <latin>nāvī</latin>?
+    answer: DATIVE / ABLATIVE
+  boni:
+  - question: Translate <latin>nāvī</latin> as a verb.
+    answer: I SWAM / HAVE SWUM
+  - question: What are the three principal parts of this verb?
+    answer: <latin>NŌ, NĀRE, NĀVĪ</latin>
+- tossup:
+    question: 'Which of the following, if any, is NOT derived from <latin>sum, esse</latin>:
+      consummate, essence, present, entity, interesting?'
+    answer: CONSUMMATE
+  boni:
+  - question: 'Which of the following, if any, is NOT derived from <latin>amō, amāre</latin>:
+      amiable, enamor, amaze, amateur, amatory?'
+    answer: AMAZE
+  - question: 'Which of the following, if any, is NOT derived from <latin>habeō, habēre</latin>:
+      habit, have, ability, prohibit, habitat?'
+    answer: HAVE
+- tossup:
+    question: Give the exact date of the battle of Actium.
+    answer: 2 SEPTEMBER 31 BC
+  boni:
+  - question: Who was the admiral of Octavian's fleet?
+    answer: (M. VIPSANIUS) AGRIPPA
+  - question: When the forces of Octavian met those of Antony and Cleopatra at Actium,
+      who had the larger fleet?
+    answer: ANTONY & CLEOPATRA
+- tossup:
+    question: '<latin>Cupere : cupidus :: audēre : ________?</latin>'
+    answer: <latin>AUDĀX</latin>
+  boni:
+  - question: '<latin>Barba : barbātus :: laus : ________?</latin>'
+    answer: <latin>LAUDĀTUS</latin>
+  - question: '<latin>Pauper : paupertās :: audāx : ________?</latin>'
+    answer: <latin>AUDĀCIA</latin>
+- tossup:
+    question: In what modern country would all or most of the imperial province of
+      <latin>Aquitania</latin> have been located?
+    answer: FRANCE
+  boni:
+  - question: '...of <latin>Lusitania</latin> have been located?'
+    answer: PORTUGAL
+  - question: '...of <latin>Dacia</latin> have been located?'
+    answer: ROMANIA
+- tossup:
+    question: 'What use of the Ablative case is found in the following sentence: <latin>Petite
+      cibum in raedā!</latin>'
+    answer: PLACE WHERE
+  boni:
+  - question: 'What use of the Ablative case is found in the following sentence: <latin>Mīlitēs
+      māximā virtūte pugnant.</latin>'
+    answer: MANNER
+  - question: 'What use of the Ablative case is found in the following sentence: <latin>Tribus
+      diēbus ad Graeciam nāvigābimus.</latin>'
+    answer: TIME WHEN
+- tossup:
+    question: How many laps were completed for a chariot race?
+    answer: SEVEN
+  boni:
+  - question: What was a <latin>missus</latin>?
+    answer: THE RACE (COMPOSED OF THE SEVEN LAPS)
+  - question: How markers indicated the completion of a lap?
+    answer: EGGS & DOLPHINS
+- tossup:
+    question: Whom does Achilles chase three times around the walls of Troy before
+      killing him?
+    answer: HECTOR
+  boni:
+  - question: What deity helps Achilles kill Hector?
+    answer: ATHENA / MINERVA
+  - question: What did Achilles tell the dying Hector that he was going to do with
+      his body?
+    answer: FEED IT TO THE DOGS AND VULTURES (or ANIMALS)
+- tossup:
+    question: 'Translate into English: <latin>Multī dominī Rōmānī servōs bene cūrābant.</latin>'
+    answer: MANY ROMAN MASTERS CARED WELL FOR (THEIR) SLAVES
+  boni:
+  - question: 'Translate into English: <latin>Sōcratēs saepe dīcēbat, "Ūnum Hōc sciō:
+      nihil sciō!"</latin>'
+    answer: 'SOCRATES OFTEN SAID, "I KNOW THIS ONE THING: I KNOW NOTHING."'
+  - question: 'Translate into English: <latin>Nōs cupimus tē nōs docēre Latīnē dīcere.</latin>'
+    answer: WE WANT YOU TO TEACH US TO SPEAK (IN) LATIN
+- tossup:
+    question: Upon what did Nisus’ rule of the city of Megara depend?
+    answer: RETENTION OF HIS LOCK OF PURPLE HAIR
+  boni:
+  - question: Who cut Nisus’ lock of purple hair?
+    answer: (HIS DAUGHTER) SCYLLA
+  - question: Whose love was Scylla trying to win by betraying her father?
+    answer: MINOS'

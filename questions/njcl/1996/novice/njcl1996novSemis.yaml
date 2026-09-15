@@ -1,0 +1,190 @@
+tournament: NJCL Certamen
+year: 1996
+division: Novice
+round: Round 10
+questions:
+- tossup:
+    question: 'Say in Latin: Where are the horses of the master?'
+    answer: <latin>UBI SUNT MAGISTRĪ (DOMINĪ) EQUĪ (or CABALLĪ)?</latin>
+  boni:
+  - question: 'Say in Latin: The boys do not want to stay at home.'
+    answer: <latin>PUERĪ DOMĪ MANĒRE NŌLUNT / NŌN CUPIUNT / NŌN DĒSĪDERANT</latin>
+  - question: 'Say in Latin: My friend was captured by pirates.'
+    answer: <latin>MEUS(-A) AMICUS(-A) Ā PĪRĀTĪS CAPTUS(-A) EST, RAPTUS(-A) EST, etc.</latin>
+- tossup:
+    question: As you are probably aware, astronomers often use classical terms to
+      describe the phenomena they observe. What phenomenon got its name from the idea
+      that it was a "new star" that had just recently formed in the sky?
+    answer: (STELLA) NOVA or SUPERNOVA
+  boni:
+  - question: What term for "a diffuse mass of interstellar dust and gas" comes from
+      the idea that it looks like a "cloud" in space?
+    answer: NEBULA
+  - question: What term for "a celestial body that gives off a variable radio signal"
+      comes from the idea that it has a "beat"?
+    answer: PULSAR
+- tossup:
+    question: There are several members of the Pompeius family who were significant
+      in Roman history. Give the full Roman name of the family member who was in the
+      First Triumvirate.
+    answer: GNAEUS POMPEIUS MAGNUS
+  boni:
+  - question: Name his son who was proscribed by the Second Triumvirate and defeated
+      at the battle of Naulochus.
+    answer: SEXTUS (POMPEIUS)
+  - question: Name the father of Pompey the Great who fought in the Social War.
+    answer: (CN. POMPEIUS) STRABO
+- tossup:
+    question: If a doctor tells his nurse, "I need the results of John Doe’s blood
+      gas stat.!", when does he need the results?
+    answer: IMMEDIATELY
+  boni:
+  - question: Just before John is released from the hospital, the doctor writes a
+      prescription for him that contains the abbreviation guttat. How is John to take
+      his medication?
+    answer: BY DROPS, DROP BY DROP
+  - question: The prescription also contains the abbreviation p.d. What does this
+      mean?
+    answer: HE IS TO TAKE THE MEDICATION DAILY (per diem)
+- tossup:
+    question: Give the third person singular, future active indicative of <latin>opprimō</latin>.
+    answer: <latin>OPPRIMET</latin>
+  boni:
+  - question: Change <latin>opprimet</latin> to passive.
+    answer: <latin>OPPRIMĒTUR</latin>
+  - question: Change <latin>opprimētur</latin> to pluperfect.
+    answer: OPPRESSUS/-A/-UM ERAT
+- tossup:
+    question: 'Translate <latin>quod</latin> into English for this Latin sentence:
+      <latin>Hoc carmen, quod ā Marcō scrīptum est, triste est.</latin>'
+    answer: WHICH
+  boni:
+  - question: 'Translate <latin>quod</latin> into English for this Latin sentence:
+      <latin>Tibi agō grātiās quod pecūniam mihi dedistī.</latin>'
+    answer: BECAUSE
+  - question: 'Translate <latin>quod</latin> into English for this Latin sentence:
+      <latin>Flūmen, quod est altissimum, ad mare fluit.</latin>'
+    answer: WHICH
+- tossup:
+    question: By what more common name is the emperor Marcus Aurelius Antoninus known?
+    answer: CARACALLA/-US
+  boni:
+  - question: By what more common name is the emperor Gaius Julius Caesar Germanicus
+      known?
+    answer: CALIGULA
+  - question: By what more common name is the emperor Varius Avitus Bassianus known?
+    answer: ELAGABALUS or HELIOGABALUS
+- tossup:
+    question: Which emperor murdered his general Flavius Aetius with his own hands?
+    answer: VALENTINIAN III
+  boni:
+  - question: What barbarian invasion had Aetius stopped in AD 451?
+    answer: (THE INVASION) OF ATTILA & THE HUNS OF GAUL
+  - question: Who had made Valentinian emperor of the West?
+    answer: THEODOSIUS II
+- tossup:
+    question: Who, upon seeing his son’s ship with sails of the wrong color, threw
+      himself into the sea?
+    answer: AEGEUS
+  boni:
+  - question: From what exploit was his son Theseus returning?
+    answer: KILLING THE MINOTAUR
+  - question: Who was Theseus’ mother?
+    answer: AETHRA
+- tossup:
+    question: What are Cerialia, Quirinalia, Matronalia, Lupercalia, and Saturnalia?
+    answer: ROMAN FESTIVALS
+  boni:
+  - question: Which of the festivals listed in the toss-up was held in honor of the
+      divine Romulus?
+    answer: QUIRINALIA
+  - question: Which of these festivals was a fertility ceremony held in February?
+    answer: LUPERCALIA
+- tossup:
+    question: 'Which of the following, if any, does not belong because of meaning:
+      <latin>mensa, vulpēs, formīca, fēlēs, bōs</latin>?'
+    answer: <latin>MENSA</latin>
+  boni:
+  - question: 'Which of the following, if any, does not belong because of meaning: <latin>argentum, auris, aes, plumbum</latin>?'
+    answer: <latin>AURIS</latin>
+  - question: 'Which of the following, if any, does not belong because of meaning: <latin>villa, domus, insula, aedificium</latin>?'
+    answer: NONE
+- tossup:
+    question: Who told Apollo that Coronis was unfaithful?
+    answer: A RAVEN / CROW
+  boni:
+  - question: How did Apollo punish Coronis?
+    answer: SHOT HER (THROUGH THE BREAST WITH AN ARROW)
+  - question: Into whose care did Apollo give his son, rescued from the dying Coronis'
+      womb?
+    answer: CHIRON
+- tossup:
+    question: Make the phrase <latin>hoc flūmen</latin> dative singular.
+    answer: <latin>HUIC FLŪMINĪ</latin>
+  boni:
+  - question: Make <latin>huic flūminī</latin> ablative singular.
+    answer: <latin>HŌC FLŪMINE</latin>
+  - question: Make <latin>hōc flūmine</latin> nominative plural.
+    answer: <latin>HAEC FLŪMINA</latin>
+- tossup:
+    question: 'Which of the following, if any, is NOT derived from <latin>locus</latin>:
+      location, couch, locomotion, locular?'
+    answer: NONE
+  boni:
+  - question: '...from <latin>crēdere</latin>: credit, creed, creation, credulity?'
+    answer: CREATION
+  - question: '...from <latin>lac</latin>: lactate, lettuce, laconic, lacteal?'
+    answer: LACONIC
+- tossup:
+    question: Translate the idiom <latin>vim facere</latin>.
+    answer: TO USE VIOLENCE (FORCE)
+  boni:
+  - question: Translate <latin>fābulam agere</latin>.
+    answer: TO ACT IN A PLAY
+  - question: Translate <latin>capitis poena</latin>.
+    answer: A CAPITAL PUNISHMENT
+- tossup:
+    question: For what expedition did Heracles interrupt his labors?
+    answer: JASON’S QUEST FOR THE GOLDEN FLEECE
+  boni:
+  - question: Name Heracles’ squire who went on the expedition with him.
+    answer: HYLAS
+  - question: During what errand did Hylas disappear?
+    answer: SENT TO FETCH WATER AT A SPRING & DISAPPEARS
+- tossup:
+    question: Who was the first Greek soldier on Trojan soil and, fulfilling an oracle,
+      the first to die?
+    answer: PROTESILAÜS
+  boni:
+  - question: Who was his wife?
+    answer: LAODAMEIA
+  - question: What god brought him back to her for three hours and then allowed her
+      to return to Hades with him?
+    answer: HERMES or PSYCHOPOMPUS/-OS
+- tossup:
+    question: Who made his sons swear never to be a friend of Rome?
+    answer: HAMILCAR BARCA
+  boni:
+  - question: Name one of Hamilcar’s sons.
+    answer: HANNIBAL, HASDRUBAL, MAGO
+  - question: Name the other two.
+    answer: HANNIBAL, HASDRUBAL, MAGO
+- tossup:
+    question: What man and wife escaped the great flood and repopulated the earth?
+    answer: DEUCALION AND PYRRHA
+  boni:
+  - question: Who was the father of Deucalion?
+    answer: PROMETHEUS
+  - question: Who was the father of Pyrrha?
+    answer: EPIMETHEUS
+- tossup:
+    question: 'Listen carefully to the following sentences, which I will read twice,
+      and answer in Latin the question about them: <latin>Piscis est animal quod in
+      aquā natat. Sunt piscēs magnī et piscēs parvī. Piscēs magnī saepe edunt piscēs
+      parvōs.</latin>'
+    answer: <latin>PISCIS</latin>
+  boni:
+  - question: Qualēs piscēs in aquā habitant?
+    answer: <latin>MAGNĪ ET PARVĪ</latin>
+  - question: Qualēs piscēs ā magnīs piscibus eduntur?
+    answer: <latin>PARVĪ</latin>

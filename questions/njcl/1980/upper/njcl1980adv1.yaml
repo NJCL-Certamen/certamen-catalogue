@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Advanced"
+round: Round 1
+questions:
+  - tossup:
+      question: "What two cases can show agent?"
+      answer: "DATIVE AND ABLATIVE"
+    boni:
+      - question: "What two cases can show possession?"
+        answer: "DATIVE AND GENITIVE"
+      - question: "What two cases can show description?"
+        answer: "ABLATIVE AND GENITIVE"
+  - tossup:
+      question: "Give the positive adverb form from <latin>facilis</latin>."
+      answer: "<latin>FACILE</latin>"
+    boni:
+      - question: "For five points name three other adjectives which form their superlatives in <latin>-illimus</latin>."
+        answer: "<latin>DIFFICILIS, SIMILIS, DISSIMILIS, HUMILIS, GRACILIS</latin>"
+      - question: "For five points, name the other two."
+        answer: "<latin>DIFFICILIS, SIMILIS, DISSIMILIS, HUMILIS, GRACILIS</latin>"
+  - tossup:
+      question: "What Roman historian begins a major work: “<latin>Urbem Romam a principio reges habuere</latin>”?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "What is the work?"
+        answer: "THE <title><latin>ANNALES</latin></title>"
+      - question: "What was Tacitus' praenomen?"
+        answer: "WE DON'T KNOW"
+  - tossup:
+      question: "What friends of Vergil did not honor his dying wish?"
+      answer: "VARIUS RUFUS AND PLOTIUS TUCCA"
+    boni:
+      - question: "What was this request?"
+        answer: "THE <title>AENEID</title> BE BURNED"
+      - question: "Where did Vergil die?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "For whom did Zeus turn himself into a white bull?"
+      answer: "EUROPA"
+    boni:
+      - question: "For whom did he turn himself into a shower of gold?"
+        answer: "DANAË"
+      - question: "For whom did he turn himself into her own husband?"
+        answer: "ALCMENE"
+  - tossup:
+      question: "Translate into the nominative the phrase “both poets.”"
+      answer: "<latin>AMBO POETAE</latin>"
+    boni:
+      - question: "Put the phrase “both nights” into the genitive."
+        answer: "<latin>AMBARUM NOCTIUM</latin>"
+      - question: "Put the phrase “both daughters” into the ablative."
+        answer: "<latin>AMBABUS FILIABUS</latin>"
+  - tossup:
+      question: "Who was the last emperor of the Western Empire?"
+      answer: "ROMULUS AUGUSTULUS"
+    boni:
+      - question: "When was he deposed?"
+        answer: "476 AD"
+      - question: "Who deposed him?"
+        answer: "ODO(V)ACER"
+  - tossup:
+      question: "What goddess loved Tithonus?"
+      answer: "AURORA / EOS"
+    boni:
+      - question: "What fatal mistake did she make?"
+        answer: "SHE GOT HIM ETERNAL LIFE BUT FORGOT TO GET HIM ETERNAL YOUTH."
+      - question: "What did Zeus turn him into?"
+        answer: "A GRASSHOPPER"
+  - tossup:
+      question: "Which of the gods is referred to as the “cloud-gatherer”?"
+      answer: "ZEUS"
+    boni:
+      - question: "What is his name as the god of rain?"
+        answer: "JUPITER PLUVIUS (JUPITER)"
+      - question: "What is his name as wielder of the thunderbolt?"
+        answer: "JUPITER TONANS"
+  - tossup:
+      question: "What is the nominative singular of the present participle of <latin>eo</latin>?"
+      answer: "<latin>IENS</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>uro</latin>?"
+        answer: "<latin>USSISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>coquo</latin>?"
+        answer: "<latin>COXISSE</latin>"
+  - tossup:
+      question: "Who offered Death her own life in an effort to save that of her husband Admetus?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Who was the Greek god of healing?"
+        answer: "ASCLEPIUS"
+      - question: "What was the old name for the mountains one of which is now Gibraltar?"
+        answer: "THE PILLARS OF HERCULES"
+  - tossup:
+      question: "Change <latin>portavisti</latin> to passive."
+      answer: "<latin>PORTATUS ES</latin>"
+    boni:
+      - question: "Change <latin>duxistis</latin> to passive."
+        answer: "<latin>DUCTI ESTIS</latin>"
+      - question: "Change <latin>miserint</latin> to passive."
+        answer: "<latin>MISSI ERUNT</latin>"
+  - tossup:
+      question: "What important author was born in Arpinum?"
+      answer: "CICERO"
+    boni:
+      - question: "When was he born?"
+        answer: "106 BC"
+      - question: "When was he killed?"
+        answer: "43 BC"
+  - tossup:
+      question: "At the Battle of Cannae, who were the <latin>volones</latin>?"
+      answer: "SLAVES WHO SERVED AS VOLUNTEERS IN THE ROMAN ARMY."
+    boni:
+      - question: "Where was the army of Varus destroyed in 9 AD?"
+        answer: "THE TEUTOBERG FOREST"
+      - question: "Three legions were destroyed in that battle, and the superstitious Romans never used their numbers again. What were these numbers?"
+        answer: "XVII, XVIII AND XIX"
+  - tossup:
+      question: "Give in the nominative the phrase “1000 men.”"
+      answer: "<latin>MILLE VIRI</latin>"
+    boni:
+      - question: "Give in the nominative the phrase “18 horses.”"
+        answer: "<latin>DUODEVIGINTI EQUI</latin>"
+      - question: "Give in the nominative the phrase “5000 soldiers.”"
+        answer: "<latin>QUINQUE MILIA MILITUM</latin>"
+  - tossup:
+      question: "Who served as Julius Caesar's co-consul in 46 BC?"
+      answer: "(M. AEMILIUS) LEPIDUS"
+    boni:
+      - question: "Who was Caesar's co-consul in 44 BC?"
+        answer: "MARC(US) ANTONY / ANTONIUS"
+      - question: "Who was his co-consul in 45 BC?"
+        answer: "NO ONE"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>fortis</latin> to agree with the noun <latin>pueris</latin>?"
+      answer: "<latin>FORTIBUS</latin>"
+    boni:
+      - question: "What form of <latin>fortis</latin> is required to modify <latin>milite</latin>?"
+        answer: "<latin>FORTI</latin>"
+      - question: "To modify <latin>militum</latin>?"
+        answer: "<latin>FORTIUM</latin>"
+  - tossup:
+      question: "What was the mint of ancient Rome?"
+      answer: "THE TEMPLE OF JUNO MONETA"
+    boni:
+      - question: "What temple's doors represented peace or war with their position?"
+        answer: "THE TEMPLE OF JANUS"
+      - question: "Who rode a horse into a hole in the ground in the Forum?"
+        answer: "METTIUS CURTIUS"
+  - tossup:
+      question: "We more commonly give what title to the epic poem <latin><title>Bellum Civile</title></latin>?"
+      answer: "THE <latin><title>PHARSALIA</title></latin>"
+    boni:
+      - question: "Who was the author?"
+        answer: "(M. ANNAEUS) LUCAN(US)"
+      - question: "What other author was Lucan's uncle?"
+        answer: "(L. ANNAEUS) SENECA THE YOUNGER"
+  - tossup:
+      question: "What is the genitive plural of <latin>canis</latin>?"
+      answer: "<latin>CANUM</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>cor</latin>?"
+        answer: "<latin>CORDIUM</latin>"
+      - question: "What is the genitive plural of <latin>senex</latin>?"
+        answer: "<latin>SENUM</latin>"

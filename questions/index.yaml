@@ -737,3 +737,9 @@ links:
   year: 1978
   division: Intermediate
   round: Finals
+- rel: 1980 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1980/upper/njcl1980adv1.yaml
+  tournament: NJCL Certamen
+  year: 1980
+  division: Advanced
+  round: Round 1

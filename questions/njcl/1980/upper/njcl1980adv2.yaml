@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Advanced"
+round: Round 2
+questions:
+  - tossup:
+      question: "What son of Deucalion and Pyrrha founded the Greek race and gave his name to Greek culture?"
+      answer: "HELLEN"
+    boni:
+      - question: "Who was Deucalion's father?"
+        answer: "PROMETHEUS"
+      - question: "Who was Pyrrha's father?"
+        answer: "EPIMETHEUS"
+  - tossup:
+      question: "What year did the Romans call the consulship of Julius and Caesar?"
+      answer: "59 BC"
+    boni:
+      - question: "Who was Caesar's colleague in the consulship of 59 BC?"
+        answer: "BIBULUS"
+      - question: "What other offices had they already held at the same time?"
+        answer: "AEDILESHIP AND QUAESTORSHIP"
+  - tossup:
+      question: "What relative of yours is your <latin>avus</latin>?"
+      answer: "GRANDFATHER"
+    boni:
+      - question: "Who is your <latin>patruus</latin>?"
+        answer: "UNCLE (FATHER'S BROTHER)"
+      - question: "Who is your <latin>patruelis</latin>?"
+        answer: "COUSIN (FATHER'S SIDE)"
+  - tossup:
+      question: "From whom did Cicero borrow the title the <title>Philippics</title>?"
+      answer: "DEMOSTHENES"
+    boni:
+      - question: "What nomen was shared by two of Cicero's clients?"
+        answer: "ROSCIUS (Sextus Roscius of Ameria and Quintus Roscius Gallus the actor)"
+      - question: "Who of his contemporaries was Cicero's arch rival in oratory?"
+        answer: "HORTENSIUS (HORTALUS)"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> is given the epithet <latin>fidus</latin>?"
+      answer: "ACHATES"
+    boni:
+      - question: "Who speaks the words “<latin>dux femina facti</latin>”?"
+        answer: "THE DISGUISED VENUS"
+      - question: "Who says: “<latin>Rex erat Aeneas nobis</latin>”?"
+        answer: "ILIONEUS"
+  - tossup:
+      question: "Who was the only significant prose writer of the Augustan age?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What was his birthplace?"
+        answer: "PATAVIUM"
+      - question: "What is the Latin title of his 142-book work?"
+        answer: "<latin><title>AB URBE CONDITA</title></latin>"
+  - tossup:
+      question: "Who was the patron of Horace and Vergil?"
+      answer: "(C. CILNIUS) MAECENAS"
+    boni:
+      - question: "What work of Horace opens: <latin>Qui fit, Maecenas</latin>?"
+        answer: "<title>SATIRES / <latin>SERMONES</latin></title>"
+      - question: "When was Horace born?"
+        answer: "65 BC"
+  - tossup:
+      question: "Who was the only groom of a Danaïd to survive his wedding night?"
+      answer: "LYNCEUS"
+    boni:
+      - question: "Who was his bride?"
+        answer: "HYPERMNESTRA"
+      - question: "Who was his father?"
+        answer: "AEGYPTUS"
+  - tossup:
+      question: "What is the third person singular imperfect subjunctive of <latin>loquor</latin>?"
+      answer: "<latin>LOQUERETUR</latin>"
+    boni:
+      - question: "Change <latin>loqueretur</latin> to pluperfect."
+        answer: "<latin>LOCUTUS ESSET</latin>"
+      - question: "Change <latin>locutus esset</latin> to indicative."
+        answer: "<latin>LOCUTUS ERAT</latin>"
+  - tossup:
+      question: "Give the first person plural future active indicative of <latin>habito</latin>."
+      answer: "<latin>HABITABIMUS</latin>"
+    boni:
+      - question: "Say in Latin: “We used to live in a large forest.”"
+        answer: "<latin>IN SILVA MAGNA HABITABAMUS</latin>"
+      - question: "Say in Latin: “They will have lived in Rome.”"
+        answer: "<latin>ROMAE HABITAVERINT</latin>"
+  - tossup:
+      question: "Which of the following prepositions does not govern the same case as the others: <latin>contra, infra, pro, praeter</latin>?"
+      answer: "<latin>PRO</latin>"
+    boni:
+      - question: "Translate the prepositional phrase: <latin>in oppido</latin>."
+        answer: "IN THE TOWN"
+      - question: "Translate the prepositional phrase: <latin>in silvam</latin>."
+        answer: "INTO THE FOREST"
+  - tossup:
+      question: "What office was instituted as a result of the Secession of the Plebs in 494 BC?"
+      answer: "THE TRIBUNATE"
+    boni:
+      - question: "Who convinced the plebeians to return with a parable?"
+        answer: "MENENIUS"
+      - question: "What change in the administration of the Roman army traditionally took place in 406 BC?"
+        answer: "THE INTRODUCTION OF PAY"
+  - tossup:
+      question: "Who was Priam's only son to survive the Trojan War?"
+      answer: "HELENUS"
+    boni:
+      - question: "What celebrated ability did he have?"
+        answer: "PROPHECY"
+      - question: "Who was his wife when Aeneas visited him on his way to Italy?"
+        answer: "ANDROMACHE"
+  - tossup:
+      question: "Who were the dancing priests of Mars?"
+      answer: "THE <latin>SALII</latin>"
+    boni:
+      - question: "What group of Roman priests conducted official declarations of war and presided over the making of treaties?"
+        answer: "THE <latin>FETIALES</latin>"
+      - question: "What group of priests watched over the worship of fifteen ancient Latin deities including Jupiter, Mars, Quirinus, Pales, Ceres and Portunus?"
+        answer: "THE <latin>FLAMINES</latin>"
+  - tossup:
+      question: "What sort of words are <latin>Aeneadae, Heraclidae</latin> and <latin>Atridae</latin>?"
+      answer: "PATRONYMICS"
+    boni:
+      - question: "What sort of verbs are <latin>licet, oportet</latin> and <latin>paenitet</latin>?"
+        answer: "IMPERSONAL"
+      - question: "What English word for “prison” comes from <latin>paenitet</latin>?"
+        answer: "PENITENTIARY"
+  - tossup:
+      question: "Translate this sentence into Latin with a passive periphrastic: “We must fight bravely.”"
+      answer: "<latin>NOBIS FORTITER PUGNANDUM EST</latin>"
+    boni:
+      - question: "What is the construction of <latin>nobis</latin>?"
+        answer: "DATIVE OF AGENT"
+      - question: "Change “bravely” to “More bravely.”"
+        answer: "<latin>FORTIUS</latin>"
+  - tossup:
+      question: "What is the perfect participle of <latin>fero</latin>?"
+      answer: "<latin>LATUS</latin>"
+    boni:
+      - question: "What is the perfect participle of <latin>tollo</latin>?"
+        answer: "<latin>SUBLATUS</latin>"
+      - question: "What is the perfect participle of <latin>volo</latin>?"
+        answer: "IT HAS NONE"
+  - tossup:
+      question: "What is the second person singular perfect active indicative of <latin>cerno</latin>?"
+      answer: "<latin>CREVISTI</latin>"
+    boni:
+      - question: "Change <latin>crevisti</latin> to passive."
+        answer: "<latin>CRETUS ES</latin>"
+      - question: "Change <latin>crevisti</latin> to the pluperfect subjunctive."
+        answer: "<latin>CREVISSE</latin>"
+  - tossup:
+      question: "In mythology, who were the parents of Hermione?"
+      answer: "HELEN AND MENELAÜS"
+    boni:
+      - question: "Hermione eventually married her first cousin. What was his name?"
+        answer: "ORESTES"
+      - question: "Who were the two grandfathers of Hermione?"
+        answer: "ATREUS AND ZEUS (JUPITER)"
+  - tossup:
+      question: "What Gallic tribe was led by Vercingetorix?"
+      answer: "THE ARVERNI"
+    boni:
+      - question: "Who was the Aeduan chief who opposed the Romans in Book I of <title><latin>De Bello Gallico</latin></title>?"
+        answer: "DUMNORIX"
+      - question: "What chieftain was Caesar's foremost opponent in his British campaign of 54 BC?"
+        answer: "CASSIVELLAUNUS"

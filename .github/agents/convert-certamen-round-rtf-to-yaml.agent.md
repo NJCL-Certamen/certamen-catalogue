@@ -163,7 +163,7 @@ A conversion is complete only when all of the following are true:
 - the pseudo-formatting tags are preserved,
 - every `<latin>`, `<title>`, and `<emphasis>` tag is balanced,
 - bold, italic, and underlined source spans map to the required pseudo-tags,
-- long vowels (ā, ē, ī, ō, ū) that are adjacent to <latin> tags are moved inside the latin tags,
+- long vowels (ā, ē, ī, ō, ū) that are adjacent to `<latin>` tags are moved inside the latin tags,
 - spaces at the start or end of a tagged section is moved outside of the tag,
 - no synthetic `SEE BELOW` value was introduced,
 - `questions/index.yaml` has been updated,

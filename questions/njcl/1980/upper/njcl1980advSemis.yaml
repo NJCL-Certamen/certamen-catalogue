@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Advanced"
+round: Semifinals
+questions:
+  - tossup:
+      question: "Translate into Latin the English word himself in this sentence: “He saved himself.”"
+      answer: "<latin>SE</latin>"
+    boni:
+      - question: "Translate “himself” in the sentence: “The leader himself surrendered.”"
+        answer: "<latin>IPSE</latin>"
+      - question: "Translate “himself” in the sentence: “He did himself a favor.”"
+        answer: "<latin>SIBI</latin>"
+  - tossup:
+      question: "At the home of what king did Demeter take refuge during her search for Persephone?"
+      answer: "CELEUS"
+    boni:
+      - question: "Who was the queen?"
+        answer: "METANEIRA"
+      - question: "Who was the infant Demeter intended to make immortal?"
+        answer: "DEMOPHOON / TRIPTOLEMUS"
+  - tossup:
+      question: "What god was called Ennosigaeus, “earth-shaker?"
+      answer: "” POSEIDON"
+    boni:
+      - question: "What island was devastated by a plague sent by a jealous Hera because it was named for one of Zeus' mortal conquests?"
+        answer: "AEGINA"
+      - question: "What goddess was called Tritogeneia?"
+        answer: "ATHENA"
+  - tossup:
+      question: "To whom did Cicero address his work <latin><title>De Officiis</title></latin>?"
+      answer: "HIS SON MARCUS"
+    boni:
+      - question: "Which of his orations was in support of a friend's case for citizenship?"
+        answer: "<latin><title>PRO ARCHIA</title></latin>"
+      - question: "Which of his orations was on behalf of a famous actor?"
+        answer: "<latin><title>PRO ROSCIO COMOEDO</title></latin>"
+  - tossup:
+      question: "What mortal tried to rape Hera?"
+      answer: "IXION"
+    boni:
+      - question: "Of what race was he the father?"
+        answer: "THE CENTAURS"
+      - question: "What all too common crime was he the first human to commit?"
+        answer: "MURDER"
+  - tossup:
+      question: "What one word in Latin can mean “of this man”?"
+      answer: "<latin>HUIUS</latin>"
+    boni:
+      - question: "What one word can mean “the same women”?"
+        answer: "<latin>EAEDEM</latin>"
+      - question: "What is the genitive of “<latin>eaedem</latin>”?"
+        answer: "<latin>EARUNDEM</latin>"
+  - tossup:
+      question: "Change this sentence to the passive: <latin>Numa leges dedit</latin>."
+      answer: "<latin>LEGES A NUMA DATAE SUNT</latin>"
+    boni:
+      - question: "What case is used to show agent with the passive periphrastic?"
+        answer: "DATIVE"
+      - question: "Say in Latin: “Numa must give laws.”"
+        answer: "<latin>LEGES NUMAE DANDAE SUNT</latin>."
+  - tossup:
+      question: "Translate Catullus' <latin>Odi et amo</latin>."
+      answer: "I HATE AND I LOVE"
+    boni:
+      - question: "Translate Martial's <latin>Nec possum tecum vivere nec sine te.</latin>"
+        answer: "I CAN LIVE NEITHER WITH YOU NOR WITHOUT YOU"
+      - question: "Translate Vergil's <latin>Omnia vincit amor.</latin>"
+        answer: "LOVE CONQUERS ALL"
+  - tossup:
+      question: "What case is used to express the time at which or within which an action takes place?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "Name a verb which governs the ablative."
+        answer: "<latin>UTOR, VESCOR, FRUOR, POTIOR, FUNGOR</latin>"
+      - question: "Which of these is not in the same conjugation as the others?"
+        answer: "<latin>POTIOR</latin>"
+  - tossup:
+      question: "What Roman admiral was a hostage of the Carthaginians and an example of Roman fides?"
+      answer: "(M. ATILIUS) REGULUS"
+    boni:
+      - question: "What was his advice to the Romans?"
+        answer: "KEEP FIGHTING"
+      - question: "Which Punic War was this?"
+        answer: "THE FIRST"
+  - tossup:
+      question: "Who owned the stables that Hercules cleaned as one of his labors?"
+      answer: "AUGEIAS"
+    boni:
+      - question: "What river did Hercules divert to wash out the stables?"
+        answer: "ALPHEUS"
+      - question: "What son of Augeas did Hercules put on the throne of Elis after killing Augeas?"
+        answer: "PHYLEUS"
+  - tossup:
+      question: "Change <latin>eunt</latin> to future."
+      answer: "<latin>IBUNT</latin>"
+    boni:
+      - question: "What is the perfect infinitive of <latin>eo</latin>?"
+        answer: "<latin>IISSE / IVISSE / ISSE</latin>"
+      - question: "What is the present singular imperative of <latin>eo</latin>?"
+        answer: "<latin>I</latin>"
+  - tossup:
+      question: "What was the year of the great fire of Rome?"
+      answer: "64 AD"
+    boni:
+      - question: "On whom did Nero blame it?"
+        answer: "THE CHRISTIANS"
+      - question: "How many of them did Nero send to their deaths in the Colosseum?"
+        answer: "NONE!!!"
+  - tossup:
+      question: "What Latin work begins: “<latin>Tityre, tu patulae recubans sub tegmine fagi</latin>”?"
+      answer: "(VERGIL'S) <title>ECLOGUES</title>"
+    boni:
+      - question: "Where does Vergil significantly repeat the line, altering it slightly to: “<latin>Tityre, te patulae cecini sub tegmine fagi</latin>”?"
+        answer: "THE FINAL LINE OF THE GEORGICS"
+      - question: "What work begins: <latin>Sicelides Musae, paulo maiora canamus</latin>?"
+        answer: "THE FOURTH / “MESSIANIC” <title>ECLOGUE</title>"
+  - tossup:
+      question: "What Roman author was born in Bilbilis in Spain?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "His first published work was written for what public occasion?"
+        answer: "THE DEDICATION OF THE COLOSSEUM / FLAVIAN AMPHITHEATRE"
+      - question: "What was the name of this work?"
+        answer: "THE <latin><title>LIBER SPECTACULORUM</title></latin>"
+  - tossup:
+      question: "Who was the Roman consul who refused to be bribed by Pyrrhus?"
+      answer: "FABRICIUS"
+    boni:
+      - question: "Who was the Etruscan king who led an army against Rome in an attempt to return Tarquin the Proud to the throne?"
+        answer: "LARS PORSENA"
+      - question: "Who was the Roman patriot who lost the use of his right hand when he plunged it into the fire to show the Etruscans his courage?"
+        answer: "MUCIUS SCAEVOLA"
+  - tossup:
+      question: "What was Rome's annona?"
+      answer: "THE GRAIN SUPPLY"
+    boni:
+      - question: "What was Rome's nearest port?"
+        answer: "OSTIA"
+      - question: "Claudius made improvements to the Ostian harbor to make it competitive with a port about 140 miles to the south, which up to then had been more important in the grain trade. What was this other port?"
+        answer: "PUTEOLI"
+  - tossup:
+      question: "From what Latin verb does the English noun “parent” come?"
+      answer: "<latin>PARIO, PARERE</latin>"
+    boni:
+      - question: "What does it mean?"
+        answer: "BEAR YOUNG, GIVE BIRTH"
+      - question: "What is its perfect active infinitive?"
+        answer: "<latin>PEPERISSE</latin>"
+  - tossup:
+      question: "Caligula's motto was a quote from the early dramatist Accius: <latin>oderint dum metuant</latin>. What kind of subordinate clause is <latin>dum metuant</latin>?"
+      answer: "PROVISO"
+    boni:
+      - question: "What compound of dum and another particle often introduces a proviso?"
+        answer: "<latin>DUMMODO</latin>"
+      - question: "Translate the following proviso of Martial: <latin>Sint Maecenates, non deerunt Marones</latin>."
+        answer: "AS LONG AS THERE ARE MAECENASES, THERE WILL BE NO LACK OF VERGILS"
+  - tossup:
+      question: "Who was the earliest and the greatest of the Greek epicists?"
+      answer: "HOMER"
+    boni:
+      - question: "Into how many books is the Iliad divided?"
+        answer: "TWENTY-FOUR"
+      - question: "What Greek poet, author of the <title>Theogony</title> and the <title>Works and Days</title>, follows Homer by a century or so?"
+        answer: "HESIOD"

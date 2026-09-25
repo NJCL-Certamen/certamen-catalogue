@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "In which of his speeches does Cicero defend his client against the charge of murdering Clodius?"
+      answer: "<title><latin>PRO MILONE</latin></title>"
+    boni:
+      - question: "What is the defense?"
+        answer: "MILO KILLED CLODIUS IN SELF-DEFENSE"
+      - question: "What happens to Milo?"
+        answer: "HE (WAS FOUND GUILTY AND) WAS EXILED (TO MASSILIA)"
+  - tossup:
+      question: "Translate <latin>ut</latin> into English for this sentence: <latin>Ut falsus animī est!</latin>"
+      answer: "HOW"
+    boni:
+      - question: "<latin>Ut fīlium bonum pātrī esse oportet, item mē oportet</latin>"
+        answer: "AS / JUST AS"
+      - question: "<latin>Tanta erat tempestās ut ex aede exīre nōn possēmus</latin>"
+        answer: "THAT"
+  - tossup:
+      question: "According to Ovid, what Titan was transformed into a mountain by the head of Medusa?"
+      answer: "ATLAS"
+    boni:
+      - question: "Who had used the head of Medusa to transform Atlas into a mountain?"
+        answer: "PERSEUS"
+      - question: "Who had warned Atlas that a son of Jupiter would one day steal the golden apples of the Hesperides from him?"
+        answer: "THEMIS"
+  - tossup:
+      question: "Give the syncopated form of <latin>flēvistis</latin>"
+      answer: "<latin>FLĒSTIS</latin>"
+    boni:
+      - question: "Give the syncopated form of <latin>dīxistī</latin>"
+        answer: "<latin>DĪXTĪ</latin>"
+      - question: "Give the syncopated form of <latin>amāveris</latin>"
+        answer: "<latin>AMĀRIS</latin>"
+  - tossup:
+      question: "Name the Roman king, the son of Demaratus of Corinth, who had fled to Etruria?"
+      answer: "(L.) TARQUINIUS PRISCUS / TARQUIN I / LUCUMO"
+    boni:
+      - question: "Priscus enlarged the Senate by adding another 100 members, many of whom were probably Etruscan. What were these new members called?"
+        answer: "<latin>MINORES GENTES / PATRES MINORUM GENTIUM</latin>"
+      - question: "Of what structure on the Capitoline did he begin the construction?"
+        answer: "TEMPLE OF JUPITER OPTIMUS MAXIMUS / CAPITOLINUS"
+  - tossup:
+      question: "According to its Latin root, to “confiscate” is to seize an object and deposit it where?"
+      answer: "IN THE (IMPERIAL / EMPEROR’S) <emphasis>TREASURY</emphasis> / BASKET / PURSE (<latin>fiscus</latin>, If “public” treasury is given, student must specify late empire)"
+    boni:
+      - question: "According to its Latin root, a “rival” is one who lives on the other side of what? A"
+        answer: "RIVER / STREAM / BROOK (<latin>rīvus</latin>)"
+      - question: "According to its Latin root, to “excoriate” someone is to what?"
+        answer: "STRIP OFF THEIR SKIN (<latin>corium</latin>)"
+  - tossup:
+      question: "What Roman author offended the Metelli when he remarked that “It’s fate that makes Metelli consuls at Rome”?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "What was the title of Naevius’ national epic that traced the legendary origins of Rome and perhaps also that of Carthage?"
+        answer: "<title><latin>BELLUM PUNICUM / POENICUM</latin></title>"
+      - question: "What type of <latin>fabulae</latin> was first introduced by Naevius?"
+        answer: "<latin>(FABULAE) PRAETEXTAE</latin>"
+  - tossup:
+      question: "Give the accusative singular of <latin>cucumis</latin>"
+      answer: "<latin>CUCUMIM / CUCUMEREM</latin>"
+    boni:
+      - question: "Change <latin>cucumim</latin> to ablative singular"
+        answer: "<latin>CUCUMĪ / CUCUMERĪ</latin>"
+      - question: "Change <latin>cucumī</latin> to genitive plural"
+        answer: "<latin>CUCUMIUM / CUCUMERUM</latin>"
+  - tossup:
+      question: "What seer interpreted an omen to mean that the Greeks would fight at Troy for nine years and take the city in the tenth?"
+      answer: "CALCHAS"
+    boni:
+      - question: "What was this omen?"
+        answer: "A SNAKE DEVOURED A BIRD WITH HER EIGHT BABIES AND THEN WAS TURNED TO STONE"
+      - question: "According to Calchas, what must Agamemnon do to appease Artemis and for her to send favorable winds?"
+        answer: "HE MUST SACRIFICE (HIS DAUGHTER) IPHIGENEIA"
+  - tossup:
+      question: "Before making their country a Roman province, how many wars did the Romans fight with the Macedonians?"
+      answer: "FOUR"
+    boni:
+      - question: "Against what Macedonian leader were the first two wars fought?"
+        answer: "PHILIP V"
+      - question: "Against what two Macedonian leaders were the last two wars fought?"
+        answer: "PERSEUS & ANDRISCUS (PSEUDOPHILIPPUS)"
+  - tossup:
+      question: "In which of his works does Vergil predict that with the birth of a wonder-child will come a new Golden Age?"
+      answer: "<title>ECLOGUE IV</title>"
+    boni:
+      - question: "Since the Pact of Brundisium had just been made, Vergil may be referring to the child of what political marriage?"
+        answer: "ANTONY & OCTAVIA’S"
+      - question: "Some scholars argue that the child to whom Vergil is referring is supposed to be the son of his patron. Who was this early patron of Vergil? (C.)"
+        answer: "ASINIUS POLLIO"
+  - tossup:
+      question: "Who killed the monster Echidna?"
+      answer: "ARGUS (PANOPTES) (PASS OUT THE HANDOUT)"
+    boni:
+      - question: "Examine the handout. (wait 5 seconds). Assuming letter “A” is Argus, what mythological character is represented by “B”?"
+        answer: "HERMES / MERCURY"
+      - question: "What character in mythology is labelled “D”?"
+        answer: "IO"
+  - tossup:
+      question: "For <latin>sapiō</latin>, give the first person singular, present, active, subjunctive"
+      answer: "<latin>SAPIAM</latin>"
+    boni:
+      - question: "Change <latin>sapiam</latin> to imperfect"
+        answer: "<latin>SAPEREM</latin>"
+      - question: "Change <latin>saperem</latin> to pluperfect"
+        answer: "<latin>SAP(ĪV)ISSEM</latin>"
+  - tossup:
+      question: "Which Augustus was responsible for the last great persecution of the Christians in AD 303-305?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "Who, after the retirement of Diocletian, continued persecuting Christians in the eastern empire?"
+        answer: "GALERIUS"
+      - question: "What was the effect of the edict issued in AD 311 by Galerius on his death-bed?"
+        answer: "STOPPED PERSECUTION (& LEGALLY RECOGNIZED CHRISTIANS)"
+  - tossup:
+      question: "How many ounces were in a Roman pound?"
+      answer: "TWELVE"
+    boni:
+      - question: "What is the Latin term for “pound”?"
+        answer: "<latin>LIBRA</latin>"
+      - question: "What is the Latin term for “ounce”?"
+        answer: "<latin>UNCIA</latin>"
+  - tossup:
+      question: "Define <latin>dēliciae</latin>"
+      answer: "PET (and other romantic drivel)"
+    boni:
+      - question: "Define <latin>exuviae</latin>"
+        answer: "SPOILS"
+      - question: "Define <latin>epulae</latin>"
+        answer: "FEAST / BANQUET / SUMPTUOUS FOOD / DISHES"
+  - tossup:
+      question: "Who wrote a <title><latin>De Viris Illustribus</latin></title> in which the lives of 135 Christian authors are recounted?"
+      answer: "(ST.) JEROME / (SOPHRONIUS) EUSEBIUS HIERONYMUS"
+    boni:
+      - question: "What is Jerome’s translation of the Bible called?"
+        answer: "<title>VULGATE / <latin>(BIBLIA) VULGATA</latin></title>"
+      - question: "Which of Jerome’s works was a historical treatise and carried the history from Constantine down to the death of Valens?"
+        answer: "<title><latin>CHRONICA</latin></title>"
+  - tossup:
+      question: "Translate: <latin>Nōn dubitāvērunt flūmen transīre</latin>"
+      answer: "THEY DIDN’T HESITATE TO CROSS THE RIVER."
+    boni:
+      - question: "Translate: <latin>Nōn dubitāvērunt quīn difficile esset</latin>"
+        answer: "THEY DIDN’T DOUBT (BUT) THAT IT WAS / WOULD BE / MIGHT BE DIFFICULT."
+      - question: "Translate: <latin>Nihil nōs impedit quōminus id facere possīmus</latin>"
+        answer: "NOTHING PREVENTS / HINDERS / KEEPS US FROM BEING ABLE TO DO IT."
+  - tossup:
+      question: "What daughter of Laomedon did Heracles rescue?"
+      answer: "HESIONE"
+    boni:
+      - question: "What did Laomedon give to Heracles as prize for rescuing his daugthter?"
+        answer: "NOTHING"
+      - question: "To whom did Heracles give Hesione as a prize?"
+        answer: "TELAMON"
+  - tossup:
+      question: "In order to govern, it is necessary to have ambition and to run a successful campaign. What Latin noun lies at the root of “campaign”?"
+      answer: "<latin>CAMPĀNIA</latin> (province in central Italy near Naples) -- fr <latin>CAMPUS</latin>"
+    boni:
+      - question: "According to its Latin root, what does the word “ambition” imply about what a candidate does?"
+        answer: "HE “GOES AROUND” (CANVASSING FOR / SOLICITING VOTES) fr. <latin>ambīre</latin> (go around)"
+      - question: "According to its Latin root, to “govern” is to have what maritime job?"
+        answer: "HELMSMAN / PILOT / STEERSMAN / GOVERNOR"

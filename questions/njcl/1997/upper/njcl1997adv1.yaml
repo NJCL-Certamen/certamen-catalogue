@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Make the present participle of <latin>micō, micāre</latin> agree with the noun <latin>marmor</latin>"
+      answer: "<latin>MICĀNS</latin>"
+    boni:
+      - question: "Change <latin>marmor micāns</latin> to accusative"
+        answer: "<latin>MARMOR MICĀNS</latin>"
+      - question: "Change <latin>marmor micāns</latin> to plural"
+        answer: "<latin>MARMORA MICANTIA</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>faber</latin> and <latin>faba</latin>."
+      answer: "<latin>FABER</latin> -- CRAFTSMAN, SMITH <latin>FABA</latin> -- BEAN"
+    boni:
+      - question: "<latin>fānum</latin> and <latin>faenum</latin>"
+        answer: "<latin>FĀNUM</latin> -- SHRINE, TEMPLE <latin>FAENUM</latin> -- HAY"
+      - question: "<latin>far</latin> and <latin>fārī</latin>"
+        answer: "<latin>FAR</latin> -- GRAIN, SPELT, GRITS <latin>FĀRĪ</latin> -- SPEAK"
+  - tossup:
+      question: "Which writer of Latin comedy was probably a native of Carthage?"
+      answer: "(P.) TERENCE (or TERENTIUS AFER)"
+    boni:
+      - question: "Terence came to Rome as a slave. Who became his literary patron?"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS MINOR / NUMANTIUS"
+      - question: "What was Terence’s title for his comedy about two brothers, one raised in the country, the other in the city?"
+        answer: "<title><latin>ADELPHOI / ADELPHI / ADELPHOE</latin></title>"
+  - tossup:
+      question: "In Book I of Vergil’s <title>Aeneid</title>, who calms the storm that has wrecked the fleet of Aeneas?"
+      answer: "NEPTUNE"
+    boni:
+      - question: "After Neptune calms the water, two minor sea deities dislodge the ships from jagged crags. For five points each, name them"
+        answer: "TRITON / CYMOTHOE"
+  - tossup:
+      question: "What two Latin words with what meanings combine to form the Latin word <latin>lātifundium</latin>?"
+      answer: "<latin>LĀTUS</latin> -- BROAD, WIDE + <latin>FUNDUS</latin> -- FARM, ESTATE, BOTTOM, FOUNDATION"
+    boni:
+      - question: "What two Latin words with what meanings combine to form the Latin word <latin>cornicen</latin>?"
+        answer: "<latin>CORN</latin>Ū -- HORN + <latin>CANERE</latin> -- SING, PLAY (INSTRUMENT)"
+      - question: "What two Latin words with what meanings combine to form the Latin word <latin>carnifex</latin>?"
+        answer: "<latin>CAR</latin>Ō -- FLESH + <latin>FACERE</latin> -- DO, MAKE"
+  - tossup:
+      question: "As its name tells us, which Roman king is credited with the building of the first Senate House or <latin>curia</latin>?"
+      answer: "TULLUS HOSTILIUS (Curia Hostilia)"
+    boni:
+      - question: "What Latin city was destroyed and its inhabitants moved to Rome by Hostilius?"
+        answer: "ALBA LONGA"
+      - question: "Who, according to tradition, was the founder of Alba Longa?"
+        answer: "ASCANIUS / IULUS"
+  - tossup:
+      question: "What type of conditional sentence normally uses the future indicative?"
+      answer: "FUTURE MORE VIVID"
+    boni:
+      - question: "the imperfect subjunctive?"
+        answer: "CONTRARY-TO-FACT (present time)"
+      - question: "the present subjunctive?"
+        answer: "FUTURE LESS VIVID / SHOULD-WOULD"
+  - tossup:
+      question: "What magic herb did Odysseus use to protect himself from Circe’s magic?"
+      answer: "MOLY"
+    boni:
+      - question: "Who had given the moly to Odysseus?"
+        answer: "HERMES"
+      - question: "How long did Odysseus and his men remain on the island of Circe?"
+        answer: "ONE YEAR"
+  - tossup:
+      question: "What Roman historian acquired Caesar’s villa at Tivoli with the wealth he had accumulated while serving as proconsul at Africa? (C.)"
+      answer: "(C.) SALLUST(IUS CRISPUS)"
+    boni:
+      - question: "What is the Latin title of Sallust’s historical monograph that deals with the conspiracy of Catiline?"
+        answer: "<title><latin>BELLUM CATILINAE</latin></title>"
+      - question: "Give the Latin title of Sallust’s work that deals with the Jugurthan War"
+        answer: "<title><latin>BELLUM IUGURTHINUM</latin></title>"
+  - tossup:
+      question: "Whose officers complained that his victories against the Romans in 280 and 279 BC had no more effect than cutting off the heads of the Hydra?"
+      answer: "PYRRHUS’"
+    boni:
+      - question: "Where had Pyrrhus won his two costly victories against the Romans?"
+        answer: "HERACLEA (280) & A(U)SCULUM (279)"
+      - question: "Who is credited with defeating Pyrrhus at Maleventum in 275 BC although the battle was actually a draw?"
+        answer: "CURIUS DENTATUS"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>parum</latin>"
+      answer: "<latin>MINUS, MINIMĒ</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>prae</latin>"
+        answer: "<latin>PRIOR, PRĪMUS</latin>"
+      - question: "Give the comparative and superlative forms of <latin>citrā</latin>"
+        answer: "<latin>CITERIOR, CITIMUS</latin>"
+  - tossup:
+      question: "The phrase “<latin>Rem acū tetigistī</latin>” figuratively means “You’ve hit the nail on the head.” What does it literally mean?"
+      answer: "YOU’VE TOUCHED THE THING WITH A NEEDLE"
+    boni:
+      - question: "The phrase “<latin>ad praesēns ōva crās pullīs sunt meliōra</latin>” figuratively means “A bird in the hand is worth two in the bush.” What does it literally mean?"
+        answer: "EGGS TODAY ARE BETTER THAN CHICKENS TOMORROW"
+      - question: "The phrase “<latin>mundus vult dēcipī et dēcipiātur</latin>” figuratively means “There’s a sucker born every minute.” What does it literally mean?"
+        answer: "THE WORLD WANTS TO BE DECEIVED, AND LET / MAY IT BE DECEIVED"
+  - tossup:
+      question: "What daughter of the centaur Chiron was transformed into a horse?"
+      answer: "OCYR(R)HOE / HIPPO (or HIPPE)"
+    boni:
+      - question: "Why was Ocyrhoe changed into a horse?"
+        answer: "SHE REVEALED TOO MUCH ABOUT THE FUTURE"
+      - question: "Who was the mother of Ocyrhoe?"
+        answer: "CHARICLO"
+  - tossup:
+      question: "What elegiac poet was obsessively devoted to a lady whom he called Cynthia?"
+      answer: "(SEXTUS) PROPERTIUS"
+    boni:
+      - question: "According to Apuleius, what was the real name of Cynthia?"
+        answer: "HOSTIA"
+      - question: "Give the title of Propertius’ first published book of elegies"
+        answer: "<title><latin>CYNTHIA MONOBIBLOS</latin></title>"
+  - tossup:
+      question: "Which of the emperors of AD 69 proved to be even more dissolute and lavish in his spending than Nero?"
+      answer: "(AULUS) VITELLIUS"
+    boni:
+      - question: "Which other emperor of AD 69 had made Vitellius the governor of Lower Germany?"
+        answer: "GALBA"
+      - question: "Name Vitellius’ two legates who intended to be the real power behind his throne"
+        answer: "(FABIUS) VALENS & (AULUS) CAECINA"
+  - tossup:
+      question: "<latin>Quibus partibus suī corporis ūtitur avis ut volet?</latin> "
+      answer: "<latin>ALĪS (AXILLĪS) / PENNĪS (PINNĪS)</latin>"
+    boni:
+      - question: " <latin>Quā parte suī corporis ūtitur avis ut edat?</latin>"
+        answer: "<latin>RŌSTRŌ / LINGUĀ</latin>"
+      - question: "<latin>Quid struit avis ubi vīvat?</latin>"
+        answer: "<latin>NĪDUM</latin>"
+  - tossup:
+      question: "What son of Hermes and Aphrodite became a half-man, half-woman creature?"
+      answer: "HERMAPHRODITUS / ATLANTIADES / ATLANTIUS"
+    boni:
+      - question: "What nymph was responsible for giving the feminine characteristics to Hermaphroditus?"
+        answer: "SALMACIS"
+      - question: "What fate would any young man suffer if he chose to bathe in the spring of Salmacis?"
+        answer: "HE TOO WOULD BECOME HALF-MAN, HALF-WOMAN (HERMAPHRODITE) / LOSE HIS MANHOOD / BECOME EFFEMINATE"
+  - tossup:
+      question: "In Republican Rome what was a <title>comitia</title>?"
+      answer: "AN ASSEMBLY OF THE PEOPLE (SUMMONED BY A MAGISTRATE)"
+    boni:
+      - question: "What was the <title>ius agendi cum populo</title>?"
+        answer: "THE RIGHT TO CONVOKE AN ASSEMBLY"
+      - question: "If only part of the people were summoned, the meeting was not a <latin>comitia</latin> but what?"
+        answer: "CONCILIUM (spell)"
+  - tossup:
+      question: "Give an active voice synonym of <latin>morior</latin>"
+      answer: "<latin>PEREŌ, INTEREŌ, OCCIDŌ, OCCUMBŌ, OBEŌ, EXSPĪR, EXCĒDŌ, DĒCĒDŌ, VĪXĪ</latin>"
+    boni:
+      - question: "Give another."
+        answer: "<latin>PEREŌ, INTEREŌ, OCCIDŌ, OCCUMBŌ, OBEŌ, EXSPĪR, EXCĒDŌ, DĒCĒDŌ, VĪXĪ</latin>"
+      - question: "Give a third."
+        answer: "<latin>PEREŌ, INTEREŌ, OCCIDŌ, OCCUMBŌ, OBEŌ, EXSPĪR, EXCĒDŌ, DĒCĒDŌ, VĪXĪ</latin>"
+  - tossup:
+      question: "Consider this line from Catullus, which I will read in prose: <latin>“</latin>Ō<latin>dī et amō. Quārē id faciam fortasse requīris”</latin>. Where would you find the elisions in that line?"
+      answer: "BETWEEN <latin>ŌDĪ</latin> AND <latin>ET</latin> & BETWEEN <latin>QUĀRĒ</latin> AND <latin>ID</latin>"
+    boni:
+      - question: "Examine the following line of verse and tell me where the caesura occurs: <latin>“Vēnimus aut raptās ad lītora vertere praedās”</latin>"
+        answer: "BETWEEN <latin>RAPTĀS</latin> AND <latin>AD</latin>"
+      - question: " Disregarding the last foot, how many spondees do you find in this line: <latin>“Crīmine quō meruī iuvenis placidissime dīvum”</latin>?"
+        answer: "NONE"

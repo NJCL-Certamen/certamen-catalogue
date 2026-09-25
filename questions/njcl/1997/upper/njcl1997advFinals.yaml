@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Differentiate in meaning between <latin>sēcūrus</latin> and <latin>secūris</latin>"
+      answer: "<latin>SĒCŪRUS</latin> -- FREE FROM CARE, FEARLESS, SAFE <latin>SECŪRIS</latin> -- AXE, HATCHET"
+    boni:
+      - question: "<latin>peccō</latin> and <latin>pecū</latin>"
+        answer: "<latin>PECCŌ</latin> -- SIN, OFFEND, FAIL <latin>PECŪ</latin> -- FLOCK, HERD, MONEY"
+      - question: "<latin>pūtēre</latin> and <latin>pudēre</latin>"
+        answer: "<latin>PŪTERE</latin> -- STINK <latin>PUDĒRE</latin> -- BE ASHAMED"
+  - tossup:
+      question: "What former slave and friend of Ennius was the chief comic dramatist of his day?"
+      answer: "CAECILIUS STATIUS"
+    boni:
+      - question: "What later Roman writer referred to Caecilius Statius as <latin>“malus auctor Latīnitātis”</latin>?"
+        answer: "(M. TULLIUS) CICERO"
+      - question: "According to Suetonius, what author was ordered by the aediles to submit his first comedy for examination to Caecilius Statius?"
+        answer: "(P.) TERENCE / TERENTIUS (AFER)"
+  - tossup:
+      question: "Translate “fought” in the sentence, “Would that my father hadn’t fought in that war!”"
+      answer: "<latin>PUGNĀVISSET / CERTĀVISSET / CONTENDISSET</latin>"
+    boni:
+      - question: " Translate “do” in the sentence, “What was I to do?”"
+        answer: "<latin>FACEREM, AGEREM</latin>"
+      - question: "Translate “be able” in the sentence, “I might be able to win the contest.”"
+        answer: "<latin>POSSIM, POTUERIM</latin>"
+  - tossup:
+      question: "What poisonous plant sprang from the foam that dripped from Cerberus’ jaws?"
+      answer: "ACONITE"
+    boni:
+      - question: "According to Apollonius, what plant does Medea use to confer invulnerability on Jason for a day to protect him from the fire-breathing bulls of Aeetes?"
+        answer: "CHARM OF PROMETHEUS / PLANT THAT GREW FROM THE BLOOD OF PROMETHEUS (THAT DRIPPED WHEN THE VULTURES ATE HIS LIVER)"
+      - question: "According to Homer, what mythological plant was an Egyptian drug that lulled sorrow for the day, and was given to Telemachus by Helen when he visited the court of Menelaus?"
+        answer: "NEPENTHES"
+  - tossup:
+      question: "What cavalry commander played an important part in Trajan’s victories in Dacia, Mesopotamia and Parthia?"
+      answer: "LUSIUS QUIETUS"
+    boni:
+      - question: "Of what rebellious province did Trajan make Quietus governor?"
+        answer: "JUDAEA"
+      - question: "Why was Quietus executed in AD 188?"
+        answer: "(ONE OF THE FOUR CONSULARS WHO) ALLEGEDLY CONSPIRED AGAINST LIFE OF HADRIAN"
+  - tossup:
+      question: "What deity’s name was often referred to by Homer as <latin>Aïdoneus</latin>?"
+      answer: "HADES (or PLUTO or DIS or ORCUS)"
+    boni:
+      - question: "According to Homer, who shot Hades with an arrow in Pylus?"
+        answer: "HERACLES"
+      - question: "What mistress of Hades was transformed into a mint plant?"
+        answer: "MENTHE"
+  - tossup:
+      question: "Give the inceptive form of the verb <latin>candeō</latin>"
+      answer: "<latin>CANDĒSCŌ</latin>"
+    boni:
+      - question: "Give the frequentative form of the verb <latin>saliō</latin>"
+        answer: "<latin>SALTŌ</latin>"
+      - question: "Give the desiderative form of the verb ē<latin>dō</latin>"
+        answer: "<latin>ĒSURIŌ</latin>"
+  - tossup:
+      question: "Who, as Nerva’s <title>curātor aquārum</title>, wrote a technical treatise on Rome’s aqueducts?"
+      answer: "(SEX. IULIUS) FRONTINUS"
+    boni:
+      - question: "What is the Latin title of this work?"
+        answer: "<title><latin>DE AQUIS URBIS ROMAE / DE AQUAE DUCTU</latin></title>"
+      - question: "Frontinus also wrote a work entitled <title><latin>Strategemata</latin></title>. What is this work about?"
+        answer: "MILITARY STRATEGIES"
+  - tossup:
+      question: "<latin>Fregisse : frangō :: : findō</latin>."
+      answer: "<latin>FĪDISSE</latin>"
+    boni:
+      - question: "Make <latin>fīdisse</latin> passive"
+        answer: "<latin>FISSUS/A/UM ESSE</latin>"
+      - question: "Make <latin>fissus esse</latin> future"
+        answer: "<latin>FISSUM ĪRĪ / FISSUS FORE</latin>"
+  - tossup:
+      question: "Name the infant ruler of Palmyra who was proclaimed an Augustus by his mother Zenobia"
+      answer: "(SEPTIMIUS) VABALLATHUS"
+    boni:
+      - question: "Who reconquered the territory seized by Zenobia and reduced Palmyra to a small village?"
+        answer: "(L. DOMITIUS) AURELIAN(US)"
+      - question: "Name Zenobia’s husband, whom she may have murdered and who, as a loyal commander of the Roman army of the East, had protected Palmyra"
+        answer: "ODAENATHUS"
+  - tossup:
+      question: "Into what three provinces did Augustus divide Spain?"
+      answer: "BAETICA / LUSITANIA / TARRACONENSIS"
+    boni:
+      - question: "Which of these was most peaceful and, therefore, a senatorial province?"
+        answer: "BAETICA"
+      - question: "What city in Baetica was the ancestral home of the emperors Trajan and Hadrian?"
+        answer: "ITALICA (modern Santiponce)"
+  - tossup:
+      question: "Translate this sentence: <latin>Arbitror consulem, quī mentitus sit, punīrī debēre.</latin>"
+      answer: "I THINK THAT THE CONSUL WHO LIED SHOULD BE PUNISHED"
+    boni:
+      - question: "Translate: <latin>Spērō nōs līberātum metū īrī.</latin>"
+        answer: "I HOPE THAT WE WILL BE FREED FROM FEAR"
+      - question: "Translate: <latin>Negant quidquam esse bonum nisi quod iustum sit.</latin>"
+        answer: "THEY DENY THAT ANYTHING IS GOOD EXCEPT WHAT IS JUST."
+  - tossup:
+      question: "According to its Greek roots, an “economy” relates to the management of what? A"
+      answer: "HOUSE"
+    boni:
+      - question: "The word “amphora” derives from the Greek verb"
+        answer: "ferō"
+      - question: "which has what meaning?"
+        answer: "CARRY"
+      - question: "The word “trophy” derives from the practice of Greek soldiers, who, after a victory, collected swords, shields, and other gear and plunder and erected a pile on the spot at which the enemy first did what?"
+        answer: "TURNED (AND RAN)"
+  - tossup:
+      question: "Name one of the rivers Heracles used to clean King Augeias’ stables"
+      answer: "SEE BELOW"
+    boni:
+      - question: "For five points, name another."
+        answer: "ALPHEIUS / PENEIUS / MENIUS (per Pausanias)"
+      - question: "What, specifically, did Heracles demand from Augeias as payment for his labor?"
+        answer: "ONE TENTH (1/10) OF AUGEIAS’ CATTLE"
+  - tossup:
+      question: "(Handout the visuals - one to each player. On your signal, the players open their folders and study the diagram for 5 seconds.) In this diagram of a Greek theater, what is the term for the area indicated by the number 3?"
+      answer: "<latin>PROSKĒNION (PROSC(A)ENIUM)</latin>"
+    boni:
+      - question: "for the area indicated by the number 1?"
+        answer: "<latin>ORCHESTRA</latin>"
+      - question: "for the area indicated by the number 6?"
+        answer: "<latin>THEATRON</latin>"
+  - tossup:
+      question: "What Greek travel-writer of the second century AD wrote about topography, history, and religion in his <title>Description of Greece</title>"
+      answer: "PAUSANIAS"
+    boni:
+      - question: "What Greek historian, a contemporary of Pausanias, was made famous by his work on the history of Alexander the Great entitled <title><latin>Anabasis of Alexander</latin></title>?"
+        answer: "(L. FLAVIUS) ARRIAN(US)"
+      - question: "From what other Greek historian did Arrian borrow the title <title><latin>Anabasis</latin></title>?"
+        answer: "XENOPHON"
+  - tossup:
+      question: "The word “subtle” derives from the Latin word <latin>subtīlis</latin>, which was originally a weaving term. What two Latin words combine to form <latin>subtīlis</latin>?"
+      answer: "<latin>SUB</latin> and <latin>TĒLA</latin>"
+    boni:
+      - question: "What does <latin>tēla</latin> mean when referring to weaving?"
+        answer: "THE WARP (THE THREADS THAT RUN LENTH-WISE IN THE LOOM) synecdochically THE LOOM"
+      - question: "Give the principal parts of the Latin verb meaning “weave,” from which we get the English word “textile”"
+        answer: "<latin>TEXŌ, TEXERE, TEXUĪ, TEXTUS</latin>"
+  - tossup:
+      question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, who transforms Julius Caesar into a star or comet?"
+      answer: "VENUS"
+    boni:
+      - question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, into what was Romulus’ spear transformed?"
+        answer: "(TOUGH-FIBERED) TREE"
+      - question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, what Roman praetor’s head grew horns because he was a danger to Rome?"
+        answer: "CIPUS"
+  - tossup:
+      question: "What Roman historian had a political career which began in the Flavian dynasty and culminated in a proconsulship during the reign of Trajan?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "In which of his works does Tacitus deal with the reigns of Vespasian, Titus, and Domitian?"
+        answer: "<title>HISTORIES</title> / <title><latin>HISTORIAE</latin></title>"
+      - question: " What other author of the same time peroid often gave tacitus material for his historical works?"
+        answer: "PLINY THE YOUNGER"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Duo agricolae constituērunt ut Rōmam īrent spectātum lūdōs quī ab imperātōre victoriōsō dābantur. Prīmā lūce equīs iter coepērunt. Sed quīnque mīlia passuum ab villīs eōrum, crūs unīus equī fractum est.  Agricola cui ille equus infēlīx erat gladium strinxit et eum occīdit.  Cur agricolae Rōmam īre volebant?</latin>"
+      answer: "<latin>LŪDŌS SPECTĀTUM / AD LŪDŌS SPECTANDŌS / UT LŪDŌS SPECTĀRENT / LŪDŌRUM SPECTANDŌRUM CAUSĀ (GRATIĀ)</latin>"
+    boni:
+      - question: "Cūr lūdī <latin>dābantur?</latin>"
+        answer: "<latin>QUOD IMPERĀTOR FUERAT VICTORIŌSUS / QUOD IMPERATOR VICERAT</latin>"
+      - question: "<latin>Ubi crus equīnum fractum est?</latin>"
+        answer: "<latin>QUĪNQUE MĪLIA PASSUUM AB SUĪS VILLĪS</latin>"

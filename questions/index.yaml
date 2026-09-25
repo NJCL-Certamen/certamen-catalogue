@@ -749,3 +749,39 @@ links:
   year: 1980
   division: Advanced
   round: Round 1
+- rel: 1997 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997adv1.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Round 1
+- rel: 1997 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997adv2.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Round 2
+- rel: 1997 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997adv3.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Round 3
+- rel: 1997 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Semifinals
+- rel: 1997 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Finals
+- rel: 1997 NJCL Certamen Advanced Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997advExtras.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Advanced
+  round: Extra Questions

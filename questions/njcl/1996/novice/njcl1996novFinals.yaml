@@ -175,16 +175,16 @@ questions:
     answer: DEMISE
 - tossup:
     question: Give the comparative and superlative forms of <latin>levis</latin>.
-    answer: <latin>LEVIOR</latin>, <latin>LEVISSIMUS</latin>
+    answer: <latin>LEVIOR, LEVISSIMUS</latin>
   boni:
   - question: 'Give the comparative and superlative forms of <latin>miser</latin>.'
-    answer: <latin>MISERIOR</latin>, <latin>MISERRIMUS</latin>
+    answer: <latin>MISERIOR, MISERRIMUS</latin>
   - question: 'Give the comparative and superlative forms of <latin>gracilis</latin>.'
-    answer: <latin>GRACILIOR</latin>, <latin>GRACILLIMUS</latin>
+    answer: <latin>GRACILIOR, GRACILLIMUS</latin>
 - tossup:
     question: 'Identify all the nouns in the accusative case in this sentence: <latin>Multōs
       diēs per silvam atram iter faciebamus.</latin>'
-    answer: <latin>DIĒS</latin>, <latin>SILVAM</latin>, & <latin>ITER</latin>
+    answer: <latin>DIĒS, SILVAM</latin>, & <latin>ITER</latin>
   boni:
   - question: Why is <latin>iter</latin> in the accusative?
     answer: DIRECT OBJECT

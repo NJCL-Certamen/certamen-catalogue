@@ -36,7 +36,7 @@ questions:
       - question: "What animals, including one named <latin>Surus</latin>, aided Hannibal in his war efforts against Rome?"
         answer: "ELEPHANTS"
   - tossup:
-      question: "Of the forms <latin>aperītis</latin>, <latin>aperuit</latin>, <latin>aperiunt</latin>, and <latin>aperiō</latin>, which does not fit by tense?"
+      question: "Of the forms <latin>aperītis, aperuit, aperiunt</latin>, and <latin>aperiō</latin>, which does not fit by tense?"
       answer: "APERUIT"
     boni:
       - question: "Translate <latin>aperuit</latin> into English."
@@ -48,7 +48,7 @@ questions:
       answer: "FAITH"
     boni:
       - question: "What is the Latin word and its meaning at the root of efficient, munificence, and faction?"
-        answer: "<latin>FACIŌ</latin> / <latin>FACERE</latin> - TO DO / MAKE / CONSTRUCT / BUILD / PRODUCE"
+        answer: "<latin>FACIŌ / FACERE</latin> - TO DO / MAKE / CONSTRUCT / BUILD / PRODUCE"
       - question: "What is the Latin word and its meaning at the root of faith?"
         answer: "<latin>FĪDES</latin>, TRUST / FAITH / CONFIDENCE // <latin>FĪDERE</latin>, TO TRUST / BELIEVE / RELY"
   - tossup:
@@ -112,7 +112,7 @@ questions:
       answer: "PALATINE / <latin>PALĀTIUM</latin> / (<latin>MŌNS</latin>) <latin>PALĀTĪNUS</latin>"
     boni:
       - question: "What hill stands across from the Palatine on the opposite side of the Circus Maximus?"
-        answer: "AVENTINE / (<latin>MŌNS</latin>) <latin>AVENTĪNUS</latin> / <latin>AVENTĪNUM</latin>"
+        answer: "AVENTINE / (<latin>MŌNS</latin>) <latin>AVENTĪNUS / AVENTĪNUM</latin>"
       - question: "What other hill overlooks the Forum Romanum and was the terminus of triumphal processions?"
         answer: "CAPITOLINE / <latin>CAPITŌLIUM</latin> / (<latin>MŌNS</latin>) <latin>CAPITŌLĪNUS</latin>"
   - tossup:
@@ -133,7 +133,7 @@ questions:
         answer: "ATLAS"
   - tossup:
       question: "Say in Latin: The messenger gave the letter to the leader."
-      answer: "<latin>NŪNTIUS</latin> / ANGELUS <latin>EPISTULAM</latin> / <latin>LITTERĀS</latin> / <latin>LITTERAM</latin> <latin>DUCĪ</latin> / <latin>IMPERĀTORĪ</latin> / <latin>PRĪNCIPĪ</latin> <latin>DEDIT</latin> / <latin>DĀBAT</latin>"
+      answer: "<latin>NŪNTIUS</latin> / ANGELUS <latin>EPISTULAM / LITTERĀS / LITTERAM DUCĪ / IMPERĀTORĪ / PRĪNCIPĪ DEDIT / DĀBAT</latin>"
     boni:
       - question: "Using <latin>soleō</latin>, say in Latin: We are accustomed to reading long books carefully."
         answer: "<latin>SOLĒMUS LEGERE DĪLIGENTER / CAUTĒ / CUM CŪRĀ LONGŌS / LĀTŌS LIBRŌS</latin>"
@@ -160,6 +160,6 @@ questions:
       answer: "FROM THE BEGINNING / START"
     boni:
       - question: "Give the Latin form that fills in the Latin phrase “<latin>ab ōvō usque ad</latin> [BLANK]”?"
-        answer: "<latin>MĀLUM</latin> / <latin>MĀLA</latin>"
+        answer: "<latin>MĀLUM / MĀLA</latin>"
       - question: "What two-word Latin phrase means “endlessly”?"
-        answer: "<latin>AD INFINITUM</latin> / <latin>AD NAUSEAM</latin> / <latin>AD PERPETUITĀTEM</latin> / <latin>IN PERPETUITĀTE</latin> / <latin>SINE FINĒ</latin>"
+        answer: "<latin>AD INFINITUM / AD NAUSEAM / AD PERPETUITĀTEM / IN PERPETUITĀTE / SINE FINĒ</latin>"

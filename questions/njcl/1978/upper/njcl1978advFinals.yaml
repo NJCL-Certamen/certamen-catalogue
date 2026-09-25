@@ -87,7 +87,7 @@ questions:
         answer: "<latin>NEMINEM</latin>"
   - tossup:
       question: "What distinguishes the perfect stems of <latin>cado</latin> and <latin>caedo</latin>?"
-      answer: "<latin>CADO</latin>'S IS <latin>CECIDI</latin>, <latin>CAEDO</latin>'S IS <latin>CECĪDI</latin>"
+      answer: "<latin>CADO</latin>'S IS <latin>CECIDI, CAEDO</latin>'S IS <latin>CECĪDI</latin>"
     boni:
       - question: "Which of them yields the English decide?"
         answer: "<latin>CAEDO</latin>"

@@ -132,10 +132,10 @@ questions:
       -- I PROVIDE, OFFER, YIELD, SURRENDER
 - tossup:
     question: Give an antonym of <latin>diū</latin>.
-    answer: <latin>PAULĪSPER</latin> / <latin>BREVITER</latin>
+    answer: <latin>PAULĪSPER / BREVITER</latin>
   boni:
   - question: Give an antonym of <latin>suprā</latin>.
-    answer: <latin>INFRĀ</latin> / <latin>SUBTER</latin> / <latin>SUB</latin>
+    answer: <latin>INFRĀ / SUBTER / SUB</latin>
   - question: Give an antonym of <latin>puppis</latin>.
     answer: <latin>PRŌRA</latin>
 - tossup:
@@ -162,17 +162,17 @@ questions:
     answer: <latin>IUCUNDUS / GRĀTIŌSUS / ACCEPTUS</latin>
   boni:
   - question: Give a synonym of <latin>pulcher</latin>.
-    answer: <latin>BELLUS</latin> / <latin>VENUSTUS</latin> / <latin>FORMŌSUS</latin>
+    answer: <latin>BELLUS / VENUSTUS / FORMŌSUS</latin>
   - question: Give a synonym of <latin>saevus</latin>.
-    answer: <latin>ATROX</latin> / <latin>DĪRUS</latin> / <latin>HORRIBILIS</latin> / <latin>TORVUS</latin>
+    answer: <latin>ATROX / DĪRUS / HORRIBILIS / TORVUS</latin>
 - tossup:
     question: Give a synonym of <latin>mūrus</latin>.
-    answer: <latin>PARIĒS</latin> / <latin>MOENIA</latin> / <latin>MĀCERIA</latin>
+    answer: <latin>PARIĒS / MOENIA / MĀCERIA</latin>
   boni:
   - question: Give a synonym of <latin>mūnus</latin>.
-    answer: <latin>DŌNUM</latin> / <latin>LARGĪTIŌ</latin>
+    answer: <latin>DŌNUM / LARGĪTIŌ</latin>
   - question: Give a synonym of <latin>mūtus</latin>.
-    answer: <latin>TACITUS</latin> / <latin>TACITURNUS</latin> / <latin>SILENS</latin>
+    answer: <latin>TACITUS / TACITURNUS / SILENS</latin>
 - tossup:
     question: What use of the ablative is found in <latin>Lucius ab ursā caesus est</latin>?
     answer: AGENCY
@@ -237,7 +237,7 @@ questions:
     answer: <latin>HIEMS</latin> -- WINTER; <latin>HĪBERNA</latin> -- WINTER QUARTERS
 - tossup:
     question: What two compounds of <latin>faciō</latin> mean "finish"?
-    answer: <latin>PERFICIŌ</latin>, <latin>CŌNFICIŌ</latin>
+    answer: <latin>PERFICIŌ, CŌNFICIŌ</latin>
   boni:
   - question: What compound of <latin>faciō</latin> means "kill"?
     answer: <latin>INTERFICIŌ</latin>

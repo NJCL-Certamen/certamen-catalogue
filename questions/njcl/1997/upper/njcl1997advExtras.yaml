@@ -1,0 +1,261 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Of <latin>gradior</latin>, give the third person plural future indicative"
+      answer: "<latin>GRADIENTUR</latin>"
+    boni:
+      - question: "Change <latin>gradientur</latin> to perfect"
+        answer: "<latin>GRESSĪ/-AE/-A SUNT</latin>"
+      - question: "Change <latin>gressī sunt</latin> to pluperfect"
+        answer: "<latin>GRESSĪ/-AE/-A ERANT</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>humus</latin> and <latin>humilis</latin>"
+      answer: "<latin>HUMUS</latin> -- GROUND, EARTH, SOIL <latin>HUMILIS</latin> -- LOW, SMALL, OBSCURE, POOR"
+    boni:
+      - question: "<latin>galea</latin> and <latin>gallīna</latin>"
+        answer: "<latin>GALEA</latin> -- HELMET <latin>GALLĪNA</latin> -- HEN"
+      - question: "<latin>homō</latin> and <latin>hiemō</latin>"
+        answer: "<latin>HOM</latin>Ō -- MAN, HUMAN <latin>HIEM</latin>Ō -- PASS THE WINTER, WINTER"
+  - tossup:
+      question: "What English noun, derived from the Latin for “bad air,” is the name of a disease transmitted by mosquitos?"
+      answer: "MALARIA"
+    boni:
+      - question: "What English adjective meaning “showing or causing gloom” derives from the Latin for “bad days”?"
+        answer: "DISMAL"
+      - question: "What English noun meaning “disease” derives from the Latin for “bad condition”?"
+        answer: "MALADY"
+  - tossup:
+      question: "Make the superlative form of <latin>serēnus</latin> agree with the noun <latin>aequor</latin>"
+      answer: "<latin>SERĒNISSIMUM</latin>"
+    boni:
+      - question: "Change <latin>aequor serēnissimum</latin> to plural"
+        answer: "<latin>AEQUORA SERĒNISSIMA</latin>"
+      - question: "Change <latin>serēnissima</latin> to comparative"
+        answer: "<latin>SERĒNIŌRA</latin>"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Semper ūtiminī tuā mente</latin>"
+      answer: "MEANS (SPECIAL VERBS)"
+    boni:
+      - question: "<latin>Prōconsulēs fraude praecēdunt</latin>"
+        answer: "SPECIFICATION"
+      - question: "<latin>Agricola senex nōn voluit vendere fundum pecūniā</latin>"
+        answer: "PRICE"
+  - tossup:
+      question: "According to its Greek roots, “calligraphy” is what?"
+      answer: "BEAUTIFUL WRITING"
+    boni:
+      - question: "According to its Greek root, someone who has “bulimia” has hunger like what? A"
+        answer: "COW"
+      - question: "According to its Greek roots, who is a “lycanthrope”?"
+        answer: "WEREWOLF"
+  - tossup:
+      question: "Translate: <latin>Multī imperātōrēs erant quī potentiam accumulāre vellent</latin>"
+      answer: "THERE WERE MANY EMPERORS OF THE TYPE WHO WANTED TO ACCUMULATE POWER"
+    boni:
+      - question: "Translate: <latin>Multī volunt ut aliī aliīs auxiliō sint.</latin>"
+        answer: "MANY WISH THAT SOME PEOPLE MIGHT BE A HELP TO OTHERS (AND OTHERS TO OTHERS)"
+      - question: "Translate: <latin>Multī verēbāntur nē auxiliīs carērent.</latin>"
+        answer: "MANY FEARED THAT THEY LACKED HELP (AIDS)"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Prīmā lūce Caesar iussit omnīs hostēs quī in monte cōnsēderant descendere ex superiōribus locīs in campum et prōicere arma. Id fēcērunt sine recūsātiōne flentēsque ab Caesare petīvērunt lēnitātem, quam līberē dedit.  Quandō Caesar iussit hostēs descendere in campum?</latin>"
+      answer: "<latin>PRĪMĀ LŪCE</latin>"
+    boni:
+      - question: "<latin>Unde hostēs descendērunt</latin>?"
+        answer: "<latin>DĒ MONTE / EX (DĒ) SUPERIŌRIBUS LOCĪS</latin>"
+      - question: "<latin>Quid hostēs petīvērunt ab Caesare?</latin>"
+        answer: "<latin>LĒNITĀTEM</latin>"
+  - tossup:
+      question: "Which Roman king was the son of Demaratus of Corinth, who fled to Etruria?"
+      answer: "(L.) TARQUINIUS PRISCUS"
+    boni:
+      - question: "Priscus enlarged the Senate by adding another 100 members, many of whom were probably Etruscan. What were these new members called?"
+        answer: "<latin>MINORES GENTES</latin>"
+      - question: "Of what structure on the Capitoline did he begin the construction?"
+        answer: "TEMPLE OF JUPITER OPTIMUS MAXIMUS / CAPITOLINUS"
+  - tossup:
+      question: "At end of the reign of Augustus, of what Roman province was <latin>Emerita Augusta</latin> the capital city?"
+      answer: "LUSITANIA"
+    boni:
+      - question: "was <latin>Lugdunum</latin>the capital city?"
+        answer: "LUGDUNESIS"
+      - question: "was <latin>Antiochia</latin>the capital city?"
+        answer: "SYRIA"
+  - tossup:
+      question: "Who in 91 BC warned the consul L. Marcius Phillippus of a plot to assassinate him?"
+      answer: "(M.) LIVIUS DRUSUS THE YOUNGER"
+    boni:
+      - question: "For what kind of legislation, opposed by Phillipus, had Drusus been agitating?"
+        answer: "ROMAN CITIZENSHIP FOR THE ITALIAN ALLIES"
+      - question: "In spite of this warning, of what did Phillippus think Drusus was guilty?"
+        answer: "COLLUSION WITH (THE MARSIAN CHIEFTAIN Q.) POPPAEDIUS"
+  - tossup:
+      question: "Whose acquittal in 120 BC for putting a citizen to death without a trial gave <latin>de facto</latin> legalization to the <latin>senatus consultum ultimum</latin>?"
+      answer: "(L.) OPIMIUS"
+    boni:
+      - question: "Whom had Opimius put to death without a trial?"
+        answer: "GAIUS GRACCHUS / FULVIUS FLACCUS"
+      - question: "Why was Opimius exiled in 110 BC?"
+        answer: "ACCEPTING BRIBES (FROM JUGURTHA)"
+  - tossup:
+      question: "What future Flavian emperor was brought up at court along with Britannicus, the son of Claudius?"
+      answer: "TITUS"
+    boni:
+      - question: "What emperor did Titus serve as his Praetorian Prefect?"
+        answer: "VESPASIAN"
+      - question: "What future emperor was rumored to have poisoned Titus?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Name the emperor, a strong adherent of the Nicene creed, who took drastic steps to stamp out both paganism and Christian heresies?"
+      answer: "THEODOSIUS I / THE GREAT"
+    boni:
+      - question: "To whom did Theodosius order all Catholic churches to be surrendered in AD 381?"
+        answer: "BISHOPS RECOGNIZED BY HIM"
+      - question: "What did Theodosius order in AD 391 concerning paganism"
+        answer: "CLOSED ALL PAGAN TEMPLES & BANNED ALL FORMS OF PAGAN CULTS"
+  - tossup:
+      question: "For the control or independence of what shrine were the Sacred Wars fought?"
+      answer: "DELPHI"
+    boni:
+      - question: "What city lost the control of Delphi in the First Sacred War, but regained it in the Second?"
+        answer: "PHOCIS"
+      - question: "Who gained control after the Third Sacred War?"
+        answer: "PHILIP II OF MACEDONIA"
+  - tossup:
+      question: "How many hours were in a Roman day?"
+      answer: "TWELVE"
+    boni:
+      - question: "Into what unit was the night divided?"
+        answer: "WATCH / <latin>VIGILIA</latin>"
+      - question: "How many watches were there per night?"
+        answer: "FOUR"
+  - tossup:
+      question: "Who refused to return to Mt. Olympus after Helius failed in an attempt to comfort her after her daughter’s abduction?"
+      answer: "DEMETER / CERES"
+    boni:
+      - question: "With what goddess did Demeter go to visit Helius?"
+        answer: "HECATE"
+      - question: "According to some sources, what Argive woman was the one who actually comforted Demeter, not Helius?"
+        answer: "CHRYSANTHIS"
+  - tossup:
+      question: "What Greek leader was compelled by a vow to sacrifice his own son after he returned from Troy to Crete?"
+      answer: "IDOMENEUS"
+    boni:
+      - question: "Who was the squire of Idomeneus during the Trojan War?"
+        answer: "MERIONES"
+      - question: "Who was the wife of Idomeneus?"
+        answer: "MEDA"
+  - tossup:
+      question: "What Phrygian goddess changed Aeneas’ ships into sea-nymphs when Turnus’ men burned them?"
+      answer: "CYBELE / CYBEBE / DINDYMENE / AGDISTIS"
+    boni:
+      - question: "Why did Cybele change Aeneas’ ships into sea-nymphs?"
+        answer: "BECAUSE AENEAS’ SHIPS WERE MADE OF HER SACRED PINE TREES FROM MT. IDA"
+      - question: "Which of these sea-nymphs was most skilled at speaking and informed Aeneas of Ascanius’ troubles?"
+        answer: "CYMODOCE"
+  - tossup:
+      question: "Who accompanied Telemachus to Sparta?"
+      answer: "PEISISTRATUS"
+    boni:
+      - question: "Who was the father of Peisistratus?"
+        answer: "NESTOR"
+      - question: "Who received Telemachus and Peisistratus in Sparta?"
+        answer: "MENELAÜS / HELEN"
+  - tossup:
+      question: "To what Lydian queen was Heracles sold as a slave?"
+      answer: "OMPHALE"
+    boni:
+      - question: "While acting as her servant, what Lydian outlaw did Heracles kill with a hoe?"
+        answer: "SYLEUS"
+      - question: "What daughter of Syleus was also killed by Heracles?"
+        answer: "XENODICE"
+  - tossup:
+      question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, what Roman nymph of fruit trees was seduced by Vertumnus, a Roman god of fertility?"
+      answer: "POMONA"
+    boni:
+      - question: "What special power did Vertumnus use to help him convince Pomona to give in to his amorous advances?"
+        answer: "TRANSFORM HIMSELF INTO ANY SHAPE AT WILL"
+      - question: "What disguise did he use when successfully pleading the case for his love?"
+        answer: "AN OLD WOMAN"
+  - tossup:
+      question: "Who was the leader of the “Epigoni”?"
+      answer: "ALCMEON"
+    boni:
+      - question: "Who was the only one of the “Epigoni” to die at Thebes?"
+        answer: "AEGIALEUS"
+      - question: "Who was the father of Aegialeus, the only one to survive the expedition of the “Seven Against Thebes”?"
+        answer: "ADRASTUS"
+  - tossup:
+      question: "What son of King Tantalus of Phrygia was credited with carving the oldest image of Cybele?"
+      answer: "BROTEAS"
+    boni:
+      - question: "What goddess drove Broteas mad and ultimately caused his death?"
+        answer: "ARTEMIS / DIANA"
+      - question: "How did she cause his death?"
+        answer: "SHE MADE HIM THINK THAT HE WAS IMMUNE TO FLAMES AND HE THREW HIMSELF INTO A FIRE AND DIED"
+  - tossup:
+      question: "What early author and educator decided to translate a great epic from Greek to Latin because he was in desparate need of textbooks?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "This great epic, of course, was Homer’s <title>Odyssey</title>. In what meter was Livius Andronicus’ translation written?"
+        answer: "SATURNIAN"
+      - question: "For what occasion in 240 BC did Livius Andronicus compose the first Latin dramas?"
+        answer: "<title>LUDI ROMANI</title>"
+  - tossup:
+      question: "What genre of Latin literature did Gnaeus Naevius first introduce?"
+      answer: "<latin>FABULAE PRAETEXTAE</latin>"
+    boni:
+      - question: "What were <latin>fabulae praetextae</latin>?"
+        answer: "ORIGINAL TRAGEDIES FROM ROMAN MATERIAL; PLAYS ON HISTORICAL ROMAN SUBJECTS"
+      - question: "In which of Naevius’ <latin>fabulae praetextae</latin> did he mention the winning of the <latin>spolia opima</latin> M. Claudius Marcellus?"
+        answer: "<title><latin>CLASTIDIUM</latin></title>"
+  - tossup:
+      question: "What early author claimed that he was fluent in Greek, Oscan, and Latin?"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "What physical “abnormality” did Ennius claim to have as a result of his fluency in these three languages?"
+        answer: "HE HAD 3 HEARTS"
+      - question: "What work of Ennius opened with a dream in which Homer appeared to Ennius and told him that he was his own reincarnation?"
+        answer: "<title><latin>ANNALES</latin></title>"
+  - tossup:
+      question: "Which of Cicero’s works was also known as <title><latin>Cato Maior</latin></title>?"
+      answer: "<title><latin>DE SENECTUTE</latin></title>"
+    boni:
+      - question: "Which of Cicero’s works was also known as <title><latin>Laelius</latin></title>?"
+        answer: "<title><latin>DE AMICITIA</latin></title>"
+      - question: "In what larger work of Cicero was the <title><latin>Somnium Scipionis</latin></title> contained?"
+        answer: "<title><latin>DE RE PUBLICA</latin></title>"
+  - tossup:
+      question: "In which of his early works did Ovid renounce elegiac poetry by writing his own elegies?"
+      answer: "<title><latin>AMORES</latin></title>"
+    boni:
+      - question: "To what imaginary lover did Ovid address his love elegies?"
+        answer: "CORINNA"
+      - question: "How many books of the <title><latin>Amores</latin></title> did Ovid write?"
+        answer: "THREE"
+  - tossup:
+      question: "Who said the following quote in Vergil’s <title>Aeneid</title>: <latin>“īnfandum, rēgīna, iubēs renovāre dolōrem, Troiānās ut opēs et lāmentābile rēgnum ēruerint Danaī, quaeque ipse miserrima vīdī et quōrum pars magna fuī”</latin>?"
+      answer: "AENEAS"
+    boni:
+      - question: "To whom was Aeneas talking when these lines were spoken?"
+        answer: "DIDO / ELISSA"
+      - question: "In which book of Vergil’s <title>Aeneid</title> would you find the quotation from the toss-up?"
+        answer: "BOOK II"
+  - tossup:
+      question: "What rhetorical devise, excluding alliteration, can be found in the following sentence: <latin>“Hannibal in Africam redīre atque Ītaliā dēcēdere coactus est”</latin>?"
+      answer: "HYSTERON PROTERON"
+    boni:
+      - question: "What rhetorical devise, excluding alliteration, can be found in the following sentence: <latin>“Perfectī</latin> ō<latin>rātōris moderātiōne et sapientiā”</latin>?"
+        answer: "HENDIADYS"
+      - question: "What rhetorical devise, excluding alliteration, can be found in the following sentence: <latin>“Hōrae quidem cēdunt et diēs et mensēs et annī”</latin>?"
+        answer: "POLYSYNDETON"
+  - tossup:
+      question: "What Greek lyric poet, born in the second half of the 7th century BC on the island of Lesbos, was often hailed in antiquity as “the tenth Muse”?"
+      answer: "SAPPHO"
+    boni:
+      - question: "What other Greek lyric poet, roughly a conteporary of Sappho, was also a resident of Lesbos?"
+        answer: "ALCAEUS"
+      - question: "What ruler of Lesbos caused the exile of both Sappho and Alcaeus?"
+        answer: "PITTACUS"

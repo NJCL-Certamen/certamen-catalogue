@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "According to Homer, who was the eldest son of Cronus and Rhea?"
+      answer: "ZEUS"
+    boni:
+      - question: "Which of the siblings of Zeus is called the <latin>Zeus Katachthonius</latin> (kä-tä%kthō'nē%ßs)?"
+        answer: "HADES"
+      - question: "Which of the siblings of Zeus was called <latin>Ennosigaios</latin> (0-nō's0-gī'ßs)?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What Latin poet served as <latin>tribūnus mīlitum </latin>under Brutus and was the author of a work entitled <title><latin>Ars Poetica</latin></title>?"
+      answer: "HORACE (QUINTUS HORATIUS FLACCUS)"
+    boni:
+      - question: "For five points each, name the two Latin poets who introduced Horace to Octavian’s adviser Maecenas"
+        answer: "(P.) VERGIL(IUS MARO) / VARIUS RUFUS"
+  - tossup:
+      question: "What type of “<latin>cum</latin>” clause is contained in the following Latin sentence: <latin>Cum Cicerō Archiam poētam maximae ēloquentiae putāret, eum dēfendit</latin>"
+      answer: "CAUSAL"
+    boni:
+      - question: "Look at the following passage from Cicero’s <latin><title>Prō Archiā</title></latin>. I will now give you 10 seconds to examine it. --- (after 10 sec.) What type of “<latin>cum</latin>” clause is contained in that passage? <latin>Quotiēns ego hunc Archiam vīdī, iūdicēs, --- ūtar enim vestrā benignitāte, quōniam mē in hōc novō genere dīcendī tam diligenter attenditis, quotiēns ego hunc vīdī, cum litteram scrīpsisset nullam, magnum numerum optimōrum versuum dē eīs ipsīs rēbus quae tum agerentur dīcere ex tempore!</latin>"
+        answer: "CONCESSIVE"
+      - question: "In that passage, what does Cicero say about the skills of the poet Archias?"
+        answer: "HE WAS ABLE TO RECITE <emphasis>EXTEMPORANEOUSLY</emphasis> LOTS OF POETRY ON THE TOPICS OF THE DAY"
+  - tossup:
+      question: "In what war did L. Papirius Cursor, Q. Fabius Rullianus, and L. Scipio Barbatus win important victories?"
+      answer: "THIRD SAMNITE"
+    boni:
+      - question: "What other commander “devoted” his own life to rally his wing in the battle of Sentinum?"
+        answer: "DECIUS MUS"
+      - question: "Name the Samnite commander who died in the decisive battle of Sentinum?"
+        answer: "(GELLIUS) EGNATIUS"
+  - tossup:
+      question: "Give the form of <latin>oblīvīscor</latin> required to translate this sentence into Latin: Do you believe that Julia forgot to read the fine print?"
+      answer: "<latin>OBLĪTAM ESSE</latin>"
+    boni:
+      - question: "Give the form of <latin>meminī</latin> required to translate this sentence into Latin: I don’t think that Julia remembers anything"
+        answer: "<latin>MEMINISSE</latin>"
+      - question: "Give the form of <latin>vendere</latin> required to translate this sentence into Latin: I know that Julia will sell her jewelry soon"
+        answer: "<latin>VENDITŪRAM ESSE</latin>"
+  - tossup:
+      question: "What use of the accusative case is found in the following sentence: <latin>Ō deum immortālem</latin>!"
+      answer: "EXCLAMATION"
+    boni:
+      - question: "<latin>Maximam partem, hominēs sunt bonī</latin>"
+        answer: "ADVERBIAL"
+      - question: "<latin>Imperātor plūrimum posse semper vult</latin>"
+        answer: "COGNATE // KINDRED SPECIFICATION / SIGNIFICATION"
+  - tossup:
+      question: "What war in the first century BC was so expensive that Rome was forced to sell portions of its <latin>ager publicus</latin>?"
+      answer: "ITALIAN / SOCIAL / MARSIC"
+    boni:
+      - question: "To contain the scope of the war, the <latin>lex Iulia</latin> was passed. For what did it provide?"
+        answer: "FRANCHISE FOR ALL LOYAL ITALIANS (& PROBABLY FOR THOSE WHO LAID DOWN THEIR ARMS IMMEDIATELY)"
+      - question: "Who was the consul after whom this law was named?"
+        answer: "L. IULIUS CAESAR"
+  - tossup:
+      question: "On which play of Plautus was the plot of Shakespeare’s <title>Comedy of Errors</title> based?"
+      answer: "<title><latin>MENAECHMI</latin></title>"
+    boni:
+      - question: "In Plautus’ <title><latin>Menaechmi</latin></title>, a single pair of twins were present in the play. How many pairs of twins were present in Shakespeare’s version of this Plautine play?"
+        answer: "TWO PAIRS"
+      - question: "The additional pair of twins in Shakespeare’s <title>Comedy of Errors</title> were identical servants to the identical masters. From what other Plautine play did Shakespear borrow the idea of identical servants?"
+        answer: "<title><latin>AMPHITRUO</latin></title>"
+  - tossup:
+      question: "Give all the second person, future, active, imperatives of <latin>habeō</latin>"
+      answer: "<latin>HABĒTŌ, HABĒTŌTE</latin>"
+    boni:
+      - question: "Give all the third person, future, active imperatives of <latin>habeō</latin>"
+        answer: "<latin>HABĒTŌ, HABENT</latin>Ō"
+      - question: "Change <latin>habētō</latin> and <latin>habentō</latin> to passive"
+        answer: "<latin>HABĒTOR, HABENTOR</latin>"
+  - tossup:
+      question: "What king offered his protection to Oedipus, the former king of Thebes?"
+      answer: "THESEUS"
+    boni:
+      - question: "Whom did Theseus force to give up the Argive dead for burial after the war of the “Seven Against Thebes”?"
+        answer: "CREON"
+      - question: "What leader of the “Seven Against Thebes” made this request while serving as a suppliant to Theseus?"
+        answer: "ADRASTUS"
+  - tossup:
+      question: "The Senate debated the idea of restoring the Republic after whose assassination in AD 41?"
+      answer: "GAIUS CAESAR’S / CALIGULA’S"
+    boni:
+      - question: "The actions of what group forced the Senate to stop debate and accept their candidate?"
+        answer: "PRAETORIAN GUARD’S"
+      - question: "Who was the candidate of the Praetorian Guard?"
+        answer: "CLAUDIUS (I)"
+  - tossup:
+      question: "In Book VI of Vergil’s <title>Aeneid</title>, who said the following quote: <latin>“sate sanguine dīvum, Trōs Anchīsiadē, facilis dēscēnsus Avernō”</latin>?"
+      answer: "CUMEAN SIBYL / DEIPHOBE"
+    boni:
+      - question: "In the same book, who said the following: <latin>“tūque, Ō, dubiīs nē dēfice rēbus, dīva parēns”</latin>?"
+        answer: "AENEAS"
+      - question: "Whom was Aeneas addressing when he spoke those words?"
+        answer: "VENUS (HIS MOTHER)"
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē. Quis sum? Sī incendium in urbe est, id extinguere cōnor. Est etiam mihi negōtium tuendae urbis per noctem. Sum aut carnifex aut artifex  aut pūblicānus aut medicus aut vigil. Quis sum?</latin>"
+      answer: "<latin>VIGIL</latin>"
+    boni:
+      - question: "<latin>Lūcrum faciō necandīs hominibus. Multī sunt quī mē nōn faveant, sed homines scelerati alicui necandī sunt. Sum aut carnifex aut artifex aut pūblicānus aut medicus aut vigil. Quis sum?</latin>"
+        answer: "<latin>CARNIFEX</latin>"
+      - question: "<latin>Sī nōn vales, arcesse mē. Veniam ut tuam infirmitātem perspiciam. Quod sī dīvitiīs careās, nōlī arcessere mē! Sum aut carnifex aut artifex aut pūblicānus aut medicus aut vigil. Quis sum?</latin>"
+        answer: "<latin>MEDICUS</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>cinis</latin> and <latin>cānus</latin>"
+      answer: "<latin>CINIS</latin> -- ASHES <latin>CĀNUS</latin> -- GREY, HOARY, WHITE"
+    boni:
+      - question: "<latin>instar</latin> and <latin>instāre</latin>"
+        answer: "<latin>INSTAR</latin> -- LIKENESS, IMAGE, KIND, MANNER, AS LARGE AS, EQUIVALENT TO <latin>INSTĀRE</latin> -- STAND ON, PRESS UP, INSIST"
+      - question: "<latin>pūpus</latin> and <latin>puppis</latin>"
+        answer: "<latin>PŪPUS</latin> -- BOY, CHILD <latin>PUPPIS</latin> -- STERN, POOP"
+  - tossup:
+      question: "Who killed Meleager by throwing his life-brand into a fire?"
+      answer: "ALTHAEA"
+    boni:
+      - question: "How did Althaea die?"
+        answer: "SHE KILLED (HANGED/STABBED) HERSELF"
+      - question: "After Meleager’s death, his sisters mourned him bitterly. Into what kind of birds were the sisters of Meleager transformed by Artemis?"
+        answer: "GUINEA FOWL"
+  - tossup:
+      question: "What Persian religion was the chief rival of Christianity?"
+      answer: "MITHRAISM"
+    boni:
+      - question: "Of what was Roman Mithras the god?"
+        answer: "SUN (LIGHT)"
+      - question: "What did you have to be to join the cult of Mithras?"
+        answer: "MEN"
+  - tossup:
+      question: "After Helius failed to comfort her, who refused to return to Mt. Olympus because of her grief over her daughter’s abduction?"
+      answer: "DEMETER / CERES"
+    boni:
+      - question: "With what goddess did Demeter go to visit Helius?"
+        answer: "HECATE"
+      - question: "According to some sources, what Argive woman was the one who actually comforted Demeter?"
+        answer: "CHRYSANTHIS"
+  - tossup:
+      question: "What English word, literally meaning “it must be brought back”, is the name of the practice of submitting to popular vote a measure passed by a legislative body?"
+      answer: "REFERENDUM"
+    boni:
+      - question: "What English noun meaning “severe or formal criticism” derives from the Latin for “things that must be pressed back”?"
+        answer: "REPRIMAND"
+      - question: "What English noun meaning “a member of the clergy” derives from the Latin for “he must be feared, respected”?"
+        answer: "REVEREND"
+  - tossup:
+      question: "What rhetorical device can be found in the Latin phrase <latin>“īnsāniēns sapientia”</latin> ?"
+      answer: "OXYMORON"
+    boni:
+      - question: "What rhetorical device can be found in the Latin phrase <latin>“furit Vulcānus”</latin>?"
+        answer: "METONYMY"
+      - question: "What rhetorical device can be illustrated by the use of the phrase <latin>“vī et armīs”</latin>?"
+        answer: "HENDIADYS"
+  - tossup:
+      question: "For the verb <latin>amplector</latin>, give the second person plural, pluperfect, subjunctive"
+      answer: "<latin>AMPLEXĪ/-AE/-A ESSĒTIS</latin>"
+    boni:
+      - question: " Change <latin>amplexī essētis</latin> to perfect"
+        answer: "<latin>AMPLEXĪ/-AE/-A SĪTIS</latin>"
+      - question: "Change <latin>amplexī sītis</latin> to imperfect"
+        answer: "<latin>AMPLECTERĒMINĪ</latin>"

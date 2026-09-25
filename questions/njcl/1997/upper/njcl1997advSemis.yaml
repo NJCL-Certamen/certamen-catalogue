@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What Latin conjunction would be required to introduce the dependent subjunctive clause in the following sentence: Cicero feared that Catiline was an enemy to Rome"
+      answer: "<latin>NĒ</latin>"
+    boni:
+      - question: "Cicero went to Rome to become a politician more easily"
+        answer: "<latin>QUŌ</latin>"
+      - question: "There is no doubt that Cicero died a tragic death"
+        answer: "<latin>QUĪN</latin>"
+  - tossup:
+      question: "What Phaeacian princess gave assistance to Odysseus when he arrived on the island of Scheria?"
+      answer: "NAUSICAÄ"
+    boni:
+      - question: "For five points each, name both of her parents"
+        answer: "ALCINOÜS / ARETE"
+  - tossup:
+      question: "What ribald and licentious verses were sung during weddings and triumphs?"
+      answer: "FESCENNINE VERSES / <title><latin>VERSŪS FESCENNĪNI</latin></title>"
+    boni:
+      - question: " What type of masked drama, in origin a native Italian farce, often included stock characters such as Bucco “the fool”, Dossennus “the glutton”, and Maccus “the clown”?"
+        answer: "<title><latin>FABULAE ATELLANAE</latin></title> / ATELLAN FARCES"
+      - question: "What type of comedy, written at Rome in the 2nd century BC, was also known as <title><latin>fabulae tabernariae</latin></title>?"
+        answer: "<title><latin>FABULAE TOGATAE</latin></title>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in English the question that follows: <latin>Senātor dīves in forō Rōmānō lectīcā ferēbātur cum venditor pauperrimus eum appropinquāret et bona sua ostenderet. “Caligās vēnālēs!” clāmāvit venditor, eās mōnstrāns senātōrī. “Artificiōsē fabricātas! Solum duōbus mīlibus sestertium.” Senātor autem caligās emere nōn voluit. “Fatue,” dīxit crūdēliter, “tua māter caligās gerit, nōn ego!”</latin> By what means was the senator travelling through the Roman forum?"
+      answer: "HE WAS BEING CARRIED IN A LITTER"
+    boni:
+      - question: "For how much was the merchant selling the boots?"
+        answer: "2,000 SESTERCES"
+      - question: "After the merchant showed the boots to the senator, what did the senator reply?"
+        answer: "“YOUR MOTHER WEARS COMBAT BOOTS.” (prompt on “HE DOESN’T WEAR BOOTS”)"
+  - tossup:
+      question: "With what former consul was Gaius Gracchus tribune in 122 BC?"
+      answer: "M. FULVIUS FLACCUS"
+    boni:
+      - question: "What reform had Flaccus as consul proposed unsuccessfully which was revived in a modified form by Gaius Gracchus?"
+        answer: "ENFRANCHISEMENT OF ITALIANS"
+      - question: "What had Flaccus wanted from the Italians in exchange for citizenship?"
+        answer: "THEIR PUBLIC LAND (FOR SETTLEMENT OF ROME’S UNEMPLOYED)"
+  - tossup:
+      question: "This inscription was found in Ostia on an object sacred to Apollo. According to the inscription, what is the object?"
+      answer: "A SHRINE / HOLY AREA"
+    boni:
+      - question: "The abbreviation P.P. stands for <latin>pecūniā pōsuit</latin> in the phrase <latin>Sacrum dē suā pecūniā pōsuit</latin>. What does this tell us about the shrine?"
+        answer: "LUCIUS STATILIUS (PRIMUS) FINANCED THE BUILDING OF THE SHRINE"
+      - question: "Why did Lucius Statilius Pollio <emphasis>renovate</emphasis> and restore the <emphasis>altar</emphasis> of the shrine?"
+        answer: "IT HAD FALLEN DOWN FROM OLD AGE"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: <latin>Utinam mātris tuae meminissēs</latin>!"
+      answer: "WITH VERBS OF REMEMBERING & FORGETTING / WITH <latin>MEMINI</latin>"
+    boni:
+      - question: "What use of the genitive case is found in the following sentence: <latin>Fodiāmus fossam decem pedum</latin>"
+        answer: "MEASURE / DESCRIPTION / QUALITY"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Nōlī complēre tuum ventrem dulcium</latin>"
+        answer: "WITH VERBS OF PLENTY AND WANT (FILLING AND EMPTYING)"
+  - tossup:
+      question: "Differentiate in meaning between <latin>māne</latin> and <latin>Mānēs</latin>"
+      answer: "<latin>MĀNĒ</latin> -- IN THE MORNING <latin>MĀNĒS</latin> -- SPIRITS OF THE DEAD"
+    boni:
+      - question: "<latin>inferre</latin> and <latin>inferī</latin>"
+        answer: "<latin>INFERRE</latin> -- CARRY, BRING, THROW INTO; BURY <latin>INFERĪ</latin> -- THE DEAD, INHABITANTS OF THE LOWER WORLD"
+      - question: "<latin>umbō</latin> and <latin>ambō</latin>"
+        answer: "<latin>UMBŌ</latin> -- BOSS OF A SHIELD, SHIELD, PROMONTORY <latin>AMBŌ</latin> -- BOTH"
+  - tossup:
+      question: "What is the title of Cicero’s most systematic treatment of ethics, and is perhaps the fullest account we have of the various schools of thought in Rome?"
+      answer: "<title><latin>DE FINIBUS (BONORUM ET MALORUM)</latin></title>"
+    boni:
+      - question: " Who speaks on behalf of Stoicism in this work?"
+        answer: "(M. PORCIUS) CATO MAIOR (or CENSOR or ELDER)"
+      - question: "What other philosophy is featured in the same work?"
+        answer: "EPICUREANISM"
+  - tossup:
+      question: "Whose plan to make two new provinces out of Marcomannia and Sarmatia was stopped by the attempted usurpation of his throne by Avidius Cassius?"
+      answer: "MARCUS AURELIUS’"
+    boni:
+      - question: "Over what part of the empire had Aurelius given Avidius the supreme command?"
+        answer: "THE EAST (INCLUDING EGYPT)"
+      - question: "Who encouraged Avidius to have himself proclaimed emperor when it was thought that Aurelius had died on the Danube?"
+        answer: "FAUSTINA THE YOUNGER (AURELIUS’ WIFE)"
+  - tossup:
+      question: "Name one of the five Spartoi who aided Cadmus in founding Thebes. <title></title>"
+      answer: "SEE BELOW"
+    boni:
+      - question: "For five points, name two more."
+        answer: "SEE BELOW"
+      - question: "For five points, name two more."
+        answer: "ECHION / UDAEUS / CHTHONIUS / HYPERENOR / PELORUS"
+  - tossup:
+      question: "What Latin noun with what meaning lies at the root of “robust”?"
+      answer: "<latin>RŌBUR / RŌBOR / RŌBUS</latin> -- in gen. A VERY HARD TREE, OAK figuratively STRENGTH, POWER"
+    boni:
+      - question: "What Latin noun with what meaning lies at the root of “castanet”?"
+        answer: "<latin>CASTANEA</latin> -- CHESTNUT-TREE (synecdochically CHESTNUT)"
+      - question: "What Latin noun with what meaning lies at the root of “cherry”?"
+        answer: "<latin>CERASUS/-UM</latin> -- CHERRY-TREE (synecdochically CHERRY)"
+  - tossup:
+      question: "Name a Roman province which had the Danube River as one of its borders?"
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name another."
+        answer: "SEE BELOW"
+      - question: "Name a third."
+        answer: "RAETIA / NORICUM / PANNONIA (SUPERIOR & INFERIOR) / MOESIA (SUPERIOR & INFERIOR) / DACIA"
+  - tossup:
+      question: "What is the meaning of the Greek word common to “oxygen” and “oxymoron”?"
+      answer: "SHARP (Ï>bH)"
+    boni:
+      - question: "What is the meaning of the Greek word common to “xenon” and “xenophobia”?"
+        answer: "FOREIGNER / STRANGER / STRANGE (>X<@H)"
+      - question: "What is the meaning of the Greek word common to “agonize” and “protagonist”?"
+        answer: "CONTEST / ORDEAL / COMPETITION / STRUGGLE (•(f<)"
+  - tossup:
+      question: "Who, at the request of the emperor Valens, wrote the <title><latin>Breviarium ab Urbe Condita</latin></title>?"
+      answer: "EUTROPIUS"
+    boni:
+      - question: "What time period does Eutropius’ “brief” history cover?"
+        answer: "ROMULUS THROUGH JOVIAN /"
+      - question: "753 BC - AD 364 For five points, name one of the two historians on whom Eutropius relied heavily in writing his work"
+        answer: "LIVY / SUETONIUS"
+  - tossup:
+      question: "Who, because of his reputation for integrity, was chosen to determine the amount of tribute to be paid by each member of the Delian League?"
+      answer: "ARISTIDES (THE JUST)"
+    boni:
+      - question: "Why had Aristides been ostracized in 482 BC?"
+        answer: "HIS OPPOSITION TO THEMISTOCLES (& HIS NAVAL POLICY)"
+      - question: "At what battle in 479 BC was Aristides the commander of the Athenian forces?"
+        answer: "PLATAEA"
+  - tossup:
+      question: "What Greek philosopher’s works were all written in the form of dialogues in which he himself does not appear?"
+      answer: "PLATO"
+    boni:
+      - question: "Plato’s best-known contribution to political thought is his idea that individual and state are analogous in structure. In which of his famous works does he develop this idea?"
+        answer: "<title>THE REPUBLIC</title>"
+      - question: " What famous Greek was the chief figure in Plato’s <title>Republic, Apology</title>, and <title>Phaedo</title>?"
+        answer: "SOCRATES"
+  - tossup:
+      question: "Translate: <latin>Fateor multōs hominēs excellentī animō ac virtūte fuisse</latin>."
+      answer: "I GRANT / DISCOVER / CONFESS THAT THERE HAVE BEEN MANY MEN OF OUTSTANDING SOUL / SPIRIT / MIND AND VIRTUE"
+    boni:
+      - question: "Translate: <latin>Nēmō est tam senex quī sē nōn putet annum vīvere posse</latin>"
+        answer: "NO ONE IS SO OLD AS TO NOT THINK HE CAN LIVE A YEAR"
+      - question: "Translate: <latin>Ītalia erat tam plēnā Graecārum artium ut pars “Magna Graecia” vocārētur</latin>"
+        answer: "ITALY WAS SO FULL OF GREEK ARTS THAT PART WAS CALLED “GREAT GREECE” / MAGNA GRAECIA"
+  - tossup:
+      question: "With what princess of Chios did Orion fall in love?"
+      answer: "MEROPE"
+    boni:
+      - question: "Who was the father of Merope?"
+        answer: "OENOPION"
+      - question: "What did Oenopion do to Orion while Orion was sleeping?"
+        answer: "HE BLINDED ORION"
+  - tossup:
+      question: "Who convinces Patroclus to ask Achilles for the use of his armour?"
+      answer: "NESTOR"
+    boni:
+      - question: "Who was the last person Patroclus killed?"
+        answer: "CEBRIONES (HECTOR’S HALF-BROTHER AND CHARIOTEER)"
+      - question: "In whose shape did Athena trick Hector into fight Achilles outside the walls of Troy?"
+        answer: "DEIPHOBUS"

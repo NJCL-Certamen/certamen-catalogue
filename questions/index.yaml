@@ -269,6 +269,12 @@ links:
   year: 1980
   division: Advanced
   round: Semifinals
+- rel: 1980 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1980/upper/njcl1980advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1980
+  division: Advanced
+  round: Semifinals 2
 - rel: 1980 NJCL Certamen Advanced Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1980/upper/njcl1980adv2.yaml
   tournament: NJCL Certamen
@@ -581,6 +587,42 @@ links:
   year: 1996
   division: Advanced
   round: Finals
+- rel: 1997 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997int2.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Round 2
+- rel: 1997 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Finals
+- rel: 1997 NJCL Certamen Intermediate Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997intExtras.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Extra Questions
+- rel: 1997 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997int1.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Round 1
+- rel: 1997 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997int3.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Round 3
+- rel: 1997 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/lower/njcl1997intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Intermediate
+  round: Semifinals
 - rel: 1997 NJCL Certamen Advanced Round 3
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997adv3.yaml
   tournament: NJCL Certamen

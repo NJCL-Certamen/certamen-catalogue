@@ -1,0 +1,211 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "What use of the dative case is found in the following sentence: <latin>Lūcius omnibus negōtiīs praefuit</latin>"
+      answer: "COMPOUND VERBS"
+    boni:
+      - question: "What use of the dative case is found in the following sentence: <latin>Nōbīs omnibus amandī sunt aliī</latin>"
+        answer: "AGENCY"
+      - question: "What use of the dative case is found in the following sentence: <latin>Laudāvit mihi fratrem</latin>"
+        answer: "REFERENCE"
+  - tossup:
+      question: "Give the perfect active infinitive of <latin>fleō</latin>"
+      answer: "<latin>FLĒVISSE</latin>"
+    boni:
+      - question: "Change <latin>flēvisse</latin> to passive"
+        answer: "<latin>FLĒTUS / -A / -UM ESSE</latin>"
+      - question: "Change <latin>flētus esse </latin>to future active"
+        answer: "<latin>FLĒTŪRUS / -A / -UM ESSE</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>ante</latin>"
+      answer: "<latin>ANTEA, ANTEQUAM, IUXTĀ, PRAE, PRIUS, PRIUSQUAM, PRŌ</latin>"
+    boni:
+      - question: "Give a synonym of <latin>statim</latin>"
+        answer: "<latin>SUBITŌ, EXTEMPLŌ, PRŌTINUS, REPENTE, CONFESTIM, CONTINUŌ, ĪLICŌ</latin>"
+      - question: "Give a synonym of <latin>nunc</latin>"
+        answer: "<latin>IAM, MODO</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>fāma</latin> and <latin>famēs</latin>"
+      answer: "<latin>FĀMA</latin> -- RUMOR, REPORT, REPUTATION, FAME, TRADITION <latin>FAMĒS</latin> -- HUNGER, GREED"
+    boni:
+      - question: "Differentiate in meaning between <latin>fallō</latin> and <latin>fullō</latin>"
+        answer: "<latin>FALLŌ</latin> -- DECEIVE, TRICK, SWEAR FALSELY <latin>FULLŌ</latin> -- FULLER, DRY-CLEANER"
+      - question: "Differentiate in meaning between <latin>fingō</latin> and <latin>fungor</latin>"
+        answer: "<latin>FINGŌ</latin> -- TOUCH, FORM, MAKE <latin>FUNGOR</latin> -- PERFORM, CONTRIBUTE, ADMINISTER"
+  - tossup:
+      question: "“Barbed” wire is a common addition to security fences. According to its Latin root, what does “barbed” wire have on it?"
+      answer: "BEARDS"
+    boni:
+      - question: "What island in the West Indies derives its name from <latin>barba</latin>?"
+        answer: "BARBADOS"
+      - question: "What is the Latin name for a barber?"
+        answer: "<latin>TONSOR</latin>"
+  - tossup:
+      question: "Which of the following Latin words, if any, does NOT share a common root with the others: <latin>ōrātor, ōsculum, ostendere, ōrāre, ōrāculum</latin>?"
+      answer: "<latin>OSTENDERE</latin>"
+    boni:
+      - question: "Which of the following Latin words, if any, does NOT share a common root with the others: <latin>vidēlicet, prūdēns, vīsitāre, viduus, vīsiō</latin>?"
+        answer: "<latin>VIDUUS</latin>"
+      - question: "Which of the following Latin words, if any, does NOT share a common root with the others: <latin>novitās, ignōtus, recognōscere, nōtiō, nōbilitās</latin>?"
+        answer: "<latin>NOVITĀS</latin>"
+  - tossup:
+      question: "Make the adjective <latin>prīmus</latin> agree with <latin>aetātem</latin>"
+      answer: "<latin>PRĪMAM</latin>"
+    boni:
+      - question: "Change <latin>prīmam aetātem</latin> to ablative"
+        answer: "<latin>PRĪMĀ AETĀTE</latin>"
+      - question: "Translate <latin>prīmā aetāte</latin>"
+        answer: "IN THE BEGINNING OF LIFE, IN YOUTH"
+  - tossup:
+      question: "Name two parts of speech the word <latin>potior</latin> can be"
+      answer: "ADJECTIVE & VERB"
+    boni:
+      - question: "Translate <latin>potior</latin> as a verb"
+        answer: "GAIN POSSESSION OF / BE POWERFUL OVER"
+      - question: "Translate <latin>potior</latin> as an adjective"
+        answer: "MORE ABLE / POWERFUL"
+  - tossup:
+      question: "Translate: <latin>Septem iūvenēs animadvertērunt nāvem nāvigantem in portum</latin>"
+      answer: "SEVEN YOUTHS NOTICED A SHIP SAILING INTO PORT"
+    boni:
+      - question: "Translate: <latin>Nautae, ēgressī ex nāve, constituērunt ambulāre ad tabernam.</latin>"
+        answer: "AFTER THE SAILORS HAD LEFT THE SHIP, THEY DECIDED TO WALK TO A TAVERN"
+      - question: "Translate: <latin>Ibi quisque nauta quīnque pōculōs vīnī hausērunt.</latin>"
+        answer: "THERE EACH SAILOR DRANK UP FIVE CUPS OF WINE"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Marcus Tullius Cicerō, optimus omnium ōrātōrum Rōmānōrum, nātus est Arpīnī. Ūna ex suīs ōrātiōnibus incipit “Sī quid est in mē ingenī, iūdicēs...” Quam modestē iūdicibus placuit! Quālis vir erat Cicerō?</latin>"
+      answer: "<latin>OPTIMUS OMNIUM ŌRĀTŌRUM RŌMĀNŌRUM</latin>"
+    boni:
+      - question: "<latin>Ubi nātus est Cicerō?</latin>"
+        answer: "<latin>ARPĪNĪ</latin>"
+      - question: "<latin>Quō modō incipit ūna ex suīs ōrātiōnibus?</latin>"
+        answer: "<latin>SĪ QUID EST IN MĒ INGENĪ, IŪDICĒS...</latin>"
+  - tossup:
+      question: "What name was given to poor,crowded working-class district of Rome between the Viminal and Esquiline Hils?"
+      answer: "<latin>SUBURA</latin>"
+    boni:
+      - question: "What famous Roman was born and raised in the <latin>Subura</latin>?"
+        answer: "(C.) JULIUS CAESAR"
+      - question: "What street ran northwards from the forum toward the <latin>Subura</latin>?"
+        answer: "<latin>ARGILETUM</latin>"
+  - tossup:
+      question: "Whose first consular act was to rescind the amnesty granted to Caesar’s assassins and to have them declared as outlaws?"
+      answer: "(C. IULIUS CAESAR) OCTAVIAN(US)"
+    boni:
+      - question: "How had Octavian, who was not yet twenty years old, secured his election as consul?"
+        answer: "MARCHED ON ROME WITH THIS TROOPS"
+      - question: "Octavian owed his position to the support of three equestrians. Name two"
+        answer: "(Q. SALVIDIENUS) RUFUS / (M. VIPSANIUS) AGRIPPA / (C.) MAECENAS"
+  - tossup:
+      question: "After his defeat of the Romans at Heraclea and Asculum, what Roman ally did Pyrrhus fight for three years in Sicily?"
+      answer: "CARTHAGINIANS"
+    boni:
+      - question: "When Pyrrhus returned to Italy, where did he fight his last battle against the Romans?"
+        answer: "BENEVENTUM (previously MALEVENTUM)"
+      - question: "Name the consul who repelled Pyrrhus’ surprise attack and forced him to withraw from Italy"
+        answer: "CURIUS DENTATUS"
+  - tossup:
+      question: "What emperor’s rule was praised in the <title><latin>Panegyric</latin></title> delivered by Pliny the Younger in AD 100?"
+      answer: "TRAJAN’S"
+    boni:
+      - question: "What successful series of wars gave Trajan the financial resources to institute large public works program including a huge forum?"
+        answer: "DACIAN WARS"
+      - question: "In AD 115 Trajan captured Ctesiphon, which was the capital of what long-time enemy of Rome?"
+        answer: "PARTHIANS"
+  - tossup:
+      question: "Who were the parents of Augustus’ five grandchildren?"
+      answer: "JULIA & MARCUS VIPSANIUS <emphasis>AGRIPPA</emphasis>"
+    boni:
+      - question: " Which of Augustus’ grandchildren preceeded him in death?"
+        answer: "GAIUS & LUCIUS CAESAR"
+      - question: "Which of Augustus’ grandchildren was the parent of a future emperor?"
+        answer: "AGRIPPINA THE ELDER (MOTHER OF GAIUS / CALIGULA)"
+  - tossup:
+      question: "How did Alexander Severus lose the support of his legions?"
+      answer: "HE TRIED TO BUY OFF (GERMANIC - ALAMANNI) INVADERS RATHER THAN FIGHT"
+    boni:
+      - question: "After Alexander was murdered, whom did the legions choose as his successor?"
+        answer: "MAXIMINUS THRAX"
+      - question: "Why did the Senate fear Maximinus and support Gordian I and his son?"
+        answer: "HE WAS AN UNEDUCATED (THRACIAN) PEASANT - CONSIDERED TO BE A BARBARIAN"
+  - tossup:
+      question: "What Macedonian commander crossed the Hellespont in 334 BC with an army of about 40,000 men?"
+      answer: "ALEXANDER THE GREAT"
+    boni:
+      - question: "Alexander defeated the armies of what Persian ruler at Granicus, Issus, and Gaugamela?"
+        answer: "DARIUS"
+      - question: "In what city did Alexander loot and burn the imperial palaces of Persia?"
+        answer: "PERSEPOLIS"
+  - tossup:
+      question: "Republican Rome had different assemblies whose powers and responsibilities changed as plebeians gained more power. By the first century BC which of these assemblies was convened to witness wills and adoptions and confer <title>imperium</title> on consuls and praetors?"
+      answer: "<latin>COMITIA CURIATA</latin>"
+    boni:
+      - question: "Which of the assemblies elected consuls, praetors, and censors?"
+        answer: "<latin>COMITIA CENTURIATA</latin>"
+      - question: "Which of the assemblies elected curule aediles and quaestors?"
+        answer: "<latin>COMITIA (PLEBIS) TRIBUTA</latin>"
+  - tossup:
+      question: "What Ethiopian king came to aid Troy with a large force and was killed by Achilles?"
+      answer: "MEMNON"
+    boni:
+      - question: "What Amazon queen joined the Trojans and killed many Greeks before she was killed by Achilles?"
+        answer: "PENTHESILEIA"
+      - question: "What Lycian warrior, one of the bravest of the Trojan allies, exchanged his rich golden armor with Diomedes?"
+        answer: "GLAUCUS"
+  - tossup:
+      question: "In Book I of Vergil’s <title>Aeneid</title>, whom did Juno bribe to send a storm against Aeneas and his followers?"
+      answer: "AEOLUS (KING OF THE WINDS)"
+    boni:
+      - question: "Whom did Juno offer to Aeolus as a bribe?"
+        answer: "DEIOPEA"
+      - question: "Who calmed the winds and the sea in order to save Aeneas?"
+        answer: "NEPTUNE"
+  - tossup:
+      question: "What priest of Apollo gave Odysseus 12 jars of wine at Ismarus, land of Cicones?"
+      answer: "MARON"
+    boni:
+      - question: "Later, from whom did Odysseus escape with the help of Marons wines?"
+        answer: "POLYPHEMUS"
+      - question: "Who was the father of Polyphemus?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What famous hero was originally given the name Alcides?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What does the name “Heracles” mean?"
+        answer: "GLORY OF HERA"
+      - question: "What deity gave Alcides the name “Heracles” through the agency of the Pythian priestess?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What lover of Apollo was transformed into a cypress tree?"
+      answer: "CYPARISSUS"
+    boni:
+      - question: "What had Cyparissus done to cause him so much sorrow?"
+        answer: "HE ACCIDENTALLY KILLED HIS PET STAG"
+      - question: "What request did Cyparissus make with Apollo?"
+        answer: "TO ALLOW HIM TO MOURN FOREVER / TRANSFORMED INTO THE CYPRESS TREE"
+  - tossup:
+      question: "What ancient athletic event, founded by Sisyphus, was reinstituted by Theseus?"
+      answer: "ISTHMIAN GAMES"
+    boni:
+      - question: "In honor of whom did Sisyphus establish the Isthmian Games?"
+        answer: "MELICERTES / PALAEMON / PORTUNUS"
+      - question: "To whom did Theseus rededicate the Isthmian Games?"
+        answer: "POSEIDON / NEPTUNE"
+  - tossup:
+      question: "Name one of the sisters of Castor and Pollux"
+      answer: "HELEN / CLYTEMNESTRA / TIMANDRA / PHILONOE / PHOEBE"
+    boni:
+      - question: "For five points each, name two other sisters of Castor and Pollux."
+        answer: "ANY TWO OF CLYTEMNESTRA / TIMANDRA / PHILONOE / PHOEBE / HELEN"
+  - tossup:
+      question: "What infant son of King Lycurgus died while his nurse showed the “Seven Against Thebes” the way to a spring?"
+      answer: "OPHELTES"
+    boni:
+      - question: "What former queen of Lemnos was the nurse of the unfortunate Opheltes?"
+        answer: "HYPSIPYLE"
+      - question: "Under what name was the baby Opheltes buried?"
+        answer: "ARCHEMORUS (“BEGINNER OF DOOM”)"

@@ -3,7 +3,7 @@ name: convert-certamen-round-rtf-to-yaml
 description: "Use this agent when converting a Certamen round document from RTF or plain text into YAML files for the Certamen Question Catalogue Project. It handles round splitting, question extraction, formatting-tag preservation, and validation against the repository schema."
 ---
 
-# Convert Certamen Round to YAML
+# Convert Certamen Round RTF to YAML
 
 You are helping convert a source round document into the repository’s YAML format for Certamen questions.
 

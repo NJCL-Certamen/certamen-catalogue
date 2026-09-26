@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Which Roman king became the god Quirinus?"
+      answer: "ROMULUS"
+    boni:
+      - question: "According to the historian Livy, under what circumstances did Romulus disappear to become a god?"
+        answer: "ENVELOPED BY A CLOUD (IN A THUNDERSTORM)"
+      - question: "Livy also tells us that some believed that the king had been murdered. By whom?"
+        answer: "SENATORS"
+  - tossup:
+      question: "What half-brother of Aeneas caused the queen of Carthage fall in love with Aeneas?"
+      answer: "CUPID / EROS"
+    boni:
+      - question: "Who was the queen of Carthage who fell in love with Aeneas?"
+        answer: "DIDO / ELISSA"
+      - question: "Who was the father of Aeneas?"
+        answer: "ANCHISES"
+  - tossup:
+      question: "Translate the relative pronoun into Latin for this sentence: The soldier, whom Titus put in charge of the camp, has fallen asleep"
+      answer: "<latin>QUEM</latin>"
+    boni:
+      - question: "Translate the relative pronoun into Latin for this sentence: The swords, which we used years ago, are now rusted"
+        answer: "<latin>QUIBUS</latin>"
+      - question: "Translate the relative pronoun into Latin for this sentence: We sent the girls to find seats in the theater"
+        answer: "<latin>QUAE</latin>"
+  - tossup:
+      question: "Which of the following Latin words, if any, does NOT share a common root with the others: <latin>prōdūcō, doctrīna, docilis, documentum, doctor</latin>?"
+      answer: "<latin>PRŌDŪCŌ</latin>"
+    boni:
+      - question: "<latin>officīna, sacrificium, magnificus, artifex, fictiō</latin>?"
+        answer: "<latin>FICTIŌ</latin>"
+      - question: "<latin>nātūra, renascor, natātiō, nātālis, cognātus</latin>"
+        answer: "<latin>NATĀTIŌ</latin>"
+  - tossup:
+      question: "What war in a series of three wars was fought in the period 326-304 BC?"
+      answer: "SECOND SAMNITE"
+    boni:
+      - question: "What disastrous defeat did the Romans and their allies suffer in the Second Samnite War when they attempted a direct attack on Samnium?"
+        answer: "CAUDINE FORKS"
+      - question: "What road did the Romans begin building during this war to connect Rome with Capua?"
+        answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: <latin>Mihi nōn est tantum spatī</latin>"
+      answer: "PARTITIVE (GEN. OF THE WHOLE)"
+    boni:
+      - question: "What use of the genitive case is found in the following sentence: <latin>Mē miseret stultōrum</latin>"
+        answer: "VERBS OF FEELING/PITY or GEN. WITH SPECIAL (IMPERSONAL) VERBS or GEN. WITH <latin>MISERET</latin>"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Supplex precātiōnem deōrum dedit</latin>"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "Where did Odysseus meet Agamemnon on his journey home?"
+      answer: "IN HADES (UNDERWORLD) / AT THE EDGE OF OCEAN"
+    boni:
+      - question: "Who told Odysseus that he must visit the Underworld before he could return home?"
+        answer: "CIRCE"
+      - question: "Who in the Underworld told Odysseus that he would arrive home, unknown and friendless?"
+        answer: "TEIRESIAS"
+  - tossup:
+      question: "Change <latin>aliquī custōs</latin> to plural"
+      answer: "<latin>ALIQUĪ CUSTŌDĒS</latin>"
+    boni:
+      - question: "Change <latin>aliquī custōdēs</latin> to ablative"
+        answer: "<latin>ALIQUIBUS CUSTŌDIBUS</latin>"
+      - question: "Change <latin>aliquibus custōdibus</latin> to singular"
+        answer: "<latin>ALIQUŌ CUSTŌDE</latin>"
+  - tossup:
+      question: "What Latin word with what meaning lies at the root of “frontier”?"
+      answer: "<latin>FRŌNS</latin> -- FOREHEAD, FRONT, FACADE, FACE, COUNTENANCE"
+    boni:
+      - question: "What Latin word with what meaning lies at the root of “farm”?"
+        answer: "<latin>FIRMUS</latin> -- STRONG, FIRM"
+      - question: "What Latin word with what meaning lies at the root of “federation”?"
+        answer: "<latin>FOEDUS</latin> -- LEAGUE, TREATY, COMPACT"
+  - tossup:
+      question: "What Roman province consisted largely of the plateau of Transylvania and was added to the empire by the emperor Trajan?"
+      answer: "DACIA"
+    boni:
+      - question: "On the map, which of the numbered provinces is Dacia?"
+        answer: "#38"
+      - question: "What is province #12 on the southern shore of the <latin>Pontus Euxinus</latin>?"
+        answer: "PONTUS"
+  - tossup:
+      question: "While on his way to capture what beast was Heracles entertained by the centaur Pholus?"
+      answer: "ERYMANTHIAN BOAR"
+    boni:
+      - question: "Why were the other centaurs agitated at this visit?"
+        answer: "AROUSED BY THE SMELL OF WINE / ANGRY BECAUSE WINE WAS COMMUNITY PROPERTY"
+      - question: "How did Pholus die?"
+        answer: "ACCIDENTALLY DROPPED HERACLES’ ARROW ON HIS FOOT"
+  - tossup:
+      question: "What English noun for a “large stately house” is derived from the name of the hill in Rome on which Domitian built an imperial residence?"
+      answer: "PALACE"
+    boni:
+      - question: "What English noun for a “building where a legislative body meets” is derived from the name of the hill in Rome on which the Temple of Jupiter Optimus Maximus was built?"
+        answer: "CAPITOL"
+      - question: "What English adjective meaning “suitable to courts” is derived from the name of the large marketplace between the Capitoline and Palatine hills?"
+        answer: "FORENSIC"
+  - tossup:
+      question: "In the first century A.D., what city was the second largest in the Roman Empire?"
+      answer: "ALEXANDRIA"
+    boni:
+      - question: "Before Alexandria became part of the Empire, what dynasty made it the capital of its kingdom?"
+        answer: "PTOLEMIES"
+      - question: "Which of the Seven Wonders of the Ancient World was in Alexandria?"
+        answer: "PHAROS / PHARUS (LIGHTHOUSE at the entrance to the two harbors)"
+  - tossup:
+      question: "Whom did Theseus kill by bending a pine tree and catapulting him to his death?"
+      answer: "SINIS / PITYOCAMPTES"
+    boni:
+      - question: "Whom did Theseus kill by kicking him off a cliff and feeding him to a giant sea turtle?"
+        answer: "SC(E)IRON"
+      - question: "Whom did Theseus kill by beating him in a wrestling match on the Isthmus of Corinth?"
+        answer: "CERCYON"
+  - tossup:
+      question: "Give all the active participles of <latin>tollō, tollere</latin>"
+      answer: "<latin>TOLLĒNS, SUBLĀTŪRUS</latin>"
+    boni:
+      - question: "Give all the passive participles of <latin>tollō</latin>"
+        answer: "<latin>SUBLĀTUS, TOLLENDUS</latin>"
+      - question: "Which of these four participles of <latin>tollō</latin> are used in the periphrastic conjugations?"
+        answer: "<latin>SUBLĀTŪRUS, TOLLENDUS</latin> / FUTURE ACTIVE & FUTURE PASSIVE"
+  - tossup:
+      question: "Translate: <latin>Cicerō ab omnibus laudātur</latin>"
+      answer: "CICERO IS PRAISED BY ALL / EVERY ONE"
+    boni:
+      - question: "Translate: <latin>Puellae ē villā conflagrantī contendērunt</latin>"
+        answer: "THE GIRLS HURRIED / RAN FROM / OUT OF THE BURNING HOUSE"
+      - question: "Translate: <latin>Hic locus nōn longe ā castrīs aberat</latin>"
+        answer: "THIS PLACE WAS NOT FAR FROM CAMP"
+  - tossup:
+      question: "Under what conditions did the Romans close the Temple of Janus in the forum?"
+      answer: "PEACE (THROUHGOUT THE ROMAN DOMINIONS)"
+    boni:
+      - question: "Under what king were these doors first closed?"
+        answer: "NUMA (POMPILIUS)"
+      - question: "Of what was Janus the god?"
+        answer: "BEGINNINGS / DOORS / GATES"
+  - tossup:
+      question: "Give an antonym of <latin>iuvō</latin>"
+      answer: "<latin>IMPEDIŌ, PROHIBEŌ, NOCEŌ, VULNERŌ, SECŌ, LAEDŌ, DISPLICEŌ</latin>"
+    boni:
+      - question: "Give an antonym of <latin>laudō</latin>"
+        answer: "<latin>CULPŌ, INSULTŌ, VITUPERŌ, CALUMNIOR, REPREHENDŌ, VĪLIFICŌ, VĪLIPENDŌ</latin>"
+      - question: "Give an antonym of <latin>mātūrō</latin>"
+        answer: "<latin>MOROR, CESSŌ, CUNCTOR, DIFFERŌ, PRŌDĪCŌ, TARDŌ, RETARDŌ</latin>"
+  - tossup:
+      question: "What is the difference in meaning between <latin>īra</latin> and <latin>īre</latin>?"
+      answer: "<latin>ĪRA</latin> -- ANGER, RAGE <latin>ĪRE</latin> -- TO GO"
+    boni:
+      - question: "between <latin>gradus</latin> and <latin>grātus</latin>?"
+        answer: "<latin>GRADUS</latin> -- STEP, PACE, DEGREE <latin>GRĀTUS</latin> -- PLEASING, BELOVED, GRATEFUL"
+      - question: "between <latin>modus</latin> and <latin>modo</latin>?"
+        answer: "<latin>MODUS</latin> -- MEASURE, SIZE, LENGTH, MEANS, WAY, RESTRICTION, CIRCUMFERENCE <latin>MODO</latin> -- ONLY, MERELY, BUT"
+  - tossup:
+      question: "What son of Apollo and Cyrene chased Eurydice to her death?"
+      answer: "ARISTAEUS"
+    boni:
+      - question: "What was the occupation of Aristaeus?"
+        answer: "BEE-KEEPER"
+      - question: "When Eurydice died, the Dryads in their grief and anger caused all the bees of Aristaeus to die. Whom did Aristaeus consult on how to appease the nymphs?"
+        answer: "PROTEUS"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Advanced"
+round: Semifinals 2
+questions:
+  - tossup:
+      question: "What author did Claudius banish to Corsica for alleged adultery with a sister of Caligula?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "At whose prompting did Claudius rescind the banishment eight years later in 49 AD?"
+        answer: "AGRIPPINA THE YOUNGER'S"
+      - question: "With whom did Seneca share the tutelange of the young Nero?"
+        answer: "(SEX. AFRANIUS) BURRUS"
+  - tossup:
+      question: "Who was the author of the <latin><title>Historia Naturalis</title></latin>?"
+      answer: "PLINY THE ELDER"
+    boni:
+      - question: "Of what genre are almost all of his nephew's extant works?"
+        answer: "LETTERS (EPISTLES)"
+      - question: "What is both Plinies' hometown?"
+        answer: "COMUM (in northern Italy)"
+  - tossup:
+      question: "What is the site of Ovid's exile?"
+      answer: "TOMIS, IN DACIA"
+    boni:
+      - question: "What was the site of his birth?"
+        answer: "SULMO"
+      - question: "What was the year of his birth?"
+        answer: "43 BC"
+  - tossup:
+      question: "Give the English equivalent of the Ides of November."
+      answer: "NOVEMBER 13"
+    boni:
+      - question: "What is <latin>a.d. V Nonas Octobres</latin>?"
+        answer: "OCTOBER 3"
+      - question: "What is <latin>a.d. IV Kalendas Maias</latin>?"
+        answer: "APRIL 28"
+  - tossup:
+      question: "Give the second person plural imperfect subjunctive of <latin>vereor</latin>."
+      answer: "<latin>VEREREMINI</latin>"
+    boni:
+      - question: "Give the first person singular imperfect passive subjunctive of <latin>facio</latin>."
+        answer: "<latin>FIEREM</latin>"
+      - question: "Give the second person singular imperfect subjunctive of <latin>volo</latin> (to wish)."
+        answer: "<latin>VELLES</latin>"
+  - tossup:
+      question: "What earlier poet did Horace call his lantern?"
+      answer: "(C.) LUCILIUS"
+    boni:
+      - question: "What early Roman epicist wrote a poem on Roman history entitled the <latin><title>Annales</title></latin>?"
+        answer: "(Q.) ENNIUS"
+      - question: "What second-century AD historian wrote a prose work of the same title?"
+        answer: "(CORNELIUS) TACITUS"
+  - tossup:
+      question: "According to some sources, Iphigenia was rescued from sacrifice by Diana and brought to the land of the Taurians. Who was their king?"
+      answer: "THOAS"
+    boni:
+      - question: "What two men rescued Iphigenia from the Taurians?"
+        answer: "ORESTES AND PYLADES"
+      - question: "What modern geographical area corresponds to the land of the Taurians?"
+        answer: "THE CRIMEAN PENINSULA"
+  - tossup:
+      question: "What is the meaning of the Latin word which has passed unchanged into the English word “addendum”?"
+      answer: "SOMETHING WHICH MUST BE ADDED"
+    boni:
+      - question: "What Latin words yield the English “willy nilly”?"
+        answer: "<latin>VOLENS NOLENS / VELLE NOLLE</latin>"
+      - question: "What proper adjective associated with Roman history has been corrupted into “parting” as in “parting shot” or “parting glance?”"
+        answer: "PARTHIAN"
+  - tossup:
+      question: "Given that the E is long, what is the meaning of <latin>ēst</latin>?"
+      answer: "HE EATS"
+    boni:
+      - question: "What is this verb's archaic present infinitive?"
+        answer: "<latin>ĒSSE</latin>"
+      - question: "What is its perfect active infinitive?"
+        answer: "<latin>ĒDISSE</latin>"
+  - tossup:
+      question: "What two giants attempted to pile up mountains into a path to Heaven?"
+      answer: "OTUS AND EPHIALTES"
+    boni:
+      - question: "What was the patronymic of these two?"
+        answer: "ALOADAE"
+      - question: "Who was their mother?"
+        answer: "IPHIMEDIA"
+  - tossup:
+      question: "What wedding was upset by the battle of the Lapiths and Centaurs?"
+      answer: "THAT OF PIRITHOÜS AND HIPPODAMEIA"
+    boni:
+      - question: "Who was the best friend of Pirithoüs?"
+        answer: "THESEUS"
+      - question: "Where is Pirithoüs to this day?"
+        answer: "IN A CHAIR IN HADES"
+  - tossup:
+      question: "Give the principal parts of the verb which is contained in the nouns <latin>caelicola, incola</latin> and <latin>agricola</latin>."
+      answer: "<latin>COLO, COLERE, COLUI, CULTUS</latin>"
+    boni:
+      - question: "What is a <latin>caelicola</latin>?"
+        answer: "A HEAVEN-DWELLER, A GOD"
+      - question: "What English derivative of <latin>colo</latin> means “hidden” or “secret”?"
+        answer: "OCCULT"
+  - tossup:
+      question: "Say in Latin: “We must make a journey.”"
+      answer: "<latin>ITER NOBIS FACIENDUM EST.</latin>"
+    boni:
+      - question: "For five points each, use two different ccnstructions to say: “I came to Rome to see Caesar.”"
+        answer: "<latin>ROMAM VENI UT CAESAREM VIDEREM // ROMAM VENI AD CAESAREM VIDENDUM // ROMAM VENI CAESARIS VIDENDI CAUSA / GRATIA // ROMAM VENI VISUM CAESAREM</latin>"
+  - tossup:
+      question: "What Latin word means “to sell”?"
+      answer: "<latin>VENDERE</latin>"
+    boni:
+      - question: "Of what words is it a contraction?"
+        answer: "<latin>VENUM</latin> and <latin>DARE</latin>"
+      - question: "What words contract to a verb meaning “to be on sale”?"
+        answer: "<latin>VENUM</latin> and <latin>IRE</latin>"
+  - tossup:
+      question: "What previously great power did the Romans defeat decisively at the Battle of Pydna?"
+      answer: "MACEDONIA"
+    boni:
+      - question: "What was the year?"
+        answer: "168 BC"
+      - question: "What son and namesake of a famous general was commander there?"
+        answer: "(L.) AEMILIUS PAULUS"
+  - tossup:
+      question: "What enemy people did the Romans defeat at the Battle of Alesia?"
+      answer: "THE GAULS (ARVERNI)"
+    boni:
+      - question: "What was the year?"
+        answer: "52 BC"
+      - question: "Who was the enemy commander?"
+        answer: "VERCINGETORIX"
+  - tossup:
+      question: "Give the vocative singular of <latin>deus</latin>."
+      answer: "<latin>DEE / DEUS</latin>"
+    boni:
+      - question: "Give the ablative singular of <latin>Iuppiter</latin>."
+        answer: "<latin>IOVE</latin>"
+      - question: "Give the dative singular of <latin>Apollo</latin>."
+        answer: "<latin>APOLLINI</latin>"
+  - tossup:
+      question: "What was the name of Cleopatra's son who may have been sired by Julius Caesar?"
+      answer: "CAESARION / PTOLEMY XV"
+    boni:
+      - question: "When was he born?"
+        answer: "47 BC"
+      - question: "At whose order was he killed?"
+        answer: "OCTAVIAN'S"
+  - tossup:
+      question: "What Roman general has given his name to sumptuous living?"
+      answer: "LUCULLUS"
+    boni:
+      - question: "Lucullus is best known for his campaigns of 73 BC against what foreign enemy?"
+        answer: "MITHRIDATES"
+      - question: "Lucullus is less well known for his campaigns against what king of Armenia?"
+        answer: "TIGRANES"
+  - tossup:
+      question: "What miracle did the gods grant the recently widowed Callirhoe?"
+      answer: "HER SONS GREW TO MANHOOD IN A SINGLE DAY"
+    boni:
+      - question: "What were her sons' names?"
+        answer: "AMPHOTERUS AND ACARNAN"
+      - question: "Who was their father?"
+        answer: "ALCMAEON"

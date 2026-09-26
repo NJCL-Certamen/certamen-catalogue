@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Acne, that unpopular skin disorder, is actually a variant of the Greek word <latin>acmē</latin>, which has what meaning?"
+      answer: "POINT, HIGHEST POINT"
+    boni:
+      - question: "The English word “angel” derives from the Greek word <latin>angelos</latin>, which means what?"
+        answer: "MESSENGER"
+      - question: "According to its Greek root, a “pachyderm” has thick what?"
+        answer: "SKIN"
+  - tossup:
+      question: "Which of these words does not belong in this group because of its meaning? <latin>dēfendō, serviō, tueor, muniō, prōtegō</latin>"
+      answer: "<latin>SERVIŌ</latin>"
+    boni:
+      - question: "because of its meaning? <latin>cogitō, loquor, inquam, dicō, nārrō</latin>"
+        answer: "<latin>COGITŌ</latin>"
+      - question: "because of its meaning? <latin>festīnō, contendō, cēlō, incitō, properō</latin>"
+        answer: "<latin>CĒLŌ</latin>"
+  - tossup:
+      question: "What woman bought from the local inhabitants as much land as could be encompassed by a bull’s hide?"
+      answer: "DIDO / ELISSA"
+    boni:
+      - question: "What trick did Dido use to buy as much land as she could?"
+        answer: "SHE HAD A HIDE CUT INTO THIN STRIPS AND ENCLOSED AS MUCH LAND AS SHE COULD WITH THE STRIPS"
+      - question: "What was the name of the citadel which she built on this land?"
+        answer: "BYRSA"
+  - tossup:
+      question: "Name the legate of Marius who ended the Second Servile War in Sicily in 101 BC."
+      answer: "M’ AQUILIUS"
+    boni:
+      - question: "Where had these troops under Marius’ leadership won a decisive battle in 102 BC?"
+        answer: "<latin>AQUAE SEXTIAE</latin> (over the Teutones)"
+      - question: "What foreign ruler did Aquilius push into war in 88 BC?"
+        answer: "MITHRIDATES (VI of PONTUS; EUPATOR DIONYSUS)"
+  - tossup:
+      question: "With what daughter of King Creon of Corinth did Jason fall in love?"
+      answer: "GLAUCE / CREUSA"
+    boni:
+      - question: "Who killed Glauce when she was about to marry Jason?"
+        answer: "MEDEA"
+      - question: "What did Medea use to kill Glauce? A"
+        answer: "POISONED ROBE (CAUSED HER TO BURST INTO FLAME)"
+  - tossup:
+      question: "Translate the sentence: <latin>Postquam proelium incēperat, equitēs in aciem hostium ruērunt</latin>"
+      answer: "AFTER THE BATTLE HAD BEGUN, THE KNIGHTS RUSHED INTO THE ENEMY’S BATTLE LINE"
+    boni:
+      - question: "Translate the sentence: <latin>Mox peditēs fortēs aggrediēbantur quam ferōcissim</latin>ē"
+        answer: "SOON THE BRAVE FOOTSOLDIERS ATTACKED AS FIERCELY AS POSSIBLE"
+      - question: "Translate the sentence: <latin>Duobus mīlibus mīlitum caesīs, multus sanguis fluēbat</latin>"
+        answer: "TWO-THOUSAND SOLDIERS HAVING BEEN KILLED, MUCH BLOOD FLOWED"
+  - tossup:
+      question: "Give the genitive plural of the phrase <latin>fortis iuvenis</latin>"
+      answer: "<latin>FORTIUM IUVENUM</latin>"
+    boni:
+      - question: "Change <latin>fortium iuvenum </latin>to ablative"
+        answer: "<latin>FORTIBUS IUVENIBUS</latin>"
+      - question: "Change <latin>fortibus iuvenibus </latin>to singular"
+        answer: "<latin>FORTĪ IUVENE</latin>"
+  - tossup:
+      question: "Who declared themselves to be the consuls for 86 BC without the formality of an election?"
+      answer: "(L. CORNELIUS) CINNA & (GAIUS) MARIUS"
+    boni:
+      - question: "Marius died a few days into this, his seventh consulship. Who was his replacement? (L.)"
+        answer: "VALERIUS FLACCUS"
+      - question: "Who was Cinna’s consular colleague in both 85 & 84 BC?"
+        answer: "(CN. PAPIRIUS) CARBO"
+  - tossup:
+      question: "Whom did Dionysus want to retrieve from the Underworld?"
+      answer: "(HIS MOTHER) SEMELE"
+    boni:
+      - question: "Having successfully retrieved her, to what place did Dionysus take Semele?"
+        answer: "(MT.) OLYMPUS"
+      - question: "After Dionysus brought Semele to Olympus from the Underworld, what name did she assume there?"
+        answer: "THYONE"
+  - tossup:
+      question: "What English word meaning a “popular myth” derives from the Latin for “things that must be read”?"
+      answer: "LEGEND"
+    boni:
+      - question: "What female name literally means “she who must be loved”?"
+        answer: "AMANDA"
+      - question: "What female name literally means “she who must be admired”?"
+        answer: "MIRANDA"
+  - tossup:
+      question: "Which Roman emperor made the Danube River the northeastern boundary of the empire?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Name Augustus’ step-sons who were responsible for securing most of this border"
+        answer: "TIBERIUS (CLAUDIUS NERO) & (NERO CLAUDIUS) DRUSUS"
+      - question: "What grandson and namesake of a member of the First Triumvirate secured the border along the lower Danube?"
+        answer: "(M. LICINIUS) CRASSUS"
+  - tossup:
+      question: "What Latin adjective combines with the preposition <latin>ad</latin> to form the English verb“assuage”?"
+      answer: "<latin>SUĀVIS</latin>"
+    boni:
+      - question: " What Latin preposition combines with the preposition <latin>ad </latin>to form the English verb “approach”?"
+        answer: "<latin>PROPE</latin>"
+      - question: "What Latin adverb combines with the preposition <latin>ad</latin> to form the English verb “assemble”?"
+        answer: "<latin>SIMUL</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Mediā nocte fēlēs ingeniōsa vēnābātur per viās Rōmae, perspicans per umbrās. Tam bona erat vīsiō fēlis ut mūrem edentem cāseum</latin>   <latin>iuxtā mūrum vidēre posset. Itaque constituit parāre insidiās. Dum mūs ignōrat, fēlēs aggressa est et mūrem vorāvit. Quandō fēlēs vēnābātur?</latin>"
+      answer: "<latin>MEDIĀ NOCTE</latin>"
+    boni:
+      - question: "<latin>Quid faciēbat mūs iuxtā mūrum?</latin>"
+        answer: "<latin>EDĒBAT / ESURIĒBAT CĀSEUM</latin>"
+      - question: "<latin>Cur fēlēs insidiās parāvit?</latin>"
+        answer: "<latin>VOLUIT VORĀRE MŪREM</latin>"
+  - tossup:
+      question: "What emperor of the Eastern Empire in the 6th century A.D. determined to reconquer the lost Western provinces?"
+      answer: "JUSTINIAN"
+    boni:
+      - question: "What general did Justinian send against the Vandals in Africa and the Ostrogoths in Italy?"
+        answer: "BELISARIUS / NARSES"
+      - question: "From whom were the armies of Justinian able to recover the southeastern coast of Spain?"
+        answer: "VISIGOTHS"
+  - tossup:
+      question: "Which of the “Seven Against Thebes” died because he boasted that not even Zeus himself could prevent him from burning the city of Thebes?"
+      answer: "CAPANEUS"
+    boni:
+      - question: "How did Capaneus die?"
+        answer: "STRUCK BY ZEUS’ THUNDERBOLT"
+      - question: "Which of the “Seven Against Thebes” died when a stone crushed his skull?"
+        answer: "PARTHENOPAEUS"
+  - tossup:
+      question: "After examining the handout, what use of the subjunctive is found in sentence C? (A) <latin>Forsitan velīs spectāre lūdōs.</latin> (B) <latin>Saepe mīror in quō locō meum cerebrum sedeat.</latin> (C) <latin>“Cēdant arma togae!” scrīpsit Cicerō in <title>Dē Officiīs</title>.</latin> (D) <latin>Tot cīvēs suīs pollicibus vertērunt ut gladiātor caederētur.</latin> (E) <latin>Putāsne mīlitem quī pedem referat honōrābilem esse?</latin> (F) <latin>Cum nūtrix in hortō dormīret, līberī in viā lūdēbant.</latin>"
+      answer: "HORTATORY / JUSSIVE"
+    boni:
+      - question: "What use of the subjunctive is found in the sentence labelled “B”?"
+        answer: "INDIRECT QUESTION"
+      - question: "What use of the subjunctive is found in the sentence labelled “F”?"
+        answer: "CUM CIRCUMSTANTIAL / CAUSAL"
+  - tossup:
+      question: "What Thessalian king committed the first murder of a kinsman in classical mythology?"
+      answer: "IXION"
+    boni:
+      - question: "What father-in-law did Ixion kill?"
+        answer: "EIONEUS"
+      - question: "Who was the daughter of Eioneus and the wife of Ixion?"
+        answer: "DIA"
+  - tossup:
+      question: "Name the structure in which the Greeks would have held horse and chariot races"
+      answer: "HIPPODROME / <latin>HIPPODROMOS</latin>"
+    boni:
+      - question: "How many laps were completed in a traditional race of four-horse chariots?"
+        answer: "12"
+      - question: "Name the structure in which the Greeks would have held footraces"
+        answer: "STADIUM / <latin>STADION</latin>"
+  - tossup:
+      question: "Differentiate in meaning between the idioms <latin>rēs gestae</latin> and <latin>rēs frūmentāria</latin>"
+      answer: "<latin>RĒS GESTAE</latin> -- DEEDS <latin>RĒS FRŪMENTĀRIA</latin> -- GRAIN SUPPLY"
+    boni:
+      - question: "Differentiate in meaning between the idioms <latin>nāvem solvere</latin> and <latin>nāvem dūcere</latin>"
+        answer: "<latin>NĀVEM SOLVERE</latin> -- SET SAIL <latin>NĀVEM DŪCERE</latin> -- LAUNCH A SHIP"
+      - question: "Differentiate in meaning between the idioms <latin>sē recipere</latin> and <latin>sē conferre</latin>"
+        answer: "<latin>SĒ RECIPERE</latin> -- FLEE <latin>SĒ CONFERRE</latin> -- PROCEED"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Argentum nōn est pretiōsius aurō</latin>"
+      answer: "COMPARISON"
+    boni:
+      - question: "What use of the ablative case is found in the following sentence: <latin>Hoc est multō melius quam illud</latin>"
+        answer: "DEGREE OF DIFFERENCE"
+      - question: "What use of the ablative case is found in the following sentence: <latin>Servī līberent sē servitūte</latin>"
+        answer: "SEPARATION"

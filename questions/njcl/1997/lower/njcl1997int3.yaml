@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Make the adjective <latin>salvus</latin> agree with <latin>portū</latin>"
+      answer: "<latin>SALVŌ</latin>"
+    boni:
+      - question: "Change <latin>portū salvō</latin> to genitive"
+        answer: "<latin>PORTŪS SALVĪ</latin>"
+      - question: "Change <latin>portūs salvī</latin> to plural"
+        answer: "<latin>PORTUUM SALVŌRUM</latin>"
+  - tossup:
+      question: "Name the Roman king who gained his throne through the the boldness of his mother-in-law Tanaquil?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was Tanaquil’s father?"
+        answer: "(L.) TARQUINIUS PRISCUS"
+      - question: "What defensive structure of Rome carried Servius’ name although he probably was not responsible for its construction?"
+        answer: "SERVIAN WALL (AROUND THE CITY)"
+  - tossup:
+      question: "Who was the father of Odysseus?"
+      answer: "LAERTES / SISYPHUS"
+    boni:
+      - question: "Who was the mother of Odysseus?"
+        answer: "ANTICLEIA"
+      - question: "Who gave the name “Odysseus” to this child of Anticleia and Laertes?"
+        answer: "AUTOLYCUS"
+  - tossup:
+      question: "<latin>Quibus partibus tuī corporis ambulās?</latin>"
+      answer: "<latin>PEDIBUS / CRŪRIBUS</latin>"
+    boni:
+      - question: "<latin>Quibus partibus tuī corporis scrībis?</latin>"
+        answer: "<latin>MANIBUS / DIGITĪS</latin>"
+      - question: "<latin>Quā parte tuī corporis loqueris?</latin>"
+        answer: "<latin>ŌRE / LINGUĀ / LABIĪS</latin>"
+  - tossup:
+      question: "Translate: <latin>Mūs rusticus iter fēcit ut mūrem urbānum vīsitāret.</latin> "
+      answer: "THE COUNTRY MOUSE JOURNEYED TO VISIT THE CITY MOUSE"
+    boni:
+      - question: "Translate: <latin>Mūs rusticus nescīvit quō modō urbānus fieret.</latin>"
+        answer: "THE COUNTRY MOUSE DIDN’T KNOW HOW TO BECOME CITIFIED / SOPHISTICATED / POLISHED"
+      - question: "Translate: <latin>Mūs rusticus erat tam crūdus ut urbs eī nōn placēret.</latin>"
+        answer: "THE COUNTRY MOUSE WAS SO UNREFINED THAT HE DIDN’T LIKE THE CITY (THAT THE CITY WAS NOT PLEASING TO HIM)"
+  - tossup:
+      question: "What <latin>novus homo</latin> from Arpinum was a client of the Metelli?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "Where did Marcus serve as legate under the Metelli?"
+        answer: "NUMIDIA"
+      - question: "Under what commander in Spain had Marius first served?"
+        answer: "SCIPIO AEMILIANUS (MINOR)"
+  - tossup:
+      question: "What mythological group had individual members named Alecto, Megaera, and Tisiphone?"
+      answer: "ERINYES / FURIES / EUMENIDES / SEMNAI THEAI"
+    boni:
+      - question: "For five points each, give two more names for this group."
+        answer: "EUMENIDES / SEMNAI THEAI"
+  - tossup:
+      question: "What English noun etymologically means “means of ruling”?"
+      answer: "REGIMEN / REGIMENT"
+    boni:
+      - question: "What English noun etymologically means “means of warning”?"
+        answer: "MONUMENT"
+      - question: "What English noun etymologically means “means of teaching”?"
+        answer: "DOCUMENT / MONUMENT"
+  - tossup:
+      question: "At what battle did the troops of Pompey and Caesar clash for the first time in the civil war?"
+      answer: "DYRRHACHIUM / SIEGE OF PETRA"
+    boni:
+      - question: "From what battle did Pompey flee when he realized that the battle was lost and his camp in danger?"
+        answer: "PHARSALUS"
+      - question: "In what two battles did Caesar defeat the remaining Pompeian forces?"
+        answer: "THAPSUS & MUNDA"
+  - tossup:
+      question: "What use of the dative case is found in the following sentence: <latin>Iūdicī sōlī dēlīberandum est</latin>"
+      answer: "AGENCY"
+    boni:
+      - question: "What use of the dative case is found in the following sentence: <latin>Pecūnia virīs subsidiō est</latin>"
+        answer: "DOUBLE / REFERENCE / PURPOSE"
+      - question: "What use of the dative case is found in the following sentence: <latin>Ēripere aliīs pecūniam nōn est prōprium</latin>"
+        answer: "SEPARATION"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: city, civic, citizen, citation, civilian?"
+      answer: "CITATION"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: insult, isle, insulin, peninsula, insulation?"
+        answer: "INSULT"
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: coronary, crown, coronet, coroner, corner?"
+        answer: "CORNER"
+  - tossup:
+      question: "When mourning for his death, whose sisters were turned into poplar trees?"
+      answer: "PHAËTHON"
+    boni:
+      - question: "What did the tears of Phaethon’s sisters become?"
+        answer: "AMBER"
+      - question: "What cousin witnessed this marvel and, as he mourned, became a swan?"
+        answer: "CYCNUS / CYGNUS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>sūs</latin> and <latin>suus</latin>"
+      answer: "<latin>SŪS</latin> -- PIG, SWINE <latin>SUUS</latin> -- ONE’S OWN"
+    boni:
+      - question: "<latin>vīcus</latin> and <latin>vicis</latin>"
+        answer: "<latin>VĪCUS</latin> -- VILLAGE, HAMLET, STREET, NEIGHBORHOOD <latin>VICIS</latin> -- CHANGE"
+      - question: "<latin>vetō</latin> and <latin>vetus</latin>"
+        answer: "<latin>VETŌ</latin> -- FORBID, OPPOSE, PREVENT <latin>VETUS</latin> -- OLD"
+  - tossup:
+      question: "What group of barbaric invaders occupied Carthage in AD 439?"
+      answer: "VANDALS"
+    boni:
+      - question: "Who was the leader of these Vandals?"
+        answer: "GAISERIC"
+      - question: "In what year did Gaiseric and his Vandals attack and plunder Rome?"
+        answer: "AD 455"
+  - tossup:
+      question: "What two brothers in classical mythology are known as the “Dioscuri”?"
+      answer: "CASTOR & POLYDEUCES (POLLUX)"
+    boni:
+      - question: "According to Homer, who was the father of Castor and Polydeuces?"
+        answer: "TYNDAREUS *ZEUS IS <emphasis>NOT</emphasis> ACCEPTABLE"
+      - question: "According to later writers, which of the two was actually the son of Zeus and Leda?"
+        answer: "POLYDEUCES (POLLUX)"
+  - tossup:
+      question: "For <latin>sum, esse</latin>, give the second person singular, imperfect, subjunctive"
+      answer: "<latin>ESSĒS / FORĒS</latin>"
+    boni:
+      - question: "Change <latin>essēs</latin> to perfect"
+        answer: "<latin>FUERĪS</latin>"
+      - question: "Change <latin>fuerīs</latin> to pluperfect"
+        answer: "<latin>FUISSĒS</latin>"
+  - tossup:
+      question: "Differentiate in meaning between the adjective <latin>lātus</latin> and the participle <latin>lātus</latin>"
+      answer: "<latin>LĀTUS</latin> (adjective) -- WIDE, BROAD; <latin>LĀTUS</latin> (participle) -- HAVING BEEN CARRIED, BORNE"
+    boni:
+      - question: "Differentiate in meaning between the noun <latin>foedus</latin> and the adjective <latin>foedus</latin>"
+        answer: "<latin>FOEDUS</latin> (noun) -- TREATY, COMPACT; <latin>FOEDUS</latin> (adjective) -- WRETCHED, UGLY, SHAMEFUL"
+      - question: "Differentiate in meaning between the adjective <latin>potior</latin> and the verb <latin>potior</latin>"
+        answer: "<latin>POTIOR</latin> (adjective) -- MORE ABLE / POWERFUL; <latin>POTIOR</latin> (verb) -- GAIN POSSESSION OF, BE MASTER OVER"
+  - tossup:
+      question: "If a building were to be described as “<latin>conlapsa terrae mōtū</latin>”, what had happened to it?"
+      answer: "IT HAD COLLAPSED FROM AN <emphasis>EARTHQUAKE</emphasis>"
+    boni:
+      - question: "What you see is an inscription that can now be found at the entrance to the Sanctuary of Isis in Pompeii, which suffered serious damage as a result of an earthquake of A.D. 62. The temple was rebuilt shortly thereafter. According to the inscription, how old was Numerius Popidius Celsinus when he financed the rebuilding of the temple?"
+        answer: "SIX"
+      - question: "Who thanked Numerius Popidius Celsinus by raising his rank in society?"
+        answer: "<latin>DECURIŌNĒS</latin>"
+  - tossup:
+      question: "Whose horses would have rendered Troy impregnable had they eaten Trojan fodder and drunk from the river Scamander?"
+      answer: "RHESUS’"
+    boni:
+      - question: "What two Greek heroes killed Rhesus and drove off his horses?"
+        answer: "ODYSSEUS & DIOMEDES"
+      - question: "What Trojan spy had revealed to Odysseus and Diomedes the location of Rhesus’ camp?"
+        answer: "DOLON"
+  - tossup:
+      question: "What was the only utensil used by Romans when dining?"
+      answer: "SPOONS"
+    boni:
+      - question: "With what hand did the Romans eat?"
+        answer: "RIGHT"
+      - question: "What was a <latin>mappa</latin>?"
+        answer: "NAPKIN"

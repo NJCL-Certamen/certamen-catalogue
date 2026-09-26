@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give a synonym of the noun <latin>amīcus</latin>"
+      answer: "<latin>COMES, FAMILIĀRIS, SOCIUS, AMĀTOR</latin>"
+    boni:
+      - question: "Give another."
+        answer: "<latin>COMES, FAMILIĀRIS, SOCIUS, AMĀTOR</latin>"
+      - question: "Give a third."
+        answer: "<latin>COMES, FAMILIĀRIS, SOCIUS, AMĀTOR</latin>"
+  - tossup:
+      question: "Who was the oldest of the Greek leaders at Troy?"
+      answer: "NESTOR"
+    boni:
+      - question: "Where was Nestor king?"
+        answer: "PYLOS"
+      - question: "Who had sacked both Pylos and Troy before the Trojan War?"
+        answer: "HERACLES / HERCULES"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin word as the others: praise, prize, pretzel, precious, appreciate?"
+      answer: "PRETZEL"
+    boni:
+      - question: "What Latin noun with what meaning lies at the root of “pretzel”?"
+        answer: "<latin>BRACCHIUM</latin> -- ARM"
+      - question: "What Latin noun with what meaning lies at the root of the others?"
+        answer: "<latin>PRETIUM</latin> -- VALUE, REWARD, PRICE"
+  - tossup:
+      question: "For the control of what island was the First Punic war fought?"
+      answer: "SICILY"
+    boni:
+      - question: "Who in 247 BC became the commander of the Carthaginian forces in Sicily?"
+        answer: "HAMILCAR BARCA (FATHER OF HANNIBAL)"
+      - question: "What Roman victory was the last battle of the First Punic War?"
+        answer: "AEGATES ISLANDS"
+  - tossup:
+      question: "Whose victorious forces were able to travel the length of Italy and plunder country estates in 73-71 BC?"
+      answer: "SPARTACUS’"
+    boni:
+      - question: "Where did the gladiator Spartacus get his military experience?"
+        answer: "HE HAD SERVED IN AUXILIARY FORCES OF THE ROMAN ARMY"
+      - question: "By what Roman general was Spartacus finally defeated?"
+        answer: "(M. LICINIUS) CRASSUS"
+  - tossup:
+      question: "Give the genitive singular of <latin>fidēs</latin>"
+      answer: "<latin>FIDĒĪ</latin>"
+    boni:
+      - question: "Make the adjective <latin>caecus</latin> agree with <latin>fidēī</latin>"
+        answer: "<latin>CAECAE</latin>"
+      - question: "Change <latin>caecae fidēī</latin> to ablative"
+        answer: "<latin>CAECĀ FIDĒ</latin>"
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē: Quis sum? Sum servus quī in culīnā labōrat. Cotīdiē parō familiae ientāculum et prandium et cēnam. Sum aut dominus aut nauta aut fūr aut coquus aut caupō. Quis sum?</latin>"
+      answer: "<latin>COQUUS</latin>"
+    boni:
+      - question: "<latin>Vīvō vītam maritīmam et vīsitō multās terrās nāve. Undae et ventī sunt meī amīcī. Sum aut dominus aut nauta aut fūr aut coquus aut caupō. Quis sum?</latin>"
+        answer: "<latin>NAUTA</latin>"
+      - question: "<latin>Multā nocte intrō villās et rapiō pecūniam et rēs pretiōsissimās. Canēs sunt mihi inimīcī. Sum aut dominus aut nauta aut fūr aut coquus aut caupō. Quis sum?</latin>"
+        answer: "<latin>FŪR</latin>"
+  - tossup:
+      question: "Who was the blind seer of Thebes?"
+      answer: "TEIRESIAS"
+    boni:
+      - question: "Why had Teiresias been blinded?"
+        answer: "SAW ATHENA (MINERVA) BATHE / INFURIATED HERA (JUNO) BY SAYING THAT WOMEN ENJOYED LOVE-MAKING MORE THAN MEN"
+      - question: "What special privilege did Teiresias possess in the Underworld?"
+        answer: "RETAINED HIS FULL MENTAL CAPACITY / SPOKE WITHOUT DRINKING BLOOD"
+  - tossup:
+      question: "Who was the first emperor against whom the Senate passed an official <latin>damnatio memoriae</latin>?"
+      answer: "DOMITIAN (TITUS FLAVIUS DOMITIANUS)"
+    boni:
+      - question: "How did Domitian die?"
+        answer: "ASSASSINATED (STABBED BY STEPHANUS, A SERVANT IN THE PALACE)"
+      - question: "Name both the emperor’s wife and the Praetorian Prefect who were probably the ringleaders of this successful assassination plot"
+        answer: "DOMITIA & PETRONIUS SECUNDUS"
+  - tossup:
+      question: "What two tenses of the subjunctive can be used in a dependent clause introduced by a verb in the imperfect tense?"
+      answer: "IMPERFECT & PLUPERFECT"
+    boni:
+      - question: "What two tenses of the subjunctive can be used in a dependent clause introduced by a verb in the future tense?"
+        answer: "PRESENT & PERFECT"
+      - question: "What form of the verb <latin>iuvāre </latin>would be required to translate this sentence into Latin: The young boy is asking me if I can help him"
+        answer: "<latin>IUVĀRE</latin>"
+  - tossup:
+      question: "What emperor of the Severan dynasty thought of himself as a “second Alexander the Great”?"
+      answer: "(MARCUS AURELIUS ANTONINUS) CARACALLA"
+    boni:
+      - question: "Where in the East was Caracalla murdered by his praetorian prefect?"
+        answer: "AT CARRHAE"
+      - question: "Name this praetorian prefect who was proclaimed Augustus by the troops"
+        answer: "(M. OPELLIUS) MACRINUS"
+  - tossup:
+      question: "Translate: <latin>Medicus sciēbat rēgem invalēre.</latin> "
+      answer: "THE DOCTOR KNEW THAT THE KING WAS SICK"
+    boni:
+      - question: "Translate: <latin>Rēx putāvit sē vīnum malum bibisse. </latin>"
+        answer: "THE KING THOUGHT THAT HE HAD DRUNK A BAD WINE"
+      - question: "Translate: <latin>Rēx scīvit sē mox moritūrum esse. </latin>"
+        answer: "THE KING KNEW THAT HE WOULD SOON DIE (or WAS ABOUT TO/WAS GOING TO DIE)"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: admiral, mirror, marvel, miracle, admire?"
+      answer: "ADMIRAL"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: patron, paternity, patrician, patient, patter?"
+        answer: "PATIENT"
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: abuse, useful, usurp, utensil, utter?"
+        answer: "UTTER"
+  - tossup:
+      question: "What daughter of Inachus became a heifer?"
+      answer: "IO"
+    boni:
+      - question: "Who received Io as a present?"
+        answer: "HERA / JUNO"
+      - question: "Who freed Io from the watchful eyes of Argus?"
+        answer: "HERMES / MERCURY"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Aestāte moriente, necesse est iuvenibus īre ad scholam</latin>"
+      answer: "ABSOLUTE"
+    boni:
+      - question: "What use of the ablative case is found in the following sentence: <latin>Summā celeritāte fugit tempus</latin>"
+        answer: "MANNER"
+      - question: "What use of the ablative case is found in the following sentence: <latin>Faber stultitiā vituperātus est</latin>"
+        answer: "CAUSE"
+  - tossup:
+      question: "What winged creature helped in the adventures of Bellerophon?"
+      answer: "PEGASUS"
+    boni:
+      - question: "Please study the visual, paying close attention to the individuals shown. Identify the character represented by the two letter “A”s."
+        answer: "MEDUSA"
+      - question: "Locate the figure coming out of the body of Medusa. What is this character’s name?"
+        answer: "CHRYSAOR"
+  - tossup:
+      question: "Differentiate in meaning between <latin>prope</latin> and <latin>properō</latin>"
+      answer: "<latin>PROPE</latin> -- NEAR, NEARLY, ALMOST <latin>PROPERŌ</latin> -- HASTEN, PREPARE WITH HASTE"
+    boni:
+      - question: "<latin>quandō</latin> and <latin>quantus</latin>"
+        answer: "<latin>QUANDŌ</latin> -- WHEN, SINCE, BECAUSE <latin>QUANTUS</latin> -- HOW GREAT, HOW MUCH, HOW BIG"
+      - question: "<latin>simul</latin> and <latin>semel</latin>"
+        answer: "<latin>SIMUL</latin> -- AT THE SAME TIME, TOGETHER, AS SOON AS <latin>SEMEL</latin> -- ONCE, SINGLE TIME"
+  - tossup:
+      question: "What part of a Roman marriage ceremony did a <latin>pronuba</latin> perform?"
+      answer: "JOIN THE BRIDE’S AND GROOM’S RIGHT HANDS / <latin>DEXTRĀRUM IUNCTIŌ</latin>"
+    boni:
+      - question: "What part of the marriage ceremony was the <latin>deductio</latin>?"
+        answer: "ESCORTING THE BRIDE TO THE GROOM’S HOUSE"
+      - question: "Why did the groom carry his bride over the threshold?"
+        answer: "TO AVOID AN ILL-OMENED STUMBLE"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, who prevented Menelaus from killing Paris in a duel?"
+      answer: "APHRODITE"
+    boni:
+      - question: "How did she do it?"
+        answer: "<emphasis>SPIRITED PARIS OFF</emphasis> TO HELEN’S BEDROOM <emphasis>IN A CLOUD / MIST</emphasis>"
+      - question: "When Paris was eventually killed, who became Helen’s husband?"
+        answer: "DEIPHOBUS"
+  - tossup:
+      question: "Of <latin>tangō</latin>, give the second person plural, present, passive, indicative"
+      answer: "<latin>TANGIMINĪ</latin>"
+    boni:
+      - question: "Change <latin>tangiminī</latin> to singular"
+        answer: "<latin>TANGERIS/-RE</latin>"
+      - question: "Change <latin>tangeris</latin> to imperfect"
+        answer: "<latin>TANGĒBĀRIS/-RE</latin>"

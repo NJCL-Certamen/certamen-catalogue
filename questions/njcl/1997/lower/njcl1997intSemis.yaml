@@ -1,0 +1,161 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "With whom did Hercules wrestle for the hand of Deianeira?"
+      answer: "ACHELOUS"
+    boni:
+      - question: "What special power did Achelous possess?"
+        answer: "SHAPE-CHANGING"
+      - question: "As told in Ovid, what physical deformity did Achelous bear as a result of this battle?"
+        answer: "ONE OF ACHELOUS’ HORNS WAS BROKEN OFF (AND BECAME THE CORNUCOPIA)"
+  - tossup:
+      question: "Who became the king of Rome by murdering his predecessor?"
+      answer: "TARQUINIUS SUPERBUS"
+    boni:
+      - question: "Name Superbus’ ambitious wife who instigated this murder"
+        answer: "TULLIA (MINOR)"
+  - tossup:
+      question: "Give a synonymous word or expression of <latin>debēre</latin>"
+      answer: "<latin>NECESSE ESSE (EST) / OPORTĒRE (-ET) / OPUS ESSE (EST) / ŪSUS ESSE (EST)</latin>"
+    boni:
+      - question: "Give another."
+        answer: "<latin>NECESSE ESSE (EST) / OPORTĒRE (-ET) / OPUS ESSE (EST) / ŪSUS ESSE (EST)</latin>"
+      - question: "Give a third."
+        answer: "<latin>NECESSE ESSE (EST) / OPORTĒRE (-ET) / OPUS ESSE (EST) / ŪSUS ESSE (EST)</latin>"
+  - tossup:
+      question: "Translate: <latin>Vox poētae erat difficilis audītū.</latin>"
+      answer: "THE VOICE OF THE POET WAS DIFFICULT TO HEAR"
+    boni:
+      - question: "Translate: <latin>Poētae ingeniōsī scrībunt carmina quae audienda sunt.</latin>"
+        answer: "CRAFTY / TALENTED POETS WRITE POEMS WHICH OUGHT/MUST BE HEARD"
+      - question: "Translate: <latin>Recitandīs carminibus, poētae suās sententiās dīcere possunt</latin>"
+        answer: "BY RECITING POEMS, POETS CAN SPEAK THEIR OPINIONS"
+  - tossup:
+      question: "What English verb meaning “denote” derives from Latin words meaning “make” and “sign”?"
+      answer: "SIGNIFY"
+    boni:
+      - question: "What derivative of Latin words meaning “make” and “witness” is an English verb meaning “bear witness”?"
+        answer: "TESTIFY"
+      - question: "What derivative of Latin words meaning “make” and “branch” is an English verb meaning “separate into divisions”?"
+        answer: "RAMIFY"
+  - tossup:
+      question: "What king of Teuthrania fought against the Greek fleet when it was on its way to Troy but came by mistake to the shores of Mysia?"
+      answer: "TELEPHUS"
+    boni:
+      - question: "Who wounded Telephus in the thigh during this battle?"
+        answer: "ACHILLES"
+      - question: "How was Telephus healed?"
+        answer: "ACHILLES SCRAPED RUST FROM THE SPEARHEAD (THAT HE USED TO WOUND TELEPHUS) INTO THE WOUND"
+  - tossup:
+      question: "Who, by means of his judicial reforms, was the first to give legal recognition to the Equestrian Order?"
+      answer: "GAIUS GRACCHUS"
+    boni:
+      - question: "Gaius’ legislation called for the Equestrians to compose the juries of the <latin>quaestio de rebus repetundis</latin>. What kind of cases did the equestrian juries decide?"
+        answer: "EXTORTION (BY ROMAN OFFICIALS IN PROVINCES)"
+      - question: "What dictator removed the Equestrians from the courts?"
+        answer: "(L. CORNELIUS) SULLA"
+  - tossup:
+      question: "From what Latin adjective with what meaning do both “attitude” and “aptitude” derive?"
+      answer: "<latin>APTUS</latin> -- SUITABLE"
+    boni:
+      - question: "From what Latin verb with what meaning do both “prudent” and “provident” derive?"
+        answer: "<latin>PRŌVIDĒRE</latin> -- FORESEE, PROVIDE; from <latin>VIDĒRE</latin> -- SEE"
+      - question: "From what Latin adjective with what meaning do both “abridge” and “abbreviate” derive?"
+        answer: "<latin>BREVIS</latin> -- SHORT"
+  - tossup:
+      question: "How does Latin express the word “that” for this sentence: Do you know that girl over there?"
+      answer: "<latin>ILLAM / ISTAM / EAM</latin>"
+    boni:
+      - question: "How does Latin express the word “that” for this sentence: That camp is Catiline’s"
+        answer: "<latin>ILLA / ISTA / EA</latin>"
+      - question: "How does Latin express the word “that” for this sentence: Everyone knows that money doesn’t create happiness"
+        answer: "<latin>IT DOES NOT</latin>"
+  - tossup:
+      question: "Who had told Io that her sufferings would end in Egypt?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "Who was the son of Zeus and Io?"
+        answer: "EPAPHUS"
+      - question: "What king of Egypt became the husband of Io?"
+        answer: "TELEGONUS"
+  - tossup:
+      question: "Who defeated the last Pontic army at the Battle of Nicopolis in 66 BC?"
+      answer: "(CN.) POMPEIUS (MAGNUS) / POMPEY (THE GREAT)"
+    boni:
+      - question: "What city did Pompey capture in 64 BC after a three month siege?"
+        answer: "JERUSALEM"
+      - question: "Whom did Pompey leave as the ruler of Armenia although he had been an ally of Mithridates?"
+        answer: "TIGRANES (I or THE GREAT)"
+  - tossup:
+      question: "Translate <latin>nūbēs</latin> as a noun"
+      answer: "CLOUD, SWARM, PHANTOM"
+    boni:
+      - question: "Translate <latin>nūbēs</latin> as a verb"
+        answer: "YOU WILL MARRY"
+      - question: "Give all the principal parts of the verb from which <latin>nūbēs</latin> comes"
+        answer: "<latin>NŪBŌ, NŪBERE, NŪPSĪ, NŪPTUS</latin>"
+  - tossup:
+      question: "What deity turned the daughters of Minyas into bats?"
+      answer: "BACCHUS / DIONYSUS / LIBER"
+    boni:
+      - question: "Which of Bacchus’ aunts incurred the wrath of Juno for taking care of the baby Mercury?"
+        answer: "INO / LEUCOTHEA"
+      - question: "What Fury did Juno send to inflict Ino with madness?"
+        answer: "TISIPHONE"
+  - tossup:
+      question: "Differentiate in meaning between <latin>carcer</latin> and <latin>circiter</latin>"
+      answer: "<latin>CARCER</latin> -- PRISON, JAIL, STARTING LINE IN CIRCUS <latin>CIRCITER</latin> -- ABOUT, ON EVERY SIDE, NEAR, AROUND"
+    boni:
+      - question: "Differentiate in meaning between <latin>ultor</latin> and <latin>ultrā</latin>"
+        answer: "<latin>ULTOR</latin> -- AVENGER <latin>ULTRĀ</latin> -- ON THE OTHER SIDE, FARTHER, BEYOND"
+      - question: "Differentiate in meaning between <latin>tenus</latin> and <latin>tenuis</latin>"
+        answer: "<latin>TENUS</latin> -- UP TO, AS FAR AS <latin>TENUIS</latin> -- THIN, RARE, FINE, SLENDER, SLIM"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>altus</latin>"
+      answer: "<latin>ALTIOR, ALTISSIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>magnoperē</latin>"
+        answer: "<latin>MAGIS, MAXIMĒ</latin>"
+      - question: "Give the comparative and superlative forms of <latin>pius</latin>"
+        answer: "<latin>MAGIS PIUS, MAXIMĒ PIUS / PIISIMUS / PIENTISSIMUS</latin>)"
+  - tossup:
+      question: "Using the diagram of a Roman house, from the perspective of someone standing in the <latin>tablinum</latin>, what is the Latin name of something in the picture derived from the Latin word for “rain”?"
+      answer: "<latin>IMPLUVIUM / COMPLUVIUM</latin>"
+    boni:
+      - question: "What is the Latin term for the table in either corner?"
+        answer: "<latin>DELPHICA MĒNSA</latin>"
+      - question: "What is the Latin term for the doors (plural)?"
+        answer: "<latin>FORĒS / IĀNUAE / ŌSTIA</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in English the question that follows: <latin>Est Athēnīs sacrārium cuiusdam deae. Nōn licet virīs in sacrārium illud intrāre. Mulierēs et virginēs sacrificia illīc conficere solent. Diē quādam vir prāvō ingeniō in sacrārium illud intrāre ausus est et ēripere signum antīquum. Ille vir poenam deōrum dedit.</latin> Who are prohibited from entering the shrine?"
+      answer: "MEN"
+    boni:
+      - question: "What do women and maidens usually do in the shrine?"
+        answer: "CONDUCT SACRED RIGHTS"
+      - question: "What did the wicked man do?"
+        answer: "(HE ENTERED THE SHRINE AND) STOLE A(N ANCIENT) STATUE"
+  - tossup:
+      question: "Where does Athena urge Telemachus to go first in order to find news of his father?"
+      answer: "PYLOS"
+    boni:
+      - question: "Who was the king of Pylos when Telemachus visited there?"
+        answer: "NESTOR"
+      - question: "In what disguise does Athena appear to Telemachus in Book I of the <title>Odyssey</title>?"
+        answer: "MENTES (KING OF THE TAPHIANS)"
+  - tossup:
+      question: "Translate into English the dependent clause for this sentence “After the money had been found, the family bought a carriage.”"
+      answer: "<latin>PECŪNIĀ INVENTĀ</latin>"
+    boni:
+      - question: "Give another acceptable Latin form of the dependent clause."
+        answer: "<latin>POSTQUAM PECŪNIA INVENTA ERAT / CUM PECŪNIA INVENTA / REPERTA ESSET / ERAT</latin>"
+  - tossup:
+      question: "Who was recalled from the expedition to Sicily because of his suspected involvement in the mutilation of the Herms?"
+      answer: "ALCIBIADES"
+    boni:
+      - question: "To what enemy did Alcibiades defect rather than face trial?"
+        answer: "SPARTANS"
+      - question: "Who was left as the commander of the expedition, although he had opposed it?"
+        answer: "NICIAS"

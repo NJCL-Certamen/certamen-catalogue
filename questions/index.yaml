@@ -623,6 +623,42 @@ links:
   year: 1997
   division: Intermediate
   round: Semifinals
+- rel: 1997 NJCL Certamen Novice Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novExtras.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Extra Questions
+- rel: 1997 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov2.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Round 2
+- rel: 1997 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Semifinals
+- rel: 1997 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Finals
+- rel: 1997 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov1.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Round 1
+- rel: 1997 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov3.yaml
+  tournament: NJCL Certamen
+  year: 1997
+  division: Novice
+  round: Round 3
 - rel: 1997 NJCL Certamen Advanced Round 3
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/upper/njcl1997adv3.yaml
   tournament: NJCL Certamen
@@ -659,42 +695,6 @@ links:
   year: 1997
   division: Advanced
   round: Finals
-- rel: 1997 NJCL Certamen Novice Round 1
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov1.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Round 1
-- rel: 1997 NJCL Certamen Novice Round 2
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov2.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Round 2
-- rel: 1997 NJCL Certamen Novice Round 3
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997nov3.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Round 3
-- rel: 1997 NJCL Certamen Novice Semifinals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novSemis.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Semifinals
-- rel: 1997 NJCL Certamen Novice Finals
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novFinals.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Finals
-- rel: 1997 NJCL Certamen Novice Extra Questions
-  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1997/novice/njcl1997novExtras.yaml
-  tournament: NJCL Certamen
-  year: 1997
-  division: Novice
-  round: Extra Questions
 - rel: 1979 NJCL Certamen Intermediate Semifinals
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1979/lower/njcl1979intSemis.yaml
   tournament: NJCL Certamen

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What Greek warrior chased Hector around the walls of Troy three times before killing him?"
+      answer: "ACHILLES / LIGYRON"
+    boni:
+      - question: "What Trojan, with the aid of Apollo, killed Achilles?"
+        answer: "PARIS / ALEXANDER"
+      - question: "Who killed Paris with an arrow?"
+        answer: "PHILOCTETES"
+  - tossup:
+      question: "Another name for nitric acid is <latin>aqua fortis</latin>. Translate <latin>aqua fortis</latin>"
+      answer: "STRONG / BRAVE WATER"
+    boni:
+      - question: "Another name for alcohol is <latin>aqua vītae</latin>. Translate <latin>aqua vītae</latin>"
+        answer: "WATER OF LIFE"
+      - question: "<latin>Aqua rēgia</latin> is a mixture of nitric and hydrochloric acids that dissolves gold. Translate <latin>aqua rēgia</latin>"
+        answer: "ROYAL / REGAL / KINGLY WATER"
+  - tossup:
+      question: "Give the ablative plural of <latin>ille taurus</latin>"
+      answer: "<latin>ILLĪS TAURĪS</latin>"
+    boni:
+      - question: "Change <latin>illīs taurīs</latin> to genitive"
+        answer: "<latin>ILLŌRUM TAURŌRUM</latin>"
+      - question: "Change <latin>illōrum taurōrum</latin> to singular"
+        answer: "<latin>ILLĪUS TAURĪ</latin>"
+  - tossup:
+      question: "Which Roman king, originally from the Sabine town of Cures, established the <latin>flamines</latin> and <latin>pontifices</latin>?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "Name the Sabine king who had been Romulus’ co-ruler"
+        answer: "TITUS TATIUS"
+      - question: "Name the fourth king of Rome, also a Sabine, who was Numa’s grandson"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "What hunter accidentally surprised Artemis while she was bathing in the forest?"
+      answer: "ACTAEON"
+    boni:
+      - question: "What was his punishment?"
+        answer: "TURNED INTO A STAG AND TORN APART BY HIS OWN HOUNDS"
+      - question: "In other versions of the myth, Actaeon insults Artemis in other ways. Name one"
+        answer: "BOASTS THAT HE IS THE BETTER HUNTER / WANTS TO MARRY ARTEMIS"
+  - tossup:
+      question: "Translate the prepositional phrase into Latin for this sentence: “By whom was the Pantheon built?”"
+      answer: "<latin>Ā QUŌ / Ā QUIBUS</latin>"
+    boni:
+      - question: "According to that inscription, who built the Pantheon?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "how many times had Agrippa been elected consul?"
+        answer: "THREE"
+  - tossup:
+      question: "Why did many of Rome’s Italian allies go to war against her in 90 BC?"
+      answer: "WANTED ROMAN CITIZENSHIP / RIGHTS / ENFRANCHISEMENT"
+    boni:
+      - question: "What was this war called?"
+        answer: "SOCIAL / MARSIC / ITALIAN"
+      - question: "Who was the leader of the Samnites in this conflict?"
+        answer: "(C. PAPIUS) MUTILUS"
+  - tossup:
+      question: "What is the meaning of the Latin ordinal number at the root of “tertiary”?"
+      answer: "THIRD"
+    boni:
+      - question: "What Latin cardinal number lies at the root of “quarry”?"
+        answer: "<latin>QUATTUOR</latin>"
+      - question: "What derivative of the Latin distributive numeral <latin>bīnī</latin> means “belonging to a number system that has 2 as its base”?"
+        answer: "BINARY"
+  - tossup:
+      question: "What deity was the father of Hercules?"
+      answer: "JUP(P)ITER / JOVE"
+    boni:
+      - question: "What son of Alcaeus was the mortal stepfather of Hercules?"
+        answer: "AMPHITRYON"
+      - question: "Who was the wife of Amphitryon and the mother of Hercules?"
+        answer: "ALCMENE/A"
+  - tossup:
+      question: "Differentiate in meaning between <latin>dīscō</latin> and <latin>discēdō</latin>"
+      answer: "<latin>DĪSCŌ</latin> -- LEARN <latin>DISCĒDŌ</latin> -- LEAVE, DIVIDE"
+    boni:
+      - question: "Differentiate in meaning between <latin>dē</latin> and <latin>dō</latin>"
+        answer: "<latin>DĒ</latin> -- DOWN FROM, FROM, ABOUT <latin>DŌ</latin> -- GIVE"
+      - question: "Differentiate in meaning between <latin>cūra</latin> and <latin>cēra</latin>"
+        answer: "<latin>CŪRA</latin> -- CARE, CONCERN, CURE <latin>CĒRA</latin> -- WAX, WAX TABLETS, WAG IMAGES, SEAL OF WAX"
+  - tossup:
+      question: "What elderly and infirm emperor had to adopt Trajan as his co-emperor and heir in AD 97?"
+      answer: "(M. COCCEIUS) NERVA"
+    boni:
+      - question: "What group was this adoption intended to placate?"
+        answer: "MILITARY (PRAETORIAN GUARD AND FRONTIER ARMIES)"
+      - question: "What forum, begun by Domitian, was finished by his successor?"
+        answer: "<latin>FORUM TRANSITORIUM / NERVAE</latin>"
+  - tossup:
+      question: "For <latin>sum, esse</latin>, give the second person singular, imperfect, indicative"
+      answer: "<latin>ERĀS</latin>"
+    boni:
+      - question: "Change <latin>erās</latin> to perfect"
+        answer: "<latin>FUISTĪ</latin>"
+      - question: "Change <latin>fuistī</latin> to future perfect"
+        answer: "<latin>FUERIS</latin>"
+  - tossup:
+      question: "Translate the prepositional phrase in this sentence into Latin: The children washed their hands before dinner"
+      answer: "<latin>ANTE CĒNAM</latin>"
+    boni:
+      - question: "Translate the prepositional phrase in this sentence into Latin: The emperor is in the city today"
+        answer: "<latin>IN URBE</latin>"
+      - question: "Translate the prepositional phrase in this sentence into Latin: Yesterday we sailed from the island"
+        answer: "<latin>AB INSULĀ</latin>"
+  - tossup:
+      question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, how many ages of mankind are there?"
+      answer: "FOUR"
+    boni:
+      - question: "In which age is Spring perpetual?"
+        answer: "GOLDEN AGE"
+      - question: "Which age sees the arrival of the other three seasons?"
+        answer: "SILVER"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: <latin>Maxima est potentia imperātōris</latin>"
+      answer: "POSSESSION"
+    boni:
+      - question: "What use of the genitive case is found in the following sentence: <latin>Pars fēminārum vestēs lavābant</latin>"
+        answer: "PARTITIVE (GEN. OF THE WHOLE)"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Virī summae scientiae sumus</latin>"
+        answer: "QUALITY (DESCRIPTION)"
+  - tossup:
+      question: "What piece of clothing might be considered the “uniform” of a Roman citizen?"
+      answer: "TOGA"
+    boni:
+      - question: "What part of the toga was the <latin>sinus</latin>?"
+        answer: "POCKET / FOLDS (MADE BY FOLDS OF THE FRONT OF THE GARMENT)"
+      - question: "When a citizen was officiating as a priest, how was the toga worn?"
+        answer: "HEAD COVERED (BY THE PART OF THE BACK OF THE TOGA)"
+  - tossup:
+      question: "How many principal parts does a transitive verb usually have?"
+      answer: "FOUR"
+    boni:
+      - question: "What tenses of the indicative are formed from the second principal part?"
+        answer: "PRESENT, IMPERFECT, FUTURE"
+      - question: "What tenses of the indicative are formed from the third principal part?"
+        answer: "PERFECT, PLUPERFECT, FUTURE PERFECT"
+  - tossup:
+      question: "Who were the daughters and, at the same time, the younger half-sisters of Oedipus?"
+      answer: "ANTIGONE & ISMENE"
+    boni:
+      - question: "Who were the sons and, at the same time, the younger half-brothers of Oedipus?"
+        answer: "ETEOCLES & POLYNEICES"
+      - question: "Which of the two boys reneged on the sharing of the royal power, thus bringing an invasion upon Thebes?"
+        answer: "ETEOCLES"
+  - tossup:
+      question: "What Latin noun meaning what animal lies at the root of the English word “porcelain”?"
+      answer: "<latin>PORCUS</latin> -- PIG"
+    boni:
+      - question: "What Latin noun meaning what animal lies at the root of the English word “auspicious”?"
+        answer: "<latin>AVIS</latin> -- BIRD"
+      - question: "What Latin noun meaning what animal lies at the root of the English word “vaccination”?"
+        answer: "<latin>VACCA</latin> -- COW"
+  - tossup:
+      question: "Who was dictator in Rome from 81-79 BC?"
+      answer: "(L. CORNELIUS) SULLA (FELIX)"
+    boni:
+      - question: "Prior to Sulla’s dictatorship, the maximum term of a dictator was how long?"
+        answer: "SIX MONTHS"
+      - question: "Who was the first Roman to be named as <title>dictator perpetuus</title>?"
+        answer: "(C.) IULIUS CAESAR"

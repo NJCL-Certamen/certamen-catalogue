@@ -19,7 +19,7 @@ from striprtf.striprtf import PATTERN, destinations, specialchars
 ROUND_RE = re.compile(
     r"^(?P<label>(?:ROUND\s+(?:ONE|TWO|THREE|FOUR|FIVE|\d+)|"
     r"SEMI[- ]FINAL(?:S)?|FINAL(?: ROUND)?|UPPER EXTRA QUESTIONS|"
-    r"EXTRA QUESTIONS))\b",
+    r"(?:NOVICE\s+)?EXTRA QUESTIONS))\b",
     re.IGNORECASE,
 )
 QUESTION_RE = re.compile(r"^\s*(?:TOSS[- ]?UP\s*)?(?P<number>\d+)[.):]\s*(?P<body>.*)$", re.IGNORECASE)
@@ -211,7 +211,12 @@ def question_blocks(lines: list[str]) -> list[str]:
     current: list[str] = []
     for line in lines:
         plain_line = TAG_RE.sub("", line)
-        if re.match(r"^UPPER (?:ROUND|SEMI|FINAL)|^\d+\s*$", plain_line, re.IGNORECASE):
+        if re.match(
+            r"^(?:(?:UPPER|NOVICE) (?:ROUND|SEMI|FINAL|EXTRA)|"
+            r"GRAMMAR / VOCABULARY|HISTORY / LIFE / GEOGRAPHY|MYTHOLOGY|\d+\s*$)",
+            plain_line,
+            re.IGNORECASE,
+        ):
             continue
         if QUESTION_RE.match(plain_line):
             if current:
@@ -230,7 +235,8 @@ def is_upper_answer_token(token: str) -> bool:
     if not letters:
         return token in {"--", "/", "&", "+", "//"}
     if len(letters) == 1:
-        return token.endswith(".") and letters.isupper()
+        cleaned = token.strip("\"'“”‘’()[]{}")
+        return letters.isupper() and (cleaned.endswith(".") or cleaned == letters)
     return letters.isupper()
 
 
@@ -254,7 +260,13 @@ def normalize_tags(value: str) -> str:
     output.append(value[position:])
     for tag_name in reversed(active):
         output.append(f"</{tag_name}>")
-    return "".join(output)
+    normalized = "".join(output)
+    for _ in range(3):
+        normalized = re.sub(r"<(latin|title|emphasis)>(\s+)", r"\2<\1>", normalized)
+        normalized = re.sub(r"(\s+)</(latin|title|emphasis)>", r"</\2>\1", normalized)
+    normalized = re.sub(r"([āēīōūĀĒĪŌŪ])<latin>", r"<latin>\1", normalized)
+    normalized = re.sub(r"</latin>([āēīōūĀĒĪŌŪ])", r"\1</latin>", normalized)
+    return normalized
 
 
 def answer_spans(text: str) -> list[tuple[int, int]]:
@@ -265,7 +277,18 @@ def answer_spans(text: str) -> list[tuple[int, int]]:
     while index < len(tokens):
         token = tokens[index].group()
         letters = "".join(character for character in token if character.isalpha())
-        candidate = is_upper_answer_token(token) and letters not in excluded
+        previous_text = TAG_RE.sub("", text[:tokens[index].start()]).rstrip()
+        follows_sentence_boundary = not previous_text or previous_text[-1] in "?.!"
+        next_is_uppercase = (
+            index + 1 < len(tokens) and is_upper_answer_token(tokens[index + 1].group())
+        )
+        single_letter_pronoun = letters == "I" and len(letters) == 1 and not next_is_uppercase
+        candidate = (
+            is_upper_answer_token(token)
+            and letters not in excluded
+            and not single_letter_pronoun
+            and follows_sentence_boundary
+        )
         if not candidate:
             index += 1
             continue
@@ -321,6 +344,14 @@ def parse_pairs(block: str) -> list[tuple[str, str]]:
         follow_ups = re.findall(r"(?:Give|Name) (?:another|a third)\.", trailing, re.IGNORECASE)
         if follow_ups:
             return pairs + [(follow_up, answer) for follow_up in follow_ups]
+    trailing = block[spans[-1][1]:].strip()
+    if trailing and re.match(
+        r"^(?:For\s+\w+\s+points?(?:\s+each)?,\s*)?"
+        r"(?:what|who|when|where|why|how|name|give|translate|identify|which)\b",
+        trailing,
+        re.IGNORECASE,
+    ):
+        pairs.append((normalize_tags(trailing), ""))
     return pairs
 
 

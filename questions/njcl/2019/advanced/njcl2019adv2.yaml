@@ -32,9 +32,9 @@ questions:
       answer: "<latin>UT OMNĒS OCULŌS (SUŌS) CLAUDERENT</latin>"
     boni:
       - question: "Translate: There were those who did not close their eyes."
-        answer: "<latin>ERANT</latin> [THOSE : <latin>EĪ</latin>/<latin>ALIQUĪ</latin>/<latin>NŌNNŪLLĪ</latin>] <latin>QUĪN / QUĪ NŌN OCULŌS</latin> (<latin>SUŌS</latin>) CLAUDERENT / <latin>CLAUSĒRUNT</latin>"
+        answer: "<latin>ERANT</latin> [THOSE : <latin>EĪ</latin>/<latin>ALIQUĪ</latin>/<latin>NŌNNŪLLĪ</latin>] <latin>QUĪN / QUĪ NŌN OCULŌS (SUŌS</latin>) CLAUDERENT / <latin>CLAUSĒRUNT</latin>"
       - question: "Translate: Those who did not close their eyes are blind."
-        answer: "[THOSE: <latin>EĪ</latin>/<latin>ILLĪ</latin>] <latin>QUĪ NŌN OCULŌS</latin> (<latin>SUŌS</latin>) <latin>CLAUSĒRUNT</latin>/<latin>CLAUDĒBANT CAECĪ</latin> SUNT</latin>"
+        answer: "[THOSE: <latin>EĪ</latin>/<latin>ILLĪ</latin>] <latin>QUĪ NŌN OCULŌS (SUŌS</latin>) <latin>CLAUSĒRUNT</latin>/<latin>CLAUDĒBANT CAECĪ</latin> SUNT</latin>"
   - tossup:
       question: "What mythological tribe endured the abduction of Antiope during Heracles’ expedition to obtain the girdle of their queen, Hippolyta?"
       answer: "AMAZONS"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Differentiate in meaning between <latin>inter</latin> and <latin>iter</latin>"
+      answer: "<latin>INTER</latin> -- BETWEEN, AMONG <latin>ITER</latin> -- JOURNEY, WAY"
+    boni:
+      - question: "Differentiate in meaning between <latin>fāma</latin> and <latin>flamma</latin>"
+        answer: "<latin>FĀMA</latin> -- RUMOR, REPORT, TRADITION, REPUTATION, FAME <latin>FLAMMA</latin> -- FLAME"
+      - question: "Differentiate in meaning between <latin>unde</latin> and <latin>unda</latin>"
+        answer: "<latin>UNDE</latin> -- WHENCE, FROM WHICH PLACE, FROM WHOM <latin>UNDA</latin> -- WAVE, WATER, FLUID"
+  - tossup:
+      question: "What monster, part-man, part-bull, was killed by Theseus?"
+      answer: "MINOTAUR / ASTERIUS (or ASTERION)"
+    boni:
+      - question: "Who was the mother of the Minotaur?"
+        answer: "PASIPHAË"
+      - question: "What did Ariadne give to Theseus that allowed him to escape the labyrinth after he killed the Minotaur?"
+        answer: "BALL OF THREAD"
+  - tossup:
+      question: "What enemy commander invaded Italy and remained for 16 years fighting minor skirmishes and trying to subvert Roman allies?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "Why did the Carthaginians recall Hannibal from Italy?"
+        answer: "VICTORIES OF (P. CORNELIUS) SCIPIO (AFRICANUS) IN AFRICA"
+      - question: "Where did Scipio ultimately defeat Hannibal in 202 BC?"
+        answer: "ZAMA"
+  - tossup:
+      question: "Give a synonym of <latin>miser</latin>"
+      answer: "<latin>INFĒLĪX, AEGER, DOLORŌSUS, TRĪSTIS, MAESTUS, PULLUS</latin>"
+    boni:
+      - question: " Give a synonym of <latin>fortis</latin>"
+        answer: "<latin>FIRMUS, VALIDUS, RŌBUSTUS DŪRUS, POTENS, AUDĀX</latin>"
+      - question: " Give an antonym of <latin>albus</latin>"
+        answer: "<latin>ĀTER, NIGER, PULLUS, FUSCUS, OBSCŪRUS</latin>"
+  - tossup:
+      question: "According to its Latin root, who are the primary members of a “senate”?"
+      answer: "OLD MEN"
+    boni:
+      - question: "According to the same Latin root, what infirmity is associated with “old men”?"
+        answer: "SENILITY"
+      - question: "What related word means “privileged status attained by length of continuous service”?"
+        answer: "SENIORITY / SENIOR"
+  - tossup:
+      question: "What form of the verb <latin>vidēre</latin> would be required to translate this sentence into Latin: I haven’t seen my dog today"
+      answer: "<latin>(NŌN) VĪDĪ</latin>"
+    boni:
+      - question: "What form of the verb <latin>vidēre</latin> would be required to translate this sentence into Latin: I used to see my dog often"
+        answer: "<latin>VIDĒBAM</latin>"
+      - question: "What form of the verb <latin>vidēre</latin> would be required to translate this sentence into Latin: I had seen my dog"
+        answer: "<latin>VĪDERAM</latin>"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, who is considered to be the greatest among the Greek warriors in his prowess as a powerful fighting man?"
+      answer: "ACHILLES"
+    boni:
+      - question: "In Homer’s <title>Iliad</title>, who is considered to be second only to Achilles among the Greek warriors in his prowess as a powerful fighting man?"
+        answer: "AJAX (or AIAS) TELAMON (or THE GREATER)"
+      - question: "With what Ithacan hero did Ajax vie for the armor for the dead Achilles?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Who was the consular colleague of Cn. Pompeius Magnus in 70 BC?"
+      answer: "(M. LICINIUS) CRASSUS"
+    boni:
+      - question: "Who was the consular colleague of C. Antonius in 63 BC?"
+        answer: "(M. TULLIUS) CICERO"
+      - question: "Who was the consular colleague of L. Calpurnius Bibulus in 59 BC?"
+        answer: "(C. IULIUS) CAESAR"
+  - tossup:
+      question: "Which case would be needed to translate “Publius” for this sentence: Marcus, why is Publius so handsome?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "Marcus gave Publius a fountain"
+        answer: "DATIVE"
+      - question: "Publius’ house is not very austere"
+        answer: "GENITIVE"
+  - tossup:
+      question: "Who was weaving the funeral shroud of Laertes?"
+      answer: "PENELOPE"
+    boni:
+      - question: "What granddaughter of Hermes was the wife of Laertes?"
+        answer: "ANTICLEIA"
+      - question: "What son of Laertes and Anticlea was the husband of Penelope?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What is the Latin term for the footwear which Roman women wore indoors?"
+      answer: "<latin>SOLEAE</latin>"
+    boni:
+      - question: "Give the Latin terms for the two garments which are visible in the illustration on the left"
+        answer: "<latin>TUNICA (INTERIOR / STOLA (TUNICA EXTERIOR</latin>"
+      - question: "What is the Latin name for the outer garment shown on the figure on the right?"
+        answer: "<latin>PALLA</latin>"
+  - tossup:
+      question: "Translate this sentence: <latin>Quid Lucius spectat?</latin> "
+      answer: "WHAT IS LUCIUS LOOKING AT / WATCHING?"
+    boni:
+      - question: "Translate this sentence: <latin>Cūr mīlitēs currēbant?</latin> "
+        answer: "WHY WERE THE SOLDIERS RUNNING? / WHY DID THE SOLDIERS RUN?"
+      - question: "Translate this sentence: <latin>Unde crās veniētis?</latin> "
+        answer: "WHERE WILL YOU COME FROM TOMORROW?"
+  - tossup:
+      question: "What river was the northern boundary between Republican Italy and the province of Cisalpine Gaul?"
+      answer: "RUBICON"
+    boni:
+      - question: "What sea borders the northeast coast of Italy?"
+        answer: "ADRIATIC(H)UM / ADRIATIC / MARE SUPERUM"
+      - question: "What sea lies between Sardinia and Corsica, Italy, and Sicily?"
+        answer: "TYRRHENUM / TUSCUM / MARE INFERUM"
+  - tossup:
+      question: "What two parts of speech can the form <latin>sedēs</latin> be?"
+      answer: "VERB & NOUN"
+    boni:
+      - question: "Translate <latin>sedēs</latin> as a verb"
+        answer: "YOU SIT"
+      - question: "Give a case and number of the noun <latin>sedēs</latin>"
+        answer: "NOMINATIVE SINGULAR / NOMINATIVE PLURAL / ACCUSATIVE PLURAL"
+  - tossup:
+      question: "According to the usual tradition, how was Athena born?"
+      answer: "FROM THE HEAD OF ZEUS"
+    boni:
+      - question: "According to the same account, who was the mother of Athena?"
+        answer: "METIS"
+      - question: "Give the name for Athena’s breast plate?"
+        answer: "AEGIS"
+  - tossup:
+      question: "Make <latin>poēta</latin> dative singular"
+      answer: "<latin>POĒTAE</latin>"
+    boni:
+      - question: "Change that dative <latin>poētae</latin> to plural"
+        answer: "<latin>POĒTĪS</latin>"
+      - question: "Make the adjective <latin>antīquus</latin> agree with that dative <latin>poētīs</latin>"
+        answer: "<latin>ANTĪQUĪS</latin>"
+  - tossup:
+      question: "What Trojan hero migrated to Italy and became the ancestor of the Roman race?"
+      answer: "AENEAS"
+    boni:
+      - question: "What goddess was the mother of Aeneas?"
+        answer: "VENUS / APHRODITE"
+      - question: "Aeneas married the Italian princess Lavinia. Who was her father?"
+        answer: "(KING) LATINUS"
+  - tossup:
+      question: "What were political leaders known as who worked through the people rather than through the Senate?"
+      answer: "<latin>POPULARES</latin> (TRIBUNES also acceptable)"
+    boni:
+      - question: "What did those who worked through the Senate call themselves?"
+        answer: "<latin>OPTIMATES</latin>"
+      - question: "(<emphasis>not</emphasis> senators) What two brothers provided the model for later <latin>populares</latin> leaders?"
+        answer: "GRACCHI BROTHERS"
+  - tossup:
+      question: "According to its etymology, where would one find a “submarine”?"
+      answer: "UNDER THE SEA"
+    boni:
+      - question: "According to its etymology, where would one find a “suburb”?"
+        answer: "NEAR A CITY"
+      - question: "According to its etymology, where would one find something “subterranean”?"
+        answer: "UNDER THE LAND"
+  - tossup:
+      question: "In ancient Rome, what would have been the occupation of a <latin>pistor</latin>?"
+      answer: "BAKER, MILLER"
+    boni:
+      - question: "<latin>caupō</latin>?"
+        answer: "INNKEEPER"
+      - question: "<latin>latrō</latin>?"
+        answer: "ROBBER, MERCENARY, HIRED SERVANT"

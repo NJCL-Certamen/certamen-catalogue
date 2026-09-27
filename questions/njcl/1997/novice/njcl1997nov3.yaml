@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What war was precipitated by the Romans coming to the aid of the Mamertines in 264 BC?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "Mamertines were a corps of Campanian mercenaries. What god did their name claim connection to?"
+        answer: "MARS / MAMERS (in Oscan)"
+      - question: "What city was the Mamertines’ base of operations, from which they raided much of Sicily?"
+        answer: "MESSANA"
+  - tossup:
+      question: "Which of the Olympian deities was sometimes known as “Cythera” and “Cypris”?"
+      answer: "APHRODITE / VENUS"
+    boni:
+      - question: "Who was the husband of Aphrodite?"
+        answer: "HEPHAESTUS"
+      - question: "With what god did Aphrodite carry on a protracted affair?"
+        answer: "ARES"
+  - tossup:
+      question: "Which two cases are found in the words abbreviated <latin>A.D.</latin>?"
+      answer: "ABLATIVE & GENITIVE"
+    boni:
+      - question: "Which two cases are found in the words abbreviated <latin>e.g.</latin>?"
+        answer: "ABLATIVE & GENITIVE"
+      - question: "Which case is found in the words abbreviated <latin>R.I.P.</latin>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: timid, temerity, timorous, intimidate?"
+      answer: "TEMERITY"
+    boni:
+      - question: "travel, treat, contract, portrait?"
+        answer: "TRAVEL"
+      - question: "transpire, sprite, aspire, spirit, despair?"
+        answer: "DESPAIR"
+  - tossup:
+      question: "What foreign king, having conquered Asia Minor, invaded Greece in 88 BC?"
+      answer: "MITHRIDATES (VI OF PONTUS)"
+    boni:
+      - question: "What Roman commander defeated the Pontic armies at Chaeroneia and Orchomenus?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+      - question: "Why did Sulla impose only moderate terms for peace on Mithridates?"
+        answer: "NEEDED TO GET BACK TO ROME TO FACE HIS ENEMIES"
+  - tossup:
+      question: "How did Odysseus get his permanent scar in his thigh?"
+      answer: "FROM A BOAR TUSK / WHILE HE WAS HUNTING"
+    boni:
+      - question: "Whom was Odysseus visiting when he received this wound?"
+        answer: "(HIS GRANDFATHER) AUTOLYCUS"
+      - question: "Who recognized Odysseus’ scar when he returned home to Ithaca?"
+        answer: "(HIS OLD NURSE) EURYCLEIA"
+  - tossup:
+      question: "Differentiate in meaning between <latin>ager</latin> and <latin>aeger</latin>"
+      answer: "<latin>AGER</latin> -- FIELD, TERRITORY, LAND <latin>AEGER</latin> -- SICK, TROUBLED, SAD"
+    boni:
+      - question: "Differentiate in meaning between <latin>via</latin> and <latin>vīta</latin>"
+        answer: "<latin>VIA</latin> -- ROAD, WAY, METHOD <latin>VĪTA</latin> -- LIFE, SUBSISTENCE"
+      - question: "Differentiate in meaning between <latin>altus</latin> and <latin>alter</latin>"
+        answer: "<latin>ALTUS</latin> -- GREAT, HIGH, NOBLE, DEEP, NOURISHED <latin>ALTER</latin> -- (THE) OTHER"
+  - tossup:
+      question: "What is peculiar to all of the following adjectives: <latin>plēnus, perītus, avidus, memor</latin>?"
+      answer: "GOVERN THE GENITIVE CASE"
+    boni:
+      - question: "What is peculiar to all of the following adjectives: <latin>aptus, idōneus, amīcus, ūtilis</latin>?"
+        answer: "GOVERN THE DATIVE CASE"
+      - question: "What is peculiar to all of the following adjectives: <latin>serviō, parcō, pareō, ignoscō</latin>?"
+        answer: "GOVERN THE DATIVE CASE"
+  - tossup:
+      question: "What Latin noun lies at the root of “abound”?"
+      answer: "<latin>UNDA</latin>"
+    boni:
+      - question: "What derivative of <latin>unda</latin> is an English verb meaning “enclose on all sides”?"
+        answer: "SURROUND"
+      - question: "What derivative of <latin>unda</latin> is an English adjective meaning “superfluous”?"
+        answer: "REDUNDANT"
+  - tossup:
+      question: "Who was the virtual ruler of the empire during the last months of Hadrian’s reign and ultimately succeeded him?"
+      answer: "ANTONINUS PIUS"
+    boni:
+      - question: "What celebration was the highlight of Antoninus’ peaceful reign?"
+        answer: "900th ANNIVERSARY OF ROME"
+      - question: "Who married the only child of Antoninus and his wife Faustina?"
+        answer: "MARCUS AURELIUS"
+  - tossup:
+      question: "In the following Latin sentence, which word is gramatically incorrect and tell me why <latin>Meus avus erat agricola miserrima</latin>"
+      answer: "<latin>MISERRIMA</latin> SHOULD BE MASCULINE (<latin>MISERRIMUS</latin>)"
+    boni:
+      - question: "<latin>Mediā nocte, in silvīs ambulābam ubi subitō ego magnum animal vīdit. Perterritus, ē silvās ad meam villam contendī, ubi meī fratrī rem nārrāvī.</latin> Find one word in those sentences that is grammatically incorrect and tell me why is is incorrect?"
+        answer: "SEE BELOW"
+      - question: "Find another grammatical error and tell me why it is an error"
+        answer: "<latin>SILVĀS</latin> SHOULD BE <latin>SILVĪS / MEĪ</latin> SHOULD BE <latin>MEŌ</latin> // <latin>VĪDIT</latin> SHOULD BE <latin>VĪDĪ</latin>"
+  - tossup:
+      question: "Who was unable to hold on to her brother and fell to her death into the body of water that bears her name?"
+      answer: "HELLE"
+    boni:
+      - question: "Who was Helle’s brother?"
+        answer: "PHRIXUS"
+      - question: "Who was their father?"
+        answer: "ATHAMAS"
+  - tossup:
+      question: "Translate: <latin>Ego certē meum officium cognoscō.</latin>"
+      answer: "I CERTAINLY KNOW / RECOGNIZE / UNDERSTAND / MY DUTY / OFFICE"
+    boni:
+      - question: "Translate: <latin>Ūna mēns est sapientior quam ullus liber.</latin>"
+        answer: "ONE MIND IS WISER THAN ANY BOOK"
+      - question: "Translate: <latin>Scientia nōn invenitur, discitur.</latin>"
+        answer: "KNOWLEDGE IS NOT FOUND, IT IS LEARNED"
+  - tossup:
+      question: "What official in Republican Rome could obstruct or veto the actions of most other officials?"
+      answer: "TRIBUNE (OF THE PLEBS)"
+    boni:
+      - question: "What magistrate was exempt from this veto?"
+        answer: "DICTATOR"
+      - question: "Although tribunes continued to be elected in the empire, they were powerless. Who did exercise the <latin>tribunicia potestas</latin>?"
+        answer: "EMPERORS"
+  - tossup:
+      question: "Translate into Latin the relative pronoun for this sentence: The old women to whom I had offered gifts are now dead"
+      answer: "<latin>QUIBUS</latin>"
+    boni:
+      - question: "Translate into Latin the relative pronoun for this sentence: The army which was defeated fled into the forest"
+        answer: "<latin>QUĪ</latin>"
+      - question: "Translate into Latin the relative pronoun for this sentence: My right hand is the hand with which I eat"
+        answer: "<latin>QUĀ</latin>"
+  - tossup:
+      question: "What deity was Jason carrying when he lost his sandal while wading through a river?"
+      answer: "HERA / JUNO (DISGUISED AS AN OLD WOMAN)"
+    boni:
+      - question: "What river was Jason trying to cross?"
+        answer: "ANAURUS"
+      - question: "Who was the father of Jason?"
+        answer: "AESON"
+  - tossup:
+      question: "For <latin>rīdeō</latin>, give the second person singular, present, active, imperative"
+      answer: "<latin>RĪDĒ</latin>"
+    boni:
+      - question: "Give the corresponding form of <latin>tegō</latin>"
+        answer: "<latin>TEGE</latin>"
+      - question: "Give the corresponding form of <latin>dīcō</latin>"
+        answer: "<latin>DĪC</latin>"
+  - tossup:
+      question: "Which of the following, if any, does NOT belong because of gender: <latin>virtūs, imperātor, urbs, cīvitās, arx</latin>?"
+      answer: "<latin>IMPERĀTOR</latin>"
+    boni:
+      - question: "Which of the following, if any, does NOT belong because of gender: <latin>corpus, mare, animal, nōmen, rādix</latin>?"
+        answer: "<latin>RĀDIX</latin>"
+      - question: "Which of the following, if any, does NOT belong because of gender: <latin>fīdēs, faciēs, aciēs, spēs, rēs</latin>?"
+        answer: "NONE"
+  - tossup:
+      question: "Into what ferocious animal was Lycaon transformed?"
+      answer: "WOLF"
+    boni:
+      - question: "Who turned Lycaon into the wolf?"
+        answer: "ZEUS / JUP(P)ITER / JOVE"
+      - question: "What daughter of Lycaon was transformed into a bear?"
+        answer: "CALLISTO"
+  - tossup:
+      question: "In what modern country would you find the site where Caesar fought the battle of Munda?"
+      answer: "SPAIN"
+    boni:
+      - question: "the battle of Thapsus?"
+        answer: "TUNISIA"
+      - question: "the battle of Zela?"
+        answer: "TURKEY"

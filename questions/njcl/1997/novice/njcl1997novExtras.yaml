@@ -1,0 +1,201 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Novice"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "What two tenses of the indicative can the form <latin>ostendit</latin> be?"
+      answer: "PRESENT & PERFECT"
+    boni:
+      - question: "Translate <latin>ruī</latin> in two different ways"
+        answer: "I RUSHED (RUINED) & TO BE RUSHED (RUINED)"
+      - question: "Translate <latin>amor</latin> in two different ways"
+        answer: "LOVE (the noun) & I AM LOVED"
+  - tossup:
+      question: "According to its Latin root, where would one expect to find “malic acid”?"
+      answer: "IN APPLES"
+    boni:
+      - question: "According to its Latin root, where would one expect to find “formic acid”?"
+        answer: "IN ANTS"
+      - question: "According to its Latin root, what would one expect “capric acid” to smell like?"
+        answer: "A GOAT"
+  - tossup:
+      question: "Give a synonym of <latin>parvus</latin>"
+      answer: "<latin>EXIGUUS, MINŪTUS, BREVIS, EXĪLIS, SUBSTRICTUS, VĒGRANDIS</latin>"
+    boni:
+      - question: "Give a synonym of <latin>dōnum</latin>"
+        answer: "<latin>LARGITIŌ, MŪNUS, CHARISMA, STIPS</latin>"
+      - question: "Give a synonym of <latin>mors</latin>"
+        answer: "<latin>NEX, LĒTUM, EXCESSUS, DĒCESSUS, CĀSUS</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>per</latin> and <latin>puer</latin>"
+      answer: "<latin>PER</latin> -- THROUGH <latin>PUER</latin> -- BOY, YOUNG MAN, SLAVE"
+    boni:
+      - question: "Differentiate in meaning between <latin>paene</latin> and <latin>poena</latin>"
+        answer: "<latin>PAENE</latin> -- NEARLY, ALMOST <latin>POENA</latin> -- PUNISHMENT, COMPENSATION"
+      - question: "Differentiate in meaning between <latin>potuī</latin> and <latin>pōtāvī</latin>"
+        answer: "<latin>POTUĪ</latin> -- I COULD <latin>PŌTĀVĪ</latin> -- I DRANK"
+  - tossup:
+      question: "Make the pronoun <latin>hic</latin> agree with <latin>officium</latin>"
+      answer: "<latin>HOC</latin>"
+    boni:
+      - question: "Change <latin>hoc officium</latin> to dative"
+        answer: "<latin>HUIC OFFICIŌ</latin>"
+      - question: "Change <latin>huic officiō</latin> to accusative plural"
+        answer: "<latin>HAEC OFFICIA</latin>"
+  - tossup:
+      question: "Of <latin>sentiō</latin>, give the first person plural, present, active, indicative"
+      answer: "<latin>SENTĪMUS</latin>"
+    boni:
+      - question: "Change <latin>sentīmus</latin> to third person"
+        answer: "<latin>SENTIUNT</latin>"
+      - question: "Change <latin>sentiunt</latin> to singular"
+        answer: "<latin>SENTIT</latin>"
+  - tossup:
+      question: "Translate “Publius” into Latin for this sentence: Caesar sent Publius to Athens"
+      answer: "<latin>PUBLIUM</latin>"
+    boni:
+      - question: "Translate “Publius” into Latin for this sentence: Caesar gave his messenger a letter for Publius"
+        answer: "<latin>PUBLIŌ</latin>"
+      - question: "Translate “Publius” into Latin for this sentence: Publius’ new job is good"
+        answer: "<latin>PUBL(I)Ī</latin>"
+  - tossup:
+      question: "What use of the Dative case is found in the following sentence: <latin>Dīc mihi, quid est tuum nōmen?</latin>"
+      answer: "INDIRECT OBJECT"
+    boni:
+      - question: "<latin>Quod nōmen tibi est?</latin>"
+        answer: "POSSESSION"
+      - question: "<latin>Nōn mihi placet</latin>"
+        answer: "SPECIAL VERBS"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Marcus, puer magnā stultitiā, sedēbat in agrō, spectāns formīcās. Nōn vīdit autem anguem in herbā, quī ad eum crepābat. Subitō anguis prōsiluit et Marcum momordit.</latin>  <latin>Quālis puer est Marcus?</latin> "
+      answer: "<latin>MAGNĀ STULTITIĀ</latin>"
+    boni:
+      - question: "Quid faciēbat anguis in herbā?"
+        answer: "AD MARCUM CREPĀBAT"
+      - question: "Quid faciēbat anguis postquam prōsiluit?"
+        answer: "MARCUM MOMORDIT"
+  - tossup:
+      question: "Translate: <latin>Dā mihi et cibum et vīnum</latin>"
+      answer: "GIVE ME BOTH FOOD AND WINE"
+    boni:
+      - question: "Translate: <latin>Mihi placet neque bellum neque pāx</latin>"
+        answer: "I LIKE NEITHER WAR NOR PEACE or NEITHER WAR NOR PEACE PLEASES ME"
+      - question: "Translate: <latin>Volō facere aut hoc aut illud</latin>"
+        answer: "I WANT TO DO EITHER THIS OR THAT"
+  - tossup:
+      question: "What is the name of the bridge which Ancus Marcius is credited with building across the Tiber?"
+      answer: "<latin>PONS SUBLICIUS</latin>"
+    boni:
+      - question: "Of what material was this bridge built?"
+        answer: "WOOD"
+      - question: "What preservative and seasoning did Ancus Marcius secure as a source for Rome?"
+        answer: "SALT"
+  - tossup:
+      question: "By what <latin>novus homo</latin> was L. Sergius Catilina defeated for the consulship of 63 BC?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "What very rich Roman supported Catiline’s candidacy?"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "What rising young patrician’s debts were guaranteed by Crassus so he could go to his province of Further Spain?"
+        answer: "(C.) IULIUS CAESAR"
+  - tossup:
+      question: "What legate of Q. Caecilius Metellus was elected consul for 107 BC?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "To what comand did the Tribal Assembly appoint Marius?"
+        answer: "COMMAND (IN AFRICA) AGAINST JUGURTHA"
+      - question: "In order to recrtuit men for his army, from what class of citizens did Marius accept volunteers?"
+        answer: "<latin>PROLETARIĪ</latin>"
+  - tossup:
+      question: "Who, hoping to rule through her young son, poisoned her husband, the emperor Claudius?"
+      answer: "AGRIPPINA THE YOUNGER"
+    boni:
+      - question: "Who was her son?"
+        answer: "NERO"
+      - question: "The young Nero did not want to be ruled by his mother. On what two men did he rely for the first five years of his rule?"
+        answer: "SENECA (HIS TUTOR) & BURRUS (PRAETORIAN PREFECT)"
+  - tossup:
+      question: "Which Roman emperor came from an equestrian family from Lepcis Magna?"
+      answer: "(L.) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Of what murdered emperor of AD 193 was Septimius Severus the avenger?"
+        answer: "(P. HELVIUS) PERTINAX"
+      - question: "What two rivals for the throne did Septimius defeat?"
+        answer: "PESCINNIUS NIGER & CLODIUS ALBINUS"
+  - tossup:
+      question: "What does the Arch of Constantine commemorate?"
+      answer: "(VICTORY OVER MAXENTIUS AT) THE BATTLE OF THE MILVIAN BRIDGE (IN AD 312 AND HIS TRIUMPHAL ENTRY INTO ROME)"
+    boni:
+      - question: "Although his soldiers at this battle wore the Christian cross as their emblem, the victory did not lead to Constantine’s immediate conversion to Christianity. What pagan god did he continue to worship?"
+        answer: "<latin>SOL</latin> or the Sun god"
+      - question: "In what situation Constantine convert to Christianity?"
+        answer: "ON HIS DEATH-BED (AD 337)"
+  - tossup:
+      question: "Where in Rome did a triumphal procession begin?"
+      answer: "CAMPUS MARTIUS"
+    boni:
+      - question: "Where did the procession end with the sacrifice of oxen?"
+        answer: "TEMPLE OF JUPITER OPTIMUS MAXIMUS / CAPITOLINUS"
+  - tossup:
+      question: "Who is the Roman counter-part of Athena?"
+      answer: "MINERVA"
+    boni:
+      - question: "Besides Minerva, name another female Roman war goddess"
+        answer: "BELLONA"
+      - question: "With what Greek goddess do we associate Bellona?"
+        answer: "ENYO"
+  - tossup:
+      question: "Who in the Underworld refused to speak to Aeneas?"
+      answer: "DIDO / ELISSA"
+    boni:
+      - question: "Whose ghost was with Dido?"
+        answer: "SYCHAEUS"
+      - question: "What brother of Dido had killed Sychaeus?"
+        answer: "PYGMALION"
+  - tossup:
+      question: "Which deity was sent to tell Calypso to let Odysseus go?"
+      answer: "HERMES"
+    boni:
+      - question: "How would Odysseus leave Calypso’s island?"
+        answer: "BY A RAFT (MADE FROM THE TREE OF THE ISLAND)"
+      - question: "What was the name of Calypso’s island?"
+        answer: "OGYGIA"
+  - tossup:
+      question: "Who was Heracles’ last mortal wife?"
+      answer: "DEIANEIRA"
+    boni:
+      - question: "Who was Heracles’ first wife?"
+        answer: "MEGARA"
+      - question: "Who was his last wife?"
+        answer: "HEBE"
+  - tossup:
+      question: "What daughter of Minos was abandoned by Theseus on the island of Naxos?"
+      answer: "ARIADNE"
+    boni:
+      - question: "According to Homer, Ariadne was not abandoned by Theseus but was killed by what goddess?"
+        answer: "ARTEMIS"
+      - question: "According to the more usual story, what god married Ariadne after she was abandoned by Theseus?"
+        answer: "DIONYSUS"
+  - tossup:
+      question: "What nymph was transformed into a heliotrope?"
+      answer: "CLYTIË"
+    boni:
+      - question: "What deity spurned the love of Clytie?"
+        answer: "APOLLO / HELIUS"
+      - question: "The death of what daughter of Orchamus was caused by Clytie?"
+        answer: "LEUCOTHOË"
+  - tossup:
+      question: "What king of Corinth tricked Thanatos and threw him into a dungeon?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "What deity was sent to free Thanatos?"
+        answer: "ARES / MARS"
+      - question: "What wife of Sisyphus helped him to cheat death?"
+        answer: "MEROPE"
+  - tossup:
+      question: "Name one of the judges of the Underworld"
+      answer: "SEE BELOW"
+    boni:
+      - question: "For five points each, name the other judges of the Underworld."
+        answer: "MINOS / RHADAMANTHYS / AEACUS"

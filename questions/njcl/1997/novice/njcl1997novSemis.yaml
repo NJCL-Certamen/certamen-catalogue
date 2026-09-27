@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1997
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Make the phrase <latin>illud oppidum</latin> accusative singular"
+      answer: "<latin>ILLUD OPPIDUM</latin>"
+    boni:
+      - question: "Change <latin>illud oppidum</latin> to dative"
+        answer: "<latin>ILLĪ OPPIDŌ</latin>"
+      - question: "Change <latin>illī oppidō</latin> to plural"
+        answer: "<latin>ILLĪS OPPIDĪS</latin>"
+  - tossup:
+      question: "What Roman’s seal depicted Bocchus kneeling before him with the captive Jugurtha?"
+      answer: "(L. CORNELIUS) SULLA (FELIX)’S"
+    boni:
+      - question: "On behalf of what commander was Sulla acting when he convinced Bocchus to betray Jugurtha into Roman custody?"
+        answer: "(C.) MARIUS"
+      - question: "Where was Bocchus king?"
+        answer: "MAURETANIA"
+  - tossup:
+      question: "What is the meaning of the Latin noun at the root of the female name “Lucy”?"
+      answer: "LIGHT, SPLENDOR, DAY"
+    boni:
+      - question: "What is the meaning of the Latin adjective at the root of the female name “Clara”?"
+        answer: "CLEAR, EVIDENT, BRILLIANT, OUTSTANDING"
+      - question: "What is the meaning of the Latin adjective at the root of the female name “Barbara”?"
+        answer: "FOREIGN, STRANG"
+  - tossup:
+      question: "Who is the goddess of divine vengeance and retribution?"
+      answer: "NEMESIS"
+    boni:
+      - question: "What goddess personifies night?"
+        answer: "NYX"
+      - question: "According to Hesiod, what goddess of discord was the mother of Labor, Forgetfulness, Famine, and Woe?"
+        answer: "ERIS"
+  - tossup:
+      question: "What three men met at Bononia to set up a joint military dictatorship which was legalized by the <title>lex Titia</title>?"
+      answer: "(MARK) ANTONY, (M. AEMILIUS) LEPIDUS, & OCTAVIAN"
+    boni:
+      - question: "For how many years was this triumvirate initially authorized?"
+        answer: "FIVE"
+      - question: "The triumvirs controlled Italy and the western provinces. Who controlled the eastern provinces?"
+        answer: "BRUTUS & CASSIUS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>forte</latin> and <latin>fortiter</latin>"
+      answer: "<latin>FORTE</latin> -- BY CHANCE / FORTUITOUSLY <latin>FORTITER</latin> -- BRAVELY, STRONGLY"
+    boni:
+      - question: "<latin>fābula</latin> and <latin>fībula</latin>"
+        answer: "<latin>FĀBULA</latin> -- STORY, PLAY, FABLE <latin>FĪBULA</latin> -- PIN, BROOCH"
+      - question: "<latin>flō</latin> and <latin>fīō</latin>"
+        answer: "<latin>FLŌ</latin> -- BLOW <latin>FĪŌ</latin> -- BECOME, HAPPEN"
+  - tossup:
+      question: "What two sons of the North Wind aided the blind Phineus by chasing away the Harpies?"
+      answer: "ZETES & CALAIS (“BOREADES”)"
+    boni:
+      - question: "Who was their mother?"
+        answer: "OREITHYIA"
+      - question: "Who killed Zetes and Calais?"
+        answer: "HERACLES / HERCULES"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Marcus ā fīliīs in iudicium vocātus est</latin>"
+      answer: "AGENCY"
+    boni:
+      - question: "What use of the ablative case is found in the following sentence: <latin>Publius erat vir magnā dignitāte</latin>"
+        answer: "QUALITY (DESCRIPTION)"
+      - question: "What use of the ablative case is found in the following sentence: <latin>Publilia fuit altior Iūliā</latin>"
+        answer: "COMPARISON"
+  - tossup:
+      question: "The form <latin>ave</latin> (“A” “V” short “E”) can be in either of two cases. Name one."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name another."
+        answer: "ABLATIVE (of <latin>avis</latin>) / VOCATIVE (of <latin>avus</latin>)"
+      - question: "Translate <latin>avē</latin> (spell)"
+        answer: "HAIL, FAREWELL, ADIEU"
+  - tossup:
+      question: "Who committed suicide after the First Battle of Phillippi?"
+      answer: "(GAIUS) CASSIUS (LONGINUS)"
+    boni:
+      - question: "Who had defeated Cassius in this battle?"
+        answer: "(M.) ANTONIUS"
+      - question: "Anthony’s victory was neutralized by Octavian’s loss to whom?"
+        answer: "(M. IUNIUS) BRUTUS"
+  - tossup:
+      question: "Name the last legitimate emperor who was a pagan"
+      answer: "JULIAN (THE APOSTATE)"
+    boni:
+      - question: "To what dynasty did Julian belong?"
+        answer: "DYNASTY OF CONSTANTINE"
+      - question: "What practice of the Christians did Julian encourage pagan priests to adopt?"
+        answer: "CHARITY"
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē. Quis sum? Sum artifex quī multa carmina compōnit. Sī bona sunt, ab omnibus recitābuntur. Quis sum?</latin>"
+      answer: "<latin>POĒTA</latin>"
+    boni:
+      - question: "Quis sum? Cum puerī <latin>et puellae satis annōrum habent, eōs doceō litterās. Crēdō scientiam esse potentiam. Quis sum?</latin>"
+        answer: "<latin>MAGISTER</latin>"
+      - question: "Quis sum? Habitō <latin>in fundō cum meā familiā. Sunt pullī et equī et porcī et multa alia animalia, sed ager est mea vīta. Arāre hūmānum est.Quis sum?</latin>"
+        answer: "<latin>AGRICOLA</latin>"
+  - tossup:
+      question: "The Latin verb <latin>faciō, facere</latin> has spawned innumerable derivatives, both in English and in Latin. What Latin word means “bridge builder”?"
+      answer: "<latin>PONTIFEX</latin>"
+    boni:
+      - question: "What Latin word means “one who does art”?"
+        answer: "<latin>ARTIFEX</latin>"
+      - question: "What Latin word means “a worker in gold”?"
+        answer: "<latin>AURIFEX</latin>"
+  - tossup:
+      question: "According to the Cumaean Sibyl, what talisman did Aeneas need in order to enter the Underworld?"
+      answer: "GOLDEN BOUGH"
+    boni:
+      - question: "What did Venus send to guide her son Aeneas to the Golden Bough?"
+        answer: "A PAIR OF DOVES"
+      - question: "In a wood by what lake was the Golden Bough located?"
+        answer: "LAKE AVERNUS"
+  - tossup:
+      question: "Give an antonym of <latin>fēlīx</latin>"
+      answer: "<latin>MISER, TRĪSTIS, MAESTUS, INFĒLĪX, PULLUS, DOLORŌSUS</latin>"
+    boni:
+      - question: "Give an antonym of <latin>dūrus</latin>"
+        answer: "<latin>MOLLIS, TENER, LĒVIS, MĪTIS</latin>"
+      - question: "Give an antonym of <latin>strepitus</latin>"
+        answer: "<latin>SILENTIUM, INERTIA</latin>"
+  - tossup:
+      question: "Of <latin>bibō</latin>, give the third person plural, present, active, indicative"
+      answer: "<latin>BIBUNT</latin>"
+    boni:
+      - question: "Change <latin>bibunt</latin> to future"
+        answer: "<latin>BIBENT</latin>"
+      - question: "Change <latin>bibent</latin> to future perfect"
+        answer: "<latin>BIBERINT</latin>"
+  - tossup:
+      question: "On one occasion, Zeus and Hermes disguise themselves as mortals to see if men are worthy of preservation. Until the two gods encounter Baucis and Philemon, what do most of the people refuse to give to the gods that finally causes their destruction?"
+      answer: "HOSPITALITY / KINDNESS"
+    boni:
+      - question: "In the first picture, Zeus and Hermes are disguized as local people. Based on the cap character “A” is wearing, where are the two gods visiting?"
+        answer: "BITHYNIA / PHRYGIA"
+      - question: "In this picture you see a goose standing next to Baucis. Why is there a goose in this picture?"
+        answer: "(THE GOOSE WAS THE ONLY PET BAUCIS AND PHILEMON OWNED) AND <emphasis>THEY HAD PLANNED ON SACRIFICING IT IN HONOR OF THEIR GUESTS</emphasis> (sc. ZEUS AND HERMES), BUT THE GODS SPARED THE GOOSE’S LIFE"
+  - tossup:
+      question: "Who gave Perseus directions to find the Graeae?"
+      answer: "ATHENA / MINERVA"
+    boni:
+      - question: "What things did the Graeae share among themselves?"
+        answer: "A SINGLE TOOTH AND A SINGLE EYE"
+      - question: "What trio were the sisters of the Graeae?"
+        answer: "GORGONS"
+  - tossup:
+      question: "How many months were in the original Roman calendar?"
+      answer: "TEN"
+    boni:
+      - question: "What two months were added later?"
+        answer: "JANUARY & FEBRUARY"
+      - question: "On a Roman calendar, why would certain days of the month be marked with the letter “N”?"
+        answer: "<latin>DIES NEFASTI</latin>"
+  - tossup:
+      question: "Translate: <latin>Populus semper pugnābit prō patriā</latin>"
+      answer: "THE PEOPLE WILL ALWAYS FIGHT FOR (THEIR) COUNTRY"
+    boni:
+      - question: "Translate: <latin>Mundum vidēre est bene vīvere</latin>"
+        answer: "SEEING (TO SEE) THE WORLD IS LIVING WELL (TO LIVE WELL)"
+      - question: "Translate: <latin>Rōmānī saepe volēbant spectāre lūdōs in arēnā</latin>"
+        answer: "ROMANS OFTEN WERE WANTING / WANTED TO WATCH GAMES IN THE ARENA"

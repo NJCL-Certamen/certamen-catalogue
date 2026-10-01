@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What daughter of Salmoneus fell passionately in love with a river-god of Thessaly?"
+      answer: "TYRO"
+    boni:
+      - question: "Who was this river-god?"
+        answer: "ENIPEUS"
+      - question: "Poseidon took advantage of the situation and seduced Tyro in the form of Enipeus. What two sons were born from this union?"
+        answer: "PELIAS & NELEUS"
+  - tossup:
+      question: "Make the phrase <latin>illud bellum cīvile</latin> dative singular"
+      answer: "<latin>ILLĪ BELLŌ CĪVILĪ</latin>"
+    boni:
+      - question: "Change <latin>illī bellō cīvilī</latin> to ablative"
+        answer: "<latin>ILLŌ BELLŌ CĪVILĪ</latin>"
+      - question: "Change <latin>illō bellō cīvilī</latin> to accusative plural"
+        answer: "<latin>ILLA BELLA CĪVILIA</latin>"
+  - tossup:
+      question: "Give the second person plural, imperfect active subjunctive for <latin>nōlō</latin>"
+      answer: "<latin>NŌLLĒTIS</latin>"
+    boni:
+      - question: "Change <latin>nōllētis</latin> to perfect"
+        answer: "<latin>NŌLUERĪTIS</latin>"
+      - question: "Change <latin>nōluerītis</latin> to passive"
+        answer: "DOES NOT EXIST"
+  - tossup:
+      question: "In what war were the Romans victorious, although they lost more ships and seamen than the enemy?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "Who was the Roman admiral at the Battle of Mylae, Rome’s first naval victory?"
+        answer: "C. DUIL(L)IUS"
+      - question: "Who was the Roman admiral at the Battle of the Aegates Islands, Rome’s final naval victory in the First Punic War?"
+        answer: "LUTATIUS CATULUS"
+  - tossup:
+      question: "What use of the ablative case is found in the following Latin sentence: <latin>Gladiātōrēs maiōre fortitūdine quam iuvenēs sunt</latin>?"
+      answer: "DESCRIPTION, QUALITY"
+    boni:
+      - question: "What are the two uses of the ablative case found in the following: <latin>Gladiātōrēs sunt multō fortiōrēs iuvenibus</latin>?"
+        answer: "COMPARISON & DEGREE OF DIFFERENCE"
+      - question: "What are the two uses of the ablative case found in the following: <latin>Gladiātōrēs ex fortitūdine factī sunt</latin>?"
+        answer: "SOURCE / MATERIAL"
+  - tossup:
+      question: "Name two provinces at the time of the death of Augustus which had a coastline on the <latin>Mare Nostrum</latin>."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name two more."
+        answer: "SEE BELOW"
+      - question: "Name two more."
+        answer: "AFRICA, NUMIDIA, CYRENAE (ET CRETA) AEGYPTUS , JUDEA, PHOENICIA, SYRIA, CYPRUS, CILICIA, LYCIA & PAMPHYLIA, ASIA, MACEDONIA, ILLYRICUM/DALMATIA, SICILIA, SARDINIA ET CORSICA, ALPES MARITIMAE, NARBONENSIS, TARRACONENSIS, BAETICA"
+  - tossup:
+      question: "According to Ovid’s <title><latin>Metamorphoses</latin></title>, who was the only grandson of Jupiter to have the honor of marrying a goddess?"
+      answer: "PELEUS"
+    boni:
+      - question: "In what form did Thetis scare away Peleus the first time he tried to court her?"
+        answer: "A (SPOTTED) TIGRESS"
+      - question: "Who advised Peleus on how to successfully catch Thetis?"
+        answer: "PROTEUS"
+  - tossup:
+      question: "What is the name for nouns such as <latin>locus, aevum, nāsus</latin> and <latin>tergum</latin>, which vary in gender?"
+      answer: "HETEROGENEOUS"
+    boni:
+      - question: "What is the name for nouns such as <latin>margarīta, balneum, pecus</latin> and <latin>domus</latin>?"
+        answer: "HETEROCLITES (vary in declension)"
+      - question: "What is the name for nouns such as <latin>animal, īgnis, turris</latin>, and <latin>calcar</latin>?"
+        answer: "PURE I-STEMS"
+  - tossup:
+      question: "Who was the leader of the “Epigoni”?"
+      answer: "ALCMAEON"
+    boni:
+      - question: "Who had chosen Alcmaeon to be the leader?"
+        answer: "APOLLO / DELPHIC ORACLE"
+      - question: "Whom did Alcmaeon kill to avenge the death of his father Amphiaraüs?"
+        answer: "(HIS MOTHER) ERIPHYLE"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “savvy”?"
+      answer: "<latin>SAPERE</latin> - BE WISE / TASTE"
+    boni:
+      - question: "What related English word is an adjective meaning “dull”?"
+        answer: "INSIPID"
+      - question: "<latin>Sapere</latin> is commonly given to mean “be wise.” However, what is the most basic meaning of <latin>sapere</latin>?"
+        answer: "TASTE, HAVE TASTE OF"
+  - tossup:
+      question: "What was the function of the <latin>vēlārium</latin> on the Colosseum?"
+      answer: "TO PROVIDE SHADE (or PROTECTION FROM RAIN)"
+    boni:
+      - question: "What was the name of the area of the Colosseum where the emperor, the imperial family, the giver of the games, and other persons of consequence sat?"
+        answer: "<latin>PODIUM</latin>"
+      - question: "How many <latin>maeniāna</latin> or tiers of seats were above the <latin>podium</latin>?"
+        answer: "THREE"
+  - tossup:
+      question: "Give a synonym of <latin>amplus</latin>"
+      answer: "<latin>IMMĀNIS, INGENS, MAGNUS, VASTUS, PLĒNUS, ABUNDANS, COPIŌSUS</latin>"
+    boni:
+      - question: "Give a synonym of <latin>trepidus</latin>"
+        answer: "<latin>TURBIDUS, ANCEPS, ALIĒNUS, TIMIDUS, PERTERRITUS</latin>"
+      - question: "Give a synonym of <latin>formōsus</latin>"
+        answer: "<latin>PULCHER, BELLUS, SPECIŌSUS, VENUSTUS</latin>"
+  - tossup:
+      question: "Who was left to rule as sole consul after Cinna’s death in 84 BC?"
+      answer: "(CN. PAPIRIUS) CARBO"
+    boni:
+      - question: "Who was Carbo’s consular colleague in 82 BC?"
+        answer: "MARIUS’ SON (C. MARIUS)"
+      - question: "Defeated by Sulla and his lieutenants, Carbo fled to Africa. Who followed and executed him?"
+        answer: "(CN.) POMPEIUS MAGNUS / POMPEY THE GREAT"
+  - tossup:
+      question: "Because of his speed as a runner, what Greek warrior was adored by Achilles second only to Patroclus?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "Who killed Antilochus?"
+        answer: "HECTOR / PARIS / MEMNON"
+      - question: "Next to whose ashes were the ashes of Antilochus laid to rest?"
+        answer: "THOSE OF PATROCLUS <emphasis>AND</emphasis> ACHILLES"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN ENGLISH the question about it. <latin>Scīpiō Africānus, cum exercitus, tempestāte adversā, ex Italiā in Africam transportātus esset, animadvertit mīlitēs perterritōs factōs esse. Itaque dīxit “Plaudite, mīlitēs, Africam oppressī.”</latin>  Why did Scipio Africanus speak to his troops?"
+      answer: "HE NOTICED THAT THEY HAD BECOME VERY FRIGHTENED"
+    boni:
+      - question: "Under what circumstances did Scipio transport his troops to Africa?"
+        answer: "UNDER BAD WEATHER / STORM"
+      - question: "What did he say to his troops?"
+        answer: "“APPLAUD, TROOPS, I HAVE CONQUERED AFRICA”"
+  - tossup:
+      question: "Tell us how we know that the patient should take his medicine orally?"
+      answer: "BY THE ABBREVIATION <latin>P.O.</latin> (<latin>PER ŌS</latin>), WHICH MEANS BY/THROUGH THE MOUTH"
+    boni:
+      - question: "When should he take this medicine?"
+        answer: "BEFORE MEALS"
+      - question: "How many times per day should he take this medicine?"
+        answer: "FOUR"
+  - tossup:
+      question: "According to Hesiod’s <title>Theogony</title>, what goddess is honored by Zeus above all other deities?"
+      answer: "HECATE"
+    boni:
+      - question: "Again, according to Hesiod’s <title>Theogony</title>, who are the parents of Hecate?"
+        answer: "PERS(A)E(Ü)S & ASTERIA"
+      - question: "What epithet of Hecate means “She of the Three Ways”?"
+        answer: "TRIVIA"
+  - tossup:
+      question: "What inert gas, commonly found in colorful lighting, is derived from a Greek adjective meaning “new”?"
+      answer: "NEON"
+    boni:
+      - question: "What other inert gas is derived from a Greek adjective meaning “strange”?"
+        answer: "XENON"
+      - question: "What other inert gas is derived from a Greek adjective meaning “inactive”?"
+        answer: "ARGON"
+  - tossup:
+      question: "Who refused to marry again after the death of her husband Drusus, the brother of the emperor Tiberius?"
+      answer: "ANTONIA"
+    boni:
+      - question: "Whose downfall did she precipitate when she sent a very informative letter to Tiberius on the island of Capri?"
+        answer: "SEJANUS’"
+      - question: "What grandson of Antonia gave her the title of <latin>Augusta</latin> but may have driven her to suicide when he tired of her advice?"
+        answer: "GAIUS / CALIGULA"
+  - tossup:
+      question: "Translate: <latin>Illud carmen difficile cantātū est.</latin> "
+      answer: "THAT SONG (POEM) IS DIFFICULT TO SING"
+    boni:
+      - question: "Translate: <latin>Poētae pervēnērunt ad villam carmina cantātum.</latin> "
+        answer: "THE POETS ARRIVED AT THE VILLA TO SING SONGS (POEMS)"
+      - question: "Translate: <latin>Illī poētae crēdidērunt carmina facillima ad cantandum esse</latin>"
+        answer: "THOSE POETS BELIEVED THAT THE SONGS (POEMS) WERE VERY EASY TO SING"

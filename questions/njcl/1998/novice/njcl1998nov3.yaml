@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the Olympian gods owned a submarine palace on the northern coast of the Peloponnesus?"
+      answer: "POSEIDON / NEPTUNE"
+    boni:
+      - question: "Where exactly is this watery palace located?"
+        answer: "AEGAE"
+      - question: "What daughter of Oceanus eventually became Poseidon’s wife?"
+        answer: "AMPHITRITE"
+  - tossup:
+      question: "Change the verb form <latin>torquit</latin> to passive"
+      answer: "<latin>TORQUITUR</latin>"
+    boni:
+      - question: "Change <latin>torquitur</latin> to imperfect"
+        answer: "<latin>TORQUĒBĀTUR</latin>"
+      - question: "Change <latin>torquēbātur</latin> to future"
+        answer: "<latin>TORQUĒTUR</latin>"
+  - tossup:
+      question: "About what queen did Plutarch say that it was her conversation rather than her looks that was the secret of her success with Julius Caesar and then Mark Antony?"
+      answer: "CLEOPATRA (VII)"
+    boni:
+      - question: "Whom did Mark Antony claim was the son of Cleopatra and Julius Caesar?"
+        answer: "CAESARION (PTOLEMY XV)"
+      - question: "Who ordered the execution of the 17 year old Caesarion?"
+        answer: "OCTAVIAN (LATER AUGUSTUS)"
+  - tossup:
+      question: "Give two synonyms of the conjunction <latin>et</latin>"
+      answer: "<latin>ATQUE, AC, -QUE</latin>"
+    boni:
+      - question: "Give a synonym of <latin>aut</latin>"
+        answer: "<latin>VEL, -VE, AN, SEU, SĪVE</latin>"
+      - question: "Give a synonym of <latin>ibi</latin>"
+        answer: "<latin>ILLĪC, ISTĪC, EŌ</latin>"
+  - tossup:
+      question: "According to Livy, who organized the coup which overthrew his cousin Tarquinius Superbus and established the Roman Republic?"
+      answer: "(L. JUNIUS) BRUTUS"
+    boni:
+      - question: "Who was the first to be chosen as Brutus’ co-consul in 509 B.C.?"
+        answer: "(L. TARQUINIUS) COLLATINUS"
+      - question: "Why did Brutus execute his own sons?"
+        answer: "THEY PLOTTED TO REINSTATE TARQUIN"
+  - tossup:
+      question: "What derivative of <latin>tenēre</latin> is an English noun for a singer midway between bass and alto?"
+      answer: "TENOR"
+    boni:
+      - question: "What related word is an English noun meaning “doctrine”?"
+        answer: "TENET"
+      - question: "What compound of <latin>tenēre</latin> yields the English noun “rein”?"
+        answer: "<latin>RETINĒRE</latin>"
+  - tossup:
+      question: "Make the phrase <latin>genū vulnerātum</latin> nominative plural"
+      answer: "<latin>GENUA VULNERĀTA</latin>"
+    boni:
+      - question: "Change <latin>genua vulnerāta</latin> to accusative"
+        answer: "<latin>GENUA VULNERĀTA</latin>"
+      - question: "Change <latin>genua vulnerāta</latin> to genitive"
+        answer: "<latin>GENUUM VULNERĀTŌRUM</latin>"
+  - tossup:
+      question: "What grumpy, old man in the Underworld benefitted financially by the deaths of mortals?"
+      answer: "CHARON"
+    boni:
+      - question: "How much did Charon charge for ferrying the souls of the dead across the river Styx?"
+        answer: "ONE OBOL(US)"
+      - question: "What river, rather than the Styx, is sometimes the river over which Charon ferried souls?"
+        answer: "ACHERON"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>fortis</latin>"
+      answer: "<latin>FORTIOR, FORTISSIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of the adjective <latin>forte</latin>"
+        answer: "<latin>FORTIUS, FORTISSIMUM</latin>"
+      - question: "Give the comparative and superlative forms of <latin>fortiter</latin>"
+        answer: "<latin>FORTIUS, FORTISSIMĒ</latin>"
+  - tossup:
+      question: "Which Roman king appointed the first pontiffs, augurs, and flamens?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "To what Italian tribe did Numa belong?"
+        answer: "SABINE"
+      - question: "What was the name of the nymph who advised Numa?"
+        answer: "EGERIA"
+  - tossup:
+      question: "Whose cattle were proclaimed off limits to Odysseus and his crew?"
+      answer: "APOLLO’S / HELIUS’ / HYPERION’S / PHOEBUS’ / SUN’S"
+    boni:
+      - question: "Which one of Odysseus’ crew persuaded his shipmates otherwise?"
+        answer: "EURYLOCHUS"
+      - question: "On what island were the cattle of Helius confined?"
+        answer: "THRINAC(R)IA / TRINACRIA / SICLY"
+  - tossup:
+      question: "Count in Latin by two’s from two to ten"
+      answer: "<latin>DUŌ - QUATTUOR - SEX - OCTŌ - DECEM</latin>"
+    boni:
+      - question: "Count in Latin by five’s from five to twenty-five"
+        answer: "<latin>QUĪNQUE - DECEM - QUĪNDECIM - VĪGINTĪ - VĪGINTĪ (ET) QUĪNQUE</latin>"
+      - question: "Count in Latin by ten’s from ten to fifty"
+        answer: "<latin>DECEM - VĪGINTĪ - TRĪGINTĀ - QUADRĀGINTĀ - QUĪNQUĀGINTĀ</latin>"
+  - tossup:
+      question: "Who captured, as his concubine, a beautiful Lyrnessan woman named Briseïs?"
+      answer: "ACHILLES / LIGYRON"
+    boni:
+      - question: "Who gave the order to take Briseïs away from Achilles?"
+        answer: "AGAMEMNON"
+      - question: "Who wore Achilles armor to fight the Trojans because the hero refused to fight?"
+        answer: "PATROCLUS"
+  - tossup:
+      question: "What English word for a certain legendary animal derives from the Latin for “one horned”?"
+      answer: "UNICORN"
+    boni:
+      - question: "What sign of the Zodiac comes from the Latin for “goat horned”?"
+        answer: "CAPRICORN"
+      - question: "What related English derivative is the name for a part of one’s eye?"
+        answer: "CORNEA"
+  - tossup:
+      question: "What case in Latin is used for the direct object of transitive verbs?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Name two other uses of the Accusative case"
+        answer: "SEE BELOW"
+      - question: "Name two more."
+        answer: "DOUBLE ACCUSATIVE, DURATION OF TIME, COGNATE, EXCLAMATION, SUBJECT OF INFINITIVE, SPECIFICATION / RESPECT, ADVERBIAL, PLACE TO WHICH, OBJECT OF PREPOSITIONS, EXTENT OF SPACE, PREDICATE ACCUSATIVE"
+  - tossup:
+      question: "Who were the joint heirs of the emperor Septimius Severus?"
+      answer: "CARACALLA & GETA"
+    boni:
+      - question: "Name their mother who prevented the partition of the Empire between them"
+        answer: "JULIA DOMNA"
+      - question: "What happened to Geta?"
+        answer: "ASSASSINATED BY ORDER OF CARACALLA (SOME SOURCES SAY IN HIS MOTHER’S ARMS)"
+  - tossup:
+      question: "Give the second person singular, imperfect indicative of <latin>volō, velle</latin>"
+      answer: "<latin>VOLĒBĀS</latin> (PASS OUT HANDOUT)"
+    boni:
+      - question: "The handout you just received contains part of the conjugation for <latin>volō, velle</latin>. What missing form is represented by the number 2?"
+        answer: "<latin>VULTIS</latin>"
+      - question: "What missing form is represented by the number 5?"
+        answer: "<latin>VOLUĒRUNT</latin>"
+  - tossup:
+      question: "Translate: <latin>Marcus Iūlium magnō fuste verberābat.</latin> "
+      answer: "MARCUS BEAT (WAS BEATING) IULIUS WITH A BIG STICK"
+    boni:
+      - question: "Translate: <latin>Iūlius ā Marcō graviter verberātus est.</latin> "
+        answer: "IULIUS WAS GRAVELY / SERIOUSLY / SEVERELY / HEAVILY BEATEN BY MARCUS"
+      - question: "Translate: <latin>Marcus Iūlium magnā crūdēlitāte verberāvit</latin>"
+        answer: "MARCUS BEAT IULIUS WITH GREAT CRUELTY"
+  - tossup:
+      question: "When would a Roman wear a <latin>toga candida</latin>?"
+      answer: "RUNNING FOR OFFICE"
+    boni:
+      - question: "When would an adult Roman wear a <latin>toga praetexta</latin>?"
+        answer: "SERVING AS A (CURULE) MAGISTRATE (or CENSORS, DICTATOR, & OFFICERS OF FREE TOWNS / COLONIES)"
+      - question: "When would a Roman wear a <latin>toga picta</latin>?"
+        answer: "CELEBRATING A TRIUMPH (or BEING EMPEROR)"
+  - tossup:
+      question: "Whose death ends the <title>Aeneid</title>?"
+      answer: "TURNUS"
+    boni:
+      - question: "Who was Turnus’ divine sister, who harassed the Latins and Trojans at Juno’s command?"
+        answer: "JUTURNA"
+      - question: "Whom had Turnus earlier killed, which in turn led to his death at the hand of Aeneas?"
+        answer: "PALLAS"

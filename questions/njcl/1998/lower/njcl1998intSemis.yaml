@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "The Latin phrase <latin>“inter canem et lupum”</latin> is the equivalent of the English proverb “between the devil and the deep blue sea”. What does the phrase mean literally?"
+      answer: "BETWEEN A DOG AND A WOLF"
+    boni:
+      - question: "The Latin phrase <latin>“pugnīs et calcibus”</latin> is the equivalent of the English proverb “tooth and nail”. What does the phrase mean literally?"
+        answer: "WITH FISTS AND HEELS"
+      - question: "The Latin phrase <latin>“unō saltū duōs aprōs capere”</latin> is the equivalent of the English proverb “kill two birds with one stone”. What does the phrase mean literally?"
+        answer: "TO SEIZE/CAPTURE TWO (WILD) BOARS WITH ONE LEAP"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>intrā</latin>"
+      answer: "<latin>INTERIOR, INTIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>cito</latin>"
+        answer: "<latin>CITIUS, CITISSIMĒ</latin>"
+      - question: "Give the comparative and superlative forms of <latin>prope</latin>"
+        answer: "<latin>PROPIOR (-IUS), PROXIMUS</latin>"
+  - tossup:
+      question: "According to some sources, what huntress was the daughter of Schoeneus?"
+      answer: "ATALANTA"
+    boni:
+      - question: "According to Euripides, who was the father of Atalanta?"
+        answer: "MAENALUS"
+      - question: "According to some other sources, what king of Tegea was the father of Atalanta?"
+        answer: "IASUS"
+  - tossup:
+      question: "Where was the Roman army, led by consuls Veturius Calvinus and Spurius Postumius, trapped by the Samnites in 321 B.C.?"
+      answer: "CAUDINE FORKS"
+    boni:
+      - question: "How was the army disgraced after it surrendered?"
+        answer: "FORCED TO WALK UNDER A YOKE (OF SPEARS)"
+      - question: "In what war did this incident occur?"
+        answer: "SECOND SAMNITE"
+  - tossup:
+      question: "Who was Aeneas’ helmsman on most of the voyage from Troy to Italy?"
+      answer: "PALINURUS"
+    boni:
+      - question: "What divinity lulled Palinurus to sleep at his helm, causing him to fall overboard?"
+        answer: "SOMNUS / HYPNOS / SLEEP"
+      - question: "How did Palinurus die?"
+        answer: "HE WAS WASHED ASHORE SAFELY AND KILLED BY THE LOCAL INHABITANTS / ITALIANS"
+  - tossup:
+      question: "What combines with a form of <latin>sum, esse</latin> to form the second or passive periphrastic?"
+      answer: "GERUNDIVE / FUTURE PASSIVE PARTICIPLE"
+    boni:
+      - question: "What combines with a form of <latin>sum, esse</latin> to form the first or active periphrastic?"
+        answer: "FUTURE ACTIVE PARTICIPLE"
+      - question: "Using the verb <latin>eligō</latin>, say in Latin, “The Romans are about to choose consuls.”"
+        answer: "<latin>RŌMĀNĪ CONSULĒS ELECTŪRĪ SUNT</latin>"
+  - tossup:
+      question: "As the <latin>Forum Romanum</latin> was developed over the centuries, it became crowded and, therefore, additional fora were built. Name a Roman who built a new forum in Rome."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name another."
+        answer: "SEE BELOW"
+      - question: "Name a third."
+        answer: "JULIUS CAESAR, AUGUSTUS, VESPASIAN, DOMITIAN / NERVA, TRAJAN"
+  - tossup:
+      question: "Define <latin>frīgeō</latin>"
+      answer: "BE COLD, BE LANGUID, SHIVER, FAIL, LACK VIGOUR"
+    boni:
+      - question: "Define <latin>frīgō</latin>"
+        answer: "ROAST, PARCH, FRY"
+      - question: "Define <latin>fricō</latin>"
+        answer: "RUB, MASSAGE"
+  - tossup:
+      question: "Against what Persian king did the Ionians revolt in 499 BC?"
+      answer: "DARIUS (I)"
+    boni:
+      - question: "In what Ionian city did the revolt begin?"
+        answer: "MILETUS"
+      - question: "Where were the forces of Darius defeated in 490 BC by the Athenians and Plataeans?"
+        answer: "MARATHON"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of “plummet”?"
+      answer: "<latin>PLUMBUM</latin> – LEAD"
+    boni:
+      - question: "What Latin noun with what meaning is the root of “era”?"
+        answer: "<latin>AES</latin> – BRONZE, COPPER, BRASS, MONEY"
+      - question: "What Latin noun with what meaning is the root of “oriole”?"
+        answer: "<latin>AURUM</latin> – GOLD"
+  - tossup:
+      question: "Translate: <latin>Māter suōs līberōs convōcāvit ut inter sē cēnārent.</latin> "
+      answer: "THE MOTHER SUMMONED HER CHILDREN TOGETHER (IN ORDER) TO DINE AMONGST EACH OTHER / EAT TOGETHER"
+    boni:
+      - question: "Translate: <latin>Līberī domum cucurrērunt nē pūnīrentur.</latin>"
+        answer: "THE CHILDREN RAN HOME SO THEY WOULDN’T BE PUNISHED/LEST THEY BE PUNISHED"
+      - question: "Translate: <latin>Marcus et Lucius nōn sunt līberī quī mātrī nōn pareant.</latin> "
+        answer: "MARCUS AND LUCIUS ARE NOT CHILDREN WHO DISOBEY THEIR MOTHER"
+  - tossup:
+      question: "Who was the father of Scythes (ski-thees), Gelonus (je-lō!nus), and Agathyrsus (ag-a-thir!sus)?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "For five points, name one of the three children of Heracles and Megara."
+        answer: "SEE BELOW"
+      - question: "Name another."
+        answer: "THERSIMACHUS / CREONTIDAS / DEICOÖN"
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē. Locātus mediō capite sub oculīs, odōre sentiō. Saepe vehementer clāmō dum meus magister dormit. Quae pars corporis sum?</latin>"
+      answer: "NĀSUS"
+    boni:
+      - question: "<latin>Locātum mediō pectore, sanguinem per tōtum corpus moveō. Sī labōrāre dēsinō, moriēris quam celerrimē. Quae pars corporis sum?</latin>"
+        answer: "COR"
+      - question: "<latin>Locātus mediō pectore, sanguinem rubrum faciō. Dum spīrō, spērō mihī ōtium futūrum esse. Quae pars corporis sum?</latin>"
+        answer: "<latin>PULMŌ, PULMŌNĒS</latin>"
+  - tossup:
+      question: "In Book II of Homer’s <title>Iliad</title>, who was sent by Zeus to warn the Trojans of the imminent attack of the Greeks?"
+      answer: "IRIS"
+    boni:
+      - question: "In whose shape did Iris appear to the Trojans?"
+        answer: "(PRIAM’S SON) POLITES"
+      - question: "Who recognized the divinity of the messenger and speedily broke up the gathering so that the Trojans could get ready for battle?"
+        answer: "HECTOR"
+  - tossup:
+      question: "Give the third person singular, imperfect active indicative for the verb <latin>fodiō</latin>"
+      answer: "<latin>FODIĒBAT</latin>"
+    boni:
+      - question: "Change <latin>fodiēbat</latin> to passive"
+        answer: "<latin>FODIĒBATUR</latin>"
+      - question: "Change <latin>fodiēbatur</latin> to future"
+        answer: "<latin>FODIENTUR</latin>"
+  - tossup:
+      question: "Name the proconsul who was sent to quell the revolt led by Marcus Aemilius Lepidus in 77 BC"
+      answer: "(Q. LUTATIUS) CATULUS"
+    boni:
+      - question: "Where did Catulus meet Lepidus’ forces which were marching on Rome?"
+        answer: "MILVIAN BRIDGE"
+      - question: "Lepidus and most of his troops were able to retreat from the encounter at the Milvian Bridge. What commander later defeated them in Eturia?"
+        answer: "POMPEY"
+  - tossup:
+      question: "Give the present passive infinitive for <latin>convocō</latin>"
+      answer: "<latin>CONVOCĀRĪ / CONVOCĀRIER</latin> (must be designated as archaic or poetic)"
+    boni:
+      - question: "Change <latin>convocārī</latin> to perfect"
+        answer: "<latin>CONVOCĀTUS (-A/-UM) ESSE</latin>"
+      - question: "Change your answer to future active"
+        answer: "<latin>CONVOCĀTŪRUS (-A/-UM) ESSE</latin>"
+  - tossup:
+      question: "What Syrian woman was responsible for the imperial accession of her 15 year old grandson Elagabalus?"
+      answer: "JULIA MAESA"
+    boni:
+      - question: "Elagabalus’ mother Julia Soaemias claimed that his father was what emperor?"
+        answer: "CARACALLA"
+      - question: "Elagabalus was murdered by the Praetorians who had been bribed by his aunt Julia Mamaea. Name her son who succeeded Elagabalus"
+        answer: "ALEXANDER SEVERUS"
+  - tossup:
+      question: "What use of the infinitive is found in the following Latin sentence: <latin>Incipere est difficilius quam finīre</latin>?"
+      answer: "SUBJECT / SUBJECTIVE"
+    boni:
+      - question: "What use of the infinitive is found in the following Latin sentence: <latin>Pars cēdere, aliī insequī; ibi resistere ac prōpulsāre</latin>?"
+        answer: "HISTORICAL"
+      - question: "What use of the infinitive is found in the following Latin sentence: <latin>Crās coeperō discere artem scrībendī</latin>"
+        answer: "COMPLEMENTARY"
+  - tossup:
+      question: "This picture depicts various deeds of Theseus. Against whom is he fighting in the part of the picture that is labeled “C”?"
+      answer: "SC(E)IRON"
+    boni:
+      - question: "Against whom is Theseus fighting in the part of the picture that is labeled “B”?"
+        answer: "PROCRUSTES / DAMASTES / POLYPEMON"
+      - question: "Against what creature is Theseus fighting in the part of the picture that is labeled “E”?"
+        answer: "CROMMYONIAN SOW / PHAEA"

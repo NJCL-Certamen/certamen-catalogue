@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What was the maxium number of people that could be accommodated comfortably on a <latin>lectus</latin>, the typical dining couch in a Roman house?"
+      answer: "THREE"
+    boni:
+      - question: "How many dining couches did a dining room normally have?"
+        answer: "THREE"
+      - question: "Therefore, what is the Roman term for a “dining room”?"
+        answer: "<latin>TRICLINIUM</latin>"
+  - tossup:
+      question: "Give an antonym of <latin>tardus</latin>"
+      answer: "<latin>CELER, CURRAX, ALACER, ĀLIPES, VELOX, LEVIS, MATŪRUS, RAPIDUS</latin>"
+    boni:
+      - question: "Give an antonym of <latin>crūdēlis</latin>"
+        answer: "<latin>CLĒMĒNS, URBĀNUS, HŪMĀNUS, BENIGNUS, COMIS</latin>"
+      - question: " Give an antonym of <latin>occultus</latin>"
+        answer: "<latin>APERTUS, CANDIDUS, CLARUS, LĀTUS</latin>"
+  - tossup:
+      question: "Who used the pelt of the Nemean lion as a cloak and wore it throughout his life?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What other lion was also killed by Heracles?"
+        answer: "THESPIAN LION / THE LION OF MT. CITHAERON"
+      - question: "What multi-headed swamp creature indirectly caused the death of Heracles?"
+        answer: "(LERNAEAN) HYDRA"
+  - tossup:
+      question: "What is the meaning of the Latin noun at the root of “particular”?"
+      answer: "PART"
+    boni:
+      - question: "What is the meaning of the Latin verb at the root of “apparatus”?"
+        answer: "TO MAKE READY, PREPARE, FIX (DINNER)"
+      - question: "What is the meaning of the Latin adjective at the root of “parity”?"
+        answer: "EQUAL, EVEN"
+  - tossup:
+      question: "What famous mythological musician lost his wife when she was bitten by a snake while fleeing from an attacker?"
+      answer: "ORPHEUS"
+    boni:
+      - question: "Who was his unfortunate wife?"
+        answer: "EURYDICE"
+      - question: "Who was pursuing her when she was killed?"
+        answer: "ARISTAEÜS"
+  - tossup:
+      question: "Which Roman emperor was murdered with a dish of poisoned mushrooms?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "Name Claudius’s wife who is believed to have poisoned Claudius"
+        answer: "AGRIPPINA <emphasis>THE YOUNGER</emphasis>"
+      - question: " Name Agrippina’s son whom Claudius adopted as his heir"
+        answer: "NERO (CN. DOMITIUS AHENOBARBUS)"
+  - tossup:
+      question: "Say in Latin: fifteen"
+      answer: "<latin>QUĪNDECIM</latin>"
+    boni:
+      - question: "Say in Latin: fifty"
+        answer: "<latin>QUĪNQUĀGINTĀ</latin>"
+      - question: "Say in Latin: five hundred"
+        answer: "<latin>QUĪNGENTĪ</latin>"
+  - tossup:
+      question: "Which of the following Latin prepositions does not belong: <latin>sine, inter, ad, apud, per</latin>?"
+      answer: "<latin>SINE</latin>"
+    boni:
+      - question: "Which of the following Latin prepositions does not belong: <latin>intrā, ex, prō, dē, cum</latin>?"
+        answer: "<latin>INTRĀ</latin>"
+      - question: "Name two prepositions used with both the accusative and ablative cases"
+        answer: "<latin>IN, SUB, SUBTER, SUPER</latin>"
+  - tossup:
+      question: "During the Trojan War, what Trojan prince offered to engage Menelaüs in single combat, provided that all the other warriors on both sides would stand aside?"
+      answer: "PARIS / ALEXANDER"
+    boni:
+      - question: "Who was winning this fight before it was interrupted by Aphrodite?"
+        answer: "MENELAÜS"
+      - question: "How did Aphrodite save Paris?"
+        answer: "SHE (BROKE THE THONG OF PARIS’ HELMET AND) <emphasis>SHROUDED / COVERED</emphasis> HIM IN A <emphasis>MIST / CLOUD</emphasis> AND TOOK HIM AWAY (BACK TO HIS OWN BEDROOM/PALACE)"
+  - tossup:
+      question: "Who became the sole Augustus of the Roman Empire in AD 324?"
+      answer: "CONSTANTINE I / GREAT"
+    boni:
+      - question: "What rival did Constantine defeat in A.D. 324?"
+        answer: "LICINIUS"
+      - question: "What rival had Constantine defeated twelve years earlier at the Battle of the Milvian Bridge?"
+        answer: "MAXENTIUS"
+  - tossup:
+      question: "Change <latin>tū</latin> to the dative singular"
+      answer: "<latin>TIBĪ</latin>"
+    boni:
+      - question: "Change <latin>tibī</latin> to the plural"
+        answer: "<latin>VŌBĪS</latin>"
+      - question: "Change <latin>vōbīs</latin> to first person"
+        answer: "<latin>NŌBĪS</latin>"
+  - tossup:
+      question: "To what deity does Zeus often lend his <latin>aegis</latin>?"
+      answer: "ATHENA / APOLLO"
+    boni:
+      - question: "According to some accounts, whose skin provided the <latin>aegis</latin>?"
+        answer: "AMALTHEA’S / AIX’S / PALLAS’"
+      - question: "Whose head decorated Athena’s breastplate?"
+        answer: "MEDUSA’S"
+  - tossup:
+      question: "Make the phrase <latin>lūx splendida</latin> accusative plural"
+      answer: "<latin>LŪCĒS SPLENDIDĀS</latin>"
+    boni:
+      - question: "Change <latin>lūcēs splendidās</latin> to ablative"
+        answer: "<latin>LŪCIBUS SPLENDIDĪS</latin>"
+      - question: "Change that <latin>lūcibus splendidīs</latin> to singular"
+        answer: "<latin>LŪCE SPLENDIDĀ</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>mare</latin> and <latin>māne</latin>"
+      answer: "<latin>MARE</latin> – SEA; <latin>MĀNE</latin> – IN THE MORNING"
+    boni:
+      - question: "Differentiate in meaning between <latin>causa</latin> and <latin>casa</latin>"
+        answer: "<latin>CAUSA</latin> – TRIAL, CAUSE, REASON, LEGAL CASE; <latin>CASA</latin> – COTTAGE, SHOP, HUT, CABIN, LITTLE HOUSE"
+      - question: "Differentiate in meaning between <latin>mīlle</latin> and <latin>mīles</latin>"
+        answer: "<latin>MĪLLE</latin> – ONE THOUSAND; <latin>MĪLES</latin> – SOLDIER"
+  - tossup:
+      question: "Which of the following was <emphasis>not</emphasis> involved in the struggle for power between the Populares and the Optimates which contributed to the fall of the Roman Republic: Cicero, Sulla, Sertorius, Fabius, Marius, Cinna?"
+      answer: "FABIUS"
+    boni:
+      - question: "Please look at the visual handout and tell me the letter of the picture of the man who hoped to establish <latin>Concordia Ordinum</latin> or Concord of the Orders."
+        answer: "“E” (CICERO)"
+      - question: "Tell me the letter of the picture of the man whom Cicero hoped would be the nominal leader of the <latin>concordia</latin>."
+        answer: "“C” (POMPEY)"
+  - tossup:
+      question: "Consider the sentence “The soldiers could run for ten miles without resting.” Translate “could run” into Latin"
+      answer: "<latin>CURRERE POTERANT / POTUĒRUNT</latin>"
+    boni:
+      - question: "Translate “for ten miles” in that same sentence"
+        answer: "<latin>DECEM MĪLIA PASSUUM</latin>"
+      - question: "What use of the genitive is found in “<latin>decem mīlia passuum</latin>”?"
+        answer: "PARTITIVE / GENITIVE OF THE WHOLE"
+  - tossup:
+      question: "With what daughter of Helius did Odysseus spend a year of his life?"
+      answer: "CIRCE"
+    boni:
+      - question: "What was the name of Circe’s island?"
+        answer: "AEAEA"
+      - question: "With the aid of what special herb was Odysseus able to withstand the magic of Circe?"
+        answer: "MOLY"
+  - tossup:
+      question: "The abbreviation <latin>A.M.</latin> can stand for many things. What does the abbreviation <latin>A.M.</latin> mean when it stands for <latin>ante merīdiem</latin>?"
+      answer: "BEFORE NOON / MIDDAY"
+    boni:
+      - question: "What does the abbreviation <latin>A.M.</latin> mean when it stands for <latin>annō mundī</latin>?"
+        answer: "IN THE YEAR OF THE WORLD (SINCE ITS CREATION)"
+      - question: "What does the abbreviation <latin>M.A.</latin> mean when it stands for <latin>magister artium</latin>?"
+        answer: "MASTER OF ARTS"
+  - tossup:
+      question: "In the 2nd century A.D., what city was the capital of the province of <latin>Britannia</latin>?"
+      answer: "<latin>LONDINIUM</latin> / LONDON"
+    boni:
+      - question: "What city was the capital of the province of <latin>Sicilia</latin>?"
+        answer: "<latin>SYRACUSAE</latin> / SYRACUSE"
+      - question: "What city was the capital of the province of <latin>Aegyptus</latin>?"
+        answer: "ALEXANDRIA"
+  - tossup:
+      question: "What is the case and use of <latin>Publius</latin> in the sentence: <latin>Publī, cantā mēcum crās māne</latin>!"
+      answer: "VOCATIVE, DIRECT ADDRESS"
+    boni:
+      - question: "What is the case and use of <latin>Publius</latin> in the sentence: <latin>Canis Publī semper per tōtam noctem lātrat</latin>"
+        answer: "GENITIVE, POSSESSION"
+      - question: "What is the case and use of <latin>Publius</latin> in the sentence: <latin>Publiī cōtīdiē ad forum ambulābant</latin>"
+        answer: "NOMINATIVE, SUBJECT"

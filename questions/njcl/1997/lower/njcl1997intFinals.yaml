@@ -55,9 +55,9 @@ questions:
       question: "Give the genitive plural of the phrase <latin>fortis iuvenis</latin>"
       answer: "<latin>FORTIUM IUVENUM</latin>"
     boni:
-      - question: "Change <latin>fortium iuvenum </latin>to ablative"
+      - question: "Change <latin>fortium iuvenum</latin> to ablative"
         answer: "<latin>FORTIBUS IUVENIBUS</latin>"
-      - question: "Change <latin>fortibus iuvenibus </latin>to singular"
+      - question: "Change <latin>fortibus iuvenibus</latin> to singular"
         answer: "<latin>FORTĪ IUVENE</latin>"
   - tossup:
       question: "Who declared themselves to be the consuls for 86 BC without the formality of an election?"
@@ -95,7 +95,7 @@ questions:
       question: "What Latin adjective combines with the preposition <latin>ad</latin> to form the English verb“assuage”?"
       answer: "<latin>SUĀVIS</latin>"
     boni:
-      - question: " What Latin preposition combines with the preposition <latin>ad </latin>to form the English verb “approach”?"
+      - question: " What Latin preposition combines with the preposition <latin>ad</latin> to form the English verb “approach”?"
         answer: "<latin>PROPE</latin>"
       - question: "What Latin adverb combines with the preposition <latin>ad</latin> to form the English verb “assemble”?"
         answer: "<latin>SIMUL</latin>"

@@ -17,7 +17,7 @@ questions:
     boni:
       - question: "Change <latin>flēvisse</latin> to passive"
         answer: "<latin>FLĒTUS / -A / -UM ESSE</latin>"
-      - question: "Change <latin>flētus esse </latin>to future active"
+      - question: "Change <latin>flētus esse</latin> to future active"
         answer: "<latin>FLĒTŪRUS / -A / -UM ESSE</latin>"
   - tossup:
       question: "Give a synonym of <latin>ante</latin>"

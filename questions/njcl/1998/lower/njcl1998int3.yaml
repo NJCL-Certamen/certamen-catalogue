@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What king of Thebes was warned by an oracle that if he were to have a child, his child would kill him?"
+      answer: "LAÏUS"
+    boni:
+      - question: "Who ruled as regent of Thebes after the death of Laïus’ father since he was only a child at the time?"
+        answer: "LYCUS"
+      - question: "According to some sources, Hera sent the monster Sphinx to punish Thebes because Laïus had kidnapped what son of Pelops?"
+        answer: "CHRYSIPPUS"
+  - tossup:
+      question: "What Latin noun with what meaning is the ultimate root of the English noun “oracle”?"
+      answer: "<latin>ŌS</latin> (<latin>ōris</latin>) – MOUTH, OPENING, FACE"
+    boni:
+      - question: "What Latin noun with what meaning is the ultimate root of the English noun “ossicle”?"
+        answer: "<latin>OS</latin> (<latin>ossis</latin>) – BONE"
+      - question: "What Latin noun with what meaning is the ultimate root of the English adjective “ornery”?"
+        answer: "<latin>ORDŌ</latin> - ROW"
+  - tossup:
+      question: "According to tradition, who was the first Roman to win the <latin>spolia opima</latin>?"
+      answer: "ROMULUS"
+    boni:
+      - question: "How did one earn the <latin>spolia opima</latin>?"
+        answer: "ROMAN GENERAL/LEADER KILLED ENEMY LEADER IN SINGLE COMBAT"
+      - question: "To whom were the <latin>spolia opima</latin> dedicated?"
+        answer: "JUPITER (FERETRIUS)"
+  - tossup:
+      question: "Give the second person singular, perfect active indicative for <latin>scindō</latin>"
+      answer: "<latin>SCĪDISTĪ</latin>"
+    boni:
+      - question: "Change <latin>scīdistī</latin> to future passive"
+        answer: "<latin>SCINDĒRIS (-RE)</latin>"
+      - question: "Change <latin>scindēris</latin> to pluperfect"
+        answer: "<latin>SCISSUS (-A/-UM) ERĀS</latin>"
+  - tossup:
+      question: "Whose forces overwhelmed and sacked the Roman settlements at Verulamium and London in AD 61?"
+      answer: "BOUDICCA / BOADICEA"
+    boni:
+      - question: "Name the governor of Britain who defeated Boudicca"
+        answer: "SUETONIUS PAULINUS"
+      - question: "How did Boudicca die?"
+        answer: "SUICIDE (BY POISON)"
+  - tossup:
+      question: "What use of the dependent subjunctive is found in the following Latin sentence: <latin>Canis adeō ferus est ut nōn mītēscere possit</latin>?"
+      answer: "RESULT / CONSECUTIVE CLAUSE"
+    boni:
+      - question: "<latin>Caesar suīs imperāvit nē quod omnīnō tēlum in hostēs rēicerent</latin>?"
+        answer: "INDIRECT COMMAND (if FINAL CLAUSE is given, more information is necessary)"
+      - question: "<latin>Oportet edere ut vīvās</latin>?"
+        answer: "PURPOSE / FINAL CLAUSE"
+  - tossup:
+      question: "In Book I of Homer’s <title>Iliad</title>, who prevented Achilles from attacking Agamemnon by pulling on Achilles’ golden hair?"
+      answer: "(PALLAS) ATHENA"
+    boni:
+      - question: "Who had sent Athena to restrain the impetuous Achilles?"
+        answer: "HERA"
+      - question: "Which of the Greek leaders unsuccessfully attempted to soothe the pride of both Achilles and Agamemnon?"
+        answer: "NESTOR"
+  - tossup:
+      question: "Translate into Latin the word “fly” for the sentence “We know that the birds have flown south”"
+      answer: "<latin>VOLĀVISSE</latin>"
+    boni:
+      - question: "Translate into Latin the word “fly” for the sentence “We knew that the birds were flying south”?"
+        answer: "<latin>VOLĀRE</latin>"
+      - question: "Translate into Latin the word “fly” for the sentence “We knew that the birds would fly south”?"
+        answer: "<latin>VOLĀTŪRĀS ESSE</latin>"
+  - tossup:
+      question: "What pasture, originally belonging to the Tarquins, was used for military musters, exercising, and meetings of the <latin>comitia centuriata</latin>?"
+      answer: "CAMPUS MARTIUS"
+    boni:
+      - question: "What circus was built there in 221 B.C.?"
+        answer: "CIRCUS FLAMINIUS"
+      - question: "Who built Rome’s first permanent theater in the <latin>Campus Martius</latin>?"
+        answer: "GN. POMPEIUS MAGNUS / POMPEY (THE GREAT)"
+  - tossup:
+      question: "Which of the following Latin nouns does not belong because of gender: <latin>custōs, humus, fidēs, aetās, domus</latin>?"
+      answer: "<latin>CUSTŌS</latin>"
+    boni:
+      - question: "Which of the following Latin nouns does not belong because of gender: <latin>bellum, legiō, animal, mare, cornū</latin>?"
+        answer: "<latin>LEGIŌ</latin>"
+      - question: "Which of the following Latin nouns does not belong because of gender: <latin>cor, agricola, senātus, pēs, leō</latin>?"
+        answer: "<latin>COR</latin>"
+  - tossup:
+      question: "Which of the following does NOT belong because it is not a use of the genitive case: Purpose, Objective, Quality, Partitive, Possession?"
+      answer: "PURPOSE"
+    boni:
+      - question: "Which of the following is NOT a verb that is REGULARLY used with the genitive case: <latin>Respondeō, Oblīvīscor, Interest, Misereor, Egeō</latin>?"
+        answer: "<latin>RESPONDEŌ</latin>"
+      - question: "Which of the following is NOT an adjective that is regularly used with the genitive case: <latin>Imperītus, Obvius, Plēnus, Īnsolēns, Avidus</latin>?"
+        answer: "<latin>OBVIUS</latin>"
+  - tossup:
+      question: "What sea-goddess was the wife of Nereus?"
+      answer: "DORIS"
+    boni:
+      - question: "Who were the parents of Doris?"
+        answer: "OCEANUS & TETHYS"
+      - question: "How many daughters did Doris and Nereus have?"
+        answer: "50"
+  - tossup:
+      question: "Translate: <latin>Pedes dūcem mīlitibus loquentem audīvit.</latin> "
+      answer: "A FOOT SOLDIER HEARD THE GENERAL SPEAKING TO THE SOLDIERS"
+    boni:
+      - question: "Translate: <latin>Pedes audīvit dūcem mīlitēs hortārī.</latin> "
+        answer: "A FOOT SOLDIER HEARD THAT THE GENERAL ENCOURAGED/WAS ENCOURAGING THE SOLDIERS"
+      - question: "Translate: <latin>Pedes audit dūcem mīlitēs hortātūrum esse.</latin> "
+        answer: "THE FOOT SOLDIER HEARS THAT THE GENERAL WILL ENCOURAGE THE SOLDIERS"
+  - tossup:
+      question: "Who was served the flesh of both of his own sons at a banquet?"
+      answer: "THYESTES <emphasis>Do NOT accept <latin>TEREUS</latin> because he was served the flesh of his son.</emphasis>"
+    boni:
+      - question: "Who was responsible for serving Thyestes this ghastly meal?"
+        answer: "ATREUS"
+      - question: "Who was the daughter of Thyestes that bore him the instrument of his revenge?"
+        answer: "PELOPIA"
+  - tossup:
+      question: "Give all of the passive participles of <latin>sedeō</latin>"
+      answer: "<latin>SESSUS (-A, -UM), SEDENDUS (-A, -UM)</latin>"
+    boni:
+      - question: "Give all of the active participles"
+        answer: "<latin>SEDĒNS, SESSŪRUS (-A/-UM)</latin>"
+      - question: "Give all of the active infinitives"
+        answer: "<latin>SEDĒRE, SĒDISSE, SESSŪRUS (-A/-UM) ESSE</latin>"
+  - tossup:
+      question: "Against whom did the <latin>praefectus urbi</latin> Sulpicianus bid for the imperial throne in A.D. 193?"
+      answer: "DIDIUS IULIANUS"
+    boni:
+      - question: "Who was holding this imperial auction?"
+        answer: "PRAETORIAN GUARD"
+      - question: "Name the governor of Pannonia who captured Rome in a bloodless campaign and deposed Iulianus"
+        answer: "(L.) SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "Make the phrase <latin>hoc cor</latin> ablative singular"
+      answer: "<latin>HŌC CORDE</latin>"
+    boni:
+      - question: "Change <latin>hōc corde</latin> to genitive plural"
+        answer: "<latin>HŌRUM CORDIUM</latin>"
+      - question: "Change <latin>hōrum cordium</latin> to accusative plural"
+        answer: "<latin>HAEC CORDA</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>dīvēs</latin>"
+      answer: "<latin>LOCUPLĒS, CŌPIŌSUS, OPULENS, OPULENTUS ABUNDĀNS, SUMPTUŌSUS, PRETIŌSUS, PECUNIŌSUS</latin>"
+    boni:
+      - question: " Give a synonym of <latin>tenuis</latin>"
+        answer: "<latin>GRACILIS, MACER, BREVIS, VADŌSUS, PUSILLUS, ANGUSTUS</latin>"
+      - question: " Give a synonym of <latin>ēloquens</latin>"
+        answer: "<latin>FĀCUNDUS, DISERTUS</latin>"
+  - tossup:
+      question: "Into what kind of birds were the daughters of Pierus transformed?"
+      answer: "MAGPIES / JACKDAWS"
+    boni:
+      - question: "With whom did the daughters of Pierus compete in a musical contest?"
+        answer: "THE MUSES"
+      - question: "Who sang for the Muses in this contest?"
+        answer: "CALLIOPE"
+  - tossup:
+      question: "Which officers in a legion were directly responsible for the training and discipline of the soldiers in the centuries?"
+      answer: "CENTURIONS (Give the visual to the team which has earned the boni.)"
+    boni:
+      - question: "Which letter indicates the soldier in the visual who is the centurion?"
+        answer: "“A”"
+      - question: "What is the Latin title for the soldier indicated by the letter “C”?"
+        answer: "<latin>AQUILIFER</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "In the Latin noun form <latin>taurōrum</latin>, which letters comprise the ultima?"
+      answer: "<latin>-RUM</latin>"
+    boni:
+      - question: "Which comprise the antepenult?"
+        answer: "<latin>TAU</latin>"
+      - question: "Which comprise the diphthong?"
+        answer: "<latin>-AU</latin>"
+  - tossup:
+      question: "Who was the mother of Romulus and Remus?"
+      answer: "RHEA SILVIA / ILIA"
+    boni:
+      - question: "Name the wife of the shepherd who was their foster mother"
+        answer: "(ACCA) LARENTIA"
+      - question: "What goddess did Romulus’ wife Hersilia become?"
+        answer: "HORA"
+  - tossup:
+      question: "Which of the following, if any, does NOT belong: Imperfect, Indirect, Present, Perfect, Future?"
+      answer: "INDIRECT"
+    boni:
+      - question: "Infinitive, Imperative, Passive, Indicative, Subjunctive?"
+        answer: "PASSIVE"
+      - question: "Vocative, Predicative, Genitive, Accusative, Ablative?"
+        answer: "PREDICATIVE"
+  - tossup:
+      question: "What relative of Priam was thought to be the ancestor of the first emperors of Rome?"
+      answer: "AENEAS"
+    boni:
+      - question: "Where was Aeneas born?"
+        answer: "MT. IDA"
+      - question: "How old was Aeneas when he first met his father Anchises?"
+        answer: "5"
+  - tossup:
+      question: "Who referred to her sons Tiberius and Gaius Gracchus as “ her jewels”?"
+      answer: "CORNELIA"
+    boni:
+      - question: "What famous general was Cornelia’s father?"
+        answer: "SCIPIO AFRICANUS (MAIOR)"
+      - question: "What other famous general did Cornelia’s daughter Sempronia marry?"
+        answer: "SCIPIO AEMILIANUS / AFRICANUS MINOR"
+  - tossup:
+      question: "Give an antonym of <latin>fīnis</latin>"
+      answer: "<latin>INITIUM, COEPTUS (-UM)</latin>"
+    boni:
+      - question: "Give an antonym of <latin>clāmor</latin>"
+        answer: "<latin>SUSURRUS, SILENTIUM, RETICENTIA, QUIĒS</latin>"
+      - question: "Give an antonym of <latin>impedīmentum</latin>"
+        answer: "<latin>AUXILIUM, BENEFICIUM, SUPPLEMENTUM, SUBSIDIUM, PRAESIDIUM</latin>"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin word as the others: maintain, manual, manure, manager, mandate?"
+      answer: "MANDATE"
+    boni:
+      - question: "What Latin verb is the root of “mandate”?"
+        answer: "<latin>MANDĀRE</latin>"
+      - question: "What Latin noun is the root of the other words?"
+        answer: "<latin>MANUS</latin>"
+  - tossup:
+      question: "According to some sources, what son of Poseidon and Aethra volunteered to be in the company of the 14 Athenian youths who were being sent to Crete to be devoured by the Minotaur?"
+      answer: "THESEUS"
+    boni:
+      - question: "What Athenian king is more commonly said to be the father of Theseus?"
+        answer: "AEGEUS"
+      - question: "What Cretan princess eventually became the wife of Theseus?"
+        answer: "PHAEDRA"
+  - tossup:
+      question: "Make the phrase <latin>ūna spēs</latin> ablative singular"
+      answer: "<latin>ŪNĀ SPĒ</latin>"
+    boni:
+      - question: "Change <latin>ūnā spē</latin> to genitive"
+        answer: "<latin>ŪNĪUS SPĒ</latin>Ī"
+      - question: "Change <latin>ūnīus spē</latin>ī to accusative"
+        answer: "<latin>ŪNAM SPEM</latin>"
+  - tossup:
+      question: "What nymph, having been spurned by her former lover, wasted away until she was transformed into a sunflower?"
+      answer: "CLYTIË"
+    boni:
+      - question: "Who was her former lover?"
+        answer: "HELIUS / APOLLO / PHOEBUS"
+      - question: "Why did Helius spurn the love of Clytië?"
+        answer: "BECAUSE SHE TATTLED ON HIM TO THE FATHER (ORCHAMUS) OF HIS NEW MISTRESS (LEUCOTHOË) / CAUSED THE DEATH OF HIS NEW MISTRESS"
+  - tossup:
+      question: "Who, eager to win a military reputation, led seven legions into Mesopotamia in 53 BC to attack the Parthians?"
+      answer: "(M. LICINIUS) CRASSUS"
+    boni:
+      - question: "Where was Crassus defeated in battle (or skirmish) by the Parthians?"
+        answer: "CARRHAE"
+      - question: "What was Crassus’ fate?"
+        answer: "(CAPTURED &) KILLED"
+  - tossup:
+      question: "What case is used in Latin to express the time when an action occurs?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "Say in Latin “in seven years.”"
+        answer: "<latin>SEPTEM ANNĪS</latin>"
+      - question: "Say in Latin “for seven years.”"
+        answer: "<latin>(PER) SEPTEM ANNŌS</latin>"
+  - tossup:
+      question: "Who was the slayer of a fire-breathing monster that had a lion’s head, a goat’s body, and a serpent’s tail?"
+      answer: "BELLEROPHON(TES) / HIPPONOÜS"
+    boni:
+      - question: "With the aid of what semi-divine creature did he accomplish this feat?"
+        answer: "PEGASUS"
+      - question: "What did Athena give to Bellerophon that allowed him to tame Pegasus?"
+        answer: "A MAGIC BRIDLE (WITH GOLD TRAPPINGS)"
+  - tossup:
+      question: "When did most Roman men go to the public baths?"
+      answer: "IN THE AFTERNOON (BETWEEN <latin>MERĪDIĀTIŌ</latin> AND <latin>CĒNA</latin>)"
+    boni:
+      - question: "What is the Latin term for the large, public bath complexes?"
+        answer: "<latin>THERMAE / BALNEAE</latin>"
+      - question: "What in Rome was the usual entry fee for men?"
+        answer: "<latin>QUADRĀNS</latin> (1/4 <latin>AS</latin>)"
+  - tossup:
+      question: "What is the present active imperative singular for <latin>cōnferō</latin>?"
+      answer: "<latin>CŌNFER</latin>"
+    boni:
+      - question: "Give the same form for <latin>cōnficiō</latin>"
+        answer: "<latin>CŌNFICE</latin>"
+      - question: "Give the same form for <latin>cōndūcō</latin>"
+        answer: "<latin>CŌNDŪC</latin>"
+  - tossup:
+      question: "Define <latin>prīdiē</latin>"
+      answer: "ON THE PRECEEDING DAY, ON THE DAY BEFORE"
+    boni:
+      - question: "Define <latin>postrīdiē</latin>"
+        answer: "ON THE FOLLOWING DAY, ON THE DAY AFTER"
+      - question: "Define <latin>perendiē</latin>"
+        answer: "ON THE DAY AFTER TOMORROW"
+  - tossup:
+      question: "Make the phrase <latin>hoc iūdicium</latin> dative singular"
+      answer: "<latin>HUIC IŪDICIŌ</latin>"
+    boni:
+      - question: "Change <latin>huic iūdiciō</latin> to the ablative"
+        answer: "<latin>HŌC IŪDICIŌ</latin>"
+      - question: "Change <latin>hōc iūdiciō</latin> to the plural"
+        answer: "<latin>HĪS IŪDICIĪS</latin>"
+  - tossup:
+      question: "Who was punished in the Underworld because he served the flesh of his own son to the gods?"
+      answer: "TANTALUS"
+    boni:
+      - question: "Identify character “A”"
+        answer: "SISYPHUS"
+      - question: "Identify character “B”"
+        answer: "IXION"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN LATIN the question about it. <latin>Cum mons Vesuvius ērūpit, diēs erat nox et nox erat nigrior. Cīvēs aliquid vidēre nōn poterant. Quandō erat diēs nox?</latin>"
+      answer: "<latin>CUM MONS VESUVIUS ĒRŪPIT/ERUPERET / POSTQUAM MONS VESUVIUS ĒRŪPIT</latin>"
+    boni:
+      - question: "<latin>Quālis erat nox?</latin>"
+        answer: "<latin>NIGRIOR / NIGRA</latin>"
+      - question: "<latin>Quid cīvēs vidēre poterant?</latin>"
+        answer: "<latin>NIHIL / NĪL / NŪLLAM REM</latin>"
+  - tossup:
+      question: "Who was Augustus’ only natural child?"
+      answer: "JULIA"
+    boni:
+      - question: "Julia had five children by which of her three husbands?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "Which of Julia’s five children did Augustus adopt in 17 BC as his heirs?"
+        answer: "GAIUS & LUCIUS CAESAR"

@@ -206,19 +206,42 @@ def split_sections(text: str) -> list[tuple[str, list[str]]]:
     return sections
 
 
+def is_follow_up_number_line(current: list[str], line: str) -> bool:
+    if not current:
+        return False
+    plain_line = TAG_RE.sub("", line)
+    next_number = re.match(r"^\s*(?P<number>[2-9]|[1-9][0-9]+)[.):]\s*", plain_line, re.IGNORECASE)
+    if not next_number:
+        return False
+    current_number = QUESTION_RE.match(TAG_RE.sub("", current[0]))
+    if current_number and int(next_number.group("number")) == int(current_number.group("number")) + 1:
+        return False
+    current_text = " ".join(current)
+    return bool(
+        re.search(
+            r"(?:Name another\.|see below for answers|For five points, name one construction used to fill this vacancy)",
+            current_text,
+            re.IGNORECASE,
+        )
+    )
+
+
 def question_blocks(lines: list[str]) -> list[str]:
     blocks: list[str] = []
     current: list[str] = []
     for line in lines:
         plain_line = TAG_RE.sub("", line)
         if re.match(
-            r"^(?:(?:UPPER|NOVICE) (?:ROUND|SEMI|FINAL|EXTRA)|"
+            r"^(?:(?:UPPER|LOWER|NOVICE) (?:ROUND|SEMI|FINAL|EXTRA)|"
             r"GRAMMAR / VOCABULARY|HISTORY / LIFE / GEOGRAPHY|MYTHOLOGY|\d+\s*$)",
             plain_line,
             re.IGNORECASE,
         ):
             continue
         if QUESTION_RE.match(plain_line):
+            if current and is_follow_up_number_line(current, line):
+                current.append(line)
+                continue
             if current:
                 blocks.append(" ".join(current))
             current = [line]
@@ -266,6 +289,7 @@ def normalize_tags(value: str) -> str:
         normalized = re.sub(r"(\s+)</(latin|title|emphasis)>", r"</\2>\1", normalized)
     normalized = re.sub(r"([āēīōūĀĒĪŌŪ])<latin>", r"<latin>\1", normalized)
     normalized = re.sub(r"</latin>([āēīōūĀĒĪŌŪ])", r"\1</latin>", normalized)
+    normalized = re.sub(r"<(latin|title|emphasis)>\s*</\1>", "", normalized)
     return normalized
 
 
@@ -278,15 +302,23 @@ def answer_spans(text: str) -> list[tuple[int, int]]:
         token = tokens[index].group()
         letters = "".join(character for character in token if character.isalpha())
         previous_text = TAG_RE.sub("", text[:tokens[index].start()]).rstrip()
-        follows_sentence_boundary = not previous_text or previous_text[-1] in "?.!"
+        sentence_text = previous_text.rstrip("\"”’)]}")
+        follows_sentence_boundary = not sentence_text or sentence_text[-1] in "?.!"
+        is_date_answer = (
+            token.isdigit()
+            and index + 1 < len(tokens)
+            and tokens[index + 1].group().upper() in {"B.C.", "A.D."}
+        )
+        begins_question_body = bool(re.fullmatch(r"\s*(?:TOSS[- ]?UP\s*)?\d+[.):]\s*", previous_text, re.IGNORECASE))
         next_is_uppercase = (
             index + 1 < len(tokens) and is_upper_answer_token(tokens[index + 1].group())
         )
         single_letter_pronoun = letters == "I" and len(letters) == 1 and not next_is_uppercase
         candidate = (
-            is_upper_answer_token(token)
+            (is_upper_answer_token(token) or is_date_answer)
             and letters not in excluded
             and not single_letter_pronoun
+            and not (begins_question_body and len(letters) == 1)
             and follows_sentence_boundary
         )
         if not candidate:
@@ -312,6 +344,54 @@ def answer_spans(text: str) -> list[tuple[int, int]]:
 
 
 def parse_pairs(block: str) -> list[tuple[str, str]]:
+    block = re.sub(
+        r"\(\s*(?:PASS OUT THE HANDOUT|READ SLOWLY)\b.*?\)",
+        "",
+        block,
+        flags=re.IGNORECASE,
+    )
+    forum_prompt = re.match(r"^\s*\d+[.):]\s*(.*)$", block, re.IGNORECASE)
+    if forum_prompt and "Name a Roman who built a new forum in Rome." in block:
+        placeholders = list(re.finditer(r"<title>\s*see below for answer\s*</title>", block, re.IGNORECASE))
+        second_prompt = re.search(r"\bName another\.", block, re.IGNORECASE)
+        third_prompt = re.search(r"\bName a third\.", block, re.IGNORECASE)
+        if len(placeholders) == 3 and second_prompt and third_prompt:
+            answer = normalize_tags(block[placeholders[-1].end():].strip())
+            start = forum_prompt.start(1)
+            return [
+                (normalize_tags(block[start:second_prompt.start()].strip()), answer),
+                (normalize_tags(block[second_prompt.start():third_prompt.start()].strip()), answer),
+                (normalize_tags(block[third_prompt.start():placeholders[-1].end()].strip()), answer),
+            ]
+    purpose_bonus = re.search(
+        r"For 5 points each, translate that same purpose clause using two different methods\.",
+        block,
+        re.IGNORECASE,
+    )
+    if purpose_bonus:
+        first_answer = block.find("<latin>")
+        question = re.sub(
+            r"^\s*(?:TOSS[- ]?UP\s*)?\d+[.):]\s*",
+            "",
+            block[:first_answer].strip(" ."),
+            flags=re.IGNORECASE,
+        )
+        answer = normalize_tags(block[first_answer:purpose_bonus.start()].strip())
+        return [
+            (normalize_tags(question), answer),
+            (purpose_bonus.group(), ""),
+        ]
+    province_prompt = re.match(
+        r"^\s*(?:\d+[.):]\s*)?(Name two provinces\b.*?[?.])(.*)$",
+        block,
+        re.IGNORECASE,
+    )
+    if province_prompt:
+        follow_ups = list(re.finditer(r"\bName two more\.", province_prompt.group(2), re.IGNORECASE))
+        if follow_ups:
+            answer = normalize_tags(province_prompt.group(2)[:follow_ups[0].start()].strip(" ."))
+            question = normalize_tags(province_prompt.group(1).strip())
+            return [(question, answer)] + [(match.group(), answer) for match in follow_ups]
     spans = answer_spans(block)
     if not spans:
         return [(normalize_tags(block.strip()), "")]

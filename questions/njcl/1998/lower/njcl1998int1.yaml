@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give the third person singular, present passive indicative for <latin>ignoscō</latin>"
+      answer: "<latin>IGNOSCITUR</latin>"
+    boni:
+      - question: "Change <latin>ignoscitur</latin> to imperfect"
+        answer: "<latin>IGNOSCĒBĀTUR</latin>"
+      - question: "Change <latin>ignoscēbātur</latin> to pluperfect"
+        answer: "<latin>IGNŌTUS/-A/-UM ERAT</latin>"
+  - tossup:
+      question: "What young companion and dear friend of Achilles was killed by Hector?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "What Lycian king was killed by Patroclus?"
+        answer: "SARPEDON"
+      - question: "Where was Patroclus reunited with Achilles in the after-life?"
+        answer: "WHITE ISLAND / LEUCE (AT THE MOUTH OF DANUBE ON THE BLACK SEA)"
+  - tossup:
+      question: "Translate this quotation from Cicero: <latin>Silent lēgēs inter arma</latin>"
+      answer: "LAWS ARE SILENT AMONG ARMS (DURING WAR)"
+    boni:
+      - question: "<latin>Magna dī cūrant, parva neglegunt</latin>"
+        answer: "THE GODS CARE ABOUT GREAT THINGS AND NEGLECT THE SMALL"
+      - question: "<latin>Summum iūs, summa iniūria</latin>"
+        answer: "THE LARGEST/HIGHEST/GREATEST LAW (IS) THE LARGEST INJUSTICE"
+  - tossup:
+      question: "What Roman girl swam across the Tiber to escape from Porsenna?"
+      answer: "CLOELIA"
+    boni:
+      - question: "Why did Porsenna free the recaptured Cloelia and his other hostages?"
+        answer: "BECAUSE OF HER BRAVERY"
+      - question: "What brave young Roman also impressed Porsenna when he put his right hand into the fire?"
+        answer: "(C.) MUCIUS SCAEVOLA"
+  - tossup:
+      question: "What two Latin words with what meanings combine to form the Latin word <latin>manceps</latin>?"
+      answer: "<latin>MANUS</latin> – HAND, BAND & <latin>CAPIŌ</latin> – TAKE"
+    boni:
+      - question: "What two Latin words with what meanings combine to form the Latin word <latin>trirēmis</latin>?"
+        answer: "<latin>TRĒS</latin> – THREE & <latin>RĒMUS</latin> – OAR"
+      - question: "What two Latin words with what meanings combine to form the Latin word <latin>flāvicomus</latin>?"
+        answer: "<latin>FLĀVUS</latin> – YELLOW & <latin>COMA</latin> – HAIR"
+  - tossup:
+      question: "What did the Romans call the registration of all adult male citizens every four or five years?"
+      answer: "<latin>CENSUS</latin>"
+    boni:
+      - question: "In the Republic, where was this census conducted and by whom?"
+        answer: "IN THE CAMPUS MARTIUS BY THE (TWO) CENSORS"
+      - question: "What Flavian emperor was the first to assume the censorship for life?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Who was the youngest of the great Olympian gods?"
+      answer: "DIONYSUS / BACCHUS / LIBER"
+    boni:
+      - question: "Which of Dionysus’ epithets means “the Twice-born”?"
+        answer: "DITHYRAMBOS (-US)"
+      - question: "Which of Dionysus’ epithets means “the Thunderer”?"
+        answer: "BROMIOS"
+  - tossup:
+      question: "Some Latin nouns are defective and occur only in plural form. What is the meaning of the plural-only noun <latin>īnsidiae</latin>?"
+      answer: "AMBUSH, PLOT, SNARE, TREACHERY"
+    boni:
+      - question: "What is the meaning of the plural-only noun <latin>nūptiae</latin>?"
+        answer: "WEDDING"
+      - question: "What is the meaning of the plural-only noun <latin>moenia</latin>?"
+        answer: "CITY/TOWN-WALL(S), BARRIERS* <emphasis>prompt if only WALL(S) is given FORTIFIED</emphasis> or <emphasis>DEFENSIVE</emphasis> walls acceptable"
+  - tossup:
+      question: "Who was killed by her own father to protect her from Appius Claudius?"
+      answer: "VERGINIA / VIRGINIA"
+    boni:
+      - question: "Of what commission was Appius Claudius the leader?"
+        answer: "<latin>DECEMVIRI (LEGIBUS SCRIBUNDĪS / SCRIBENDĪS)</latin>"
+      - question: " For what purpose had the commission been formed?"
+        answer: "TO PREPARE A WRITTEN CODE OF LAWS (TWELVE TABLES)"
+  - tossup:
+      question: "Give a synonym of <latin>via</latin>"
+      answer: "<latin>ITER, TRĀMĒS, SĒMITA</latin>"
+    boni:
+      - question: "Give a synonym of <latin>fānum</latin>"
+        answer: "<latin>TEMPLUM, DĒLŪBRUM, AEDĒS</latin> (SING.)<latin>, SACRĀRIUM, SACELLUM, CELLA</latin>"
+      - question: " Give a synonym of <latin>gravitās</latin>"
+        answer: "<latin>MŌLĒS, ONUS, PONDUS, SEVĒRITĀS, SOLLEMNITĀS</latin>"
+  - tossup:
+      question: "Make the phrase <latin>discipulus ignāvus</latin> dative singular"
+      answer: "<latin>DISCIPULŌ IGNĀVŌ</latin>"
+    boni:
+      - question: "Make <latin>discipulō ignāvō</latin> genitive"
+        answer: "<latin>DISCIPULĪ IGNĀVĪ</latin>"
+      - question: "Make <latin>discipulī ignāvī</latin> ablative"
+        answer: "<latin>DISCIPULŌ IGNĀVŌ</latin>"
+  - tossup:
+      question: "According to Ovid, what companion of Diana was transformed into a bear?"
+      answer: "CALLISTO"
+    boni:
+      - question: "What son of Callisto almost killed his own mother without knowing?"
+        answer: "ARCAS"
+      - question: "What request did Juno make with Oceanus and Tethys after she found out Jupiter had placed Callisto among the stars?"
+        answer: "JUNO ASKED (OCEANUS AND TETHYS) THAT CALLISTO N<emphasis>OT BE ALLOWED TO</emphasis> SINK BENEATH THE SEA AND <emphasis>REST</emphasis>"
+  - tossup:
+      question: "What Latin word with what meaning lies at the root of “expect”?"
+      answer: "<latin>SPECTĀRE</latin> – LOOK AT, WATCH, CONSIDER or <latin>SPECERE</latin> – SEE, OBSERVE, CONSIDER"
+    boni:
+      - question: "What Latin word with what meaning lies at the root of “expectorate”?"
+        answer: "<latin>PECTUS</latin> – CHEST, BREAST, SOUL"
+      - question: "What Latin word with what meaning lies at the root of “explicate”?"
+        answer: "<latin>PLICĀRE</latin> - FOLD"
+  - tossup:
+      question: "From the rostra, Julius Caesar delivered a eulogy for his departed aunt Julia. To what populist leader had Julia been married?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "What dictator remarked that in Caesar there was “many a Marius”?"
+        answer: "(L. CORNELIUS) SULLA"
+      - question: "Sulla had ordered Caesar to divorce his wife Cornelia because she was the daughter of what other populist leader?"
+        answer: "(L. CORNELIUS) CINNA"
+  - tossup:
+      question: "Who was sent to Carthage to remind Aeneas of his destiny in Italy?"
+      answer: "HERMES / MERCURY(-IUS) / CYLLENEUS"
+    boni:
+      - question: "Who was the queen of Carthage at this time?"
+        answer: "DIDO / ELISSA"
+      - question: "Who was the sister of Dido?"
+        answer: "ANNA"
+  - tossup:
+      question: "What does the Latin idiom <latin>“nāvem appellere”</latin> mean?"
+      answer: "TO LAND A SHIP"
+    boni:
+      - question: "What does the Latin idiom <latin>“nāvem subdūcere”</latin> mean?"
+        answer: "TO BEACH A SHIP"
+      - question: "What does the Latin idiom <latin>“nāvem mortuō applicāre”</latin> mean?"
+        answer: "TO RESCUE A DROWNED MAN FROM THE WATER / TO BRING ASSISTANCE WHEN TOO LATE"
+  - tossup:
+      question: "Which of the four wives of the emperor Claudius was the mother of his children Britannicus and Octavia?"
+      answer: "MESSAL(L)INA"
+    boni:
+      - question: "Which of the freedmen of Claudius had the unfaithful and traitorous Messalina executed?"
+        answer: "NARCISSUS"
+      - question: "Who was responsible for the deaths of both Britannicus and Octavia?"
+        answer: "NERO"
+  - tossup:
+      question: "Say in Latin with one word, “They are.”"
+      answer: "<latin>SUNT</latin>"
+    boni:
+      - question: "Say in Latin with one word, “They are able.”"
+        answer: "<latin>POSSUNT (QUEUNT)</latin>"
+      - question: "Say in Latin with one word, “They are well.”"
+        answer: "<latin>VALENT</latin>"
+  - tossup:
+      question: "A wall painting advertising rooms to rent in Pompeii reads <latin>“Hospitium hīc locātur. Trīclīnium cum tribus lectīs.”</latin> Besides hospitality, what is the main selling point of the ad?"
+      answer: "THERE IS A DINING ROOM WITH 3 DINING COUCHES"
+    boni:
+      - question: "Even the ancient Romans made grammatical errors. Look at the inscription labeled “A”, which was found on a drinking cup. Taking into consideration the error, translate the inscription, and explain why it is incorrect."
+        answer: "“A” = <latin>BIBE. VIVAS MULTIS ANNIS</latin> / “DRINK! MAY YOU LIVE FOR MANY YEARS” / DURATION OF TIME IS MOST OFTEN USED WITH THE ACCUSATIVE"
+      - question: "Look at the inscriptions labeled “B” and “C”, which were discovered together. Translate both of them. Then tell me the most likely place where they were discovered."
+        answer: "“B” = <latin>EME ET HABEBIS</latin> / “C” = <latin>FUR, CAVE MALUM</latin> / “B” = BUY (IT) AND YOU WILL HAVE (IT) / “C” = THIEF, BEWARE MISFORTUNE / THEY WERE MOST LIKELY FOUND IN A MARKETPLACE, SHOP, STORE"
+  - tossup:
+      question: "Which three children of Zeus served as judges in the Underworld?"
+      answer: "AEACUS, MINOS, & RHADAMANTHYS"
+    boni:
+      - question: "According to Vergil, in what region of the Underworld did Rhadamanthys serve as a judge?"
+        answer: "TARTARUS"
+      - question: "Which of the five rivers of the Underworld served as a moat around Tartarus?"
+        answer: "(PYRI)PHLEGETHON"

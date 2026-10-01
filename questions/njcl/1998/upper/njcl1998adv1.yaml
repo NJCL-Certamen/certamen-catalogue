@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What author in the sixth book of his masterpiece made an allusion to the death of Marcellus, the nephew of Augustus?"
+      answer: "(PUBLIUS) VERGIL(IUS MARO)"
+    boni:
+      - question: "Who fainted when Vergil read this passage from the <title>Aeneid</title> to members of the imperial family?"
+        answer: "(MARCELLUS’ MOTHER) OCTAVIA"
+      - question: "In the poem, what is Anchises showing Aeneas when they see Marcellus’ spirit?"
+        answer: "FUTURE (HEROES) OF ROME"
+  - tossup:
+      question: "Define <latin>harundō</latin>"
+      answer: "REED, FISHING ROD, PEN, ARROW"
+    boni:
+      - question: "Define <latin>hirundō</latin>"
+        answer: "BIRD (spec. swallow or martin)"
+      - question: "Define <latin>hīrūdō</latin>"
+        answer: "LEECH"
+  - tossup:
+      question: "Which of Aeneas’ wives died trying to flee from burning Troy?"
+      answer: "CREÜSA"
+    boni:
+      - question: "What son of Aeneas and Creüsa remained with his father and escaped from Troy safely?"
+        answer: "ASCANIUS / IÜLUS"
+      - question: "To what place of refuge did Aeneas and Iülus escape immediately after the sack of Troy?"
+        answer: "MT. IDA"
+  - tossup:
+      question: "Give an antonym of <latin>possum</latin>"
+      answer: "<latin>NEQUEŌ</latin>"
+    boni:
+      - question: "Give an antonym of <latin>lateō</latin>"
+        answer: "<latin>PATEŌ, PANDŌ</latin>"
+      - question: "Give an antonym of <latin>laxō</latin>"
+        answer: "<latin>NECTŌ, VINCIŌ, LIGŌ, (CON)STRINGŌ</latin>"
+  - tossup:
+      question: "In the Circus Maximus, what was the usual number of horses yoked to a racing chariot?"
+      answer: "FOUR"
+    boni:
+      - question: "Before Domitian, how many chariot-racing syndicates raced in Rome?"
+        answer: "FOUR"
+      - question: "By what four colors were these racing syndicates represented?"
+        answer: "RED, WHITE, BLUE, & GREEN"
+  - tossup:
+      question: "Which of the following verbs is NOT a derivative of <latin>pax</latin>: pacify, appease, pay, impact?"
+      answer: "IMPACT"
+    boni:
+      - question: "What verb is the root of “impact”?"
+        answer: "<latin>PANGŌ</latin> (<latin>PANGERE</latin>)"
+      - question: "What deponent verb shares a root with <latin>pax</latin>?"
+        answer: "<latin>PACISCOR</latin>"
+  - tossup:
+      question: "What tyrant’s sacrifice of a child at the shrine of Zeus in Arcadia greatly offended the god?"
+      answer: "LYCAON"
+    boni:
+      - question: "As punishment, what happened thereafter every time a sacrifice was made there?"
+        answer: "A MAN WAS TURNED INTO A WOLF"
+      - question: "Under what conditions could the wolf become a man again?"
+        answer: "IF IT WENT FOR A LONG TIME (8 OR 9 YEARS) WITHOUT EATING HUMAN FLESH"
+  - tossup:
+      question: "Which Roman king secured a supply of salt by taking from the Etruscans the control of the salt pans close to the mouth of the Tiber?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "What did Ancus build at Rome in order to bring the salt into the city?"
+        answer: "<latin>PONS SUBLICIUS</latin>"
+      - question: "Why was this bridge later destroyed?"
+        answer: "TO TRY TO PREVENT LARS PORSENNA / ETRUSCANS FROM INVADING & CAPTURING ROME"
+  - tossup:
+      question: "Translate: <latin>Nōn ut edam vīvō sed ut vīvam edō.</latin> "
+      answer: "I DO NOT LIVE TO EAT, BUT I EAT TO LIVE"
+    boni:
+      - question: "Translate: <latin>Quid faciam Rōmae? Circēnsēs mihī invīsī sunt.</latin> "
+        answer: "WHAT SHALL I / AM I TO DO IN / AT ROME? I HATE CIRCUS GAMES / CHARIOT RACES // CIRCUS GAMES ARE HATEFUL TO ME"
+      - question: "Translate: <latin>Quī stultīs vidērī ērudītī volunt, stultī ērudītīs videntur.</latin> "
+        answer: "THOSE WHO WANT TO SEEM INTELLIGENT TO THE STUPID SEEM STUPID TO THE INTELLIGENT"
+  - tossup:
+      question: "Which of Julius Caesar’s literary works covers the years 49 and 48 BC?"
+      answer: "<title><latin>COMMENTARII DĒ BELLŌ CIVILĪ</latin></title>"
+    boni:
+      - question: " In which of Caesar’s works does he discuss his military campaigns from 58 to 52 BC?"
+        answer: "<title><latin>COMMENTARII DĒ BELLŌ GALLICŌ</latin></title>"
+      - question: " Who wrote an eighth book as a continuation of Caesar’s <title><latin>Dē</latin></title> <title><latin>Bellō</latin></title> <title><latin>Gallic</latin></title>ō?"
+        answer: "(A.) HIRTIUS"
+  - tossup:
+      question: "According to one account, what deity was the owner of the <title>caduceus</title> before he gave it to Hermes?"
+      answer: "APOLLO"
+    boni:
+      - question: "What did Apollo receive in return after he gave Hermes the <title>caduceus</title>?"
+        answer: "THE LYRE"
+      - question: "What musical instrument was said to have been invented by Apollo?"
+        answer: "LUTE / CITHARA"
+  - tossup:
+      question: "Latin has no present participle in the passive voice. Name one construction used in its place"
+      answer: "CLAUSE WITH <latin>DUM</latin>, CLAUSE WITH <latin>CUM</latin>"
+    boni:
+      - question: "Latin also has no perfect participle in the active voice. For five points, name one construction used to fill this vacancy."
+        answer: "SEE BELOW"
+      - question: "Name another."
+        answer: "PERFECT PARTICIPLE IN ABLATIVE ABSOLUTE // TEMPORAL CLAUSE (<latin>CUM, POSTQUAM</latin>, ETC.) // UTILIZING THE PERFECT PARTICIPLE OF A DEPONENT VERB OF KINDRED MEANING SO THAT IT HAS AN ACTIVE MEANING"
+  - tossup:
+      question: "What cousin of Alexander the Great came to Italy to assist the Tarentines in their war with the Romans?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "At what two costly battles did Pyrrhus defeat the Romans?"
+        answer: "HERACLEA & ASCULUM"
+      - question: "After what battle in 275 B.C. did Pyrrhus leave Italy and return to his kingdom of Epirus?"
+        answer: "BENEVENTUM / MALEVENTUM"
+  - tossup:
+      question: "Give the third person plural, pluperfect active indicative of <latin>tendō</latin>"
+      answer: "<latin>TETENDERANT</latin>"
+    boni:
+      - question: "Give the same form for <latin>tundō</latin>"
+        answer: "<latin>TUTUDERANT</latin>"
+      - question: "Give the Fourth principal parts for <latin>tendō</latin> and <latin>tundō</latin>"
+        answer: "<latin>TENTUS / TENSUS, TUNSUS / TŪSUS</latin>"
+  - tossup:
+      question: "What literary device besides alliteration can be found in the Latin phrase <latin>“luctantīs ventōs tempestātēsque sonōrās”</latin>?"
+      answer: "CHIASMUS / HENDIADYS"
+    boni:
+      - question: "What literary device besides alliteration can be found in the Latin phrase <latin>“manūs ac supplicēs vōcēs ad Tiberium tendēns”</latin>?"
+        answer: "ZEUGMA / SYLLEPSIS"
+      - question: "What literary device besides alliteration can be found in the Latin phrase <latin>“nōn indecōrō pulvere sordidī”</latin>?"
+        answer: "LITOTES"
+  - tossup:
+      question: "<latin>quibus animalibus fit mel?</latin>"
+      answer: "<latin>ĀB APIBUS</latin>"
+    boni:
+      - question: "<latin>Quod nōmen est domuī apium?</latin>"
+        answer: "<latin>ALVUS (-Ō) / ALVEUS (-Ō) / ALVEĀRIUM (-Ō) PRAESAEPE (-Ī) / PRAESIPIA (-AE)</latin>"
+      - question: " <latin>Quam māteriam faciunt apēs in quā mel pōsitum est?</latin>"
+        answer: "<latin>CĒRAM / CĒRĀS</latin>"
+  - tossup:
+      question: "Which of the first century AD Roman emperors halted territorial expansion and expressly directed his successors to keep the empire within the borders which he had set?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Please look at the handout and tell me the letter of the picture of the emperor who extended the empire to its greatest territorial extent"
+        answer: "“F” (TRAJAN)"
+      - question: "Tell me the letter of the picture of the emperor who withdrew from some of the territory added by his predecessor because he could not defend the new borders"
+        answer: "“E” (HADRIAN)"
+  - tossup:
+      question: "What tribe of substance abusers did Odysseus encounter on the Libyan coast?"
+      answer: "LOTUS-EATERS / LOTOPHAGI"
+    boni:
+      - question: "What effect did the fruit of the lotus have on the people?"
+        answer: "IT ROBBED THEM OF THE AMBITION TO DO ANYTHING MORE DEMANDING / MAKE THEM FORGET ABOUT EVERYTHING"
+      - question: "After he dragged his scouts back to the boat, what did Odysseus have to do to prevent his men from returning to the land of the Lotus-Eaters?"
+        answer: "HE CLAMPED THEM IN IRONS / HE RESTRAINED THEM"
+  - tossup:
+      question: "Which Roman writer was the first to collect the historical traditions of early Rome and unite them in a single narrative entitled <title><latin>Annalēs</latin></title>?"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "In what meter is his <title><latin>Annalēs</latin></title> written?"
+        answer: "DACTYLIC HEXAMETER"
+      - question: "In what meter had previous Latin epics been written?"
+        answer: "SATURNIAN"
+  - tossup:
+      question: "What is the meaning of the Ciceronian idiom <latin>“fidem fallere”</latin>?"
+      answer: "TO BREAK A PROMISE"
+    boni:
+      - question: "What is the meaning of the Ciceronian idiom <latin>“fidem facere”</latin>?"
+        answer: "TO CONVINCE"
+      - question: "What is the meaning of the Ciceronian idiom <latin>“fidēs pūblica”</latin>?"
+        answer: "PROMISE OF IMMUNITY"

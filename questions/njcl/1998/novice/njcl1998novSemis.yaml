@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What number on the map indicates the province of Asia?"
+      answer: "#9"
+    boni:
+      - question: "What number on the map indicates the province of Lusitania?"
+        answer: "#23"
+      - question: "What number on the map indicates the province of Achaea?"
+        answer: "#6"
+  - tossup:
+      question: "What two Latin declensions contain no neuter nouns at all?"
+      answer: "FIRST & FIFTH"
+    boni:
+      - question: "Name three first declension nouns that are not feminine in gender"
+        answer: "<latin>INCOLA, SCRĪBA, NAUTA, AGRICOLA, POĒTA, AURĪGA, PĪRĀTA</latin>, ETC. (Family or personal names that end in -<latin>a</latin> such as <latin>Mūrēna</latin> are also acceptable)"
+      - question: "Name two fifth declension nouns that are not feminine in gender"
+        answer: "<latin>DIĒS, MERĪDIĒS</latin>"
+  - tossup:
+      question: "Give the first person singular, pluperfect active indicative for <latin>tollō</latin>"
+      answer: "<latin>SUSTULERAM</latin>"
+    boni:
+      - question: "Change <latin>sustuleram</latin> to future perfect"
+        answer: "<latin>SUSTULERŌ</latin>"
+      - question: "Change <latin>sustulerō</latin> to passive"
+        answer: "<latin>SUBLĀTUS (-A, -UM) ERŌ</latin>"
+  - tossup:
+      question: "Who ordered her chariot driver to drive over the dead body of her father, the king Servius Tullius?"
+      answer: "TULLIA (MINOR)"
+    boni:
+      - question: "Who, at Tullia’s urging, had murdered Tullia’s father?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "What two other family members died because of Tullia’s ambition?"
+        answer: "HER HUSBAND (ARUNS TARQUINIUS) & SISTER (TULLIA MAIOR)"
+  - tossup:
+      question: "Name two of the children of Gaia and Pontus, the personification of the sea."
+      answer: "NEREUS / PHORCYS / EURYBIA / THAUMAS / CETO"
+    boni:
+      - question: "For five points, name one more."
+        answer: "NEREUS / PHORCYS / EURYBIA / THAUMAS / CETO"
+      - question: "For five points, name one more."
+        answer: "NEREUS / PHORCYS / EURYBIA / THAUMAS / CETO"
+  - tossup:
+      question: "Translate: <latin>Prīmā lūce trēs iuvenēs in forum ambulāvērunt.</latin>"
+      answer: "AT DAWN / FIRST LIGHT THREE YOUTHS WALKED INTO THE FORUM"
+    boni:
+      - question: "Translate: <latin>Sōlis occāsū circum Campum Martium currēbant quam celerrimē.</latin>"
+        answer: "AT SUNSET THEY RAN AROUND THE CAMPUS MARTIUS AS QUICKLY AS POSSIBLE"
+      - question: "Translate: <latin>Tum thermās intrāvērunt, ubi natāvērunt strēnuē.</latin>"
+        answer: "THEN THEY ENTERED THE BATHS, WHERE THEY SWAM VIGOROUSLY/ ACTIVELY/ENERGETICALLY/RESTLESSLY/TURBULENTLY"
+  - tossup:
+      question: "According to one account, who became the immortal gate-keeper of Olympus after his mortal flesh was burned away on Mt. Oeta?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What daughter of Hera became the immortal companion of Heracles?"
+        answer: "HEBE"
+      - question: "Whom did Heracles persuade Hebe to make young again so that he could defend the children of Heracles from Eurystheus’ attack?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "Make the phrase <latin>illa virgō</latin> genitive singular"
+      answer: "<latin>ILLĪUS VIRGINIS</latin>"
+    boni:
+      - question: "Change <latin>illīus virginis</latin> to plural"
+        answer: "<latin>ILLĀRUM VIRGINUM</latin>"
+      - question: "Change <latin>illārum virginum</latin> to ablative"
+        answer: "<latin>ILLĪS VIRGINIBUS</latin>"
+  - tossup:
+      question: "What use of the dative case is found in the following: <latin>Mihī erat domus splendida</latin>"
+      answer: "POSSESSION"
+    boni:
+      - question: "<latin>Nōbīs iter faciendum est</latin>"
+        answer: "AGENCY"
+      - question: "<latin>Meus avunculus aurum mihi crēdiderat</latin>"
+        answer: "W/ SPECIAL VERBS"
+  - tossup:
+      question: "Who carried the <latin>fasces</latin>, the Roman symbol of office?"
+      answer: "<latin>LICTOR(E)S</latin>"
+    boni:
+      - question: "The <latin>fasces</latin> were a bundle of elm or birch rods tied together by red thongs. What was in the center of the rods?"
+        answer: "AN AXE (<latin>SECŪRIS</latin>)"
+      - question: "Name two of the three magistrates in the republican era who were entitled to be accompanied by lictors carrying the <latin>fasces</latin>"
+        answer: "PRAETORS, CONSULS, & DICTATORS"
+  - tossup:
+      question: "Translate the relative pronoun into Latin for this sentence: The boys, whose dogs are running in the field, are playing ball"
+      answer: "<latin>QUŌRUM</latin>"
+    boni:
+      - question: "Translate the relative pronoun into Latin for this sentence: The girls, who are being taught arithmetic, are sitting under a tree"
+        answer: "<latin>QUAE</latin>"
+      - question: "Translate the relative pronoun into Latin for this sentence: The moderator, to whom much money is given, will be very lenient"
+        answer: "<latin>CUI</latin>"
+  - tossup:
+      question: "To whom did Perseus give his divine weapons so that they could be returned to their original owners?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "Who had instructed Perseus to do this?"
+        answer: "ATHENA / MINERVA"
+      - question: "Who became the king of Seriphus after Perseus turned the former king Polydectes into stone?"
+        answer: "DICTYS"
+  - tossup:
+      question: "There is a small town on the west coast of Italy named Sperlonga, so called because it is the place, still seen today, where the emperor Tiberius had a residence built in a grotto next to the sea. If you take a close look at the word Sperlonga, you will notice that it is derived from what Latin word for “cave”?"
+      answer: "<latin>SPĒLUNCA</latin>"
+    boni:
+      - question: " Give a synonym for <latin>spēlunca</latin>"
+        answer: "<latin>ANTRUM, CAVEA, CAVERNA, SPĒLAEUM</latin>"
+      - question: "What derivative of <latin>spēlunca</latin> is an English adjective used to describe a person who explores caves?"
+        answer: "SPELUNKER"
+  - tossup:
+      question: "Whom did Tiberius Claudius Nero divorce in 39 B.C. so that Octavian could marry her?"
+      answer: "LIVIA (DRUSILLA)"
+    boni:
+      - question: "Name Livia’s two sons by her first husband"
+        answer: "TIBERIUS & DRUSUS (THE ELDER)"
+      - question: "Through which of her sons does she become the ancestress of three of the Julio-Claudian emperors?"
+        answer: "DRUSUS"
+  - tossup:
+      question: "Which of the following, if any, IS a synonym of <latin>clārus</latin>: <latin>levis, incertus, formōsus, nōbilis, torvus</latin>?"
+      answer: "<latin>NŌBILIS</latin>"
+    boni:
+      - question: "Which of the following, if any, IS a synonym of <latin>horribilis</latin>: <latin>viridis, madidus, fervidus, calidus, fēlīx</latin>?"
+        answer: "NONE"
+      - question: "Which of the following, if any, IS a synonym of <latin>benīgnus</latin>: <latin>līberālis, cīvīlis, virīlis, claudus, dīrus</latin>?"
+        answer: "<latin>LĪBERĀLIS</latin>"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>ācer</latin>"
+      answer: "<latin>ĀCRIOR, ĀCERRIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>facilis</latin>"
+        answer: "<latin>FACILIOR, FACILLIMUS</latin>"
+      - question: "Give the comparative and superlative forms of <latin>antīquus</latin>"
+        answer: "<latin>ANTĪQUIOR, ANTĪQUISSIMUS</latin>"
+  - tossup:
+      question: "What former comrade of Odysseus was the first ghost to appear to him when he visited the Underworld?"
+      answer: "ELPENOR"
+    boni:
+      - question: "What request did Elpenor make with Odysseus?"
+        answer: "HE BEGGED ODYSSEUS NOT TO LEAVE HIS CORPSE UNBURIED (AND UNMOURNED) IN AEAEA"
+      - question: "How did Elpenor die?"
+        answer: "HE (GOT DRUNK AND) FELL OFF THE ROOF OF CIRCE’S PALACE (AND BROKE HIS NECK)"
+  - tossup:
+      question: "What queen, wearing chains of gold, walked in the emperor’s triumphal parade in AD 274?"
+      answer: "ZENOBIA"
+    boni:
+      - question: "Of what empire had Zenobia been the ruler?"
+        answer: "PALMYRA"
+      - question: "What emperor had captured Palmyra and brought it back into the Roman empire"
+        answer: "AURELIAN"
+  - tossup:
+      question: "What young Trojan prince was so afraid of his father’s war helmet that he shrank back into the arms of his nurse upon seeing his father?"
+      answer: "ASTYANAX / SCAMANDRIUS"
+    boni:
+      - question: "Who were the parents of Astyanax?"
+        answer: "HECTOR & ANDROMACHE"
+      - question: "How did Astyanax die?"
+        answer: "HE WAS FLUNG TO HIS DEATH FROM THE WALLS OF TROY (BY ODYSSEUS / NEOPTOLEMUS / PYRRHUS / MENELAÜS)"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN LATIN the question about it. <latin>Marce, tuās litterās libenter lēgī. Recognoscō perīculum Brundisiī dīrum esse. Itaque viā Appiā iter faciam et celeriter Brundisium ībō</latin>. <latin>Cuius litterae lectae sunt?</latin>"
+      answer: "<latin>MARCĪ</latin>"
+    boni:
+      - question: "<latin>Ubī est perīculum dīrum?</latin>"
+        answer: "<latin>BRUNDIS(I)Ī</latin>"
+      - question: "<latin>In quā viā pōsitum est Brundisium?</latin>"
+        answer: "<latin>IN VIĀ APPIĀ</latin>"

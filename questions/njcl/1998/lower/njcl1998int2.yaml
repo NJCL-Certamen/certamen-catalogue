@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What Roman began his <latin>cursus honorum</latin> by serving as <latin>quaestor</latin> in 75 BC in Sicily and <latin>praetor</latin> in 66 BC?"
+      answer: "M. TULLIUS CICERO"
+    boni:
+      - question: "For what year was Cicero <latin>consul</latin>?"
+        answer: "63 BC"
+      - question: "What political disadvantage made Cicero’s election to the consulship remarkable?"
+        answer: "NO ONE IN HIS FAMILY HAD EVER SERVED IN SENATE OR AS CONSUL / <latin>NOVUS HOMO</latin>"
+  - tossup:
+      question: "Say in Latin, “on the ground.”"
+      answer: "<latin>HŪMĪ</latin>"
+    boni:
+      - question: "Say in Latin, “in Italy.”"
+        answer: "<latin>IN ITALIĀ</latin>"
+      - question: "Say in Latin, “at Beneventum.”"
+        answer: "<latin>BENEVENTĪ</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>subitō</latin>"
+      answer: "<latin>CONFESTIM, (DE)REPENTE, CONTINUŌ, PRŌTĪNUS, RAPTIM, ACTUTUM, STATIM, EXTEMPLŌ</latin>"
+    boni:
+      - question: "Give a synonym of <latin>diligenter</latin>"
+        answer: "<latin>SEDULŌ(-Ē), INDUSTRIĒ, NAVITER (-Ē), SCRUPULOSĒ</latin>"
+      - question: "Give a synonym of <latin>ergō</latin>"
+        answer: "<latin>IDCIRCŌ, IGITUR, ITAQUE, (ID)EŌ, PROPTEREA, QUAMOBREM, QUĀRĒ, PROIN(DE), QUĀ DĒ CAUSĀ</latin>"
+  - tossup:
+      question: "Who incurred the wrath of Venus because her loveliness became so famous that people everywhere stopped worshiping at the shrine of the goddess?"
+      answer: "PSYCHE"
+    boni:
+      - question: "Whom did Psyche marry?"
+        answer: "CUPID"
+      - question: "Who was the daughter of Cupid and Psyche?"
+        answer: "VOLUPTA(S)"
+  - tossup:
+      question: "From what Latin verb with what meaning are “poison” and “potion” derived?"
+      answer: "<latin>PŌTĀRE</latin> – DRINK, SWALLOW, SOAK UP"
+    boni:
+      - question: "From what Latin verb with what meaning are “poignant” and “pungent” derived?"
+        answer: "<latin>PUNGERE</latin> – PRICK, PUNCTURE, VEX"
+      - question: "From what Latin verb with what meaning are “medley” and “melee” derived?"
+        answer: "<latin>MISCĒRE</latin> – MIX, BLEND"
+  - tossup:
+      question: "Who killed a tortoise on the first day of his life and used its shell to make a musical instrument?"
+      answer: "HERMES / MERCURY (-IUS)"
+    boni:
+      - question: "Identify the mythological item that is labeled “A”"
+        answer: "CADUCEUS"
+      - question: "Identify the footwear that is labeled “C”"
+        answer: "TALARIA"
+  - tossup:
+      question: "Whom did Mark Antony marry in 40 BC to seal the Pact of Brundisium?"
+      answer: "OCTAVIA"
+    boni:
+      - question: "What was Octavia’s relationship to Octavian?"
+        answer: "HIS SISTER"
+      - question: "Which emperor was Octavia’s grandson?"
+        answer: "CLAUDIUS (I)"
+  - tossup:
+      question: "Differentiate in meaning between <latin>errō</latin> and <latin>ūrō</latin>"
+      answer: "<latin>ERRŌ</latin> - WANDER, ERR, FLOAT <latin>ŪRŌ</latin> - BURN, DRY UP, INFLAME, DESTROY, TATOO"
+    boni:
+      - question: "Differentiate in meaning between <latin>creō</latin> and <latin>crēdō</latin>"
+        answer: "<latin>CREŌ</latin> - PRODUCE, MAKE, CREATE, BEGET, BRING FORTH, CAUSE, EFFECT, CHOOSE, ELECT <latin>CRĒDŌ</latin> - BELIVE, TRUST, COMMIT, CONSIGN, INTRUST, CONFIDE, GIVE CREDENCE TO, THINK, BE OF OPINION, SUPPOSE, IMAGINE"
+      - question: "Differentiate in meaning between <latin>fūstis</latin> and <latin>frustrā</latin>"
+        answer: "<latin>FŪSTIS</latin> - CLUB"
+  - tossup:
+      question: "What modern city was the Roman city of <latin>Carthago Nova</latin>?"
+      answer: "CARTAGENA"
+    boni:
+      - question: "What modern city was the Roman city of <latin>Aelia Capitolina</latin>?"
+        answer: "JERUSALEM"
+      - question: "What modern city was the Roman city of <latin>Lugdunum</latin>?"
+        answer: "LYONS"
+  - tossup:
+      question: "Give all of the gerunds for <latin>habitō</latin>"
+      answer: "<latin>HABITANDĪ, HABITANDŌ, HABITANDUM, HABITANDŌ</latin>"
+    boni:
+      - question: "Which of those forms would be used in conjunction with <latin>causā</latin>"
+        answer: "<latin>HABITANDĪ</latin>"
+      - question: "What form of <latin>habitō</latin> is used as a replacement to the nonexistent nominative of the gerund?"
+        answer: "<latin>HABITĀRE</latin>"
+  - tossup:
+      question: "Name one archaic ending for the genitive singular of first declension. <emphasis>see below for answers</emphasis>"
+      answer: "-<latin>ĀS</latin> (e.g. <latin>familiās</latin>)"
+    boni:
+      - question: "Name another. <emphasis>see below for answers</emphasis>"
+        answer: "-<latin>ĀĪ</latin> (e.g. <latin>aulā</latin>ī)"
+      - question: "Name the archaic ending for the ablative singular of first declension."
+        answer: "-<latin>ĀD</latin>"
+  - tossup:
+      question: "What half-brother of Heracles was also his great-grandfather?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What son of Perseus was the father of Heracles’ mother Alcmene?"
+        answer: "ELECTRYON"
+      - question: "What son of Perseus was the father of Heracles’ stepfather Amphitryon?"
+        answer: "ALCAEÜS"
+  - tossup:
+      question: "To whom would the <latin>pontifex maximus</latin> say, “<latin>te, Amata, capio</latin>”?"
+      answer: "YOUNG GIRL CHOSEN TO BE A VESTAL VIRGIN"
+    boni:
+      - question: "Between what ages were the young girls presented to the <latin>pontifex maximus</latin> for selection as a Vestal Virgin?"
+        answer: "SIX TO TEN"
+      - question: "What was the <latin>Atrium Vestae</latin>?"
+        answer: "HOUSE OF THE VESTALS"
+  - tossup:
+      question: "Give the first person plural, present indicative for <latin>aggredior</latin>"
+      answer: "<latin>AGGREDIMUR</latin>"
+    boni:
+      - question: "Change <latin>aggredimur</latin> to imperfect"
+        answer: "<latin>AGGREDIĒBĀMUR</latin>"
+      - question: "Change <latin>aggrediēbāmur</latin> to perfect"
+        answer: "<latin>AGGRESSĪ (-AE/-A) SUMUS</latin>"
+  - tossup:
+      question: "What does the Latin abbreviation <latin>a.v.</latin> mean when it stands for <latin>annōs vixit</latin>?"
+      answer: "HE/SHE LIVED FOR (SO MANY) YEARS"
+    boni:
+      - question: "What does the Latin abbreviation <latin>a.v.</latin> mean when it stands for <latin>ad valōrem</latin>?"
+        answer: "ACCORDING TO THE VALUE"
+      - question: "If you change one of the letters in the previously mentioned abbreviation, you’ll get a new abbreviation that means “farewell”. What is this Latin abbreviation?"
+        answer: "<latin>B.V.</latin>"
+  - tossup:
+      question: "Penelope, seeming to capitulate, told her suitors that she would marry the one who could perform what task?"
+      answer: "STRING ODYSSEUS’ BOW AND SHOOT AN ARROW THROUGH (TWELVE) AXES (AXE-HEADS)"
+    boni:
+      - question: "Who had given Odysseus this bow?"
+        answer: "IPHITUS"
+      - question: "Which suitor managed not to have to attempt the task with a ruse?"
+        answer: "ANTINOÜS"
+  - tossup:
+      question: "Which of the following Latin numerals answers the question “In which order”: <latin>secundus, bis, bīnī, duō, duplex</latin>?"
+      answer: "<latin>SECUNDUS</latin>"
+    boni:
+      - question: "Which one of those answer the question “How many at a time”?"
+        answer: "<latin>BĪNĪ</latin>"
+      - question: "Which one answers the question “How often”?"
+        answer: "<latin>BIS</latin>"
+  - tossup:
+      question: "What Lemnian queen welcomed Jason and the Argonauts when they arrived on her island?"
+      answer: "HYPSIPYLE"
+    boni:
+      - question: "What shrewd old nurse of Hypsipyle advised the women of Lemnos to invite the Argonauts not only into the city, but into their homes as well?"
+        answer: "POLYXO"
+      - question: "According to some accounts, who criticized the Argonauts’ shameful way of winning “glory” and asked them to leave Lemnos and be on their way?"
+        answer: "HERACLES / HERCULES"
+  - tossup:
+      question: "What was issued in AD 313 to stop the persecution of the Christians?"
+      answer: "EDICT OF MILAN"
+    boni:
+      - question: "Who were the two Augusti in AD 313?"
+        answer: "CONSTANTINE (I) & LICINIUS"
+      - question: "What victory did Constantine feel that he owed to the Christian god?"
+        answer: "BATTLE OF MILVIAN BRIDGE (WHERE HE DEFEATED MAXENTIUS)"
+  - tossup:
+      question: "Translate the purpose clause into Latin for the sentence “Julia and Julilla went to the forum to hear the orations.”"
+      answer: "SEE BELOW"
+    boni:
+      - question: "For 5 points each, translate that same purpose clause using two different methods."
+        answer: "<latin>UT ŌRĀTIŌNĒS AUDĪRENT / QUAE ŌRĀTIŌNĒS AUDĪRENT /</latin>  <latin>AD ŌRĀTIŌNĒS AUDIENDĀS / ŌRĀTIŌNUM AUDIENDĀRUM CAUSĀ (GRĀTIĀ) / ŌRĀTIŌNĒS AUDĪTUM / ŌRĀTIŌNĒS</latin>  <latin>AUDĪTŪRAE</latin> (must be designated as late)"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "During the Trojan War, what two enemies exchanged their armor on account of the friendship of their ancestors?"
+      answer: "DIOMEDES & GLAUCUS"
+    boni:
+      - question: "According to Diomedes, how was this friendship formed?"
+        answer: "<emphasis>DIOMEDES’ GRANDFATHER</emphasis> (OENEUS) ENTERTAINED <emphasis>GLAUCUS’ GRANDFATHER</emphasis> (BELLEROPHON FOR 20 DAYS) AT HIS HOUSE / HOSPITALITY BETWEEN DIOMEDES’ GRANDFATHER AND GLAUCUS’ GRANDFATHER"
+      - question: "How did Diomedes get the better end of the deal?"
+        answer: "GLAUCUS’ ARMOR WAS MADE OF <emphasis>GOLD</emphasis> WHEREAS DIOMEDES’ WAS MADE OF <emphasis>BRONZE</emphasis> / GLAUCUS’ ARMOR WAS WORTH"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “pay”?"
+      answer: "<latin>PĀCĀRE</latin> – SUBDUE, IMPOSE"
+    boni:
+      - question: "What Latin verb with what meaning is the root of “plaintiff”?"
+        answer: "<latin>PLANGERE</latin> – BEAT, STRIKE, MOURN FOR SETTLEMENT ON"
+      - question: "What Latin verb with what meaning is the root of “culprit”?"
+        answer: "<latin>PRAESTĀRE</latin> – STAND BEFORE / STAND OUT / BE EXCELLENT"
+  - tossup:
+      question: "Name a building or structure that was built in the <latin>Campus Martius</latin> by Augustus"
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name another."
+        answer: "SEE BELOW"
+      - question: "Name a third."
+        answer: "THEATER OF MARCELLUS, <latin>ARA PACIS</latin>, PORTICO OF OCTAVIA, HOROLOGIUM / SOLARIUM OF AUGUSTUS, <latin>SAEPTA IULIA</latin> (finished) & MAUSOLEUM OF AUGUSTUS"
+  - tossup:
+      question: "What native Italian poet was the first to write an epic about a Latin subject?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: " What is the title of Naevius’ great epic poem?"
+        answer: "<title><latin>BELLUM PUNICUM / POENICUM</latin></title>"
+      - question: "Of what type of <latin>fābulae</latin> was Naevius the originator?"
+        answer: "<latin>FĀBULA(E) PRAETEXTA(E)</latin>"
+  - tossup:
+      question: "Name the Roman woman who accused her ex-lover Caelius of attempted murder"
+      answer: "CLODIA"
+    boni:
+      - question: "Who successfully defended Caelius by impugning Clodia’s character?"
+        answer: "CICERO"
+      - question: "Whom did Cicero acccuse Clodia of murdering?"
+        answer: "(HER HUSBAND) Q. METELLUS CELER"
+  - tossup:
+      question: "Translate: <latin>Aliquī dīcunt patriam amīcitiae praepōnendam esse.</latin>"
+      answer: "SOME SAY THAT (ONE’S) COUNTRY OUGHT TO BE PLACED AHEAD OF FRIENDSHIP"
+    boni:
+      - question: "Translate: <latin>Praepōnātur patria amīcitiae dum salūs patriae in perīculō sit</latin>"
+        answer: "LET THE COUNTRY BE PUT AHEAD OF FRIENDSHIP SO LONG AS THE COUNTRY’S SAFETY IS IN DANGER"
+      - question: "Translate: <latin>Quī sunt quī salūtem patriae putent esse in perīculō?</latin>"
+        answer: "WHO ARE THERE WHO THINK THAT THE SAFETY OF THE COUNTRY IS IN DANGER"
+  - tossup:
+      question: "Using the verb <latin>relinquō</latin>, translate into Latin the dependent subjunctive clause in the following sentence using your best Latin prose: “The gates of the city were shut in order that no one might leave the city”"
+      answer: "<latin>NĒ QUIS URBEM RELINQUERET</latin>"
+    boni:
+      - question: "Again, using the verb <latin>relinquō</latin>, translate into Latin the dependent subjunctive clause in the following sentence using your best Latin prose: “The fear of all the enemy was so great that no one had left the city”"
+        answer: "<latin>UT NĒMŌ URBEM RELĪQUISSET</latin>"
+      - question: "How would you best translate the phrase “in order that nothing” into Latin when using a purpose clause?"
+        answer: "<latin>NĒ QUID</latin>"
+  - tossup:
+      question: "Whose girdle was thought to bestow some magical properties on its possessor and was involved in one of the labors of Hercules?"
+      answer: "HIPPOLYTA/E"
+    boni:
+      - question: "Of what tribe was Hippolyta the queen?"
+        answer: "THE AMAZONS"
+      - question: "What daughter of Eurystheus desired the girdle of Hippolyta so badly that he sent Hercules to fetch it?"
+        answer: "ADMETE"
+  - tossup:
+      question: "Who was the author of the first surviving biography in Latin?"
+      answer: "(CORNELIUS) NEPOS"
+    boni:
+      - question: "What is the title of Nepos’ collection of biographical sketches?"
+        answer: "<title><latin>DĒ VIRĪS ILLUSTRIBUS</latin></title>"
+      - question: "To what man, whose life is one of the biographies, did Nepos dedicate this work?"
+        answer: "(T. POMPONIUS) ATTICUS"
+  - tossup:
+      question: "Some nouns are defective and occur only in plural form. What is the meaning of the plural only noun <latin>crepundia</latin>?"
+      answer: "(A CHILD’S) RATTLE"
+    boni:
+      - question: "What is the meaning of <latin>cūnae</latin>?"
+        answer: "CRIB, NEST, CRADLE (OF SMALL ANIMAL)"
+      - question: "What is the meaning of <latin>nūndinae</latin>?"
+        answer: "A MARKET DAY, MARKET"
+  - tossup:
+      question: "What use of the dative case is found in the following: <latin>Karthāginī iam nōn nūntiōs mittam superbōs</latin>?"
+      answer: "LOCAL, PLACE TO WHICH"
+    boni:
+      - question: "<latin>Ecce tibī Marcus</latin>!"
+        answer: "ETHICAL (ask for more information if reference is given)"
+      - question: "<latin>vītam adulēscentibus vīs aufert</latin>"
+        answer: "SEPARATION"
+  - tossup:
+      question: "What kind of satire is a work such as Seneca the Younger’s <title><latin>Apocolocyntosis</latin></title>, which is a mixture of prose and poetry?"
+      answer: "MENIPPEAN SATIRE"
+    boni:
+      - question: "Which of Seneca the Younger’s works is a collection of 124 letters addressed to his friend Lucilius?"
+        answer: "<title><latin>EPISTULAE MORALĒS</latin></title>"
+      - question: "Which of Seneca the Younger’s works is an examination of natural phenomena from a Stoic standpoint?"
+        answer: "<title><latin>NATURALĒS QUAESTIONĒS</latin></title>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN LATIN the question about it. <latin>Quīdam homō duōs fīliōs habēbat, frūgī et luxuriōsum. Ōlim profectī, sunt captī ā pīrātīs. Luxuriōsus aeger esse coepit et mortuus est. Alter, ruptīs vinculīs, fūgit et domum reversus est.</latin>  <latin>Quī ā pīrātīs captī sunt?</latin>"
+      answer: "<latin>(DUŌ) FĪLIĪ (CUIUSDAM HOMINIS)</latin>"
+    boni:
+      - question: "<latin>Quālis erat fīlius quī mortuus est?</latin>"
+        answer: "<latin>LUXURIŌSUS / AEGER</latin>"
+      - question: "<latin>Quid fēcit fīlius frūgī ut domum revertī posset?</latin>"
+        answer: "<latin>VINCULA RŪPIT</latin>"
+  - tossup:
+      question: "What sorceress tried to kill Theseus when he arrived in Athens?"
+      answer: "MEDEA"
+    boni:
+      - question: "What poisonous plant did Medea put in Theseus’ wine?"
+        answer: "ACONITE"
+      - question: "What son of Medea and Aegeus would have been Aegeus’ successor had Medea succeeded in her plot?"
+        answer: "MEDUS"
+  - tossup:
+      question: "Which Roman emperor trusted his mother Julia Domna to carry out important state business?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Who was the husband of Julia Domna and the father of Caracalla?"
+        answer: "SEPTIMIUS SEVERUS"
+      - question: "Julia Domna committed suicide shortly after learning of Caracalla’s assassination by what praetorian prefect?"
+        answer: "(M. OPELLIUS) MACRINUS"
+  - tossup:
+      question: "Consider this line from Vergil, which I will read as if prose: <latin>“Conticuēre omnēs intentīque ōra tenēbant”</latin>. Where would you find the elisions in that line?"
+      answer: "BETWEEN <latin>CONTICUĒRE</latin> AND <latin>OMNĒS</latin> & BETWEEN <latin>INTENTĪQUE</latin> AND <latin>ŌRA</latin> (PASS OUT THE HANDOUT)"
+    boni:
+      - question: "<latin>“Dīxerat, atque illam media inter tālia ferrō conlāpsam aspiciunt comitēs, ēnsemque cruōre</latin>  <latin>spūmantem sparsāsque manūs. It clāmor ad alta</latin>  <latin>ātria: concussam bacchātur Fāma per urbem.”</latin>  Please look at the handout, which contains a picture from page 41 of the Vatican Vergil codex, written at approximately A.D. 400. How many dactyls are in the first line?"
+        answer: "THREE"
+      - question: "Now look at line two. What are the words which exemplify ecthlipsis?"
+        answer: "<latin>CONLĀPSAM</latin> & <latin>ASPICIUNT</latin>"
+  - tossup:
+      question: "What Latin noun is common to the abbreviations <latin>f.v.</latin> and <latin>f.r.</latin>?"
+      answer: "<latin>FOLIUM (-Ō)</latin>"
+    boni:
+      - question: "What is the meaning of the abbreviation <latin>f.r.</latin>?"
+        answer: "ON THE FRONT OF THE / RIGHT-HAND PAGE <latin>* F.R. = FOLIŌ RECTŌ</latin>"
+      - question: "What is the meaning of the abbreviation <latin>f.v.</latin>?"
+        answer: "ON THE BACK OF THE / LEFT-HAND PAGE <latin>* F.V. = FOLIŌ VERSŌ</latin>"
+  - tossup:
+      question: "Give the supine forms for <latin>sepeliō</latin>"
+      answer: "<latin>SEPULTUM, SEPULTŪ</latin>"
+    boni:
+      - question: "Give the supine forms for <latin>nūbō</latin>"
+        answer: "<latin>NŪPTUM, NŪPTŪ</latin>"
+      - question: "Give the supine forms for <latin>nascor</latin>"
+        answer: "<latin>NĀTUM, NĀTŪ</latin>"
+  - tossup:
+      question: "What in Rome were named <latin>Appia, Julia, Claudia,</latin> & <latin>Marcia</latin>?"
+      answer: "AQUEDUCTS"
+    boni:
+      - question: "Which of these was Rome’s first aqueduct?"
+        answer: "<latin>AQUA APPIA</latin>"
+      - question: "Which of these was the first elevated aqueduct and is still in use?"
+        answer: "<latin>AQUA MARCIA / Acqua Pia / Marcia-Pia</latin>"
+  - tossup:
+      question: "According to one source, what Calydonian prince killed Aeëtes, king of Colchis?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Whom did Meleager marry after his return to Calydon?"
+        answer: "CLEOPATRA"
+      - question: "Who was the daughter of Meleager and Cleopatra?"
+        answer: "POLYDORA"

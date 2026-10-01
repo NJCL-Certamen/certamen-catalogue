@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1998
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which emperor’s <latin>thermae</latin>, built over the site of part of Nero’s <latin>Domus Aurea</latin>, was the first of the huge imperial bath complexes?"
+      answer: "TRAJAN’S (also accept TITUS’)"
+    boni:
+      - question: "Which emperor’s <latin>thermae,</latin> built in the northeastern part of Rome, was the largest of these complexes?"
+        answer: "DIOCLETIAN’S"
+      - question: "Which emperor’s <latin>thermae</latin> was built in the south central section of Rome between the <latin>Via Appia</latin> and the <latin>Via Ardeatina</latin>?"
+        answer: "CARACALLA’S"
+  - tossup:
+      question: "The Latin phrase <latin>“per mē licet”</latin> figuratively means “I have no objection”. What does it mean literally?"
+      answer: "IT IS ALLOWED / PERMITTED / LAWFUL THROUGH ME"
+    boni:
+      - question: "The Latin phrase <latin>“dē asinī umbrā disceptāre”</latin> figuratively means “to fight over trifles”. What does it mean literally?"
+        answer: "TO FIGHT OVER / DISPUTE / ARGUE ABOUT THE SHADOW OF AN ASS / DONKEY"
+      - question: "The Latin phrase <latin>“parēs cum paribus facillimē congregantur”</latin> figuratively means “birds of a feather flock together”. What does it mean literally?"
+        answer: "EQUALS MOST / VERY EASILY FLOCK TOGETHER / ASSEMBLE WITH EQUALS"
+  - tossup:
+      question: "Whose plays were commonly said to have been written by Scipio Aemilianus or Laelius?"
+      answer: "PUBLIUS TERENTIUS AFER / TERENCE"
+    boni:
+      - question: "This charge was made because Terence was not a native speaker of Latin. Where had Terence been born?"
+        answer: "CARTHAGE / AFRICA"
+      - question: "Terence was also charged with incorporating material from one Greek play into another. What is the Latin name for this practice?"
+        answer: "<latin>CONTAMINATIO</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>fallō</latin> and <latin>fullō</latin>"
+      answer: "<latin>FALLŌ</latin> – DECEIVE, TRICK, CHEAT, VIOLATE, COUNTERFEIT <latin>FULLŌ</latin> – FULLER, LAUNDERER, DRY-CLEANER"
+    boni:
+      - question: "Differentiate in meaning between <latin>feriō</latin> and <latin>ferveō</latin>"
+        answer: "<latin>FERIŌ</latin> - STRIKE, FLOG, KNOCK, KILL, DESTROY, TRICK, CUT OPEN <latin>FERVEŌ</latin> - BOIL, BE INTENSELY HOT, FOAM, BE EAGER"
+      - question: "Differentiate in meaning between <latin>angō</latin> and <latin>unguō</latin>"
+        answer: "<latin>ANGŌ</latin> - CAUSE / FEEL PAIN // DISTRESS // TORMENT // VEX, <latin>UNGUŌ</latin> - ANOINT, SMEAR, RUB WITH OIL"
+  - tossup:
+      question: "According to Ovid, who was transformed into a tree because she unknowingly killed the disguised nymph Lotis by picking a blossom?"
+      answer: "DRYOPE"
+    boni:
+      - question: "Who was the husband of Dryope?"
+        answer: "ANDRAEMON"
+      - question: "Who was the son of Dryope?"
+        answer: "AMPHISSUS"
+  - tossup:
+      question: "Make the phrase <latin>ille frūctus</latin> ablative plural"
+      answer: "<latin>ILLĪS FRŪCTIBUS (-UBUS)</latin>"
+    boni:
+      - question: "Change <latin>illīs frūctibus</latin> to singular"
+        answer: "<latin>ILLŌ FRŪCTŪ</latin>"
+      - question: "Change <latin>illō frūctū</latin> to genitive plural"
+        answer: "<latin>ILLŌRUM FRŪCTUUM</latin>"
+  - tossup:
+      question: "What Latin poet addresses Venus as the goddess of creation even though his poem argues against the existence of the gods and their intervention in the affairs of mankind?"
+      answer: "(T.) LUCRETIUS (CARUS)"
+    boni:
+      - question: "Whose philosophical theory of life does Lucretius elucidate in his <title><latin>Dē</latin></title> <title><latin>Rērum Natur</latin></title>ā?"
+        answer: "EPICURUS’"
+      - question: "Name the two Greeks whose atomic theory of the universe is incorporated into Epicurus’ philosophy"
+        answer: "LEUCIPPUS & DEMOCRITUS"
+  - tossup:
+      question: "What Trojan War widow missed her husband so badly that she had a statue of him made?"
+      answer: "LAODAMEIA / POLYDORA"
+    boni:
+      - question: "What erroneous impression resulted when a slave saw her caressing the statue?"
+        answer: "THE SLAVE TOLD LAODAMEIA’ FATHER THAT SHE HAD A LOVER"
+      - question: "Who was the father of Laodameia?"
+        answer: "ACASTUS"
+  - tossup:
+      question: "What type of Roman public building was the architectural predecessor of the early Christian church?"
+      answer: "<latin>BASILICA</latin>"
+    boni:
+      - question: "Basilicas were usually named after their builders. What was the name of the basilica in the forum begun by Julius Caesar and finished by Augustus?"
+        answer: "<latin>BASILICA IULIA</latin>"
+      - question: "What Greek building served the same basic function as a basilica?"
+        answer: "<latin>STOA</latin>"
+  - tossup:
+      question: "Which of the following Latin nouns does not belong because of gender: <latin>rūs, pīgnus, tellūs, aequor, marmor</latin>?"
+      answer: "<latin>TELLŪS</latin>"
+    boni:
+      - question: "Which of the following Latin nouns does not belong because of gender: <latin>grūs, porticus, carō, fāgus, vulgus</latin>?"
+        answer: "<latin>VULGUS</latin>"
+      - question: "Which of the following Latin nouns does not belong because of gender: <latin>mordex, īgnis, rēnēs, tribus, fūstis</latin>?"
+        answer: "<latin>TRIBUS</latin>"
+  - tossup:
+      question: "Translate: <latin>Quintus Ennius tria corda habēre sēsē dīcēbat.</latin> "
+      answer: "QUINTUS ENNIUS SAID THAT HE HAD THREE HEARTS"
+    boni:
+      - question: "Translate: <latin>Ennius hoc dīcēbat quod loquī Graecē, Oscē, et Latīnē scīret</latin>"
+        answer: "ENNIUS SAID THIS BECAUSE HE KNEW HOW TO SPEAK IN GREEK, OSCAN, AND LATIN"
+      - question: "Translate: <latin>Mithridātēs autem, rēx clārus, quīnque et vīgintī gentium linguās eloquenter loquēbātur.</latin> "
+        answer: "HOWEVER MITHRIDATES, THE FAMOUS KING, ELOQUENTLY SPOKE LANGUAGES OF TWENTY-FIVE TYPES/NATIONS/TRIBES"
+  - tossup:
+      question: "Who was the king of Thebes when Antigone committed suicide?"
+      answer: "CREON"
+    boni:
+      - question: "What son of Creon was the fiancé of Antigone?"
+        answer: "HAEMON"
+      - question: "What wife of Creon hanged herself after she found out about the death of Haemon?"
+        answer: "EURYDICE / ENIOCHA"
+  - tossup:
+      question: "Name the wife of L. Tarquinius Priscus whom tradition credits for his succession to the kingship of Rome"
+      answer: "TANAQUIL / GAIA CAECILIA"
+    boni:
+      - question: "According to Livy, what sign did Tanaquil see and interpret that Tarquinius was to be king?"
+        answer: "EAGLE STEALS & REPLACES HIS CAP / HAT"
+      - question: "Whom did Tanaquil convince the people to follow until her husband recovered from a serious wound?"
+        answer: "SERVIUS TULLIUS"
+  - tossup:
+      question: "What poet was forbidden by Nero to write or perhaps only to recite his verses publicly?"
+      answer: "(M. ANNAEUS) LUCAN(US)"
+    boni:
+      - question: "What title did Lucan give to his epic on the conflict between Caesar and Pompey?"
+        answer: "<title><latin>BELLUM CIVILE</latin></title> (not <title><latin>PHARSALIA</latin></title>)"
+      - question: "To what crime did Lucan confess and implicate others in the fruitless hope that he would be spared?"
+        answer: "CONSPIRING AGAINST NERO / JOINING PISO’S CONSPIRACY"
+  - tossup:
+      question: "Differentiate between the noun form <latin>ōrā</latin> and the verb form <latin>ōrā</latin>"
+      answer: "<latin>ŌRĀ</latin> (noun) – ABLATIVE SING. OF <latin>ŌRA</latin> (COASTLINE, SHORE) <latin>ŌRĀ</latin> (verb) – 2ND PERSON SNG, PRES ACT. IMPERATIVE OF <latin>ŌRŌ</latin> (BEG, SPEAK)"
+    boni:
+      - question: "Differntiate between the verb form <latin>fīde</latin> and the adjective form <latin>fīde</latin>"
+        answer: "<latin>FĪDE</latin> (verb) – 2ND PERSON SNG, PRES ACT. IMPERATIVE OF FĪDERE (TRUST) <latin>FĪDE</latin> – VOCATIVE SINGULAR OF FĪDUS (FAITHFUL)"
+      - question: "Differentiate between the noun form <latin>suī</latin> and the verb form <latin>suī</latin>"
+        answer: "<latin>SUĪ</latin> (noun) - DATIVE SINGULAR OF <latin>SŪS</latin> (SWINE), <latin>SUĪ</latin> (verb) - PRESENT PASSIVE INFINITIVE OF <latin>SUŌ</latin> (SEW, SUTURE)"
+  - tossup:
+      question: "What founder of Pallantium sent his own son to join forces with Aeneas?"
+      answer: "EVANDER"
+    boni:
+      - question: "Who was the father of Evander?"
+        answer: "HERMES / MERCURY(-IUS)"
+      - question: "Who was the gallant son of Evander?"
+        answer: "PALLAS"
+  - tossup:
+      question: "What Roman military engineer, after having served Julius Caesar and then Octavian, compiled a treatise on architecture and engineering?"
+      answer: "(M.) VITRUVIUS (POLLIO)"
+    boni:
+      - question: "Give the Latin title of Vitruvius’ work"
+        answer: "<title><latin>DĒ ARCHITECTURĀ (LIBRĪ X)</latin></title>"
+      - question: "In which of his works does Frontinus tell us that Vitruvius was responsible for standardizing water pipe sizes?"
+        answer: "<title><latin>DĒ AQUĪS (URBIS RŌMAE)</latin></title>"
+  - tossup:
+      question: "What Latin word, a derivative of <latin>torqueō, torquēre</latin>, is a noun meaning “instrument of torture”?"
+      answer: "<latin>TORMENTUM</latin>"
+    boni:
+      - question: "What Latin word, a derivative of <latin>rōdō, rōdere</latin> is a noun meaning “means of nibbling”?"
+        answer: "<latin>ROSTRUM</latin>"
+      - question: " What Latin word, a derivative of <latin>caedō, caedere</latin>, is a noun meaning “result of quarrying”?"
+        answer: "<latin>CAEMENTUM</latin>"
+  - tossup:
+      question: "Whose portrait on the coin, minted to celebrate her marriage to Mark Antony, was the first for a Roman woman?"
+      answer: "OCTAVIA’S"
+    boni:
+      - question: "To whom had Mark Antony been married immediately before Octavia?"
+        answer: "FULVIA"
+      - question: "Which of Antony’s children by Cleopatra did Octavia raise along with her own and Fulvia’s?"
+        answer: "CLEOPATRA SELENE"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN ENGLISH the question about it. <latin>Pauper et dīves inimīcī fuērunt – utrīque trēs līberī. Bellum incidit cīvitātī. Dīves, dux creātus, profectus est in castra. Rūmor ortus est ab eō prōdī rem publicam.</latin>  What rumor arose?"
+      answer: "THAT THE RICH MAN (LEADER, GENERAL) WOULD BETRAY THE STATE (PASS OUT HANDOUT)"
+    boni:
+      - question: "The handout you have just been given contains the full passage. You have 15 seconds to examine it (WAIT 15 SECONDS) –rest of passage – ...<title><latin>Prōcēdit pauper in contiōnem et accūsat dīvitem prōditiōnis. Hōc absente populus lapidibus līberōs eius occidit. Reversus dīves est victor ā</latin></title> <title><latin>bellō. Petit ad supplicium fīliōs pauperis. Pater sē</latin></title> <title><latin>offert. At contrādīcit dīves.</latin></title>  What happened to the rich man’s three children?"
+        answer: "(WHEN THE RICH MAN WAS ABSENT) THE PEOPLE <emphasis>STONED</emphasis> HIS CHILDREN TO DEATH"
+      - question: "What did the rich man want in retaliation when he returned from battle?"
+        answer: "THE PAUPER’S <emphasis>THREE</emphasis> CHILDREN KILLED"

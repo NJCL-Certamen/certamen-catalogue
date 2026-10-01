@@ -1,0 +1,165 @@
+tournament: NJCL Certamen
+year: 2022
+division: Novice
+round: Finals
+questions:
+  - tossup:
+      question: "Which continent contains the regions the Romans called <latin>Tripolitāna, Cȳrēnaïca, Numidia, Aethiopia</latin>, and <latin>Aegyptus</latin>?"
+      answer: "AFRICA"
+    boni:
+      - question: "Which modern country primarily contains the region the Romans called <latin>Numidia</latin>?"
+        answer: "ALGERIA"
+      - question: "Which modern country contains the region the Romans called <latin>Tripolitāna</latin>?"
+        answer: "LIBYA"
+  - tossup:
+      question: "[HAND OUT TOSSUP VISUAL] Please open your visuals (no wait time) Who is this goddess, also known as Dindymene, who gave her sacred trees from Mt. Ida to Aeneas to build ships and was originally a Phrygian mother goddess?"
+      answer: "CYBELE / CYBEBE / <latin>MAGNA MĀTER</latin>"
+    boni:
+      - question: "[HAND OUT THE BONUS VISUAL] You now have 5 seconds to inspect the visual. Give the letter for the picture that contains a character who, according to Ovid, became a lion pulling Cybele’s chariot?"
+        answer: "A"
+      - question: "Give the name and letter of the character whom Cybele drove mad and turned into a pine tree."
+        answer: "D - ATTIS / ATYS"
+  - tossup:
+      question: "Those visuals were sure entertaining. From what Latin verb, with what meaning, do we derive “entertaining” and “tenacity”?"
+      answer: "<latin>TENEŌ</latin> - HOLD / HAVE / GRASP"
+    boni:
+      - question: "What derivative of <latin>teneō</latin> means “a group of attendants” or “entourage”?"
+        answer: "RETINUE"
+      - question: "What derivative of <latin>teneō</latin>, in addition to a technical meaning in the field of music, can also mean “character” or “the drift of something spoken”?"
+        answer: "TENOR"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>amor tuus numquam māior erit.</latin>"
+      answer: "YOUR LOVE WILL NEVER BE GREATER / TOO GREAT"
+    boni:
+      - question: "Now translate this sentence into English: <latin>corōna peior erat multitūdine.</latin>"
+        answer: "THE CROWN / GARLAND / WREATH WAS WORSE THAN THE CROWD"
+      - question: "Now translate this sentence into English: <latin>haec iānua est minima quam umquam vīdī.</latin>"
+        answer: "THIS DOOR IS THE SMALLEST (THAT) I EVER SAW / HAVE SEEN"
+  - tossup:
+      question: "The <latin>Lēx Ogulnia</latin> of 300 BC, the <latin>Lēgēs Pūblīliae</latin> of 339 BC, the Licinian-Sextian rogations of 367 BC, the <latin>Lēx Canulēia</latin> of 445 BC, and the Valerio-Horatian laws of 449 BC all enshrined rights for plebeians that were omitted from what law code that was started in 451 and completed in 450 BC?"
+      answer: "THE TWELVE TABLES"
+    boni:
+      - question: "What right did the <latin>Lēx Canulēia</latin> grant to the plebeians?"
+        answer: "(INTER)MARRIAGE WITH PATRICIANS (prompt on MARRIAGE / <latin>CŌNŪBIUM</latin>)"
+      - question: "What did the <latin>Lēx Ogulnia</latin> grant plebeians access to?"
+        answer: "PRIESTHOODS / <latin>PONTIFEX MAXIMUS</latin>"
+  - tossup:
+      question: "What group, which includes Hyperenor, Echion, and Chthonius and whose name means “from the ground,” replaced the original settlers of Cadmus after those settlers were eaten by a dragon?"
+      answer: "SPART(O)I / SOWN MEN"
+    boni:
+      - question: "What god was Cadmus forced to serve for 8 years to atone for killing the dragon?"
+        answer: "ARES / MARS"
+      - question: "What other hero later planted the rest of the dragon’s teeth after plowing a field with two fire-breathing oxen?"
+        answer: "JASON"
+  - tossup:
+      question: "Supply the correct form of <latin>īdem, eadem, idem</latin> to complete the following sentence: “After being accosted by a persistent salesman, I saw the same man walking home that night.”"
+      answer: "<latin>EUNDEM</latin>"
+    boni:
+      - question: "Translate into Latin “walking home” as it is used in the sentence above."
+        answer: "<latin>AMBULANTEM DOMUM</latin>"
+      - question: "Translate into Latin “that night” as it is used in the sentence above."
+        answer: "<latin>ILLĀ NOCTE</latin>"
+  - tossup:
+      question: "Among the Latin verbs <latin>discere, dēlēre, docēre</latin>, and <latin>dolēre</latin>, which one best fits this Latin description: <latin>auxiliō magistrae, studentēs in scholā id agunt</latin>?"
+      answer: "<latin>DISCERE / DISCUNT</latin>"
+    boni:
+      - question: "Among the Latin verbs <latin>discere, dēlēre, docēre</latin>, and <latin>dolēre</latin>, which one best fits this Latin sentence? <latin>Romānī antiquī id urbī Carthāginī post bellum Pūnicum tertium ēgērunt.</latin>"
+        answer: "<latin>DĒLĒRE / DĒLĒVĒRUNT</latin>"
+      - question: "Among the Latin verbs <latin>discere, dēlēre, docēre</latin>, and <latin>dolēre</latin>, which one best fits this Latin sentence? <latin>Ceres id fīliae sentiēbat postquam ā Plūtōne capta erat.</latin>"
+        answer: "<latin>DOLĒRE / DOLĒBAT</latin>"
+  - tossup:
+      question: "Who blames the mental influence of Ate and the Furies for addling his brain and causing his argument with Achilles?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Ate is also blamed by some authors for giving what son of Sthenelus and Nicippe the throne of Tiryns?"
+        answer: "EURYSTHEUS"
+      - question: "Eurystheus obtained the throne of Tiryns over what son of Zeus, who was born later than him?"
+        answer: "HERACLES"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōpriētātēs dictiōnum in hīs sententiīs: Eugē! Ubīque laetitiam vīderam. Quae pars ōrātiōnis est “Eugē”?</latin>"
+      answer: "<latin>INTERIĒCTIŌ</latin>"
+    boni:
+      - question: "<latin>Quō cāsū est “laetitiam”?</latin>"
+        answer: "<latin>ACCŪSĀTĪVŌ / ACCŪSĀTĪVUS (EST CĀSUS)</latin>"
+      - question: "<latin>Cūius temporis est “vīderam”?</latin>"
+        answer: "<latin>PLŪSQUAMPERFECTĪ / PLŪSQUAMPERFECTUM (EST TEMPUS)</latin>"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Multī Romanī hīc cōnveniēbant et negōtium agēbant prope basilicam Iūliam et templum Vestae. Ubi Rōmae sumus?</latin>"
+      answer: "<latin>IN FORŌ (RŌMĀNŌ SUMUS) / FORUM (RŌMĀNUM EST)</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Ubi senātus Rōmānus in Forō Rōmānō saepissimē cōnveniēbat?</latin>"
+        answer: "<latin>IN CŪRIĀ (HOSTĪLIĀ / CORNĒLIĀ / IŪLIĀ) / CŪRIA (HOSTĪLIA / CORNĒLIA / IŪLIA EST)</latin>"
+      - question: "<latin>Respondē Latīnē: Unde in Forō Rōmānō Cicerō ōrātiōnēs habuit ad populum?</latin>"
+        answer: "<latin>Ā(B) / Ē(X) ROSTRĪS // ROSTRA (SUNT)</latin>"
+  - tossup:
+      question: "Which political office granted its holders membership in the Senate and was considered the starting point of the <latin>cursus honōrum</latin>?"
+      answer: "QUAESTOR"
+    boni:
+      - question: "Which political office presented an excellent opportunity for ambitious Romans to gain popularity by spending their personal wealth on upgrading public facilities and hosting games?"
+        answer: "<latin>AEDĪLIS</latin> / AEDILE"
+      - question: "Which political office was only filled every 5 years in the late Republic?"
+        answer: "CENSOR"
+  - tossup:
+      question: "A grove of poplar trees weep tears of amber on the banks of the Eridanus, mourning the fiery death of what man?"
+      answer: "PHAËTHON"
+    boni:
+      - question: "Who were these trees originally?"
+        answer: "THE HELIADES / PHAËTHON’S SISTERS"
+      - question: "Who observed these trees twice, once on the way to their destination and once when returning?"
+        answer: "THE ARGONAUTS"
+  - tossup:
+      question: "Galba may have made a strategic error when he adopted the aristocrat Calpurnius Piso Licinianus over which more popular commander in <latin>Germānia Superior</latin> — a man who had put down the revolt of Julius Vindex in 68 AD?"
+      answer: "VERGINIUS RUFUS"
+    boni:
+      - question: "At what site had Rufus defeated Vindex?"
+        answer: "VESONTIO / BESANÇON"
+      - question: "After Galba filled the praetorian position previously held by Tigellinus, what other prefect claimed to be a son of Caligula in a bid for the throne during the upheaval of 68 and 69 AD?"
+        answer: "NYMPHIDIUS SABINUS"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then answer in Latin the question that follows:\n<latin>Domus cuiusdam familiae omnia alia aedificia magnitūdine superāvit. In summā domō erat turris, ex quā familia tōtam urbem spectāre poterat. Saepe familia ad summam turrim ascendēbat et super urbem spectābant, nam hic locus erat plūrimīs pedibus altior quam terra.</latin>\nAnswer the following question according to the passage: <latin>Quō saepe ascendēbat familia?</latin>"
+      answer: "(AD SUMMAM) <latin>TURRIM / TURREM</latin>"
+    boni:
+      - question: "Answer the following question according to the passage: <latin>Quid spectārī poterat ex summā domō?</latin>"
+        answer: "(TŌTA) <latin>URBS</latin>"
+      - question: "Answer the following question according to the passage: <latin>Quō altior est turris familiae?</latin>"
+        answer: "<latin>TERRĀ / AEDIFICIŌ / AEDIFICIĪS (ALIĪS OMNIBUS) / (TŌTĀ) URBE // QUAM TERRA / AEDIFICIA / AEDIFICIUM / (TŌTA) URBS</latin>"
+  - tossup:
+      question: "Change the verb form <latin>laudāvistī</latin>, which means “you have praised”, to the form that means “you have been praised”, which is the passive voice form of <latin>laudāvistī</latin>."
+      answer: "<latin>LAUDĀTA/US/UM ES</latin>"
+    boni:
+      - question: "Change <latin>laudāta es</latin> to the future perfect tense, which means “you will have been praised”."
+        answer: "<latin>LAUDĀTA ERIS</latin>"
+      - question: "Give the correct form of <latin>laudāta eris</latin> to correspond with the pronoun form <latin>nōs</latin>."
+        answer: "<latin>LAUDĀTAE ERIMUS</latin>"
+  - tossup:
+      question: "Apollo visited the Cretan priest Carmanor and set up athletic games at the site of Delphi to atone for the murder of what creature?"
+      answer: "PYTHO(N)"
+    boni:
+      - question: "What Titan possessed the oracle at the time of Apollo’s arrival?"
+        answer: "THEMIS"
+      - question: "According to Pausanias, what Olympian was also said to be the possessor of Delphi until Apollo offered him Calaurea in exchange?"
+        answer: "POSEIDON (do NOT accept NEPTUNE)"
+  - tossup:
+      question: "Which late western emperor, who took the throne when he was 10 years old and moved the capital of the empire to Ravenna, had split the empire with his brother Arcadius?"
+      answer: "HONORIUS"
+    boni:
+      - question: "What half-Vandal held the position of <latin>magister utrīusque mīlitiae</latin> during the reign of Honorius?"
+        answer: "STILICHO"
+      - question: "In what two battles of 402 and 403 AD did Stilicho achieve victories over Alaric?"
+        answer: "POLLENTIA AND VERONA"
+  - tossup:
+      question: "Consider this sentence: “It might seem like reducing the number of variables in your life will control the outcome, but life isn’t an experiment.” From the sentence, identify two English words derived from Latin and give a Latin root and its meaning of each."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name another."
+        answer: "SEE BELOW"
+      - question: "Name another."
+        answer: "REDUCING - (<latin>RE-</latin>)<latin>DŪCŌ</latin>, TO LEAD (BACK) // NUMBER - <latin>NUMERUS</latin>, NUMBER // VARIABLES - <latin>VARIUS</latin>, DIVERSE / VARIOUS / <latin>HABEŌ</latin> - TO HAVE // CONTROL - <latin>CUM</latin>, WITH / <latin>CONTRĀ</latin>, AGAINST / <latin>ROTA</latin>, WHEEL / <latin>ROTULUS / ROTULA</latin>, LITTLE WHEEL // EXPERIMENT - <latin>PERĪTUS</latin>, SKILLED / <latin>EXPERIOR</latin>, TO TRY / <latin>EXPERIMENTUM</latin>, TRIAL / EXPERIMENT"
+  - tossup:
+      question: "A form of what Latin word fills in the blank in the following three Latin mottoes: “<latin>ex [BLANK], tridēns</latin>”; “<latin>artēs, [BLANK], vēritās</latin>”; “<latin>crēscat [BLANK], vīta excōlātur</latin>”."
+      answer: "<latin>SCIENTIA</latin>"
+    boni:
+      - question: "What school has the Latin motto “<latin>artēs, scientia, vēritās</latin>”?"
+        answer: "(UNIVERSITY OF) MICHIGAN / UMICH"
+      - question: "What other Midwestern school has the motto “<latin>nūmen lūmen</latin>”?"
+        answer: "(UNIVERSITY OF) WISCONSIN"

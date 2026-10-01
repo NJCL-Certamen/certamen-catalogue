@@ -125,6 +125,18 @@ links:
   year: 2022
   division: Advanced
   round: Semifinals
+- rel: 2022 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022novFinals.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice
+  round: Finals
+- rel: 2022 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022novSemis.yaml
+  tournament: NJCL Certamen
+  year: 2022
+  division: Novice
+  round: Semifinals
 - rel: 2022 NJCL Certamen Novice Round Three
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2022/novice/njcl2022nov3.yaml
   tournament: NJCL Certamen
@@ -263,6 +275,12 @@ links:
   year: 2019
   division: Intermediate
   round: Round 2
+- rel: 2023 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2023/advanced/njcl2023adv1.yaml
+  tournament: NJCL Certamen
+  year: 2023
+  division: Advanced
+  round: Round 1
 - rel: 1998 NJCL Certamen Intermediate Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1998/lower/njcl1998int1.yaml
   tournament: NJCL Certamen

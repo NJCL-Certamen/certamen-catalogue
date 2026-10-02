@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Advanced"
+round: Finals
+questions:
+  - tossup:
+      question: "What is the better-known name for the emperor whose real name was Marcus Aurelius Antoninus?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Where was he assassinated?"
+        answer: "CARRHAE"
+      - question: "Two other famous Romans also died fighting or just after fighting the Parthians. Name them."
+        answer: "CRASSUS AND TRAJAN"
+  - tossup:
+      question: "Which of the following is not a derivative of cor: “encourage,” “record,” “coronary,” “cordial”?"
+      answer: "CORONARY"
+    boni:
+      - question: "Which, if any, of the following is from cor: “corral,” “coral,” “excoriate,” “corduroy,” “coriander,” “cornea,” “succor”?"
+        answer: "NONE"
+      - question: "What Latin word is the root of “corral”?"
+        answer: "<latin>CURRUS / CURRERE</latin>"
+  - tossup:
+      question: "Translate the verb “is” in this sentence: “Do you know where he is”?"
+      answer: "<latin>SIT</latin>"
+    boni:
+      - question: "Translate “is” in this sentence: “Caesar's camp is very large.”"
+        answer: "<latin>SUNT</latin>"
+      - question: "Translate “is” in this sentence: “I think he is a jerk.”"
+        answer: "<latin>ESSE</latin>"
+  - tossup:
+      question: "How many husbands had she already gone through when Scribonia married Octavian?"
+      answer: "TWO"
+    boni:
+      - question: "In what year were they married?"
+        answer: "40 BC"
+      - question: "Did she outlive Augustus?"
+        answer: "YES, BY AT LEAST TWO YEARS"
+  - tossup:
+      question: "When were the standards lost at Carrhae regained?"
+      answer: "20 BC"
+    boni:
+      - question: "Who received them?"
+        answer: "TIBERIUS"
+      - question: "Where was the Parthian capital at this time?"
+        answer: "ECBATANA"
+  - tossup:
+      question: "Who led the Germanic Suebi against the Romans in 58 BC?"
+      answer: "ARIOVISTUS"
+    boni:
+      - question: "What name did the Romans use for the river which divided Gaul from Germany?"
+        answer: "RHENUS"
+      - question: "What forest in Germany does Caesar describe as full of strange animals, including what he described as unicorns?"
+        answer: "THE HERCYNIAN"
+  - tossup:
+      question: "What Latin ablative absolute is still used in English to mean “with the necessary changes having been made”?"
+      answer: "<latin>MUTATIS MUTANDIS</latin>"
+    boni:
+      - question: "What does the frequent dictionary notation q.v. stand for?"
+        answer: "<latin>QUOD VIDE</latin>"
+      - question: "What does qq.v. stand for?"
+        answer: "<latin>QUAE VIDE</latin>"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> says: <latin>Nascetur pulchra Troianus origine Caesar imperium Oceano, famam qui terminet astris</latin>?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who says: <latin>O fortunati, quorum iam moenia surgunt</latin>?"
+        answer: "AENEAS"
+      - question: "Who is the first Trojan to address Dido?"
+        answer: "ILIONEUS"
+  - tossup:
+      question: "What Greek author wrote works on hunting, estate management, cavalry command, and the philosophy of Socrates, but is best known to us for his <title><latin>Anabasis</latin></title>?"
+      answer: "XENOPHON"
+    boni:
+      - question: "For ten points, what two titles did Xenophon and Plato both use? All four works are concerned with Socrates."
+        answer: "<title>THE SYMPOSIUM</title> AND <title>THE APOLOGY</title>"
+  - tossup:
+      question: "When Jason sailed in quest of the Golden Fleece, he took along a number of heroes with unusual skills. Which two members of the expedition could fly?"
+      answer: "ZETES AND CALAÏS"
+    boni:
+      - question: "Which of the Argonauts was so swift that he could run on the waves?"
+        answer: "EUPHEMUS"
+      - question: "Which Argonaut was able to assume any form he wished in battle by calling upon his grandfather Poseidon?"
+        answer: "PERICLYMENUS"
+  - tossup:
+      question: "What is the ablative supine of <latin>fero</latin>?"
+      answer: "<latin>LATU</latin>"
+    boni:
+      - question: "Using it, translate: “This burden is easy to bear.”"
+        answer: "<latin>HOC ONUS EST FACILE LATU</latin>"
+      - question: "Using it, translate: “This burden is easier to bear than that one.”"
+        answer: "<latin>HOC ONUS EST FACILIUS LATU ILLO / HOC ONUS EST FACILIUS LATU QUAM ILLUD</latin>"
+  - tossup:
+      question: "What third century BC Latin poet, a Greek slave from Tarentum, wrote the first Latin epic, the Odissia, a translation of the Odyssey?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "What Roman writing during that same period wrote the Annals and is regarded as the “father of Latin poetry”?"
+        answer: "(Q.) ENNIUS"
+      - question: "What Latin writers, during that same period, were adapting and imitating Greek comedy?"
+        answer: "TERENCE AND PLAUTUS"
+  - tossup:
+      question: "Give the singular and plural second person future imperatives of sum."
+      answer: "<latin>ESTO</latin> AND <latin>ESTOTE</latin>"
+    boni:
+      - question: "Give the singular and plural third person future imperatives of sum."
+        answer: "<latin>EST</latin> AND <latin>SUNTO</latin>"
+      - question: "In what type of writing would the future imperatives be likely to be found?"
+        answer: "WILLS, LAWS, ETC. - LEGALESE"
+  - tossup:
+      question: "What was the first oration Cicero delivered in public?"
+      answer: "<latin><title>PRO QUINCTIO</title></latin>"
+    boni:
+      - question: "What was the year?"
+        answer: "81 BC"
+      - question: "His second oration, <latin><title>Pro Roscio Amerino</title></latin>, made clear his antagonism to what powerful figure of the time?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "What monster sprang from the head of Medusa along with Pegasus?"
+      answer: "CHRYSAOR"
+    boni:
+      - question: "What son of Chrysaor was slain by Hercules during one of his labors?"
+        answer: "GERYON"
+      - question: "Name the monstrous dog that aided Geryon in guarding his cattle."
+        answer: "ORTHUS / ORTHRUS"
+  - tossup:
+      question: "Which of the following was not a direct ancestor of Aeneas: Teucer, Assaracus, Ilus, Dardanus?"
+      answer: "ILUS (Aeneas' great-uncle)"
+    boni:
+      - question: "Who was the father of Anchises?"
+        answer: "CAPYS"
+      - question: "Besides being a distant cousin, Priam was what relation to Aeneas?"
+        answer: "FATHER-IN-LAW"
+  - tossup:
+      question: "Which of the following is not from a Latin root: “relinquish,” “abolish,” “relish,” “polish”?"
+      answer: "RELISH"
+    boni:
+      - question: "“Martial” meaning “pertaining to war,” is of course a Latin derivative. Is its homophone, marshal, a Latin derivative?"
+        answer: "NO"
+      - question: "Which of the following is not a Latin derivative: “paraffin,” “parapet,” “paragraph”?"
+        answer: "PARAGRAPH"
+  - tossup:
+      question: "Which two verbs share the perfect participle <latin>passus</latin>?"
+      answer: "<latin>PATIOR</latin> AND <latin>PANDO</latin>"
+    boni:
+      - question: "What is the alternate fourth part for <latin>pando</latin>, as reflected in its English derivatives?"
+        answer: "<latin>PANSUS</latin>"
+      - question: "When <latin>passus</latin> comes from <latin>patior</latin>, how do you translate it?"
+        answer: "HAVING SUFFERED, HAVING EXPERIENCED"
+  - tossup:
+      question: "Change the phrase <latin>quaedam mulier</latin> to the genitive singular."
+      answer: "<latin>CUIUSDAM MULIERIS</latin>"
+    boni:
+      - question: "Change <latin>illud corpus</latin> to dative singular."
+        answer: "<latin>ILLI CORPORI</latin>"
+      - question: "Change <latin>pauper agricola</latin> to genitive plural."
+        answer: "<latin>PAUPERUM AGRICOLARUM</latin>"
+  - tossup:
+      question: "What was the name of Circe's island?"
+      answer: "AEAEA"
+    boni:
+      - question: "What son of Circe and Odysseus, in a post-Homeric version, later killed Odysseus in an accident?"
+        answer: "TELEGONUS"
+      - question: "What was the name of Calypso's island?"
+        answer: "OGYGIA"

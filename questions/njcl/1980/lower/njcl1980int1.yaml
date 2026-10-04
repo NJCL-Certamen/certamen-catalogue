@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Intermediate"
+round: Round 1
+questions:
+  - tossup:
+      question: "Give the Latin for “I have stood.”"
+      answer: "<latin>STETI</latin>"
+    boni:
+      - question: "Give the Latin for “We have stayed.”"
+        answer: "<latin>MANSIMUS</latin>"
+      - question: "Give the Latin for “He was dying.”"
+        answer: "<latin>MORIEBATUR</latin>"
+  - tossup:
+      question: "Who stole fire for men?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "How was he punished?"
+        answer: "CHAINED TO A ROCK WITH AN EAGLE TO GNAW HIS LIVER"
+      - question: "Who decreed his punishment?"
+        answer: "ZEUS"
+  - tossup:
+      question: "Who was the last king of Troy?"
+      answer: "HECUBA"
+    boni:
+      - question: "Who was Troy's last king?"
+        answer: "PRIAM"
+      - question: "Who was Hector's wife?"
+        answer: "ANDROMACHE"
+  - tossup:
+      question: "What is the present infinitive of <latin>possum</latin>?"
+      answer: "<latin>POSSE</latin>"
+    boni:
+      - question: "What is the present infinitive of <latin>volo</latin> wish?"
+        answer: "<latin>VELLE</latin>"
+      - question: "What is the present infinitive of <latin>nolo</latin>?"
+        answer: "<latin>NOLLE</latin>"
+  - tossup:
+      question: "What was the date of the formation of the first triumvirate?"
+      answer: "60 BC"
+    boni:
+      - question: "Which of its members was the richest man in Rome?"
+        answer: "CRASSUS"
+      - question: "Which of its members was the father-on-law of another?"
+        answer: "CAESAR"
+  - tossup:
+      question: "Give the adverb in all three degrees from the adjective <latin>brevis</latin>."
+      answer: "<latin>BREVITER, BREVIUS, BREVISSIME</latin>"
+    boni:
+      - question: "Give the adverb in all three degrees from the adjective <latin>parvus</latin>."
+        answer: "<latin>PARUM, MINUS, MINIME</latin>"
+      - question: "Give the adverb in all three degrees from the adjective <latin>facilis</latin>."
+        answer: "<latin>FACILE, FACILIUS, FACILLIME</latin>"
+  - tossup:
+      question: "What was the number of laps in a Roman chariot race?"
+      answer: "SEVEN"
+    boni:
+      - question: "What four colors marked the racing teams in Rome?"
+        answer: "RED, WHITE, BLUE, GREEN"
+      - question: "What was used to indicate the number of laps completed?"
+        answer: "EGGS AND DOLPHINS"
+  - tossup:
+      question: "What was the livelihood of a <latin>latro</latin>?"
+      answer: "HE WAS A THIEF"
+    boni:
+      - question: "What occupation was a <latin>pistor</latin>?"
+        answer: "BAKER"
+      - question: "What occupation was a <latin>lanius</latin>?"
+        answer: "BUTCHER"
+  - tossup:
+      question: "Give the present passive infinitive of the verb <latin>amo</latin>."
+      answer: "<latin>AMARI</latin>"
+    boni:
+      - question: "Give the perfect active infinitive of <latin>amo</latin>."
+        answer: "<latin>AMAVISSE</latin>"
+      - question: "Give the future active infinitive of <latin>amo</latin>."
+        answer: "<latin>AMATURUS ESSE</latin>"
+  - tossup:
+      question: "Whose strength was derived from his contact with earth?"
+      answer: "ANTAEUS'"
+    boni:
+      - question: "Who was the mother of Antaeus?"
+        answer: "GAIA (MOTHER EARTH)"
+      - question: "Who killed Antaeus by lifting him off the ground and crushing him?"
+        answer: "HERCULES"
+  - tossup:
+      question: "How many kings did Rome have?"
+      answer: "SEVEN"
+    boni:
+      - question: "Romulus, of course, was the first and Numa was the second. Who was the third?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "Who was the last?"
+        answer: "TARQUINIUS SUPERBUS"
+  - tossup:
+      question: "What is the genitive plural of <latin>nox</latin>?"
+      answer: "<latin>NOCTIUM</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>lex</latin>?"
+        answer: "<latin>LEGUM</latin>"
+      - question: "What is the genitive plural of <latin>frons</latin>?"
+        answer: "<latin>FRONTIUM</latin>"
+  - tossup:
+      question: "What god gave Midas the golden touch?"
+      answer: "BACCHUS"
+    boni:
+      - question: "To whom had Midas shown kindness to earn the god's thanks?"
+        answer: "SILENUS"
+      - question: "What river washed away the golden touch?"
+        answer: "PACTOLUS"
+  - tossup:
+      question: "Who was Rome's first emperor?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Whose adopted son was he?"
+        answer: "JULIUS CAESAR'S"
+      - question: "What relation to Caesar was he really?"
+        answer: "GREAT-NEPHEW"
+  - tossup:
+      question: "How many wars did Rome fight with Carthage?"
+      answer: "THREE"
+    boni:
+      - question: "What Carthaginian general penetrated deep into Italy in the Second Punic War?"
+        answer: "HANNIBAL"
+      - question: "At whose hand did Hannibal die?"
+        answer: "HIS OWN"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>magnus</latin> to agree with the noun <latin>partis</latin>."
+      answer: "<latin>MAGNAE</latin>"
+    boni:
+      - question: "Give the correct form of the adjective <latin>magnus</latin> to agree with the noun <latin>urbem</latin>."
+        answer: "<latin>MAGNAM</latin>"
+      - question: "Give the correct form of the adjective <latin>magnus</latin> to agree with the noun <latin>lauros</latin>."
+        answer: "<latin>MAGNAS</latin>"
+  - tossup:
+      question: "A nominative plural in <latin>-a</latin> is proof positive of what gender?"
+      answer: "NEUTER"
+    boni:
+      - question: "What is the gender of <latin>pons</latin>?"
+        answer: "MASCULINE"
+      - question: "What is the gender of <latin>tempus</latin>?"
+        answer: "NEUTER"
+  - tossup:
+      question: "What is the present active singular imperative of <latin>fero</latin>?"
+      answer: "<latin>FER</latin>"
+    boni:
+      - question: "What is the same form of <latin>punio</latin>?"
+        answer: "<latin>PUNI</latin>"
+      - question: "What is the present active plural imperative of <latin>duco</latin>?"
+        answer: "<latin>DUCITE</latin>"
+  - tossup:
+      question: "What is the Latin word for window?"
+      answer: "<latin>FENESTRA</latin>"
+    boni:
+      - question: "What is the Latin word for poem?"
+        answer: "<latin>CARMEN</latin>"
+      - question: "What is the Latin word for enemy?"
+        answer: "<latin>HOSTIS / INIMICUS</latin>"
+  - tossup:
+      question: "What did the Romans call their goddess of love?"
+      answer: "VENUS"
+    boni:
+      - question: "What did the Romans call their god of wine?"
+        answer: "BACCHUS / LIBER"
+      - question: "What did the Romans call their goddess of agriculture?"
+        answer: "CERES"

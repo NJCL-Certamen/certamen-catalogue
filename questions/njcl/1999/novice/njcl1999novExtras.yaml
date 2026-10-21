@@ -1,0 +1,53 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Novice"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "For what explicit purpose was Sulla made dictator in 81 BC?"
+      answer: "TO REVISE THE ROMAN CONSTITUTION"
+    boni:
+      - question: "What group was empowered by Sulla’s constitution to veto the legislation passed by the <latin>Concilium Plebis</latin>?"
+        answer: "THE SENATE"
+      - question: "What age requirement did Sulla set for the consulship?"
+        answer: "42"
+  - tossup:
+      question: "On whose behalf did the generals Fabius Valens and Caecina Alienus invade Italy?"
+      answer: "(A.) VITELLIUS"
+    boni:
+      - question: "What emperor did they defeat near Cremona in April, AD 69?"
+        answer: "OTHO"
+      - question: "Who invaded Italy in July of 69 on behalf of Vespasian?"
+        answer: "(M. ANTONIUS) PRIMUS"
+  - tossup:
+      question: "To what enemy of Rome is the quote “<latin>vae victis</latin>” attributed?"
+      answer: "BRENNUS"
+    boni:
+      - question: "Of what Gallic tribe was he the chieftain?"
+        answer: "SENONES"
+      - question: "Who saved the capitol when Brennus captured Rome?"
+        answer: "(M.) MANLIUS (CAPITOLINUS)"
+  - tossup:
+      question: "What island was extremely important to Rome because of its grain crop?"
+      answer: "<latin>SICILIA</latin> / SICILY"
+    boni:
+      - question: "During the empire, most of the grain was imported from what two provinces?"
+        answer: "EGYPT & AFRICA"
+      - question: "What was the title of the official in charge of the grain supply?"
+        answer: "<latin>PRAEFECTUS ANNONAE</latin>"
+  - tossup:
+      question: "What praenomen was abbreviated <latin>C.</latin>?"
+      answer: "<latin>GAIUS</latin>"
+    boni:
+      - question: "What praenomen was abbreviated <latin>Ti.</latin>?"
+        answer: "<latin>TIBERIUS</latin>"
+      - question: "What praenomen was abbreviated <latin>Sp.</latin>?"
+        answer: "<latin>SPURIUS</latin>"
+  - tossup:
+      question: "What was the Latin term for a teacher of reading, writing, and arithmetic to 7 to 11 year old children?"
+      answer: "<latin>LITTERATOR</latin> / <latin>LUDI MAGISTER</latin>"
+    boni:
+      - question: "What was the school of a <latin>litterator</latin> called?"
+        answer: "<latin>SCHOLA</latin> / <latin>LUDUS</latin>"
+      - question: "What was the teacher of grammar and literature called?"
+        answer: "<latin>GRAMMATICUS</latin>"

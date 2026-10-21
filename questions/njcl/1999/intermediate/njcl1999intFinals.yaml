@@ -1,0 +1,161 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Translate into Latin: I know why the soldiers are fighting"
+      answer: "<latin>SCIŌ CŪR / QUID MĪLITĒS PUGNENT</latin>"
+    boni:
+      - question: "Using <latin>imperō</latin>, translate into Latin: The leader ordered the soldiers to fight bravely"
+        answer: "<latin>DŪX MĪLITIBUS IMPERĀVIT UT (QUĪ) FORTITER PUGNĀRENT</latin>"
+      - question: "Using a relative clause, translate into Latin: The leader says that the soldiers, who are now sleeping, will win"
+        answer: "<latin>DŪX DĪCIT MĪLITĒS, QUĪ NUNC DORMIANT, SUPERĀTŪRŌS / VICTŪRŌS ESSE</latin>"
+  - tossup:
+      question: "What was meant by an exhibition of gladiators <latin>sine missiōne</latin>?"
+      answer: "NO <emphasis>LOSING GLADIATOR</emphasis> WOULD BE SPARED"
+    boni:
+      - question: "With what signal did a defeated gladiator appeal for mercy?"
+        answer: "HOLDING UP A FINGER"
+      - question: "The gladiator appealed to the giver of the games. What is the Latin term for this person?"
+        answer: "<latin>ĒDITOR / DATOR (MUNERIS)</latin>"
+  - tossup:
+      question: "In Book VIII of the <title>Iliad</title>, who rescues the aged Nestor from the attack of Hector?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Why was Nestor the only Greek left to face the enemy?"
+        answer: "BECAUSE ONE OF HIS HORSES HAD BEEN WOUNDED (BY ONE OF PARIS’ ARROWS)"
+      - question: "What charioteer of Hector was killed by Diomedes in this encounter?"
+        answer: "ENIOPEUS"
+  - tossup:
+      question: "What type of conditional clause would be used to express this sentence in Latin: “If this were easier, I would be a happier person.”"
+      answer: "(PRESENT) CONTRARY-TO-FACT"
+    boni:
+      - question: "What type of independent subjunctive would be used to express this sentence in Latin: “I would think that Latin is fun” POTENTIAL What type of independent subjunctive would be used to express this sentence in Latin: “What am I to do with this sentence?”"
+        answer: "DELIBERATIVE"
+  - tossup:
+      question: "Name one use of the accusative case that can be found in the following Latin sentence: <latin>Quam vītam longam vīvere voluit, ō miseram mātrem!</latin>  <title>see below for answer</title>  Name another"
+      answer: "COGNATE ACCUSATIVE (ACC. OF KINDRED SPECIFICATION) / ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "What use of the accusative case is found in this sentence: <latin>Marcus pecūniam parentem postūlāvit</latin>"
+        answer: "DOUBLE ACCUSATIVE / ACCUSATIVE WITH SECONDARY OBJECT"
+  - tossup:
+      question: "To what commander did Augustus entrust the invasion of Germany in 12 BC?"
+      answer: "(NERO CLAUDIUS) DRUSUS <emphasis>THE ELDER</emphasis> / <emphasis>BROTHER OF TIBERIUS</emphasis>"
+    boni:
+      - question: "Where did Augustus want the new frontier set between Roman and German territory?"
+        answer: "ELBE RIVER / <latin>FLUMEN ALBIS</latin>"
+      - question: "What stopped the successful campaigns of Drusus in 9 BC?"
+        answer: "HIS DEATH (FROM COMPLICATIONS FROM A FALL FROM HIS HORSE)"
+  - tossup:
+      question: "With what Thesprotian queen did Odysseus have a brief affair?"
+      answer: "CALLIDICE"
+    boni:
+      - question: "Who was the son of Odysseus and Callidice?"
+        answer: "POLYPOETES"
+      - question: "According to some accounts, what half-brother of Polypoetes was responsible for the death of Odysseus?"
+        answer: "TELEGONUS"
+  - tossup:
+      question: "What is the meaning of the Greek word common to “paleobiology” and “paleozoic”?"
+      answer: "OLD, ANCIENT"
+    boni:
+      - question: "What is the meaning of the other Greek word at the root of “paleozoic”?"
+        answer: "LIVING ANIMAL, BEING"
+      - question: "What are the meanings of the two other Greek words at the root of “paleobiology”?"
+        answer: "LIFE; WORD, SAYING, SPEECH, DISCOURSE, THOUGHT, PROPORTION"
+  - tossup:
+      question: "Translate this Latin sentence: <latin>Cīvēs tribūnō appropinquāvērunt ad lūdōs poscendōs</latin>"
+      answer: "THE CITIZENS APPROACHED THE TRIBUNE TO DEMAND GAMES"
+    boni:
+      - question: "Translate this Latin sentence: <latin>Tribūnus dīxit domum Marcī, senātōris clārī, incensum īrī.</latin>"
+        answer: "THE TRIBUNE SAID THE HOUSE OF MARCUS, A FAMOUS SENATOR, WOULD BE BURNED"
+      - question: "Translate this Latin sentence: <latin>Marcus mīrātus est cūr domus sua incendenda esset.</latin>"
+        answer: "MARCUS WONDERED WHY HIS HOUSE HAD TO BE BURNED DOWN / WAS GOING TO BE BURNED DOWN"
+  - tossup:
+      question: "After what battle did the Carthaginians sue for peace in the Second Punic War?"
+      answer: "<latin>CAMPI MAGNI</latin> / GREAT PLAINS"
+    boni:
+      - question: "What two opponents did Scipio, the future Africanus, defeat at Campi Magni?"
+        answer: "HASDRUBAL (SON OF GISGO) AND SYPHAX"
+      - question: "What caused the Carthaginians to break off the peace talks?"
+        answer: "RETURN OF HANNIBAL (WITH 15,000 SEASONED VETERANS)"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in English the question about it: <latin>Alexandrī rēgis exercitus, dum iter facit per loca deserta, sitī gravī oppressus est. Tandem Alexander exercitusque ad flūmen pervēnērunt. Rēx prīmō agminī imperāvit ut magnās amphōrās implērent quibus aqua ad relīquōs mīlitēs portārī posset sitis relevandae causā. Mīlitēs nescīvērunt aquam pōtabilem nōn fuisse et multī</latin> ē <latin>mīlitibus multō cum dolōre mortuī sunt. Numerus hōrum mortuōrum erat multō maior quam numerus mīlitum quōs rēx in proeliō umquam āmīserat</latin>. Why did Alexander’s army stop marching?"
+      answer: "HIS ARMY WAS SUFFERING FROM GREAT THIRST"
+    boni:
+      - question: "What did he order the first phalanx to do?"
+        answer: "FILL THE JUGS / AMPHORAS / CONTAINERS WITH WATER"
+      - question: "How did Alexander lose more soldiers in this incident than he had lost in battle?"
+        answer: "BECAUSE THE WATER WAS NOT DRINKABLE, A GREAT NUMBER OF SOLDIERS DIED"
+  - tossup:
+      question: "What Latin noun with what meaning is at the root of “precarious”?"
+      answer: "<latin>PREX</latin> -- PRAYER, ENTREATY"
+    boni:
+      - question: "What English verb derived from <latin>prex</latin> means “to belittle”?"
+        answer: "DEPRECATE"
+      - question: "What English verb, also derived from <latin>prex</latin>, means “to curse”?"
+        answer: "IMPRECATE"
+  - tossup:
+      question: "What did the Senate refuse to allow Julius Caesar to do in 49 BC?"
+      answer: "TO RUN FOR CONSUL IN ABSENTIA ( & KEEP HIS IMPERIUM)"
+    boni:
+      - question: "Where was Caesar when he learned that the Senate had voted for his immediate recall?"
+        answer: "RAVENNA (HIS WINTER HEADQUARTERS)"
+      - question: "After he crossed the Rubicon, whom did Caesar meet and defeat at Corfinium?"
+        answer: "(L.) DOMITIUS (AHENOBARBUS)"
+  - tossup:
+      question: "(VISUAL QUESTION) PLEASE PASS OUT THE VISUALS AND INSTRUCT THE PLAYERS NOT TO OPEN THEM UNTIL TOLD TO DO SO. WHEN ALL THE VISUALS HAVE BEEN PASSED OUT, SAY “PLEASE OPEN YOUR VISUALS NOW.” Who is the mother of the character identified by the letter “C”?"
+      answer: "GAIA/GAEA/GE // CLONIA // EURYALE"
+    boni:
+      - question: "Who is the father of the character identified by the letter “C”?"
+        answer: "POSEIDON // HYRIEUS"
+      - question: "What is the name of the character identified by the letter “B”?"
+        answer: "CEDALION (sc-dā’ leon)"
+  - tossup:
+      question: "Which of the following words, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: peer, par, parcel, pair, parlay?"
+      answer: "PARCEL"
+    boni:
+      - question: "What is the root of “parcel”?"
+        answer: "<latin>PARS</latin> -- PART"
+      - question: "What derivative of <latin>pars</latin> means “a swift, witty reply”?"
+        answer: "REPARTEE"
+  - tossup:
+      question: "The discovery of both black and white lead was credited to what son of Gordius?"
+      answer: "MIDAS"
+    boni:
+      - question: "What “reward” did Midas receive from Apollo after Midas judged Pan the winner of a musical contest between the two gods?"
+        answer: "DONKEY EARS"
+      - question: "Midas received his famous golden touch because he was kind to what companion of Dionysus?"
+        answer: "SILENUS"
+  - tossup:
+      question: "What English word for “an arbitrary order or decree” is a Latin subjunctive form?"
+      answer: "<latin>FIAT</latin>"
+    boni:
+      - question: "What English word for “a dogmatic pronouncement” is a Latin perfect passive participle?"
+        answer: "<latin>DICTUM</latin>"
+      - question: "What English word for “a list of corrections to be made <emphasis>before</emphasis> publication” is a Latin gerundive?"
+        answer: "<latin>CORRIGENDUM</latin>"
+  - tossup:
+      question: "According to Homer, who was the eldest daughter of Zeus?"
+      answer: "ATE"
+    boni:
+      - question: "According to Hesiod, who was the mother of Ate?"
+        answer: "ERIS"
+      - question: "According to Homer, whom did Zeus send to follow Ate through the world so they could alleviate the results Ate’s mischief?"
+        answer: "LITAI / THE PRAYERS"
+  - tossup:
+      question: "What city did Scipio, the future Africanus, establish in Spain in 206 B.C. for his veterans?"
+      answer: "ITALICA (modern Santiponce)"
+    boni:
+      - question: "Which Roman emperor was born in Italica?"
+        answer: "TRAJAN"
+      - question: "Italica was the ancestral home of two other emperors. Name one"
+        answer: "HADRIAN"
+  - tossup:
+      question: "For the verb <latin>gaudeō</latin>, give the third person plural, pluperfect subjunctive"
+      answer: "<latin>GĀVĪSĪ ESSENT</latin>"
+    boni:
+      - question: "Give the first person singular, perfect subjunctive of <latin>audeō, audēre</latin>"
+        answer: "<latin>AUSUS SIM</latin>"
+      - question: "What archaic form exists with the same meaning as <latin>ausus sim</latin>?"
+        answer: "<latin>AUSIM</latin>"

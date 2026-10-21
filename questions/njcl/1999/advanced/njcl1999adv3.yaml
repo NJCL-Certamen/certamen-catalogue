@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "According to Euripides, who accompanied Odysseus on his mission to retrieve Philoctetes?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "According to Sophocles, who accompanied Odysseus on this mission instead of Diomedes?"
+        answer: "NEOPTOLEMUS / PYRRHUS"
+      - question: "Who had advised the Greek army to abandon Philoctetes on the island of Lemnos years before because of the rotten smell of Philoctetes’ wound?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in English the question about it: <latin>Caelō vesperāscente, lupus agnum insecūtus est. At in templum agnus confūgit. Lupō autem agnum invocānte, et minante pontificem eum  sacrificātūrum, respondit agnus, “Sī mē edere velīs, mālim quidem deō sacrificārī quam ā tē trucīdārī.”</latin>  Why did the lamb go into the temple?"
+      answer: "A WOLF WAS PURSUING HIM"
+    boni:
+      - question: "What was the wolf’s threat to the lamb?"
+        answer: "THAT A PRIEST WOULD SACRIFICE HIM (i.e. the lamb)"
+      - question: "What was the lamb’s response to the wolf?"
+        answer: "THAT HE WOULD RATHER BE SACRIFICED TO A GOD THAN BE KILLED BY THE WOLF (lit. “If you should want to eat me, I would prefer to be sacrificed to a god rather than be slain by you”)"
+  - tossup:
+      question: "Which Roman king was a native of the town of Cures in the territory of the Sabines?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "From what Greek philosopher was the wise Numa supposed to have gained much of his knowledge?"
+        answer: "PYTHAGORAS"
+      - question: "What is the Latin name of the item considered to be vital to the fortune of Rome, that fell from the heavens in the reign of Numa?"
+        answer: "<latin>ANCĪLE</latin>"
+  - tossup:
+      question: "What Latin verb is the root of “sparse”?"
+      answer: "<latin>SPARGŌ</latin>"
+    boni:
+      - question: "What Latin verb is the root of “source”?"
+        answer: "<latin>SURGŌ</latin>"
+      - question: "What Latin verb is the root of “scarce”?"
+        answer: "<latin>CARPŌ</latin>"
+  - tossup:
+      question: "Who, away from his beloved wife and his daughter Perilla, spent the last years of his life in desolation among the barbarous Getae?"
+      answer: "(P.) OVID(IUS NASO)"
+    boni:
+      - question: "What title is given to Ovid’s poems of lamentations which he started en route to Tomi?"
+        answer: "<title><latin>TRISTIA</latin></title>"
+      - question: "What is the title given to Ovid’s other collection of epistolary elegies which he composed during his exile at Tomi?"
+        answer: "<title><latin>EPISTULAE EX PONTO</latin></title>"
+  - tossup:
+      question: "What independent use of the subjunctive is used to express a wish?"
+      answer: "OPTATIVE / VOLITIVE / POTENTIAL"
+    boni:
+      - question: "What tense of the subjunctive is used to express a wish that is unaccomplished in present time?"
+        answer: "IMPERFECT"
+      - question: "Say in Latin using the Optative: Would that Cicero had been made emperor!"
+        answer: "<latin>UTINAM / SĪ / Ō SĪ CICERŌ IMPERĀTOR FACTUS (CREĀTUS) ESSET</latin>"
+  - tossup:
+      question: "In the 2nd century AD, what city was the capital of the province of Baetica?"
+      answer: "CORDUBA"
+    boni:
+      - question: "What city was the capital of the province of Numidia?"
+        answer: "CIRTA"
+      - question: "What city was the capital of the province of Germania Inferior?"
+        answer: "COLONIA AGRIPPINA"
+  - tossup:
+      question: "Who said the following quote from the <title>Aeneid</title> and to whom was it addressed. I will read the passage in prose: <latin>“Vērane tē faciēs, vērus mihi nuntius adfers,  Nāte deā? Vīvisne? Aut, sī lūx alma recessit,  Hector ubi est?</latin>”"
+      answer: "ANDROMACHE TO AENEAS"
+    boni:
+      - question: "In which book of the <title>Aeneid</title> can this quote be found?"
+        answer: "BOOK III (HAND OUT THE VISUAL FOR LINE 2)"
+      - question: "How many dactyls are in that second line of the quote?"
+        answer: "TWO"
+  - tossup:
+      question: "Give the second person, future active imperatives of <latin>fugiō</latin>"
+      answer: "<latin>FUGITŌ, FUGITŌTE</latin>"
+    boni:
+      - question: "Change <latin>fugitō</latin> to the passive"
+        answer: "<latin>FUGITOR</latin>"
+      - question: "How is a future imperative regularly made negative?"
+        answer: "<latin>NĒ / NĒVE / NEU</latin> IS ADDED"
+  - tossup:
+      question: "What grandson of Cadmus was the father of Laius and the grandfather of Oedipus?"
+      answer: "LABDACUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Which letter represents Lycus?"
+        answer: "“A”"
+      - question: "Which letter represents Dirce?"
+        answer: "“D”"
+  - tossup:
+      question: "What writer of comedy was ordered by an aedile to recite the opening scenes of his <title><latin>Andria</latin></title> to the most famous Roman comic writer at the time?"
+      answer: "(P.) TERENTIUS / TERENCE AFER"
+    boni:
+      - question: "Who was the Roman comic writer to whom Terence read?"
+        answer: "CAECILIUS STATIUS"
+      - question: "Who, with his friend Scipio Aeilianus, aided Terence with his writings?"
+        answer: "(C.) LAELIUS & SCIPIO AEMILIANUS"
+  - tossup:
+      question: "What was the Roman term for a market hall housing shops and stalls selling provisions?"
+      answer: "<latin>MACELLUM</latin>"
+    boni:
+      - question: "Which Roman emperor built a 150 shop <latin>macellum</latin> connected to his forum, one which you can still see in Rome today?"
+        answer: "TRAJAN"
+      - question: "Into the side of what hill was Trajan’s <latin>macellum</latin> built?"
+        answer: "QUIRINAL"
+  - tossup:
+      question: "According to Ovid, who was the only ally of Perseus to be “stoned” by the gaze of Medusa during the battle between Perseus and Andromeda’s uncle?"
+      answer: "ACONTEUS"
+    boni:
+      - question: "Who was the uncle of Andromeda?"
+        answer: "PHINEUS"
+      - question: "What priest of Ceres was killed at the hands of Phineus?"
+        answer: "AMPYCUS"
+  - tossup:
+      question: "Translate: <latin>Mihī nōn est dubium quīn ventūrae sint legiōnēs</latin>"
+      answer: "I HAVE NO DOUBT THAT THE LEGIONS ARE GOING TO COME"
+    boni:
+      - question: "Translate: <latin>Facere nōn possum quīn cotīdiē ad tē lītterās mittam</latin>"
+        answer: "I CANNOT DO WITHOUT SENDING YOU A LETTER EVERY DAY"
+      - question: "Translate: <latin>Vergilius est poeta quīn facile intellegātur</latin>"
+        answer: "VERGIL IS A POET / TYPE OF POET WHO IS NOT EASY TO UNDERSTAND"
+  - tossup:
+      question: "Define <latin>quercus</latin>"
+      answer: "OAK TREE, SEAWEED RESEMBLING OAK, GARLAND OF OAK LEAVES"
+    boni:
+      - question: "Define <latin>fraxinus</latin>"
+        answer: "ASH TREE, ASH WOOD, SPEAR OR JAVELIN OF ASH"
+      - question: "Define <latin>castanea</latin>"
+        answer: "CHESTNUT TREE, CHESTNUT"
+  - tossup:
+      question: "What Roman author received the <title>ornamenta consularia</title> because he educated two of Domitian’s nephews?"
+      answer: "(M. FABIUS) QUINTILIAN"
+    boni:
+      - question: "Which of Quintilian’s works was considered to be his remedy for the corruption of eloquence at the time?"
+        answer: "<title><latin>INSTITUTIO ORATORIA</latin></title>"
+      - question: "According to Quintilian, what Roman author was the chief exponent and principal source for the degenerate literary style at the time?"
+        answer: "SENECA THE YOUNGER"
+  - tossup:
+      question: "Who was Caligula’s favorite sister whom he named as his heir?"
+      answer: "(JULIA) DRUSILLA"
+    boni:
+      - question: "To what member of the old aristocratic nobility was Drusilla married?"
+        answer: "(M. AEMILIUS) LEPIDUS"
+      - question: "After her death, Drusilla’s husband joined whose conspiracy against Caligula in AD 39?"
+        answer: "(CN. CORNELIUS LENTULUS) GAETULICUS’"
+  - tossup:
+      question: "What king in Latium hospitably received Hercules during his journey home from one of his labors?"
+      answer: "EVANDER"
+    boni:
+      - question: "What fire-breathing monster was killed by Hercules while he was in Italy?"
+        answer: "CACUS"
+      - question: "Whom did Hercules kill while passing through Arabia?"
+        answer: "EMATHION"
+  - tossup:
+      question: "What Latin adjective with what meaning lies at the root of “cruel”?"
+      answer: "<latin>CRŪDUS</latin> – RAW, UNCOOKED, SAVAGE, UNRIPE"
+    boni:
+      - question: "What Latin adjective with what meaning lies at the root of “crepe”?"
+        answer: "<latin>CRISPUS</latin> – CURLY, WRINKLED, TREMBLING"
+      - question: "What Latin noun with what meaning lies at the root of “crest”?"
+        answer: "<latin>CRISTA</latin> - TUFT / CREST / PLUME"
+  - tossup:
+      question: "<latin>Dīcō : Dictō :: vīsō</latin> : ________?"
+      answer: "<latin>VĪSITŌ</latin>"
+    boni:
+      - question: "<latin>Faciō : Facessō :: Incēdō</latin> : ________?"
+        answer: "<latin>INCESSŌ</latin>"
+      - question: "<latin>Edō : Ēsuriō :: Emō</latin> : ________?"
+        answer: "<latin>ĒMPTURIŌ</latin>"

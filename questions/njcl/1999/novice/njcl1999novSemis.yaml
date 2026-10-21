@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What form of civil disobediance did the plebeians use to gain power and rights from the aristocrats?"
+      answer: "<latin>SECESSIO</latin> / SECESSION"
+    boni:
+      - question: "In what year did the first secession traditionally occur?"
+        answer: "494 BC"
+      - question: "What official was created after the fist secession to protect the plebeians?"
+        answer: "<latin>TRIBUNUS PLEBIS</latin> / TRIBUNE OF THE PLEBS"
+  - tossup:
+      question: "Translate the sentence: <latin>Audīvistisne clāmōrēs illōrum gladiātōrum?</latin>"
+      answer: "DID YOU (ALL) HEAR THE SHOUTS OF THOSE GLADIATORS?"
+    boni:
+      - question: "Translate the sentence: <latin>Num multum sanguinem in arēnā hodiē vidēbimus</latin>"
+        answer: "SURELY WE WON’T SEE MUCH BLOOD IN THE ARENA TODAY"
+      - question: "Translate the sentence: <latin>Publius spectāvit duōs gladiātōrēs pugnantēs in arēnā</latin>"
+        answer: "PUBLIUS WATCHED TWO GLADIATORS FIGHTING IN THE ARENA"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, what immortal knocked Ares down with a stone when the gods turned against each other?"
+      answer: "(PALLAS) ATHENA"
+    boni:
+      - question: "What magical object protected Athena from harm when Ares hurled a spear at her?"
+        answer: "(HER BREASTPLATE) AEGIS"
+      - question: "What immortal did Athena knock down with her fist?"
+        answer: "APHRODITE"
+  - tossup:
+      question: "Differentiate in meaning between <latin>saxum</latin> and <latin>sextum</latin>"
+      answer: "<latin>SAXUM</latin> – ROCK <latin>SEXTUM</latin> – SIXTH (n.)"
+    boni:
+      - question: "Differentiate in meaning between <latin>noceō</latin> and <latin>nōscō</latin>"
+        answer: "<latin>NOCEŌ</latin> – HARM <latin>NŌSCŌ</latin> – LEARN, KNOW"
+      - question: "Differentiate in meaning between <latin>opus</latin> and <latin>ops</latin>"
+        answer: "<latin>OPUS</latin> – WORK <latin>OPS</latin> – RESOURCE, AID"
+  - tossup:
+      question: "What mythological Athenian prince, when he was sixteen, entered Athens for the first time on the eighth day of the month of Hecatombaeum?"
+      answer: "THESEUS"
+    boni:
+      - question: "Who was the mother of Theseus?"
+        answer: "AETHRA"
+      - question: "Who was the father of Theseus?"
+        answer: "AEGEUS / POSEIDON / NEPTUNE"
+  - tossup:
+      question: "Who lost the support of his troops for negotiating with instead of fighting the Germans in A.D. 235?"
+      answer: "SEVERUS ALEXANDER"
+    boni:
+      - question: "Name his mother who dominated his rule"
+        answer: "JULIA MAMAEA"
+      - question: "After Alexander and his mother were murdered, whom did the troops choose to be emperor?"
+        answer: "MAXIMINUS THRAX"
+  - tossup:
+      question: "Make the phrase <latin>ille equus celer</latin> genitive singular"
+      answer: "<latin>ILLĪUS EQUĪ CELERIS</latin>"
+    boni:
+      - question: "Change <latin>illīus equī celeris</latin> to the dative"
+        answer: "<latin>ILLĪ EQUŌ CELERĪ</latin>"
+      - question: "Change <latin>illī equō celerī</latin> to the plural"
+        answer: "<latin>ILLĪS EQUĪS CELERIBUS</latin>"
+  - tossup:
+      question: "What use of the Ablative case is found in the following Latin sentence: <latin>Māgnā vōce nōmina mīlitum clāmant</latin>"
+      answer: "MANNER"
+    boni:
+      - question: "<latin>Pater sapientior mātre nōn est</latin>"
+        answer: "COMPARISON"
+      - question: "<latin>Quīntus homō māgnā glōriā fuit</latin>"
+        answer: "QUALITY / DESCRIPTION"
+  - tossup:
+      question: "Why did Zeus send Apollo to build the walls of Troy?"
+      answer: "AS A PUNISHMENT FOR HIS PART IN THE CONSPIRACY OF THE GODS (TO BIND ZEUS)"
+    boni:
+      - question: "What other deity suffered the same punishment for the same crime?"
+        answer: "POSEIDON"
+      - question: "What mortal aided Apollo and Poseidon in building Troy’s walls?"
+        answer: "AEACUS"
+  - tossup:
+      question: "Which one of the following, if any, IS derived from a Latin word meaning “side”: translate, lateral, related, legislature, elation?"
+      answer: "LATERAL"
+    boni:
+      - question: "Which one of the following, if any, IS derived from a Latin word meaning “hammer”: mallet, malign, marshmallow, maestro, malaria?"
+        answer: "MALLET"
+      - question: "Which one of the following, if any, IS derived from a Latin word meaning “wheel”: rotten, erupt, route, erode, roulette?"
+        answer: "ROULETTE"
+  - tossup:
+      question: "Give the third person plural, future active indicative of <latin>spondeō</latin>"
+      answer: "<latin>SPONDĒBUNT</latin>"
+    boni:
+      - question: "Change <latin>spondēbunt</latin> to the future perfect"
+        answer: "<latin>SPOPONDERINT</latin>"
+      - question: "Change <latin>spoponderint</latin> to the passive"
+        answer: "<latin>SPŌNSĪ ERUNT</latin>"
+  - tossup:
+      question: "Which Roman king was born a slave?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "In whose household did Servius grow up to be a trusted lieutenant?"
+        answer: "TARQUINIUS PRISCUS’"
+      - question: "With what was he credited because of his slave ancestry?"
+        answer: "ENFRANCHISEMENT OF FREEDMEN"
+  - tossup:
+      question: "Which of the following, if any, IS NOT a deponent verb: <latin>exspector, morior, ēgredior, persequor, loquor</latin>?"
+      answer: "<latin>EXSPECTOR</latin>"
+    boni:
+      - question: "Translate <latin>expector</latin>"
+        answer: "I AM AWAITED / EXPECTED"
+      - question: "Translate <latin>ēgredior</latin>"
+        answer: "I LEAVE / GO OUT"
+  - tossup:
+      question: "What Theban prince killed himself to save his city?"
+      answer: "MENOECEUS"
+    boni:
+      - question: "Who was the father of this Menoeceus?"
+        answer: "CREON"
+      - question: "Who had told Creon that Ares demanded the death of a virgin man who was descended, through both parents, from the Spartoi?"
+        answer: "T(E)IRESIAS"
+  - tossup:
+      question: "What Latin verb with what meaning lies at the root of “objective”?"
+      answer: "<latin>IACIŌ, IACERE</latin> - THROW, HURL, CAST (<emphasis>NOT</emphasis> <latin>IACTŌ</latin>),"
+    boni:
+      - question: "What Latin verb with what meaning lies at the root of “exhaust”?"
+        answer: "<latin>HAURIŌ</latin> - DRINK, DRAIN, DIG, SCOOP UP"
+      - question: "What Latin verb with what meaning lies at the root of “arbitrate”?"
+        answer: "<latin>ARBITROR</latin> - THINK, OBSERVE, JUDGE"
+  - tossup:
+      question: "At the beginning of the 3rd century A.D., what city was the capital of the province of Sicilia?"
+      answer: "SYRACUSE"
+    boni:
+      - question: "What city was the capital of the province of Achaea?"
+        answer: "CORINTH(US)"
+      - question: "What city was the capital of the province of Macedonia?"
+        answer: "THESSALONICA"
+  - tossup:
+      question: "Who are the parents of the object labeled “C”?"
+      answer: "MEDUSA & POSEIDON / NEPTUNE"
+    boni:
+      - question: "Who are the parents of the object labeled “B”?"
+        answer: "TYPHAON & ECHIDNA"
+      - question: "Who are the parents of the object labeled “A”?"
+        answer: "GLAUCUS / POSEIDON & EURYMEDE (or EURYNOME)"
+  - tossup:
+      question: "Translate this common phrase: <latin>Prīmus inter pārēs</latin>"
+      answer: "FIRST AMONG (HIS) EQUALS"
+    boni:
+      - question: "Translate this common phrase: <latin>Cēterīs pāribus</latin>"
+        answer: "WITH THE REST BEING EQUAL"
+      - question: "Translate this common phrase: <latin>Pārī ratiōne</latin>"
+        answer: "WITH AN EQUAL REASON"
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē. Sum animal minimum quod cāseum et saepe frūmentum edit. Maximē placet fēlibus mē edere! Quod animal sum?</latin>"
+      answer: "<latin>MŪS</latin>"
+    boni:
+      - question: "<latin>Prōdūcō lac quod ab hominibus bibitur. Tōtum diem mihī placet herbās edere Quod animal sum?</latin>"
+        answer: "<latin>VACCA / PECUS / BŌS</latin>"
+      - question: "<latin>Per diem agnōs et leporēs petō. Nocte ululō. Similis canī videor. Quod animal sum?</latin>"
+        answer: "<latin>LŪPUS / VULPĒS</latin>"
+  - tossup:
+      question: "In what type of procession were there musicians, dancers, mimes, masks, and family members dressed in black or dark colors?"
+      answer: "FUNERAL"
+    boni:
+      - question: "What is the Latin term for the masks of distinguished ancestors carried in the procession?"
+        answer: "<latin>IMĀGINĒS</latin>"
+      - question: "What was the function of the <latin>praeficae</latin> in the funeral procession?"
+        answer: "HIRED FEMALE MOURNERS"

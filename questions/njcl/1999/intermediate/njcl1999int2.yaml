@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "<latin>Audī et rēspondē Latīnē. Multā nocte, cum defessus es, sum illa pars domūs quam intrās. Lectus in mē saepe compōnitur. Quae pars domūs sum?</latin>"
+      answer: "<latin>CUBICULUM</latin>"
+    boni:
+      - question: "<latin>Locātum mediā domō ad frōntem, compluvium et lectum geniālem in mē contineō. Quae pars domūs sum?</latin>"
+        answer: "<latin>ĀTRIUM</latin>"
+      - question: "Columnīs circumeuntibus, contineō <latin>hortum ubi sint statuae aut fōns aut flōrēs. Quae pars domūs sum?</latin>"
+        answer: "<latin>PERISTYLIUM</latin>"
+  - tossup:
+      question: "What musical instrument did a <latin>tībīcen</latin> play?"
+      answer: "FLUTE, PIPE(S)"
+    boni:
+      - question: "What was a <latin>tympanum</latin>?"
+        answer: "DRUM, TAMBOURINE, TYMPANY"
+      - question: "Distinguish between the <latin>tuba</latin> and the <latin>cornu</latin>"
+        answer: "STRAIGHT / CURVED HORN (USED BY THE MILITARY)"
+  - tossup:
+      question: "What Greek chieftain was taller than the other Greek warriors by a head and was the handsomest man among them next to Achilles?"
+      answer: "TELAMONIAN AJAX / AIAS (or AJAX TELAMON or AJAX THE GREAT)"
+    boni:
+      - question: "Of what island was Ajax Telamon the king?"
+        answer: "SALAMIS"
+      - question: "With what other Greek chieftain did Ajax Telamon vie for Achilles’ armor?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Translate: <latin>Nuntius putāvit sē arma et mīlitēs vīdisse.</latin>"
+      answer: "THE MESSENGER THOUGHT THAT HE HAD SEEN WEAPONS AND SOLDIERS"
+    boni:
+      - question: "Translate: <latin>Caesar nuntiō dīxit mīlitēs dēlendōs esse.</latin>"
+        answer: "CAESAR TOLD THE MESSENGER THAT THE SOLDIERS MUST BE DESTROYED"
+      - question: "Translate: <latin>Caesar suīs mīlitibus dīxit sē bellum gestūrum esse.</latin>"
+        answer: "CAESAR TOLD HIS SOLDIERS THAT HE WOULD WAGE WAR"
+  - tossup:
+      question: "Give the first person plural, present active subjunctive for <latin>terreō</latin>"
+      answer: "<latin>TERREĀMUS</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>sequor</latin>"
+        answer: "<latin>SEQUĀMUR</latin>"
+      - question: "Give the corresponding form for <latin>redeō</latin>"
+        answer: "<latin>REDEĀMUS</latin>"
+  - tossup:
+      question: "How many men accompanied Odysseus to the cave of Polyphemus?"
+      answer: "TWELVE"
+    boni:
+      - question: "How many men were eaten by Polyphemus?"
+        answer: "SIX"
+      - question: "How did Odysseus and his remaining companions escape from the cave of Polyphemus?"
+        answer: "(THEY BLINDED POLYPHEMUS WITH A WOODEN STAKE AND) THEY ESCAPED FROM THE CAVE <emphasis>BY HIDING UNDERNEATH THE BELLIES OF POLYPHEMUS’S RAMS</emphasis>"
+  - tossup:
+      question: "What emperor took the title of <latin>Parthicus Maximus</latin> in AD 198?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Name the Parthian capital which Severus destroyed"
+        answer: "CTESIPHON"
+      - question: "What former province did Severus re-establish?"
+        answer: "MESOPOTAMIA"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin word as the others: estimate, premium, redeem, prompt, exemplify?"
+      answer: "ESTIMATE"
+    boni:
+      - question: "From what Latin verb is “estimate” derived?"
+        answer: "<latin>AESTIMŌ, -ĀRE</latin>"
+      - question: "What English verb, also derived from <latin>aestimō</latin>, means “to regard with admiration”?"
+        answer: "ESTEEM"
+  - tossup:
+      question: "According to tradition, who held the first Roman census?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "By legal definition, what was the <latin>census</latin>?"
+        answer: "OFFICIAL LIST(ING) OF ROMAN CITIZENS"
+      - question: "What emperor and his son were the last to hold a census in Italy?"
+        answer: "VESPASIAN & TITUS"
+  - tossup:
+      question: "Make the phrase <latin>altus pariēs</latin> dative"
+      answer: "<latin>ALTŌ PARIĒTĪ</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>Iuppiter omnipotēns</latin>"
+        answer: "<latin>IŌVĪ OMNIPOTENTĪ</latin>"
+      - question: "Give the corresponding form for <latin>nix candēns</latin>"
+        answer: "<latin>NIVĪ CANDENTĪ</latin>"
+  - tossup:
+      question: "What does the Latin idiom <latin>ōrātiōnem habēre</latin> mean?"
+      answer: "TO MAKK / DELIVER / GIVE A SPEECH / TO ORATE"
+    boni:
+      - question: "Give an idiomatic synonym for <latin>ōrātiōnem habēre</latin>"
+        answer: "<latin>VERBA FACERE</latin>"
+      - question: "What does the idiom <latin>ōrātiōnem conficere</latin> mean?"
+        answer: "TO COMPOSE A SPEECH"
+  - tossup:
+      question: "Whom did Jason and the Argonauts rescue from the Harpies?"
+      answer: "PHINEUS"
+    boni:
+      - question: "Which two winged Argonauts drove off the Harpies?"
+        answer: "ZETES & CALAÏS"
+      - question: "How did Phineus repay their kindness?"
+        answer: "HE TOLD THEM <emphasis>HOW TO GET PAST THE CLASHING ROCKS / SYMPLEGADES</emphasis>"
+  - tossup:
+      question: "In what river did Midas wash his hands in order to remove his “24-karat” curse?"
+      answer: "PACTOLUS"
+    boni:
+      - question: "What river carried Orpheus’ head across the Aegean Sea to Lemnos?"
+        answer: "HEBRUS"
+      - question: "What river attacked Achilles, but was himself defeated by Hephaestus?"
+        answer: "XANTHUS / SCAMANDER"
+  - tossup:
+      question: "Where did Hannibal ambush the army of the consul Gaius Flaminius?"
+      answer: "LAKE TRASIMENE"
+    boni:
+      - question: "In what year was this battle fought?"
+        answer: "217 BC"
+      - question: "What ally had sent Hannibal reinforcements before this battle?"
+        answer: "THE GAULS"
+  - tossup:
+      question: "Say in Latin: Let’s stay in Rome"
+      answer: "<latin>RŌMAE MANEĀMUS</latin>"
+    boni:
+      - question: "Say in Latin: Let’s not got to Rome"
+        answer: "<latin>NĒ RŌMAM EĀMUS</latin> (if <latin>NŌN</latin> is given, must be designated as rare)"
+      - question: "Say in Latin: Why have we come to Cumae (koo! mai)?"
+        answer: "<latin>CŪR CUMĀS VĒNIMUS</latin>"
+  - tossup:
+      question: "From what Latin adjective with what meaning is the English word “molest” derived?"
+      answer: "<latin>MOLESTUS</latin> – TROUBLESOME, ANNOYING, TIRESOME"
+    boni:
+      - question: "From what Latin adjective with what meaning is the English word “mollify” derived?"
+        answer: "<latin>MOLLIS</latin> – SOFT, TENDER, FLACCID, GENTLE, MILD, AMOROUS"
+      - question: "From what Latin noun with what meaning is the English word “molasses” derived?"
+        answer: "<latin>MEL</latin> - HONEY"
+  - tossup:
+      question: "Give a synonym for <latin>praedō</latin>"
+      answer: "<latin>FŪR, FURCIFER, PĪRĀTA, LATRŌ</latin>"
+    boni:
+      - question: "Give a synonym for <latin>baculum</latin>"
+        answer: "<latin>FUSTIS, VIRGA, CĀDŪCEUS</latin>"
+      - question: "Give a synonym for <latin>crīnis</latin>"
+        answer: "<latin>CAPILLUS, COMA</latin>"
+  - tossup:
+      question: "Who provoked a rebellion of the Germanic tribes between the Rhine and the Elbe in AD 9?"
+      answer: "(P. QUINCTILIUS) VARUS"
+    boni:
+      - question: "Where was Varus ambushed by the German leader Arminius?"
+        answer: "TEUTOBURG FOREST"
+      - question: "How many legions were annihilated by the Germans?"
+        answer: "THREE"
+  - tossup:
+      question: "Who were the parents of Ascanius?"
+      answer: "AENEAS & CREUSA (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Please identify the letter that corresponds to Ascanius"
+        answer: "“D”"
+      - question: "Please identify the object that is labeled “A”?"
+        answer: "PALLADIUM / LARES OF TROY"
+  - tossup:
+      question: "<latin>Crīnis : calvus :: vestis</latin> : ________?"
+      answer: "<latin>NŪDUS</latin>"
+    boni:
+      - question: "<latin>Crīnis : calvus :: aqua</latin> : ________?"
+        answer: "<latin>SITIENS, SICCUS, ARIDUS</latin>"
+      - question: "<latin>Crīnis : calvus :: pecūnia</latin> : _______?"
+        answer: "<latin>PAUPER, IMPECUNIŌSUS</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "For the verb <latin>audiō, audīre</latin>, give the second person plural, present passive indicative"
+      answer: "<latin>AUDĪMINĪ</latin>"
+    boni:
+      - question: "Change <latin>audīminī</latin> to the imperfect"
+        answer: "<latin>AUDIĒBĀMINĪ</latin>"
+      - question: "Change <latin>audiēbāminī</latin> to the perfect"
+        answer: "<latin>AUDITĪ (-AE, A) ESTIS</latin>"
+  - tossup:
+      question: "Which of the great Olympian gods is often known as the “Lord of the Silver Bow”?"
+      answer: "(PHOEBUS) APOLLO"
+    boni:
+      - question: "From whom did Apollo receive his bow and arrows?"
+        answer: "HEPHAESTUS / VULCAN (-US) / MULCIBER"
+      - question: "What monstrous son of Zeus was killed by Apollo’s arrows because he had attacked Leto as she was going to Delphi?"
+        answer: "TITYUS"
+  - tossup:
+      question: "What English noun for a “public sale” is derived from a Latin verb meaning “increase”?"
+      answer: "AUCTION"
+    boni:
+      - question: "What related word is an English noun meaning “someone who writes”?"
+        answer: "AUTHOR"
+      - question: "What Latin word meaning “help” is related to <latin>augēre</latin>?"
+        answer: "<latin>AUXILIUM</latin>"
+  - tossup:
+      question: "What war did Rome fight in 91-87 B.C.?"
+      answer: "SOCIAL / MARSIC / ITALIAN WAR"
+    boni:
+      - question: "For what were the Italian allies fighting?"
+        answer: "(FULL) CITIZENSHIP"
+      - question: "Which Roman general captured Corfinium, the rebel capital?"
+        answer: "(POMPEIUS) STRABO"
+  - tossup:
+      question: "Make the phrase <latin>sacerdōs cantāns</latin> accusative singular"
+      answer: "<latin>SACERDŌTEM CANTĀNTEM</latin>"
+    boni:
+      - question: "Change <latin>sacerdōtem cantāntem</latin> to the dative"
+        answer: "<latin>SACERDŌTĪ CANTĀNTĪ</latin>"
+      - question: "Change <latin>sacerdōtī cantāntī</latin> to the plural"
+        answer: "<latin>SACERDŌTIBUS CANTĀNTIBUS</latin>"
+  - tossup:
+      question: "Which Roman king organized a festival in honor of the god Consus and invited the neighboring Sabines?"
+      answer: "ROMULUS"
+    boni:
+      - question: "During this festival, what did the Romans do when the signal was given?"
+        answer: "SEIZED THE SABINE YOUNG WOMEN & CARRIED THEM OFF"
+      - question: "Name the king of the Sabines who laid siege to Rome"
+        answer: "(TITUS) TATIUS"
+  - tossup:
+      question: "Which of the following, if any, <emphasis>is</emphasis> an antonym of <latin>mōns: vallēs, collis, arbor, agger, mōlēs</latin>?"
+      answer: "<latin>VALLĒS</latin>"
+    boni:
+      - question: "Which of the following, if any, <emphasis>is</emphasis> an antonym of <latin>prope: hīc, ad, bene, intrā, longē</latin>?"
+        answer: "<latin>LONGĒ</latin>"
+      - question: "Which of the following, if any, <emphasis>is</emphasis> an antonym of <latin>aeger: campus, tardus, facilis, incertus, validus</latin>?"
+        answer: "<latin>VALIDUS</latin>"
+  - tossup:
+      question: "What brother of Priam was transformed into a grasshopper?"
+      answer: "TITHONUS"
+    boni:
+      - question: "Who was the divine lover of Tithonus?"
+        answer: "EOS / AURORA"
+      - question: "What had Aurora forgotten to ask Jupiter when she beseeched Jupiter to grant immortality on Tithonus?"
+        answer: "ETERNAL YOUTH"
+  - tossup:
+      question: "Translate: <latin>Gladiātor, postquam leōnēs audīvit, ex amphitheatrō cucurrit</latin>"
+      answer: "THE GLADIATOR, AFTER HE (HAD) HEARD THE LIONS, RAN OUT OF THE AMPHITHEATHER"
+    boni:
+      - question: "Translate: <latin>Gladiātōrēs nōn erant fortiōrēs quam leōnēs</latin>"
+        answer: "THE GLADIATORS WERE NOT BRAVER THAN THE LIONS"
+      - question: "Translate: <latin>Leōnēs saevissimī intrāvērunt sed nēminem necāvērunt</latin>"
+        answer: "THE VERY FIERCE LIONS ENTERED BUT KILLED NO ONE."
+  - tossup:
+      question: "Using <latin>nōlō, nōlle</latin>, say in Latin: we do not want"
+      answer: "<latin>NŌLUMUS</latin>"
+    boni:
+      - question: "Using the same verb, say in Latin: you (plural) do not want"
+        answer: "<latin>NŌN VULTIS</latin>"
+      - question: "Using the same verb, say in Latin: they were not wanting"
+        answer: "<latin>NŌLĒBANT</latin>"
+  - tossup:
+      question: "What Roman emperor was a native of Leptis Magna?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "When Severus seized the throne in A.D. 193, what emperor’s death did he claim to be avenging?"
+        answer: "PERTINAX’S"
+      - question: "What group did he disband because they had murdered Pertinax?"
+        answer: "PRAETORIAN GUARD"
+  - tossup:
+      question: "Who gave Odysseus a cattle-skin bag full of the winds?"
+      answer: "AEOLUS"
+    boni:
+      - question: "Which wind was the only one not contained in this bag?"
+        answer: "ZEPHYR(US) / WEST WIND"
+      - question: "Why wouldn’t Aeolus help Odysseus the second time around when his ship was blown back to Aeolia?"
+        answer: "BECAUSE AEOLUS BELIEVED THAT THE <emphasis>GODS</emphasis> HAD CLEARLY SHOWN THEIR <emphasis>HOSTILITY</emphasis> TO HIS RETURN WITH THIS UNFORTUNATE INCIDENT"
+  - tossup:
+      question: "What word is missing in the following list: <latin>decem, vīgintī, quadrāgintā, quīnquāgintā, sexāgintā</latin>?"
+      answer: "<latin>TRĪGINTĀ</latin>"
+    boni:
+      - question: "<latin>trecentī, quadringentī, quīngentī, septingenti?</latin>"
+        answer: "<latin>SESCENTĪ</latin>"
+      - question: "<latin>singulī, ternī, quaternī, quīnī, sēnī</latin>?"
+        answer: "<latin>BĪNĪ</latin>"
+  - tossup:
+      question: "Who inflicted Heracles with a fit of madness, in the course of which he killed his three sons and his wife?"
+      answer: "HERA"
+    boni:
+      - question: "Who was this unfortunate wife?"
+        answer: "MEGARA"
+      - question: "Who struck Heracles with a rock when he was about to kill his step-father?"
+        answer: "ATHENA"
+  - tossup:
+      question: "Give the comparative and superlative forms ofthe adverb <latin>difficile</latin>"
+      answer: "<latin>DIFFICILIUS, DIFFICILLIMĒ</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>graviter</latin>"
+        answer: "<latin>GRAVIUS, GRAVISSIMĒ</latin>"
+      - question: "Give the comparative and superlative forms of <latin>līberē</latin>"
+        answer: "<latin>LĪBERIUS, LĪBERRIMĒ</latin>"
+  - tossup:
+      question: "What was the Latin term for the legal head of a Roman family?"
+      answer: "<latin>PATERFAMILIAS</latin>"
+    boni:
+      - question: "When a son was emanicipated by his father, what was the legal term for his independence?"
+        answer: "<latin>SUI IURIS</latin>"
+      - question: "If there were two sons (one married and one unmarried) and two daughters (one married and one unmarried), how many new families were created upon the death of the <latin>paterfamilias</latin>?"
+        answer: "TWO"
+  - tossup:
+      question: "Which of the following, if any, does <emphasis>not</emphasis> come from the same Latin root as the others: recent, regimen, direct, adroit, rectangle?"
+      answer: "RECENT"
+    boni:
+      - question: "infuse, funnel, fuss, futility, transfusion?"
+        answer: "FUSS"
+      - question: "manure, permanent, remnant, menial, remainder?"
+        answer: "MANURE"
+  - tossup:
+      question: "What son of Ares was the slayer of the Calydonian Boar?"
+      answer: "MELEAGER"
+    boni:
+      - question: "According to Ovid, to whom did Meleager give the boarskin, the head, and the tusks of the Calydonian Boar?"
+        answer: "ATALANTA"
+      - question: "How did Meleager die?"
+        answer: "HIS MOTHER BURNED HIS LIFE-BRAND (or LOG) / HIS MOTHER’S CURSE AROUSED THE ERINYES AGAINST HIM / APOLLO KILLED HIM IN THE WAR BETWEEN THE CALYDONIANS & THE CURETES"
+  - tossup:
+      question: "What verb tense is used to express action completed in the future?"
+      answer: "FUTURE PERFECT"
+    boni:
+      - question: "What verb tense is used to action already completed with regard to another completed action in past time?"
+        answer: "PERFECT"
+      - question: "What use of the present tense is often employed by writers like Livy and Tacitus to narrate past events?"
+        answer: "HISTORICAL PRESENT"
+  - tossup:
+      question: "In 133 BC King Attalus III of Pergamum bequeathed his kingdom to Rome. What province did Pergamum and its surrounding territory become?"
+      answer: "ASIA (PLEASE HAND OUT THE VISUAL)"
+    boni:
+      - question: "What number on the map corresponds to the province of Asia?"
+        answer: "10"
+      - question: "In 74 BC Nicomedes III bequeathed his kingdom of Bithynia to the Romans. What number on the map corresponds to Bithynia?"
+        answer: "11"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Which of the Olympians was trapped in a bronze jar for thirteen months before he was released by Hermes?"
+      answer: "ARES"
+    boni:
+      - question: "Who had sealed Ares in a bronze jar?"
+        answer: "ALOADAE / OTUS & EPHIALTES"
+      - question: "Which of the Olympians is sometimes said to be the father of the Aloadae?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "Using only two words, say in Latin, “When Augustus was emperor.”"
+      answer: "<latin>AUGUSTŌ IMPERĀTŌRE / PRĪNCIPE</latin>"
+    boni:
+      - question: "Using only two words, say in Latin, “When Augustus had spoken.”"
+        answer: "<latin>AUGUSTŌ FĀTŌ / LOCŪTŌ</latin>"
+      - question: "To which of the following types of clauses, if any, is the Ablative Absolute construction NOT an alternative: Concessive, Purpose, Temporal, Causal, Conditional?"
+        answer: "PURPOSE"
+  - tossup:
+      question: "Give a synonym of <latin>flūmen</latin>"
+      answer: "<latin>AMNIS, FLUVIUS, RĪVUS</latin>"
+    boni:
+      - question: "Give a synonym of <latin>impetus</latin>"
+        answer: "<latin>VĪS, ICTUS, OPPUGNĀTIŌ</latin>"
+      - question: "Give a synonym of <latin>fāma</latin>"
+        answer: "<latin>GLŌRIA, NŌTITIA, HONOR, HONŌS, RŪMOR</latin>"
+  - tossup:
+      question: "From what Latin verb are the English words “referee” and “circumference” derived?"
+      answer: "<latin>FERŌ, FERRE</latin>"
+    boni:
+      - question: "From what Latin verb are the words “chisel” and “excise” derived?"
+        answer: "<latin>CAEDŌ, CAEDERE</latin>"
+      - question: "From what Latin verb are the words “trace” and “treaty” derived?"
+        answer: "<latin>TRAHŌ, TRAHERE</latin>"
+  - tossup:
+      question: "Who was able to retain his political influence & popularity although he was absent from Rome from 58 to 49 B.C.?"
+      answer: "(C.) JULIUS CAESAR"
+    boni:
+      - question: "What was Caesar doing during those 10 years?"
+        answer: "CONQUERING GAUL"
+      - question: "What publication helped keep Caesar in the public eye?"
+        answer: "<title><latin>(COMMENTARII) DE BELLO GALLICO</latin> / (COMMENTARIES) ON THE GALLIC WAR</title>"
+  - tossup:
+      question: "According to Ovid, who was the first girl loved by Apollo?"
+      answer: "DAPHNE"
+    boni:
+      - question: "Again, according to Ovid, who had caused Apollo to fall in love with Daphne?"
+        answer: "CUPID"
+      - question: "Into what was Daphne transformed?"
+        answer: "LAUREL TREE"
+  - tossup:
+      question: "Differentiate in meaning between <latin>interficere</latin> and <latin>iter facere</latin>."
+      answer: "<latin>INTERFICERE</latin> – KILL, SLAY <latin>ITER FACERE</latin> – MARCH, (MAKE A) JOURNEY, TRAVEL"
+    boni:
+      - question: "Differentiate in meaning between <latin>interim</latin> and <latin>iterum</latin>."
+        answer: "<latin>INTERIM</latin> – MEANWHILE <latin>ITERUM</latin> – AGAIN"
+      - question: "Differentiate in meaning between <latin>apis</latin> and <latin>avis</latin>."
+        answer: "<latin>APIS</latin> – BEE <latin>AVIS</latin> – BIRD"
+  - tossup:
+      question: "Name in order the emperors who ruled immediately before and after Trajan."
+      answer: "NERVA - HADRIAN"
+    boni:
+      - question: "Name in order the emperors who ruled immediately before and after Galba."
+        answer: "NERO - OTHO"
+      - question: "Name in order the emperors who ruled immediately before and after Pertinax."
+        answer: "COMMODUS - DIDIUS JULIANUS"
+  - tossup:
+      question: "Give the third person singular, future indicative for <latin>morior</latin>"
+      answer: "<latin>MORIĒTUR</latin>"
+    boni:
+      - question: "Change <latin>moriētur</latin> to the imperfect"
+        answer: "<latin>MORIĒBĀTUR</latin>"
+      - question: "Change <latin>moriēbātur</latin> to second person"
+        answer: "<latin>MORIĒBĀRIS</latin>"
+  - tossup:
+      question: "What building in the <latin>forum Romanum</latin> was commonly referred to as the <latin>aedes Castoris</latin>?"
+      answer: "TEMPLE OF CASTOR & POLLUX (PASS OUT THE VISUAL)"
+    boni:
+      - question: "What number on the map corresponds to the Temple of Castor and Pollux?"
+        answer: "5"
+      - question: "What building is indicated on the map by the number 4?"
+        answer: "BASILICA JULIA"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN ENGLISH, the question about it: <latin>Cotīdiē Lucius et Petrōnius domum redībant ad litterās legendās, quās māter rūre mittēbat. Paulātim coēperunt discere quid māter rūrī faceret.</latin> Where did Lucius and Petronius go every day?"
+      answer: "HOME"
+    boni:
+      - question: "What did they do at home?"
+        answer: "THEY READ THE LETTERS (THAT THEIR MOTHER WAS SENDING THEM)"
+      - question: "What were they learning from the letters?"
+        answer: "WHAT THEIR MOTHER WAS DOING (IN THE COUNTRY)"
+  - tossup:
+      question: "Which of the sons of Agenor became the founder of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "How did Cadmus decide where to found his city?"
+        answer: "<emphasis>HE FOLLOWED A COW</emphasis> (WITH A MOON SHAPE ON HER REAR) ALL THE WAY FROM PHOCIS TO SOUTHERN BOEOTIA AND FOUNDED HIS CITY <emphasis>WHERE THE COW LAY DOWN</emphasis>"
+      - question: "What daughter of Ares became the wife of Cadmus?"
+        answer: "HARMONIA"
+  - tossup:
+      question: "What are verbs such as <latin>coepī, meminī</latin>, and <latin>ōdī</latin> known as?"
+      answer: "DEFECTIVE VERBS"
+    boni:
+      - question: "What are verbs such as <latin>audeō, gaudeō</latin>, and <latin>soleō</latin> known as?SEMI-DEPONENT VERBS What are verbs such as <latin>calēscō, scīscō</latin>, and <latin>īrāscor</latin> known as?"
+        answer: "INCEPTIVES / INCHOATIVES"
+  - tossup:
+      question: "Whom did the Senate condemn to death in A.D. 193 after a rule of only 66 days?"
+      answer: "DIDIUS IULIANUS"
+    boni:
+      - question: "How had Julianus gained the imperial throne?"
+        answer: "IN AN AUCTION (IN THE PRAETORIAN CAMP & HE OUTBID HIS RIVALS WITH 25,000 SESTERTII PER PRAETORIAN)"
+      - question: "Whom did the Senate proclaim as Julianus’ successor?"
+        answer: "SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "With what Carthaginian queen did Aeneas fall in love?"
+      answer: "DIDO / ELISSA"
+    boni:
+      - question: "Name the former husband of Dido who was killed by her brother"
+        answer: "SYCHAEUS"
+      - question: "Who was her cruel brother?"
+        answer: "PYGMALION"
+  - tossup:
+      question: "Give the perfect active infinitive of <latin>intellegō</latin>"
+      answer: "<latin>INTELLĒXISSE</latin>"
+    boni:
+      - question: "Give the perfect active infinitive of <latin>trānsmittō</latin>"
+        answer: "<latin>TRĀNSMĪSISSE</latin>"
+      - question: "Give the perfect active infinitive of <latin>tangō</latin>"
+        answer: "<latin>TETIGISSE</latin>"
+  - tossup:
+      question: "What was the standard of an imperial Roman legion called?"
+      answer: "<latin>AQUILA</latin>"
+    boni:
+      - question: "What 1st century B.C. reformer of the army determined that the standard would be an eagle?"
+        answer: "(C.) MARIUS"
+      - question: "What qualification for military service did Marius remove?"
+        answer: "OWNERSHIP OF PROPERTY"
+  - tossup:
+      question: "Who was sent by Amphitryon to tend his flocks around Mount Cithaeron to keep him out of trouble?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What music teacher had Heracles just killed that garnered him this punishment?"
+        answer: "LINUS"
+      - question: "On what grounds was Heracles acquitted of the murder charge?"
+        answer: "THAT HE HAD RESISTED AN AGGRESSOR"
+  - tossup:
+      question: "What is the case and use of <latin>virtūs</latin> in the sentence: <latin>Scientia potentior virtūte est</latin>"
+      answer: "ABLATIVE OF COMPARISON"
+    boni:
+      - question: "What is the case and use of <latin>virtūs</latin> in the sentence: <latin>Cūr virtūtī invidēs</latin>?"
+        answer: "DATIVE w/ SPECIAL VERBS / INDIRECT OBJECT"
+      - question: "What is the case and use of <latin>virtūs</latin> in the sentence: <latin>Mīlitēs sunt hominēs summae virtūtis</latin>?"
+        answer: "GENITIVE OF QUALITY / DESCRIPTION"
+  - tossup:
+      question: "Many English words are derived from the participles of Latin verbs. What English word, formed from a future active participle, means “that which is about to be”?"
+      answer: "FUTURE"
+    boni:
+      - question: "What English word, often used to describe unnecessary repetition, is formed from a present active participle and literally means “overflowing”?"
+        answer: "REDUNDANT"
+      - question: "What English word, formed from a future passive participle, literally means “things which are to be done?”"
+        answer: "AGENDA"

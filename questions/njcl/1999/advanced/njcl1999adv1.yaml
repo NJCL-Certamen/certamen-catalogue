@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Roman poet of Iberian ancestry completed the 12th book of his epigrams in A.D. 101 from his farm in Bilbilis?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "What is the title of his first known work?"
+        answer: "<title><latin>LIBER SPECTACULORUM</latin></title>"
+      - question: "For what occasion did Martial compose the <title><latin>Liber Spectaculorum</latin></title>?"
+        answer: "THE OPENING OF THE COLOSSEUM"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin word as the others: taint, tangent, taste, attain, contagious?"
+      answer: "TAINT"
+    boni:
+      - question: "What Latin verb with what meaning is the root of “taint”?"
+        answer: "<latin>TINGŌ / TINGUŌ</latin> – WET, STAIN, TINGE, IMBUE"
+      - question: "Define <latin>attingō</latin>"
+        answer: "TOUCH, REACH, STRETCH, ARRIVE, ATTAIN"
+  - tossup:
+      question: "What leader of the Amazons was captured by Theseus and sailed back to Athens with him? <title>see below for answer</title> For five more points, give another name of this Amazon leader"
+      answer: "ANTIOPE / HIPPOLYTA / MELANIPPE"
+    boni:
+      - question: "Who was the son of Theseus and this Amazon queen?"
+        answer: "HIPPOLYTUS / (According to Pindar) DEMOPHON / ACAMAS"
+  - tossup:
+      question: "Translate: <latin>Agricola hominēs mīsit quī agrum arārent.</latin>"
+      answer: "THE FARMER SENT THE MEN (WHO WERE) TO PLOW THE FIELD / THE FARMER SENT THE MEN WHO WERE TO PLOW THE FIELD"
+    boni:
+      - question: "Translate: <latin>Agricola dignus est, quī ab omnibus dīligātur.</latin>"
+        answer: "A FARMER IS WORTHY OF BEING LOVED BY ALL"
+      - question: "Translate: <latin>Agricola dīxit sē, postquam agrī arātī essent, dormītūrum esse</latin>"
+        answer: "THE FARMER SAID THAT HE WOULD SLEEP AFTER THE FIELDS HAD BEEN PLOWED"
+  - tossup:
+      question: "Name in order the emperor who ruled immediately before and after Elagabalus."
+      answer: "MACRINUS - SEVERUS ALEXANDER"
+    boni:
+      - question: "Name in order the emperor who ruled immediately before and after Julian."
+        answer: "CONSTANTIUS II - JOVIAN"
+      - question: "Name in order the emperor who ruled immediately before and after Philip the Arab."
+        answer: "GORDIAN III - DECIUS"
+  - tossup:
+      question: "What goddess was punished by Aphrodite with a fatal weakness for young and beautiful mortal boys?"
+      answer: "EOS"
+    boni:
+      - question: "Why did Aphrodite inflict this punishment on Eos?"
+        answer: "BECAUSE EOS HAD SEDUCED (APHRODITE’S LOVER) ARES"
+      - question: "Name two of the mortal lovers of Eos"
+        answer: "TITHONUS / ORION / CLEITUS / CEPHALUS"
+  - tossup:
+      question: "What Roman elegiac poet wrote funeral elegies for Augustus’ nephew Marcellus and for Cornelia, the daughter of Scribonia, which were published in Books 3 and 4 of his elegies?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "What was the title of Propertius’ first book of elegies?"
+        answer: "<title><latin>(CYNTHIA) MONOBIBLOS</latin></title>"
+      - question: "According to himself, Propertius was the Roman version of what Greek poet?"
+        answer: "CALLIMACHUS"
+  - tossup:
+      question: "Where might the abbreviations <latin>q.l.</latin> and <latin>q.s.</latin> most often be found?"
+      answer: "ON A PRESCRIPTION"
+    boni:
+      - question: "What Latin adjective is common to both of those abbreviations?"
+        answer: "<latin>QUANTUS (-UM)</latin>"
+      - question: "The abbreviation <latin>p.r.n.</latin> can also be found on prescriptions. Of what is <latin>p.r.n.</latin> an abbreviation?"
+        answer: "<latin>PRŌ RĒ NATĀ</latin>"
+  - tossup:
+      question: "What event in Rome started with the waving or dropping of a <latin>mappa</latin>?"
+      answer: "CHARIOT RACE"
+    boni:
+      - question: "Who started a race by waving the <latin>mappa</latin>?"
+        answer: "PRESIDING MAGISTRATE (often a CONSUL) // PRESIDENT / GIVER / <latin>ĒDITOR</latin> / <latin>DATOR</latin> OF THE GAMES"
+      - question: "What was the <latin>līnea alba</latin>?"
+        answer: "STARTING LINE"
+  - tossup:
+      question: "Give the second person plural, pluperfect active subjunctive of <latin>quiēscō</latin>"
+      answer: "<latin>QUIĒVISSĒTIS</latin>"
+    boni:
+      - question: "Change <latin>quiēvissētis</latin> to the perfect"
+        answer: "<latin>QUIĒVERĪTIS</latin>"
+      - question: "Change <latin>quiēverītis</latin> to the imperfect"
+        answer: "<latin>QUIĒSCERĒTIS</latin>"
+  - tossup:
+      question: "According to Roman tradition, who killed his wife Tullia the Elder and his brother Aruns?"
+      answer: "TARQUINIUS SUPERBUS"
+    boni:
+      - question: "Who had convinced Superbus to commit these murders so that he could marry her?"
+        answer: "TULLIA THE YOUNGER / MINOR"
+      - question: "Whom did Tullia convince him to murder next so that he could be king?"
+        answer: "(HER FATHER) SERVIUS TULLIUS"
+  - tossup:
+      question: "What king of Eryx welcomed Aeneas when he returned to Sicily from Carthage?"
+      answer: "ACESTES"
+    boni:
+      - question: "In Vergil’s <title>Aeneid</title>, after the funeral games of Anchises were held, whom did Juno send to incite some of the Trojan women to rebel against the prospect of further wandering?"
+        answer: "IRIS (IN THE FORM OF BEROE)"
+      - question: "The Trojan women, not wanting to journey any further, decided to set fire to Aeneas’ ships and actually burned some of them. What deity decided to send rain to save the rest of Aeneas’ ships?"
+        answer: "JUPITER"
+  - tossup:
+      question: "Some Latin nouns are defective and almost always occur only in plural form. What is the meaning of the noun <latin>mānēs</latin>?"
+      answer: "SPIRITS OF THE DEAD / ASHES / CORPSE / UNDERWORLD / FATE"
+    boni:
+      - question: "What is the meaning of <latin>rēnēs</latin>?"
+        answer: "KIDNEYS (* not KIDNEY)"
+      - question: "What is the meaning of <latin>frāga</latin>?"
+        answer: "WILD STRAWBERRIES"
+  - tossup:
+      question: "Few verbs have ablative supine forms that are in common use. Name both one of these verbs <emphasis>and</emphasis> its ablative supine form"
+      answer: "<latin>AUDIŌ AUDĪTŪ / DĪCŌ DICTŪ / FACIŌ FACTŪ / INVENIŌ INVENTŪ / MEMORŌ MEMORĀTŪ / NASCOR NĀTŪ / VIDEŌ VĪSŪ</latin>"
+    boni:
+      - question: "Name one noun commonly used with the ablative supine"
+        answer: "<latin>FĀS, NEFĀS, OPUS</latin>"
+      - question: "What verb form is often used by poets in the same sense as the ablative supine?"
+        answer: "INFINITIVE"
+  - tossup:
+      question: "Give the Latin title of Plautus’ play which centers around the adventures of a hilarious swaggering soldier named Pyrgopolynices?"
+      answer: "<title><latin>MILES GLORIOSUS</latin></title>"
+    boni:
+      - question: "Give the Latin title of Plautus’ play which centers around the misfortunes of a miser named Euclio?"
+        answer: "<title><latin>AULULARIA</latin></title>"
+      - question: "Give the Latin title of Plautus’ play which centers around the clever scheme of Tranio that leads people to believe that a certain house is haunted?"
+        answer: "<title><latin>MOSTELLARIA</latin></title>"
+  - tossup:
+      question: "Which of the sons of Oedipus sought help from Adrastus to recover the throne of Thebes?"
+      answer: "POLYNEICES"
+    boni:
+      - question: "Which of Oedipus’ sons held the throne of Thebes and refused to give it up?"
+        answer: "ETEOCLES"
+      - question: "After Oedipus’ sons killed each other in single combat, who succeeded to the throne?"
+        answer: "CREON"
+  - tossup:
+      question: "According to Tacitus, what Roman historian is said to have been jokingly called a “Pompeian” by Augustus because of the nostalgic sympathy towards republican ideals that was reflected in his work?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What was the title of Livy’s history?"
+        answer: "<title><latin>AB URBE CONDITA (LIBRI)</latin></title>"
+      - question: "In how many books was it originally comprised?"
+        answer: "142 BOOKS"
+  - tossup:
+      question: "Who provided in Spain a refuge for the Marians fleeing from Sulla’s regime?"
+      answer: "(Q.) SERTORIUS"
+    boni:
+      - question: "From whose rebellion in Rome did the survivors join Sertorius?"
+        answer: "LEPIDUS’"
+      - question: "Name the leader of these survivors who later murdered Sertorius"
+        answer: "PERPERNA"
+  - tossup:
+      question: "Differentiate in meaning between the verbs <latin>pareō</latin> and <latin>palleō</latin>"
+      answer: "<latin>PAREŌ</latin> – OBEY, SUBMIT, COMPLY, BE EVIDENT, APPEAR <latin>PALLEŌ</latin> – BE PALE, BLOODLESS"
+    boni:
+      - question: "Differentiate in meaning between the verbs <latin>fodiō</latin> and <latin>foedō</latin>"
+        answer: "<latin>FODIŌ</latin> – STAB, THRUST, DIG <latin>FOEDŌ</latin> – MAKE FILTHY, SOIL, STAIN, DISFIGURE, WOUND, RAVAGE, DEFILE"
+      - question: "Differentiate in meaning between the verbs <latin>serpō</latin> and <latin>serō</latin>"
+        answer: "<latin>SERPŌ</latin> – CRAWL, SLITHER, <latin>SERŌ</latin> – SOW, PLANT"
+  - tossup:
+      question: "A certain Pompeian inscription contains the line “<latin>Theatrum tectum</latin>”. On what kind of building is this inscription found in Pompeii?"
+      answer: "ON A <emphasis>ROOFED THEATER</emphasis> (specifically the so-called “Little Theater”) (PASS OUT THE VISUAL)"
+    boni:
+      - question: "According to the inscription, who decreed that the theater be built?"
+        answer: "THE <latin>DECURIŌNĒS</latin> / MUNICIPAL SENATE / LOCAL TOWN-COUNCILLORS"
+      - question: "Look at the inscription and give the <title>praenomina</title> of these two men’s fathers."
+        answer: "GAIUS - FATHER OF C. QUINCTIUS & MARCUS - FATHER OF M. PORCIUS"

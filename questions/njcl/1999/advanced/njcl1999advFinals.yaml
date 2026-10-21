@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What was always worn with the <latin>stola</latin> to adjust its length?"
+      answer: "<latin>ZŌNA / CINCTUS / CINCTURA / CINGULUM</latin>"
+    boni:
+      - question: "What garment was worn under the <latin>stola</latin> in the place of a chemise or slip?"
+        answer: "<latin>TUNICA INTERIOR / INTIMA</latin>"
+      - question: "What part of the stola was called the <latin>īnstita</latin>?"
+        answer: "WIDE BORDER ALONG THE BOTTON EDGE"
+  - tossup:
+      question: "What English word for “stubborn” is derived from the Latin noun for “heel”?"
+      answer: "RECALCITRANT"
+    boni:
+      - question: "What is the meaning of its Latin root, <latin>calcitrāre</latin>?"
+        answer: "KICK"
+      - question: "What English word from the same noun root is a verb meaning “to fill in cracks”?"
+        answer: "CAULK"
+  - tossup:
+      question: "What Latin text was inscribed on the <title><latin>Monumentum Ancyranum</latin></title> found at the site of modern Ankara?"
+      answer: "<title><latin>RES GESTAE (DIVI AUGUSTI)</latin></title>"
+    boni:
+      - question: "In what other language was the text inscribed?"
+        answer: "GREEK"
+      - question: "According to the <title><latin>Res Gestae</latin></title>, how many times was the Temple of Janus closed during Augustus’ rule?"
+        answer: "THREE"
+  - tossup:
+      question: "Translate: <latin>Si hoc facere potes, magistro gratias agere debes</latin>"
+      answer: "IF YOU CAN DO THIS, YOU OUGHT TO THANK A/YOUR TEACHER"
+    boni:
+      - question: "Translate: <latin>Neminem etiam vivum beatum haberi decet.</latin>"
+        answer: "IT IS RIGHT/FITTING THAT NO ONE STILL LIVING BE CONSIDERED BLESSED"
+      - question: "Translate: <latin>Sī hodiē moriar, mē vītam longam vīxisse mementō</latin>"
+        answer: "IF I (SHOULD) DIE TODAY, REMEMBER THAT I HAVE LIVED A LONG LIFE"
+  - tossup:
+      question: "According to the <title>Iliad</title>, what father-in-law of Hector was killed by the Greeks when they raided Hypoplacian Thebes in the Troad?"
+      answer: "EËTION"
+    boni:
+      - question: "Who killed King Eëtion?"
+        answer: "ACHILLES"
+      - question: "After Achilles gave King Eëtion a proper burial, what type of tree did the nymphs of the mountain plant on the grave mound?"
+        answer: "ELM"
+  - tossup:
+      question: "Roman poetry often contains examples of loose, archaic, or foreign grammatical constructions. What use of the ablative case is found in the following: <latin>Quippe vetor fātīs</latin>?"
+      answer: "AGENCY"
+    boni:
+      - question: "What use of the accusative case is found in the following: <latin>nūda genū</latin>?"
+        answer: "SPECIFICATION / RESPECT / “GREEK” / SYNECDOCHICAL"
+      - question: "What voice, common in Greek but almost non-existent in Latin, is found in the following: <latin>inūtile ferrum cingitur</latin>?"
+        answer: "MIDDLE"
+  - tossup:
+      question: "Give the Latin title of Cicero’s first speech in a criminal case"
+      answer: "<title><latin>PRO (SEXTO) ROSCIO AMERINO</latin></title>"
+    boni:
+      - question: "What influential freedman, a favorite of Sulla, was attacked by Cicero in this speech?"
+        answer: "CHRYSOGONUS"
+      - question: "What Latin expression, figuratively meaning “who profits?”, originated from this speech?"
+        answer: "<latin>CUI BONO</latin>"
+  - tossup:
+      question: "According to Ovid, what princess of Lesbos was transformed into an owl after she was raped?"
+      answer: "NYCTIMENE"
+    boni:
+      - question: "Who had raped Nyctimene?"
+        answer: "(HER FATHER) EPOPEUS"
+      - question: "Who took pity on Nyctimene and transformed her into an owl?"
+        answer: "MINERVA"
+  - tossup:
+      question: "Who proposed to give Roman citizenship to the Italian allies when they opposed Tiberius Gracchus’ land commission?"
+      answer: "(MARCUS) FULVIUS FLACCUS"
+    boni:
+      - question: "To what office was he elected in 122 B.C. although he had already served as consul?"
+        answer: "<latin>TRIBUNUS PLEBIS</latin> / TRIBUNE OF THE PLEBEIANS"
+      - question: "What consul ordered the executions of Fulvius Flaccus, Gaius Gracchus and 3,000 of their supporters in 121 BC?"
+        answer: "(L.) OPIMIUS"
+  - tossup:
+      question: "What Latin noun with what meaning is at the root of “luster”?"
+      answer: "<latin>LUSTRUM</latin> - PURIFICATION"
+    boni:
+      - question: "What English adjective, also from <latin>lustrum</latin>, means “having a sheen”?"
+        answer: "LUSTROUS"
+      - question: "What noun from <latin>lux</latin>, a cognate of <latin>lustrum</latin>, means “a laborious study or writing”?"
+        answer: "LUCUBRATION"
+  - tossup:
+      question: "PLEASE PASS OUT THE VISUALS AND INSTRUCT THE PLAYERS <emphasis>NOT</emphasis> TO OPEN THEM UNTIL TOLD TO DO SO. AS SOON AS ALL VISUALS HAVE BEEN HANDED OUT, SAY “PLEASE OPEN YOUR VISUALS NOW”: The passages you see before you have been taken from Latin literary works. Please identify the author and give the title of the work from which Passage 5 is taken"
+      answer: "(P.) VERGIL(IUS MARO), <title><latin>ECLOGAE / BUCOLICA</latin> / THE ECLOGUES / THE BUCOLICS</title>"
+    boni:
+      - question: "Identify the author and give the Latin title of the work from which Passage 4 is taken"
+        answer: "(T. MACCIUS) PLAUTUS, <title><latin>AULULARIA</latin></title>"
+      - question: "Identify the author and give the Latin title of the work from which Passage 2 is taken"
+        answer: "(P.) OVID(IUS NASO), <title><latin>ARS AMATORIA</latin></title>"
+  - tossup:
+      question: "What metric foot’s name comes from the Greek word for “finger”?"
+      answer: "DACTYL"
+    boni:
+      - question: "What metric foot’s name comes from the Greek word for “libation”?"
+        answer: "SPONDEE"
+      - question: "What is the meaning of the Greek word at the root of “trochee”?"
+        answer: "RUN, RUNNING"
+  - tossup:
+      question: "Up until about the time of Cicero, what was the normal spelling for the conjunction <latin>cum</latin>?"
+      answer: "<latin>QUOM</latin>"
+    boni:
+      - question: "What type of <latin>cum</latin>-clause is found in the following Latin sentence: <latin>Dolō erat pugnandum, cum pār nōn esset armīs</latin>?"
+        answer: "CAUSAL"
+      - question: "“When the consuls took office, the new year was beginning.” What grammatical term refers to a <latin>cum</latin> temporal usage in which the time statement is the main clause and the real meaning is in the subordinate clause?"
+        answer: "<latin>CUM INVERSUM</latin> / INVERSE <latin>CUM</latin>"
+  - tossup:
+      question: "What senator and perhaps a member of the <latin>decem viri sacris faciundis</latin> is often considered to be the first Roman historian?"
+      answer: "FABIUS PICTOR"
+    boni:
+      - question: "Name one reason that Fabius chose to write his history in Greek rather than in Latin"
+        answer: "BECAUSE ALMOST ALL HISTORY WAS WRITTEN IN GREEK AT THE TIME / HE WANTED TO DEFEND THE ROMANS TO THE GREEK WORLD"
+      - question: "What other historian, who also wrote in Greek, used Fabius’ work as the basis for his own account of the First and Second Punic Wars?"
+        answer: "POLYBIUS"
+  - tossup:
+      question: "Name the commander of Rome’s eastern armies who in AD 63 negotiated a peace with Parthia, one which lasted for half a century"
+      answer: "(CN. DOMITIUS) CORBULO"
+    boni:
+      - question: "Who was crowned in Rome as the king of Armenia by Nero?"
+        answer: "TIRIDATES"
+      - question: "Why did Nero force Corbulo to commit suicide ?"
+        answer: "NERO WAS JEALOUS / FEARFUL OF HIS POPULARITY"
+  - tossup:
+      question: "In what province of the Roman empire was the city of <latin>Tarsus</latin>?"
+      answer: "<latin>CILICIA</latin>"
+    boni:
+      - question: "In what province of the Roman empire was the city of <latin>Tarraco</latin>?"
+        answer: "<latin>(HISPANIA) TARRACONENSIS</latin>"
+      - question: "In what province of the Roman empire was the city of <latin>Ancyra</latin>?"
+        answer: "<latin>GALATIA</latin>"
+  - tossup:
+      question: "Using the verb <latin>interesse</latin>, say in Latin, “I am concerned”"
+      answer: "<latin>INTEREST MEĀ</latin> (or <latin>AD MĒ,</latin> but it must be termed rare)"
+    boni:
+      - question: "Using that same verb, say in Latin, “All the parents are concerned.”"
+        answer: "<latin>PARENTIUM OMNIUM INTEREST</latin>"
+      - question: "In these types of constructions with <latin>interest</latin> and <latin>rēfert</latin>, there are three ways to express the degree of interest. Name one"
+        answer: "GENITIVE OF VALUE / ADVERB / ADVERBIAL ACCUSATIVE"
+  - tossup:
+      question: "In Homer’s <title>Odyssey</title>, while Odysseus is still concealing his true identity from Penelope, whom does he claim as his father?"
+      answer: "DEUCALION"
+    boni:
+      - question: "As part of his ruse, where does he say he saw Odysseus?"
+        answer: "ON CRETE"
+      - question: "Penelope is convinced of the truth of his story when he says that Odysseus was accompanied by his herald. Who was this herald?"
+        answer: "EURYBATES"
+  - tossup:
+      question: "In Aeschylus’ <title><latin>Oresteia</latin></title>, what did Electra see on Agamemnon’s grave when she went to offer libations?"
+      answer: "A LOCK OF HAIR"
+    boni:
+      - question: "To whom did the lock of hair belong?"
+        answer: "ORESTES"
+      - question: "Later, Electra also found two sets of footprints leading away from the grave. What did she do upon seeing the footprints?"
+        answer: "SHE PUT HER FOOT INTO ONE OF THE PRINTS (OF ORESTES) (I.E, TO BE SURE IT WASN’T HER OWN)"
+  - tossup:
+      question: "The following is a complete epistle from Pliny the Younger to Fabius Iustus. Listen carefully to the passage, which I will read twice, and answer in English the question about it: <latin>Ōlim mihī nullās epistulās mittis. Nihil est, inquis, quod scrībam. At hoc ipsum scrībe, nihil esse quod scrībās, vel sōlum illud unde incipere priōrēs solēbant: “Sī valēs, bene est; ego valeō.” Hoc mihī súfficit; est enim  maximum. Lūdere mē putās? Sēriō petō. Fac scīam quid agās, quod sine sollicitūdine summā nescīre nōn possum. Valē.</latin>  According to Pliny, why did Fabius stop sending him letters?"
+      answer: "BECAUSE HE (FABIUS) HAD NOTHING TO WRITE (ABOUT) (English idiom would also permit HE HAD NOTHING TO SAY)"
+    boni:
+      - question: "Why does Pliny want Fabius to let him know how he is doing?"
+        answer: "BECAUSE UNLESS HE KNOWS HOW FABIUS IS DOING, HE IS WORRIED"
+      - question: "Name one thing that Fabius could write that would make Pliny stop worrying."
+        answer: "THAT HE HAS (i.e. Fabius) NOTHING TO WRITE ABOUT // SIMPLY THE BEGINNINGS OF A LETTER // “IF YOU ARE WELL, IT IS WELL” // “I AM WELL”"

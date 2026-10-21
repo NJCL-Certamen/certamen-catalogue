@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What use of the infinitive is found in the following Latin sentence: <latin>Tormentum est vivere</latin>?"
+      answer: "SUBJECTIVE"
+    boni:
+      - question: "What use of the infinitive is found in the following Latin sentence: <latin>Multī sequī, fugere, occīdī, capī</latin>?"
+        answer: "HISTORIC(AL)"
+      - question: "What use of the infinitive is found in the following Latin sentence: <latin>Cōnfīsus est armārium fūtūrum tūtius</latin>?"
+        answer: "ACCUSATIVE-INFINITIVE CONSTRUCTION INFINITIVE IN INDIRECT DISCOURSE / <latin>ORĀTIŌ OBLĪQUA</latin>"
+  - tossup:
+      question: "Give the ablative gerund for the verb <latin>nāscor</latin>"
+      answer: "<latin>NĀSCENDŌ</latin>"
+    boni:
+      - question: "Give the ablative supine for the same verb"
+        answer: "<latin>NĀTŪ</latin>"
+      - question: "Give the ablative singular masculine, future active participle for the same verb"
+        answer: "<latin>NĀTŪRŌ</latin>"
+  - tossup:
+      question: "What beggar threatened to thrash Odysseus because he felt intimidated by the presence of another beggar?"
+      answer: "IRUS / ARNAEUS"
+    boni:
+      - question: "How many blows did it take for Odysseus to disgrace Irus in the resulting boxing match?"
+        answer: "ONE"
+      - question: "What injury did Irus receive from this boxing match?"
+        answer: "BROKEN JAW"
+  - tossup:
+      question: "Whose invasion of Greece did the Romans stop at Thermopylae in 191 BC?"
+      answer: "ANTIOCHUS’ (III)"
+    boni:
+      - question: "Who was the Roman commander at Thermopylae?"
+        answer: "(M’. ACILIUS) GLABRIO"
+      - question: "What people had invited Antiochus to invade Greece and free it from Rome?"
+        answer: "AETOLIANS"
+  - tossup:
+      question: "According to Ovid, what son of Priam was transformed into a diver bird?"
+      answer: "AESACUS"
+    boni:
+      - question: "What nymph’s death was indirectly caused by Aesacus?"
+        answer: "HESPERIA/E"
+      - question: "What river god was the father of this unfortunate nymph?"
+        answer: "CEBREN"
+  - tossup:
+      question: "What English word meaning “harass” is from a Latin verb meaning “to follow”?"
+      answer: "PERSECUTE"
+    boni:
+      - question: "What English word, derived from the same root verb, means “to pursue in court”?"
+        answer: "PROSECUTE"
+      - question: "What related English word means “a logical result”?"
+        answer: "CONSEQUENCE"
+  - tossup:
+      question: "Listen carefully to the following story, which I will read twice, then answer in ENGLISH the question that follows: <latin>Poēta clārus, cum rēx quaesīvisset quis aut quālis vīr esset Marcus, amīcus poētae, dēlīberandī sibi ūnam diem postulāvit. Cum rēx ā poētā postrīdiē idem quaereret, poēta, sciens suum amīcum esse rēgis inīmīcum, aliud biduum petīvit. Cum iterum numerus diērum duplicātus esset, rēx dēmum rogāvit cūr ita faceret. Poēta respondit sē nescīre utrum amīcitia an  oboedientia maior esset.</latin>  Who is the king’s enemy?"
+      answer: "MARCUS"
+    boni:
+      - question: "How many days does the poet delay in answering the king’s question?"
+        answer: "FIVE"
+      - question: "What is the poet’s final answer to the query?"
+        answer: "THAT HE DOESN’T KNOW WHETHER FRIENDSHIP OR OBEDIENCE IS GREATER"
+  - tossup:
+      question: "Name the Vandal who served as the <latin>magister militum</latin> for Theodosius I"
+      answer: "STILICHO"
+    boni:
+      - question: "After Theodosius’ death, for which of his sons was Stilicho regent?"
+        answer: "HONORIUS"
+      - question: "What king of the Visigoths did Stilicho twice defeat?"
+        answer: "ALARIC"
+  - tossup:
+      question: "Translate into Latin: A twenty-foot wall"
+      answer: "<latin>MŪRUS VĪGINTĪ PEDUM</latin>"
+    boni:
+      - question: "Translate into Latin: The tribunes are friendly to us"
+        answer: "<latin>TRIBŪNĪ AMĪCĪ NŌBĪS SUNT</latin>"
+      - question: "Translate into Latin: They hailed me as emperor"
+        answer: "<latin>MĒ IMPERĀTŌREM SALŪTĀVĒRUNT / SALŪTĀBANT</latin>"
+  - tossup:
+      question: "What deity, a son of Zeus but not of Hera, sat on Hera’s lap and tricked her into suckling him?"
+      answer: "HERMES (HERACLES is not acceptable)"
+    boni:
+      - question: "In what other deity’s baby clothes was Hermes disguised?"
+        answer: "ARES"
+      - question: "In the cave of what mountain was Hermes born?"
+        answer: "MOUNT CYLLENE"
+  - tossup:
+      question: "Name one word or phrase that may be used with a subjunctive to form a negative imperative"
+      answer: "<latin>CAVĒ / NĒ / CAVĒ NĒ / VIDĒ NĒ / FAC NĒ</latin>"
+    boni:
+      - question: "Using only <latin>cavē</latin>, <emphasis>not</emphasis> <latin>cavē nē</latin>, translate this sentence into Latin: My son, don’t harm the cat!"
+        answer: "<latin>MĪ FILĪ, CAVĒ FĒLĪ NOCEĀS / FĒLEM VULNERĒS / FĒLEM LAEDĀS</latin> (if a perfect subjunctive is given, it must be designated as non-classical or poetic)"
+      - question: "Using a future imperative, translate this sentence into Latin: Honoria, don’t be late!"
+        answer: "<latin>HONORIA, NĒ TARDA ESTŌ</latin>"
+  - tossup:
+      question: "After whose murder was Pompey appointed sole consul in 52 BC?"
+      answer: "(P.) CLODIUS (PULCHER)"
+    boni:
+      - question: "Who was tried for Clodius’ murder during Pompey’s consulship?"
+        answer: "(T. ANNIUS) MILO"
+      - question: "Who was either stopped from or was too afraid to speak in Milo’s defense at the trial?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "What part of your body does your “rheumatologist” tend to?"
+      answer: "JOINT(S)"
+    boni:
+      - question: "What part of your body does your “nephrologist” tend to?"
+        answer: "KIDNEY(S)"
+      - question: "What part of your body does your “otologist” tend to?"
+        answer: "EAR(S)"
+  - tossup:
+      question: "According to Homer’s <title>Iliad</title>, after the temporary truce between the Greeks and the Trojans was broken, what son of Nestor was the first Greek warrior to slay a Trojan warrior?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "Who was Antilochus’ victim?"
+        answer: "ECHEPOLUS"
+      - question: "Who killed Elephenor before he could strip Echepolus of his armor?"
+        answer: "AGENOR"
+  - tossup:
+      question: "What Macedonian king became undisputed master of the Greek world after the battle of Chaeronea in 338 B.C.?"
+      answer: "PHILIP II / THE GREAT"
+    boni:
+      - question: "On what invasion was Philip about to embark when he was assassinated?"
+        answer: "INVASION OF PERSIA"
+      - question: "What Greek city did Philip’s heir Alexander destroy when it rebelled?"
+        answer: "THEBES"
+  - tossup:
+      question: "Translate this sentence: <latin>Ūnus homō tam insānus erat ut quīnque uxōrēs habēret</latin>"
+      answer: "ONE MAN WAS SO CRAZY THAT HE HAD FIVE WIVES"
+    boni:
+      - question: "Translate this sentence: <latin>Nēmō uxōrum sciēbat quālis homō esset marītus</latin>"
+        answer: "NONE OF THE WIVES KNEW WHAT KIND OF MAN THE HUSBAND WAS"
+      - question: "Translate this sentence: <latin>Cum uxōrēs īrātissimae essent, quisque tamen istum amābat</latin>"
+        answer: "ALTHOUGH THE WIVES WERE VERY ANGRY, (NEVERTHELESS) EACH OF THEM LOVED THAT MAN"
+  - tossup:
+      question: "What singular Latin noun is derived from a Latin phrase which means “of three men”?"
+      answer: "<latin>TRIUMVIR / TRIUMVIRĀTUS</latin>"
+    boni:
+      - question: "What Latin noun meaning “release from authority” is derived from a Latin phrase meaning “a sending from the hand”?"
+        answer: "<latin>MANŪMISSIŌ</latin>"
+      - question: "What Latin noun meaning “time of the new moon” is derived from a Latin phrase which means “between moons”?"
+        answer: "<latin>INTERLŪNIUM</latin>"
+  - tossup:
+      question: "What day of the month in the Roman calendar originally corresponded to the full moon?"
+      answer: "<latin>ĪDŪS</latin> / IDES"
+    boni:
+      - question: "How many days were in the months in which the Ides fell on the 15th?"
+        answer: "THIRTY-ONE"
+      - question: "Say in Latin, according to the Roman calendar, today’s date"
+        answer: "<latin>PRĪDIĒ NŌNĀS AUGUSTĀS</latin>"
+  - tossup:
+      question: "Your handout contains an inscription. You now have 15 seconds to analyze it: <latin>HIC IACET SATURNINA CUM FILIIS QUI FILII VALENTINUS VIXIT ANN(is) V M(ensibus) II ET EUSEBIUS VIXIT ANN(is) VIIII DEPOSITUS DIE KAL(endarum) IUNIARUM POST CONS(ulatum) OPILIONIS</latin> (WAIT 15 SECONDS) How many people are buried in this tomb?"
+      answer: "THREE"
+    boni:
+      - question: "How old were Saturnina’s two children when they died? Be as specific as possible"
+        answer: "VALENTINUS WAS 5 YEARS, 2 MONTHS OLD EUSEBIUS WAS 9 YEARS OLD"
+      - question: "On what day and month were Saturnina and her sons buried?"
+        answer: "JUNE"
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, who won the boatrace at the funeral games of Anchises?"
+      answer: "CLOANTHUS"
+    boni:
+      - question: "At the funeral games of Anchises, who lost the chance of winning the footrace when he was tripped by Nisus?"
+        answer: "SALIUS"
+      - question: "Who took advantage of the situation and became the winner of this event?"
+        answer: "EURYALUS"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Differentiate in meaning between <latin>hortus</latin> and <latin>hortor</latin>."
+      answer: "<latin>HORTUS</latin> -- GARDEN <latin>HORTOR</latin> -- ENCOURAGE"
+    boni:
+      - question: "Differentiate in meaning between <latin>metus</latin> and <latin>mēta</latin>."
+        answer: "<latin>METUS</latin> – FEAR, ANXIETY, THREAT <latin>MĒTA</latin> – MARK, GOAL, TURNING-POST, CONE"
+      - question: "Differentiate in meaning between <latin>equitō</latin> and <latin>agitō</latin>."
+        answer: "<latin>EQUITŌ --</latin> RIDE, CARRY A RIDER <latin>AGITŌ</latin> --SET IN MOTION, STIR, SHAKE, AGITATE, DRIVE, REPEL, AROUSE, HUNT, CHASE"
+  - tossup:
+      question: "Who was the governor of Britain when Boudicca rebelled in AD 60 & 61?"
+      answer: "(C.) SUETONIUS PAULINUS"
+    boni:
+      - question: "What center of the Druids and refuge for Rome’ enemies was Paulinus attacking when the rebellion broke out?"
+        answer: "MONA (ISLAND OF ANGLESEY)"
+      - question: "Name a Roman town, besides London, sacked by Boudicca"
+        answer: "COLCHESTER (CAMOLUDUNUM) / ST. ALBANS (VERULAMIUM)"
+  - tossup:
+      question: "Who was prophesied to bear a son mightier than his father after she bore a female child first?"
+      answer: "METIS"
+    boni:
+      - question: "Who, upon hearing this prophecy, swallowed the pregnant Metis immediately?"
+        answer: "ZEUS / JUPITER"
+      - question: "Who had to open Zeus’ head with an axe to allow the birth of Athena to take place?"
+        answer: "HEPHAESTUS / PROMETHEUS"
+  - tossup:
+      question: "Which of the following verbs does <emphasis>not</emphasis> belong with respect to grammatical usage: <latin>faveō, rēspondeō, placeō, iubeō, crēdō</latin>?"
+      answer: "<latin>IUBEŌ</latin>"
+    boni:
+      - question: "Which of the following adjectives does <emphasis>not</emphasis> belong with respect to grammatical usage: <latin>grācilis, propinquus, grātus, similis, amīcus</latin>?"
+        answer: "<latin>GRĀCILIS</latin>"
+      - question: "Which of the following adjectives does <emphasis>not</emphasis> belong with respect to grammatical usage: <latin>memor, cupidus, idōneus, perītus, oblītus</latin>?"
+        answer: "<latin>IDŌNEUS</latin>"
+  - tossup:
+      question: "What did the suffix <latin>-anus</latin> on a <latin>cognomen</latin> indicate about a Roman?"
+      answer: "THAT HE WAS <emphasis>ADOPTED</emphasis> (if “adoption” is given, ask for more information)"
+    boni:
+      - question: "Consider the name of the Roman general and stateman: <latin>Publius Cornelius Scipio Aemilianus.</latin> What was the <latin>nomen</latin> of his biological father?"
+        answer: "<latin>AEMILIUS</latin>"
+      - question: "What was the nomen of his adoptive father?"
+        answer: "<latin>CORNELIUS</latin>"
+  - tossup:
+      question: "Using an impersonal verb, say in Latin: I am tired"
+      answer: "<latin>MĒ TAEDET / MĒ PERTAESUM EST</latin>"
+    boni:
+      - question: "Using an impersonal verb, say in Latin: We are disgusted with the weather in Britain"
+        answer: "<latin>NŌS PIGET TEMPESTĀTIS IN BRITANNIĀ</latin>"
+      - question: "Using an impersonal verb, say in Latin: Students are not allowed to do many things"
+        answer: "<latin>NŌN LICET DISCIPULĪS</latin>"
+  - tossup:
+      question: "A glance through the Sunday newspaper’s ad section will yield a bounty of products which derive their names from Latin. On the second page of your handout you will see an ad for Polident. According to its etymology, what does this product do for you so that you can look like Florence Henderson?"
+      answer: "IT POLISHES (SMOOTHES / SHINES / CLEANS) YOUR TEETH"
+    boni:
+      - question: "One of the ads on the first page is for Perdiem natural fiber supplement. What does this product’s name tell you about how it works?"
+        answer: "IT CONTINUES TO WORK <emphasis>ALL DAY</emphasis> LONG"
+      - question: "The final ad is for Caress body wash. What Latin word with what meaning is the root of Caress?"
+        answer: "<latin>CĀRUS</latin> -- DEAR, COSTLY, LOVED, VALUED"
+  - tossup:
+      question: "In Book XI of the <title>Iliad</title>, what Greek chieftain was wounded in the foot by an arrow shot by a Trojan prince during a scrimmage?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "What Trojan prince shot the arrow?"
+        answer: "PARIS"
+      - question: "What other Greek chieftain was seriously wounded by Socus in the same skirmish?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Give the present passive infinitive of <latin>iaciō</latin>"
+      answer: "<latin>IACĪ</latin>"
+    boni:
+      - question: "Change <latin>iacī</latin> to the perfect"
+        answer: "<latin>IACTUS (-A/-UM) ESSE</latin>"
+      - question: "Change <latin>iactus esse</latin> to the active"
+        answer: "<latin>IĒCISSE</latin>"
+  - tossup:
+      question: "Who was the first consul to resign from office?"
+      answer: "(L.) TARQUINIUS COLLATINUS"
+    boni:
+      - question: "Who replaced him?"
+        answer: "P. VALERIUS PU/OB/PLICOLA"
+      - question: "What is the term for a consul elected or chosen to complete a term of office?"
+        answer: "<latin>CONSUL SUFFECTUS</latin>"
+  - tossup:
+      question: "What derivative of a Latin adjective for “beautiful” is an English verb meaning “to make more beautiful”?"
+      answer: "EMBELLISH / BEAUTIFY"
+    boni:
+      - question: "What derivative of a Latin adjective meaning “soft” is an English noun meaning “an agent that softens”?"
+        answer: "EMOLLIENT"
+      - question: "What derivative of the Latin verb for “fold” is an English noun meaning “someone put to service”?"
+        answer: "EMPLOYEE"
+  - tossup:
+      question: "Translate this Latin sentence: <latin>Tonsor barbam senātōris maximā cūrā tondēbit</latin>"
+      answer: "THE BARBER WILL CUT THE BEARD OF THE SENATOR WITH THE GREATEST CARE"
+    boni:
+      - question: "<latin>Iuvenis, cuī māter confīdēbat, sorōribus frātribusque praefectus est</latin>"
+        answer: "THE YOUNG MAN, WHOM HIS MOTHER TRUSTED, WAS PUT IN CHARGE OF HIS BROTHERS AND SISTERS"
+      - question: "<latin>Senex spērat pecūniam esse tūtam</latin>"
+        answer: "THE OLD MAN HOPES THAT HIS MONEY IS SAFE"
+  - tossup:
+      question: "According to Homer’s <title>Odyssey</title>, what son of King Alcinoüs asked Odysseus to join the Phaeacian games?"
+      answer: "LAODAMAS"
+    boni:
+      - question: "Who, according to Odysseus himself, is the only man who could beat him at archery?"
+        answer: "PHILOCTETES"
+      - question: "What musician entertained Odysseus and the crowd with a song about the love affair between Ares and Aphrodite?"
+        answer: "DEMODOCUS (de-mo!do-kus)"
+  - tossup:
+      question: "Who went into exile in Massilia after Cicero’s opening speech against him for his crimes as governor of Sicily?"
+      answer: "(C.) VERRES"
+    boni:
+      - question: "What consul of 70 BC had Verres offended by ill-treating his clients in Sicily?"
+        answer: "POMPEY"
+      - question: "Who had Verres proscribed and killed in 43 BC in order to acquire his looted art treasures?"
+        answer: "MARK ANTONY"
+  - tossup:
+      question: "What name is given to nouns like <latin>turris, animal</latin>, and <latin>venter</latin>?"
+      answer: "(PURE) I-STEMS"
+    boni:
+      - question: "Give the two possible accusative plural forms of <latin>ignis</latin>"
+        answer: "<latin>IGNĒS & IGNĪS</latin>"
+      - question: "Sitis, a noun meaning thirst, is a <emphasis>pure</emphasis> I-stem. What is its accusative singular?"
+        answer: "<latin>SITIM</latin>"
+  - tossup:
+      question: "What professional would write the abbreviation <latin>J.D.</latin> after his or her name?"
+      answer: "LAWYER / DOCTOR OF LAW (for a practicing lawyer)"
+    boni:
+      - question: "What professional would write the abbreviation <latin>LL.D.</latin> after his or her name?"
+        answer: "LAWYER / DOCTOR OF LAW (for a scholarly lawyer)"
+      - question: "What professional would write the abbreviation <latin>D.D.</latin> after his or her name?"
+        answer: "MINISTER / DOCTOR OF DIVINITY"
+  - tossup:
+      question: "What king of Thebes was killed by his mother?"
+      answer: "PENTHEUS"
+    boni:
+      - question: "What king of Thebes was killed by his son?"
+        answer: "LAIUS"
+      - question: "What king of Thebes was killed by his brother?"
+        answer: "ETEOCLES"
+  - tossup:
+      question: "Name the river which flowed from the Alps through Lake Geneva into the Mediterranean Sea"
+      answer: "RHONE RIVER / <latin>FLUMEN RHODANUS</latin>"
+    boni:
+      - question: "What coastal city founded by the Phoenicians circa 600 BC was to the east of the Rhone delta?"
+        answer: "<latin>MASSILIA / MASSALIA</latin> / MARSEILLES"
+      - question: "What road ran along the Mediterranean coast from the Italy to Spain?"
+        answer: "<latin>VIA DOMITIA</latin>"
+  - tossup:
+      question: "What king of Phthia accidentally killed his father-in-law and had to be purified by King Acastus?"
+      answer: "PELEUS"
+    boni:
+      - question: "Who was Peleus’ father-in-law?"
+        answer: "EURYTION"
+      - question: "What daughter of Eurytion was the first wife of Peleus?"
+        answer: "ANTIGONE"
+  - tossup:
+      question: "Listen to the following Latin passage, which I will read twice, and answer in English the question about it. I will read the sentence twice. <latin>Aestāte Lūcius puer solēbat invenīre pretiōsās rēs in lītore quod erat  propinquum suae vīllae. Ūnō diē quaerēns in undīs Lūcius arcam parvam invēnit. Postquam rediit et arcam aperuit, Lūcius animadvertit ānulum quem statim mātrī ostendit. Eius māter, vidēns ānulum, exclāmāvit, “Hunc ānulum āmīsī ubi eram puella!”</latin>  What did Lucius normally do in the summer?"
+      answer: "FINDING PRECIOUS THINGS ON THE SHORE"
+    boni:
+      - question: "What did he show his mother?"
+        answer: "A RING (WHICH HE HAD FOUND IN A SMALL CHEST ON THE SHORE)"
+      - question: "Why was his mother excited?"
+        answer: "SHE HAD LOST THE RING (WHEN SHE WAS A GIRL)"

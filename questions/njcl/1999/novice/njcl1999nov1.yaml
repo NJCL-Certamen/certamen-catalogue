@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What piece of furniture in a Roman house could function as a sofa, a bed, and a dining couch?"
+      answer: "<latin>LECTUS</latin>"
+    boni:
+      - question: "What piece of furniture was called a <latin>sella</latin>?"
+        answer: "STOOL, CHAIR, SEAT"
+      - question: "What was an <latin>armārium</latin>?"
+        answer: "CHEST, CUPBOARD, BOOKCASE, CLOTHES CLOSET"
+  - tossup:
+      question: "During the Trojan War, what brave Greek warrior was able to wound Ares with the aid of Athena?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "What other deity did Diomedes wound?"
+        answer: "APHRODITE"
+      - question: "What semi-divine prince of the Dardanians was also wounded by Diomedes?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Which of the following, if any, does NOT relate to Latin nouns: gender, declension, case, mood, number?"
+      answer: "MOOD"
+    boni:
+      - question: "Which of the following, if any, does NOT relate to Latin verbs: voice, mood, tense, person, number?"
+        answer: "ALL OF THEM RELATE"
+      - question: "Which of the following, if any, is NOT a Latin pronoun: <latin>prō, ille, quis, nōs, suī</latin>?"
+        answer: "<latin>PRŌ</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>villa</latin>"
+      answer: "<latin>DOMUS, AEDES, SEDES, DOMICILIUM, CASA, AEDIFICIUM, MĀNSIŌ, TĒCTUM</latin>"
+    boni:
+      - question: "Give a synonym of <latin>vincere</latin>"
+        answer: "<latin>SUPERĀRE, PĀCĀRE, SUBDŪCERE</latin>"
+      - question: "Give a synonym of <latin>nōtus</latin>"
+        answer: "<latin>(PRAE)CLĀRUS, NŌBILIS</latin>"
+  - tossup:
+      question: "Who faithfully waited for twenty years for the return of her husband from the Trojan War?"
+      answer: "PENELOPE"
+    boni:
+      - question: "Who was her husband?"
+        answer: "ODYSSEUS / ULYSSES"
+      - question: "What island was the home of Odysseus and Penelope?"
+        answer: "ITHACA"
+  - tossup:
+      question: "In the Latin verb form <latin>fūgērunt</latin>, which letters comprise the penult?"
+      answer: "<latin>-GĒ-</latin>"
+    boni:
+      - question: "Which comprise the ultima?"
+        answer: "-<latin>RUNT</latin>"
+      - question: "If the form <latin>fūgērunt</latin> were changed to the present tense, how many syllables would it have?"
+        answer: "THREE (<latin>fu-gi-unt</latin>)"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin word as the others: moralist, emotion, motorist, moment, movie?"
+      answer: "MORALIST"
+    boni:
+      - question: "What Latin noun is the root of “moralist”?"
+        answer: "<latin>MŌS</latin>"
+      - question: "What Latin verb is the root of the other words?"
+        answer: "<latin>MOVEŌ, MOVĒRE</latin>"
+  - tossup:
+      question: "Name in order the emperors immediately before and after Caligula."
+      answer: "TIBERIUS - CLAUDIUS (I)"
+    boni:
+      - question: "Name in order the emperors immediately before and after Titus."
+        answer: "VESPASIAN - DOMITIAN"
+      - question: "Name in order the emperors immediately before and after Marcus Aurelius."
+        answer: "ANTONINUS PIUS - COMMODUS"
+  - tossup:
+      question: "Make the phrase <latin>agricola trīstis</latin> dative plural"
+      answer: "<latin>AGRICOLĪS TRĪSTIBUS</latin>"
+    boni:
+      - question: "Change <latin>agricolīs trīstibus</latin> to the nominative"
+        answer: "<latin>AGRICOLAE TRĪSTĒS</latin>"
+      - question: "Change <latin>agricolae trīstēs</latin> to the genitive"
+        answer: "<latin>AGRICOLĀRUM TRĪSTIUM</latin>"
+  - tossup:
+      question: "Which of the Roman kings purchased the Sibylline Books?"
+      answer: "TARQUINIUS <emphasis>SUPERBUS</emphasis> (OCD2 & 3 say <emphasis>PRISCUS</emphasis>)"
+    boni:
+      - question: "How many books did Tarquin buy?"
+        answer: "THREE"
+      - question: "Tarquin placed the three prophetic books in a vault under what temple?"
+        answer: "TEMPLE OF JUPITER CAPITOLINUS (or OPTIMUS MAXIMUS)"
+  - tossup:
+      question: "What two cases are used in Latin to express possession?"
+      answer: "GENITIVE & DATIVE"
+    boni:
+      - question: "Using the genitive of possession, say in Latin, “Julia’s dogs are fierce.”"
+        answer: "<latin>CANĒS IULIAE FERŌCĒS / SAEVĪ / FERĪ / ACRĒS SUNT</latin>"
+      - question: "Using the dative, say in Latin, “Julia has four dogs.”"
+        answer: "<latin>IULIAE QUATTUOR CANĒS SUNT</latin>"
+  - tossup:
+      question: "According to most traditions, what princess, having been abandoned by her lover, became the wife of Dionysus?"
+      answer: "ARIADNE"
+    boni:
+      - question: "On what island did Dionysus discover the abandoned Ariadne?"
+        answer: "NAXOS / DIA"
+      - question: "How did Dionysus honor Ariadne after her death?"
+        answer: "HE PLACED THE CROWN THAT HE HAD GIVEN HER AT THEIR WEDDING IN THE SKY AS THE CONSTELLATION <title>CORONA BOREALIS</title>"
+  - tossup:
+      question: "What do the following places have in common geographically: Cyprus, Crete, Corsica, Sardinia, & Sicily?"
+      answer: "ISLANDS (IN MEDITERRANEAN)"
+    boni:
+      - question: "Panormus, Drepana, Messana, Lilybaeum, & Syracuse?"
+        answer: "LOCATED ON SICILY"
+      - question: "Volaterrae, Caere, Clusium, Veii, & Tarquinia?"
+        answer: "ETRUSCAN CITIES"
+  - tossup:
+      question: "What is the present active, imperative plural for <latin>cupiō</latin>?"
+      answer: "<latin>CUPITE</latin>"
+    boni:
+      - question: "Give the same form for <latin>benedīcō</latin>"
+        answer: "<latin>BENEDĪCITE</latin>"
+      - question: "Give the same form for <latin>sum</latin>"
+        answer: "<latin>ESTE</latin>"
+  - tossup:
+      question: "Who was the swiftest female mortal in classical mythology?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Who finally defeated Atalanta in a foot race?"
+        answer: "MELANION / HIPPOMENES"
+      - question: "With the aid of what wonderous objects did Melanion defeat Atalanta?"
+        answer: "(THREE) GOLDEN APPLES (GIVEN TO HIM BY APHRODITE / VENUS)"
+  - tossup:
+      question: "Define <latin>magnopere</latin>"
+      answer: "GREATLY, STRONGLY, ESPECIALLY, W/ GREAT ENDEAVOR, PARTICULARLY, (VERY) MUCH"
+    boni:
+      - question: "Define <latin>minimē</latin>"
+        answer: "LEAST, ESPECIALLY NOT, NOT AT ALL, AT LEAST, BY NO MEANS"
+      - question: "Define the adverb <latin>audācius</latin>"
+        answer: "MORE / TOO / RATHER BOLDLY / BRASHLY / DARINGLY / COURAGEOUSLY / PRESUMPTUOUSLY"
+  - tossup:
+      question: "What is the meaning of the Latin abbreviation <latin>aq. mar.</latin>, which stands for <latin>aqua marina</latin>?"
+      answer: "SEAWATER"
+    boni:
+      - question: "What is the meaning of the Latin abbreviaton <latin>aq. pur.</latin>, which stands for <latin>aqua pura</latin>?"
+        answer: "PURE WATER"
+      - question: "What is the meaning of the Latin abbreviation <latin>aq. pluv.</latin>, which stands for <latin>aqua pluvialis</latin>?"
+        answer: "RAINWATER"
+  - tossup:
+      question: "What arrogant Ethiopian queen incurred the wrath of Poseidon because she had boasted that her daughter was prettier than the Nereids?"
+      answer: "CASSIOPEIA (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Identify the character that is labeled with the letter “F”"
+        answer: "PERSEUS"
+      - question: "Please give the letter that corresponds to Cetus"
+        answer: "“C”"
+  - tossup:
+      question: "Whose revolt in 73 BC attracted 90,000 slaves?"
+      answer: "SPARTACUS’"
+    boni:
+      - question: "Where was the gladiatorial school in which the revolt began?"
+        answer: "CAPUA"
+      - question: "Where had Spartacus received his military experience?"
+        answer: "IN AUXILIARY FORCES OF ROMAN ARMY"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN LATIN the question about it: <latin>In parvā īnsulā prōpe Ītaliam habitābat ōlim rēgīna bona. Fīliam parvam habēbat, quam cīvēs īnsulae amābant et laudābant.  Quis fīliam parvam habēbat?</latin>"
+      answer: "<latin>RĒGĪNA (BONA)</latin>"
+    boni:
+      - question: "<latin>Quī fīliam rēgīnae amābant?</latin>"
+        answer: "<latin>CĪVĒS (ĪNSULAE)</latin>"
+      - question: "<latin>Qualis erat fīlia?</latin>"
+        answer: "<latin>PARVA</latin>"

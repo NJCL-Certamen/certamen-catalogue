@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1999
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, what Greek was rescued by Aeneas from the island of the Cyclopes?"
+      answer: "ACHAEMENIDES"
+    boni:
+      - question: "Who had left Achaemenides behind on the island of the Cyclopes?"
+        answer: "ULYSSES / ULIXES"
+      - question: "According to Ovid, what crewmate from Ulysses’ ship was reunited with Achaemenides and joined the Trojan refugees?"
+        answer: "MACAREUS"
+  - tossup:
+      question: "Who was considered to be the most prolific Latin writer of tragedies and was attacked vehemently by his contemporary Lucilius?"
+      answer: "ACCIUS"
+    boni:
+      - question: "To what type of <title><latin>fabula</latin></title> did Accius’ <title><latin>Brutus</latin></title> and <title><latin>Decius</latin></title> belong?"
+        answer: "<title><latin>PRAETEXTA</latin></title>"
+      - question: "In which of his works did Accius propose a series of spelling reforms based on the principles of analogy?"
+        answer: "<title><latin>DIDASCALICA</latin></title>"
+  - tossup:
+      question: "Who circa AD 259 established a separate Gallic empire comprised of Gaul, Spain, and Britain?"
+      answer: "(MARCUS CASSIANIUS LATINIUS) POSTUMUS"
+    boni:
+      - question: "From what Roman emperor had Postumus usurped authority?"
+        answer: "GALLIENUS"
+      - question: "Name the last emperor of this Gallic empire who surrendered to Aurelian in AD 274"
+        answer: "(C. PIUS ESUVIUS) TETRICUS"
+  - tossup:
+      question: "What idea is conveyed by the suffix <latin>-lentus</latin> as found in the words <latin>opulentus</latin> and <latin>sanguinolentus</latin>?"
+      answer: "FULLNESS, ABUNDANCY"
+    boni:
+      - question: "What idea is conveyed by the suffix <latin>-idēs</latin> as found in the specific words <latin>Tantalidēs</latin> and <latin>Thēsīdēs</latin>?"
+        answer: "DESCENT, RELATIONSHIP / IT INDICATES A PATRONYMIC"
+      - question: "What concept is common to the words to which can be added the suffix -tīnus, for example <latin>mātūtīnus</latin>?"
+        answer: "TIME"
+  - tossup:
+      question: "What Latin word meaning “bedpost” is used unchanged in English to mean “the point on which a lever turns”?"
+      answer: "<latin>FULCRUM</latin>"
+    boni:
+      - question: "What Latin word meaning “a stand to hold candles” has been passed down to English unchanged in either form or meaning?"
+        answer: "<latin>CANDĒLĀBRUM / -A</latin>"
+      - question: "What Latin word meaning “fodder” has also been passed down to English unchanged in either form or meaning?"
+        answer: "<latin>PĀBULUM</latin>"
+  - tossup:
+      question: "Which number on the map corresponds to the <latin>Via Flaminia</latin>?"
+      answer: "4"
+    boni:
+      - question: "Which number on the map corresponds to the <latin>Via Aemilia</latin>?"
+        answer: "1"
+      - question: "Which number on the map corresponds to the <latin>Via Cassia</latin>?"
+        answer: "11"
+  - tossup:
+      question: "What first century BC lyric poet was called <title><latin>doctus</latin></title> by his successors?"
+      answer: "(C. VALERIUS) CATULLUS (<latin>novi poetae</latin> and <latin>neoterici</latin> <emphasis>not</emphasis> acceptable)"
+    boni:
+      - question: "To what poetic <emphasis>movement</emphasis> did the “learned” Catullus belong?"
+        answer: "ALEXANDRIANISM / ALEXANDRINE MOVEMENT"
+      - question: "Who sarcastically referred to the Alexandrians as <title><latin>neoterici</latin></title> or the “moderns”?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "What son of Polynices was one of the Epigoni and took the throne when they captured Thebes?"
+      answer: "THERSANDER"
+    boni:
+      - question: "Who was Thersander’s wife, daughter of Amphiaraus?"
+        answer: "DEMONASSA"
+      - question: "Who was their son and Thersander’s successor?"
+        answer: "TISAMENUS"
+  - tossup:
+      question: "Certain Latin words look exactly the same but are entirely separate in meaning. Besides “priest”, what does the Latin noun <latin>flāmen</latin> mean?"
+      answer: "BREEZE, GUST OF WIND, BREATH"
+    boni:
+      - question: "Besides “law”, what does the Latin noun <latin>iūs</latin> mean?"
+        answer: "BROTH, JUICE, SOUP, GRAVY"
+      - question: "The form <latin>maris</latin> is the genitive form to two distinct Latin nouns. Please give the nominative singular forms and their meanings for both of these nouns"
+        answer: "<latin>MĀS, MARIS</latin>"
+  - tossup:
+      question: "What Athenian leader was accused of mutilating the herms in 415 BC?"
+      answer: "ALCIBIADES"
+    boni:
+      - question: "From what military expedition was he recalled to face charges?"
+        answer: "SICILIAN / SYRACUSAN"
+      - question: "Anticipating the worst, to what city did he flee?"
+        answer: "SPARTA"
+  - tossup:
+      question: "What Silver Age author’s history of the principate is also the history of the decline of political freedom for the senatorial aristocracy?"
+      answer: "TACITUS’"
+    boni:
+      - question: "Which of Tacitus’ works was a narrative of events from the reign of Galba to the death of Domitian?"
+        answer: "<title><latin>HISTORIAE</latin> / THE HISTORIES</title>"
+      - question: "Which of Tacitus’ works was basically a <title><latin>laudatio funebris</latin></title> interspersed and integrated with historical and ethnographical materials?"
+        answer: "<title><latin>AGRICOLA</latin></title>"
+  - tossup:
+      question: "According to Homer’s <title>Iliad</title>, who was the leader of the Athenians during the Trojan War?"
+      answer: "MENESTHEUS"
+    boni:
+      - question: "How many ships did Menestheus bring with him to Troy?"
+        answer: "FIFTY"
+      - question: "What leader of the Abantes brought ships with him to Troy?"
+        answer: "ELEPHENOR"
+  - tossup:
+      question: "Of the Roman aqueducts still is use today, which is the oldest?"
+      answer: "<latin>AQUA <emphasis>MARCIA</emphasis> / AQUA <emphasis>PIA</emphasis> / AQUA <emphasis>MARCIA-PIA</emphasis></latin>"
+    boni:
+      - question: "What is the Latin title of the office that Augustus created to be in charge of the aqueducts?"
+        answer: "<latin>CŪRĀTOR(-ĒS) AQUĀRUM</latin>"
+      - question: "Who held this position in the reign of Trajan and wrote a treatise on the Roman aqueducts?"
+        answer: "FRONTINUS"
+  - tossup:
+      question: "Translate: <latin>Tantī est ut discipulī poetās Rōmānōs legānt.</latin>"
+      answer: "IT IS WORTHWHILE THAT STUDENTS READ THE ROMAN POETS"
+    boni:
+      - question: "Translate: <latin>Est mōs hominum, ut mālint ōdisse quam amāre.</latin>"
+        answer: "IT IS THE CUSTOM OF MEN / PEOPLE, THAT THEY PREFER TO HATE RATHER THAN LOVE"
+      - question: "Translate: <latin>Hominēs inflexibiliōres sunt quam ut facile mūtentur.</latin>"
+        answer: "MEN ARE TOO STUBBORN TO BE EASILY CHANGED"
+  - tossup:
+      question: "Say in Latin: Five-eighths"
+      answer: "<latin>QUĪNQUE OCTĀVAE (PARTĒS)</latin>"
+    boni:
+      - question: "Say in Latin: One-seventh"
+        answer: "<latin>SEPTIMA PARS</latin>"
+      - question: "Say in Latin: Six-sevenths"
+        answer: "<latin>SEX (SEPTIMAE) PARTĒS</latin>"
+  - tossup:
+      question: "What Greek essayist and biographer wrote twenty-three pairs of <title>Parallel Lives</title>, which were biographies of famous Greeks and Romans?"
+      answer: "PLUTARCH"
+    boni:
+      - question: "What Greek mythographer was the author of a work entitled the <title>Library</title>?"
+        answer: "APOLLODORUS"
+      - question: "What is the Greek title of Apollodorus’ work?"
+        answer: "<title><latin>BIBLIOTHECA</latin></title>"
+  - tossup:
+      question: "Give the second person singular, pluperfect subjunctive of <latin>largior</latin>"
+      answer: "<latin>LARGĪTUS ESSĒS</latin>"
+    boni:
+      - question: "Change <latin>largītus essēs</latin> to the plural"
+        answer: "<latin>LARGĪTĪ ESSĒTIS</latin>"
+      - question: "Change <latin>largītī essētis</latin> to the imperfect"
+        answer: "<latin>LARGĪRĒMINĪ</latin>"
+  - tossup:
+      question: "What two possibilities exist for the superlative form of <latin>superus</latin>?"
+      answer: "<latin>SUPRĒMUS & SUMMUS</latin>"
+    boni:
+      - question: "What two possibilities exist for the superlative form of <latin>īnferus</latin>?"
+        answer: "<latin>ĪNFIMUS & ĪMUS</latin>"
+      - question: "What two possibilities exist for the superlative form of <latin>exterus</latin>?"
+        answer: "<latin>EXTRĒMUS & EXTIMUS</latin>"
+  - tossup:
+      question: "Who successfully seduced the goddess Demeter at the wedding of Cadmus and Harmonia?"
+      answer: "IASION"
+    boni:
+      - question: "Who killed Iasion for his audacious act?"
+        answer: "ZEUS"
+      - question: "Who was the son of Demeter and Iasion?"
+        answer: "PLUTUS"
+  - tossup:
+      question: "Name one Latin word or phrase used to introduce proviso clauses"
+      answer: "<latin>DUM / MODO / DUMMODO / TANTUM UT</latin>"
+    boni:
+      - question: "What mood is used in Proviso clauses?"
+        answer: "SUBJUNCTIVE"
+      - question: "Translate: <latin>Dūcatur Iulia in mātrimōnium dum amētur</latin>"
+        answer: "LET JULIA BE LED INTO MARRIAGE / BE MARRIED SO LONG AS SHE’S LOVED"

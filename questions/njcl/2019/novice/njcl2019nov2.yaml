@@ -77,12 +77,12 @@ questions:
         answer: "4"
   - tossup:
       question: "What two-word Latin phrase is the motto of the US Marine Corps?"
-      answer: "SEMPER <latin>FIDĒLIS</latin>"
+      answer: "<latin>SEMPER FIDĒLIS</latin>"
     boni:
       - question: "What two-word Latin phrase meaning 'a slip of the tongue' is used to indicate something that should not have been said?"
-        answer: "LAPSUS LINGUAE"
+        answer: "<latin>LAPSUS LINGUAE</latin>"
       - question: "What two-word Latin phrase meaning ‘let the buyer beware’ is the motto the discerning consumer?"
-        answer: "CAVEAT <latin>ĒMPTOR</latin>"
+        answer: "<latin>CAVEAT ĒMPTOR</latin>"
   - tossup:
       question: "Change the noun <latin>lēx</latin> to the genitive plural."
       answer: "<latin>LĒGUM</latin>"
@@ -90,14 +90,14 @@ questions:
       - question: "Change the noun <latin>māter</latin> to the genitive plural."
         answer: "<latin>MĀTRUM</latin>"
       - question: "Change the noun corpus to the genitive plural."
-        answer: "CORPORUM"
+        answer: "<latin>CORPORUM</latin>"
   - tossup:
       question: "Which is the best synonym of <latin>rēs pūblica</latin>:  <latin>rēgnum</latin>, imperium, <latin>cīvis, cīvitās</latin>?"
       answer: "<latin>CĪVITĀS</latin>"
     boni:
-      - question: "Which is the best synonym of incendium:  Ignis, <latin>ascēnsus</latin>, beneficium, excessus?"
-        answer: "IGNIS"
-      - question: "Now, to change things up a little, which of the following is the best ANTONYM of <latin>frāctus</latin>: <latin>perīculōsus, īnsānus, tōtus</latin>, sollicitus?"
+      - question: "Which is the best synonym of incendium:  <latin>Ignis, ascēnsus, beneficium, excessus</latin>?"
+        answer: "<latin>IGNIS</latin>"
+      - question: "Now, to change things up a little, which of the following is the best ANTONYM of <latin>frāctus</latin>: <latin>perīculōsus, īnsānus, tōtus, sollicitus</latin>?"
         answer: "<latin>TŌTUS</latin>"
   - tossup:
       question: "<latin>Respondē</latin> aut <latin>Anglicē</latin> aut <latin>Latīnē</latin>:  <latin>quī prīnceps</latin> Augustum <latin>secūtus</latin> est et <latin>vīgintī trēs annōs rēxit</latin>?"

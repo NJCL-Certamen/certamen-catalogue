@@ -17,7 +17,7 @@ questions:
     boni:
       - question: "<latin>Segōvia, Emporiae, Mālaga</latin>, and <latin>Tarraco</latin> were all ancient cities which would now be located in what modern day country?"
         answer: "SPAIN"
-      - question: "<latin>Lambaesis, Caesarēa, Madaurus</latin>, and <latin>Hippō</latin> <latin>Rēgius</latin> were all ancient cities which would now be located in what modern day country?"
+      - question: "<latin>Lambaesis, Caesarēa, Madaurus</latin>, and <latin>Hippō Rēgius</latin> were all ancient cities which would now be located in what modern day country?"
         answer: "ALGERIA"
   - tossup:
       question: "<latin>Respondē Latīnē: Nunc dē parte ōrātiōnis loquimur quae capit partem verbī et partem adiectīvī.  Ōdī, ōdisse. Dīc mihi fōrmam participiī futūrī.</latin>"
@@ -77,7 +77,7 @@ questions:
         answer: "SQUAMATE"
   - tossup:
       question: "Express in Latin the fraction one-sixth."
-      answer: "<latin>SEXTA PARS</latin> / <latin>SEXTĀNS</latin>"
+      answer: "<latin>SEXTA PARS / SEXTĀNS</latin>"
     boni:
       - question: "Using one Latin word, express the fraction five-twelfths."
         answer: "<latin>QUĪNCUNX</latin>"

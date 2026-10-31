@@ -31,10 +31,10 @@ questions:
     boni:
       - question: "Why would a scholar use <latin>quod vidē</latin> in a document or paper?"
         answer: "TO PROVIDE A CROSS-REFERENCE"
-      - question: "Why would a scholar use the expression <latin>vidē</latin> <latin>suprā</latin> or its abbreviation <latin>v.s.</latin> in a text?"
+      - question: "Why would a scholar use the expression <latin>vidē suprā</latin> or its abbreviation <latin>v.s.</latin> in a text?"
         answer: "TO REFER THE READER TO SOMETHING THAT APPEARS EARLIER (ABOVE) IN THE TEXT"
   - tossup:
-      question: "Who was fond of saying, “<latin>Censeō</latin> <latin>Carthāginem esse dēlendam</latin>!”?"
+      question: "Who was fond of saying, “<latin>Censeō Carthāginem esse dēlendam</latin>!”?"
       answer: "(M. PORCIUS) CATO CENSOR/MAIOR OR THE CENSOR/THE ELDER"
     boni:
       - question: "During his inspection tour of Carthage in the late 150's BC, what had disturbed Cato so much that he adamantly demanded Carthage’s destruction?"
@@ -64,7 +64,7 @@ questions:
       - question: " Change the phrase <latin>agricolārum pauperum</latin> to the ablative case"
         answer: "<latin>AGRICOLĪS PAUPERIBUS</latin>"
       - question: "Change that ablative form <latin>agricolīs pauperibus</latin> to the singular"
-        answer: "<latin>AGRICOLĀ</latin> <latin>PAUPERĪ</latin>"
+        answer: "<latin>AGRICOLĀ PAUPERĪ</latin>"
   - tossup:
       question: "Give a synonym of <latin>quiētus</latin>"
       answer: "<latin>TRANQUILLUS, ŌTIŌSUS, PĀCĀTUS, PLĀCĀTUS, PLACIDUS, TACITUS, TACITURNUS</latin>"
@@ -90,12 +90,12 @@ questions:
       - question: "Whom did Jupiter seduce in the form of a satyr?"
         answer: "ANTIOPE"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the question that follows: <latin>Post mortem marītī, quaedam rēgīna, Artemisia nōmine, constituit proficīscī</latin> <latin>cum decem mīlibus mīlitum ut regnum frātris marītī</latin> <latin>occupāret. Tribus</latin>  <latin>proeliīs gestīs, Artemisia facta est rēgīna regnī</latin> <latin>et marītī</latin> <latin>et frātris eius.</latin>  <latin>Quot proelia ab Artemisiā</latin> <latin>gerēbantur?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the question that follows: <latin>Post mortem marītī, quaedam rēgīna, Artemisia nōmine, constituit proficīscī cum decem mīlibus mīlitum ut regnum frātris marītī occupāret. Tribus</latin>  <latin>proeliīs gestīs, Artemisia facta est rēgīna regnī et marītī et frātris eius.</latin>  <latin>Quot proelia ab Artemisiā gerēbantur?</latin>"
       answer: "TRIA"
     boni:
-      - question: "Quandō <latin>Artemisia regnum frātris marītī</latin> <latin>oppugnāre constituit?</latin> "
-        answer: "<latin>POST MORTEM MARĪTĪ</latin> <latin>/ MARĪTŌ</latin> <latin>MORTUŌ</latin>"
-      - question: "<latin>Quot mīlitēs Artemisiam comitātī</latin> <latin>sunt?</latin>"
+      - question: "Quandō <latin>Artemisia regnum frātris marītī oppugnāre constituit?</latin> "
+        answer: "<latin>POST MORTEM MARĪTĪ / MARĪTŌ MORTUŌ</latin>"
+      - question: "<latin>Quot mīlitēs Artemisiam comitātī sunt?</latin>"
         answer: "DECEM MĪLIA (<latin>MĪLITUM</latin>)"
   - tossup:
       question: "Which of the following words are synonymous: derisive, surreptitious, acquiescent, primordial, clandestine?"
@@ -134,9 +134,9 @@ questions:
       answer: "<latin>DUX / IMPERĀTOR FORTIS MĪLITIBUS PRAEERAT/ PRAEFUIT</latin>"
     boni:
       - question: " Translate this sentence into Latin: The consul was put in command of the legion"
-        answer: "<latin>CŌNSUL LEGIŌNĪ</latin> <latin>PRAEFECTUS EST</latin> / <latin>PRAEPOSITUS EST</latin>"
+        answer: "<latin>CŌNSUL LEGIŌNĪ PRAEFECTUS EST / PRAEPOSITUS EST</latin>"
       - question: " Translate this sentence into Latin: Caesar placed Labienus in command of the tenth legion"
-        answer: "<latin>CAESAR LABIĒNUM DECIMAE LEGIŌNĪ</latin> <latin>PRAEFĒCIT</latin> / <latin>PRAEPOSUIT</latin>"
+        answer: "<latin>CAESAR LABIĒNUM DECIMAE LEGIŌNĪ PRAEFĒCIT / PRAEPOSUIT</latin>"
   - tossup:
       question: "How many of the following English words, if any, ARE derived from the noun <latin>bellum</latin>? bellicose, belligerent, duel, rebel ALL ARE FROM <latin>BELLUM</latin> / FOUR (4) According to its derivation, how many people fight a “duel”?"
       answer: "TWO"

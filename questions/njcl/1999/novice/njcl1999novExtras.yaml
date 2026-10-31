@@ -45,9 +45,9 @@ questions:
         answer: "<latin>SPURIUS</latin>"
   - tossup:
       question: "What was the Latin term for a teacher of reading, writing, and arithmetic to 7 to 11 year old children?"
-      answer: "<latin>LITTERATOR</latin> / <latin>LUDI MAGISTER</latin>"
+      answer: "<latin>LITTERATOR / LUDI MAGISTER</latin>"
     boni:
       - question: "What was the school of a <latin>litterator</latin> called?"
-        answer: "<latin>SCHOLA</latin> / <latin>LUDUS</latin>"
+        answer: "<latin>SCHOLA / LUDUS</latin>"
       - question: "What was the teacher of grammar and literature called?"
         answer: "<latin>GRAMMATICUS</latin>"

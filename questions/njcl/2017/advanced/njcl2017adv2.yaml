@@ -96,7 +96,7 @@ questions:
       answer: "<latin>LACEDAEMŌNIĪ</latin>"
     boni:
       - question: "<latin>Quibus in locīs Lacedaemōniī hāc potestāte ūtī potuērunt.</latin>"
-        answer: "<latin>NŌN SŌLUM TERRĀ SED ETIAM MARĪ</latin> <latin>orTERRĀ ET MARĪ or TERRĀ MARĪQUE</latin>"
+        answer: "<latin>NŌN SŌLUM TERRĀ SED ETIAM MARĪ orTERRĀ ET MARĪ or TERRĀ MARĪQUE</latin>"
       - question: "<latin>Cūr ēvēnit ut Athēniēnsibus tanta potestās trādenda esset?</latin>"
         answer: "<latin>TOT / MULTAE CĪVITĀTĒS DĒFĒCERANT / DĒFĒCĒRUNT</latin>"
   - tossup:

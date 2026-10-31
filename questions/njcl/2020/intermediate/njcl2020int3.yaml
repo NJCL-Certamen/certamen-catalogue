@@ -53,7 +53,7 @@ questions:
         answer: "(FILTHY) HOOPOE"
   - tossup:
       question: "<latin>Respondē Latīnē: Cuius filius, Diadumeniānus, prope Antiocheam perīit circa unō annō post mingentem Caracallam ipse necāverat ut princeps fieret?</latin>"
-      answer: "(<latin>M.</latin> <latin>OPELLIĪ</latin>) <latin>MACRĪNĪ</latin>"
+      answer: "(<latin>M. OPELLIĪ</latin>) <latin>MACRĪNĪ</latin>"
     boni:
       - question: "<latin>Respondē Latīnē: Cuius ordinis erat Macrīnus prīmus princeps?</latin>"
         answer: "<latin>EQUESTRIS / EQUITUM</latin>"
@@ -77,7 +77,7 @@ questions:
         answer: "<latin>PERSŌNA NŌN GRĀTA</latin>"
   - tossup:
       question: "Give a Latin antonym for <latin>initium</latin>."
-      answer: "<latin>FĪNIS /</latin> <latin>EXITUS / EXTRĒMUM / TERMINUS / EXITIUM</latin>"
+      answer: "<latin>FĪNIS / EXITUS / EXTRĒMUM / TERMINUS / EXITIUM</latin>"
     boni:
       - question: "Give a Latin antonym for <latin>perīculum</latin>."
         answer: "<latin>SALŪS / TŪTUM / INCOLUMITAS / SALVĀTIO / SĀNITAS / VALĒTŪDO</latin>"
@@ -124,12 +124,12 @@ questions:
       - question: "Complete the following analogy: <latin>conor : conāre :: ducō :</latin> <emphasis>[blank]</emphasis>"
         answer: "<latin>DUC</latin>  <latin>---</latin>"
   - tossup:
-      question: "<latin>Respondē Latīnē:</latin> <latin>Cuius oculī in caudā pavōnis positī sunt ā Iūnōne?</latin>"
+      question: "<latin>Respondē Latīnē: Cuius oculī in caudā pavōnis positī sunt ā Iūnōne?</latin>"
       answer: "<latin>(OCULĪ) ARGĪ (PANOPTIS)</latin>"
     boni:
       - question: "<latin>Respondē Latīnē: Quem custōdiēbat Argus antequam caecus factus est?</latin>"
         answer: "<latin>ĪŌNEM</latin>"
-      - question: "<latin>Respondē Latīnē: Quā in regiōne est perfectum iter Īōnis</latin> <latin>post mortem Argī?</latin>"
+      - question: "<latin>Respondē Latīnē: Quā in regiōne est perfectum iter Īōnis post mortem Argī?</latin>"
         answer: "<latin>(IN) AEGYPTŌ</latin> (prompt on <latin>Africā</latin>)"
   - tossup:
       question: "In Round 1 we asked you about the English word “repugnant.”  What synonym of “repugnant” is a derivative of a Latin word meaning “taste”?"
@@ -148,7 +148,7 @@ questions:
       - question: "Castor was originally mortal like what sister of his, the mother of Erigone and Chrysothemis?"
         answer: "CLYTEMNESTRA"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lacerta sibi putāvit: “Etiam plus cibī mē exspectat in domō illīus ursae!” Maximā cum difficultāte lacerta sē levāvit ē flūmine et ursam secūta est, avida magnam cēnam edere.</latin>  <latin>Nescīvit autem ursulōs ā patre ursō servārī, et patrem in animō habēre aliquid edere tantum quam lacertam.</latin>     <title>REPEAT</title>  The question:  <latin>Quōmodo lacerta</latin> <latin>ē flūmine sē levāvit?</latin>"
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lacerta sibi putāvit: “Etiam plus cibī mē exspectat in domō illīus ursae!” Maximā cum difficultāte lacerta sē levāvit ē flūmine et ursam secūta est, avida magnam cēnam edere.</latin>  <latin>Nescīvit autem ursulōs ā patre ursō servārī, et patrem in animō habēre aliquid edere tantum quam lacertam.</latin>     <title>REPEAT</title>  The question:  <latin>Quōmodo lacerta ē flūmine sē levāvit?</latin>"
       answer: "<latin>MAXIMĀ (CUM) DIFFICULTĀTE // \t\tCUM DIFFICULTĀTE// DIFFICILE // NON FACILE</latin>"
     boni:
       - question: "<latin>Cūr lacerta ursam secūta est?</latin>"

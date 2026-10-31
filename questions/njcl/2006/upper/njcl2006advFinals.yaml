@@ -23,7 +23,7 @@ questions:
       question: "Which dictator increased the number of senators in order to create more eligible jurors in 81 BC?"
       answer: "(L. CORNELIUS) SULLA"
     boni:
-      - question: "Sulla’s judicial reforms created several types of courts, each hearing specific types of cases. What sort of crime would have been tried in a court known as a <latin>quaestiō</latin> <latin>dē</latin> <latin>sicāriīs et vēneficiīs</latin>?"
+      - question: "Sulla’s judicial reforms created several types of courts, each hearing specific types of cases. What sort of crime would have been tried in a court known as a <latin>quaestiō dē sicāriīs et vēneficiīs</latin>?"
         answer: "MURDER / POISONINGS / ASSASINATION"
       - question: "Another portion of Sulla’s reforms involved a revival and revision of the <latin>lēx Villia Annālis</latin> of 180 BC, which involved the <latin>cursus honōrum</latin>. What were the minumum ages prescribed by Sulla for the quaestorship, praetorship, and consulship?"
         answer: "30, 40 AND 43 RESPECTIVELY"
@@ -56,24 +56,24 @@ questions:
       answer: "<latin>ULCĪSCERENTUR</latin> "
     boni:
       - question: "Change <latin>ulcīscerentur</latin> to the perfect tense."
-        answer: "<latin>ULTĪ</latin> <latin>/-AE /-A SINT</latin> "
+        answer: "<latin>ULTĪ /-AE /-A SINT</latin> "
       - question: "For the verb <latin>ulcīscor</latin>, give the singular present and future imperatives."
         answer: "<latin>ULCĪSCERE</latin> & <latin>ULCĪSCITOR</latin> "
   - tossup:
       question: "Translate the following sentence into Latin: Would that Caesar had not conquered Gaul."
-      answer: "<latin>UTINAM NĒ</latin> <latin>/ NŌN CAESAR GALLIAM VĪCISSET / SUPERĀVISSET</latin> (The usage of “<latin>nōn</latin>” is listed as less common in the A&G, but not odd. In the OLD, it is listed without distinction in the negative. In Gildersleeve, p. 172 “<latin>Utinam</latin> was perhaps originally interrogative... Hence the frequent use of <latin>nōn</latin>.)"
+      answer: "<latin>UTINAM NĒ / NŌN CAESAR GALLIAM VĪCISSET / SUPERĀVISSET</latin> (The usage of “<latin>nōn</latin>” is listed as less common in the A&G, but not odd. In the OLD, it is listed without distinction in the negative. In Gildersleeve, p. 172 “<latin>Utinam</latin> was perhaps originally interrogative... Hence the frequent use of <latin>nōn</latin>.)"
     boni:
       - question: "Translate this sentence into Latin: It happened that Caesar was made dictator."
         answer: "<latin>ACCIDIT / ĒVĒNIT / FACTUM EST UT CAESAR DICTĀTOR CREĀRĒTUR / FIERET</latin> "
       - question: "Using a standard Latin idiom, translate this sentence: “By writing commentaries, Caesar has informed us.”"
         answer: "<latin>COMMENTĀRIĪS SCRĪBENDĪS, CAESAR NŌS CERTIŌRĒS FĒCIT</latin> or <latin>COMMENTĀRIŌS SCRĪBENDŌ</latin>... (Forms of <latin>compōnō</latin> and other “writing” words acceptable also)"
   - tossup:
-      question: "Listen carefully to the following lines from Vergil, which I will read twice as prose, and answer IN LATIN the question that follows: <latin>tū</latin> <latin>regere imperiō</latin> <latin>populōs, Rōmāne, mementō</latin> <latin>hae tibi erunt artēs, pācīque impōnere mōrem,</latin>  <latin>parcere subiectīs et dēbellāre superbōs.</latin>  Question: <latin>Cui persōnae necesse est regere imperiō</latin> <latin>populōs?</latin> "
-      answer: "<latin>RŌMĀNŌ</latin> <latin>/ AENĒAE</latin>  If the student answers“<latin>tibi</latin>”, ask him or her to be more specific."
+      question: "Listen carefully to the following lines from Vergil, which I will read twice as prose, and answer IN LATIN the question that follows: <latin>tū regere imperiō populōs, Rōmāne, mementō hae tibi erunt artēs, pācīque impōnere mōrem,</latin>  <latin>parcere subiectīs et dēbellāre superbōs.</latin>  Question: <latin>Cui persōnae necesse est regere imperiō populōs?</latin> "
+      answer: "<latin>RŌMĀNŌ / AENĒAE</latin>  If the student answers“<latin>tibi</latin>”, ask him or her to be more specific."
     boni:
-      - question: "<latin>Quibus ā</latin> <latin>Rōmānīs parcendum est?</latin>"
+      - question: "<latin>Quibus ā Rōmānīs parcendum est?</latin>"
         answer: "<latin>SUBIECTĪS</latin>"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Vergilius scīlicet haec verba scrīpsit. Quis autem haec in Aenēide loquitur?</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Vergilius scīlicet haec verba scrīpsit. Quis autem haec in Aenēide loquitur?</latin>"
         answer: "<latin>ANCHĪSĒS</latin> / ANCHISES"
   - tossup:
       question: "What legal Latin phrase would describe Paris Hilton being “caught in the act”?"
@@ -89,7 +89,7 @@ questions:
     boni:
       - question: "Which of the following would NOT be found in the <title><latin>Lexicon Recentis Latīnitātis</latin></title>  as a translation for the English word “gang”? <latin>amplior mercātus, praedōnum sodālicium, malefactōrum grex, rapīnātōrum cōnsociātiō</latin> "
         answer: "<latin>AMPLIOR MERCĀTUS</latin> "
-      - question: "What single English word is translated in the <title><latin>Lexicon Recentis Latīnitātis</latin></title> as “<latin>casa glaciē</latin> <latin>īnstructa</latin>”?"
+      - question: "What single English word is translated in the <title><latin>Lexicon Recentis Latīnitātis</latin></title> as “<latin>casa glaciē īnstructa</latin>”?"
         answer: "IGLOO"
   - tossup:
       question: "Name the daughter of the Thessalian king Elatus who was ravished by Poseidon."
@@ -100,13 +100,13 @@ questions:
       - question: "What was Caenis’ name as a man?"
         answer: "CAENEUS"
   - tossup:
-      question: "Give the Latin term for the ancient Roman custom described in the following Latin sentence: <latin>Sī</latin> <latin>pater pūpum ad pedēs positum tollere volēbat neque statim eum expōnere, hōc rītū</latin> <latin>sollemnī</latin> <latin>pūpum sustulit et dēclārāvit eum vel fīlium suum vel fīliam suam esse.</latin>"
-      answer: "<latin>SUSCEPTIŌ</latin> / <latin>SUSCEPTIŌNE</latin>"
+      question: "Give the Latin term for the ancient Roman custom described in the following Latin sentence: <latin>Sī pater pūpum ad pedēs positum tollere volēbat neque statim eum expōnere, hōc rītū sollemnī pūpum sustulit et dēclārāvit eum vel fīlium suum vel fīliam suam esse.</latin>"
+      answer: "<latin>SUSCEPTIŌ / SUSCEPTIŌNE</latin>"
     boni:
-      - question: "<latin>Respondē</latin> <latin>Latīnē: Quod nōmen ā</latin> <latin>Rōmānīs datum est eī</latin> <latin>ipsī</latin> <latin>diē</latin><latin>ī, nōnō</latin> <latin>puerīs et octāvō</latin> <latin>puellīs, quō</latin> <latin>rītū</latin> <latin>sollemnī</latin> <latin>praenōmina līberīs data sunt?</latin> "
-        answer: "<latin>(DIĒS) LâSTRICUS / LâSTRICŌ</latin> <latin>/ (DIĒS) NŌMINUM / NŌMINĀLIA</latin>"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Dīcuntur puerī</latin> <latin>genium habuisse. Quid habuēre puellae?</latin>"
-        answer: "<latin>IâNŌNEM</latin> / <latin>IâNŌ</latin> / JUNO"
+      - question: "<latin>Respondē Latīnē: Quod nōmen ā Rōmānīs datum est eī ipsī diē</latin><latin>ī, nōnō puerīs et octāvō puellīs, quō rītū sollemnī praenōmina līberīs data sunt?</latin> "
+        answer: "<latin>(DIĒS) LâSTRICUS / LâSTRICŌ / (DIĒS) NŌMINUM / NŌMINĀLIA</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Dīcuntur puerī genium habuisse. Quid habuēre puellae?</latin>"
+        answer: "<latin>IâNŌNEM / IâNŌ</latin> / JUNO"
   - tossup:
       question: "What Roman commander celebrated a triumph in 177 BC for his defeat and settlement of the Celtiberians?"
       answer: "(TI.) SEMPRONIUS GRACCHUS (FATHER OF THE GRACCHI)"
@@ -117,7 +117,7 @@ questions:
         answer: "<latin>BASILICA SEMPRONIA</latin>"
   - tossup:
       question: "(PASS OUT THE VISUAL TO ALL TEAMS) Please do NOT open your visuals until instructed to do so. (WAIT UNTIL ALL THE TEAMS HAVE THEIR VISUALS) Open up your visuals. You now have 10 seconds to examine it. (WAIT 10 SECONDS) Identify two instances of antithesis in this poem."
-      answer: "<latin>ODĪ</latin> <latin>ET AMŌ; FACIAM . . . FIERĪ</latin> (ALSO ACCEPT KNOWING VS. FEELING (<latin>NESCIŌ... SENTIŌ</latin>) ; QUESTION VS. ANSWER)"
+      answer: "<latin>ODĪ ET AMŌ; FACIAM . . . FIERĪ</latin> (ALSO ACCEPT KNOWING VS. FEELING (<latin>NESCIŌ... SENTIŌ</latin>) ; QUESTION VS. ANSWER)"
     boni:
       - question: "Locate the two diaereses in line 2."
         answer: "AFTER <latin>NESCIŌ</latin> & AFTER <latin>FIERĪ</latin>."
@@ -135,17 +135,17 @@ questions:
       question: "With the exception of alliteration, consonance, and assonance, what figure of speech is in this line from Lucretius: <latin>mollia quae fīunt, āër aqua terra vapōrēs</latin>?"
       answer: "ASYNDETON"
     boni:
-      - question: "in this line: <latin>Nam prō</latin> <latin>sāncta deum tranquillā</latin> <latin>pectora pāce</latin>?"
+      - question: "in this line: <latin>Nam prō sāncta deum tranquillā pectora pāce</latin>?"
         answer: "SYNCHYSIS or INTERLOCKING WORD ORDER"
       - question: "in this line: <latin>Cēdit enim rērum novitāte extrūsa vetustās</latin>?"
         answer: "OXYMORON"
   - tossup:
-      question: "As we have been hearing a lot lately, Chuck Norris excels in many things. One of his talents is his ability to speak Latin. Listen to this boasting by Chuck Norris and tell me what his claim is: <latin>Quamquam omnēs verēbantur nē</latin> <latin>horrendās Gorgōnēs conspicerent, Gorgōnēs verēbantur nē</latin> <latin>mē</latin> <latin>conspicerent.</latin> "
+      question: "As we have been hearing a lot lately, Chuck Norris excels in many things. One of his talents is his ability to speak Latin. Listen to this boasting by Chuck Norris and tell me what his claim is: <latin>Quamquam omnēs verēbantur nē horrendās Gorgōnēs conspicerent, Gorgōnēs verēbantur nē mē conspicerent.</latin> "
       answer: "ALTHOUGH EVERYONE WAS AFRAID TO LOOK AT THE TERRIBLE GORGONS, THE GORGONS WERE AFRAID TO LOOK AT CHUCK NORRIS"
     boni:
-      - question: "<latin>Cum Caesar Galliam decem annīs vīcerit, egomet tamen, sī</latin> <latin>dux fuissem, id decem diēbus perfēcissem.</latin> "
+      - question: "<latin>Cum Caesar Galliam decem annīs vīcerit, egomet tamen, sī dux fuissem, id decem diēbus perfēcissem.</latin> "
         answer: "ALTHOUGH CAESAR CONQUERED GAUL WITHIN TEN YEARS, CHUCK NORRIS, IF HE HAD BEEN GENERAL, WOULD HAVE ACCOMPLISHED IT IN TEN DAYS"
-      - question: "<latin>Omnēs cognōscunt id quīnque et vīgintī</latin> <latin>līctōrēs mihi habēre licuisse sī</latin> <latin>dictātor fuissem.</latin> "
+      - question: "<latin>Omnēs cognōscunt id quīnque et vīgintī līctōrēs mihi habēre licuisse sī dictātor fuissem.</latin> "
         answer: "EVERYONE KNOWS THAT CHUCK NORRIS WOULD HAVE BEEN PERMITTED TWENTY FIVE LICTORS, IF HE HAD BEEN DICTATOR"
   - tossup:
       question: "Who was punished in Hades for trying to set fire to Apollo's temple at Delphi?"

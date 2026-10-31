@@ -68,12 +68,12 @@ questions:
       - question: "Give the Latin form of “cats” in this sentence: “I gave food to my cats.”"
         answer: "<latin>FĒLIBUS</latin>"
   - tossup:
-      question: "Listen to the following passage in Latin, which I will read twice, then answer in English the question that follows: <latin>Ōlim īnfāns in monte Cyllēnē nātus est</latin>. <latin>Hic īnfāns erat fīlius Iovis et Māiae</latin>. <latin>Īnfāns cum mātre habitābat, sed cum patre nōn habitābat, quod Iūppiter in monte Olympō habitat</latin>. <latin>Īnfantī nōmen erat Mercurius</latin>. With whom did Mercury live?"
+      question: "Listen to the following passage in Latin, which I will read twice, then answer in English the question that follows: <latin>Ōlim īnfāns in monte Cyllēnē nātus est. Hic īnfāns erat fīlius Iovis et Māiae. Īnfāns cum mātre habitābat, sed cum patre nōn habitābat, quod Iūppiter in monte Olympō habitat. Īnfantī nōmen erat Mercurius</latin>. With whom did Mercury live?"
       answer: "MAIA / HIS MOTHER"
     boni:
       - question: "According to the passage, why didn’t Mercury live with his father?"
         answer: "BECAUSE JUPITER / HIS FATHER LIVES ON MT. OLYMPUS"
-      - question: "The passage continues: <latin>Mercurius erat īnfāns mīrābilis</latin>. <latin>Hic īnfāns ambulāre, fābulās nārrāre</latin>, et <latin>canere poterat</latin>. Name one thing that Mercury was able to do, even though he was a baby."
+      - question: "The passage continues: <latin>Mercurius erat īnfāns mīrābilis. Hic īnfāns ambulāre, fābulās nārrāre</latin>, et <latin>canere poterat</latin>. Name one thing that Mercury was able to do, even though he was a baby."
         answer: "WALK // SING // TELL STORIES / A STORY"
   - tossup:
       question: "What emperor withdrew from Rome and conducted his reign <latin>in absentiā</latin> from the island of Capri beginning in 26 AD?"

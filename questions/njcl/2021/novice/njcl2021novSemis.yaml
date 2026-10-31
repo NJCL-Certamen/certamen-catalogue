@@ -28,13 +28,13 @@ questions:
       - question: "What does the abbreviation M.A. stand for in Latin?"
         answer: "<latin>MAGISTER ARTIUM</latin>"
   - tossup:
-      question: "<latin>RESPONDĒ LATĪNĒ:</latin> <latin>In linguā Anglicā, quot litterae sunt?</latin>"
+      question: "<latin>RESPONDĒ LATĪNĒ: In linguā Anglicā, quot litterae sunt?</latin>"
       answer: "VĪGINTĪ (ET) SEX / SEX (ET) VĪGINTĪ"
     boni:
-      - question: "<latin>RESPONDĒ LATĪNĒ:</latin> <latin>Quot pedes sunt quattuor equīs?</latin>"
+      - question: "<latin>RESPONDĒ LATĪNĒ: Quot pedes sunt quattuor equīs?</latin>"
         answer: "SĒDECIM"
-      - question: "<latin>RESPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quot pollicēs vobīs sunt?</latin>"
-        answer: "2 / 4 / 6 / 8 // <latin>DUO / QUATTUOR / SEX</latin> / <latin>OCTO</latin>"
+      - question: "<latin>RESPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quot pollicēs vobīs sunt?</latin>"
+        answer: "2 / 4 / 6 / 8 // <latin>DUO / QUATTUOR / SEX / OCTO</latin>"
   - tossup:
       question: "Which of the following nouns, if any, does not belong due to declension: <latin>ager, senātus, populus, rēgnum</latin>?"
       answer: "SENĀTUS"
@@ -92,12 +92,12 @@ questions:
       - question: "From the list in the tossup, <latin>vēr, impetus, corōna, pretium,</latin> and <latin>lacrima</latin>, which is best described by the following sentence? <latin>Inter hiemem et aestātem est.</latin>"
         answer: "VĒR"
   - tossup:
-      question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quō diē mēnseque mortuus est Iūlius Caesar?</latin>"
+      question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quō diē mēnseque mortuus est Iūlius Caesar?</latin>"
       answer: "ĪDIBUS MARTIĪS / ON THE IDES OF MARCH / MARCH 15"
     boni:
-      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Ubi Caesar mortuus est?</latin>"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Ubi Caesar mortuus est?</latin>"
         answer: "IN THEĀTRŌ / CŪRIĀ POMPĒIĪ (prompt on <latin>CŪRIĀ</latin>) <latin>// // AD PEDĒS STATUAE POMPĒIĪ //</latin> IN POMPEY’S THEATER / SENATE HOUSE // AT THE FEET OF POMPEY’S STATUE"
-      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quis ōrātiōnem ad Caesaris mortem habuit?</latin>"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quis ōrātiōnem ad Caesaris mortem habuit?</latin>"
         answer: "MĀRCUS ANTŌNIUS / MARK ANTONY"
   - tossup:
       question: "For the verb <latin>rēspondeō</latin>, give the 1st person singular perfect active indicative, so that it means “I have responded.”"
@@ -122,7 +122,7 @@ questions:
       - question: "<latin>Quōmodo altera tigris currēbat?</latin>"
         answer: "<latin>CELERITER</latin>"
       - question: "<latin>Cur vir erat perterritus?</latin>"
-        answer: "<latin>(QUOD)</latin> <latin>PORTAE (ERANT / SUNT) APERTAE / PORTĪS APERTĪS TIGRĒS SĒ EXCITĀBANT / (ET) TIGRĒS (ERANT / SUNT) EXCITĀTAE</latin> [PRESENT VISUAL FROM <emphasis>THIS LINK</emphasis> TO ALL TEAMS BEFORE PROCEEDING]"
+        answer: "<latin>(QUOD) PORTAE (ERANT / SUNT) APERTAE / PORTĪS APERTĪS TIGRĒS SĒ EXCITĀBANT / (ET) TIGRĒS (ERANT / SUNT) EXCITĀTAE</latin> [PRESENT VISUAL FROM <emphasis>THIS LINK</emphasis> TO ALL TEAMS BEFORE PROCEEDING]"
   - tossup:
       question: "The red dots on this visual are a non-exhaustive set of ancient cities that were each the capital of a Roman province at some point. Please take 10 seconds to study the visual. [PAUSE] The question: Which letter denotes the city <latin>Tarraco</latin>?"
       answer: "(LETTER) “M”"
@@ -148,7 +148,7 @@ questions:
       - question: "Based on the meaning of their name and their placement in the far west of the world, the Hesperides are often called the daughters of what phenomenon?"
         answer: "(THE) EVENING"
   - tossup:
-      question: "<latin>RĒSPONDĒ LATĪNĒ:</latin> <latin>Nōminā ūnam</latin> <latin>prōvinciam quam Claudius imperiō addidit.</latin>"
+      question: "<latin>RĒSPONDĒ LATĪNĒ: Nōminā ūnam prōvinciam quam Claudius imperiō addidit.</latin>"
       answer: "BRITANNIA/AM // THRĀCIA/AM // LYCIA/AM // MAURĪTĀNIA/AM / MAURETANIA/AM // NŌRICUM"
     boni:
       - question: "<latin>Ā quō imperātōre victa est Dacia?</latin>"

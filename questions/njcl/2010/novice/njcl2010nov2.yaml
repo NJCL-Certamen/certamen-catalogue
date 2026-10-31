@@ -63,7 +63,7 @@ questions:
       question: "What emperor committed suicide on June 9, 68 AD?"
       answer: "NERO"
     boni:
-      - question: "Whom did Nero name “<latin>optima</latin> <latin>māter</latin>”?"
+      - question: "Whom did Nero name “<latin>optima māter</latin>”?"
         answer: "AGRIPPINA THE YOUNGER / <latin>MINOR</latin>"
       - question: "What was Nero’s original full name?"
         answer: "LUCIUS DOMITIUS AHENOBARBUS"
@@ -124,7 +124,7 @@ questions:
       - question: "Which of the following is NOT an adverb: <latin>celere, valdē, deinde, frūstrā, mox</latin>?"
         answer: "<latin>CELERE</latin>"
   - tossup:
-      question: "New secondary roads in Italy, a colony named Junonia, and a low fixed price for grain were all reforms of what tribune who would soon become the object of a <latin>senātūs</latin> <latin>cōnsultum</latin> <latin>ultimum</latin>?"
+      question: "New secondary roads in Italy, a colony named Junonia, and a low fixed price for grain were all reforms of what tribune who would soon become the object of a <latin>senātūs cōnsultum ultimum</latin>?"
       answer: "GAIUS (SEMPRONIUS) GRACCHUS"
     boni:
       - question: "The colony Junonia was to be built on the site of what city, which had been demolished in 146 BC?"

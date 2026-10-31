@@ -21,10 +21,10 @@ questions:
         answer: "<latin>FŪNUS</latin>"
   - tossup:
       question: "Using an Ablative Absolute, say in Latin, “When Orbilius was the teacher.”"
-      answer: "<latin>ORBILIŌ</latin> <latin>MAGISTRŌ</latin> / <latin>LITTERĀTŌRE</latin> / <latin>GRAMMĀTICŌ</latin> <latin>/ RHĒTORE</latin>"
+      answer: "<latin>ORBILIŌ MAGISTRŌ / LITTERĀTŌRE / GRAMMĀTICŌ / RHĒTORE</latin>"
     boni:
       - question: "Use <latin>ubi</latin> to say in Latin, “When Orbilius had forgotten the children.”"
-        answer: "<latin>UBI ORBILIUS LĪBERŌS</latin> / <latin>LĪBERŌRUM OBLĪTUS ERAT</latin>  or <latin>PUERŌS</latin> / <latin>PUERŌRUM</latin>"
+        answer: "<latin>UBI ORBILIUS LĪBERŌS / LĪBERŌRUM OBLĪTUS ERAT</latin>  or <latin>PUERŌS / PUERŌRUM</latin>"
       - question: "Using the verb <latin>oblīvīscor</latin> and an Ablative Absolute, say in Latin, “When the children had been forgotten.”"
         answer: "CANNOT BE DONE"
   - tossup:
@@ -36,12 +36,12 @@ questions:
       - question: "Jovian died at Dadastana while on his way to what city in February of 364 A.D.?"
         answer: "CONSTANTINOPLE"
   - tossup:
-      question: "Of the words <latin>caliga, scūtum, ālea, petasus</latin>, and <latin>aedēs</latin>, which is described in the following Latin sentence: <latin>Est īnstrūmentum quō</latin> <latin>mīles Rōmānus sē</latin> <latin>dēfendit</latin>"
+      question: "Of the words <latin>caliga, scūtum, ālea, petasus</latin>, and <latin>aedēs</latin>, which is described in the following Latin sentence: <latin>Est īnstrūmentum quō mīles Rōmānus sē dēfendit</latin>"
       answer: "<latin>SCŪTUM</latin>"
     boni:
       - question: "<latin>Id est quod imperātor nōtissimus iēcisse dīcitur</latin>"
         answer: "ĀLEA"
-      - question: "<latin>Respondē</latin> <latin>Anglicē: Quot hōrum vocābulōrum omnium ab ūnō</latin> <latin>iuvene iactārī</latin> <latin>nōn possunt?</latin>"
+      - question: "<latin>Respondē Anglicē: Quot hōrum vocābulōrum omnium ab ūnō iuvene iactārī nōn possunt?</latin>"
         answer: "ONE"
   - tossup:
       question: "Who was voted a thanksgiving festival and given the title <latin>pater patriae</latin> because he had delivered Rome from danger in 63 BC?"
@@ -52,12 +52,12 @@ questions:
       - question: "Cicero was able to expose members of Catiline’s plot to overthrow the Roman government by presenting evidence gathered from members of what Gallic tribe?"
         answer: "ALLOBROGES"
   - tossup:
-      question: "Translate the motto of the University of Tennessee: <latin>Vēritātem cognōscētis et vēritās tē</latin> <latin>līberābit</latin>"
+      question: "Translate the motto of the University of Tennessee: <latin>Vēritātem cognōscētis et vēritās tē līberābit</latin>"
       answer: "YOU WILL LEARN / UNDERSTAND / RECOGNIZE THE TRUTH AND THE TRUTH WILL FREE YOU"
     boni:
       - question: "Translate the motto of the University of Vermont: <latin>Studiīs et rēbus honestīs?</latin>"
         answer: "TO / WITH / BY HONORABLE PURSUITS AND DEEDS"
-      - question: "Translate the motto of Columbia University: <latin>In lūmine tuō</latin> <latin>vidēbimus lūmen?</latin>"
+      - question: "Translate the motto of Columbia University: <latin>In lūmine tuō vidēbimus lūmen?</latin>"
         answer: "IN YOUR/THY LIGHT WE SHALL SEE LIGHT"
   - tossup:
       question: "What old herdsman was punished by Mercury because he was greedy and tattled on the young god?"
@@ -76,10 +76,10 @@ questions:
       - question: "Whom did Perses succeed as the king of Ethiopia?"
         answer: "CEPHEUS"
   - tossup:
-      question: "Listen carefully to the following passage about Caesar, which I will read twice, and answer IN LATIN the question that follows: <latin>Tandem bellum cīvīle vītāre quam maximē</latin> <latin>cōnātus, Caesar ē</latin> <latin>Galliā</latin> <latin>in Italiam profectus est. Cum ad parvum flūmen Rubicōnem vēnisset, duās hōrās ibi morātus est: nam nōn licuit imperātōrī</latin> <latin>Rōmānō</latin> <latin>cum legiōnibus hoc flūmen trānsīre. Caesar clāmāvit, “Ālea iacta est,” flūmenque cum cōpiīs trānsiit.</latin>  Question: <latin>Quamdiū</latin> <latin>iuxtā</latin> <latin>Rubicōnem exercitus Caesaris morābātur?</latin>"
+      question: "Listen carefully to the following passage about Caesar, which I will read twice, and answer IN LATIN the question that follows: <latin>Tandem bellum cīvīle vītāre quam maximē cōnātus, Caesar ē Galliā in Italiam profectus est. Cum ad parvum flūmen Rubicōnem vēnisset, duās hōrās ibi morātus est: nam nōn licuit imperātōrī Rōmānō cum legiōnibus hoc flūmen trānsīre. Caesar clāmāvit, “Ālea iacta est,” flūmenque cum cōpiīs trānsiit.</latin>  Question: <latin>Quamdiū iuxtā Rubicōnem exercitus Caesaris morābātur?</latin>"
       answer: "<latin>DUĀS HŌRĀS</latin>"
     boni:
-      - question: "<latin>Sententiā</latin> <latin>Caesaris, quid vītandum erat?</latin>"
+      - question: "<latin>Sententiā Caesaris, quid vītandum erat?</latin>"
         answer: "<latin>BELLUM CĪVĪLE / FLŪMEN TRĀNSĪRE</latin>"
       - question: "Use the same vocabulary that is found at the end of this passage to say in Latin: Caesar shouted that the die had been cast"
         answer: "<latin>CAESAR CLĀMĀVIT ĀLEAM IACTAM ESSE</latin>"
@@ -172,10 +172,10 @@ questions:
       - question: "What Latin phrase is used in English to mean “in its natural or proper place”?"
         answer: "<latin>IN LOCŌ</latin> or <latin>IN SITŪ</latin>"
   - tossup:
-      question: "What two uses of the Accusative are found in the following sentence: <latin>mihi scrīpsit tē</latin> <latin>domum redīre?</latin>"
+      question: "What two uses of the Accusative are found in the following sentence: <latin>mihi scrīpsit tē domum redīre?</latin>"
       answer: "SUBJECT OF AN INDIRECT STATEMENT& PLACE TO WHICH"
     boni:
-      - question: "<latin>Mē</latin> <latin>sententiam rogāvit?</latin>"
+      - question: "<latin>Mē sententiam rogāvit?</latin>"
         answer: "DOUBLE ACCUSATIVE"
       - question: "<latin>Vītam vivere volēbat?</latin>"
         answer: "COGNATE"
@@ -189,7 +189,7 @@ questions:
         answer: "A LOCK OF MEDUSA’S HAIR"
   - tossup:
       question: "Based on its root, what must an “amanuensis” use for his job?"
-      answer: "HIS HAND (One who is employed to take dictation or to copy manuscript.) [Latin <latin>āmanuēnsis</latin>, from the phrase (<latin>servus</latin>) <latin>ā</latin> <latin>manū</latin>, (slave) at handwriting]"
+      answer: "HIS HAND (One who is employed to take dictation or to copy manuscript.) [Latin <latin>āmanuēnsis</latin>, from the phrase (<latin>servus</latin>) <latin>ā manū</latin>, (slave) at handwriting]"
     boni:
       - question: "Using the same root, give the English derivative which means a skillful move"
         answer: "MANEUVER"
@@ -202,7 +202,7 @@ questions:
       - question: "The <latin>praenōmen Vopiscus</latin> was used only by members of which <latin>gēns?</latin>"
         answer: "GĒNS IŪLIA / IŪLIĪ / JULIAN"
       - question: "What <latin>gēns</latin> refused to use the <latin>praenōmen Marcus</latin> near the end of the 1st century BC?"
-        answer: "<latin>GĒNS ANTŌNIA / ANTŌNIĪ</latin> <latin>/</latin> ANTONIAN"
+        answer: "<latin>GĒNS ANTŌNIA / ANTŌNIĪ /</latin> ANTONIAN"
   - tossup:
       question: "Who grew to manhood in the court of his grandfather Pittheus?"
       answer: "THESEUS"
@@ -236,12 +236,12 @@ questions:
       - question: "What noble presided over the court that found Bestia and Albinus guilty of being bribed by Jugurtha?"
         answer: "(M.) AEMILIUS SCAURUS"
   - tossup:
-      question: "Harry Potter mania, like Harry himself, refuses to die. Listen carefully to the following passage taken from <title><latin>Harrius Potter Et Camera Sēcrētōrum</latin></title> and answer IN LATIN the question that follows: <latin>“Aliquid in mūrō</latin> <latin>adversō</latin> <latin>fulgēbat. Appropinquāvērunt, lentē, oculīs līmīs per tenebrās spectantēs. Verba ūnum pedem alta in mūrō, quī</latin> <latin>erat inter duās fenestrās, picta erant litterīs rudibus sub līmine facum flammantium micantibus: CAMERA SĒCRĒTŌRUM APERTA EST</latin>"
+      question: "Harry Potter mania, like Harry himself, refuses to die. Listen carefully to the following passage taken from <title><latin>Harrius Potter Et Camera Sēcrētōrum</latin></title> and answer IN LATIN the question that follows: <latin>“Aliquid in mūrō adversō fulgēbat. Appropinquāvērunt, lentē, oculīs līmīs per tenebrās spectantēs. Verba ūnum pedem alta in mūrō, quī erat inter duās fenestrās, picta erant litterīs rudibus sub līmine facum flammantium micantibus: CAMERA SĒCRĒTŌRUM APERTA EST</latin>"
       answer: "HOSTĒS HERĒDIS, CAVĒTE!”  Question: <latin>Quam alta erant verba picta? ŪNUM PEDEM</latin>"
     boni:
       - question: "<latin>Quibus cavendum est?</latin>"
         answer: "HOSTIBUS (HERĒDIS)"
-      - question: "<latin>Quae rēs suprā</latin> <latin>haec verba in mūrō</latin> <latin>fixae sunt?</latin>"
+      - question: "<latin>Quae rēs suprā haec verba in mūrō fixae sunt?</latin>"
         answer: "FACĒS (FLAMMANTĒS)"
   - tossup:
       question: "Give all three participial forms of <latin>aggredior</latin>"
@@ -293,12 +293,12 @@ questions:
         answer: "PICTURE 4, PICTURE 3, PICTURE 1, PICTURE 2"
   - tossup:
       question: "Using a gerundive in the Genitive case, say in Latin: He came to salute the emperor"
-      answer: "<latin>VĒNIT IMPERĀTŌRIS SALŪTANDĪ</latin> <latin>CAUSĀ</latin> <latin>/ GRĀTIĀ</latin>"
+      answer: "<latin>VĒNIT IMPERĀTŌRIS SALŪTANDĪ CAUSĀ / GRĀTIĀ</latin>"
     boni:
       - question: "Say in Latin: We who are about to salute you are dying"
-        answer: "<latin>(NŌS) TĒ</latin> <latin>/ VOS SALŪTĀTŪRĪ</latin> <latin>MORIMUR</latin>"
+        answer: "<latin>(NŌS) TĒ / VOS SALŪTĀTŪRĪ MORIMUR</latin>"
       - question: "Using a standard idiom, say in Latin: They were coming to inform the emperor"
-        answer: "<latin>VĒNIĒBANT UT / QUĪ</latin> <latin>IMPERĀTŌREM CERTIŌREM FACERENT</latin>"
+        answer: "<latin>VĒNIĒBANT UT / QUĪ IMPERĀTŌREM CERTIŌREM FACERENT</latin>"
   - tossup:
       question: "Imagine that you are an ancient Roman examining reliefs depicting the imperial family in a sacrificial procession. What structure, built during the reign of Augustus on the Campus Martius, would you be admiring?"
       answer: "ARA PACIS / ALTAR OF PEACE"
@@ -316,10 +316,10 @@ questions:
       - question: "What “token” burial was performed for Polyneices?"
         answer: "(ANTIGONE) SPRINKLED HIS BODY WITH (THREE HANDFULS OF) EARTH/DIRT"
   - tossup:
-      question: "When you are recognized by the spotter, perform the following command: <latin>Imperā</latin> <latin>sociīs tuīs nē</latin> <latin>umquam dēspērent.</latin>"
+      question: "When you are recognized by the spotter, perform the following command: <latin>Imperā sociīs tuīs nē umquam dēspērent.</latin>"
       answer: "STUDENT SHOULD ORDER HIS/HER TEAMMATES NOT TO EVER DESPAIR"
     boni:
-      - question: "<latin>Salientēs, prōclāmāte mihi Anglicē</latin> <latin>cūr certāmen amētis.</latin>"
+      - question: "<latin>Salientēs, prōclāmāte mihi Anglicē cūr certāmen amētis.</latin>"
         answer: "WHILE JUMPING, STUDENTS SHOULD SHOUT OUT WHY THEY LIKE CERTAMEN"
       - question: "Using a passive periphrastic, tell the audience, “We have to go now.”"
         answer: "<latin>NŌBĪS (AB)EUNDUM / DISCĒDENDUM EST</latin>"

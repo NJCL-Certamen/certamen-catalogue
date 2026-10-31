@@ -29,15 +29,15 @@ questions:
         answer: "AEQUI / AEQUIANS"
   - tossup:
       question: "Change the phrase <latin>miser leō</latin> to the plural"
-      answer: "<latin>MISERĪ</latin> <latin>LEŌNĒS</latin>"
+      answer: "<latin>MISERĪ LEŌNĒS</latin>"
     boni:
-      - question: "Change <latin>miserī</latin> <latin>leōnēs</latin> to the dative"
+      - question: "Change <latin>miserī leōnēs</latin> to the dative"
         answer: "<latin>MISERĪS LEŌNIBUS</latin>"
       - question: "Change that <latin>miserīs leōnibus</latin> to the singular"
-        answer: "<latin>MISERŌ</latin> <latin>LEŌNĪ</latin>"
+        answer: "<latin>MISERŌ LEŌNĪ</latin>"
   - tossup:
       question: "For what occasion would a Roman father hang a <latin>bulla</latin> around his child’s neck?"
-      answer: "<latin>SUSCEPTIŌ</latin> <latin>/ DIĒS LŪSTRICUS / DIĒS NŌMINUM /</latin>"
+      answer: "<latin>SUSCEPTIŌ / DIĒS LŪSTRICUS / DIĒS NŌMINUM /</latin>"
     boni:
       - question: "  <latin>NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
         answer: "<latin>FASCINĀTIŌ</latin>"
@@ -52,12 +52,12 @@ questions:
       - question: "What deity killed Ajax Oileus?"
         answer: "ATHENA"
   - tossup:
-      question: "What use of the dative case is found in the following sentence: <latin>sunt dominō</latin> <latin>multī</latin> <latin>servī</latin> <latin>et ancillae</latin>?"
+      question: "What use of the dative case is found in the following sentence: <latin>sunt dominō multī servī et ancillae</latin>?"
       answer: "POSSESSION"
     boni:
       - question: "What use of the dative case is found in the following sentence: <latin>dominus multīs</latin>  <latin>servīs praeest</latin>?"
         answer: "WITH COMPOUND / SPECIAL VERB <latin>PRAESUM</latin>"
-      - question: "What two uses of the dative case are found in the following sentence: <latin>servus magnō</latin> <latin>auxiliō</latin> <latin>dominō</latin> <latin>fuit</latin>?"
+      - question: "What two uses of the dative case are found in the following sentence: <latin>servus magnō auxiliō dominō fuit</latin>?"
         answer: "REFERENCE & PURPOSE (prompt if “double dative” is given as an answer)"
   - tossup:
       question: "What case is governed by the preposition <latin>trāns</latin>?"
@@ -76,7 +76,7 @@ questions:
       - question: "Which athletic games did Apollo establish there after killing the Python?"
         answer: "PYTHIAN GAMES"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū</latin> <latin>regēbant. Ultimus rēx, quem Rōmānī</latin> <latin>appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī</latin> <latin>Superbum ex urbe expulērunt.</latin>  <latin>Quem Rōmānī</latin> <latin>ex urbe expulērunt?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū regēbant. Ultimus rēx, quem Rōmānī appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī Superbum ex urbe expulērunt.</latin>  <latin>Quem Rōmānī ex urbe expulērunt?</latin>"
       answer: "SUPERBUM / RĒGEM (ULTIMUM)"
     boni:
       - question: "Vērum aut falsum: Superbus ab omnibus amābātur"
@@ -114,7 +114,7 @@ questions:
       - question: "Translate into Latin: We will arrive in three days"
         answer: "<latin>TRIBUS DIĒBUS ADVENIĒMUS / PERVENIĒMUS</latin>"
       - question: " Translate into Latin: They arrived on the fourth day"
-        answer: "<latin>QUARTŌ</latin> <latin>DIĒ</latin> <latin>ADVĒNĒRUNT / PERVĒNĒRUNT</latin>"
+        answer: "<latin>QUARTŌ DIĒ ADVĒNĒRUNT / PERVĒNĒRUNT</latin>"
   - tossup:
       question: "A tombstone for a certain Scaterius Celer begins “<latin>Nihil sumus et fuimus</latin>”. Translate that into English"
       answer: "WE ARE NOTHING, AND WE HAVE BEEN / WERE (NOTHING) (Posted here as a reference. Do not read)"
@@ -160,6 +160,6 @@ questions:
       answer: "CONFER - COMPARE"
     boni:
       - question: "Give the Latin and the English for the abbreviation <latin>c.</latin> when it is used before dates"
-        answer: "<latin>CIRCĀ</latin> / <latin>CIRCITER</latin> / <latin>CIRCUM</latin> - ABOUT, APPROXIMATELY, AROUND"
+        answer: "<latin>CIRCĀ / CIRCITER / CIRCUM</latin> - ABOUT, APPROXIMATELY, AROUND"
       - question: "Give the Latin and the English for the abbreviation <latin>con</latin>"
         answer: "<latin>CONIUNX</latin>"

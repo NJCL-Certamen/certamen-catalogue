@@ -76,12 +76,12 @@ questions:
       - question: "With what Cretan king did Meriones sail to Troy?"
         answer: "IDOMENEUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dum familia dormit, quattuor mīlitēs per iānuam fractam intrāvērunt. Maximā vī gladiōs suōs dēstrinxērunt et omnia cubicula irrūpērunt. Tantus erat terror, tanta audācia. Tandem dominus percussus multīs vulneribus periit.</latin>  Question: <latin>Quōmodo</latin> <latin>mīlitēs</latin> <latin>gladiōs</latin> <latin>suōs</latin> <latin>dēstrinxērunt</latin>?"
-      answer: "(<latin>MAXIMĀ)</latin> <latin>VĪ / VIOLENTER</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dum familia dormit, quattuor mīlitēs per iānuam fractam intrāvērunt. Maximā vī gladiōs suōs dēstrinxērunt et omnia cubicula irrūpērunt. Tantus erat terror, tanta audācia. Tandem dominus percussus multīs vulneribus periit.</latin>  Question: <latin>Quōmodo mīlitēs gladiōs suōs dēstrinxērunt</latin>?"
+      answer: "(<latin>MAXIMĀ) VĪ / VIOLENTER</latin>"
     boni:
-      - question: "<latin>Quālis</latin> <latin>erat familia antequam mīlitēs iānuam frēgērunt</latin>?"
+      - question: "<latin>Quālis erat familia antequam mīlitēs iānuam frēgērunt</latin>?"
         answer: "DORMIĒBAT/RECUMBĒBAT/CUBĀBAT/ SOMNIĀBAT"
-      - question: "<latin>Quem</latin> <latin>mīlitēs</latin> <latin>necāvērunt</latin>?"
+      - question: "<latin>Quem mīlitēs necāvērunt</latin>?"
         answer: "<latin>DOMINUM/PATREM</latin>"
   - tossup:
       question: "Which of the following words, if any, is NOT derived from the Latin noun “<latin>caput</latin>”: chassis, biceps, capital, achievement?"
@@ -92,7 +92,7 @@ questions:
       - question: "What Latin noun with what meaning is the root of the word “carnage”?"
         answer: "<latin>CARŌ</latin> – FLESH; MEAT"
   - tossup:
-      question: "With what are all of the following terms associated: <latin>olla, tumulus,</latin> <latin>rogus, imāginēs, cenotaphium,</latin> and <latin>columbārium</latin>?"
+      question: "With what are all of the following terms associated: <latin>olla, tumulus, rogus, imāginēs, cenotaphium,</latin> and <latin>columbārium</latin>?"
       answer: "DEATH / BURIAL / FUNERALS"
     boni:
       - question: "What was a <latin>rogus</latin>?"
@@ -100,7 +100,7 @@ questions:
       - question: "Which of the words from the tossup is an urn?"
         answer: "<latin>OLLA</latin>"
   - tossup:
-      question: "Make the Latin phrase “<latin>ācris</latin> <latin>aciēs</latin>” ablative singular"
+      question: "Make the Latin phrase “<latin>ācris aciēs</latin>” ablative singular"
       answer: "<latin>ĀCRĪ ACIĒ</latin>"
     boni:
       - question: "Keeping the same vocabulary as in the toss-up, give the Latin nominative for the phrase “two fierce battle-lines.”"
@@ -162,4 +162,4 @@ questions:
       - question: "What political benefit did the <title><latin>Lēx Licinia Sextia</latin></title>, enacted in 367 B.C., confer upon the plebeian order?"
         answer: "<emphasis>REQUIRED</emphasis> THAT <emphasis>ONE CONSUL</emphasis> BE A <emphasis>PLEBEIAN</emphasis>"
       - question: "What law of 287 B.C. abolished the Senate’s right of veto on <latin>plēbiscīta</latin>"
-        answer: "<latin>LĒX HORTĒNSIA</latin> <latin>/</latin> HORTENSIAN LAW <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"
+        answer: "<latin>LĒX HORTĒNSIA /</latin> HORTENSIAN LAW <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

@@ -64,7 +64,7 @@ questions:
       answer: "PUNCTUATION ("
     boni:
       - question: "From what two Latin verbs are punctuation marks #3 and #5 respectively derived? VISUAL_RESPONSE:"
-        answer: "3: <latin>CLĀMŌ / CLĀMĀRE</latin> // <latin>PUNGŌ / PUNGERE</latin>  AND  5: <latin>QUAERŌ</latin> / <latin>QUAERERE</latin>"
+        answer: "3: <latin>CLĀMŌ / CLĀMĀRE</latin> // <latin>PUNGŌ / PUNGERE</latin>  AND  5: <latin>QUAERŌ / QUAERERE</latin>"
       - question: "Give the number of the punctuation mark whose name is derived from the Latin verb “to lack or be missing”?"
         answer: "2 (THE CARET)"
   - tossup:
@@ -98,7 +98,7 @@ questions:
       - question: "Translate this sentence into English: <latin>Fēmina audāx ferōcem impetum fēcit ut vītam virī servāret</latin>."
         answer: "THE BOLD WOMAN MADE A FIERCE ATTACK TO SAVE HER HUSBAND’S LIFE"
       - question: "Using <latin>perītus,</latin> translate this sentence into Latin:  The poet was said to be very skilled in writing."
-        answer: "<latin>POĒTA / VĀTES DĪCĒBĀTUR / FERĒBĀTUR PERĪTISSIMUS SCRĪBENDĪ /</latin> <latin>SCRĪBENDŌ ESSE</latin>"
+        answer: "<latin>POĒTA / VĀTES DĪCĒBĀTUR / FERĒBĀTUR PERĪTISSIMUS SCRĪBENDĪ / SCRĪBENDŌ ESSE</latin>"
   - tossup:
       question: "Whose death at Formiae removed an outspoken opponent of Marc Antony in 43 BC?"
       answer: "(M. TULLIUS) CICERO"

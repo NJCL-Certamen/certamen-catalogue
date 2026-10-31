@@ -42,7 +42,7 @@ questions:
       - question: "Let us remember our fathers."
         answer: "<latin>MEMINERĪMUS PATRUM NOSTRŌRUM / PATRĒS NOSTRŌS</latin> "
       - question: "Let them obey the republic."
-        answer: "<latin>PAREANT / OBOEDIANT REĪ</latin> <latin>PŪBLICAE</latin>"
+        answer: "<latin>PAREANT / OBOEDIANT REĪ PŪBLICAE</latin>"
   - tossup:
       question: "What Greek warrior is wounded by Euphorbus and killed by Hector?"
       answer: "PATROCLUS"
@@ -60,12 +60,12 @@ questions:
       - question: "Give all the principal parts for the verb from which “rational” is derived."
         answer: "<latin>REOR, RĒRĪ, RATUS /-A /-UM (SUM)</latin> "
   - tossup:
-      question: "Translate the following sentence into English: <latin>Gaudeō</latin> <latin>quod venīre constituist</latin><latin>ī.</latin>"
+      question: "Translate the following sentence into English: <latin>Gaudeō quod venīre constituist</latin><latin>ī.</latin>"
       answer: "I AM HAPPY THAT YOU DECIDED TO COME / I AM REJOICING BECAUSE YOU DECIDED TO COME"
     boni:
       - question: "<latin>Kalendīs Ianuāriīs obviam tibi ībimus</latin>."
         answer: "WE WILL (GO TO) MEET YOU ON THE KALENDS OF JANUARY / JANUARY 1st"
-      - question: "<latin>Nōs Karthāginī</latin> <latin>erāmus tum cum tū</latin> <latin>Rōmae erās</latin>."
+      - question: "<latin>Nōs Karthāginī erāmus tum cum tū Rōmae erās</latin>."
         answer: "WE WERE AT CARTHAGE (AT THE TIME) WHEN YOU WERE AT ROME"
   - tossup:
       question: "What treaty established a military alliance between the Romans and Latins in 493 BC?"
@@ -80,8 +80,8 @@ questions:
       answer: "<latin>TENUS</latin> "
     boni:
       - question: "Using a preposition, say in Latin, “On this side of the mountains.”"
-        answer: "<latin>CIS / CITRĀ</latin> <latin>MŌNTĒS</latin> "
-      - question: "Translate into English, “<latin>Brundisiō</latin> <latin>tenus.</latin>”"
+        answer: "<latin>CIS / CITRĀ MŌNTĒS</latin> "
+      - question: "Translate into English, “<latin>Brundisiō tenus.</latin>”"
         answer: "UP TO / AS FAR AS BRUNDISIUM"
   - tossup:
       question: "Wait until you are instructed to open your visuals. (PASS OUT THE VISUALS) Open your visuals. (WAIT A MOMENT FOR THE STUDENTS TO OPEN THEM) Examine this picture, in which people, animals, and objects are labeled. Give the letter that corresponds to the person, animal, or object speaking the following Latin sentence: <latin>Hominēs nōbīs ūtuntur ad aquam continendam</latin>."
@@ -100,7 +100,7 @@ questions:
       - question: "Amphiaraüs knew that all of the leaders of the expedition would be killed except for whom?"
         answer: "ADRASTUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Olim fuit actor pessimus quī</latin> <latin>deōs falsae scientiae colēbat. “Sī</latin> <latin>tū</latin> <latin>es aeger mente,” inquit, “cōnsule nūllum medicum, sed meōs deōs quī</latin> <latin>remedia omnibus prōvident. Nam omnia medicamenta sunt vēnēna.” Omnēs</latin>  <latin>crēdēbant eum īnsānum esse quod loquēbātur dē</latin> <latin>suā</latin> <latin>religiōne dum in lectīs saltat. Tandem - mīrābile dictū</latin> <latin>- actor asinus factus est.</latin>  Question: What did the horrible actor tell others to do if they have mental problems?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Olim fuit actor pessimus quī deōs falsae scientiae colēbat. “Sī tū es aeger mente,” inquit, “cōnsule nūllum medicum, sed meōs deōs quī remedia omnibus prōvident. Nam omnia medicamenta sunt vēnēna.” Omnēs</latin>  <latin>crēdēbant eum īnsānum esse quod loquēbātur dē suā religiōne dum in lectīs saltat. Tandem - mīrābile dictū - actor asinus factus est.</latin>  Question: What did the horrible actor tell others to do if they have mental problems?"
       answer: "NOT TO CONSULT / SEE A DOCTOR / TO CONSULT HIS GODS (WHO PROVIDE CURES FOR EVERYTHING / EVERYONE)"
     boni:
       - question: "Why did everyone think the actor was crazy?"
@@ -116,12 +116,12 @@ questions:
       - question: "According to Ovid, into what did Cybele transform the couple as a punishment for their sacrilege?"
         answer: "LIONS"
   - tossup:
-      question: "<latin>Respondē</latin> <latin>Latīnē: Quibus partibus corporis tuī</latin> <latin>ambulās</latin>?"
+      question: "<latin>Respondē Latīnē: Quibus partibus corporis tuī ambulās</latin>?"
       answer: "<latin>PEDIBUS / CRŪRIBUS / FEMURIBUS</latin> "
     boni:
-      - question: "<latin>Quā</latin> <latin>parte corporis tuī</latin> <latin>cōgitās?</latin>"
-        answer: "<latin>CAPITE / CEREBELLŌ</latin> <latin>/ CEREBRŌ</latin> (Do not take “<latin>mente</latin>” or “<latin>animō</latin>”)"
-      - question: "<latin>Quam partem corporis tuī</latin> <latin>pectis?</latin> "
+      - question: "<latin>Quā parte corporis tuī cōgitās?</latin>"
+        answer: "<latin>CAPITE / CEREBELLŌ / CEREBRŌ</latin> (Do not take “<latin>mente</latin>” or “<latin>animō</latin>”)"
+      - question: "<latin>Quam partem corporis tuī pectis?</latin> "
         answer: "<latin>CAPILLUM / CAPILLŌS / COMAM / CRĪNEM / CAESARIEM</latin> "
   - tossup:
       question: "Complete the following analogy: <latin>Mediolānum</latin> : <latin>Milan</latin> :: <latin>Massilia</latin> : _____?"

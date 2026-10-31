@@ -45,12 +45,12 @@ questions:
         answer: "EFFIGY / FIGURE"
   - tossup:
       question: "Translate “immortal god” into Latin for the following sentence: “O immortal god, would that I had defeated the enemy!”"
-      answer: "<latin>DEUS IMMORTĀLIS</latin> / <latin>DEE IMMORTĀLIS</latin> / THERE IS NO ANSWER"
+      answer: "<latin>DEUS IMMORTĀLIS / DEE IMMORTĀLIS</latin> / THERE IS NO ANSWER"
     boni:
       - question: "What use of the independent subjunctive would have been used to translate the sentence in the toss-up?"
         answer: "OPTATIVE"
       - question: "Again, for that sentence, translate “I had defeated.”"
-        answer: "<latin>SUPERĀVISSEM</latin> / <latin>VĪCISSEM</latin>"
+        answer: "<latin>SUPERĀVISSEM / VĪCISSEM</latin>"
   - tossup:
       question: "Name the governor of Gallia Lugdunensis who rebelled against Nero in March, A"
       answer: "D."
@@ -72,9 +72,9 @@ questions:
       answer: "CAUSAL"
     boni:
       - question: "Translate the cum clause into Latin for the following sentence: “When I go to Rome next summer, I will visit the Colosseum.”"
-        answer: "<latin>CUM RŌMAM PROXIMĀ</latin> <latin>AESTĀTE EŌ</latin> / <latin>ĪBŌ</latin> / <latin>Ī(V)ERŌ</latin>"
+        answer: "<latin>CUM RŌMAM PROXIMĀ AESTĀTE EŌ / ĪBŌ / Ī(V)ERŌ</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Iuvenis pauperem anum sedentem in rīpā</latin> <latin>vīdit. Ea statim magnā</latin> <latin>vōce iuvenem sē</latin> <latin>transportāre iussit. Iuvenis, quī</latin> <latin>anum esse pulchram deam suspicābātur, eam sustulit. Ad rīpam contrāriam īvit et onus dēposuit. At, mīrābile dictū, nōn pulchra dea, sed eadem anus adhūc erat.</latin>  Whom did the young man see sitting on the shore?"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Iuvenis pauperem anum sedentem in rīpā vīdit. Ea statim magnā vōce iuvenem sē transportāre iussit. Iuvenis, quī anum esse pulchram deam suspicābātur, eam sustulit. Ad rīpam contrāriam īvit et onus dēposuit. At, mīrābile dictū, nōn pulchra dea, sed eadem anus adhūc erat.</latin>  Whom did the young man see sitting on the shore?"
       answer: "(A POOR) OLD WOMAN"
     boni:
       - question: "What did the youth suspect the old woman to be?"
@@ -90,18 +90,18 @@ questions:
       - question: "With what woman was Aegeus living when Theseus first came to Athens?"
         answer: "MEDEA"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Hostēs audīvērunt magnum numerum Rōmānōrum appropinquāre</latin>  THE ENEMY HEARD THAT A GREAT NUMBER OF ROMANS WERE APPROACHING . . . <latin>Rōmānī</latin> <latin>scīvērunt sē</latin> <latin>superātūrōs esse</latin>"
+      question: "Translate the following sentence into English: <latin>Hostēs audīvērunt magnum numerum Rōmānōrum appropinquāre</latin>  THE ENEMY HEARD THAT A GREAT NUMBER OF ROMANS WERE APPROACHING . . . <latin>Rōmānī scīvērunt sē superātūrōs esse</latin>"
       answer: "THE ROMANS KNEW THAT THEY WOULD WIN"
     boni:
       - question: "<latin>nūntiātum est equitēs appropinquāvisse</latin>"
         answer: "IT WAS REPORTED/ANNOUNCED THAT THE HORSEMEN HAD APPROACHED"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Susurrā</latin> <latin>Latīnē</latin> <latin>verba tria.</latin> "
+      question: "When you are recognized by the spotter, follow this direction: <latin>Susurrā Latīnē verba tria.</latin> "
       answer: "STUDENT SHOULD WHISPER THREE WORDS IN LATIN / OR SAY “VERBA TRIA”"
     boni:
-      - question: "<latin>Clāmāte Anglicē</latin> <latin>nōmen cīvitātis vestrae</latin>"
+      - question: "<latin>Clāmāte Anglicē nōmen cīvitātis vestrae</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD SHOUT OUT THE NAMES OF THEIR STATE"
-      - question: "<latin>Sībilā</latin> <latin>carmen breve</latin>"
+      - question: "<latin>Sībilā carmen breve</latin>"
         answer: "ONE STUDENT SHOULD WHISTLE / HISS A SHORT SONG"
   - tossup:
       question: "What Trojan warrior led his men in an advance that nearly succeeded in burning the Greek ships?"
@@ -126,7 +126,7 @@ questions:
       - question: "Identify either of the small shrines in front of the Basilica Aemilia"
         answer: "TEMPLE/SHRINE OF JANUS (GEMINUS or QUIRINUS) / <latin>SACELLUM</latin>"
       - question: "<emphasis>or</emphasis> SHRINE OF (VENUS) CLOACINA / <latin>SACRUM</latin> (<latin>CLOACINAE</latin>) Identify the temple, whose porch was often used as a second rostrum, where the viewer of this picture is standing"
-        answer: "TEMPLE OF (DIVINE) JULIUS CAESAR / <latin>TEMPLUM DĪVĪ</latin> <latin>AUGUSTĪ</latin>"
+        answer: "TEMPLE OF (DIVINE) JULIUS CAESAR / <latin>TEMPLUM DĪVĪ AUGUSTĪ</latin>"
   - tossup:
       question: "In an effort to regain the city from Eteocles, how many men led the attack against Thebes?"
       answer: "SEVEN"
@@ -153,9 +153,9 @@ questions:
         answer: "(M. TULLIUS) CICERO"
   - tossup:
       question: "Translate the following sentence into Latin: “I told Marcus what I was doing.”"
-      answer: "<latin>MARCŌ</latin> <latin>DĪXĪ</latin> <latin>QUID FACEREM</latin>"
+      answer: "<latin>MARCŌ DĪXĪ QUID FACEREM</latin>"
     boni:
       - question: " . . . “Everyone knows how brave Caesar is.”"
         answer: "<latin>OMNĒS SCIUNT QUAM FORTIS CAESAR SIT</latin>"
       - question: " . . . “Who is there who loves Carthage?”"
-        answer: "<latin>QUIS EST QUĪ</latin> <latin>CARTHĀGINEM AMET</latin> / <latin>DĪLIGAT</latin>"
+        answer: "<latin>QUIS EST QUĪ CARTHĀGINEM AMET / DĪLIGAT</latin>"

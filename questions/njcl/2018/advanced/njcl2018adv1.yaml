@@ -69,12 +69,12 @@ questions:
         answer: "<latin>TRIBUŌ, TRIBUERE, TRIBUĪ, TRIBŪTUS / -UM</latin> - ASSIGN, GRANT, GIVE"
   - tossup:
       question: "Translate the following sentence into Latin:  If the army should be conquered, the enemy would rejoice."
-      answer: "<latin>SĪ EXERCITUS SUPERĒTUR / VINCĀTUR, HOSTĒS</latin> <latin>GAUDEANT / LAETENTUR // HOSTIS GAUDEAT / LAETĒTUR</latin>"
+      answer: "<latin>SĪ EXERCITUS SUPERĒTUR / VINCĀTUR, HOSTĒS GAUDEANT / LAETENTUR // HOSTIS GAUDEAT / LAETĒTUR</latin>"
     boni:
       - question: "Translate this sentence into Latin:  If the soldiers were not fighting bravely, the king would send more legions."
-        answer: "<latin>SĪ NŌN / NISI / NĪ MĪLITĒS FORTITER / AUDĀCTER PUGNĀRENT,</latin> <latin>RĒX PLŪS LEGIŌNUM MITTERET</latin>"
+        answer: "<latin>SĪ NŌN / NISI / NĪ MĪLITĒS FORTITER / AUDĀCTER PUGNĀRENT, RĒX PLŪS LEGIŌNUM MITTERET</latin>"
       - question: "Translate this sentence into Latin using <latin>caedō</latin>:  If the legions had not been sent by the king, all the soldiers would have been killed."
-        answer: "<latin>SĪ NŌN / NISI / NĪ LEGIŌNĒS Ā/AB RĒGE MISSAE</latin> <latin>ESSENT, OMNĒS MĪLITĒS CAESĪ ESSENT</latin>"
+        answer: "<latin>SĪ NŌN / NISI / NĪ LEGIŌNĒS Ā/AB RĒGE MISSAE ESSENT, OMNĒS MĪLITĒS CAESĪ ESSENT</latin>"
   - tossup:
       question: "What Roman author wrote “<latin>difficile est saturam nōn scrībere”</latin> in the first of his 16 satires?"
       answer: "(D. IUNIUS) JUVENAL(IS)"

@@ -15,7 +15,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Rēx ipse fortitūdinem mīlitum laudāvit</latin>."
       answer: "THE KING HIMSELF PRAISED THE BRAVERY OF THE SOLDIERS"
     boni:
-      - question: "<latin>Heri virgō</latin> <latin>et iuvenis trāns flūmen natāvērunt</latin> "
+      - question: "<latin>Heri virgō et iuvenis trāns flūmen natāvērunt</latin> "
         answer: "YESTERDAY A MAIDEN AND A YOUTH SWAM ACROSS THE RIVER"
       - question: "<latin>Quis hōs fortēs virōs et fēminās nōn laudābunt</latin>?"
         answer: "WHO WILL NOT PRAISE THESE BRAVE MEN AND WOMEN"
@@ -50,14 +50,14 @@ questions:
       - question: "Say in Latin, “The senator had believed the farmers.”"
         answer: "<latin>SENĀTOR AGRICOLĪS CRĒDIDERAT</latin> "
       - question: "Say in Latin, “The slaves were serving Lucius very well.”"
-        answer: "<latin>SERVĪ</latin> <latin>LŪCIŌ</latin> <latin>OPTIMĒ</latin> <latin>SERVIĒBANT</latin>"
+        answer: "<latin>SERVĪ LŪCIŌ OPTIMĒ SERVIĒBANT</latin>"
   - tossup:
-      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? In amōrem cum Caesare cecidī. Marcus Antonius mē</latin> <latin>amāvit. Manū</latin> <latin>meā</latin> <latin>serpens mē</latin> <latin>necāvit. Rēgīna Aegyptī</latin> <latin>fuī.</latin> "
+      question: "<latin>Audī dīligenter et respondē aut Anglicē aut Latīnē: Quis sum? In amōrem cum Caesare cecidī. Marcus Antonius mē amāvit. Manū meā serpens mē necāvit. Rēgīna Aegyptī fuī.</latin> "
       answer: "<latin>CLEOPĀTRA</latin> / CLEOPATRA"
     boni:
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Hostis Rōmānōrum fuī. Manius Curius meum exercitum vīcit et triumphāvit. Mulier tēgulam in caput meum dēiēcit. Rēx Epīrī</latin> <latin>et Siciliae fuī.</latin> "
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis sum? Hostis Rōmānōrum fuī. Manius Curius meum exercitum vīcit et triumphāvit. Mulier tēgulam in caput meum dēiēcit. Rēx Epīrī et Siciliae fuī.</latin> "
         answer: "<latin>PYRRHUS</latin> / PYRRHUS"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Bis dictātor fuī. Ubi Hannibal erat in Italiā, nolēbam cum Hannibale pugnāre. Rōmānī</latin> <latin>mē</latin> <latin>rīsērunt. Ego autem salvātor Rōmae fuī.</latin> "
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis sum? Bis dictātor fuī. Ubi Hannibal erat in Italiā, nolēbam cum Hannibale pugnāre. Rōmānī mē rīsērunt. Ego autem salvātor Rōmae fuī.</latin> "
         answer: "<latin>QUĪNTUS</latin> <emphasis><latin>FABIUS MAXIMUS</latin></emphasis> <latin>CUNCTĀTOR</latin>   / QUINTUS <emphasis>FABIUS MAXIMUS</emphasis> CUNCTATOR / THE DELAYER"
   - tossup:
       question: "Give the genitive singular of the phrase, “<latin>magna laus</latin>.”"
@@ -68,15 +68,15 @@ questions:
       - question: "Give the genitive singular of the phrase, “<latin>mōs antīquus</latin>.”"
         answer: "<latin>MŌRIS ANTĪQUĪ</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat “aquila”?</latin>"
+      question: "<latin>Quid Anglicē significat “aquila”?</latin>"
       answer: "EAGLE, STANDARD"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “aqua” in architectūrā</latin>?"
+      - question: "<latin>Quid Anglicē significat “aqua” in architectūrā</latin>?"
         answer: "AQUEDUCT"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “arca”?</latin>"
+      - question: "<latin>Quid Anglicē significat “arca”?</latin>"
         answer: "CHEST, BOX"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Templum Saturnī</latin> <latin>in Forō</latin> <latin>Rōmānō</latin> <latin>aedificābātur</latin>."
+      question: "Translate the following sentence into English: <latin>Templum Saturnī in Forō Rōmānō aedificābātur</latin>."
       answer: "THE TEMPLE OF SATURN WAS BEING BUILT / WAS BUILT IN THE ROMAN FORUM"
     boni:
       - question: "(PASS OUT THE VISUAL) The visual contains the inscription on the ruins of the Temple of Saturn in Rome. According to this inscription, why was the temple rebuilt?"
@@ -96,9 +96,9 @@ questions:
       answer: "<latin>MARCUM CELERITER / CUM CELERITĀTE</latin>   <latin>CURRENTEM VĪDIMUS / VIDĒBĀMUS</latin> "
     boni:
       - question: "Marcus moved his feet with great swiftness."
-        answer: "<latin>MARCUS PEDĒS (SUŌS) MAGNĀ</latin> <latin>(CUM) CELERITĀTE MŌVIT / MOVĒBAT</latin> "
+        answer: "<latin>MARCUS PEDĒS (SUŌS) MAGNĀ (CUM) CELERITĀTE MŌVIT / MOVĒBAT</latin> "
       - question: "Tomorrow morning Marcus will be running in the Circus Maximus."
-        answer: "<latin>CRĀS MĀNE MARCUS IN CIRCŌ</latin> <latin>MAXIMŌ</latin> <latin>CURRET</latin> "
+        answer: "<latin>CRĀS MĀNE MARCUS IN CIRCŌ MAXIMŌ CURRET</latin> "
   - tossup:
       question: "Which of the gods seldom visited Olympus because his realm was the underworld?"
       answer: "HADES / AIDES / PLUTON / PLUTO / DIS/ DIS PATER / ORCUS"
@@ -140,7 +140,7 @@ questions:
       - question: "What Latin phrase is medical terminology for “after birth”?"
         answer: "<latin>POST PARTUM</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Dux Rōmānus, quī</latin> <latin>hostem vīcit, urbem intrat cum exercitū</latin> <latin>suō</latin> <latin>per portam triumphālem. Dux, nunc triumphātor, stat in currū</latin> <latin>aureō, quem quattuor equī</latin> <latin>trahunt; super caput ēius aurea corōna est, quam tenet servus pūblicus, quī</latin> <latin>post ducem in currū</latin> <latin>ascendit.</latin>  Question: <latin>Quōcum intrat dux per portam triumphālem</latin>?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Dux Rōmānus, quī hostem vīcit, urbem intrat cum exercitū suō per portam triumphālem. Dux, nunc triumphātor, stat in currū aureō, quem quattuor equī trahunt; super caput ēius aurea corōna est, quam tenet servus pūblicus, quī post ducem in currū ascendit.</latin>  Question: <latin>Quōcum intrat dux per portam triumphālem</latin>?"
       answer: "<latin>CUM EXERCITŪ</latin> (<latin>SUŌ</latin>)"
     boni:
       - question: "<latin>Quid tenet servus pūblicus</latin>?"

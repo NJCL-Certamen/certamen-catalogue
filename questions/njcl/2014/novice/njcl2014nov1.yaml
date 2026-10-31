@@ -9,7 +9,7 @@ questions:
     boni:
       - question: "What modern city did the Romans call <latin>Mediōlānum</latin>?"
         answer: "MILAN"
-      - question: "What modern city did the Romans call <latin>Colōnia</latin> <latin>Agrippīnēnsis</latin>?"
+      - question: "What modern city did the Romans call <latin>Colōnia Agrippīnēnsis</latin>?"
         answer: "COLOGNE"
   - tossup:
       question: "Please supply the correct form of the Latin word for “pretty girl” to complete the following sentence: “The poor sailor loved the pretty girl.”"
@@ -68,7 +68,7 @@ questions:
       - question: "What is the Latin motto of the state of Maine, which means “I point the way”?"
         answer: "<latin>DĪRIGŌ</latin>"
   - tossup:
-      question: "What use of the ablative case is found in the following sentence: <latin>Caesar</latin> <latin>in forō nōn manēbit</latin>."
+      question: "What use of the ablative case is found in the following sentence: <latin>Caesar in forō nōn manēbit</latin>."
       answer: "PLACE WHERE"
     boni:
       - question: "What use of the ablative case is found in the following sentence: <latin>Quis ā Caesāre necātus est?</latin>"

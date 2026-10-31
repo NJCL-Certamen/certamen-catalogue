@@ -20,10 +20,10 @@ questions:
       - question: "What two Latin words contract to form <latin>nēmō</latin>?"
         answer: "<latin>NĒ</latin> + <latin>HOMŌ</latin> (technically the older form “<latin>hemō</latin>”)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Sī</latin> <latin>mihi pārēbis, salvus eris</latin>."
+      question: "Translate the following sentence into English: <latin>Sī mihi pārēbis, salvus eris</latin>."
       answer: "IF YOU (WILL) OBEY ME, YOU WILL BE SAFE"
     boni:
-      - question: "<latin>Spērō</latin> <latin>fore ut dēleātur Carthāgō</latin>."
+      - question: "<latin>Spērō fore ut dēleātur Carthāgō</latin>."
         answer: "I HOPE THAT CARTHAGE WILL BE DESTROYED"
       - question: "<latin>Exeat captīvus in carcerem nēve plūra dīcat</latin>."
         answer: "LET THE PRISONER GO (AWAY IN)TO JAIL AND (LET HIM) NOT SPEAK MORE (WORDS)"
@@ -39,9 +39,9 @@ questions:
       question: "What use of the ablative case is found in the following sentence? <latin>Haec terra omnibus dīvitiīs abundat</latin>."
       answer: "RESPECT / SPECIFICATION"
     boni:
-      - question: "<latin>Nātū</latin> <latin>minor est quam frāter</latin>."
+      - question: "<latin>Nātū minor est quam frāter</latin>."
         answer: "RESPECT / SPECIFICATION"
-      - question: "<latin>Catō</latin> <latin>nōbilī</latin> <latin>genere ortus exemplō</latin> <latin>reliquīs cīvibus esse cōnātus est</latin>."
+      - question: "<latin>Catō nōbilī genere ortus exemplō reliquīs cīvibus esse cōnātus est</latin>."
         answer: "SOURCE / ORIGIN"
   - tossup:
       question: "What first century B.C. historian claimed in his first work that he had abandoned politics in disgust at the wholesale corruption?"
@@ -60,7 +60,7 @@ questions:
       - question: "What was unique/different about the sole of a <latin>caliga</latin> worn by soldiers and peasants?"
         answer: "<latin>HOB-NAILED / HAD BUMPS OR SMALL SPIKES FOR TRACTION OR WEAR</latin> "
   - tossup:
-      question: "Listen to the following passage of later Latin in which Christopher Columbus discusses discoveries in the New World, and answer IN ENGLISH the question that follows: “<latin>Et sīc retrōcēdēns ad portum quendam sum reversus. Unde duōs hominēs ex nostrīs in terram mīsī, quī</latin> <latin>investīgārent essetne rēx in eā</latin> <latin>prōvinciā</latin> <latin>urbēsve aliquae. Hī</latin> <latin>per trēs diēs ambulārunt invēnēruntque innumerōs populōs et habitātiōnēs, parvās tamen et absque ūllō</latin> <latin>regimine. Quāpropter rediērunt</latin>.” Question: What two things was Columbus trying to find out when he sent two men from his ship?"
+      question: "Listen to the following passage of later Latin in which Christopher Columbus discusses discoveries in the New World, and answer IN ENGLISH the question that follows: “<latin>Et sīc retrōcēdēns ad portum quendam sum reversus. Unde duōs hominēs ex nostrīs in terram mīsī, quī investīgārent essetne rēx in eā prōvinciā urbēsve aliquae. Hī per trēs diēs ambulārunt invēnēruntque innumerōs populōs et habitātiōnēs, parvās tamen et absque ūllō regimine. Quāpropter rediērunt</latin>.” Question: What two things was Columbus trying to find out when he sent two men from his ship?"
       answer: "IF THERE WAS A KING OR IF THERE WERE ANY CITIES"
     boni:
       - question: "What did the scouts find?"
@@ -89,7 +89,7 @@ questions:
     boni:
       - question: "Whose interests did the so-called Valerio-Horatian laws support?"
         answer: "PLEBEIANS"
-      - question: "What protection was legally guaranteed to the <latin>tribūnī</latin> <latin>plēbis</latin>?"
+      - question: "What protection was legally guaranteed to the <latin>tribūnī plēbis</latin>?"
         answer: "<latin>SACROSĀNCTITĀS</latin> / SACROSANCTITY / HE BODY WAS INVIOLATE (PUNISHABLE BY DEATH)"
   - tossup:
       question: "What is the Latin title of the longest of Plautus’ comedies, which was about Pyrgopolynices, a boastful soldier?"
@@ -104,9 +104,9 @@ questions:
       answer: "<latin>NŌBĪS ATHĒNAE VINCENDAE / SUPERANDAE SUNT</latin> "
     boni:
       - question: "Using a participle, say in Latin, “The Romans had to destroy Carthage.”"
-        answer: "<latin>RŌMĀNĪS CARTHĀGŌ</latin> <latin>DĒLENDA / VASTANDA / DĒSTRUENDA ERAT</latin> "
+        answer: "<latin>RŌMĀNĪS CARTHĀGŌ DĒLENDA / VASTANDA / DĒSTRUENDA ERAT</latin> "
       - question: "Using a participle, say in Latin, “The Romans were desirous of destroying Carthage.”"
-        answer: "<latin>RŌMĀNĪ</latin> <latin>ERANT CUPIDĪ</latin> <latin>/ AVIDĪ</latin> <latin>CARTHĀGINIS DĒLENDAE /</latin>   <latin>VASTANDAE / DĒSTRUENDAE</latin> "
+        answer: "<latin>RŌMĀNĪ ERANT CUPIDĪ / AVIDĪ CARTHĀGINIS DĒLENDAE /</latin>   <latin>VASTANDAE / DĒSTRUENDAE</latin> "
   - tossup:
       question: "Differentiate in meaning between <latin>iugum</latin> and <latin>iugulum</latin>."
       answer: "<latin>IUGUM</latin> - YOKE, TEAM, PAIR OF HORSES <latin>IUGULUM</latin> - COLLAR BONE, THROAT, NECK, RIDGE"
@@ -160,6 +160,6 @@ questions:
       answer: "AMMIANUS MARCELLINUS"
     boni:
       - question: "What is the Latin title of this history?"
-        answer: "<title><latin>RĒRUM GESTĀRUM LIBRĪ</latin></title> (<latin>XXXI</latin>) / <title><latin>RĒS GESTAE</latin></title> (Ā <latin>FĪNE CORNĒLĪ</latin> <latin>TACITĪ</latin>)"
+        answer: "<title><latin>RĒRUM GESTĀRUM LIBRĪ</latin></title> (<latin>XXXI</latin>) / <title><latin>RĒS GESTAE</latin></title> (Ā <latin>FĪNE CORNĒLĪ TACITĪ</latin>)"
       - question: "What emperor’s rule dominates the surviving 18 books of Ammianus’ history?"
         answer: "JULIAN’S"

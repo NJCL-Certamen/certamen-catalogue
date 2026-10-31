@@ -4,10 +4,10 @@ division: "Advanced"
 round: "Finals"
 questions:
   - tossup:
-      question: "Translate the following sentence into English: <latin>Sī</latin> <latin>vir dīves essem, cibum pecūniamque vōbīs darem</latin>"
+      question: "Translate the following sentence into English: <latin>Sī vir dīves essem, cibum pecūniamque vōbīs darem</latin>"
       answer: "IF I WERE A RICH MAN, I WOULD GIVE YOU FOOD AND MONEY"
     boni:
-      - question: "Translate the following sentence into English: <latin>Sī</latin> <latin>quis vestrum pecūniam fūrētur, in carcere pōnāris.</latin>"
+      - question: "Translate the following sentence into English: <latin>Sī quis vestrum pecūniam fūrētur, in carcere pōnāris.</latin>"
         answer: "IF ANY OF YOU SHOULD STEAL MONEY, YOU WOULD BE PLACED IN JAIL"
       - question: "Translate the following sentence into English: <latin>Nisi mihi nōmen tuum dīcis, tibi nōn permittētur ut dēlubrum intrēs</latin>"
         answer: "UNLESS YOU TELL ME YOUR NAME, YOU WILL NOT BE ALLOWED TO ENTER THE TEMPLE"
@@ -15,7 +15,7 @@ questions:
       question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... flammās cum rēgia puppis extulerat.”</latin>"
       answer: "SYNECDOCHE (“When the royal ship had bore up the signal flames”)"
     boni:
-      - question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... bis collō</latin> <latin>squāmea circum</latin>  <latin>terga datī</latin> <latin>superant capite et cervīcibus altīs.”</latin>"
+      - question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... bis collō squāmea circum</latin>  <latin>terga datī superant capite et cervīcibus altīs.”</latin>"
         answer: "TMESIS (“twice winding their scaly backs around his throat, they tower above with head and lofty necks”)"
       - question: "What literary device, other than alliteration, is illustrated in the following line: <latin>“manūs ac supplicēs vōcēs ad Tiberium tendēns.</latin>”"
         answer: "ZEUGMA (“Stretching out their hands and suppliant voices to Tiberius”)"
@@ -34,7 +34,7 @@ questions:
       - question: "Complete the following analogy: <latin>Nūper</latin> : <latin>nūperrimē</latin> :: <latin>saepe</latin> : ________"
         answer: "<latin>SAEPISSIMĒ</latin>"
       - question: "<latin>saepe</latin> : <latin>saepius</latin> :: <latin>ēgregiē</latin> : ________"
-        answer: "<latin>MAGIS ĒGREGIĒ</latin> / <latin>ĒGREGIUS</latin>"
+        answer: "<latin>MAGIS ĒGREGIĒ / ĒGREGIUS</latin>"
   - tossup:
       question: "What contemporary of the satirist Lucilius was the most prolific Latin writer of tragedies?"
       answer: "(LUCIUS) ACCIUS"
@@ -74,12 +74,12 @@ questions:
       - question: "What harbor god aided Cloanthus in his victory?"
         answer: "PORTUNUS"
   - tossup:
-      question: "Listen to the following adaptation of a speech given by Scipio Africanus when he was defending himself against a charge of bribery. I will read the excerpt twice; answer the question that follows in Latin. <latin>“Mementōte, Quirītēs,” inquit “Repetō</latin> <latin>diem esse hodiernum quō</latin> <latin>Hannibalem imperiō</latin> <latin>Rōmānō</latin> <latin>inimīcissimum magnō</latin> <latin>proeliō</latin> <latin>vīcī</latin> <latin>in terrā</latin> <latin>Africā</latin> <latin>pācemque et victōriam mīrābilem vōbīs peperī. Nōn igitur sīmus adversum deōs ingrāt</latin><latin>ī.”</latin>  The question: <latin>Cuius imperiō</latin> <latin>erat Hannibalis inimīcissimus?</latin>"
-      answer: "<latin>RŌMĀNŌRUM / QUIRĪTUM / POPULĪ</latin> <latin>RŌMĀNĪ</latin>"
+      question: "Listen to the following adaptation of a speech given by Scipio Africanus when he was defending himself against a charge of bribery. I will read the excerpt twice; answer the question that follows in Latin. <latin>“Mementōte, Quirītēs,” inquit “Repetō diem esse hodiernum quō Hannibalem imperiō Rōmānō inimīcissimum magnō proeliō vīcī in terrā Africā pācemque et victōriam mīrābilem vōbīs peperī. Nōn igitur sīmus adversum deōs ingrāt</latin><latin>ī.”</latin>  The question: <latin>Cuius imperiō erat Hannibalis inimīcissimus?</latin>"
+      answer: "<latin>RŌMĀNŌRUM / QUIRĪTUM / POPULĪ RŌMĀNĪ</latin>"
     boni:
-      - question: "<latin>Quid anteā</latin> <latin>acciderat illō</latin> <latin>ipsō</latin> <latin>diē</latin> <latin>quō</latin> <latin>Scīpiō</latin> <latin>in senātū</latin> <latin>dīcēbat?</latin>"
+      - question: "<latin>Quid anteā acciderat illō ipsō diē quō Scīpiō in senātū dīcēbat?</latin>"
         answer: "<latin>HANNIBALEM VĪCERAT / VĪCIT</latin>"
-      - question: "<latin>Sententiā</latin> <latin>Scīpiōnis, quibus dēbent esse Rōmānī</latin> <latin>grātī?</latin>"
+      - question: "<latin>Sententiā Scīpiōnis, quibus dēbent esse Rōmānī grātī?</latin>"
         answer: "<latin>DEĪS / ADVERSUM DEŌS</latin>"
   - tossup:
       question: "In which of his works did Cicero depict a woman as a promiscuous harlot and accuse her of having an incestuous relationship with her brother Clodius?"
@@ -112,7 +112,7 @@ questions:
       - question: "If that sentence had been translated as “<latin>dux imperāvit ut mīlitēs prōcēdant</latin>”, why would the primary sequence of tense be acceptable in this case?"
         answer: "SEQUENCE OF TENSE IN LATIN ALLOWS THE PRIMARY SEQUENCE WHEN THE PRESENT TENSE IS CLEARLY IN THE WRITER’S MIND / WHEN THE GOVERNING VERB IS IN THE PRESENT-PERFECT (ENGLISH PERFECT WITH “HAVE”), PRIMARY SEQUENCE SEEMS TO BE ALMOST AS COMMON AS SECONDARY SEQUENCE (see Allen & Greenough, section 485a)"
       - question: "Using the information just provided, translate into Latin: I have discovered what you are doing"
-        answer: "<latin>INVĒNĪ</latin> <latin>/ REPPERĪ</latin> <latin>QUID FACIĀS / FACIĀTIS</latin>"
+        answer: "<latin>INVĒNĪ / REPPERĪ QUID FACIĀS / FACIĀTIS</latin>"
   - tossup:
       question: "What king of Ethiopia came to the aid of the Trojans during the Trojan War?"
       answer: "MEMNON"
@@ -123,7 +123,7 @@ questions:
         answer: "ACHILLES"
   - tossup:
       question: "Using the information provided in lines two and three, name one of the offices this Scipio held during his life."
-      answer: "<latin>TRIBŪNUS MĪLITUM</latin> / <latin>MĪLITĀRIS</latin> / MILITARY TRIBUNE / TRIBUNE OF THE SOLDIERS OR <latin>QUAESTOR</latin> / TREASURER"
+      answer: "<latin>TRIBŪNUS MĪLITUM / MĪLITĀRIS</latin> / MILITARY TRIBUNE / TRIBUNE OF THE SOLDIERS OR <latin>QUAESTOR</latin> / TREASURER"
     boni:
       - question: "Using the last three lines, identify an archaic form and give its corresponding classical equivalent."
         answer: "<latin>MORTVOS</latin> = <latin>MORTUUS</latin>"
@@ -154,10 +154,10 @@ questions:
       - question: "Which of the daughters of Oceanus & Tethys was the third wife of Zeus?"
         answer: "EURYNOME"
   - tossup:
-      question: "(As applause dies down from the score announcement, several items are placed on a small table to the side of the stage. These items include a replica of a legionary helmet, a terra cotta oil lamp, and possibly another one or two things.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. When recognized by the spotter, follow these Latin instructions: <latin>Gerēns galeam, prōgredere quasī</latin> <latin>tū</latin> <latin>mīles sīs.</latin>"
+      question: "(As applause dies down from the score announcement, several items are placed on a small table to the side of the stage. These items include a replica of a legionary helmet, a terra cotta oil lamp, and possibly another one or two things.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. When recognized by the spotter, follow these Latin instructions: <latin>Gerēns galeam, prōgredere quasī tū mīles sīs.</latin>"
       answer: "WHILE WEARING THE HELMET, A PLAYER MARCHES LIKE A SOLDIER"
     boni:
-      - question: "<latin>Gerēns galeam, lucernā</latin> <latin>ūtere quasī</latin> <latin>tū</latin> <latin>in tenebrīs errēs.</latin>"
+      - question: "<latin>Gerēns galeam, lucernā ūtere quasī tū in tenebrīs errēs.</latin>"
         answer: "WEARING THE HELMET, A PLAYER USES THE LAMP AS IF SEARCHING IN THE DARKNESS"
-      - question: "<latin>Gerēns galeam, Anglicē</latin> <latin>imperā</latin> <latin>ūnī</latin> <latin>sociō</latin> <latin>ut appropinquet et galeam</latin>  <latin>tuam capiat.</latin>"
+      - question: "<latin>Gerēns galeam, Anglicē imperā ūnī sociō ut appropinquet et galeam</latin>  <latin>tuam capiat.</latin>"
         answer: "WEARING THE HELMET, A PLAYER IN ENGLISH LOUDLY ORDERS APPROACH AND TAKE HIS HELMET"

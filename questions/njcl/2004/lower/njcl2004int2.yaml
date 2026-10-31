@@ -15,7 +15,7 @@ questions:
       question: "Translate this motto from the state of Alabama: <latin>Audēmus iūra nostra dēfendere</latin>"
       answer: "WE DARE TO DEFEND OUR RIGHTS / LAWS."
     boni:
-      - question: "Translate this motto from the state of Missouri: <latin>Salūs populī</latin> <latin>suprēma lex estō</latin>"
+      - question: "Translate this motto from the state of Missouri: <latin>Salūs populī suprēma lex estō</latin>"
         answer: "LET THE WELFARE/SAFETY OF THE PEOPLE BE THE SUPREME LAW. THE WELFARE/SAFETY OF THE PEOPLE SHALL BE THE SUPREME LAW."
       - question: "Translate this motto from the state of South Carolina: <latin>animīs opibusque parātī</latin>"
         answer: "PREPARED IN SPIRITS/MINDS AND RESOURCES"
@@ -76,7 +76,7 @@ questions:
       - question: "Who finally crushed the Vandals in A.D. 533?"
         answer: "BELISARIUS"
   - tossup:
-      question: "Listen carefully to the following passage about Hannibal, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Hannibal Rōmānōs adeō</latin> <latin>ōderat ut exercitum magnum trāns Alpēs montēs dūceret. Proelium cum cōnsulibus Rōmānīs commīsit. Rōmānī, quī</latin> <latin>impetum equitum hostium ferre nōn poterant, facile superātī</latin> <latin>sunt. Ūnus cōnsul vulnerātus et paene circumventus est. Sed ūnus eques Rōmānus perīculum vīderat auxiliumque eī</latin> <latin>tulit</latin>. Why did Hannibal lead an army across the Alps?"
+      question: "Listen carefully to the following passage about Hannibal, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Hannibal Rōmānōs adeō ōderat ut exercitum magnum trāns Alpēs montēs dūceret. Proelium cum cōnsulibus Rōmānīs commīsit. Rōmānī, quī impetum equitum hostium ferre nōn poterant, facile superātī sunt. Ūnus cōnsul vulnerātus et paene circumventus est. Sed ūnus eques Rōmānus perīculum vīderat auxiliumque eī tulit</latin>. Why did Hannibal lead an army across the Alps?"
       answer: "HE HATED THE ROMANS"
     boni:
       - question: "Why were the Romans easily defeated in this battle?"
@@ -108,20 +108,20 @@ questions:
       - question: "Change <latin>mūnītus esse</latin> to the future active"
         answer: "<latin>MŪNĪTŪRUS ESSE</latin>"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Pūnī</latin> <latin>eum sī</latin> <latin>discere nōnvult</latin>"
+      question: "Translate the following sentence into English: <latin>Pūnī eum sī discere nōnvult</latin>"
       answer: "PUNISH HIM IF HE DOES NOT WANT TO LEARN"
     boni:
-      - question: "Translate the following sentence into English: <latin>frātre occīsō</latin> <latin>in silvam cucurrit</latin>"
+      - question: "Translate the following sentence into English: <latin>frātre occīsō in silvam cucurrit</latin>"
         answer: "WITH (HIS) BROTHER KILLED, HE RAN INTO THE FOREST"
       - question: "Translate the following sentence into English: <latin>nūntius haec locūtus abiit</latin>"
         answer: "THE MESSENGER, HAVING SAID THESE THINGS, LEFT"
   - tossup:
-      question: "What use of the ablative case is found in the following sentence: <latin>Rōmulus sē</latin> <latin>Iove maiōrem esse dīcēbat</latin>"
+      question: "What use of the ablative case is found in the following sentence: <latin>Rōmulus sē Iove maiōrem esse dīcēbat</latin>"
       answer: "COMPARISON"
     boni:
-      - question: "<latin>Dīcēbat hunc sonum multō</latin> <latin>clāriōrem esse quam tonitrum</latin>"
+      - question: "<latin>Dīcēbat hunc sonum multō clāriōrem esse quam tonitrum</latin>"
         answer: "DEGREE OF DIFFERENCE"
-      - question: "<latin>Amulius, minor nātū, frātrī</latin> <latin>optiōnem dedit</latin>"
+      - question: "<latin>Amulius, minor nātū, frātrī optiōnem dedit</latin>"
         answer: "RESPECT / SPECIFICATION"
   - tossup:
       question: "Who brought the news to Odysseus that some of his men had been turned into swine by Circe?"
@@ -148,12 +148,12 @@ questions:
       - question: "What <latin>agnomen</latin> was given to Scipio as a result of this?"
         answer: "NUMANTIUS"
   - tossup:
-      question: "Of the words <latin>pontifex maximus, rēx, cōnsul, gubernātor</latin> and <latin>cōnsulāris</latin>, which is described by the following: <latin>Is quī</latin> <latin>regit rem publicam</latin>"
+      question: "Of the words <latin>pontifex maximus, rēx, cōnsul, gubernātor</latin> and <latin>cōnsulāris</latin>, which is described by the following: <latin>Is quī regit rem publicam</latin>"
       answer: "CŌNSUL"
     boni:
       - question: "Is quī <latin>nōn iam est consul, sed quondam fuit</latin>"
         answer: "CŌNSULĀRIS"
-      - question: "Is cuius nōmen omnēs bonī <latin>cīvēs Rōmānī</latin> <latin>ōdērunt</latin>"
+      - question: "Is cuius nōmen omnēs bonī <latin>cīvēs Rōmānī ōdērunt</latin>"
         answer: "RĒX"
   - tossup:
       question: "Who married Harmonia, the daughter of Ares and Aphrodite?"

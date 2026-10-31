@@ -18,7 +18,7 @@ questions:
       - question: "Using one of the remaining clauses and an impersonal verb, say in Latin, “The priest didn’t know why it was hailing.”"
         answer: "<latin>PONTIFEX NESCIĒBAT / NESCĪ(V)IT CŪR GRANDINĀRET</latin>"
       - question: "Using one of the remaining clauses and a neutral-passive verb, say in Latin, “The horse was worthy of being made consul.”"
-        answer: "<latin>EQUUS / CABALLUS DIGNUS ERAT QUĪ</latin> <latin>CŌNSUL FIERET</latin>"
+        answer: "<latin>EQUUS / CABALLUS DIGNUS ERAT QUĪ CŌNSUL FIERET</latin>"
   - tossup:
       question: "Who induced Livilla to poison her husband Drusus the Younger?"
       answer: "(LUCIUS AELIUS) SEJANUS"
@@ -31,20 +31,20 @@ questions:
       question: "Which of the following IS a multiplicative numeral? <latin>Centuplex, octōnī, sexāgēnsimus, septendecim, dīmidia</latin>"
       answer: "CENTUPLEX"
     boni:
-      - question: "<latin>Quot sunt sescentī</latin> <latin>et ducentī?</latin>"
+      - question: "<latin>Quot sunt sescentī et ducentī?</latin>"
         answer: "OCTINGENTĪ"
-      - question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>Anglicē: Titus Pullō</latin> <latin>et Lūcius Vorēnus sunt</latin>  <latin>gallīnāriī</latin> <latin>maximā</latin> <latin>industriā. Nam quinque hortōs prope Rōmam tenent. Quisque hortus trīgintā</latin> <latin>gallīnās habet quae trīna ōva cōtīdiē</latin> <latin>pariunt. Pullōnī</latin> <latin>Vorēnōque, quot ōva quōque diē</latin> <latin>sunt?</latin>"
+      - question: "<latin>Audī dīligenter et respondē Anglicē: Titus Pullō et Lūcius Vorēnus sunt</latin>  <latin>gallīnāriī maximā industriā. Nam quinque hortōs prope Rōmam tenent. Quisque hortus trīgintā gallīnās habet quae trīna ōva cōtīdiē pariunt. Pullōnī Vorēnōque, quot ōva quōque diē sunt?</latin>"
         answer: "FOUR HUNDRED AND FIFTY"
   - tossup:
       question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>Modo memineram illīus commeātūs Italiam ad cum Aemiliā</latin>"
       answer: "ANASTROPHE"
     boni:
-      - question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>Tum Caesar linguā</latin> <latin>farrem lambit, et attonitī</latin> <latin>spectātōrēs clāmābant</latin>"
+      - question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>Tum Caesar linguā farrem lambit, et attonitī spectātōrēs clāmābant</latin>"
         answer: "PLEONASM"
-      - question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>sīc togā</latin> <latin>amictus, tunicam induit</latin>"
+      - question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>sīc togā amictus, tunicam induit</latin>"
         answer: "HYSTERON PROTERON"
   - tossup:
-      question: "Listen carefully to the following advice from Ovid, which I will read twice as prose, and answer IN ENGLISH the question that follows: <latin>discite, quae faciem commendet cūra, puellae:</latin>  <latin>et quō</latin> <latin>sit vōbīs fōrma tuenda modō.</latin>  <latin>nec tamen indignum: sit vōbīs cūra placendī,</latin>  <latin>cum comptōs habeant saecula nostra virōs</latin>. Question: What is the subject matter of this didactic poem?"
+      question: "Listen carefully to the following advice from Ovid, which I will read twice as prose, and answer IN ENGLISH the question that follows: <latin>discite, quae faciem commendet cūra, puellae:</latin>  <latin>et quō sit vōbīs fōrma tuenda modō.</latin>  <latin>nec tamen indignum: sit vōbīs cūra placendī,</latin>  <latin>cum comptōs habeant saecula nostra virōs</latin>. Question: What is the subject matter of this didactic poem?"
       answer: "THE CARE <emphasis>GIRLS</emphasis> OUGHT TO HAVE FOR THEIR <emphasis>LOOKS</emphasis> (BOTH FACE AND FORM), AND IN WHAT WAY THEY OUT TO GO ABOUT IT"
     boni:
       - question: "Why should girls see to it that they are pleasing?"
@@ -117,14 +117,14 @@ questions:
         answer: "<title><latin>EPODĒS</latin></title> / <title><latin>IAMB</latin></title>Ī"
   - tossup:
       question: "Change the phrase <latin>magna sitis</latin> to the Ablative singular"
-      answer: "<latin>MAGNĀ</latin> <latin>SITĪ</latin>"
+      answer: "<latin>MAGNĀ SITĪ</latin>"
     boni:
       - question: "The noun <latin>nūbēs</latin> is a mixed i-stem and has a Genitive plural of nūbium. Change the phrase <latin>magna nūbēs</latin> to the Ablative singular"
-        answer: "<latin>MAGNĀ</latin> <latin>NŪBE</latin>"
+        answer: "<latin>MAGNĀ NŪBE</latin>"
       - question: "Give two possible forms for the Accusative plural of <latin>nox</latin>"
         answer: "<latin>NOCTĒS, NOCTĪS</latin> (<latin>NOCTEIS</latin>)"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat ēclipeus’</latin>?"
+      question: "<latin>Quid Anglicē significat ēclipeus’</latin>?"
       answer: "(ROUND/BRONZE/ORNAMENTAL) SHEILD / DISC OF THE SUN"
     boni:
       - question: "You now have 15 seconds to examine the visual  The item you see in the visual is a large, honorary <latin>clipeus</latin> which is now housed in a museum in Arles, France. Upon whom, according to the inscription, was this honorary <latin>clipeus</latin> bestowed?"
@@ -148,12 +148,12 @@ questions:
       - question: "Who was the man forced to weave a rope together only to have it eaten by a donkey because his wife spent more than he could afford?"
         answer: "OCNUS"
   - tossup:
-      question: "Translate the following sentence of Latin taken from the legal profession: <latin>nēmō</latin> <latin>bis pūnītur prō</latin> <latin>eōdem dēlictō</latin>"
+      question: "Translate the following sentence of Latin taken from the legal profession: <latin>nēmō bis pūnītur prō eōdem dēlictō</latin>"
       answer: "NO ONE IS PUNISHED TWICE FOR THE SAME CRIME"
     boni:
       - question: "<latin>Optima lēgum interpres est cōnsuētūdō</latin>"
         answer: "CUSTOM IS THE BEST INTERPRETER OF THE LAW(S)"
-      - question: "<latin>Lēx ūnō</latin> <latin>ōre omnēs alloquitur</latin>"
+      - question: "<latin>Lēx ūnō ōre omnēs alloquitur</latin>"
         answer: "THE LAW SPEAKS TO EVERYONE WITH ONE MOUTH / UNANIMOUSLY"
   - tossup:
       question: "Which Roman king founded a colony at Ostia at the mouth of the Tiber?"

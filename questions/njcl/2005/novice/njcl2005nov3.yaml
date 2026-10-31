@@ -4,19 +4,19 @@ division: "Novice"
 round: "Round 3"
 questions:
   - tossup:
-      question: "You are a doctor in ancient Rome, and since you speak Latin, you know that the word for “fever” is <latin>febris</latin>. What are you asking a patient when you say, “<latin>Quamdiū</latin> <latin>habēs febrem</latin>?”"
+      question: "You are a doctor in ancient Rome, and since you speak Latin, you know that the word for “fever” is <latin>febris</latin>. What are you asking a patient when you say, “<latin>Quamdiū habēs febrem</latin>?”"
       answer: "<emphasis>HOW LONG</emphasis> HE HAS HAD THE FEVER / <emphasis>HOW LONG</emphasis> HAVE YOU HAD THE FEVER?"
     boni:
-      - question: "You then tell the patient, “<latin>Necesse est tibi manēre in lectō</latin> <latin>trēs diēs</latin>.” What is your diagnosis?"
+      - question: "You then tell the patient, “<latin>Necesse est tibi manēre in lectō trēs diēs</latin>.” What is your diagnosis?"
         answer: "HE NEEDS TO STAY IN BED FOR THREE DAYS"
-      - question: "Finally, you say, <latin>“Quārtō</latin> <latin>diē, sacrificā</latin> <latin>caprum in templō</latin> <latin>Apollinis</latin>.” What are your instructions?"
+      - question: "Finally, you say, <latin>“Quārtō diē, sacrificā caprum in templō Apollinis</latin>.” What are your instructions?"
         answer: "ON THE FOURTH DAY, THEY ARE TO SACRIFICE A GOAT IN THE TEMPLE OF APOLLO"
   - tossup:
       question: "Say in Latin, “They have sailed.”"
       answer: "<latin>NĀVIGĀVĒRUNT</latin> "
     boni:
       - question: "Say in Latin, “They have wanted.”"
-        answer: "<latin>VOLUĒRUNT</latin> / <latin>CUPĪVĒRUNT</latin> / <latin>DĒSĪDERĀVĒRUNT / OPTĀVĒRUNT</latin> "
+        answer: "<latin>VOLUĒRUNT / CUPĪVĒRUNT / DĒSĪDERĀVĒRUNT / OPTĀVĒRUNT</latin> "
       - question: "Say in Latin, “We do not want to fly.”"
         answer: "<latin>VŌLĀRE NŌLUMUS / VŌLĀRE NŌN DĒSĪDERĀMUS / CUPIMUS</latin> "
   - tossup:
@@ -36,7 +36,7 @@ questions:
       - question: "Who cast the tie-breaking vote for Orestes’ acquittal?"
         answer: "ATHENA"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Miser poēta versūs suōs imperātōrī</latin> <latin>dedit. Posterō</latin> <latin>diē</latin> <latin>poēta eī</latin> <latin>dīxit, “Quī</latin> <latin>versūs tibi placēbant,” Cui respondit imperātor, “Illī</latin> <latin>versūs quōs mihi nōn dedistī.” Hīs verbīs attonitus, poēta mīles fiēbat.</latin>  Question: What did the poet ask the emperor about his poems?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Miser poēta versūs suōs imperātōrī dedit. Posterō diē poēta eī dīxit, “Quī versūs tibi placēbant,” Cui respondit imperātor, “Illī versūs quōs mihi nōn dedistī.” Hīs verbīs attonitus, poēta mīles fiēbat.</latin>  Question: What did the poet ask the emperor about his poems?"
       answer: "WHICH VERSES / POEMS THE EMPEROR LIKED / WHICH VERSES / POEMS WERE PLEASING TO THE EMPEROR"
     boni:
       - question: "How many poems did the emperor like?"
@@ -117,12 +117,12 @@ questions:
         answer: "<latin>LOCUS</latin> - PLACE <latin>LACUS</latin> - LAKE"
   - tossup:
       question: "Translate the following sentence into Latin: To love is to live."
-      answer: "<latin>AMĀRE EST VĪVERE</latin> / <latin>HABITĀRE</latin> "
+      answer: "<latin>AMĀRE EST VĪVERE / HABITĀRE</latin> "
     boni:
       - question: "It is better to rule for a long time."
-        answer: "<latin>MELIUS EST DIŪ</latin> <latin>RĒGNĀRE / REGERE</latin> "
+        answer: "<latin>MELIUS EST DIŪ RĒGNĀRE / REGERE</latin> "
       - question: "It is necessary for us to answer carefully."
-        answer: "<latin>NECESSE EST NŌBĪS DĪLIGENTER / CUM CŪRĀ</latin> <latin>RESPONDĒRE / NŌS OPORTET DĪLIGENTER / CUM CŪRĀ</latin> <latin>RESPONDĒRE /</latin>  <latin>DĒBĒMUS DĪLIGENTER / CUM CŪRĀ</latin> <latin>RESPONDĒRE</latin> "
+        answer: "<latin>NECESSE EST NŌBĪS DĪLIGENTER / CUM CŪRĀ RESPONDĒRE / NŌS OPORTET DĪLIGENTER / CUM CŪRĀ RESPONDĒRE /</latin>  <latin>DĒBĒMUS DĪLIGENTER / CUM CŪRĀ RESPONDĒRE</latin> "
   - tossup:
       question: "Of what was the <latin>praefectus vigilum</latin> in charge?"
       answer: "FIREMEN / POLICE (Prompt for an explanation if “<latin>vigilēs</latin>” is given as the answer.)"
@@ -156,10 +156,10 @@ questions:
       - question: "“I give thanks to the animals which inhabit the earth.”"
         answer: "<latin>QUAE</latin> "
   - tossup:
-      question: "What use of the ablative case is found in the following sentence? <latin>Cicerō</latin> <latin>cum cūrā</latin> <latin>litterās discēbat</latin>."
+      question: "What use of the ablative case is found in the following sentence? <latin>Cicerō cum cūrā litterās discēbat</latin>."
       answer: "MANNER"
     boni:
-      - question: "<latin>Proximā</latin> <latin>aestāte domum ībō</latin>."
+      - question: "<latin>Proximā aestāte domum ībō</latin>."
         answer: "TIME WHEN / WITHIN WHICH"
-      - question: "<latin>Caesar ā</latin> <latin>multīs hominibus interfectus est</latin>."
+      - question: "<latin>Caesar ā multīs hominibus interfectus est</latin>."
         answer: "AGENCY / AGENT"

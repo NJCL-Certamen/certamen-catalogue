@@ -92,12 +92,12 @@ questions:
       - question: "Who was this unfortunate maiden?"
         answer: "IPHIGENEIA"
   - tossup:
-      question: "Give the accusative singular of the phrase <latin>hostis</latin> <latin>clārus</latin>"
+      question: "Give the accusative singular of the phrase <latin>hostis clārus</latin>"
       answer: "<latin>HOSTEM CLĀRUM</latin>"
     boni:
-      - question: "Change <latin>hostem</latin> <latin>clārum</latin> to the dative plural"
+      - question: "Change <latin>hostem clārum</latin> to the dative plural"
         answer: "<latin>HOSTIBUS CLĀRĪS</latin>"
-      - question: "Change <latin>hostibus</latin> <latin>clārīs</latin> to the ablative singular"
+      - question: "Change <latin>hostibus clārīs</latin> to the ablative singular"
         answer: "<latin>HOSTE CLĀRŌ</latin> "
   - tossup:
       question: "What did Heracles study under Linus?"
@@ -162,4 +162,4 @@ questions:
       - question: "Sometimes we get rather bored with people who just can’t stop talking, and might describe their monologues with a Latin phrase meaning “to the point of disgust.” What is that phrase?"
         answer: "<latin>AD NAUSEAM</latin>"
       - question: "Indeed, we might, while listening politely, make a breach of etiquette and say something unkind aloud in a “slip of the tongue.” What Latin phrase would describe this?"
-        answer: "<latin>LAPSUS LINGUAE</latin> <latin>2011 NJCL CERTAMEN NOVICE DIVISION</latin>"
+        answer: "<latin>LAPSUS LINGUAE 2011 NJCL CERTAMEN NOVICE DIVISION</latin>"

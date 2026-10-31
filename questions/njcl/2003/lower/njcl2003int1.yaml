@@ -20,7 +20,7 @@ questions:
       - question: "... means “not having a brand name?”"
         answer: "GENERIC"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Dum Marcus manūs lavat, māter cibum in mēnsā</latin> <latin>posuit</latin>"
+      question: "Translate the following sentence into English: <latin>Dum Marcus manūs lavat, māter cibum in mēnsā posuit</latin>"
       answer: "WHILE MARCUS WASHED / WAS WASHING HIS HANDS, (HIS) MOTHER PUT FOOD ON THE TABLE. (Do <emphasis>not</emphasis> accept a present tense translation - “washes” - for the verb <latin>lavat</latin>)"
     boni:
       - question: "<latin>Edere poteris postquam manūs lāveris</latin>"
@@ -76,15 +76,15 @@ questions:
       - question: "Name the serpent which aided them"
         answer: "LADON"
   - tossup:
-      question: "What use of the ablative case is found in the following Latin sentence? <latin>Domō</latin> <latin>ēgredior</latin>"
+      question: "What use of the ablative case is found in the following Latin sentence? <latin>Domō ēgredior</latin>"
       answer: "PLACE FROM WHICH"
     boni:
-      - question: "<latin>Frāter meus multō</latin> <latin>maior est quam ego</latin>"
+      - question: "<latin>Frāter meus multō maior est quam ego</latin>"
         answer: "DEGREE OF DIFFERENCE"
       - question: "Using the ablative, say in Latin \"He was a boy of very little wisdom.\""
         answer: "<latin>ERAT / FUIT PUER MINIMĀ SAPIENTIĀ / PRŪDENTIĀ</latin> or <latin>MINIMŌ CONSILIŌ</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tōtā</latin> <latin>Galliā</latin> <latin>superātā, senātōrēs iussērunt Caesarem ē</latin> <latin>prōvinciā</latin> <latin>discēdere; nam eīs iam diū</latin> <latin>cum Caesare dissensiō</latin> <latin>erat. Nōn placēbat Caesarī</latin> <latin>tantam potestātem dēpōnere quod nōn ignōrābat vitia senātūs.</latin>  <latin>Quandō</latin> <latin>senātus Caesarem ē</latin> <latin>Galliā</latin> <latin>discēdere iussit?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tōtā Galliā superātā, senātōrēs iussērunt Caesarem ē prōvinciā discēdere; nam eīs iam diū cum Caesare dissensiō erat. Nōn placēbat Caesarī tantam potestātem dēpōnere quod nōn ignōrābat vitia senātūs.</latin>  <latin>Quandō senātus Caesarem ē Galliā discēdere iussit?</latin>"
       answer: "<latin>TŌTĀ GALLIĀ SUPERĀTĀ</latin> or <latin>POST BELLUM GALLICUM / IN GALLIĀ</latin>"
     boni:
       - question: "<latin>Cūr senātus hoc iussit?</latin>"
@@ -128,8 +128,8 @@ questions:
       answer: "<latin>GLADIŌRUM ĀCRIUM</latin>"
     boni:
       - question: "Change <latin>gladiōrum ācrium</latin> to ablative singular"
-        answer: "<latin>GLADIŌ</latin> <latin>ĀCRĪ</latin>"
-      - question: "Change <latin>gladiō</latin> <latin>ācrī</latin> to accusative singular"
+        answer: "<latin>GLADIŌ ĀCRĪ</latin>"
+      - question: "Change <latin>gladiō ācrī</latin> to accusative singular"
         answer: "<latin>GLADIUM ĀCREM</latin>"
   - tossup:
       question: "Who established the Praetorian Guard?"
@@ -144,7 +144,7 @@ questions:
       answer: "<latin>ERRĀRE HŪMĀNUM EST</latin>"
     boni:
       - question: "What Latin expression is commonly used in English to mean \"according to law\"?"
-        answer: "<latin>DĒ</latin> <latin>IŪRE</latin>"
+        answer: "<latin>DĒ IŪRE</latin>"
       - question: "What Latin expression is commonly used in English to mean \"the characters in a play\"?"
         answer: "<latin>DRAMATIS PERSŌNAE</latin>"
   - tossup:

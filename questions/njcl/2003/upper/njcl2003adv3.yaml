@@ -5,20 +5,20 @@ round: "Round 3"
 questions:
   - tossup:
       question: "Say in Latin: \"I am afraid that I may not live.\""
-      answer: "<latin>TIMEŌ</latin> <latin>/ METUŌ</latin> <latin>/ VEREOR UT VĪVAM</latin>"
+      answer: "<latin>TIMEŌ / METUŌ / VEREOR UT VĪVAM</latin>"
     boni:
       - question: "Change that entire sentence to the past tense"
-        answer: "<latin>TIMĒBAM / METUĒBAM / VERĒBAR / TIMUĪ</latin> <latin>/ METUĪ</latin> <latin>/ VERITUS SUM UT VĪVEREM.</latin>"
+        answer: "<latin>TIMĒBAM / METUĒBAM / VERĒBAR / TIMUĪ / METUĪ / VERITUS SUM UT VĪVEREM.</latin>"
       - question: "Using the verb <latin>imperō</latin>, say in Latin: \"I command death to laugh.\""
-        answer: "<latin>MORTĪ</latin> <latin>IMPERŌ</latin> <latin>UT RĪDEAT / IMPERŌ</latin> <latin>UT MORS RĪDEAT</latin>"
+        answer: "<latin>MORTĪ IMPERŌ UT RĪDEAT / IMPERŌ UT MORS RĪDEAT</latin>"
   - tossup:
-      question: "What date is denoted by the phrase, <latin>prīdiē</latin> <latin>Īdūs Octōbrēs</latin>?"
+      question: "What date is denoted by the phrase, <latin>prīdiē Īdūs Octōbrēs</latin>?"
       answer: "OCTOBER"
     boni:
       - question: "14 What date is denoted by the phrase, <latin>ante diem tertium Nōnās Iūliās</latin>?"
         answer: "JULY"
       - question: "5 What is today’s date in Latin?"
-        answer: "<latin>PRĪDIĒ</latin> <latin>KALENDĀS AUGUSTĀS</latin>"
+        answer: "<latin>PRĪDIĒ KALENDĀS AUGUSTĀS</latin>"
   - tossup:
       question: "Who was freed from the Chair of Forgetfulness by Heracles?"
       answer: "THESEUS"
@@ -36,20 +36,20 @@ questions:
       - question: "What was the subject of Lucan’s <title><latin>Pharsalia</latin></title>?"
         answer: "CIVIL WAR BETWEEN CAESAR & POMPEY"
   - tossup:
-      question: "Listen carefully to the following passage about a plague which I will read twice, and answer IN LATIN the question that follows: <latin>Magna pestilentia in urbe orta erat et multī</latin> <latin>cīvēs, et dīvitēs et pauperēs, mortuī</latin> <latin>sunt. Multitūdō</latin> <latin>eōrum quī</latin> <latin>adhūc vīvēbant constituērunt ut nāvem solverent ut novās domūs peterent. Nāve solūtā, nesciēbant quās ad terrās nāvigārent, sed ad sōlis occāsum profectī</latin> <latin>sunt.</latin>  <latin>Quā</latin> <latin>rē</latin> <latin>multī</latin> <latin>cīvēs necābantur?</latin>"
+      question: "Listen carefully to the following passage about a plague which I will read twice, and answer IN LATIN the question that follows: <latin>Magna pestilentia in urbe orta erat et multī cīvēs, et dīvitēs et pauperēs, mortuī sunt. Multitūdō eōrum quī adhūc vīvēbant constituērunt ut nāvem solverent ut novās domūs peterent. Nāve solūtā, nesciēbant quās ad terrās nāvigārent, sed ad sōlis occāsum profectī sunt.</latin>  <latin>Quā rē multī cīvēs necābantur?</latin>"
       answer: "(MAGNĀ) PESTILENTIĀ"
     boni:
       - question: "<latin>Cūr cīvēs constituērunt ut nāvem solverent?</latin>"
         answer: "UT NOVĀS DOMŪS PETERENT"
-      - question: "Quō <latin>cīvēs profectī</latin> <latin>sunt, nāve solūtā?</latin>"
+      - question: "Quō <latin>cīvēs profectī sunt, nāve solūtā?</latin>"
         answer: "<latin>AD OCCĀSUM SŌLIS / TERRĀS INCOGNITĀS</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat \"taeda\"?</latin>"
+      question: "<latin>Quid Anglicē significat \"taeda\"?</latin>"
       answer: "(PINEWOOD / MARRIAGE) TORCH"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat \"fors\"?</latin>"
+      - question: "<latin>Quid Anglicē significat \"fors\"?</latin>"
         answer: "CHANCE / LOT / LUCK"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat \"nēquīquam\"?</latin>"
+      - question: "<latin>Quid Anglicē significat \"nēquīquam\"?</latin>"
         answer: "IN VAIN / FRUITLESSLY / TO NO AVAIL / WITHOUT GOOD REASON / WITH IMPUNITY"
   - tossup:
       question: "Who, after abusing his veto power, was removed from his position as tribune by Tiberius Gracchus?"
@@ -74,7 +74,7 @@ questions:
       - question: "What is special about the following words: <latin>locus, dēlicium, carbasus, balneum?</latin>"
         answer: "HETEROGENES (THEIR PLURAL FORMS HAVE DIFFERENT GENDER THAN THE SINGULAR)"
   - tossup:
-      question: "A famous line of graffitti says, \"<latin>Admīror, pariēs, tē</latin> <latin>nōn cecidisse ruīnīs,/ quī</latin> <latin>tot scrīptōrum taedia sustineās</latin>.\" Explain the use of the infinitive in that saying"
+      question: "A famous line of graffitti says, \"<latin>Admīror, pariēs, tē nōn cecidisse ruīnīs,/ quī tot scrīptōrum taedia sustineās</latin>.\" Explain the use of the infinitive in that saying"
       answer: "INDIRECT STATEMENT (“I am amazed, O Wall, who sustaineth the nettlings of so many authors, that thou hast not fallen into ruin.”)"
     boni:
       - question: "You see here five examples of graffiti and other inscriptions. Which one of them most likely comes from a tomb?"
@@ -98,10 +98,10 @@ questions:
       - question: "What office did Titus hold together with his father Vespasian?"
         answer: "CENSOR"
   - tossup:
-      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “quō</latin> <latin>usque tandem abūtēre, Catilīna, patientiā</latin> <latin>nostrā.” Quā</latin> <latin>persōnā</latin> <latin>est “abūtēre?”</latin>"
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “quō usque tandem abūtēre, Catilīna, patientiā nostrā.” Quā persōnā est “abūtēre?”</latin>"
       answer: "<latin>SECUNDĀ</latin>"
     boni:
-      - question: "<latin>quō</latin> <latin>cāsū</latin> <latin>est “patientiā</latin> <latin>nostrā?”</latin>"
+      - question: "<latin>quō cāsū est “patientiā nostrā?”</latin>"
         answer: "ABLĀTĪVŌ"
       - question: "<latin>quae pars ōrātiōnis est “usque?”</latin>"
         answer: "ADVERBIUM"

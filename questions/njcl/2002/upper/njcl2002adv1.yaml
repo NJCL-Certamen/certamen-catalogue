@@ -63,7 +63,7 @@ questions:
       question: "When you are recognized by the spotter, perform the following commands: ī <latin>ad iānuam et bis pulsā</latin> A STUDENT SHOULD GO TO THE DOOR AND KNOCK / POUND IT TWICE . . . <latin>surgite et, ululantēs, iungite manūs.</latin> "
       answer: "MORE THAN ONE STUDENT SHOULD STAND AND HOLD HANDS WHILE HOWLING"
     boni:
-      - question: "<latin>Dīc mihi Anglicē</latin> <latin>cūr gallīna viam transierit</latin>"
+      - question: "<latin>Dīc mihi Anglicē cūr gallīna viam transierit</latin>"
         answer: "ONE STUDENT WILL SAY “TO GET TO THE OTHER SIDE” (accept any other non-standard chicken-joke like answer)"
   - tossup:
       question: "At public <latin>vēnātiōnēs</latin>, what emperor could be seen dressed as Hercules?"
@@ -74,21 +74,21 @@ questions:
       - question: "or POMPEIANUS QUINTIANUS What city was renamed <latin>Colōnia Commodiāna</latin> by Commodus?"
         answer: "ROME"
   - tossup:
-      question: "What use of the ablative case can be found in the following sentence: <latin>pater iussit nōs vītā</latin> <latin>fruī</latin>?"
+      question: "What use of the ablative case can be found in the following sentence: <latin>pater iussit nōs vītā fruī</latin>?"
       answer: "WITH THE <emphasis>DEPONENT</emphasis> VERB <latin>FRUOR</latin> / MEANS / SPECIAL <emphasis>DEPONENT</emphasis> VERBS"
     boni:
-      - question: "What use of the ablative case can be found in the following sentence: <latin>mē</latin> <latin>metū</latin> <latin>līberā</latin>?"
+      - question: "What use of the ablative case can be found in the following sentence: <latin>mē metū līberā</latin>?"
         answer: "SEPARATION"
       - question: "What use of the ablative case can be found in the following sentence: <latin>tōtum montem hominibus complēvit</latin>?"
         answer: "MEANS / INSTRUMENT"
   - tossup:
-      question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō</latin> <latin>discere multa carmina scripta ā</latin> <latin>poētīs Rōmānīs</latin>  <latin>quia magistrī</latin> <latin>semper prōfitentur, ut discipulī</latin> <latin>in exāmīnātiōne bene agant,</latin>  <latin>carmina poētārum, praesertim Catullī, in memōriā</latin> <latin>tenenda esse.</latin>  <latin>Quī</latin> <latin>multa carmina composuerant?</latin>"
+      question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō discere multa carmina scripta ā poētīs Rōmānīs</latin>  <latin>quia magistrī semper prōfitentur, ut discipulī in exāmīnātiōne bene agant,</latin>  <latin>carmina poētārum, praesertim Catullī, in memōriā tenenda esse.</latin>  <latin>Quī multa carmina composuerant?</latin>"
       answer: "<emphasis><latin>PO</latin></emphasis><emphasis>Ē</emphasis><emphasis><latin>TAE</latin></emphasis> <latin>RŌMĀNĪ</latin>"
     boni:
       - question: "<latin>Cūr necesse est discipulīs carmina discere?</latin> "
         answer: "<latin>UT BENE IN EXĀMĪNĀTIŌNE AGANT / BENE AGERE NECESSE EST</latin>"
       - question: " <latin>Quid discipulīs facere necesse est?</latin>"
-        answer: "CARMINA IN MEMŌRIĀ <latin>TENĒRE</latin> / <latin>CARMINA DISCERE</latin>"
+        answer: "CARMINA IN MEMŌRIĀ <latin>TENĒRE / CARMINA DISCERE</latin>"
   - tossup:
       question: "Who led the mob that killed Tiberius Gracchus?"
       answer: "SCIPIO NASICA"
@@ -106,7 +106,7 @@ questions:
       - question: "Which of his works won Martial the appreciation of the emperor Titus?"
         answer: "(<title><latin>LIBER</latin></title>) <title><latin>DĒ</latin></title> <title><latin>SPECTĀCULĪS</latin></title> / <title><latin>LIBER SPECTĀCULŌRUM</latin></title>"
   - tossup:
-      question: "Who in the <title>Aeneid</title> speaks these lines, which I will read as prose: <latin>“Iūnōnis gravis īra neque exsaturābile pectus</latin>  <latin>cōgunt mē, Neptūne, precēs dēscendere in omnīs”</latin> VENUS Who in the <title>Aeneid</title> speaks these lines: <latin>“nāte, mihi vītā</latin> <latin>quondam,dum vīta manēbat,</latin>  <latin>cāre magis, nāte, Īliacīs exercite fātīs,</latin>  <latin>imperiō</latin> <latin>Iovis hūc veniō, quī</latin> <latin>classibus ignem</latin>  <latin>dēpulit, et caelō</latin> <latin>tandem miserātus ab altō</latin> <latin>est.”</latin>"
+      question: "Who in the <title>Aeneid</title> speaks these lines, which I will read as prose: <latin>“Iūnōnis gravis īra neque exsaturābile pectus</latin>  <latin>cōgunt mē, Neptūne, precēs dēscendere in omnīs”</latin> VENUS Who in the <title>Aeneid</title> speaks these lines: <latin>“nāte, mihi vītā quondam,dum vīta manēbat,</latin>  <latin>cāre magis, nāte, Īliacīs exercite fātīs,</latin>  <latin>imperiō Iovis hūc veniō, quī classibus ignem</latin>  <latin>dēpulit, et caelō tandem miserātus ab altō est.”</latin>"
       answer: "ANCHISES"
     boni:
       - question: "Whom was Anchises addressing in the previous quote?"
@@ -150,10 +150,10 @@ questions:
       - question: "Again, according to Ovid’s <title>Metamorphoses</title>, who finally stops Phaethon’s wild ride?"
         answer: "JUPITER"
   - tossup:
-      question: "Translate into English: <latin>timēbat nē</latin> <latin>pecūnia invenīrētur</latin>"
+      question: "Translate into English: <latin>timēbat nē pecūnia invenīrētur</latin>"
       answer: "HE WAS AFRAID THAT THE MONEY MIGHT/WOULD BE FOUND"
     boni:
       - question: "Translate into English: <latin>verēmur ut illa nōs videat</latin>"
         answer: "WE FEAR THAT SHE WILL NOT SEE US / MAY NOT SEE US"
-      - question: "Translate into English: <latin>metuī</latin> <latin>nē</latin> <latin>mihi auxilium nōn ferrēs</latin>"
+      - question: "Translate into English: <latin>metuī nē mihi auxilium nōn ferrēs</latin>"
         answer: "I FEARED / WAS AFRAID THAT YOU WOULD NOT BRING HELP TO ME"

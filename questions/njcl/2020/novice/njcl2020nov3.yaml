@@ -18,7 +18,7 @@ questions:
       - question: "Now translate this sentence into Latin: “I’m eating now.”"
         answer: "<latin>CONSUMŌ / EDŌ NUNC / IAM</latin>"
       - question: "Translate this sentence into Latin: “My friends laugh easily.”"
-        answer: "<latin>MEĪ AMĪCĪ</latin> / <latin>MEAE AMĪCAE / MEA AMĪCA FACILE / FACILITER RIDENT</latin> (<latin>mea amīca</latin> = neut. plural)"
+        answer: "<latin>MEĪ AMĪCĪ / MEAE AMĪCAE / MEA AMĪCA FACILE / FACILITER RIDENT</latin> (<latin>mea amīca</latin> = neut. plural)"
   - tossup:
       question: "Disregarding advice not to go too high or too low, who flew too close to the sun and brought his father, Daedalus, to grief?"
       answer: "ICARUS"
@@ -52,7 +52,7 @@ questions:
       - question: "<latin>Ubi illa puella nunc iacet?</latin>"
         answer: "<latin>IN TERRĀ / HUMĪ</latin>   (<latin>AD TERRAM</latin> is NOT correct)"
   - tossup:
-      question: "<latin>Rēspondē Latīnē:</latin> <latin>In Phrygiā, quī marītus et uxor sōlī hospītium dedērunt Iovī et Mercuriō?</latin>"
+      question: "<latin>Rēspondē Latīnē: In Phrygiā, quī marītus et uxor sōlī hospītium dedērunt Iovī et Mercuriō?</latin>"
       answer: "<latin>BAUCIS ET PHILĒMON</latin>"
     boni:
       - question: "<latin>In quale aedificium mūtāta est casa Baucidis et Philēmonis?</latin>"

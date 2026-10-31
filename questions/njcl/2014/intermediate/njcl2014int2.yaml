@@ -32,9 +32,9 @@ questions:
       answer: "<latin>ĀTRAM</latin> "
     boni:
       - question: "<latin>unde Gollum vēnit</latin>?"
-        answer: "<latin>NĒMŌ SCIT</latin> / <latin>SCIĒBAT</latin> / <latin>SCĪVIT</latin> (also accept <latin>NESCIŌ, NESCĪMUS</latin>, etc.)"
+        answer: "<latin>NĒMŌ SCIT / SCIĒBAT / SCĪVIT</latin> (also accept <latin>NESCIŌ, NESCĪMUS</latin>, etc.)"
       - question: "<latin>quālēs oculī Gollō erant</latin>?"
-        answer: "<latin>MAGNĪ</latin> / <latin>ROTUNDĪ</latin> / <latin>PALLIDĪ</latin>"
+        answer: "<latin>MAGNĪ / ROTUNDĪ / PALLIDĪ</latin>"
   - tossup:
       question: "What Roman province was the personal property of the emperor and was known for providing grain for much of the empire?"
       answer: "AEGYPTUS / EGYPT"

@@ -4,16 +4,16 @@ division: "Advanced"
 round: "Finals"
 questions:
   - tossup:
-      question: "<latin>Audī</latin> <latin>dīligenter et respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē</latin>: <latin>In Aenēide, scrīptō</latin> ā <latin>Vergiliō, quae persōna dīcit:</latin> “<latin>Solvite corde metum, Teucrī, sēclūdite cūrās. Rēs dūra et rēgnī</latin> <latin>novitās mē</latin> <latin>tālia cōgunt mōlīrī, et lātē</latin> <latin>fīnīs custōde tuēr</latin><latin>ī.</latin>”"
+      question: "<latin>Audī dīligenter et respōndē aut Latīnē aut Anglicē</latin>: <latin>In Aenēide, scrīptō</latin> ā <latin>Vergiliō, quae persōna dīcit:</latin> “<latin>Solvite corde metum, Teucrī, sēclūdite cūrās. Rēs dūra et rēgnī novitās mē tālia cōgunt mōlīrī, et lātē fīnīs custōde tuēr</latin><latin>ī.</latin>”"
       answer: "DIDO"
     boni:
-      - question: "<latin>Respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē: In Aenēide, quis dīcit: “Iuppiter, hospitibus nam tē</latin> <latin>dare iūra loquuntur, hunc laetum Tyriīsque diem</latin>  <latin>Trōiāque profectīs esse velīs, nostrōsque huius meminisse minōrēs.”</latin> "
+      - question: "<latin>Respōndē aut Latīnē aut Anglicē: In Aenēide, quis dīcit: “Iuppiter, hospitibus nam tē dare iūra loquuntur, hunc laetum Tyriīsque diem</latin>  <latin>Trōiāque profectīs esse velīs, nostrōsque huius meminisse minōrēs.”</latin> "
         answer: "DIDO"
-      - question: "<latin>Respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē: In Aenēide, quis dīcit</latin>: “<latin>Nāte, meae vīrēs, mea magna potentia sōlus, nāte, patris summī</latin> <latin>quī</latin> <latin>tēla Typhōëa temnis ad tē</latin> <latin>cōnfugiō</latin> <latin>et supplex tua nūmina posc</latin><latin>ō.</latin>”"
+      - question: "<latin>Respōndē aut Latīnē aut Anglicē: In Aenēide, quis dīcit</latin>: “<latin>Nāte, meae vīrēs, mea magna potentia sōlus, nāte, patris summī quī tēla Typhōëa temnis ad tē cōnfugiō et supplex tua nūmina posc</latin><latin>ō.</latin>”"
         answer: "VENUS"
   - tossup:
       question: "Give the dative singular of the phrase <latin>illud aes perenne</latin>."
-      answer: "<latin>ILLĪ</latin> <latin>AERĪ</latin> <latin>PERENNĪ</latin>"
+      answer: "<latin>ILLĪ AERĪ PERENNĪ</latin>"
     boni:
       - question: "Give the accusative singular of the phrase <latin>eadem pēior sitis</latin>."
         answer: "<latin>EANDEM PĒIŌREM SITIM</latin> "
@@ -52,15 +52,15 @@ questions:
       - question: "What earlier writer of satire is said to have inspired the first verse of Persius’ first satire?"
         answer: "LUCILIUS"
   - tossup:
-      question: "When recognized by the spotter, follow this Latin instruction: <latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>fābulīs legendīs fruī</latin>."
+      question: "When recognized by the spotter, follow this Latin instruction: <latin>Dīc Anglicē nōbīs tē fābulīs legendīs fruī</latin>."
       answer: "ONE STUDENT SHOULD SAYS THAT HE ENJOYS READING DRAMAS / PLAYS / FABLES / STORIES"
     boni:
-      - question: "<latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>Tiresian esse et affirmā</latin> <latin>tē</latin> <latin>fēminam esse malle.</latin>"
+      - question: "<latin>Dīc Anglicē nōbīs tē Tiresian esse et affirmā tē fēminam esse malle.</latin>"
         answer: "ONE STUDENT SHOULD SAY THAT HE IS TIRESIAS AND STATE THAT HE <emphasis>PREFERRED</emphasis> TO BE A WOMAN"
-      - question: "<latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>Daphnēn esse et explicā</latin> <latin>cūr melius sit tibi tē</latin> <latin>arborem esse quam feminam esse.</latin> "
+      - question: "<latin>Dīc Anglicē nōbīs tē Daphnēn esse et explicā cūr melius sit tibi tē arborem esse quam feminam esse.</latin> "
         answer: "ONE STUDENT SHOULD SAY THAT HE IS DAPHNE AND EXPLAIN WHY IT IS BETTER BEING A TREE (RATHER THAN A WOMAN)"
   - tossup:
-      question: "What use of the dative case is found in the following sentence? <latin>Rōmulus locum regnō</latin> <latin>optāvit.</latin>"
+      question: "What use of the dative case is found in the following sentence? <latin>Rōmulus locum regnō optāvit.</latin>"
       answer: "PURPOSE"
     boni:
       - question: "<latin>Ab omnibus bonīs cīvibus lēgibus parendum est</latin>."
@@ -69,7 +69,7 @@ questions:
         answer: "REFERENCE"
   - tossup:
       question: "In which of Cicero’s speeches does he defend a man from Antioch, whose citizenship was disputed by the political enemies of his patron, in 62 BC?"
-      answer: "<latin>PRŌ</latin> <latin>ARCHIĀ</latin>"
+      answer: "<latin>PRŌ ARCHIĀ</latin>"
     boni:
       - question: "In which of Cicero’s speeches does he take a stand against the archaic morality of Cato the Younger while attempting to defend the <latin>cōnsul dēsignātus</latin> of 62 BC on a charge of electoral corruption?"
         answer: "<title><latin>PRŌ MŪRĒNĀ</latin></title>"
@@ -77,15 +77,15 @@ questions:
         answer: "<title><latin>PRŌ SESTIŌ</latin></title>"
   - tossup:
       question: "Using a supine, say in Latin, “He spoke with a voice difficult to hear.”"
-      answer: "<latin>LOCŪTUS EST / DĪXIT VŌCE DIFFICILĪ</latin> <latin>AUDĪTŪ</latin>"
+      answer: "<latin>LOCŪTUS EST / DĪXIT VŌCE DIFFICILĪ AUDĪTŪ</latin>"
     boni:
       - question: "Using a supine, say in Latin, “Aurelius, send men to answer.”"
         answer: "<latin>AURELĪ, MITTE VIRŌS / HOMINĒS RESPŌNSUM</latin> "
       - question: "Using a supine, say in Latin, “I don’t believe that the money will be found.”"
-        answer: "<latin>NŌN CRĒDŌ</latin> <latin>PECŪNIAM INVENTUM ĪRĪ</latin>"
+        answer: "<latin>NŌN CRĒDŌ PECŪNIAM INVENTUM ĪRĪ</latin>"
   - tossup:
       question: "PLEASE DO NOT OPEN YOUR VISUALS UNTIL INTRUCTED (Pass out the visuals.) Open your visuals. For 10 seconds, study this picture of a <latin>confarreātiō</latin> ceremony. (Wait 10 seconds.) Give the Latin term for what “D” is labeling."
-      answer: "<latin>IUNCTIŌ</latin> <latin>DEXTRĀRUM</latin> (OR VICE VERSA)"
+      answer: "<latin>IUNCTIŌ DEXTRĀRUM</latin> (OR VICE VERSA)"
     boni:
       - question: "First give the Latin title for the person labeled “I”, then explain what restriction limited who could serve in this capacity?"
         answer: "<latin>PRŌNŪBA</latin>, SHE IS A <latin>(MATRŌNA) ŪNIVIRA</latin> / SHE COULD ONLY HAVE BEEN MARRIED ONCE (AND HER HUSBAND IS STILL ALIVE)"
@@ -100,13 +100,13 @@ questions:
       - question: "What wealthy Sicyonian bought his way out of his obligation to Menelaus by sending a fine mare to Agamemnon?"
         answer: "ECHEPOLUS"
   - tossup:
-      question: "Listen carefully to the following passage concerning Hadrian’s decrees on the treatment of slaves, which I will read twice. Answer IN LATIN, the question that follows: <latin>Vetuit servōs ā</latin> <latin>dominīs occīdī</latin> <latin>iussitque eōs damnārī</latin> <latin>per iūdicēs, sī</latin> <latin>dīgnī</latin> <latin>essent. Lēnōnī</latin> <latin>et lanistae servum vel ancillam vēndī</latin> <latin>vetuit causā</latin> <latin>nōn mōnstrātā. Sī</latin> <latin>dominus domī</latin> <latin>interfectus esset, praecēpit nōn dē</latin> <latin>omnibus servīs quaestiōnem habērī</latin> <latin>sed dē</latin> <latin>hīs, quī</latin> <latin>per vīcīnitātem poterant intellegere aliquid dē</latin> <latin>morte</latin>. Question: <latin>Quibus necesse erat damnāre servōs</latin>?"
+      question: "Listen carefully to the following passage concerning Hadrian’s decrees on the treatment of slaves, which I will read twice. Answer IN LATIN, the question that follows: <latin>Vetuit servōs ā dominīs occīdī iussitque eōs damnārī per iūdicēs, sī dīgnī essent. Lēnōnī et lanistae servum vel ancillam vēndī vetuit causā nōn mōnstrātā. Sī dominus domī interfectus esset, praecēpit nōn dē omnibus servīs quaestiōnem habērī sed dē hīs, quī per vīcīnitātem poterant intellegere aliquid dē morte</latin>. Question: <latin>Quibus necesse erat damnāre servōs</latin>?"
       answer: "<latin>IŪDICIBUS</latin>"
     boni:
-      - question: "<latin>Quā</latin> <latin>condiciōne licuit lēnōnī</latin> <latin>aut lanistae servum emere</latin>?"
-        answer: "<latin>CAUSĀ</latin> <latin>MŌNSTRĀTĀ</latin>"
-      - question: "<latin>Quō</latin> <latin>factō, imperātor permīsit ut quaestiō</latin> <latin>dē</latin> <latin>servīs habērētur</latin>?"
-        answer: "<latin>DOMINŌ</latin> <latin>INTERFECTŌ</latin> <latin>/ DOMINUS INTERFECTUS ERAT</latin>"
+      - question: "<latin>Quā condiciōne licuit lēnōnī aut lanistae servum emere</latin>?"
+        answer: "<latin>CAUSĀ MŌNSTRĀTĀ</latin>"
+      - question: "<latin>Quō factō, imperātor permīsit ut quaestiō dē servīs habērētur</latin>?"
+        answer: "<latin>DOMINŌ INTERFECTŌ / DOMINUS INTERFECTUS ERAT</latin>"
   - tossup:
       question: "According to the <title>Aeneid</title>, what ally of Turnus was the son of Hercules?"
       answer: "AVENTINUS"
@@ -140,10 +140,10 @@ questions:
       - question: "According to the proem of the <title>Annales</title>, Ennius claimed to be the reincarnation of what great poet?"
         answer: "HOMER"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Nē</latin> <latin>dē</latin> <latin>fortūnā</latin> <latin>nostrā</latin> <latin>dēspērēmus</latin>!"
+      question: "Translate the following sentence into English: <latin>Nē dē fortūnā nostrā dēspērēmus</latin>!"
       answer: "LET US NOT DESPAIR ABOUT OUR FORTUNE / LUCK"
     boni:
-      - question: "<latin>Cūr in Cicerōnis vīllā</latin> <latin>mānsissent</latin>?"
+      - question: "<latin>Cūr in Cicerōnis vīllā mānsissent</latin>?"
         answer: "WHY MIGHT THEY / WOULD THEY HAVE STAYED AT CICERO’S VILLA? (not simply, “Why did they stay...?”)"
       - question: "<latin>Utinam ad multam noctem cum fūrōre studuissem</latin>!"
         answer: "WOULD THAT / IF ONLY I HAD STUDIED UNTIL LATE AT NIGHT WITH A PASSION / ENERGY / FURY"

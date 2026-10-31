@@ -48,7 +48,7 @@ questions:
       answer: "<latin>TABULA / TABELLA / PUGILLĀRĒS / CĒRA</latin>"
     boni:
       - question: "  Name the instrument being held by the lady and its use"
-        answer: "STYLUS / <latin>STILUS</latin> / <latin>GRAPHIUM</latin> - TO WRITE (ON THE WAX TABLET)"
+        answer: "STYLUS / <latin>STILUS / GRAPHIUM</latin> - TO WRITE (ON THE WAX TABLET)"
       - question: "Of what material would the object being held by the man have been made?"
         answer: "PAPYRUS (prompt if “<latin>charta</latin>” or “<latin>chartula</latin>” is given)"
   - tossup:
@@ -84,20 +84,20 @@ questions:
       - question: "What was inscribed on the apple?"
         answer: "TO / FOR THE FAIREST / MOST BEAUTIFUL"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>vīgintī</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>vīgintī</latin>”?"
       answer: "TWENTY"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>septuāgintā</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>septuāgintā</latin>”?"
         answer: "SEVENTY"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>sēdecim</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>sēdecim</latin>”?"
         answer: "SIXTEEN"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Puerī</latin> <latin>per urbem celeriter cucurrērunt</latin>"
+      question: "Translate the following sentence into English: <latin>Puerī per urbem celeriter cucurrērunt</latin>"
       answer: "THE BOYS QUICKLY RAN THROUGH THE CITY."
     boni:
       - question: "<latin>Dominus servīs cibum dabit</latin>"
         answer: "THE MASTER WILL GIVE THE SLAVES FOOD / WILL GIVE FOOD TO THE SLAVES"
-      - question: "<latin>Servī</latin> <latin>equōs mīlitum dūcent</latin>"
+      - question: "<latin>Servī equōs mīlitum dūcent</latin>"
         answer: "THE SLAVES WILL LEAD THE HORSES OF THE SOLDIERS"
   - tossup:
       question: "Change the verb <latin>audit</latin> to the plural"
@@ -140,7 +140,7 @@ questions:
       - question: "Who took Ascanius' place for one night in Carthage?"
         answer: "CUPID"
   - tossup:
-      question: "What is the English meaning of the Brooklyn College motto: <latin>Nīl sine magnō</latin> <latin>labōre</latin>?"
+      question: "What is the English meaning of the Brooklyn College motto: <latin>Nīl sine magnō labōre</latin>?"
       answer: "NOTHING WITHOUT GREAT TOIL / LABOR / EFFORT / WORK"
     boni:
       - question: "of the University of the South motto: <latin>Ecce quam bonum</latin>?"
@@ -156,10 +156,10 @@ questions:
       - question: "Name the Praetorian Prefect who assassinated Caracalla after a six year rule"
         answer: "MACRINUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In trīclīniō</latin> <latin>domūs Rōmānae semper erat mēnsa. Haec mēnsa erat pulchra et pretiōsa. Hospitēs circum mēnsam in sellīs nōn sedēbant, sed in lectīs recumbēbant. In hīs lectīs novem hospitēs recumbēbant, trēs in quōque lectō.</latin>  <latin>Quālis erat mēnsa?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In trīclīniō domūs Rōmānae semper erat mēnsa. Haec mēnsa erat pulchra et pretiōsa. Hospitēs circum mēnsam in sellīs nōn sedēbant, sed in lectīs recumbēbant. In hīs lectīs novem hospitēs recumbēbant, trēs in quōque lectō.</latin>  <latin>Quālis erat mēnsa?</latin>"
       answer: "PULCHRA"
     boni:
       - question: "and/or PRETIŌSA Ubi hospitēs recumbēbant? "
-        answer: "<latin>IN TRICLINIŌ</latin> <latin>/ IN LECTĪS / IN LECTŌ</latin> <latin>/ CIRCUM MĒNSAM</latin>"
+        answer: "<latin>IN TRICLINIŌ / IN LECTĪS / IN LECTŌ / CIRCUM MĒNSAM</latin>"
       - question: " <latin>In quibus hospitēs nōn sedēbant?</latin>"
         answer: "(IN) SELLĪS"

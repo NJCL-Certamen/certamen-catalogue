@@ -77,7 +77,7 @@ questions:
         answer: "THE LOCK OF BERENICE"
   - tossup:
       question: "The battle of bananas continues! Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Ut hastās brevēs prohibērēmus quōminus nostrōs pedēs ferīrent, totiēns saliēbamus ut saltāre vidērēmur. Nunc sīmiae nōs dērīdēbant et exclāmābant, “Ecce, illī hominēs sunt paucīs ariēnīs perterritī. Meminērimus imaginem eōrum saltantium! Hominēs interdum sunt tam stultī.”</latin>"
-      answer: "REREAD The question: <latin>Quibus erant hominēs perterritī, secundum sīmiās?</latin> <latin>(PAUCĪS) ARIĒNĪS / HASTĪS</latin> (DON’T TAKE <latin>SĪMIĪS</latin> OR <latin>SĪMIĀBUS</latin>)"
+      answer: "REREAD The question: <latin>Quibus erant hominēs perterritī, secundum sīmiās? (PAUCĪS) ARIĒNĪS / HASTĪS</latin> (DON’T TAKE <latin>SĪMIĪS</latin> OR <latin>SĪMIĀBUS</latin>)"
     boni:
       - question: "<latin>Quōmodo hominēs ariēnās vitāvērunt?</latin>"
         answer: "SALUĒRUNT / SALIĒBANT / SALIENDŌ / SALTĀVERUNT / SALTĀBANT / SALTANDŌ"
@@ -136,7 +136,7 @@ questions:
       answer: "QUIS SCĪVIT / SCIĒBAT / QUĪ SCĪVERUNT / SCIĒBANT NŌS FUTŪRŌS ESSE DOMĪ DIŪTISSIMĒ?"
     boni:
       - question: "Using an optative subjunctive and <latin>amplector</latin> for “hug”, say in Latin “I wish I may hug again those whom I love!”"
-        answer: "(<latin>UTINAM) ITERUM / RŪRSUS (EŌS/-ĀS / ILLŌS/-ĀS), QUŌS / QUĀS</latin> <latin>AMŌ, AMPLECTAR!</latin>"
+        answer: "(<latin>UTINAM) ITERUM / RŪRSUS (EŌS/-ĀS / ILLŌS/-ĀS), QUŌS / QUĀS AMŌ, AMPLECTAR!</latin>"
       - question: "Using <latin>linteum</latin> for “mask,” say in Latin to one person, “Don’t trust people not wearing masks.”"
         answer: "<latin>NOLĪ CRĒDERE / NĒ CRĒDIDERIS / CAVĒ CRĒDĀS HOMINIBUS NŌN LINTEA GERENTIBUS</latin>"
   - tossup:

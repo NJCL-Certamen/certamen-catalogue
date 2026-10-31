@@ -28,7 +28,7 @@ questions:
       - question: "Where did Marcus Aurelius die, potentially as a result of the plague?"
         answer: "VINDOBONA / VIENNA"
   - tossup:
-      question: "What is the case and use of the Latin word for king in the following sentence: <latin>Cīvēs</latin> <latin>multa dōna rēgī dedērunt.</latin>"
+      question: "What is the case and use of the Latin word for king in the following sentence: <latin>Cīvēs multa dōna rēgī dedērunt.</latin>"
       answer: "DATIVE, INDIRECT OBJECT"
     boni:
       - question: "What is the case and use of the Latin word for king in this sentence: <latin>Pūblius rēx appellātus est.</latin>"
@@ -56,7 +56,7 @@ questions:
       answer: "<latin>NŌMEN</latin> - NAME"
     boni:
       - question: "What Latin verb, with what meaning, is the ultimate root of the English grammatical term \"dative\"?"
-        answer: "<latin>DŌ</latin> / <latin>DARE</latin> - GIVE"
+        answer: "<latin>DŌ / DARE</latin> - GIVE"
       - question: "What Latin preposition, with what meaning, is part of the ultimate root of the English grammatical term \"accusative\"?"
         answer: "<latin>AD</latin> – TO / TOWARD / FOR / AT"
   - tossup:

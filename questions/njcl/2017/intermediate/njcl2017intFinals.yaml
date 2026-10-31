@@ -15,7 +15,7 @@ questions:
       question: "Change the verb form <latin>cōnfīdātis</latin> to the perfect."
       answer: "<latin>CŌNFĪSĪ SĪTIS</latin>"
     boni:
-      - question: "Complete the following analogy: <latin>cōnfīdātis</latin> : <latin>cōnfīsī</latin> <latin>sītis</latin> :: <latin>sepeliātis</latin> : _____?"
+      - question: "Complete the following analogy: <latin>cōnfīdātis</latin> : <latin>cōnfīsī sītis</latin> :: <latin>sepeliātis</latin> : _____?"
         answer: "<latin>SEPELĪVERĪTIS</latin>"
       - question: "Now complete this analogy: <latin>cōnfīdit</latin> : <latin>cōnfīdāt</latin> :: <latin>vult</latin> : _____?"
         answer: "<latin>VELIT</latin>"
@@ -129,11 +129,11 @@ questions:
     boni:
       - question: "What two uses of the Ablative case can be found in the following sentence: <latin>Minimā cum audāciā nāvem ūnō talentō vēndidit.</latin>"
         answer: "MANNER & (DEFINITE) PRICE"
-      - question: "What two uses of the Ablative case are found in the following sentence: <latin>Quod</latin> <latin>Catilīna nātus erat genere nōbilī, eī sella aurō erat.</latin>"
+      - question: "What two uses of the Ablative case are found in the following sentence: <latin>Quod Catilīna nātus erat genere nōbilī, eī sella aurō erat.</latin>"
         answer: "SOURCE / ORIGIN & MATERIAL"
   - tossup:
       question: "What Latin verb, with what meaning, is the ultimate root of the English word \"degree\"?"
-      answer: "<latin>GRADIOR</latin> / <latin>GRADĪ</latin> – STEP / WALK"
+      answer: "<latin>GRADIOR / GRADĪ</latin> – STEP / WALK"
     boni:
       - question: "What Latin noun, with what meaning, is the ultimate root of the English word \"common\"?"
         answer: "<latin>MŪNUS</latin> – DUTY / GIFT / PAYMENT"

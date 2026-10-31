@@ -29,12 +29,12 @@ questions:
         answer: "HECTOR"
   - tossup:
       question: "Translate the following sentence into Latin: If he should lie, he would die."
-      answer: "<latin>SĪ</latin> <latin>MENTIĀTUR, MORIĀTUR</latin> "
+      answer: "<latin>SĪ MENTIĀTUR, MORIĀTUR</latin> "
     boni:
       - question: "If anyone had found me, I would be alive today."
-        answer: "<latin>SĪ</latin> <latin>QUIS MĒ</latin> <latin>INVĒNISSET, VĪVEREM / VĪVUS ESSEM HODIĒ</latin>"
+        answer: "<latin>SĪ QUIS MĒ INVĒNISSET, VĪVEREM / VĪVUS ESSEM HODIĒ</latin>"
       - question: "If you wish for peace, Claudia, prepare for war."
-        answer: "<latin>SĪ</latin> <latin>VĪS / DĒSĪDERĀS / CUPIS PĀCEM, CLAUDIA, PARĀ</latin> <latin>BELLUM</latin> "
+        answer: "<latin>SĪ VĪS / DĒSĪDERĀS / CUPIS PĀCEM, CLAUDIA, PARĀ BELLUM</latin> "
   - tossup:
       question: "Who, in the preface of his greatest work, says that his work was written “to record the achievement of the Roman people from the founding of the city”?"
       answer: "LIVY / TITUS LIVIUS"
@@ -60,12 +60,12 @@ questions:
       - question: "What Latin phrase is used in English to describe a gift or trust taking place between living persons?"
         answer: "<latin>INTER VĪVŌS</latin> "
   - tossup:
-      question: "<latin>Ambulās in forō</latin> <latin>Rōmānō</latin> <latin>antīquō. Cūius arcus super Viam Sacram positus est iuxtā</latin> <latin>mōntem Palātīnum? Hic arcus ūnum aditum habet.</latin>"
+      question: "<latin>Ambulās in forō Rōmānō antīquō. Cūius arcus super Viam Sacram positus est iuxtā mōntem Palātīnum? Hic arcus ūnum aditum habet.</latin>"
       answer: "<latin>(ARCUS) TITĪ</latin>"
     boni:
-      - question: "<latin>Vidēs aedificium quod Rōmānī</latin> <latin>in locō</latin> <latin>Nerōnis stagnī</latin> <latin>aedificāvērunt. Multās columnās et vōmitōria habet. Quid aedificium vidēs?</latin> "
+      - question: "<latin>Vidēs aedificium quod Rōmānī in locō Nerōnis stagnī aedificāvērunt. Multās columnās et vōmitōria habet. Quid aedificium vidēs?</latin> "
         answer: "<latin>AMPHITHEĀTRUM FLĀVIUM / COLOSSEUM</latin> "
-      - question: "<latin>Nunc ambulās ad illum pāgum Rōmae ubi pauperēs et meretrīcēs vīvunt. Est inter mōntem Esquilīnum et Vīminālem. Quō</latin> <latin>ambulās?</latin> "
+      - question: "<latin>Nunc ambulās ad illum pāgum Rōmae ubi pauperēs et meretrīcēs vīvunt. Est inter mōntem Esquilīnum et Vīminālem. Quō ambulās?</latin> "
         answer: "<latin>IN / AD SUBŪRAM</latin> "
   - tossup:
       question: "What Roman wrote about the mythological pair of Cybele and Attis in a poem which modern collections label as number 63?"
@@ -88,9 +88,9 @@ questions:
       answer: "<latin>CALCARIA</latin> "
     boni:
       - question: "<latin>ōmen</latin> : <latin>ōmina</latin> :: <latin>nāis</latin> : _____?"
-        answer: "<latin>NĀIDES</latin> / <latin>NĀIDAS</latin> "
+        answer: "<latin>NĀIDES / NĀIDAS</latin> "
       - question: "<latin>ōmen</latin> : <latin>ōmina</latin> :: <latin>hērōs</latin> : _____?"
-        answer: "<latin>HĒRŌ</latin><latin>ĒS</latin> / <latin>HĒRŌAS</latin>"
+        answer: "<latin>HĒRŌ</latin><latin>ĒS / HĒRŌAS</latin>"
   - tossup:
       question: "Give the Latin verb and its meaning at the root of “excrete,” “secret,” “concert,” and “discern.”"
       answer: "<latin>CERNŌ, CERNERE</latin> - PERCEIVE, DETERMINE, DECIDE, SEE"
@@ -103,9 +103,9 @@ questions:
       question: "Translate the following sentence into English: <latin>Simulac nōs cōnspexērunt, iūdicēs discessērunt.</latin> "
       answer: "AS SOON AS THEY SAW US, THE JUDGES / JUSTICES LEFT"
     boni:
-      - question: "<latin>Milō</latin> <latin>in senātū</latin> <latin>erat dōnec dīmissus est</latin>."
+      - question: "<latin>Milō in senātū erat dōnec dīmissus est</latin>."
         answer: "MILO WAS IN THE SENATE UNTIL HE WAS DISMISSED / SENT AWAY"
-      - question: "<latin>Aderō</latin> <latin>cum prīmum mē</latin> <latin>arcessēs</latin>."
+      - question: "<latin>Aderō cum prīmum mē arcessēs</latin>."
         answer: "I WILL BE PRESENT AS SOON AS YOU (WILL) SUMMON ME"
   - tossup:
       question: "The biographies of Vergil, Terence, Horace, Lucan, and Pliny the Elder can all be found in the works of what Roman author?"
@@ -116,7 +116,7 @@ questions:
       - question: "According to Suetonius’ <title><latin>Dē Vītā Caesarum</latin></title>, which emperor had on his chest and belly birthmarks in the shape of the constellation of the Great Bear, that he suffered from warts and skin rashes, and was troubled by weakness of the legs?"
         answer: "AUGUSTUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, about a theater in Colombia, Missouri, and answer IN ENGLISH the question that follows: <latin>Cum fābula dē</latin> <latin>Alexandrō</latin> <latin>Magnō</latin> <latin>agerētur, permultī</latin> <latin>advēnērunt ad rem spectandam. Tam bonus erat rūmor dē</latin> <latin>hāc fābulā</latin> <latin>ut omnēs spectātōrēs inter sē</latin> <latin>clāmārent, “Monstrā</latin> <latin>mihi.” Fābula autem haud tantī</latin> <latin>erat. Ad fīnem fābulae, sōlus ūnus spectātor rēmānsit quī</latin> <latin>tōtam fābulam spectāverat. Īrātus clāmāvit, “Utinam nē</latin> <latin>mihi mōnstrāvissēs fābulam illam!”</latin>  Question: Why had so many people come to see the play about Alexander the Great?"
+      question: "Listen carefully to the following passage, which I will read twice, about a theater in Colombia, Missouri, and answer IN ENGLISH the question that follows: <latin>Cum fābula dē Alexandrō Magnō agerētur, permultī advēnērunt ad rem spectandam. Tam bonus erat rūmor dē hāc fābulā ut omnēs spectātōrēs inter sē clāmārent, “Monstrā mihi.” Fābula autem haud tantī erat. Ad fīnem fābulae, sōlus ūnus spectātor rēmānsit quī tōtam fābulam spectāverat. Īrātus clāmāvit, “Utinam nē mihi mōnstrāvissēs fābulam illam!”</latin>  Question: Why had so many people come to see the play about Alexander the Great?"
       answer: "THE RUMOR WAS THAT IT WAS GOOD"
     boni:
       - question: "How did the spectators react to the play?"
@@ -128,7 +128,7 @@ questions:
       answer: "<latin>PŌNE</latin>"
     boni:
       - question: "Using a preposition, say in Latin, “On the further side of the provinces.”"
-        answer: "<latin>ULTRĀ</latin> <latin>PROVINCIĀS</latin> "
+        answer: "<latin>ULTRĀ PROVINCIĀS</latin> "
       - question: "Translate the prepositional phrase, “<latin>secundum natūrām</latin>”?"
         answer: "ACCORDING TO NATURE"
   - tossup:

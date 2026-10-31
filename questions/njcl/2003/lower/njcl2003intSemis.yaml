@@ -16,7 +16,7 @@ questions:
       answer: "<latin>FĀTĒRĪ, FASSUS /-UM (SUM)</latin>"
     boni:
       - question: "... of <latin>ūrō</latin>"
-        answer: "<latin>ŪRERE, USS</latin><latin>Ī,</latin> <latin>ŪSTUS /-UM (SUM)</latin>"
+        answer: "<latin>ŪRERE, USS</latin><latin>Ī, ŪSTUS /-UM (SUM)</latin>"
       - question: "... of <latin>ulcīscor</latin>"
         answer: "<latin>ULCĪSCĪ, ULTUS /-UM (SUM)</latin>"
   - tossup:
@@ -76,10 +76,10 @@ questions:
       - question: "Who taught him to drive a chariot?"
         answer: "AMPHITRYON"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Quondam fuit vir statūrā</latin> <latin>altus quī</latin> <latin>dīvitiīs abundābat. Ut accidit, virginem formōsam in mātrimōnium dūxerat. Cum beātī</latin> <latin>vidērentur, marītus tamen aliam fēminam in amōre habuit. Rumōre dē</latin> <latin>infidēlitāte ortō, marītus dēspērāns īngentem ānulum purpureum et pretiōsissimum ēmit ut uxōrī</latin> <latin>placēret.</latin>  <latin>Quālis erat fēmina quam hic vir in mātrimōnium dūxerat?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Quondam fuit vir statūrā altus quī dīvitiīs abundābat. Ut accidit, virginem formōsam in mātrimōnium dūxerat. Cum beātī vidērentur, marītus tamen aliam fēminam in amōre habuit. Rumōre dē infidēlitāte ortō, marītus dēspērāns īngentem ānulum purpureum et pretiōsissimum ēmit ut uxōrī placēret.</latin>  <latin>Quālis erat fēmina quam hic vir in mātrimōnium dūxerat?</latin>"
       answer: "FORMŌSA / PULCHRA"
     boni:
-      - question: "Quō <latin>factō</latin> <latin>marītus ānulum novum uxōrī</latin> <latin>suae ēmit?</latin>"
+      - question: "Quō <latin>factō marītus ānulum novum uxōrī suae ēmit?</latin>"
         answer: "<latin>RUMŌRE DĒ INFIDĒLITĀTE ORTŌ</latin> or <latin>POSTQUAM ALIAM FĒMINAM IN AMŌRE HABUERAT</latin>"
       - question: "<latin>Quō consiliō ānulus īngēns uxōrī dabātur?</latin>"
         answer: "<latin>UT UXŌRĪ PLACĒRET</latin>"
@@ -92,12 +92,12 @@ questions:
       - question: "How did Nerva avoid the same problem Galba had and assure the support of the military during his reign?"
         answer: "HE ADOPTED TRAJAN AS HIS HEIR / CO-REGENT"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Ululā</latin> <latin>ut lupus</latin>"
+      question: "When you are recognized by the spotter, follow this direction: <latin>Ululā ut lupus</latin>"
       answer: "STUDENT SHOULD HOWL LIKE A WOLF"
     boni:
       - question: "<latin>Fac sonum anseris</latin>"
         answer: "STUDENT SHOULD HONK LIKE A GOOSE"
-      - question: "<latin>Imitāminī</latin> <latin>pullōs edentēs</latin>"
+      - question: "<latin>Imitāminī pullōs edentēs</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD IMITATE CHICKENS / BIRDS EATING"
   - tossup:
       question: "With the founding of what city do we associate the mythical Spartoi, or \"sown men\"?"
@@ -108,10 +108,10 @@ questions:
       - question: "At what other city did men grow out of the ground in a similar fashion?"
         answer: "AEA ( IN COLCHIS)"
   - tossup:
-      question: "Of the nouns <latin>iūdex, aper, scelus, gelū</latin>, and <latin>fūnus</latin>, which is described in this Latin sentence? <latin>Eōs pūnit quī</latin> <latin>scelera commīsērunt</latin>"
+      question: "Of the nouns <latin>iūdex, aper, scelus, gelū</latin>, and <latin>fūnus</latin>, which is described in this Latin sentence? <latin>Eōs pūnit quī scelera commīsērunt</latin>"
       answer: "IŪDEX"
     boni:
-      - question: ". . . <latin>Hoc nōbīs est cum moritūrī</latin> <latin>sīmus</latin>"
+      - question: ". . . <latin>Hoc nōbīs est cum moritūrī sīmus</latin>"
         answer: "<latin>FŪNUS</latin>"
       - question: ". . . <latin>Dentēs acrōs et perīculōsōs habet</latin>"
         answer: "<latin>APER</latin>"
@@ -130,7 +130,7 @@ questions:
       - question: "Translate the prepositional phrase into Latin for the following sentence: \"Hannibal marched his soldiers to the tops of the mountains.\""
         answer: "<latin>AD SUMMŌS MONTĒS</latin>"
       - question: "Translate the prepositional phrase into Latin for the following sentence: \"He could not leave his elephants in the middle of the snow.\""
-        answer: "<latin>IN MEDIĀ</latin> <latin>NIVE</latin>"
+        answer: "<latin>IN MEDIĀ NIVE</latin>"
   - tossup:
       question: "What are the two genitive forms of the pronoun <latin>vōs</latin>?"
       answer: "<latin>VESTRĪ, VESTRUM</latin>"

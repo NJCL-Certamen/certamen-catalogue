@@ -120,7 +120,7 @@ questions:
       answer: "COMMODUS"
     boni:
       - question: "The letter “P” and the abbreviation “FEL” both stand for Latin adjectives. What are those adjectives?"
-        answer: "<latin>PIUS</latin> <latin>& FĒLIX</latin> "
+        answer: "<latin>PIUS & FĒLIX</latin> "
       - question: "This coin can be dated to 191 A.D. or later because of the use of Commodus’ family name, Aelius. It is believed that he restored this name to his official title to create a connection between himself and what other beloved emperor who was part of the Aelius <latin>gēns</latin>?"
         answer: "HADRIAN"
   - tossup:

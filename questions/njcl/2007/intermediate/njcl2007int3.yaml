@@ -15,32 +15,32 @@ questions:
       question: "What use of the Dative case can be found in the following sentence? <latin>Haec prōvincia vōbīs dēfendenda est</latin>"
       answer: "AGENT"
     boni:
-      - question: "<latin>Mīlitēs ad urbem missī</latin> <latin>sunt subsidiō</latin>"
+      - question: "<latin>Mīlitēs ad urbem missī sunt subsidiō</latin>"
         answer: "PURPOSE"
       - question: "Say in Latin: The senate put Cato in charge of the cohort"
-        answer: "<latin>SENĀTUS CATŌNEM COHORTĪ</latin> <latin>PRAEFĒCIT</latin>"
+        answer: "<latin>SENĀTUS CATŌNEM COHORTĪ PRAEFĒCIT</latin>"
   - tossup:
       question: "Using a deponent verb, translate the following sentence into Latin: That guest is wondering where the food is"
       answer: "<latin>ILLE HOSPES MĪRĀTUR UBI CIBUS / VĪCTUS SIT</latin>"
     boni:
       - question: "The master does not know where the cook has fled"
-        answer: "<latin>MAGISTER NESCIT / IGNŌSCIT QUŌ</latin> <latin>COQUUS FŪGERIT</latin>"
+        answer: "<latin>MAGISTER NESCIT / IGNŌSCIT QUŌ COQUUS FŪGERIT</latin>"
       - question: "The wife persuaded her son to find him"
-        answer: "<latin>UXOR / DOMINA FĪLIŌ</latin> <latin>PERSUĀSIT / PERSUĀDĒBAT</latin>   <latin>UT EUM / ILLUM INVENĪRET</latin> / <latin>REPERĪRET</latin>"
+        answer: "<latin>UXOR / DOMINA FĪLIŌ PERSUĀSIT / PERSUĀDĒBAT</latin>   <latin>UT EUM / ILLUM INVENĪRET / REPERĪRET</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Mūs ab agricolā</latin> <latin>dēprehēnsus tam acrī</latin> <latin>morsū</latin> <latin>digitōs eius vulnerāvit ut ille eum dīmitteret. “Nihil,” inquit mūs “tam īnfirmum est ut sē</latin> <latin>dēfendere nōn dēbeat. Nam necesse est nōn modo hominibus sed etiam omnibus animalibus sē</latin> <latin>dēfendere.”</latin>  Question: What is it necessary for both men and animals to do?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Mūs ab agricolā dēprehēnsus tam acrī morsū digitōs eius vulnerāvit ut ille eum dīmitteret. “Nihil,” inquit mūs “tam īnfirmum est ut sē dēfendere nōn dēbeat. Nam necesse est nōn modo hominibus sed etiam omnibus animalibus sē dēfendere.”</latin>  Question: What is it necessary for both men and animals to do?"
       answer: "DEFEND THEMSELVES"
     boni:
       - question: "Why did the farmer release the mouse?"
         answer: "THE MOUSE BIT THE FARMER(’S FINGERS) If just “wounded the farmer” is given, ask for more information"
-      - question: "Translate the first sentence spoken by the mouse, “<latin>Nihil tam īnfirmum est ut sē</latin> <latin>dēfendere nōn dēbeat</latin>.”"
+      - question: "Translate the first sentence spoken by the mouse, “<latin>Nihil tam īnfirmum est ut sē dēfendere nōn dēbeat</latin>.”"
         answer: "NOTHING IS SO WEAK / INFIRM THAT IT <emphasis>OUGHT / SHOULD</emphasis> NOT DEFEND ITSELF"
   - tossup:
       question: "The rights of fathers, the procedures of preliminary judicial hearings and trials, and rules regulating funeral rites were all part of what set of Roman law codes produced in 451 and 450 BC?"
       answer: "TWELVE TABLES / <latin>DUODECIM TABULAE</latin>"
     boni:
       - question: "What group was commissioned to codify existing Roman laws and produced the Twelve Tables as a result?"
-        answer: "<latin>DECEMVIRĪ</latin> <latin>(LĒGIBUS SCRĪBUNDĪS)</latin>"
+        answer: "<latin>DECEMVIRĪ (LĒGIBUS SCRĪBUNDĪS)</latin>"
       - question: "Who was the only man to serve on both commissions of the <latin>decemvirī</latin>?"
         answer: "APPIUS CLAUDIUS"
   - tossup:
@@ -119,17 +119,17 @@ questions:
       question: "Translate the following sentence into English: <latin>Augur dīcit avēs mox reventūrās esse</latin>"
       answer: "THE AUGUR / PROPHET / SEER SAYS THAT THE BIRDS WILL RETURN SOON"
     boni:
-      - question: "<latin>Haruspex crēdidit exercitum magnā</latin> <latin>tempestāte periisse.</latin>"
+      - question: "<latin>Haruspex crēdidit exercitum magnā tempestāte periisse.</latin>"
         answer: "THE HARUSPEX / PROPHET / SEER BELIEVED THAT THE ARMY HAD PERISHED IN A GREAT STORM"
       - question: "<latin>Ancilla numquam cōnfitēbitur dominum suum interfectum esse</latin>"
         answer: "THE SLAVE(GIRL) WILL NEVER ADMIT / CONFESS THAT HER MASTER HAS BEEN KILLED"
   - tossup:
-      question: "Identify the mood of the verb in Idaho’s state motto, “<latin>Estō</latin> <latin>Perpetua”</latin>"
+      question: "Identify the mood of the verb in Idaho’s state motto, “<latin>Estō Perpetua”</latin>"
       answer: "(FUTURE / 3rd PERSON) IMPERATIVE"
     boni:
       - question: "What use of the Ablative case is found in South Carolina’s state motto, “<latin>Animīs Opibusque Parātī</latin>”?"
         answer: "RESPECT / SPECIFICATION"
-      - question: "Identify the respective tenses of both verbs in Connecticut’s state motto, “<latin>Quī</latin> <latin>Trānstulit Sustinet</latin>”"
+      - question: "Identify the respective tenses of both verbs in Connecticut’s state motto, “<latin>Quī Trānstulit Sustinet</latin>”"
         answer: "PERFECT & PRESENT"
   - tossup:
       question: "Which of the following was NOT one of the women encountered by Odysseus at the edge of the Underworld: Alcmene, Leda, Phaedra, Iphimedeia, Eurycleia?"

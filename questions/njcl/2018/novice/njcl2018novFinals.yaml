@@ -72,7 +72,7 @@ questions:
       answer: "<latin>RĒGĪNA, CUI CĪVĒS FĀVĒBANT, VINCET</latin>"
     boni:
       - question: "Now say in Latin:  We walked from Brundisium to Rome within thirty days."
-        answer: "<latin>AMBULĀVIMUS / AMBULĀBĀMUS (EX URBE) BRUNDISIŌ</latin> <latin>(AD URBEM) RŌMAM TRĪGINTĀ DIĒBUS</latin>"
+        answer: "<latin>AMBULĀVIMUS / AMBULĀBĀMUS (EX URBE) BRUNDISIŌ (AD URBEM) RŌMAM TRĪGINTĀ DIĒBUS</latin>"
       - question: "Using an ablative absolute and the idiom <latin>ōrātiōnem habēre</latin>, translate into Latin:  The queen was  \t\tattacked after the speech was delivered."
         answer: "<latin>ŌRĀTIŌNE HABITĀ, RĒGĪNA OPPUGNĀTA EST / OPPUGNĀBĀTUR</latin>"
   - tossup:
@@ -89,7 +89,7 @@ questions:
     boni:
       - question: "Identify by letter and name the figure who died last?"
         answer: "C"
-      - question: "Who is pictured in the bust labeled A, who held lavish <latin>Lūdī</latin> <latin>Saeculārēs</latin> to celebrate a most momentous occasion in Rome’s history."
+      - question: "Who is pictured in the bust labeled A, who held lavish <latin>Lūdī Saeculārēs</latin> to celebrate a most momentous occasion in Rome’s history."
         answer: "PHILLIP (THE ARAB)"
   - tossup:
       question: "In mythology, into what bird were Cycnus and Zeus both transformed, Cycnus as he mourned Phaëthon and Zeus as he pursued Leda?"
@@ -156,7 +156,7 @@ questions:
       - question: "<latin>Dēscrībāmus nunc propriētātēs dictiōnum in hāc sententiā” “Nūlla rēs agitur”.  quō tempore est verbum in illā sententiā?</latin>"
         answer: "<latin>PRAESENTE / PRAESENTĪ</latin>"
   - tossup:
-      question: "What type of person in ancient Rome would you see wearing a tunica <latin>lātī</latin> <latin>clāvī</latin>, which was adorned with wide crimson stripes?"
+      question: "What type of person in ancient Rome would you see wearing a tunica <latin>lātī clāvī</latin>, which was adorned with wide crimson stripes?"
       answer: "SENATOR"
     boni:
       - question: "What type of tunic had sleeves that extended down to the wrists?"

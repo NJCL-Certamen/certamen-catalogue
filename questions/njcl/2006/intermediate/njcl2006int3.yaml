@@ -39,7 +39,7 @@ questions:
       question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title>, or <title>Dictionary of Modern Latin</title>, lists “communism” as “<latin>omnium bonōrum aequāti</latin><latin>ō.</latin>” Translate that phrase into English."
       answer: "THE LEVELING / EQUALING OF ALL GOODS / GOOD THINGS / WEALTH (NOT “of all good men”. <latin>Bona</latin> in the plural means “goods”.)"
     boni:
-      - question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title> defines the adjective “supersonic” as “<latin>sonī</latin> <latin>fīnēs exsuperāns</latin>.” Translate that phrase into English."
+      - question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title> defines the adjective “supersonic” as “<latin>sonī fīnēs exsuperāns</latin>.” Translate that phrase into English."
         answer: "EXCEEDING / SURPASSING THE BORDERS / BOUNDARIES OF SOUND"
       - question: "What type of clothing might be described as “<latin>brevissimae brācae</latin>”?"
         answer: "SHORTS / CUTOFFS / DAISY DUKES / HOT PANTS / GRIPPERS"
@@ -76,7 +76,7 @@ questions:
       - question: "What city had Scipio been blockading when his brother-in-law Tiberius was killed by the mob?"
         answer: "NUMANTIA"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question about it: <latin>Maximum certāmen inter lūsōrēs Rōmānōs et Gallicōs habēbātur. Factiōnēs pilā</latin> <latin>lūdentēs inter sē</latin> <latin>currēbant, cum ūnus ex Rōmānīs Gallicō</latin> <latin>nōtissimō</latin> <latin>dē</latin> <latin>ēius mātre maledīceret. Gallicus furēns capite suō</latin> <latin>Rōmānum īcit adeō</latin> <latin>ut Rōmānus in herbam caderet. Ecce Rōma, caput mund</latin><latin>ī.</latin>  Question: What did one of the Roman players do to the Gaul?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question about it: <latin>Maximum certāmen inter lūsōrēs Rōmānōs et Gallicōs habēbātur. Factiōnēs pilā lūdentēs inter sē currēbant, cum ūnus ex Rōmānīs Gallicō nōtissimō dē ēius mātre maledīceret. Gallicus furēns capite suō Rōmānum īcit adeō ut Rōmānus in herbam caderet. Ecce Rōma, caput mund</latin><latin>ī.</latin>  Question: What did one of the Roman players do to the Gaul?"
       answer: "HE INSULTED HIS MOTHER / HE INSULTED HIM"
     boni:
       - question: "What was the response of the Gallic player?"
@@ -106,15 +106,15 @@ questions:
       - question: "Give another."
         answer: "<latin>NĀTUS</latin> - BORN , <latin>NEUTER -</latin> NEUTER, or <latin>NOCTE</latin> - AT NIGHT"
       - question: "Give the Latin and English for two of the possible meanings of the abbreviation <latin>a.d.</latin> "
-        answer: "<latin>ANTE DIEM</latin> - BEFORE THE DAY OR <latin>AURIS DEXTRA</latin> - RIGHT EAR <latin>ANNŌ</latin> <latin>DOMINĪ</latin> - IN THE YEAR OF OUR LORD"
+        answer: "<latin>ANTE DIEM</latin> - BEFORE THE DAY OR <latin>AURIS DEXTRA</latin> - RIGHT EAR <latin>ANNŌ DOMINĪ</latin> - IN THE YEAR OF OUR LORD"
   - tossup:
       question: "Using a deponent verb, say in Latin: “It is difficult to speak in Latin."
-      answer: "<latin>DIFFICILE EST LATĪNĒ</latin> <latin>LOQUĪ</latin> / <latin>AD LOQUENDUM</latin>  “<latin>In (linguā) Latīna</latin>” is acceptable, but not the best. Inform the student of the better form"
+      answer: "<latin>DIFFICILE EST LATĪNĒ LOQUĪ / AD LOQUENDUM</latin>  “<latin>In (linguā) Latīna</latin>” is acceptable, but not the best. Inform the student of the better form"
     boni:
       - question: "Using a deponent verb, say in Latin: “We have forgotten.”"
-        answer: "<latin>OBLĪTĪ</latin> <latin>/ -AE SUMUS</latin> "
+        answer: "<latin>OBLĪTĪ / -AE SUMUS</latin> "
       - question: "Using two deponent verbs, say in Latin: “We will try to follow you.”"
-        answer: "<latin>VŌS / TĒ</latin> <latin>SEQUĪ</latin> <latin>CŌNĀBIMUR</latin> "
+        answer: "<latin>VŌS / TĒ SEQUĪ CŌNĀBIMUR</latin> "
   - tossup:
       question: "What two friends decide to kidnap Persephone, the queen of the Underworld?"
       answer: "THESEUS & PIRITHOUS"
@@ -140,20 +140,20 @@ questions:
       - question: "Whose trap did Hannibal escape by employing these unique “troops”?"
         answer: "(Q.) FABIUS MAXIMUS"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Silentiō</latin> <latin>factō, cōnsul dīcere coepit</latin>."
+      question: "Translate the following sentence into English: <latin>Silentiō factō, cōnsul dīcere coepit</latin>."
       answer: "WHEN THERE WAS SILENCE, THE CONSUL BEGAN TO SPEAK"
     boni:
-      - question: "<latin>Incēnsō</latin> <latin>oppidō, quam celerrimē</latin> <latin>discessimus</latin>."
+      - question: "<latin>Incēnsō oppidō, quam celerrimē discessimus</latin>."
         answer: "AFTER THE TOWN BURNED / WITH THE TOWN BURNED, WE LEFT AS QUICKLY AS POSSIBLE"
-      - question: "<latin>Publiō</latin> <latin>Cornēliō</latin> <latin>et Aulō</latin> <latin>Gabīniō</latin> <latin>cōnsulibus, Rōma ūndecim templa habuit</latin>."
+      - question: "<latin>Publiō Cornēliō et Aulō Gabīniō cōnsulibus, Rōma ūndecim templa habuit</latin>."
         answer: "WHEN PUBLIUS CORNELIUS AND AULUS GABINIUS WERE CONSULS / DURING THE CONSULSHIP OF PUBLIUS CORNELIUS AND AULUS GABINIUS, ROME HAD ELEVEN TEMPLES"
   - tossup:
-      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Rēx Thessaliae, quī</latin> <latin>Peliās appellābātur, iussit mē</latin> <latin>iter facere et vellus aureum referre. Quam ob causam quīnquāgintā</latin> <latin>virōs fortissimōs dēlēgī</latin> <latin>et magnam nāvem aedificārī</latin> <latin>iussī. Mea nāvis Argō</latin> <latin>appellāta est et virī</latin> <latin>Argonautae. Quis sum?</latin>"
+      question: "<latin>Audī dīligenter et respondē aut Anglicē aut Latīnē: Quis sum? Rēx Thessaliae, quī Peliās appellābātur, iussit mē iter facere et vellus aureum referre. Quam ob causam quīnquāgintā virōs fortissimōs dēlēgī et magnam nāvem aedificārī iussī. Mea nāvis Argō appellāta est et virī Argonautae. Quis sum?</latin>"
       answer: "JASON / IASON"
     boni:
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quamquam rēgis fīlius eram, ad Crētam nāvigāre cōnstituī</latin> <latin>ut patriam ā</latin> <latin>terrōre mīnōtaurī</latin> <latin>līberārem. Ariadna, fīlia Mīnōis, mihi gladium dedit et exitum ē</latin> <latin>labyrinthō</latin> <latin>docuit. Mīnōtaurō</latin> <latin>necāt</latin><latin>ō,</latin> ā <latin>Crētā</latin> <latin>cum fīliā</latin> <latin>rēgis nāvigāvī. Quis sum?</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quamquam rēgis fīlius eram, ad Crētam nāvigāre cōnstituī ut patriam ā terrōre mīnōtaurī līberārem. Ariadna, fīlia Mīnōis, mihi gladium dedit et exitum ē labyrinthō docuit. Mīnōtaurō necāt</latin><latin>ō,</latin> ā <latin>Crētā cum fīliā rēgis nāvigāvī. Quis sum?</latin>"
         answer: "THESEUS"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Dum lūdō</latin> <latin>et flōrēs carpō</latin> <latin>in īnsulā</latin> <latin>Siciliā, paene simul ā</latin> <latin>Plūtōne vīsa, amāta et rapta sum. Uxor rēgis īnfernī</latin> <latin>facta, nunc rēgīna rēgnī</latin> <latin>obscūrī</latin> <latin>sum. Cum mea māter mē</latin> <latin>per omnēs terrās quaereret, frūmentum et herbae nōn crēscēbant. Tandem Iuppiter annum dīvīsit ita ut sex mēnsēs cum mātre et sex mensēs cum coniuge agerem. Quis sum?</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Dum lūdō et flōrēs carpō in īnsulā Siciliā, paene simul ā Plūtōne vīsa, amāta et rapta sum. Uxor rēgis īnfernī facta, nunc rēgīna rēgnī obscūrī sum. Cum mea māter mē per omnēs terrās quaereret, frūmentum et herbae nōn crēscēbant. Tandem Iuppiter annum dīvīsit ita ut sex mēnsēs cum mātre et sex mensēs cum coniuge agerem. Quis sum?</latin>"
         answer: "PROSERPINA"
   - tossup:
       question: "What term do we use for such verbs as <latin>cōnor</latin> and <latin>proficīscor</latin>?"

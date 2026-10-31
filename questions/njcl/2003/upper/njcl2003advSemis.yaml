@@ -25,7 +25,7 @@ questions:
     boni:
       - question: ". . . <latin>Est pars faciēī īma</latin>"
         answer: "MENTUM"
-      - question: ". . . <latin>Hoc receptāculum potest invenīrī</latin> <latin>in columbariīs</latin>"
+      - question: ". . . <latin>Hoc receptāculum potest invenīrī in columbariīs</latin>"
         answer: "<latin>ŌLLA</latin>"
   - tossup:
       question: "What Roman author states that he borrowed the meters and inspiration from the Greek poet Archilochus, but that the contents of his <title>Epodes</title> are original?"
@@ -45,7 +45,7 @@ questions:
         answer: "MASCULINE"
   - tossup:
       question: "Using a supine, say in Latin \"He is younger than I.\""
-      answer: "(<latin>ILLE/ IS/ HIC) EST MINOR NĀTŪ</latin> <latin>MĒ/ QUAM EGO</latin>"
+      answer: "(<latin>ILLE/ IS/ HIC) EST MINOR NĀTŪ MĒ/ QUAM EGO</latin>"
     boni:
       - question: "<latin>Minor nātū</latin> is an idiom. Translate that phrase literally?"
         answer: "SMALLER/LESS(ER) BY BIRTH"
@@ -82,7 +82,7 @@ questions:
       - question: "... for the adjective <latin>armātus</latin>."
         answer: "<latin>INERMIS/ INERMUS/ NŪDUS</latin>"
       - question: "... for the noun <latin>sēgnitia</latin>"
-        answer: "<latin>STUDIUM</latin> / <latin>RAPIDITAS</latin> / <latin>CELERITĀS</latin> / <latin>NEGOTIUM</latin> / <latin>LABOR</latin> / <latin>INDUSTRIA</latin> / <latin>DĪLIGENTIA</latin>"
+        answer: "<latin>STUDIUM / RAPIDITAS / CELERITĀS / NEGOTIUM / LABOR / INDUSTRIA / DĪLIGENTIA</latin>"
   - tossup:
       question: "What woman, the daughter of Theodosius I, was first married to a Visigothic chieftain named Athaulf, then later to Constantius?"
       answer: "(GALLA) PLACIDIA"
@@ -100,7 +100,7 @@ questions:
       - question: "In addition to being a collection of general precepts on how the landowners should behave, what is the literary significance of Cato’s <title><latin>Dē</latin></title> <title><latin>Agrī</latin></title> <title><latin>Cultūr</latin></title>ā?"
         answer: "EARLIEST LATIN PROSE PRESERVED IN ITS ENTIRETY"
   - tossup:
-      question: "What kind of dependent subjunctive clause can be seen in following line of Cicero's <title><latin>Prō</latin></title> <title><latin>Caeli</latin></title>ō: \"<latin>Sī</latin> <latin>quis, iūdicēs, forte nunc adsit ignārus lēgum, iūdiciōrum,</latin>  <latin>consuētūdinis nostrae, mīrētur profectō, quae sit tanta atrōcitās huiusce causae”</latin>?"
+      question: "What kind of dependent subjunctive clause can be seen in following line of Cicero's <title><latin>Prō</latin></title> <title><latin>Caeli</latin></title>ō: \"<latin>Sī quis, iūdicēs, forte nunc adsit ignārus lēgum, iūdiciōrum,</latin>  <latin>consuētūdinis nostrae, mīrētur profectō, quae sit tanta atrōcitās huiusce causae”</latin>?"
       answer: "INDIRECT QUESTION"
     boni:
       - question: "What kind of conditional clause is found in that quotation?"
@@ -116,7 +116,7 @@ questions:
       - question: "Which Parthian king refused Caracalla’s diplomatic proposal of marriage to his daughter in A.D. 216?"
         answer: "ARTABANUS (V)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it. <latin>Tantus est innātus in nōbīs amor scientiae, ut nēmō</latin> <latin>dubitāre possit, quin nātūra hominum rapiātur ad eam rem. Nōnne vidēmus ut puerī</latin> <latin>nē</latin> <latin>verberibus quidem ā</latin> <latin>contemplandīs rēbus dēterreantur?</latin>  <latin>Quid habēmus in nōbīs innātum?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it. <latin>Tantus est innātus in nōbīs amor scientiae, ut nēmō dubitāre possit, quin nātūra hominum rapiātur ad eam rem. Nōnne vidēmus ut puerī nē verberibus quidem ā contemplandīs rēbus dēterreantur?</latin>  <latin>Quid habēmus in nōbīs innātum?</latin>"
       answer: "(TANTUM) AMŌREM SCIENTIAE"
     boni:
       - question: "<latin>Ad quam rem nostra nātūra rapitur?</latin>"
@@ -132,12 +132,12 @@ questions:
       - question: "In which picture can the sons of Nyx be seen?"
         answer: "C"
   - tossup:
-      question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid,</title> which I will read in prose? <latin>“Heu, miserande puer, sī</latin> <latin>quā</latin> <latin>fāta aspera rumpās,</latin>  <latin>tū</latin> <latin>Mārcellus eris.”</latin>"
+      question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid,</title> which I will read in prose? <latin>“Heu, miserande puer, sī quā fāta aspera rumpās,</latin>  <latin>tū Mārcellus eris.”</latin>"
       answer: "ANCHISES"
     boni:
-      - question: ": <latin>“. . . facilis dēscēnsus Avernō:</latin>  <latin>noctēs atque diēs patet ātrī</latin> <latin>iānua Dītis.</latin>”"
+      - question: ": <latin>“. . . facilis dēscēnsus Avernō:</latin>  <latin>noctēs atque diēs patet ātrī iānua Dītis.</latin>”"
         answer: "SIBYL (OF CUMAE)"
-      - question: ": <latin>“Hunc ego Dītī</latin> <latin>sacrum iussa ferō</latin> <latin>tēque istō</latin> <latin>corpore solv</latin><latin>ō.</latin>”"
+      - question: ": <latin>“Hunc ego Dītī sacrum iussa ferō tēque istō corpore solv</latin><latin>ō.</latin>”"
         answer: "IRIS"
   - tossup:
       question: "Whom did Eurytus of Oechalia promise as a prize to the person who could beat him in an archery contest?"

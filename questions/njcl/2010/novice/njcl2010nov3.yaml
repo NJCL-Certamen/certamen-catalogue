@@ -74,7 +74,7 @@ questions:
       - question: "What was this small stream crossed by Caesar in 49 BC?"
         answer: "THE RUBICON"
       - question: "What Latin phrase was Caesar reported to have said as his army crossed the Rubicon, and what does it mean?"
-        answer: "<latin>ALEA</latin> <latin>IACTA</latin> <latin>EST</latin>, THE DIE HAS BEEN / IS CAST (since question does not expect translation, accept approximations)"
+        answer: "<latin>ALEA IACTA EST</latin>, THE DIE HAS BEEN / IS CAST (since question does not expect translation, accept approximations)"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Pūblius cum Iūliō in vīllā prope montēs cēnābat. Subitō clāmōrēs audīvērunt. “Currite! Currite!” clāmābant incolae oppidī. “Mōnstrum horribile adest nōmine Cācus.” Pūblius et Iūlius rīsērunt, nam Cācus rē vērē nōn vīxit.</latin>  Question: <latin>Ubi erat vīlla in quā Pūblius Iūliusque cēnābant?</latin>"
       answer: "PROPE/AD MONTĒS/ SUB MONTIBUS"
@@ -97,7 +97,7 @@ questions:
     boni:
       - question: "What specific effect did this shared <latin>nōmen</latin> have on Collatinus’ political career?"
         answer: "REMOVED FROM CONSULSHIP (prompt on “hindered it”)"
-      - question: "Who replaced Collatinus, thus becoming the first <latin>cōnsul</latin> <latin>suffectus</latin>?"
+      - question: "Who replaced Collatinus, thus becoming the first <latin>cōnsul suffectus</latin>?"
         answer: "(VALERIUS) POPLICOLA / PUBLICOLA"
   - tossup:
       question: "Give two distinct meanings for the Latin word “<latin>quam</latin>”"

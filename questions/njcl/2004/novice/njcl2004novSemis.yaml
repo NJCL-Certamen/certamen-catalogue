@@ -36,7 +36,7 @@ questions:
       - question: "Into what was Perdix transformed by Athena?"
         answer: "PARTRIDGE"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim poēta nōtissimus in Viā</latin> <latin>Sacrā</latin> <latin>ambulābat. Solēbat cōgitāre dē</latin> <latin>amōre et vītā. Subitō</latin> <latin>homō</latin> <latin>quīdam ad eum cucurrit et dīxit, “Quid agis, carissime?” “Nōn tam bene.” respondit poēta, “Mea carmina plūs amōris habent quam mea vīta.”</latin>  The question: <latin>Quid agere solēbat poēta?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim poēta nōtissimus in Viā Sacrā ambulābat. Solēbat cōgitāre dē amōre et vītā. Subitō homō quīdam ad eum cucurrit et dīxit, “Quid agis, carissime?” “Nōn tam bene.” respondit poēta, “Mea carmina plūs amōris habent quam mea vīta.”</latin>  The question: <latin>Quid agere solēbat poēta?</latin>"
       answer: "<latin>CŌGITĀRE DĒ AMŌRE ET VĪTĀ</latin>"
     boni:
       - question: "<latin>Quid dictum est ab amīcō poetā?</latin>"
@@ -45,10 +45,10 @@ questions:
         answer: "<latin>AMŌRIS</latin>"
   - tossup:
       question: "Say in Latin, “In the middle of the night, there was silence.”"
-      answer: "<latin>MEDIĀ</latin> <latin>NOCTE SILENTIUM FUIT / ERAT</latin>"
+      answer: "<latin>MEDIĀ NOCTE SILENTIUM FUIT / ERAT</latin>"
     boni:
       - question: "... “At dawn we wanted to eat the food.”"
-        answer: "<latin>PRĪMĀ</latin> <latin>LŪCE VOLUIMUS / VOLĒBĀMUS CIBUM EDERE / CONSŪMERE</latin>"
+        answer: "<latin>PRĪMĀ LŪCE VOLUIMUS / VOLĒBĀMUS CIBUM EDERE / CONSŪMERE</latin>"
       - question: "... “Within ten days we will be able to leave.”"
         answer: "<latin>DECEM DIĒBUS POTERIMUS DISCĒDERE</latin>"
   - tossup:
@@ -128,7 +128,7 @@ questions:
       answer: "<latin>SUB RŌSĀ</latin>"
     boni:
       - question: "What Latin phrase is commonly used in English to mean “temporarily?”"
-        answer: "<latin>PRŌ</latin> <latin>TEMPORE</latin>"
+        answer: "<latin>PRŌ TEMPORE</latin>"
       - question: "What Latin phrase is commonly used in English to mean “an autopsy?”"
         answer: "<latin>POST MORTEM</latin>"
   - tossup:

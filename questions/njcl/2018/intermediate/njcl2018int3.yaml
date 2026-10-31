@@ -105,7 +105,7 @@ questions:
     boni:
       - question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Est tempus quō tempestās est frīgida et ningit.</latin>"
         answer: "<latin>HIEMS</latin>"
-      - question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Hāc custōdēs</latin> <latin>ūtuntur ut captīvī teneantur.</latin>"
+      - question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Hāc custōdēs ūtuntur ut captīvī teneantur.</latin>"
         answer: "<latin>CATĒNA</latin>"
   - tossup:
       question: "Since he was too weak to stir from the dung heap on which he lay, what animal wagged his tail, then died, when he saw that his master had returned to Ithaca?"
@@ -160,4 +160,4 @@ questions:
       answer: "SUITABLE / FIT / APT / CAPABLE / CONVENIENT / PROPER"
     boni:
       - question: "For five points each, give two Latin synonyms for <latin>idōneus</latin>."
-        answer: "<latin>APTUS / APPOSITUS /</latin> <latin>COMMODUS / CONGRUUS / CONVENIĒNS / DIGNUS / OPPORTŪNUS / ŪTILIS</latin>"
+        answer: "<latin>APTUS / APPOSITUS / COMMODUS / CONGRUUS / CONVENIĒNS / DIGNUS / OPPORTŪNUS / ŪTILIS</latin>"

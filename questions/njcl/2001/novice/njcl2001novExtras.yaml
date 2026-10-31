@@ -4,12 +4,12 @@ division: "Novice"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenē</latin><latin>ās ex urbe Trōiae cum patre et fīliō</latin> <latin>et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā</latin> <latin>periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē</latin> <latin>accēpit quod prūdentissimus erat.</latin>  <latin>Ubi periit pater Aenēae?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenē</latin><latin>ās ex urbe Trōiae cum patre et fīliō et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē accēpit quod prūdentissimus erat.</latin>  <latin>Ubi periit pater Aenēae?</latin>"
       answer: "IN SICILIĀ"
     boni:
-      - question: "<latin>Quamdiū</latin> <latin>nāvigābat Aenē</latin><latin>ās cum famīliā</latin> <latin>et sociīs?</latin>"
+      - question: "<latin>Quamdiū nāvigābat Aenē</latin><latin>ās cum famīliā et sociīs?</latin>"
         answer: "MULTŌS ANNŌS"
-      - question: "Cūr rēx in Ītaliā <latin>Trōiānōs benignē</latin> <latin>accēpit?</latin>"
+      - question: "Cūr rēx in Ītaliā <latin>Trōiānōs benignē accēpit?</latin>"
         answer: "(QUOD) PRŪDENTISSIMUS ERAT"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Pōne ūnum calceum aut ūnam soleam in mēns</latin><latin>ā.</latin> "
@@ -17,15 +17,15 @@ questions:
     boni:
       - question: "<latin>Pōnite capita in bracchis et dormīte.</latin> "
         answer: "MORE THAN ONE STUDENT SHOULD PLACE THEIR HEADS IN THEIR ARMS AND (PRETEND) TO SLEEP"
-      - question: "<latin>Pōne duōs digitōs in genā</latin> <latin>soci</latin><latin>ī.</latin> "
+      - question: "<latin>Pōne duōs digitōs in genā soci</latin><latin>ī.</latin> "
         answer: "ONE STUDENT SHOULD PLACE TWO OF HIS FINGERS ON THE CHEEK OF A TEAMMATE"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>ergō</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>ergō</latin>”?"
       answer: "THEREFORE, CONSEQUENTLY, AS A RESULT"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>ita</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>ita</latin>”?"
         answer: "SO, THUS, IN THIS WAY, YES"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>ecce</latin>!”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>ecce</latin>!”?"
         answer: "LO!, LOOK HERE!"
   - tossup:
       question: "Which of the following words, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: hostile(adj), hostess, hostel (noun), hospital, hospice?"
@@ -40,15 +40,15 @@ questions:
       answer: "<latin>BONE PATER</latin>"
     boni:
       - question: "Change <latin>bone pater</latin> to the genitive singular"
-        answer: "<latin>BONĪ</latin> <latin>PATRIS</latin>"
-      - question: "Change <latin>bonī</latin> <latin>patris</latin> to the genitive plural"
+        answer: "<latin>BONĪ PATRIS</latin>"
+      - question: "Change <latin>bonī patris</latin> to the genitive plural"
         answer: "<latin>BONŌRUM PATRUM</latin>"
   - tossup:
       question: "Translate the direct object and its modifiers into Latin for the sentence: “I have washed my whole body.”"
       answer: "<latin>TŌTUM CORPUS</latin> (<latin>MEUM</latin>)"
     boni:
       - question: "Translate the direct object and its modifiers into Latin for the sentence: “We visited two towns.”"
-        answer: "<latin>DUO OPPIDA</latin> / <latin>DUĀS URBĒS</latin>"
+        answer: "<latin>DUO OPPIDA / DUĀS URBĒS</latin>"
       - question: "Translate the direct object and its modifiers into Latin for the sentence: “I smell a dead fish.”"
         answer: "<latin>PISCEM MORTUUM</latin>"
   - tossup:
@@ -61,35 +61,35 @@ questions:
         answer: "<latin>FUĪ</latin>"
   - tossup:
       question: "Identify the tense, voice, person, number and the base verb of the form <latin>fuerint</latin>"
-      answer: "FUTURE PERFECT, ACTIVE, THIRD PERSON PLURAL OF <latin>SUM</latin> / <latin>ESSE</latin>"
+      answer: "FUTURE PERFECT, ACTIVE, THIRD PERSON PLURAL OF <latin>SUM / ESSE</latin>"
     boni:
       - question: "Do the same for <latin>potuerātis</latin>"
-        answer: "PLUPERF, ACTIVE, 2ND PERSON PL. OF <latin>POSSUM</latin> / <latin>POSSE</latin>"
+        answer: "PLUPERF, ACTIVE, 2ND PERSON PL. OF <latin>POSSUM / POSSE</latin>"
       - question: " Do the same for <latin>vīs</latin>"
         answer: "PRES, ACTIVE, 2ND PERSON SING. OF <latin>VOLŌ</latin>/ <latin>VELLE</latin>"
   - tossup:
       question: "What Latin phrase is commonly used in English to mean “spoken” or “orally?”"
-      answer: "<latin>VĪVĀ</latin> <latin>VŌCE</latin>"
+      answer: "<latin>VĪVĀ VŌCE</latin>"
     boni:
       - question: " What Latin phrase is commonly used in English to mean “from the bottom of the heart?”"
-        answer: "<latin>AB ĪMŌ</latin> <latin>PECTORE</latin>"
+        answer: "<latin>AB ĪMŌ PECTORE</latin>"
       - question: " What Latin phrase is commonly used in English to mean “with authority?”"
         answer: "<latin>EX CATHEDRĀ</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mercātor</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>mercātor</latin>”?"
       answer: "MERCHANT, TRADER, DEALER, PURCHASER"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mendāx</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>mendāx</latin>”?"
         answer: "LIAR; LYING, DECEPTIVE, FALSE"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mendum</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>mendum</latin>”?"
         answer: "ERROR, MISTAKE, BLEMISH, FAULT"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>fugiō</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>fugiō</latin>”?"
       answer: "FLEE, RUN AWAY, ESCAPE, FLY, HURRY"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>bibō</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>bibō</latin>”?"
         answer: "DRINK"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>redeō</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>redeō</latin>”?"
         answer: "RETURN, GO/ COME BACK"
   - tossup:
       question: "What Latin word is a synonym of the adjective <latin>vastus</latin>?"
@@ -116,12 +116,12 @@ questions:
       - question: ". . . of the preposition <latin>extrā</latin>?"
         answer: "<latin>INTRĀ, INTER, IN, CIS, CITRĀ</latin>"
   - tossup:
-      question: "Translate this sentence into English: <latin>Multī</latin> <latin>equī</latin> <latin>in Circō</latin> <latin>Māximō</latin> <latin>magnā</latin> <latin>celeritāte currēbant.</latin> "
+      question: "Translate this sentence into English: <latin>Multī equī in Circō Māximō magnā celeritāte currēbant.</latin> "
       answer: "MANY HORSES WERE RUNNING WITH GREAT SPEED IN THE CIRCUS MAXIMUS."
     boni:
       - question: "<latin>In Circum Māximum ambulāverāmus et in sēdibus sedēbāmus.</latin> "
         answer: "WE HAD WALKED INTO THE CIRCUS MAXIMUS AND WERE SITTING IN THE SEATS."
-      - question: "<latin>Omnēs līberī</latin> <latin>magnam pompam equōrum spectābant et aurīgās plaudēbant</latin>"
+      - question: "<latin>Omnēs līberī magnam pompam equōrum spectābant et aurīgās plaudēbant</latin>"
         answer: "ALL OF THE CHILDREN WERE WATCHING THE GREAT/LARGE PARADE AND WERE APPLAUDING THE CHARIOTEEERS."
   - tossup:
       question: "Which prepositions does not belong in this group: <latin>per, post, prope, prō, propter PRŌ</latin> Translate into Latin the prepositional phrase in this sentence: He was lying under the table"

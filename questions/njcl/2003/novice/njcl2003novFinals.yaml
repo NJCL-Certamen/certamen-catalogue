@@ -7,7 +7,7 @@ questions:
       question: "What use of the dative case is illustrated in the following sentence: <latin>Nōmen tibi est Iūlius</latin>"
       answer: "POSSESSION"
     boni:
-      - question: "<latin>Marius proeliō</latin> <latin>campum lātum ēlēgit</latin>"
+      - question: "<latin>Marius proeliō campum lātum ēlēgit</latin>"
         answer: "PURPOSE"
       - question: "<latin>Multa nōbīs discenda sunt</latin>"
         answer: "AGENCY"
@@ -28,7 +28,7 @@ questions:
       - question: "Helen noted the visible absence of her brothers as she identified the Greek chieftains. Who were her brothers?"
         answer: "DIOSCURI / CASTOR & POLLUX (POLYDEUCES)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Fīliae senātōris lūdere in campō</latin> <latin>volēbant</latin>"
+      question: "Translate the following sentence into English: <latin>Fīliae senātōris lūdere in campō volēbant</latin>"
       answer: "THE SENATOR’S DAUGHTERS WANTED TO PLAY IN THE FIELD"
     boni:
       - question: "<latin>Quamquam pluēbat, uxor senātōris cum fīliābus exībat</latin>"
@@ -58,7 +58,7 @@ questions:
       - question: "From what Latin word with what meaning is “apiary” derived?"
         answer: "<latin>APIS</latin> - BEE"
       - question: "From what Latin word with what meaning is “capricious” derived?"
-        answer: "<latin>CAPER</latin> / <latin>CAPRA</latin> - GOAT"
+        answer: "<latin>CAPER / CAPRA</latin> - GOAT"
   - tossup:
       question: "During which festival in March did Roman boys officially became men?"
       answer: "LIBERALIA"
@@ -81,7 +81,7 @@ questions:
     boni:
       - question: "Est locus ubi compluvium invenītur"
         answer: "ĀTRIUM"
-      - question: "Gladiātōrī <latin>dabātur quī</latin> <latin>multās victōriās accumulāverat</latin>"
+      - question: "Gladiātōrī <latin>dabātur quī multās victōriās accumulāverat</latin>"
         answer: "RUDIS"
   - tossup:
       question: "Letter “E” points to a temple dedicated to which deity?"
@@ -100,12 +100,12 @@ questions:
       - question: "... of <latin>ēgregia</latin>"
         answer: "MAGIS ĒGREGIA, MAXIMĒ <latin>ĒGREGIA</latin>"
   - tossup:
-      question: "<latin>Dīc mihi Anglicē</latin> <latin>tē</latin> <latin>cantāre velle</latin>"
+      question: "<latin>Dīc mihi Anglicē tē cantāre velle</latin>"
       answer: "STUDENT SHOULD SAY, “I WANT TO SING.”"
     boni:
-      - question: "<latin>Cantāte Anglicē</latin> <latin>\"Stellae nocte sunt magnae et clārae.\"</latin>"
+      - question: "<latin>Cantāte Anglicē \"Stellae nocte sunt magnae et clārae.\"</latin>"
         answer: "AT LEAST TWO MUST SING \"THE STARS AT NIGHT ARE BIG AND BRIGHT.\" (Any sort of tune will do if the students do not know the song)"
-      - question: "<latin>Nunc Anglicē</latin> <latin>cantāte, omnēs, \"Dīc, potesne vidēre parvā</latin> <latin>lūce māne...\"</latin>"
+      - question: "<latin>Nunc Anglicē cantāte, omnēs, \"Dīc, potesne vidēre parvā lūce māne...\"</latin>"
         answer: "ALL SING IN ENGLISH \"O SAY, CAN YOU SEE BY THE DAWN'S EARLY LIGHT\""
   - tossup:
       question: "Who was the helmsman of the Argo on the first part of its journey to Colchis?"
@@ -116,7 +116,7 @@ questions:
       - question: "Name one of the seers on the Argo"
         answer: "MOPSUS / IDMON"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, then answer in LATIN the question about it: <latin>Marcus rem mīram duōbus frātribus suīs nārrāvit. Heri cum per viās urbis ambulābat, subitō</latin> <latin>in viā</latin> <latin>occurrit serpentī</latin> <latin>quae tria capita habēbat. “Sed semper fortis sum” inquit Marcus. “Virgā</latin> <latin>meā</latin> <latin>serpentem pulsāv</latin><latin>ī.</latin> <latin>Ūnō</latin> <latin>ictū</latin> <latin>necāta est.</latin>” <latin>Frātrēs Marcī</latin> <latin>crūdēliter cachinnāvērunt.</latin>  <latin>Quot capita habēbat serpens?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, then answer in LATIN the question about it: <latin>Marcus rem mīram duōbus frātribus suīs nārrāvit. Heri cum per viās urbis ambulābat, subitō in viā occurrit serpentī quae tria capita habēbat. “Sed semper fortis sum” inquit Marcus. “Virgā meā serpentem pulsāv</latin><latin>ī. Ūnō ictū necāta est.</latin>” <latin>Frātrēs Marcī crūdēliter cachinnāvērunt.</latin>  <latin>Quot capita habēbat serpens?</latin>"
       answer: "TRIA"
     boni:
       - question: "Quō <latin>Marcus serpentem pulsāvit?</latin>"
@@ -141,10 +141,10 @@ questions:
         answer: "SHE WAS SEARCHING FOR PERSEPHONE / SHE HAD ABANDONED HER DIVINE DUTY IN ANGER DUE TO PERSEPHONE’S ABDUCTION / SHE WAS GRIEVING FOR THE LOSS OF PERSEPHONE"
   - tossup:
       question: "Translate the following sentence into Latin: \"I have received two gifts.\""
-      answer: "<latin>DUO DŌNA/ MŪNERA ACCĒPĪ</latin> <latin>/ RECĒPĪ</latin>"
+      answer: "<latin>DUO DŌNA/ MŪNERA ACCĒPĪ / RECĒPĪ</latin>"
     boni:
       - question: "\"I gave one gift to my sister.\""
-        answer: "<latin>ŪNUM (DŌNUM / Ē</latin> <latin>DŌNĪS / DŌNŌRUM) SORŌRĪ</latin> <latin>(MEAE) DEDĪ</latin> <latin>/ DŌNĀVĪ</latin>"
+        answer: "<latin>ŪNUM (DŌNUM / Ē DŌNĪS / DŌNŌRUM) SORŌRĪ (MEAE) DEDĪ / DŌNĀVĪ</latin>"
       - question: "\"I will receive more gifts tomorrow.”"
         answer: "<latin>CRĀS PLŪRA (DŌNA/MŪNERA) RECIPIAM</latin>"
   - tossup:

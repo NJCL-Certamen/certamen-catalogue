@@ -12,7 +12,7 @@ questions:
       - question: "Who was able to restore Orion’s eyesight?"
         answer: "HELIUS / APOLLO / SUN / HYPERION"
   - tossup:
-      question: "Translate into English: <latin>urbe captā, cīvēs quam celerrimē</latin> <latin>effūgere temptābant</latin>"
+      question: "Translate into English: <latin>urbe captā, cīvēs quam celerrimē effūgere temptābant</latin>"
       answer: "AFTER / BECAUSE / WHEN THE CITY HAD BEEN / WAS CAPTURED, THE CITIZENS TRIED / WERE TRYING TO ESCAPE AS QUICKLY AS POSSIBLE"
     boni:
       - question: "Translate into English: <latin>vīllīs ardentibus, omnēs cīvēs erant perterrit</latin><latin>ī.</latin> "
@@ -23,7 +23,7 @@ questions:
       question: "You are on an ancient Roman galley sailing the Mediterranean. You have just left from the Balearic Islands and are sailing due west. Toward which modern country are you headed?"
       answer: "SPAIN"
     boni:
-      - question: "You have landed at Saguntum. Which of these destinations would require the longest journey: <latin>Emporiae, Carthāgō</latin> <latin>Nova, Forum Iūliī, Pīsae</latin>?"
+      - question: "You have landed at Saguntum. Which of these destinations would require the longest journey: <latin>Emporiae, Carthāgō Nova, Forum Iūliī, Pīsae</latin>?"
         answer: "<latin>PĪSAE</latin>"
       - question: "You have set sail from Pisae and are headed for Rhegium. Which of these cities would you NOT pass near if you sailed along the coast the entire way: <latin>Rōma, Neāpolis, Tarentum, Paestum</latin>?"
         answer: "<latin>TARENTUM</latin>"
@@ -40,9 +40,9 @@ questions:
       answer: "<latin>MAGIS DUBIUS</latin>"
     boni:
       - question: "Change <latin>magis dubius</latin> to the superlative"
-        answer: "<latin>MAXIMĒ</latin> <latin>DUBIUS</latin>"
-      - question: "Change <latin>maximē</latin> <latin>dubius</latin> to the plural"
-        answer: "<latin>MAXIMĒ</latin> <latin>DUBIĪ</latin>"
+        answer: "<latin>MAXIMĒ DUBIUS</latin>"
+      - question: "Change <latin>maximē dubius</latin> to the plural"
+        answer: "<latin>MAXIMĒ DUBIĪ</latin>"
   - tossup:
       question: "In Roman building construction, what was the difference between <latin>laterēs crūdī</latin> and <latin>laterēs coctī</latin>?"
       answer: "UNBAKED BRICKS AND BAKED (KILN-BURNED) BRICKS"
@@ -68,10 +68,10 @@ questions:
       - question: "What comrade of Theseus did Heracles leave behind on the chair of forgetfulness?"
         answer: "P(E)IRITHOUS"
   - tossup:
-      question: "What use of the dative case can be found in the following sentence: <latin>Caesarī</latin> <latin>omnia ūnō</latin> <latin>tempore erant agenda</latin>?"
+      question: "What use of the dative case can be found in the following sentence: <latin>Caesarī omnia ūnō tempore erant agenda</latin>?"
       answer: "AGENT"
     boni:
-      - question: "What use of the dative case can be found in the following sentence: <latin>Germānī</latin> <latin>fīnitimīs bellum īnferre voluērunt</latin>?"
+      - question: "What use of the dative case can be found in the following sentence: <latin>Germānī fīnitimīs bellum īnferre voluērunt</latin>?"
         answer: "WITH COMPOUND VERB (<latin>ĪNFERRE</latin>)"
       - question: "What use of the dative case can be found in the following sentence: <latin>Dominus hunc mihi timōrem ēripuit</latin>?"
         answer: "SEPARATION"
@@ -84,7 +84,7 @@ questions:
       - question: "Who proclaimed himself emperor and later lost his head in AD 175 when he heard a false rumor of Marcus Aurelius’ death?"
         answer: "AVIDIUS CASSIUS"
   - tossup:
-      question: "Listen carefully to the following sentences, which I will read twice, then answer IN ENGLISH the question that follows: <latin>Discipulī</latin> <latin>linguae Latīnae saepe auxilium ex librīs recipere volunt ut verba</latin>  <latin>ignōta discant, sed, necesse nōn est. Nam in sententiā</latin> <latin>magistrōrum, sī</latin> <latin>discipulī</latin> <latin>dīligentius labōrāverint, verba ignōta fient verba nōta.</latin>  What do Latin students often want to do?"
+      question: "Listen carefully to the following sentences, which I will read twice, then answer IN ENGLISH the question that follows: <latin>Discipulī linguae Latīnae saepe auxilium ex librīs recipere volunt ut verba</latin>  <latin>ignōta discant, sed, necesse nōn est. Nam in sententiā magistrōrum, sī discipulī dīligentius labōrāverint, verba ignōta fient verba nōta.</latin>  What do Latin students often want to do?"
       answer: "TO LOOK IN THE DICTIONARY / OPEN BOOKS TO GET HELP"
     boni:
       - question: "Who says that this is not necessary?"
@@ -132,12 +132,12 @@ questions:
       - question: "Who immediately killed herself upon hearing the news of Haemon’s death?"
         answer: "EURYDICE"
   - tossup:
-      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Multī</latin> <latin>hominēs in agrō</latin> <latin>labōrābant.” Cuius numerī</latin> <latin>est “agrō”?</latin>"
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Multī hominēs in agrō labōrābant.” Cuius numerī est “agrō”?</latin>"
       answer: "SINGULĀRIS / IN NUMERŌ <latin>SINGULĀRĪ</latin>"
     boni:
       - question: "<latin>“Multī,” quae pars ōrātiōnis est?</latin>"
         answer: "ADIECTĪVUM"
-      - question: "“Hominēs,” quō <latin>cāsū</latin> <latin>est?</latin>"
+      - question: "“Hominēs,” quō <latin>cāsū est?</latin>"
         answer: "NŌMINĀTĪVŌ"
   - tossup:
       question: "Which of the Argonauts lost his life when he was attacked by a wild boar?"

@@ -88,9 +88,9 @@ questions:
       answer: "<latin>LECTUM EST</latin>"
     boni:
       - question: "Now say in Latin using the verb <latin>legō</latin>, “it had been read.”"
-        answer: "<latin>LECTUM</latin> <latin>ERAT</latin>"
+        answer: "<latin>LECTUM ERAT</latin>"
       - question: "Now say in Latin using the verb <latin>legō</latin>, “The books will have been read.”"
-        answer: "<latin>LIBRĪ LECTĪ</latin> <latin>ERUNT</latin>"
+        answer: "<latin>LIBRĪ LECTĪ ERUNT</latin>"
   - tossup:
       question: "At this point we will share a screen with the visual.  Once the visual is displayed you will have 10 seconds to examine it before I begin the toss-up question.    This map depicts the Roman Empire at its peak. Please identify the letter labeling the Roman province of Lusitania."
       answer: "B"

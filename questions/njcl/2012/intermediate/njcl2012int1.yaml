@@ -61,7 +61,7 @@ questions:
         answer: "GENITIVE"
   - tossup:
       question: "In the sentence “Horatius carried a longer sword than Manlius,” translate “longer sword.” "
-      answer: "<latin>LONGIŌREM GLADIUM / ĒNSEM //</latin> <latin>LONGIUS FERRUM</latin>"
+      answer: "<latin>LONGIŌREM GLADIUM / ĒNSEM // LONGIUS FERRUM</latin>"
     boni:
       - question: "In that same sentence, translate “than Manlius” into Latin in two distinct ways. "
         answer: "<latin>MANLIŌ / QUAM MANLIUS</latin> "
@@ -162,4 +162,4 @@ questions:
       - question: "From what Greek town had Priscus' father Demaratus been exiled when he came to Etruria?"
         answer: "CORINTH"
       - question: "Give the Latin term for the sewer system, constructed by Priscus, that drained the Forum, allowing construction to begin there"
-        answer: "<latin>CLOĀCA MAXIMA</latin> <latin>2012 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"
+        answer: "<latin>CLOĀCA MAXIMA 2012 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

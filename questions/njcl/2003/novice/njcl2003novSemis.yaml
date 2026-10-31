@@ -20,10 +20,10 @@ questions:
       - question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>avis, ignis, piscis, orbis, lapis</latin>?"
         answer: "<latin>AVIS</latin>"
   - tossup:
-      question: "Of the words <latin>scūtum, iuvenis, rēmus, crīnis</latin>, and <latin>mēnsis</latin>, which is described in the following sentence? <latin>Hōc instrumentō</latin> <latin>nauta nāvem movēre potest</latin>"
+      question: "Of the words <latin>scūtum, iuvenis, rēmus, crīnis</latin>, and <latin>mēnsis</latin>, which is described in the following sentence? <latin>Hōc instrumentō nauta nāvem movēre potest</latin>"
       answer: "<latin>RĒMUS</latin>"
     boni:
-      - question: "... <latin>Auxiliō</latin> <latin>est mīlitī</latin> <latin>quī</latin> <latin>sē</latin> <latin>dēfendit</latin>"
+      - question: "... <latin>Auxiliō est mīlitī quī sē dēfendit</latin>"
         answer: "SCŪTUM"
       - question: "... <latin>Est rēs quae summum caput tegit</latin>"
         answer: "CRĪNIS"
@@ -37,7 +37,7 @@ questions:
         answer: "PANDATERIA"
   - tossup:
       question: "Say in Latin “On this day.”"
-      answer: "<latin>HŌC DIĒ</latin> <latin>/ HŌDIĒ</latin>"
+      answer: "<latin>HŌC DIĒ / HŌDIĒ</latin>"
     boni:
       - question: "Say in Latin “For which men.”"
         answer: "(<latin>PRŌ</latin>) <latin>QUIBUS VIRĪS / HOMINIBUS</latin>"
@@ -76,20 +76,20 @@ questions:
       - question: "Sisyphus was also known for tying up Death. What god was eventually sent to release Death?"
         answer: "ARES"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>\"Via ad victōriam,\" inquit medicus, \"facillima Rōmānīs aperītur. Sī</latin> <latin>pecūniam mihi dabis, castra petam, rēgem venēnō</latin> <latin>necābō.\" Cui respondit Fabricius, \"Virtūte, nōn perfidiā, hostēs vincēmus.\"</latin>  <latin>Quid voluit medicus prō</latin> <latin>officiō</latin> <latin>suō?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>\"Via ad victōriam,\" inquit medicus, \"facillima Rōmānīs aperītur. Sī pecūniam mihi dabis, castra petam, rēgem venēnō necābō.\" Cui respondit Fabricius, \"Virtūte, nōn perfidiā, hostēs vincēmus.\"</latin>  <latin>Quid voluit medicus prō officiō suō?</latin>"
       answer: "PECŪNIAM"
     boni:
       - question: "Quomodō <latin>medicus rēgem interficere vult?</latin>"
         answer: "VENĒNŌ"
-      - question: "<latin>Sententiā</latin> <latin>Fabricī, quomodō</latin> <latin>Rōmānī</latin> <latin>hostēs vincent?</latin>"
+      - question: "<latin>Sententiā Fabricī, quomodō Rōmānī hostēs vincent?</latin>"
         answer: "VIRTŪTE"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hīs verbīs: \"Gaudium certāminis\" Quae pars ōrātiōnis est \"certāminis\"?</latin>"
       answer: "NŌMEN"
     boni:
-      - question: "Quō <latin>cāsū</latin> <latin>est \"Certāminis\"?</latin>"
+      - question: "Quō <latin>cāsū est \"Certāminis\"?</latin>"
         answer: "(CĀSŪ) GENITĪVŌ"
-      - question: "<latin>Cuius numerī</latin> <latin>est \"Certāminis\"?</latin>"
+      - question: "<latin>Cuius numerī est \"Certāminis\"?</latin>"
         answer: "SINGULĀRIS"
   - tossup:
       question: "Which coin pictured here was struck by Brutus to commemorate the assassination of Julius Caesar?"

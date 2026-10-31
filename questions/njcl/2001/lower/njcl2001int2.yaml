@@ -30,7 +30,7 @@ questions:
       answer: "<latin>TULIMUS</latin>"
     boni:
       - question: "Change <latin>tulimus</latin> to the passive"
-        answer: "<latin>LĀTĪ</latin> <latin>/ -AE / -A SUMUS</latin>"
+        answer: "<latin>LĀTĪ / -AE / -A SUMUS</latin>"
       - question: "Make <latin>ferō</latin> a future active infinitive"
         answer: "<latin>LĀTŪRUS</latin> / -<latin>UM /</latin>"
   - tossup:
@@ -39,7 +39,7 @@ questions:
     boni:
       - question: "<latin>Rēs pūblica Rōmānīs servanda est</latin>"
         answer: "THE ROMANS MUST GUARD THE REPUBLIC / STATE / COUNTRY"
-      - question: "or THE REPUBLIC / STATE / COUNTRY MUST BE GUARDED BY THE ROMANS . . . <latin>Cēnsōrēs novī</latin> <latin>tribus annīs nōminābuntur</latin>"
+      - question: "or THE REPUBLIC / STATE / COUNTRY MUST BE GUARDED BY THE ROMANS . . . <latin>Cēnsōrēs novī tribus annīs nōminābuntur</latin>"
         answer: "NEW CENSORS WILL BE NAMED / NOMINATED (WITH)IN THREE YEARS"
   - tossup:
       question: "Melampus, Ichnobates, and Laelaps were among the many dogs which accompanied what ill-fated hunter?"
@@ -60,12 +60,12 @@ questions:
       - question: "What emperor rebuilt the wall 85 years later?"
         answer: "SEPTIMIUS SEVERUS"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliquandō</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>aliquandō</latin>”?"
       answer: "SOMETIMES / AT ANY TIME / EVER"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliquid</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>aliquid</latin>”?"
         answer: "SOMETHING / SOME / A LITTLE BIT"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliter</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>aliter</latin>”?"
         answer: "OTHERWISE / ANY OTHER WAY / ELSE"
   - tossup:
       question: "What English derivative of the Latin verb <latin>bibō, bibere</latin> means “to drink in or absorb?”"
@@ -76,7 +76,7 @@ questions:
       - question: "means “any one of various liquids for drinking?”"
         answer: "BEVERAGE"
   - tossup:
-      question: "Translate into English: <latin>Prīmā</latin> <latin>lūce, peditēs Rōmānī</latin> <latin>impetum in hostēs fēcērunt</latin>"
+      question: "Translate into English: <latin>Prīmā lūce, peditēs Rōmānī impetum in hostēs fēcērunt</latin>"
       answer: "AT DAWN, THE ROMAN FOOT SOLDIERS MADE AN ATTACK AGAINST / ATTACKED THE ENEMY / ENEMIES "
     boni:
       - question: "What is the letter of the picture described by the following sentence: <latin>Mīlitēs in fugam hōstēs dedērunt</latin>?"
@@ -110,20 +110,20 @@ questions:
       - question: "Give the form of the comparative of the adjective <latin>malus</latin> that agrees with the noun form <latin>os?</latin>"
         answer: "PEIUS"
   - tossup:
-      question: "What two uses of the ablative case are found in the following Latin sentence: <latin>Publius ā</latin> <latin>frātre iaculō</latin> <latin>interfectus est</latin>?"
+      question: "What two uses of the ablative case are found in the following Latin sentence: <latin>Publius ā frātre iaculō interfectus est</latin>?"
       answer: "AGENCY & MEANS"
     boni:
-      - question: "<latin>Hōc annō</latin> <latin>Caesar magnā</latin> <latin>vī</latin> <latin>necātus est?</latin>"
+      - question: "<latin>Hōc annō Caesar magnā vī necātus est?</latin>"
         answer: "TIME (WHEN) & MANNER"
-      - question: "<latin>Puer statuam magnā</latin> <latin>pulchritūdine decem sestertiīs vēndidit</latin>?"
+      - question: "<latin>Puer statuam magnā pulchritūdine decem sestertiīs vēndidit</latin>?"
         answer: "QUALITY / DESCRIPTION & (SPECIFIC / DEFINITE) PRICE"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā</latin> <latin>Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī</latin> <latin>sexāgintā</latin> <latin>quīnque diēs per annum essent et, haud necessāriō</latin> <latin>mēnse remōt</latin><latin>ō,</latin> <latin>ūnus diēs quārtō</latin> <latin>quōque annō</latin> <latin>adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī sexāgintā quīnque diēs per annum essent et, haud necessāriō mēnse remōt</latin><latin>ō, ūnus diēs quārtō quōque annō adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
       answer: "<latin>ANNUM / FASTŌS / KALENDĀRIUM</latin>"
     boni:
       - question: " <latin>Quid Caesar cōnfēcit antequam rem pūblicam ōrdināre inciperet?</latin> "
         answer: "<latin>BELLA CĪVĪLIA</latin>"
-      - question: " <latin>Quid Caesar addidit quārtō</latin> <latin>quōque ann</latin><latin>ō?</latin>"
+      - question: " <latin>Quid Caesar addidit quārtō quōque ann</latin><latin>ō?</latin>"
         answer: "<latin>ŪNUM DIEM</latin>"
   - tossup:
       question: "Which one of the Argonauts became the father of Achilles?"

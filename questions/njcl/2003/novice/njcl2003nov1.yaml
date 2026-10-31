@@ -76,15 +76,15 @@ questions:
       - question: "Change <latin>vēnerāmus</latin> to future"
         answer: "<latin>VENIĒMUS</latin>"
   - tossup:
-      question: "Using your knowledge that <latin>nix</latin> is the Latin word for snow, what or who would be “<latin>hominēs ē</latin> <latin>nive factī</latin>?”"
+      question: "Using your knowledge that <latin>nix</latin> is the Latin word for snow, what or who would be “<latin>hominēs ē nive factī</latin>?”"
       answer: "SNOWMEN (accept “MEN MADE OF/FROM SNOW)"
     boni:
-      - question: "What or who would be “<latin>calceī</latin> <latin>nivī</latin> <latin>aptī</latin>?”"
+      - question: "What or who would be “<latin>calceī nivī aptī</latin>?”"
         answer: "SNOWSHOES (accept “SHOES SUITABLE FOR SNOW)"
-      - question: "<latin>Respondē</latin> <latin>Latīnē: Vērum aut falsum. Saepe aestāte ningit</latin>"
+      - question: "<latin>Respondē Latīnē: Vērum aut falsum. Saepe aestāte ningit</latin>"
         answer: "FALSUM"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat \"decimus\"?</latin>"
+      question: "<latin>Quid Anglicē significat \"decimus\"?</latin>"
       answer: "TENTH"
     boni:
       - question: "Quid Anglicē <latin>significat \"nōnus\"?</latin>"
@@ -116,7 +116,7 @@ questions:
       - question: "Give the Latin term for the part of the <latin>spīna</latin> identified by the letter \"E.”"
         answer: "<latin>METAE</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Rēx avidus fīlium suum necāre volēbat, nam propter ōrāculum puerum valdē</latin> <latin>timēbat. Fīlium igitur adhūc īnfantem comprehendit et in carcere inclūsit. Sēdecim diēs illīc vīvēbat sine cibō</latin> <latin>aut aquā. Quam crūdēlis erat pater īnfantis!</latin>  Where did the king place his infant son?"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Rēx avidus fīlium suum necāre volēbat, nam propter ōrāculum puerum valdē timēbat. Fīlium igitur adhūc īnfantem comprehendit et in carcere inclūsit. Sēdecim diēs illīc vīvēbat sine cibō aut aquā. Quam crūdēlis erat pater īnfantis!</latin>  Where did the king place his infant son?"
       answer: "IN A PRISON"
     boni:
       - question: "Why did the king want to kill his son?"

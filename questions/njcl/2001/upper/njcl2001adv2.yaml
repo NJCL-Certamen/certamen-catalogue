@@ -85,7 +85,7 @@ questions:
     boni:
       - question: "<latin>. . . Dīc mihi, Anglicē, quot annōs nātus sīs.</latin> "
         answer: "STUDENT SHOULD SAY IN ENGLISH HOW OLD THEY ARE"
-      - question: "<latin>. . . Dīc mihi, Anglicē, quō</latin> <latin>mēnse nātus sīs</latin>"
+      - question: "<latin>. . . Dīc mihi, Anglicē, quō mēnse nātus sīs</latin>"
         answer: "STUDENT SHOULD SAY IN ENGLISH THE NAME OF THE MONTH IN WHICH HE / SHE WAS BORN"
   - tossup:
       question: "Of the verb <latin>vereor</latin>, give the present imperative singular"
@@ -116,7 +116,7 @@ questions:
       - question: "What did Zeus do to punish those who had feasted on Helius’ cattle?"
         answer: "HE SENT A <emphasis>STORM</emphasis> THAT TORE ODYSSEUS’ SHIP APART & HE <emphasis>DROWNED</emphasis> ALL THE CREW (EXCEPT FOR ODYSSEUS)"
   - tossup:
-      question: "Please consider the following line which I will read as prose: <latin>iam medium aetheriō</latin> <latin>cursū</latin> <latin>trāiēcerat āxem.</latin>  Where would the elision occur?"
+      question: "Please consider the following line which I will read as prose: <latin>iam medium aetheriō cursū trāiēcerat āxem.</latin>  Where would the elision occur?"
       answer: "BETWEEN <latin>MEDIUM</latin> AND <latin>AETHERIŌ</latin> / BETWEEN THE SECOND AND THIRD WORDS / AFTER MEDIUM / AFTER THE SECOND WORD "
     boni:
       - question: "You now have 15 seconds to examine both lines of poetry. In what meter are these lines written?"
@@ -132,7 +132,7 @@ questions:
       - question: "What son of Eteocles was the king of Thebes when the Epigoni attacked the city?"
         answer: "LAODAMAS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Hannibal, cum nūntiī</latin> <latin>in Ītaliam missī</latin> <latin>essent quī</latin> <latin>eum Carthāginem</latin>  <latin>revocārent, summā</latin> <latin>īrā</latin> <latin>eīs acceptīs vix ab lacrimīs temperābat. Exclāmāns “nōn est dubium” inquit “quīn meī</latin> <latin>cīvēs odiō</latin> <latin>invidiāque, nōn ipsī</latin> <latin>Rōmānī, mē</latin> <latin>vīcerint.</latin>” Why were the messengers in Italy?"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Hannibal, cum nūntiī in Ītaliam missī essent quī eum Carthāginem</latin>  <latin>revocārent, summā īrā eīs acceptīs vix ab lacrimīs temperābat. Exclāmāns “nōn est dubium” inquit “quīn meī cīvēs odiō invidiāque, nōn ipsī Rōmānī, mē vīcerint.</latin>” Why were the messengers in Italy?"
       answer: "TO RECALL HANNIBAL <emphasis>TO CARTHAGE</emphasis>"
     boni:
       - question: "Precisely describe Hannibal’s anger at being recalled"
@@ -164,10 +164,10 @@ questions:
       - question: "According to most versions of the story, what promise did Medea make to the daughters of Pelias that eventually resulted in his death?"
         answer: "SHE PROMISED THAT SHE WOULD RESTORE HIS YOUTH (& MAKE HIM MORE HANDSOME)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Pauper clāmābat sē</latin> <latin>cīvem Rōmānum esse</latin>"
+      question: "Translate the following sentence into English: <latin>Pauper clāmābat sē cīvem Rōmānum esse</latin>"
       answer: "THE POOR MAN WAS SHOUTING / SHOUTED THAT HE WAS A ROMAN CITIZEN"
     boni:
       - question: "<latin>Mīlitēs putābant pauperem facile necātum īrī</latin>"
         answer: "THE SOLDIERS WERE THINKING / THOUGHT THAT THE POOR MAN WOULD BE EASILY KILLED"
-      - question: "<latin>Nūlla spēs est fore ut pauperī</latin> <latin>parcātur</latin>"
+      - question: "<latin>Nūlla spēs est fore ut pauperī parcātur</latin>"
         answer: "THERE IS NO HOPE THAT THE POOR MAN WILL BE SPARED"

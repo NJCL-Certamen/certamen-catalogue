@@ -32,9 +32,9 @@ questions:
       answer: "<latin>NESCIŌ</latin>"
     boni:
       - question: "Give a synonym of <latin>polliceor</latin>"
-        answer: "<latin>PRŌMITTŌ</latin> / <latin>FIDEM DŌ</latin>"
+        answer: "<latin>PRŌMITTŌ / FIDEM DŌ</latin>"
       - question: "Give a synonym of <latin>quaerō</latin>"
-        answer: "<latin>PETŌ</latin> / <latin>VĒNOR</latin> / <latin>ROGŌ</latin> / <latin>POSTULŌ</latin>"
+        answer: "<latin>PETŌ / VĒNOR / ROGŌ / POSTULŌ</latin>"
   - tossup:
       question: "At whose court did Heracles, on his way to capture the mares of Diomedes, find hospitality until he came to the embarrassing realization that the king was in mourning for his wife Alcestis?"
       answer: "ADMETUS’"
@@ -117,12 +117,12 @@ questions:
         answer: "POMPEIA’S FATHER LIKES THE MAN WHO OFFERS MORE MONEY"
   - tossup:
       question: "<latin>Quālis erat arbor tempestāte vastāta?</latin>"
-      answer: "<latin>VETUS</latin> / <latin>VALIDA</latin> / <latin>FORTIS</latin> "
+      answer: "<latin>VETUS / VALIDA / FORTIS</latin> "
     boni:
       - question: "<latin>Quōmodo arbor parva tempestātī restitit</latin>?"
-        answer: "(<latin>SĒ</latin>) <latin>FLECTENDŌ</latin> / <latin>NŌN</latin>/<latin>NEC</latin> <latin>RESISTENDŌ</latin> "
+        answer: "(<latin>SĒ</latin>) <latin>FLECTENDŌ / NŌN</latin>/<latin>NEC RESISTENDŌ</latin> "
       - question: " <latin>Cūr arbor valida vastāta est</latin>?"
-        answer: "(<latin>SĒ</latin>) <latin>FLECTERE</latin> <latin>NŌLĒBAT</latin>"
+        answer: "(<latin>SĒ</latin>) <latin>FLECTERE NŌLĒBAT</latin>"
   - tossup:
       question: "In the sentence “<latin>Athēnīs Sulla cōpiīs Rōmānīs praeerat</latin>”, translate “<latin>cōpiīs Rōmānīs praeerat</latin>”"
       answer: "WAS IN CHARGE OF THE ROMAN TROOPS / WAS LEADING THE ROMAN TROOPS"
@@ -146,7 +146,7 @@ questions:
       - question: "If the sentence had said “I knew that he had been a good man,” what form of <latin>sum</latin> would be required?"
         answer: "<latin>FUISSE</latin>"
       - question: "If the sentence were changed to “I know that she will be a good daughter,” what would be the form of <latin>sum</latin>?"
-        answer: "<latin>FUTŪRAM ESSE</latin> / <latin>FORE</latin>"
+        answer: "<latin>FUTŪRAM ESSE / FORE</latin>"
   - tossup:
       question: "How many of the Twelve Tables were written by the first board of <latin>decemvirī</latin> in 451 BC?"
       answer: "TEN"

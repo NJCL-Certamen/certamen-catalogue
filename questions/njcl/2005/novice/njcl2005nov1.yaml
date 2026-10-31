@@ -56,12 +56,12 @@ questions:
       answer: "<latin>DUŌ(S) BONŌS AMĪCŌS / DUĀS BONĀS AMĪCĀS HABEŌ</latin>"
     boni:
       - question: "Translate that same sentence again using <latin>sum, esse</latin>."
-        answer: "<latin>DUO BONĪ</latin> <latin>AMĪCĪ</latin> <latin>/ DUAE BONAE AMĪCAE MIHI SUNT</latin> "
+        answer: "<latin>DUO BONĪ AMĪCĪ / DUAE BONAE AMĪCAE MIHI SUNT</latin> "
       - question: "Translate into Latin: My friends are braver than I."
-        answer: "<latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS QUAM EGO</latin> / <latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS MĒ</latin>"
+        answer: "<latin>MEĪ AMĪCĪ / MEAE AMĪCAE SUNT FORTIŌRĒS QUAM EGO / MEĪ AMĪCĪ / MEAE AMĪCAE SUNT FORTIŌRĒS MĒ</latin>"
   - tossup:
       question: "What is the Latin phrase used in English to mean “tit for tat”?"
-      answer: "<latin>QUID PRŌ</latin> <latin>QUŌ</latin>"
+      answer: "<latin>QUID PRŌ QUŌ</latin>"
     boni:
       - question: "What is the Latin phrase used in English to mean “yearly”?"
         answer: "<latin>PER ANNUM</latin> "
@@ -84,12 +84,12 @@ questions:
       - question: "Which of Tiberius’ fellow tribunes blocked his land-reform legislation until Tiberius got him voted out of office?"
         answer: "(M.) OCTAVIUS"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Illō</latin> <latin>diē, duo ex fīliīs rēgis domum reveniēbant</latin>."
+      question: "Translate the following sentence into English: <latin>Illō diē, duo ex fīliīs rēgis domum reveniēbant</latin>."
       answer: "(ON) THAT DAY, TWO OF THE KING’S SONS WERE RETURNING / RETURNED HOME"
     boni:
-      - question: "<latin>Tandem, mediā</latin> <latin>nocte, fīliī</latin> <latin>ad urbem pervēnērunt</latin>."
+      - question: "<latin>Tandem, mediā nocte, fīliī ad urbem pervēnērunt</latin>."
         answer: "FINALLY, IN THE MIDDLE OF THE NIGHT, THE SONS ARRIVED AT THE CITY"
-      - question: "<latin>Nūntiī</latin> <latin>quam celerrimē</latin> <latin>appropinquāvērunt.</latin> "
+      - question: "<latin>Nūntiī quam celerrimē appropinquāvērunt.</latin> "
         answer: "MESSENGERS APPROACHED AS QUICKLY AS POSSIBLE"
   - tossup:
       question: "Without using a compound verb, give a synonym of the verb <latin>vehō</latin>."
@@ -100,12 +100,12 @@ questions:
       - question: "<latin>dēmōnstrō</latin>."
         answer: "<latin>OSTENDŌ, OSTENTŌ, EXHIBEŌ, PRAESTŌ</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Initiō, deī</latin> <latin>in Monte Olympō</latin> <latin>habitābant, et Titānī</latin> <latin>in terrā</latin> <latin>habitābant. Titānī</latin> <latin>Mōntem Olympum ipsum occupāre cupiēbant, et diū</latin> <latin>cum deīs Olympiīs pugnābant. Dēnique deī</latin> <latin>Olympiī</latin> <latin>Titānōs superāvērunt.</latin>  Question: <latin>Initiō, ubi habitābant Titānī</latin>?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Initiō, deī in Monte Olympō habitābant, et Titānī in terrā habitābant. Titānī Mōntem Olympum ipsum occupāre cupiēbant, et diū cum deīs Olympiīs pugnābant. Dēnique deī Olympiī Titānōs superāvērunt.</latin>  Question: <latin>Initiō, ubi habitābant Titānī</latin>?"
       answer: "<latin>IN TERRĀ</latin>"
     boni:
-      - question: "<latin>Cūr Titānī</latin> <latin>cum Ōlympiīs pugnābant</latin>?"
+      - question: "<latin>Cūr Titānī cum Ōlympiīs pugnābant</latin>?"
         answer: "<latin>(QUOD) CUPIĒBANT OCCUPĀRE MŌNTEM OLYMPUM</latin> "
-      - question: "<latin>Quī</latin> <latin>denique victī</latin> <latin>sunt</latin>?"
+      - question: "<latin>Quī denique victī sunt</latin>?"
         answer: "<latin>TITĀNĪ</latin>"
   - tossup:
       question: "What did Hermes invent on the day he was born?"

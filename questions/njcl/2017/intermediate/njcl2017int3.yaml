@@ -5,12 +5,12 @@ round: "Round 3"
 questions:
   - tossup:
       question: "What Latin verb, with what meaning, is the ultimate root of the English word \"second\"?"
-      answer: "<latin>SEQUOR</latin> / <latin>SEQUĪ</latin> - FOLLOW"
+      answer: "<latin>SEQUOR / SEQUĪ</latin> - FOLLOW"
     boni:
       - question: "What Latin verb, with what meaning, is the ultimate root of the English word \"natural\"?"
-        answer: "<latin>NĀSCOR</latin> / <latin>NĀSCĪ</latin> - BE BORN"
+        answer: "<latin>NĀSCOR / NĀSCĪ</latin> - BE BORN"
       - question: "What Latin verb, with what meaning, is the ultimate root of the English word \"passion\"?"
-        answer: "<latin>PATIOR</latin> / <latin>PATĪ</latin> - TO SUFFER/BEAR/ENDURE"
+        answer: "<latin>PATIOR / PATĪ</latin> - TO SUFFER/BEAR/ENDURE"
   - tossup:
       question: "Which emperor's overzealous campaigns in the east turned into one the great humiliations of Roman military history when, after a pitched battle outside Edessa, the emperor was captured by the Sassanid emperor Shapur I in 260 AD?"
       answer: "(P. LĪCINIUS) VALERIAN(US)"

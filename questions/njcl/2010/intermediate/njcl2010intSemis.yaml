@@ -40,7 +40,7 @@ questions:
       answer: "(<latin>CUM</latin>) <latin>AMĪCŌ</latin>"
     boni:
       - question: "<latin>Cūr Aurēlia in cubiculum redit?</latin>"
-        answer: "<latin>AD</latin> <latin>DORMIENDUM</latin> / <latin>UT DORMIAT / DORMĪTUM / DĒFESS(ISSIM)A EST</latin>"
+        answer: "<latin>AD DORMIENDUM / UT DORMIAT / DORMĪTUM / DĒFESS(ISSIM)A EST</latin>"
       - question: "<latin>Per quōs Aurēlia iūrat?</latin>"
         answer: "<latin>(PER) DEŌS (IMMORTĀLĒS)</latin>"
   - tossup:
@@ -218,7 +218,7 @@ questions:
       - question: "The swineherd Eumaeus and the cowherd Philoetius were loyal to Odysseus, but what goatherd transferred his allegiance to the suitors?"
         answer: "MELANTHIUS"
   - tossup:
-      question: "What use of the ablative can be found in the following Latin sentence: <latin>Aurēlia dīxit sē</latin> <latin>dēspicere puerōs calceīs veteribus</latin>?"
+      question: "What use of the ablative can be found in the following Latin sentence: <latin>Aurēlia dīxit sē dēspicere puerōs calceīs veteribus</latin>?"
       answer: "DESCRIPTION/QUALITY"
     boni:
       - question: "What use of the ablative can be found in the following Latin sentence: <latin>Quantō calceī puerōrum sordidiōrēs fiēbant, tantō Aurēlia eōs vituperābat</latin>?"

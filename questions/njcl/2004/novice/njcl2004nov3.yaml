@@ -8,7 +8,7 @@ questions:
       answer: "<latin>VENITNE FRĀTER TUUS / VESTER HODI</latin><latin>Ē?</latin>"
     boni:
       - question: "Say in Latin, “Have you not seen the procession in the forum?”"
-        answer: "<latin>NŌNNE VĪDISTĪ</latin> <latin>/ VĪDISTIS POMPAM IN FORŌ</latin>"
+        answer: "<latin>NŌNNE VĪDISTĪ / VĪDISTIS POMPAM IN FORŌ</latin>"
       - question: "Say in Latin, “Romulus was not the king of Germany, was he?”"
         answer: "<latin>NUM RŌMULUS REX GERMANIAE FUIT / ERAT</latin>"
   - tossup:
@@ -20,7 +20,7 @@ questions:
       - question: "At Orestes’ trial for matricide in Athens, who cast the final vote resulting in his acquittal?"
         answer: "ATHENA"
   - tossup:
-      question: "What use of the ablative case is found in the following sentence: <latin>Marcus fēlem saxō</latin> <latin>interfēcit</latin>?"
+      question: "What use of the ablative case is found in the following sentence: <latin>Marcus fēlem saxō interfēcit</latin>?"
       answer: "INSTRUMENT / MEANS"
     boni:
       - question: "What use of the ablative case is found in the following sentence: <latin>Marcus est saevior animālibus</latin>?"
@@ -71,12 +71,12 @@ questions:
       question: "What is the meaning of the motto of Elizabeth I of Great Britain: <latin>semper eadem</latin>?"
       answer: "ALWAYS THE SAME"
     boni:
-      - question: "What is the meaning of her title: <latin>Deī</latin> <latin>Grātiā</latin> <latin>Britanniae Rēgīna</latin>?"
+      - question: "What is the meaning of her title: <latin>Deī Grātiā Britanniae Rēgīna</latin>?"
         answer: "QUEEN OF BRITAIN BY THE GRACE OF GOD"
       - question: "What is the meaning of this title given to Henry VIII and all British monarchs since him: <latin>Dēfensor Fideī</latin>?"
         answer: "DEFENDER OF THE FAITH"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Ōlim Gallī</latin> <latin>, gēns barbara et fērōx, Rōmam occupāverant atque multī</latin> <latin>cīvēs ex urbe fūgērunt. Sed sēnātōrēs, quī</latin> <latin>sēnēs erant, Rōmae mānsērunt et mortem exspectāvērunt. Gallī</latin> <latin>attonitī</latin> <latin>sēnātōribus appropinquābant et ūnus ex Gallīs barbam ūnīus senis manū</latin> <latin>tetigit. Senātor īrātus caput Gallī</latin> <latin>verberāvit et statim ā</latin> <latin>Gallō</latin> <latin>interfectus est. Mox omnēs sēnātōres in sellīs suīs necātī</latin> <latin>sunt.</latin>  The question: Why were the Gauls astonished?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Ōlim Gallī , gēns barbara et fērōx, Rōmam occupāverant atque multī cīvēs ex urbe fūgērunt. Sed sēnātōrēs, quī sēnēs erant, Rōmae mānsērunt et mortem exspectāvērunt. Gallī attonitī sēnātōribus appropinquābant et ūnus ex Gallīs barbam ūnīus senis manū tetigit. Senātor īrātus caput Gallī verberāvit et statim ā Gallō interfectus est. Mox omnēs sēnātōres in sellīs suīs necātī sunt.</latin>  The question: Why were the Gauls astonished?"
       answer: "THE SENATORS HAD REMAINED IN ROME / THE SENATORS WERE WAITING FOR DEATH"
     boni:
       - question: "What did one of the Gauls do with respect to one of the Roman senators?"
@@ -92,12 +92,12 @@ questions:
       - question: "Who led the mutiny in which Alexander and his mother were killed?"
         answer: "MAXIMINUS THRAX"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat “praesidium”</latin>?"
+      question: "<latin>Quid Anglicē significat “praesidium”</latin>?"
       answer: "GUARD, GARRISON, PROTECTION, HELP"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “vultus”</latin>?"
+      - question: "<latin>Quid Anglicē significat “vultus”</latin>?"
         answer: "FACE, EXPRESSION, LOOKS, FEATURES"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “onus”</latin>?"
+      - question: "<latin>Quid Anglicē significat “onus”</latin>?"
         answer: "BURDEN, LOAD"
   - tossup:
       question: "Give a synonym of <latin>laetus</latin>"
@@ -127,9 +127,9 @@ questions:
       question: "Consider these phrases: <latin>sub aquā, apud grammaticum, in silvā, in apodyteriō, humī</latin> Which of those phrases would be associated with this sentence: <latin>Vir tibi dīcit, “Tolle tabulās et scrībe meās sententiās.”</latin>"
       answer: "<latin>APUD GRAMMATICUM</latin>"
     boni:
-      - question: "Which of those phrases would be associated with the sentence: <latin>Tū</latin> <latin>es nūdus et servīs vestīmenta trādis</latin>"
+      - question: "Which of those phrases would be associated with the sentence: <latin>Tū es nūdus et servīs vestīmenta trādis</latin>"
         answer: "IN APODYTERIŌ"
-      - question: "... with this sentence: <latin>Tū</latin> <latin>vēnābulum tenēs et animālibus circumvenīris</latin>"
+      - question: "... with this sentence: <latin>Tū vēnābulum tenēs et animālibus circumvenīris</latin>"
         answer: "IN SILVĀ"
   - tossup:
       question: "Against whom were C. Antonius Hybrida and Lucius Sergius Catilina running for the consulship of 63 B.C"

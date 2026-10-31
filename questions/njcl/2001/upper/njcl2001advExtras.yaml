@@ -4,28 +4,28 @@ division: "Advanced"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Novō</latin> <latin>bellō</latin> <latin>cum Gallīs exortō, ingens Gallus prōvōcāvit ūnum ex Rōmānīs ut sēcum armīs pugnāret. Marcus Valerius, tribūnus mīlitum, sē</latin> <latin>obtulit. Cum Valerius armātus prōcēderet, corvus suprā</latin> <latin>dextrum bracchium sēdit. Mox, pugnā</latin> <latin>commissā, corvus ex bracchiīs volāvit et oculōs Gallī</latin> <latin>oppugnāvit. Ita accidit ut Gallus facile ā</latin> <latin>Valeriō</latin> <latin>interficēretur.</latin>  <latin>Quis constituit pugnāre cum Gallō</latin> <latin>ingentī?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Novō bellō cum Gallīs exortō, ingens Gallus prōvōcāvit ūnum ex Rōmānīs ut sēcum armīs pugnāret. Marcus Valerius, tribūnus mīlitum, sē obtulit. Cum Valerius armātus prōcēderet, corvus suprā dextrum bracchium sēdit. Mox, pugnā commissā, corvus ex bracchiīs volāvit et oculōs Gallī oppugnāvit. Ita accidit ut Gallus facile ā Valeriō interficēretur.</latin>  <latin>Quis constituit pugnāre cum Gallō ingentī?</latin>"
       answer: "(MARCUS) VALERIUS"
     boni:
-      - question: "Quid erat mīrābile dē <latin>Valeriō</latin> <latin>prōgrediente?</latin> "
-        answer: "<latin>CORVUS SEDĒBAT SUPRĀ</latin> <latin>DEXTRUM BRACCHIUM</latin>"
-      - question: " <latin>Quō</latin> <latin>modō</latin> <latin>Valerius facile superāre potuit?</latin> "
-        answer: "<latin>CORVUS OCULŌS GALLĪ</latin> <latin>OPPUGNĀVIT</latin>"
+      - question: "Quid erat mīrābile dē <latin>Valeriō prōgrediente?</latin> "
+        answer: "<latin>CORVUS SEDĒBAT SUPRĀ DEXTRUM BRACCHIUM</latin>"
+      - question: " <latin>Quō modō Valerius facile superāre potuit?</latin> "
+        answer: "<latin>CORVUS OCULŌS GALLĪ OPPUGNĀVIT</latin>"
   - tossup:
       question: "Of <latin>rēte, nimbus, vitta, fornāx</latin>, and <latin>lātifundium</latin>, which is described in this Latin sentence: <latin>Est locus ubi vāsa fictilia coquuntur</latin>"
       answer: "<latin>FORNĀX</latin>"
     boni:
-      - question: ". . . <latin>Est īnstrūmentum quō</latin> <latin>avēs, ferae, et piscēs capiuntur</latin>"
+      - question: ". . . <latin>Est īnstrūmentum quō avēs, ferae, et piscēs capiuntur</latin>"
         answer: "<latin>RĒTE</latin>"
-      - question: ". . . <latin>Est ligāmentum capitis quō</latin> <latin>antīquī</latin> <latin>crīnēs cingēbant</latin>"
+      - question: ". . . <latin>Est ligāmentum capitis quō antīquī crīnēs cingēbant</latin>"
         answer: "<latin>VITTA</latin>"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Simulā</latin> <latin>sonitum gallī</latin> <latin>māne.</latin> "
+      question: "When you are recognized by the spotter, follow this direction: <latin>Simulā sonitum gallī māne.</latin> "
       answer: "STUDENT SHOULD IMITATE THE SOUND OF A ROOSTER IN THE MORNING"
     boni:
       - question: "<latin>. . . Simulāte fremitum leōnis</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD IMITATE THE ROAR OF A LION"
-      - question: "<latin>. . . Simulā</latin> <latin>anguem crepantem</latin>"
+      - question: "<latin>. . . Simulā anguem crepantem</latin>"
         answer: "ONE STUDENT SHOULD IMITATE A RATTLE SNAKE OR SNAKE THAT IS HISSING"
   - tossup:
       question: "Give the Latin verb and its meaning from which from which “tuition” is derived"
@@ -55,18 +55,18 @@ questions:
       question: "What is the English meaning of the Washington University motto: <latin>per virtūtem vīs</latin>?"
       answer: "STRENGTH THROUGH VIRTUE/COURAGE"
     boni:
-      - question: "of the University of Florida motto: <latin>Cīvium in mōribus rēī</latin> <latin>publicae salūs</latin>?"
+      - question: "of the University of Florida motto: <latin>Cīvium in mōribus rēī publicae salūs</latin>?"
         answer: "IN THE MORALS / TRADITIONS OF THE CITIZENS (IS) THE WELFARE/SAFETY OF THE REPUBLIC / STATE."
       - question: "or THE WELFARE OF THE STATE (DEPENDS UPON) THE MORALS OF ITS CITIZENS . . . of the motto of Texas College: <latin>per lūmen scientiae viam invenient populī</latin>?"
         answer: "THROUGH THE LIGHT OF KNOWLEDGE THE"
   - tossup:
       question: "What Latin proverb is equivalent in meaning to “blood from a stone?”"
-      answer: "<latin>AB ASINŌ</latin> <latin>LĀNAM</latin>"
+      answer: "<latin>AB ASINŌ LĀNAM</latin>"
     boni:
-      - question: "or <latin>AQUAM Ē</latin> <latin>PŪMICĪ</latin> <latin>NUNC POSTULĀS</latin>  What Latin proverb is equivalent in meaning to “where there’s smoke, there’s fire?”"
-        answer: "<latin>FLAMMA FŪMŌ</latin> <latin>EST PROXIMA</latin>"
+      - question: "or <latin>AQUAM Ē PŪMICĪ NUNC POSTULĀS</latin>  What Latin proverb is equivalent in meaning to “where there’s smoke, there’s fire?”"
+        answer: "<latin>FLAMMA FŪMŌ EST PROXIMA</latin>"
       - question: " What Latin proverb is equivalent in meaning to “a word to the wise is sufficient?”"
-        answer: "<latin>VERBUM (DICTUM) SAPIENTĪ</latin> <latin>SAT(IS) EST</latin>"
+        answer: "<latin>VERBUM (DICTUM) SAPIENTĪ SAT(IS) EST</latin>"
   - tossup:
       question: "Change the phrase <latin>obitus celer</latin> to the genitive singular"
       answer: "<latin>OBITŪS CELERIS</latin>"
@@ -96,7 +96,7 @@ questions:
       answer: "<latin>SUSTULIMUS</latin>"
     boni:
       - question: "Change <latin>sustulimus</latin> to the passive"
-        answer: "<latin>SUBLĀTĪ</latin> <latin>SUMUS</latin>"
+        answer: "<latin>SUBLĀTĪ SUMUS</latin>"
       - question: "Give the future passive infinitive of <latin>tollō</latin>"
         answer: "<latin>SUBLĀTUM ĪRĪ</latin>"
   - tossup:
@@ -108,20 +108,20 @@ questions:
       - question: "Do the same for <latin>prōderit</latin>"
         answer: "<latin>PRŌSUM</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>macula</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>macula</latin>”?"
       answer: "SPOT, MARK, STAIN, BLEMISH, (DISGRACE??)"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>marmor</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>marmor</latin>”?"
         answer: "MARBLE, SEA SURFACE"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mānsuētūdō</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>mānsuētūdō</latin>”?"
         answer: "MILDNESS, GENTLENESS, CLEMENCY"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>taedet</latin>”?"
+      question: "<latin>Quid Anglicē significat verbum</latin> “<latin>taedet</latin>”?"
       answer: "IT’S BORING, IT WEARIES ONE, ONE IS TIRED OF"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>mōlior</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>mōlior</latin>”?"
         answer: "EXERT ONESELF, STRUGGLE, TOIL, ROUSE, TRY"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>beō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>beō</latin>”?"
         answer: "BLESS, GLADDEN, REFRESH, DELIGHT"
   - tossup:
       question: "Give a Latin antonym for the adjective <latin>nefārius</latin>"
@@ -130,7 +130,7 @@ questions:
       - question: "Give a Latin antonym for the verb <latin>nascor</latin>"
         answer: "<latin>MORIOR, PEREŌ, OBEŌ</latin>"
       - question: "Give a Latin antonym for the verb <latin>parcō</latin>"
-        answer: "<latin>PŪNIŌ</latin> / <latin>NOCEŌ</latin>,"
+        answer: "<latin>PŪNIŌ / NOCEŌ</latin>,"
   - tossup:
       question: "Give a Latin synonym for the adjective <latin>siccus</latin>"
       answer: "<latin>SICCĀNEUS, ĀRIDUS, TORRIDUS</latin>"
@@ -141,11 +141,11 @@ questions:
         answer: "<latin>TŌTUS, ŪNIVERSUS, OMNIS, INTEGER</latin>"
   - tossup:
       question: "Give another way of asking “Why?” in Latin besides <latin>cūr</latin>"
-      answer: "<latin>QUAM OB REM, QUĀ</latin> <latin>DĒ</latin> <latin>CAUSĀ, QUĀRĒ, QUID</latin>"
+      answer: "<latin>QUAM OB REM, QUĀ DĒ CAUSĀ, QUĀRĒ, QUID</latin>"
     boni:
       - question: " Give another way of asking “Whose?” in Latin besides <latin>cuius</latin>"
         answer: "<latin>QUŌRUM, QUĀRUM</latin>"
-      - question: "Give another way of asking “<latin>Quō</latin> <latin>tempore</latin>?” in Latin"
+      - question: "Give another way of asking “<latin>Quō tempore</latin>?” in Latin"
         answer: "<latin>QUANDŌ</latin>"
   - tossup:
       question: "What use of the Dative case is found in the following Latin sentence: <latin>Vītam adulēscentibus vīs aufert</latin>"
@@ -276,10 +276,10 @@ questions:
       - question: "What particular type of satire is Seneca’s <title><latin>Apocolocyntosis</latin></title>?"
         answer: "MENIPPEAN"
   - tossup:
-      question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“et superiectō</latin> <latin>pavidae natārunt aequore dammae</latin>”?"
+      question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“et superiectō pavidae natārunt aequore dammae</latin>”?"
       answer: "SYNCHYSIS"
     boni:
-      - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“tum līnō</latin> <latin>mediās et cērīs adligat īmās</latin>”?"
+      - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“tum līnō mediās et cērīs adligat īmās</latin>”?"
         answer: "ZEUGMA"
       - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“paterīs libāmus et aur</latin><latin>ō”</latin>?"
         answer: "HENDIADYS <latin>MYTHOLOGY</latin>"

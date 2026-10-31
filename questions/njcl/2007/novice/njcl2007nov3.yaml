@@ -12,12 +12,12 @@ questions:
       - question: "Why was Polydectes attacking Perseus?"
         answer: "HE WANTED TO MARRY DANAË"
   - tossup:
-      question: "When you are recognized by the spotter, perform the following commands: <latin>Surge et ambulā</latin> <latin>circum mēnsam.</latin>"
+      question: "When you are recognized by the spotter, perform the following commands: <latin>Surge et ambulā circum mēnsam.</latin>"
       answer: "THE STUDENT SHOULD RISE & WALK AROUND A TABLE/DESK"
     boni:
-      - question: "<latin>Iungite manūs et clāmāte Anglicē</latin> <latin>“nōs sumus optim</latin><latin>ī”.</latin>"
+      - question: "<latin>Iungite manūs et clāmāte Anglicē “nōs sumus optim</latin><latin>ī”.</latin>"
         answer: "STUDENTS JOIN HANDS AND SHOUT “WE ARE THE BEST / VERY GOOD”"
-      - question: "<latin>Plaudēns, magnā</latin> <latin>voce dīc mihi nōmen tuum!</latin>"
+      - question: "<latin>Plaudēns, magnā voce dīc mihi nōmen tuum!</latin>"
         answer: "WHILE CLAPPING, ONE STUDENT SHOULD YELL OUT HIS NAME"
   - tossup:
       question: "What derivative of <latin>stō, stāre</latin> means ‘an impediment or challenge’?"
@@ -39,7 +39,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Quam altae sunt fīliae illīus cōnsulis</latin>!"
       answer: "HOW TALL ARE THE DAUGHTERS OF THAT CONSUL!"
     boni:
-      - question: "<latin>Fīlia cōnsulis est multō</latin> <latin>stultior quam mercātōris.</latin>"
+      - question: "<latin>Fīlia cōnsulis est multō stultior quam mercātōris.</latin>"
         answer: "THE CONSUL’S DAUGHTER IS MUCH MORE STUPID / FOOLISH THAN THE MERCHANT’S"
       - question: "<latin>Sed fīlia cōnsulis est tam pulchra quam dea.</latin>"
         answer: "BUT THE CONSUL’S DAUGHTER IS AS PRETTY AS A GODDESS"
@@ -55,7 +55,7 @@ questions:
       question: "Give an antonym of <latin>aperiō</latin>"
       answer: "CLAUDŌ, OPERIŌ, <latin>INCLŪDŌ, CĒLŌ</latin>"
     boni:
-      - question: "Which of the following is an EXACT opposite of the phrase <latin>prīmā</latin> <latin>lūce</latin>? <latin>Māne, merīdiē, mediā</latin> <latin>nocte, sōlis occāsū, diē</latin> <latin>cōnstitūtā</latin>"
+      - question: "Which of the following is an EXACT opposite of the phrase <latin>prīmā lūce</latin>? <latin>Māne, merīdiē, mediā nocte, sōlis occāsū, diē cōnstitūtā</latin>"
         answer: "<latin>SŌLIS OCCĀSŪ</latin>"
       - question: "Give an antonym of <latin>iuvō.</latin>"
         answer: "<latin>IMPEDIŌ, OBSTŌ, NOCEŌ, DISPLICEŌ, OPPUGNŌ, LAEDŌ</latin>"
@@ -76,10 +76,10 @@ questions:
       - question: "Other than the animals and anything relating to hunting shown here, what other clue tells you that this is Artemis?"
         answer: "MOON (IN THE SKY OR ON HER HEAD) / SHORT TUNIC"
   - tossup:
-      question: "Give the meaning of the abbreviation <latin>D.V.</latin>, which stands for ‘<latin>deō</latin> <latin>volente</latin>’"
+      question: "Give the meaning of the abbreviation <latin>D.V.</latin>, which stands for ‘<latin>deō volente</latin>’"
       answer: "GOD WILLING"
     boni:
-      - question: "Give the meaning of the abbreviation <latin>D.G.</latin>, which stands for ‘<latin>deī</latin> <latin>grātiā</latin>’"
+      - question: "Give the meaning of the abbreviation <latin>D.G.</latin>, which stands for ‘<latin>deī grātiā</latin>’"
         answer: "BY THE GRACE OF GOD"
       - question: "Give the meaning of the abbreviation <latin>LL.D</latin>, which stands for ‘<latin>lēgum doctor</latin>’"
         answer: "DOCTOR OF LAW(S)"
@@ -105,7 +105,7 @@ questions:
     boni:
       - question: "Give the corresponding form for the verb <latin>audiō, audīre</latin>"
         answer: "<latin>AUDIENT</latin>"
-      - question: "Translate: <latin>Audē</latin> <latin>audīre</latin>!”"
+      - question: "Translate: <latin>Audē audīre</latin>!”"
         answer: "DARE TO HEAR / LISTEN"
   - tossup:
       question: "Translate the following sentence into Latin using <latin>iubeō</latin>: He ordered the slaves to prepare dinner"
@@ -156,10 +156,10 @@ questions:
       - question: "<latin>servus : servum :: castra : _____</latin>"
         answer: "CASTRA"
   - tossup:
-      question: "Listen carefully to the following passage about Roman history, which I will read twice, and answer IN LATIN the question that follows: <latin>Rōmulus, quī</latin> <latin>erat prīmus rēx Rōmānōrum, manū</latin> <latin>suā</latin> <latin>frātrem interfēcit. Nam ubi mūrōs novae urbis aedificābat, Remus eōs mūrōs trānsiluit et rīsit. Post hoc, Remus ā</latin> <latin>Rōmulō</latin> <latin>interfectus est: “Quī”, inquit, “mūrōs meōs trānsilierit, mortuus erit.”</latin>  Question: <latin>Quōrum erat Rōmulus prīmus rēx?</latin>"
+      question: "Listen carefully to the following passage about Roman history, which I will read twice, and answer IN LATIN the question that follows: <latin>Rōmulus, quī erat prīmus rēx Rōmānōrum, manū suā frātrem interfēcit. Nam ubi mūrōs novae urbis aedificābat, Remus eōs mūrōs trānsiluit et rīsit. Post hoc, Remus ā Rōmulō interfectus est: “Quī”, inquit, “mūrōs meōs trānsilierit, mortuus erit.”</latin>  Question: <latin>Quōrum erat Rōmulus prīmus rēx?</latin>"
       answer: "RŌMĀNŌRUM"
     boni:
       - question: "<latin>Cūr Rōmulus Remum interfēcit?</latin>"
         answer: "<latin>(RŌMULUS EŌS) MŪRŌS (NOVAE URBIS) TRĀNSILUIT/ TRĀNSILUERAT</latin>"
-      - question: "<latin>Quālēs erunt eī</latin> <latin>quī</latin> <latin>mūrōs trānsiluerint?</latin>"
+      - question: "<latin>Quālēs erunt eī quī mūrōs trānsiluerint?</latin>"
         answer: "MORTUĪ (not <latin>MORTUUS</latin>) <latin>2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>"

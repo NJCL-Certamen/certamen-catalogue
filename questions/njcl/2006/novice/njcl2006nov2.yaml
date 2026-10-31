@@ -18,7 +18,7 @@ questions:
       - question: "<latin>Mihi nūlla potestās est</latin>."
         answer: "I HAVE NO POWER"
       - question: "Using <latin>habeō</latin>, say in Latin, “I have no power.”"
-        answer: "<latin>NŪLLAM POTESTĀTEM HABEŌ</latin> <latin>/</latin>  <latin>NŌN HABEŌ</latin> <latin>(</latin><latin>ŪLLAM) POTESTĀTEM /</latin>  <latin>NIHIL POTESTĀTIS HABEŌ</latin>"
+        answer: "<latin>NŪLLAM POTESTĀTEM HABEŌ /</latin>  <latin>NŌN HABEŌ (</latin><latin>ŪLLAM) POTESTĀTEM /</latin>  <latin>NIHIL POTESTĀTIS HABEŌ</latin>"
   - tossup:
       question: "Without using a number, name the labor in which Heracles uses a bronze rattle?"
       answer: "STYMPHALIAN BIRDS"
@@ -76,7 +76,7 @@ questions:
       - question: "At what festival celebrated on the Kalends of March did Roman matrons march in procession to the temple of Juno to offer flowers and libations?"
         answer: "<latin>MĀTRŌNĀLIA</latin> "
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>In parvō</latin> <latin>oppidō</latin> <latin>prope Rōmam erant duo amātōrēs, Rūfus et Victōria. Rūfus cōtīdiē</latin> <latin>quīnque annōs fenestrae Victōriae appropinquābat hōc modō</latin> <latin>eam salūtāns - “T</latin><latin>ū,</latin> Ō <latin>pulcherrima Victōria, es sōl meus. Quando</latin>  <latin>poterō</latin> <latin>tē</latin> <latin>in mātrimōnium dūcere?” Semper idem respondit puella - “Ubi quīndecim annōs habēbō!” Tandem virgō</latin> <latin>ad illam aetātem pervēnit. Rūfus fēlīciter per tōtum oppidum clāmābat, “Victōria est mea!”</latin>  Question: How does Rufus describe Victoria when he greets her every day?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>In parvō oppidō prope Rōmam erant duo amātōrēs, Rūfus et Victōria. Rūfus cōtīdiē quīnque annōs fenestrae Victōriae appropinquābat hōc modō eam salūtāns - “T</latin><latin>ū,</latin> Ō <latin>pulcherrima Victōria, es sōl meus. Quando</latin>  <latin>poterō tē in mātrimōnium dūcere?” Semper idem respondit puella - “Ubi quīndecim annōs habēbō!” Tandem virgō ad illam aetātem pervēnit. Rūfus fēlīciter per tōtum oppidum clāmābat, “Victōria est mea!”</latin>  Question: How does Rufus describe Victoria when he greets her every day?"
       answer: "VERY BEAUTIFUL / AS HIS SUN"
     boni:
       - question: "For five years Rufus asked Victoria to marry him. What was her response during that time?"
@@ -132,12 +132,12 @@ questions:
       - question: "What happened to the rest of the people who lived in the valley?"
         answer: "DROWNED BY A SUDDEN FLOOD"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat “aperīre”?</latin>"
+      question: "<latin>Quid Anglicē significat “aperīre”?</latin>"
       answer: "(TO) OPEN"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “natāre”?</latin>"
+      - question: "<latin>Quid Anglicē significat “natāre”?</latin>"
         answer: "(TO) SWIM"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “relinquere”?</latin>"
+      - question: "<latin>Quid Anglicē significat “relinquere”?</latin>"
         answer: "(TO) LEAVE, ABANDON"
   - tossup:
       question: "What Latin case is typically used to tell how long something happens?"

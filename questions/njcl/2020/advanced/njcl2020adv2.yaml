@@ -16,14 +16,14 @@ questions:
       answer: "<latin>URBEM INTRĀVĒRUNT NOCTŪ / NOCTE  AD VĪTANDŌS VIGILĒS / VIGILAS</latin> /  <latin>VĪTANDŌRUM VIGILIUM / VIGILARUM CAUSĀ</latin>"
     boni:
       - question: "Now translate “They entered the city at night to avoid the patrols” using a gerund."
-        answer: "<latin>URBEM INTRAVERUNT NOCTŪ / NOCTE AD VĪTANDUM</latin> <latin>VIGILĒS</latin> / <latin>VIGILĒS VĪTANDĪ CAUSĀ</latin>"
+        answer: "<latin>URBEM INTRAVERUNT NOCTŪ / NOCTE AD VĪTANDUM VIGILĒS / VIGILĒS VĪTANDĪ CAUSĀ</latin>"
       - question: "Now translate “They entered the city at night to avoid the patrols” using a supine."
         answer: "<latin>URBEM INTRĀVĒRUNT NOCTŪ / NOCTE VIGILĒS VĪTĀTUM</latin>"
   - tossup:
       question: "During the empire the offices of <latin>praepositus ab epistulīs</latin> or <latin>praepositus ab rationibus</latin> wielded a great deal of authority in imperial administration, but the men occupying these positions came from different walks of life.  During the reign of Claudius, however, there was a preponderance of freedmen.  Which freedman held the position of <latin>praepositus ab epistulīs</latin><title>?</title>"
       answer: "NARCISSUS"
     boni:
-      - question: "Which of Claudius’ freedmen held the position of <latin>praepositus ā</latin> <latin>studiīs</latin>?"
+      - question: "Which of Claudius’ freedmen held the position of <latin>praepositus ā studiīs</latin>?"
         answer: "POLYBIUS"
       - question: "A freedman named Pallas held the position of <latin>praepositus ā ratiōnibus</latin>.  What did this put him in charge of?"
         answer: "ACCOUNTS / FINANCE / MONEY"
@@ -157,7 +157,7 @@ questions:
         answer: "AMYCLAS and CHLORIS  <latin>--</latin>"
   - tossup:
       question: "Complete the following analogy: <latin>quīnque : quīntus :: quīndecim :</latin> <emphasis><latin>[blank]</latin></emphasis><latin>?</latin>"
-      answer: "<latin>QUĪNTUS DECIMUS</latin> / <latin>QUINDECIMUS BUT THAT’S LATE</latin>"
+      answer: "<latin>QUĪNTUS DECIMUS / QUINDECIMUS BUT THAT’S LATE</latin>"
     boni:
       - question: "Complete the following analogy: <latin>quīnque : quīnī :: duodecim :</latin> <emphasis><latin>[blank]</latin></emphasis><latin>?</latin>"
         answer: "<latin>DUODĒNĪ</latin>"

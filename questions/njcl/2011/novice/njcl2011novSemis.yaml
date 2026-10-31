@@ -303,10 +303,10 @@ questions:
       question: "Give the nominative plural form of the phrase “similar hands”"
       answer: "<latin>MANŪS SIMILĒS</latin>"
     boni:
-      - question: "Change <latin>manūs</latin> <latin>similēs</latin> to the superlative genitive plural"
+      - question: "Change <latin>manūs similēs</latin> to the superlative genitive plural"
         answer: "<latin>MANUUM SIMILLIMĀRUM</latin> "
       - question: "<latin>Similis</latin> is one of six adjectives that form their superlatives in the same way. Name three more"
-        answer: "<latin>DIFFICILIS (-E -</latin> DIFFICULT<latin>),</latin>  <latin>DISSIMILIS (-E -</latin> DISSIMILAR<latin>), FACILIS (-E -</latin> EASY),  <latin>GRACILIS</latin> <latin>(-E -</latin> SLENDER)<latin>, HUMILIS (-E</latin> - HUMBLE<latin>)</latin>"
+        answer: "<latin>DIFFICILIS (-E -</latin> DIFFICULT<latin>),</latin>  <latin>DISSIMILIS (-E -</latin> DISSIMILAR<latin>), FACILIS (-E -</latin> EASY),  <latin>GRACILIS (-E -</latin> SLENDER)<latin>, HUMILIS (-E</latin> - HUMBLE<latin>)</latin>"
   - tossup:
       question: "<latin>Respondē Anglicē</latin>: Quattuor <latin>animālia in eōdem agrō</latin> erant: <latin>leō</latin>, ovis, <latin>testūdō</latin>, lepus. Quod animal ovem <latin>cōnsūmet</latin>?"
       answer: "THE LION"

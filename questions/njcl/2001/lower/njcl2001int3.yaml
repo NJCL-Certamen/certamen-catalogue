@@ -39,12 +39,12 @@ questions:
         answer: "SECUNDAE"
   - tossup:
       question: "Translate the following sentence into Latin using a subjunctive purpose clause: I have come to see him"
-      answer: "<latin>VĒNĪ</latin> <latin>UT EUM / HUNC / ILLUM VIDĒREM</latin> / <latin>VIDEAM</latin>"
+      answer: "<latin>VĒNĪ UT EUM / HUNC / ILLUM VIDĒREM / VIDEAM</latin>"
     boni:
       - question: "Translate it again using a genitive gerundive"
-        answer: "<latin>VĒNĪ</latin> <latin>EIUS / HUIUS / ILLĪUS VIDENDĪ</latin> <latin>CAUSĀ</latin> / <latin>GRĀTIĀ</latin>"
+        answer: "<latin>VĒNĪ EIUS / HUIUS / ILLĪUS VIDENDĪ CAUSĀ / GRĀTIĀ</latin>"
       - question: "Translate it again using a supine"
-        answer: "<latin>VĒNĪ</latin> <latin>EUM / HUNC / ILLUM VĪSUM</latin>"
+        answer: "<latin>VĒNĪ EUM / HUNC / ILLUM VĪSUM</latin>"
   - tossup:
       question: "Who told Althaea that her son would die when the log which was then on the fire was reduced to ashes?"
       answer: "THE FATES (specifically ATROPOS)"
@@ -90,9 +90,9 @@ questions:
       answer: "<latin>DUM SPĪRŌ, SPĒRŌ</latin>"
     boni:
       - question: "What Latin maxim is equivalent in meaning to “I’ll scratch your back if you scratch mine?”"
-        answer: "<latin>MANUS MANUM LAVAT / QUID PRŌ</latin> <latin>QUŌ</latin>"
+        answer: "<latin>MANUS MANUM LAVAT / QUID PRŌ QUŌ</latin>"
       - question: "What Latin maxim is equivalent in meaning to “there’s no accounting for taste?”"
-        answer: "<latin>DĒ</latin> <latin>GUSTIBUS NŌN (EST) DISPUTANDUM</latin>"
+        answer: "<latin>DĒ GUSTIBUS NŌN (EST) DISPUTANDUM</latin>"
   - tossup:
       question: "What Latin word or words would be required to introduce the dependent subjunctive clause in the following sentence: Caesar ordered his men not to pitch camp"
       answer: "<latin>NĒ</latin>"
@@ -126,12 +126,12 @@ questions:
       - question: "or OVER THE <latin>CARCERES</latin> / STARTING GATES Who sat in a special box known as the <latin>pulvinar</latin>?"
         answer: "EMPEROR (& FAMILY)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Quīdam faber Graecus, vir summō</latin> <latin>ingeniō, multās ūtilēs rēs fabricāvit. Sed iuvenis, quia ab illō</latin> <latin>fabrō</latin> <latin>docēbātur, celeriter suum magistrum arte</latin>  <latin>superābat. Cum faber esset invidiae plēnus, iuvenem ex altā</latin> <latin>rūpe dēmīsit. Deinde cīvēs Graecī, valdē</latin> <latin>īrātī, fabrum ad mortem condemnāvērunt.</latin>  <latin>Cūr iuvenis celeriter magistrum arte superābat?</latin> "
-      answer: "<latin>(QUIA / QUOD) Ā</latin> <latin>FABRŌ</latin> <latin>/ MAGISTRŌ</latin> <latin>(SUŌ</latin> <latin>/ ILLŌ) DOCĒBĀTUR Ā</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Quīdam faber Graecus, vir summō ingeniō, multās ūtilēs rēs fabricāvit. Sed iuvenis, quia ab illō fabrō docēbātur, celeriter suum magistrum arte</latin>  <latin>superābat. Cum faber esset invidiae plēnus, iuvenem ex altā rūpe dēmīsit. Deinde cīvēs Graecī, valdē īrātī, fabrum ad mortem condemnāvērunt.</latin>  <latin>Cūr iuvenis celeriter magistrum arte superābat?</latin> "
+      answer: "<latin>(QUIA / QUOD) Ā FABRŌ / MAGISTRŌ (SUŌ / ILLŌ) DOCĒBĀTUR Ā</latin>"
     boni:
-      - question: "<latin>quō</latin> <latin>iuvenis necātus est?</latin>"
-        answer: "Ā <latin>FABRŌ</latin> <latin>/</latin> Ā <latin>MAGISTRŌ</latin>"
-      - question: "<latin>Certiōrēs factī</latin> <latin>dē</latin> <latin>morte iuvenis, quid fēcērunt cīvēs?</latin> "
+      - question: "<latin>quō iuvenis necātus est?</latin>"
+        answer: "Ā <latin>FABRŌ /</latin> Ā <latin>MAGISTRŌ</latin>"
+      - question: "<latin>Certiōrēs factī dē morte iuvenis, quid fēcērunt cīvēs?</latin> "
         answer: "<latin>EUM / FABRUM AD MORTEM CONDEMNĀVĒRUNT</latin>"
   - tossup:
       question: "What do all of the following verbs have in common: <latin>fīdō, soleō, gaudeō, audeō</latin>?"

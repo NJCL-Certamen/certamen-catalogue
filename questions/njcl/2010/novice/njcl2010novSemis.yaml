@@ -26,7 +26,7 @@ questions:
       - question: "What did the Romans call the modern city of Lyons (lee-<emphasis>on</emphasis>)?"
         answer: "<latin>LUGDŪNUM</latin>"
       - question: "What did the Romans call the modern Spanish city of Cartagena (cart-a-<emphasis>hain-</emphasis>uh)?"
-        answer: "<latin>CARTHĀGŌ</latin> <latin>NOVA</latin>"
+        answer: "<latin>CARTHĀGŌ NOVA</latin>"
   - tossup:
       question: "For the verb <latin>teneō</latin>, give the nominative singular of the present active participle"
       answer: "<latin>TENĒNS</latin>"
@@ -34,7 +34,7 @@ questions:
       - question: "Do the same for the compound of <latin>veniō</latin> that means “meet.”"
         answer: "<latin>CONVENIĒNS</latin>"
       - question: "Do the same for the compound of <latin>faciō</latin> that means “finish.”"
-        answer: "<latin>CŌNFICIĒNS</latin> / <latin>PERFICIĒNS / EFFICIĒNS</latin>"
+        answer: "<latin>CŌNFICIĒNS / PERFICIĒNS / EFFICIĒNS</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Aurēlia dē deīs deābusque legēbat. Id quod Aurēlia numquam audīverat, familia Aurēliae ex Iāsone clārissimō vēnerat. Tum Aurēlia valdē volēbat nāvem cōnscendere et vellus aureum referre.</latin>  Question: Once Aurelia read the stories, what was she eager to do?"
       answer: "HOP ON A SHIP / BRING BACK THE GOLDEN FLEECE"
@@ -61,12 +61,12 @@ questions:
         answer: "ACCOMMODATE"
   - tossup:
       question: "What Latin word is used to describe the huge farms owned by wealthy aristocrats and farmed by tenant farmers and slaves?"
-      answer: "<latin>LĀTIFUNDIUM</latin> / <latin>LĀTIFUNDIA /</latin> Or <latin>PRAEDIUM</latin> / <latin>PRAEDIA</latin>  (if just <latin>fundus</latin> or <latin>fundī</latin> is given as an answer, prompt for a more specific term)"
+      answer: "<latin>LĀTIFUNDIUM / LĀTIFUNDIA /</latin> Or <latin>PRAEDIUM / PRAEDIA</latin>  (if just <latin>fundus</latin> or <latin>fundī</latin> is given as an answer, prompt for a more specific term)"
     boni:
       - question: "What Roman tribune attempted to break up the <latin>lātifundia</latin> in the Roman countryside by enforcing an age-old law that limited landholders to 500 <latin>iugera</latin>?"
         answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
       - question: "What is the Latin word for the tenant farmers who worked on the <latin>lātifundia</latin>?"
-        answer: "<latin>COLŌNUS</latin> / <latin>COLŌNĪ</latin>"
+        answer: "<latin>COLŌNUS / COLŌNĪ</latin>"
   - tossup:
       question: "Which of the following adjective forms CANNOT agree with the noun form <latin>cornū</latin>: <latin>mediō, celeris, nigrum, atrōcī</latin>?"
       answer: "<latin>CELERIS</latin>"
@@ -231,7 +231,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Puer in cubiculō suō neque sedēbat neque iacēbat</latin>"
       answer: "THE BOY WAS NEITHER SITTING NOR LYING (DOWN) IN HIS BEDROOM"
     boni:
-      - question: "Now translate: <latin>Dum</latin> <latin>puer in cubiculō stat, manūs lavābat</latin>"
+      - question: "Now translate: <latin>Dum puer in cubiculō stat, manūs lavābat</latin>"
         answer: "WHILE THE BOY <emphasis>STOOD</emphasis>/<emphasis>WAS</emphasis> STANDING IN (HIS) BEDROOM, HE WAS WASHING (HIS) HANDS / HE WASHED (HIS) HANDS"
       - question: "Finally, translate this sentence: <latin>Deinde, postquam puer ē cubiculō ambulāvit, trāns ātrium in tablīnum īvit</latin>"
         answer: "THEN, AFTER THE BOY WALKED OUT OF (HIS) BEDROOM, HE WENT ACROSS THE ATRIUM/HALL INTO THE TABLINUM/STUDY"

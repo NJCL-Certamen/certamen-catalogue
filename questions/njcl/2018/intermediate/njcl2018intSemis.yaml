@@ -69,7 +69,7 @@ questions:
         answer: "CAPE HERMAEUM"
   - tossup:
       question: "Please translate into Latin using a deponent verb:  Wounded by a sword, the soldier was not able to  \t\tenjoy the victory."
-      answer: "<latin>MĪLES, GLADIŌ VULNERĀTUS, VICTŌRIĀ FRUĪ NŌN</latin> <latin>POTERAT / POTUIT</latin>"
+      answer: "<latin>MĪLES, GLADIŌ VULNERĀTUS, VICTŌRIĀ FRUĪ NŌN POTERAT / POTUIT</latin>"
     boni:
       - question: "Please translate into Latin using a deponent verb and an idiom:  Soldiers, follow me to Athens as  \t\tsoon as possible!"
         answer: "<latin>MĪLITĒS, SEQUIMINĪ MĒ ATHĒNĀS QUAM PRĪMUM</latin>"

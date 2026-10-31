@@ -7,25 +7,25 @@ questions:
       question: "Translate into English: <latin>Quis dubitat quīn linguam Latīnam intellegam</latin>?"
       answer: "WHO DOUBTS THAT I UNDERSTAND (THE) LATIN (LANGUAGE)? or WHO DOUBTS BUT THAT I (SHOULD) UNDERSTAND (THE) LATIN (LANGUAGE)?"
     boni:
-      - question: "<latin>Nēmō</latin> <latin>tam stultus est quīn ad hoc respondēre possit</latin>."
+      - question: "<latin>Nēmō tam stultus est quīn ad hoc respondēre possit</latin>."
         answer: "NO ONE IS SO STUPID THAT HE CANNOT ANSWER / RESPOND (TO) THIS"
       - question: "<latin>Paulum absum quīn moderātōrem interficiam</latin>."
         answer: "I’M NOT FAR FROM / (VERY) CLOSE TO KILLING THE MODERATOR or I’M A LITTLE AWAY FROM THAT I (SHOULD) KILL THE MODERATOR"
   - tossup:
       question: "What Latin proverb is the equivalent in meaning to “a word to the wise is sufficient”?"
-      answer: "<latin>VERBUM SAT SAPIENTĪ</latin> <latin>(EST)</latin> "
+      answer: "<latin>VERBUM SAT SAPIENTĪ (EST)</latin> "
     boni:
       - question: "What Latin proverb is the equivalent in meaning to “blood from a stone”?"
-        answer: "<latin>AB ASINŌ</latin> <latin>LANAM</latin> or <latin>AQUAM Ē</latin> <latin>PUMICE NUNC POSTULĀS</latin> "
-      - question: "What Latin proverb is equivalent in meaning to the latin phrase “<latin>quid prō</latin> <latin>quō</latin>” and the English saying “I’ll scratch your back if you scratch mine”?"
-        answer: "<latin>MANUS MANUM LAVAT</latin> / <latin>ASINUS ASINUM FRICAT</latin> "
+        answer: "<latin>AB ASINŌ LANAM</latin> or <latin>AQUAM Ē PUMICE NUNC POSTULĀS</latin> "
+      - question: "What Latin proverb is equivalent in meaning to the latin phrase “<latin>quid prō quō</latin>” and the English saying “I’ll scratch your back if you scratch mine”?"
+        answer: "<latin>MANUS MANUM LAVAT / ASINUS ASINUM FRICAT</latin> "
   - tossup:
       question: "What Roman politician asked the poet Lucius Lucceius to commemorate his exploits as consul during Catiline’s conspiracy?"
       answer: "(MARCUS TULLIUS) CICERO"
     boni:
       - question: "After Lucceius refused, what was the title of the epic poem that Cicero himself composed?"
         answer: "<title>ON HIS (OWN) CONSULSHIP</title> / <title><latin>DĒ CŌNSULĀTâ SUŌ</latin></title>"
-      - question: "Translate this line preserved from the epic, which was often sited in criticisms of Cicero’s ability as a poet:” Ō <latin>fortūnātam nātam, mē</latin> <latin>cōnsule, Rōmam</latin>!”"
+      - question: "Translate this line preserved from the epic, which was often sited in criticisms of Cicero’s ability as a poet:” Ō <latin>fortūnātam nātam, mē cōnsule, Rōmam</latin>!”"
         answer: "“O FORTUNATE ROME, BORN WHEN I WAS CONSUL”"
   - tossup:
       question: "According to Vergil, where did Aeneas and the others who escaped the fall of Troy take refuge and build ships?"
@@ -44,12 +44,12 @@ questions:
       - question: "What woman was the subject of many of Propertius’ elegies?"
         answer: "CYNTHIA / HOSTIA"
   - tossup:
-      question: "(PASS OUT THE INSCRIPTION) You now have 10 seconds to examine the visual, which contains an inscription describing the two statues shown in the above picture. After the ten seconds, you will be asked a question concerning the inscription. (WAIT 10 SECONDS) <latin>Respondē</latin> <latin>Latīnē: Quō</latin> <latin>portāta sunt haec simulācra?</latin> "
+      question: "(PASS OUT THE INSCRIPTION) You now have 10 seconds to examine the visual, which contains an inscription describing the two statues shown in the above picture. After the ten seconds, you will be asked a question concerning the inscription. (WAIT 10 SECONDS) <latin>Respondē Latīnē: Quō portāta sunt haec simulācra?</latin> "
       answer: "<latin>IN / AD CAPITOLIUM or IN /AD MONTEM CAPITOLĪNUM</latin> "
     boni:
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Dīc, quaesō, duo nōmina hīs duōbus simulācrīs quī</latin> <latin>iuxtā</latin> <latin>equōs suōs stant.</latin> "
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Dīc, quaesō, duo nōmina hīs duōbus simulācrīs quī iuxtā equōs suōs stant.</latin> "
         answer: "CASTOR & POLLUX / POLYDEUCES or GEMINI & DIOSCOURI"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Haec īnscrīptiō</latin> <latin>nōs certiōrēs facit dē</latin> <latin>locō</latin> <latin>quō</latin> <latin>statuae inventae sunt. Dīc praenōmen, nōmen et cognōmen virō</latin> <latin>quī</latin> <latin>id aedificium mūniendum cūrāvit, prope quod hae statuae inventae sunt.</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Haec īnscrīptiō nōs certiōrēs facit dē locō quō statuae inventae sunt. Dīc praenōmen, nōmen et cognōmen virō quī id aedificium mūniendum cūrāvit, prope quod hae statuae inventae sunt.</latin>"
         answer: "<latin>GNAEUS & POMPĒIUS /</latin> POMPEY & <latin>MAGNUS /</latin> THE GREAT"
   - tossup:
       question: "To whom did Hermes grant the power to escape detection whenever he stole?"
@@ -76,7 +76,7 @@ questions:
       - question: "Which of Rome’s aqueducts, built much earlier in 144 BC, was the first to employ arches on a large scale?"
         answer: "AQUA MARCIA"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Duo frātrēs, quī</latin> <latin>erant fīliī</latin> <latin>imperātōris Rōmānī, herēdēs ex testāmentō</latin> ā <latin>patre suō</latin> <latin>factī</latin> <latin>sunt. Alter alterum crūdēliter necāvit. Cum eum occīdisset ac, verēns nē</latin> <latin>tyrannus ā</latin> <latin>populō</latin> <latin>nōminārētur, audīret facinus mītigārī</latin> <latin>posse, sī</latin> <latin>dīvum frātrem appellāret, dīxisse fertur: “Sit dīvus, dum nōn sit vīvus.”</latin> Question: What provision had the emperor made in his will?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Duo frātrēs, quī erant fīliī imperātōris Rōmānī, herēdēs ex testāmentō</latin> ā <latin>patre suō factī sunt. Alter alterum crūdēliter necāvit. Cum eum occīdisset ac, verēns nē tyrannus ā populō nōminārētur, audīret facinus mītigārī posse, sī dīvum frātrem appellāret, dīxisse fertur: “Sit dīvus, dum nōn sit vīvus.”</latin> Question: What provision had the emperor made in his will?"
       answer: "HIS SONS WERE HIS HEIRS / THE BROTHERS WERE THE HEIRS"
     boni:
       - question: "Why did the murderous heir have his brother named “divine”?"
@@ -101,12 +101,12 @@ questions:
         answer: "FALTER"
   - tossup:
       question: "Say in Latin: “If this were easy, we would answer.”"
-      answer: "<latin>SĪ</latin> <latin>HOC/ ID FACILE ESSET, RESPONDĒRĒMUS</latin> "
+      answer: "<latin>SĪ HOC/ ID FACILE ESSET, RESPONDĒRĒMUS</latin> "
     boni:
       - question: "“If that had been difficult, we might not have answered.”"
-        answer: "<latin>SĪ</latin> <latin>ILLUD / ID DIFFICILE FUISSET, NŌN RESPONDISSĒMUS</latin> "
+        answer: "<latin>SĪ ILLUD / ID DIFFICILE FUISSET, NŌN RESPONDISSĒMUS</latin> "
       - question: "“If we should win, we would be very happy.”"
-        answer: "<latin>SĪ</latin> <latin>VINCĀMUS / SUPERĒMUS, LAETISSIMĪ</latin> <latin>/ FĒLĪCISSIMĪ</latin> <latin>/ BEĀTISSIMĪ</latin> <latin>SĪMUS</latin> "
+        answer: "<latin>SĪ VINCĀMUS / SUPERĒMUS, LAETISSIMĪ / FĒLĪCISSIMĪ / BEĀTISSIMĪ SĪMUS</latin> "
   - tossup:
       question: "What Silver Age writer was thought in the Middle Ages to have been a Christian because of his <title><latin>Epistulae mōrālēs</latin></title>?"
       answer: "(LUCIUS ANNAEUS) SENECA THE YOUNGER / MINOR / PHILOSOPHER"
@@ -120,7 +120,7 @@ questions:
       answer: "<latin>QUŌ</latin> (w/ comparative in clause)"
     boni:
       - question: "“Why would I prevent you from doing your best?”"
-        answer: "<latin>NĒ</latin> / <latin>QUŌMINUS</latin> / <latin>QUĪN</latin> "
+        answer: "<latin>NĒ / QUŌMINUS / QUĪN</latin> "
       - question: "“I hope that you have tried to do your best.”"
         answer: "NO CONJUNCTION NEEDED"
   - tossup:
@@ -132,21 +132,21 @@ questions:
       - question: "What had been the name of the city before Amphion and Zethus changed it to Thebes?"
         answer: "CADMEIA"
   - tossup:
-      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis in</latin> <title><latin>Aenēide</latin></title> <latin>dīcit: Ut vīdit sociōs, “Tempus dēsistere pūgnae;</latin>  <latin>sōlus ego in Pallanta feror, sōlī</latin> <latin>mihi Pallās</latin>  <latin>dēbētur; cuperem ipse parēns spectātor adesset.”</latin> "
+      question: "<latin>Audī dīligenter et respondē aut Anglicē aut Latīnē: Quis in</latin> <title><latin>Aenēide</latin></title> <latin>dīcit: Ut vīdit sociōs, “Tempus dēsistere pūgnae;</latin>  <latin>sōlus ego in Pallanta feror, sōlī mihi Pallās</latin>  <latin>dēbētur; cuperem ipse parēns spectātor adesset.”</latin> "
       answer: "TURNUS (TO HIS SOLDIERS / COMRADES-IN-ARMS)"
     boni:
-      - question: "<latin>“Neque tē</latin> <latin>Phoebī</latin> <latin>cortīna fefellit,</latin>  <latin>dux Anchīsiadē, nec mē</latin> <latin>deus aequore mersit;</latin>  <latin>namque gubernāclum multā</latin> <latin>vī</latin> <latin>forte revulsum,</latin>  <latin>praecipitāns trāxī</latin> <latin>mēcum.</latin> "
+      - question: "<latin>“Neque tē Phoebī cortīna fefellit,</latin>  <latin>dux Anchīsiadē, nec mē deus aequore mersit;</latin>  <latin>namque gubernāclum multā vī forte revulsum,</latin>  <latin>praecipitāns trāxī mēcum.</latin> "
         answer: "PALINURUS (TO AENEAS)"
-      - question: "<latin>cōnsiliīs pārē</latin> <latin>quae nunc pulcherrima Nautēs</latin>  <latin>dat senior; lēctōs iuvenēs, fortissima corda,</latin>  <latin>dēfer in Italiam; gēns dūra atque aspera cultū</latin> <latin>dēbellanda tibī</latin> <latin>Latiō</latin> <latin>est</latin>."
+      - question: "<latin>cōnsiliīs pārē quae nunc pulcherrima Nautēs</latin>  <latin>dat senior; lēctōs iuvenēs, fortissima corda,</latin>  <latin>dēfer in Italiam; gēns dūra atque aspera cultū dēbellanda tibī Latiō est</latin>."
         answer: "ANCHISES (TO AENEAS)"
   - tossup:
       question: "What Latin noun, related in etymology to the verb <latin>medeor</latin>, means “a cure”?"
-      answer: "<latin>REMEDIUM</latin> / <latin>MEDICĪNA</latin> "
+      answer: "<latin>REMEDIUM / MEDICĪNA</latin> "
     boni:
       - question: "What Latin noun, related to the verb <latin>taedet</latin>, means “weariness”?"
         answer: "<latin>TAEDIUM</latin> "
       - question: "What Latin noun, related to the verb <latin>sōlor</latin>, means “consolation”?"
-        answer: "<latin>SŌLĀCIUM</latin> / <latin>SŌLĀTIUM</latin> / <latin>CŌNSŌLĀTIŌ</latin>"
+        answer: "<latin>SŌLĀCIUM / SŌLĀTIUM / CŌNSŌLĀTIŌ</latin>"
   - tossup:
       question: "Circus games were very popular with the Romans. By the end of the first century A. D., there were three circuses in or near Rome. Name them."
       answer: "<latin>CIRCUS FLAMINIUS CIRCUS MAXIMUS</latin>  <latin>CIRCUS GĀI(Ī) ET NERŌNIS / CIRCUS VATICĀNUS</latin>  (OR THE ENGLISH NAMES ARE FINE)"

@@ -61,7 +61,7 @@ questions:
         answer: "EURYLOCHUS"
   - tossup:
       question: "The passage from the previous rounds continues. Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows. <latin>Ubi duae fēminae tandem aquilam conspēxērunt et capiēbant pictūrās aquilae.</latin>"
-      answer: "“O miserās fēminās” aquila furens sibi cogitāvit. “Ego eās pūniam quod pictūrae nōn mihi placent.” Statim rēgīna avium dē statuā volābat et dōnum sordidum in capita fēminārum demīsit. Fēminae multīs lacrimīs dolent. REREAD The question: <latin>Quālēs fēminae ad fīnem fabulae erant?</latin> <latin>MISERRIMAE / MISERAE / MAESTAE / INFĒLICĒS (DOLENT) // MULTĪS LACRIMĪS (DOLENT) (</latin>prompt on just <latin>“DOLENT”</latin>) <latin>// SORDIDAE</latin>"
+      answer: "“O miserās fēminās” aquila furens sibi cogitāvit. “Ego eās pūniam quod pictūrae nōn mihi placent.” Statim rēgīna avium dē statuā volābat et dōnum sordidum in capita fēminārum demīsit. Fēminae multīs lacrimīs dolent. REREAD The question: <latin>Quālēs fēminae ad fīnem fabulae erant? MISERRIMAE / MISERAE / MAESTAE / INFĒLICĒS (DOLENT) // MULTĪS LACRIMĪS (DOLENT) (</latin>prompt on just <latin>“DOLENT”</latin>) <latin>// SORDIDAE</latin>"
     boni:
       - question: "<latin>Cūr aquila īrāta erat?</latin>"
         answer: "(<latin>QUOD) FĒMINAE PICTŪRĀS AQUILAE / EIUS CAPIĒBANT // (QUOD) NŌN AQUILAE / EĪ PICTŪRAE PLACENT</latin>"

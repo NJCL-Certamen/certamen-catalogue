@@ -67,9 +67,9 @@ questions:
         answer: "NEOTERICS"
   - tossup:
       question: "What Latin expression is the equivalent of “you can’t get blood from a stone?”"
-      answer: "<latin>AB ASINŌ</latin> <latin>LĀNAM/EX NIHILŌ</latin> <latin>NIHIL FIT/DĒ</latin> <latin>NIHILŌ</latin> <latin>NIHIL</latin>"
+      answer: "<latin>AB ASINŌ LĀNAM/EX NIHILŌ NIHIL FIT/DĒ NIHILŌ NIHIL</latin>"
     boni:
-      - question: " What is the literal meaning of <latin>ab asinō</latin> <latin>lānam</latin>?"
+      - question: " What is the literal meaning of <latin>ab asinō lānam</latin>?"
         answer: "WOOL FROM AN ASS/DONKEY"
       - question: "What Latin expression is the equivalent of “to take a bull by the horns?”"
         answer: "<latin>TENĒRE LUPUM AURIBUS</latin> (TO HOLD A WOLF BY THE EARS)"
@@ -82,11 +82,11 @@ questions:
       - question: ". . . <latin>Ut dīcitur, “adamās est puellae amīcissimus.”</latin>"
         answer: "GEMMA"
   - tossup:
-      question: "Listen carefully to the following passage about Camillus, which I will read twice, and answer IN LATIN the question that follows: <latin>Triumphus Camillī, captīs Veiīs, Rōmānīs displicēbat quod Camillus nimis</latin>  <latin>superbiae praestāret. Nam scrīptum est Camillum accūsārī</latin> <latin>quod parem sē</latin> <latin>deīs facere vellet. Etiam scrīptum est Camillum suōs mīlitēs vexāre quia</latin>  <latin>partem spoliōrum, quam Apollinī</latin> <latin>dēdicāret, iubēret reddī. Postrēmō</latin> <latin>scrīptum est Camillum furtī</latin> <latin>accūsārī</latin> <latin>quod pecūniās quāsdam , quae plēbī</latin> <latin>essent dōnandae, cēlāvisset.</latin>  <latin>Quid dē</latin> <latin>sē</latin> <latin>putāvit Camillus?</latin>"
+      question: "Listen carefully to the following passage about Camillus, which I will read twice, and answer IN LATIN the question that follows: <latin>Triumphus Camillī, captīs Veiīs, Rōmānīs displicēbat quod Camillus nimis</latin>  <latin>superbiae praestāret. Nam scrīptum est Camillum accūsārī quod parem sē deīs facere vellet. Etiam scrīptum est Camillum suōs mīlitēs vexāre quia</latin>  <latin>partem spoliōrum, quam Apollinī dēdicāret, iubēret reddī. Postrēmō scrīptum est Camillum furtī accūsārī quod pecūniās quāsdam , quae plēbī essent dōnandae, cēlāvisset.</latin>  <latin>Quid dē sē putāvit Camillus?</latin>"
       answer: "PAREM DEĪS ESSE"
     boni:
-      - question: "Quā <latin>dē</latin> <latin>causā</latin> <latin>Camillus partem spoliōrum reddī</latin> <latin>iussit?</latin> "
-        answer: "<latin>(QUOD) EAM APOLLINĪ</latin> <latin>DĒDICĀRET / DĒDICĀBAT / DĒDICĀRE VOLUIT</latin>"
+      - question: "Quā <latin>dē causā Camillus partem spoliōrum reddī iussit?</latin> "
+        answer: "<latin>(QUOD) EAM APOLLINĪ DĒDICĀRET / DĒDICĀBAT / DĒDICĀRE VOLUIT</latin>"
       - question: "Cūius dē <latin>pecūniīs Plēbis accūsātus est Camillus?</latin>"
         answer: "FURTĪ"
   - tossup:
@@ -115,7 +115,7 @@ questions:
       question: "What use of the accusative case can be found in the following sentence: <latin>Ēn quattuor ārās</latin>!"
       answer: "EXCLAMATION"
     boni:
-      - question: "What use of the accusative case can be found in the following sentence: <latin>Mentem pressus, rēx in aulā</latin> <latin>cum difficultāte ambulābat</latin>?"
+      - question: "What use of the accusative case can be found in the following sentence: <latin>Mentem pressus, rēx in aulā cum difficultāte ambulābat</latin>?"
         answer: "SPECIFICATION / RESPECT / SYNEDOCHICAL"
       - question: "Using <latin>poēma</latin> for “poem”, translate the following sentence into Latin: “Poems teach us many things.”"
         answer: "<latin>POĒMATA NŌS MULTA</latin>"
@@ -167,9 +167,9 @@ questions:
         answer: "MAGO AND HASDRUBAL, SON OF GISCO/N<emphasis>OT</emphasis> THE BROTHER OF HANNIBAL"
   - tossup:
       question: "Translate the following sentence into Latin: If you should sing sweetly, we would listen"
-      answer: "<latin>SĪ</latin> <latin>SUĀVITER CANTĒS / CANTĒTIS, AUDIĀMUS</latin>"
+      answer: "<latin>SĪ SUĀVITER CANTĒS / CANTĒTIS, AUDIĀMUS</latin>"
     boni:
       - question: "  Translate the following sentence into Latin: If you had sung sweetly, we would have listened"
-        answer: "<latin>SĪ</latin> <latin>SUĀVITER CANTĀ(VI)SSĒS / CANTĀ(VI)SSĒTIS, AUDĪ(VI)SSĒMUS</latin>"
+        answer: "<latin>SĪ SUĀVITER CANTĀ(VI)SSĒS / CANTĀ(VI)SSĒTIS, AUDĪ(VI)SSĒMUS</latin>"
       - question: "For the sentence, “Mary said that she would have sung sweetly, if we had listened.”, translate “would have sung” into Latin"
         answer: "<latin>CANTĀTŪRAM FUISSE</latin>"

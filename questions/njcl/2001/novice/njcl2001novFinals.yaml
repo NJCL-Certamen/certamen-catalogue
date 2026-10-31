@@ -13,12 +13,12 @@ questions:
         answer: "IN RIGHT EYE (<latin>OCULUS DEXTER</latin>)"
   - tossup:
       question: "Translate the following sentence into Latin: “We have seen two towns.”"
-      answer: "<latin>DUO OPPIDA VĪDIMUS</latin> / <latin>SPECTĀVIMUS</latin>"
+      answer: "<latin>DUO OPPIDA VĪDIMUS / SPECTĀVIMUS</latin>"
     boni:
       - question: " . . . “He was eating a dead fish.”"
         answer: "<latin>PISCEM MORTUUM EDĒBAT / CŌNSŪMĒBAT</latin>"
       - question: ". . . “I will wash my whole body.”"
-        answer: "<latin>CORPUS MEUM TŌTUM LAVĀBŌ</latin> / <latin>LUAM</latin>"
+        answer: "<latin>CORPUS MEUM TŌTUM LAVĀBŌ / LUAM</latin>"
   - tossup:
       question: "Who was the father of the giant Antaeus?"
       answer: "POSEIDON"
@@ -38,13 +38,13 @@ questions:
       - question: "Where did Hannibal defeat these two consuls who lost about 30,000 of their soldiers?"
         answer: "TREBIA (RIVER)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Argentarius dīves ad aulam rēgis vēnit et eī</latin> <latin>multa dōna obtulit. Rēx, vidēns dōna, dīxit, “num amīcitiam meam emere vīs? Ēripe haec dōna statim aut tū</latin> <latin>eris inimīcus meus. Amīcitia enim neque vēndī</latin> <latin>neque emī</latin> <latin>potest.”</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Argentarius dīves ad aulam rēgis vēnit et eī multa dōna obtulit. Rēx, vidēns dōna, dīxit, “num amīcitiam meam emere vīs? Ēripe haec dōna statim aut tū eris inimīcus meus. Amīcitia enim neque vēndī neque emī potest.”</latin>"
       answer: "(REPEAT)"
     boni:
-      - question: "<latin>Quō</latin> <latin>īvit argentārius cum dōnīs? AD AULAM (RĒGIS) / RĒGIAM Quam rem rēx putāvit argentarium emere temptāre?</latin>"
+      - question: "<latin>Quō īvit argentārius cum dōnīs? AD AULAM (RĒGIS) / RĒGIAM Quam rem rēx putāvit argentarium emere temptāre?</latin>"
         answer: "AMĪCITIAM"
-      - question: "Quae verba dē <latin>amīcitiā</latin> <latin>dīxit rēx?</latin> "
-        answer: "<latin>(AMĪCITIA ENIM) NEQUE VĒNDĪ</latin> <latin>NEQUE EMĪ</latin> <latin>POTEST</latin> / <latin>AMĪCITIAM NEQUE VĒNDĪ</latin> <latin>NEQUE EMĪ</latin> <latin>POSSE</latin>"
+      - question: "Quae verba dē <latin>amīcitiā dīxit rēx?</latin> "
+        answer: "<latin>(AMĪCITIA ENIM) NEQUE VĒNDĪ NEQUE EMĪ POTEST / AMĪCITIAM NEQUE VĒNDĪ NEQUE EMĪ POSSE</latin>"
   - tossup:
       question: "What is the Latin name for the drink which was a mixture of wine and honey?"
       answer: "<latin>MULSUM</latin>"
@@ -52,7 +52,7 @@ questions:
       - question: "What name for the appetizer course of a Roman dinner indicates that <latin>mulsum</latin> was served then?"
         answer: "<latin>PRŌMULSIS</latin>"
       - question: " What other term for the appetizer course indicates that the foods served were designed to whet the appetite and not simply to be eaten before dinner?"
-        answer: "<latin>GUSTUS</latin> / <latin>GUSTATIO</latin>"
+        answer: "<latin>GUSTUS / GUSTATIO</latin>"
   - tossup:
       question: "Give the comparative and superlative forms of <latin>fortiter</latin>"
       answer: "<latin>FORTIUS, FORTISSIMĒ</latin>"
@@ -60,7 +60,7 @@ questions:
       - question: "of the adjective <latin>facile</latin>"
         answer: "<latin>FACILIUS, FACILLIMUM</latin>"
       - question: ". . . of the adjective <latin>idōneus</latin>"
-        answer: "<latin>MAGIS IDŌNEUS, MAXIMĒ</latin> <latin>IDŌNEUS</latin>"
+        answer: "<latin>MAGIS IDŌNEUS, MAXIMĒ IDŌNEUS</latin>"
   - tossup:
       question: "Why did red water run from the spring at the Syrian city of Joppa?"
       answer: "PERSEUS WASHED BLOOD FROM HIS HANDS THERE AFTER KILLING THE SEA MONSTER"
@@ -80,10 +80,10 @@ questions:
       - question: "The other reason for leaving Rome may have been his jealousy of Augustus’ grandsons. Name them"
         answer: "GAIUS & LUCIUS CAESAR"
   - tossup:
-      question: "Of <latin>tempestās, bīgae, rētiārius, officīna</latin>, and <latin>lectīca</latin>, which is being described in the following Latin sentence: <latin>Est sella cum pulvīnō</latin> <latin>quā</latin> <latin>dīvitiōrēs ferēbantur</latin>"
+      question: "Of <latin>tempestās, bīgae, rētiārius, officīna</latin>, and <latin>lectīca</latin>, which is being described in the following Latin sentence: <latin>Est sella cum pulvīnō quā dīvitiōrēs ferēbantur</latin>"
       answer: "<latin>LECTĪCA</latin>"
     boni:
-      - question: " . . . <latin>Est locus in quō</latin> <latin>artificēs opera faciunt</latin>"
+      - question: " . . . <latin>Est locus in quō artificēs opera faciunt</latin>"
         answer: "<latin>OFFICĪNA</latin>"
       - question: ". . . <latin>Sunt currus duōbus equīs iunctus</latin>"
         answer: "<latin>BĪGAE</latin>"
@@ -161,15 +161,15 @@ questions:
       question: "What use of the ablative case is illustrated in this sentence: <latin>oculīs vidēmus</latin>"
       answer: "MEANS/INSTRUMENT"
     boni:
-      - question: "in this sentence: <latin>tertio diē</latin> <latin>revēnit</latin>"
+      - question: "in this sentence: <latin>tertio diē revēnit</latin>"
         answer: "TIME (WHEN)"
-      - question: "in this sentence: <latin>dominus ā</latin> <latin>cane excitātus est</latin>"
+      - question: "in this sentence: <latin>dominus ā cane excitātus est</latin>"
         answer: "AGENT"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Dīc mihi Anglicē</latin> <latin>haec verba: “Quis canēs līberāvit?”</latin> "
+      question: "When you are recognized by the spotter, follow this direction: <latin>Dīc mihi Anglicē haec verba: “Quis canēs līberāvit?”</latin> "
       answer: "STUDENT SHOULD SAY “WHO LET THE DOGS OUT?”"
     boni:
-      - question: "or something like “WHO HAS FREED THE DOGS?” but prompt for lameness <latin>Surge et dīc sociīs tuīs Anglicē</latin> <latin>fābulam brevem dē</latin> <latin>canibus.</latin> "
+      - question: "or something like “WHO HAS FREED THE DOGS?” but prompt for lameness <latin>Surge et dīc sociīs tuīs Anglicē fābulam brevem dē canibus.</latin> "
         answer: "STUDENT SHOULD RISE AND TELL HIS TEAMMATES SOME STORY ABOUT DOGS"
-      - question: "<latin>Rogā</latin> <latin>mē</latin> <latin>Anglicē</latin> <latin>haec verba: Quod est pretium illīus canis in fenestr</latin><latin>ā?</latin>"
+      - question: "<latin>Rogā mē Anglicē haec verba: Quod est pretium illīus canis in fenestr</latin><latin>ā?</latin>"
         answer: "STUDENT SHOULD AS MODERATOR “HOW MUCH IS THAT DOGGIE IN THE WINDOW?”"

@@ -45,12 +45,12 @@ questions:
         answer: "<latin>ŪNUS</latin>"
   - tossup:
       question: "Give a synonym for the singular Latin noun <latin>ōra</latin>"
-      answer: "<latin>LĪTUS</latin>/ <latin>ACTA</latin> / <latin>RĪPA</latin>"
+      answer: "<latin>LĪTUS</latin>/ <latin>ACTA / RĪPA</latin>"
     boni:
       - question: "... for the noun <latin>iānua</latin>"
         answer: "<latin>ŌSTIUM</latin>/ <latin>FORIS</latin>/ <latin>FORĒS</latin>/ <latin>VALVAE</latin>/ <latin>PORTA</latin>/ <latin>POSTIS</latin>/ <latin>CLAUSTRA</latin>"
       - question: "... for the noun <latin>amīcus</latin>"
-        answer: "<latin>FAMILIĀRIS</latin>/ <latin>AMĀTOR</latin>/ <latin>HOSPES</latin>/ <latin>COMES</latin> / <latin>SOCIUS / SODĀLIS</latin>"
+        answer: "<latin>FAMILIĀRIS</latin>/ <latin>AMĀTOR</latin>/ <latin>HOSPES</latin>/ <latin>COMES / SOCIUS / SODĀLIS</latin>"
   - tossup:
       question: "The story of Romulus and Remus and the events of the Punic Wars can be found in the writings of what Augustan historian?"
       answer: "(TITUS) LIVIUS / LIVY"
@@ -74,7 +74,7 @@ questions:
       - question: "What in this picture would be described by the Latin term <latin>vomitōrium</latin>?"
         answer: "THE TUNNEL / ENTRANCE"
   - tossup:
-      question: "Listen to this passage which I will read twice and answer in English the question that follows. <latin>Rēx Nūma populīs Rōmānīs pollicēbātur ut eōs multa docēret. Nūma dīxit, “Ego sciō</latin> <latin>quō</latin> <latin>modō</latin> <latin>gallōs sacrōs pascam. Ego intellegō</latin> <latin>quō</latin> <latin>modō</latin> <latin>deīs gallōs sacrificem.” Quaedam mulier rogāvit quō</latin> <latin>modō</latin> <latin>gallōs coqueret. Rēx respondit, “Quid? Hoc nesci</latin><latin>ō!”</latin>  The question: Whom does Numa guarantee he will enlighten?"
+      question: "Listen to this passage which I will read twice and answer in English the question that follows. <latin>Rēx Nūma populīs Rōmānīs pollicēbātur ut eōs multa docēret. Nūma dīxit, “Ego sciō quō modō gallōs sacrōs pascam. Ego intellegō quō modō deīs gallōs sacrificem.” Quaedam mulier rogāvit quō modō gallōs coqueret. Rēx respondit, “Quid? Hoc nesci</latin><latin>ō!”</latin>  The question: Whom does Numa guarantee he will enlighten?"
       answer: "THE ROMAN PEOPLE"
     boni:
       - question: "What expertise does Numa have with chickens?"
@@ -130,12 +130,12 @@ questions:
       - question: "In which work did Pacuvius depict Ulysses’ death at the hand of Telegonus?"
         answer: "<title><latin>NIPTRA</latin></title> / <title>THE BATH</title>"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Nēmō</latin> <latin>est cui crēdere possim</latin>"
+      question: "Translate the following sentence into English: <latin>Nēmō est cui crēdere possim</latin>"
       answer: "THERE IS NO ONE (WHOM) I CAN BELIEVE"
     boni:
-      - question: "Translate the following sentence into English: <latin>Rūs īvit quō</latin> <latin>tranquillius vīveret</latin>"
+      - question: "Translate the following sentence into English: <latin>Rūs īvit quō tranquillius vīveret</latin>"
         answer: "HE WENT TO THE COUNTRY TO LIVE MORE PEACEFULLY"
-      - question: "Translate the following sentence into English: <latin>dignus est quī</latin> <latin>Rōmānus fīat</latin>"
+      - question: "Translate the following sentence into English: <latin>dignus est quī Rōmānus fīat</latin>"
         answer: "HE IS WORTHY OF BECOMING A ROMAN"
   - tossup:
       question: "What useful present did Maron, the priest of Apollo, give to Odysseus?"

@@ -37,14 +37,14 @@ questions:
         answer: "PROPERTIUS"
   - tossup:
       question: "Using a gerundive, translate the following sentence into Latin: “Cicero must write his own speeches.”"
-      answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ</latin> <latin>SCRĪBENDAE SUNT</latin>"
+      answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ SCRĪBENDAE SUNT</latin>"
     boni:
       - question: " Using <emphasis>the verb</emphasis> <emphasis><latin>pare</latin></emphasis><emphasis>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
         answer: "<latin>OMNIBUS LĒGIBUS BONĪS PARENDUM EST</latin>"
       - question: " Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
-        answer: "Ā <latin>PIŌ</latin> <latin>DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
+        answer: "Ā <latin>PIŌ DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
   - tossup:
-      question: "What type of independent subjunctive clause is found in the following Latin sentence: <latin>Utī</latin> <latin>sōl per tōtum annum lūcēret</latin>!"
+      question: "What type of independent subjunctive clause is found in the following Latin sentence: <latin>Utī sōl per tōtum annum lūcēret</latin>!"
       answer: "OPTATIVE / VOLITIVE"
     boni:
       - question: "<latin>Quid iūdicibus dīcerem</latin>?"
@@ -68,7 +68,7 @@ questions:
       - question: "What previous emperor was the father of Numerian and Carinus?"
         answer: "(MARCUS AURELIUS) CARUS"
   - tossup:
-      question: "Change the phrase <latin>carō</latin> <latin>vīvēns</latin> to the ablative"
+      question: "Change the phrase <latin>carō vīvēns</latin> to the ablative"
       answer: "<latin>CARNE VĪVENTE</latin>"
     boni:
       - question: "(-Ī) Change <latin>senex vīvēns</latin> to the genitive plural"
@@ -92,7 +92,7 @@ questions:
       - question: "Why doesn’t Martial want to give a copy of his books to Theodorus?"
         answer: "HE’S AFRAID THAT HE WILL GET THEODORUS’ BOOKS IN RETURN"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Agricola quīdam moritūrus fīliīs arcessītīs dīxit fīnem vītae adesse. “Fīliī,” inquit, “nōn metuō</latin> <latin>nē</latin> <latin>iussa mea neglegātis nec meī</latin> <latin>mortuī</latin> <latin>oblīvīscāminī. Itaque vōs iubeō</latin> <latin>dīligenter in meīs vīneīs labōrāre, quō</latin> <latin>factō</latin> <latin>magnās dīvitiās et fēlīcitātem reperiētis.”</latin>  <latin>Cuius meminisse fīliīs necesse erat?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Agricola quīdam moritūrus fīliīs arcessītīs dīxit fīnem vītae adesse. “Fīliī,” inquit, “nōn metuō nē iussa mea neglegātis nec meī mortuī oblīvīscāminī. Itaque vōs iubeō dīligenter in meīs vīneīs labōrāre, quō factō magnās dīvitiās et fēlīcitātem reperiētis.”</latin>  <latin>Cuius meminisse fīliīs necesse erat?</latin>"
       answer: "AGRICOLAE / PATRIS (MORTUĪ)"
     boni:
       - question: "Quid pater fīliīs imperāvit? "
@@ -108,12 +108,12 @@ questions:
       - question: "What was the term for the chair in which a teacher/professor/rhetor would sit?"
         answer: "<latin>CATHEDRA</latin>"
   - tossup:
-      question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā</latin> <latin>imposita cadāvera cremābantur</latin>"
+      question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā imposita cadāvera cremābantur</latin>"
       answer: "<latin>ROGUS</latin>"
     boni:
-      - question: " . . . <latin>Est lōrum frēnō</latin> <latin>alligātum, quō</latin> <latin>equī</latin> <latin>reguntur</latin>"
+      - question: " . . . <latin>Est lōrum frēnō alligātum, quō equī reguntur</latin>"
         answer: "<latin>HABĒNA</latin>"
-      - question: ". . . <latin>Est turricula rotunda, per quam tālī</latin> <latin>mittuntur</latin>"
+      - question: ". . . <latin>Est turricula rotunda, per quam tālī mittuntur</latin>"
         answer: "<latin>FRITILLUS</latin>"
   - tossup:
       question: "What Roman author followed the traditions set forth by the historian Thucydides and produced two important historical monographs in the first century BC?"
@@ -156,10 +156,10 @@ questions:
       - question: "Thea gave birth to a foal that was eventually transformed into a little girl by Poseidon. Name this baby girl"
         answer: "MELANIPPE"
   - tossup:
-      question: "Translate the following sentence into idiomatic English: <latin>Sī</latin> <latin>Cicerō</latin> <latin>in forum vēnisset, ōrātiōnem habuisset</latin>"
+      question: "Translate the following sentence into idiomatic English: <latin>Sī Cicerō in forum vēnisset, ōrātiōnem habuisset</latin>"
       answer: "IF CICERO HAD COME INTO THE FORUM, HE WOULD HAVE GIVEN A SPEECH / DELIVERED AN ORATION"
     boni:
-      - question: "<latin>Nisī</latin> <latin>Cicerō</latin> <latin>ōrātor bonus esset, iūdex eī</latin> <latin>nōn crēderet</latin>"
+      - question: "<latin>Nisī Cicerō ōrātor bonus esset, iūdex eī nōn crēderet</latin>"
         answer: "IF CICERO WEREN’T A GOOD ORATOR, THE JUDGE WOULDN’T BELIEVE HIM"
-      - question: "<latin>Sī</latin> <latin>Cicerō</latin> <latin>in exilium mittātur, miserrimus sit</latin>"
+      - question: "<latin>Sī Cicerō in exilium mittātur, miserrimus sit</latin>"
         answer: "IF CICERO SHOULD BE SENT INTO EXILE, HE WOULD BE VERY UNHAPPY"

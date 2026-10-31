@@ -26,7 +26,7 @@ questions:
       - question: "Using the locative case, say in Latin: at Laurentum"
         answer: "<latin>LAURENTĪ</latin>"
       - question: "Translate into Latin: They marched from Beneventum to Verona"
-        answer: "<latin>BENEVENTŌ</latin> <latin>VERŌNAM ITER FĒCĒRUNT / FACIĒBANT</latin>"
+        answer: "<latin>BENEVENTŌ VERŌNAM ITER FĒCĒRUNT / FACIĒBANT</latin>"
   - tossup:
       question: "What minor Greek deity had three sons, each of whom represented a different kind of dream? This god’s Roman name was Somnus"
       answer: "HYPNOS"
@@ -52,12 +52,12 @@ questions:
       - question: "What tribune was assassinated in 91 BC after proposing citizenship be extended to the Italian allies?"
         answer: "(MARCUS) LIVIUS DRUSUS THE YOUNGER"
   - tossup:
-      question: "What use of the Accusative case can be found in the following sentence: <latin>Servī</latin> <latin>decem hōrās labōrābant?</latin>"
+      question: "What use of the Accusative case can be found in the following sentence: <latin>Servī decem hōrās labōrābant?</latin>"
       answer: "DURATION / EXTENT OF TIME"
     boni:
-      - question: "<latin>Mē</latin> <latin>augurem nōmināvērunt?</latin>"
+      - question: "<latin>Mē augurem nōmināvērunt?</latin>"
         answer: "PREDICATE (ACCUSATIVE) (Not a “Double Accusative”)"
-      - question: "<latin>Servī</latin> <latin>decem mīlia passuum ambulāverant?</latin>"
+      - question: "<latin>Servī decem mīlia passuum ambulāverant?</latin>"
         answer: "EXTENT OF SPACE"
   - tossup:
       question: "Which state’s motto would be “<latin>agricultūra et commercium</latin>”, if its motto were in Latin?"
@@ -77,7 +77,7 @@ questions:
         answer: "WORSHIP OF BAAL / DEDICATION OF (A YAWEH) TEMPLE TO BAAL / OLYMPIAN ZEUS"
   - tossup:
       question: "Using the verb <latin>saliō</latin>, say in Latin, “I have jumped.”"
-      answer: "<latin>SALUĪ</latin> <latin>/ SALIĪ</latin>"
+      answer: "<latin>SALUĪ / SALIĪ</latin>"
     boni:
       - question: "Say in Latin, “We had jumped.”"
         answer: "<latin>SALUERĀMUS / SALIERĀMUS</latin>"
@@ -92,10 +92,10 @@ questions:
       - question: "Who is the Italian woman in picture #4?"
         answer: "CAMILLA"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Quattuor puerī, quōrum māter erat mortua, miserrimī</latin> <latin>erant .</latin>"
+      question: "Translate the following sentence into English: <latin>Quattuor puerī, quōrum māter erat mortua, miserrimī erant .</latin>"
       answer: "THE FOUR BOYS, WHOSE MOTHER WAS DEAD / HAD DIED, WERE VERY SAD"
     boni:
-      - question: "<latin>Gladiātōrēs, quī</latin> <latin>in amphitheātrō</latin> <latin>pugnābant, quattuor elephantōs interficiēbant.</latin>"
+      - question: "<latin>Gladiātōrēs, quī in amphitheātrō pugnābant, quattuor elephantōs interficiēbant.</latin>"
         answer: "THE GLADIATORS, WHO WERE FIGHTING / FOUGHT IN THE AMPHITHEATER, KILLED / WERE KILLING FOUR ELEPHANTS"
       - question: "<latin>Dōnum, quod puellae pulcherrimae dederās, erat ānulus.</latin>"
         answer: "THE GIFT, WHICH YOU HAD GIVEN TO A VERY PRETTY GIRL, WAS A RING"
@@ -116,12 +116,12 @@ questions:
       - question: "Who hired two shepherds to stage a fictitious argument in the palace and assassinate Tanaquil’s husband, Tarquinius Priscus?"
         answer: "THE SONS OF ANCUS MARCIUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Postquam deī</latin> <latin>Olympiī</latin> <latin>Titānōs superāvērunt, Iuppiter aliīs deīs dīxit. “Plūtō” inquit, “mī</latin> <latin>frāter, tū</latin> <latin>in Tartarō</latin> <latin>obscūrō</latin> <latin>sub terrā</latin> <latin>rēgnābis et Cerberus, canis trīceps, iānuam Tartarī</latin> <latin>semper custōdiet. Et tū, Mercurī, mortuōs ad rīpam flūminis dūcēs.” Sīc factum est.</latin>  Question: Ā <latin>quō</latin> <latin>iānua Tartarī</latin> <latin>custōdiētur?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Postquam deī Olympiī Titānōs superāvērunt, Iuppiter aliīs deīs dīxit. “Plūtō” inquit, “mī frāter, tū in Tartarō obscūrō sub terrā rēgnābis et Cerberus, canis trīceps, iānuam Tartarī semper custōdiet. Et tū, Mercurī, mortuōs ad rīpam flūminis dūcēs.” Sīc factum est.</latin>  Question: Ā <latin>quō iānua Tartarī custōdiētur?</latin>"
       answer: "(Ā) CERBERŌ <latin>/ CANE TRĪCIPĪ</latin>"
     boni:
       - question: "<latin>Vērum aut falsum: Titānīs superātīs, Iuppiter iussit Mercurium mortuōs ad rīpam flūminis dūcere</latin>"
         answer: "VĒRUM"
-      - question: "<latin>Quid faciet Plūtō</latin> <latin>sub terrā?</latin>"
+      - question: "<latin>Quid faciet Plūtō sub terrā?</latin>"
         answer: "RĒGNĀBIT / <latin>RĒGET</latin>"
   - tossup:
       question: "What mythological couple was punished for making love in a temple of Rhea by being turned into lions?"
@@ -132,12 +132,12 @@ questions:
       - question: "What help had Aphrodite given to Hippomenes?"
         answer: "SHE GAVE HIM THREE GOLDEN APPLES (FOR HIM TO USE IN A FOOTRACE)"
   - tossup:
-      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: Carpe diem, quam minimum crēdulā</latin> <latin>posterō. Quae pars ōrātiōnis est “diem”?</latin>"
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: Carpe diem, quam minimum crēdulā posterō. Quae pars ōrātiōnis est “diem”?</latin>"
       answer: "NŌMEN"
     boni:
-      - question: "<latin>“Diem”, quō</latin> <latin>cāsū</latin> <latin>est?</latin>"
+      - question: "<latin>“Diem”, quō cāsū est?</latin>"
         answer: "ACCUSĀTĪVŌ"
-      - question: "<latin>“Carpe”, cuius numerī</latin> <latin>est?</latin>"
+      - question: "<latin>“Carpe”, cuius numerī est?</latin>"
         answer: "SINGULĀRIS"
   - tossup:
       question: "Which of these was farthest west in the Roman empire: Tarraconensis, Cappadocia, Calabria, or Pannonia?"
@@ -160,9 +160,9 @@ questions:
       answer: "<latin>NUM (EGO) SUM ĪNSĀNUS (-A)?</latin>"
     boni:
       - question: "This contest is more difficult than that one, isn’t it?"
-        answer: "<latin>NŌNNE HOC CERTĀMEN DIFFICILIUS EST ILLŌ</latin> <latin>/ QUAM ILLUD</latin>"
+        answer: "<latin>NŌNNE HOC CERTĀMEN DIFFICILIUS EST ILLŌ / QUAM ILLUD</latin>"
       - question: "Why are you sparing us students?"
-        answer: "<latin>CŪR NŌBĪS DISCIPULĪS / STUDENTIBUS PARCIS / PARCITIS?</latin> <latin>2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>  <latin>FINALS</latin>"
+        answer: "<latin>CŪR NŌBĪS DISCIPULĪS / STUDENTIBUS PARCIS / PARCITIS? 2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>  <latin>FINALS</latin>"
   - tossup:
       question: "In order, name the first three labors of Herakles"
       answer: "NEMEAN LION, (LERNAEAN) HYDRA, ERYMANTHIAN BOAR"
@@ -189,7 +189,7 @@ questions:
         answer: "VĪRIUM"
   - tossup:
       question: "Using the Ablative case, translate the following sentence into Latin: The dog was running with great speed"
-      answer: "<latin>CANIS MAGNĀ</latin> <latin>(CUM) CELERITĀTE CURRĒBAT</latin>"
+      answer: "<latin>CANIS MAGNĀ (CUM) CELERITĀTE CURRĒBAT</latin>"
     boni:
       - question: "Using the Ablative case, translate this sentence: The farmer was killed by the swords of the soldiers"
         answer: "<latin>AGRICOLA GLADIĪS MĪLITUM NECĀTUS / INTERFECTUS / CAESUS EST</latin>"
@@ -209,10 +209,10 @@ questions:
     boni:
       - question: "<latin>Coriolānus multīs mīlitibus praeerat?</latin>"
         answer: "WITH COMPOUND VERB / SPECIAL VERB <latin>PRAESUM</latin>"
-      - question: "<latin>Meī</latin> <latin>discipulī</latin> <latin>sunt cāriōrēs mihi quam vīta?</latin>"
+      - question: "<latin>Meī discipulī sunt cāriōrēs mihi quam vīta?</latin>"
         answer: "WITH SPECIAL ADJECTIVE <latin>CĀRUS</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Lutetia erat fēmina magnae pulchritūdinis sed minimae prūdentiae, cui cīvēs semper favēbant. Illa autem in convīviīs semper nimium vīnī</latin> <latin>bibere volēbat. Quondam, ubi ebria in currū</latin> <latin>suō</latin> <latin>inventa erat, ad iudicem missa est. Iudex Lutetiam flentem in carcerem coniēcit cum hīs verbīs: “Nōlī, stulta puella, umquam bibere et currum agere!”</latin>  Question: What did Lutetia always want to do?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Lutetia erat fēmina magnae pulchritūdinis sed minimae prūdentiae, cui cīvēs semper favēbant. Illa autem in convīviīs semper nimium vīnī bibere volēbat. Quondam, ubi ebria in currū suō inventa erat, ad iudicem missa est. Iudex Lutetiam flentem in carcerem coniēcit cum hīs verbīs: “Nōlī, stulta puella, umquam bibere et currum agere!”</latin>  Question: What did Lutetia always want to do?"
       answer: "DRINK TOO MUCH WINE AT (DINNER) PARTIES"
     boni:
       - question: "Why was she sent before a judge?"
@@ -228,12 +228,12 @@ questions:
       - question: "What contest did Meriones win at the funeral games of Patroclus?"
         answer: "ARCHERY"
   - tossup:
-      question: "When recognized by the spotter, perform the following Latin command: <latin>Dīc Anglicē,</latin> “<latin>Vōs omnēs posterō</latin> <latin>annō</latin> <latin>vidēbō</latin>.”"
+      question: "When recognized by the spotter, perform the following Latin command: <latin>Dīc Anglicē,</latin> “<latin>Vōs omnēs posterō annō vidēbō</latin>.”"
       answer: "ONE STUDENT SHOULD SAY IN ENGLISH THAT HE WILL SEE EVERYONE NEXT YEAR"
     boni:
-      - question: "<latin>Dīc Anglicē, “Quinque annīs Certāmen Tōtīus Mundī</latin> <latin>lūdam.”</latin>"
+      - question: "<latin>Dīc Anglicē, “Quinque annīs Certāmen Tōtīus Mundī lūdam.”</latin>"
         answer: "ONE STUDENT SHOULD SAY IN ENGLISH THAT HE WILL PLAY IN THE WORLD SERIES OF CERTAMEN (WITH)IN FIVE YEARS"
-      - question: "<latin>Dīcite Anglicē, “Nōs decem annīs optimī</latin> <latin>magistrī</latin> <latin>Linguae Latīnae fī</latin><latin>ēmus.”</latin>"
+      - question: "<latin>Dīcite Anglicē, “Nōs decem annīs optimī magistrī Linguae Latīnae fī</latin><latin>ēmus.”</latin>"
         answer: "MORE THAN ONE STUDENT WILL SAY THAT THEY WILL (ALL) BECOME VERY GOOD / THE BEST LATIN TEACHERS (WITH)IN TEN YEARS"
   - tossup:
       question: "Give an antonym of <latin>plēnus</latin>"
@@ -242,7 +242,7 @@ questions:
       - question: "Give an antonym of <latin>āter.</latin>"
         answer: "<latin>SPLENDIDUS, NŌTUS, CANDIDUS, ALBUS, NIVEUS</latin>"
       - question: "Give an antonym of <latin>amō</latin>"
-        answer: "DĒSPICI<latin>Ō,</latin> <latin>ŌDĪ(SSE)</latin>"
+        answer: "DĒSPICI<latin>Ō, ŌDĪ(SSE)</latin>"
   - tossup:
       question: "Who visited Odysseus’ court at Ithaca disguised as the sailor Mentes, and spoke with Telemachus?"
       answer: "ATHENA"
@@ -268,20 +268,20 @@ questions:
       - question: "Which of the cities listed in the tossup was farthest north?"
         answer: "EBORACUM (IN BRITANNIA)"
   - tossup:
-      question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quī</latin> <latin>marītus et uxor Iovī</latin> <latin>Mercuriōque placēbant, novum templum hīs deīs custōdiēbant, et tum post multōs annōs, ubi mortuī</latin> <latin>sunt, arborēs quercus et tīlia factī</latin> <latin>sunt?</latin>"
+      question: "<latin>Respondē aut Anglicē aut Latīnē: Quī marītus et uxor Iovī Mercuriōque placēbant, novum templum hīs deīs custōdiēbant, et tum post multōs annōs, ubi mortuī sunt, arborēs quercus et tīlia factī sunt?</latin>"
       answer: "BAUCIS AND PHILEMON or <latin>BAUCIS ET PHILĒMŌ(N)</latin>"
     boni:
-      - question: "<latin>Respondē</latin> <latin>Latīnē: Quot vīcīnī</latin> <latin>Baucidis et Philēmōnis iānuās Iovī</latin> <latin>Mercuriōque aperuērunt?</latin>"
-        answer: "NĒMŌ / <latin>NŪLLUS</latin> / <latin>NŪLLĪ</latin>"
-      - question: "<latin>Respondē</latin> <latin>Anglicē: Ubi Baucis et Philēmōn servātī</latin> <latin>erant, quō</latin> <latin>modō</latin> <latin>Iuppiter cēterōs incolās necāvit?</latin>"
+      - question: "<latin>Respondē Latīnē: Quot vīcīnī Baucidis et Philēmōnis iānuās Iovī Mercuriōque aperuērunt?</latin>"
+        answer: "NĒMŌ / <latin>NŪLLUS / NŪLLĪ</latin>"
+      - question: "<latin>Respondē Anglicē: Ubi Baucis et Philēmōn servātī erant, quō modō Iuppiter cēterōs incolās necāvit?</latin>"
         answer: "A FLOOD"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Ancillae, ā</latin> <latin>dominō</latin> <latin>vituperātae, lacrimāre coepērunt.</latin>"
+      question: "Translate the following sentence into English: <latin>Ancillae, ā dominō vituperātae, lacrimāre coepērunt.</latin>"
       answer: "THE SLAVE GIRLS, (HAVING BEEN) CURSED BY THE MASTER, BEGAN TO CRY"
     boni:
-      - question: "<latin>Manus mīlitum, ā</latin> <latin>rēge missa, ad pontem contendērunt.</latin>"
+      - question: "<latin>Manus mīlitum, ā rēge missa, ad pontem contendērunt.</latin>"
         answer: "A BAND OF SOLDIERS, (HAVING BEEN) SENT BY THE KING, HURRIED TO THE BRIDGE"
-      - question: "<latin>Nautae, inter sē</latin> <latin>pugnantēs, saxum in undīs nōn vīdērunt.</latin>"
+      - question: "<latin>Nautae, inter sē pugnantēs, saxum in undīs nōn vīdērunt.</latin>"
         answer: "THE SAILORS, (WHILE) FIGHTING AMONG THEMSELVES, DID NOT SEE THE ROCK UNDER THE WAVES"
   - tossup:
       question: "Please do not open your visuals until you are instructed to do so.   You may open your visuals.  Study these imperials busts for ten seconds.  Identify by letter and name the emperor depicted here that was neither father nor brother to any of the others in this picture and was a member of the Julio-Claudian dynasty"
@@ -293,7 +293,7 @@ questions:
         answer: "D - DOMITIAN"
   - tossup:
       question: "What are the singular and plural present active imperatives for the following four verbs? <latin>ferō, faciō, dīcō, dūcō</latin>"
-      answer: "FER / <latin>FERTE FAC</latin> / <latin>FACITE</latin>  <latin>DĪC</latin> / <latin>DĪCITE</latin>  <latin>DŪC</latin> / <latin>DŪCITE</latin>"
+      answer: "FER / <latin>FERTE FAC / FACITE</latin>  <latin>DĪC / DĪCITE</latin>  <latin>DŪC / DŪCITE</latin>"
     boni:
       - question: "Give the singular and plural present active imperatives for the verb <latin>cōnficiō</latin>"
         answer: "<latin>CŌNFICE</latin> & <latin>CŌNFICITE</latin>"

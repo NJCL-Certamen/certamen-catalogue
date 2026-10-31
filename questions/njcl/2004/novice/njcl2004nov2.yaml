@@ -16,9 +16,9 @@ questions:
       answer: "<latin>AMĪCUS, SOCIUS, FĀMILIĀRIS, SODĀLIS, HOSPES</latin>"
     boni:
       - question: ". . . of <latin>servus</latin>"
-        answer: "<latin>DOMINUS</latin> / <latin>ANCILLA</latin> / <latin>LĪBERTUS</latin> / <latin>LĪBERTĪNUS / SERVA</latin>"
+        answer: "<latin>DOMINUS / ANCILLA / LĪBERTUS / LĪBERTĪNUS / SERVA</latin>"
       - question: ". . . of <latin>mons</latin>"
-        answer: "<latin>CAMPUS</latin> / <latin>AGER / MARE / PONTUS / FOSSA / VALLES</latin>"
+        answer: "<latin>CAMPUS / AGER / MARE / PONTUS / FOSSA / VALLES</latin>"
   - tossup:
       question: "Give the superlative form for the adjective <latin>nōbilis</latin>"
       answer: "<latin>NŌBILISSIMUS</latin>"
@@ -52,12 +52,12 @@ questions:
       - question: "Change the inscription “<latin>Lūdite, Rōmānī</latin>” to the singular"
         answer: "<latin>LŪDE, RŌMĀNE</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat “servāre”</latin>?"
+      question: "<latin>Quid Anglicē significat “servāre”</latin>?"
       answer: "SAVE / PROTECT / GUARD"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “necāre”</latin>?"
+      - question: "<latin>Quid Anglicē significat “necāre”</latin>?"
         answer: "KILL"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “audēre”</latin>?"
+      - question: "<latin>Quid Anglicē significat “audēre”</latin>?"
         answer: "DARE"
   - tossup:
       question: "What was the Latin word for a trainer and seller of gladiators?"
@@ -124,13 +124,13 @@ questions:
       - question: "What did Heracles do with the Hydra’s ninth head which was immortal?"
         answer: "BURIED IT UNDER A HUGE ROCK"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Sociī, nōlīte sine audaciā</latin> <latin>pugnāre</latin>"
+      question: "Translate the following sentence into English: <latin>Sociī, nōlīte sine audaciā pugnāre</latin>"
       answer: "FRIENDS / ALLIES, DO NOT FIGHT WITHOUT BRAVERY"
     boni:
       - question: "Say in Latin, “Mom, don’t say these words.”"
-        answer: "<latin>MĀTER, NŌLĪ</latin> <latin>HAEC (VERBA) DĪCERE / LOQUĪ</latin>"
+        answer: "<latin>MĀTER, NŌLĪ HAEC (VERBA) DĪCERE / LOQUĪ</latin>"
       - question: "Say in Latin, “Lucius and Marcus, don’t believe the merchant.”"
-        answer: "<latin>LŪCĪ</latin> <latin>ET MARCE, NŌLĪTE MERCĀTŌRĪ</latin> <latin>CRĒDERE</latin>"
+        answer: "<latin>LŪCĪ ET MARCE, NŌLĪTE MERCĀTŌRĪ CRĒDERE</latin>"
   - tossup:
       question: "Where did the Romans lose a minor cavalry skirmish to Hannibal in 218 B.C.?"
       answer: "TICINUS RIVER"
@@ -148,10 +148,10 @@ questions:
       - question: "Who was his wife whom he lost twice?"
         answer: "EURYDICE"
   - tossup:
-      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>“Lībertī, dominīs dōna dōnāte!” Quō</latin> <latin>cāsū</latin> <latin>est “dominīs”?</latin>"
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>“Lībertī, dominīs dōna dōnāte!” Quō cāsū est “dominīs”?</latin>"
       answer: "DATĪVŌ"
     boni:
-      - question: "<latin>Cuius numerī</latin> <latin>est “dōna”?</latin>"
+      - question: "<latin>Cuius numerī est “dōna”?</latin>"
         answer: "PLŪRĀLIS"
       - question: "Cuius modī <latin>est “dōnāte”?</latin>"
         answer: "IMPERĀTĪVĪ"

@@ -37,7 +37,7 @@ questions:
         answer: "CREMATION"
   - tossup:
       question: "Translate the dependent clause of the following sentence into Latin: \"I warned my friend not to shout.\""
-      answer: "<latin>NĒ</latin> <latin>CLĀMĀRET</latin>"
+      answer: "<latin>NĒ CLĀMĀRET</latin>"
     boni:
       - question: "... \"He was so scared that he did not shout.\""
         answer: "<latin>UT NŌN CLĀMĀRET</latin>"
@@ -52,7 +52,7 @@ questions:
       - question: "What son of Iphicles was Heracles' charioteer and helped him to kill the Hydra?"
         answer: "IOLAUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Marcus scrīpsit: \"Avē, mī</latin> <latin>magister dulcissime. Valeō, sed hodiē</latin> <latin>diūtius dormīvī</latin> <latin>quam soleō, quod studiō</latin> <latin>et vēnātiōne dēfessus eram. Ōrātiōnem, ut mē</latin> <latin>iussistī, scrībere cōnātus sum, sed nōn potuī. Nōlī</latin> <latin>mē</latin> <latin>vituperāre!\"</latin> <latin>Ad quem Marcus scripsit?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Marcus scrīpsit: \"Avē, mī magister dulcissime. Valeō, sed hodiē diūtius dormīvī quam soleō, quod studiō et vēnātiōne dēfessus eram. Ōrātiōnem, ut mē iussistī, scrībere cōnātus sum, sed nōn potuī. Nōlī mē vituperāre!\" Ad quem Marcus scripsit?</latin>"
       answer: "<latin>(AD) MAGISTRUM (SUUM DULCISSIMUM)</latin>"
     boni:
       - question: "<latin>Cūr Marcus dēfessus hōdiē erat?</latin>"
@@ -82,7 +82,7 @@ questions:
       - question: "... essentially means \"providential intervention\" and is used in drama to change the course of events?"
         answer: "<latin>DEUS EX MĀCHINĀ</latin>"
       - question: "... essentially means \"make haste slowly\"?"
-        answer: "<latin>FESTĪNĀ</latin> <latin>LENTĒ</latin>"
+        answer: "<latin>FESTĪNĀ LENTĒ</latin>"
   - tossup:
       question: "Which emperor was the first to build a bath complex on top of Nero’s buried <latin>domus aurea</latin>?"
       answer: "TITUS"
@@ -119,7 +119,7 @@ questions:
       question: "Translate the following sentence into Latin using a subjunctive: \"I am so smart that I can answer.\""
       answer: "<latin>TAM CALLIDUS / PRŪDĒNS / SAPIĒNS / INTELLIGENS SUM UT RESPONDĒRE POSSIM</latin>"
     boni:
-      - question: "(Another possibility for “<latin>tam</latin> ___” would be “<latin>tantī</latin> <latin>ingeniī</latin>” etc.) Using a gerundive to say in Latin, \"That man must be killed.\""
+      - question: "(Another possibility for “<latin>tam</latin> ___” would be “<latin>tantī ingeniī</latin>” etc.) Using a gerundive to say in Latin, \"That man must be killed.\""
         answer: "<latin>IS / ILLE / ISTE (VIR/HOMŌ) NECANDUS / OCCĪDENDUS / INTERFICIENDUS EST</latin>"
       - question: "Use a supine to say \"We had come to win.\""
         answer: "<latin>VĒNERĀMUS VICTUM/ SUPERĀTUM</latin>"
@@ -132,20 +132,20 @@ questions:
       - question: "Titus Quinctius Flamininus proclaimed the freedom and independence of Greece at the Isthmian Games in 196 B.C. In what Greek city were the Isthmian Games held?"
         answer: "CORINTH"
   - tossup:
-      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>\"Revocāte animōs</latin>.\" <latin>Cuius numerī</latin> <latin>sunt haec verba?</latin>"
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>\"Revocāte animōs</latin>.\" <latin>Cuius numerī sunt haec verba?</latin>"
       answer: "PLŪRĀLIS"
     boni:
       - question: "Cuius modī <latin>est \"revocāte\"?</latin>"
         answer: "IMPERĀTĪVĪ"
-      - question: "<latin>Quō</latin> <latin>cāsū</latin> <latin>est \"animōs\"?</latin>"
+      - question: "<latin>Quō cāsū est \"animōs\"?</latin>"
         answer: "ACCŪSĀTĪVŌ"
   - tossup:
       question: "What tense and voice of the participle is found in the motto for this year’s NJCL convention?"
-      answer: "FUTURE PASSIVE (“<latin>Natura inest in mentibus nostrīs insatiābilis quaedam cupiditās vērī</latin> <latin>videndī</latin>”)"
+      answer: "FUTURE PASSIVE (“<latin>Natura inest in mentibus nostrīs insatiābilis quaedam cupiditās vērī videndī</latin>”)"
     boni:
       - question: "Using the same construction as the one in the motto, say in Latin “A desire to live well.”"
         answer: "<latin>CUPIDITĀS BENE VĪVENDĪ</latin>"
-      - question: "What use of the genitive case is found in “<latin>cupiditās bene vīvendī</latin>” and “<latin>cupiditās vērī</latin> <latin>videndī</latin>?”"
+      - question: "What use of the genitive case is found in “<latin>cupiditās bene vīvendī</latin>” and “<latin>cupiditās vērī videndī</latin>?”"
         answer: "OBJECTIVE"
   - tossup:
       question: "King Proetus became angry when his wife falsely accused what young man of trying to seduce her?"

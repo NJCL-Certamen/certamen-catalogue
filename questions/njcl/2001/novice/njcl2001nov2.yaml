@@ -39,7 +39,7 @@ questions:
       question: "Translate this sentence into English: <latin>Ubi sunt rosae quās portābas</latin>?"
       answer: "WHERE ARE THE ROSES WHICH / THAT YOU WERE CARRYING / CARRIED?"
     boni:
-      - question: "<latin>. . . Num rosae sunt in cubiculō</latin> <latin>tuō</latin>?"
+      - question: "<latin>. . . Num rosae sunt in cubiculō tuō</latin>?"
         answer: "SURELY THE ROSES ARE NOT IN YOUR BEDROOM?"
       - question: "<emphasis>or</emphasis> THE ROSES ARE NOT IN YOUR BEDROOM, ARE THEY? <latin>. . . Nōnne mihi rosās dare vīs</latin>?"
         answer: "SURELY YOU WANT TO GIVE ME THE ROSES?"
@@ -114,11 +114,11 @@ questions:
       - question: "Whom did Odysseus urge the Greeks to abandon on the island of Lemnos?"
         answer: "PHILOCTETES"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In Graeciā</latin> <latin>ōlim mōnstrum ferōcissimum agrōs vāstābat, atque multōs virōs dēvorābat. Rēx ānxius igitur ōrāculum cōnsuluit. Responsum est ita: “deī</latin> <latin>īrātī</latin> <latin>propter inopiam dōnōrum patriam tuam sīc pūniunt. Sī</latin> <latin>autem</latin>  <latin>monstrō</latin> <latin>tuam fīliam sōlam dederis, tum deī</latin> <latin>poenam fīnient.</latin>  <latin>Quis cōnsuluit ōrāculum?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In Graeciā ōlim mōnstrum ferōcissimum agrōs vāstābat, atque multōs virōs dēvorābat. Rēx ānxius igitur ōrāculum cōnsuluit. Responsum est ita: “deī īrātī propter inopiam dōnōrum patriam tuam sīc pūniunt. Sī autem</latin>  <latin>monstrō tuam fīliam sōlam dederis, tum deī poenam fīnient.</latin>  <latin>Quis cōnsuluit ōrāculum?</latin>"
       answer: "RĒX (ANXIUS)"
     boni:
       - question: "Cūr deī <latin>patriam pūniunt?</latin> "
-        answer: "<emphasis><latin>PROPTER INOPIAM D</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>RUM</latin></emphasis> <latin>(QUOD ĪRĀTĪ</latin> <latin>ERANT)</latin>"
+        answer: "<emphasis><latin>PROPTER INOPIAM D</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>RUM</latin></emphasis> <latin>(QUOD ĪRĀTĪ ERANT)</latin>"
       - question: " <latin>Cuius mors poenam fīniet?</latin>"
         answer: "FĪLIAE (RĒGIS)"
   - tossup:
@@ -146,7 +146,7 @@ questions:
       - question: "<latin>Dominus plūs aquae bibit</latin>"
         answer: "PARTITIVE / OF THE WHOLE"
       - question: "Using your best Latin, translate: “Two of the slaves were sleeping.”"
-        answer: "<latin>DUO E(X) / DĒ</latin> <latin>SERVĪS DORMIĒBANT</latin>"
+        answer: "<latin>DUO E(X) / DĒ SERVĪS DORMIĒBANT</latin>"
   - tossup:
       question: "What small stream, the boundary between Italy and Cisalpine Gaul, did Julius Caesar and one of his legions cross in 49 BC?"
       answer: "RUBICON"
@@ -156,7 +156,7 @@ questions:
       - question: "What name did the Romans give to the area immediately east of the Rhine?"
         answer: "GERMANIA"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Mōnstrā</latin> <latin>mihi sex digitōs</latin>"
+      question: "When you are recognized by the spotter, follow this direction: <latin>Mōnstrā mihi sex digitōs</latin>"
       answer: "STUDENT SHOULD HOLD UP SIX FINGERS"
     boni:
       - question: "<latin>Rīdēte et exhibēte dentēs vestrōs.</latin> "

@@ -23,9 +23,9 @@ questions:
       question: "What use of the subjunctive does Cicero employ in his frequently-used clause <latin>“Quae cum ita sint</latin>?”"
       answer: "(CUM) CAUSAL CLAUSE"
     boni:
-      - question: "What type of conditional clause does Cicero employ when he says <latin>“Sī</latin> <latin>hoc Marcō</latin> <latin>Marcellō</latin> <latin>dīxissem...</latin>”?"
+      - question: "What type of conditional clause does Cicero employ when he says <latin>“Sī hoc Marcō Marcellō dīxissem...</latin>”?"
         answer: "CONTRARY TO FACT (IN PAST TIME)"
-      - question: "What type of conditional clause does Cicero employ when he says : <latin>“Sī</latin> <latin>mēcum patria loquātur....</latin>”?"
+      - question: "What type of conditional clause does Cicero employ when he says : <latin>“Sī mēcum patria loquātur....</latin>”?"
         answer: "FUTURE LESS VIVID / IDEAL (Prompt: SHOULD-WOULD)"
   - tossup:
       question: "On what island did the sun god Helius pasture his herds of cattle and sheep?"
@@ -60,10 +60,10 @@ questions:
       - question: "What service does Heracles later render to Prometheus?"
         answer: "(SHOOTS THE EAGLE &) RELEASES PROMETHEUS (FROM HIS CHAINS)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Aequō</latin> <latin>animō</latin> <latin>mortuus est</latin>"
+      question: "Translate the following sentence into English: <latin>Aequō animō mortuus est</latin>"
       answer: "HE DIED WITH A CALM / PEACEFUL MIND / SPIRIT / CALMLY"
     boni:
-      - question: "Translate the following sentence into English: <latin>Gnaeus fuit homō</latin> <latin>infirmō</latin> <latin>corpore</latin>"
+      - question: "Translate the following sentence into English: <latin>Gnaeus fuit homō infirmō corpore</latin>"
         answer: "GNAEUS WAS A MAN OF WEAK BODY"
       - question: "Translate the following sentence into English: <latin>Requiēscant in pāce ossa eius</latin>"
         answer: "MAY HIS BONES REST IN PEACE"
@@ -76,7 +76,7 @@ questions:
       - question: "What derivative of <latin>agō, agere</latin> means “one who is opposed to progress?’"
         answer: "REACTIONARY"
   - tossup:
-      question: "Listen carefully to the following passage about Cato, which I will read twice, and answer IN LATIN the question that follows: <latin>Marcus Porcius Catō</latin> <latin>erat novus homō. Per omnēs gradūs cursūs</latin>  <latin>honōrum ad cōnsulātum progressus erat. Tandem, nōbilibus dissentientibus, populus Rōmānus Catōnem cēnsōrem fēcērunt. Per tōtam vītam Catō</latin> <latin>Carthāginem timuit et ōderat. Semper cupidus erat illīus urbis vastandae. Cum ōrātiōnem habēret, semper exclāmābat, “Dēlenda est Carthāg</latin><latin>ō!”</latin>  The question: <latin>Quotiēns dīcēbat Cat</latin><latin>ō,</latin> <latin>ōrātiōnem habēns, Carthāginem dēlendam esse?</latin>"
+      question: "Listen carefully to the following passage about Cato, which I will read twice, and answer IN LATIN the question that follows: <latin>Marcus Porcius Catō erat novus homō. Per omnēs gradūs cursūs</latin>  <latin>honōrum ad cōnsulātum progressus erat. Tandem, nōbilibus dissentientibus, populus Rōmānus Catōnem cēnsōrem fēcērunt. Per tōtam vītam Catō Carthāginem timuit et ōderat. Semper cupidus erat illīus urbis vastandae. Cum ōrātiōnem habēret, semper exclāmābat, “Dēlenda est Carthāg</latin><latin>ō!”</latin>  The question: <latin>Quotiēns dīcēbat Cat</latin><latin>ō, ōrātiōnem habēns, Carthāginem dēlendam esse?</latin>"
       answer: "TOTIĒNS / SEMPER"
     boni:
       - question: "<latin>Quī nōlēbant Catōnem cēnsōrem fierī?</latin>"
@@ -113,7 +113,7 @@ questions:
     boni:
       - question: "The waiter then asks you “<latin>Utrum vīs potāre? Aquam an lac?</latin>” What does the waiter want to know now?"
         answer: "WHAT YOU WANT TO DRINK, <emphasis>WATER</emphasis> OR <emphasis>MILK</emphasis>"
-      - question: "You then respond to the waiter, “<latin>Nec aquam nec lac. Mālō</latin> <latin>vīnum album</latin>.” What are you saying to the waiter?"
+      - question: "You then respond to the waiter, “<latin>Nec aquam nec lac. Mālō vīnum album</latin>.” What are you saying to the waiter?"
         answer: "THAT YOU WANT <emphasis>NEITHER WATER NOR MILK</emphasis>, BUT THAT YOU PREFER/WANT <emphasis>WHITE WINE</emphasis>"
   - tossup:
       question: "What king of Athens called upon Poseidon to kill his son Hippolytus?"
@@ -130,7 +130,7 @@ questions:
       - question: "... “They are sorry.”"
         answer: "<latin>EŌS / EĀS / ILLŌS / ILLĀS PAENITET</latin>"
       - question: "... “You were tired.”"
-        answer: "<latin>TĒ</latin> <latin>/ VŌS TAEDĒBAT / TAEDUIT</latin>"
+        answer: "<latin>TĒ / VŌS TAEDĒBAT / TAEDUIT</latin>"
   - tossup:
       question: "Where was the battle fought which ended the Second Macedonian War in 197 B.C.?"
       answer: "CYNOCEPHALAE"
@@ -149,10 +149,10 @@ questions:
         answer: "SUMPTUOUS"
   - tossup:
       question: "Give an antonym of <latin>sordidus</latin>"
-      answer: "<latin>NITĒNS / ALBUS / CANDIDUS / CLĀRUS / PŪRUS</latin> / <latin>MUNDUS</latin> / <latin>INTEGER</latin>"
+      answer: "<latin>NITĒNS / ALBUS / CANDIDUS / CLĀRUS / PŪRUS / MUNDUS / INTEGER</latin>"
     boni:
       - question: ". . . of <latin>molestus</latin>"
-        answer: "<latin>GRĀTUS</latin> / <latin>COMMODUS</latin> / <latin>AMĀBILIS</latin> / <latin>BLANDUS, IŪCUNDUS</latin> / <latin>PROBĀTUS</latin> / <latin>LEPIDUS</latin> / <latin>SUĀVIS</latin>"
+        answer: "<latin>GRĀTUS / COMMODUS / AMĀBILIS / BLANDUS, IŪCUNDUS / PROBĀTUS / LEPIDUS / SUĀVIS</latin>"
       - question: "...of <latin>antīquus</latin>"
         answer: "<latin>NOVUS, RECENS, NOVELLUS (</latin>Do NOT accept <latin>“iuvenis”</latin>)"
   - tossup:

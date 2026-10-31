@@ -47,7 +47,7 @@ questions:
       question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow.   \t<latin>Bōs in Sabīnīs nāta cuidam patrī familiae dīcitur mīranda magnitūdine ac speciē; fīxa per multās aetātēs cornua in vestībulō templī Diānae mōnumentum eī fuēre mīrāculō.</latin>   REREAD   \tThe question: <latin>Cur haec bōs mīranda est?</latin>"
       answer: "<latin>MAGNITŪDINE (AC) SPECIĒ //</latin>  <latin>OB / PROPTER MAGNITŪDINEM (AC) SPECIEM</latin>"
     boni:
-      - question: "<latin>Ubi erant cornua huius bovis multās</latin> <latin>aetātēs?</latin>"
+      - question: "<latin>Ubi erant cornua huius bovis multās aetātēs?</latin>"
         answer: "<latin>IN VESTĪBULŌ TEMPLĪ / IN TEMPLŌ (DIĀNAE)</latin>"
       - question: "<latin>Cūr cornua ibi fīxa sunt?</latin>"
         answer: "<latin>(UT) MŌNUMENTUM (EĪ) MĪRĀCULŌ</latin>"
@@ -149,7 +149,7 @@ questions:
         answer: "LEMNOS"
   - tossup:
       question: "Give the form of <latin>prōsum</latin> that would appear in a Latin translation of this sentence: “Complaints will not benefit us now.”"
-      answer: "<latin>(NŌN)</latin> <latin>PRŌDERUNT</latin>"
+      answer: "<latin>(NŌN) PRŌDERUNT</latin>"
     boni:
       - question: "Give the form of <latin>prōsum</latin> that would appear in a Latin translation of this sentence: “He ate so much pie that it benefitted him to lie down.”"
         answer: "<latin>PRŌDESSET</latin>"

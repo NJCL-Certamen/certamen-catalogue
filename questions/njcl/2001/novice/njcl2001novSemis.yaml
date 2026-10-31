@@ -31,9 +31,9 @@ questions:
       question: "Translate the following sentence into English: <latin>Senex cuius domus ārdēbat erat anxius</latin>"
       answer: "THE OLD MAN WHOSE HOUSE WAS BURNING WAS WORRIED / ANXIOUS"
     boni:
-      - question: "<latin>Discipulīs quī</latin> <latin>cum dīligentiā</latin> <latin>labōrābunt praemia dabō</latin>"
+      - question: "<latin>Discipulīs quī cum dīligentiā labōrābunt praemia dabō</latin>"
         answer: "I SHALL GIVE REWARDS TO THE STUDENTS WHO WILL WORK WITH DILIGENCE/DILIGENTLY."
-      - question: "<latin>Dominus agricolās ā</latin> <latin>quibus agrī</latin> <latin>colēbantur laudāvit.</latin> "
+      - question: "<latin>Dominus agricolās ā quibus agrī colēbantur laudāvit.</latin> "
         answer: "THE MASTER PRAISED THE FARMERS BY WHOM THE FIELDS WERE CARED FOR/ CULTIVATED/TILLED/TENDED/PLOWED"
   - tossup:
       question: "Which of the following words, if any, does <emphasis>not</emphasis> have the same ultimate Latin root as the others? redemption, preempt, redeem, exempt NONE OF THEM Give the Latin verb and its meaning at the root of the words in the toss-up"
@@ -71,17 +71,17 @@ questions:
       question: "What use of the dative case is illustrated in this sentence: <latin>Mihi nōmen est Scipi</latin><latin>ō</latin>"
       answer: "POSSESSION"
     boni:
-      - question: "in this sentence: <latin>Fīlius patrī</latin> <latin>est similis</latin>"
+      - question: "in this sentence: <latin>Fīlius patrī est similis</latin>"
         answer: "WITH CERTAIN / SPECIAL ADJECTIVES (SIMILIS)"
-      - question: "in this sentence: <latin>Poēta amīcō</latin> <latin>librum dedit</latin>"
+      - question: "in this sentence: <latin>Poēta amīcō librum dedit</latin>"
         answer: "INDIRECT OBJECT"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Fortūna favet fortibus”.</latin>  <latin>Quae pars ōrātiōnis est “fortibus”?</latin>"
       answer: "NŌMEN"
     boni:
-      - question: "“Fortibus”, quō <latin>cāsū</latin> <latin>est?</latin>"
+      - question: "“Fortibus”, quō <latin>cāsū est?</latin>"
         answer: "(CASŪ) DATĪVŌ"
-      - question: "<latin>“Fortibus”, cuius numerī</latin> <latin>est?</latin>"
+      - question: "<latin>“Fortibus”, cuius numerī est?</latin>"
         answer: "PLŪRĀLIS"
   - tossup:
       question: "Please open your visual and study it for 5 seconds. What is the name for the type of gladiator shown in illustration “E”?"
@@ -117,7 +117,7 @@ questions:
         answer: "A (WOODEN) STATUE OF ARTEMIA (IN TAURIS)"
   - tossup:
       question: "What was the Latin name of the oldest and most famous street in Rome?"
-      answer: "<latin>VIA SACRA</latin> / <latin>SACRA VIA</latin>"
+      answer: "<latin>VIA SACRA / SACRA VIA</latin>"
     boni:
       - question: " What arch did the Via Sacra pass through on the eastern end of the Forum Romanum?"
         answer: "ARCH OF TITUS / <latin>FORNĪX FABIANUS</latin> / GATEWAY OF FABIAN"
@@ -128,9 +128,9 @@ questions:
       answer: "<latin>MULTĪS / COMPLŪRIBUS HOMINIBUS</latin>"
     boni:
       - question: " Give the accusative singular of “a marvelous sword.”"
-        answer: "<latin>GLADIUM</latin> / <latin>ĒNSEM MĪRĀBILEM / MĪRUM</latin>"
+        answer: "<latin>GLADIUM / ĒNSEM MĪRĀBILEM / MĪRUM</latin>"
       - question: " Change <latin>gladium mīrābilem</latin> to the nominative plural"
-        answer: "<latin>GLADIĪ</latin> <latin>MĪRĀBILĒS</latin>"
+        answer: "<latin>GLADIĪ MĪRĀBILĒS</latin>"
   - tossup:
       question: "Which of the following nouns does NOT belong because of gender: <latin>ōvum, occāsiō, auris, ornātrīx, officīna</latin>?"
       answer: "<latin>ŌVUM</latin>"
@@ -158,7 +158,7 @@ questions:
       - question: "48?"
         answer: "TREASON (PLOTTED WITH LOVER C. SILIUS TO SEIZE THRONE)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Mīles pauper mūlum dūcēbat. Mūlus aurum portābat quod ad Alexandrum Magnum missum erat. Mūlus aurum gravissimum diū</latin> <latin>portābat, sed fessus prōcēdere nōn poterat. Tum mīles ipse aurum portāre incēpit. Alexander, quī</latin> <latin>tōtam rem vīderat, dīxit, “Temptā, mī</latin> <latin>amīce, tuam domum aurum portāre quod omne tibi d</latin><latin>ō.”</latin>  What was being transported for Alexander the Great?"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Mīles pauper mūlum dūcēbat. Mūlus aurum portābat quod ad Alexandrum Magnum missum erat. Mūlus aurum gravissimum diū portābat, sed fessus prōcēdere nōn poterat. Tum mīles ipse aurum portāre incēpit. Alexander, quī tōtam rem vīderat, dīxit, “Temptā, mī amīce, tuam domum aurum portāre quod omne tibi d</latin><latin>ō.”</latin>  What was being transported for Alexander the Great?"
       answer: "GOLD"
     boni:
       - question: "Why did the soldier start carrying the gold?"

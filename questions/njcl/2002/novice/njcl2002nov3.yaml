@@ -13,7 +13,7 @@ questions:
         answer: "CORINTH"
   - tossup:
       question: "Translate “friend’s” into Latin for the following sentence: “For three days I traveled with my friend’s family to Athens.”"
-      answer: "<latin>AMĪCĪ</latin> / <latin>AMĪCAE</latin> / <latin>AMĪCŌRUM</latin>"
+      answer: "<latin>AMĪCĪ / AMĪCAE / AMĪCŌRUM</latin>"
     boni:
       - question: "or <latin>AMĪCĀRUM</latin> (cannot tell difference orally in English sentence) What use of the ablative is found in the toss-up sentence?"
         answer: "ACCOMPANIMENT (prompt if “prepositional phrase” given)"
@@ -34,18 +34,18 @@ questions:
       - question: "Who was Porsenna’s son who led the Etruscan force which was defeated at Aricia?"
         answer: "ARRUNS"
   - tossup:
-      question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā</latin> <latin>multōs hostēs pōntem dēfendit. Dum magnā</latin> <latin>virtūte</latin>  <latin>impetum sustinet, Aliī</latin> <latin>mīlitēs Rōmānī</latin> <latin>pōntem dēlēvērunt. Tum Horātius,</latin>  <latin>quī</latin> <latin>multa vulnera habēbat, deum flūminis invocāvit et dē</latin> <latin>pōnte in aquam</latin>  <latin>saluit.</latin>  <latin>Quō</latin> <latin>modō</latin> <latin>sustinēbat Horātius impetum?</latin>"
+      question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā multōs hostēs pōntem dēfendit. Dum magnā virtūte</latin>  <latin>impetum sustinet, Aliī mīlitēs Rōmānī pōntem dēlēvērunt. Tum Horātius,</latin>  <latin>quī multa vulnera habēbat, deum flūminis invocāvit et dē pōnte in aquam</latin>  <latin>saluit.</latin>  <latin>Quō modō sustinēbat Horātius impetum?</latin>"
       answer: "MAGNĀ <latin>VIRTŪTE / FORTITER</latin>"
     boni:
       - question: "Quī <latin>pontem dēlēvērunt?</latin>"
         answer: "(ALIĪ) MĪLITĒS RŌMĀNĪ"
       - question: "<latin>Quid fēcit Horātius postquam deum flūminis invocāverat?</latin> "
-        answer: "<latin>(DĒ</latin> <latin>PONTE) IN AQUAM / IN FLŪMEN SALUIT</latin>"
+        answer: "<latin>(DĒ PONTE) IN AQUAM / IN FLŪMEN SALUIT</latin>"
   - tossup:
-      question: "Translate into English: <latin>coquus dominī</latin> <latin>ab amīcīs saepe laudābātur.</latin> "
+      question: "Translate into English: <latin>coquus dominī ab amīcīs saepe laudābātur.</latin> "
       answer: "THE MASTER’S COOK WAS OFTEN (BEING) PRAISED BY (HIS) FRIENDS"
     boni:
-      - question: "Translate into English: <latin>pecūnia, quam puella āmīserat, subitō</latin> <latin>inventa est.</latin> "
+      - question: "Translate into English: <latin>pecūnia, quam puella āmīserat, subitō inventa est.</latin> "
         answer: "THE MONEY, WHICH THE GIRL HAD LOST, WAS SUDDENLY FOUND"
       - question: "Translate into English: <latin>postquam pecūnia inventa est, puella magnopere gaudēbat</latin>"
         answer: "AFTER THE MONEY WAS/HAS BEEN FOUND, THE GIRL GREATLY REJOICED"
@@ -74,7 +74,7 @@ questions:
       - question: "Who, as a result of Zeus’ arbitration, was made to spend a third of his life with Aphrodite, a third in the Underworld with Persephone, and a third by himself?"
         answer: "ADONIS"
   - tossup:
-      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō</latin> <latin>dextrārum</latin> take place?"
+      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō dextrārum</latin> take place?"
       answer: "A WEDDING"
     boni:
       - question: "You are looking at two pictures of Roman statues. In what sort of ceremony is the Roman in picture “A” participating?"
@@ -82,7 +82,7 @@ questions:
       - question: "Examine the item that the Roman boy is wearing around his neck in picture “B.” During what type of ceremony would an adult male wear that item?"
         answer: "A TRIUMPH"
   - tossup:
-      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō</latin> <latin>dextrārum</latin> take place?"
+      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō dextrārum</latin> take place?"
       answer: "A WEDDING"
     boni:
       - question: "During what type of ceremony would a person wear a dark tunic pulled over the head?"
@@ -131,7 +131,7 @@ questions:
       question: "What use of the ablative case is found in the following sentence: <latin>mīlitēs tribus diēbus revenient</latin>?"
       answer: "TIME WITHIN WHICH / TIME WHEN"
     boni:
-      - question: "What use of the ablative case is found in the following sentence: <latin>Quīntus fābulam</latin>  <latin>narrābat dē</latin> <latin>amīcīs</latin>?"
+      - question: "What use of the ablative case is found in the following sentence: <latin>Quīntus fābulam</latin>  <latin>narrābat dē amīcīs</latin>?"
         answer: "WITH THE <emphasis>PREPOSITION</emphasis> <latin>DĒ</latin>"
       - question: "What use of the ablative case is found in the following sentence: <latin>necesse est āthlētae cum celeritāte currere</latin>?"
         answer: "MANNER (prompt if “use with preposition or <latin>cum</latin>” is given)"
@@ -164,4 +164,4 @@ questions:
       answer: "Ē <latin>PLŪRIBUS ŪNUM</latin>"
     boni:
       - question: "For five points each, give the two Latin mottoes and their English meanings which appear on the great seal of the United States"
-        answer: "<latin>ANNUIT COEPTĪS</latin> / HE (GOD) HAS FAVORED OUR UNDERTAKING(S). <latin>NOVUS ŌRDŌ</latin> <latin>SECLŌRUM</latin>"
+        answer: "<latin>ANNUIT COEPTĪS</latin> / HE (GOD) HAS FAVORED OUR UNDERTAKING(S). <latin>NOVUS ŌRDŌ SECLŌRUM</latin>"

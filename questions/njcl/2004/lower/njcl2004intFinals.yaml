@@ -32,9 +32,9 @@ questions:
       answer: "CONDITIONAL"
     boni:
       - question: "Say in Latin, “If I go to Rome, I will visit the forum.”"
-        answer: "<latin>SĪ</latin> <latin>RŌMAM Ī(V)ERŌ</latin> <latin>/ EŌ, FORUM VĪSITĀBŌ</latin> / <latin>VĪSAM</latin>"
+        answer: "<latin>SĪ RŌMAM Ī(V)ERŌ / EŌ, FORUM VĪSITĀBŌ / VĪSAM</latin>"
       - question: "Say in Latin, “Unless we prepare the food, we cannot eat.”"
-        answer: "<latin>NISI CIBUM PARĀMUS, EDERE NŌN POSSUMUS</latin> / <latin>QUĪMUS</latin> / <latin>VALĒMUS SĪ</latin> <latin>CIBUM NŌN PARĀMUS, EDERE NŌN POSSUMUS</latin> / <latin>QUĪMUS</latin> / <latin>VALĒMUS</latin>"
+        answer: "<latin>NISI CIBUM PARĀMUS, EDERE NŌN POSSUMUS / QUĪMUS / VALĒMUS SĪ CIBUM NŌN PARĀMUS, EDERE NŌN POSSUMUS / QUĪMUS / VALĒMUS</latin>"
   - tossup:
       question: "Which of the following words, if any, does not have the same Latin root as the others: congress, degree, ingredient, gradual, regressive?"
       answer: "NONE"
@@ -68,7 +68,7 @@ questions:
       - question: "What Carthaginian commander defeated these mercenaries?"
         answer: "HAMILCAR BARCA"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Cicerō</latin> <latin>crēdēbātur maximus ōrātōrum Rōmānōrum esse</latin>"
+      question: "Translate the following sentence into English: <latin>Cicerō crēdēbātur maximus ōrātōrum Rōmānōrum esse</latin>"
       answer: "CICERO IS / WAS BELIEVED TO BE THE GREATEST OF THE ROMAN ORATORS"
     boni:
       - question: "Translate the following sentence into English: <latin>Rogātus est ut cōnsulātum peteret</latin>"
@@ -88,11 +88,11 @@ questions:
       answer: "<latin>FACTA NŌN VERBA</latin>"
     boni:
       - question: "What Latin phrase is commonly used in English to mean “perfection”?"
-        answer: "<latin>NĒ</latin> <latin>PLŪS ULTRĀ</latin>"
+        answer: "<latin>NĒ PLŪS ULTRĀ</latin>"
       - question: "What Latin phrase is commonly used in the military to mean “by force of arms”?"
-        answer: "<latin>VĪ</latin> <latin>ET ARMĪS</latin>"
+        answer: "<latin>VĪ ET ARMĪS</latin>"
   - tossup:
-      question: "Cicero says in his first oration against Catiline: “<latin>Dēcrēvit quondam senātus ut ... cōnsul vidēret nē</latin> <latin>quid rēs pūblica detrimentī</latin> <latin>caperet</latin>.” What use of the genitive is found in that sentence?"
+      question: "Cicero says in his first oration against Catiline: “<latin>Dēcrēvit quondam senātus ut ... cōnsul vidēret nē quid rēs pūblica detrimentī caperet</latin>.” What use of the genitive is found in that sentence?"
       answer: "PARTITIVE/OF THE WHOLE"
     boni:
       - question: "For that same quotation, what use of the subjunctive is <latin>vidēret</latin>?"
@@ -101,10 +101,10 @@ questions:
         answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
   - tossup:
       question: "What are the two possible genitive singular forms for the noun <latin>domus</latin>?"
-      answer: "<latin>DOMŪS</latin> / <latin>DOMĪ</latin>"
+      answer: "<latin>DOMŪS / DOMĪ</latin>"
     boni:
       - question: "What are the two possible genitive plural forms for <latin>domus</latin>?"
-        answer: "<latin>DOMUUM</latin> / <latin>DOMŌRUM</latin>"
+        answer: "<latin>DOMUUM / DOMŌRUM</latin>"
       - question: "What do we call nouns such as <latin>domus</latin>, which have forms from more than one declension?"
         answer: "HETEROCLITES"
   - tossup:
@@ -116,7 +116,7 @@ questions:
       - question: "What is the Latin name of the region of ancient Italy which contained the city of Tarentum, which was the only city in Italy founded by the Spartans?"
         answer: "<latin>MAGNA GRAECIA</latin>"
   - tossup:
-      question: "Listen to the following passage, which I will read twice, and answer in English the question that follows. <latin>Rūfus, vir ingeniī</latin> <latin>prāvī, Magnam Bibliothēcam Alexandrīae vīsitābat ut volūmina sēcrēta et rāra legeret. Dum volūmina sēcrēta legit, ea in sinūs togae suae pōnere coepit. Cēlātīs volūminibus, Rūfus ā</latin> <latin>cūrātōre librōrum comprehensus est. Rūfus sē</latin> <latin>statim excūsāvit et dēclārābat volūmina in sinūs suōs forte cecidisse.</latin>  The question: Why did Rufus visit the great library of Alexandria?"
+      question: "Listen to the following passage, which I will read twice, and answer in English the question that follows. <latin>Rūfus, vir ingeniī prāvī, Magnam Bibliothēcam Alexandrīae vīsitābat ut volūmina sēcrēta et rāra legeret. Dum volūmina sēcrēta legit, ea in sinūs togae suae pōnere coepit. Cēlātīs volūminibus, Rūfus ā cūrātōre librōrum comprehensus est. Rūfus sē statim excūsāvit et dēclārābat volūmina in sinūs suōs forte cecidisse.</latin>  The question: Why did Rufus visit the great library of Alexandria?"
       answer: "TO READ SECRET AND RARE SCROLLS / BOOKS (Accept either “secret” or “rare”, or both, but at least one is required)"
     boni:
       - question: "What did Rufus do with the scrolls?"
@@ -133,10 +133,10 @@ questions:
         answer: "KILLED BY ZEUS’ THUNDER/LIGHTNING BOLT"
   - tossup:
       question: "Using <latin>causā</latin>, translate the purpose clause into Latin for the following sentence: Marcus sent the soldiers to find gold"
-      answer: "<latin>AURĪ</latin> <latin>/ AURUM INVENIENDĪ</latin> <latin>/ REPERIENDĪ</latin> <latin>CAUSĀ</latin>"
+      answer: "<latin>AURĪ / AURUM INVENIENDĪ / REPERIENDĪ CAUSĀ</latin>"
     boni:
       - question: "Translate that purpose clause again using <latin>quī</latin>"
-        answer: "<latin>QUĪ</latin> <latin>AURUM INVENĪRENT / REPERERENT</latin>"
+        answer: "<latin>QUĪ AURUM INVENĪRENT / REPERERENT</latin>"
       - question: "Translate that purpose clause again using a supine"
         answer: "<latin>AURUM INVENTUM / REPERTUM</latin>"
   - tossup:
@@ -156,10 +156,10 @@ questions:
       - question: "What did Caesar get from the conference?"
         answer: "5 MORE YEARS (PROCONSULSHIP / COMMAND) IN GAUL"
   - tossup:
-      question: "(As applause dies down from the score announcement, several replicas of mundane Roman items are placed on a small table to side of the stage. These items include a mirror, fibula, a comb, a ring and a few others.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. (Wait for props to be in place) When recognized by the spotter, follow these instructions: <latin>Ambulā</latin> <latin>ad mēnsam et tolle rem quae togās vel stolās adligit.</latin>"
+      question: "(As applause dies down from the score announcement, several replicas of mundane Roman items are placed on a small table to side of the stage. These items include a mirror, fibula, a comb, a ring and a few others.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. (Wait for props to be in place) When recognized by the spotter, follow these instructions: <latin>Ambulā ad mēnsam et tolle rem quae togās vel stolās adligit.</latin>"
       answer: "A PLAYER WALKS TO THE TABLE AND PICKS UP THE <latin>FIBULA</latin>"
     boni:
-      - question: "(Moderator instructs remaining players on that team to join their teammate at the table to consult for bonuses) <latin>Tolle speculum et superbē</latin> <latin>dīc Anglicē</latin> <latin>spectātōribus dē</latin> <latin>pulchritūdine tu</latin><latin>ā</latin>"
+      - question: "(Moderator instructs remaining players on that team to join their teammate at the table to consult for bonuses) <latin>Tolle speculum et superbē dīc Anglicē spectātōribus dē pulchritūdine tu</latin><latin>ā</latin>"
         answer: "A PLAYER PICKS UP THE MIRROR AND PROUDLY TELLS THE AUDIENCE ABOUT HIS OR HER BEAUTY IN ENGLISH"
       - question: "<latin>Tolle pectinem et compōne crīnēs ūnīus soci</latin><latin>ī.</latin>"
         answer: "A PLAYER PICKS UP THE COMB AND ARRANGES THE HAIR OF A TEAMMATE"

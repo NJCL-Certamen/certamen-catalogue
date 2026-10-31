@@ -5,12 +5,12 @@ round: "Semifinals"
 questions:
   - tossup:
       question: "Say in Latin, “on the seventh day.”"
-      answer: "<latin>SEPTIMŌ</latin> <latin>DIĒ</latin>"
+      answer: "<latin>SEPTIMŌ DIĒ</latin>"
     boni:
       - question: "Say in Latin, “of one poor woman.”"
         answer: "<latin>ŪNĪUS MISERAE / PAUPERIS FĒMINAE</latin> "
       - question: "Say in Latin, “for eight fast goddesses.”"
-        answer: "<latin>OCTŌ</latin> <latin>CELERIBUS DEĀBUS</latin> "
+        answer: "<latin>OCTŌ CELERIBUS DEĀBUS</latin> "
   - tossup:
       question: "Listen carefully to the following passage about Aulus Plautius, which I will read twice, and answer IN LATIN, the question that follows: <latin>Claudius, imperātor Rōmānus, Aulum Plautium in Britanniam cum quattuor legiōnibus mīsit propter trēs causās: quod Galliam dēfendere volēbat, quod Britannia multum aurum et argentum continēbat, atque quod magna erat discordia inter gentēs Britanniae.</latin>  Question: <latin>Quot causās Claudius habēbat</latin>?"
       answer: "<latin>TRĒS</latin>"
@@ -44,12 +44,12 @@ questions:
       - question: "Name two more."
         answer: "GRAPE VINE, DRINKING CUP, IVY (CROWN), PANTHER/TIGER SKIN, WEARING A (LONG) CHITON / DRESS LIKE A WOMAN, MAENAD, THYRSUS, SNAKE"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Fūr ipse mīlitem gladiō</latin> <latin>necāvit</latin>."
+      question: "Translate the following sentence into English: <latin>Fūr ipse mīlitem gladiō necāvit</latin>."
       answer: "THE THIEF HIMSELF KILLED THE SOLDIER WITH A SWORD"
     boni:
-      - question: "<latin>Huic fūrī</latin> <latin>erat multa fortitūdō</latin>."
+      - question: "<latin>Huic fūrī erat multa fortitūdō</latin>."
         answer: "THIS THIEF HAD MUCH / A LOT OF BRAVERY"
-      - question: "<latin>Ille mīles magnō</latin> <latin>honōrī</latin> <latin>urbī</latin> <latin>Rōmae erat</latin>."
+      - question: "<latin>Ille mīles magnō honōrī urbī Rōmae erat</latin>."
         answer: "THAT SOLDIER WAS A GREAT HONOR TO THE CITY (OF) ROME"
   - tossup:
       question: "What Latin phrase is the medical terminology for “the stiffness of death”?"
@@ -80,16 +80,16 @@ questions:
       answer: "<latin>VĪDIMUS, CORNĒLĪ, TRĒS EXERCITŪS RŌMĀNŌS?</latin> "
     boni:
       - question: "Didn’t you boys find those two things?"
-        answer: "<latin>NŌNNE INVĒNISTIS (VŌS) PUERĪ</latin> <latin>ILLĀS DUĀS RĒS / ILLA DUO?</latin> "
+        answer: "<latin>NŌNNE INVĒNISTIS (VŌS) PUERĪ ILLĀS DUĀS RĒS / ILLA DUO?</latin> "
       - question: "The name is being written in the book by my hand."
-        answer: "<latin>NŌMEN IN LIBRŌ</latin> <latin>MANŪ</latin> <latin>MEĀ</latin> <latin>SCRĪBITUR</latin> "
+        answer: "<latin>NŌMEN IN LIBRŌ MANŪ MEĀ SCRĪBITUR</latin> "
   - tossup:
-      question: "<latin>Ambulās in urbe Rōmā</latin> <latin>antīquā. Stās in Forō</latin> <latin>Rōmānō</latin> <latin>in viā</latin> <latin>famōsā</latin> <latin>ubi imperātōrēs triumphālēs ībant. Quid Rōmānī</latin> <latin>nōminābant hanc viam?</latin> "
+      question: "<latin>Ambulās in urbe Rōmā antīquā. Stās in Forō Rōmānō in viā famōsā ubi imperātōrēs triumphālēs ībant. Quid Rōmānī nōminābant hanc viam?</latin> "
       answer: "<latin>VIAM SACRAM / CLĪVUM CAPITOLĪNUM</latin> "
     boni:
-      - question: "<latin>Vidēs aedificium ubi senātōrēs dē</latin> <latin>lēgibus dīcunt. Iuxtā</latin> <latin>hoc aedificium sunt rostra. Quod aedificium vidēs?</latin>"
+      - question: "<latin>Vidēs aedificium ubi senātōrēs dē lēgibus dīcunt. Iuxtā hoc aedificium sunt rostra. Quod aedificium vidēs?</latin>"
         answer: "<latin>CŪRIAM</latin>"
-      - question: "<latin>Vidēs rem altam quam Rōmānī</latin> <latin>aedificāvērunt quod Imperātor Trāiānus Daciam vīcit. Quid vidēs?</latin>"
+      - question: "<latin>Vidēs rem altam quam Rōmānī aedificāvērunt quod Imperātor Trāiānus Daciam vīcit. Quid vidēs?</latin>"
         answer: "<latin>COLUMNAM (TRĀIĀN</latin><latin>Ī)</latin> "
   - tossup:
       question: "What name is given to this group of men: Chthonius, Echion, Hyperenor, Pelorus and Udaeus?"
@@ -100,13 +100,13 @@ questions:
       - question: "Name the son of Echion and Agave, who succeeded Cadmus as king of Thebes."
         answer: "PENTHEUS"
   - tossup:
-      question: "You are in ancient Pompeii and you see an inscription on a wall which reads, “<latin>Claudius, Marcī</latin> <latin>Fīlius, Cōnsul iterum</latin>.” Who is the father of Claudius?"
+      question: "You are in ancient Pompeii and you see an inscription on a wall which reads, “<latin>Claudius, Marcī Fīlius, Cōnsul iterum</latin>.” Who is the father of Claudius?"
       answer: "MARCUS"
     boni:
       - question: "What occasion does this commemorate?"
         answer: "HE BECAME <emphasis>CONSUL AGAIN</emphasis> / HIS <emphasis>REELECTION</emphasis> TO THE <emphasis>CONSULSHIP</emphasis> "
       - question: "Say in Latin, “Lucius Cornelius, son of Lucius, is Aedile again.”"
-        answer: "<latin>LŪCIUS CORNELIUS, LŪC(I)Ī</latin> <latin>FĪLIUS, (EST) AEDĪLIS ITERUM</latin> "
+        answer: "<latin>LŪCIUS CORNELIUS, LŪC(I)Ī FĪLIUS, (EST) AEDĪLIS ITERUM</latin> "
   - tossup:
       question: "Who became the sole emperor in A.D. 392 after defeating Eugenius and Arbogast?"
       answer: "THEODOSIUS <emphasis>I or THE GREAT</emphasis> "
@@ -132,7 +132,7 @@ questions:
       - question: "What river of the underworld was the father of Ascalaphus?"
         answer: "ACHERON"
   - tossup:
-      question: "What military victory over the Latins was commemorated every July 15 by a parade of horsemen called the <latin>Transvectiō</latin> <latin>Equōrum</latin>?"
+      question: "What military victory over the Latins was commemorated every July 15 by a parade of horsemen called the <latin>Transvectiō Equōrum</latin>?"
       answer: "LAKE REGILLUS"
     boni:
       - question: "Who died at Lake Regillus leading the Latins?"
@@ -144,7 +144,7 @@ questions:
       answer: "<latin>SĒDECIM</latin>"
     boni:
       - question: "Give the Latin for the number expressed by the Roman numerals XXXIV."
-        answer: "<latin>TRĪGINTĀ</latin> <latin>(ET) QUATTUOR</latin>"
+        answer: "<latin>TRĪGINTĀ (ET) QUATTUOR</latin>"
       - question: "Using one word, give the Latin number expressed by the Roman numerals XLIX."
         answer: "<latin>ŪNDĒQUĪNQUĀGINTĀ</latin>"
   - tossup:

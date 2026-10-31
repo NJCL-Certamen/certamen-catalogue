@@ -4,28 +4,28 @@ division: "Intermediate"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim Publius Claudius, vir magnae superbiae, dux classis Rōmānae factus est. Cum impetum in classem hostium parāret, ab haruspicibus monēbātur, “Hodiē</latin> <latin>pullī</latin> <latin>sacrī</latin> <latin>cibum nōn edunt.” “Bibant tamen,” respondit īrātus dux et pullōs sacrōs in mare dēmīsit.</latin>  <latin>Quid parābat Claudius?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim Publius Claudius, vir magnae superbiae, dux classis Rōmānae factus est. Cum impetum in classem hostium parāret, ab haruspicibus monēbātur, “Hodiē pullī sacrī cibum nōn edunt.” “Bibant tamen,” respondit īrātus dux et pullōs sacrōs in mare dēmīsit.</latin>  <latin>Quid parābat Claudius?</latin>"
       answer: "IMPETUM (IN CLASSEM HOSTIUM)"
     boni:
       - question: "Quī <latin>dīxērunt pullōs sacrōs cibum nōn edere?</latin>"
         answer: "HARUSPICĒS"
-      - question: "Quō <latin>consiliō</latin> <latin>Claudius pullōs sacrōs in mare dēmīsit?</latin> "
+      - question: "Quō <latin>consiliō Claudius pullōs sacrōs in mare dēmīsit?</latin> "
         answer: "<latin>UT BIBERENT / UT EŌS NECĀRET</latin>"
   - tossup:
       question: "Of <latin>tibicen, theātrum, templum, rostrum</latin>, and <latin>nāvis</latin>, which is described in this Latin sentence: <latin>Est aedificium ad spectandōs lūdōs factum</latin>"
       answer: "<latin>THEĀTRUM</latin>"
     boni:
-      - question: ". . . <latin>Est machina quā</latin> <latin>per mare aut flūmen nāvigāmus</latin>"
+      - question: ". . . <latin>Est machina quā per mare aut flūmen nāvigāmus</latin>"
         answer: "<latin>NĀVIS</latin>"
-      - question: ". . . <latin>Est ōs quō</latin> <latin>animalia cibum capiunt</latin>"
+      - question: ". . . <latin>Est ōs quō animalia cibum capiunt</latin>"
         answer: "<latin>ROSTRUM</latin>"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Plaude bis pedibus tuīs</latin>"
       answer: "STUDENT SHOULD CLAP TWICE WITH HIS FEET"
     boni:
-      - question: "<latin>Duō</latin> <latin>sodālēs, plaudite ambās manūs inter vos.</latin> "
+      - question: "<latin>Duō sodālēs, plaudite ambās manūs inter vos.</latin> "
         answer: "TWO TEAMMATES SHOULD DO SOMETHING INVOLVING CLAPPING HANDS BETWEEN THEMSELVES"
-      - question: "<latin>Surge et tē</latin> <latin>rotā</latin> <latin>ter.</latin> "
+      - question: "<latin>Surge et tē rotā ter.</latin> "
         answer: "ONE STUDENT SHOULD RISE AND TURN AROUND THREE TIMES"
   - tossup:
       question: "What derivative of the Latin adjective <latin>grātus</latin> means “mercy or clemency?”"
@@ -50,7 +50,7 @@ questions:
       - question: "Give the ablative plural of “three days.”"
         answer: "<latin>TRIBUS DIĒBUS</latin>"
       - question: "Give the dative singular of “one army.”"
-        answer: "<latin>ŪNĪ</latin> <latin>EXERCITUĪ</latin>"
+        answer: "<latin>ŪNĪ EXERCITUĪ</latin>"
   - tossup:
       question: "The noun <latin>capitī</latin> does NOT agree with which of the following adjectives?"
       answer: "<emphasis>Ū</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis>, <latin>MAGNŌ, ŪNĪ</latin>"
@@ -64,12 +64,12 @@ questions:
       answer: "<latin>CĒPERINT</latin>"
     boni:
       - question: " Change <latin>cēperint</latin> to the passive"
-        answer: "<latin>CAPTĪ</latin> <latin>ERUNT</latin>"
-      - question: "Change <latin>captī</latin> <latin>erunt</latin> to the singular"
+        answer: "<latin>CAPTĪ ERUNT</latin>"
+      - question: "Change <latin>captī erunt</latin> to the singular"
         answer: "<latin>CAPTUS</latin>/"
   - tossup:
       question: "Identify the tense, mood, voice, person, number and the base verb of the form <latin>iī</latin>"
-      answer: "PERFECT, INDICATIVE, ACT., FIRST PERSON SING. OF <latin>EŌ</latin> / <latin>ĪRE</latin>"
+      answer: "PERFECT, INDICATIVE, ACT., FIRST PERSON SING. OF <latin>EŌ / ĪRE</latin>"
     boni:
       - question: "Do the same for <latin>possēs</latin>"
         answer: "IMPERF, INDIC., ACT., 2ND PER. SING.. OF <latin>POSSUM</latin> /<latin>POSSE</latin>"
@@ -100,42 +100,42 @@ questions:
       - question: ". . . for the conjunction <latin>numquam</latin>"
         answer: "<latin>SEMPER, ASSIDUĒ, PERPETUŌ</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>auris</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>auris</latin>”?"
       answer: "EAR"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>crūs</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>crūs</latin>”?"
         answer: "LEG, SHANK, SHIN, FOOT"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mentum</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>mentum</latin>”?"
         answer: "CHIN, BEARD"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>Fēlīciter</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>Fēlīciter</latin>”?"
       answer: "GOOD LUCK! SUCCESSFULLY, FAVORABLY"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>euge</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>euge</latin>”?"
         answer: "HURRAH!, WELL DONE!, BRAVO!"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>vae</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>vae</latin>”?"
         answer: "ALAS!, WOE!"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>scindō</latin>”?"
+      question: "<latin>Quid Anglicē significat verbum</latin> “<latin>scindō</latin>”?"
       answer: "TEAR, RIP, CUT, DIVIDE, DISTURB"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>soleō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>soleō</latin>”?"
         answer: "BE ACCUSTOMED, USUALLY"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>spargō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>spargō</latin>”?"
         answer: "SPREAD, SCATTER, SPRINKLE"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Marcum rogābō</latin> <latin>quid crās faciat</latin>"
+      question: "Translate the following sentence into English: <latin>Marcum rogābō quid crās faciat</latin>"
       answer: "I SHALL ASK MARCUS WHAT HE IS DOING / WILL DO TOMORROW"
     boni:
       - question: "<latin>Omnēs sciunt quam fortis fuerit Caesar</latin>"
         answer: "EVERYONE KNOWS HOW BRAVE CAESAR WAS"
-      - question: "<latin>Nēmō</latin> <latin>scit utrum fūr hoc abstulerit necne</latin>"
+      - question: "<latin>Nēmō scit utrum fūr hoc abstulerit necne</latin>"
         answer: "NO ONE KNOWS WHETHER A THIEF HAS STOLEN THIS OR NOT"
   - tossup:
       question: "What use of the accusative case is illustrated in this sentence: <latin>Turris pedēs dūcentōs alta est</latin>"
       answer: "EXTENT OF SPACE"
     boni:
-      - question: "in this sentence: <latin>Sentiō</latin> <latin>aquam frīgidam esse</latin>"
+      - question: "in this sentence: <latin>Sentiō aquam frīgidam esse</latin>"
         answer: "SUBJECT OF INFINITIVE"
       - question: "in this sentence: <latin>Cōnsul Caesarem sententiam rogābat</latin>"
         answer: "DOUBLE <latin>HISTORY / GEOGRAPHY / LIFE</latin>"

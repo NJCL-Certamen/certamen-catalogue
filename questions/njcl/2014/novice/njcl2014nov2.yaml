@@ -98,7 +98,7 @@ questions:
       - question: "Change that entire sentence to the plural"
         answer: "<latin>PARVĪ PUERĪ IN AGRŌS/CAMPŌS</latin> AMBULANT"
       - question: "Translate into Latin: “The mother of the small boys will beat them.”"
-        answer: "<latin>MĀTER</latin> <latin>PARVŌRUM</latin> <latin>PUERŌRUM</latin> <latin>EŌS PULSĀBIT / VERBERĀBIT / FERIET</latin>"
+        answer: "<latin>MĀTER PARVŌRUM PUERŌRUM EŌS PULSĀBIT / VERBERĀBIT / FERIET</latin>"
   - tossup:
       question: "What use of the genitive case is found in the following sentence: <latin>cuius canem spectātis?</latin> "
       answer: "POSSESSIVE / (SHOWING) POSSESSION"

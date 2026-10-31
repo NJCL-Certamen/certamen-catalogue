@@ -92,12 +92,12 @@ questions:
       - question: "Why was Orestes pursued by the Furies?"
         answer: "FOR KILLING HIS MOTHER (TO AVENGE HIS FATHER'S MURDER)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Dum inter sē</latin> <latin>loquuntur, liber dē</latin> <latin>mēnsā</latin> <latin>cecidit.</latin> "
+      question: "Translate the following sentence into English: <latin>Dum inter sē loquuntur, liber dē mēnsā cecidit.</latin> "
       answer: "WHILE THEY WERE TALKING AMONG(ST) / BETWEEN / THEMSELVES / WITH ONE ANOTHER / TO EACH OTHER, A BOOK FELL FROM THE TABLE"
     boni:
-      - question: "<latin>Quī</latin> <latin>bonī</latin> <latin>sunt, īdem sunt beāt</latin><latin>ī.</latin> "
+      - question: "<latin>Quī bonī sunt, īdem sunt beāt</latin><latin>ī.</latin> "
         answer: "(THOSE) WHO ARE GOOD, (THE SAME MEN / LIKEWISE / ALSO / AT THE SAME TIME) ARE BLESSED / HAPPY"
-      - question: "<latin>Vīgintī</latin> <latin>lēgātōs mīsit quī</latin> <latin>pācem peterent.</latin> "
+      - question: "<latin>Vīgintī lēgātōs mīsit quī pācem peterent.</latin> "
         answer: "HE SENT TWENTY AMBASSADORS TO SEEK PEACE"
   - tossup:
       question: "What case use is seen in such words as <latin>Brundisī, domī, Delphīs</latin> and <latin>Rōmae</latin>?"
@@ -116,7 +116,7 @@ questions:
       - question: "Who had betrayed the Capitol to Tatius and the Sabines trying to recover their women from the Romans?"
         answer: "TARPEIA"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Aurēlia et familia gladiātōrēs in arēnā</latin> <latin>Alexandrīae spectābant. Statim percussus est ūnus gladiātor vulnere magis in animā</latin> <latin>quam in corpore. Ut vīdit Aurēlia sanguinem, magnum amōrem mortis sēnsit. Nōn oculōs suōs āvertit sed dīligenter spectāvit. Nam dēlectābātur scelere certāminis. Ecce crūdēlitātem Rōmānōrum antīquōrum.</latin>  Question: Describe the wound that the gladiator suffered in the arena."
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Aurēlia et familia gladiātōrēs in arēnā Alexandrīae spectābant. Statim percussus est ūnus gladiātor vulnere magis in animā quam in corpore. Ut vīdit Aurēlia sanguinem, magnum amōrem mortis sēnsit. Nōn oculōs suōs āvertit sed dīligenter spectāvit. Nam dēlectābātur scelere certāminis. Ecce crūdēlitātem Rōmānōrum antīquōrum.</latin>  Question: Describe the wound that the gladiator suffered in the arena."
       answer: "IT WAS A SUPERFICIAL WOUND / IT TOOK THE GLADIATOR’S SPIRIT AWAY / IT WAS MORE IN HIS MIND THAN IN HIS BODY"
     boni:
       - question: "How did Aurelia react to the action in the arena?"
@@ -136,9 +136,9 @@ questions:
       answer: "<latin>IAM / NUNC DOMUM ĪRE VOLUMUS</latin>."
     boni:
       - question: "Using two irregular verbs, say in Latin, “Where do you want to go?”"
-        answer: "<latin>QUŌ</latin> <latin>(T</latin><latin>Ū)</latin> <latin>ĪRE VĪS/ (VŌS) ...VULTIS</latin> "
+        answer: "<latin>QUŌ (T</latin><latin>Ū) ĪRE VĪS/ (VŌS) ...VULTIS</latin> "
       - question: "Using just one irregular verbs, say in Latin, “I don’t want to stay at home.”"
-        answer: "<latin>DOMĪ</latin> <latin>/ APUD MĒ</latin> <latin>(RĒ)MANĒRE NŌLŌ</latin>"
+        answer: "<latin>DOMĪ / APUD MĒ (RĒ)MANĒRE NŌLŌ</latin>"
   - tossup:
       question: "Which of the following prepositions, if any, CANNOT take the ablative case? <latin>Cum, cōram, apud, in, sub?</latin>"
       answer: "<latin>APUD</latin> "
@@ -146,7 +146,7 @@ questions:
       - question: "What is special about the prepositions <latin>subter</latin> & <latin>super</latin>?"
         answer: "THEY TAKE <emphasis>EITHER THE ACCUSATIVE OR ABLATIVE CASES</emphasis>, DEPENDING UPON MEANING"
       - question: "Say in Latin, “I have walked from Alexandria.”"
-        answer: "<latin>ALEXANDRĪĀ</latin> <latin>AMBULĀVĪ</latin>"
+        answer: "<latin>ALEXANDRĪĀ AMBULĀVĪ</latin>"
   - tossup:
       question: "Who decreed that the raven would never again be a white bird?"
       answer: "APOLLO"

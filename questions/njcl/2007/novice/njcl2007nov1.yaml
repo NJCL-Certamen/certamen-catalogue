@@ -68,7 +68,7 @@ questions:
       - question: "What were <latin>forēs</latin>?"
         answer: "(DOUBLE) DOORS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Ōlim crocodīlus quīdam, cui nōmen erat Publius, in Aegyptō</latin> <latin>habitābat. Hic crocodīlus in flūmine Nīlō</latin> <latin>habitābat et natābat. Sed Publius erat crocodīlus benignissimus. Aurēlia et familia saepe in hōc flūmine natābant et</latin>  <latin>Publius multa ōscula eīs dabat.</latin>  Question: In what river did Publius the crocodile live?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Ōlim crocodīlus quīdam, cui nōmen erat Publius, in Aegyptō habitābat. Hic crocodīlus in flūmine Nīlō habitābat et natābat. Sed Publius erat crocodīlus benignissimus. Aurēlia et familia saepe in hōc flūmine natābant et</latin>  <latin>Publius multa ōscula eīs dabat.</latin>  Question: In what river did Publius the crocodile live?"
       answer: "NILE"
     boni:
       - question: "What adjective with what meaning is used in the passage to describe the nature of the crocodile?"
@@ -76,21 +76,21 @@ questions:
       - question: "What happened to Aurelia and her familia when they swam in the river?"
         answer: "PUBLIUS KISSED THEM / GAVE THEM MANY KISSES"
   - tossup:
-      question: "Translate into English: <latin>duo animālia in pictūrā</latin> <latin>sunt</latin>"
+      question: "Translate into English: <latin>duo animālia in pictūrā sunt</latin>"
       answer: "THERE ARE TWO ANIMALS IN THE PICTURE"
     boni:
       - question: "Using all of your knowledge, correctly identify which of the following animals is shown in picture ‘A’. Is it a <latin>leō, canis, vulpēs, agna</latin>, or <latin>lupa</latin>?"
         answer: "<latin>LUPA</latin>"
-      - question: "Look closely at pictures ‘B’ and ‘C’, which are two photos of the same sculpture. <latin>Dīc mihi Anglicē</latin> <latin>nōmen huius saevissimī</latin> <latin>mōnstrī</latin>"
+      - question: "Look closely at pictures ‘B’ and ‘C’, which are two photos of the same sculpture. <latin>Dīc mihi Anglicē nōmen huius saevissimī mōnstrī</latin>"
         answer: "CHIMAERA"
   - tossup:
       question: "Translate the following sentence into Latin: The mother was cooking the food"
       answer: "<latin>MĀTER CIBUM / VICTUM COQUĒBAT</latin>"
     boni:
       - question: "You and I will go to Rome"
-        answer: "<latin>EGO ET TŪ</latin> <latin>RŌMAM ĪBIMUS</latin>"
+        answer: "<latin>EGO ET TŪ RŌMAM ĪBIMUS</latin>"
       - question: "The slaves have sailed from the town"
-        answer: "<latin>SERVĪ</latin> <latin>EX/AB OPPIDŌ</latin> <latin>NĀVIGĀVĒRUNT</latin>"
+        answer: "<latin>SERVĪ EX/AB OPPIDŌ NĀVIGĀVĒRUNT</latin>"
   - tossup:
       question: "Who married an Amazon named Antiope and a Cretan princess named Phaedra, whose sister he had earlier abandoned on Naxos?"
       answer: "THESEUS"
@@ -108,12 +108,12 @@ questions:
       - question: "Name the Roman consul who defeated Pyrrhus at Beneventum in 275 BC"
         answer: "(MANIUS CURIUS) DENTATUS"
   - tossup:
-      question: "<latin>Respondē</latin> <latin>Latīnē: Quis est deus caelī</latin> <latin>et rēx deōrum?</latin>"
+      question: "<latin>Respondē Latīnē: Quis est deus caelī et rēx deōrum?</latin>"
       answer: "IUPPITER"
     boni:
       - question: "<latin>Quis est uxor Iovis et rēgīna deōrum?</latin>"
         answer: "IŪNŌ"
-      - question: "<latin>Quis est fīlius Iovis et Iūnōnis quī</latin> <latin>pugnāre amat?</latin>"
+      - question: "<latin>Quis est fīlius Iovis et Iūnōnis quī pugnāre amat?</latin>"
         answer: "MARS / MAVORS"
   - tossup:
       question: "Who was the immortal wife of Herakles?"
@@ -127,9 +127,9 @@ questions:
       question: "What use of the ablative case can be found in the following sentence? <latin>Puer semper nōbīscum labōrābat</latin>"
       answer: "ACCOMPANIMENT"
     boni:
-      - question: "<latin>Puer saxō</latin> <latin>vulnerātus est</latin>"
+      - question: "<latin>Puer saxō vulnerātus est</latin>"
         answer: "MEANS / INSTRUMENT"
-      - question: "<latin>Puer ā</latin> <latin>medicō</latin> <latin>sānātus est</latin>"
+      - question: "<latin>Puer ā medicō sānātus est</latin>"
         answer: "(PERSONAL) AGENT"
   - tossup:
       question: "Whose suspicious death in Antioch led his widow to accuse and slander the emperor Tiberius?"

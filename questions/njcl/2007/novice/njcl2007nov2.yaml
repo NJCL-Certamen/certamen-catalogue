@@ -76,13 +76,13 @@ questions:
       - question: "Who were the parents of the river god Alpheius?"
         answer: "OCEANUS AND TETHYS"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Quīnque ex clientibus in ātriō</latin> <latin>stābant</latin>"
+      question: "Translate the following sentence into English: <latin>Quīnque ex clientibus in ātriō stābant</latin>"
       answer: "FIVE OF THE CLIENTS WERE STANDING IN THE ATRIUM / ENTRANCE WAY"
     boni:
-      - question: "<latin>Cēterī</latin> <latin>clientēs intrā</latin> <latin>ātrium manēre nōn poterant</latin>"
+      - question: "<latin>Cēterī clientēs intrā ātrium manēre nōn poterant</latin>"
         answer: "THE OTHER / REST OF THE CLIENTS WERE NOT ABLE TO WAIT / REMAIN IN THE ATRIUM / ENTRANCE WAY"
       - question: "Using the adjective <latin>plēnus</latin>, say in Latin: All of the atrium was full"
-        answer: "<latin>OMNE</latin> / <latin>TŌTUM</latin> / <latin>CUNCTUM ĀTRIUM PLĒNUM ERAT</latin>"
+        answer: "<latin>OMNE / TŌTUM / CUNCTUM ĀTRIUM PLĒNUM ERAT</latin>"
   - tossup:
       question: "What god’s followers killed the kings Lycurgus and Pentheus?"
       answer: "DIONYSUS / BACCHUS"
@@ -92,10 +92,10 @@ questions:
       - question: "Acoetes became a follower of Dionysus and was captured by Pentheus. What miracle happened to Acoetes at that time?"
         answer: "HE COULD NOT BE SHACKLED / THE SHACKLES KEPT FALLING OFF (or ROPES OR CHAINS)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>In marī</latin> <latin>ignōtō</latin> <latin>est īnsula mīrābilis. In ūnā</latin> <latin>parte huius īnsulae habitat senex rēx quī</latin> <latin>ex omnibus hominibus in orbe terrārum maximam partem pecūniae habet. Hic rēx autem fēlīx nōn est. Eī</latin> <latin>sunt duae fīliae. Prīma est</latin>  <latin>pulcherrima. Secunda autem septimō</latin> <latin>diē</latin> <latin>serpēns fit.</latin>  Question: <latin>Quot fīliās habet hic rēx?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>In marī ignōtō est īnsula mīrābilis. In ūnā parte huius īnsulae habitat senex rēx quī ex omnibus hominibus in orbe terrārum maximam partem pecūniae habet. Hic rēx autem fēlīx nōn est. Eī sunt duae fīliae. Prīma est</latin>  <latin>pulcherrima. Secunda autem septimō diē serpēns fit.</latin>  Question: <latin>Quot fīliās habet hic rēx?</latin>"
       answer: "DUĀS (If student says ‘duae,’ it must be in a complete sentence WITHOUT a prompt)"
     boni:
-      - question: "<latin>In quod animal secunda fīlia septimō</latin> <latin>diē</latin> <latin>mūtātur?</latin>"
+      - question: "<latin>In quod animal secunda fīlia septimō diē mūtātur?</latin>"
         answer: "<latin>(IN) SERPENTEM</latin>"
       - question: "<latin>Quod adiectīvum rēgem dēscrībit? fēlīx, dīves, iuvenis, ferōx, parvus</latin>"
         answer: "DĪVES"
@@ -109,7 +109,7 @@ questions:
         answer: "<latin>ILLĪS SENIBUS</latin>"
   - tossup:
       question: "Translate the following sentence into Latin: Antonius, hear me!"
-      answer: "<latin>ANTONĪ, MĒ</latin> <latin>AUDĪ</latin>"
+      answer: "<latin>ANTONĪ, MĒ AUDĪ</latin>"
     boni:
       - question: "girls and boys, don’t sleep!"
         answer: "<latin>PUELLAE ET PUERĪ, NŌLĪTE DORMĪRE</latin>"
@@ -140,16 +140,16 @@ questions:
       - question: "Based on its Latin root, what would one do in a natatorium?"
         answer: "SWIM"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat: lībertus?</latin>"
+      question: "<latin>Quid Anglicē significat: lībertus?</latin>"
       answer: "FREEDMAN, FORMER SLAVE"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat lībra?</latin>"
+      - question: "<latin>Quid Anglicē significat lībra?</latin>"
         answer: "SCALE(S), POUND"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat līber</latin><latin>ē?</latin>"
+      - question: "<latin>Quid Anglicē significat līber</latin><latin>ē?</latin>"
         answer: "FREELY, GENEROUSLY, LOOSELY"
   - tossup:
       question: "What by-product was made by fermenting the intestines and other waste parts of fish?"
-      answer: "<latin>GARUM</latin> / <latin>LIQUĀMEN</latin> / <latin>MURIA</latin>"
+      answer: "<latin>GARUM / LIQUĀMEN / MURIA</latin>"
     boni:
       - question: "What product from the <latin>mūrex</latin>, a Mediterranean shellfish, was highly regarded by the Romans and used in the textile industry?"
         answer: "PURPLE DYE"

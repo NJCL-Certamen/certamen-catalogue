@@ -7,7 +7,7 @@ questions:
       question: "Translate the following sentence into English using the modern Calendar system: <latin>Kalendīs Augustīs nātus est Claudius</latin>."
       answer: "CLAUDIUS WAS BORN ON AUGUST 1ST"
     boni:
-      - question: "<latin>Nōnō</latin> <latin>diē</latin> <latin>ante Kalendās Octōbrēs nātus est Augustus</latin>  ."
+      - question: "<latin>Nōnō diē ante Kalendās Octōbrēs nātus est Augustus</latin>  ."
         answer: "AUGUSTUS WAS BORN ON THE 23rd OF SEPTEMBER"
       - question: "Say in Latin, “On the Ides of March, Caesar was killed.”"
         answer: "<latin>ĪDIBUS MĀRTIĪS CAESAR NECĀTUS / INTERFECTUS EST</latin> "
@@ -55,9 +55,9 @@ questions:
       question: "Translate the following sentence into English: <latin>Priusquam nōx advēnit, castra capta sunt.</latin>"
       answer: "BEFORE NIGHT CAME, THE CAMP WAS CAPTURED"
     boni:
-      - question: "<latin>Dux suīs imperāvit nē</latin> <latin>pontem trānsīrent.</latin> "
+      - question: "<latin>Dux suīs imperāvit nē pontem trānsīrent.</latin> "
         answer: "THE COMMANDER / LEADER ORDERED HIS (OWN) MEN NOT TO CROSS THE BRIDGE"
-      - question: "<latin>Posterō</latin> <latin>diē</latin> <latin>explōrātōrēs missī</latin> <latin>sunt quī</latin> <latin>auxilium peterent</latin>."
+      - question: "<latin>Posterō diē explōrātōrēs missī sunt quī auxilium peterent</latin>."
         answer: "THE NEXT / FOLLOWING DAY, SCOUTS WERE SENT TO FIND / SEEK HELP"
   - tossup:
       question: "Give the Latin verb and its meaning at the root of “suite,” “ensue,” “execute,” and “sequence”."
@@ -76,7 +76,7 @@ questions:
       - question: "Name the father of the Atalanta who ran footraces against her suitors?"
         answer: "SCHOENEUS / MAENALUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Duo hominēs, alter philosophus Graecus, alter homō</latin> <latin>nōtus quī</latin> <latin>magnus dux in bellō</latin> <latin>fuerat, nūdī</latin> <latin>et paene ēbriī</latin> <latin>inter sē</latin> <latin>colloquēbantur. “Quid,” inquit philosophus, “est melius - pecūnia aut scientia?” “Fortasse scientia.”</latin>  <latin>respondit dux. “Quod in proeliō</latin> <latin>cecidī</latin> <latin>cum equum meum cōnscenderem. Nunc tergum fractum habeō. Mihi autem sunt pecūnia et praeda.” Respondit philosophus, “Sed quam pulchra est praeda tua!”</latin>  Question: What was the topic of conversation between the philosopher and the famous general?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Duo hominēs, alter philosophus Graecus, alter homō nōtus quī magnus dux in bellō fuerat, nūdī et paene ēbriī inter sē colloquēbantur. “Quid,” inquit philosophus, “est melius - pecūnia aut scientia?” “Fortasse scientia.”</latin>  <latin>respondit dux. “Quod in proeliō cecidī cum equum meum cōnscenderem. Nunc tergum fractum habeō. Mihi autem sunt pecūnia et praeda.” Respondit philosophus, “Sed quam pulchra est praeda tua!”</latin>  Question: What was the topic of conversation between the philosopher and the famous general?"
       answer: "WHETHER MONEY OR KNOWLEDGE IS BETTER"
     boni:
       - question: "Why does the general say that knowledge is better?"
@@ -104,9 +104,9 @@ questions:
       answer: "<latin>ĒDŌ</latin> - GIVE OUT, PRODUCE, UTTER, BEGET <latin>EDŌ</latin> - EAT, CONSUME"
     boni:
       - question: "Give the 3rd principal parts for both of those verbs."
-        answer: "<latin>ĒDĪ</latin> from <latin>EDŌ</latin> <latin>ĒDIDĪ</latin> from <latin>ĒDŌ</latin>"
+        answer: "<latin>ĒDĪ</latin> from <latin>EDŌ ĒDIDĪ</latin> from <latin>ĒDŌ</latin>"
       - question: "Using those two verbs, say in Latin, “I gave out food for the sake of eating."
-        answer: "<latin>CIBUM ĒDIDĪ</latin> <latin>EDENDĪ</latin> <latin>CAUSĀ</latin> <latin>/ GRĀTIĀ</latin>"
+        answer: "<latin>CIBUM ĒDIDĪ EDENDĪ CAUSĀ / GRĀTIĀ</latin>"
   - tossup:
       question: "What derivative of a Latin verb meaning “pour” is an English noun used in the medical profession that literally means “a pouring across”?"
       answer: "TRANSFUSION"
@@ -117,10 +117,10 @@ questions:
         answer: "FUTILE"
   - tossup:
       question: "Say in Latin “She thought that she had been praised.”"
-      answer: "<latin>(EA/HAEC/ILLA) PUTĀVIT / PUTĀBAT SĒ</latin> <latin>LAUDĀTAM ESSE</latin> "
+      answer: "<latin>(EA/HAEC/ILLA) PUTĀVIT / PUTĀBAT SĒ LAUDĀTAM ESSE</latin> "
     boni:
       - question: "“She hoped that she would be famous.”"
-        answer: "<latin>(EA/HAEC/ILLA) SPĒRĀBAT / SPĒRĀVIT SĒ</latin> <latin>CLĀRAM FUTŪRAM ESSE (CELEBREM/ CLĀRAM INCLITAM / NŌBILEM/ NŌTAM)</latin> "
+        answer: "<latin>(EA/HAEC/ILLA) SPĒRĀBAT / SPĒRĀVIT SĒ CLĀRAM FUTŪRAM ESSE (CELEBREM/ CLĀRAM INCLITAM / NŌBILEM/ NŌTAM)</latin> "
       - question: "“We saw that she was beautiful.”"
         answer: "<latin>(NŌS) VĪDIMUS EAM (HANC/ ILLAM) PULCHRAM / BELLAM / FŌRMŌSAM ESSE</latin> "
   - tossup:

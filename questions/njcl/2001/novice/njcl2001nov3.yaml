@@ -50,18 +50,18 @@ questions:
       - question: "Whose hand did Hippomenes win in marriage?"
         answer: "ATALANTA'S"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Caesar erat clārior quam inimīcī</latin> <latin>quī</latin> <latin>eum necāvērunt.</latin> "
+      question: "Translate the following sentence into English: <latin>Caesar erat clārior quam inimīcī quī eum necāvērunt.</latin> "
       answer: "CAESAR WAS MORE FAMOUS THAN THE ENEMIES WHO KILLED HIM."
     boni:
       - question: "<latin>. . . Aestāte diēs sunt longiorēs quam hieme.</latin> "
         answer: "IN SUMMER THE DAYS ARE LONGER THAN IN WINTER."
-      - question: "<latin>. . . Salūs reī</latin> <latin>pūblicae erat Rōmānō</latin> <latin>cārior quam vīta sua.</latin> "
+      - question: "<latin>. . . Salūs reī pūblicae erat Rōmānō cārior quam vīta sua.</latin> "
         answer: "THE SAFETY OF THE REPUBLIC WAS DEARER TO A ROMAN THEN HIS OWN LIFE."
   - tossup:
       question: "Many Roman inscriptions contain the phrase “<latin>hīc iacet</latin>.” On what type of object would one find this inscription?"
       answer: "TOMBSTONE"
     boni:
-      - question: " Here lies Artemia, A child sweet and bright Fair of visage, and most charming in her speech, having lived four years, in her fifth year she departed To Christ, an innocent who passed over without warning into the heavenly kingdom -Paul Shore <latin>HĪC IACET ARTEMIA DULCIS APTISSIMUS ĪNFĀNS ET VĪSŪ</latin> <latin>GRĀTA ET VERBĪS DULCISSIMA CUNCTĪS QUATTUOR IN QUĪNTŌ</latin> <latin>AD CHRISTUM DĒTULIT ANNŌS</latin>  <latin>INNOCĒNS SUBITŌ</latin> <latin>AD CAELESTIA</latin>  <latin>RĒGNA TRĀNSĪVIT</latin>  What word in the inscription indicates that Artemia died without warning?"
+      - question: " Here lies Artemia, A child sweet and bright Fair of visage, and most charming in her speech, having lived four years, in her fifth year she departed To Christ, an innocent who passed over without warning into the heavenly kingdom -Paul Shore <latin>HĪC IACET ARTEMIA DULCIS APTISSIMUS ĪNFĀNS ET VĪSŪ GRĀTA ET VERBĪS DULCISSIMA CUNCTĪS QUATTUOR IN QUĪNTŌ AD CHRISTUM DĒTULIT ANNŌS</latin>  <latin>INNOCĒNS SUBITŌ AD CAELESTIA</latin>  <latin>RĒGNA TRĀNSĪVIT</latin>  What word in the inscription indicates that Artemia died without warning?"
         answer: "<latin>SUBITŌ</latin>"
       - question: "Other than being an infant and her specific age, give two characteristics of Artemia listed in this inscription"
         answer: "SWEET / VERY CAPABLE / PLEASING (IN APPEARANCE) / BRIGHT COULD TALK WELL FOR A CHILD / COULD FORM COMPLETE SENTENCES INNOCENCE / SHE WAS A CHRISTIAN / COULD USE WHOLE WORDS"
@@ -96,14 +96,14 @@ questions:
       - question: " During what part of the celebration of a marriage were these verses sung?"
         answer: "THE <emphasis>PROCESSION</emphasis> (TO BRIDE’S NEW HOME) / <latin>DĒDUCTIŌ</latin>"
       - question: "What cry was interjected into the singing of the verses?"
-        answer: "<latin>TALAS(S)IO</latin> / <latin>TALLAS(S)IUS / TALAS(S)US / TALASSE</latin>"
+        answer: "<latin>TALAS(S)IO / TALLAS(S)IUS / TALAS(S)US / TALASSE</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>hodiē</latin>”?"
+      question: "<latin>Quid Anglicē significat</latin> “<latin>hodiē</latin>”?"
       answer: "TODAY"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mox</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>mox</latin>”?"
         answer: "SOON, LATER, THEN"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>statim</latin>”?"
+      - question: "<latin>Quid Anglicē significat</latin> “<latin>statim</latin>”?"
         answer: "IMMEDIATELY, RIGHT AWAY, AT ONCE"
   - tossup:
       question: "Give the second person singular, perfect active indicative of the verb <latin>capiō</latin>"
@@ -127,7 +127,7 @@ questions:
     boni:
       - question: "The person then asks you “<latin>Habēsne frātrēs an sorōrēs</latin>?” What do they want to know now?"
         answer: "IF YOU HAVE BROTHERS OR SISTERS"
-      - question: "Finally, the person asks you “<latin>Quō</latin> <latin>vadis</latin>?” What do they want to know?"
+      - question: "Finally, the person asks you “<latin>Quō vadis</latin>?” What do they want to know?"
         answer: "WHERE YOU ARE GOING"
   - tossup:
       question: "Name the leader of the Visigoths who sacked Rome on August 24, 410 A. D.?"

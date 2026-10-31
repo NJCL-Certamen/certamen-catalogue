@@ -18,7 +18,7 @@ questions:
       answer: "<latin>SUB ROSĀ</latin>"
     boni:
       - question: "What Latin phrase is commonly used in English to mean “an indispensable/necessary condition?"
-        answer: "<latin>(CAUSA) SINE QUĀ</latin> <latin>NŌN</latin>"
+        answer: "<latin>(CAUSA) SINE QUĀ NŌN</latin>"
       - question: "What Latin phrase and state motto is commonly used in English to mean “let military power yield to civilian authority?”"
         answer: "<latin>CĒDANT ARMA TOGAE</latin>"
   - tossup:
@@ -78,11 +78,11 @@ questions:
       - question: "Along what road did Crassus crucify 6,000 captured slaves to demonstrate that he, not Pompey, was responsible for Spartacus’ defeat?"
         answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō</latin> <latin>tectō</latin> <latin>huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit.</latin>  <latin>Quod nōmen datum est prīmae partī</latin> <latin>domūs Rōmānae?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō tectō huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit.</latin>  <latin>Quod nōmen datum est prīmae partī domūs Rōmānae?</latin>"
       answer: "ĀTRIUM"
     boni:
       - question: "Ubi apertum spatium situm est? "
-        answer: "<latin>IN (MEDIŌ) TECTŌ</latin> <latin>(HUIUS PARTIS / ĀTRIĪ)</latin>"
+        answer: "<latin>IN (MEDIŌ) TECTŌ (HUIUS PARTIS / ĀTRIĪ)</latin>"
       - question: "  <latin>SUPER (or SUPRĀ) IMPLUVIUM</latin>  <latin>Quid in impluvium dēscendit?</latin>"
         answer: "PLUVIA /AQUA / IMBER / NIMBUS"
   - tossup:
@@ -92,7 +92,7 @@ questions:
       - question: "<latin>canis mihi nōn est</latin>?"
         answer: "POSSESSION"
       - question: "Using the dative, say in Latin “This dog is a great help to me.”"
-        answer: "<latin>IS</latin> / <latin>EA</latin>"
+        answer: "<latin>IS / EA</latin>"
   - tossup:
       question: "What Amazon queen aided the Trojans?"
       answer: "PENTHESILEA"
@@ -106,7 +106,7 @@ questions:
       answer: "<latin>TIMEŌ, METUŌ</latin>, (<latin>EX</latin>- <latin>PER</latin>-)-<latin>TIMESCŌ</latin>"
     boni:
       - question: "of the verb <latin>arbitror</latin>?"
-        answer: "<latin>PUTŌ, EXISTIMŌ, REOR, OPĪNOR, CENSEŌ, COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō</latin> / <latin>crēdō</latin> and <latin>arbitror</latin>)"
+        answer: "<latin>PUTŌ, EXISTIMŌ, REOR, OPĪNOR, CENSEŌ, COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō / crēdō</latin> and <latin>arbitror</latin>)"
       - question: "of the verb <latin>ēgredior</latin>?"
         answer: "<latin>EXEŌ</latin>, (<latin>DIS</latin>- <latin>EX</latin>-)-<latin>CĒDŌ, ĒMIGRŌ, ĒVĀDŌ</latin>"
   - tossup:

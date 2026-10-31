@@ -90,7 +90,7 @@ questions:
       - question: "Now translate the full sentence into Latin still using <latin>sunt</latin>, “How many cats do you have?”"
         answer: "<latin>QUOT FĒLĒS TIBI / VŌBĪS SUNT?</latin>"
       - question: "Now say in Latin, “I hear that you have many cats.”"
-        answer: "<latin>AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE //</latin> <latin>AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE</latin>  <latin>---</latin>"
+        answer: "<latin>AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE // AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE</latin>  <latin>---</latin>"
   - tossup:
       question: "Who, at a banquet thrown by Tantalus, obliviously ate a piece of Pelops’ shoulder, because she was still grieving the death of her daughter Persephone?"
       answer: "DEMETER"
@@ -104,7 +104,7 @@ questions:
       answer: "THE BOYS, WHOSE FATHER WAS MARS,  WERE LEFT (BEHIND) / ABANDONED BY THEIR MOTHER."
     boni:
       - question: "Translate into Latin: “The wolves, who were near the river, had heard the brothers.”"
-        answer: "<latin>LUPĪ, QUĪ PROPE RĪVUM</latin> / <latin>FLŪMEN ERANT, FRATRES AUDĪVĒRANT</latin>"
+        answer: "<latin>LUPĪ, QUĪ PROPE RĪVUM / FLŪMEN ERANT, FRATRES AUDĪVĒRANT</latin>"
       - question: "Translate this sentence into English: <latin>Urbs, quam ūnus ex puerīs aedificāvit, Alba Longa erat.</latin>"
         answer: "THE CITY, WHICH ONE OF THE BOYS BUILT, WAS ALBA LONGA"
   - tossup:

@@ -127,9 +127,9 @@ questions:
       question: "Say in Latin “the short war.”"
       answer: "<latin>BELLUM BREVE</latin> "
     boni:
-      - question: "Change <latin>bellum</latin> <latin>breve</latin> to the genitive plural"
+      - question: "Change <latin>bellum breve</latin> to the genitive plural"
         answer: "<latin>BELLŌRUM BREVIUM</latin>"
-      - question: "Change <latin>bellōrum</latin> <latin>brevium</latin> to the comparative and to the genitive singular"
+      - question: "Change <latin>bellōrum brevium</latin> to the comparative and to the genitive singular"
         answer: "<latin>BELLĪ BREVIŌRIS</latin>"
   - tossup:
       question: "In the indicative mood, how many tenses are there?"

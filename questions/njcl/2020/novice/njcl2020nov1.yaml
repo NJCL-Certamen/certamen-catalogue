@@ -48,7 +48,7 @@ questions:
       answer: "NAUSICAÄ / <latin>NAUSICAĒ / NAUSICAÄ</latin>"
     boni:
       - question: "<latin>Respondē aut Anglicē aut Latīnē: Quid faciēbant Nausicaa et amīcae ubi Ūlixem invēnērunt?</latin>"
-        answer: "<latin>VESTĒS / VESTIMENTA</latin> <latin>LAVĀBANT //</latin> WASHING CLOTHES"
+        answer: "<latin>VESTĒS / VESTIMENTA LAVĀBANT //</latin> WASHING CLOTHES"
       - question: "<latin>Respondē aut Anglicē aut Latīnē: Quī erant parentēs Nausicaae?</latin>"
         answer: "ALCINOŪS <latin>ET</latin>/AND ARETE"
   - tossup:
@@ -87,7 +87,7 @@ questions:
       question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions which follow. \t<latin>Aurēlia erat in Aegyptō cum suīs duābus sorōribus maiōribus.  Tredecim lūdōs Iovis spectābant, ubi sorōrēs multa crusta porcī edēbant.  Aurēlia autem mālum edēbat.</latin>  REREAD \tThe question:  <latin>Quot lūdōs Iovis spectābant sorōrēs ?</latin>"
       answer: "<latin>TREDECIM</latin>"
     boni:
-      - question: "<latin>Quid</latin> <latin>sorōrēs edēbant?</latin>"
+      - question: "<latin>Quid sorōrēs edēbant?</latin>"
         answer: "<latin>(MULTA) CRUSTA PORCĪ // PORCUM // CARNEM</latin>"
       - question: "<latin>Quālēs erant sorōrēs Aurēliae?</latin>"
         answer: "<latin>MAIŌRĒS</latin>"
@@ -136,7 +136,7 @@ questions:
       answer: "<latin>EPISTULĀS</latin>"
     boni:
       - question: "Give the correct form of “friends” for that same sentence: “I wrote my friends three letters.”"
-        answer: "<latin>AMĪCĪS / AMĪCĀBUS / SODĀLIBUS / SOCIĪS / SOCIĀBUS / COMITIBUS //</latin> <latin>AD + ACC.</latin>"
+        answer: "<latin>AMĪCĪS / AMĪCĀBUS / SODĀLIBUS / SOCIĪS / SOCIĀBUS / COMITIBUS // AD + ACC.</latin>"
       - question: "Translate into Latin still using <latin>epistula</latin>, “They had written me four letters.”"
         answer: "<latin>SCRĪPSERANT AD MĒ / MIHI QUATTUOR EPISTULĀS</latin>"
   - tossup:

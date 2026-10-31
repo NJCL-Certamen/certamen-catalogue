@@ -4,13 +4,13 @@ division: "Advanced"
 round: "Round 3"
 questions:
   - tossup:
-      question: "<latin>Respondē</latin> <latin>Latīnē: Tū</latin> <latin>es Rōmānus antīquus legēns variās Lēgēs Duodecim Tabulārum. âna ex lēgibus hīs verbīs incipit: “Quī</latin> <latin>malum carmen incantāssit.” Quō</latin> <latin>casū</latin> <latin>est “malum carmen”?</latin>"
+      question: "<latin>Respondē Latīnē: Tū es Rōmānus antīquus legēns variās Lēgēs Duodecim Tabulārum. âna ex lēgibus hīs verbīs incipit: “Quī malum carmen incantāssit.” Quō casū est “malum carmen”?</latin>"
       answer: "<latin>(IN) (CASâ) ACCâSĀTĪVŌ</latin>"
     boni:
       - question: "<latin>Cūius dēclīnātiōnis est “carmen”?</latin>"
         answer: "<latin>TERTIAE</latin>"
-      - question: "<latin>Cūius modī</latin> <latin>est “incantāssit”?</latin>"
-        answer: "<latin>SUBIâNCTĪVĪ</latin> <latin>/ CONIâNCTĪVĪ</latin>"
+      - question: "<latin>Cūius modī est “incantāssit”?</latin>"
+        answer: "<latin>SUBIâNCTĪVĪ / CONIâNCTĪVĪ</latin>"
   - tossup:
       question: "Whose work did Cicero regard as antiquated and not worth reading even though this author was regarded as the father of Latin literature?"
       answer: "(L.) LIVIUS ANDRONICUS’"
@@ -37,12 +37,12 @@ questions:
         answer: "THE SPRING OF JUTURNA (IN THE ROMAN FORUM) / LACUS JUTURNAE"
   - tossup:
       question: "Using a supine, say in Latin: “Latin words are not difficult to say.”"
-      answer: "<latin>VERBA / VŌCĀBULA LATĪNA NŌN SUNT DIFFICILIA DICTâ</latin> <latin>/ NARRĀT</latin>â"
+      answer: "<latin>VERBA / VŌCĀBULA LATĪNA NŌN SUNT DIFFICILIA DICTâ / NARRĀT</latin>â"
     boni:
       - question: "Say in Latin, “I fear that I may forget something.”"
-        answer: "<latin>TIMEŌ</latin> <latin>(METUŌ</latin> <latin>/ VEREOR) NĒ</latin> <latin>QUID / CâIUS OBLĪVĪSCAR</latin> "
+        answer: "<latin>TIMEŌ (METUŌ / VEREOR) NĒ QUID / CâIUS OBLĪVĪSCAR</latin> "
       - question: "Say in Latin, “I fear that I may not remember.”"
-        answer: "<latin>TIMEŌ</latin> <latin>UT MEMINERIM (RECORDER / REMINĪSCAR / COMMEMOREM / MEMORIĀ</latin> <latin>TENEAM)</latin>"
+        answer: "<latin>TIMEŌ UT MEMINERIM (RECORDER / REMINĪSCAR / COMMEMOREM / MEMORIĀ TENEAM)</latin>"
   - tossup:
       question: "Which emperor was married to a Syrian lady named Julia Domna?"
       answer: "SEPTIMIUS SEVERUS (PASS OUT THE VISUAL)"
@@ -50,7 +50,7 @@ questions:
       - question: "This is a family portrait of Septemius Severus with his wife and two sons. Which of his sons is “this dude”?"
         answer: "GETA"
       - question: "What is the Latin term that explains why Geta’s face is missing in this picture?"
-        answer: "<latin>DAMNĀTIŌ</latin> <latin>(MEMORIAE)</latin> "
+        answer: "<latin>DAMNĀTIŌ (MEMORIAE)</latin> "
   - tossup:
       question: "For the verb <latin>mandō</latin>, give the 3rd person plural, pluperfect active subjunctive."
       answer: "<latin>MANDĀVISSENT</latin> "
@@ -60,7 +60,7 @@ questions:
       - question: "Change <latin>mandāssent</latin> to the perfect tense, giving both the standard form, and the syncopated form."
         answer: "<latin>MANDĀVERINT</latin> & <latin>MANDĀRINT</latin> "
   - tossup:
-      question: "About what earlier poet did Vergil write “<latin>Fēlīx quī</latin> <latin>potuit rērum cognōscere causās</latin>”?"
+      question: "About what earlier poet did Vergil write “<latin>Fēlīx quī potuit rērum cognōscere causās</latin>”?"
       answer: "(TITUS) LUCRETIUS (CARUS)"
     boni:
       - question: "What philosophy was Lucretius promoting with his <title><latin>Dē Rērum Nātūrā</latin></title>?"
@@ -79,7 +79,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Quamvīs exercitus magnus sit, trēs aciēs sufficiunt</latin>."
       answer: "ALTHOUGH THE ARMY IS BIG, THREE BATTLE LINES ARE SUFFICIENT"
     boni:
-      - question: "<latin>Etiamsī</latin> <latin>rēgīna deōrum essēs, nōn tibi crēderem</latin>."
+      - question: "<latin>Etiamsī rēgīna deōrum essēs, nōn tibi crēderem</latin>."
         answer: "EVEN IF YOU WERE QUEEN OF THE GODS, I WOULD NOT BELIEVE YOU"
       - question: "<latin>Nōn dēbēs tālia dīcere quamquam vēra esse exīstimās</latin>."
         answer: "YOU OUGHT NOT SAY SUCH THINGS (AL)THOUGH YOU THINK THAT THEY ARE TRUE"
@@ -116,11 +116,11 @@ questions:
       - question: "After Andriscus was killed, what happened to the kingdom of Macedonia?"
         answer: "MADE INTO A ROMAN PROVINCE / ROME ANNEXED IT"
   - tossup:
-      question: "Listen carefully to the following excerpt from Augustus’ <title><latin>Rēs Gestae</latin></title>, which I will read twice, and answer IN LATIN the question that follows: <latin>Mare pācāvī</latin> ā <latin>praedōnibus. Eō</latin> <latin>bellō</latin> <latin>servōrum, quī</latin> <latin>fūgerant ā</latin> <latin>dominīs suīs et arma contrā</latin> <latin>rem pūblicam cēperant, trīgintā</latin> <latin>ferē</latin> <latin>mīlia capta dominīs ad supplicium sūmendum trādid</latin><latin>ī.</latin>  Question: <latin>Quō</latin> <latin>cōnsiliō</latin> <latin>Augustus servōs dominīs trādidit?</latin> "
-      answer: "<latin>AD SUPPLICIUM SâMENDUM</latin> / <latin>UT SUPPLICIUM SâMERENT</latin> /"
+      question: "Listen carefully to the following excerpt from Augustus’ <title><latin>Rēs Gestae</latin></title>, which I will read twice, and answer IN LATIN the question that follows: <latin>Mare pācāvī</latin> ā <latin>praedōnibus. Eō bellō servōrum, quī fūgerant ā dominīs suīs et arma contrā rem pūblicam cēperant, trīgintā ferē mīlia capta dominīs ad supplicium sūmendum trādid</latin><latin>ī.</latin>  Question: <latin>Quō cōnsiliō Augustus servōs dominīs trādidit?</latin> "
+      answer: "<latin>AD SUPPLICIUM SâMENDUM / UT SUPPLICIUM SâMERENT</latin> /"
     boni:
-      - question: "<latin>Quid volēbant servī</latin> <latin>quī</latin> <latin>fūgerant?</latin> "
-        answer: "<latin>ARMA (CONTRĀ</latin> <latin>REM PâBLICAM) CAPERE /</latin>  <latin>PUGNĀRE /</latin>  <latin>LĪBERTĀTEM / BELLUM /</latin>  etc, many other possible answers"
+      - question: "<latin>Quid volēbant servī quī fūgerant?</latin> "
+        answer: "<latin>ARMA (CONTRĀ REM PâBLICAM) CAPERE /</latin>  <latin>PUGNĀRE /</latin>  <latin>LĪBERTĀTEM / BELLUM /</latin>  etc, many other possible answers"
       - question: "<latin>Quis mare pācandum cūrāvit?</latin>"
         answer: "<latin>AUGUSTUS (IPSE)</latin>"
   - tossup:

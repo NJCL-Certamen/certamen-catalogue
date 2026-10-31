@@ -110,11 +110,11 @@ questions:
       answer: "GIVE ME THE BOOKS (WHICH) YOU BOUGHT"
     boni:
       - question: "Say in Latin, “The boys of the farmer do not read books.”"
-        answer: "<latin>PUERĪ</latin> <latin>AGRICOLAE LIBRŌS NŌN LEGUNT</latin>"
+        answer: "<latin>PUERĪ AGRICOLAE LIBRŌS NŌN LEGUNT</latin>"
       - question: "Say in Latin, “The maid whom you see is very pretty.”"
         answer: "<latin>ANCILLA QUAM VIDĒS / VIDĒTIS EST PULCHERRIMA</latin>"
   - tossup:
-      question: "Listen carefully to this opinion as expressed by Cicero, which I will read twice, and answer the question that follows in English. <latin>Hoc dīcō</latin> <latin>dē</latin> <latin>tōtō</latin> <latin>genere Graecōrum: laudō</latin> <latin>litterās eōrum et multārum artium scientiam. Ista nātiō</latin> <latin>vēritātem et fīdem numquam coluit.</latin>  The question: According to Cicero, what are two Greek strong points?"
+      question: "Listen carefully to this opinion as expressed by Cicero, which I will read twice, and answer the question that follows in English. <latin>Hoc dīcō dē tōtō genere Graecōrum: laudō litterās eōrum et multārum artium scientiam. Ista nātiō vēritātem et fīdem numquam coluit.</latin>  The question: According to Cicero, what are two Greek strong points?"
       answer: "LITERATURE / LETTERS AND ARTS / KNOWLEDGE OF THE ARTS"
     boni:
       - question: "For five points each what are two weaknesses of Greek character?"

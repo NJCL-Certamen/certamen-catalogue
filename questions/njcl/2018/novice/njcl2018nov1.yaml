@@ -50,7 +50,7 @@ questions:
       - question: "…:  The law had been praised by the brave soldier."
         answer: "<latin>LĒX Ā/AB FORTĪ MĪLITE LAUDĀTA ERAT</latin>"
       - question: "…:  The guard saw the thief hiding the gold."
-        answer: "<latin>CUSTŌS / PRAESIDIUM FŪREM / LĀTRŌNEM CĒLANTEM / VĒLANTEM /</latin> <latin>TEGENTEM / OCCULTANTEM AURUM VĪDIT // CUSTŌDĒS … VĪDĒRUNT</latin>"
+        answer: "<latin>CUSTŌS / PRAESIDIUM FŪREM / LĀTRŌNEM CĒLANTEM / VĒLANTEM / TEGENTEM / OCCULTANTEM AURUM VĪDIT // CUSTŌDĒS … VĪDĒRUNT</latin>"
   - tossup:
       question: "Although it was a victory against Antony, at what battle did the consuls Hirtius and Pansa sustain fatal wounds, leaving Octavian with full control of three armies?"
       answer: "MUTINA"
@@ -152,7 +152,7 @@ questions:
       answer: "WATER (PROMPT ON <latin>AQUA</latin>)"
     boni:
       - question: "When should a medicine be taken if the label states <latin>a.c.</latin>?"
-        answer: "BEFORE MEALS / FOOD (PROMPT ON <latin>ANTE</latin> <latin>CIBUM / CIBŌS</latin>) \t\t\t(<latin>ANTE CENAM</latin> IS NOT ATTESTED, SO DON’T TAKE DINNER OR PROMPT ON IT)"
+        answer: "BEFORE MEALS / FOOD (PROMPT ON <latin>ANTE CIBUM / CIBŌS</latin>) \t\t\t(<latin>ANTE CENAM</latin> IS NOT ATTESTED, SO DON’T TAKE DINNER OR PROMPT ON IT)"
       - question: "Where should a medicine be applied if the label states <latin>a.u.</latin>, which stands for <latin>auris utraque</latin>?"
         answer: "BOTH EARS / EACH EAR"
   - tossup:

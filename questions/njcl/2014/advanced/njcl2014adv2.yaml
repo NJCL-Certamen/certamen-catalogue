@@ -31,16 +31,16 @@ questions:
       question: "Change the phrase <latin>hic āthlēta vēlōx</latin> to the dative case"
       answer: "<latin>HUIC ĀTHLĒTAE VĒLŌCĪ</latin>"
     boni:
-      - question: "Change <latin>huic āthlētae</latin> <latin>vēlōcī</latin> to the ablative"
+      - question: "Change <latin>huic āthlētae vēlōcī</latin> to the ablative"
         answer: "<latin>HŌC ĀTHLĒTĀ VĒLŌCĪ/E</latin> "
-      - question: "Change <latin>hōc āthlētā</latin> <latin>vēlōcī</latin> to the genitive plural"
+      - question: "Change <latin>hōc āthlētā vēlōcī</latin> to the genitive plural"
         answer: "<latin>HŌRUM ĀTHLĒTĀRUM VĒLŌCIUM</latin>"
   - tossup:
       question: "Where in Rome can one visit the Temple of Aesculapius?"
       answer: "TIBER ISLAND / <latin>ĪNSULA TIBERĪNA</latin>"
     boni:
       - question: "Name one of the two bridges on either side of the Tiber Island that connected the island to the city of Rome"
-        answer: "<latin>PŌNS FABRICIUS</latin> / <latin>PŌNS CESTIUS</latin> "
+        answer: "<latin>PŌNS FABRICIUS / PŌNS CESTIUS</latin> "
       - question: "Give the Latin term for the ritual that took place on the steps of the Temple of Aesculapius, where the sick would spend the night on these steps and would either receive the cure for their ailment in their sleep or would be cured while they slept"
         answer: "<latin>INCŪBĀTIŌ</latin>"
   - tossup:

@@ -20,10 +20,10 @@ questions:
       - question: "Give the dative forms for <latin>nōs</latin> and for <latin>mē</latin>."
         answer: "<latin>NŌBĪS, MIHI</latin> "
   - tossup:
-      question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>amō, amīcus, inimīcus, ambulō</latin> <latin>AMBULŌ</latin>"
+      question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>amō, amīcus, inimīcus, ambulō AMBULŌ</latin>"
       answer: "<latin>AMBULŌ</latin>"
     boni:
-      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>liber, līberō, lībertās, līberī</latin> <latin>LIBER</latin> "
+      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>liber, līberō, lībertās, līberī LIBER</latin> "
         answer: "<latin>LIBER</latin>"
       - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>effectus, faciō, officium, factum</latin> "
         answer: "THEY ARE ALL RELATED"
@@ -44,10 +44,10 @@ questions:
       - question: "of the Latin noun <latin>tempestās</latin>."
         answer: "STORM / WEATHER"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Aurēlia, cui urbs placēbat, erat in Aegyptō</latin> <latin>cum familiā</latin> <latin>suā</latin> <latin>ingentī</latin> <latin>et equō</latin> <latin>suō. Tredecim lūdōs magnōs Iovis in amphitheātrō</latin> <latin>Alexandrīae spectābant. Tandem equus īrātus domum recurrere coepit. Eheu!</latin>  Question: <latin>In quō</latin> <latin>aedificiō</latin> <latin>erant lūdī</latin> <latin>magnī?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Aurēlia, cui urbs placēbat, erat in Aegyptō cum familiā suā ingentī et equō suō. Tredecim lūdōs magnōs Iovis in amphitheātrō Alexandrīae spectābant. Tandem equus īrātus domum recurrere coepit. Eheu!</latin>  Question: <latin>In quō aedificiō erant lūdī magnī?</latin>"
       answer: "<latin>(IN) AMPHITHEĀTRŌ</latin>"
     boni:
-      - question: "<latin>Quō</latin> <latin>cucurrit equus?</latin>"
+      - question: "<latin>Quō cucurrit equus?</latin>"
         answer: "<latin>DOMUM</latin>"
       - question: "<latin>Cui urbs placēbat?</latin>"
         answer: "<latin>AURĒLIAE</latin> "
@@ -117,12 +117,12 @@ questions:
         answer: "EVERY FIVE YEARS"
   - tossup:
       question: "What Latin phrase is used in English to mean “temporarily”?"
-      answer: "<latin>PRŌ</latin> <latin>TEMPORE</latin> (If student says, “Pro Tem.”, prompt for more complete answer)"
+      answer: "<latin>PRŌ TEMPORE</latin> (If student says, “Pro Tem.”, prompt for more complete answer)"
     boni:
       - question: "What Latin phrase is used in English to mean “for the sake of formality”?"
-        answer: "<latin>PRŌ</latin> <latin>FŌRMĀ</latin>"
+        answer: "<latin>PRŌ FŌRMĀ</latin>"
       - question: "What Latin phrase is used in English to mean “proportionally”<latin>?</latin>"
-        answer: "<latin>PRŌ</latin> <latin>RĀTĀ</latin>"
+        answer: "<latin>PRŌ RĀTĀ</latin>"
   - tossup:
       question: "Whom did Perseus accidentally kill with a discus?"
       answer: "(HIS GRANDFATHER) ACRISIUS"

@@ -12,12 +12,12 @@ questions:
       - question: "How did Servius Tullius placate the sons of Tarquinius Priscus after he had made clear his intentions to succeed their father?"
         answer: "HE MARRIED THEM TO HIS DAUGHTERS (THE TULLIAE)"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Poētae Karthāginī</latin> <latin>fāme moriuntur</latin>."
+      question: "Translate the following sentence into English: <latin>Poētae Karthāginī fāme moriuntur</latin>."
       answer: "THE POETS IN CARTHAGE ARE DYING FROM HUNGER"
     boni:
       - question: "<latin>Novum imperātōrem ōdērunt</latin>."
         answer: "THEY HATE THE NEW EMPEROR"
-      - question: "<latin>Poētae dīvitibus adiuvandī</latin> <latin>sunt</latin>."
+      - question: "<latin>Poētae dīvitibus adiuvandī sunt</latin>."
         answer: "THE RICH MUST HELP THE POETS / THE POETS ARE TO BE HELPED BY THE RICH"
   - tossup:
       question: "Of what material were the curved legs of a <latin>sella curūlis</latin> made?"
@@ -44,7 +44,7 @@ questions:
       - question: "What deity had placed the snakes in the cradle?"
         answer: "HERA"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Itālia ā</latin> <latin>rēge ūna ē</latin> <latin>plūribus facta est</latin>."
+      question: "Translate the following sentence into English: <latin>Itālia ā rēge ūna ē plūribus facta est</latin>."
       answer: "ITALY WAS MADE ONE FROM MANY / MORE BY THE KING (If student says “... became one by the king...,” accept the answer but warn the student about the bad English) (PASS OUT THE VISUAL)"
     boni:
       - question: "The handout contains a picture of the Vittoriano, which is a monument in Rome built in the late 1800s to commemorate the unification of modern Italy by its first king, Victor Emmanuel II. Give the nominative singular form of each of the four inscribed words in the highlighted sections of the monument."
@@ -61,12 +61,12 @@ questions:
         answer: "<latin>VICARIUS</latin> "
   - tossup:
       question: "Translate the following sentence into Latin: Publius couldn’t be taught."
-      answer: "<latin>PUBLIUS NŌN POTERAT / POTUIT DOCĒRĪ</latin> <latin>PUBLIUS NEQUĪBAT / NEQUĪVIT DOCĒRĪ</latin>"
+      answer: "<latin>PUBLIUS NŌN POTERAT / POTUIT DOCĒRĪ PUBLIUS NEQUĪBAT / NEQUĪVIT DOCĒRĪ</latin>"
     boni:
       - question: "Publius says that he has been taught well."
-        answer: "<latin>PUBLIUS DĪCĪT SĒ</latin> <latin>BENE DOCTUM ESSE</latin> "
+        answer: "<latin>PUBLIUS DĪCĪT SĒ BENE DOCTUM ESSE</latin> "
       - question: "Publius’ mother said that she would teach him."
-        answer: "<latin>MĀTER PUBLIĪ</latin> <latin>DĪXIT SĒ</latin> <latin>EUM DOCTŪRAM ESSE</latin> "
+        answer: "<latin>MĀTER PUBLIĪ DĪXIT SĒ EUM DOCTŪRAM ESSE</latin> "
   - tossup:
       question: "Give the Latin noun and its meaning at the root of “divulge.”"
       answer: "<latin>VULGUS</latin> - COMMON PEOPLE"
@@ -84,12 +84,12 @@ questions:
       - question: "Give the genitive plural of the phrase <latin>īgnis clārior</latin>."
         answer: "<latin>ĪGNIUM CLĀRIŌRUM</latin>"
   - tossup:
-      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Omnia quae tetigī</latin> <latin>aurea facta sunt. Posteā, ubi hanc potestātem āmīseram, Apollō</latin> <latin>mihi aurēs asinī</latin> <latin>dedit.</latin>"
-      answer: "<latin>MIDAS</latin> / <latin>MIDA</latin> / MIDAS"
+      question: "<latin>Audī dīligenter et respondē aut Anglicē aut Latīnē: Quis sum? Omnia quae tetigī aurea facta sunt. Posteā, ubi hanc potestātem āmīseram, Apollō mihi aurēs asinī dedit.</latin>"
+      answer: "<latin>MIDAS / MIDA</latin> / MIDAS"
     boni:
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Fortasse audīvistī</latin> <latin>dē</latin> <latin>mē. Omnēs puerōs certāmine superāvī. Venere iuvante, Hippomenēs mē</latin> <latin>superāvit et in mātrimōnium dūxit.</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis sum? Fortasse audīvistī dē mē. Omnēs puerōs certāmine superāvī. Venere iuvante, Hippomenēs mē superāvit et in mātrimōnium dūxit.</latin>"
         answer: "<latin>ATALANTA</latin> / ATALANTA"
-      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Apollō</latin> <latin>mē</latin> <latin>in mātrimōnium dūcere volēbat sed ego virgō</latin> <latin>in perpetuum esse volēbam. Pater meus mē</latin> <latin>in laurum mūtāvit. Nympha fuī.</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis sum? Apollō mē in mātrimōnium dūcere volēbat sed ego virgō in perpetuum esse volēbam. Pater meus mē in laurum mūtāvit. Nympha fuī.</latin>"
         answer: "<latin>DAPHNĒ</latin> / DAPHNE"
   - tossup:
       question: "What Latin phrase is used in English to mean “another aspect of oneself”?"
@@ -108,12 +108,12 @@ questions:
       - question: "Who were the parents of Amphitrite?"
         answer: "NEREUS & DORIS or OCEANUS & TETHYS"
   - tossup:
-      question: "Listen carefully to the following short passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Augustus equitem Rōmānum in spectāculīs cēnantem vīdit, cui dīxit: “Ego sī</latin> <latin>cēnāre volō, domum eō.” Eques respondit, “Tu enim nōn timēs nē</latin> <latin>sedem amittās.”</latin>  Question: <latin>Cui hominī</latin> <latin>dīxit Augustus?</latin>"
-      answer: "<latin>EQUITĪ</latin> <latin>(RŌMAN</latin><latin>Ō)</latin> "
+      question: "Listen carefully to the following short passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Augustus equitem Rōmānum in spectāculīs cēnantem vīdit, cui dīxit: “Ego sī cēnāre volō, domum eō.” Eques respondit, “Tu enim nōn timēs nē sedem amittās.”</latin>  Question: <latin>Cui hominī dīxit Augustus?</latin>"
+      answer: "<latin>EQUITĪ (RŌMAN</latin><latin>Ō)</latin> "
     boni:
       - question: "<latin>Quid faciēbat eques Rōmānus quod Augustum īrātum fēcit</latin>?"
         answer: "<latin>CĒNĀBAT IN SPECTĀCULĪS</latin> "
-      - question: "<latin>Quō</latin> <latin>it Augustus, sī</latin> <latin>fāmem habet?</latin>"
+      - question: "<latin>Quō it Augustus, sī fāmem habet?</latin>"
         answer: "<latin>DOMUM</latin> "
   - tossup:
       question: "Who convinced Tiberius of the ambitions of Sejanus?"
@@ -135,17 +135,17 @@ questions:
       question: "What use of the dative case is found in the following sentence? <latin>Mare nōbīs transeundum est</latin>."
       answer: "AGENCY / AGENT"
     boni:
-      - question: "<latin>Bonō</latin> <latin>fuit Rōmānīs rēgēs expellere</latin>."
+      - question: "<latin>Bonō fuit Rōmānīs rēgēs expellere</latin>."
         answer: "DOUBLE DATIVE / REFERENCE + PURPOSE (If only one use of the dative is given, prompt for more information)"
-      - question: "<latin>Nēmō</latin> <latin>est cui crēdere possim.</latin>"
+      - question: "<latin>Nēmō est cui crēdere possim.</latin>"
         answer: "<emphasis>OBJECT OF SPECIAL VERB</emphasis> (<latin>crēdō</latin>) (If “indirect object” is given as the answer, prompt for more information)"
   - tossup:
       question: "You are a doctor in ancient Rome. A patient tells you, “<latin>Caput meum dolet</latin>.” What is he saying?"
       answer: "HIS HEAD HURTS / HE HAS A HEADACHE"
     boni:
-      - question: "You ask the patient why his head hurts and he responds, “<latin>Dē</latin> <latin>fenestrā</latin> <latin>in terram dēsilu</latin><latin>ī.</latin>” What happened?"
+      - question: "You ask the patient why his head hurts and he responds, “<latin>Dē fenestrā in terram dēsilu</latin><latin>ī.</latin>” What happened?"
         answer: "<emphasis>HE JUMPED OUT OF A WINDOW</emphasis> ONTO THE GROUND"
-      - question: "You then tell the patient, <latin>“Fortūnātus es. Censeō</latin> <latin>tē</latin> <latin>bracchium sinistrum frēgisse</latin>.” What is your diagnosis?"
+      - question: "You then tell the patient, <latin>“Fortūnātus es. Censeō tē bracchium sinistrum frēgisse</latin>.” What is your diagnosis?"
         answer: "HE’S LUCKY. HE <emphasis>BROKE HIS LEFT ARM</emphasis> "
   - tossup:
       question: "Who united all the Huns under his rule in A.D. 443?"
@@ -156,10 +156,10 @@ questions:
       - question: "Aetius was the actual power behind the throne of what emperor in the west?"
         answer: "VALENTINIAN III"
   - tossup:
-      question: "<latin>Quid Anglicē</latin> <latin>significat “tacitus”?</latin>"
+      question: "<latin>Quid Anglicē significat “tacitus”?</latin>"
       answer: "SILENT"
     boni:
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “tener”?</latin>"
+      - question: "<latin>Quid Anglicē significat “tener”?</latin>"
         answer: "TENDER"
-      - question: "<latin>Quid Anglicē</latin> <latin>significat “tenuis”?</latin>"
+      - question: "<latin>Quid Anglicē significat “tenuis”?</latin>"
         answer: "THIN"

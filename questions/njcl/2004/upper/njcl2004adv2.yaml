@@ -36,7 +36,7 @@ questions:
       - question: "Why did Achilles kill Thersites?"
         answer: "BECAUSE THERSITES MADE FUN OF ACHILLES FOR GRIEVING OVER THE BODY OF PENTHESILEA"
   - tossup:
-      question: "Listen to the following passage which I will read twice and answer in Latin the question that follows: <latin>Leō</latin> <latin>et duo amīcī</latin> <latin>in silvīs animālia agitābant. Ingentī</latin> <latin>cervō</latin> <latin>captō, leō</latin> <latin>praedam hīs verbīs dīvīsit: “Ego prīmam partem accipiō</latin> <latin>quod rēx appellor. Secundam partem et tertiam mihi dabitis quia sum fortior vōbīs. Placetne vōbīs?” Amīcī</latin> <latin>maestē</latin> <latin>consēnsērunt et ēsūriēntēs domum rediērunt.</latin>  The question: <latin>Quid erat praeda?</latin>"
+      question: "Listen to the following passage which I will read twice and answer in Latin the question that follows: <latin>Leō et duo amīcī in silvīs animālia agitābant. Ingentī cervō captō, leō praedam hīs verbīs dīvīsit: “Ego prīmam partem accipiō quod rēx appellor. Secundam partem et tertiam mihi dabitis quia sum fortior vōbīs. Placetne vōbīs?” Amīcī maestē consēnsērunt et ēsūriēntēs domum rediērunt.</latin>  The question: <latin>Quid erat praeda?</latin>"
       answer: "(INGENS/MAGNUS) CERVUS"
     boni:
       - question: "Quantum cibī <latin>datum est rēgī?</latin>"
@@ -89,7 +89,7 @@ questions:
     boni:
       - question: "“<latin>modo currunt, modo circumspectant</latin>.”"
         answer: "NOW THEY ARE RUNNING, NOW THEY ARE LOOKING AROUND"
-      - question: "“<latin>quā</latin> <latin>marēs quā</latin> <latin>fēminae</latin>”"
+      - question: "“<latin>quā marēs quā fēminae</latin>”"
         answer: "BOTH MEN AND WOMEN"
   - tossup:
       question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“quantās aciēs strāgemque ciēbunt!”</latin>?"
@@ -97,13 +97,13 @@ questions:
     boni:
       - question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“quōs inter medius vēnit furor.”</latin>?"
         answer: "ANASTROPHE / PERSONIFICATION"
-      - question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“post mihi nōn similī</latin> <latin>poenā</latin> <latin>commissa luētis.”</latin>?"
+      - question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“post mihi nōn similī poenā commissa luētis.”</latin>?"
         answer: "LITOTES"
   - tossup:
-      question: "What use of the ablative case is found in the following Latin sentence: <latin>Gnaeō</latin> <latin>Pompeiō</latin> <latin>Marcō</latin> <latin>Crassō</latin> <latin>cōnsulibus, Caesar in Galliā</latin> <latin>pugnābat</latin>"
+      question: "What use of the ablative case is found in the following Latin sentence: <latin>Gnaeō Pompeiō Marcō Crassō cōnsulibus, Caesar in Galliā pugnābat</latin>"
       answer: "ABLATIVE ABSOLUTE"
     boni:
-      - question: "<latin>Nūllā</latin> <latin>laude dignus est puer improbus</latin>"
+      - question: "<latin>Nūllā laude dignus est puer improbus</latin>"
         answer: "RESPECT / SPECIFICATION"
       - question: "<latin>Senex fāme moriēbātur</latin>"
         answer: "CAUSE"
@@ -136,7 +136,7 @@ questions:
       answer: "<latin>BO(V)UM VETERUM</latin>"
     boni:
       - question: "Change the phrase <latin>animal pauper</latin> to the ablative singular"
-        answer: "<latin>ANIMĀLĪ</latin> <latin>PAUPERE</latin>"
+        answer: "<latin>ANIMĀLĪ PAUPERE</latin>"
       - question: "Change the phrase <latin>uterque obses</latin> to genitive singular"
         answer: "<latin>UTRĪUSQUE OBSIDIS</latin>"
   - tossup:

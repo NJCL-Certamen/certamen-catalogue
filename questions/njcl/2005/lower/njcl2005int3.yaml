@@ -34,14 +34,14 @@ questions:
       - question: "Change <latin>pingerentur</latin> to the present tense."
         answer: "<latin>PINGANTUR</latin> "
       - question: "Change <latin>pingantur</latin> to the perfect tense."
-        answer: "<latin>PICTĪ</latin> <latin>/ -AE / -A SINT</latin> "
+        answer: "<latin>PICTĪ / -AE / -A SINT</latin> "
   - tossup:
       question: "Translate the following sentence into English: <latin>Quid accidit Rōmae, manet Rōmae.</latin>"
       answer: "WHAT HAPPENS / HAPPENED IN ROME STAYS IN ROME"
     boni:
-      - question: "<latin>Virī</latin> <latin>multam pecūniam obtinēre volunt, mulierēs amōrem</latin>."
+      - question: "<latin>Virī multam pecūniam obtinēre volunt, mulierēs amōrem</latin>."
         answer: "MEN WANT TO GET A LOT OF MONEY. WOMEN (WANT TO WIN) LOVE"
-      - question: "<latin>Cūr virī</latin> <latin>plūs pecūniae volunt? Quod mulierēs haud vīlēs sunt</latin>."
+      - question: "<latin>Cūr virī plūs pecūniae volunt? Quod mulierēs haud vīlēs sunt</latin>."
         answer: "WHY DO MEN WANT MORE MONEY? BECAUSE WIVES / WOMEN ARE HARDLY / NOT CHEAP"
   - tossup:
       question: "Differentiate in meaning between the nouns <latin>cāseus</latin> and <latin>cāsus</latin>."
@@ -76,12 +76,12 @@ questions:
       - question: "To what island did Orpheus’ head, still singing, float?"
         answer: "LESBOS"
   - tossup:
-      question: "When recognized by the spotter, follow this Latin instruction: <latin>Dīc mihi Anglicē</latin> <latin>ubi sit triclīnium.</latin> "
+      question: "When recognized by the spotter, follow this Latin instruction: <latin>Dīc mihi Anglicē ubi sit triclīnium.</latin> "
       answer: "STUDENT SHOULD SAY IN ENGLISH WHERE THE DINING ROOM/HALL IS"
     boni:
       - question: "<latin>Ostendite mihi, quaesō, vestrās linguās</latin>."
         answer: "MORE THAN ONE STUDENT SHOULD SHOW THEIR TONGUES"
-      - question: "<latin>Dīc mihi Anglicē</latin> <latin>quid heri cēnāverīs</latin> "
+      - question: "<latin>Dīc mihi Anglicē quid heri cēnāverīs</latin> "
         answer: "ONE STUDENT SHOULD SAY WHAT HE ATE FOR DINNER YESTERDAY (Any reasonable answer should be taken, but use good judgement)"
   - tossup:
       question: "What building in the Forum Romanum, near the house of the Vestals, was the headquarters of the Pontifex Maximus and was the legendary home of Numa Pompilius?"
@@ -130,7 +130,7 @@ questions:
       - question: "Quintus, do you believe that the Gauls will fight bravely?"
         answer: "<latin>QUĪNTE, CRĒDISNE GALLŌS FORTITER PŪGNĀTŪRŌS ESSE</latin> "
       - question: "We fear that the Gauls are entering the city."
-        answer: "<latin>TIMĒMUS / VERĒMUR NĒ</latin> <latin>GALLĪ</latin> <latin>(IN) URBEM INTRENT / INGREDIANTUR</latin>"
+        answer: "<latin>TIMĒMUS / VERĒMUR NĒ GALLĪ (IN) URBEM INTRENT / INGREDIANTUR</latin>"
   - tossup:
       question: "What letter signifies the singular of the locative case for a second declension noun?"
       answer: "Ī"
@@ -149,14 +149,14 @@ questions:
         answer: "VESPASIAN"
   - tossup:
       question: "Translate into Latin: A woman of great wisdom."
-      answer: "<latin>MULIER / FĒMINA MAGNAE SAPIENTIAE / MAGNĀ</latin> <latin>SAPIENTIĀ</latin>"
+      answer: "<latin>MULIER / FĒMINA MAGNAE SAPIENTIAE / MAGNĀ SAPIENTIĀ</latin>"
     boni:
       - question: "What use of the genitive case is found in this sentence: <latin>Aliquot nostrōrum spem omnem āmīsimus.</latin>"
         answer: "PARTITIVE / OF THE WHOLE"
       - question: "Which of the following, if any, is NOT a use of the Genitive case: with verbs of remembering and forgetting, objective, charge & penalty, specification ."
         answer: "SPECIFICATION"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Nox erat frīgida cum gladiātor, nōmine Pugnāx, vetus et fessus, prope ignem recumbēbat. Vehementer salūtābātur ā</latin> <latin>lanistā</latin> <latin>suō</latin> <latin>quī</latin> <latin>gladiātōrī</latin> <latin>ait, “Āvē, Pugnāx!” et lignum eī</latin> <latin>trādidit. Gladiātor gaudēns, multīs lacrimīs fūsīs, exclāmāvit, “Euge! Tandem līberor!” Contrā</latin> <latin>lanista dīxit, “Caudex! Tē</latin> <latin>lībertum nōn faciō! Pōne istum lignum in flāmmīs! Tempestās est frīgida!”</latin>  Question: What was Pugnax the gladiator doing when his trainer saluted him?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Nox erat frīgida cum gladiātor, nōmine Pugnāx, vetus et fessus, prope ignem recumbēbat. Vehementer salūtābātur ā lanistā suō quī gladiātōrī ait, “Āvē, Pugnāx!” et lignum eī trādidit. Gladiātor gaudēns, multīs lacrimīs fūsīs, exclāmāvit, “Euge! Tandem līberor!” Contrā lanista dīxit, “Caudex! Tē lībertum nōn faciō! Pōne istum lignum in flāmmīs! Tempestās est frīgida!”</latin>  Question: What was Pugnax the gladiator doing when his trainer saluted him?"
       answer: "HE WAS SITTING / RECLINING BY THE FIRE"
     boni:
       - question: "Why was the gladiator happy?"

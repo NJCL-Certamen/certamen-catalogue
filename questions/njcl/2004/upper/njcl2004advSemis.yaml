@@ -68,10 +68,10 @@ questions:
       - question: "According to some sources, Polydora was married to what unfortunate Greek chieftain who died during the first skirmish between the Trojans and the Greeks?"
         answer: "PROTESILAUS"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Nē</latin> <latin>dē</latin> <latin>fugiendō</latin> <latin>loquāmur</latin>"
+      question: "Translate the following sentence into English: <latin>Nē dē fugiendō loquāmur</latin>"
       answer: "LET’S NOT TALK ABOUT FLEEING"
     boni:
-      - question: "Translate the following sentence into English: <latin>Dux signum dedit flūminis sine morā</latin> <latin>trānseund</latin><latin>ī.</latin>"
+      - question: "Translate the following sentence into English: <latin>Dux signum dedit flūminis sine morā trānseund</latin><latin>ī.</latin>"
         answer: "THE LEADER GAVE THE SIGNAL FOR CROSSING / TO CROSS /THE RIVER WITHOUT DELAY"
       - question: "Translate the following sentence into English: <latin>Vōbīs diūtius nōn est cunctandum</latin>"
         answer: "YOU MUST NOT DELAY / HESITATE FOR A RATHER LONG TIME / ANY LONGER / TOO LONG"
@@ -86,8 +86,8 @@ questions:
       answer: "<latin>FIERĒMUS</latin>"
     boni:
       - question: "Change <latin>fierēmus</latin> to perfect tense, keeping all else the same"
-        answer: "<latin>FACTĪ</latin> <latin>SĪMUS</latin>"
-      - question: "Now change <latin>factī</latin> <latin>sīmus</latin> to the present tense"
+        answer: "<latin>FACTĪ SĪMUS</latin>"
+      - question: "Now change <latin>factī sīmus</latin> to the present tense"
         answer: "<latin>FIĀMUS</latin>"
   - tossup:
       question: "<title><latin>Equos Trōiānus, Gladíolus, Odyssēa</latin></title> and <title><latin>Achillēs</latin></title> were all works written by what school teacher?"
@@ -98,10 +98,10 @@ questions:
       - question: "What word, the ancient name of an Italic water divinity, did Andronicus use in his <title><latin>Odyssēa</latin></title> to render Homer’s “Muse”?"
         answer: "<latin>CAMENA</latin>"
   - tossup:
-      question: "<latin>Respondē</latin> <latin>Latīnē: Quid dīcerēs dē</latin> <latin>tempestāte sī</latin> <latin>aqua dē</latin> <latin>caelō</latin> <latin>dēcideret?</latin>"
+      question: "<latin>Respondē Latīnē: Quid dīcerēs dē tempestāte sī aqua dē caelō dēcideret?</latin>"
       answer: "PLUIT / DĪCEREM “PLUIT” / DĪCEREM PLUERE"
     boni:
-      - question: "<latin>Quid dīcerēs dē</latin> <latin>tempestāte sī</latin> <latin>aqua gelāta dē</latin> <latin>caelō</latin> <latin>dēcideret?</latin>"
+      - question: "<latin>Quid dīcerēs dē tempestāte sī aqua gelāta dē caelō dēcideret?</latin>"
         answer: "<latin>NINGIT / DĪCEREM “NINGIT” / DĪCEREM NINGERE</latin> or <latin>GRANDINAT / DĪCEREM “GRANDINAT” / DĪCEREM GRANDINĀRE</latin>"
       - question: "<latin>Quid dīcerēs dē tempestāte sī nullī nimbī essent in caelō et lux esset undique?</latin>"
         answer: "(SOL) LŪCET / DĪCEREM “(SOL) LŪCET / DĪCEREM SŌLEM LŪCĒRE CALIDUM EST / CALIDUM ESSE DĪCEREM"
@@ -114,7 +114,7 @@ questions:
       - question: "Of what material were the legs of a <latin>sella curūlis</latin> made?"
         answer: "IVORY / GOLD"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Mortuō</latin> <latin>Rōmulō, Nūma Pompilius rex creātus est. Cum nūllum bellum gesserit, tamen nōn minus cīvitātis prōfuit quam Rōmulus. Instituit et lēges et mōrēs Rōmānīs, quī</latin> <latin>iam latrōnēs ac barbarī</latin> <latin>putābantur. Annum sīc dīvīsit in decem mēnsēs quō</latin> <latin>facilius intellegī</latin> <latin>posset. Īnfīnīta templa Rōmae aedificāvit ad fidem deīs crēscendam.</latin>  How did others perceive the Romans before Numa’s reign?"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Mortuō Rōmulō, Nūma Pompilius rex creātus est. Cum nūllum bellum gesserit, tamen nōn minus cīvitātis prōfuit quam Rōmulus. Instituit et lēges et mōrēs Rōmānīs, quī iam latrōnēs ac barbarī putābantur. Annum sīc dīvīsit in decem mēnsēs quō facilius intellegī posset. Īnfīnīta templa Rōmae aedificāvit ad fidem deīs crēscendam.</latin>  How did others perceive the Romans before Numa’s reign?"
       answer: "AS <emphasis>ROBBERS</emphasis> AND <emphasis>SAVAGES / BARBARIANS</emphasis>"
     boni:
       - question: "Why did Numa divide the year into ten months?"
@@ -130,13 +130,13 @@ questions:
       - question: "Knowing that he would die on this expedition, whom did Amphiaraus force to make to promise of avenging his death on the Thebans and on Eriphyle?"
         answer: "(HIS SONS) ALCM(A)EON & AMPHILOCHUS"
   - tossup:
-      question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“Hoc illud, germāna, fuit? Mē</latin> <latin>fraude petēbās?</latin>  <latin>Hoc rogus iste mihi, hoc ignēs āraeque parābant?”</latin>"
+      question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“Hoc illud, germāna, fuit? Mē fraude petēbās?</latin>  <latin>Hoc rogus iste mihi, hoc ignēs āraeque parābant?”</latin>"
       answer: "ANNA"
     boni:
-      - question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“... iuvenēs, mōnstrāte, meārum</latin>  <latin>vīdistis sī</latin> <latin>quam hīc errantem forte sorōrum</latin>  <latin>succīnctam pharetrā</latin> <latin>et maculōsae tēgmine lyncis.”</latin>"
+      - question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“... iuvenēs, mōnstrāte, meārum</latin>  <latin>vīdistis sī quam hīc errantem forte sorōrum</latin>  <latin>succīnctam pharetrā et maculōsae tēgmine lyncis.”</latin>"
         answer: "VENUS"
-      - question: "About whom does Aeneas speak the following line, which I shall read as prose: <latin>“Ō</latin> <latin>fortūnātī, quōrum iam moenia surgunt!”</latin>"
-        answer: "CARTHAGINIANS / <latin>POĒNĪ</latin> <latin>/</latin> PHOENICIANS"
+      - question: "About whom does Aeneas speak the following line, which I shall read as prose: <latin>“Ō fortūnātī, quōrum iam moenia surgunt!”</latin>"
+        answer: "CARTHAGINIANS / <latin>POĒNĪ /</latin> PHOENICIANS"
   - tossup:
       question: "Which Roman general was “defeated” in a manner of speaking by an “army” of 2000 oxen in 217 B.C.?"
       answer: "(Q.) FABIUS MAXIMUS (CUNCTATOR)"

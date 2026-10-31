@@ -4,10 +4,10 @@ division: "Intermediate"
 round: "Finals"
 questions:
   - tossup:
-      question: "What use of the dative case is illustrated in the following Latin sentence: <latin>Pompēius numquam auxiliō</latin> <latin>fuit</latin>"
+      question: "What use of the dative case is illustrated in the following Latin sentence: <latin>Pompēius numquam auxiliō fuit</latin>"
       answer: "PURPOSE"
     boni:
-      - question: "<latin>Pompeiō</latin> <latin>in animō</latin> <latin>est urbem relinquere</latin>"
+      - question: "<latin>Pompeiō in animō est urbem relinquere</latin>"
         answer: "REFERENCE"
       - question: "Using the verb <latin>prōsum</latin>, say in Latin, “Running is good for everyone.”"
         answer: "<latin>CURRERE OMNIBUS PRŌDEST</latin>"
@@ -56,9 +56,9 @@ questions:
       answer: "<latin>AGRICOLĪS LABŌRANDUM EST</latin>"
     boni:
       - question: "Again, using a participle, say in Latin: The farmers were about to plow the fields"
-        answer: "<latin>AGRICOLAE AGRŌS ARĀTŪRĪ</latin> <latin>ERANT</latin>"
+        answer: "<latin>AGRICOLAE AGRŌS ARĀTŪRĪ ERANT</latin>"
       - question: "Using a supine, say in Latin: The story about the farmers is wonderful to hear"
-        answer: "<latin>FABULA DĒ</latin> <latin>AGRICOLĪS MIRĀBILIS EST AUDĪTŪ</latin>"
+        answer: "<latin>FABULA DĒ AGRICOLĪS MIRĀBILIS EST AUDĪTŪ</latin>"
   - tossup:
       question: "What Roman emperor founded the games called <latin>Iuvenālia</latin> in honor of his own young age at the time of his ascension?"
       answer: "NERO (CLAUDIUS CAESAR)"
@@ -68,20 +68,20 @@ questions:
       - question: "How many of Nero’s wives did Nero not kill or have killed?"
         answer: "ONE"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Scīvimus nōs quam dīligentissimē</latin> <latin>labōrāvisse</latin>"
+      question: "Translate the following sentence into English: <latin>Scīvimus nōs quam dīligentissimē labōrāvisse</latin>"
       answer: "WE KNEW (THAT) WE HAD WORKED AS HARD / DILIGENTLY <emphasis>AS POSSIBLE</emphasis>"
     boni:
-      - question: ". . . <latin>Certus sum tē, quī</latin> <latin>prūdentissimus sīs, hoc respondēre posse</latin>"
+      - question: ". . . <latin>Certus sum tē, quī prūdentissimus sīs, hoc respondēre posse</latin>"
         answer: "I AM SURE THAT YOU, WHO ARE VERY SMART, CAN ANSWER THIS."
-      - question: "<latin>Maximē</latin> <latin>spērāmus nōs hōc certāmine victūrōs esse</latin>"
+      - question: "<latin>Maximē spērāmus nōs hōc certāmine victūrōs esse</latin>"
         answer: "WE VERY MUCH/GREATLY HOPE (THAT) WE WILL WIN (IN) THIS CERTAMEN / CONTEST"
   - tossup:
-      question: "Listen to the following four Latin statements, one of which I will perform. When you are recognized by the spotter, repeat exactly the statement which describes my actions: <latin>Spectō</latin> <latin>horologium</latin>. <latin>Tegō</latin> <latin>aurēs</latin>. <latin>Clāmō</latin> <latin>vehementer</latin>. <latin>Vehor in equō</latin>. (The moderator shouts to the audience.)"
-      answer: "<latin>CLĀMŌ</latin> <latin>VEHEMENTER</latin>"
+      question: "Listen to the following four Latin statements, one of which I will perform. When you are recognized by the spotter, repeat exactly the statement which describes my actions: <latin>Spectō horologium. Tegō aurēs. Clāmō vehementer. Vehor in equō</latin>. (The moderator shouts to the audience.)"
+      answer: "<latin>CLĀMŌ VEHEMENTER</latin>"
     boni:
-      - question: "Perform the following command: <latin>Sinistrā</latin> <latin>manū</latin> <latin>sublātā, da oscula spectātōribus ut actor gloriōsus</latin>"
+      - question: "Perform the following command: <latin>Sinistrā manū sublātā, da oscula spectātōribus ut actor gloriōsus</latin>"
         answer: "ONE STUDENT SHOULD FIRST RAISE HIS LEFT HAND AND THEN GIVE KISSES TO THE AUDIENCE LIKE A BOASTFUL ACTOR"
-      - question: "<latin>Surgite et hortāminī</latin> <latin>spectātōrēs ut plaudant.</latin>"
+      - question: "<latin>Surgite et hortāminī spectātōrēs ut plaudant.</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD ENCOURAGE THE AUDIENCE TO APPLAUD"
   - tossup:
       question: "Name the wild pig which ravaged the Isthmus of Corinth until it was killed by Theseus"
@@ -93,14 +93,14 @@ questions:
         answer: "TYPHON AND ECHIDNA"
   - tossup:
       question: "Give a one-word synonym for <latin>properō</latin>"
-      answer: "<latin>MĀTŪRŌ</latin> <latin>/ ACCELERŌ</latin> <latin>/ FESTĪNŌ/ PRAECIPITŌ</latin> <latin>/ INCITŌ</latin> <latin>/ CONTENDŌ</latin> <latin>/ CURRŌ</latin> <latin>/ AGŌ</latin> <latin>/ RUŌ</latin> <latin>/ RAPIŌ</latin>"
+      answer: "<latin>MĀTŪRŌ / ACCELERŌ / FESTĪNŌ/ PRAECIPITŌ / INCITŌ / CONTENDŌ / CURRŌ / AGŌ / RUŌ / RAPIŌ</latin>"
     boni:
       - question: "Give a one-word synonym for the verb <latin>secō</latin>"
         answer: "<latin>CAEDŌ / SCINDŌ / INTER-(IN-/SUC-/-OC) CĪDŌ / INTERFICIŌ / NECŌ</latin>"
       - question: "Give a one-word synonym for the adjective <latin>vērus</latin>."
         answer: "<latin>SINCĒRUS / VĒRAX / RECTUS / GENUĪNUS / FĪDUS / SOLIDUS / CERTUS / HONESTUS / GERMĀNUS / GENUĪNUS / AUTHENTICUS / DECŌRUS / APERTUS</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Gnaeus Iūlius Agricola prōvinciae praefectus est. Quamquam reī</latin> <latin>mīlitāris perītus erat, artibus pācis magis quam bellī</latin> <latin>Britanniam regere voluit. Itaque per eās partēs insulae quae iam erant pācātae instituit artēs, linguam et mōrēs Rōmānōrum.</latin>  How did Agricola prefer to govern his province?"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Gnaeus Iūlius Agricola prōvinciae praefectus est. Quamquam reī mīlitāris perītus erat, artibus pācis magis quam bellī Britanniam regere voluit. Itaque per eās partēs insulae quae iam erant pācātae instituit artēs, linguam et mōrēs Rōmānōrum.</latin>  How did Agricola prefer to govern his province?"
       answer: "WITH THE ARTS OF PEACE/ PEACEFULLY"
     boni:
       - question: "Where did Agricola concentrate his efforts?"
@@ -149,11 +149,11 @@ questions:
         answer: "POLYPOETES"
   - tossup:
       question: "Give the genitive singular for the phrase “broken knee”"
-      answer: "<latin>FRĀCTĪ</latin> <latin>GENŪS</latin>"
+      answer: "<latin>FRĀCTĪ GENŪS</latin>"
     boni:
-      - question: "Change <latin>frāctī</latin> <latin>genūs</latin> to the dative"
-        answer: "<latin>FRĀCTŌ</latin> <latin>GENŪ</latin>"
-      - question: "Change <latin>frāctō</latin> <latin>genū</latin> to the genitive plural"
+      - question: "Change <latin>frāctī genūs</latin> to the dative"
+        answer: "<latin>FRĀCTŌ GENŪ</latin>"
+      - question: "Change <latin>frāctō genū</latin> to the genitive plural"
         answer: "<latin>FRĀCTŌRUM GENUUM</latin>"
   - tossup:
       question: "By granting protection to what city in 343 BC did the Romans precipitate the First Samnite War?"

@@ -24,7 +24,7 @@ questions:
       answer: "<latin>(EX) OLĪVĪS</latin>"
     boni:
       - question: "<latin>Respondē aut Latīnē aut Anglīcē:  Quāle vīnum in Italiā antīquā optimum et pretiōsissimum habēbātur?</latin>"
-        answer: "<latin>(VĪNUM) FALERNUM /</latin> FALERNIAN WINE OR <latin>(VĪNUM)</latin> <latin>CAECUBUM</latin> / CAECUBAN WINE"
+        answer: "<latin>(VĪNUM) FALERNUM /</latin> FALERNIAN WINE OR <latin>(VĪNUM) CAECUBUM</latin> / CAECUBAN WINE"
       - question: "<latin>Respondē Latīnē: Quid nōminātur tempus dormiendī post prandium?</latin>"
         answer: "<latin>MERĪDIĀTIŌ</latin>"
   - tossup:
@@ -108,7 +108,7 @@ questions:
       - question: "Finally, please identify the letter corresponding to the law which would not directly answer any of the questions on the left."
         answer: "B"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow. HEADS UP: this is NOT the same <latin>bōs</latin> as in Round 3. \t<latin>Sabīnusque ut prīma apta diēs sacrificiō vīsa est, bovem Rōmam actam dēdūcit ad fānum Diānae et ante āram statuit.</latin> <latin>Ibi sacerdos Rōmāna, cum eam magnitūdō victimae celebrātā fāmā bovis mōvisset, fāta est.</latin> REREAD  The question:  <latin>Quandō</latin> <latin>Sabīnus bovem Rōmam</latin> <latin>dēdūcit?</latin>"
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow. HEADS UP: this is NOT the same <latin>bōs</latin> as in Round 3. \t<latin>Sabīnusque ut prīma apta diēs sacrificiō vīsa est, bovem Rōmam actam dēdūcit ad fānum Diānae et ante āram statuit.</latin> <latin>Ibi sacerdos Rōmāna, cum eam magnitūdō victimae celebrātā fāmā bovis mōvisset, fāta est.</latin> REREAD  The question:  <latin>Quandō Sabīnus bovem Rōmam dēdūcit?</latin>"
       answer: "<latin>(PRĪMĀ/PRĪMŌ) DIĒ APTĀ/APTŌ (SACRIFICIŌ)</latin>     <latin>CUM (PRĪMA) DIĒS APTA SACRIFICIŌ VIDĒRET/</latin>      <latin>UBI (PRĪMA) DIĒS APTA SACRIFICIŌ VĪSA EST/</latin> \t\t<latin>UT (PRĪMA) DIĒS APTA SACRIFICIŌ VISA EST</latin>  \t\t(*<emphasis><latin>PROMPT</latin></emphasis><latin>*</latin> ON <latin>PRĪMĀ DIĒ)</latin>"
     boni:
       - question: "<latin>Quōmodo sacerdos Rōmāna mōta est?</latin>"

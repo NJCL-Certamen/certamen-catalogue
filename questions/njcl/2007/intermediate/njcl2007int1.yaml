@@ -4,12 +4,12 @@ division: "Intermediate"
 round: "Round 1"
 questions:
   - tossup:
-      question: "Supply the correct form of <latin>exercitus</latin> to complete the following sentence: <latin>imperātor mīsit mīlitēs auxiliō</latin> <latin>_____</latin>"
+      question: "Supply the correct form of <latin>exercitus</latin> to complete the following sentence: <latin>imperātor mīsit mīlitēs auxiliō _____</latin>"
       answer: "EXERCITUĪ"
     boni:
-      - question: "<latin>imperātor _____ ūtī</latin> <latin>nōlēbat</latin>"
+      - question: "<latin>imperātor _____ ūtī nōlēbat</latin>"
         answer: "EXERCITŪ <latin>/ EXERCITIBUS</latin>"
-      - question: "<latin>hostēs diū</latin> <latin>_____ imperātōris resistēbant</latin>"
+      - question: "<latin>hostēs diū _____ imperātōris resistēbant</latin>"
         answer: "EXERCITUĪ <latin>/ EXERCITIBUS</latin>"
   - tossup:
       question: "What infant was protected by the war dance of the Curetes?"
@@ -36,12 +36,12 @@ questions:
       - question: "What <latin>Camena</latin> was said to have visited Numa Pompilius in a grove near Rome and to have honored him with her love?"
         answer: "EGERIA"
   - tossup:
-      question: "What use of the subjunctive can be found in the following sentence: <latin>imperātor rogat mē</latin> <latin>ut discēdam?</latin>"
+      question: "What use of the subjunctive can be found in the following sentence: <latin>imperātor rogat mē ut discēdam?</latin>"
       answer: "INDIRECT COMMAND / SUBSTANTIVE (NOUN) CLAUSE OF PURPOSE / JUSSIVE NOUN CLAUSE /"
     boni:
-      - question: "<latin>Imperātor mē</latin> <latin>rogat cūr nōn discesserim?</latin>"
+      - question: "<latin>Imperātor mē rogat cūr nōn discesserim?</latin>"
         answer: "INDIRECT QUESTION"
-      - question: "<latin>Imperātor tam īrātus est ut mē</latin> <latin>discēdere velit?</latin>"
+      - question: "<latin>Imperātor tam īrātus est ut mē discēdere velit?</latin>"
         answer: "RESULT CLAUSE"
   - tossup:
       question: "Of <latin>voveō, volvō, vocō</latin>, and <latin>volō</latin>, from which do we derive the English verb “vouch”?"
@@ -68,12 +68,12 @@ questions:
       - question: "How did Pelias recognize Jason as the “instrument” of his demise?"
         answer: "HE APPEARED WEARING ONLY ONE SANDAL / SHOE"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Nautae missī</latin> <latin>sunt quī</latin> <latin>īnsulam āmissam quaererent</latin>"
+      question: "Translate the following sentence into English: <latin>Nautae missī sunt quī īnsulam āmissam quaererent</latin>"
       answer: "THE SAILORS WERE SENT TO SEARCH FOR A LOST ISLAND"
     boni:
       - question: "<latin>Nautae nesciēbant chartam āmissam esse.</latin>"
         answer: "THE SAILORS DIDN’T KNOW THAT THE MAP HAD BEEN / WAS LOST"
-      - question: "<latin>Incolae tam attonitī</latin> <latin>adventū</latin> <latin>nautārum fuērunt ut ad mediam silvam sē</latin> <latin>reciperent.</latin>"
+      - question: "<latin>Incolae tam attonitī adventū nautārum fuērunt ut ad mediam silvam sē reciperent.</latin>"
         answer: "THE INHABITANTS WERE SO SURPRISED BY THE ARRIVAL OF THE SAILORS THAT THEY RETREATED INTO THE MIDDLE OF THE FOREST"
   - tossup:
       question: "What race destroyed all but one of Odysseus’ ships?"
@@ -92,12 +92,12 @@ questions:
       - question: "Identify the person labeled “A”"
         answer: "BRITANNICUS"
   - tossup:
-      question: "Listen to the following passage about a man named Tiro, which I will read twice, and answer IN LATIN the question that follows: <latin>Tīrō, lībertus Cicerōnis, fuit homō</latin> <latin>ingeniō</latin> <latin>ēlegāntī</latin> <latin>sed rērum litterārumque veterum indoctus. Cicerō</latin> <latin>līberāliter hōc homine īnstitūtō</latin> <latin>adiūtōre et quasi administrō</latin> <latin>in studiīs litterārum ūsus est.</latin>  Question: <latin>Cuius servus fuerat hic homō</latin> <latin>nōmine Tīrō?</latin>"
+      question: "Listen to the following passage about a man named Tiro, which I will read twice, and answer IN LATIN the question that follows: <latin>Tīrō, lībertus Cicerōnis, fuit homō ingeniō ēlegāntī sed rērum litterārumque veterum indoctus. Cicerō līberāliter hōc homine īnstitūtō adiūtōre et quasi administrō in studiīs litterārum ūsus est.</latin>  Question: <latin>Cuius servus fuerat hic homō nōmine Tīrō?</latin>"
       answer: "CICERŌNIS"
     boni:
       - question: "<latin>Quāle fuit ingenium Tīrōnis?</latin>"
         answer: "ĒLEGĀNS"
-      - question: "<latin>Quis fuit adiūtor Cicerōnī</latin> <latin>in studiīs litterārūm?</latin>"
+      - question: "<latin>Quis fuit adiūtor Cicerōnī in studiīs litterārūm?</latin>"
         answer: "TIRŌ (If student says “<latin>hic homō</latin>”, ask him to be more specific)"
   - tossup:
       question: "‘<latin>Lapsus linguae</latin>’ is a slip of the tongue. What then is a ‘<latin>lapsus calamī</latin>’?"
@@ -108,12 +108,12 @@ questions:
       - question: "Give the principal parts of the Latin verb from which ‘<latin>lapsus’</latin> is derived?"
         answer: "<latin>LABOR, LABĪ, LAPSUS (SUM)</latin>"
   - tossup:
-      question: "<latin>Respondē</latin> <latin>Latīnē: Quot manūs duōbus hominibus sunt?</latin>"
+      question: "<latin>Respondē Latīnē: Quot manūs duōbus hominibus sunt?</latin>"
       answer: "QUATTUOR"
     boni:
       - question: "<latin>Quot pedēs decem equīs sunt?</latin>"
         answer: "QUADRĀGINTĀ"
-      - question: "<latin>Quot capita canī</latin> <latin>Plūtōnis sunt?</latin>"
+      - question: "<latin>Quot capita canī Plūtōnis sunt?</latin>"
         answer: "TRIA"
   - tossup:
       question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>cōnstituit</latin> : _____ ?"
@@ -144,7 +144,7 @@ questions:
       answer: "<latin>PUTĀS(NE) / PUTĀTIS(NE) LEŌNĒS FERŌCIŌRĒS / SAEVIŌRĒS / FERIŌRĒS / ĀTRŌCIŌRĒS QUAM CANĒS / CANIBUS ESSE</latin>"
     boni:
       - question: "I believe that dogs are smaller than lions"
-        answer: "<latin>CRĒDŌ</latin> <latin>CANĒS MINŌRĒS LEŌNIBUS / QUAM LEŌNĒS ESSE</latin>"
+        answer: "<latin>CRĒDŌ CANĒS MINŌRĒS LEŌNIBUS / QUAM LEŌNĒS ESSE</latin>"
       - question: "What mood would be used to translate “cannot” into Latin for the following sentence? “The dog fears that he cannot defeat the lion.”"
         answer: "SUBJUNCTIVE"
   - tossup:

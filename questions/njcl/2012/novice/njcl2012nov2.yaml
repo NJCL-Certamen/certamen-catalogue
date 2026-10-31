@@ -16,9 +16,9 @@ questions:
       answer: "<latin>AGRICOLA</latin> "
     boni:
       - question: "<latin>Quae Mārcum amant</latin>?"
-        answer: "<latin>IŪLIA ET CLAUDIA</latin> / <latin>IŪLIA CLAUDIAQUE</latin> "
+        answer: "<latin>IŪLIA ET CLAUDIA / IŪLIA CLAUDIAQUE</latin> "
       - question: "<latin>Quot rēs Mārcus emere iubēbātur</latin>?"
-        answer: "<latin>OCTŌ (PĀNEM ET SEPTEM ŌVA)</latin> / <latin>DUĀS</latin> <latin>(PĀNEM ET ŌVA)</latin> / <latin>DUO</latin>"
+        answer: "<latin>OCTŌ (PĀNEM ET SEPTEM ŌVA) / DUĀS (PĀNEM ET ŌVA) / DUO</latin>"
   - tossup:
       question: "Translate this sentence: <latin>Multī in forō Cicerōnem audiēbant</latin>"
       answer: "MANY (MEN / PEOPLE) WERE LISTENING / USED TO LISTEN / LISTENED TO CICERO IN THE FORUM"

@@ -15,9 +15,9 @@ questions:
       question: "Translate the following sentence into English: <latin>Lūcius spērat fore ut dīvitiīs abundet</latin>."
       answer: "LUCIUS HOPES THAT HE WILL ABOUND IN RICHES"
     boni:
-      - question: "<latin>Tam procul ab urbe habitābat ut eum nē</latin> <latin>māter quidem vīsitāret</latin> "
+      - question: "<latin>Tam procul ab urbe habitābat ut eum nē māter quidem vīsitāret</latin> "
         answer: "HE LIVED / WAS LIVING SO FAR FROM THE CITY THAT NOT EVEN HIS MOTHER VISITED HIM / COULD VISIT HIM / WOULD VISIT HIM"
-      - question: "<latin>Hī</latin> <latin>rūsticī</latin> <latin>erant dīvitēs et pecore et pecūniā</latin>."
+      - question: "<latin>Hī rūsticī erant dīvitēs et pecore et pecūniā</latin>."
         answer: "THESE COUNTRY FOLKS WERE RICH BOTH IN LIVESTOCK AND IN MONEY"
   - tossup:
       question: "Into what was Leucothoe, the daughter of Orchamus, transformed?"
@@ -36,7 +36,7 @@ questions:
       - question: "Name another set."
         answer: "ROBE - ATHENA ; WAR CLUB & COAT OF MAIL - HEPHAESTUS ; HORSES - POSEIDON ; SWORD - HERMES ; BOW & ARROWS - APOLLO"
   - tossup:
-      question: "Listen carefully to the following modified excerpt from classical Latin literature, which I will read twice. Answer IN ENGLISH the question that follows: <latin>Claudius morī</latin> <latin>coepit nec invenīre exitum poterat. Tum deus Mercurius, quī</latin> <latin>semper ingeniō</latin> <latin>Claudiī</latin> <latin>dēlectātus esset, ūnam ē</latin> <latin>tribus Fātīs sēdūcit et ait: “Cūr, fēmina crūdēlissima, hunc hominem miserum torquērī</latin> <latin>pateris? Cūr huic hominī</latin> <latin>et reī</latin> <latin>pūblicae invidēs?”</latin>  Question: To whom is Mercury speaking?"
+      question: "Listen carefully to the following modified excerpt from classical Latin literature, which I will read twice. Answer IN ENGLISH the question that follows: <latin>Claudius morī coepit nec invenīre exitum poterat. Tum deus Mercurius, quī semper ingeniō Claudiī dēlectātus esset, ūnam ē tribus Fātīs sēdūcit et ait: “Cūr, fēmina crūdēlissima, hunc hominem miserum torquērī pateris? Cūr huic hominī et reī pūblicae invidēs?”</latin>  Question: To whom is Mercury speaking?"
       answer: "TO A FATE / TO ONE OF THE THREE FATES (If student answers with “a woman,” or “very cruel woman,” ask them to be more specific)"
     boni:
       - question: "What two rhetorical questions does Mercury ask the Fate?"
@@ -53,7 +53,7 @@ questions:
         answer: "GLADIOLUS / LUDIUS / VIRGUS"
   - tossup:
       question: "What ancent Roman structure once occupied the site of what is now the Piazza Navona in the Campus Martius?"
-      answer: "THE STADIUM OF DOMITIAN / <latin>STADIUM DOMITIĀNĪ</latin> <latin>/ CIRCUS AGŌNĀLIS</latin> "
+      answer: "THE STADIUM OF DOMITIAN / <latin>STADIUM DOMITIĀNĪ / CIRCUS AGŌNĀLIS</latin> "
     boni:
       - question: "What other entertainment structure did Domitian build just south of his stadium?"
         answer: "<latin>ODEUM</latin> / ODEON"
@@ -76,15 +76,15 @@ questions:
       - question: "What was the fate of the citizens who were not killed in the fighting?"
         answer: "SOLD INTO SLAVERY"
   - tossup:
-      question: "You are a doctor in ancient Rome. A patient complains, “<latin>Adiuvā</latin> <latin>mē</latin> <latin>quod nōn possum exsurgere</latin>.” What is his complaint?"
+      question: "You are a doctor in ancient Rome. A patient complains, “<latin>Adiuvā mē quod nōn possum exsurgere</latin>.” What is his complaint?"
       answer: "HE NEEDS HELP BECAUSE <emphasis>HE CAN’T GET UP / STAND UP</emphasis> "
     boni:
-      - question: "The patient explains, “<latin>Cum mea amīca et ego dē</latin> <latin>aliquā</latin> <latin>rē</latin> <latin>disputārēmus, genū</latin> <latin>meum calcitrāvit.”</latin> What happened?"
+      - question: "The patient explains, “<latin>Cum mea amīca et ego dē aliquā rē disputārēmus, genū meum calcitrāvit.”</latin> What happened?"
         answer: "HE HAD AN ARGUMENT WITH HIS GIRLFRIEND AND SHE KICKED HIM IN HIS KNEE"
-      - question: "You then tell the patient, “<latin>Melius tibi sit sī</latin> <latin>cum amantibus nōn disputēs</latin>.” What is your advice?"
+      - question: "You then tell the patient, “<latin>Melius tibi sit sī cum amantibus nōn disputēs</latin>.” What is your advice?"
         answer: "THAT IT’S BETTER NOT TO ARGUE WITH GIRLFRIENDS / YOUR GIRLFRIEND THAT IT IS BETTER FOR HIM IF HE DIDN’T ARGUE WITH HER / WITH LOVERS"
   - tossup:
-      question: "What verb mood is found in the motto of Missouri, <latin>Salūs populī</latin> <latin>suprēma lex estō</latin>?”"
+      question: "What verb mood is found in the motto of Missouri, <latin>Salūs populī suprēma lex estō</latin>?”"
       answer: "(FUTURE) IMPERATIVE"
     boni:
       - question: "Change that form of <latin>estō</latin> to the plural."
@@ -93,7 +93,7 @@ questions:
         answer: "<latin>ESTŌTE</latin> "
   - tossup:
       question: "In the Republic, what solemn purification ceremony concluded the taking of a census?"
-      answer: "<latin>LUSTRUM / LUSTRĀTIŌ</latin> <latin>/</latin> LUSTRATION"
+      answer: "<latin>LUSTRUM / LUSTRĀTIŌ /</latin> LUSTRATION"
     boni:
       - question: "In what area of Rome was the census conducted?"
         answer: "CAMPUS MARTIUS"
@@ -152,7 +152,7 @@ questions:
       answer: "<latin>CUM HOC SCĪRET, TAMEN NŪNTIŌS MĪSIT</latin> "
     boni:
       - question: "Translate the following sentence into Latin using a cum-clause: Since the soldiers have been killed, they are very sad."
-        answer: "<latin>CUM MĪLITĒS NECĀTĪ</latin> <latin>/ INTERFECTĪ</latin> <latin>SINT,</latin>   <latin>INFĒLĪCISSIMĪ</latin> <latin>/ MISERRIMĪ</latin> <latin>/ INFĒLĪCISSIMĪ</latin> <latin>SUNT</latin> "
+        answer: "<latin>CUM MĪLITĒS NECĀTĪ / INTERFECTĪ SINT,</latin>   <latin>INFĒLĪCISSIMĪ / MISERRIMĪ / INFĒLĪCISSIMĪ SUNT</latin> "
       - question: "Translate the following sentence into Latin using a cum-clause: When the army was sleeping, the camp had to be defended."
         answer: "<latin>CUM EXERCITUS DORMĪRET / DORMIĒBAT,</latin>   <latin>CASTRA DĒFENDENDA ERANT</latin> "
   - tossup:

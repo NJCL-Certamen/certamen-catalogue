@@ -7,7 +7,7 @@ questions:
       question: "Idaho, Missouri, and Michigan all have mottos that contain an imperative verb. Give the motto of the state which contains a present imperative form."
       answer: "<latin>SĪ QUAERIS P(A)ENINSULAM AMOENAM, CIRCUMSPICE</latin>"
     boni:
-      - question: "Both Idaho and Missouri have mottos that feature the future imperative <latin>estō</latin>. <latin>Estō</latin> is an imperative form of what verb?"
+      - question: "Both Idaho and Missouri have mottos that feature the future imperative <latin>estō. Estō</latin> is an imperative form of what verb?"
         answer: "<latin>SUM / ESSE</latin>"
       - question: "Idaho happens to also share a motto with St. Thomas’ College and Mount Lavinia in Sri Lanka. What is this motto and what does it mean?"
         answer: "<latin>ESTŌ PERPETUA -</latin> MAY IT / SHE LAST FOREVER"
@@ -80,7 +80,7 @@ questions:
       - question: "The people of which island rose in a sympathetic revolt due to Rome’s Ligurian wars, \trequiring Tiberius Sempronius Gracchus to occupy it with a consular army for two years?"
         answer: "SARDINIA"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Ursulus, maximē cūriōsus, lacertam vīdit et in dorsō eius saluit.</latin>  <latin>Lacerta, nesciēns quid accideret, versa est ut nōsceret.</latin>  <latin>Eō temporis momentō pater ursus guttur hostis momordit,</latin> <latin>et ferōciter pede celerī ursulum in cavernam reppulit</latin>. <title>REPEAT</title>\t  The question:  <latin>Cūr lacerta versa est?</latin>"
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Ursulus, maximē cūriōsus, lacertam vīdit et in dorsō eius saluit.</latin>  <latin>Lacerta, nesciēns quid accideret, versa est ut nōsceret.</latin>  <latin>Eō temporis momentō pater ursus guttur hostis momordit, et ferōciter pede celerī ursulum in cavernam reppulit</latin>. <title>REPEAT</title>\t  The question:  <latin>Cūr lacerta versa est?</latin>"
       answer: "<latin>UT NŌSCERET (QUID ACCIDERET) // (QUOD) URSULUS IN DORSŌ EIUS SALUIT</latin>"
     boni:
       - question: "<latin>Quandō pater ursus guttur lacertae momordit?</latin>"
@@ -149,10 +149,10 @@ questions:
         answer: "CAPANEUS"
   - tossup:
       question: "Translate the following sentence using fully alliterative Latin: “You have touched so many lands.”"
-      answer: "(<latin>TŪ</latin>) <latin>TOT / TANTĀS TERRĀS TETIGISTĪ</latin> / <latin>TETIGISTIS</latin>"
+      answer: "(<latin>TŪ</latin>) <latin>TOT / TANTĀS TERRĀS TETIGISTĪ / TETIGISTIS</latin>"
     boni:
       - question: "Translate the following sentence using fully alliterative Latin: “Why were you wary of a hundred dinners?”"
-        answer: "<latin>CŪR CENTUM CĒNĀS CAVĒBĀS</latin> / <latin>CAVĒBĀTIS</latin>"
+        answer: "<latin>CŪR CENTUM CĒNĀS CAVĒBĀS / CAVĒBĀTIS</latin>"
       - question: "Translate the following sentence using fully alliterative Latin: “Ulysses was using each of his shoulders.”"
         answer: "<latin>ŪLĪXĒS / ULYSSĒS UTRĪS(QUE) UMERĪS UTĒBATUR</latin>"
   - tossup:

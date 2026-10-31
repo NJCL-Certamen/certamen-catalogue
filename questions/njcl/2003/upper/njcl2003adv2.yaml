@@ -31,7 +31,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Caesar īvit Galliam victum</latin>"
       answer: "CAESAR WENT TO CONQUER GAUL"
     boni:
-      - question: "<latin>Vercingetorix dēcrēvit sē</latin> <latin>nōn victum īrī</latin>"
+      - question: "<latin>Vercingetorix dēcrēvit sē nōn victum īrī</latin>"
         answer: "VERCINGETORIX DECIDED / DECREED / (THAT) HE WOULD NOT BE CONQUERED"
       - question: "<latin>Nūllīs Gallīs parcendum est</latin>"
         answer: "NO GAULS MUST / SHOULD BE SPARED / HE / WE MUST / SHOULD SPARE NO GAULS"
@@ -52,12 +52,12 @@ questions:
       - question: "If you were walking in ancient Helvetia, which way would you go to get to Rome?"
         answer: "SOUTH/SOUTHEAST"
   - tossup:
-      question: "An ancient Roman uses a time machine and arrives in San Antonio. Upon arriving, he exclaims, “<latin>tam calidum hīc est ut ōvum in viā</latin> <latin>coquere possīs</latin>”. What is the Roman trying to tell you?"
+      question: "An ancient Roman uses a time machine and arrives in San Antonio. Upon arriving, he exclaims, “<latin>tam calidum hīc est ut ōvum in viā coquere possīs</latin>”. What is the Roman trying to tell you?"
       answer: "IT IS SO <emphasis>HOT</emphasis> HERE THAT YOU CAN <emphasis>COOK</emphasis> AN <emphasis>EGG</emphasis> ON THE <emphasis>STREET</emphasis>"
     boni:
-      - question: "You then progress to tell this Roman “<latin>nōn est tantī</latin> <latin>momentī. crās procella coorta erit</latin>.” What is going to happen tomorrow?"
+      - question: "You then progress to tell this Roman “<latin>nōn est tantī momentī. crās procella coorta erit</latin>.” What is going to happen tomorrow?"
         answer: "A STORM WILL ARISE"
-      - question: "The Roman then replies “<latin>ēheu! ictus fulminis et tonitrus mē</latin> <latin>terrent</latin>”. Of what is he afraid?"
+      - question: "The Roman then replies “<latin>ēheu! ictus fulminis et tonitrus mē terrent</latin>”. Of what is he afraid?"
         answer: "BOLT OF <emphasis>LIGHTNING</emphasis> AND <emphasis>THUNDER</emphasis>"
   - tossup:
       question: "What son of Uranus and Gaia was considered to be the first sun god?"
@@ -77,7 +77,7 @@ questions:
         answer: "<title><latin>XENIA</latin></title>"
   - tossup:
       question: "Give a synonym for the noun <latin>poena</latin>"
-      answer: "<latin>SUPPLICIUM / VERBERA / NOXA ANIMADVERSIŌ</latin> <latin>/ EXEMPLUM / CASTĪGĀTIŌ</latin> <latin>/VINDICTA / PŪNĪTIŌ</latin>"
+      answer: "<latin>SUPPLICIUM / VERBERA / NOXA ANIMADVERSIŌ / EXEMPLUM / CASTĪGĀTIŌ /VINDICTA / PŪNĪTIŌ</latin>"
     boni:
       - question: "... for the noun <latin>honor</latin>"
         answer: "<latin>DECUS/ DIGNITĀS/ IUSTA/ SUPRĒMA</latin>"
@@ -100,10 +100,10 @@ questions:
       - question: "Who completed Caesar’s commentary on the Gallic campaign?"
         answer: "(AULUS) HIRTIUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tum lātior per viās fit pavor. Nam mīlitēs mittuntur quī</latin> <latin>virōs līberōsque in domibus latentēs extrahant. Servī</latin> <latin>dominōs, fīliī</latin> <latin>parentēs ad necem trādunt; virōs in uxōrum gremiō</latin> <latin>iugulant. Capita mortuōrum hastīs praefīxa, in Forō</latin> <latin>ostendunt.</latin>  <latin>Ubi virī</latin> <latin>iugulantur?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tum lātior per viās fit pavor. Nam mīlitēs mittuntur quī virōs līberōsque in domibus latentēs extrahant. Servī dominōs, fīliī parentēs ad necem trādunt; virōs in uxōrum gremiō iugulant. Capita mortuōrum hastīs praefīxa, in Forō ostendunt.</latin>  <latin>Ubi virī iugulantur?</latin>"
       answer: "IN GREMIŌ <latin>UXŌRUM / UXŌRIS</latin>"
     boni:
-      - question: "Quid faciunt virī <latin>et līberī</latin> <latin>antequam extrahuntur et occīduntur?</latin>"
+      - question: "Quid faciunt virī <latin>et līberī antequam extrahuntur et occīduntur?</latin>"
         answer: "<latin>LATENT (IN DOMIBUS)</latin>"
       - question: "<latin>Quae rēs in hastīs ostentantur?</latin>"
         answer: "CAPITA (MORTUŌRUM) / MORTUĪ"
@@ -114,7 +114,7 @@ questions:
       - question: "Using an idiom, how would you say in Latin “I was about to set sail”?"
         answer: "<latin>NĀVEM SOLŪTŪRUS (-A) ERAM (FUĪ) / VĒLA DATŪRUS (-A) ERAM (FU</latin><latin>Ī)</latin>"
       - question: "Using an idiom, how would you say in Latin “We had been about to begin battle”?"
-        answer: "<latin>PROELIUM COMMISSŪRĪ</latin> <latin>(-AE) FUERĀMUS</latin>"
+        answer: "<latin>PROELIUM COMMISSŪRĪ (-AE) FUERĀMUS</latin>"
   - tossup:
       question: "What Roman emperor closed all temples and banned all forms of pagan cults in A.D. 391?"
       answer: "THEODOSIUS (I/ THE GREAT)"
@@ -132,7 +132,7 @@ questions:
       - question: "This picture is one of the reliefs from which famous structure built during the reign of Augustus?"
         answer: "ARA PACIS"
   - tossup:
-      question: "Who authored the following lines: <latin>“Daedalus intereā</latin> <latin>Crētēn longumque perōsus</latin>  <latin>exsilium tactusque locī</latin> <latin>nātālis amōre</latin>  <latin>clausus erat pelag</latin><latin>ō. ...”</latin>"
+      question: "Who authored the following lines: <latin>“Daedalus intereā Crētēn longumque perōsus</latin>  <latin>exsilium tactusque locī nātālis amōre</latin>  <latin>clausus erat pelag</latin><latin>ō. ...”</latin>"
       answer: "(P.) OVID(IUS NASO)"
     boni:
       - question: "In what larger work are these lines found?"

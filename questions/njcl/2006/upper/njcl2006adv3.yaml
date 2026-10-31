@@ -140,12 +140,12 @@ questions:
       - question: "What condition do you have if the diagnosis is <latin>angīna pectoris</latin>?"
         answer: "PAIN IN THE CHEST"
   - tossup:
-      question: "Which noun is of a different gender from the others? <latin>fax</latin>, <latin>nix</latin>, <latin>nux</latin>, <latin>dux</latin>"
+      question: "Which noun is of a different gender from the others? <latin>fax, nix, nux, dux</latin>"
       answer: "<latin>DUX</latin>"
     boni:
-      - question: "<latin>imāgō</latin>, <latin>pulmō</latin>, <latin>carō</latin>, <latin>virgō</latin> "
+      - question: "<latin>imāgō, pulmō, carō, virgō</latin> "
         answer: "<latin>PULMŌ</latin>"
-      - question: "<latin>sēmen</latin>, <latin>tībīcen</latin>, <latin>carmen</latin>, <latin>ōmen</latin>"
+      - question: "<latin>sēmen, tībīcen, carmen, ōmen</latin>"
         answer: "<latin>TĪBĪCEN</latin> "
   - tossup:
       question: "What fourth century A.D. rhetorician and grammarian wrote commentaries on Terence and Vergil?"

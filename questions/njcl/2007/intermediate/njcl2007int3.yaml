@@ -47,7 +47,7 @@ questions:
       question: "Give the Latin verb and its meaning from which we derive “precocious”?"
       answer: "<latin>COQUŌ, COQUERE</latin> - COOK"
     boni:
-      - question: "What derivative from <latin>dīligō</latin>, <latin>dīligere</latin> means “a preference”?"
+      - question: "What derivative from <latin>dīligō, dīligere</latin> means “a preference”?"
         answer: "PREDILECTION"
       - question: "What derivative of a Latin verb meaning “lead” is an English verb meaning “to bring under control”?"
         answer: "SUBDUE"
@@ -151,9 +151,9 @@ questions:
       question: "Which of the following does NOT belong because of meaning: <latin>caterva, grex, turba, multitūdō, questus?</latin>"
       answer: "QUESTUS"
     boni:
-      - question: "<latin>negō</latin>, <latin>recūsō</latin>, <latin>moror</latin>, <latin>īnfitior</latin>, <latin>abnuō</latin>?"
+      - question: "<latin>negō, recūsō, moror, īnfitior, abnuō</latin>?"
         answer: "<latin>MOROR</latin>"
-      - question: "<latin>fors</latin>, <latin>opus</latin>, <latin>pēnsum</latin>, <latin>labor</latin>, <latin>negōtium</latin>?"
+      - question: "<latin>fors, opus, pēnsum, labor, negōtium</latin>?"
         answer: "<latin>FORS</latin>"
   - tossup:
       question: "Why was the Theban king Pentheus punished by Bacchus?"

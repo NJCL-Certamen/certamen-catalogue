@@ -24,9 +24,9 @@ questions:
       answer: "DOMUS, CASA, AEDĒS, TĒCTUM (-A)"
     boni:
       - question: "Give a synonym of <latin>dēnique.</latin>"
-        answer: "<latin>TANDEM, DĒMUM, POSTRĒMUM (-Ō)</latin>, <latin>CĒTERUM</latin>, <latin>ITAQUE</latin>, <latin>DEIN(DE)</latin>"
+        answer: "<latin>TANDEM, DĒMUM, POSTRĒMUM (-Ō), CĒTERUM, ITAQUE, DEIN(DE)</latin>"
       - question: "Give a synonym of <latin>lūcēre</latin>"
-        answer: "<latin>SPLENDĒRE</latin>, <latin>FULGĒRE</latin>, <latin>NITĒRE</latin>, <latin>MICĀRE</latin>, <latin>CANDĒRE</latin>"
+        answer: "<latin>SPLENDĒRE, FULGĒRE, NITĒRE, MICĀRE, CANDĒRE</latin>"
   - tossup:
       question: "At what battle was Hasdrubal, Hannibal’s brother, defeated and killed in 207 BC?"
       answer: "METAURUS RIVER"
@@ -37,7 +37,7 @@ questions:
         answer: "HASDRUBAL’S HEAD WAS THROWN INTO HANNIBAL’S CAMP"
   - tossup:
       question: "From what Latin verb with what meaning do we derive the English adjective “sentient”?"
-      answer: "<latin>SENTIŌ</latin>, <latin>SENTĪRE</latin> - FEEL, PERCEIVE, HEAR, SEE, THINK, SENSE"
+      answer: "<latin>SENTIŌ, SENTĪRE</latin> - FEEL, PERCEIVE, HEAR, SEE, THINK, SENSE"
     boni:
       - question: "Using the same Latin root, give the English verb meaning “ to grant permission or give approval.”"
         answer: "CONSENT / ASSENT"
@@ -79,7 +79,7 @@ questions:
       question: "Translate into English: <latin>duo animālia in pictūrā</latin> <latin>sunt</latin>"
       answer: "THERE ARE TWO ANIMALS IN THE PICTURE"
     boni:
-      - question: "Using all of your knowledge, correctly identify which of the following animals is shown in picture ‘A’. Is it a <latin>leō</latin>, <latin>canis</latin>, <latin>vulpēs</latin>, <latin>agna</latin>, or <latin>lupa</latin>?"
+      - question: "Using all of your knowledge, correctly identify which of the following animals is shown in picture ‘A’. Is it a <latin>leō, canis, vulpēs, agna</latin>, or <latin>lupa</latin>?"
         answer: "<latin>LUPA</latin>"
       - question: "Look closely at pictures ‘B’ and ‘C’, which are two photos of the same sculpture. <latin>Dīc mihi Anglicē</latin> <latin>nōmen huius saevissimī</latin> <latin>mōnstrī</latin>"
         answer: "CHIMAERA"

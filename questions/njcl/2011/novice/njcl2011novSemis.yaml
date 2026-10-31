@@ -44,7 +44,7 @@ questions:
       - question: "Who drained the life-sustaining ichor from Talus' body?"
         answer: "MEDEA"
   - tossup:
-      question: "Use a form of the verb <latin>sum</latin>, <latin>esse</latin> to translate this sentence: “The king does not have a kingdom.”"
+      question: "Use a form of the verb <latin>sum, esse</latin> to translate this sentence: “The king does not have a kingdom.”"
       answer: "<latin>RĒGĪ RĒGNUM NŌN EST</latin> "
     boni:
       - question: "What case and use is “<latin>rēgī</latin>” in that sentence?"
@@ -180,12 +180,12 @@ questions:
       - question: "<latin>Vincō</latin> has a first conjugation synonym which also gives us a derivative that means “unable to be conquered or subdued.” Name it"
         answer: "INSUPERABLE"
   - tossup:
-      question: "Of the Roman careers <latin>publicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Ego puerōs Rōmānōs, quī ā paedagōgīs ad mē ductī sunt, causās dīcere doceō.</latin>"
+      question: "Of the Roman careers <latin>publicānus, medicus, mīles, rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Ego puerōs Rōmānōs, quī ā paedagōgīs ad mē ductī sunt, causās dīcere doceō.</latin>"
       answer: "<latin>RHĒTOR</latin> "
     boni:
-      - question: "Of the Roman careers <latin>pūblicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prō rē pūblicā labōrō</latin>, sed <latin>in meā prōvinciā nēmō mē</latin> amat <latin>quod pecūniam postulō</latin>"
+      - question: "Of the Roman careers <latin>pūblicānus, medicus, mīles, rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prō rē pūblicā labōrō</latin>, sed <latin>in meā prōvinciā nēmō mē</latin> amat <latin>quod pecūniam postulō</latin>"
         answer: "<latin>PŪBLICĀNUS</latin> "
-      - question: "Of the Roman careers <latin>pūblicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prīmā lūce vēndere incipiō, et ad multam noctem vēndō. Multa bona prō pecūniā mūtō.</latin>"
+      - question: "Of the Roman careers <latin>pūblicānus, medicus, mīles, rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prīmā lūce vēndere incipiō, et ad multam noctem vēndō. Multa bona prō pecūniā mūtō.</latin>"
         answer: "<latin>TABERNĀRIUS</latin> "
   - tossup:
       question: "Give me the nominative, genitive, and gender for the Latin noun meaning “summer.”"

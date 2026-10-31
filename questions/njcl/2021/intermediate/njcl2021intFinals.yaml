@@ -128,7 +128,7 @@ questions:
       answer: "<latin>FRONDES / RAMI</latin> , <latin>(Ā / AB / DĒ / Ē / EX)</latin> <latin>ARBORIBUS</latin> , <latin>FRONTE(M)</latin>"
     boni:
       - question: "Again, give the correct Latin form for every noun for this sentence, excluding pronouns: “The doctor used her instruments with great care.”"
-        answer: "<latin>MEDICA</latin>, <latin>INSTRUMENTĪS</latin>, <latin>(CUM) CURĀ</latin>"
+        answer: "<latin>MEDICA, INSTRUMENTĪS, (CUM) CURĀ</latin>"
       - question: "Once more, give the correct Latin form for every noun for this sentence, excluding pronouns: “With all hope lost, the citizens made prayers full of faith.”"
         answer: "<latin>SPĒ, CIVĒS, PRECĒS / SUPPLICIA / VOTA, FIDEĪ</latin>"
   - tossup:

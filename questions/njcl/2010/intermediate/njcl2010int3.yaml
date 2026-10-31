@@ -4,10 +4,10 @@ division: "Intermediate"
 round: "Round 3"
 questions:
   - tossup:
-      question: "Of the following prepositions, which, if any, can be followed by either accusative or ablative objects: <latin>ob</latin>, <latin>dē</latin>, <latin>extrā</latin>, <latin>subter</latin>, <latin>apud</latin>?"
+      question: "Of the following prepositions, which, if any, can be followed by either accusative or ablative objects: <latin>ob, dē, extrā, subter, apud</latin>?"
       answer: "<latin>SUBTER</latin>"
     boni:
-      - question: "Which of the following phrases, if any, cannot be synonymous to <latin>apud mē</latin>: <latin>mēcum</latin>, <latin>domī meae</latin>, <latin>ex scrīptīs meīs</latin>, <latin>propter mē</latin>?"
+      - question: "Which of the following phrases, if any, cannot be synonymous to <latin>apud mē</latin>: <latin>mēcum, domī meae, ex scrīptīs meīs, propter mē</latin>?"
         answer: "<latin>PROPTER MĒ</latin>"
       - question: "What does it mean if an event occurs <latin>ob oculōs</latin>?"
         answer: "HAPPENS IN FRONT OF / BEFORE ONE’S EYES / UNDER ONE’S NOSE / IN PERSON"
@@ -20,12 +20,12 @@ questions:
       - question: "Who was responsible for the fall of two of those cities?"
         answer: "(PUBLIUS CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS MINOR / NUMANTINUS"
   - tossup:
-      question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in the following Latin sentence: <latin>Pecūniā amissā aut parente mortuō, hoc sentīs</latin>?"
+      question: "Of the words <latin>colloquium, servitūs, factiō, cornū</latin>, and <latin>dolor</latin>, which is being described in the following Latin sentence: <latin>Pecūniā amissā aut parente mortuō, hoc sentīs</latin>?"
       answer: "<latin>DOLOR</latin>"
     boni:
-      - question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Antīquīs temporibus, sī nimium aeris aliēnī dēbēs, in hoc trāderis</latin>"
+      - question: "Of the words <latin>colloquium, servitūs, factiō, cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Antīquīs temporibus, sī nimium aeris aliēnī dēbēs, in hoc trāderis</latin>"
         answer: "SERVITŪS"
-      - question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Hoc est pars vel exercitūs vel animālis</latin>?"
+      - question: "Of the words <latin>colloquium, servitūs, factiō, cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Hoc est pars vel exercitūs vel animālis</latin>?"
         answer: "<latin>CORNŪ</latin>"
   - tossup:
       question: "Who am I? Because I lay with Nephele, a cloud doppelgänger of Hera, Zeus punished me for presuming to sleep with a goddess"

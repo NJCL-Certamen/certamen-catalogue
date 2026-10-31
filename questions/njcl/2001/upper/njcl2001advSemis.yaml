@@ -95,12 +95,12 @@ questions:
         answer: "AETIUS"
   - tossup:
       question: "Give a Latin antonym for the verb <latin>profiteor</latin>?"
-      answer: "<latin>NEGŌ</latin>, <latin>ABNUŌ</latin>, <latin>INFITEOR</latin>"
+      answer: "<latin>NEGŌ, ABNUŌ, INFITEOR</latin>"
     boni:
       - question: "Give a Latin antonym for the verb <latin>noceō</latin>?"
-        answer: "(<latin>AD</latin>-)<latin>IUVŌ</latin>, <latin>SUBVENIŌ</latin>, <latin>SUCCURRŌ</latin>"
+        answer: "(<latin>AD</latin>-)<latin>IUVŌ, SUBVENIŌ, SUCCURRŌ</latin>"
       - question: "Give a Latin antonym for the verb <latin>sin ō</latin>?"
-        answer: "<latin>VETŌ</latin>, <latin>INTERDĪCŌ</latin>, <latin>PROHIBEŌ, NEGŌ</latin>"
+        answer: "<latin>VETŌ, INTERDĪCŌ, PROHIBEŌ, NEGŌ</latin>"
   - tossup:
       question: "Which of the comedies of Terence was his biggest hit with the public and his greatest commercial success?"
       answer: "<title><latin>EUNYCHUS</latin></title> / <title>“THE EUNUCH</title><emphasis><title>”</title></emphasis>"
@@ -148,7 +148,7 @@ questions:
       - question: "Using a supine, say in Latin: Do you know whether the games are horrible to see?"
         answer: "<latin>SCĪSNE UTRUM / NUM / SĪ</latin> <latin>LŪDĪ</latin> <latin>HORRIBILĒS VĪSŪ</latin> <latin>SINT</latin>? / <latin>SCĪSNE UTRUM / NUM / SĪ</latin> <latin>SPECTĀCULA / MŪNERA HORRIBILIA VĪSŪ</latin> <latin>SINT</latin>?"
       - question: "Other than <latin>dīcere</latin> and <latin>vidēre</latin>, there are only five more verbs in classical Latin that commonly have ablative supines. Name one"
-        answer: "<latin>AUDĪRE</latin>, <latin>FACERE</latin>, <latin>INVENĪRE</latin>, <latin>MEMORĀRE</latin>, <latin>NASCĪ</latin>"
+        answer: "<latin>AUDĪRE, FACERE, INVENĪRE, MEMORĀRE, NASCĪ</latin>"
   - tossup:
       question: "After the Second Punic War into what two provinces was the conquered territory in Spain divided?"
       answer: "<latin>HISPANIA CITERIOR & ULTERIOR / NEARER & FURTHER SPAIN</latin>"

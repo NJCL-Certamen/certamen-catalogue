@@ -51,12 +51,12 @@ questions:
         answer: "PENTHEUS"
   - tossup:
       question: "Give a Latin synonym for the verb <latin>spectō</latin>"
-      answer: "<latin>ASPICIŌ</latin>, <latin>VIDEŌ</latin>, <latin>ASPECTŌ</latin>, <latin>INTUEOR</latin>"
+      answer: "<latin>ASPICIŌ, VIDEŌ, ASPECTŌ, INTUEOR</latin>"
     boni:
       - question: " For the verb <latin>cantō</latin>"
-        answer: "<latin>CANŌ</latin>, <latin>CANTITŌ</latin>"
+        answer: "<latin>CANŌ, CANTITŌ</latin>"
       - question: "For the verb <latin>rogō</latin>"
-        answer: "<latin>INTERROGŌ</latin>, <latin>QUAERŌ</latin>, <latin>REQUĪROR</latin>, <latin>PETŌ, POSCŌ, (AD)ŌRŌ, OBSEQUOR</latin>"
+        answer: "<latin>INTERROGŌ, QUAERŌ, REQUĪROR, PETŌ, POSCŌ, (AD)ŌRŌ, OBSEQUOR</latin>"
   - tossup:
       question: "What foreign ruler’s bribes did the tribune C. Memmius accuse many senators of taking in 111 B. C.?"
       answer: "JUGURTHA’S"
@@ -106,7 +106,7 @@ questions:
       - question: "Change <latin>dūcite</latin> to the singular"
         answer: "<latin>DŪC</latin>"
       - question: "Give two other examples of Latin imperative singulars that do NOT end in a vowel"
-        answer: "<latin>FAC</latin>, <latin>ES</latin>, <latin>DĪC</latin>, <latin>FER</latin>"
+        answer: "<latin>FAC, ES, DĪC, FER</latin>"
   - tossup:
       question: "Who presided over the trial of Orestes for the murder of his mother?"
       answer: "ATHENA"
@@ -132,12 +132,12 @@ questions:
       - question: " Change <latin>gladium mīrābilem</latin> to the nominative plural"
         answer: "<latin>GLADIĪ</latin> <latin>MĪRĀBILĒS</latin>"
   - tossup:
-      question: "Which of the following nouns does NOT belong because of gender: <latin>ōvum</latin>, <latin>occāsiō</latin>, <latin>auris</latin>, <latin>ornātrīx</latin>, <latin>officīna</latin>?"
+      question: "Which of the following nouns does NOT belong because of gender: <latin>ōvum, occāsiō, auris, ornātrīx, officīna</latin>?"
       answer: "<latin>ŌVUM</latin>"
     boni:
-      - question: ". . . <latin>animal</latin>, <latin>silentium</latin>, <latin>signum</latin>, <latin>leō</latin>, <latin>ōpus</latin>?"
+      - question: ". . . <latin>animal, silentium, signum, leō, ōpus</latin>?"
         answer: "<latin>LEŌ</latin>"
-      - question: "<latin>puer</latin>, <latin>cōr</latin>, <latin>victor</latin>, <latin>timor</latin>, <latin>terror</latin>?"
+      - question: "<latin>puer, cōr, victor, timor, terror</latin>?"
         answer: "<latin>CŌR</latin>"
   - tossup:
       question: "Which of the following did NOT sail on the Argo: Jason, Orpheus, Castor, Theseus, Perseus, or Pollux?"

@@ -52,7 +52,7 @@ questions:
       - question: "What English derivative of <latin>agō</latin> is an adjective meaning “wastefully extravagant”?"
         answer: "PRODIGAL"
   - tossup:
-      question: "Which of these objects - <latin>pōns</latin>, <latin>stilus</latin>, <latin>arbor</latin>, <latin>carpentum</latin>, or <latin>hortus</latin> - is describing itself here: <latin>Hominēs mē</latin> <latin>mūniunt super flūmina.</latin>"
+      question: "Which of these objects - <latin>pōns, stilus, arbor, carpentum</latin>, or <latin>hortus</latin> - is describing itself here: <latin>Hominēs mē</latin> <latin>mūniunt super flūmina.</latin>"
       answer: "<latin>PŌNS</latin> "
     boni:
       - question: "Which of those objects is describing itself here: <latin>Sum vehiculum in quō</latin> <latin>hominēs</latin>  <latin>sedēre possunt</latin>."
@@ -133,12 +133,12 @@ questions:
         answer: "<latin>TERRAE MOTUS</latin> / <latin>MOTUS TERRAE</latin> "
   - tossup:
       question: "Give an antonym of the adjective <latin>pulcher</latin>."
-      answer: "<latin>TURPIS</latin>, <latin>FOEDUS, SQUALIDUS, DĒFORMIS, SORDIDUS</latin> "
+      answer: "<latin>TURPIS, FOEDUS, SQUALIDUS, DĒFORMIS, SORDIDUS</latin> "
     boni:
       - question: "<latin>validus</latin>."
-        answer: "<latin>SEGNIS</latin>, <latin>IGNĀVUS, INFIRMUS</latin>"
+        answer: "<latin>SEGNIS, IGNĀVUS, INFIRMUS</latin>"
       - question: "<latin>apertus</latin>."
-        answer: "<latin>CLAUSUS</latin>, <latin>CAECUS</latin> "
+        answer: "<latin>CLAUSUS, CAECUS</latin> "
   - tossup:
       question: "What popular entertainment involved competitors who always, by the time of Tiberius, competed in multiples of four?"
       answer: "CHARIOT RACING"

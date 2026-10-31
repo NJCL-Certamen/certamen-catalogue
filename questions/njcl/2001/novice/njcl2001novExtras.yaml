@@ -93,20 +93,20 @@ questions:
         answer: "RETURN, GO/ COME BACK"
   - tossup:
       question: "What Latin word is a synonym of the adjective <latin>vastus</latin>?"
-      answer: "<latin>MAGNUS</latin>, <latin>INGENS</latin>, <latin>IMMĀNIS</latin>, <latin>IMMENSUS</latin>"
+      answer: "<latin>MAGNUS, INGENS, IMMĀNIS, IMMENSUS</latin>"
     boni:
       - question: " . . . of the preposition <latin>sub</latin>?"
-        answer: "<latin>INFRĀ</latin>, <latin>SUBTER</latin>"
+        answer: "<latin>INFRĀ, SUBTER</latin>"
       - question: ". . . of the adverb <latin>tardē</latin>?"
-        answer: "<latin>LENTĒ</latin>, <latin>PIGRĒ</latin>, <latin>SENTIM</latin>, <latin>SEGNITER</latin>"
+        answer: "<latin>LENTĒ, PIGRĒ, SENTIM, SEGNITER</latin>"
   - tossup:
       question: "Give a suitable Latin synonym for the conjunction -<latin>que</latin>"
-      answer: "<latin>ET</latin>, <latin>ATQUE</latin>, <latin>AC</latin>"
+      answer: "<latin>ET, ATQUE, AC</latin>"
     boni:
       - question: ". . . for the conjunction <latin>quod</latin>"
-        answer: "<latin>QUIA</latin>, <latin>QUONIAM</latin>, <latin>CUM</latin>, <latin>NAM</latin>, <latin>ENIM</latin>"
+        answer: "<latin>QUIA, QUONIAM, CUM, NAM, ENIM</latin>"
       - question: ". . . for the conjunction <latin>aut</latin>"
-        answer: "<latin>VEL</latin>, -<latin>VE</latin>, <latin>AN</latin>"
+        answer: "<latin>VEL</latin>, -<latin>VE, AN</latin>"
   - tossup:
       question: "What is the Latin antonym of the preposition <latin>in</latin> plus the accusative?"
       answer: "<latin>EX</latin>, Ē"
@@ -114,7 +114,7 @@ questions:
       - question: "of the preposition <latin>ab?</latin>"
         answer: "AD, <latin>ADVERSUS</latin>"
       - question: ". . . of the preposition <latin>extrā</latin>?"
-        answer: "<latin>INTRĀ</latin>, <latin>INTER</latin>, <latin>IN</latin>, <latin>CIS</latin>, <latin>CITRĀ</latin>"
+        answer: "<latin>INTRĀ, INTER, IN, CIS, CITRĀ</latin>"
   - tossup:
       question: "Translate this sentence into English: <latin>Multī</latin> <latin>equī</latin> <latin>in Circō</latin> <latin>Māximō</latin> <latin>magnā</latin> <latin>celeritāte currēbant.</latin> "
       answer: "MANY HORSES WERE RUNNING WITH GREAT SPEED IN THE CIRCUS MAXIMUS."

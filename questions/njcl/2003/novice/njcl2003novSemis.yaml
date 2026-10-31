@@ -20,7 +20,7 @@ questions:
       - question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>avis, ignis, piscis, orbis, lapis</latin>?"
         answer: "<latin>AVIS</latin>"
   - tossup:
-      question: "Of the words <latin>scūtum</latin>, <latin>iuvenis</latin>, <latin>rēmus</latin>, <latin>crīnis</latin>, and <latin>mēnsis</latin>, which is described in the following sentence? <latin>Hōc instrumentō</latin> <latin>nauta nāvem movēre potest</latin>"
+      question: "Of the words <latin>scūtum, iuvenis, rēmus, crīnis</latin>, and <latin>mēnsis</latin>, which is described in the following sentence? <latin>Hōc instrumentō</latin> <latin>nauta nāvem movēre potest</latin>"
       answer: "<latin>RĒMUS</latin>"
     boni:
       - question: "... <latin>Auxiliō</latin> <latin>est mīlitī</latin> <latin>quī</latin> <latin>sē</latin> <latin>dēfendit</latin>"

@@ -23,9 +23,9 @@ questions:
       question: "You are on an ancient Roman galley sailing the Mediterranean. You have just left from the Balearic Islands and are sailing due west. Toward which modern country are you headed?"
       answer: "SPAIN"
     boni:
-      - question: "You have landed at Saguntum. Which of these destinations would require the longest journey: <latin>Emporiae</latin>, <latin>Carthāgō</latin> <latin>Nova</latin>, <latin>Forum Iūliī</latin>, <latin>Pīsae</latin>?"
+      - question: "You have landed at Saguntum. Which of these destinations would require the longest journey: <latin>Emporiae, Carthāgō</latin> <latin>Nova, Forum Iūliī, Pīsae</latin>?"
         answer: "<latin>PĪSAE</latin>"
-      - question: "You have set sail from Pisae and are headed for Rhegium. Which of these cities would you NOT pass near if you sailed along the coast the entire way: <latin>Rōma</latin>, <latin>Neāpolis</latin>, <latin>Tarentum</latin>, <latin>Paestum</latin>?"
+      - question: "You have set sail from Pisae and are headed for Rhegium. Which of these cities would you NOT pass near if you sailed along the coast the entire way: <latin>Rōma, Neāpolis, Tarentum, Paestum</latin>?"
         answer: "<latin>TARENTUM</latin>"
   - tossup:
       question: "Change <latin>collis altus</latin> to the genitive plural"
@@ -122,7 +122,7 @@ questions:
       - question: ". . . of <latin>magis</latin>"
         answer: "<latin>MINUS</latin>"
       - question: ". . . of <latin>summus</latin>"
-        answer: "<latin>ĪMUS</latin>, <latin>ĪNFIMUS</latin>"
+        answer: "<latin>ĪMUS, ĪNFIMUS</latin>"
   - tossup:
       question: "What Theban prince killed himself because his fiancé was buried alive in a tomb?"
       answer: "HAEMON"

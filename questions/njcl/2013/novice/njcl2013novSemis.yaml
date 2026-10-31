@@ -7,7 +7,7 @@ questions:
       question: "What ordinal number is missing from the following sequence: <latin>secundus, quārtus, sextus, decimus</latin>?"
       answer: "<latin>OCTĀVUS</latin> "
     boni:
-      - question: "What cardinal number is missing from this sequence: <latin>quattuordecim</latin>, <latin>quīndecim</latin>, <latin>sēdecim</latin>, <latin>duodēvigintī</latin>?"
+      - question: "What cardinal number is missing from this sequence: <latin>quattuordecim, quīndecim, sēdecim, duodēvigintī</latin>?"
         answer: "<latin>SEPTENDECIM / SEPTEMDECIM</latin> "
       - question: "What would be the correct way to say “102 girls” in the accusative case?"
         answer: "<latin>CENTUM (ET) DUĀS PUELLĀS</latin> "
@@ -268,10 +268,10 @@ questions:
       - question: "What Latin phrase is used in logical analysis and in law to denote where the burden of proof lies, and literally means in Latin, “The burden of proving”?"
         answer: "<latin>ONUS PROBĀNDĪ</latin> "
   - tossup:
-      question: "Of <latin>subsellium</latin>, <latin>solium</latin>, <latin>sedīle</latin>, and <latin>cathedra</latin>, which was a bench-type seat used in the <latin>curia</latin> among other places?"
+      question: "Of <latin>subsellium, solium, sedīle</latin>, and <latin>cathedra</latin>, which was a bench-type seat used in the <latin>curia</latin> among other places?"
       answer: "<latin>SUBSELLIUM</latin> "
     boni:
-      - question: "Of <latin>subsellium</latin>, <latin>solium</latin>, <latin>sedīle</latin>, and <latin>cathedra</latin>, which was used in the plural to describe rows of seats, such as could be found in a theater, or to describe the benches sat upon by those who rowed ships?"
+      - question: "Of <latin>subsellium, solium, sedīle</latin>, and <latin>cathedra</latin>, which was used in the plural to describe rows of seats, such as could be found in a theater, or to describe the benches sat upon by those who rowed ships?"
         answer: "<latin>SEDĪLE</latin> "
       - question: "What type of folding chair not on this list would a magistrate sit on while hearing petitions?"
         answer: "<latin>SELLA CURŪLIS</latin> / CURULE CHAIR"

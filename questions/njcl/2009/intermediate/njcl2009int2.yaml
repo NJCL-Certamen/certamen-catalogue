@@ -12,7 +12,7 @@ questions:
       - question: "How many years did Titus reign after his father's death?"
         answer: "2 YEARS"
   - tossup:
-      question: "Of the animals <latin>delphīnus</latin>, <latin>gallus</latin>, <latin>orca</latin>, <latin>testūdō</latin>, and <latin>piscis</latin>, which is described in the following Latin sentence? <latin>Est sōlum animal quod in aquā facile nāre nōn possit</latin>"
+      question: "Of the animals <latin>delphīnus, gallus, orca, testūdō</latin>, and <latin>piscis</latin>, which is described in the following Latin sentence? <latin>Est sōlum animal quod in aquā facile nāre nōn possit</latin>"
       answer: "GALLUS"
     boni:
       - question: "Which of those words is described in this sentence? <latin>Haec duo animālia vīvōs nātōs, nōn ōva pariunt</latin>"
@@ -108,7 +108,7 @@ questions:
       - question: "Almost anywhere in the world, which of those phrases is least likely to be “quotidian”?"
         answer: "<latin>TURBŌ TORQUĒTUR</latin>"
   - tossup:
-      question: "What would you do with all of the following items? <latin>Subsellium</latin>, <latin>cathedra</latin>, <latin>sella cūrūlis, solium</latin>"
+      question: "What would you do with all of the following items? <latin>Subsellium, cathedra, sella cūrūlis, solium</latin>"
       answer: "SIT ON THEM"
     boni:
       - question: "In which of the above would a senator sit while in the <latin>cūria</latin>?"

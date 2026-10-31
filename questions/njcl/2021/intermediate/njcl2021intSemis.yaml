@@ -53,7 +53,7 @@ questions:
         answer: "SAW"
   - tossup:
       question: "While you maneuver your way through this Certamen round, we hope you are learning a plethora of things. What two Latin nouns are at the root of “maneuver?”"
-      answer: "<latin>MANUS</latin>, <latin>OPUS</latin>"
+      answer: "<latin>MANUS, OPUS</latin>"
     boni:
       - question: "You may consider the occasional question a nuisance as it tests you on very obscure knowledge. From what Latin verb, with what meaning, do we derive “nuisance”?"
         answer: "<latin>NOCEŌ</latin> – TO HARM / HURT / INJURE"
@@ -135,7 +135,7 @@ questions:
       question: "To what class of verbs do all of the following belong: <latin>quassō, iactō, cantō, dormītō</latin>?"
       answer: "ITERATIVES / INTENSIVES / FREQUENTATIVES"
     boni:
-      - question: "To what class of verbs do all of the following belong: <latin>parturiō</latin>, <latin>ēsuriō</latin>, <latin>emptūriō</latin>?"
+      - question: "To what class of verbs do all of the following belong: <latin>parturiō, ēsuriō, emptūriō</latin>?"
         answer: "DESIDERATIVES"
       - question: "To what class of verbs do all of the following belong: <latin>lacessō, facessō, capessō</latin>?"
         answer: "MEDITATIVES (<emphasis>prompt</emphasis> for more specificity on ITERATIVES / INTENSIVES / FREQUENTATIVES)"

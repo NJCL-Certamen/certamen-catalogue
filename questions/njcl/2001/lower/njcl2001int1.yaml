@@ -46,10 +46,10 @@ questions:
       - question: "Change <latin>fēminārum celerium</latin> to the nominative plural"
         answer: "<latin>FĒMINAE CELERĒS</latin>"
   - tossup:
-      question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>urbs</latin>, <latin>imāgō</latin>, <latin>plēbs</latin>, <latin>pēs</latin>, <latin>pietās</latin>?"
+      question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>urbs, imāgō, plēbs, pēs, pietās</latin>?"
       answer: "<latin>PĒS</latin>"
     boni:
-      - question: ". . . <latin>mare</latin>, <latin>serpēns</latin>, <latin>nihil</latin>, <latin>lītus</latin>, <latin>cōr</latin>?"
+      - question: ". . . <latin>mare, serpēns, nihil, lītus, cōr</latin>?"
         answer: "<latin>SERPĒNS</latin>"
       - question: "What is the name for nouns such as <latin>locus</latin> and <latin>balneum</latin> that vary in gender?"
         answer: "HETEROGENEOUS"
@@ -103,12 +103,12 @@ questions:
         answer: "ACHILLES"
   - tossup:
       question: "Give a Latin synonym of the verb <latin>vereor</latin>"
-      answer: "<latin>TIMEŌ</latin>, <latin>METUŌ</latin>, (<latin>EX</latin>- <latin>PER</latin>-)-<latin>TIMESCŌ</latin>"
+      answer: "<latin>TIMEŌ, METUŌ</latin>, (<latin>EX</latin>- <latin>PER</latin>-)-<latin>TIMESCŌ</latin>"
     boni:
       - question: "of the verb <latin>arbitror</latin>?"
-        answer: "<latin>PUTŌ</latin>, <latin>EXISTIMŌ</latin>, <latin>REOR</latin>, <latin>OPĪNOR</latin>, <latin>CENSEŌ</latin>, <latin>COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō</latin> / <latin>crēdō</latin> and <latin>arbitror</latin>)"
+        answer: "<latin>PUTŌ, EXISTIMŌ, REOR, OPĪNOR, CENSEŌ, COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō</latin> / <latin>crēdō</latin> and <latin>arbitror</latin>)"
       - question: "of the verb <latin>ēgredior</latin>?"
-        answer: "<latin>EXEŌ</latin>, (<latin>DIS</latin>- <latin>EX</latin>-)-<latin>CĒDŌ</latin>, <latin>ĒMIGRŌ</latin>, <latin>ĒVĀDŌ</latin>"
+        answer: "<latin>EXEŌ</latin>, (<latin>DIS</latin>- <latin>EX</latin>-)-<latin>CĒDŌ, ĒMIGRŌ, ĒVĀDŌ</latin>"
   - tossup:
       question: "What emperor said “Go to the rising sun; my sun is setting.” as he was dying in A"
       answer: "D."

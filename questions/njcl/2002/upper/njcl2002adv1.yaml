@@ -5,12 +5,12 @@ round: "Round 1"
 questions:
   - tossup:
       question: "Give an antonym of <latin>dīvitiae</latin>"
-      answer: "<latin>PAUPERTĀS</latin>, <latin>PAUPERIĒS</latin>, <latin>EGESTĀS</latin>, <latin>INOPIA</latin>"
+      answer: "<latin>PAUPERTĀS, PAUPERIĒS, EGESTĀS, INOPIA</latin>"
     boni:
       - question: ". . . of <latin>glōria</latin>"
-        answer: "<latin>PUDOR</latin>, <latin>DĒDECUS</latin>, <latin>VĒRĒCUNDIA</latin>, <latin>RUBOR</latin>, <latin>FLĀGITIUM</latin>, <latin>PROBRUM</latin>"
+        answer: "<latin>PUDOR, DĒDECUS, VĒRĒCUNDIA, RUBOR, FLĀGITIUM, PROBRUM</latin>"
       - question: ". . . of <latin>odium</latin>"
-        answer: "<latin>AMOR</latin>, <latin>CĀRITĀS</latin>, <latin>STUDIUM</latin>, <latin>CUPĪDITĀS</latin>"
+        answer: "<latin>AMOR, CĀRITĀS, STUDIUM, CUPĪDITĀS</latin>"
   - tossup:
       question: "What was the Latin term for a charioteer?"
       answer: "<latin>AURĪGA/AGITĀTOR</latin>"

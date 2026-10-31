@@ -4,7 +4,7 @@ division: "Novice"
 round: "Round 1"
 questions:
   - tossup:
-      question: "What derivative of the Latin verb <latin>augeō</latin>, <latin>augēre</latin> means “a public sale in which items are sold to the highest bidder?”"
+      question: "What derivative of the Latin verb <latin>augeō, augēre</latin> means “a public sale in which items are sold to the highest bidder?”"
       answer: "AUCTION"
     boni:
       - question: "means “to make greater in size, extent, or quantity?”"
@@ -36,7 +36,7 @@ questions:
       - question: "Change <latin>canibus magnīs</latin> to the ablative singular"
         answer: "<latin>CANE MAGNĀ</latin>"
   - tossup:
-      question: "Of <latin>ōvum</latin>, <latin>ōs</latin>, <latin>fōns</latin>, <latin>mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est locus unde aqua semper ērumpit</latin>"
+      question: "Of <latin>ōvum, ōs, fōns, mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est locus unde aqua semper ērumpit</latin>"
       answer: "<latin>FŌNS</latin>"
     boni:
       - question: ". . . <latin>Est inferior pars facieī</latin>"
@@ -124,13 +124,13 @@ questions:
       - question: "Who were the commanders of the armies which defeated Brutus & Cassius in the two battles at Philippi?"
         answer: "OCTAVIAN / OCTAVIANUS & M. ANTONIUS / MARK ANTONY"
   - tossup:
-      question: "Which of the following verbs does NOT belong because of conjugation: <latin>capiō</latin>, <latin>mūniō</latin>, <latin>audiō</latin>, <latin>inveniō</latin>, <latin>dēsiliō</latin>?"
+      question: "Which of the following verbs does NOT belong because of conjugation: <latin>capiō, mūniō, audiō, inveniō, dēsiliō</latin>?"
       answer: "<latin>CAPIŌ</latin>"
     boni:
       - question: "Give all of the principal parts of <latin>capiō</latin>"
-        answer: "<latin>CAPIŌ</latin>, <latin>CAPERE</latin>, <latin>CĒPĪ</latin>, <latin>CAPTUS / -UM</latin>"
+        answer: "<latin>CAPIŌ, CAPERE, CĒPĪ, CAPTUS / -UM</latin>"
       - question: "Give all of the principal parts of <latin>mūniō</latin>"
-        answer: "<latin>MŪNIŌ</latin>, <latin>MŪNĪRE</latin>, <latin>MŪNĪVĪ</latin>, <latin>MŪNĪTUS / -UM</latin>"
+        answer: "<latin>MŪNIŌ, MŪNĪRE, MŪNĪVĪ, MŪNĪTUS / -UM</latin>"
   - tossup:
       question: "By what two names do we know Aeneas' son by Creusa?"
       answer: "ASCANIUS AND IULUS"

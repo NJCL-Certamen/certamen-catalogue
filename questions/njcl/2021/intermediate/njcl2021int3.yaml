@@ -4,7 +4,7 @@ division: "Intermediate"
 round: "Round 3"
 questions:
   - tossup:
-      question: "What region of the Roman empire contained the <latin>Liger</latin>, <latin>Garumna</latin>, <latin>Sēquana</latin>, and <latin>Rhodanus</latin> rivers?"
+      question: "What region of the Roman empire contained the <latin>Liger, Garumna, Sēquana</latin>, and <latin>Rhodanus</latin> rivers?"
       answer: "<latin>GALLIA</latin> / GAUL"
     boni:
       - question: "Which of those rivers formed the border between <latin>Aquītānia</latin> and <latin>Lugdūnensis</latin>?"

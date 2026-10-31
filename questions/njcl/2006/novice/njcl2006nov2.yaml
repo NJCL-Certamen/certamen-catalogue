@@ -52,7 +52,7 @@ questions:
       - question: "Which governor of Upper Germany overwhelmed and defeated Vindex’ army?"
         answer: "(LUCIUS) VERGINIUS RUFUS - (Accept either “Verginius” or “Rufus” by itself)"
   - tossup:
-      question: "For the verb <latin>iaceō</latin>, <latin>iacēre</latin>, give the 3rd person plural, perfect indicative."
+      question: "For the verb <latin>iaceō, iacēre</latin>, give the 3rd person plural, perfect indicative."
       answer: "<latin>IACUĒRUNT</latin> "
     boni:
       - question: "Change <latin>iacuērunt</latin> to the imperfect."
@@ -116,13 +116,13 @@ questions:
       - question: "What is the modern name for the Roman town of Camulodunum?"
         answer: "COLCHESTER"
   - tossup:
-      question: "Which of the following Latin words is NOT synonymous with the others: <latin>terra</latin>, <latin>ager</latin>, <latin>tēlum</latin>, <latin>patria</latin>, <latin>regiō</latin>?"
+      question: "Which of the following Latin words is NOT synonymous with the others: <latin>terra, ager, tēlum, patria, regiō</latin>?"
       answer: "<latin>TĒLUM</latin> "
     boni:
       - question: "Give a synonym of the noun <latin>populus</latin>."
-        answer: "<latin>GĒNS</latin>, <latin>NĀTIŌ, PLĒBS, VULGUS, CĪVITĀS</latin>, <latin>CĪVĒS</latin> "
+        answer: "<latin>GĒNS, NĀTIŌ, PLĒBS, VULGUS, CĪVITĀS, CĪVĒS</latin> "
       - question: "Give a synonym of the noun <latin>mēns</latin>."
-        answer: "<latin>ANIMUS</latin>, <latin>ANIMA, INGENIUM, COR</latin> "
+        answer: "<latin>ANIMUS, ANIMA, INGENIUM, COR</latin> "
   - tossup:
       question: "What poor and elderly couple were transformed into an oak and linden tree that grew from a single trunk?"
       answer: "BAUCIS & PHILEMON"

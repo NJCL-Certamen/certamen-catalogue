@@ -4,7 +4,7 @@ division: "Intermediate"
 round: "Round 2"
 questions:
   - tossup:
-      question: "Of the nouns <latin>venia</latin>, <latin>tempestās</latin>, <latin>vinculum</latin>, <latin>dignitās</latin>, and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Dum hoc accidit, saepe sunt fulgorēs tonitrūsque</latin>?"
+      question: "Of the nouns <latin>venia, tempestās, vinculum, dignitās</latin>, and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Dum hoc accidit, saepe sunt fulgorēs tonitrūsque</latin>?"
       answer: "<latin>TEMPESTĀS</latin>"
     boni:
       - question: "Of the nouns <latin>venia, tempestās, vinculum, dignitās,</latin> and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Hoc est quod manūs pedēsque colligāre potest</latin>"
@@ -32,7 +32,7 @@ questions:
       answer: "<latin>ĀTRAM</latin> "
     boni:
       - question: "<latin>unde Gollum vēnit</latin>?"
-        answer: "<latin>NĒMŌ SCIT</latin> / <latin>SCIĒBAT</latin> / <latin>SCĪVIT</latin> (also accept <latin>NESCIŌ</latin>, <latin>NESCĪMUS</latin>, etc.)"
+        answer: "<latin>NĒMŌ SCIT</latin> / <latin>SCIĒBAT</latin> / <latin>SCĪVIT</latin> (also accept <latin>NESCIŌ, NESCĪMUS</latin>, etc.)"
       - question: "<latin>quālēs oculī Gollō erant</latin>?"
         answer: "<latin>MAGNĪ</latin> / <latin>ROTUNDĪ</latin> / <latin>PALLIDĪ</latin>"
   - tossup:
@@ -98,7 +98,7 @@ questions:
       - question: "What distinguishes a deponent verb from a normal verb?"
         answer: "PASSIVE IN FORM, ACTIVE IN MEANING"
       - question: "Give two verbs that are categorized as semi-deponent verbs"
-        answer: "<latin>AUDEŌ, GAUDEŌ, SOLEŌ</latin>, <latin>(CON)FĪDŌ</latin> "
+        answer: "<latin>AUDEŌ, GAUDEŌ, SOLEŌ, (CON)FĪDŌ</latin> "
   - tossup:
       question: "What son of Eupeithes was utterly awestruck when a beggar shot an arrow through twelve axe-heads in the palace of Odysseus?"
       answer: "ANTINOÜS"

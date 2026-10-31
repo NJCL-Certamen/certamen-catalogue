@@ -152,9 +152,9 @@ questions:
       answer: "<latin>NITĒNS / ALBUS / CANDIDUS / CLĀRUS / PŪRUS</latin> / <latin>MUNDUS</latin> / <latin>INTEGER</latin>"
     boni:
       - question: ". . . of <latin>molestus</latin>"
-        answer: "<latin>GRĀTUS</latin> / <latin>COMMODUS</latin> / <latin>AMĀBILIS</latin> / <latin>BLANDUS</latin>, <latin>IŪCUNDUS</latin> / <latin>PROBĀTUS</latin> / <latin>LEPIDUS</latin> / <latin>SUĀVIS</latin>"
+        answer: "<latin>GRĀTUS</latin> / <latin>COMMODUS</latin> / <latin>AMĀBILIS</latin> / <latin>BLANDUS, IŪCUNDUS</latin> / <latin>PROBĀTUS</latin> / <latin>LEPIDUS</latin> / <latin>SUĀVIS</latin>"
       - question: "...of <latin>antīquus</latin>"
-        answer: "<latin>NOVUS</latin>, <latin>RECENS</latin>, <latin>NOVELLUS (</latin>Do NOT accept <latin>“iuvenis”</latin>)"
+        answer: "<latin>NOVUS, RECENS, NOVELLUS (</latin>Do NOT accept <latin>“iuvenis”</latin>)"
   - tossup:
       question: "What city in ancient Spain was situated where modern Cartegena stands?"
       answer: "NEW CARTHAGE / CARTHAGO NOVA"

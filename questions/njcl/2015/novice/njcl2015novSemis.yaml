@@ -4,12 +4,12 @@ division: "Novice"
 round: "Semifinals"
 questions:
   - tossup:
-      question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>albus</latin>?"
+      question: "Of the adjectives <latin>ferōx, ingēns, āter, rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>albus</latin>?"
       answer: "<latin>ĀTER</latin>"
     boni:
-      - question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of  <latin>exiguus</latin>?"
+      - question: "Of the adjectives <latin>ferōx, ingēns, āter, rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of  <latin>exiguus</latin>?"
         answer: "<latin>INGĒNS</latin>"
-      - question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>mītis</latin>?"
+      - question: "Of the adjectives <latin>ferōx, ingēns, āter, rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>mītis</latin>?"
         answer: "<latin>FERŌX</latin>"
   - tossup:
       question: "What was the Latin term for a slave who oversaw the work of the other slaves on an estate?"
@@ -68,12 +68,12 @@ questions:
       - question: "Give the correct participle to complete this sentence in Latin: “The enemies, having been  defeated, walked under the yoke.”"
         answer: "<latin>VICTĪ</latin>"
   - tossup:
-      question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being described in  this English sentence?"
+      question: "Of the Latin nouns <latin>sepulcrum, pompa, fūmus, hiems</latin>, and <latin>dēnārius</latin>, which is being described in  this English sentence?"
       answer: "<latin>It ad caelum propter ignēs</latin>. <latin>FŪMUS</latin>"
     boni:
-      - question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
+      - question: "Of the Latin nouns <latin>sepulcrum, pompa, fūmus, hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
         answer: "<latin>Potest trādī prō pānem et aliīs bonīs</latin>. <latin>DĒNĀRIUS</latin>"
-      - question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
+      - question: "Of the Latin nouns <latin>sepulcrum, pompa, fūmus, hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
         answer: "<latin>Hoc incēpit in Campō Martiō</latin>. <latin>POMPA</latin>"
   - tossup:
       question: "What modern city did the Romans call <latin>Vindobona</latin>?"

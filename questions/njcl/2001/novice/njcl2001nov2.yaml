@@ -45,12 +45,12 @@ questions:
         answer: "SURELY YOU WANT TO GIVE ME THE ROSES?"
   - tossup:
       question: "Give an antonym of <latin>longus</latin>?"
-      answer: "<latin>BREVIS</latin>, <latin>EXIGUUS</latin>"
+      answer: "<latin>BREVIS, EXIGUUS</latin>"
     boni:
       - question: ". . . of <latin>multī</latin>?"
-        answer: "<latin>PAUCĪ</latin>, <latin>ALIQUOT</latin>, <latin>RĀRĪ</latin>, <latin>NŌNNULLĪ, SINGULĪ</latin>"
+        answer: "<latin>PAUCĪ, ALIQUOT, RĀRĪ, NŌNNULLĪ, SINGULĪ</latin>"
       - question: "of the adjective <latin>foedus</latin>?"
-        answer: "<latin>PULCHER</latin>, <latin>BELLUS</latin>, <latin>LEPIDUS</latin>, <latin>VENUSTUS, GRĀTUS</latin>"
+        answer: "<latin>PULCHER, BELLUS, LEPIDUS, VENUSTUS, GRĀTUS</latin>"
   - tossup:
       question: "What form of the adjective <latin>ille</latin> agrees with the noun <latin>hominis</latin>?"
       answer: "<latin>ILLĪUS</latin>"

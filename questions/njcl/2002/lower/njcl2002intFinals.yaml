@@ -59,12 +59,12 @@ questions:
         answer: "<latin>MAGNŌS DISCIPULŌS SCIENTIĀ</latin> <latin>MĒTĪMUR, NŌN ALTITŪDINE</latin>"
   - tossup:
       question: "Give a synonym of the noun <latin>dictum</latin>"
-      answer: "<latin>VERBUM</latin>, <latin>VOCĀBULUM</latin>, <latin>MANDĀTUM</latin>, <latin>IMPERĀTUM</latin>, <latin>SENTENTIA</latin>"
+      answer: "<latin>VERBUM, VOCĀBULUM, MANDĀTUM, IMPERĀTUM, SENTENTIA</latin>"
     boni:
       - question: " . . . of <latin>multitūdō</latin>"
-        answer: "<latin>VULGUS</latin>, <latin>PLĒBES</latin>, <latin>CŌPIA</latin>, <latin>POPULUS</latin>, <latin>TURBA</latin>"
+        answer: "<latin>VULGUS, PLĒBES, CŌPIA, POPULUS, TURBA</latin>"
       - question: ". . . of <latin>liber</latin>"
-        answer: "<latin>LIBELLUS</latin>, <latin>VOLŪMEN</latin>, <latin>CŌDEX</latin>, <latin>CHARTA</latin>"
+        answer: "<latin>LIBELLUS, VOLŪMEN, CŌDEX, CHARTA</latin>"
   - tossup:
       question: "What emotion is expressed by the Latin interjection <latin>vae</latin>?"
       answer: "WOE, SADNESS, ANGUISH, DISTRESS"
@@ -150,7 +150,7 @@ questions:
       - question: "What sort of men were chosen to be in Sulla’s corps of 10,000 personal bodyguards called the <latin>Corneliī</latin>?"
         answer: "FREED SLAVES (FORMER SLAVES OF [HIS] PROSCRIBED ENEMIES)"
   - tossup:
-      question: "For the verb <latin>dō</latin>, <latin>dare</latin>, give the correct form of the present active participle to agree with the noun form <latin>puerōs</latin>"
+      question: "For the verb <latin>dō, dare</latin>, give the correct form of the present active participle to agree with the noun form <latin>puerōs</latin>"
       answer: "<latin>DANTĒS (-ĪS)</latin>"
     boni:
       - question: "For the verb <latin>crepō</latin>, give the correct form of the present active participle to agree with the noun form <latin>serpentium</latin>"

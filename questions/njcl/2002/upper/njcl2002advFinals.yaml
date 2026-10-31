@@ -77,7 +77,7 @@ questions:
       question: "Of the words <latin>candēlābrum, gemma, plaustrum, flagellum</latin> and <latin>portus</latin>, which does the following Latin sentence describe: <latin>Est rēs quae ōleum continet ad illūminanda cubicula</latin>"
       answer: "CANDĒLĀBRUM"
     boni:
-      - question: ". . . <latin>Praesertim apud rūsticōs</latin>, <latin>hoc est aptum magnīs oneribus ferendīs</latin>"
+      - question: ". . . <latin>Praesertim apud rūsticōs, hoc est aptum magnīs oneribus ferendīs</latin>"
         answer: "PLAUSTRUM"
       - question: ". . . <latin>Ut dīcitur, “adamās est puellae amīcissimus.”</latin>"
         answer: "GEMMA"

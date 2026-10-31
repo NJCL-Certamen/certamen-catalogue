@@ -44,7 +44,7 @@ questions:
       - question: "#4 Which passage is depicted by the picture labeled “B”?"
         answer: "PASSAGE"
   - tossup:
-      question: "Give a synonym for the Latin verb <latin>lacrimō</latin>, <latin>lacrimāre</latin>"
+      question: "Give a synonym for the Latin verb <latin>lacrimō, lacrimāre</latin>"
       answer: "<latin>LAMENTOR</latin>/ <latin>DEPLORŌ</latin>/ <latin>LUGEŌ</latin>/ <latin>FLEŌ</latin>/ <latin>MISEROR</latin>/ <latin>PLORŌ</latin>/ <latin>VAGIŌ</latin>"
     boni:
       - question: "... for the verb <latin>relinquō</latin>, -<latin>ere</latin>"

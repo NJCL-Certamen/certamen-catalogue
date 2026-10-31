@@ -36,7 +36,7 @@ questions:
       - question: "Give the Latin verb and its meaning from which “address” is derived."
         answer: "<latin>REGŌ, REGERE</latin> -RULE, GUIDE, DIRECT, GOVERN"
   - tossup:
-      question: "Give the nominative singular of the present participle of the verb <latin>eō</latin>, <latin>īre</latin>."
+      question: "Give the nominative singular of the present participle of the verb <latin>eō, īre</latin>."
       answer: "<latin>IĒNS</latin> "
     boni:
       - question: "Change <latin>iēns</latin> to the accusative singular."
@@ -143,7 +143,7 @@ questions:
       question: "What gender are infinitives in Latin?"
       answer: "NEUTER"
     boni:
-      - question: "Of what gender are nouns for trees such as <latin>laurus</latin>, <latin>quercus</latin> and <latin>pīnus</latin>."
+      - question: "Of what gender are nouns for trees such as <latin>laurus, quercus</latin> and <latin>pīnus</latin>."
         answer: "FEMININE"
       - question: "Differentiate in meaning among those trees."
         answer: "<latin>LAURUS</latin> - LAUREL <latin>QUERCUS</latin> - OAK <latin>PĪNUS</latin> - PINE"

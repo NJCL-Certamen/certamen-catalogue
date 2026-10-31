@@ -29,7 +29,7 @@ questions:
         answer: "WOULD DESTROY TROY"
   - tossup:
       question: "Give the Latin verb and its meaning at the root of “portray,” “trait,” “train,” and “traction.”"
-      answer: "<latin>TRĀHŌ</latin>, <latin>TRĀHERE</latin> - PULL. DRAG, DRAW"
+      answer: "<latin>TRĀHŌ, TRĀHERE</latin> - PULL. DRAG, DRAW"
     boni:
       - question: "What English derivative of <latin>trāhō</latin> means “a formal agreement between two or more nations”?"
         answer: "TREATY"
@@ -55,7 +55,7 @@ questions:
       question: "Using <latin>habeō</latin>, translate the following sentence into Latin: I have two good friends."
       answer: "<latin>DUŌ(S) BONŌS AMĪCŌS / DUĀS BONĀS AMĪCĀS HABEŌ</latin>"
     boni:
-      - question: "Translate that same sentence again using <latin>sum</latin>, <latin>esse</latin>."
+      - question: "Translate that same sentence again using <latin>sum, esse</latin>."
         answer: "<latin>DUO BONĪ</latin> <latin>AMĪCĪ</latin> <latin>/ DUAE BONAE AMĪCAE MIHI SUNT</latin> "
       - question: "Translate into Latin: My friends are braver than I."
         answer: "<latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS QUAM EGO</latin> / <latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS MĒ</latin>"
@@ -96,9 +96,9 @@ questions:
       answer: "<latin>PORTŌ, FERŌ</latin>"
     boni:
       - question: "<latin>occīdō</latin>."
-        answer: "<latin>NECŌ</latin>, <latin>TRUCĪDŌ</latin>, <latin>IUGULŌ</latin>, <latin>NECŌ</latin>, <latin>INTERFICIŌ</latin>"
+        answer: "<latin>NECŌ, TRUCĪDŌ, IUGULŌ, NECŌ, INTERFICIŌ</latin>"
       - question: "<latin>dēmōnstrō</latin>."
-        answer: "<latin>OSTENDŌ</latin>, <latin>OSTENTŌ</latin>, <latin>EXHIBEŌ</latin>, <latin>PRAESTŌ</latin>"
+        answer: "<latin>OSTENDŌ, OSTENTŌ, EXHIBEŌ, PRAESTŌ</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Initiō, deī</latin> <latin>in Monte Olympō</latin> <latin>habitābant, et Titānī</latin> <latin>in terrā</latin> <latin>habitābant. Titānī</latin> <latin>Mōntem Olympum ipsum occupāre cupiēbant, et diū</latin> <latin>cum deīs Olympiīs pugnābant. Dēnique deī</latin> <latin>Olympiī</latin> <latin>Titānōs superāvērunt.</latin>  Question: <latin>Initiō, ubi habitābant Titānī</latin>?"
       answer: "<latin>IN TERRĀ</latin>"
@@ -116,12 +116,12 @@ questions:
       - question: "Why did Apollo forgive Hermes for the theft?"
         answer: "HERMES GAVE APOLLO THE LYRE"
   - tossup:
-      question: "Which of the following, if any, is not a form of the verb <latin>possum</latin>: <latin>potest</latin>, <latin>potuerant</latin>, <latin>pōsuistī</latin>, <latin>possumus</latin>, <latin>potuērunt</latin>?"
+      question: "Which of the following, if any, is not a form of the verb <latin>possum</latin>: <latin>potest, potuerant, pōsuistī, possumus, potuērunt</latin>?"
       answer: "<latin>PŌSUISTĪ</latin>"
     boni:
-      - question: "of the verb <latin>volō, velle</latin>: <latin>vult</latin>, <latin>vōlābam</latin>, <latin>voluērunt</latin>, <latin>volēs</latin>, <latin>vīs</latin>?"
+      - question: "of the verb <latin>volō, velle</latin>: <latin>vult, vōlābam, voluērunt, volēs, vīs</latin>?"
         answer: "<latin>VŌLĀBAM</latin> "
-      - question: "of the verb <latin>cadō</latin>: <latin>cecīdit</latin>, <latin>cadet</latin>, <latin>cadunt</latin>, <latin>cadēbam</latin>, <latin>cadēns</latin>?"
+      - question: "of the verb <latin>cadō</latin>: <latin>cecīdit, cadet, cadunt, cadēbam, cadēns</latin>?"
         answer: "<latin>CECĪDIT</latin> "
   - tossup:
       question: "Translate the following sentence into English: <latin>Iuvenis pugnāns bracchium frēgit</latin>."

@@ -24,7 +24,7 @@ questions:
       answer: "<latin>PAULĀTIM</latin> - LITTLE BY LITTLE, GRADUALLY, BIT BY BIT <latin>PAULISPER</latin> - FOR A SHORT TIME"
     boni:
       - question: "Give a synonym of the verb <latin>dominor</latin>"
-        answer: "<latin>REGŌ, RĒGNŌ, IMPERŌ</latin>, <latin>IUBEŌ</latin>, <latin>PRAESUM</latin>"
+        answer: "<latin>REGŌ, RĒGNŌ, IMPERŌ, IUBEŌ, PRAESUM</latin>"
       - question: "Give a synonym of the noun <latin>lītus</latin>"
         answer: "<latin>ŌRA (MARITIMA) / ACTA</latin> / <latin>RĪPA</latin>"
   - tossup:
@@ -100,7 +100,7 @@ questions:
       - question: "Who in the <title>Aeneid</title> is described by this quotation? “<latin>Ast illī</latin> <latin>solvuntur frīgore membra vītaque cum gemitū</latin> <latin>fugit indignāta sub umbrās</latin>.”"
         answer: "TURNUS"
   - tossup:
-      question: "Which of these terms is not related to the others? <latin>stirps, vīcus</latin>, <latin>pagus</latin>, <latin>mūnicipium</latin>, <latin>colōnia</latin>, or <latin>cīvitās</latin>?"
+      question: "Which of these terms is not related to the others? <latin>stirps, vīcus, pagus, mūnicipium, colōnia</latin>, or <latin>cīvitās</latin>?"
       answer: "<latin>STIRPS</latin>"
     boni:
       - question: "Which of these terms is not related to the others? <latin>dupondius, āër, sestertius,</latin>  <latin>aureus, solidī, denarius</latin>?"

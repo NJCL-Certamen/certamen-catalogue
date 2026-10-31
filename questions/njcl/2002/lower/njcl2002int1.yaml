@@ -64,7 +64,7 @@ questions:
       - question: "Give the Latin noun at the ultimate root of \"handkerchief.\""
         answer: "<latin>CAPUT</latin>"
       - question: "Give the TWO Latin nouns at the root of \"dandelion.\""
-        answer: "<latin>DĒNS</latin>, <latin>LEŌ</latin>"
+        answer: "<latin>DĒNS, LEŌ</latin>"
   - tossup:
       question: "Who was the best Trojan archer during their war against the Greeks?"
       answer: "PARIS / ALEXANDER / ALEXANDROS"
@@ -80,12 +80,12 @@ questions:
       - question: "Quibus Vestālēs trīgintā <latin>annōs fungēbantur?</latin>"
         answer: "OFFICIĪS"
   - tossup:
-      question: "In which Roman province would you have found the following cities? <latin>Camulodunum</latin>, <latin>Verulamium</latin>, <latin>Dēva</latin>, <latin>Eborācum</latin>, <latin>Londinium</latin>"
+      question: "In which Roman province would you have found the following cities? <latin>Camulodunum, Verulamium, Dēva, Eborācum, Londinium</latin>"
       answer: "<latin>BRITANNIA</latin>/BRITAIN"
     boni:
-      - question: "Which of these cities was most northerly? <latin>Pisae</latin>, <latin>Capua</latin>, <latin>Tarentum</latin>, <latin>Beneventum</latin>"
+      - question: "Which of these cities was most northerly? <latin>Pisae, Capua, Tarentum, Beneventum</latin>"
         answer: "<latin>PISAE</latin>"
-      - question: "Which of these cities doesn’t belong geographically with the others? <latin>Syracusae</latin>, <latin>Messana</latin>, <latin>Nicopolis</latin>, <latin>Lilybaeum</latin>, <latin>Drepana</latin>"
+      - question: "Which of these cities doesn’t belong geographically with the others? <latin>Syracusae, Messana, Nicopolis, Lilybaeum, Drepana</latin>"
         answer: "<latin>NICOPOLIS</latin>"
   - tossup:
       question: "With respect to Latin grammar, how many subjunctive tenses are there?"

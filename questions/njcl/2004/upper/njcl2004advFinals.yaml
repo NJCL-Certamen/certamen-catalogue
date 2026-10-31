@@ -59,7 +59,7 @@ questions:
         answer: "ANTONIUS PRIMUS"
   - tossup:
       question: "What Latin verb with what meaning is at the root of the following: liable, league, oblige, religion?"
-      answer: "<latin>LIGŌ</latin>, <latin>LIGĀRE</latin>"
+      answer: "<latin>LIGŌ, LIGĀRE</latin>"
     boni:
       - question: "What derivative of <latin>ligō, ligāre</latin> means “the right to take the property of a debtor as payment for a debt”?"
         answer: "LIEN"

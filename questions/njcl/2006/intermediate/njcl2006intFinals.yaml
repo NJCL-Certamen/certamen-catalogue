@@ -24,7 +24,7 @@ questions:
       answer: "<latin>SCRĪPTUM</latin> & <latin>SCRĪPTŪ</latin>"
     boni:
       - question: "Give the singular and plural present imperatives of <latin>sequor</latin>."
-        answer: "<latin>SEQUERE</latin>, <latin>SEQUIMINĪ</latin>"
+        answer: "<latin>SEQUERE, SEQUIMINĪ</latin>"
       - question: "Give the alternate form of <latin>abūtēris</latin>."
         answer: "<latin>ABŪTĒRE</latin> "
   - tossup:
@@ -132,7 +132,7 @@ questions:
       - question: "Who reigned in Elysium, as opposed to Tartarus?"
         answer: "RHADAMANTHYS or CRONUS"
   - tossup:
-      question: "Which of the following are NOT correlative pairs? <latin>neque. . . neque</latin>, <latin>et. . . et</latin>, <latin>non sōlum. . . sed enim</latin>, or <latin>aut. . . aut</latin>, <latin>tantum . . . quantum</latin>  <latin>NŌN SŌLUM. . .</latin>"
+      question: "Which of the following are NOT correlative pairs? <latin>neque. . . neque, et. . . et, non sōlum. . . sed enim</latin>, or <latin>aut. . . aut, tantum . . . quantum</latin>  <latin>NŌN SŌLUM. . .</latin>"
       answer: "<latin>SED ENIM</latin> "
     boni:
       - question: "What pair of correlative adjectives mean “not only . . . But also”?"

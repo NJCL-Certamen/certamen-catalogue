@@ -74,7 +74,7 @@ questions:
       - question: "In the same sentence, translate into Latin, “to Sicily”?"
         answer: "<latin>AD SICILIAM</latin>"
       - question: "<latin>Sicilia</latin> requires a preposition because it does not use the locative case. The locative case is used with the names of cities, towns, small islands, and three other Latin nouns that denote places. Give the nominative singular of two of those Latin nouns"
-        answer: "<latin>DOMUS</latin>, <latin>RŪS</latin>, <latin>HUMUS</latin> "
+        answer: "<latin>DOMUS, RŪS, HUMUS</latin> "
   - tossup:
       question: "After the child Learchus was shot with an arrow, what mother and son jumped off a cliff into the sea to flee from the insane pursuit of Athamas?"
       answer: "INO AND MELICERTES"
@@ -156,7 +156,7 @@ questions:
       - question: "Ashamed at inheriting the throne of Argos by killing his grandfather, Perseus traded thrones with Megapenthes, the king of what nearby city?"
         answer: "TIRYNS"
   - tossup:
-      question: "Give a Latin noun that could be used to describe all of the following: <latin>proavia</latin>, <latin>mātertera</latin>, <latin>consōbrīnus</latin>, <latin>soror</latin>"
+      question: "Give a Latin noun that could be used to describe all of the following: <latin>proavia, mātertera, consōbrīnus, soror</latin>"
       answer: "<latin>FAMILIA</latin> / <latin>COGNĀTĪ</latin> / <latin>GĒNS / FAMILIĀRĒS</latin>"
     boni:
       - question: "What specific family member is your <latin>proavia</latin>?"

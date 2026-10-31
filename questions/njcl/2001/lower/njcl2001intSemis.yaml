@@ -52,7 +52,7 @@ questions:
       - question: "Which one is the equivalent of “No loitering!”?"
         answer: "A"
   - tossup:
-      question: "Of <latin>plaustrum</latin>, <latin>hōrologium</latin>, <latin>solea</latin>, <latin>castra</latin>, and <latin>arx</latin>, which is described in this Latin sentence: <latin>Est vehiculum rēbus ferendis aptum, praesertim apud rusticōs</latin>"
+      question: "Of <latin>plaustrum, hōrologium, solea, castra</latin>, and <latin>arx</latin>, which is described in this Latin sentence: <latin>Est vehiculum rēbus ferendis aptum, praesertim apud rusticōs</latin>"
       answer: "<latin>PLAUSTRUM</latin>"
     boni:
       - question: " . . . <latin>Est locus mūnītissimus urbis, summus et excelsus</latin>"
@@ -79,9 +79,9 @@ questions:
       question: "<latin>In hāc sententiā, “Cibus, cuius partem maximam cōnsumpsimus, tepidus est.”, quid Anglicē</latin> <latin>significat “cuius”?</latin>"
       answer: "OF WHICH"
     boni:
-      - question: "<latin>In hāc sententiā</latin>, <latin>quid Anglicē</latin> <latin>significat</latin> “<latin>Quī</latin>”? <latin>Quī</latin> <latin>errōrēs faciunt</latin>, <latin>pūnientur</latin>"
+      - question: "<latin>In hāc sententiā, quid Anglicē</latin> <latin>significat</latin> “<latin>Quī</latin>”? <latin>Quī</latin> <latin>errōrēs faciunt, pūnientur</latin>"
         answer: "THOSE WHO / THE ONES WHO / THEY WHO / WHO / PEOPLE WHO / WHOEVER"
-      - question: "<latin>In hāc sententiā</latin>, <latin>quid Anglicē</latin> <latin>significat</latin> “<latin>Quam</latin>”? <latin>Quam stultus es!</latin>"
+      - question: "<latin>In hāc sententiā, quid Anglicē</latin> <latin>significat</latin> “<latin>Quam</latin>”? <latin>Quam stultus es!</latin>"
         answer: "HOW"
   - tossup:
       question: "Who instructed Heracles to perform labors for Eurystheus?"

@@ -7,7 +7,7 @@ questions:
       question: "What letters are added to the third person endings of a verb in the present, imperfect, and future tenses to make it passive?"
       answer: "<latin>-UR</latin>"
     boni:
-      - question: "What do we call verbs such as <latin>ambulō</latin>, <latin>vireō</latin>, and <latin>caleō</latin>, which cannot be made passive under normal circumstances?"
+      - question: "What do we call verbs such as <latin>ambulō, vireō</latin>, and <latin>caleō</latin>, which cannot be made passive under normal circumstances?"
         answer: "INTRANSITIVE"
       - question: "Using a 3rd conjugation verb, say in Latin, “They will be killed.”"
         answer: "<latin>INTERFICIENTUR</latin> / <latin>CAEDENTUR</latin> / <latin>OCCĪDENTUR</latin>"
@@ -156,10 +156,10 @@ questions:
       - question: "What Latin phrase is commonly used in English to mean “masterpiece?”"
         answer: "<latin>MAGNUM OPUS</latin>"
   - tossup:
-      question: "Excluding its compounds, give a Latin synonym for the verb <latin>rogō</latin>, <latin>rogāre</latin>"
+      question: "Excluding its compounds, give a Latin synonym for the verb <latin>rogō, rogāre</latin>"
       answer: "<latin>PETŌ</latin>/ <latin>POSCŌ</latin>/ <latin>PERCONTOR</latin>/ <latin>QUAERŌ</latin>/ <latin>SCĪSCITOR</latin>/ <latin>SCĪTOR</latin>"
     boni:
       - question: "... for the verb <latin>temptō, temptāre</latin>"
         answer: "<latin>CONOR</latin>"
-      - question: "... for the verb <latin>mūtō</latin>, <latin>mūtāre</latin>"
+      - question: "... for the verb <latin>mūtō, mūtāre</latin>"
         answer: "<latin>VERTŌ</latin>/ <latin>CONVERTŌ</latin>/ <latin>NOVŌ</latin>"

@@ -111,9 +111,9 @@ questions:
       question: "Which of the following, if any, does NOT belong with the others because of case: <latin>iuvenum, librōrum, ducis, stellae, ātrium?</latin>"
       answer: "ĀTRIUM"
     boni:
-      - question: "<latin>sorōrī</latin>, <latin>diēbus</latin>, <latin>virī</latin>, <latin>aquae</latin>, <latin>dominō</latin>?"
+      - question: "<latin>sorōrī, diēbus, virī, aquae, dominō</latin>?"
         answer: "<latin>VIRĪ</latin>"
-      - question: "<latin>cordī</latin>, <latin>nūbe</latin>, <latin>animālī</latin>, <latin>prīncipibus</latin>, <latin>manū</latin>?"
+      - question: "<latin>cordī, nūbe, animālī, prīncipibus, manū</latin>?"
         answer: "<latin>CORDĪ</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Agricola senex, cum mortem sibi appropīnquāre sentīret, fīliōs convocāvit. Quibus allātīs, fascem rāmōrum parvōrum afferrī</latin> <latin>iubet. Fīliōs hortātur ut hunc fascem frangeret. Cum id facere non possent, docuit fīliōs suōs quam firma esset concordia.</latin>  Question: What did the old farmer order his sons to bring to him?"

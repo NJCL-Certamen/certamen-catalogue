@@ -18,14 +18,14 @@ questions:
       - question: "Change <latin>nōs</latin> to the accusative singular."
         answer: "<latin>MĒ</latin>"
       - question: "Give the dative forms for <latin>nōs</latin> and for <latin>mē</latin>."
-        answer: "<latin>NŌBĪS</latin>, <latin>MIHI</latin> "
+        answer: "<latin>NŌBĪS, MIHI</latin> "
   - tossup:
-      question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>amō</latin>, <latin>amīcus</latin>, <latin>inimīcus</latin>, <latin>ambulō</latin> <latin>AMBULŌ</latin>"
+      question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>amō, amīcus, inimīcus, ambulō</latin> <latin>AMBULŌ</latin>"
       answer: "<latin>AMBULŌ</latin>"
     boni:
-      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>liber</latin>, <latin>līberō</latin>, <latin>lībertās</latin>, <latin>līberī</latin> <latin>LIBER</latin> "
+      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>liber, līberō, lībertās, līberī</latin> <latin>LIBER</latin> "
         answer: "<latin>LIBER</latin>"
-      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>effectus</latin>, <latin>faciō</latin>, <latin>officium</latin>, <latin>factum</latin> "
+      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>effectus, faciō, officium, factum</latin> "
         answer: "THEY ARE ALL RELATED"
   - tossup:
       question: "Who was the mother of Clytemnestra and Helen?"
@@ -106,7 +106,7 @@ questions:
       - question: "Change <latin>esse</latin> to the perfect."
         answer: "<latin>FUISSE</latin> "
       - question: "Give the present and perfect active infinitives for the verb <latin>vehō</latin>."
-        answer: "<latin>VEHERE</latin>, <latin>VEXISSE</latin> "
+        answer: "<latin>VEHERE, VEXISSE</latin> "
   - tossup:
       question: "Which of the magistrates of republican Rome held office for 18 months?"
       answer: "CENSORS"

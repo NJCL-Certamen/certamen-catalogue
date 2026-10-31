@@ -4,7 +4,7 @@ division: "Novice"
 round: "Round 3"
 questions:
   - tossup:
-      question: "Which of these body parts would be highest on a standing human: <latin>genū</latin>, <latin>lingua</latin>, <latin>supercilium</latin>, <latin>nāsus</latin>?"
+      question: "Which of these body parts would be highest on a standing human: <latin>genū, lingua, supercilium, nāsus</latin>?"
       answer: "<latin>SUPERCILIUM</latin>"
     boni:
       - question: "What second declension noun names the body part on which a Roman would wear an <latin>ānulus</latin>?"
@@ -109,12 +109,12 @@ questions:
         answer: "<latin>MĀNE</latin>"
   - tossup:
       question: "For the adjective <latin>longus</latin>, give the comparative and superlative forms"
-      answer: "<latin>LONGIOR</latin>, <latin>LONGISSIMUS</latin>"
+      answer: "<latin>LONGIOR, LONGISSIMUS</latin>"
     boni:
-      - question: "Now give the corresponding adverbial forms of <latin>longus</latin>, <latin>longior</latin>, and <latin>longissimus</latin>"
-        answer: "<latin>LONGĒ</latin>, <latin>LONGIUS</latin>, <latin>LONGISSIMĒ</latin>"
+      - question: "Now give the corresponding adverbial forms of <latin>longus, longior</latin>, and <latin>longissimus</latin>"
+        answer: "<latin>LONGĒ, LONGIUS, LONGISSIMĒ</latin>"
       - question: "Give the comparative and superlative forms of the adjective <latin>misera</latin>"
-        answer: "<latin>MISERIOR</latin>, <latin>MISERRIMA</latin>"
+        answer: "<latin>MISERIOR, MISERRIMA</latin>"
   - tossup:
       question: "What river of fire surrounded Tartarus?"
       answer: "(PERI)PHLEGETHON"
@@ -148,12 +148,12 @@ questions:
       - question: "When Helen’s brothers rescued her from Athens, they decided to take some women of their own. What mother of Theseus did they abduct to be a servant for Helen?"
         answer: "AETHRA"
   - tossup:
-      question: "What English verb, a derivative of <latin>dō</latin>, <latin>dare</latin>, means “to deliver a criminal or fugitive to the country of his or her citizenship”?"
+      question: "What English verb, a derivative of <latin>dō, dare</latin>, means “to deliver a criminal or fugitive to the country of his or her citizenship”?"
       answer: "EXTRADITE"
     boni:
       - question: "What derivative of a compound of <latin>dō</latin> that literally means “to give through” is an English noun meaning “a state of spiritual ruin, damnation”?"
         answer: "PERDITION"
-      - question: "What Latin verb, a compound of a prefix meaning “away from“ and <latin>dō</latin>, <latin>dare</latin>” means “hide”?"
+      - question: "What Latin verb, a compound of a prefix meaning “away from“ and <latin>dō, dare</latin>” means “hide”?"
         answer: "<latin>ABDŌ</latin>"
   - tossup:
       question: "Give the term for the usage of the verb form of <latin>salūtō</latin> in this sentence: <latin>Meus frāter magistrōs salūtāre dēbet</latin>"

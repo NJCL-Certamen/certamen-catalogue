@@ -132,7 +132,7 @@ questions:
       - question: "To whom are the characters in picture B praying?"
         answer: "THEMIS / ZEUS"
   - tossup:
-      question: "To what general category of objects do the following belong: <latin>armarium</latin>, <latin>solium</latin>, <latin>arca</latin>, <latin>cathedra</latin>, and <latin>lectus</latin>?"
+      question: "To what general category of objects do the following belong: <latin>armarium, solium, arca, cathedra</latin>, and <latin>lectus</latin>?"
       answer: "(HOUSEHOLD) FURNITURE "
     boni:
       - question: "Which two items from the tossup were used for storage?"
@@ -172,10 +172,10 @@ questions:
       - question: "Translate: <latin>mē oportet plus somnī obtinēre</latin>"
         answer: "I MUST/SHOULD GET MORE SLEEP"
   - tossup:
-      question: "Which of the following words does not belong because of meaning: <latin>autumnus</latin>, <latin>aetās, hiems</latin>, <latin>vēr</latin>?"
+      question: "Which of the following words does not belong because of meaning: <latin>autumnus, aetās, hiems, vēr</latin>?"
       answer: "<latin>AETĀS</latin>"
     boni:
-      - question: "Give a Latin noun for the fourth season that belongs with <latin>autumnus</latin>, <latin>hiems</latin>, and <latin>vēr</latin>"
+      - question: "Give a Latin noun for the fourth season that belongs with <latin>autumnus, hiems</latin>, and <latin>vēr</latin>"
         answer: "<latin>AESTĀS</latin>"
       - question: "Which of the nouns in the tossup would be most associated with the Latin adjectives <latin>nīveus</latin>?"
         answer: "<latin>HIEMS</latin>"
@@ -210,7 +210,7 @@ questions:
       - question: "You may also see the abbreviation <latin>q.v.</latin>, which can have two different meanings. For five point each name both"
         answer: "<latin>QUANTUM VĪS</latin> - AS MUCH AS YOU WANT, <latin>QUOD VIDĒ</latin> - WHICH SEE/LOOK UP MORE INFO UNDER THIS LISTING"
   - tossup:
-      question: "Which of the following items does NOT belong because of how it was used: <latin>sōlārium</latin>, <latin>lucerna</latin>, <latin>fax</latin>, or <latin>candēla</latin>?"
+      question: "Which of the following items does NOT belong because of how it was used: <latin>sōlārium, lucerna, fax</latin>, or <latin>candēla</latin>?"
       answer: "<latin>SŌLĀRIUM</latin>"
     boni:
       - question: "What was a <latin>sōlārium</latin>?"

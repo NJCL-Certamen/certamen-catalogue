@@ -4,12 +4,12 @@ division: "Intermediate"
 round: "Semifinals"
 questions:
   - tossup:
-      question: "What do all of the following nouns have in common: <latin>moenia</latin>, <latin>dīvitiae</latin>, and <latin>arma</latin>?"
+      question: "What do all of the following nouns have in common: <latin>moenia, dīvitiae</latin>, and <latin>arma</latin>?"
       answer: "USUALLY / EXCLUSIVELY FOUND IN THE PLURAL"
     boni:
-      - question: "What do all of these have in common: <latin>castra</latin>, <latin>cōpiae</latin>, <latin>aquae</latin>, <latin>mōrēs</latin>?"
+      - question: "What do all of these have in common: <latin>castra, cōpiae, aquae, mōrēs</latin>?"
         answer: "DIFFERENT MEANINGS IN THE SINGULAR AND PLURAL"
-      - question: "Other than their declension, what do all of these have in common: <latin>Corinthus</latin>, <latin>Aegyptus</latin>, <latin>humus</latin>?"
+      - question: "Other than their declension, what do all of these have in common: <latin>Corinthus, Aegyptus, humus</latin>?"
         answer: "THEY ARE <emphasis>FEMININE</emphasis> NOUNS"
   - tossup:
       question: "What Latin phrase is used in law to describe a collection of all the laws of a nation?"
@@ -76,7 +76,7 @@ questions:
       - question: "What unsuccessful legislative proposal led to Spurius Cassius’ eventual execution, since many believed he aspired to become king through demagoguery?"
         answer: "AGRARIAN LAW (FAVORING THE PLEBEIANS)"
   - tossup:
-      question: "Which of the following prepositions, if any, is not used with the accusative case: <latin>intrā</latin>, <latin>adversus</latin>, <latin>ergā</latin>, <latin>apud</latin>, <latin>tenus?</latin>"
+      question: "Which of the following prepositions, if any, is not used with the accusative case: <latin>intrā, adversus, ergā, apud, tenus?</latin>"
       answer: "<latin>TENUS</latin> "
     boni:
       - question: "Using a preposition, say in Latin, “On this side of the mountains.”"
@@ -144,9 +144,9 @@ questions:
       answer: "<latin>FĪNIS, TERMINUS, EXITUS, EXITIUM</latin>  (Do not take “<latin>mors</latin>”)"
     boni:
       - question: "<latin>iuventūs</latin>."
-        answer: "<latin>SENECTŪS</latin>, <latin>SENECTA</latin>, <latin>ANĪLITĀS</latin>"
+        answer: "<latin>SENECTŪS, SENECTA, ANĪLITĀS</latin>"
       - question: "<latin>vigilantia</latin>."
-        answer: "<latin>REQUIĒS, QUIĒS, SOPOR</latin>, <latin>SOMNUS</latin>, <latin>DORMITĀTIŌ</latin>, <latin>DORMITIŌ</latin>"
+        answer: "<latin>REQUIĒS, QUIĒS, SOPOR, SOMNUS, DORMITĀTIŌ, DORMITIŌ</latin>"
   - tossup:
       question: "What did Heracles fetch as one of his labors for Eurystheus’ daughter?"
       answer: "HIPPOLYTE’S GIRDLE / BELT"

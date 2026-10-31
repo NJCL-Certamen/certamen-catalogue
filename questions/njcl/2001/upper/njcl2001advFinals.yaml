@@ -108,7 +108,7 @@ questions:
       - question: "What was the term for the chair in which a teacher/professor/rhetor would sit?"
         answer: "<latin>CATHEDRA</latin>"
   - tossup:
-      question: "Of <latin>fritillus</latin>, <latin>flagellum</latin>, <latin>cohors</latin>, <latin>habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā</latin> <latin>imposita cadāvera cremābantur</latin>"
+      question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā</latin> <latin>imposita cadāvera cremābantur</latin>"
       answer: "<latin>ROGUS</latin>"
     boni:
       - question: " . . . <latin>Est lōrum frēnō</latin> <latin>alligātum, quō</latin> <latin>equī</latin> <latin>reguntur</latin>"
@@ -140,12 +140,12 @@ questions:
       - question: "<emphasis>or</emphasis> WITH A ROMAN SETTING Give the Latin titles of Naevius’ <title><latin>fabulae praetextae</latin></title>"
         answer: "<title><latin>ROMULUS</latin></title> AND <title><latin>CLASTIDIUM</latin></title>"
   - tossup:
-      question: "Which of the following nouns, if any, is NOT heterogeneous: <latin>balneum</latin>, <latin>castrum</latin>, <latin>epulum</latin>, <latin>locus</latin>, <latin>dēlicium</latin>?"
+      question: "Which of the following nouns, if any, is NOT heterogeneous: <latin>balneum, castrum, epulum, locus, dēlicium</latin>?"
       answer: "<latin>CASTRUM</latin>"
     boni:
-      - question: "Which of the following nouns, if any, is NOT a heteroclite: <latin>domus</latin>, <latin>pecus</latin>, <latin>colus</latin>, <latin>penus</latin>, <latin>iecur</latin>?"
+      - question: "Which of the following nouns, if any, is NOT a heteroclite: <latin>domus, pecus, colus, penus, iecur</latin>?"
         answer: "THEY ALL ARE HETEROCLITES / NONE OF THEM"
-      - question: "- “none of them” is correct and is fine as is, BUT if student says “all of them”, then prompt to let them explain their answer Which of the following nouns, if any, is NOT of the same gender as the others: <latin>vēr</latin>, <latin>gelū</latin>, <latin>marmor</latin>, <latin>dōs</latin>, <latin>vās</latin>?"
+      - question: "- “none of them” is correct and is fine as is, BUT if student says “all of them”, then prompt to let them explain their answer Which of the following nouns, if any, is NOT of the same gender as the others: <latin>vēr, gelū, marmor, dōs, vās</latin>?"
         answer: "<latin>DŌS</latin>"
   - tossup:
       question: "What daughter of Chiron the centaur was a chaste companion of Artemis until she was violated by King Aeolus?"

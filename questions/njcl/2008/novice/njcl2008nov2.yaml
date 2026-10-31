@@ -64,7 +64,7 @@ questions:
       answer: "365 / 366 (LEAP YEAR)"
     boni:
       - question: "<latin>Respondē Latīnē: Quot annī tibi sunt?</latin>"
-        answer: "ONE STUDENT SHOULD GIVE AN ANSWER IN LATIN FOR HOW OLD (S)HE IS (e.g. <latin>quattuordecim</latin>, <latin>quīndecim</latin>, <latin>sēdecim</latin>, etc.)"
+        answer: "ONE STUDENT SHOULD GIVE AN ANSWER IN LATIN FOR HOW OLD (S)HE IS (e.g. <latin>quattuordecim, quīndecim, sēdecim</latin>, etc.)"
       - question: "<latin>Respondē Latīnē: Quot sunt centum et centum?</latin>"
         answer: "DUCENTĪ /-AE / -A"
   - tossup:
@@ -157,9 +157,9 @@ questions:
         answer: "<latin>POST SCRĪPTUM</latin>, WRITTEN AFTERWARDS / WRITTEN BELOW"
   - tossup:
       question: "Give the comparative and superlative forms for the adjective <latin>cārus</latin>"
-      answer: "<latin>CĀRIOR</latin>, <latin>CĀRISSIMUS</latin>"
+      answer: "<latin>CĀRIOR, CĀRISSIMUS</latin>"
     boni:
       - question: "Give the comparative and superlative forms for <latin>parvus</latin>"
-        answer: "<latin>MINOR</latin>, <latin>MINIMUS</latin>"
+        answer: "<latin>MINOR, MINIMUS</latin>"
       - question: "Give the comparative and superlative forms for the adjective <latin>crūdēlis</latin>"
-        answer: "<latin>CRŪDĒLIOR</latin>, <latin>CRŪDĒLISSIMUS 2008 NJCL CERTAMEN NOVICE DIVISION</latin>"
+        answer: "<latin>CRŪDĒLIOR, CRŪDĒLISSIMUS 2008 NJCL CERTAMEN NOVICE DIVISION</latin>"

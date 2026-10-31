@@ -101,12 +101,12 @@ questions:
         answer: "BURDEN, LOAD"
   - tossup:
       question: "Give a synonym of <latin>laetus</latin>"
-      answer: "<latin>BEĀTUS</latin>, <latin>FĒLĪX</latin>, <latin>FORTŪNĀTUS</latin>"
+      answer: "<latin>BEĀTUS, FĒLĪX, FORTŪNĀTUS</latin>"
     boni:
       - question: ". . . of the adjective <latin>cēterī</latin>"
-        answer: "<latin>ALIĪ,RELIQUĪ</latin>, <latin>SUPERFLUĪ, SUPERSTITĒS</latin>"
+        answer: "<latin>ALIĪ,RELIQUĪ, SUPERFLUĪ, SUPERSTITĒS</latin>"
       - question: ". . . of <latin>nōtus</latin>"
-        answer: "<latin>(PRAE)CLĀRUS</latin>, <latin>CELEBER</latin>, <latin>NŌBILIS, ĒGREGIUS,INSIGNIS</latin>"
+        answer: "<latin>(PRAE)CLĀRUS, CELEBER, NŌBILIS, ĒGREGIUS,INSIGNIS</latin>"
   - tossup:
       question: "Who lays the curse on Aeneas and his descendants that they would always be enemies of Carthage?"
       answer: "DIDO"
@@ -124,7 +124,7 @@ questions:
       - question: "Which god did Ariadne marry after Theseus abandoned her on Naxos?"
         answer: "BACCHUS / DIONYSUS / BROMIOS"
   - tossup:
-      question: "Consider these phrases: <latin>sub aquā, apud grammaticum, in silvā, in apodyteriō</latin>, <latin>humī</latin> Which of those phrases would be associated with this sentence: <latin>Vir tibi dīcit, “Tolle tabulās et scrībe meās sententiās.”</latin>"
+      question: "Consider these phrases: <latin>sub aquā, apud grammaticum, in silvā, in apodyteriō, humī</latin> Which of those phrases would be associated with this sentence: <latin>Vir tibi dīcit, “Tolle tabulās et scrībe meās sententiās.”</latin>"
       answer: "<latin>APUD GRAMMATICUM</latin>"
     boni:
       - question: "Which of those phrases would be associated with the sentence: <latin>Tū</latin> <latin>es nūdus et servīs vestīmenta trādis</latin>"

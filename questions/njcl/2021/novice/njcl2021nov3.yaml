@@ -95,9 +95,9 @@ questions:
       question: "Distinguish in meaning between the nouns <latin>casa</latin> and <latin>causa</latin>."
       answer: "HOUSE AND CAUSE / REASON, RESPECTIVELY"
     boni:
-      - question: "Distinguish in meaning among these three nouns: <latin>cor</latin>, <latin>corōna</latin>, and <latin>cornū</latin>."
+      - question: "Distinguish in meaning among these three nouns: <latin>cor, corōna</latin>, and <latin>cornū</latin>."
         answer: "HEART, CROWN, AND HORN / WING OF AN ARMY, RESPECTIVELY"
-      - question: "Distinguish in meaning among these three nouns: <latin>caedēs</latin>, <latin>caelum</latin>, and <latin>carmen</latin>."
+      - question: "Distinguish in meaning among these three nouns: <latin>caedēs, caelum</latin>, and <latin>carmen</latin>."
         answer: "SLAUGHTER / KILLING / MURDER, SKY, AND SONG, RESPECTIVELY"
   - tossup:
       question: "What Roman general won battles at Perinthus, Cyzicus, Nicaea, Issus, and Lugdunum before he could claim sole rule of the Roman empire in 197 AD, though he had been proclaimed emperor 4 years earlier, making him the first Roman emperor born in Africa?"

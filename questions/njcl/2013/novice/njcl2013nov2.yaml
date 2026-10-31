@@ -28,12 +28,12 @@ questions:
       - question: "In the tetrarchy, there were two senior rulers, one for each half of the Empire, called <latin>Augustī</latin>. What were the two junior rulers called?"
         answer: "<latin>CAESARĒS</latin> / CAESARS"
   - tossup:
-      question: "Which of the following Latin nouns, if any, does not belong because of <emphasis>gender</emphasis>: <latin>cor</latin>, <latin>collum</latin>, <latin>ōs</latin>, <latin>pēs</latin>, <latin>genū</latin>?"
+      question: "Which of the following Latin nouns, if any, does not belong because of <emphasis>gender</emphasis>: <latin>cor, collum, ōs, pēs, genū</latin>?"
       answer: "<latin>PĒS</latin> "
     boni:
-      - question: "Which of the following Latin nouns, if any, does not belong because of <latin>declension</latin>: <latin>virgō</latin>, <latin>nāvis</latin>, <latin>rēs</latin>, <latin>rēx</latin>, <latin>mīles</latin>?"
+      - question: "Which of the following Latin nouns, if any, does not belong because of <latin>declension</latin>: <latin>virgō, nāvis, rēs, rēx, mīles</latin>?"
         answer: "<latin>RĒS</latin> "
-      - question: "Which of the following Latin noun forms, if any, does not belong because of <emphasis>case</emphasis>: <latin>vīllās</latin>, <latin>deās</latin>, <latin>lībertās</latin>, <latin>arēnās</latin>, <latin>flammās</latin>?"
+      - question: "Which of the following Latin noun forms, if any, does not belong because of <emphasis>case</emphasis>: <latin>vīllās, deās, lībertās, arēnās, flammās</latin>?"
         answer: "<latin>LĪBERTĀS</latin> "
   - tossup:
       question: "<latin>Quae fēmina arma prope sē nōn cupiēbat?</latin> "
@@ -76,10 +76,10 @@ questions:
       - question: "What was a <latin>merenda</latin>?"
         answer: "AN (AFTERNOON) SNACK"
   - tossup:
-      question: "Identify the case of each of the following words: <latin>ūnīus</latin>, <latin>tōtīus</latin>, <latin>illīus</latin>, <latin>cuius</latin>, <latin>huius</latin>"
+      question: "Identify the case of each of the following words: <latin>ūnīus, tōtīus, illīus, cuius, huius</latin>"
       answer: "GENITIVE"
     boni:
-      - question: "Give the dative singular forms of those five words: <latin>ūnīus</latin>, <latin>tōtīus</latin>, <latin>illīus</latin>, <latin>cuius</latin>, <latin>huius</latin>"
+      - question: "Give the dative singular forms of those five words: <latin>ūnīus, tōtīus, illīus, cuius, huius</latin>"
         answer: "<latin>ŪNĪ, TŌTĪ, ILLĪ, CUI, HUIC</latin> "
       - question: "Name another adjective and its antonym, both of which form their genitive and dative singular using the same pattern. "
         answer: "<latin>NŪLLUS / ŪLLUS</latin> OR <latin>NEUTER / UTER</latin> "

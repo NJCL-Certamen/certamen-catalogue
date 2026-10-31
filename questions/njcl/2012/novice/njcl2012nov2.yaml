@@ -95,7 +95,7 @@ questions:
       question: "Which of the following Latin words, if any, does not belong because of gender: <latin>multitūdō, mare, nāvis, lūx, fēmina</latin>?"
       answer: "<latin>MARE</latin>"
     boni:
-      - question: "Which of these Latin words, if any, does not belong because of gender: <latin>somnium</latin>, <latin>vulnus, cornū, carmen</latin>?"
+      - question: "Which of these Latin words, if any, does not belong because of gender: <latin>somnium, vulnus, cornū, carmen</latin>?"
         answer: "NONE / ALL THE SAME GENDER (NEUTER)"
       - question: "Which of the following Latin words, if any, is a different declension from the others: <latin>aedificium, stilus, puer, tumultus</latin>?"
         answer: "<latin>TUMULTUS</latin>"

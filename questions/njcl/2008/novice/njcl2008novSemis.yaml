@@ -4,7 +4,7 @@ division: "Novice"
 round: "Semifinals"
 questions:
   - tossup:
-      question: "For the verb <latin>volō</latin>, <latin>velle</latin>, give the 3rd person singular, present, indicative"
+      question: "For the verb <latin>volō, velle</latin>, give the 3rd person singular, present, indicative"
       answer: "<latin>VULT</latin>"
     boni:
       - question: "Give the corresponding form for <latin>nōlō</latin>"
@@ -29,7 +29,7 @@ questions:
         answer: "NEUTRIUS"
   - tossup:
       question: "What Latin noun with what meaning is the root of the following words: journal, meridian, diurnal, diary?"
-      answer: "<latin>DIĒS</latin>, <latin>(-ĒĪ</latin>) – DAY"
+      answer: "<latin>DIĒS, (-ĒĪ</latin>) – DAY"
     boni:
       - question: "From what Latin noun with what meaning do we derive the English adjective “otiose”?"
         answer: "<latin>ŌTIUM, (ŌTĪ)</latin> – LEISURE"
@@ -172,7 +172,7 @@ questions:
       - question: "At which of the Panhellenic gatherings did Flamininus proclaim the “Freedom of Greece”?"
         answer: "ISTHMIAN GAMES"
   - tossup:
-      question: "Which of the following Latin nouns does NOT belong to the same declension as the others? <latin>uxor</latin>, <latin>vulnus</latin>, <latin>tempus</latin>, <latin>impetus</latin>, <latin>arbor</latin>, <latin>lēx</latin>"
+      question: "Which of the following Latin nouns does NOT belong to the same declension as the others? <latin>uxor, vulnus, tempus, impetus, arbor, lēx</latin>"
       answer: "IMPETUS"
     boni:
       - question: "Give the declension and usual gender of the noun <latin>merīdiēs</latin>. 5th,"

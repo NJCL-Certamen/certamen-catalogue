@@ -5,7 +5,7 @@ round: "Finals"
 questions:
   - tossup:
       question: "Give the Latin verb and its meaning at the root of “pry,” ”prison,” and “apprehend.”"
-      answer: "<latin>PREHENDŌ, PREHENDERE</latin> - TAKE HOLD OF, SEIZE, CATCH or <latin>PRAEHENDŌ</latin>, <latin>PRAEHENDERE</latin> "
+      answer: "<latin>PREHENDŌ, PREHENDERE</latin> - TAKE HOLD OF, SEIZE, CATCH or <latin>PRAEHENDŌ, PRAEHENDERE</latin> "
     boni:
       - question: "What English derivative of the perfect participle of <latin>prehendō</latin> means “one who is learning a trade or occupation”?"
         answer: "APPRENTICE"
@@ -85,12 +85,12 @@ questions:
         answer: "<latin>SENĀTUS CŌNSULĪ</latin> <latin>IMPERĀVIT UT DOMĪ</latin> <latin>MANĒRET /</latin>  <latin>SENĀTUS IMPERĀVIT UT CŌNSUL DOMĪ</latin> <latin>MANĒRET</latin> "
   - tossup:
       question: "Give a synonym of the verb <latin>inveniō</latin>."
-      answer: "<latin>REPERIŌ</latin>, <latin>COMPERIŌ</latin>"
+      answer: "<latin>REPERIŌ, COMPERIŌ</latin>"
     boni:
       - question: "<latin>metuō</latin>."
-        answer: "<latin>TIMEŌ</latin>, <latin>VEREOR</latin>"
+        answer: "<latin>TIMEŌ, VEREOR</latin>"
       - question: "<latin>perdō</latin>."
-        answer: "<latin>DĒSTRUŌ</latin>, <latin>VASTŌ</latin>, <latin>DĒLĒO</latin> "
+        answer: "<latin>DĒSTRUŌ, VASTŌ, DĒLĒO</latin> "
   - tossup:
       question: "What guerrilla leader trapped an entire Roman army in Lusitania in 141 BC, but spared them in exchange for a treaty?"
       answer: "VIRIATHUS"

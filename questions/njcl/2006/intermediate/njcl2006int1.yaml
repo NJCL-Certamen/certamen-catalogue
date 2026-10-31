@@ -17,7 +17,7 @@ questions:
     boni:
       - question: "Give the first three principal parts of the verb at the root of the words in the toss up."
         answer: "<latin>STŌ, STARE, STETĪ</latin> - STAND, ENDURE, REMAIN"
-      - question: "What derivative of <latin>stō</latin>, <latin>stare</latin> means “the strength to resist or to withstand”?"
+      - question: "What derivative of <latin>stō, stare</latin> means “the strength to resist or to withstand”?"
         answer: "STAMINA"
   - tossup:
       question: "What Roman god was known to early Italians as Mamers, Maris, or Mavors?"
@@ -100,7 +100,7 @@ questions:
       - question: "<latin>Vīgintī</latin> <latin>lēgātōs mīsit quī</latin> <latin>pācem peterent.</latin> "
         answer: "HE SENT TWENTY AMBASSADORS TO SEEK PEACE"
   - tossup:
-      question: "What case use is seen in such words as <latin>Brundisī</latin>, <latin>domī</latin>, <latin>Delphīs</latin> and <latin>Rōmae</latin>?"
+      question: "What case use is seen in such words as <latin>Brundisī, domī, Delphīs</latin> and <latin>Rōmae</latin>?"
       answer: "LOCATIVE"
     boni:
       - question: "What case use is seen in such phrases as <latin>multum aquae</latin> and <latin>numerus līberōrum</latin>?"
@@ -140,7 +140,7 @@ questions:
       - question: "Using just one irregular verbs, say in Latin, “I don’t want to stay at home.”"
         answer: "<latin>DOMĪ</latin> <latin>/ APUD MĒ</latin> <latin>(RĒ)MANĒRE NŌLŌ</latin>"
   - tossup:
-      question: "Which of the following prepositions, if any, CANNOT take the ablative case? <latin>Cum</latin>, <latin>cōram</latin>, <latin>apud</latin>, <latin>in</latin>, <latin>sub?</latin>"
+      question: "Which of the following prepositions, if any, CANNOT take the ablative case? <latin>Cum, cōram, apud, in, sub?</latin>"
       answer: "<latin>APUD</latin> "
     boni:
       - question: "What is special about the prepositions <latin>subter</latin> & <latin>super</latin>?"

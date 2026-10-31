@@ -12,7 +12,7 @@ questions:
       - question: "Quō <latin>consiliō</latin> <latin>Claudius pullōs sacrōs in mare dēmīsit?</latin> "
         answer: "<latin>UT BIBERENT / UT EŌS NECĀRET</latin>"
   - tossup:
-      question: "Of <latin>tibicen</latin>, <latin>theātrum</latin>, <latin>templum</latin>, <latin>rostrum</latin>, and <latin>nāvis</latin>, which is described in this Latin sentence: <latin>Est aedificium ad spectandōs lūdōs factum</latin>"
+      question: "Of <latin>tibicen, theātrum, templum, rostrum</latin>, and <latin>nāvis</latin>, which is described in this Latin sentence: <latin>Est aedificium ad spectandōs lūdōs factum</latin>"
       answer: "<latin>THEĀTRUM</latin>"
     boni:
       - question: ". . . <latin>Est machina quā</latin> <latin>per mare aut flūmen nāvigāmus</latin>"
@@ -36,12 +36,12 @@ questions:
       - question: "means “unnecessary or unwarranted?”"
         answer: "GRATUITOUS"
   - tossup:
-      question: "What derivative of the Latin verb <latin>regō</latin>, <latin>regere</latin> means “incapable of being corrected or reformed?”"
+      question: "What derivative of the Latin verb <latin>regō, regere</latin> means “incapable of being corrected or reformed?”"
       answer: "INCORRIGIBLE"
     boni:
-      - question: "What derivative of the Latin verb <latin>condō</latin>, <latin>condere</latin> means “not easily understood, hidden?”"
+      - question: "What derivative of the Latin verb <latin>condō, condere</latin> means “not easily understood, hidden?”"
         answer: "RECONDITE"
-      - question: "What derivative of the Latin verb <latin>precor</latin>, <latin>precārī</latin> means “to deplore?”"
+      - question: "What derivative of the Latin verb <latin>precor, precārī</latin> means “to deplore?”"
         answer: "DEPRECATE"
   - tossup:
       question: "Using the noun <latin>virgō</latin>, give the dative plural of “ two virgins.”"
@@ -53,7 +53,7 @@ questions:
         answer: "<latin>ŪNĪ</latin> <latin>EXERCITUĪ</latin>"
   - tossup:
       question: "The noun <latin>capitī</latin> does NOT agree with which of the following adjectives?"
-      answer: "<emphasis>Ū</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis>, <latin>MAGNŌ</latin>, <latin>ŪNĪ</latin>"
+      answer: "<emphasis>Ū</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis>, <latin>MAGNŌ, ŪNĪ</latin>"
     boni:
       - question: "The noun <latin>sanguinis</latin> CAN agree with which of the following adjectives?"
         answer: "<latin>RUBER</latin>, <emphasis><latin>RUBR</latin></emphasis><emphasis>Ī</emphasis>, <latin>RUBRIS</latin>"
@@ -85,20 +85,20 @@ questions:
         answer: "<latin>NŌLĪMUS</latin>"
   - tossup:
       question: "What is the antonym of the adjective <latin>tenuis</latin>?"
-      answer: "<latin>CRASSUS</latin>, <latin>OBĒSUS</latin>, <latin>TURDUS</latin>, <latin>OBTŪSUS</latin>"
+      answer: "<latin>CRASSUS, OBĒSUS, TURDUS, OBTŪSUS</latin>"
     boni:
       - question: " Of <latin>dīligēns</latin>?"
-        answer: "<latin>SĒCŪRUS</latin>, <latin>NEGLIGENS</latin>, <latin>DISSOLŪTUS</latin>, <latin>PIGER</latin>"
+        answer: "<latin>SĒCŪRUS, NEGLIGENS, DISSOLŪTUS, PIGER</latin>"
       - question: "Of the adjective <latin>mīrus</latin>?"
-        answer: "<latin>ŪSITĀTUS</latin>, <latin>MEDIOCRIS</latin>, <latin>VULGĀRIS</latin>, <latin>ORDINĀRIUS</latin>"
+        answer: "<latin>ŪSITĀTUS, MEDIOCRIS, VULGĀRIS, ORDINĀRIUS</latin>"
   - tossup:
       question: "Give a Latin antonym for the conjunction <latin>etsī</latin>"
-      answer: "<latin>QUIA</latin>, <latin>QUONIAM</latin>, <latin>CUM</latin>, <latin>NAM</latin>, <latin>ENIM</latin>"
+      answer: "<latin>QUIA, QUONIAM, CUM, NAM, ENIM</latin>"
     boni:
       - question: ". . . for the conjunction <latin>priusquam</latin>"
         answer: "<latin>POSTQUAM</latin>"
       - question: ". . . for the conjunction <latin>numquam</latin>"
-        answer: "<latin>SEMPER</latin>, <latin>ASSIDUĒ</latin>, <latin>PERPETUŌ</latin>"
+        answer: "<latin>SEMPER, ASSIDUĒ, PERPETUŌ</latin>"
   - tossup:
       question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>auris</latin>”?"
       answer: "EAR"

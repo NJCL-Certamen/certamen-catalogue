@@ -4,12 +4,12 @@ division: "Intermediate"
 round: "Round 2"
 questions:
   - tossup:
-      question: "What do the following verbs have in common? <latin>immineō, pāreō</latin>, <latin>invideō</latin>, <latin>parcō</latin>."
+      question: "What do the following verbs have in common? <latin>immineō, pāreō, invideō, parcō</latin>."
       answer: "THEY TAKE DATIVE OBJECTS"
     boni:
-      - question: "Besides the fact that they are deponent verbs, what do the following have in common: <latin>potior</latin>, <latin>vēscor</latin>, <latin>fungor</latin>."
+      - question: "Besides the fact that they are deponent verbs, what do the following have in common: <latin>potior, vēscor, fungor</latin>."
         answer: "THEY TAKE ABLATIVE OBJECTS"
-      - question: "What do the following adjectives have in common? <latin>sōlus</latin>, <latin>uter</latin>, <latin>ūnus</latin>."
+      - question: "What do the following adjectives have in common? <latin>sōlus, uter, ūnus</latin>."
         answer: "THEY HAVE <latin>-</latin><latin>ĪUS</latin> IN THE GENITIVE AND <latin>-Ī</latin> IN THE DATIVE"
   - tossup:
       question: "What English derivative of the Latin noun <latin>genus</latin> means “to produce or bring into existence”?"

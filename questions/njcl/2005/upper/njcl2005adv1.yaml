@@ -45,7 +45,7 @@ questions:
         answer: "<title><latin>CAPTĪVĪ</latin> / “THE CAPTIVES”</title>"
   - tossup:
       question: "Give the Latin verb and its meaning at the root of “desultory.”"
-      answer: "<latin>SALIŌ, SALĪRE</latin> - LEAP, JUMP (Not from “<latin>saltō</latin>, <latin>saltāre</latin>.” If “<latin>dēsiliō</latin>” is given, prompt student to take it back.)"
+      answer: "<latin>SALIŌ, SALĪRE</latin> - LEAP, JUMP (Not from “<latin>saltō, saltāre</latin>.” If “<latin>dēsiliō</latin>” is given, prompt student to take it back.)"
     boni:
       - question: "Give the Latin noun and its meaning at the root of “profane.”"
         answer: "<latin>FĀNUM -</latin> TEMPLE"
@@ -146,7 +146,7 @@ questions:
       - question: "For his victory over whom had Odaenathus been rewarded with quasi independence from Rome?"
         answer: "OVER <emphasis>SHAPUR</emphasis> I OF PERSIA (WHO HAD CAPTURED & KILLED VALERIAN)"
   - tossup:
-      question: "Of the words <latin>later</latin>, <latin>lanx</latin>, <latin>laqueus</latin>, <latin>līmen</latin>, and <latin>līmes</latin>, which is described here: <latin>Sum vinculum ita nexum ut collum in mē</latin> <latin>pōnī</latin> <latin>possit</latin>."
+      question: "Of the words <latin>later, lanx, laqueus, līmen</latin>, and <latin>līmes</latin>, which is described here: <latin>Sum vinculum ita nexum ut collum in mē</latin> <latin>pōnī</latin> <latin>possit</latin>."
       answer: "<latin>LAQUEUS</latin> "
     boni:
       - question: "Which of those words is described here: <latin>Fīnēs agrōrum ā</latin> <latin>mē</latin> <latin>dīstinguuntur</latin>."

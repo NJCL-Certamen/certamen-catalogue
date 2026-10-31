@@ -129,7 +129,7 @@ questions:
     boni:
       - question: "What word can introduce a clause of hindering?"
         answer: "<latin>QUŌMINUS</latin> or <latin>NĒ</latin>"
-      - question: "Which of the following, if any, could NOT introduce a substantive clause of result? <latin>Mōs est</latin>, <latin>effēcit</latin>, <latin>tantum abest</latin>, <latin>accidit</latin>"
+      - question: "Which of the following, if any, could NOT introduce a substantive clause of result? <latin>Mōs est, effēcit, tantum abest, accidit</latin>"
         answer: "ALL OF THESE INTRODUCE SUBSTANTIVE CLAUSES OF RESULT"
   - tossup:
       question: "Identify the work and the author of the following quotation: “<latin>Mīlitat omnis amāns, et habet sua castra Cupīdō</latin>”?"

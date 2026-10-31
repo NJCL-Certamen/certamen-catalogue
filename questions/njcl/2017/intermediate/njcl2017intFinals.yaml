@@ -116,13 +116,13 @@ questions:
       - question: "What brother of Nycteus dragged Antiope back to Thebes?"
         answer: "LYCUS"
   - tossup:
-      question: "Place the following cities in correct order from furthest west to furthest east. <latin>Lindum</latin>, <latin>Aquincum</latin>, <latin>Augusta Emerita</latin>, <latin>Lutetia</latin>, <latin>Vindobona</latin>."
+      question: "Place the following cities in correct order from furthest west to furthest east. <latin>Lindum, Aquincum, Augusta Emerita, Lutetia, Vindobona</latin>."
       answer: "<latin>AUGUSTA EMERITA, LINDUM, LUTETIA, VINDOBONA, AQUINCUM</latin>"
     boni:
       - question: "Correctly identify the modern name for three of the five cities listed in the tossup."
         answer: "<latin>LINDUM</latin> = LINCOLN, <latin>AQUINCUM</latin> = BUDAPEST, <latin>AUGUSTA EMERITA</latin> = MERIDA, <latin>LUTETIA</latin> = PARIS, <latin>VINDOBONA</latin> = VIENNA"
-      - question: "Now order the following list of cities from furthest south to furthest North. <latin>Gades</latin>, <latin>Dēva</latin>, <latin>Rōma</latin>, <latin>Arausiō</latin>."
-        answer: "<latin>GADES</latin>, <latin>RŌMA</latin>, <latin>ARAUSIŌ</latin>, <latin>DĒVA</latin>"
+      - question: "Now order the following list of cities from furthest south to furthest North. <latin>Gades, Dēva, Rōma, Arausiō</latin>."
+        answer: "<latin>GADES, RŌMA, ARAUSIŌ, DĒVA</latin>"
   - tossup:
       question: "What two uses of the Genitive case are found in the following sentence: <latin>Aestimāmus nostrum bōvem māiōris esse quam tuī.</latin>"
       answer: "(INDEFINITE) VALUE / PRICE & POSSESSION"

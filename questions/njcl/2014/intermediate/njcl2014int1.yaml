@@ -44,7 +44,7 @@ questions:
       - question: "What is the meaning of the Latin abbreviation in the following sentence: The deed was made out to Samuel Poston Grant <latin>et ux.?</latin>"
         answer: "AND WIFE"
   - tossup:
-      question: "Which of the following, if any, does NOT belong because of its meaning: <latin>lacerna</latin>, <latin>paenula</latin>, <latin>solea</latin>, <latin>palla</latin>, sagum?"
+      question: "Which of the following, if any, does NOT belong because of its meaning: <latin>lacerna, paenula, solea, palla</latin>, sagum?"
       answer: "<latin>SOLEA</latin>"
     boni:
       - question: "Which of the items mentioned was a heavy cloak with a hood similar to our ponchos?"

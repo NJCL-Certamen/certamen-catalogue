@@ -55,12 +55,12 @@ questions:
         answer: "<latin>GUSTUS</latin> / <latin>GUSTATIO</latin>"
   - tossup:
       question: "Give the comparative and superlative forms of <latin>fortiter</latin>"
-      answer: "<latin>FORTIUS</latin>, <latin>FORTISSIMĒ</latin>"
+      answer: "<latin>FORTIUS, FORTISSIMĒ</latin>"
     boni:
       - question: "of the adjective <latin>facile</latin>"
-        answer: "<latin>FACILIUS</latin>, <latin>FACILLIMUM</latin>"
+        answer: "<latin>FACILIUS, FACILLIMUM</latin>"
       - question: ". . . of the adjective <latin>idōneus</latin>"
-        answer: "<latin>MAGIS IDŌNEUS</latin>, <latin>MAXIMĒ</latin> <latin>IDŌNEUS</latin>"
+        answer: "<latin>MAGIS IDŌNEUS, MAXIMĒ</latin> <latin>IDŌNEUS</latin>"
   - tossup:
       question: "Why did red water run from the spring at the Syrian city of Joppa?"
       answer: "PERSEUS WASHED BLOOD FROM HIS HANDS THERE AFTER KILLING THE SEA MONSTER"
@@ -80,7 +80,7 @@ questions:
       - question: "The other reason for leaving Rome may have been his jealousy of Augustus’ grandsons. Name them"
         answer: "GAIUS & LUCIUS CAESAR"
   - tossup:
-      question: "Of <latin>tempestās</latin>, <latin>bīgae</latin>, <latin>rētiārius</latin>, <latin>officīna</latin>, and <latin>lectīca</latin>, which is being described in the following Latin sentence: <latin>Est sella cum pulvīnō</latin> <latin>quā</latin> <latin>dīvitiōrēs ferēbantur</latin>"
+      question: "Of <latin>tempestās, bīgae, rētiārius, officīna</latin>, and <latin>lectīca</latin>, which is being described in the following Latin sentence: <latin>Est sella cum pulvīnō</latin> <latin>quā</latin> <latin>dīvitiōrēs ferēbantur</latin>"
       answer: "<latin>LECTĪCA</latin>"
     boni:
       - question: " . . . <latin>Est locus in quō</latin> <latin>artificēs opera faciunt</latin>"
@@ -108,7 +108,7 @@ questions:
       - question: "What freedman of Sulla’s took advantage of the proscription lists to accumulate vast wealth?"
         answer: "(L. CORNELIUS) CHRYSOGONUS"
   - tossup:
-      question: "What derivative of the Latin verb <latin>dīcō</latin>, <latin>dīcere</latin> means “to express the opposite?”"
+      question: "What derivative of the Latin verb <latin>dīcō, dīcere</latin> means “to express the opposite?”"
       answer: "CONTRADICT"
     boni:
       - question: "means “a formal decree or proclamation?”"
@@ -124,12 +124,12 @@ questions:
       - question: "On what island was Lycomedes' court?"
         answer: "SKYRUS / SCYRUS"
   - tossup:
-      question: "The noun <latin>rēs</latin> does NOT agree with which of the following adjectives: <latin>longus</latin>, <latin>longās</latin>, <latin>longae</latin>, <latin>longa</latin>?"
+      question: "The noun <latin>rēs</latin> does NOT agree with which of the following adjectives: <latin>longus, longās, longae, longa</latin>?"
       answer: "<latin>LONGUS</latin>"
     boni:
-      - question: "The noun <latin>puellae</latin> does NOT agree with which of the following adjectives: <latin>hae</latin>, <latin>haec, huic, huius</latin>?"
+      - question: "The noun <latin>puellae</latin> does NOT agree with which of the following adjectives: <latin>hae, haec, huic, huius</latin>?"
         answer: "<latin>HAEC</latin>"
-      - question: "The noun <latin>puerī</latin> does NOT agree with which of the following adjectives: <latin>fortēs</latin>, <latin>fortis</latin>, <latin>fortī</latin>?"
+      - question: "The noun <latin>puerī</latin> does NOT agree with which of the following adjectives: <latin>fortēs, fortis, fortī</latin>?"
         answer: "<latin>FORTĪ</latin>"
   - tossup:
       question: "Translate the following sentence into English: <latin>Paucīs hōrīs magna pars urbis destructa est.</latin> "

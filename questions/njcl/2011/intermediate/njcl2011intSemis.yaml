@@ -68,7 +68,7 @@ questions:
       - question: "Change <latin>cōnārēmur</latin> to the present tense"
         answer: "<latin>CŌNĒMUR</latin> "
   - tossup:
-      question: "Which one of the following has two wheels instead of four? <latin>petōritum, carrūca, carpentum, plaustrum</latin>, <latin>raeda</latin>"
+      question: "Which one of the following has two wheels instead of four? <latin>petōritum, carrūca, carpentum, plaustrum, raeda</latin>"
       answer: "<latin>CARPENTUM</latin>"
     boni:
       - question: "Which of the above carriages was a travelling carriage more luxurious than the <latin>raeda</latin>?"
@@ -300,7 +300,7 @@ questions:
       - question: "To what two places, in what order, did Telemachus travel for news?"
         answer: "(SANDY) PYLOS and then SPARTA"
   - tossup:
-      question: "For the verb <latin>volō</latin>, <latin>velle</latin>, give the third person singular present subjunctive form"
+      question: "For the verb <latin>volō, velle</latin>, give the third person singular present subjunctive form"
       answer: "<latin>VELIT</latin> "
     boni:
       - question: "Give the second person plural perfect active subjunctive of <latin>ferō</latin>."

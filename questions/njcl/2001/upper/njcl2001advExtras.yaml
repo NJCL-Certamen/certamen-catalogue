@@ -76,8 +76,8 @@ questions:
       - question: "Change <latin>obituum celerium</latin> to the nominative"
         answer: "<latin>OBITŪS CELERES</latin>"
   - tossup:
-      question: "Change the phrase <latin>pius Aenē</latin><latin>ās</latin> to the accusative"
-      answer: "<latin>PIUM AENĒ</latin><latin>ĀN</latin> (-<latin>AM</latin>)"
+      question: "Change the phrase <latin>pius Aenēās</latin> to the accusative"
+      answer: "<latin>PIUM AENĒĀN</latin> (-<latin>AM</latin>)"
     boni:
       - question: "Change <latin>pater Anchīsēs</latin> to the accusative"
         answer: "<latin>PATREM ANCHĪSĒN</latin> (-<latin>AM</latin>)"
@@ -281,7 +281,7 @@ questions:
     boni:
       - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“tum līnō mediās et cērīs adligat īmās</latin>”?"
         answer: "ZEUGMA"
-      - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“paterīs libāmus et aur</latin><latin>ō”</latin>?"
+      - question: "Other than assonance and consonance, what literary device can be seen in the following line: <latin>“paterīs libāmus et aurō”</latin>?"
         answer: "HENDIADYS <latin>MYTHOLOGY</latin>"
   - tossup:
       question: "To whom was Cassandra awarded as a slave upon the fall of Troy?"

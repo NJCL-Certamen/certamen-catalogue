@@ -55,7 +55,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Multa discēmus librīs legendīs</latin>"
       answer: "WE WILL LEARN MANY THINGS / MUCH BY/FROM READING BOOKS"
     boni:
-      - question: "<latin>Vēnimus multa discendī caus</latin><latin>ā.</latin>"
+      - question: "<latin>Vēnimus multa discendī causā.</latin>"
         answer: "WE CAME FOR THE SAKE OF LEARNING MANY THINGS"
       - question: "<latin>Marcus dīcitur hūc vēnisse ad pugnandum.</latin>"
         answer: "MARCUS IS SAID TO HAVE COME HERE TO FIGHT / FOR FIGHTING"

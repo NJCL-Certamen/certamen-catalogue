@@ -118,12 +118,12 @@ questions:
       - question: "<latin>Puer statuam magnā pulchritūdine decem sestertiīs vēndidit</latin>?"
         answer: "QUALITY / DESCRIPTION & (SPECIFIC / DEFINITE) PRICE"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī sexāgintā quīnque diēs per annum essent et, haud necessāriō mēnse remōt</latin><latin>ō, ūnus diēs quārtō quōque annō adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī sexāgintā quīnque diēs per annum essent et, haud necessāriō mēnse remōtō, ūnus diēs quārtō quōque annō adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
       answer: "<latin>ANNUM / FASTŌS / KALENDĀRIUM</latin>"
     boni:
       - question: " <latin>Quid Caesar cōnfēcit antequam rem pūblicam ōrdināre inciperet?</latin> "
         answer: "<latin>BELLA CĪVĪLIA</latin>"
-      - question: " <latin>Quid Caesar addidit quārtō quōque ann</latin><latin>ō?</latin>"
+      - question: " <latin>Quid Caesar addidit quārtō quōque annō?</latin>"
         answer: "<latin>ŪNUM DIEM</latin>"
   - tossup:
       question: "Which one of the Argonauts became the father of Achilles?"
@@ -153,7 +153,7 @@ questions:
       question: "When you are recognized by the spotter, follow this direction: <latin>Surge et prōgredere</latin>  STUDENT SHOULD STAND A WALK IN SOME DIRECTION <latin>. . . Bis surge et cōnsīde</latin>"
       answer: "ONE STUDENT SHOULD STAND AND SIT TWICE"
     boni:
-      - question: "<latin>. . . Surgite et plaudite quiet</latin><latin>ē.</latin> "
+      - question: "<latin>. . . Surgite et plaudite quietē.</latin> "
         answer: "MORE THAN ONE STUDENT SHOULD STAND AND SILENTLY APPLAUD"
   - tossup:
       question: "Who, as a result of a childhood encounter with a wild boar's tusk, had a scar from a deep gash in his thigh?"

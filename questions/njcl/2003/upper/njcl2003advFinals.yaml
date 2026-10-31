@@ -61,7 +61,7 @@ questions:
         answer: "CASSANDRA’S"
   - tossup:
       question: "Using the Latin word “<latin>ōrātor</latin>” for “moderator,” translate the following sentence into Latin: “Would that the moderator were taller.”"
-      answer: "<latin>(</latin><latin>Ō) SĪ / UTINAM ŌRĀTOR ALTIOR ESSET</latin>"
+      answer: "<latin>(Ō) SĪ / UTINAM ŌRĀTOR ALTIOR ESSET</latin>"
     boni:
       - question: "Translate the following sentence into Latin:\"No one knows what the answer is.\""
         answer: "<latin>NĒMŌ SCIT QUID SIT RESPONSUM</latin>"
@@ -92,7 +92,7 @@ questions:
       - question: "Which passage was written by an author who was tried for witchcraft?"
         answer: "“A”"
   - tossup:
-      question: "Listen to the following four Latin statements, one of which I will perform. When you are recognized by the spotter, repeat exactly the statement which describes my actions: <latin>Saliō sicut asinus.</latin>  <latin>Stertō sēmisomnus.</latin>  <latin>Lacrimō maest</latin><latin>ē.</latin>  <latin>Ūtor flābell</latin><latin>ō.</latin>  (The moderator cools himself with a fan.)"
+      question: "Listen to the following four Latin statements, one of which I will perform. When you are recognized by the spotter, repeat exactly the statement which describes my actions: <latin>Saliō sicut asinus.</latin>  <latin>Stertō sēmisomnus.</latin>  <latin>Lacrimō maestē.</latin>  <latin>Ūtor flābellō.</latin>  (The moderator cools himself with a fan.)"
       answer: "<latin>ŪTOR FLĀBELLŌ</latin>"
     boni:
       - question: "<latin>Respondētē Latīnē:sī vōs omnēs cyclōpēs essētis, quot oculī vōbīs omnibus essent?</latin>"

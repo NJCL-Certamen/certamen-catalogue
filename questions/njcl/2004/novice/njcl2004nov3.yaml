@@ -5,7 +5,7 @@ round: "Round 3"
 questions:
   - tossup:
       question: "Say in Latin, “Is your brother coming today?”"
-      answer: "<latin>VENITNE FRĀTER TUUS / VESTER HODI</latin><latin>Ē?</latin>"
+      answer: "<latin>VENITNE FRĀTER TUUS / VESTER HODIĒ?</latin>"
     boni:
       - question: "Say in Latin, “Have you not seen the procession in the forum?”"
         answer: "<latin>NŌNNE VĪDISTĪ / VĪDISTIS POMPAM IN FORŌ</latin>"

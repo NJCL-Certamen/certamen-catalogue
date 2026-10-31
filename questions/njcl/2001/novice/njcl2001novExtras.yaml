@@ -4,20 +4,20 @@ division: "Novice"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenē</latin><latin>ās ex urbe Trōiae cum patre et fīliō et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē accēpit quod prūdentissimus erat.</latin>  <latin>Ubi periit pater Aenēae?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenēās ex urbe Trōiae cum patre et fīliō et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē accēpit quod prūdentissimus erat.</latin>  <latin>Ubi periit pater Aenēae?</latin>"
       answer: "IN SICILIĀ"
     boni:
-      - question: "<latin>Quamdiū nāvigābat Aenē</latin><latin>ās cum famīliā et sociīs?</latin>"
+      - question: "<latin>Quamdiū nāvigābat Aenēās cum famīliā et sociīs?</latin>"
         answer: "MULTŌS ANNŌS"
       - question: "Cūr rēx in Ītaliā <latin>Trōiānōs benignē accēpit?</latin>"
         answer: "(QUOD) PRŪDENTISSIMUS ERAT"
   - tossup:
-      question: "When you are recognized by the spotter, follow this direction: <latin>Pōne ūnum calceum aut ūnam soleam in mēns</latin><latin>ā.</latin> "
+      question: "When you are recognized by the spotter, follow this direction: <latin>Pōne ūnum calceum aut ūnam soleam in mēnsā.</latin> "
       answer: "STUDENT SHOULD PUT ONE SHOE OR SANDAL ON THE TABLE"
     boni:
       - question: "<latin>Pōnite capita in bracchis et dormīte.</latin> "
         answer: "MORE THAN ONE STUDENT SHOULD PLACE THEIR HEADS IN THEIR ARMS AND (PRETEND) TO SLEEP"
-      - question: "<latin>Pōne duōs digitōs in genā soci</latin><latin>ī.</latin> "
+      - question: "<latin>Pōne duōs digitōs in genā sociī.</latin> "
         answer: "ONE STUDENT SHOULD PLACE TWO OF HIS FINGERS ON THE CHEEK OF A TEAMMATE"
   - tossup:
       question: "<latin>Quid Anglicē significat</latin> “<latin>ergō</latin>”?"

@@ -109,7 +109,7 @@ questions:
         answer: "NEREUS & DORIS or OCEANUS & TETHYS"
   - tossup:
       question: "Listen carefully to the following short passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Augustus equitem Rōmānum in spectāculīs cēnantem vīdit, cui dīxit: “Ego sī cēnāre volō, domum eō.” Eques respondit, “Tu enim nōn timēs nē sedem amittās.”</latin>  Question: <latin>Cui hominī dīxit Augustus?</latin>"
-      answer: "<latin>EQUITĪ (RŌMAN</latin><latin>Ō)</latin> "
+      answer: "<latin>EQUITĪ (RŌMANŌ)</latin> "
     boni:
       - question: "<latin>Quid faciēbat eques Rōmānus quod Augustum īrātum fēcit</latin>?"
         answer: "<latin>CĒNĀBAT IN SPECTĀCULĪS</latin> "
@@ -143,7 +143,7 @@ questions:
       question: "You are a doctor in ancient Rome. A patient tells you, “<latin>Caput meum dolet</latin>.” What is he saying?"
       answer: "HIS HEAD HURTS / HE HAS A HEADACHE"
     boni:
-      - question: "You ask the patient why his head hurts and he responds, “<latin>Dē fenestrā in terram dēsilu</latin><latin>ī.</latin>” What happened?"
+      - question: "You ask the patient why his head hurts and he responds, “<latin>Dē fenestrā in terram dēsiluī.</latin>” What happened?"
         answer: "<emphasis>HE JUMPED OUT OF A WINDOW</emphasis> ONTO THE GROUND"
       - question: "You then tell the patient, <latin>“Fortūnātus es. Censeō tē bracchium sinistrum frēgisse</latin>.” What is your diagnosis?"
         answer: "HE’S LUCKY. HE <emphasis>BROKE HIS LEFT ARM</emphasis> "

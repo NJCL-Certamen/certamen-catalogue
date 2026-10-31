@@ -128,7 +128,7 @@ questions:
       answer: "(DIRECT) OBJECT and PREDICATE"
     boni:
       - question: "Using a compound of sum, say in Latin, “It doesn’t concern Claudius.”"
-        answer: "<latin>NŌN CLAUDI(</latin><latin>Ī</latin>) INTEREST"
+        answer: "<latin>NŌN CLAUDI(Ī</latin>) INTEREST"
       - question: "Using three words, say in Latin, “I am ashamed of you.”"
         answer: "<latin>TUI MĒ PUDET</latin>"
   - tossup:

@@ -4,10 +4,10 @@ division: "Advanced"
 round: "Round 1"
 questions:
   - tossup:
-      question: "What Latin prose author managed to avoid Sulla’s proscriptions and ultimately achieved the consulship in 59 BC before serving as governor of Gaul, a period which is recorded in his <title><latin>Commentariī dē Bellō Gallicō</latin></title><title>?</title>"
+      question: "What Latin prose author managed to avoid Sulla’s proscriptions and ultimately achieved the consulship in 59 BC before serving as governor of Gaul, a period which is recorded in his <title><latin>Commentariī dē Bellō Gallicō</latin>?</title>"
       answer: "(GAIUS JULIUS) CAESAR"
     boni:
-      - question: "In the first book of the <title><latin>Dē Bellō Gallicō</latin></title><title>,</title> Caesar writes of conflict that results from the migration of certain Gallic tribes. What is the name of the tribe whose movements gave Caesar his reason for taking his army into the interior of Gaul?"
+      - question: "In the first book of the <title><latin>Dē Bellō Gallicō</latin>,</title> Caesar writes of conflict that results from the migration of certain Gallic tribes. What is the name of the tribe whose movements gave Caesar his reason for taking his army into the interior of Gaul?"
         answer: "<latin>HELVĒTIĪ</latin>"
       - question: "In book 7, Caesar recounts the greatest threat to his success in Gaul, a general insurrection which culminated in his victory at Alesia. Who was the leader of this insurrection?"
         answer: "VERCINGETORĪX"
@@ -100,7 +100,7 @@ questions:
       - question: "Give the English meaning of the Latin motto <latin>'suī generis'</latin>."
         answer: "OF ITS OWN KIND / ONE OF A KIND"
   - tossup:
-      question: "Tacitus drew heavily for his own writing on WHAT earlier author’s now lost <title><latin>Bella Germanica</latin></title><title>,</title> written before he devoted much of his later life to a 37 book compendium of the totality of human knowledge."
+      question: "Tacitus drew heavily for his own writing on WHAT earlier author’s now lost <title><latin>Bella Germanica</latin>,</title> written before he devoted much of his later life to a 37 book compendium of the totality of human knowledge."
       answer: "PLINY THE ELDER (GAIUS PLINIUS SECUNDUS)"
     boni:
       - question: "To what future emperor is Pliny’s <title><latin>Nātūrālis Historia</latin></title> dedicated?"

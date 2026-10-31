@@ -159,7 +159,7 @@ questions:
       question: "(As applause dies down from the score announcement, several replicas of mundane Roman items are placed on a small table to side of the stage. These items include a mirror, fibula, a comb, a ring and a few others.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. (Wait for props to be in place) When recognized by the spotter, follow these instructions: <latin>Ambulā ad mēnsam et tolle rem quae togās vel stolās adligit.</latin>"
       answer: "A PLAYER WALKS TO THE TABLE AND PICKS UP THE <latin>FIBULA</latin>"
     boni:
-      - question: "(Moderator instructs remaining players on that team to join their teammate at the table to consult for bonuses) <latin>Tolle speculum et superbē dīc Anglicē spectātōribus dē pulchritūdine tu</latin><latin>ā</latin>"
+      - question: "(Moderator instructs remaining players on that team to join their teammate at the table to consult for bonuses) <latin>Tolle speculum et superbē dīc Anglicē spectātōribus dē pulchritūdine tuā</latin>"
         answer: "A PLAYER PICKS UP THE MIRROR AND PROUDLY TELLS THE AUDIENCE ABOUT HIS OR HER BEAUTY IN ENGLISH"
-      - question: "<latin>Tolle pectinem et compōne crīnēs ūnīus soci</latin><latin>ī.</latin>"
+      - question: "<latin>Tolle pectinem et compōne crīnēs ūnīus sociī.</latin>"
         answer: "A PLAYER PICKS UP THE COMB AND ARRANGES THE HAIR OF A TEAMMATE"

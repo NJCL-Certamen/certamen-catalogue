@@ -143,7 +143,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Ubi est ursa ferōx</latin>?"
       answer: "WHERE IS THE FIERCE BEAR?"
     boni:
-      - question: "<latin>Casam illīus ursae invēn</latin><latin>ī.</latin>  "
+      - question: "<latin>Casam illīus ursae invēnī.</latin>  "
         answer: "I’VE FOUND THAT BEAR’S HOUSE"
       - question: "<latin>Eadem ursa aderat</latin>."
         answer: "THE SAME BEAR WAS HERE / THERE"

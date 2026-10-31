@@ -4,7 +4,7 @@ division: "Novice"
 round: "Semifinals"
 questions:
   - tossup:
-      question: "Name one first conjugation verb whose third principle part ends <latin>-uī</latin> instead of <latin>-</latin><latin>āvī</latin>."
+      question: "Name one first conjugation verb whose third principle part ends <latin>-uī</latin> instead of <latin>-āvī</latin>."
       answer: "<latin>CREPŌ / CŪBŌ / DOMŌ / FRICŌ / MICŌ / SECŌ / SONŌ / TŌNŌ / VETŌ</latin>"
     boni:
       - question: "Name another."
@@ -160,6 +160,6 @@ questions:
       answer: "SEDITION"
     boni:
       - question: "What Latin verb is the root of “sedition”?"
-        answer: "<latin>E</latin><latin>Ō, ĪRE</latin> - GO"
+        answer: "<latin>EŌ, ĪRE</latin> - GO"
       - question: "What derivative from the same root as the other words in the toss-up means “one who disagrees”?"
         answer: "DISSIDENT"

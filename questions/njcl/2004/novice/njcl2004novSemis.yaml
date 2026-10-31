@@ -15,9 +15,9 @@ questions:
       question: "<latin>Quid significat “circiter”</latin>?"
       answer: "APPROXIMATELY / ABOUT / AROUND"
     boni:
-      - question: "<latin>Quid significat “iuxt</latin><latin>ā”</latin>?"
+      - question: "<latin>Quid significat “iuxtā”</latin>?"
         answer: "NEXT TO / ADJACENT TO / ADJOINED TO"
-      - question: "<latin>Quid significat “erg</latin><latin>ā”</latin>?"
+      - question: "<latin>Quid significat “ergā”</latin>?"
         answer: "TOWARD"
   - tossup:
       question: "What general introduced “the eagle” as the standard of a Roman legion?"

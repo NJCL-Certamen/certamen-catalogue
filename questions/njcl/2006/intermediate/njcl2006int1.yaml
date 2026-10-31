@@ -95,7 +95,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Dum inter sē loquuntur, liber dē mēnsā cecidit.</latin> "
       answer: "WHILE THEY WERE TALKING AMONG(ST) / BETWEEN / THEMSELVES / WITH ONE ANOTHER / TO EACH OTHER, A BOOK FELL FROM THE TABLE"
     boni:
-      - question: "<latin>Quī bonī sunt, īdem sunt beāt</latin><latin>ī.</latin> "
+      - question: "<latin>Quī bonī sunt, īdem sunt beātī.</latin> "
         answer: "(THOSE) WHO ARE GOOD, (THE SAME MEN / LIKEWISE / ALSO / AT THE SAME TIME) ARE BLESSED / HAPPY"
       - question: "<latin>Vīgintī lēgātōs mīsit quī pācem peterent.</latin> "
         answer: "HE SENT TWENTY AMBASSADORS TO SEEK PEACE"
@@ -136,7 +136,7 @@ questions:
       answer: "<latin>IAM / NUNC DOMUM ĪRE VOLUMUS</latin>."
     boni:
       - question: "Using two irregular verbs, say in Latin, “Where do you want to go?”"
-        answer: "<latin>QUŌ (T</latin><latin>Ū) ĪRE VĪS/ (VŌS) ...VULTIS</latin> "
+        answer: "<latin>QUŌ (TŪ) ĪRE VĪS/ (VŌS) ...VULTIS</latin> "
       - question: "Using just one irregular verbs, say in Latin, “I don’t want to stay at home.”"
         answer: "<latin>DOMĪ / APUD MĒ (RĒ)MANĒRE NŌLŌ</latin>"
   - tossup:

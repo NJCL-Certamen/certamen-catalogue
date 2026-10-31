@@ -5,12 +5,12 @@ round: "Finals"
 questions:
   - tossup:
       question: "Which two works of Tacitus were often published in a combined edition, narrating Roman history from the death of Augustus to the death of Domitian?"
-      answer: "<title>ANNALS</title> / <title><latin>ANNĀLĒS</latin></title> / <title><latin>AB EXCESSŪ</latin></title> <title><latin>DĪVĪ</latin></title> <title><latin>AUGUST</latin></title>Ī <emphasis>&</emphasis> <title>HISTORIES /</title> <title><latin>HISTORIAE</latin></title>"
+      answer: "<title>ANNALS / <latin>ANNĀLĒS</latin> / <latin>AB EXCESSŪ</latin> <latin>DĪVĪ</latin> <latin>AUGUST</latin></title>Ī <emphasis>&</emphasis> <title>HISTORIES / <latin>HISTORIAE</latin></title>"
     boni:
       - question: "In which of his early works does Tacitus discuss the causes of the decline of oratory?"
         answer: "<title><latin>DIALOGUS D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
       - question: " What two works did Tacitus publish in AD 98?"
-        answer: "<title><latin>GERMĀNIA</latin></title> (<title><latin>D</latin></title>Ē Ō<title><latin>RĪGINE ET SITŪ</latin></title> <title><latin>GERMĀNŌRUM</latin></title>) & <title>AGRICOLA</title> (<title><latin>DĒ</latin></title> <title><latin>VĪTĀ</latin></title> <title><latin>IŪLIĪ</latin></title> <title><latin>AGRICOLAE</latin></title>)"
+        answer: "<title><latin>GERMĀNIA</latin></title> (<title><latin>D</latin></title>Ē Ō<title><latin>RĪGINE ET SITŪ</latin> <latin>GERMĀNŌRUM</latin></title>) & <title>AGRICOLA</title> (<title><latin>DĒ</latin> <latin>VĪTĀ</latin> <latin>IŪLIĪ</latin> <latin>AGRICOLAE</latin></title>)"
   - tossup:
       question: "What Greek goddess was the equivalent of the Roman goddess Fortuna?"
       answer: "TYCHE"

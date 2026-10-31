@@ -24,7 +24,7 @@ questions:
       answer: "(<title><latin>DIALOGUS) D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
     boni:
       - question: "What is the other title applied to Tacitus’ <title><latin>Annālēs</latin></title>?"
-        answer: "<title><latin>AB EXCESSŪ</latin></title> <title><latin>DĪVĪ</latin></title> <title><latin>AUGUST</latin></title>Ī"
+        answer: "<title><latin>AB EXCESSŪ</latin> <latin>DĪVĪ</latin> <latin>AUGUST</latin></title>Ī"
       - question: "What late historian wrote a history that was intended to be a continuation of Tacitus’ <title><latin>Historiae</latin></title> and covered Roman history from the accession of Nerva to the death of Valens?"
         answer: "AMMIANUS MARCELLINUS"
   - tossup:
@@ -130,7 +130,7 @@ questions:
       - question: "What pupil of Arnobius and tutor of Constantine’s children was the most prolific Christian writer?"
         answer: "LACTANTIUS"
       - question: "Jerome is best known for his translation of the Bible, but which of his other works was a work on great Christians from Simon Peter to Jerome himself?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>VIRĪS ILLUSTRIBUS</latin></title>"
+        answer: "<title><latin>DĒ</latin> <latin>VIRĪS ILLUSTRIBUS</latin></title>"
   - tossup:
       question: "According to Ovid, what Athenian princess was transformed into a statue for trying to prevent a god from lying with her sister?"
       answer: "AGLAUROS"
@@ -228,7 +228,7 @@ questions:
       - question: "While Marc Antony’s Egyptian children survived Octavian’s wrath, Antony’s Roman sons met with mixed success. Marcus Antonius Antyllus was executed, but Iullus Antonius was spared and later rose to the consulship. Which of Antony’s previous wives was their mother?"
         answer: "FULVIA"
   - tossup:
-      question: "What Roman author wrote philosophical treatises called <title><latin>Dē</latin></title> <latin>Deō Socratis</latin> and <title><latin>Dē</latin></title> <title><latin>Platōne et Eius Dogmate</latin></title> but is better known for a work whose main character becomes a devotee of Isis?"
+      question: "What Roman author wrote philosophical treatises called <title><latin>Dē</latin></title> <latin>Deō Socratis</latin> and <title><latin>Dē</latin> <latin>Platōne et Eius Dogmate</latin></title> but is better known for a work whose main character becomes a devotee of Isis?"
       answer: "(LUCIUS) APULEIUS"
     boni:
       - question: "Against what charge did Apuleius defend himself with the speech Apologia?"

@@ -8,7 +8,7 @@ questions:
       answer: "(PUBLIUS) OVID(IUS) NASO"
     boni:
       - question: "What is the Latin title for this work?"
-        answer: "<title><latin>HĒRŌIDĒS</latin></title> / <title><latin>EPISTULAE HĒRŌIDUM</latin></title>"
+        answer: "<title><latin>HĒRŌIDĒS</latin> / <latin>EPISTULAE HĒRŌIDUM</latin></title>"
       - question: "In his <title><latin>Ars Amātōria</latin></title>, Ovid used the line <latin>“ignōtum hoc aliīs ille novāvit opus</latin>” in reference to his <title><latin>Hērōidēs</latin></title>. What claim was he making about his literary legacy?"
         answer: "HE CLAIMED THAT IT WAS AN ORIGINAL LITERARY CREATION (Note to moderator: quotation translates as “He (Ovid)"
   - tossup:
@@ -128,7 +128,7 @@ questions:
       - question: "Pacuvius was the nephew of what other author?"
         answer: "(Q.) ENNIUS"
       - question: "In which work did Pacuvius depict Ulysses’ death at the hand of Telegonus?"
-        answer: "<title><latin>NIPTRA</latin></title> / <title>THE BATH</title>"
+        answer: "<title><latin>NIPTRA</latin> / THE BATH</title>"
   - tossup:
       question: "Translate the following sentence into English: <latin>Nēmō est cui crēdere possim</latin>"
       answer: "THERE IS NO ONE (WHOM) I CAN BELIEVE"

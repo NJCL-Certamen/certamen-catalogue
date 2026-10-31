@@ -4,7 +4,7 @@ division: "Advanced"
 round: "Round 3"
 questions:
   - tossup:
-      question: "Who attempted to dispel the notion that he was a revolutionary just like Catiline in his <title><latin>Dē</latin></title> <title><latin>Bellō</latin></title> <title><latin>Cīvīl</latin></title>ī?"
+      question: "Who attempted to dispel the notion that he was a revolutionary just like Catiline in his <title><latin>Dē</latin> <latin>Bellō</latin> <latin>Cīvīl</latin></title>ī?"
       answer: "(C.) <emphasis>IULIUS CAESAR</emphasis> / JULIUS CAESAR"
     boni:
       - question: "Caesar justifies his actions in the Civil War while proclaiming that unlike Catiline, he would not do what?"
@@ -128,7 +128,7 @@ questions:
       answer: "(L.) APULEIUS"
     boni:
       - question: "What is the title of Apuleius’ romance novel?"
-        answer: "<title><latin>METAMORPHOSES</latin></title> / <title><latin>METAMORPHOSEON LIBER</latin></title> / <title><latin>ASINUS AUREUS</latin></title> / GOLDEN <title>ASS</title>"
+        answer: "<title><latin>METAMORPHOSES</latin> / <latin>METAMORPHOSEON LIBER</latin> / <latin>ASINUS AUREUS</latin></title> / GOLDEN <title>ASS</title>"
       - question: " What is the title of the speech Apuleius used to defend himself against the charge of witchcraft?"
         answer: "<title><latin>APOLOGY</latin></title> <latin>/</latin> <title><latin>APOLOGIA</latin></title> /<title><latin>APULEI PLATONICI PRO SE DE MAGIA LIBER</latin></title>"
   - tossup:

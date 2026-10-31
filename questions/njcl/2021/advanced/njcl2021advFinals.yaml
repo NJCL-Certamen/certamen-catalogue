@@ -32,7 +32,7 @@ questions:
       answer: "ASCONIUS PEDIANUS"
     boni:
       - question: "Name one of the other three speeches of Cicero which Pedianus commented on."
-        answer: "(one of:) <title><latin>PRO SCAURŌ</latin></title> / <title><latin>IN PISONEM</latin></title> / <title><latin>PRO MILONE</latin></title>"
+        answer: "(one of:) <title><latin>PRO SCAURŌ</latin> / <latin>IN PISONEM</latin> / <latin>PRO MILONE</latin></title>"
       - question: "Pedianus also wrote a philological work that opposed the detractors of what author?"
         answer: "(P.) VERGIL(IUS MARO)"
   - tossup:

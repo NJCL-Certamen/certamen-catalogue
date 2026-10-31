@@ -77,7 +77,7 @@ questions:
         answer: "<latin>VANNUS</latin> - (WINNOWING) FAN, <latin>FANUM</latin> - TEMPLE"
   - tossup:
       question: "You have in front of you five excerpts from notable works of Latin literature.  Three of them are from the same work of Latin literature, excerpts B, C, and D.  Identify that work of Lucius Apuleius."
-      answer: "<title><latin>METAMORPHOSES</latin></title> <title>/ (THE) GOLDEN ASS /</title> <title><latin>ASINUS AUREUS</latin></title>"
+      answer: "<title><latin>METAMORPHOSES</latin> / (THE) GOLDEN ASS / <latin>ASINUS AUREUS</latin></title>"
     boni:
       - question: "As a matter of fact, all five of these passages are pulled from various works of Apuleius.  From what work of Apuleius is the passage labeled E derived?"
         answer: "<title><latin>APOLOGIA</latin></title>"
@@ -157,7 +157,7 @@ questions:
         answer: "(P. CLODIUS THRASEA) PAETUS  <latin>--</latin>"
   - tossup:
       question: "The Lexicon Recentis Latinitatis defines the internet as <latin>interrētum</latin>. Using this neologism, translate the following sentence into good Latin: “Although this certamen has been held by internet, nevertheless we have enjoyed it very much.”"
-      answer: "<latin>CUM / QUAMVIS HOC CERTĀMEN INTERRĒTŌ SIT ACTUM /  QUAMQUAM HOC CERTĀMEN INTERRĒTŌ EST ACTUM  (NŌS) EŌ / HŌC / ILLŌ TAMEN MAXIMĒ/VALDĒ FRUITĪ / FRUCTĪ SUMUS  (</latin><title><latin>vel sim. -</latin></title> <title>Cum +</title> subjunctive <title>Quamvis +</title> subjunctive <title>Ut + S</title>ubjunctive or Indicative <title>etsi, etiamsi, tametsi +</title> pluperfect subj. <title>quamquam +</title> indicative <title>quamvis +</title> indicative OR subjunctive)"
+      answer: "<latin>CUM / QUAMVIS HOC CERTĀMEN INTERRĒTŌ SIT ACTUM /  QUAMQUAM HOC CERTĀMEN INTERRĒTŌ EST ACTUM  (NŌS) EŌ / HŌC / ILLŌ TAMEN MAXIMĒ/VALDĒ FRUITĪ / FRUCTĪ SUMUS  (</latin><title><latin>vel sim. -</latin> Cum +</title> subjunctive <title>Quamvis +</title> subjunctive <title>Ut + S</title>ubjunctive or Indicative <title>etsi, etiamsi, tametsi +</title> pluperfect subj. <title>quamquam +</title> indicative <title>quamvis +</title> indicative OR subjunctive)"
     boni:
       - question: "Now translate this sentence: “If we had been able to play certamen among friends rather than the internet, then we would have had more powerful memories.”"
         answer: "<latin>SĪ NŌS LŪDERE CERTĀMEN INTER / APUD AMĪCŌS POTIUS QUAM  INTERRĒTUM POTUISSĒMUS / QUĪVISSĒMUS, NŌBĪS  POTENTIŌRĒS MEMORIAE FUISSENT//  ...NŌS MEMORIĀS POTENTIŌRĒS HABUISSĒMUS</latin> <title><latin>(vel sim.)</latin></title>"

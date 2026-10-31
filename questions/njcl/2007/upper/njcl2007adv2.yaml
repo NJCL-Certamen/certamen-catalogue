@@ -77,12 +77,12 @@ questions:
         answer: "CORNELIA (DAUGHTER OF SCIPIO AFRICANUS)"
   - tossup:
       question: "Which work of Cicero is also referred to as <title><latin>Laelius</latin></title>?"
-      answer: "<title><latin>DĒ</latin></title> <title><latin>AMĪCITI</latin></title>Ā / <title>ON FRIENDSHIP</title>"
+      answer: "<title><latin>DĒ</latin> <latin>AMĪCITI</latin></title>Ā / <title>ON FRIENDSHIP</title>"
     boni:
       - question: "Which six-book work of Cicero is preserved in part by a commentary of Macrobius and partly only on palimpsests?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒ</latin></title> <title><latin>PŪBLIC</latin></title>Ā / <title>ON THE REPUBLIC</title>"
+        answer: "<title><latin>DĒ</latin> <latin>RĒ</latin> <latin>PŪBLIC</latin></title>Ā / <title>ON THE REPUBLIC</title>"
       - question: "Which work of Cicero addresses his view of the gods?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>NĀTŪRĀ</latin></title> <title><latin>DEŌRUM</latin></title> / <title>ON THE NATURE OF THE GODS</title>"
+        answer: "<title><latin>DĒ</latin> <latin>NĀTŪRĀ</latin> <latin>DEŌRUM</latin> / ON THE NATURE OF THE GODS</title>"
   - tossup:
       question: "<latin>Dīcō</latin> : <latin>dīxisse</latin> :: <latin>tangō</latin> : _____ ?"
       answer: "<latin>TETIGISSE</latin>"
@@ -114,7 +114,7 @@ questions:
       - question: "What great friend of Horace died only months before him in 8 B.C.?"
         answer: "(GAIUS CILNIUS) MAECENAS"
       - question: "Which of Horace’s known works was published first?"
-        answer: "<title><latin>EPODĒS</latin></title> / <title><latin>IAMB</latin></title>Ī"
+        answer: "<title><latin>EPODĒS</latin> / <latin>IAMB</latin></title>Ī"
   - tossup:
       question: "Change the phrase <latin>magna sitis</latin> to the Ablative singular"
       answer: "<latin>MAGNĀ SITĪ</latin>"
@@ -135,7 +135,7 @@ questions:
       question: "Whose works include four books of satires, as well as the <title><latin>Euhemerus</latin></title>, the <title><latin>Ambracia</latin></title>, and the <title><latin>Annālēs</latin></title>?"
       answer: "(QUINTUS) ENNIUS"
     boni:
-      - question: "What relative of Ennius wrote tragedies called <title><latin>Paullus</latin></title>, <title><latin>Dulorestes</latin></title>, and <title><latin>Niptra</latin></title>?"
+      - question: "What relative of Ennius wrote tragedies called <title><latin>Paullus</latin>, <latin>Dulorestes</latin></title>, and <title><latin>Niptra</latin></title>?"
         answer: "(MARCUS) PACUVIUS"
       - question: "What ancestor of Pompey the Great was the first Roman to write satires in dactylic hexameter?"
         answer: "(GAIUS) LUCILIUS"

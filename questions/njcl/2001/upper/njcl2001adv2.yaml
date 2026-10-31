@@ -60,7 +60,7 @@ questions:
       - question: "Who in AD 78 appointed Quintilian as the first state professor with an annual salary of a hundred thousand sesterces?"
         answer: "VESPASIAN"
       - question: "Give the Latin title of Quintilian’s work which outlined the steps necessary for the training of an orator?"
-        answer: "<title><latin>INSTITŪTIŌ</latin></title> <title><latin>ORĀTORIA</latin></title>"
+        answer: "<title><latin>INSTITŪTIŌ</latin> <latin>ORĀTORIA</latin></title>"
   - tossup:
       question: "What is the translation of the Latin abbreviation <latin>H</latin>"
       answer: "I. S."
@@ -72,12 +72,12 @@ questions:
       - question: "<latin>d.s.p.</latin> found on tombstones?"
         answer: "DIED WITHOUT ISSUE/OFFSPRING (<latin>DĒCESSIT SINE PRŌLE</latin>)"
   - tossup:
-      question: "Who, in an attempt to popularize the Epicurean doctrine, wrote a didactic epic poem titled <title><latin>Dē</latin></title> <title><latin>Rērum Natūr</latin></title>ā?"
+      question: "Who, in an attempt to popularize the Epicurean doctrine, wrote a didactic epic poem titled <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā?"
       answer: "(T.) LUCRETIUS (CARUS)"
     boni:
-      - question: "In what meter was Lucretius’ <title><latin>Dē</latin></title> <title><latin>Rērum Natūr</latin></title>ā written?"
+      - question: "In what meter was Lucretius’ <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā written?"
         answer: "DACTYLIC HEXAMETER"
-      - question: "According to Jerome, who is said to have revised and published Lucretius’ <title><latin>Dē</latin></title> <title><latin>Rērum Natūr</latin></title>ā after the poet’s death?"
+      - question: "According to Jerome, who is said to have revised and published Lucretius’ <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā after the poet’s death?"
         answer: "(M. TULLIUS) CICERO"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Dīc mihi, Anglicē, nōmen urbis ubi nātus es.</latin> "

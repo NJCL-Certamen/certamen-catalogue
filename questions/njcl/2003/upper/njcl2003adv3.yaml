@@ -62,8 +62,8 @@ questions:
       answer: "(T.) LUCRETIUS (CARUS)"
     boni:
       - question: "What was the title of this epic-didactic poem?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒRUM NATŪR</latin></title>Ā"
-      - question: "To whom did Lucretius dedicate his <title><latin>Dē</latin></title> <title><latin>Rērum Natūr</latin></title>ā ?"
+        answer: "<title><latin>DĒ</latin> <latin>RĒRUM NATŪR</latin></title>Ā"
+      - question: "To whom did Lucretius dedicate his <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā ?"
         answer: "MEMMIUS"
   - tossup:
       question: "What is special about the following words: <latin>mōs, sāl, opera, fīnis?</latin>"
@@ -118,9 +118,9 @@ questions:
       answer: "(M. TULLIUS) CICERO"
     boni:
       - question: "In which of Cicero’s works does he project himself into the past in order to identify the Roman constitution in the time of the Scipios as the best form of the state?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒ</latin></title> <title><latin>PUBLIC</latin></title>Ā"
-      - question: "Inspired by the model of Plato, what work did Cicero write as a complement to the <title><latin>Dē</latin></title> <title><latin>Rē</latin></title> <title><latin>Publicā</latin></title>?"
-        answer: "<title><latin>DĒ</latin></title> <title><latin>LEGIBUS</latin></title>"
+        answer: "<title><latin>DĒ</latin> <latin>RĒ</latin> <latin>PUBLIC</latin></title>Ā"
+      - question: "Inspired by the model of Plato, what work did Cicero write as a complement to the <title><latin>Dē</latin> <latin>Rē</latin> <latin>Publicā</latin></title>?"
+        answer: "<title><latin>DĒ</latin> <latin>LEGIBUS</latin></title>"
   - tossup:
       question: "Which of the following words, if any, does NOT have the same Latin root as the others? constitution, contrast, persist, arrest, distant"
       answer: "NONE; ALL SHARE THE SAME ROOT"

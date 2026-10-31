@@ -114,7 +114,7 @@ questions:
       - question: "Identify the author and title of the work from which passage 3 is taken"
         answer: "OVID, <title><latin>REMEDIA AMŌRIS</latin></title>"
       - question: "Identify the author and title of the work from which passage 1 is taken"
-        answer: "SUETONIUS, <title><latin>DĒ POĒTĪS</latin></title> / <title><latin>DĒ VIRĪS ILLŪSTRIBUS</latin></title>"
+        answer: "SUETONIUS, <title><latin>DĒ POĒTĪS</latin> / <latin>DĒ VIRĪS ILLŪSTRIBUS</latin></title>"
   - tossup:
       question: "Translate into English: <latin>Vēndat vestēs dummodo nē frīgidus fīat</latin>"
       answer: "LET HIM SELL HIS CLOTHES PROVIDED THAT HE DOES NOT BECOME COLD"

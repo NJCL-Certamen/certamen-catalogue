@@ -90,7 +90,7 @@ questions:
       - question: "Name the title character from the classic children’s book described with the following Latin sentence: <latin>Puella cunīculum album sub forāmen sequitur in quō sunt fēlēs et vir īnsānus et mūs et rēgīna quae capita hominum excīdī iubet.</latin>"
         answer: "ALICE (IN WONDERLAND)"
       - question: "Name the children’s book described: <latin>Postquam mater fīlium, nōmine Māximum, ad cubiculum mittit, Māximus obdormit et suum cubiculum silva intrā mare profundum fit in quā multa fera habitant.</latin>"
-        answer: "<title>WHERE THE WILD THINGS ARE</title> / <title><latin>UBI FERA SUNT</latin></title>"
+        answer: "<title>WHERE THE WILD THINGS ARE / <latin>UBI FERA SUNT</latin></title>"
   - tossup:
       question: "What man went into exile with the necklace and robe of his ancestor Harmonia after he was driven from the shared rule of the city of Thebes by his brother, Eteocles?"
       answer: "POLYN(E)ICES"

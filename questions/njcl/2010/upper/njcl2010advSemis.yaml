@@ -272,7 +272,7 @@ questions:
       answer: "APICIUS"
     boni:
       - question: "Give the author and the work from which passage B is excerpted"
-        answer: "(PUBLIUS) VERGIL(IUS MARO), <title>GEORGICS /</title> <title><latin>GEORGICA</latin></title>"
+        answer: "(PUBLIUS) VERGIL(IUS MARO), <title>GEORGICS / <latin>GEORGICA</latin></title>"
       - question: "Now examine passages C, D, and E. Which of these passages was written by a Silver Age author?"
         answer: "D (JUVENAL, SATIRE I)"
   - tossup:

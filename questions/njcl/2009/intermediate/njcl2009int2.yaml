@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who took over the command of the army in Judaea in 69 AD when Vespasian departed for Alexandria?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "What post, usually reserved for equestrians, did Titus hold from 71 AD until his father's death in 79 AD?"
+        answer: "PRAETORIAN PREFECT"
+      - question: "How many years did Titus reign after his father's death?"
+        answer: "2 YEARS"
+  - tossup:
+      question: "Of the animals <latin>delphīnus</latin>, <latin>gallus</latin>, <latin>orca</latin>, <latin>testūdō</latin>, and <latin>piscis</latin>, which is described in the following Latin sentence? <latin>Est sōlum animal quod in aquā facile nāre nōn possit</latin>"
+      answer: "GALLUS"
+    boni:
+      - question: "Which of those words is described in this sentence? <latin>Haec duo animālia vīvōs nātōs, nōn ōva pariunt</latin>"
+        answer: "DELPHĪNUS & ORCA"
+      - question: "Which of those words is described in this sentence? <latin>In rē mīlitārī nōmen huius animālis datum est modō oppugnandī quō mīlitēs scuta suprā capita tenent</latin>"
+        answer: "TESTŪDŌ"
+  - tossup:
+      question: "On what mountain did Heracles kill a lion, an act which Apollodorus calls Heracles' first adventure?"
+      answer: "CITHAERON"
+    boni:
+      - question: "What local king had Heracles go to bed with each of his fifty daughters?"
+        answer: "THESPIUS"
+      - question: "How many nights did it take Heracles to sleep with all 50 daughters of Thespius?"
+        answer: "1 OR 50"
+  - tossup:
+      question: "What city did the Romans capture in the same year as Tiberius Gracchus' tribunate and Attalus' bequest of Pergamum to Rome?"
+      answer: "NUMANTIA"
+    boni:
+      - question: "Who led the Roman troops into Numantia?"
+        answer: "(PUBLIUS CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS (MINOR)"
+      - question: "Who was the first Roman to attempt to take Numantia in 152 BC?"
+        answer: "FULVIUS NOBILIOR"
+  - tossup:
+      question: "Give the ablative singular of the phrase <latin>dissimilis rātiō</latin>"
+      answer: "<latin>DISSIMILĪ RĀTIŌNE</latin>"
+    boni:
+      - question: "Change <latin>dissimilī ratiōne</latin> to the genitive plural"
+        answer: "<latin>DISSIMILIUM RĀTIŌNUM</latin>"
+      - question: "Change <latin>dissimilium rātiōnum</latin> to the superlative"
+        answer: "<latin>DISSIMILLIMĀRUM RĀTIŌNUM</latin>"
+  - tossup:
+      question: "The motto of the University of California is, of course, <latin>Fiat Lūx</latin>. Using that same Latin verb, say in Latin, “There will be light.”"
+      answer: "<latin>FĪET LŪX</latin>"
+    boni:
+      - question: "Again using that same verb, say in Latin, “We all know light happens.”"
+        answer: "<latin>(NŌS) OMNĒS SCĪMUS LŪCEM FIERĪ</latin>"
+      - question: "Now say in Latin using that same verb and a passive periphrastic construction, “Light must be made.”"
+        answer: "<latin>LŪX FACIENDA EST</latin>"
+  - tossup:
+      question: "What hero was the son of Eurynome and Glaucus and the grandson of Sisyphus?"
+      answer: "BELLEROPHON / HIPPONOÜS"
+    boni:
+      - question: "What goddess helped Bellerophon to tame the winged steed Pegasus?"
+        answer: "ATHENA"
+      - question: "Against what hostile tribe did Iobates send Bellerophon after the hero had dispatched the Chimaera?"
+        answer: "SOLYMI/AMAZONS"
+  - tossup:
+      question: "Give the Latin name for the site in ancient Rome which housed the Temple of Hercules Victor and the primary cattle market?"
+      answer: "<latin>FORUM BOARIUM</latin>"
+    boni:
+      - question: "You are looking at a reconstruction of the heart of Rome from imperial times. Identify the uppermost building labeled “A.”"
+        answer: "TEMPLE OF VENUS AND ROME / <latin>TEMPLUM VENERIS ET RŌMAE</latin>"
+      - question: "Give the specific Latin name for the construction labeled “B.”"
+        answer: "<latin>AQUA CLAUDIA</latin>"
+  - tossup:
+      question: "Which of the following verbs does NOT normally utilize a predicate nominative when used in the passive? <latin>Faciō, cōgō, appellō, creō, nōminō</latin>"
+      answer: "<latin>CŌGŌ</latin>"
+    boni:
+      - question: "Using <latin>appellō</latin>, say in Latin, “Fulvius and Manlius have been named consuls.”"
+        answer: "<latin>FULVIUS ET MANLIUS CŌNSULĒS APPELLĀTĪ SUNT</latin>"
+      - question: "There is a third conjugation verb <latin>appellō</latin>, a compound of <latin>pellō</latin>, with a completely different meaning from the one you just used. What is the third principal part of this third conjugation verb?"
+        answer: "<latin>APPULĪ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Pauper et homō quī dīves esse vidēbātur ad rīvum vēnērunt ut biberent. Pauper dīvitem rogāvit num sibi pecūniam daret. Cui respondit dīves, “Nūllō modō sum dīves. Magnum mihi est aes aliēnum, nam in Californiā habitō!”</latin> Question: What did the poor man ask?"
+      answer: "THAT THE OTHER (SEEMINGLY RICH) MAN GIVE HIM MONEY"
+    boni:
+      - question: "Where and for what purpose did the two men meet?"
+        answer: "A RIVER & TO DRINK"
+      - question: "Explain the full response of the seemingly rich man"
+        answer: "IN <emphasis>NO</emphasis> WAY AM I <emphasis>RICH</emphasis>. I HAVE A GREAT <emphasis>DEBT</emphasis>, FOR I LIVE IN <emphasis>CALIFORNIA</emphasis>"
+  - tossup:
+      question: "How was Tereus punished by his wife for raping her sister Philomela?"
+      answer: "SHE CUT UP AND COOKED HIS SON (ITYS) AND FED HIM TO TEREUS"
+    boni:
+      - question: "Who was his wife, who became a nightingale?"
+        answer: "PROCNE"
+      - question: "Into what was Tereus later transformed?"
+        answer: "HOOPOE"
+  - tossup:
+      question: "Give a deponent synonym for the verb <latin>timeō</latin>"
+      answer: "<latin>VEREOR</latin>"
+    boni:
+      - question: "Give a deponent synonym for the verb <latin>putō</latin>"
+        answer: "<latin>ARBITROR, MEDITOR, REOR</latin>"
+      - question: "Give a deponent synonym for the verb <latin>dīcō</latin>"
+        answer: "<latin>LOQUOR, ALLOQUOR, COLLOQUOR, FOR</latin>"
+  - tossup:
+      question: "Which of the following words or phrases would best describe the weather if you were “estivating” at UC-Davis? <latin>Sōl lūcet, tonat, vehementer ningit, semper pluit, turbō torquētur</latin>"
+      answer: "SŌL LŪCET"
+    boni:
+      - question: "Which of those phrases would result in “gelid” conditions?"
+        answer: "<latin>VEHEMENTER NINGIT</latin>"
+      - question: "Almost anywhere in the world, which of those phrases is least likely to be “quotidian”?"
+        answer: "<latin>TURBŌ TORQUĒTUR</latin>"
+  - tossup:
+      question: "What would you do with all of the following items? <latin>Subsellium</latin>, <latin>cathedra</latin>, <latin>sella cūrūlis, solium</latin>"
+      answer: "SIT ON THEM"
+    boni:
+      - question: "In which of the above would a senator sit while in the <latin>cūria</latin>?"
+        answer: "<latin>SUBSELLIUM</latin>"
+      - question: "In which of the above would a patron sit while receiving his clients?"
+        answer: "<latin>SOLIUM</latin>"
+  - tossup:
+      question: "Harry Potter mania simply refuses to go away! If this keeps up, we will all want to perform a Cruciatus Curse on ourselves. What Latin noun with what meaning lies at the root of “Cruciatus”?"
+      answer: "<latin>CRUX</latin> - CROSS"
+    boni:
+      - question: "The Impediment Curse is cast by using the word <latin>impedimenta</latin>. When used in Latin with reference to the military, what is the meaning of <latin>impedimenta</latin>?"
+        answer: "BAGGAGE"
+      - question: "Oh, how “riddikulus” this question is! Perhaps we should use the “Protego” charm to ward away the evil jinx of Harry Potter and his friends. “Protego” is, of course, derived directly from the first principal part of a Latin verb. Using the subjunctive and this same Latin verb, say in Latin, “Let us protect.”"
+        answer: "<latin>PRŌTEGĀMUS</latin>"
+  - tossup:
+      question: "According to Homer, what son of Tydeus fought in the second Argive expedition against Thebes?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Also according to Homer, Diomedes was accompanied by Sthenelus, whose boastful father was destroyed by Zeus’ thunderbolt. Name him"
+        answer: "CAPANEUS"
+      - question: "Which of the original Seven Against Thebes instructed his sons Alcmaeon and Amphilochus to avenge his betrayal at the hands of his greedy wife?"
+        answer: "AMPHIARAÜS"
+  - tossup:
+      question: "Who was the first Roman to march his army into the city itself?"
+      answer: "(LUCIUS CORNELIUS) SULLA"
+    boni:
+      - question: "What command had been taken from Sulla and given instead to Marius, motivating this march?"
+        answer: "THE COMMAND AGAINST MITHRIDATES (VI / THE GREAT / EUPATOR)"
+      - question: "What tribune passed the law in a blatant attempt to curry Marius' favor and was slaughtered by Sulla on his return?"
+        answer: "(PUBLIUS SULPICIUS) RUFUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Fēmina duodēvigintī genera florum in hortō vīdit</latin>"
+      answer: "THE WOMAN SAW EIGHTEEN KINDS / TYPES OF FLOWERS IN THE GARDEN"
+    boni:
+      - question: "Translate: <latin>Flūmen vīgintī pedēs altum, ducentōs lātum est</latin>"
+        answer: "THE RIVER IS TWENTY FEET DEEP / HIGH (AND) TWO HUNDRED (FEET) WIDE"
+      - question: "Translate: <latin>Pater fīlium epistulā hortātus est ut domum regrederētur</latin>"
+        answer: "THE FATHER ENCOURAGED (HIS) SON IN A LETTER TO RETURN HOME"
+  - tossup:
+      question: "In the <title>Aeneid</title>, who kills Mezentius?"
+      answer: "AENEAS"
+    boni:
+      - question: "What son of Mezentius had Aeneas killed earlier in the same battle?"
+        answer: "LAUSUS"
+      - question: "Although Mezentius had been the leader of the Etruscans, he was allied with Turnus. What leader of the Volscians also fought against the Trojans ?"
+        answer: "CAMILLA"
+  - tossup:
+      question: "If you are doing research on someone famous, you may run across the abbreviation <latin>fl.</latin> or <latin>flor</latin>. Give the full Latin word for that abbreviation"
+      answer: "<latin>FLŌRUIT</latin>"
+    boni:
+      - question: "What kind of person are you researching if you discover the abbreviation <latin>pinx.</latin>?"
+        answer: "PAINTER"
+      - question: "What kind of person are you researching if she received a <latin>J.D.</latin> degree?"
+        answer: "LAWYER  <latin>2009 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

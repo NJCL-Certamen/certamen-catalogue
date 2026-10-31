@@ -1,0 +1,173 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Idaho, Missouri, and Michigan all have mottos that contain an imperative verb. Give the motto of the state which contains a present imperative form."
+      answer: "<latin>SĪ QUAERIS P(A)ENINSULAM AMOENAM, CIRCUMSPICE</latin>"
+    boni:
+      - question: "Both Idaho and Missouri have mottos that feature the future imperative <latin>estō</latin>. <latin>Estō</latin> is an imperative form of what verb?"
+        answer: "<latin>SUM / ESSE</latin>"
+      - question: "Idaho happens to also share a motto with St. Thomas’ College and Mount Lavinia in Sri Lanka. What is this motto and what does it mean?"
+        answer: "<latin>ESTŌ PERPETUA -</latin> MAY IT / SHE LAST FOREVER"
+  - tossup:
+      question: "Of the words <latin>pīlum, cardo, nūmen, sēdes</latin>, and <latin>quercus</latin>, which is being described in the following sentence? <latin>Permultī sunt hominēs quī hoc ab Iove petant ut rēs bene ēveniant.</latin>"
+      answer: "<latin>NŪMEN</latin>"
+    boni:
+      - question: "What Latin verb, with what meaning, lies at the root of the English word “decay”?"
+        answer: "<latin>CADŌ / CADERE</latin> - FALL"
+      - question: "From what Latin verb, with what meaning, do we derive the English verb “endeavor”?"
+        answer: "<latin>DĒBEŌ / DĒBĒRE -</latin> TO OWE / OUGHT"
+      - question: "Of the words <latin>pīlum, cardo, nūmen, sēdes</latin>, and <latin>quercus</latin>, which is being described in the \tfollowing sentence?"
+        answer: "<latin>Est instrūmentum ianuae quod patitur ianuās aperīrī claudīque. CARDO</latin>"
+      - question: "Of the words <latin>pīlum, cardo, nūmen, sēdes</latin>, and <latin>quercus</latin>, which is being described in the following sentence?"
+        answer: "<latin>Est signum nātūrāle Iovis. Habet rāmōs et folia et cōdicem. QUERCUS</latin>"
+  - tossup:
+      question: "Which of these rivers, listed by their Roman names, was NOT in one of the provinces of Gaul – <latin>Garumna, Iberus, Liger, Rhodanus,</latin> or <latin>Sequana</latin>?"
+      answer: "<latin>IBERUS</latin>"
+    boni:
+      - question: "In what province was the <latin>Iberus</latin> River and what is the river’s modern name?"
+        answer: "<latin>HISPANIA (TARRACONENSIS),</latin> EBRO"
+      - question: "Give the modern name of any TWO of the rivers from Gaul listed in the tossup."
+        answer: "<latin>GARUMNA</latin> – GARRONE; <latin>LIGER</latin> – LOIRE;  <latin>RHODANUS</latin> – RHONE; <latin>SEQUANA</latin> – SEINE"
+  - tossup:
+      question: "At what seaport did Zeus turn a blood-red snake to stone after it ate a sparrow and her eight children, convincing Calchas that the Greeks would besiege Troy for nine years?"
+      answer: "AULIS"
+    boni:
+      - question: "What maiden was sacrificed at Aulis by her father, who wished to obtain favorable winds for the journey to Troy?"
+        answer: "IPHIGENEIA / IPHIANASSA"
+      - question: "In some stories, it is said that Artemis transported Iphigeneia to the land of what tribe, where she became a priestess?"
+        answer: "TAURI(ANS)"
+  - tossup:
+      question: "Who began his career as emperor in the Western Empire, nominally in command of the entire West, though in reality controlling only the Illyrian provinces, but later became sole emperor in the East after his defeat of Maximinus Daia in 313 AD?"
+      answer: "LICINIUS (VALERIUS LICINIANUS)"
+    boni:
+      - question: "Where was the conference in 308 AD where Licinius was proclaimed <latin>Augustus</latin> in the West?"
+        answer: "CARNUNTUM"
+      - question: "Licinius ultimately fought and was defeated by Constantine I. To what city, whose inhabitants were massacred by Theodosius I’s troops in 390 AD, was Licinius exiled?"
+        answer: "(THES)SALONICA / (THES)SALONIKI  <latin>---</latin>"
+  - tossup:
+      question: "Of the following words, which two derive from Latin:  burst, meaning, quash, squash?"
+      answer: "QUASH & SQUASH"
+    boni:
+      - question: "Of the following words, which one, if any, derives from Latin: pay, silly, spell, photography?"
+        answer: "PAY"
+      - question: "Of the following words, which, if any, derive from Latin: never, going, to, give, you, up?"
+        answer: "NONE"
+  - tossup:
+      question: "<latin>RESPONDĒ LATĪNĒ:</latin>  <latin>In quō signō caelī nocturnī inveniuntur stellae monstrī ingentis positae ā Iunōne postquam Hercūlēs in palūde Lernaeae pugnāns necāvit. (IN) CANCERE / CANCRŌ / (IN) SIGNŌ CANCERIS  // (IN) HYDRĀ / (IN) SIGNŌ</latin>"
+      answer: "<latin>HYDRAE</latin>"
+    boni:
+      - question: "<latin>In quō signō caelī nocturnī sunt stellae nymphae Callistūs aut filiī Arcadis?</latin>"
+        answer: "<latin>(IN) URSĀ MĀIŌRE/MINŌRE</latin>"
+      - question: "<latin>In quō signō caelī nocturnī inveniuntur stellae cuiusdam virginis positae ā Minervā postquam Medusā interfectā Perseus virginem ipsam servāvit?</latin>"
+        answer: "<latin>(IN) ANDROMEDĀ/ (IN) SIGNŌ ANDROMEDAE</latin>"
+  - tossup:
+      question: "Make the phrase <latin>loca urbāna</latin> singular."
+      answer: "<latin>LOCUS URBĀNUS // LOCUM URBĀNUM</latin>"
+    boni:
+      - question: "What is the technical term for nouns like <latin>balneum</latin> which have a different gender in the plural?"
+        answer: "HETEROGENEOUS"
+      - question: "Another technical term for nouns is “heteroclite” which describes nouns that vary in declension. Give an example in Latin of a heteroclitic noun."
+        answer: "<latin>DOMUS / IUGERUM / MULCIBER / SEQUESTER / VAS / PENUS / / FAMES / REQUIES / PUBES / PECUS / FEMUR / IECUR / MUNUS</latin>"
+  - tossup:
+      question: "What man, who first made a name for himself by defeating the Ingauni in Liguria in 181 BC, led the Roman forces that defeated the Macedonian phalanx of Perseus at the Battle of Pydna?"
+      answer: "(L.) AEMILIUS PAULLUS (MACEDONICUS)"
+    boni:
+      - question: "What triumph-hungry Roman consul committed a massacre in Liguria in 173 BC?"
+        answer: "(M.) POPILIUS (LAENAS)"
+      - question: "The people of which island rose in a sympathetic revolt due to Rome’s Ligurian wars, \trequiring Tiberius Sempronius Gracchus to occupy it with a consular army for two years?"
+        answer: "SARDINIA"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Ursulus, maximē cūriōsus, lacertam vīdit et in dorsō eius saluit.</latin>  <latin>Lacerta, nesciēns quid accideret, versa est ut nōsceret.</latin>  <latin>Eō temporis momentō pater ursus guttur hostis momordit,</latin> <latin>et ferōciter pede celerī ursulum in cavernam reppulit</latin>. <title>REPEAT</title>\t  The question:  <latin>Cūr lacerta versa est?</latin>"
+      answer: "<latin>UT NŌSCERET (QUID ACCIDERET) // (QUOD) URSULUS IN DORSŌ EIUS SALUIT</latin>"
+    boni:
+      - question: "<latin>Quandō pater ursus guttur lacertae momordit?</latin>"
+        answer: "<latin>CUM / UBI LACERTA VERSA EST</latin> (prompt on <latin>eō temporis momentō</latin> <title><latin>vel sim.</latin></title>)"
+      - question: "<latin>Quōmodo pulsus est ursulus ā patre?</latin>"
+        answer: "<latin>FERŌCITER / PEDE (CELERĪ PATRIS URSĪ)</latin>  <latin>---</latin>"
+  - tossup:
+      question: "This question is a visual question. You will have 10 seconds to examine the visual once it is shared via Zoom. Please examine your visual now [WAIT 10 seconds].  \tConsider the following images labeled A through D. Which of these images depicts a scene from the story told by a native Arcadian to Aeneas in Book 8 of the <title>Aeneid</title>, when the hero reaches Pallanteum?"
+      answer: "A"
+    boni:
+      - question: "At the beginning of Book 8, a certain river god appears to Aeneas in a dream to inform him that he has reached his home. Identify by letter the image which contains this episode as well as the name of the river god."
+        answer: "D - TIBER(INUS) / ALBULA"
+      - question: "Letter C depicts the prophetic symbol of a sow that Aeneas will see to prove that he has finally reached his home. The coin is inaccurate, however—according to the <title>Aeneid</title>, what color should the sow be and how many piglets should she have?"
+        answer: "WHITE (SOW) with 30 (PIGLETS)"
+  - tossup:
+      question: "Replacing an earlier format known as <title><latin>volūmen</latin></title>, parchment was cut into pages and bound in a form like a modern book. Give the Latin term for this book format."
+      answer: "<latin>CODEX / CAUDEX</latin>"
+    boni:
+      - question: "<latin>Codex</latin> essentially means a chunk of wood.  Why were books with pages given this \t\tname?"
+        answer: "FRONT AND BACK COVERS WERE MADE OF A SHEET OF WOOD"
+      - question: "Parchment is a term for vellum, but it actually is derived from the name of a city famous for making vellum. What city was this?"
+        answer: "PERGAMUM / PERGAMON"
+  - tossup:
+      question: "Please translate the following sentence into English: <latin>Cum medica sanandō perīta esset, aeger mortuus est.</latin>"
+      answer: "ALTHOUGH THE DOCTOR WAS SKILLED AT HEALING, THE SICK MAN / PERSON DIED"
+    boni:
+      - question: "Translate this sentence: <latin>Utinam ēvādere nōbīs nostrīs domibus licēret!</latin>"
+        answer: "IF ONLY WE WERE ALLOWED TO LEAVE OUR HOUSES"
+      - question: "Translate this sentence: <latin>Spērēmus īnfantem quī magnopere fleat mox dēsistere.</latin>"
+        answer: "LET’S HOPE THAT THE BABY  WHO IS CRYING GREATLY/LOUDLY STOPS SOON"
+  - tossup:
+      question: "Which of these words does NOT belong because of meaning: <latin>fulget, pluit, ningit, piget, tonat</latin>?"
+      answer: "<latin>PIGET</latin>"
+    boni:
+      - question: "Distinguish in meaning between <latin>fulget</latin> and <latin>tonat</latin>."
+        answer: "<latin>FULGET</latin> – IT’S LIGHTNING / FLASHING / SHINING;  <latin>TONAT</latin> – IT’S THUNDERING"
+      - question: "Distinguish in meaning between <latin>pluit</latin> and <latin>ningit</latin>."
+        answer: "<latin>PLUIT</latin> - IT’S RAINING; <latin>NINGIT</latin> – IT’S SNOWING"
+  - tossup:
+      question: "Supply the correct form of <latin>doceō</latin> for the following sentence: “We attended many years of school in order to teach the students of tomorrow.”"
+      answer: "<latin>DOCĒRĒMUS</latin>"
+    boni:
+      - question: "Supply the correct form of <latin>doceo</latin> for this sentence: “Our parents asked us what we were being taught.”"
+        answer: "<latin>DOCĒRĒMUR</latin>"
+      - question: "Supply the correct form of <latin>doceo</latin> for this sentence: “If we had taught the men to fish, they would have never been hungry again.”"
+        answer: "<latin>DOCUISSĒMUS</latin>  <latin>---</latin>"
+      - question: "Using a deponent verb, say “you are fearing.”"
+        answer: "<latin>VERERIS</latin>"
+      - question: "Change the deponent verb <latin>verēris</latin> to the pluperfect subjunctive."
+        answer: "<latin>VERITUS ESSĒS</latin>"
+  - tossup:
+      question: "At what battle did the Romans first encounter so-called “Lucanian oxen” under the direction of the Epirote general Pyrrhus in 280 BC?"
+      answer: "HERACLEA"
+    boni:
+      - question: "While Pyrrhus fought the Romans with elephants, what Thessalian diplomat did he send to Rome more than once to negotiate peace?"
+        answer: "CINEAS"
+      - question: "What Roman consul is celebrated in the Roman annals for rejecting more than one bribe from Pyrrhus?"
+        answer: "(C.) FABRICIUS (LUSCINUS)"
+  - tossup:
+      question: "What group of men, whose members included Thersander, Sthenelus, Euryalus, and     \tDiomedes, marched on the city of Thebes to avenge their fathers’ deaths?"
+      answer: "EPIGONI"
+    boni:
+      - question: "Which of the Seven Against Thebes, who repelled an ambush of fifty men before the main siege, was Diomedes’ father?"
+        answer: "TYDEUS"
+      - question: "Which of the Seven Against Thebes, who bore a shield with the inscription “I will burn the city,” was Sthenelus’ father?"
+        answer: "CAPANEUS"
+  - tossup:
+      question: "Translate the following sentence using fully alliterative Latin: “You have touched so many lands.”"
+      answer: "(<latin>TŪ</latin>) <latin>TOT / TANTĀS TERRĀS TETIGISTĪ</latin> / <latin>TETIGISTIS</latin>"
+    boni:
+      - question: "Translate the following sentence using fully alliterative Latin: “Why were you wary of a hundred dinners?”"
+        answer: "<latin>CŪR CENTUM CĒNĀS CAVĒBĀS</latin> / <latin>CAVĒBĀTIS</latin>"
+      - question: "Translate the following sentence using fully alliterative Latin: “Ulysses was using each of his shoulders.”"
+        answer: "<latin>ŪLĪXĒS / ULYSSĒS UTRĪS(QUE) UMERĪS UTĒBATUR</latin>"
+  - tossup:
+      question: "What son of Saturn ignored Circe because of his preference for a singing nymph, prompting the sorceress to transform him into a woodpecker?"
+      answer: "PICUS"
+    boni:
+      - question: "Name this nymph, whose name refers to her talent of singing."
+        answer: "CANENS"
+      - question: "In the <title>Aeneid</title>, Picus is given as the father and grandfather of what two men, who helped comprise Rome’s mythical genealogy?"
+        answer: "FAUNUS [FATHER] and LATINUS [GRANDFATHER]  <latin>---</latin>"
+  - tossup:
+      question: "From what two Latin words with what meanings, do we ultimately derive “proud”?"
+      answer: "<latin>PRŌ</latin> – BEFORE & <latin>SUM</latin> – BE"
+    boni:
+      - question: "From what two Latin words, an adjective and a verb, with what meanings, do we ultimately derive “acrylic”?"
+        answer: "<latin>ĀCER</latin> – SHARP & <latin>OLEŌ</latin> – SMELL"
+      - question: "From what two Latin words, with what meanings, do we derive “somersault”?"
+        answer: "<latin>SUPER / SUPRA</latin> – ABOVE / OVER &  <latin>SALTUS</latin> - (A) JUMP // <latin>SALIŌ</latin> - (TO) JUMP / DANCE"

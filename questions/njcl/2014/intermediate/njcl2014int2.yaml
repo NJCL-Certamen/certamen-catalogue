@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Of the nouns <latin>venia</latin>, <latin>tempestās</latin>, <latin>vinculum</latin>, <latin>dignitās</latin>, and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Dum hoc accidit, saepe sunt fulgorēs tonitrūsque</latin>?"
+      answer: "<latin>TEMPESTĀS</latin>"
+    boni:
+      - question: "Of the nouns <latin>venia, tempestās, vinculum, dignitās,</latin> and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Hoc est quod manūs pedēsque colligāre potest</latin>"
+        answer: "<latin>VINCULUM</latin>"
+      - question: "Of the nouns <latin>venia, tempestās, vinculum, dignitās,</latin> and <latin>vultus</latin>, which is being described in this Latin sentence: <latin>Hoc petis sī quem offendis</latin>"
+        answer: "<latin>VENIA</latin>"
+  - tossup:
+      question: "Where did Caesar fail to overcome the forces of Pompey in 48 BC?"
+      answer: "DYRRHACHIUM"
+    boni:
+      - question: "What sea did Caesar cross to reach Pompey’s encampment at Dyrrhachium?"
+        answer: "ADRIATIC"
+      - question: "Where did Caesar defeat Pompey later that year?"
+        answer: "PHARSALUS"
+  - tossup:
+      question: "What daughter of Schoeneus was the mother of Parthenopaeus and the wife of Melanion, who won her hand by beating her in a footrace, throwing apples to distract her?"
+      answer: "ATALANTA"
+    boni:
+      - question: "In what expedition did Parthenopaeus take part?"
+        answer: "SEVEN AGAINST THEBES"
+      - question: "Parthenopaeus’s father was either Melanion, also called Hippomenes, or what Calydonian man?"
+        answer: "MELEAGER"
+  - tossup:
+      question: "<latin>iūxtā quālem aquam vetus Gollum vīvēbat?</latin>"
+      answer: "<latin>ĀTRAM</latin> "
+    boni:
+      - question: "<latin>unde Gollum vēnit</latin>?"
+        answer: "<latin>NĒMŌ SCIT</latin> / <latin>SCIĒBAT</latin> / <latin>SCĪVIT</latin> (also accept <latin>NESCIŌ</latin>, <latin>NESCĪMUS</latin>, etc.)"
+      - question: "<latin>quālēs oculī Gollō erant</latin>?"
+        answer: "<latin>MAGNĪ</latin> / <latin>ROTUNDĪ</latin> / <latin>PALLIDĪ</latin>"
+  - tossup:
+      question: "What Roman province was the personal property of the emperor and was known for providing grain for much of the empire?"
+      answer: "AEGYPTUS / EGYPT"
+    boni:
+      - question: "Identify by number the illustration that shows the Wonder of the Ancient World that was located in the province of Aegyptus AND give the name of the city in which it was located"
+        answer: "<latin>FIGURE #1 – ALEXANDRĪA / ALEXANDRIA</latin>"
+      - question: "Of these three illustrations, identify by number the Wonder of the Ancient World that was located furthest east"
+        answer: "FIGURE #3"
+  - tossup:
+      question: "In the final book of the <title>Iliad</title>, what king begs Achilles to accept ransom for the body of his son, Hector?"
+      answer: "PRIAM"
+    boni:
+      - question: "What friend of Achilles did Hector kill, leading to his own demise?"
+        answer: "PATROCLUS"
+      - question: "Achilles was moved by Priam, partly because the old man reminded him of whom?"
+        answer: "(HIS FATHER) PELEUS"
+  - tossup:
+      question: "What two-word Latin phrase used in English might a learned person use to state that no deceit is  intended in a business or personal transaction, and literally means “in good faith”?"
+      answer: "<latin>BONĀ FIDĒ</latin> "
+    boni:
+      - question: "What two-word Latin phrase might a learned person use instead of saying “You’ve been going on so long that it’s making me sick”?"
+        answer: "<latin>AD NAUSEAM</latin>"
+      - question: "What two-word Latin phrase might a learned person use instead of saying “in and of itself.”"
+        answer: "<latin>PER SĒ</latin>"
+  - tossup:
+      question: "Say in Latin: “You all will go to Athens.”"
+      answer: "<latin>(VŌS) OMNĒS ATHĒNĀS ĪBITIS</latin>"
+    boni:
+      - question: "Say in Latin: “The men in Pompeii are dead.”"
+        answer: "<latin>VIRĪ / HOMINĒS POMPEIĪS MORTUĪ SUNT</latin>"
+      - question: "Say in Latin: “I live in the countryside.”"
+        answer: "<latin>RŪRĪ HABITŌ / VĪVŌ</latin>"
+  - tossup:
+      question: "Lucius Cornelius Cinna declared himself consul for the years 85 and 84 BC along with what other man?"
+      answer: "(GNAEUS PAPIRIUS) CARBO"
+    boni:
+      - question: "Cinna’s leadership in his position as consul of Rome saw an abrupt end when his own troops revolted and murdered him at what Italian city in 84 BC?"
+        answer: "ANCONA"
+      - question: "Whom did Carbo appoint as his consular colleague after the death of Cinna?"
+        answer: "(C.) MARIUS THE YOUNGER"
+  - tossup:
+      question: "What river, commonly said to surround all of Hades, was the river of hate, upon which the gods  swore oaths?"
+      answer: "STYX"
+    boni:
+      - question: "From what river did the dead drink to forget their lives?"
+        answer: "LETHE"
+      - question: "What river of fire was most often said to surround Tartarus?"
+        answer: "(PYRI-)PHLEGETHON"
+  - tossup:
+      question: "For the verb <latin>dūcō</latin>, please give the masculine, nominative, singular, future active participle"
+      answer: "<latin>DUCTŪRUS</latin>"
+    boni:
+      - question: "Please change <latin>ductūrus</latin> to the future passive participle"
+        answer: "<latin>DŪCENDUS</latin>"
+      - question: "Using the gerundive, say in Latin: We must lead the soldiers"
+        answer: "<latin>MĪLITĒS NŌBĪS DŪCENDĪ SUNT</latin>"
+  - tossup:
+      question: "sequor, <latin>hortor</latin>, and <latin>polliceor</latin> are all examples of what type of Latin verb?"
+      answer: "DEPONENT"
+    boni:
+      - question: "What distinguishes a deponent verb from a normal verb?"
+        answer: "PASSIVE IN FORM, ACTIVE IN MEANING"
+      - question: "Give two verbs that are categorized as semi-deponent verbs"
+        answer: "<latin>AUDEŌ, GAUDEŌ, SOLEŌ</latin>, <latin>(CON)FĪDŌ</latin> "
+  - tossup:
+      question: "What son of Eupeithes was utterly awestruck when a beggar shot an arrow through twelve axe-heads in the palace of Odysseus?"
+      answer: "ANTINOÜS"
+    boni:
+      - question: "What son of Polybus was the next suitor to die?"
+        answer: "EURYMACHUS"
+      - question: "Who killed Amphinomus, who was the third suitor to die?"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "What is the Latin term for “appetizer”?"
+      answer: "<latin>GUSTUS / GUSTĀTIŌ / PRŌMULSIS / ANTECĒNA</latin>"
+    boni:
+      - question: "What is the Latin term for “dessert”?"
+        answer: "<latin>SECUNDA MĒNSA</latin>"
+      - question: "What is Latin phrase that figuratively means “from beginning to end,” but literally describes the course of a Roman meal?"
+        answer: "<latin>AB ŌVŌ (USQUE) AD MALA</latin>"
+  - tossup:
+      question: "Give the Latin noun and its English meaning from which we derive “coy”, “acquit”, and “quiet”"
+      answer: "<latin>QUIĒS</latin> – REST; SLEEP"
+    boni:
+      - question: "Give the Latin noun and its English meaning from which we derive “sauce”, “sausage”, and “salad”"
+        answer: "<latin>SAL</latin> – SALT"
+      - question: "Give the Latin noun and its English meaning from which we derive “sure”, “proxy”, and “scour”"
+        answer: "<latin>CŪRA</latin> – CARE; ANXIETY; CONCERN"
+  - tossup:
+      question: "Who had to fight off Phineus for the right to marry Andromeda?"
+      answer: "PERSEUS"
+    boni:
+      - question: "How did Perseus defeat Phineus and his friends?"
+        answer: "TURNED THEM TO STONE (WITH MEDUSA’S HEAD)"
+      - question: "Besides being her former fiancé, how was Phineus related to Andromeda?"
+        answer: "UNCLE"
+  - tossup:
+      question: "Change the phrase <latin>alter ager</latin> to the dative"
+      answer: "<latin>ALTERĪ AGRŌ</latin>"
+    boni:
+      - question: "Make <latin>alterī agrō</latin> plural"
+        answer: "<latin>ALTERĪS AGRĪS</latin>"
+      - question: "Make <latin>alterīs agrīs</latin> genitive singular"
+        answer: "<latin>ALTERIUS AGRĪ</latin>"
+  - tossup:
+      question: "Translate the following Latin sentence into idiomatic English: <latin>Postquam sol ortus est, nautae nāvem solvērunt</latin>"
+      answer: "AFTER THE SUN ROSE / SUNRISE, THE SAILORS SET SAIL / SAILED"
+    boni:
+      - question: "The sailors in that sentence could only depart <latin>sublātīs ancorīs</latin>. Translate that phrase into idiomatic English"
+        answer: "WITH THE ANCHORS HAVING BEEN LIFTED // AFTER / BECAUSE / SINCE THE ANCHORS WERE/HAD BEEN LIFTED"
+      - question: "Translate this sentence, which explains why they left: <latin>Satis tūtum esse nōn putāvērunt illīc manēre</latin>"
+        answer: "THEY DID NOT THINK IT WAS SAFE ENOUGH TO STAY IN THAT PLACE."
+  - tossup:
+      question: "Name, respectively, the emperors who immediately preceded and succeeded Domitian"
+      answer: "TITUS & NERVA"
+    boni:
+      - question: "Ignoring Geta, name, respectively, the emperors who immediately preceded and succeeded Caracalla"
+        answer: "SEPTIMIUS SEVERUS & MACRINUS"
+      - question: "Name, respectively, the emperors who immediately preceded and succeeded Probus"
+        answer: "TACITUS & CARUS"
+  - tossup:
+      question: "In the sentence “I shouted while I was running,” use a participle to translate “while I was running”"
+      answer: "<latin>CURRĒNS</latin>"
+    boni:
+      - question: "Now translate “while I was running” without using a participle. "
+        answer: "<latin>DUM CURRŌ / CURRĒBAM</latin> "
+      - question: "In the sentence “He is about to conquer the Gauls,” use a participle to translate “about to conquer.”"
+        answer: "<latin>VICTŪRUS / SUPERĀTŪRUS 2014 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

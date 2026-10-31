@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Differentiate in meaning between <latin>crūs</latin> and <latin>crux</latin>."
+      answer: "<latin>CRŪS –</latin> LEG / SHIN; <latin>CRUX -</latin> CROSS / GALLOWS"
+    boni:
+      - question: "Differentiate in meaning between <latin>carō</latin> and <latin>cardō</latin>."
+        answer: "<latin>CARŌ –</latin> MEAT; <latin>CARDŌ -</latin> HINGE"
+      - question: "Differentiate in meaning between <latin>crās</latin> and <latin>crassus</latin>."
+        answer: "<latin>CRĀS –</latin> TOMORROW; <latin>CRASSUS -</latin> FAT / GREASY/THICK"
+  - tossup:
+      question: "What daughter of Cadmus lost her son by Aristaeus when he was transformed into a stag?"
+      answer: "AUTONOË"
+    boni:
+      - question: "What daughter of Cadmus lost her son Learchus when her husband went mad and shot him?"
+        answer: "INO"
+      - question: "What son did Ino manage to rescue from her mad husband?"
+        answer: "MELICERTES (prompt to “explain your answer” on “PALAEMON” OR “PORTUNUS” for “deified names” or MELICERTES)"
+  - tossup:
+      question: "What use of the subjunctive is found in the following sentence: <latin>Mānius erat vir quī vēritātem nārrāret.</latin>"
+      answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+    boni:
+      - question: "What use of the subjunctive is found in this sentence: <latin>Mānius nārrābat nōbīs quī urbem occupārent.</latin>"
+        answer: "INDIRECT QUESTION"
+      - question: "What use of the subjunctive is found in this sentence: <latin>Cum Mānius semper vēritātem dīceret, eī crēderēmus.</latin>"
+        answer: "CUM CAUSAL / CIRCUMSTANTIAL (frown on “cum circumstantial”)"
+  - tossup:
+      question: "Which emperor sacked the Parthian capital of Ctesiphon so violently and so thoroughly that Rome's longtime enemy was permanently destabilized and collapsed thirty years later?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "What title did Severus receive for his dominant victory over the Parthians?"
+        answer: "PARTHICUS MAXIMUS"
+      - question: "Who was the Parthian emperor during Severus' successful invasion?"
+        answer: "VOLOGESES (IV)"
+  - tossup:
+      question: "Whose life did Heracles reclaim from Thanatos after he became embarrassed about being so raucous at what turned out to be her funeral?"
+      answer: "ALCESTIS'"
+    boni:
+      - question: "How did Heracles win back Alcestis' life from Thanatos?"
+        answer: "HE WRESTLED HIM"
+      - question: "Who was Heracles' host, Alcestis' husband?"
+        answer: "ADMETUS"
+  - tossup:
+      question: "Of what verb is <latin>Minerva</latin> in line 3 the subject?"
+      answer: "<latin>DAT</latin> (PROMPT ON “NONE” OR “ASSUMED”)"
+    boni:
+      - question: "What does Themis give and to whom?"
+        answer: "LAWS / RIGHTS TO THE CITIZENS"
+      - question: "Translate the second line of the inscription."
+        answer: "APOLLO GIVES FLOWERS TO THE MUSES"
+  - tossup:
+      question: "What English noun, meaning \"an obnoxious person\" is derived from the Latin verb <latin>noceō</latin>?"
+      answer: "NUISANCE"
+    boni:
+      - question: "What English verb, meaning \"to belittle or reproach\" is derived from the Latin adjective <latin>pār</latin>?"
+        answer: "DISPARAGE"
+      - question: "What English verb, meaning \"to consider deeply\" is derived from the Latin verb <latin>pendō</latin>?"
+        answer: "PONDER"
+  - tossup:
+      question: "Which Roman commander won a major victory at the battle of Muthul, but was recalled the following year by the <latin>Comitia Centuriāta</latin> when Marius convinced the public that he had not made sufficient progress in defeating Jugurtha?"
+      answer: "(QUINTUS CAECILIUS) METELLUS NUMIDICUS"
+    boni:
+      - question: "Marius then aggressively pursued Jugurtha, engaging him in two battles in 107, the second of which took place outside what city significant to outbreak of the war?"
+        answer: "CIRTA"
+      - question: "Marius' two victories against Jugurtha convinced what Mauretanian king that Roman victory was inevitable and caused him to reach out to Marius, hoping to curry favor with the Romans by handing Jugurtha over?"
+        answer: "BOCCHUS"
+  - tossup:
+      question: "When recognized by the spotter, perform the following commands: <latin>Surge, tege oculum dextrum manū sinistrā, ac mōnstrā linguam tuam.</latin>"
+      answer: "STUDENT RISES, COVERS THEIR RIGHT EYE WITH THEIR LEFT HAND, AND SHOWS THEIR TONGUE."
+    boni:
+      - question: "Now perform these commands: <latin>Ūnō ex vōbīs mortem simulante, cēterī lūgēte.</latin>"
+        answer: "ONE STUDENT PRETENDS TO BE DEAD AND THE OTHERS MOURN"
+      - question: "Finally perform these commands: <latin>Surge ex morte et simulā mordēre socium tuum dīcēns Anglicē “Cerebra…”</latin>"
+        answer: "ONE STUDENT RISES FROM THE DEAD AND PRETENDS TO BITE ONE OF HIS OR HER TEAMMATES SAYING “BRAIINNNSSS….”"
+  - tossup:
+      question: "Who married Philonoë after defeating the Amazons, the Solymi, and the Chimera?"
+      answer: "BELLEROPHON(TES) / HIPPONOÜS"
+    boni:
+      - question: "What daughter of Bellerophon was the mother of Sarpedon?"
+        answer: "LAODAMEIA"
+      - question: "What other grandson of Bellerophon fought alongside Sarpedon at Troy?"
+        answer: "GLAUCUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer IN ENGLISH the question that follows. <latin>Mīles tertiam fābulam narrāre coepit. “Abhinc quattuor annōs cum multōs diēs in īnsulā morārēmur, subitō ex silvā mōnstra dentēs frendentia et sanguine venēnōsō adorta sunt. Nūllō modō timēbāmus nē perīrēmus. Facile omnia mōnstra interficere poterāmus. Īnsulā līberātā, māne ad mare pervēnimus ut ad aliam terram nāvigārēmus.”</latin> \tQuestion: What were the soldiers easily able to do?"
+      answer: "KILL (ALL) THE MONSTERS"
+    boni:
+      - question: "What type of blood did monsters have?"
+        answer: "POISONOUS"
+      - question: "When does this story take place?"
+        answer: "<emphasis>FOUR YEARS AGO</emphasis> WHEN THEY WERE STAYING ON AN ISLAND FOR MANY DAYS"
+  - tossup:
+      question: "In Book 2 of the <title>Iliad</title> what does Zeus send to trick Agamemnon into attacking Troy?"
+      answer: "A (BANEFUL) DREAM"
+    boni:
+      - question: "Whose form does the dream take?"
+        answer: "NESTOR'S"
+      - question: "Who had personally begged Zeus to exalt the Trojans and strike down the Greeks, leading him to send this deceptive dream?"
+        answer: "THETIS"
+  - tossup:
+      question: "What is the modern name of the ancient city of <latin>Camulodunum</latin>?"
+      answer: "COLCHESTER"
+    boni:
+      - question: "What is the modern name of the ancient city of <latin>Burdigala</latin>?"
+        answer: "BORDEAUX"
+      - question: "What is the modern name of the ancient city of <latin>Augusta Treverōrum</latin>?"
+        answer: "TRIER"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same Latin word? register, gesture, augment, suggest"
+      answer: "AUGMENT"
+    boni:
+      - question: "...  pestilence, piedmont, pedal, pioneer, impeach"
+        answer: "PESTILENCE"
+      - question: "...  adroit, alert, correct, dress"
+        answer: "NONE // ALL COME FROM <latin>REGŌ</latin> / THE SAME ROOT"
+  - tossup:
+      question: "What modern job's ancient equivalent was called '<latin>dēsignātor</latin>' in Roman times?"
+      answer: "UNDERTAKER / USHER / UMPIRE / MASTER OF CEREMONIES / REGULATOR"
+    boni:
+      - question: "What was the Latin term for the site where formal cremations were performed?"
+        answer: "<latin>USTRĪNA</latin>"
+      - question: "Often times, the poor weren’t fortunate enough to receive a pyre or be buried in a formal crypt and thus were usually thrown in mass graves known in Latin as what?"
+        answer: "<latin>PUTICULĪ</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>gladiō dēstrictō, mīrābilis fēmina quam celerrimē dē equō dēsiluit</latin>."
+      answer: "WITH THE SWORD DRAWN, THE WONDERFUL WOMAN / WONDER WOMAN JUMPED DOWN FROM HER HORSE AS QUICKLY AS POSSIBLE"
+    boni:
+      - question: "Now translate: <latin>hostibus attonitīs, mulier in āciem ruit ad vincendum</latin>."
+        answer: "WITH THE ENEMY / ENEMIES ASTONISHED, THE WOMAN RUSHES / RUSHED INTO / AGAINST THE (BATTLE) LINE / ARMY (IN ORDER) TO WIN"
+      - question: "Now translate: <latin>victōriā perfectā, incolae mīrābantur unde tanta fēmina vēnisset</latin>."
+        answer: "WITH VICTORY COMPLETED / FINISHED / ACCOMPLISHED THE INHABITANTS WERE WONDERING / WONDERED WHENCE / FROM WHERE SO GREAT A WOMAN HAD COME"
+  - tossup:
+      question: "Sejanus' efforts to seize control of Rome reached two major milestones in 23 AD, first when he consolidated the praetorian guard's barracks within the city's walls, and secondly when he successfully assassinated what son of the Emperor?"
+      answer: "DRUSUS II / YOUNGER"
+    boni:
+      - question: "Who was the wife of Drusus, whom Sejanus unsuccessfully attempted to marry following Drusus' death?"
+        answer: "LIVILLA"
+      - question: "Sejanus' machinations remained unknown or ignored by Tiberius until a letter written by what widow of Drusus the Elder forced Tiberius to confront his prefect's sedition?"
+        answer: "ANTONIA (THE YOUNGER / <latin>MINOR</latin>)"
+  - tossup:
+      question: "For the verb <latin>tundō</latin>, give the 3rd person plural imperfect active subjunctive."
+      answer: "<latin>TUNDERENT</latin>"
+    boni:
+      - question: "Make that form Perfect."
+        answer: "<latin>TUTUDERINT</latin>"
+      - question: "Make that form Passive."
+        answer: "<latin>TUNSĪ / TUSSĪ / TŪSĪ SINT</latin>"
+  - tossup:
+      question: "What daughter of Zeus and Carme leaped into the sea to avoid rape at the hands of Minos?"
+      answer: "BRITOMARTIS"
+    boni:
+      - question: "Into what Cretan goddess was Britomartis transformed?"
+        answer: "DICTYNNA"
+      - question: "By what other name was she worshipped on Aegina?"
+        answer: "APHAEA"
+  - tossup:
+      question: "What use of the Dative case is found in the following sentence: <latin>Panis tōtus nōbīs edendus est.</latin>"
+      answer: "AGENT"
+    boni:
+      - question: "What use of the Dative case is found in this sentence: <latin>Hostibus ā nōbīs parcendum est.</latin>"
+        answer: "SPECIAL VERBS"
+      - question: "What use of the Dative case is found in this sentence: <latin>Vae omnibus quī nōn possunt bene dormīre.</latin>"
+        answer: "REFERENCE"

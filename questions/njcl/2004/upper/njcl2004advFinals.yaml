@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Sī</latin> <latin>vir dīves essem, cibum pecūniamque vōbīs darem</latin>"
+      answer: "IF I WERE A RICH MAN, I WOULD GIVE YOU FOOD AND MONEY"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Sī</latin> <latin>quis vestrum pecūniam fūrētur, in carcere pōnāris.</latin>"
+        answer: "IF ANY OF YOU SHOULD STEAL MONEY, YOU WOULD BE PLACED IN JAIL"
+      - question: "Translate the following sentence into English: <latin>Nisi mihi nōmen tuum dīcis, tibi nōn permittētur ut dēlubrum intrēs</latin>"
+        answer: "UNLESS YOU TELL ME YOUR NAME, YOU WILL NOT BE ALLOWED TO ENTER THE TEMPLE"
+  - tossup:
+      question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... flammās cum rēgia puppis extulerat.”</latin>"
+      answer: "SYNECDOCHE (“When the royal ship had bore up the signal flames”)"
+    boni:
+      - question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... bis collō</latin> <latin>squāmea circum</latin>  <latin>terga datī</latin> <latin>superant capite et cervīcibus altīs.”</latin>"
+        answer: "TMESIS (“twice winding their scaly backs around his throat, they tower above with head and lofty necks”)"
+      - question: "What literary device, other than alliteration, is illustrated in the following line: <latin>“manūs ac supplicēs vōcēs ad Tiberium tendēns.</latin>”"
+        answer: "ZEUGMA (“Stretching out their hands and suppliant voices to Tiberius”)"
+  - tossup:
+      question: "What is the Latin term for the adoption of one <latin>paterfamiliās</latin> by another <latin>paterfamiliās</latin>?"
+      answer: "<latin>ADROGĀTIO</latin>"
+    boni:
+      - question: "Since this kind of adoption meant the end of the adoptee’s family cult, it had to be approved by an assembly. What assembly?"
+        answer: "CURIATE ASSEMBLY / <latin>COMITIA CURIĀTA</latin>"
+      - question: "With respect to an <latin>adrogātio</latin>, what legal requirement existed regarding the adopter?"
+        answer: "HE COULD NOT HAVE ANY LIVING CHILDREN (or possibility of children)"
+  - tossup:
+      question: "Complete the following analogy: <latin>Nūper</latin> : <latin>nūperrimē</latin> :: <latin>diū</latin> : ________"
+      answer: "<latin>DIŪTISSIMĒ</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>Nūper</latin> : <latin>nūperrimē</latin> :: <latin>saepe</latin> : ________"
+        answer: "<latin>SAEPISSIMĒ</latin>"
+      - question: "<latin>saepe</latin> : <latin>saepius</latin> :: <latin>ēgregiē</latin> : ________"
+        answer: "<latin>MAGIS ĒGREGIĒ</latin> / <latin>ĒGREGIUS</latin>"
+  - tossup:
+      question: "What contemporary of the satirist Lucilius was the most prolific Latin writer of tragedies?"
+      answer: "(LUCIUS) ACCIUS"
+    boni:
+      - question: "For five points each, give the Latin titles of Accius’ <title><latin>fābulae praetextae</latin></title>"
+        answer: "<title><latin>BRUTUS</latin></title> / <title><latin>AENEADAE</latin></title>"
+  - tossup:
+      question: "According to Ovid, into what Roman god was Aeneas transformed?"
+      answer: "INDIGES"
+    boni:
+      - question: "Who sprinkled Aeneas’ body with fragrant ointment and touched his lips with nectar and ambrosia in order to make him into a god?"
+        answer: "VENUS"
+      - question: "What river-god used his waters to purify Aeneas of his human imperfections?"
+        answer: "NUMICIUS / NUMICUS"
+  - tossup:
+      question: "Which of the emperors of A.D. 69 was the only one <emphasis>not</emphasis> given the title “Augustus”?"
+      answer: "(AULUS) VITELLIUS"
+    boni:
+      - question: "Name his two legates who defeated the forces of Otho in northern Italy"
+        answer: "CAECINA (ALIENUS) & (FABIUS) VALENS"
+      - question: "Who led the forces that defeated Vitellius’ supporters in Rome?"
+        answer: "ANTONIUS PRIMUS"
+  - tossup:
+      question: "What Latin verb with what meaning is at the root of the following: liable, league, oblige, religion?"
+      answer: "<latin>LIGŌ</latin>, <latin>LIGĀRE</latin>"
+    boni:
+      - question: "What derivative of <latin>ligō, ligāre</latin> means “the right to take the property of a debtor as payment for a debt”?"
+        answer: "LIEN"
+      - question: "What derivative of <latin>ligō, ligāre</latin> means “to trust confidently”?"
+        answer: "RELY"
+  - tossup:
+      question: "According to Vergil, who was the winner of the boat-race at the funeral games for Anchises?"
+      answer: "CLOANTHUS"
+    boni:
+      - question: "What was the name of Cloanthus’ ship?"
+        answer: "SCYLLA"
+      - question: "What harbor god aided Cloanthus in his victory?"
+        answer: "PORTUNUS"
+  - tossup:
+      question: "Listen to the following adaptation of a speech given by Scipio Africanus when he was defending himself against a charge of bribery. I will read the excerpt twice; answer the question that follows in Latin. <latin>“Mementōte, Quirītēs,” inquit “Repetō</latin> <latin>diem esse hodiernum quō</latin> <latin>Hannibalem imperiō</latin> <latin>Rōmānō</latin> <latin>inimīcissimum magnō</latin> <latin>proeliō</latin> <latin>vīcī</latin> <latin>in terrā</latin> <latin>Africā</latin> <latin>pācemque et victōriam mīrābilem vōbīs peperī. Nōn igitur sīmus adversum deōs ingrāt</latin><latin>ī.”</latin>  The question: <latin>Cuius imperiō</latin> <latin>erat Hannibalis inimīcissimus?</latin>"
+      answer: "<latin>RŌMĀNŌRUM / QUIRĪTUM / POPULĪ</latin> <latin>RŌMĀNĪ</latin>"
+    boni:
+      - question: "<latin>Quid anteā</latin> <latin>acciderat illō</latin> <latin>ipsō</latin> <latin>diē</latin> <latin>quō</latin> <latin>Scīpiō</latin> <latin>in senātū</latin> <latin>dīcēbat?</latin>"
+        answer: "<latin>HANNIBALEM VĪCERAT / VĪCIT</latin>"
+      - question: "<latin>Sententiā</latin> <latin>Scīpiōnis, quibus dēbent esse Rōmānī</latin> <latin>grātī?</latin>"
+        answer: "<latin>DEĪS / ADVERSUM DEŌS</latin>"
+  - tossup:
+      question: "In which of his works did Cicero depict a woman as a promiscuous harlot and accuse her of having an incestuous relationship with her brother Clodius?"
+      answer: "<title><latin>PRŌ</latin></title> <title><latin>CAELI</latin></title>Ō"
+    boni:
+      - question: "In which of his works did Cicero defend a <latin>cōnsul dēsignātus</latin> on a charge of electoral corruption?"
+        answer: "<title><latin>PRŌ</latin></title> <title><latin>MURĒN</latin></title>Ā"
+      - question: "In which of his works did Cicero defend the murderer of his political enemy Clodius?"
+        answer: "<title><latin>PRŌ</latin></title> <title><latin>MĪLŌNE</latin></title>"
+  - tossup:
+      question: "At what battle was T. Statilius Taurus commander of Octavian’s land forces?"
+      answer: "ACTIUM"
+    boni:
+      - question: "What permanent structure was Taurus the first to build in Rome?"
+        answer: "AMPHITHEATRE"
+      - question: "In 16 B.C., Taurus served as Augustus’ deputy. His primary job was to keep order in Rome. What was the Latin title for this office?"
+        answer: "<latin>PRAEFECTUS URBĪ</latin>"
+  - tossup:
+      question: "What Latin word is used by writers and editors to indicate an apparent misspelling or error in a quote?"
+      answer: "<latin>SĪC</latin>"
+    boni:
+      - question: "What is the Latin phrase that is a scholar’s way of telling the reader where to look for an explanation?"
+        answer: "<latin>QUOD VIDĒ</latin>"
+      - question: "What Latin phrase informs the reader that a topic may be found in various places or in many places in an article or book?"
+        answer: "<latin>PASSIM</latin>"
+  - tossup:
+      question: "Using <latin>imperō</latin>, translate the following sentence into Latin: The leader has ordered the soldiers to proceed"
+      answer: "<latin>DUX MĪLITIBUS IMPERĀVIT UT PRŌCĒDERENT / PRŌCĒDANT DUX IMPERĀVIT UT MĪLITĒS PRŌCĒDERENT / PRŌCĒDANT</latin>"
+    boni:
+      - question: "If that sentence had been translated as “<latin>dux imperāvit ut mīlitēs prōcēdant</latin>”, why would the primary sequence of tense be acceptable in this case?"
+        answer: "SEQUENCE OF TENSE IN LATIN ALLOWS THE PRIMARY SEQUENCE WHEN THE PRESENT TENSE IS CLEARLY IN THE WRITER’S MIND / WHEN THE GOVERNING VERB IS IN THE PRESENT-PERFECT (ENGLISH PERFECT WITH “HAVE”), PRIMARY SEQUENCE SEEMS TO BE ALMOST AS COMMON AS SECONDARY SEQUENCE (see Allen & Greenough, section 485a)"
+      - question: "Using the information just provided, translate into Latin: I have discovered what you are doing"
+        answer: "<latin>INVĒNĪ</latin> <latin>/ REPPERĪ</latin> <latin>QUID FACIĀS / FACIĀTIS</latin>"
+  - tossup:
+      question: "What king of Ethiopia came to the aid of the Trojans during the Trojan War?"
+      answer: "MEMNON"
+    boni:
+      - question: "Who were the parents of Memnon?"
+        answer: "TITHONUS & EOS / AURORA"
+      - question: "Who killed Memnon?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "Using the information provided in lines two and three, name one of the offices this Scipio held during his life."
+      answer: "<latin>TRIBŪNUS MĪLITUM</latin> / <latin>MĪLITĀRIS</latin> / MILITARY TRIBUNE / TRIBUNE OF THE SOLDIERS OR <latin>QUAESTOR</latin> / TREASURER"
+    boni:
+      - question: "Using the last three lines, identify an archaic form and give its corresponding classical equivalent."
+        answer: "<latin>MORTVOS</latin> = <latin>MORTUUS</latin>"
+      - question: "Name another archaic form and its corresponding classical equivalent."
+        answer: "<latin>ANTIOCO</latin> = <latin>ANTIOC(H)UM</latin>"
+  - tossup:
+      question: "What author referred to his humble origins and his gratitude to his father, who, though a poor man, gave his son the care and education ordinarily received only by the aristocracy in his <title>Odes</title> and <title>Satires?</title>"
+      answer: "HORACE"
+    boni:
+      - question: "What Greek poet’s lyric poems served as the literary model for Horace’s <title>Odes</title>?"
+        answer: "ALCAEUS’"
+      - question: "What Latin author wrote satire before both Horace and Lucilius?"
+        answer: "(QUINTUS) ENNIUS"
+  - tossup:
+      question: "Who in A.D. 238 was declared co-emperor with Pupienus after the death of Gordian I?"
+      answer: "BALBINUS"
+    boni:
+      - question: "Pupienus and Balbinus divided executive powers equally between themselves. What was Pupienus’ main area of responsibility?"
+        answer: "THE ARMY"
+      - question: "Who had made Pupienus and Balbinus co-emperors?"
+        answer: "THE SENATE"
+  - tossup:
+      question: "According to Hesiod, what mythological group included Ladon, Strymon, Eridanus, and Achelous?"
+      answer: "SONS OF OCEANUS & TETHYS / OCEANIDS / RIVERS"
+    boni:
+      - question: "Which of the daughters of Oceanus & Tethys was the wife of Thaumas?"
+        answer: "ELECTRA"
+      - question: "Which of the daughters of Oceanus & Tethys was the third wife of Zeus?"
+        answer: "EURYNOME"
+  - tossup:
+      question: "(As applause dies down from the score announcement, several items are placed on a small table to the side of the stage. These items include a replica of a legionary helmet, a terra cotta oil lamp, and possibly another one or two things.) We are now introducing a new question format that involves props. As of this point, the toss-up has begun. Do not confer with your teammates until the toss-up has been completed. I will commence reading the question when the props have been arranged. When recognized by the spotter, follow these Latin instructions: <latin>Gerēns galeam, prōgredere quasī</latin> <latin>tū</latin> <latin>mīles sīs.</latin>"
+      answer: "WHILE WEARING THE HELMET, A PLAYER MARCHES LIKE A SOLDIER"
+    boni:
+      - question: "<latin>Gerēns galeam, lucernā</latin> <latin>ūtere quasī</latin> <latin>tū</latin> <latin>in tenebrīs errēs.</latin>"
+        answer: "WEARING THE HELMET, A PLAYER USES THE LAMP AS IF SEARCHING IN THE DARKNESS"
+      - question: "<latin>Gerēns galeam, Anglicē</latin> <latin>imperā</latin> <latin>ūnī</latin> <latin>sociō</latin> <latin>ut appropinquet et galeam</latin>  <latin>tuam capiat.</latin>"
+        answer: "WEARING THE HELMET, A PLAYER IN ENGLISH LOUDLY ORDERS APPROACH AND TAKE HIS HELMET"

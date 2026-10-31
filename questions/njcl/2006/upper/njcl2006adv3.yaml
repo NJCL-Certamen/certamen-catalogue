@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Tū</latin> <latin>es Rōmānus antīquus legēns variās Lēgēs Duodecim Tabulārum. âna ex lēgibus hīs verbīs incipit: “Quī</latin> <latin>malum carmen incantāssit.” Quō</latin> <latin>casū</latin> <latin>est “malum carmen”?</latin>"
+      answer: "<latin>(IN) (CASâ) ACCâSĀTĪVŌ</latin>"
+    boni:
+      - question: "<latin>Cūius dēclīnātiōnis est “carmen”?</latin>"
+        answer: "<latin>TERTIAE</latin>"
+      - question: "<latin>Cūius modī</latin> <latin>est “incantāssit”?</latin>"
+        answer: "<latin>SUBIâNCTĪVĪ</latin> <latin>/ CONIâNCTĪVĪ</latin>"
+  - tossup:
+      question: "Whose work did Cicero regard as antiquated and not worth reading even though this author was regarded as the father of Latin literature?"
+      answer: "(L.) LIVIUS ANDRONICUS’"
+    boni:
+      - question: "Which of his works was used as a school textbook for more than two centuries?"
+        answer: "TRANSLATION OF THE <title>ODYSSEY</title> INTO LATIN - <title><latin>ODUSIA</latin></title> / <title><latin>ODISSIA / ODYSSEIA</latin></title> "
+      - question: "In what meter did Andronicus write his translation?"
+        answer: "SATURNIAN"
+  - tossup:
+      question: "What river god was Heracles' rival for the hand of Deianeira?"
+      answer: "ACHELOUS"
+    boni:
+      - question: "Who in the Underworld had asked Heracles to marry Deianeira?"
+        answer: "(HER BROTHER) MELEAGER"
+      - question: "During the wresting match for the maiden, how did Heracles physically injure Achelous?"
+        answer: "BROKE OFF ONE OF HIS HORNS"
+  - tossup:
+      question: "Which dictator in 493 BC vowed to build a structure in the Forum Romanum later known to the Romans as <latin>Aedēs Castoris</latin>?"
+      answer: "(A.) POSTUMIUS (ALBUS)"
+    boni:
+      - question: "At what battle did he make this vow?"
+        answer: "LAKE REGILLUS"
+      - question: "After the battle, where did the Romans claim to have seen Castor and Pollux watering their horses?"
+        answer: "THE SPRING OF JUTURNA (IN THE ROMAN FORUM) / LACUS JUTURNAE"
+  - tossup:
+      question: "Using a supine, say in Latin: “Latin words are not difficult to say.”"
+      answer: "<latin>VERBA / VŌCĀBULA LATĪNA NŌN SUNT DIFFICILIA DICTâ</latin> <latin>/ NARRĀT</latin>â"
+    boni:
+      - question: "Say in Latin, “I fear that I may forget something.”"
+        answer: "<latin>TIMEŌ</latin> <latin>(METUŌ</latin> <latin>/ VEREOR) NĒ</latin> <latin>QUID / CâIUS OBLĪVĪSCAR</latin> "
+      - question: "Say in Latin, “I fear that I may not remember.”"
+        answer: "<latin>TIMEŌ</latin> <latin>UT MEMINERIM (RECORDER / REMINĪSCAR / COMMEMOREM / MEMORIĀ</latin> <latin>TENEAM)</latin>"
+  - tossup:
+      question: "Which emperor was married to a Syrian lady named Julia Domna?"
+      answer: "SEPTIMIUS SEVERUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "This is a family portrait of Septemius Severus with his wife and two sons. Which of his sons is “this dude”?"
+        answer: "GETA"
+      - question: "What is the Latin term that explains why Geta’s face is missing in this picture?"
+        answer: "<latin>DAMNĀTIŌ</latin> <latin>(MEMORIAE)</latin> "
+  - tossup:
+      question: "For the verb <latin>mandō</latin>, give the 3rd person plural, pluperfect active subjunctive."
+      answer: "<latin>MANDĀVISSENT</latin> "
+    boni:
+      - question: "Give the syncopated form of <latin>mandāvissēnt</latin>."
+        answer: "<latin>MANDĀSSENT</latin> "
+      - question: "Change <latin>mandāssent</latin> to the perfect tense, giving both the standard form, and the syncopated form."
+        answer: "<latin>MANDĀVERINT</latin> & <latin>MANDĀRINT</latin> "
+  - tossup:
+      question: "About what earlier poet did Vergil write “<latin>Fēlīx quī</latin> <latin>potuit rērum cognōscere causās</latin>”?"
+      answer: "(TITUS) LUCRETIUS (CARUS)"
+    boni:
+      - question: "What philosophy was Lucretius promoting with his <title><latin>Dē Rērum Nātūrā</latin></title>?"
+        answer: "EPICUREANISM"
+      - question: "Whose atomic theory was the scientific basis of Epicureanism?"
+        answer: "DEMOCRITUS’ / LEUCIPPUS’"
+  - tossup:
+      question: "In the Republic, which magistrate’s insignia of office included the <latin>sella cūrūlis</latin>, the <latin>toga praetexta</latin>, and 24 lictors?"
+      answer: "DICTATOR"
+    boni:
+      - question: "Within the city of Rome, how were the <latin>fascēs</latin> carried by the 24 lictors for the dictators different from the fasces for consuls or other magistrates?"
+        answer: "AXES WERE IN THE DICTATORS’ FASCES (EVEN IN THE CITY, BUT WERE REMOVED FOR THE OTHER MAGISTRATES)"
+      - question: "What was the symbolic reason why a dictator had 24 <latin>fascēs</latin>?"
+        answer: "HE HAD TWICE AS MANY AS A SINGLE CONSUL / HE HAD THE COMBINED POWER OF BOTH CONSULS / A DICTATOR HAD THE POWER OF BOTH CONSULS, WHO HAD 12 EACH"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quamvīs exercitus magnus sit, trēs aciēs sufficiunt</latin>."
+      answer: "ALTHOUGH THE ARMY IS BIG, THREE BATTLE LINES ARE SUFFICIENT"
+    boni:
+      - question: "<latin>Etiamsī</latin> <latin>rēgīna deōrum essēs, nōn tibi crēderem</latin>."
+        answer: "EVEN IF YOU WERE QUEEN OF THE GODS, I WOULD NOT BELIEVE YOU"
+      - question: "<latin>Nōn dēbēs tālia dīcere quamquam vēra esse exīstimās</latin>."
+        answer: "YOU OUGHT NOT SAY SUCH THINGS (AL)THOUGH YOU THINK THAT THEY ARE TRUE"
+  - tossup:
+      question: "Whose oracle had declared that Andromeda should be sacrificed to a sea-monster as a penalty for the boastfulness of her mother?"
+      answer: "(ZEUS)AMMON (IN LIBYA)"
+    boni:
+      - question: "Of course, Perseus killed the sea monster and married Andromeda. Whom had she been engaged to marry?"
+        answer: "PHINEUS or AGENOR"
+      - question: "Name the first born child of Andromeda and Perseus."
+        answer: "PERSES"
+  - tossup:
+      question: "What poet cites the empress Messalina as the ultimate example of an immoral woman in his sixth satire?"
+      answer: "(DECIMUS IUNIUS) JUVENAL"
+    boni:
+      - question: "In this same satire, what does Juvenal proclaim to be a <latin>rāra avis</latin>?"
+        answer: "GOOD / MORAL / CHASTE / MODEST WOMAN"
+      - question: "What Latin quotation is Juvenal’s response to the proposition of setting a guard on one’s wife?"
+        answer: "<latin>QUIS CUSTŌDIET IPSŌS CUSTŌDĒS</latin> "
+  - tossup:
+      question: "Give the Latin noun and its meaning at the root of “crone,” “charnel,” “carrion,” and “incarnate”."
+      answer: "<latin>CARŌ, CARNIS</latin> - FLESH, MEAT"
+    boni:
+      - question: "What derivative of <latin>carō</latin> means “festival”?"
+        answer: "CARNIVAL"
+      - question: "What derivative of <latin>carō</latin> means “pale to deep red”?"
+        answer: "CARNELIAN"
+  - tossup:
+      question: "Unhappy at being divided into four republics, the Macedonians rallied around what pretender to the royal throne in 150 BC?"
+      answer: "ANDRISCUS / PSEUDOPHILIP"
+    boni:
+      - question: "What Roman commander was sent against Andriscus in the Fourth Macedonian War?"
+        answer: "(Q. CAECILIUS) METELLUS"
+      - question: "After Andriscus was killed, what happened to the kingdom of Macedonia?"
+        answer: "MADE INTO A ROMAN PROVINCE / ROME ANNEXED IT"
+  - tossup:
+      question: "Listen carefully to the following excerpt from Augustus’ <title><latin>Rēs Gestae</latin></title>, which I will read twice, and answer IN LATIN the question that follows: <latin>Mare pācāvī</latin> ā <latin>praedōnibus. Eō</latin> <latin>bellō</latin> <latin>servōrum, quī</latin> <latin>fūgerant ā</latin> <latin>dominīs suīs et arma contrā</latin> <latin>rem pūblicam cēperant, trīgintā</latin> <latin>ferē</latin> <latin>mīlia capta dominīs ad supplicium sūmendum trādid</latin><latin>ī.</latin>  Question: <latin>Quō</latin> <latin>cōnsiliō</latin> <latin>Augustus servōs dominīs trādidit?</latin> "
+      answer: "<latin>AD SUPPLICIUM SâMENDUM</latin> / <latin>UT SUPPLICIUM SâMERENT</latin> /"
+    boni:
+      - question: "<latin>Quid volēbant servī</latin> <latin>quī</latin> <latin>fūgerant?</latin> "
+        answer: "<latin>ARMA (CONTRĀ</latin> <latin>REM PâBLICAM) CAPERE /</latin>  <latin>PUGNĀRE /</latin>  <latin>LĪBERTĀTEM / BELLUM /</latin>  etc, many other possible answers"
+      - question: "<latin>Quis mare pācandum cūrāvit?</latin>"
+        answer: "<latin>AUGUSTUS (IPSE)</latin>"
+  - tossup:
+      question: "What king of Lycia ordered Bellerophon to kill the Chimaera?"
+      answer: "IOBATES"
+    boni:
+      - question: "Against what bellicose tribe was Bellerophon next sent to fight singlehandedly?"
+        answer: "SOLYMI"
+      - question: "Against what other tribe was Bellerophon sent for his third task?"
+        answer: "AMAZONS"
+  - tossup:
+      question: "What condition do you have if the diagnosis is <latin>tinnītus aurium</latin>?"
+      answer: "RINGING IN/OF THE EARS"
+    boni:
+      - question: "What disease do you and Julius Caesar have in common if your doctor’s diagnosis is <latin>sacer morbus?</latin>"
+        answer: "EPILEPSY"
+      - question: "What condition do you have if the diagnosis is <latin>angīna pectoris</latin>?"
+        answer: "PAIN IN THE CHEST"
+  - tossup:
+      question: "Which noun is of a different gender from the others? <latin>fax</latin>, <latin>nix</latin>, <latin>nux</latin>, <latin>dux</latin>"
+      answer: "<latin>DUX</latin>"
+    boni:
+      - question: "<latin>imāgō</latin>, <latin>pulmō</latin>, <latin>carō</latin>, <latin>virgō</latin> "
+        answer: "<latin>PULMŌ</latin>"
+      - question: "<latin>sēmen</latin>, <latin>tībīcen</latin>, <latin>carmen</latin>, <latin>ōmen</latin>"
+        answer: "<latin>TĪBĪCEN</latin> "
+  - tossup:
+      question: "What fourth century A.D. rhetorician and grammarian wrote commentaries on Terence and Vergil?"
+      answer: "(AELIUS) DONATUS"
+    boni:
+      - question: "What is the Latin title of Donatus’ treatise on grammar, which became the basis of all subsequent Latin grammars?"
+        answer: "<title><latin>ARS GRAMMĀTICA</latin></title> "
+      - question: "Name Donatus’ student who did a new Latin translation of the Bible based upon the Hebrew Old Testament and the Greek New Testament."
+        answer: "(ST.) JEROME (EUSEBIUS HIERONYMUS)"
+  - tossup:
+      question: "According to Homer, what deity did Heracles shoot in the shoulder with an arrow?"
+      answer: "HADES"
+    boni:
+      - question: "Where did Hades go to have his wound healed?"
+        answer: "MT. OLYMPUS"
+      - question: "By what name does Homer call the god who applied a healing ointment and immediately healed the wound?"
+        answer: "PAEAN / PAEËON"

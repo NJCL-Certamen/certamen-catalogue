@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who was the first son-in-law of the emperor Augustus?"
+      answer: "(M. CLAUDIUS) MARCELLUS"
+    boni:
+      - question: "Who was Marcellus' mother?"
+        answer: "OCTAVIA"
+      - question: "How many children did Marcellus father by Julia?"
+        answer: "NONE"
+  - tossup:
+      question: "Which English derivative of the Latin verb for “harm” means “to irritate or vex?”"
+      answer: "ANNOY"
+    boni:
+      - question: "... means “harmful to living things?”"
+        answer: "NOXIOUS"
+      - question: "... means “an incident or person causing trouble or annoyance?”"
+        answer: "NUISANCE"
+  - tossup:
+      question: "Who challenged Apollo to a musical contest of flute versus lyre, but ended up losing and being flayed alive?"
+      answer: "MARSYAS"
+    boni:
+      - question: "Who else challenged Apollo to the same contest on the slopes of Mt. Tmolus?"
+        answer: "PAN"
+      - question: "Name two of Apollo's musically gifted sons"
+        answer: "ORPHEUS / LINUS / PHILAMMON"
+  - tossup:
+      question: "What was the term for the religiously consecrated limits of a Roman city, within which burials and cremations were prohibited?"
+      answer: "<latin>POMERIUM</latin>"
+    boni:
+      - question: "Who were buried in <latin>puticulī</latin>?"
+        answer: "PAUPERS/POOR"
+      - question: "What took place in an <latin>ustrīna</latin>?"
+        answer: "CREMATION"
+  - tossup:
+      question: "Translate the dependent clause of the following sentence into Latin: \"I warned my friend not to shout.\""
+      answer: "<latin>NĒ</latin> <latin>CLĀMĀRET</latin>"
+    boni:
+      - question: "... \"He was so scared that he did not shout.\""
+        answer: "<latin>UT NŌN CLĀMĀRET</latin>"
+      - question: "... \"He does not know why the slave shouted.\""
+        answer: "<latin>CŪR SERVUS CLĀMĀVERIT</latin>"
+  - tossup:
+      question: "Who were the mortal parents of Heracles?"
+      answer: "AMPHITRYON & ALCMENE"
+    boni:
+      - question: "Who was Heracles' twin brother?"
+        answer: "IPHICLES"
+      - question: "What son of Iphicles was Heracles' charioteer and helped him to kill the Hydra?"
+        answer: "IOLAUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Marcus scrīpsit: \"Avē, mī</latin> <latin>magister dulcissime. Valeō, sed hodiē</latin> <latin>diūtius dormīvī</latin> <latin>quam soleō, quod studiō</latin> <latin>et vēnātiōne dēfessus eram. Ōrātiōnem, ut mē</latin> <latin>iussistī, scrībere cōnātus sum, sed nōn potuī. Nōlī</latin> <latin>mē</latin> <latin>vituperāre!\"</latin> <latin>Ad quem Marcus scripsit?</latin>"
+      answer: "<latin>(AD) MAGISTRUM (SUUM DULCISSIMUM)</latin>"
+    boni:
+      - question: "<latin>Cūr Marcus dēfessus hōdiē erat?</latin>"
+        answer: "<latin>PROPTER / OB STUDIUM ET VĒNĀTIŌNEM</latin> or <latin>STUDIŌ ET VĒNĀTIŌNE</latin>"
+      - question: "<latin>Cūr necesse erat Marcō ōrātiōnem scrībere?</latin>"
+        answer: "<latin>(QUOD) MAGISTER IUSSIT / IUSSERAT (EUM)</latin>"
+  - tossup:
+      question: "While fighting with the Romans, who besieged and starved out the Spanish town of Numantia in 133 B.C.and later became an enemy of Rome after usurping the Numidian crown?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "What future Roman general who was to fight Jugurtha was also among the Roman soldiers there?"
+        answer: "(GAIUS) MARIUS"
+      - question: "Who led the siege of Numantia in 134-133 B.C.?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS MINOR / AEMILIANUS"
+  - tossup:
+      question: "Which of the offspring of Uranus and Gaea had 50 heads and 100 arms?"
+      answer: "HECATONCHEIRES"
+    boni:
+      - question: "How many Hecatoncheires were there?"
+        answer: "THREE"
+      - question: "Which of the following was NOT one of them: Brontes, Briareus, Gyes, or Cottus?"
+        answer: "BRONTES"
+  - tossup:
+      question: "What Latin phrase essentially means \"off one's rocker\" or \"not of sound mind\"?"
+      answer: "<latin>NŌN COMPOS MENTIS</latin>"
+    boni:
+      - question: "... essentially means \"providential intervention\" and is used in drama to change the course of events?"
+        answer: "<latin>DEUS EX MĀCHINĀ</latin>"
+      - question: "... essentially means \"make haste slowly\"?"
+        answer: "<latin>FESTĪNĀ</latin> <latin>LENTĒ</latin>"
+  - tossup:
+      question: "Which emperor was the first to build a bath complex on top of Nero’s buried <latin>domus aurea</latin>?"
+      answer: "TITUS"
+    boni:
+      - question: "Which letter on your visual represents the Baths of Caracalla?"
+        answer: "“A”"
+      - question: "Whose baths are labeled with the letter “B”?"
+        answer: "TITUS"
+  - tossup:
+      question: "Give a Latin synonym for the noun <latin>ignis</latin>"
+      answer: "<latin>FLAMMA / FOCUS / INCENDIUM / ARDOR / SCINTILLA</latin>"
+    boni:
+      - question: "... for the verb <latin>ambulō</latin>, without just giving a compound of <latin>ambulō</latin>"
+        answer: "<latin>EŌ/ VADŌ/ INCĒDŌ/ GRADIOR/ SPATIOR</latin>"
+      - question: "... for the adjective <latin>sevērus</latin>"
+        answer: "<latin>INTENTUS/ DŪRUS/ RIGIDUS / PERSEVĒRUS / STRICTUS / GRĀVIS / ACERBUS / ASPER / AUSTĒRUS / SAEVUS / STRENUUS / ARDUUS / FĒRŌX / SAEVUS / INCLEMĒNS / HORRIDUS</latin>"
+  - tossup:
+      question: "What form of the adjective <latin>fēlīx</latin> agrees with the noun form <latin>animal</latin>?"
+      answer: "<latin>FĒLĪX</latin>"
+    boni:
+      - question: "... with the noun form <latin>cane</latin>?"
+        answer: "<latin>FĒLICĪ</latin>"
+      - question: "... with the noun form <latin>Domine</latin>?"
+        answer: "<latin>FĒLĪX</latin>"
+  - tossup:
+      question: "Who sent a huge storm to wreck the fleet of Aeneas?"
+      answer: "HERA / JUNO or AEOLUS"
+    boni:
+      - question: "What did she give to Aeolus as a bribe to do this?"
+        answer: "A NYMPH (DEIOPEA)"
+      - question: "Who calmed the storm?"
+        answer: "POSEIDON / NEPTUNE"
+  - tossup:
+      question: "Translate the following sentence into Latin using a subjunctive: \"I am so smart that I can answer.\""
+      answer: "<latin>TAM CALLIDUS / PRŪDĒNS / SAPIĒNS / INTELLIGENS SUM UT RESPONDĒRE POSSIM</latin>"
+    boni:
+      - question: "(Another possibility for “<latin>tam</latin> ___” would be “<latin>tantī</latin> <latin>ingeniī</latin>” etc.) Using a gerundive to say in Latin, \"That man must be killed.\""
+        answer: "<latin>IS / ILLE / ISTE (VIR/HOMŌ) NECANDUS / OCCĪDENDUS / INTERFICIENDUS EST</latin>"
+      - question: "Use a supine to say \"We had come to win.\""
+        answer: "<latin>VĒNERĀMUS VICTUM/ SUPERĀTUM</latin>"
+  - tossup:
+      question: "Of Macedonia, Graecia, Hispania, Germania, and Lusitania, in which did the Romans NOT conduct at least one war between the Second and Third Punic Wars?"
+      answer: "GERMANIA"
+    boni:
+      - question: "In which of those did the Romans fight against Celtiberians?"
+        answer: "HISPANIA/ LUSITANIA"
+      - question: "Titus Quinctius Flamininus proclaimed the freedom and independence of Greece at the Isthmian Games in 196 B.C. In what Greek city were the Isthmian Games held?"
+        answer: "CORINTH"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>\"Revocāte animōs</latin>.\" <latin>Cuius numerī</latin> <latin>sunt haec verba?</latin>"
+      answer: "PLŪRĀLIS"
+    boni:
+      - question: "Cuius modī <latin>est \"revocāte\"?</latin>"
+        answer: "IMPERĀTĪVĪ"
+      - question: "<latin>Quō</latin> <latin>cāsū</latin> <latin>est \"animōs\"?</latin>"
+        answer: "ACCŪSĀTĪVŌ"
+  - tossup:
+      question: "What tense and voice of the participle is found in the motto for this year’s NJCL convention?"
+      answer: "FUTURE PASSIVE (“<latin>Natura inest in mentibus nostrīs insatiābilis quaedam cupiditās vērī</latin> <latin>videndī</latin>”)"
+    boni:
+      - question: "Using the same construction as the one in the motto, say in Latin “A desire to live well.”"
+        answer: "<latin>CUPIDITĀS BENE VĪVENDĪ</latin>"
+      - question: "What use of the genitive case is found in “<latin>cupiditās bene vīvendī</latin>” and “<latin>cupiditās vērī</latin> <latin>videndī</latin>?”"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "King Proetus became angry when his wife falsely accused what young man of trying to seduce her?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "Who enraged his own father when his stepmother made the same false accusation about him?"
+        answer: "HIPPOLYTUS"
+      - question: "Who was Hippolytus’ stepmother?"
+        answer: "PHAEDRA"
+  - tossup:
+      question: "What derivative of the Latin verb <latin>cernō</latin> means \"something which is concealed from knowledge\"?"
+      answer: "SECRET"
+    boni:
+      - question: "... means \"to determine\" or \"to define by removing ambiguity\"?"
+        answer: "ASCERTAIN"
+      - question: "What Latin noun related to the verb <latin>cernō</latin> means “charge” or “crime?”"
+        answer: "<latin>CRĪMEN</latin>"

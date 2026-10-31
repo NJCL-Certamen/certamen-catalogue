@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Who, incited by the sight of Pallas’ belt, ended a war between the Latins and the Trojans?"
+      answer: "AENEAS"
+    boni:
+      - question: "Name Pallas’ father who sent Pallas along with an Arcadian contingent to aid Aeneas against Turnus"
+        answer: "EVANDER"
+      - question: "What woman was the cause of the conflict because both Turnus and Aeneas wanted to marry her?"
+        answer: "LAVINIA"
+  - tossup:
+      question: "<latin>Dēscrībāmus</latin> nunc <latin>propriētātēs dictiōnum in hāc sententiā</latin>: “omnium enim <latin>rērum prīncipia</latin> parva sunt”. <latin>quae pārs ōrātiōnis</latin> est “parva”?"
+      answer: "<latin>ADIECTĪVUM</latin>"
+    boni:
+      - question: "<latin>cuius generis est “parva”?</latin>"
+        answer: "<latin>NEUTRIUS / NEUTRĪ</latin> "
+      - question: "<latin>quō cāsū est “omnium”?</latin>"
+        answer: "<latin>GENITĪVŌ (CĀSŪ)</latin>"
+  - tossup:
+      question: "Translate into English: <latin>Magister scit discipulum dormīre.</latin>"
+      answer: "THE TEACHER KNOWS (THAT) THE/HIS/A STUDENT IS SLEEPING"
+    boni:
+      - question: "Translate into English: <latin>Magister scit discipulum dormīvisse.</latin>"
+        answer: "THE TEACHER KNOWS THE/HIS/A STUDENT HAS BEEN/WAS SLEEPING / (HAS) SLEPT"
+      - question: "Translate into English: <latin>Magister scit discipulum dormītūrum esse</latin>"
+        answer: "THE TEACHER KNOWS THE/HIS/A STUDENT WILL / IS GOING TO SLEEP"
+  - tossup:
+      question: "What tribune of 58 BC drove Cicero into exile as revenge for Cicero implicating him in the <latin>Bona Dea</latin> scandal?"
+      answer: "(P.) CLODIUS (PULCHER)"
+    boni:
+      - question: "Which politician and member of the First Triumvirate ensured Cicero’s return from exile the following year?"
+        answer: "POMPEY"
+      - question: "What tribune of 57 BC helped Pompey secure Cicero’s return and was later involved in the death of Clodius in 52 BC?"
+        answer: "(TITUS ANNIUS) MILO"
+  - tossup:
+      question: "Ophthalmologists often write prescriptions with the abbreviation <latin>o.d.</latin> What part of the body is that  prescription for?"
+      answer: "THE RIGHT EYE"
+    boni:
+      - question: "For what two Latin words is o.d. the abbreviation?"
+        answer: "<latin>OCULUS DEXTER</latin>"
+      - question: "What is the meaning of the Latin abbreviation in the following sentence: The deed was made out to Samuel Poston Grant <latin>et ux.?</latin>"
+        answer: "AND WIFE"
+  - tossup:
+      question: "Which of the following, if any, does NOT belong because of its meaning: <latin>lacerna</latin>, <latin>paenula</latin>, <latin>solea</latin>, <latin>palla</latin>, sagum?"
+      answer: "<latin>SOLEA</latin>"
+    boni:
+      - question: "Which of the items mentioned was a heavy cloak with a hood similar to our ponchos?"
+        answer: "<latin>PAENULA</latin> "
+      - question: "Priests often wore their togas in a manner referred to as <latin>Cinctus Gabīnus</latin>. What does that term tell us about how the toga was worn?"
+        answer: "IT WAS WORN OVER THE HEAD (PULLING THE TOGA OVER THE HEAD AS A HOOD)"
+  - tossup:
+      question: "What act of sacrilege was committed by a certain Roman citizen?"
+      answer: "(WHILE) BEAT(ING THE SLAVE FIERCELY, HE) / PUSHED A SLAVE THROUGH THE MIDDLE OF THE CIRCUS"
+    boni:
+      - question: "When did this act of sacrilege occur?"
+        answer: "AT DAWN / BEFORE THE CHARIOT RACES STARTED"
+      - question: "What did the Romans have to do?"
+        answer: "TO BEG THE GODS NOT TO BE(COME) ANGRY"
+  - tossup:
+      question: "Give an antonym for the Latin adverb <latin>cotīdiē</latin>"
+      answer: "<latin>NUMQUAM / (PER)RĀRŌ / ALIQUANDŌ / INTERDUM</latin> "
+    boni:
+      - question: "What does the Latin adverb <latin>ubīquē</latin> mean?"
+        answer: "EVERYWHERE / ANYWHERE / WHERE(SO)EVER"
+      - question: "What does the Latin interrogative adverb <latin>quotiēns</latin> mean?"
+        answer: "HOW MANY TIMES / HOW OFTEN"
+  - tossup:
+      question: "Use an accusative of exclamation to say in Latin: “Happy birthday!”"
+      answer: "<latin>LAETUM /-AM / FĒLĪCEM / BEĀTUM /-AM NĀTĀLEM DIEM!</latin> "
+    boni:
+      - question: "Please give the nominative singular of <latin>fēlicem nātālem diem</latin>"
+        answer: "<latin>FĒLĪX NĀTĀLIS DIĒS</latin>"
+      - question: "Now please make that phrase ablative plural"
+        answer: "<latin>FĒLĪCIBUS NĀTĀLIBUS DIĒBUS</latin>"
+  - tossup:
+      question: "What son of Cephissus and Liriope was loved by many women, including the nymph Echo, but was in love only with himself?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "Who told Narcissus’ parents that he would live so long as he did not know himself?"
+        answer: "T(E)IRESIAS"
+      - question: "What goddess of revenge lured Narcissus to a pool where he saw his own reflection, an act that eventually led to the demise of Narcissus?"
+        answer: "NEMESIS"
+  - tossup:
+      question: "For the verb <latin>vēndō</latin>, give the 3rd person plural, perfect passive indicative"
+      answer: "<latin>VĒNDITĪ/-AE/-A SUNT</latin>"
+    boni:
+      - question: "Change <latin>vēnditī sunt</latin> to the present tense"
+        answer: "<latin>VĒNDUNTUR</latin>"
+      - question: "Change <latin>vēnditī sunt</latin> to the active voice"
+        answer: "<latin>VĒNDIDĒRUNT</latin>"
+  - tossup:
+      question: "After what battle <latin>circa</latin> 390 BC against the forces of Brennus did the Roman people take refuge on the Capitoline Hill?"
+      answer: "ALLIA (RIVER)"
+    boni:
+      - question: "Who is said to have heard the squawking of geese and alerted the Roman defenders to a surprise attack by the Gauls?"
+        answer: "(MARCUS) <emphasis>MANLIUS</emphasis> CAPITOLINUS"
+      - question: "Give the famous Latin phrase that Brennus supposedly uttered during the peace negotiations"
+        answer: "<latin>VAE VICTĪS</latin> "
+  - tossup:
+      question: "What infant, born on Mt. Cyllene, was the son of Zeus and Maia?"
+      answer: "HERMES"
+    boni:
+      - question: "What was the name of the item labeled “A”?"
+        answer: "<title>PETASUS</title> "
+      - question: "What was the name of the item labeled “C”?"
+        answer: "<title>TALARIA</title> "
+  - tossup:
+      question: "What use of the ablative is found in this sentence: <latin>Uxōribus īrātīs, virī Athēniēnsēs discēdere volēbant</latin>?"
+      answer: "ABSOLUTE"
+    boni:
+      - question: "What use of the infinitive is found in that sentence?"
+        answer: "COMPLEMENTARY"
+      - question: "What use of the ablative case is found in the following sentence: Claudius est <latin>homō summō ingeniō</latin>?"
+        answer: "QUALITY / DESCRIPTION / CHARACTERISTIC"
+  - tossup:
+      question: "What Roman road went south of Rome to Brundisium and was built in 312 BC?"
+      answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
+    boni:
+      - question: "What city was the original terminus of the <latin>Via Appia</latin>?"
+        answer: "CAPUA"
+      - question: "What Roman road ran north of Rome, going over the Milvian Bridge, and led to Ariminum?"
+        answer: "<latin>VIA FLAMINIA</latin> "
+  - tossup:
+      question: "What king of Thebes fled the city when Zethus and Amphion took power, but was later reinstated only to be murdered and replaced by his son, Oedipus?"
+      answer: "LAIUS"
+    boni:
+      - question: "What son of Pelops did Laius abduct, bringing a curse on his house?"
+        answer: "CHRYSIPPUS"
+      - question: "Who was the wife of both Laius and Oedipus?"
+        answer: "JOCASTA / EPICASTA/-E"
+  - tossup:
+      question: "What English word, derived from the Latin verb meaning “to open”, means “a small opening, crack, or gap”?"
+      answer: "APERTURE"
+    boni:
+      - question: "What derivative of the same Latin verb can describe the orchestral movement forming the introduction to an opera?"
+        answer: "OVERTURE"
+      - question: "What derivative of the same Latin verb is a 4-letter adjective defined as “bold or saucy”?"
+        answer: "PERT"
+  - tossup:
+      question: "What use of the dependent subjunctive clause can be found in the following: <latin>Nesciēbāmus unde ambulāret</latin>?"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "What tense of the subjunctive is <latin>ambulāret</latin>?"
+        answer: "IMPERFECT"
+      - question: "Change <latin>ambulāret</latin> to the corresponding pluperfect subjunctive"
+        answer: "<latin>AMBULĀVISSET</latin>"
+  - tossup:
+      question: "What late Roman emperor wrote the <title>Oration to the Sovereign Sun</title> as part of his pro-pagan agenda that gained him the title “Apostate?”"
+      answer: "JULIAN"
+    boni:
+      - question: "Julian’s hopes of returning the empire to traditional Roman beliefs were ended when he fell in battle against what Persian king?"
+        answer: "SAPOR / SHAPUR (II)"
+      - question: "The suddenness of Julian’s death forced his officers to choose what Christian as his successor?"
+        answer: "JOVIAN"
+  - tossup:
+      question: "Who won Iole, the daughter of Eurytus, in an archery contest and thereby earned the jealousy of his wife Deianeira?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Who had told Deianeira that a cloak soaked in his blood would ensure Heracles’ faithfulness?"
+        answer: "NESSUS"
+      - question: "What herald did she send to deliver this cloak to Heracles, resulting in the deaths of the hero and the messenger?"
+        answer: "LICHAS <latin>2014 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

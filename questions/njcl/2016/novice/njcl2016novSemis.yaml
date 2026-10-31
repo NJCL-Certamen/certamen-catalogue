@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who was killed in a fit of madness along with her children by her husband Heracles?"
+      answer: "MEGARA"
+    boni:
+      - question: "Which king of Thebes was the father of Megara?"
+        answer: "CREON"
+      - question: "Whom did Heracles defeat in a contest of strength to win the hand of his second wife, Deianeira?"
+        answer: "ACHELOÜS"
+  - tossup:
+      question: "With the help of what tribe was Cicero able to obtain incriminating evidence against Catiline?"
+      answer: "ALLOBROGES"
+    boni:
+      - question: "What title was Cicero given for exposing the Catilinarian Conspiracy?"
+        answer: "PATER PATRIAE"
+      - question: "Having fled Rome, near what Italian city was Catiline defeated by Marcus Petreius?"
+        answer: "PISTORIA"
+  - tossup:
+      question: "The Latin phrase “<latin>lūx hominum vīta</latin>” is the motto of what institution of higher learning?"
+      answer: "UNIVERSITY OF NEW MEXICO"
+    boni:
+      - question: "The Latin phrase “<latin>vox clāmantis in dēsertō</latin>” is the motto of what institution of higher learning?"
+        answer: "DARTMOUTH UNIVERSITY"
+      - question: "The Latin phrase “<latin>mēns et manus</latin>” is the motto of what institution of higher learning?"
+        answer: "MIT / MASSACHUSSETTS INSTITUTE OF TECHNOLOGY"
+  - tossup:
+      question: "For the verb <latin>gerō</latin> give the 2nd person plural, pluperfect, passive, indicative form."
+      answer: "<latin>GESTĪ / -AE / -A ERĀTIS</latin>"
+    boni:
+      - question: "Change the form <latin>gestī eratis</latin> to the present tense."
+        answer: "<latin>GERIMINI</latin>"
+      - question: "Change the form <latin>gerimini</latin> to the perfect active."
+        answer: "<latin>GESSISTIS</latin>"
+  - tossup:
+      question: "Now translate: <latin>esne adiūta</latin>?"
+      answer: "HAVE YOU BEEN HELPED / WERE YOU HELPED"
+    boni:
+      - question: "Now translate: <latin>illum leōnem in schōlā nōn ferre potes</latin>."
+        answer: "THAT DRESS / STOLA CANNOT BE WORN IN SCHOOL"
+      - question: "Translate the following sentence into English: <latin>cunīculus rusticus frātrem, quī in urbe habitābat,  vīsitābat</latin>."
+        answer: "THE COUNTRY / RUSTIC / RURAL BUNNY  WAS VISITING HIS / A BROTHER WHO WAS LIVING / LIVED IN THE CITY"
+  - tossup:
+      question: "Where in Rome is the Temple of Venus Genetrix?"
+      answer: "<latin>FORUM IŪLIUM</latin> / <latin>FORUM IŪLIĪ CAESARIS</latin> / FORUM OF JULIUS CAESAR"
+    boni:
+      - question: "Which forum near the Tiber housed a temple dedicated to Hercules?"
+        answer: "FORUM BOARIUM/ MEAT MARKET"
+      - question: "In which forum was the temple of Mars Ultor?"
+        answer: "FORUM AUGUSTUM (AUGUSTI)/ OF AUGUSTUS"
+  - tossup:
+      question: "What Argive princess was shut up in a tower by her father to keep her from getting pregnant with the  child who would eventually kill him but was visited by Zeus anyway?"
+      answer: "DANAË"
+    boni:
+      - question: "Who shut his daughter up in that tower to avoid having a grandson who might cause his death?"
+        answer: "ACRISIUS"
+      - question: "Who was the son of Danaë who eventually killed his grandfather by accident?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>ovum</latin> and <latin>ovis</latin>."
+      answer: "<latin>OVUM</latin> - EGG, <latin>OVIS</latin> - SHEEP"
+    boni:
+      - question: "Differentiate in meaning between <latin>attonitus</latin> and <latin>perterritus</latin>."
+        answer: "<latin>ATTONITUS</latin> – ASTONISHED, <latin>PERTERRITUS</latin> – TERRIFIED"
+      - question: "Differentiate in meaning between <latin>aeger</latin> and <latin>dexter</latin>."
+        answer: "<latin>AEGER</latin> – SICK / WEAK, <latin>DEXTER</latin> – RIGHT"
+  - tossup:
+      question: "After the final secession of the plebs, what law made <latin>plēbiscīta</latin> binding on all citizens IN 287 BC?"
+      answer: "LĒX HORTENSIA / HORTENSIAN LAW"
+    boni:
+      - question: "To what hill across the Tiber had the plebeians fled to, prompting Hortensius to assume the  dictatorship?"
+        answer: "JANICULUM"
+      - question: "How many successions occurred during the Conflict of Orders?"
+        answer: "FIVE"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: “postquam mare parvum  trānsīverō, Siciliam adveniam.” Quae pārs ōrātiōnis est “parvum”?</latin>"
+      answer: "<latin>ADIECTĪVUM</latin>"
+    boni:
+      - question: "<latin>Quā persōnā est “adveniam”?</latin>"
+        answer: "<latin>PRĪMĀ</latin>"
+      - question: "<latin>Quō cāsū est “mare”?</latin>"
+        answer: "<latin>ACCŪSĀTĪVŌ</latin>"
+  - tossup:
+      question: "Please translate this sentence into Latin: We saw the farmers working in the fields."
+      answer: "<latin>(NŌS) AGRICOLĀS LABŌRANTĒS IN AGRĪS VĪDIMUS</latin>"
+    boni:
+      - question: "…: Two of the slave-girls, who had killed the master, were running through the streets."
+        answer: "<latin>DUAE EX / DĒ ANCILLĪS, QUAE DOMINUM NECĀVERANT / INTERFĒCERANT /  CECĪDERANT, PER VIĀS FESTĪNĀBANT / CONTENDĒBANT</latin>"
+      - question: "Using <latin>capiō</latin>, say in Latin: The slave-girls were not able to be captured."
+        answer: "<latin>ANCILLAE CAPĪ NŌN POTERANT / POTUĒRUNT</latin>"
+  - tossup:
+      question: "Whose mother attempted to keep him from going to fight at Troy by disguising him as a girl?"
+      answer: "ACHILLES"
+    boni:
+      - question: "On what island was the female Achilles hidden?"
+        answer: "SCYROS"
+      - question: "Who uncovered the deception of Achilles?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “attain” and “contiguous”."
+      answer: "<latin>TANGŌ</latin> – TOUCH"
+    boni:
+      - question: "Give the Latin noun and its meaning at the root of “appraise” and “precious”."
+        answer: "<latin>PRETIUM</latin> - PRICE"
+      - question: "Give the Latin adjective and its meaning at the root of “tardation” and “retarded”."
+        answer: "<latin>TARDIS</latin> – SLOW"
+  - tossup:
+      question: "The Latin sentences “<latin>Pūblius est pulcherrimus omnium iuvenum”</latin> and “<latin>Numquam satis cibī  habēs</latin>” both contain examples of what use of the genitive case?"
+      answer: "PARTITIVE / OF THE WHOLE"
+    boni:
+      - question: "What two uses of the dative case can be found in the following sentence: <latin>Mārcus, quī est cārus tibi,  est nōmen puerō</latin>?"
+        answer: "POSSESSION & SPECIAL ADJECTIVE"
+      - question: "What two uses of the ablative case can be found in the following sentence: <latin>Puer, Mārcus nōmine,  est callidior mē</latin>?"
+        answer: "SPECIFICATION/RESPECT & COMPARISON"
+  - tossup:
+      question: "Who betrayed his wife by assaulting his sister-in-law and then hid his crime by cutting her tongue  out?"
+      answer: "TEREUS"
+    boni:
+      - question: "According to Ovid, who were his wife and sister-in-law?"
+        answer: "PROCNE AND PHILOMELA (RESPECTIVELY)"
+      - question: "What was the name of Tereus’ son whom Procne and Philomela killed and fed to Tereus?"
+        answer: "ITYS / ITYLOS"
+  - tossup:
+      question: "Give the correct form of the phrase <latin>caput vester</latin> that would appear in a Latin translation of the  following English sentence: If you're not careful, your heads will be hit."
+      answer: "<latin>CAPITA VESTRA</latin>"
+    boni:
+      - question: "Give the correct form of the phrase <latin>vulnus grave</latin> that would appear in a Latin translation of the  following English sentence: Achilles laid Hector low with a serious wound."
+        answer: "<latin>VULNERE GRAVĪ</latin>"
+      - question: "Give the correct form of the phrase <latin>ceterī clientēs</latin> that would appear in a Latin translation of the  following English sentence: Why do you refuse to trust the rest of the clients?"
+        answer: "<latin>CETERĪS CLIENTIBUS</latin>"
+  - tossup:
+      question: "At what battle in 378 AD was the eastern emperor Valens defeated by the Goths?"
+      answer: "ADRIANOPLE"
+    boni:
+      - question: "Who was the leader of the Goths at Adrianople?"
+        answer: "FRITIGERN"
+      - question: "What co-emperor did Valens refuse to wait for before engaging the Goths at Adrianople?"
+        answer: "GRATIAN"
+  - tossup:
+      question: "Please listen to the following passage about the Ionians and the Dorians, which I will read twice, and  answer the question that follows in English:  <latin>Ōlim multī Graecī, quī ā hostibus oppugnābantur, ē patria ad Āsiam nāvigāvērunt et in  aliīs terrīs urbēs clārissimās cōnstituērunt, quae dīvitiās magnās comparāvērunt. Sed  tandem urbēs Ioniae ā rēge malō captae sunt.</latin> (repeat)  The question: <latin>Unde Graecī ad Āsiam nāvigāvērunt?</latin>"
+      answer: "<latin>Ē PATRIĀ / Ē GRAECIĀ / Ā PATRIĀ / AB PATRIĀ</latin>"
+    boni:
+      - question: "<latin>Quālēs urbēs ā Graecīs cōnstitūtae sunt?</latin>"
+        answer: "<latin>CLĀRISSIMAE</latin>"
+      - question: "<latin>Quis urbēs Ioniae cēpit?</latin>"
+        answer: "<latin>RĒX MALUS</latin>"
+  - tossup:
+      question: "What monster was the mother of both the dog that guarded the Underworld and the serpent that  guarded the Apples of the Hesperides?"
+      answer: "ECHIDNA"
+    boni:
+      - question: "What was the name of the giant snake which guarded the Apples of the Hesperides?"
+        answer: "LADON"
+      - question: "What two headed son of Echidna guarded Geryon's cattle?"
+        answer: "ORTHUS / ORTHRUS / ORTHRYS"
+  - tossup:
+      question: "10 witnesses present, the words “<latin>Quandō tū Gāïus, ego Gāïa</latin>”, the <latin>flammeum</latin>, and the <latin>tunica rēcta</latin> were all associated with what specific type of ceremony in ancient Rome?"
+      answer: "<latin>CŌNFARREĀTIŌ</latin>"
+    boni:
+      - question: "What was the Latin term for the band of wool tied around the bride to fasten the <latin>tunica rēcta</latin>?"
+        answer: "<latin>NŌDUS HERCULĀNEUS</latin>"
+      - question: "What was the Latin name of the covered basket used by the Camillus to carry the utensils  necessary for ceremonial offerings to the gods?"
+        answer: "<latin>CUMERA</latin> or <latin>CUMERUM</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Don’t accidentally buzz lest you drop the tossup! From what Latin verb, with what meaning, do we derive the English word “accidentally”?"
+      answer: "<latin>CADŌ</latin> – TO FALL / GO DOWN"
+    boni:
+      - question: "It would be beneficial if you didn’t buzz on purpose but still got the tossup. From what Latin adjective, with what meaning, do we derive the English word “beneficial”?"
+        answer: "<latin>BONUS</latin> – GOOD"
+      - question: "I imagine, though, it would be rather annoying for your opponents if you did that. From what Latin verb, with what meaning, do we derive the English word “annoying”?"
+        answer: "<latin>ŌDĪ –</latin> TO HATE"
+  - tossup:
+      question: "Distinguish in meaning between <latin>pater</latin> and <latin>patria</latin>."
+      answer: "FATHER, COUNTRY"
+    boni:
+      - question: "Distinguish in meaning between <latin>cīvis</latin> and <latin>cīvitās</latin>."
+        answer: "CITIZEN, STATE / CITIZENSHIP"
+      - question: "Distinguish in meaning between <latin>equus</latin> and <latin>eques</latin>."
+        answer: "HORSE, EQUESTRIAN / KNIGHT / HORSEMAN / CAVALRYMAN"
+  - tossup:
+      question: "According to Book 8 of the <title>Odyssey</title>, what god was once trapped in a golden net, ending an affair by which he fathered Phobos and Deimos with Hephaestus’ wife, Aphrodite?"
+      answer: "ARES"
+    boni:
+      - question: "According to the <title>Odyssey</title>, what deity acted as Hephaestus’ look-out and told him that Ares and Aphrodite were having an affair?"
+        answer: "HELIOS"
+      - question: "According to the <title>Odyssey</title>, to set the trap, Hephaestus pretended that he was going to visit what island, where he had once been rescued by a strange people called the Sintians?"
+        answer: "LEMNOS"
+  - tossup:
+      question: "Situated on a steep rock, what nearly impregnable town was taken by Marcus Furius Camillus in 396 BC?"
+      answer: "VEII"
+    boni:
+      - question: "What neighboring Etruscan town, where Tarquinius Superbus had fled into exile some 100 years prior, remained neutral in Veii’s conflict with Rome?"
+        answer: "CAERE"
+      - question: "A tenth of the spoils from Veii were dedicated to which god, an act which represented Rome's first offer to repay its debt to Greece?"
+        answer: "APOLLO (AT DELPHI)"
+  - tossup:
+      question: "What is the accusative singular of the Latin noun <latin>sanguis</latin>?"
+      answer: "SANGUINEM"
+    boni:
+      - question: "What is the accusative singular of the Latin noun <latin>senex</latin>?"
+        answer: "SENEM"
+      - question: "What is the accusative singular of the Latin noun <latin>carmen</latin>?"
+        answer: "CARMEN"
+  - tossup:
+      question: "Who was the second Roman Emperor?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who was Tiberius’s first wife whom Augustus forced him to divorce?"
+        answer: "VIPSANIA (AGRIPPINA)"
+      - question: "After Tiberius retired to Capri, what praetorian prefect ruled as his proxy in Rome?"
+        answer: "(L. AELIUS) SEJANUS"
+  - tossup:
+      question: "In what modern context would one expect to see all of the following anglicized Latin phrases: <latin>nolo contendere</latin>, <latin>in loco parentis</latin>, and <latin>alibi</latin>?"
+      answer: "LEGAL (CONTEXT) / LAW / A COURT (OF LAW) / TRIAL"
+    boni:
+      - question: "In what modern context would one expect to see all of the following Latin phrases: <latin>sub verbo</latin>, <latin>opere citato</latin>, and <latin>ibidem</latin>?"
+        answer: "BOOK / (ACADEMIC) TEXT / JOURNAL / ARTICLE / FOOTNOTE"
+      - question: "In what modern context would one expect to see all of the following Latin phrases: <latin>pro re nata, oculo sinistro,</latin> and <latin>guttae</latin>?"
+        answer: "MEDICINE / A DOCTOR’S (OPTOMETRIST’S) OFFICE / PRESCRIPTIONS / PHARMACY"
+  - tossup:
+      question: "RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Cuius pulchritūdinem petīvit Psȳchē?"
+      answer: "<latin>PRŌSERPINAE</latin>/ PROSERPINA(’S)"
+    boni:
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quae dea eī imperāvit ut hoc faceret</latin>?"
+        answer: "VENUS"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quid invēnit Psȳchē in locō pulchritūdinis Prōserpinae?</latin>"
+        answer: "SOMNUM / SLEEP"
+  - tossup:
+      question: "According to Livy, what hill was settled during Ancus Marcius’ reign, but was not considered one of the seven hills of Rome?"
+      answer: "JANICULUM (HILL)"
+    boni:
+      - question: "According to Livy, on what hill of Rome did the residents of Politorium settle during the reign of Ancus Marcius?"
+        answer: "AVENTINE (HILL)"
+      - question: "According to Livy, what was probably the name of Ancus Marcius’ mother, based on her father’s name?"
+        answer: "POMPILIA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows. <latin>Ōlim erat iuvenis, nōmine Iānus, quī in magnā urbe procul ā familiā suā habitābat. Cotīdiē in mediā urbe inter multās arborēs diū ambulābat cōgitāns dē vītā et mundō. Pictūrīs et verbīs in epistulīs fābulās et amīcīs et familiae nārrābat. Erat laetus sed sōlus in magnā urbe.</latin> REREAD The question: <latin>Ubi iuvenis ambulābat?</latin>"
+      answer: "IN MEDIĀ / MAGNĀ URBE // INTER MULTĀS ARBORĒS"
+    boni:
+      - question: "<latin>Dē quibus cogitābat?</latin>"
+        answer: "<latin>DĒ VITĀ ET MUNDŌ</latin>"
+      - question: "<latin>Quibus hominibus pictūrae et verba exposita sunt?</latin>"
+        answer: "<latin>AMICĪS / FAMILIAE</latin>"
+  - tossup:
+      question: "What is the Latin term, literally meaning a “leader of children,” for the enslaved member of a Roman household who was responsible for walking children to class and overseeing their academic and moral education?"
+      answer: "<latin>PAEDAGŌGUS</latin>"
+    boni:
+      - question: "Due to the importance of their language skills, from what area did most <latin>paedagōgī</latin> hail?"
+        answer: "GREECE"
+      - question: "At what point in a boy’s life did the duties of a <latin>paedagōgus</latin> end?"
+        answer: "MANHOOD / DONNING OF THE <latin>TOGA VIRĪLIS /</latin> LIBERALIA"
+  - tossup:
+      question: "Using <latin>cogō</latin>, give the Latin for the verb in the sentence, “We will have been forced to answer.”"
+      answer: "<latin>COĀCTĪ/-AE/-A ERIMUS</latin>"
+    boni:
+      - question: "Using <latin>eō</latin>, give the Latin for the verb in the sentence, “We will go there soon.”"
+        answer: "<latin>ĪBIMUS</latin>"
+      - question: "Using <latin>ferō</latin>, give the Latin for the verb in the sentence, “They had carried the food.”"
+        answer: "<latin>TULERANT</latin>"
+  - tossup:
+      question: "During which of Heracles’ labors did the hero travel to Erytheia to defeat a one-headed herdsman, a two-headed dog, and a three-headed or three-bodied monster?"
+      answer: "CATTLE OF GERYON (<emphasis>PROMPT</emphasis> ON “TENTH” OR “GERYON”)"
+    boni:
+      - question: "Name either the one-headed herdsman or the two-headed dog whom Heracles defeated."
+        answer: "EURYTION [HERDSMAN] or ORTH(R)US [DOG]"
+      - question: "While seizing the cattle of Geryon, Heracles encountered and killed Menoetes (Me-noy-tees), who had been pasturing whose cattle nearby?"
+        answer: "HADES’"
+  - tossup:
+      question: "What modern board game is being described here? <latin>Terrās coëmere et domūs aedificāre cōnāris ut necesse sit eīs quī haec vīsitent pecūniam tibi dare.</latin>"
+      answer: "MONOPOLY"
+    boni:
+      - question: "What board game is being described here? <latin>Verba nova aliīs verbīs coniūncta ad summam tuam augendam pōnis.</latin>"
+        answer: "SCRABBLE"
+      - question: "What board game is being described here? <latin>In quōque conclāvī domūs colligis quis factum ēgerit, quō instrūmentō id ēgerit, et ubi id ēgerit.</latin>"
+        answer: "CLUE"
+  - tossup:
+      question: "In Book 2 of Ovid’s <title>Metamorphoses</title>, Hesperian nymphs bury what youth’s body, “still smoldering with a three-forked flame,” and commemorate him with the inscription “here he lies, the driver of the chariot of his father,” Helios?"
+      answer: "PHAËTHON"
+    boni:
+      - question: "Into what river, where the Amber Islands were located, did Phaëthon fall?"
+        answer: "ERIDANUS / PO (RIVER)"
+      - question: "What Ligurian singer so mourned the death of Phaëthon that Apollo transformed him into a type of bird?"
+        answer: "CYCNUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>ad montēs eāmus hodiē!</latin>"
+      answer: "LET’S / WE SHOULD GO TO THE MOUNTAINS TODAY!"
+    boni:
+      - question: "Translate the following sentence into English: <latin>nē istud edāmus</latin>."
+        answer: "LET’S / MAY WE NOT EAT THAT (“should” is not correct as a potential with <latin>nē</latin>)"
+      - question: "Translate the following sentence into Latin: Let her protect her family."
+        answer: "<latin>SERVET / TUEĀTUR / DĒFENDAT / CUSTŌDIAT FAMILIAM / GENTEM (SUAM)</latin>"
+  - tossup:
+      question: "What Roman imperial province contained the cities of Oxyrhynchus, Antinoöpolis, Thebes, Memphis, and Alexandria?"
+      answer: "<latin>AEGYPTUS</latin> / EGYPT"
+    boni:
+      - question: "Which of those cities was the administrative seat of the Greek Ptolemaic dynasty until Roman annexation upon the death of Cleopatra VII?"
+        answer: "ALEXANDRIA"
+      - question: "Which of those cities was the capital of the unified Upper and Lower Kingdoms for thousands of years until Alexander conquered Egypt and founded his own capital?"
+        answer: "MEMPHIS"
+  - tossup:
+      question: "What one case can all of these verbs take: <latin>studeō, dēsum, licet, faveō</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "What one case can all of these words take: <latin>satis, cāritās, taedet, plēnus</latin>?"
+        answer: "GENITIVE"
+      - question: "What one case can all of these words take: <latin>dignus, opus est, vēscor, ūtor</latin>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Which of the following words does not belong due to its derivation: docent, doctor, educate, document?"
+      answer: "EDUCATE"
+    boni:
+      - question: "From what Latin verb, with what meaning, do we ultimately derive the English word educate?"
+        answer: "<latin>DŪCŌ / DŪCERE</latin> – TO LEAD"
+      - question: "Which of the following words is not a derivative of <latin>dūcō</latin>: reduce, subdue, conduct, doubt?"
+        answer: "DOUBT"
+  - tossup:
+      question: "While pregnant, what woman dreamed that she birthed a firebrand that would destroy her whole city—a vision that came true when Troy was destroyed due to her son, Paris?"
+      answer: "HECUBA / HECABE"
+    boni:
+      - question: "What son of Hecuba had the gift of prophecy and founded Buthrotum in Epirus after the Trojan War?"
+        answer: "HELENUS"
+      - question: "What son of Hecuba married Helen after the death of Paris, defeating the bid of Helenus?"
+        answer: "DEÏPHOBUS"

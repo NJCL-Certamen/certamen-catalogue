@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Some of you will be heading off to college soon and seeking a <latin>B.A.</latin> or <latin>B.S.</latin> Eventually you may even get an <latin>LL.D.</latin> Give the Latin and English for the degree abbreviated <latin>LL.D.</latin>"
+      answer: "<latin>LĒGUM DOCTOR</latin> – DOCTOR OF LAWS"
+    boni:
+      - question: "In college, you may be asked to do things <latin>inf. dig.</latin> Give the Latin and English for the abbreviation <latin>inf. dig.</latin>"
+        answer: "<latin>ĪNFRĀ DIGNITĀTEM</latin> – BELOW ONE’S DIGNITY"
+      - question: "After doing something <latin>īnfrā dignitātem</latin> like getting your <latin>M.D.</latin>, you are instructed to prepare some <latin>aq. bull.</latin> before an operation. Give the Latin and English for the abbreviation <latin>aq. bull.</latin>"
+        answer: "<latin>AQUA BULLIĒNS</latin> – BOILING WATER"
+  - tossup:
+      question: "Teiresias told Odysseus to travel inland until someone mistook an oar for a winnowing fan and to sacrifice to Poseidon there.  Where did Odysseus make this sacrifice?"
+      answer: "EPIRUS / THESPROTIA / LAND OF THE THESPROTI(ANS)"
+    boni:
+      - question: "What son did Odysseus father in Thesprotia with the queen Callidice?"
+        answer: "POLYPOETES"
+      - question: "When Odysseus returned to Ithaca what son did he discover that Penelope had borne him?"
+        answer: "P(T)OLIPORTHES"
+  - tossup:
+      question: "What count of Africa invited the Vandals from Spain to assist him in his rebellion against the  \tgovernment in Ravenna?"
+      answer: "BONIFACE / BONIFACIUS / BONIFATIUS"
+    boni:
+      - question: "What woman, serving as regent for Valentinian III, had Boniface supported, revolted against, and then later reconciled with?"
+        answer: "(GALLA) PLACIDIA"
+      - question: "Boniface had become estranged with Placidia due to his rivalry with what <latin>magister mīlitum</latin>?"
+        answer: "(FLAVIUS) AETIUS"
+  - tossup:
+      question: "Which of Horace’s works is a professed imitation of Archilochus, with eight of the poems being invectives, one of which was a “reverse propempticon” wishing Maevius a shipwreck?"
+      answer: "<title>EPODES</title> <title><latin>/ IAMBĪ</latin></title>"
+    boni:
+      - question: "While Horace proclaims himself to be the heir of Archilochus in the <title>Epodes</title>, to what poet from Lesbos does he claim to owe a debt for his lyric poetry, as seen in the first book of his <title>Odes</title>?"
+        answer: "ALCAEUS"
+      - question: "For Horace’s third book of the <title>Epistles</title>, to what third-century BC poet, scholar, and critic does he owe much of his influence?"
+        answer: "NEOPTOLEMUS (OF PARIUM)"
+  - tossup:
+      question: "Of the words <latin>harpagō, lebēs, iubar, pāpiliō,</latin> and <latin>imbrex</latin>, which is being described in this sentence: <latin>Est pars domūs quae impedit nē aqua intret.</latin>"
+      answer: "<latin>IMBREX</latin>"
+    boni:
+      - question: "Of the words <latin>harpagō, lebēs, iubar, pāpiliō,</latin> and <latin>imbrex</latin>, which is being described in this sentence: <latin>Alīs propriīs multōrum colōrum per frondēs volitat.</latin>"
+        answer: "<latin>PĀPILIŌ</latin>"
+      - question: "Of the words <latin>harpagō, lebēs, iubar, pāpiliō,</latin> and <latin>imbrex</latin>, which is being described in this sentence: <latin>Secundum sacerdōtēs, ē corpore exsurgit, vītā cōnfectā.</latin>"
+        answer: "<latin>PĀPILIŌ</latin>"
+  - tossup:
+      question: "Identify the type of wagon shown in letter B."
+      answer: "<latin>CARUCCA / RAEDA</latin>"
+    boni:
+      - question: "Give the letter that corresponds to a <latin>summum dorsum</latin>."
+        answer: "B"
+      - question: "Give the letter that corresponds to the <latin>umbo</latin>."
+        answer: "C"
+  - tossup:
+      question: "The Latin noun <latin>passus</latin>, meaning \"step,\" is ultimately derived from what Latin verb, meaning \"spread out\"?"
+      answer: "<latin>PANDŌ</latin> / <latin>PANDERE</latin>"
+    boni:
+      - question: "The Latin noun <latin>cōpia</latin>, meaning \"supply,\" is ultimately derived from what other Latin noun, meaning \"resource\"?"
+        answer: "<latin>OPS</latin>"
+      - question: "The Latin noun <latin>pābulum</latin> meaning “fodder,” is ultimately derived from what Latin verb meaning “to feed”?"
+        answer: "<latin>PASCO(R)</latin>"
+  - tossup:
+      question: "What Arcadian hero, whose name means “Fly-Catcher,” was honored in the town of Alipherus for his services in chasing away flies?"
+      answer: "MYAGRO"
+    boni:
+      - question: "What king of Laconia invented the mill?"
+        answer: "MYLES"
+      - question: "What son of Astycles fought the ghost of one of Odysseus’ sailors in order to free the town of Temesa from the burden of a human sacrifice?"
+        answer: "EUTHYMUS"
+  - tossup:
+      question: "Who was appointed dictator in 356 BC to repel an Etruscan invasion, becoming the first plebeian to hold the office?"
+      answer: "(GAIUS MARCIUS) RUTILUS"
+    boni:
+      - question: "Who was the first plebeian praetor?"
+        answer: "(QUINTUS) PUBLILIUS PHILO"
+      - question: "Who was the first plebeian Pontifex Maximus?"
+        answer: "(TIBERIUS) CORUNCANIUS"
+  - tossup:
+      question: "A description of nature and its phenomena in the <title><latin>Oenomaus</latin></title>, a suspicion of venal seers in the <title><latin>Astyanax</latin></title>, and a distrust of divination in <title><latin>Brūtus</latin></title> are all highlights from some seven hundred extant lines composed by what early Latin dramatist?"
+      answer: "(L.) ACCIUS"
+    boni:
+      - question: "In a mixture of prose and diverse poetical meters, what work of Accius ran to at least nine books and comprehended, among other things, the history of both Athenian and Roman theater?"
+        answer: "<title><latin>DIDASKALIA</latin></title>"
+      - question: "In which of Accius’ <latin>fābulae cothurnātae</latin> do we find the infamous line of the future emperor Caligula, “<latin>ōderint dum metuant</latin>.”"
+        answer: "<title>ATREUS</title>"
+  - tossup:
+      question: "What woman who was promised to Heracles by her father Dexamenus was carried off by the Centaur Eurytion and forced to marry him?"
+      answer: "MNESIMACHE"
+    boni:
+      - question: "For five points each, name the two centaurs who tried to rape Atalanta?"
+        answer: "HYLAEUS AND RHOECUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer the question that follows in LATIN. <latin>Sulla, dēvictīs inimīcīs imperiōque sūmptō, senātum convocātum summō ardōre postulāvit ut Gāius Marius hostis dēcernerētur. Neque quisquam sē opposuit Sullae donec senātor sententiam rogātus dīcere recūsāvit. Quī cum Sulla eum vōce minācī sententiam rogitāret respondit haud dubium esse quīn Sulla ipse interficiendus esset.</latin> Question<latin>: Quālis fuit vōx Sullae cum sententiam dē senātōre rogitāret?</latin>"
+      answer: "<latin>MINĀX / MINĀNS</latin>"
+    boni:
+      - question: "<latin>Quō factō Sulla senātum convocāvit?</latin>"
+        answer: "<latin>DĒVICTĪS INIMĪCĪS</latin> and/or <latin>IMPERIŌ SŪMPTŌ</latin>"
+      - question: "<latin>Respondē Anglicē: Sententiā ūnīus senātōris, quid faciendum erat?</latin>"
+        answer: "(THERE WAS NO DOUBT THAT) SULLA (HIMSELF) HAD TO / SHOULD BE KILLED"
+  - tossup:
+      question: "<latin>Saltāre Cyclōpa</latin> from Horace, <latin>amaryllida resonāre</latin> from Vergil, and <latin>Bacchānālia vīvere</latin> from Juvenal are all examples of what use of the accusative case?"
+      answer: "COGNATE // INTERNAL // KINDRED SIGNIFICATION / MEANING"
+    boni:
+      - question: "What Latin verb, which can be found with constructions of the Cognate Accusative, means not only “to taste” but “to be wise”?"
+        answer: "<latin>SAPIŌ</latin>"
+      - question: "Translate: <latin>herbam mella sapiunt</latin>."
+        answer: "THE HONEY(S) TASTE(S) OF / LIKE GRASS"
+  - tossup:
+      question: "Which of Seneca the Younger’s extant works is addressed to a devastated daughter of the historian Cremutius Cordus to console her from a Stoic perspective and by contrasting two models of maternal grieving: Octavia mourning the loss of Marcellus and Livia lamenting the death of Drusus?"
+      answer: "<title><latin>AD MĀRCIAM (DĒ CŌNSŌLĀTIŌNE)</latin></title>"
+    boni:
+      - question: "Which of Seneca the Younger’s essays addressed to Paulinus discusses the Stoic principles of time, specifically that men waste much of it on meaningless pursuits?"
+        answer: "<title><latin>DĒ BREVITĀTE VĪTAE</latin></title>"
+      - question: "Which of Seneca the Younger’s works is a dialogue addressed to his friend Serenus concerning how to cure his friend from anxiety, worry, and disgust with life?"
+        answer: "<title><latin>DĒ TRANQUILLITĀTE ANIMĪ</latin></title>"
+  - tossup:
+      question: "Would that we could put aside our vitriol! From what Latin noun with what meaning is “vitriol” derived?"
+      answer: "<latin>VITRUM</latin> - GLASS"
+    boni:
+      - question: "Unfortunately, you have been diagnosed with vesiculitis. According to its etymology, what part of your body do you think is inflamed, even though that might not necessarily be the case?"
+        answer: "BLADDER"
+      - question: "In this contest, we have used vernacular words such as hoosegow. From what Latin noun with what meaning do we derive “vernacular”?"
+        answer: "<latin>VERNA</latin> – (HOUSE) SLAVE"
+  - tossup:
+      question: "Translate the dependent clause into Latin for the following sentence: Last night the <title>Certamen</title> players read every footnote so that they might more easily win."
+      answer: "<latin>QUŌ / UT EŌ FACILIUS VINCERENT / SUPERĀRENT</latin>"
+    boni:
+      - question: "What type of dependent clause is found in this sentence: <latin>impetrātum est ut in senātū recitārentur litterae</latin>?"
+        answer: "SUBSTANTIVE CLAUSE OF RESULT \t\t\t(PROMPT ON RESULT OR CONSECUTIVE CLAUSE)"
+      - question: "Using <latin>quam</latin> translate this sentence: You are never too sick to play <title>Certamen</title>."
+        answer: "<latin>NUMQUAM AEGRIOR(ĒS) / INVALIOR / INVALIDIŌRĒS ES(TIS) QUAM UT CERTĀMEN LŪDĀS / LŪDĀTIS</latin>"
+  - tossup:
+      question: "Acting as regent for Pinnes after the death of Agron, what foreign Queen clashed with Rome due to her aggressive policies in the Adriatic, leading to the First Illyrian War?"
+      answer: "TEUTA"
+    boni:
+      - question: "Who betrayed Teuta to the Romans, thereby earning the status of <latin>amīcus</latin> of Rome?"
+        answer: "DEMETRIUS (OF PHAROS)"
+      - question: "What island did Demetrius surrender to the Romans after a fleet of 200 Roman ships appeared off its coast in 229 BC?"
+        answer: "CORCYRA / CORFU"
+  - tossup:
+      question: "What fourth-century writer abandoned a successful administrative career, dedicated himself to writing poetry, which included <title><latin>Cathemerinon, Peristephanon, and Hamartigenia</latin></title>, and is known as the greatest of the Christian Latin poets?"
+      answer: "(AURELIUS CLEMENS) PRUDENTIUS"
+    boni:
+      - question: "Which of Prudentius’ works was his most famous, showcasing an allegorical framework of personified Christian virtues battling against sins through speeches?"
+        answer: "<title><latin>PSYCHOMACHIA</latin></title> / <title>BATTLE OF THE SOUL</title>"
+      - question: "Prudentius also refuted, in two books, the arguments of what great orator who had attempted to bring back the Altar of Victory 20 years earlier?"
+        answer: "SYMMACHUS"
+  - tossup:
+      question: "Who single-handedly ensured that the Argonauts safely passed through the Symplegades on their way back to Greece?"
+      answer: "THETIS"
+    boni:
+      - question: "What did Hera promise Thetis in exchange for her help in this matter?"
+        answer: "ACHILLES WOULD MARRY MEDEA IN THE AFTERLIFE / ISLAND OF THE BLESSED"
+      - question: "Also on the voyage home, what shepherd killed the Argonauts Canthus and Eribotes, when Canthus tried to steal his sheep?"
+        answer: "CAPHAURUS / CEPHALION"
+  - tossup:
+      question: "When recognized by the spotter perform the following commands: <latin>surge et, salūtāns spectātōrēs, dīc Anglicē nīl esse quō nōn perfungerēris</latin>."
+      answer: "STUDENT SHOULD GET UP, GREET THE AUDIENCE AND SAY, “THERE IS NOTHING WHICH I WOULDN’T PERFORM.”"
+    boni:
+      - question: "Now perform this command: <latin>humī iacēns, rogā moderātōrem num dignus sīs quī quīnque punctūs obtineās</latin>."
+        answer: "ONE PLAYER, LYING ON THE GROUND, SHOULD BESEECH THE MODERATOR (AS TO) WHETHER THEY ARE WORTHY OF OBTAINING FIVE POINTS."
+      - question: "Now perform this command: <latin>Dīc spectātōribus tē, sī minus studuissēs, melius dormītūrum fuisse</latin>."
+        answer: "ONE PLAYER SHOULD SAY TO THE AUDIENCE, “I WOULD HAVE SLEPT BETTER, IF I HAD STUDIED LESS.”"

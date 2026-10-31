@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "With his freedman Phaon at his side, which emperor of Rome committed suicide and, in his typical narcissism, proclaimed that with his death, a great artist was lost?"
+      answer: "NERO"
+    boni:
+      - question: "Nero committed suicide after being forced out of Rome when what Praetorian Prefect declared his support for Galba?"
+        answer: "NYMPHIDIUS SABINUS"
+      - question: "What province of the Roman Empire had Galba served as governor prior to his ascension to the imperial throne?"
+        answer: "(<latin>HISPANIA</latin>) <latin>TARRACONĒNSIS</latin>"
+  - tossup:
+      question: "Which of the following English words, if any, IS derived from a DIFFERENT root than the others:  inseparable, preparation, irreparable, impartial?"
+      answer: "IMPARTIAL"
+    boni:
+      - question: "What is the Latin root verb and its meaning for the word “insolent”?"
+        answer: "<latin>SOLEŌ / SOLĒRE</latin> – TO BE ACCUSTOMED TO"
+      - question: "What is the ultimate Latin root verb and its meaning for the word “incorrigible”?"
+        answer: "<latin>REGŌ</latin> – RULE"
+  - tossup:
+      question: "What woman, purchased by Laertes for twenty oxen, proved her worth by identifying which maids had been disloyal to Odysseus and recognizing Odysseus by the scar on his thigh?"
+      answer: "EURYCLEIA"
+    boni:
+      - question: "Odysseus had received this scar from a hunting accident while spending time with his grandfather.  Name this famous mythological thief."
+        answer: "AUTOLYCUS"
+      - question: "Eurycleia also helped Telemachus, giving him provisions before he sailed to what location, the home of Nestor?"
+        answer: "PYLOS"
+  - tossup:
+      question: "What is the meaning of the motto of Oxford University, “<latin>Dominus Illūminātiō Mea</latin>”?"
+      answer: "THE LORD IS MY LIGHT"
+    boni:
+      - question: "Lest we confuse one Oxford with another, what is the meaning of the Latin phrase found in the seal of Miami University, “<latin>Prōdesse Quam Cōnspicī</latin>”?"
+        answer: "TO BE FOR / OF BENEFIT / HELP RATHER THAN TO BE SEEN / NOTICED"
+      - question: "What type of infinitive is found in that motto found on the seal of Miami University?"
+        answer: "SUBJECTIVE"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice; then answer the question that follows in  \t\tLATIN: \t<latin>Ōlim, duo deī ad terram dēscendērunt, hospitium petentēs.  Ad multās vīllās adiērunt,  \tsed nēmō eōs accēpit.  tandem senex et uxor deōs in casam parvam invītāvērunt.   \tquamquam pauperēs erant, dīligenter labōrābant ut bonam cēnam parārent.</latin>  (repeat) \tThe question :  <latin>Quō deī dēscendērunt?</latin>"
+      answer: "<latin>AD TERRAM</latin>"
+    boni:
+      - question: "<latin>Quōrum cāsam deī intrāvērunt ?</latin>"
+        answer: "<latin>SENIS ET UXŌRIS</latin>"
+      - question: "<latin>Quō cōnsiliō senex et uxor labōrābant?</latin>"
+        answer: "<latin>UT BONAM CĒNAM PARĀRENT // PARĀBANT / PARANTĒS BONAM CĒNAM</latin>"
+  - tossup:
+      question: "Give a Latin antonym for <latin>initium</latin>."
+      answer: "<latin>FĪNIS</latin>"
+    boni:
+      - question: "Give a Latin antonym for <latin>semper</latin>."
+        answer: "<latin>NUMQUAM</latin>"
+      - question: "Give a Latin antonym for <latin>angustus</latin>."
+        answer: "<latin>LĀTUS / PINGUIS / MAGNUS / INGĒNS / CRASSUS</latin>"
+  - tossup:
+      question: "Who developed a deep hatred for Cicero because the orator had foiled his alibi while prosecuting him for the profaning of the <latin>Bona</latin> <latin>Dea</latin> Festival?"
+      answer: "(P.) CLODIUS (PULCHER)"
+    boni:
+      - question: "Why was it blasphemous that Clodius entered the Bona Dea Festival?"
+        answer: "THE FESTIVAL <emphasis>FORBADE MEN</emphasis> FROM TAKING PART OR BEING PRESENT IN THE  \t\t\tFESTIVAL (EXCEPT THE PONTIFEX MAXIMUS)"
+      - question: "Who surprisingly dodged the ire of Clodius despite his presence at the festival as <latin>Pontifex</latin> <latin>Maximus</latin> and acquiescence to Clodius’ trial?"
+        answer: "(C. JULIUS) CAESAR"
+  - tossup:
+      question: "Following his death in the Trojan War, what warrior was carried home to Lycia by Hypnos and Thanatos, and was further honored by Zeus with a rainstorm of blood?"
+      answer: "SARPEDON"
+    boni:
+      - question: "What Greek warrior killed Sarpedon?"
+        answer: "PATROCLUS"
+      - question: "Upon his death at Troy, what king was commemorated when the smoke from his funeral pyre formed into birds?"
+        answer: "MEMNON"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Mercātōrēs magna plaustra appropinquantia vīdērunt</latin>."
+      answer: "THE MERCHANTS SAW THE LARGE WAGONS APPROACHING"
+    boni:
+      - question: "Translate this sentence: <latin>Plaustrīs in āream ingressīs, aqua frūmentumque equīs dabantur</latin>."
+        answer: "WHEN / AFTER THE WAGONS HAD ENTERED THE COURTYARD / AREA, WATER AND GRAIN WERE GIVEN TO THE HORSES"
+      - question: "Translate this sentence: <latin>Servī bona tam celeriter exposuērunt ut praemium acciperent</latin>."
+        answer: "THE SLAVES UNLOADED THE GOODS SO QUICKLY  THAT THEY RECEIVED A REWARD"
+  - tossup:
+      question: "Which son of Callirhoe was abducted from Mount Ida by Zeus and became the gods’ cupbearer?"
+      answer: "GANYMEDE(S)"
+    boni:
+      - question: "What did Zeus give Ganymede’s father as recompense for his loss?"
+        answer: "(PAIR OF FINE) MARES or HORSES / GOLDEN GRAPEVINE"
+      - question: "Whom did Ganymede replace as cupbearer of the gods?"
+        answer: "HEBE"
+  - tossup:
+      question: "What use of the dative case can be found in the following sentence:  <latin>Haec prōvincia vōbīs est  \t\tdēfendenda</latin>?"
+      answer: "AGENT"
+    boni:
+      - question: "…:  <latin>Laudāvit mihi frātrem</latin>?"
+        answer: "REFERENCE (DON’T PROMPT ON POSSESSION; NO FORM OF <latin>SUM</latin>)"
+      - question: "…:  <latin>Vītam adulēscentibus vīs aufert?</latin>"
+        answer: "SEPARATION"
+  - tossup:
+      question: "One of the worst displays of greed in the Roman Empire came when the Praetorians, for the price of 25,000 sesterces per guard, decided to award the imperial throne to what extraordinarily wealthy senator?"
+      answer: "DIDIUS JULIANUS"
+    boni:
+      - question: "After Julianus’ swift assassination 66 days into office, what man declared himself emperor and defeated two rival claimants to the throne?"
+        answer: "SEPTIMIUS SEVERUS"
+      - question: "Name one of the two rival claimants Severus defeated to seize the throne."
+        answer: "PESCENNIUS NIGER / CLODIUS ALBINUS"
+  - tossup:
+      question: "In the legal phrase, “<latin>Fīat iūstitia, ruat caelum</latin>,” what is the mood of the verbs?"
+      answer: "SUBJUNCTIVE"
+    boni:
+      - question: "Translate: <latin>Iūra nātūrae sunt immūtābilia</latin>."
+        answer: "THE LAWS OF NATURE ARE IMMUTABLE"
+      - question: "Translate the following sentence of Latin taken from the legal profession: <latin>Iūdex est lēx loquēns</latin>."
+        answer: "THE JUDGE IS THE LAW SPEAKING // THE SPEAKING JUDGE IS THE LAW"
+  - tossup:
+      question: "Name the herald of the Greek forces who had a voice as loud as fifty men."
+      answer: "STENTOR"
+    boni:
+      - question: "In Book V of Homer’s <title>Iliad</title>, who takes the form of Stentor to encourage the Greeks to fight?"
+        answer: "HERA"
+      - question: "Name the two heralds who were sent to retrieve Briseïs from Achilles’ tent."
+        answer: "TALTHYBIUS & EURYBATES"
+  - tossup:
+      question: "When recognized by the spotter, perform the following commands: <latin>surge et fac sonum bovis</latin>."
+      answer: "PLAYER SHOULD STAND & MOO / BELLOW LIKE A COW / BULL / OX"
+    boni:
+      - question: "Now follow these instructions: <latin>omnēs, pōnite pollicēs in vestrās aurēs.</latin>"
+        answer: "ALL PLAYERS SHOULD PUT THUMBS INTO / ONTO THEIR EARS"
+      - question: "Now follow these instructions: <latin>numerā Latīnē ab decem ad vīgintī.</latin>"
+        answer: "<emphasis>ONE</emphasis> PLAYER SHOULD SAY, “<latin>DECEM, ŪNDECIM, DUODECIM, TREDECIM, QUATTUORDECIM, QUĪNDECIM, SĒDECIM, SEPTENDECIM, DUODĒVĪGINTĪ, ŪNDĒVĪGINTĪ, VĪGINTĪ”</latin>"
+  - tossup:
+      question: "Which of the following emperors did not build or contribute to the construction of an imperial forum: Otho, Domitian, Nerva, Trajan?"
+      answer: "OTHO ("
+    boni:
+      - question: "Identify by number and name the building that was completed during the reign of Domitian."
+        answer: "1 – COLOSSEUM / FLAVIAN AMPHITHEATER / AMPHITHEATRUM FLAVIUM"
+      - question: "Numbers 2 and 3 are both bath complexes, who built each complex, respectively?"
+        answer: "2 – TRAJAN, 3 - CARACALLA"
+  - tossup:
+      question: "Realizing that he could no longer eat or drink because of his newly acquired power, what king of Phrygia begged Dionysus to forgive him and take back his “golden touch”?"
+      answer: "MIDAS"
+    boni:
+      - question: "In what river did Midas wash his hands, ridding himself of the “golden touch”?"
+        answer: "PACTOLUS"
+      - question: "Name Midas’ parents."
+        answer: "GORDIUS / GORDIAS & CYBELE"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the same Latin root as the others:  flume, influence, fluctuate, flu, inflate?"
+      answer: "INFLATE"
+    boni:
+      - question: "What Latin noun derived from <latin>fluō</latin> means “wave”?"
+        answer: "<latin>FLUCTUS</latin>"
+      - question: "What is the Latin root and its meaning for “inflate”?"
+        answer: "<latin>FLŌ</latin> – TO BLOW"
+  - tossup:
+      question: "Give the Latin for the number expressed by the Roman numerals XL."
+      answer: "<latin>QUADRĀGINTĀ</latin>"
+    boni:
+      - question: ". . . CC."
+        answer: "<latin>DUCENTĪ /-AE / -A</latin>"
+      - question: ". . . MM."
+        answer: "<latin>DUO MĪLIA</latin>"
+  - tossup:
+      question: "What Roman <latin>praenōmen</latin> was abbreviated <latin>S.</latin>?"
+      answer: "<latin>SPURIUS / SERVIUS</latin>"
+    boni:
+      - question: "What Roman <latin>praenōmen</latin> was abbreviated <latin>K.</latin>?"
+        answer: "<latin>KAESŌ</latin>"
+      - question: "What Roman <latin>praenōmen</latin> went out of use by the Julian <latin>gēns</latin> in very early times?"
+        answer: "<latin>VOPISCUS</latin>"

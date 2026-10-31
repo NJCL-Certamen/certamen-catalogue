@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What do the following verbs have in common? <latin>immineō, pāreō</latin>, <latin>invideō</latin>, <latin>parcō</latin>."
+      answer: "THEY TAKE DATIVE OBJECTS"
+    boni:
+      - question: "Besides the fact that they are deponent verbs, what do the following have in common: <latin>potior</latin>, <latin>vēscor</latin>, <latin>fungor</latin>."
+        answer: "THEY TAKE ABLATIVE OBJECTS"
+      - question: "What do the following adjectives have in common? <latin>sōlus</latin>, <latin>uter</latin>, <latin>ūnus</latin>."
+        answer: "THEY HAVE <latin>-</latin><latin>ĪUS</latin> IN THE GENITIVE AND <latin>-Ī</latin> IN THE DATIVE"
+  - tossup:
+      question: "What English derivative of the Latin noun <latin>genus</latin> means “to produce or bring into existence”?"
+      answer: "(RE)GENERATE/ ENGENDER"
+    boni:
+      - question: "“a kind of literary or artistic work”?"
+        answer: "GENRE"
+      - question: "“an innocent young woman,” especially on stage?"
+        answer: "INGENUE"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “nāscor?”</latin>"
+      answer: "(I) BE BORN"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “nancīscor?”</latin>"
+        answer: "(I) FIND, OBTAIN"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “oblīvīscor?”</latin>"
+        answer: "(I) FORGET"
+  - tossup:
+      question: "Which son of Priam did Aeneas find when he landed at Buthrotum in Epirus?"
+      answer: "HELENUS"
+    boni:
+      - question: "Whom had Helenus married there?"
+        answer: "ANDROMACHE"
+      - question: "Who had taken Andromache from Troy as part of his spoils of war?"
+        answer: "PYRRHUS / NEOPTOLEMUS"
+  - tossup:
+      question: "An inscription from ancient Rome begins with the following: <latin>“Rōmulus, Mārtis fīlius, urbem Rōmam condidit et rēgnāvit annōs duodēquadrāgintā</latin>.” Name one achievement of Romulus mentioned in this part of the inscription."
+      answer: "HE FOUNDED / BUILT THE CITY OF ROME HE RULED FOR 38 YEARS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "You now have fifteen seconds to examine the entire inscription, which describes various events of Romulus’ life. Once King Acro was killed, what did Romulus do that had never been done before?"
+        answer: "CONSECRATED THE SPOLIA OPIMA TO JUPITER FERETRIUS / HE WAS AWARDED / ACHIEVED THE SPOLIA OPIMA"
+      - question: "What two rewards were given to Romulus, according to the last 3 lines of this inscription?"
+        answer: "HE BECAME A GOD ( if “RECEIVED IN(TO) THE GODS’ NUMBER” given as an answer, ask for an explanation) & HE WAS NAMED QUIRINUS’"
+  - tossup:
+      question: "Which of the following words, if any, does "
+      answer: "<latin>NOT</latin> have the same Latin root as the others: pension, penalty, perpendicular, appendix, dispensation PENALTY"
+    boni:
+      - question: "What is the Latin root and its meaning from which “penalty” is derived?"
+        answer: "<latin>POENA</latin> - PUNISHMENT, PENALTY"
+      - question: "What is the Latin verb and its meaning at the root of the other words in the toss up?"
+        answer: "<latin>PENDŌ, PENDERE</latin> - WEIGH, PAY, PONDER, VALUE, HANG"
+  - tossup:
+      question: "Who purified Jason and Medea for the murder of her brother Apsyrtus?"
+      answer: "CIRCE"
+    boni:
+      - question: "For whose murder were Jason and Medea driven out of Iolcus?"
+        answer: "PELIAS'"
+      - question: "Name the father and daughter whom Medea murdered in Corinth."
+        answer: "CREON & GLAUCE / CREUSA"
+  - tossup:
+      question: "What was the Latin title of the head of a Roman household?"
+      answer: "<latin>PATERFAMILIĀS</latin> "
+    boni:
+      - question: "What is the Latin term for the power of the paterfamilias?"
+        answer: "<latin>PATRIA POTESTĀS</latin> "
+      - question: "What Latin term described the independent legal status of a paterfamilias?"
+        answer: "<latin>SUĪ</latin> <latin>IŪRIS</latin> "
+  - tossup:
+      question: "Whose aggressive expansion of his kingdom of Numidia led to the Third Punic War?"
+      answer: "MASINISSA’S"
+    boni:
+      - question: "What Roman senator, alarmed by the prosperity of Carthage, demanded the destruction of Carthage?"
+        answer: "(MARCUS PORCIUS) CATO THE ELDER / CENSOR"
+      - question: "What Roman general captured Carthage in 146 BC after a three year siege?"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS (AFRICANUS MINOR NUMANTINUS)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nōnne putās illam virginem pulcherrimam esse</latin>?"
+      answer: "DON’T YOU THINK THAT THAT YOUNG WOMAN / VIRGIN IS VERY PRETTY? / DO YOU NOT THINK THAT THAT YOUNG WOMAN / VIRGIN IS THE PRETTIEST?"
+    boni:
+      - question: "<latin>Meministīne mē</latin> <latin>locūtum esse in senātū</latin> <latin>dē</latin> <latin>pīrātīs</latin>?"
+        answer: "DO YOU REMEMBER THAT I SPOKE ABOUT THE PIRATES IN THE SENATE?"
+      - question: "<latin>Dux exīstimat dīmidiam partem mīlitum interfectam esse</latin>."
+        answer: "THE LEADER THINKS THAT (A) HALF (PART) OF THE SOLDIERS HAS / HAVE BEEN KILLED"
+  - tossup:
+      question: "Name the consul whose army the dictator Cincinnatus rescued in 458 B.C?"
+      answer: "(L.) MINUCIUS’ (ESQUILINUS)"
+    boni:
+      - question: "Where was Minucius’ army trapped?"
+        answer: "MT. ALGIDUS"
+      - question: "By What tribe had they been trapped?"
+        answer: "AEQUI"
+  - tossup:
+      question: "Using a gerund, translate “escaping” into Latin for the following sentence: “The shovel was useful for escaping.”"
+      answer: "<latin>FUGIENDŌ</latin> <latin>(</latin><latin>ĒVĀDENDŌ</latin> <latin>/ EFFUGIENDŌ)</latin> / <latin>AD EFFUGIENDUM</latin> "
+    boni:
+      - question: "Using a gerund, translate “escape” into Latin for this sentence: “The prisoner was ready to escape”?"
+        answer: "<latin>AD FUGIENDUM</latin> / <latin>FUGIENDŌ</latin>"
+      - question: "Using a gerund, translate “escaping” into Latin for this sentence: “He was skilled in escaping.”"
+        answer: "<latin>FUGIENDĪ</latin> <latin>/ FUGIENDŌ</latin>"
+  - tossup:
+      question: "What Latin phrase is used in English to mean “in the midst of things”?"
+      answer: "<latin>IN MEDIĀS RĒS</latin> / <latin>MEDIĀS IN RĒS</latin> "
+    boni:
+      - question: "What Latin phrase is used in English to mean “in its natural or proper place”?"
+        answer: "<latin>IN LOCŌ</latin> / <latin>IN SITŪ</latin>"
+      - question: "What Latin phrase is used in English to mean “in memory of”?"
+        answer: "<latin>IN MEMORIAM</latin> "
+  - tossup:
+      question: "Name the aqueduct, begun by Caligula and finished by Claudius, that was the longest of all of Rome’s aqueducts?"
+      answer: "ANIO NOVUS"
+    boni:
+      - question: "What other aqueduct was begun by Caligula and finished by Claudius?"
+        answer: "AQUA CLAUDIA"
+      - question: "Which emperor added a branch to the Aqua Claudia to supply the imperial palaces on the Palatine Hill?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Translate into Latin: “You will have been killed.”"
+      answer: "<latin>INTERFECTUS / -A ERIS / -Ī-AE ERITIS</latin>  <latin>(NECĀTĪ/ OCCĪS</latin><latin>Ī)</latin> "
+    boni:
+      - question: "“I will be saved.”"
+        answer: "<latin>SERVĀBOR</latin> "
+      - question: "“They have waged war.”"
+        answer: "<latin>BELLUM GESSĒRUNT</latin> "
+  - tossup:
+      question: "Who was chasing the nymph Eurydice when she stepped on a snake?"
+      answer: "ARISTAEUS"
+    boni:
+      - question: "How did the other nymphs punish Aristaeus?"
+        answer: "CAUSED HIS BEES TO DIE"
+      - question: "What sea deity tells Aristaeus how to restore his bees?"
+        answer: "PROTEUS"
+  - tossup:
+      question: "Who decided to consult the oracle at Delphi about his origins after a drunken guest accused him of not being the true son of the king?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "After being told that he would kill his father and marry his mother, what city did Oedipus vow to avoid?"
+        answer: "CORINTH"
+      - question: "Name the king and queen of Corinth whom Oedipus believed to be his parents."
+        answer: "POLYBUS & MEROPE / PERIBOEA / MEDUSA / ANTIOCHIS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>In eādem nāvī</latin> <latin>nāvigābant duo inimīc</latin><latin>ī.</latin> <latin>Ūnus in prōrā, alter in puppī</latin> <latin>residēbat. Tempestāte ingentī</latin> <latin>ortā, cum omnēs dē</latin> <latin>vītā</latin> <latin>suā</latin> <latin>dēspērārent, is quī</latin> <latin>in puppī</latin> <latin>sedēbat gubernātōrem interrogāvit utra pars nāvis prīmō</latin> <latin>in marī</latin> <latin>submergeret. “Prōra,” respondit gubernātor, et ille gaudēbat quod prīmō</latin> <latin>nōn morerētur.</latin>  Question: Why was everyone worrying about their lives?"
+      answer: "A (LARGE) STORM HAD ARISEN / SHIP WAS ABOUT TO SINK"
+    boni:
+      - question: "Where on the ship were the two men who hated each other?"
+        answer: "ONE ON THE PROW, ONE ON THE STERN / ONE IN THE FRONT OF THE SHIP, ONE IN THE BACK"
+      - question: "Why was the man who was near the stern happy with the response of the helmsman?"
+        answer: "HE WASN’T GOING TO DIE / SINK FIRST / THE OTHER MAN WAS GOING TO DIE / SINK FIRST"
+  - tossup:
+      question: "What Roman ruler built the first new forum after the <latin>forum Rōmānum</latin>?"
+      answer: "(C) IULIUS CAESAR"
+    boni:
+      - question: "Which temple was built at the center of this new forum to honor the divine origin of his family?"
+        answer: "VENUS <emphasis>GENETRIX</emphasis> "
+      - question: "What was the purpose of the <latin>Saepta Julia</latin>, which Caesar built in the Campus Martius?"
+        answer: "VOTING (ENCLOSURE)"
+  - tossup:
+      question: "Who persuaded the Sirens to challenge the Muses to a singing contest?"
+      answer: "HERA / JUNO"
+    boni:
+      - question: "When the Muses won, how did they punish the Sirens?"
+        answer: "PLUCKED THEIR FEATHERS TO MAKE CROWNS FOR THEMSELVES"
+      - question: "Which of the Muses may have been the mother of the Sirens by the river-god Achelous?"
+        answer: "MELPOMENE or TERPSICHORE"

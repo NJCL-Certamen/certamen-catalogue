@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Say in Latin, “Marcus is younger than I.”"
+      answer: "<latin>MĀRCUS EST MINOR NĀTŪ / IUNIOR MĒ / QUAM EGO</latin> "
+    boni:
+      - question: "Now say in Latin: But Cicero is much older than me"
+        answer: "<latin>SED CICERŌ EST MULTŌ MAIOR NĀTŪ / SENIOR MĒ / QUAM EGO</latin> "
+      - question: "What use of the ablative case is illustrated in the phrase <latin>minor</latin> <latin>nātū</latin>, meaning “younger”?"
+        answer: "RESPECT / SPECIFICATION"
+  - tossup:
+      question: "At what battle in 225 BC did the Romans first by javelin and then by sword finally vanquish the advancing Gauls?"
+      answer: "TELAMON"
+    boni:
+      - question: "After the victory at Telamon, the Romans decided to counter-invade northern Italy. What general, a plebeian and <latin>novus homō</latin>, first successfully defeated the <latin>Insubrēs</latin> in 223 BC?"
+        answer: "(GAIUS) FLAMINIUS"
+      - question: "What Insubrian chieftain did Marcus Claudius Marcellus slay in 222 BC, thus earning the <latin>spolia opīma</latin>?"
+        answer: "VIRIDOMARUS"
+  - tossup:
+      question: "Which of the Muses is sometimes said to have been the mother of the Trojan ally Rhesus and is generally agreed to have been the mother of both Linus and Orpheus?"
+      answer: "CALLIOPE"
+    boni:
+      - question: "Two of the muses are said to have been the mother of the Sirens by the river god Achelous. Name either one"
+        answer: "MELPOMENE / TERPSICHORE"
+      - question: "Which Muse, whom Tacitus might have invoked, was forced by Aphrodite to fall in love with a mortal, with whom she had a son named Hyacinth?"
+        answer: "CL(E)IO"
+  - tossup:
+      question: "What Latin author, in addition to being a statesman, was Rome’s first prose writer?"
+      answer: "(MARCUS PORCIUS) CATO THE ELDER"
+    boni:
+      - question: "What is the Latin title of Cato’s only extant prose treatise?"
+        answer: "<title><latin>DĒ AGRĪ CULTŪRĀ</latin></title> / <title><latin>DĒ RĒ RUSTICĀ</latin></title>"
+      - question: "What Greek historian did Cato have released after he was captured by the Romans?"
+        answer: "POLYBIUS"
+  - tossup:
+      question: "What derivative of a Latin verb meaning “recline” means “to give way to superior force; to yield”?"
+      answer: "SUCCUMB"
+    boni:
+      - question: "What derivative of a Latin verb meaning “bristle” means “to regard with extreme repugnance or aversion”?"
+        answer: "ABHOR"
+      - question: "What derivative of a Latin verb meaning “leave behind” means “a piece of property abandoned by the owner or guardian, especially a vessel abandoned at sea”?"
+        answer: "DERELICT"
+  - tossup:
+      question: "What two young men, the grandsons and likely heirs of Augustus, died prematurely between 2 and 4 AD?"
+      answer: "GAIUS AND LUCIUS CAESAR"
+    boni:
+      - question: "Who were the parents of Gaius and Lucius Caesar?"
+        answer: "(MARCUS VIPSANIUS) AGRIPPA AND JULIA"
+      - question: "In what province had Gaius shown promise by quelling a Parthian resistance there in 1 BC?"
+        answer: "ARMENIA"
+  - tossup:
+      question: "According to some sources, what seer in mythology received his powers of prophecy from Athena as compensation for being struck blind when he saw her bathing?"
+      answer: "T(E)IRESIAS"
+    boni:
+      - question: "According to the more usual version, Teiresias was blinded by one deity and given his powers of prophecy by another. Name these two deities"
+        answer: "HERA (BLINDED HIM); ZEUS (GAVE HIM THE POWERS)"
+      - question: "Teiresias was a descendant of Udaeus, who was one of what group of five extraordinary men?"
+        answer: "SPARTOI / SOWN-MEN"
+  - tossup:
+      question: "For the verb <latin>lābor</latin>, give the active participial forms"
+      answer: "<latin>LABĒNS, LAPSŪRUS</latin>"
+    boni:
+      - question: "Give the other two participial forms of <latin>lābor</latin>"
+        answer: "<latin>LAPSUS, LABENDUS</latin>"
+      - question: "Now use <latin>lābor</latin> to translate the following sentence: The priest says that the stars will fall from the sky. "
+        answer: "<latin>SACERDŌS / FLĀMEN / VATES / PONTIFEX DĪCIT SIDERA / ASTRA / STELLĀS DĒ CAELŌ LAPSŪRA (-ĀS) ESSE</latin> "
+  - tossup:
+      question: "What use of the subjunctive is illustrated in the following sentence: <latin>Nūlla est lēx quae mōrēs hominum superāre possit</latin>?"
+      answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+    boni:
+      - question: "Translate that sentence"
+        answer: "THERE IS NO LAW (OF THE SORT) WHICH CAN OVERCOME / SURPASS THE CUSTOMS OF MEN"
+      - question: "What Latin word can replace <latin>quī nōn</latin> in a relative clause of characteristic?"
+        answer: "<latin>QUĪN</latin>"
+  - tossup:
+      question: "Who wrote <latin>fābulae praetextae</latin> concerning the childhood of Romulus and Remus, as well as Marcellus’ victory at Clastidium?"
+      answer: "(GNAEUS) NAEVIUS"
+    boni:
+      - question: "What Latin title was given to Naevius’ masterpiece?"
+        answer: "<title><latin>BELLUM PŪNICUM</latin></title>"
+      - question: "To what city was Naevius banished in 204 BC for offending the Metelli family?"
+        answer: "UTICA"
+  - tossup:
+      question: "Say in Latin “three miles.”"
+      answer: "<latin>TRIA MĪLIA PASSUUM</latin>"
+    boni:
+      - question: "What use of the genitive is illustrated in that phrase?"
+        answer: "PARTITIVE / OF THE WHOLE"
+      - question: "Translate “mile” into Latin for the following sentence: I ran for a mile"
+        answer: "<latin>MĪLLE PASSŪS / MĪLLE PASSUUM</latin> "
+  - tossup:
+      question: "What work, which the author called <title><latin>Iambī</latin></title> because of its metrical rhythm and aggressive tone, was written by Horace between 41 and 30 BC?"
+      answer: "<title>EPODES</title>"
+    boni:
+      - question: "What two-book work of Horace includes social commentary, the details of his trip to Brundisium with Maecenas, and a story about running into a bore in the Forum?"
+        answer: "<title><latin>SERMŌNĒS</latin></title> / SATIRES"
+      - question: "What collection of twenty poems, written in 20 BC, contains the <title><latin>Ars Poetica</latin></title>?"
+        answer: "<title><latin>EPISTULAE</latin></title> / EPISTLES"
+  - tossup:
+      question: "What young man was the first person to be buried in the Mausoleum of Augustus in 23 BC?"
+      answer: "(MARCUS CLAUDIUS) MARCELLUS <emphasis>(PLEASE PASS OUT THE VISUAL TO THE APPROPRIATE TEAM)</emphasis> "
+    boni:
+      - question: "What man, who was the third to be placed in the mausoleum, is represented by the blue rectangle on the family tree?"
+        answer: "(NERO CLAUDIUS) DRUSUS (THE ELDER)"
+      - question: "What woman, represented by the purple rectangle, was accorded a state funeral by Nero?"
+        answer: "POPPAEA SABINA"
+  - tossup:
+      question: "What Trojan refugee built and ruled a \"new Troy\" in Epirus, where he welcomed Aeneas and his fellow refugees?"
+      answer: "HELENUS"
+    boni:
+      - question: "What former sister-in-law did Helenus marry?"
+        answer: "ANDROMACHE"
+      - question: "What does Helenus say that Aeneas will see when he has reached the end of his search for a place to settle?"
+        answer: "A (WHITE) SOW WITH (THIRTY SUCKLING) PIGLETS (ON HER TEATS)"
+  - tossup:
+      question: "What event triggered the great celebration?"
+      answer: "KING’S MARRIAGE"
+    boni:
+      - question: "What did Aesop think of his fellow citizens?"
+        answer: "THAT THEY WERE (VERY) STUPID/DULL/THICK-HEADED/MORONIC"
+      - question: "According to the passage, what specific effect did the wine have on the citizens?"
+        answer: "THEY FORGOT THEIR CARES"
+  - tossup:
+      question: "Define the Latin adjective <latin>exiguus</latin>"
+      answer: "SMALL / SHORT / SCANTY"
+    boni:
+      - question: "Define the Latin adjective <latin>eximius</latin>"
+        answer: "EXCEPTIONAL / EXEMPT / CHOICE / SELECT"
+      - question: "Define the Latin adjective <latin>edāx</latin>"
+        answer: "HUNGRY / EDACIOUS / GLUTTONOUS"
+  - tossup:
+      question: "What author remarked <latin>ignōtum hoc aliīs ille novāvit</latin> opus of his series of love letters between mythological characters, a work he entitled <title>Heroides</title>?"
+      answer: "(PUBLIUS) OVID(IUS NASO)"
+    boni:
+      - question: "What Greek poetess is the only non-fictional subject in the <title>Heroides</title>?"
+        answer: "SAPPHO"
+      - question: "What work, based on a poem by Callimachus, did Ovid give the form of an invective against an unnamed enemy?"
+        answer: "<title><latin>ĪBIS</latin></title>"
+  - tossup:
+      question: "What war ended with the capture of the prows of pirate ships from Antium in 338 BC?"
+      answer: "GREAT LATIN WAR"
+    boni:
+      - question: "At what battle in 340 BC did the Romans deal a decisive blow to the combined forces of the Latins, Campanians, and Volscians?"
+        answer: "SUESSA ARUNCA"
+      - question: "After a settlement was reached with the Latins, the Romans granted many of the Latin towns private but not public rights of citizenship. What Latin term was given to such towns, which were given social rights but not suffrage?"
+        answer: "<latin>MŪNICIPIUM / MŪNICIPIA</latin>"
+  - tossup:
+      question: "What mythological twins, one with his brawn and one with his musical talents, built the walls of Thebes?"
+      answer: "AMPHION AND ZETHUS"
+    boni:
+      - question: "Zethus renamed their city Thebes after his wife Thebe. By what name was Thebes known before then?"
+        answer: "CADMEIA"
+      - question: "Who was Amphion's boastful wife?"
+        answer: "NIOBE"
+  - tossup:
+      question: "Complete the following analogy: <latin>sum</latin> is to <latin>es</latin> as <latin>mālo</latin> is to what?"
+      answer: "<latin>MĀVĪS</latin>"
+    boni:
+      - question: "Complete this analogy: <latin>māvīs</latin> is to <latin>mālueris</latin> as <latin>fers</latin> is to what?"
+        answer: "<latin>TULERIS</latin>"
+      - question: "Complete this analogy: <latin>tuleris</latin> is to <latin>ferēbant</latin> as <latin>prōfueris</latin> is to what?"
+        answer: "<latin>PRŌDERANT</latin> <latin>2012 NJCL CERTAMEN ADVANCED DIVISION</latin>"

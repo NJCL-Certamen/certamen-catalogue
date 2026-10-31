@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "You are standing in an atrium, holding a <latin>scōpae</latin>, about to clean the <latin>pavīmentum</latin>. Which of these Latin words most likely describes you? <latin>cinerārius nūtrix ornātrix ANCILLA paedagōgus</latin> "
+      answer: "<latin>ANCILLA</latin>"
+    boni:
+      - question: "What was the job of an <latin>ornātrix</latin>?"
+        answer: "HAIRDRESSER"
+      - question: "How did a <latin>cinerārius</latin> help the <latin>ornātrix</latin>?"
+        answer: "BY HEATING CURLING-IRONS (IN FIRE)"
+  - tossup:
+      question: "What Roman poet, for his own personal satisfaction, produced the only philosophic poem from antiquity that is extant in its complete form?"
+      answer: "(T.) LUCRETIUS (CARUS)"
+    boni:
+      - question: "The subject of Lucretius’ poem is the philosophic system of what Greek?"
+        answer: "EPICURUS"
+      - question: "What later author remarked that Lucretius was driven to insanity by a love potion and that Cicero had later edited his work?"
+        answer: "JEROME"
+  - tossup:
+      question: "According to the <title>Aeneid</title>, what Sicilian king hosted the funeral games of Anchises?"
+      answer: "ACESTES (HAND OUT THE VISUAL)"
+    boni:
+      - question: "This visual depicts the boxing contest at the funeral games of Anchises. Taking into account that character “B” has a beard, which indicates that he is older, name him."
+        answer: "ENTELLUS"
+      - question: "According to the <title>Aeneid</title>, character “A” is the boxing champion at the funeral games for what other person?"
+        answer: "HECTOR"
+  - tossup:
+      question: "Translate the following sentence into Latin: If he should lie, he would die."
+      answer: "<latin>SĪ</latin> <latin>MENTIĀTUR, MORIĀTUR</latin> "
+    boni:
+      - question: "If anyone had found me, I would be alive today."
+        answer: "<latin>SĪ</latin> <latin>QUIS MĒ</latin> <latin>INVĒNISSET, VĪVEREM / VĪVUS ESSEM HODIĒ</latin>"
+      - question: "If you wish for peace, Claudia, prepare for war."
+        answer: "<latin>SĪ</latin> <latin>VĪS / DĒSĪDERĀS / CUPIS PĀCEM, CLAUDIA, PARĀ</latin> <latin>BELLUM</latin> "
+  - tossup:
+      question: "Who, in the preface of his greatest work, says that his work was written “to record the achievement of the Roman people from the founding of the city”?"
+      answer: "LIVY / TITUS LIVIUS"
+    boni:
+      - question: "What sets of short synopses, written in the fourth century AD, are summaries of Livy’s monumental work?"
+        answer: "<latin>PERIOCHAE</latin> "
+      - question: "Livy’s <title><latin>Ab Urbe Conditā</latin></title> contains 142 books. Of these, two do not have any accompanying <latin>periochae</latin>. For five points, name one of these books."
+        answer: "BOOK 136 / BOOK 137"
+  - tossup:
+      question: "What lake near Naples was believed to be one of the entrances into the Underworld?"
+      answer: "LAKE AVERNUS"
+    boni:
+      - question: "What lake at Lerna in the Argolid was also believed to be one of the entrances into the Underworld?"
+        answer: "ALCYONIAN LAKE"
+      - question: "What location in the southern Peloponnesus was also believed to be one of the entrances into the Underworld?"
+        answer: "TAENARUM"
+  - tossup:
+      question: "What Latin phrase is used in law for “a third party adviser” to the court?"
+      answer: "<latin>AMĪCUS CURIAE</latin> "
+    boni:
+      - question: "What Latin phrase is used in law for an incidental opinion from the judge that is not essential to the case?"
+        answer: "<latin>DICTA</latin> or <latin>OBITER DICTUM</latin> "
+      - question: "What Latin phrase is used in English to describe a gift or trust taking place between living persons?"
+        answer: "<latin>INTER VĪVŌS</latin> "
+  - tossup:
+      question: "<latin>Ambulās in forō</latin> <latin>Rōmānō</latin> <latin>antīquō. Cūius arcus super Viam Sacram positus est iuxtā</latin> <latin>mōntem Palātīnum? Hic arcus ūnum aditum habet.</latin>"
+      answer: "<latin>(ARCUS) TITĪ</latin>"
+    boni:
+      - question: "<latin>Vidēs aedificium quod Rōmānī</latin> <latin>in locō</latin> <latin>Nerōnis stagnī</latin> <latin>aedificāvērunt. Multās columnās et vōmitōria habet. Quid aedificium vidēs?</latin> "
+        answer: "<latin>AMPHITHEĀTRUM FLĀVIUM / COLOSSEUM</latin> "
+      - question: "<latin>Nunc ambulās ad illum pāgum Rōmae ubi pauperēs et meretrīcēs vīvunt. Est inter mōntem Esquilīnum et Vīminālem. Quō</latin> <latin>ambulās?</latin> "
+        answer: "<latin>IN / AD SUBŪRAM</latin> "
+  - tossup:
+      question: "What Roman wrote about the mythological pair of Cybele and Attis in a poem which modern collections label as number 63?"
+      answer: "CATULLUS"
+    boni:
+      - question: "What type of poem is Catullus 63?"
+        answer: "EPYLLION"
+      - question: "Instead of using hexameter, the usual meter of an epyllion, what meter did Catullus use for Catullus 63?"
+        answer: "GALLIAMBICS"
+  - tossup:
+      question: "Which <latin>novus homo</latin> was the consul who survived the battle of Cannae in 216 B.C.?"
+      answer: "(C. TERENTIUS) VARRO"
+    boni:
+      - question: "Who was his consular colleague, who did not survive?"
+        answer: "(L.) AEMILIUS PAULLUS"
+      - question: "After his success at Cannae, Hannibal incited which city in southern Italy to revolt by promising that it would replace Rome as the most important Italian town?"
+        answer: "CAPUA"
+  - tossup:
+      question: "Complete the following analogy: <latin>ōmen</latin> : <latin>ōmina</latin> :: <latin>calcar</latin> : _____?"
+      answer: "<latin>CALCARIA</latin> "
+    boni:
+      - question: "<latin>ōmen</latin> : <latin>ōmina</latin> :: <latin>nāis</latin> : _____?"
+        answer: "<latin>NĀIDES</latin> / <latin>NĀIDAS</latin> "
+      - question: "<latin>ōmen</latin> : <latin>ōmina</latin> :: <latin>hērōs</latin> : _____?"
+        answer: "<latin>HĒRŌ</latin><latin>ĒS</latin> / <latin>HĒRŌAS</latin>"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “excrete,” “secret,” “concert,” and “discern.”"
+      answer: "<latin>CERNŌ, CERNERE</latin> - PERCEIVE, DETERMINE, DECIDE, SEE"
+    boni:
+      - question: "What English derivative of <latin>cernō</latin> means “to up set” or “ruffle”?"
+        answer: "DISCONCERT"
+      - question: "What other derivative of <latin>cernō</latin> means “ an order having the force of law”?"
+        answer: "DECREE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Simulac nōs cōnspexērunt, iūdicēs discessērunt.</latin> "
+      answer: "AS SOON AS THEY SAW US, THE JUDGES / JUSTICES LEFT"
+    boni:
+      - question: "<latin>Milō</latin> <latin>in senātū</latin> <latin>erat dōnec dīmissus est</latin>."
+        answer: "MILO WAS IN THE SENATE UNTIL HE WAS DISMISSED / SENT AWAY"
+      - question: "<latin>Aderō</latin> <latin>cum prīmum mē</latin> <latin>arcessēs</latin>."
+        answer: "I WILL BE PRESENT AS SOON AS YOU (WILL) SUMMON ME"
+  - tossup:
+      question: "The biographies of Vergil, Terence, Horace, Lucan, and Pliny the Elder can all be found in the works of what Roman author?"
+      answer: "(C.) SUETONIUS (TRANQUILLUS)"
+    boni:
+      - question: "Give the Latin title of that work of Suetonius."
+        answer: "<title><latin>DĒ VIRĪS ILLŪSTRIBUS</latin></title> "
+      - question: "According to Suetonius’ <title><latin>Dē Vītā Caesarum</latin></title>, which emperor had on his chest and belly birthmarks in the shape of the constellation of the Great Bear, that he suffered from warts and skin rashes, and was troubled by weakness of the legs?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, about a theater in Colombia, Missouri, and answer IN ENGLISH the question that follows: <latin>Cum fābula dē</latin> <latin>Alexandrō</latin> <latin>Magnō</latin> <latin>agerētur, permultī</latin> <latin>advēnērunt ad rem spectandam. Tam bonus erat rūmor dē</latin> <latin>hāc fābulā</latin> <latin>ut omnēs spectātōrēs inter sē</latin> <latin>clāmārent, “Monstrā</latin> <latin>mihi.” Fābula autem haud tantī</latin> <latin>erat. Ad fīnem fābulae, sōlus ūnus spectātor rēmānsit quī</latin> <latin>tōtam fābulam spectāverat. Īrātus clāmāvit, “Utinam nē</latin> <latin>mihi mōnstrāvissēs fābulam illam!”</latin>  Question: Why had so many people come to see the play about Alexander the Great?"
+      answer: "THE RUMOR WAS THAT IT WAS GOOD"
+    boni:
+      - question: "How did the spectators react to the play?"
+        answer: "THEY THOUGHT IT WAS HARDLY WORTHWHILE / THEY DIDN’T LIKE IT / THEY LEFT / ALL BUT ONE LEFT THE THEATER"
+      - question: "What did the angry patron shout after the play had finished?"
+        answer: "“WOULD THAT YOU HADN’T SHOWN ME THAT PLAY!” / “I WISH THAT YOU HADN’T SHOWN ME THAT PLAY!” / “IF ONLY YOU HADN’T SHOWN ME THAT PLAY!”"
+  - tossup:
+      question: "Which of the following prepositions, if any, is NOT used with the ablative case: <latin>pōne</latin>, <latin>cōram, absque, tenus, prō</latin>?"
+      answer: "<latin>PŌNE</latin>"
+    boni:
+      - question: "Using a preposition, say in Latin, “On the further side of the provinces.”"
+        answer: "<latin>ULTRĀ</latin> <latin>PROVINCIĀS</latin> "
+      - question: "Translate the prepositional phrase, “<latin>secundum natūrām</latin>”?"
+        answer: "ACCORDING TO NATURE"
+  - tossup:
+      question: "Name the king of the Laestrygonians who ate one of Odysseus’ men."
+      answer: "ANTIPHATES"
+    boni:
+      - question: "In what city did the Laestrygonians live?"
+        answer: "TELEPYLUS"
+      - question: "What son of Poseidon founded Telepylus?"
+        answer: "LAMUS"
+  - tossup:
+      question: "Which emperor was the first to refuse the title <latin>pontifex maximus</latin> at his ascension and later banned all forms of pagan worship in AD 391?"
+      answer: "THEODOSIUS I / FIRST / GREAT"
+    boni:
+      - question: "Which archbishop at Milan had a great influence on Theodosius I, during one dispute threatening to withhold sacraments, and during another dispute ordering the emperor to perform public penance?"
+        answer: "(SAINT) AMBROSE"
+      - question: "What Christian sect did Theodosius, with Ambrose’s support, outlaw from the Roman church, due to their refusal to accept the Nicene Creed?"
+        answer: "ARIANS / ARIANISM"
+  - tossup:
+      question: "Who dedicated an image of Aphrodite in the temple of Apollo upon his arrival on the island of Delos from Naxos?"
+      answer: "THESEUS"
+    boni:
+      - question: "What brigand, a son of Hephaestus, did Theseus meet at Epidaurus?"
+        answer: "PERIPHETES"
+      - question: "What brigand did Theseus encounter at the Isthmus of Corinth?"
+        answer: "SINIS / PITYOCAMPTES"
+  - tossup:
+      question: "Which emperor died after a short, 16-month reign, and was the first emperor to adopt a non-family member as his heir and co-regent?"
+      answer: "(M. COCCEIUS) NERVA"
+    boni:
+      - question: "Where was Trajan serving as general when he received news of his adoption?"
+        answer: "(UPPER) GERMANY / GERMANIA SUPERIOR"
+      - question: "Nerva had adopted Trajan soon after becoming emperor in order to quell a rebellion by the Pretorians. At what point in Trajan’s career did <emphasis>he</emphasis> adopt Hadrian as his heir?"
+        answer: "DEATHBED or (POSSIBLY) AFTER HIS DEATH (AT THE INSTIGATION OF HIS WIFE PLOTINA)"

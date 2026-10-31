@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Of the words <latin>gemitus, fossa, sīca, pulvis,</latin> and <latin>turris</latin>, which is best described in the following sentence? <latin>Cum lapis delētur, hoc creātur.</latin>"
+      answer: "<latin>PULVIS</latin>"
+    boni:
+      - question: "From the list in the tossup, <latin>gemitus, fossa, sīca, pulvis,</latin> and <latin>turris</latin>, which is best described in the following sentence? <latin>Saepe, Leander hūc natāvit, ubi Hero habitāvit.</latin>"
+        answer: "<latin>TURRIS</latin>"
+      - question: "From the list in the tossup, <latin>gemitus, fossa, sīca, pulvis,</latin> and <latin>turris</latin>, which is best described in the following sentence? <latin>Virō vulnerātō, hunc sonitum fēcit.</latin>"
+        answer: "<latin>GEMITUS</latin>"
+  - tossup:
+      question: "Who transformed a crown into the constellation <latin>Corōna Borealis</latin>, changed sets of disbelievers into bats and dolphins, and made vines out of nothing to produce wine?"
+      answer: "DIONYSUS / BACCHUS"
+    boni:
+      - question: "In honor of what woman did Dionysus transform a crown into the constellation <latin>Corōna Borealis</latin>?"
+        answer: "ARIADNE"
+      - question: "What Orchomenian king’s daughters rejected the worship of Dionysus, which prompted the god to transform them into bats?"
+        answer: "MINYAS’"
+  - tossup:
+      question: "What word, the present subjunctive form of a Latin verb, can be used in English to warn someone about a potential problem, such as buying questionable goods, or avoiding fierce guard dogs?"
+      answer: "<latin>CAVEAT /</latin> CAVEAT"
+    boni:
+      - question: "What word, also the present subjunctive form of a Latin verb, can be used to tell an editor to ignore an alteration proposed by another?"
+        answer: "<latin>STET /</latin> STET"
+      - question: "What phrase, containing a present subjunctive form of a Latin verb, indicates that someone accused of a crime ought to be brought before a court to prevent unlawful detention?"
+        answer: "<latin>HABEĀS CORPUS /</latin> HABEAS CORPUS"
+  - tossup:
+      question: "What fortress in the middle Danube, initially established as a base during the time of Augustus and later serving as the capital of Pannonia Superior, most famously hosted a conference to ease the rising tensions of the second tetrarchy in 308 AD?"
+      answer: "CARNUNTUM"
+    boni:
+      - question: "In the settlement of Carnuntum, who became Augustus in the West opposite Galerius in the East and ruled in that capacity until 313 AD?"
+        answer: "LICINIUS"
+      - question: "Maximian was forced to retire a second time at Carnuntum and served as an advisor to Constantine, but he eventually declared himself Augustus a third time in 310 AD at what city in southern France?"
+        answer: "ARLES <latin>/ ARELATE</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>numquam nostrī iūris iūrandī oblīviscāmur</latin>."
+      answer: "MAY WE / LET US NEVER FORGET OUR OATH"
+    boni:
+      - question: "Translate the following sentence into English: <latin>huius errōris nōn meminisse temptābis.</latin>"
+        answer: "YOU WILL TRY NOT TO REMEMBER THIS ERROR / MISTAKE // YOU WILL NOT TRY TO REMEMBER THIS ERROR / MISTAKE"
+      - question: "Using a form of <latin>meminī</latin> translate the following sentence into Latin: I will remember your gift."
+        answer: "<latin>MEMINERŌ (TUĪ) DŌNĪ / MŪNERIS / (TUUM) DŌNUM / MŪNUS</latin>"
+  - tossup:
+      question: "As Daedalus consigns Icarus to the grave in Ovid’s <title>Metamorphoses</title>, a bird that is the transformed version of what youth cackles vengefully beside him, because his uncle Daedalus once jealously threw him off the Acropolis?"
+      answer: "PERDIX (TALUS is not acceptable. He is <emphasis>not</emphasis> mentioned in Ovid in Latin.)"
+    boni:
+      - question: "According to Ovid, what deity changed Perdix into a partridge when he was thrown off the Acropolis?"
+        answer: "MINERVA"
+      - question: "According to Ovid, what tool did Perdix invent, taking inspiration from a fish’s spine?"
+        answer: "SAW"
+  - tossup:
+      question: "While you maneuver your way through this Certamen round, we hope you are learning a plethora of things. What two Latin nouns are at the root of “maneuver?”"
+      answer: "<latin>MANUS</latin>, <latin>OPUS</latin>"
+    boni:
+      - question: "You may consider the occasional question a nuisance as it tests you on very obscure knowledge. From what Latin verb, with what meaning, do we derive “nuisance”?"
+        answer: "<latin>NOCEŌ</latin> – TO HARM / HURT / INJURE"
+      - question: "Sometimes you will get an ingenious buzz that no one thought anyone could pull off. From what Latin verb, with what meaning, do we derive the English word “ingenious”?"
+        answer: "<latin>GIGNŌ</latin> – TO BEGET / (GIVE) BIRTH / BEAR / PRODUCE / CAUSE"
+  - tossup:
+      question: "Give the Latin term for the objects that could be marked with the numbers 1, 3, 4, and 6 on their four unique sides for use in Roman games of chance."
+      answer: "<latin>TĀLĪ</latin> / <latin>TĀLUS</latin>"
+    boni:
+      - question: "What was the name of the throw generally considered the best in a game of <latin>tālī</latin>?"
+        answer: "VENUS"
+      - question: "What configuration of four <latin>tālī</latin> comprised a “Venus” throw?"
+        answer: "ALL DIFFERENT SIDES / 1, 3, 4, 6"
+  - tossup:
+      question: "We will now screenshare a visual. <latin>VISUAL</latin> Consider the three memes. I am going to tell a story in Latin. When you feel that you recognize which meme would best fit the tale, buzz in, wait to be recognized, and then give the number of the correct meme. <latin>Erat mihi diēs nātālis, et amīcī dīxērunt nōs pugnam gladiātōrum vīdēre. Cum amīcī meī pugnās inter hominēs bēstiāsque spectāre velint, ego tamen gladiātōres ipsōs spectāre volō.</latin>"
+      answer: "(MEME) #3"
+    boni:
+      - question: "In Meme #3, which of these impersonal verbs best describes Drake in Panel A: <latin>placet, oportet, piget, delectat, iuvat</latin>?"
+        answer: "<latin>PIGET</latin>"
+      - question: "Now give the number of the meme described in this story: <latin>Multīs abhinc annīs, hostēs ad arcem approprinquāvērunt. Perterritī ā sonō, ānserēs sacrī cachinnāvērunt ut cūstōdem concitārent. Cūstōs autem animālibus rīsit et dīxit, “nōn opus est cūrae.”</latin>"
+        answer: "(MEME) #1"
+  - tossup:
+      question: "In response to what man’s words do all the Achaeans shout, “Respect the priest and take the splendid ransom” when he begs Agamemnon to return his daughter in Book 1 of the <title>Iliad</title>?"
+      answer: "CHRYSES"
+    boni:
+      - question: "What deity, of whom Chryses was a priest, sent a plague to force Agamemnon to give up Chryseïs?"
+        answer: "APOLLO"
+      - question: "What man took command of the ship that returned Chryseïs to her father?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer the question that follows in ENGLISH: <latin>Quaedam puella sōla legēns libellum in lītore sedēbat. Subitō quīdam adulēscens appāruit post eam, et stupefacta est. Puella sē vertit ut cōnspiceret adulēscēntem. Tam vehemēns sē vertit ut pelleret nāsum eius capite suō; sīc nāsum frēgit. Sanguis adulēscēntis dē nāribus effluit et adulēscēns ipse dēcidit sanguinem horrēscēns. Multō sanguine fluente, puella attonita eī dedit pallam. Deinde ipsa perterrita celeriter discessit.</latin> Question: In order to better see the boy, what did the girl do?"
+      answer: "TURNED (HERSELF / AROUND)"
+    boni:
+      - question: "<latin>RĒSPONDĒ LATĪNĒ: Quōmodo puella frēgit nāsum adulēscēntis?</latin>"
+        answer: "TAM VEHEMĒNS SĒ VERTIT UT PELLERET NĀSUM EIUS CAPITE SUŌ // (PUELLA) PELLĒBAT / PEPULIT NĀSUM CAPITE // CAPITE"
+      - question: "<latin>RĒSPONDĒ LATĪNĒ: Pallā datā, quid accidit?</latin>"
+        answer: "PUELLA (PERTERRITA CELERITER) DISCESSIT / DISCĒDIT"
+  - tossup:
+      question: "What man’s name perhaps means “torn apart by horses,” reflecting his death when Poseidon sent a bull to scare his horses because Theseus cursed him for supposedly raping Phaedra?"
+      answer: "HIPPOLYTUS"
+    boni:
+      - question: "What queen was the mother of Hippolytus?"
+        answer: "ANTIOPE / HIPPOLYTA"
+      - question: "Girls at what city, where Theseus’ maternal grandfather ruled, dedicated a lock of their hair to Hippolytus when they married?"
+        answer: "TROEZEN"
+  - tossup:
+      question: "What Roman law, a conservative backlash against the emergence of young professional politicians in Rome, slowed the pace of the <latin>cursus honōrum</latin> by fixing minimum ages for curule magistracies in 180 BC?"
+      answer: "LEX VILLIA ANNALIS"
+    boni:
+      - question: "Another law of long-lasting significance was passed in 139 BC by the tribune Aulus Gabinius. What did it enact?"
+        answer: "SECRET BALLOT (IN ELECTIONS / AT ELECTORAL ASSEMBLIES) (prompt on “<latin>TABELLĀRIA</latin>”)"
+      - question: "Two other laws were enacted in the second century to provide for secret balloting in law courts in 137 and 107 BC. Name either of these laws."
+        answer: "LEX CASSIA (TABELLARIA) / LEX COELIA (TABELLARIA)"
+  - tossup:
+      question: "Chasseur, cater, prince, emancipate, and conceivable are all derived from what Latin verb with what meaning?"
+      answer: "<latin>CAPIŌ</latin> – TO SNATCH / GRAB / SEIZE / TAKE"
+    boni:
+      - question: "What derivative of the Latin verb <latin>regō</latin> means a song or hymn of grief?"
+        answer: "DIRGE"
+      - question: "What derivative of the Latin verb <latin>frangō</latin> means a large fish-eating hawk?"
+        answer: "OSPREY"
+  - tossup:
+      question: "Nestled at the foot of the Viminal hill, which Forum was lined with parallel porticoes filled with statues of Republican heroes and relatives of its patron and featured a large temple dedicated to Mars Ultor?"
+      answer: "(FORUM OF) AUGUSTUS(’S)"
+    boni:
+      - question: "The Temple of Mars Ultor faced what other Forum, constructed earlier in the vicinity of the Senate House and the Mamertine Prison?"
+        answer: "(FORUM OF JULIUS) CAESAR(’S)"
+      - question: "To what deity did Caesar dedicate the central temple in his Forum, delivering on his vow at the Battle of Pharsalus?"
+        answer: "VENUS (GENETRIX)"
+  - tossup:
+      question: "Make the phrase <latin>eadem īrāta multitūdō</latin> genitive plural."
+      answer: "<latin>EĀRUNDEM ĪRĀTĀRUM MULTITŪDINUM</latin>"
+    boni:
+      - question: "Make the phrase <latin>quaeque alta turris</latin> accusative singular."
+        answer: "QUAMQUE ALTAM TURRIM / TURREM"
+      - question: "Make the phrase <latin>alter malus exercitus</latin> dative singular."
+        answer: "<latin>ALTERĪ MALŌ EXERCITUĪ</latin>"
+  - tossup:
+      question: "To what class of verbs do all of the following belong: <latin>quassō, iactō, cantō, dormītō</latin>?"
+      answer: "ITERATIVES / INTENSIVES / FREQUENTATIVES"
+    boni:
+      - question: "To what class of verbs do all of the following belong: <latin>parturiō</latin>, <latin>ēsuriō</latin>, <latin>emptūriō</latin>?"
+        answer: "DESIDERATIVES"
+      - question: "To what class of verbs do all of the following belong: <latin>lacessō, facessō, capessō</latin>?"
+        answer: "MEDITATIVES (<emphasis>prompt</emphasis> for more specificity on ITERATIVES / INTENSIVES / FREQUENTATIVES)"
+  - tossup:
+      question: "RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ: <latin>Quī dux Rōmānus superāvit Masadam?</latin>"
+      answer: "FLĀVIUS SILVA / FLAVIUS SILVA"
+    boni:
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ</latin>: <latin>Quōt fēmīnae et līberī Iūdaeī superfuērunt Masadae?</latin>"
+        answer: "SEPTEM / QUĪNQUE LĪBERĪ ET DUAE FĒMINAE // SEVEN / FIVE CHILDREN AND TWO WOMEN"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ</latin>: <latin>Cui arcus exstrūctus est super Forum Rōmānum ad Hierosolyma vastata celebranda?</latin>"
+        answer: "TITŌ / TO TITUS"
+  - tossup:
+      question: "Complete the following analogy: <latin>iaciō : iace :: faciō : ________?</latin>"
+      answer: "FAC"
+    boni:
+      - question: "Complete the following analogy: <latin>iaciō : iactum :: noscō : ________?</latin>"
+        answer: "NŌTUM"
+      - question: "Complete the following analogy: <latin>iaciō : iaciās :: iuvō : ________?</latin>"
+        answer: "IUVĒS"
+  - tossup:
+      question: "What occupation in mythology is shared by Ancaeus, Tiphys, and Palinurus? Palinurus is the Trojan dude who falls overboard from Aeneas’ ship in Book 5 of the <title>Aeneid</title>."
+      answer: "HELMSMAN / STEERSMAN / PILOT"
+    boni:
+      - question: "In the <title>Aeneid</title>, what god caused Palinurus to fall overboard at Neptune’s request?"
+        answer: "SOMNUS"
+      - question: "Tiphys died among the Mariandyni, just like which Argonaut, whom a boar killed?"
+        answer: "IDMON"

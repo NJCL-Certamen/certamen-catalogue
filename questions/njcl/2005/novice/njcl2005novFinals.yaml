@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Who killed the Trojan king Laomedon and all of his sons except Podarces?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Why did Heracles spare Podarces?"
+        answer: "PODARCES SUPPORTED HERACLES’ CLAIM TO LAOMEDON’S IMMORTAL HORSES or HESIONE RANSOMED HIM WITH HER VEIL"
+      - question: "For what deed had Laomedon originally promised the horses to Heracles?"
+        answer: "RESCUING HIS DAUGHTER HESIONE FROM SEA MONSTER"
+  - tossup:
+      question: "Name the plebeian tribune who proposed a law which gave supreme command of all Roman forces in Asia Minor to Pompey?"
+      answer: "(C.) MANILIUS"
+    boni:
+      - question: "What praetor supported Manilius’ bill when he gave his first political speech to the Plebeian Assembly?"
+        answer: "(M. TULLIUS) CICERO"
+      - question: "This extraordinary command in the east against Mithridates was given to Pompey because the previous commander had been unable to finish the war. Name him."
+        answer: "(L. LICINIUS) LUCULLUS"
+  - tossup:
+      question: "What water nymph tried to stop Pluto from taking Proserpina down into the Underworld?"
+      answer: "CYANE"
+    boni:
+      - question: "When Ceres came looking for her daughter, why was Cyane unable to tell her anything?"
+        answer: "IN HER GRIEF, SHE HAD MELTED (INTO HER POOL)"
+      - question: "What did Ceres find floating in Cyane’s pool?"
+        answer: "PROSERPINA’S GIRDLE / BELT"
+  - tossup:
+      question: "Translate the following two sentences, paying particular attention to the fact that they are inscribed on a tombstone: <latin>Sum quod eris. Fuī</latin> <latin>quod es.</latin> "
+      answer: "I AM WHAT YOU WILL BE; I WAS WHAT YOU ARE"
+    boni:
+      - question: "Say in Latin, “You all are what they had been.”"
+        answer: "<latin>(OMNĒS) ESTIS QUOD (EĪ</latin> <latin>/ ILLĪ) FUERANT</latin> "
+      - question: "Say in Latin, “They will have been what we will be.”"
+        answer: "<latin>(ILLĪ</latin> <latin>/ EĪ) FUERINT QUOD (NŌS) ERIMUS</latin> "
+  - tossup:
+      question: "For the verb <latin>tollō</latin>, give the 2nd person singular, perfect active indicative."
+      answer: "<latin>SUSTULISTĪ</latin>"
+    boni:
+      - question: "Give the same form for the verb <latin>sufferō</latin>."
+        answer: "<latin>SUSTULISTĪ</latin>"
+      - question: "Both <latin>tollō</latin> and <latin>sufferō</latin> have the same forms in the perfect system. Make <latin>sustulistī</latin> passive."
+        answer: "<latin>SUBLĀTUS ES</latin>"
+  - tossup:
+      question: "Is an “intransigent” person “timid,” “prejudiced,” “uncompromising,” “lazy” or “secretive”?"
+      answer: "UNCOMPROMISING"
+    boni:
+      - question: "Give the Latin verb and its meaning at the root of “intransigent.”"
+        answer: "<latin>AGŌ, AGERE</latin> - DO, DRIVE"
+      - question: "What English derivative of <latin>agō</latin> is an adjective meaning “wastefully extravagant”?"
+        answer: "PRODIGAL"
+  - tossup:
+      question: "Which of these objects - <latin>pōns</latin>, <latin>stilus</latin>, <latin>arbor</latin>, <latin>carpentum</latin>, or <latin>hortus</latin> - is describing itself here: <latin>Hominēs mē</latin> <latin>mūniunt super flūmina.</latin>"
+      answer: "<latin>PŌNS</latin> "
+    boni:
+      - question: "Which of those objects is describing itself here: <latin>Sum vehiculum in quō</latin> <latin>hominēs</latin>  <latin>sedēre possunt</latin>."
+        answer: "<latin>CARPENTUM</latin> "
+      - question: "Which of those objects is describing itself here: <latin>Saepe contineō</latin> <latin>fontēs et flōrēs</latin>."
+        answer: "<latin>HORTUS</latin> "
+  - tossup:
+      question: "Which emperor was the last to be born in, and spend his boyhood in, the Republic?"
+      answer: "TIBERIUS (CLAUDIUS NERO)"
+    boni:
+      - question: "How did Augustus clearly indicate, in AD 4, that Tiberius was his intended successor?"
+        answer: "ADOPTION (10 YEARS OF POWER OF A TRIBUNE AND PROCONSULAR POWER IN THE PROVINCES)"
+      - question: "What two powers were granted to Tiberius in AD 13 that made him a <latin>de facto</latin> co <latin>princeps</latin> with Augustus?"
+        answer: "POWERS OF A TRIBUNE AND <emphasis>GREATER</emphasis> PROCONSULAR POWER <latin>POTESTAS TRIBUNICIA</latin> AND <latin>IMPERIUM PROCONSULARE</latin> <emphasis><latin>MAIUS</latin></emphasis> (His proconsular power now included Italy, just like Augustus)"
+  - tossup:
+      question: "What son of the infamous Ixion was a close friend of Theseus?"
+      answer: "P(E)IRITHOÜS"
+    boni:
+      - question: "Of what tribe was Pirithoüs the king?"
+        answer: "LAPITHS"
+      - question: "Why did Theseus and Pirithoüs have to battle the centaurs at his wedding to Hippodameia?"
+        answer: "(DRUNKEN) CENTAURS TRIED TO CARRY OFF BRIDE AND OTHER LAPITH FEMALES"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice. Answer IN ENGLISH, the question that follows: <latin>Ōlim in quōdam rēgnō</latin> <latin>erat rēx, nōmine Magnus Labor. Ūnō</latin> <latin>diē</latin> <latin>pauper cīvis dīxit, “Volō</latin> <latin>mercātor esse.” Cui respondit rēx, “Tū</latin> <latin>potes mercātor esse sed necesse est tibi dare mihi pecūniam.” Postrīdiē</latin> <latin>cīvis idem rogāvit et rēx idem respondit. Tandem tertiō</latin> <latin>diē</latin> <latin>pauper rogāvit, “Cūr necesse est mihi dare tibi pecūniam?” Respondit ille, “Nōnne scīs? nīl sine Magnō</latin> <latin>Labōre!”</latin>  Question: Why did the poor citizen speak to the king?"
+      answer: "HE WANTED TO BE A MERCHANT"
+    boni:
+      - question: "What did king Magnus say was necessary to do in order to become a merchant?"
+        answer: "TO GIVE HIM MONEY"
+      - question: "What was king Magnus’ response when the citizen asked why it was necessary for him to pay money?"
+        answer: "KING MAGNUS SAID THAT NOTHING OCCURS WITHOUT HIM / “(DON’T YOU KNOW?) NOTHING WITHOUT GREAT WORK / “NOTHING WITHOUT MAGNUS LABOR”"
+  - tossup:
+      question: "DO NOT OPEN THE VISUAL UNTIL INSTRUCTED (PASS OUT THE VISUALS) Open your visuals. For 10 seconds, study this model of archaic Rome. (Wait 10 seconds.) The area of Rome known as the <latin>arx</latin> is labeled with what letter?"
+      answer: "G"
+    boni:
+      - question: "What is the name for the area labeled “C”?"
+        answer: "CAMPUS MARTIUS / FIELD OF MARS"
+      - question: "Which hill is labeled “A”?"
+        answer: "AVENTINE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Familia tōtam aestātem rūrī</latin> <latin>mānsit</latin>."
+      answer: "THE FAMILY STAYED IN THE COUNTRY FOR THE ENTIRE SUMMER"
+    boni:
+      - question: "<latin>Hoc flūmen trīgintā</latin> <latin>pedēs lātum est</latin>."
+        answer: "THIS RIVER IS THIRTY FEET WIDE"
+      - question: "<latin>Amīcī</latin> <latin>meī</latin> <latin>Londinium Athēnīs nāvigāvērunt</latin>."
+        answer: "MY FRIENDS SAILED FROM ATHENS TO LONDON"
+  - tossup:
+      question: "Which emperor, despite his predecessor’s attempts to ensure a continuation of good government by surrounding his heir with wise advisors, generally ignored these advisors and abandoned his predecessor’s policy of expansion by making peace with the tribes across the Danube?"
+      answer: "(L. AURELIUS) COMMODUS"
+    boni:
+      - question: "Some of those with whom Commodus associated were bad influences. One example was his mistress, possibly a Christian, who had tremendous control over him and was one of the conspirators in the final, and successful, attempt to assassinate him. Name her."
+        answer: "MARCIA"
+      - question: "Name the praetorian prefect who played a major part in this conspiracy?"
+        answer: "(Q. AEMILIUS) LAETUS"
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Eram perītior quam Minerva. Certāmine Minervam superāvī</latin> <latin>sed meam vītam fīnīvī. Minerva mē</latin> <latin>in arāneam mūtāvit.</latin> "
+      answer: "<latin>ARACHNĒ</latin> / ARACHNE"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Multōs līberōs habuī. Apollō</latin> <latin>meōs fīliōs necāvit, Diāna meās fīliās. Meae lacrimae flūmen formāvit. Ego lapis facta sum.</latin>"
+        answer: "<latin>NIOBĒ</latin> / NIOBE"
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Virgō</latin> <latin>semper esse volēbam sed Iuppiter mē</latin> <latin>valdē</latin> <latin>amābat. Iūnō</latin> <latin>īrāta mē</latin> <latin>in ursam mūtāvit et mē</latin> <latin>in caelō</latin> <latin>posuit.</latin>"
+        answer: "<latin>CALLISTŌ</latin> / CALLISTO"
+  - tossup:
+      question: "Who, needing timber to build a new banqueting hall, started cutting down a grove sacred to Demeter?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "When Erysichthon refused to desist, how did Demeter punish him?"
+        answer: "CONSTANT RAVENOUS HUNGER"
+      - question: "How did Erysichthon die?"
+        answer: "DEVOURED HIS OWN FLESH"
+  - tossup:
+      question: "What Latin phrase is used in English to mean “an unknown land or territory”?"
+      answer: "<latin>TERRA INCOGNITA</latin> "
+    boni:
+      - question: "What Latin phrase if used in English to mean “solid ground”?"
+        answer: "<latin>TERRA FIRMA</latin> "
+      - question: "What Latin phrase is used in English to mean “an earthquake”?"
+        answer: "<latin>TERRAE MOTUS</latin> / <latin>MOTUS TERRAE</latin> "
+  - tossup:
+      question: "Give an antonym of the adjective <latin>pulcher</latin>."
+      answer: "<latin>TURPIS</latin>, <latin>FOEDUS, SQUALIDUS, DĒFORMIS, SORDIDUS</latin> "
+    boni:
+      - question: "<latin>validus</latin>."
+        answer: "<latin>SEGNIS</latin>, <latin>IGNĀVUS, INFIRMUS</latin>"
+      - question: "<latin>apertus</latin>."
+        answer: "<latin>CLAUSUS</latin>, <latin>CAECUS</latin> "
+  - tossup:
+      question: "What popular entertainment involved competitors who always, by the time of Tiberius, competed in multiples of four?"
+      answer: "CHARIOT RACING"
+    boni:
+      - question: "Why would the number of chariots competing in any given race always be a multiple of four?"
+        answer: "THERE WERE FOUR FACTIONS / <latin>FACTIONES</latin> / SYNDICATES / SCHOOLS"
+      - question: "In the chariot racing industry, who was a <latin>dominus factionis</latin>?"
+        answer: "A FACTION’S OWNER / FINANCIER / BACKER / CEO / PRESIDENT (He was NOT a manager or trainer or coach) (Prompt “master...”)"
+  - tossup:
+      question: "Translate the following sentence into Latin: Publius wanted to go home."
+      answer: "<latin>PUBLIUS VOLUIT / CUPĪVIT / DĒSĪDĒRĀVIT DOMUM ĪRE</latin> "
+    boni:
+      - question: "Translate: Publius’ mother was teaching him architecture."
+        answer: "<latin>MĀTER PUBLĪ</latin> <latin>EUM / ILLUM ARCHITECTŪRAM DOCĒBAT</latin> "
+      - question: "Translate: Publius, don’t write with your left hand."
+        answer: "<latin>NŌLĪ, PUBLĪ, SCRĪBERE (TUĀ) MANŪ</latin> <latin>SINISTRĀ</latin> <latin>/ LAEVĀ</latin>"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā, “In vīnō</latin> <latin>est vēritās.” Quō</latin> <latin>cāsū</latin> <latin>est “vīnō”?</latin>"
+      answer: "<latin>(EST IN CASŪ) ABLATĪVŌ</latin> <latin>/ IN ABLATĪVŌ</latin>"
+    boni:
+      - question: "<latin>Quō</latin> <latin>cāsū</latin> <latin>est “vēritās”?</latin>"
+        answer: "<latin>(EST IN CASŪ) NŌMINĀTĪVŌ</latin> <latin>/ IN NŌMINATĪVŌ</latin>"
+      - question: "<latin>Quotae dēclīnātiōnis est “vēritās”?</latin>"
+        answer: "<latin>TERTIAE</latin>"

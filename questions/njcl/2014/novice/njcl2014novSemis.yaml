@@ -1,0 +1,323 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Give an antonym of the Latin verb <latin>appropinquō</latin>"
+      answer: "<latin>(DIS)CĒDŌ</latin> / <latin>(EF)FUGIŌ</latin> / <latin>EXEŌ / PROFICISCOR / ĒGREDIOR</latin> "
+    boni:
+      - question: "Give an antonym of the Latin verb <latin>taceō</latin>"
+        answer: "<latin>(EX)CLĀMŌ</latin> / <latin>DĪCŌ</latin> / (OB)STREPO / LOQUOR / FOR"
+      - question: "Give an antonym of the Latin verb <latin>dēleō</latin>"
+        answer: "<latin>AEDIFICŌ</latin> / <latin>MUNIŌ</latin> / <latin>RĒPARŌ / CREO</latin> "
+  - tossup:
+      question: "“His name he derived from a joke of the troops, because he was brought up in their midst in the dress of a common soldier.” In this excerpt, Suetonius describes which early emperor, whose name translates literally to “little boot?”"
+      answer: "(GAIUS JULIUS CAESAR GERMANICUS) CALIGULA"
+    boni:
+      - question: "Which emperor of the third century AD took his famous nickname after a Gallic cloak he habitually wore?"
+        answer: "(MARCUS AURELIUS ANTONINUS) CARACALLA"
+      - question: "The <latin>cognomen</latin> of which second century AD emperor translates as “persevering” or “obstinate?”"
+        answer: "(PUBLIUS HELVIUS) PERTINAX"
+  - tossup:
+      question: "Which of the following four Latin abbreviations would most likely be found on a tombstone: <latin>p.o</latin>"
+      answer: "/ op. cit. / h.i.s. / s.v.? <latin>h.i.s.</latin> "
+    boni:
+      - question: "Give the Latin and English for the abbreviation <latin>d.s.p.</latin>?"
+        answer: "<latin>DECESSIT SINE PROLE</latin> – DIED WITHOUT ISSUE / CHILDREN"
+      - question: "Give the Latin and English for the abbreviation <latin>fl.</latin>?"
+        answer: "<latin>FLORUIT</latin> – HE FLOURISHED"
+  - tossup:
+      question: "What did Sextus not do prior to coming to the dinner party?"
+      answer: "HE DIDN’T CUT/TRIM HIS BEARD / COMB HIS HAIR / PUT ON A CLEAN TOGA "
+    boni:
+      - question: "What did the slaves do after Sextus arrived at the home of the wealthy man?"
+        answer: "THEY DROVE HIM AWAY"
+      - question: "What did the slaves tell Sextus about the entry policy for this dinner?"
+        answer: "NO ONE EXCEPT WEALTHY MEN IS ADMITTED (HERE)"
+  - tossup:
+      question: "What concept was brought to life by Epeius, although originally conceived by Odysseus, and allowed the Greeks to infiltrate Troy?"
+      answer: "THE TROJAN / WOODEN HORSE"
+    boni:
+      - question: "Which of the following was NOT in the horse: Menelaüs, Epeius, Achilles, Odysseus?"
+        answer: "ACHILLES"
+      - question: "What Greek convinced the Trojans to bring the horse into the city?"
+        answer: "SINON"
+  - tossup:
+      question: "What did the Romans call the British city of York?"
+      answer: "EBORACUM"
+    boni:
+      - question: "What did the Romans call the British city of Chester?"
+        answer: "DEVA"
+      - question: "What did the Romans call the British city of Colchester?"
+        answer: "CAMULODUNUM"
+  - tossup:
+      question: "What two uses of the ablative case are found in the following sentence? “<latin>Cīcerō omnibus aliīs Rōmānīs virtūte maior est.</latin>”"
+      answer: "COMPARISON and RESPECT/SPECIFICATION"
+    boni:
+      - question: "What two uses of the dative case are found in this sentence? “<latin>Amīce, mihi maximō gaudiō semper</latin>  <latin>fuistī</latin>.”"
+        answer: "REFERENCE and PURPOSE (prompt on double dative)"
+      - question: "What two uses of the accusative case are found in this sentence? “<latin>Caesar multa mīlia</latin> passuum in Africam iter <latin>fēcit</latin>.”"
+        answer: "PLACE TO WHICH and EXTENT OF SPACE"
+  - tossup:
+      question: "What emperor’s death in 235 AD brought an end to the Severan dynasty?"
+      answer: "SEVERUS ALEXANDER / ALEXANDER SEVERUS"
+    boni:
+      - question: "Who led the coup against Severus Alexander, and succeeded him as emperor?"
+        answer: "MAXIMINUS THRAX"
+      - question: "Maximinus Thrax ruled until what year, commonly known as the Year of Six Emperors?"
+        answer: "238 AD"
+  - tossup:
+      question: "Please translate “sleeping” in the sentence, “The teacher gave a blanket to the sleeping boy.”"
+      answer: "<latin>DORMIENTI</latin> "
+    boni:
+      - question: "Now change <latin>dormienti puero</latin> to the genitive plural"
+        answer: "<latin>DORMIENTIUM PUERŌRUM</latin> "
+      - question: "Now say, “The girls, about to sleep, went home.”"
+        answer: "<latin>PUELLAE, DORMITŪRAE, DOMUM ĪVĒRUNT.</latin>"
+  - tossup:
+      question: "According to Ovid, into what animals were the daughters of Minyas transformed?"
+      answer: "BATS"
+    boni:
+      - question: "Because they refused to worship him, what god made the transformation?"
+        answer: "BACCHUS"
+      - question: "What king of the Edonians did Bacchus drive mad for the same reason?"
+        answer: "LYCURGUS"
+  - tossup:
+      question: "Translate into alliterative Latin: “Marcia prefers to warn the husband.”"
+      answer: "<latin>MARCIA MAVULT MONĒRE MARĪTUM</latin> "
+    boni:
+      - question: "Translate into alliterative Latin: “Titus did try to draw the fear from the crowd.”"
+        answer: "<latin>TITUS TEMPTAVIT TRAHERE TIMŌREM (Ē) TURBĀ</latin> "
+      - question: "Translate into alliterative Latin: “The butcher will compel the cooks to run quickly.”"
+        answer: "<latin>CARNIFĒX COGET / COMPELLET COQUOS CURRERE CELERITER</latin>."
+  - tossup:
+      question: "What interrogative particle would be used in Latin to begin the following sentence “Julia isn’t going to scold her daughter, is she?”?"
+      answer: "<latin>NUM</latin>"
+    boni:
+      - question: "What Latin conjunction would be used to translate the phrase “neither Marcus nor Quintus”?"
+        answer: "<latin>NEQUE / NEC</latin>"
+      - question: "What Latin conjunction would be used to translate the phrase “either Antony or Caesar”?"
+        answer: "<latin>AUT / VEL/-VE</latin>"
+  - tossup:
+      question: "What king of the Mariandyni welcomed the Argonauts to his kingdom?"
+      answer: "LYCUS"
+    boni:
+      - question: "What king of the Bebryces, whom the Argonauts had killed, had been a bitter enemy of the Mariandyni?"
+        answer: "AMYCUS"
+      - question: "What son did Lycus send with the Argonauts when they left?"
+        answer: "DASCYLUS"
+  - tossup:
+      question: "At the close of the second century BC, Germanic kings Biorix and Teutobod joined forces to inflict  one of Rome’s greatest defeats in history at what battle in 105 BC?"
+      answer: "ARAUSIO"
+    boni:
+      - question: "The town of Arausio is today known as what city in southern France?"
+        answer: "ORANGE"
+      - question: "Of what tribe was Biorix the king?"
+        answer: "CIMBRI"
+  - tossup:
+      question: "Please give the correct form of the adjective <latin>tōtus</latin> to agree with the noun <latin>urbis</latin>"
+      answer: "<latin>TŌTIUS</latin> "
+    boni:
+      - question: "Now please give the correct form of the adjective <latin>tōtus</latin> to agree with the noun <latin>senatuī</latin>"
+        answer: "<latin>TŌTĪ</latin> "
+      - question: "Now please give the correct form of the adjective <latin>tōtus</latin> to agree with the noun <latin>honoribus</latin>"
+        answer: "<latin>TŌTĪS</latin> "
+  - tossup:
+      question: "Which picture shows Procris dying?"
+      answer: "(PICTURE) C"
+    boni:
+      - question: "What is the name of the female character fleeing the male character in picture A?"
+        answer: "SYRINX / PITYS"
+      - question: "To whom are the characters in picture B praying?"
+        answer: "THEMIS / ZEUS"
+  - tossup:
+      question: "To what general category of objects do the following belong: <latin>armarium</latin>, <latin>solium</latin>, <latin>arca</latin>, <latin>cathedra</latin>, and <latin>lectus</latin>?"
+      answer: "(HOUSEHOLD) FURNITURE "
+    boni:
+      - question: "Which two items from the tossup were used for storage?"
+        answer: "<latin>ARMARIUM / ARCA</latin> "
+      - question: "What was a <latin>solium</latin>?"
+        answer: "CHAIR (WITH A BACK AND ARMS)"
+  - tossup:
+      question: "What Euboean giant, the son of Elare, faced daily punishment at the beaks of two vultures, while he  was stretched over nine acres in the Underworld?"
+      answer: "TITYUS"
+    boni:
+      - question: "What was Tityus’ crime?"
+        answer: "HE TRIED TO RAPE LETO"
+      - question: "What god was the father of Tityus by Elare, daughter of Orchomenus?"
+        answer: "ZEUS"
+  - tossup:
+      question: "What is the meaning of the Latin verb from which we derive apricot, precocious, and cuisine?"
+      answer: "TO COOK"
+    boni:
+      - question: "What is the meaning of the Latin verb from which we derive corridor?"
+        answer: "TO RUN"
+      - question: "What is the meaning of the Latin verb from which we derive besiege and size?"
+        answer: "TO SIT"
+  - tossup:
+      question: "Translate into English: <latin>Dūx mīlitēs in castrīs</latin> relinquere <latin>cōnstituerat</latin>"
+      answer: "THE LEADER/ GENERAL <emphasis>HAD</emphasis> DECIDED TO LEAVE THE SOLDIERS (BEHIND) IN (THE / A) CAMP."
+    boni:
+      - question: "Translate into English: <latin>Sī mīlitēs pugnābunt, omnēs perībunt</latin>"
+        answer: "IF THE SOLDIERS (WILL) FIGHT, THEY WILL ALL PERISH/ DIE."
+      - question: "Translate into English: <latin>Virtūs mīlitum multo maior imperatoris fuit</latin>"
+        answer: "THE VIRTUE / MANLINESS / COURAGE / EXCELLENCE OF THE SOLDIERS WAS MUCH GREATER THAN OF THE EMPEROR <latin>2014 NJCL CERTAMEN NOVICE DIVISION FINALS</latin>"
+  - tossup:
+      question: "Using an impersonal verb, say in Latin, “Am I permitted to run?”"
+      answer: "<latin>LICET(NE) MIHI CURRERE?</latin>"
+    boni:
+      - question: "Using an impersonal verb, say in Latin, “Nothing pleases me.”"
+        answer: "<latin>NIHIL MIHI PLACET</latin>"
+      - question: "Translate: <latin>mē oportet plus somnī obtinēre</latin>"
+        answer: "I MUST/SHOULD GET MORE SLEEP"
+  - tossup:
+      question: "Which of the following words does not belong because of meaning: <latin>autumnus</latin>, <latin>aetās, hiems</latin>, <latin>vēr</latin>?"
+      answer: "<latin>AETĀS</latin>"
+    boni:
+      - question: "Give a Latin noun for the fourth season that belongs with <latin>autumnus</latin>, <latin>hiems</latin>, and <latin>vēr</latin>"
+        answer: "<latin>AESTĀS</latin>"
+      - question: "Which of the nouns in the tossup would be most associated with the Latin adjectives <latin>nīveus</latin>?"
+        answer: "<latin>HIEMS</latin>"
+  - tossup:
+      question: "The Treaty of Ferentina is one example of the political prowess of what Roman king, who additionally defeated the Volscians and seized the city of Gabii?"
+      answer: "TARQUINIUS SUPERBUS"
+    boni:
+      - question: "Name the son of Superbus who used deception to take Gabii for his father"
+        answer: "SEXTUS"
+      - question: "What other son of Superbus would later kill Lucius Iunius Brutus in battle?"
+        answer: "ARRUNS"
+  - tossup:
+      question: "Who was the grandfather of both Lycian captains at Troy, Sarpedon and Glaucus?"
+      answer: "BELLEROPHON(TES) / HIPPONOUS"
+    boni:
+      - question: "What daughter and son of Bellerophon were the mother of Sarpedon and the father of Glaucus, respectively?"
+        answer: "LAODAMEIA AND HIPPOLOCHUS"
+      - question: "What daughter of Iobates and sister of Stheneboea was Bellerophon’s wife?"
+        answer: "PHILONOË"
+  - tossup:
+      question: "Please give the correct form of the adjective <latin>magnus</latin> to agree with <latin>cordum</latin>"
+      answer: "<latin>MAGNŌRUM</latin> "
+    boni:
+      - question: "Now give the correct form of <latin>ānxius</latin> to agree with <latin>cordī</latin>"
+        answer: "<latin>ĀNXIŌ</latin> "
+      - question: "Now give the comparative form of <latin>ānxius</latin>"
+        answer: "<latin>MAGIS ĀNXIUS</latin> "
+  - tossup:
+      question: "You are consulting a reference book. What is the English meaning of the abbreviation <latin>v</latin>.<latin>i</latin>., which you may see there?"
+      answer: "SEE BELOW (that’s the answer, not an instruction)"
+    boni:
+      - question: "You may also see the abbreviation <latin>q.v.</latin>, which can have two different meanings. For five point each name both"
+        answer: "<latin>QUANTUM VĪS</latin> - AS MUCH AS YOU WANT, <latin>QUOD VIDĒ</latin> - WHICH SEE/LOOK UP MORE INFO UNDER THIS LISTING"
+  - tossup:
+      question: "Which of the following items does NOT belong because of how it was used: <latin>sōlārium</latin>, <latin>lucerna</latin>, <latin>fax</latin>, or <latin>candēla</latin>?"
+      answer: "<latin>SŌLĀRIUM</latin>"
+    boni:
+      - question: "What was a <latin>sōlārium</latin>?"
+        answer: "A SUN-DIAL"
+      - question: "A <latin>clepsydra</latin> was another type of Roman chronometer. How did it tell time?"
+        answer: "WATER"
+  - tossup:
+      question: "From what Latin adjective do we derive the English words “auburn” and “albino”?"
+      answer: "<latin>ALBUS</latin> "
+    boni:
+      - question: "What derivative of the same Latin adjective means “the white of the egg”?"
+        answer: "ALBUMEN"
+      - question: "What other derivative of the same Latin adjective means “to liberally coat or smear with a thick or sticky substance”?"
+        answer: "DAUB"
+  - tossup:
+      question: "Identify the picture that is being described by the following sentence AND translate the sentence: <latin>hominēs ambulābant et salūtātūrī erant alium senātōrem.</latin>"
+      answer: "FIGURE #4 – MEN WERE WALKING/WALKED AND WERE ABOUT TO / GOING TO / FIXIN’ TO GREET ANOTHER SENATOR"
+    boni:
+      - question: "…: <latin>hominēs</latin> inter <latin>sē dīcēbant dē linguā Latīnā et aliīs puerīs in camerā</latin>. "
+        answer: "FIGURE #1 - PEOPLE WERE TALKING AMONG THEMSELVES ABOUT LATIN AND (ABOUT) OTHER BOYS IN THE ROOM"
+      - question: "…: <latin>exsultantēs, hominēs ambulātūrī sunt ad regnum unde nēmō redīre potest</latin>"
+        answer: "FIGURE #2 <latin>-</latin> (BEING) TRIUMPHANT, MEN ARE ABOUT TO WALK TO THE KINGDOM FROM WHICH NO ONE IS ABLE TO RETURN"
+  - tossup:
+      question: "To whom did Leucippus try to get close by disguising himself as a woman only to be revealed by a jealous Apollo who also had his eyes on her?"
+      answer: "DAPHNE"
+    boni:
+      - question: "What befell Leucippus when his gender was revealed?"
+        answer: "HE WAS KILLED (BY DAPHNE’S COMPANIONS)"
+      - question: "What befell Daphne when she tried to escape Apollo’s advances?"
+        answer: "SHE WAS TURNED INTO A LAUREL TREE"
+  - tossup:
+      question: "The conquest of Britain during the reign of the emperor Claudius was initiated when what Roman general landed with his forces at Kent and defeated the Britons in 43 AD?"
+      answer: "(AULUS) PLAUTIUS"
+    boni:
+      - question: "Claudius gained the title <latin>Brittanicus</latin> after his capture of Camulodunum, the capital city of what British king?"
+        answer: "CARA(C)TACUS"
+      - question: "Give the Latin name of the father of Caratacus who had maintained friendly relations with Rome before his death and who would later become the subject of a Shakespearean play"
+        answer: "CUNOBELINUS"
+  - tossup:
+      question: "Translate into English: <latin>Sī optimē faciō, quoque optimē facere dēbēs</latin>"
+      answer: "IF I DO MY BEST / VERY WELL, YOU OUGHT TO / SHOULD DO YOUR BEST / VERY WELL TOO"
+    boni:
+      - question: "Translate into English: <latin>Discipulī multa itinera Rōmam fēcērunt</latin>"
+        answer: "THE STUDENTS MADE/TOOK MANY TRIPS/JOURNEYS TO ROME"
+      - question: "Translate into English: <latin>Rōmae multa aedificia antīqua vīdērunt</latin>"
+        answer: "IN ROME THEY SAW MANY ANCIENT/OLD BUILDINGS"
+  - tossup:
+      question: "Which of the following was not in the <latin>Forum Rōmānum</latin>: The Temple of the Deified Romulus, The Mausoleum of Augustus, The Temple of Faustina, or the <latin>lapis niger</latin>?"
+      answer: "MAUSOLEUM OF AUGUSTUS"
+    boni:
+      - question: "Which of the following buildings was not in the <latin>Campus Martius</latin>: The Temple of Venus and Rome, The Pantheon, The Horologium Augusti, or The Stadium of Domitian?"
+        answer: "TEMPLE OF VENUS AND ROME"
+      - question: "In which imperial forum could you find the temple of Venus Genetrix?"
+        answer: "FORUM OF (JULIUS) CAESAR"
+  - tossup:
+      question: "What were the men who filled the exercise room doing?"
+      answer: "RUNNING AND SHOUTING"
+    boni:
+      - question: "What did the son and the slave do after they entered the changing room?"
+        answer: "GAVE CLOTHES TO A GUARD"
+      - question: "What did they order this guard to do?"
+        answer: "TO GUARD AND WASH THE CLOTHES"
+  - tossup:
+      question: "Supply the correct form of the verb <latin>tollō</latin> that would appear in the following sentence: The boy lifted his hands to the sky"
+      answer: "<latin>SUSTULIT</latin>"
+    boni:
+      - question: "Now supply the correct form of <latin>tollō</latin> that would appear in this sentence: The ship has been lifted by the waves"
+        answer: "<latin>SUBLĀTA EST</latin> "
+      - question: "Now supply the correct form of <latin>tollō</latin> that would appear in the following: The ship will be lifted by the waves"
+        answer: "<latin>TOLLĒTUR</latin>"
+  - tossup:
+      question: "Because Telemachus failed to lock the room where the suitors kept their arms, who was able to bring weapons to them to help fight Odysseus?"
+      answer: "MELANTHIUS"
+    boni:
+      - question: "What two men found and hanged Melanthius?"
+        answer: "EUMAEUS AND PHILOETIUS"
+      - question: "What did Odysseus force his unfaithful maids to do before he executed them?"
+        answer: "<emphasis>CLEAN UP</emphasis> THE MESS FROM THE <emphasis>SLAUGHTER</emphasis> IN THE GREAT HALL"
+  - tossup:
+      question: "Eager to win military glory like his fellow triumvirs, Marcus Licinius Crassus seized the governorship of Syria, crossed the Euphrates, and attacked the Parthians, only to face crushing defeat and death at the site of what battle of 53 BC?"
+      answer: "CARRHAE"
+    boni:
+      - question: "Who commanded a contingent of Gallic cavalry at Carrhae but committed suicide after seeing his troops slaughtered by Parthian mounted archers?"
+        answer: "PUBLIUS (LICINIUS) CRASSUS"
+      - question: "Under whose command did Publius Crassus serve from 58 to 56 BC?"
+        answer: "(GAIUS JULIUS) CAESAR’S"
+  - tossup:
+      question: "Who, disguised as an old woman called Doso, was asked by King Celeus to nurse his infant son Demophon?"
+      answer: "DEMETER / CERES"
+    boni:
+      - question: "Name Celeus' wife, who walked in on Demeter as she was attempting to make Demophon immortal"
+        answer: "METANEIRA"
+      - question: "What other son of Celeus, to whom Demeter taught agriculture, rode around Greece in a winged chariot?"
+        answer: "TRIPTOLEMUS"
+  - tossup:
+      question: "Translate into Latin: “The stupid sailor is not able to see the island.”"
+      answer: "<latin>NAUTA / NAVITA STULTUS ĪNSULAM VIDĒRE NEQUIT / NŌN POTEST</latin>"
+    boni:
+      - question: "Translate into Latin: “The winds on the sea terrify him.”"
+        answer: "<latin>VENTĪ IN MARĪ</latin> EUM TERRENT "
+      - question: "Translate into Latin: “Soon all the sailors will be dead.”"
+        answer: "<latin>MOX OMNĒS / CUNCTĪ NAUTAE / NAVITAE MORTUĪ ERUNT</latin> "
+  - tossup:
+      question: "What two Greeks killed the Trojan Dolon on a night foray at Troy?"
+      answer: "ODYSSEUS AND DIOMEDES"
+    boni:
+      - question: "What had Dolon asked from Hector as a reward for spying on the Greek?"
+        answer: "ACHILLES’ HORSES"
+      - question: "What newly arrived Trojan ally did Dolon point out as a target for Odysseus and Diomedes?"
+        answer: "RHESUS"

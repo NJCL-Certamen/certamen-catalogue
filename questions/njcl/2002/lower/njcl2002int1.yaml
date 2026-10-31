@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give a synonym of <latin>grāmen</latin>"
+      answer: "<latin>HERBA, PLANTA</latin>"
+    boni:
+      - question: ". . . of <latin>hospitium</latin>"
+        answer: "<latin>CAUPŌNA</latin>"
+  - tossup:
+      question: "Who became the ruler of the universe after he dethroned his father Uranus?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who had asked Cronus to overthrow Uranus?"
+        answer: "GAIA / GE / MOTHER EARTH"
+      - question: "With what weapon did Cronus attack Uranus?"
+        answer: "(ADAMANTINE) SICKLE / SCYTHE"
+  - tossup:
+      question: "What was the Latin term for a runaway slave?"
+      answer: "<latin>FUGITĪVUS</latin>"
+    boni:
+      - question: "How could you recognize a slave who had escaped and was later recaptured?"
+        answer: "THE LETTER “F” / LETTERS “FUG” BRANDED ON HIS FOREHEAD/ A METAL COLLAR AROUND HIS NECK"
+      - question: "What form of punishment was given to a slave who had tried to kill his master?"
+        answer: "CRUCIFIXION"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “seánce,” “insidious,” and “sediment.”"
+      answer: "<latin>SEDEŌ</latin> <latin>/ SEDĒRE</latin> - SIT"
+    boni:
+      - question: "What derivative of <latin>sedeō, sedēre</latin> means “to critically view a situation”?"
+        answer: "ASSESS"
+      - question: "What derivative of <latin>sedeō, sedēre</latin> means “performing with constant diligence”?"
+        answer: "ASSIDUOUS / OBSESSIVE (do not accept “sedulous”)"
+  - tossup:
+      question: "Translate this sentence into Latin: The girl, whom you have seen, is the daughter of the senator"
+      answer: "<latin>PUELLA, QUAM VĪDISTĪ</latin> <latin>/ VĪDISTIS, EST FĪLIA SENĀTŌRIS</latin>"
+    boni:
+      - question: "Translate this sentence into Latin: The daughter of the senator, with whom you were walking, kept wanting to go to the forum"
+        answer: "<latin>FĪLIA SENĀTŌRIS, QUĀCUM AMBULĀBĀ(TI)S, AD FORUM ĪRE VOLĒBAT</latin> / <latin>CUPIĒBAT</latin> / <latin>DĒSĪDERĀBAT</latin>"
+      - question: "Translate this sentence into Latin: The girl, seen with the senator, was standing near a tavern"
+        answer: "<latin>PUELLA, CUM SENĀTŌRE VĪSA / QUAE CUM SENĀTŌRE VĪSA EST PROPE TABERNAM STĀBAT</latin>"
+  - tossup:
+      question: "For the verb <latin>rīdeō, rīdēre</latin> give the perfect active infinitive"
+      answer: "<latin>RĪSISSE</latin>"
+    boni:
+      - question: "Change <latin>rīsisse</latin> to the future tense"
+        answer: "<latin>RĪSŪRUS (-A, -UM) ESSE</latin>"
+      - question: "(If the plural accusative forms are given, slap them on the hand and accept it) Change <latin>rīsūrus esse</latin> to the passive voice"
+        answer: "<latin>RĪSUM ĪRĪ</latin>"
+  - tossup:
+      question: "Who left his kingdom to the Roman people after his death in 133 BC?"
+      answer: "ATTALUS (III)"
+    boni:
+      - question: "What was the name of his kingdom?"
+        answer: "PERGAMUM"
+      - question: "What tribune proposed a bill to use Attalus’ legacy as land for settlers?"
+        answer: "TI. (SEMPRONIUS) GRACCHUS"
+  - tossup:
+      question: "Give the Latin noun at the ultimate root of \"champagne.\""
+      answer: "<latin>CAMPUS</latin>"
+    boni:
+      - question: "Give the Latin noun at the ultimate root of \"handkerchief.\""
+        answer: "<latin>CAPUT</latin>"
+      - question: "Give the TWO Latin nouns at the root of \"dandelion.\""
+        answer: "<latin>DĒNS</latin>, <latin>LEŌ</latin>"
+  - tossup:
+      question: "Who was the best Trojan archer during their war against the Greeks?"
+      answer: "PARIS / ALEXANDER / ALEXANDROS"
+    boni:
+      - question: "Who was the best Trojan archer after Paris?"
+        answer: "PANDARUS"
+      - question: "Whom did Pandarus wound, thus ending a temporary truce between the Trojans and the Greeks?"
+        answer: "MENELAUS"
+  - tossup:
+      question: "Listen carefully to the following passage about Vestal Virgins, which I will read twice, and answer IN LATIN the question about the passage: <latin>Virginēs Vestālēs, quae ā</latin> <latin>Pontifice Maximō</latin> <latin>ēlectae sunt, trīgintā</latin> <latin>annōs</latin>  <latin>officiīs fungēbantur. Vestāles sacrum ignem cūstōdiēbant et, cum perīculum</latin>  <latin>esset, ignem ad locum tūtum portāvērunt. Nōnnumquam Rōmā</latin> <latin>ignem</latin>  <latin>extulērunt nē</latin> <latin>in hostium manūs venīret.</latin>  <latin>Quis Vestālēs ēlegit?</latin>"
+      answer: "PONTIFEX MAXIMUS"
+    boni:
+      - question: "Quibus Vestālēs trīgintā <latin>annōs fungēbantur?</latin>"
+        answer: "OFFICIĪS"
+  - tossup:
+      question: "In which Roman province would you have found the following cities? <latin>Camulodunum</latin>, <latin>Verulamium</latin>, <latin>Dēva</latin>, <latin>Eborācum</latin>, <latin>Londinium</latin>"
+      answer: "<latin>BRITANNIA</latin>/BRITAIN"
+    boni:
+      - question: "Which of these cities was most northerly? <latin>Pisae</latin>, <latin>Capua</latin>, <latin>Tarentum</latin>, <latin>Beneventum</latin>"
+        answer: "<latin>PISAE</latin>"
+      - question: "Which of these cities doesn’t belong geographically with the others? <latin>Syracusae</latin>, <latin>Messana</latin>, <latin>Nicopolis</latin>, <latin>Lilybaeum</latin>, <latin>Drepana</latin>"
+        answer: "<latin>NICOPOLIS</latin>"
+  - tossup:
+      question: "With respect to Latin grammar, how many subjunctive tenses are there?"
+      answer: "FOUR"
+    boni:
+      - question: "How many tenses of the infinitive are there?"
+        answer: "THREE"
+      - question: "How many tenses of the imperative mood are there?"
+        answer: "TWO"
+  - tossup:
+      question: "Say in Latin: two bodies"
+      answer: "<latin>DUO CORPORA</latin>"
+    boni:
+      - question: "Say in Latin: three mouths"
+        answer: "<latin>TRIA ŌRA</latin> / <latin>OSTIA</latin>"
+      - question: "Say in Latin: two hundred animals"
+        answer: "<latin>DUCENTA ANIMĀLIA</latin>"
+  - tossup:
+      question: "Whose faithless husband left her for a beautiful princess named Glauce?"
+      answer: "MEDEA’S"
+    boni:
+      - question: "What gift did Medea give to Glauce?"
+        answer: "POISONED ROBE / CROWN"
+      - question: "What precisely happened to Glauce as she put on the poisoned robe?"
+        answer: "SHE WAS BURNED TO A CRISP / FLESH MELTED OFF HER BONES"
+  - tossup:
+      question: "What is the Latin term used to describe a committee established to accomplish a particular purpose?"
+      answer: "<latin>AD HOC</latin>"
+    boni:
+      - question: "What Latin term is the equivalent of “to the point of disgust”?"
+        answer: "<latin>AD NAUSEAM</latin>"
+      - question: "What is the Latin abbreviation which can mean “extemporaneously or improvised?”"
+        answer: "<latin>AD LIB</latin>"
+  - tossup:
+      question: "Of all the Julio-Claudian emperors, which had no connection by blood to Julius Caesar?"
+      answer: "TIBERIUS (CLAUDIUS NERO)"
+    boni:
+      - question: "You are looking at a family tree. Which letter or letters represent emperors?"
+        answer: "D (CALIGULA) AND E (NERO)"
+      - question: "Who is letter “A”?"
+        answer: "SCRIBONIA"
+  - tossup:
+      question: "Of all the Julio-Claudian emperors, which had no connection by blood to Julius Caesar?"
+      answer: "TIBERIUS (CLAUDIUS NERO)"
+    boni:
+      - question: "Name the emperors who were the son and grandson of Germanicus"
+        answer: "CALIGULA AND NERO"
+      - question: "Name the second wife of Augustus"
+        answer: "SCRIBONIA"
+  - tossup:
+      question: "What warning did Odysseus give to his men when they landed on the island of Trinacria?"
+      answer: "DON’T SLAUGHTER THE CATTLE OF HELIUS/SUN/APOLLO/HYPERION"
+    boni:
+      - question: "What was Odysseus doing when the his men slaughtered the cattle of Helius for food?"
+        answer: "HE WAS SLEEPING"
+      - question: "How were Odysseus’ men punished for this crime?"
+        answer: "THEY ALL DROWNED (IN A SHIPWRECK / IN A STORM)"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “urbem ā</latin> <latin>prīncipiō</latin> <latin>rēgēs habuērunt” Quae pars ōrātiōnis est “urbem”?</latin>"
+      answer: "NŌMEN"
+    boni:
+      - question: "“Habuērunt”, dīc persōnam prīmam singulārem"
+        answer: "HABUĪ"
+      - question: "<latin>Cuius dēclīnātiōnis est “urbem”?</latin>"
+        answer: "TERTIAE / <latin>”URBEM” EST IN TERTIĀ</latin> <latin>DĒCLĪNĀTIŌNĒ</latin>"
+  - tossup:
+      question: "Which Roman general received an ovation from the Greeks when he announced the liberation of Greece in 196 BC?"
+      answer: "(TI. QUINCTIUS) FLAMININUS"
+    boni:
+      - question: "Where did he receive this ovation?"
+        answer: "CORINTH"
+      - question: "During the celebration of which games did this take place?"
+        answer: "ISTHMIAN"
+  - tossup:
+      question: "What mythological group included Thalia, Euphrosyne, and Aglaia?"
+      answer: "GRACES / CHARITES"
+    boni:
+      - question: "Who were the parents of the Graces?"
+        answer: "ZEUS & EURYNOME / ZEUS & HERA / HELIUS & AEGLE"
+      - question: "For what daughter of Ares did the Graces weave a beautiful robe with their own hands?"
+        answer: "HARMONIA"

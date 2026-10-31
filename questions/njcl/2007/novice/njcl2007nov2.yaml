@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>facit</latin> : _____ ?"
+      answer: "<latin>FĒCIT</latin>"
+    boni:
+      - question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>monet</latin> : _____ ?"
+        answer: "<latin>MONUIT</latin>"
+      - question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>cognōscit</latin> : _____ ?"
+        answer: "<latin>COGNŌVIT</latin>"
+  - tossup:
+      question: "Which emperor voluntarily retired from office and happily tended his vegetable garden at his palace in Salona on the Adriatic Sea in 305 A.D.?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "What modern city in Croatia did Salona become?"
+        answer: "SPLIT / SOLIN"
+      - question: "While Diocletian’s retirement was voluntary, who reluctantly resigned with him?"
+        answer: "MAXIMIAN"
+  - tossup:
+      question: "Give the comparative and superlative forms for the adjective <latin>parvus</latin>"
+      answer: "MINOR & MINIMUS"
+    boni:
+      - question: "Give the comparative and superlative forms for the adjective <latin>magnus</latin>"
+        answer: "MAIOR & MAXIMUS"
+      - question: "Give the comparative and superlative forms for the adjective <latin>multus</latin>"
+        answer: "PLŪS & PLŪRIMUS"
+  - tossup:
+      question: "The Trojan princess Cassandra was gifted with prophecy but was also cursed so that no one would ever believe her. What god had cursed her in this way?"
+      answer: "APOLLO"
+    boni:
+      - question: "What son of Priam and Hecuba was a Trojan seer who was later captured by the Greeks?"
+        answer: "HELENUS"
+      - question: "What seer was part of the Greek army at Troy?"
+        answer: "CALCHAS"
+  - tossup:
+      question: "Which revolutionary consul from the town of Arpinum was the first in his family to rise to the consulship and also the only Roman to be elected to this post seven times?"
+      answer: "(GAIUS) MARIUS"
+    boni:
+      - question: "What was the Latin term for someone, like Marius, who was the first of his family line to attain the consulship?"
+        answer: "<latin>NOVUS HOMŌ</latin>"
+      - question: "Give the full Latin name of the other famous consul of the first century BC who was also born in the same town as Marius"
+        answer: "MARCUS TULLIUS CICERO"
+  - tossup:
+      question: "Supply the correct form of <latin>senātor</latin> to complete the following sentence: <latin>Lūcius et Quīntus sunt _____</latin>"
+      answer: "SENĀTŌRĒS"
+    boni:
+      - question: "<latin>Plautia et Iūlia _____ placēbant</latin>"
+        answer: "SENĀTŌRĪ <latin>/ SENĀTŌRIBUS</latin>"
+      - question: "Give the form of <latin>senātor</latin> that would be used to translate ‘senator’ into Latin for the following sentence: I saw Flavius, a senator of high rank, sitting in the Curia"
+        answer: "<latin>SENĀTŌREM</latin>"
+  - tossup:
+      question: "Which of the following, if any, is NOT a pair of correlative conjunctions? <latin>et...et, atque...at, neque...neque, tum...tum?</latin>"
+      answer: "ATQUE...AT"
+    boni:
+      - question: "What is the meaning of <latin>neque</latin>...<latin>neque</latin>?"
+        answer: "NEITHER...NOR"
+      - question: "What is the alternate, or contracted, form of <latin>neque</latin>...<latin>neque</latin>?"
+        answer: "<latin>NEC</latin>...<latin>NEC</latin>"
+  - tossup:
+      question: "Whose death in Milan led to an East-West split of the Roman Empire in 395 A.D.?"
+      answer: "THEODOSIUS"
+    boni:
+      - question: "To whom did Theodosius leave the eastern portion of the empire?"
+        answer: "ARCADIUS"
+      - question: "To whom did he leave the West?"
+        answer: "HONORIUS"
+  - tossup:
+      question: "Who pursued a nymph until she became a fountain?"
+      answer: "ALPHE(I)US"
+    boni:
+      - question: "Who was this nymph?"
+        answer: "ARETHUSA"
+      - question: "Who were the parents of the river god Alpheius?"
+        answer: "OCEANUS AND TETHYS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quīnque ex clientibus in ātriō</latin> <latin>stābant</latin>"
+      answer: "FIVE OF THE CLIENTS WERE STANDING IN THE ATRIUM / ENTRANCE WAY"
+    boni:
+      - question: "<latin>Cēterī</latin> <latin>clientēs intrā</latin> <latin>ātrium manēre nōn poterant</latin>"
+        answer: "THE OTHER / REST OF THE CLIENTS WERE NOT ABLE TO WAIT / REMAIN IN THE ATRIUM / ENTRANCE WAY"
+      - question: "Using the adjective <latin>plēnus</latin>, say in Latin: All of the atrium was full"
+        answer: "<latin>OMNE</latin> / <latin>TŌTUM</latin> / <latin>CUNCTUM ĀTRIUM PLĒNUM ERAT</latin>"
+  - tossup:
+      question: "What god’s followers killed the kings Lycurgus and Pentheus?"
+      answer: "DIONYSUS / BACCHUS"
+    boni:
+      - question: "Acoetes had been the only sailor to defend Dionysus when he was taken hostage on a ship. Into what were all of Acoetes’ shipmates transformed?"
+        answer: "DOLPHINS"
+      - question: "Acoetes became a follower of Dionysus and was captured by Pentheus. What miracle happened to Acoetes at that time?"
+        answer: "HE COULD NOT BE SHACKLED / THE SHACKLES KEPT FALLING OFF (or ROPES OR CHAINS)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>In marī</latin> <latin>ignōtō</latin> <latin>est īnsula mīrābilis. In ūnā</latin> <latin>parte huius īnsulae habitat senex rēx quī</latin> <latin>ex omnibus hominibus in orbe terrārum maximam partem pecūniae habet. Hic rēx autem fēlīx nōn est. Eī</latin> <latin>sunt duae fīliae. Prīma est</latin>  <latin>pulcherrima. Secunda autem septimō</latin> <latin>diē</latin> <latin>serpēns fit.</latin>  Question: <latin>Quot fīliās habet hic rēx?</latin>"
+      answer: "DUĀS (If student says ‘duae,’ it must be in a complete sentence WITHOUT a prompt)"
+    boni:
+      - question: "<latin>In quod animal secunda fīlia septimō</latin> <latin>diē</latin> <latin>mūtātur?</latin>"
+        answer: "<latin>(IN) SERPENTEM</latin>"
+      - question: "<latin>Quod adiectīvum rēgem dēscrībit? fēlīx, dīves, iuvenis, ferōx, parvus</latin>"
+        answer: "DĪVES"
+  - tossup:
+      question: "Change <latin>ille senex</latin> to the genitive singular"
+      answer: "<latin>ILLĪUS SENIS</latin>"
+    boni:
+      - question: "Change <latin>illīus senis</latin> to the plural"
+        answer: "<latin>ILLŌRUM SENUM</latin>"
+      - question: "Change <latin>illōrum senum</latin> to the dative plural"
+        answer: "<latin>ILLĪS SENIBUS</latin>"
+  - tossup:
+      question: "Translate the following sentence into Latin: Antonius, hear me!"
+      answer: "<latin>ANTONĪ, MĒ</latin> <latin>AUDĪ</latin>"
+    boni:
+      - question: "girls and boys, don’t sleep!"
+        answer: "<latin>PUELLAE ET PUERĪ, NŌLĪTE DORMĪRE</latin>"
+      - question: "Quintus, trust me!"
+        answer: "<latin>QUĪNTE, CRĒDE / (CŌN)FĪDE MIHI</latin>"
+  - tossup:
+      question: "Name the third longest river in Italy which flows from the Apennine mountains, through Tuscany, Umbria and Latium and draining into the Tyrrhenian Sea after passing through Rome?"
+      answer: "TIBER / TIBERIS / TEVERE"
+    boni:
+      - question: "Please look at page 1. Using the context clues in this aerial photo from Google Maps, identify the ancient city whose ruins are highlighted"
+        answer: "OSTIA (ANTICA)"
+      - question: "Now look at page 2. Using context clues in this aerial photo of another city from Google Maps, identify the ancient structure whose ruins are highlighted"
+        answer: "BATHS OF CARACALLA"
+  - tossup:
+      question: "What son of Agenor and Telephassa and brother of Europa founded Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "What god did Cadmus have to serve as punishment for killing the god’s sacred dragon?"
+        answer: "ARES / MARS"
+      - question: "Who were Echion, Udaeus, Chthonius, Hyperenor, Pelorus?"
+        answer: "THE SPARTOI / SEWN MEN / MEN WHO SPRANG FROM THIS DRAGON’S TEETH"
+  - tossup:
+      question: "Based on its Latin root, what is the name given to a place to house birds?"
+      answer: "AVIARY"
+    boni:
+      - question: "Based on its Latin root, what is the name given to a place to house bees?"
+        answer: "APIARY"
+      - question: "Based on its Latin root, what would one do in a natatorium?"
+        answer: "SWIM"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat: lībertus?</latin>"
+      answer: "FREEDMAN, FORMER SLAVE"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat lībra?</latin>"
+        answer: "SCALE(S), POUND"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat līber</latin><latin>ē?</latin>"
+        answer: "FREELY, GENEROUSLY, LOOSELY"
+  - tossup:
+      question: "What by-product was made by fermenting the intestines and other waste parts of fish?"
+      answer: "<latin>GARUM</latin> / <latin>LIQUĀMEN</latin> / <latin>MURIA</latin>"
+    boni:
+      - question: "What product from the <latin>mūrex</latin>, a Mediterranean shellfish, was highly regarded by the Romans and used in the textile industry?"
+        answer: "PURPLE DYE"
+      - question: "What animal product was often used to make pins, rings, spoons, dice, knife handles, etc.?"
+        answer: "BONE, IVORY"
+  - tossup:
+      question: "Who killed Toxeus and Plexippus, may have sailed on the Argo under the protection of his uncle, and killed the Calydonian Boar?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Who were the parents of Meleager?"
+        answer: "OENEUS AND ALTHAEA"
+      - question: "Name the sister of Meleager who was Herakles’ second wife"
+        answer: "DEIANEIRA <latin>2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>"

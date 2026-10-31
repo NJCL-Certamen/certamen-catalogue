@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Roman poet displayed his unusual ability to see things from a woman’s point of view through a series of fictitious poetic letters from deserted heroines to their faithless lovers?"
+      answer: "(PUBLIUS) OVID(IUS) NASO"
+    boni:
+      - question: "What is the Latin title for this work?"
+        answer: "<title><latin>HĒRŌIDĒS</latin></title> / <title><latin>EPISTULAE HĒRŌIDUM</latin></title>"
+      - question: "In his <title><latin>Ars Amātōria</latin></title>, Ovid used the line <latin>“ignōtum hoc aliīs ille novāvit opus</latin>” in reference to his <title><latin>Hērōidēs</latin></title>. What claim was he making about his literary legacy?"
+        answer: "HE CLAIMED THAT IT WAS AN ORIGINAL LITERARY CREATION (Note to moderator: quotation translates as “He (Ovid)"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>atrōx</latin> to agree with the <latin>animal</latin>"
+      answer: "<latin>ATRŌX</latin>"
+    boni:
+      - question: "Change <latin>atrōx animal</latin> to the plural"
+        answer: "<latin>ATRŌCIA ANIMĀLIA</latin>"
+      - question: "Change <latin>atrōcia animālia</latin> to the genitive"
+        answer: "<latin>ATRŌCIUM ANIMĀLIUM</latin>"
+  - tossup:
+      question: "What city in Sicily were Hiero II of Syracuse, the Carthaginians and the Romans all interested in controlling c. 264 BC?"
+      answer: "MESSANA (MESSINA)"
+    boni:
+      - question: "What group of mercenaries had controlled Messana since 288 BC?"
+        answer: "MAMERTINES"
+      - question: "Why was the control of Messana important to the Romans?"
+        answer: "CONTROLLED STRAITS BETWEEN SICILY & ITALY (or COULD BE USED AS A BASE TO ATTACK ITALY)"
+  - tossup:
+      question: "What son of Abas, attempting to prevent the fulfillment of a prophecy, confined his daughter in a prison with bronze doors?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "Who was the beautiful maiden imprisoned by Acrisius?"
+        answer: "DANAE"
+      - question: "Who was the mother of Danae?"
+        answer: "EURYDICE / AGANIPPE"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quot rōstra sunt aquilae?</latin>"
+      answer: "<latin>ŪNUM</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot manūs sunt anguī?</latin>"
+        answer: "<latin>NŪLLA / NŪLLAE</latin>"
+      - question: "<latin>Respondē Latīnē: Quot oculī sunt hominī luscō?</latin>"
+        answer: "<latin>ŪNUS</latin>"
+  - tossup:
+      question: "Give a synonym for the singular Latin noun <latin>ōra</latin>"
+      answer: "<latin>LĪTUS</latin>/ <latin>ACTA</latin> / <latin>RĪPA</latin>"
+    boni:
+      - question: "... for the noun <latin>iānua</latin>"
+        answer: "<latin>ŌSTIUM</latin>/ <latin>FORIS</latin>/ <latin>FORĒS</latin>/ <latin>VALVAE</latin>/ <latin>PORTA</latin>/ <latin>POSTIS</latin>/ <latin>CLAUSTRA</latin>"
+      - question: "... for the noun <latin>amīcus</latin>"
+        answer: "<latin>FAMILIĀRIS</latin>/ <latin>AMĀTOR</latin>/ <latin>HOSPES</latin>/ <latin>COMES</latin> / <latin>SOCIUS / SODĀLIS</latin>"
+  - tossup:
+      question: "The story of Romulus and Remus and the events of the Punic Wars can be found in the writings of what Augustan historian?"
+      answer: "(TITUS) LIVIUS / LIVY"
+    boni:
+      - question: "Livy’s history was different from those of some of his contemporaries in that his work was annalistic. What does this mean?"
+        answer: "HE TREATED EACH YEAR AS A UNIT (AS OPPOSED TO BY EPISODES / EVENTS IN HISTORY)"
+      - question: "What was unusual in the way Livy published his 142-book <title><latin>Ab Urbe Condit</latin></title>ā?"
+        answer: "IT WAS PUBLISHED IN INSTALLMENTS"
+  - tossup:
+      question: "What celestial substance had the power to preserve the body against decay and, when eaten by mortals, conferred immortality on them?"
+      answer: "AMBROSIA"
+    boni:
+      - question: "Name one character from Homer’s <title>Iliad</title> whose body was preserved and made whole by applications of ambrosia. <emphasis>see below for answer</emphasis> Name another"
+        answer: "HECTOR / PATROCLUS / SARPEDON"
+  - tossup:
+      question: "What was the function of a <latin>vēlum</latin> in an amphitheater?"
+      answer: "(TO PROVIDE) SHADE / COOLING"
+    boni:
+      - question: "Consider the gentleman labeled “A” in this picture. As which mythological character is he dressed and what was his job at the amphitheater?"
+        answer: "HE IS DRESSED AS CHARON / (HERMES) PSYCHOPOMPUS HIS JOB IS TO MAKE SURE THE VANQUISHED ARE REALLY DEAD (BY BLUDGEONING THEM)"
+      - question: "What in this picture would be described by the Latin term <latin>vomitōrium</latin>?"
+        answer: "THE TUNNEL / ENTRANCE"
+  - tossup:
+      question: "Listen to this passage which I will read twice and answer in English the question that follows. <latin>Rēx Nūma populīs Rōmānīs pollicēbātur ut eōs multa docēret. Nūma dīxit, “Ego sciō</latin> <latin>quō</latin> <latin>modō</latin> <latin>gallōs sacrōs pascam. Ego intellegō</latin> <latin>quō</latin> <latin>modō</latin> <latin>deīs gallōs sacrificem.” Quaedam mulier rogāvit quō</latin> <latin>modō</latin> <latin>gallōs coqueret. Rēx respondit, “Quid? Hoc nesci</latin><latin>ō!”</latin>  The question: Whom does Numa guarantee he will enlighten?"
+      answer: "THE ROMAN PEOPLE"
+    boni:
+      - question: "What expertise does Numa have with chickens?"
+        answer: "FEEDING <emphasis>AND</emphasis> SACRIFICING"
+      - question: "Of what is Numa surprisingly ignorant?"
+        answer: "CHICKEN COOKING"
+  - tossup:
+      question: "Who killed the Argonauts Zetes and Calais because of their part in his abandonment?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Zetes and Calais convinced the rest of the Argonauts to abandon Heracles while he was searching for whom?"
+        answer: "HYLAS"
+      - question: "What other Argonaut remained with Heracles in his search for Hylas?"
+        answer: "POLYPHEMUS"
+  - tossup:
+      question: "What English derivative of the verb <latin>ūtor</latin>, <latin>ūtī</latin> means “excessive rate of interest on money loaned”?"
+      answer: "USURY"
+    boni:
+      - question: "“to study carefully”?"
+        answer: "PERUSE"
+      - question: "“to seize unlawfully”?"
+        answer: "USURP"
+  - tossup:
+      question: "What Roman author describes and praises Trajan’s virtues as emperor in his <title><latin>Panegyricus</latin></title>?"
+      answer: "PLINY THE YOUNGER / (GAIUS PLINIUS CAECILIUS SECUNDUS)"
+    boni:
+      - question: "What earlier emperor does Pliny the Younger use to contrast the virtues of Trajan?"
+        answer: "DOMITIAN"
+      - question: "To whom does Pliny the Younger address a letter in which the eruption of Mt. Vesuvius was described?"
+        answer: "TACITUS"
+  - tossup:
+      question: "What Latin word or phrase is commonly used in English to mean “concerning?”"
+      answer: "<latin>(IN) RĒ</latin>"
+    boni:
+      - question: "What Latin word or phrase is commonly used in English to mean “an upstart?”"
+        answer: "<latin>NOVUS HOMŌ</latin>"
+      - question: "What Latin word or phrase is commonly used in English to mean “In the capacity or character of?”"
+        answer: "<latin>QUĀ</latin> (e.g. “The president qua head of the party mediated the dispute.”)"
+  - tossup:
+      question: "Who was the first co-Augustus in Roman history because he ruled jointly with Marcus Aurelius?"
+      answer: "(LUCIUS AURELIUS COMMODUS) VERUS"
+    boni:
+      - question: "Verus was the equal of Aurelius in all respects except for what position?"
+        answer: "PONTIFEX MAXIMUS"
+      - question: "To whom was Verus married?"
+        answer: "LUCILLA (DAUGHTER OF MARCUS AURELIUS)"
+  - tossup:
+      question: "Who was judged by Cicero to be the greatest of the Latin tragic poets?"
+      answer: "(M.) PACUVIUS"
+    boni:
+      - question: "Pacuvius was the nephew of what other author?"
+        answer: "(Q.) ENNIUS"
+      - question: "In which work did Pacuvius depict Ulysses’ death at the hand of Telegonus?"
+        answer: "<title><latin>NIPTRA</latin></title> / <title>THE BATH</title>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nēmō</latin> <latin>est cui crēdere possim</latin>"
+      answer: "THERE IS NO ONE (WHOM) I CAN BELIEVE"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Rūs īvit quō</latin> <latin>tranquillius vīveret</latin>"
+        answer: "HE WENT TO THE COUNTRY TO LIVE MORE PEACEFULLY"
+      - question: "Translate the following sentence into English: <latin>dignus est quī</latin> <latin>Rōmānus fīat</latin>"
+        answer: "HE IS WORTHY OF BECOMING A ROMAN"
+  - tossup:
+      question: "What useful present did Maron, the priest of Apollo, give to Odysseus?"
+      answer: "(JARS OF) WINE"
+    boni:
+      - question: "Why did Maron give Odysseus this present?"
+        answer: "BECAUSE ODYSSEUS HAD SPARED HIS LIFE (ALONG WITH HIS WIFE’S) DURING THE SACK OF HIS CITY (ISMARUS)"
+      - question: "Maron’s wine became extremely useful as part of Odysseus’ plan to escape from whom?"
+        answer: "POLYPHEMUS"
+  - tossup:
+      question: "What emperor established a property qualification for the Senate?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What amount was the property qualification?"
+        answer: "ONE MILLION SESTERCES"
+      - question: "Who had previously established election to the quaestorship as entry to the Senate?"
+        answer: "(L. CORNELIUS) SULLA"
+  - tossup:
+      question: "What independent use of the subjunctive is found in the following Latin sentence: <latin>Quid facerem</latin>?"
+      answer: "DELIBERATIVE / DUBITATIVE"
+    boni:
+      - question: "<latin>Quis enim cēlāverit īgnem</latin>?"
+        answer: "DELIBERATIVE / DUBITATIVE"
+      - question: "<latin>Forsitan aliquis dīcat hanc quaestiōnem difficiliōrem esse</latin>"
+        answer: "POTENTIAL"

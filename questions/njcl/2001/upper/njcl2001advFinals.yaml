@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "According to Vergil, what was Anchises doing when Aeneas approached him in the Underworld?"
+      answer: "SURVEYING THE SOULS / SHADES OF HIS OWN DESCENDANTS (& WAS TELLING ABOUT THEIR FUTURES) (Book VI, 665-767)"
+    boni:
+      - question: "Again, according to Vergil, the shade of what musician showed Aeneas and the Sibyl the way to find Anchises?"
+        answer: "MUSAEUS"
+      - question: "What future son of Aeneas was the first soul introduced by Anchises to Aeneas?"
+        answer: "SILVIUS"
+  - tossup:
+      question: "Augustus numbered the years of his principate by the number of years he held what power?"
+      answer: "POWER OF TRIBUNE / <latin>TRIBUNICIA POTESTAS</latin>"
+    boni:
+      - question: "With the power of a tribune, what political body could he convene?"
+        answer: "SENATE"
+      - question: "To what assembly could he present legislation?"
+        answer: "<latin>CONCILIUM PLEBIS</latin>"
+  - tossup:
+      question: "Give the Latin adjective and its meaning which is at the root of “deign,” “disdain,” and “indignant.”"
+      answer: "<latin>DIGNUS</latin> - WORTHY OF, DESERVING, FITTING, SUITABLE, BECOMING, PROPER"
+    boni:
+      - question: "Give the Latin verb and its meaning which is at the root of “discrete,” “secretary,” and “discern.”"
+        answer: "<latin>CERNŌ/ CERNERE</latin> - PERCEIVE, DECIDE, SIFT, SEPARATE, UNDERSTAND, DETERMINE, DISCERN"
+      - question: "Give the Latin verb and its meaning which is at the root of “fairy,” “nefarious,” and “affable.”"
+        answer: "<latin>FOR/FĀRĪ</latin>"
+  - tossup:
+      question: "Which of Ovid’s works did he consider to be the first of a new literary genre?"
+      answer: "<title><latin>HEROIDES</latin></title> / <title><latin>HEROIDUM EPISTULAE</latin></title> / <title>LETTERS OF HEROINES</title>"
+    boni:
+      - question: " In what meter are these “letters from heroines” written?"
+        answer: "ELEGIACS"
+      - question: "Which of Ovid’s friends, an elegiac poet in his own right, may have inspired him with the idea of letters in verse?"
+        answer: "PROPERTIUS"
+  - tossup:
+      question: "Using a gerundive, translate the following sentence into Latin: “Cicero must write his own speeches.”"
+      answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ</latin> <latin>SCRĪBENDAE SUNT</latin>"
+    boni:
+      - question: " Using <emphasis>the verb</emphasis> <emphasis><latin>pare</latin></emphasis><emphasis>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
+        answer: "<latin>OMNIBUS LĒGIBUS BONĪS PARENDUM EST</latin>"
+      - question: " Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
+        answer: "Ā <latin>PIŌ</latin> <latin>DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
+  - tossup:
+      question: "What type of independent subjunctive clause is found in the following Latin sentence: <latin>Utī</latin> <latin>sōl per tōtum annum lūcēret</latin>!"
+      answer: "OPTATIVE / VOLITIVE"
+    boni:
+      - question: "<latin>Quid iūdicibus dīcerem</latin>?"
+        answer: "DELIBERATIVE"
+      - question: "<latin>Crēderēs hostēs victōs esse</latin>"
+        answer: "POTENTIAL"
+  - tossup:
+      question: "In Book XX of Homer’s <title>Odyssey</title>, what frightening omen did the suitors see during a banquet?"
+      answer: "BLOOD ON THEIR FOOD"
+    boni:
+      - question: "Who interprets this as an omen of disaster for the suitors?"
+        answer: "THEOCLYMENUS"
+      - question: "What suitor had thrown a cow’s hoof at Odysseus during the banquet?"
+        answer: "CTESIPPUS"
+  - tossup:
+      question: "What Dalmatian peasant was chosen by the army of the east to replace Numerian as Augustus?"
+      answer: "(GAIUS AURELIUS VALERIUS) DIOCLETIANUS / DIOCLETIAN"
+    boni:
+      - question: "After whose assassination did Diocletian become the sole ruler of the empire?"
+        answer: "CARINUS’"
+      - question: "What previous emperor was the father of Numerian and Carinus?"
+        answer: "(MARCUS AURELIUS) CARUS"
+  - tossup:
+      question: "Change the phrase <latin>carō</latin> <latin>vīvēns</latin> to the ablative"
+      answer: "<latin>CARNE VĪVENTE</latin>"
+    boni:
+      - question: "(-Ī) Change <latin>senex vīvēns</latin> to the genitive plural"
+        answer: "<latin>SENUM VĪVENTIUM</latin>"
+      - question: "Change <latin>bōs vīvēns</latin> to the accusative singular"
+        answer: "<latin>BOVEM VĪVENTEM</latin>"
+  - tossup:
+      question: "Who, angered that Marius received most of the credit for their victory over the Cimbri, became one of Marius’ chief opponents?"
+      answer: "(QUINTUS LUTATIUS) CATULUS"
+    boni:
+      - question: "Where and when did Marius & Catulus defeat the Cimbri?"
+        answer: "VERCELLAE - 101 BC"
+      - question: "Who was Catulus’ legate at the battle of Vercellae?"
+        answer: "(L. CORNELIUS) SULLA"
+  - tossup:
+      question: "pass out the visuals – as soon as all the visuals have been handed out, say: “YOU MAY OPEN YOUR VISUALS NOW!” You will now have 15 seconds to examine the following lines of verse carefully. (<emphasis>wait 15 seconds</emphasis>) What is the meter of this poem?"
+      answer: "HENDECASYLLABIC"
+    boni:
+      - question: "According to this Martial poem, what does Theodorus often do when he sees the poet?"
+        answer: "HE BEGS (AND PLEADS) FOR HIS BOOKS (OF POEMS)"
+      - question: "Why doesn’t Martial want to give a copy of his books to Theodorus?"
+        answer: "HE’S AFRAID THAT HE WILL GET THEODORUS’ BOOKS IN RETURN"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Agricola quīdam moritūrus fīliīs arcessītīs dīxit fīnem vītae adesse. “Fīliī,” inquit, “nōn metuō</latin> <latin>nē</latin> <latin>iussa mea neglegātis nec meī</latin> <latin>mortuī</latin> <latin>oblīvīscāminī. Itaque vōs iubeō</latin> <latin>dīligenter in meīs vīneīs labōrāre, quō</latin> <latin>factō</latin> <latin>magnās dīvitiās et fēlīcitātem reperiētis.”</latin>  <latin>Cuius meminisse fīliīs necesse erat?</latin>"
+      answer: "AGRICOLAE / PATRIS (MORTUĪ)"
+    boni:
+      - question: "Quid pater fīliīs imperāvit? "
+        answer: "<latin>UT (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRENT</latin>"
+      - question: " or <latin>IUSSIT EŌS (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRE</latin>  <latin>Quae rēs fīliīs inveniendae sunt?</latin>"
+        answer: "DĪVITIAE (MAGNAE) (ET FĒLĪCITĀS)"
+  - tossup:
+      question: "What is the name of the folding chair which was used by higher magistrates and then emperors?"
+      answer: "<latin>SELLA CURULIS</latin>"
+    boni:
+      - question: "In what kind of chair would a <latin>pater familias</latin> usually sit when giving his clients their morning audience?"
+        answer: "<latin>SOLIUM</latin>"
+      - question: "What was the term for the chair in which a teacher/professor/rhetor would sit?"
+        answer: "<latin>CATHEDRA</latin>"
+  - tossup:
+      question: "Of <latin>fritillus</latin>, <latin>flagellum</latin>, <latin>cohors</latin>, <latin>habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā</latin> <latin>imposita cadāvera cremābantur</latin>"
+      answer: "<latin>ROGUS</latin>"
+    boni:
+      - question: " . . . <latin>Est lōrum frēnō</latin> <latin>alligātum, quō</latin> <latin>equī</latin> <latin>reguntur</latin>"
+        answer: "<latin>HABĒNA</latin>"
+      - question: ". . . <latin>Est turricula rotunda, per quam tālī</latin> <latin>mittuntur</latin>"
+        answer: "<latin>FRITILLUS</latin>"
+  - tossup:
+      question: "What Roman author followed the traditions set forth by the historian Thucydides and produced two important historical monographs in the first century BC?"
+      answer: "(C.) <emphasis>SALLUST</emphasis>IUS (CRISPUS)"
+    boni:
+      - question: "In what post was Sallust able to gain access to Punic documents that he used in the composition of the <title><latin>Bellum Iugurthīnum</latin></title>?"
+        answer: "GOVERNOR OF AFRICA (NOVA)"
+      - question: "The struggles of what political party was the common theme to both of Sallust’s monographs?"
+        answer: "THE STRUGGLE OF THE <latin>POPULARES</latin>"
+  - tossup:
+      question: "According to Ovid’s <title>Metamorphoses</title>, who was transformed into a river-god when he was crushed to death by Polyphemus?"
+      answer: "ACIS"
+    boni:
+      - question: "Again, according to Ovid, who were the parents of Acis?"
+        answer: "FAUNUS & SYMAETHIS"
+      - question: "To what other Nereid was Galatea, the lover of Acis, telling the story of his transformation?"
+        answer: "CHARYBDIS"
+  - tossup:
+      question: "The invention of what type of <title><latin>fabulae</latin></title> was attributed to Gnaeus Naevius?"
+      answer: "<title><latin>FABULAE P</latin></title><emphasis><title><latin>RAETEXTAE</latin></title></emphasis>"
+    boni:
+      - question: " Describe a <title><latin>fabula praetexta</latin></title>"
+        answer: "PLAY / DRAMA / TRAGEDY BASED ON A ROMAN HISTORICAL SUBJECT"
+      - question: "<emphasis>or</emphasis> WITH A ROMAN SETTING Give the Latin titles of Naevius’ <title><latin>fabulae praetextae</latin></title>"
+        answer: "<title><latin>ROMULUS</latin></title> AND <title><latin>CLASTIDIUM</latin></title>"
+  - tossup:
+      question: "Which of the following nouns, if any, is NOT heterogeneous: <latin>balneum</latin>, <latin>castrum</latin>, <latin>epulum</latin>, <latin>locus</latin>, <latin>dēlicium</latin>?"
+      answer: "<latin>CASTRUM</latin>"
+    boni:
+      - question: "Which of the following nouns, if any, is NOT a heteroclite: <latin>domus</latin>, <latin>pecus</latin>, <latin>colus</latin>, <latin>penus</latin>, <latin>iecur</latin>?"
+        answer: "THEY ALL ARE HETEROCLITES / NONE OF THEM"
+      - question: "- “none of them” is correct and is fine as is, BUT if student says “all of them”, then prompt to let them explain their answer Which of the following nouns, if any, is NOT of the same gender as the others: <latin>vēr</latin>, <latin>gelū</latin>, <latin>marmor</latin>, <latin>dōs</latin>, <latin>vās</latin>?"
+        answer: "<latin>DŌS</latin>"
+  - tossup:
+      question: "What daughter of Chiron the centaur was a chaste companion of Artemis until she was violated by King Aeolus?"
+      answer: "THEA / THEIA / THIA / TITAEA"
+    boni:
+      - question: "Who transformed Thea into a mare named Euippe until after her child was born so that she could avoid the wrath of her father Chiron?"
+        answer: "POSEIDON / NEPTUNE"
+      - question: "Thea gave birth to a foal that was eventually transformed into a little girl by Poseidon. Name this baby girl"
+        answer: "MELANIPPE"
+  - tossup:
+      question: "Translate the following sentence into idiomatic English: <latin>Sī</latin> <latin>Cicerō</latin> <latin>in forum vēnisset, ōrātiōnem habuisset</latin>"
+      answer: "IF CICERO HAD COME INTO THE FORUM, HE WOULD HAVE GIVEN A SPEECH / DELIVERED AN ORATION"
+    boni:
+      - question: "<latin>Nisī</latin> <latin>Cicerō</latin> <latin>ōrātor bonus esset, iūdex eī</latin> <latin>nōn crēderet</latin>"
+        answer: "IF CICERO WEREN’T A GOOD ORATOR, THE JUDGE WOULDN’T BELIEVE HIM"
+      - question: "<latin>Sī</latin> <latin>Cicerō</latin> <latin>in exilium mittātur, miserrimus sit</latin>"
+        answer: "IF CICERO SHOULD BE SENT INTO EXILE, HE WOULD BE VERY UNHAPPY"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What derivative of the Latin verb <latin>augeō</latin>, <latin>augēre</latin> means “a public sale in which items are sold to the highest bidder?”"
+      answer: "AUCTION"
+    boni:
+      - question: "means “to make greater in size, extent, or quantity?”"
+        answer: "AUGMENT"
+      - question: "What emperor’s name, which means “inspiring awe or admiration” also derives from the verb <latin>augēre</latin>?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "What mythical brothers are considered to be the founders of Rome?"
+      answer: "ROMULUS AND REMUS"
+    boni:
+      - question: "Which of the brothers began to build a wall around the new settlement?"
+        answer: "ROMULUS"
+      - question: "What happened when Remus playfully jumped over the wall?"
+        answer: "KILLED BY (HIS BROTHER) ROMULUS / CELER"
+  - tossup:
+      question: "Who was the primary god worshiped at Delphi?"
+      answer: "APOLLO"
+    boni:
+      - question: "On what mountain is Delphi located?"
+        answer: "PARNASSUS"
+      - question: "Name the creature that Apollo slew to establish his claim to be the chief god of Delphi?"
+        answer: "PYTHON"
+  - tossup:
+      question: "Change the phrase <latin>canis magna</latin> to the accusative plural"
+      answer: "<latin>CANĒS MAGNĀS</latin>"
+    boni:
+      - question: "Change <latin>canēs magnās</latin> to the ablative plural"
+        answer: "<latin>CANIBUS MAGNĪS</latin>"
+      - question: "Change <latin>canibus magnīs</latin> to the ablative singular"
+        answer: "<latin>CANE MAGNĀ</latin>"
+  - tossup:
+      question: "Of <latin>ōvum</latin>, <latin>ōs</latin>, <latin>fōns</latin>, <latin>mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est locus unde aqua semper ērumpit</latin>"
+      answer: "<latin>FŌNS</latin>"
+    boni:
+      - question: ". . . <latin>Est inferior pars facieī</latin>"
+        answer: "<latin>ŌS</latin>"
+      - question: ". . . <latin>Est id quod avēs, piscēs, et multa animalia ferunt</latin>"
+        answer: "<latin>ŌVUM</latin>"
+  - tossup:
+      question: "What is the Latin name for a wax writing tablet?"
+      answer: "<latin>TABULA / TABELLA / PUGILLĀRĒS / CĒRA</latin>"
+    boni:
+      - question: "  Name the instrument being held by the lady and its use"
+        answer: "STYLUS / <latin>STILUS</latin> / <latin>GRAPHIUM</latin> - TO WRITE (ON THE WAX TABLET)"
+      - question: "Of what material would the object being held by the man have been made?"
+        answer: "PAPYRUS (prompt if “<latin>charta</latin>” or “<latin>chartula</latin>” is given)"
+  - tossup:
+      question: "Jason had to sow the plain of Ares with dragon's teeth. Who had slain the dragon from which these teeth had come?"
+      answer: "CADMUS"
+    boni:
+      - question: "At whose command did Jason perform this feat?"
+        answer: "AEETES'"
+      - question: "Why did Medea decide to help Jason?"
+        answer: "CUPID/EROS HAD SHOT HER WITH A LOVE ARROW"
+  - tossup:
+      question: "What use of the accusative case is illustrated in this sentence: <latin>Multōs diēs dormīre volō</latin>"
+      answer: "DURATION / EXTENT OF TIME"
+    boni:
+      - question: "in this sentence: <latin>Domum aedificat</latin>"
+        answer: "DIRECT OBJECT"
+      - question: "Translate this sentence: <latin>Puer in casam ambulāvit.</latin> "
+        answer: "THE BOY WALKED INTO THE HOUSE / HUT / LITTLE HOUSE"
+  - tossup:
+      question: "Who, hoping to rule through her young son, poisoned her husband, the emperor Claudius?"
+      answer: "AGRIPPINA THE YOUNGER"
+    boni:
+      - question: "Who was her son?"
+        answer: "NERO"
+      - question: "The young Nero did not want to be controlled by his mother. Name one of the two men upon whom he relied during the first fifteen years of his rule?"
+        answer: "SENECA (HIS TUTOR)"
+  - tossup:
+      question: "Who was the uninvited troublemaker at the wedding of Peleus and Thetis?"
+      answer: "ERIS/DISCORD(IA)"
+    boni:
+      - question: "What was her gift?"
+        answer: "THE GOLDEN APPLE"
+      - question: "What was inscribed on the apple?"
+        answer: "TO / FOR THE FAIREST / MOST BEAUTIFUL"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>vīgintī</latin>”?"
+      answer: "TWENTY"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>septuāgintā</latin>”?"
+        answer: "SEVENTY"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>sēdecim</latin>”?"
+        answer: "SIXTEEN"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Puerī</latin> <latin>per urbem celeriter cucurrērunt</latin>"
+      answer: "THE BOYS QUICKLY RAN THROUGH THE CITY."
+    boni:
+      - question: "<latin>Dominus servīs cibum dabit</latin>"
+        answer: "THE MASTER WILL GIVE THE SLAVES FOOD / WILL GIVE FOOD TO THE SLAVES"
+      - question: "<latin>Servī</latin> <latin>equōs mīlitum dūcent</latin>"
+        answer: "THE SLAVES WILL LEAD THE HORSES OF THE SOLDIERS"
+  - tossup:
+      question: "Change the verb <latin>audit</latin> to the plural"
+      answer: "<latin>AUDIUNT</latin>"
+    boni:
+      - question: "Change <latin>audiunt</latin> to the imperfect"
+        answer: "<latin>AUDIĒBANT</latin>"
+      - question: "Change <latin>audiēbant</latin> to the future"
+        answer: "<latin>AUDIENT</latin>"
+  - tossup:
+      question: "Who invented the syrinx, or shepherd's pipe, out of marsh reeds?"
+      answer: "PAN"
+    boni:
+      - question: "Who worshiped Pan after the curse which Dionysus had given him washed away?"
+        answer: "MIDAS"
+      - question: "Of what was Pan’s wreath usually made?"
+        answer: "PINE-NEEDLES"
+  - tossup:
+      question: "What two men were the leaders of the conspiracy to kill Julius Caesar?"
+      answer: "(MARCUS JUNIUS) BRUTUS & CASSIUS (LONGINUS)"
+    boni:
+      - question: "Where did the defeated Brutus and Cassius commit suicide in 42 B. C.?"
+        answer: "PHILIPPI"
+      - question: "Who were the commanders of the armies which defeated Brutus & Cassius in the two battles at Philippi?"
+        answer: "OCTAVIAN / OCTAVIANUS & M. ANTONIUS / MARK ANTONY"
+  - tossup:
+      question: "Which of the following verbs does NOT belong because of conjugation: <latin>capiō</latin>, <latin>mūniō</latin>, <latin>audiō</latin>, <latin>inveniō</latin>, <latin>dēsiliō</latin>?"
+      answer: "<latin>CAPIŌ</latin>"
+    boni:
+      - question: "Give all of the principal parts of <latin>capiō</latin>"
+        answer: "<latin>CAPIŌ</latin>, <latin>CAPERE</latin>, <latin>CĒPĪ</latin>, <latin>CAPTUS / -UM</latin>"
+      - question: "Give all of the principal parts of <latin>mūniō</latin>"
+        answer: "<latin>MŪNIŌ</latin>, <latin>MŪNĪRE</latin>, <latin>MŪNĪVĪ</latin>, <latin>MŪNĪTUS / -UM</latin>"
+  - tossup:
+      question: "By what two names do we know Aeneas' son by Creusa?"
+      answer: "ASCANIUS AND IULUS"
+    boni:
+      - question: "What city did Ascanius found?"
+        answer: "ALBA LONGA"
+      - question: "Who took Ascanius' place for one night in Carthage?"
+        answer: "CUPID"
+  - tossup:
+      question: "What is the English meaning of the Brooklyn College motto: <latin>Nīl sine magnō</latin> <latin>labōre</latin>?"
+      answer: "NOTHING WITHOUT GREAT TOIL / LABOR / EFFORT / WORK"
+    boni:
+      - question: "of the University of the South motto: <latin>Ecce quam bonum</latin>?"
+        answer: "BEHOLD / LOOK HOW GOOD"
+      - question: "of the Tulane University motto: <latin>nōn sibi, sed suīs</latin>?"
+        answer: "NOT FOR ONE’S SELF, BUT FOR ONE’S OWN / FRIENDS / RELATIVES"
+  - tossup:
+      question: "Which emperor ordered the erasure of his brother’s name from all inscriptions in AD 212?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Name the brother whom Caracalla had murdered"
+        answer: "GETA"
+      - question: "Name the Praetorian Prefect who assassinated Caracalla after a six year rule"
+        answer: "MACRINUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In trīclīniō</latin> <latin>domūs Rōmānae semper erat mēnsa. Haec mēnsa erat pulchra et pretiōsa. Hospitēs circum mēnsam in sellīs nōn sedēbant, sed in lectīs recumbēbant. In hīs lectīs novem hospitēs recumbēbant, trēs in quōque lectō.</latin>  <latin>Quālis erat mēnsa?</latin>"
+      answer: "PULCHRA"
+    boni:
+      - question: "and/or PRETIŌSA Ubi hospitēs recumbēbant? "
+        answer: "<latin>IN TRICLINIŌ</latin> <latin>/ IN LECTĪS / IN LECTŌ</latin> <latin>/ CIRCUM MĒNSAM</latin>"
+      - question: " <latin>In quibus hospitēs nōn sedēbant?</latin>"
+        answer: "(IN) SELLĪS"

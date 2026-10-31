@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Latin prose author managed to avoid Sulla’s proscriptions and ultimately achieved the consulship in 59 BC before serving as governor of Gaul, a period which is recorded in his <title><latin>Commentariī dē Bellō Gallicō</latin></title><title>?</title>"
+      answer: "(GAIUS JULIUS) CAESAR"
+    boni:
+      - question: "In the first book of the <title><latin>Dē Bellō Gallicō</latin></title><title>,</title> Caesar writes of conflict that results from the migration of certain Gallic tribes. What is the name of the tribe whose movements gave Caesar his reason for taking his army into the interior of Gaul?"
+        answer: "<latin>HELVĒTIĪ</latin>"
+      - question: "In book 7, Caesar recounts the greatest threat to his success in Gaul, a general insurrection which culminated in his victory at Alesia. Who was the leader of this insurrection?"
+        answer: "VERCINGETORĪX"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Multī mīlitēs in castrīs conveniēbant ut ducēs audīrent.</latin>"
+      answer: "MANY SOLDIERS WERE GATHERING/MEETING / GATHERED / MET IN THE CAMP (IN ORDER) TO LISTEN TO / HEAR / SO THAT THEY MIGHT HEAR / LISTEN TO  THE(IR) LEADERS / COMMANDERS"
+    boni:
+      - question: "Translate into Latin the expression of purpose in that sentence using an accusative gerundive."
+        answer: "<latin>AD DUCĒS AUDIENDŌS</latin>"
+      - question: "Translate the same expression of purpose using a genitive gerundive."
+        answer: "<latin>DUCUM AUDIENDŌRUM CAUSĀ / GRĀTIĀ</latin>"
+  - tossup:
+      question: "What son of the Muse Clio allied himself with the Trojans and would have stormed the Greek camp if  his horses had tasted the water of the Scamander, but was killed in his sleep by Odysseus and  Diomedes?"
+      answer: "RHESUS"
+    boni:
+      - question: "What king of Hypoplacian Thebes and father of Andromache was so respected by his slayer Achilles  that he was buried in his splendid armor?"
+        answer: "EËTION"
+      - question: "What Lycian archer ignored his father Lycaon’s advice to ride a chariot, but rather fought on foot and  died at the hands of Diomedes?"
+        answer: "PANDARUS"
+  - tossup:
+      question: "Change the phrase <latin>īdem fortis exercitus</latin> to the genitive."
+      answer: "<latin>EIUSDEM FORTIS EXERCITŪS</latin>"
+    boni:
+      - question: "Change <latin>eiusdem fortis exercitus</latin> to the accusative."
+        answer: "<latin>EUNDEM FORTEM EXERCITUM</latin>"
+      - question: "Change <latin>eiusdem fortis exercitus</latin> to the plural."
+        answer: "<latin>EŌRUNDEM FORTIUM EXERCITUUM</latin>"
+  - tossup:
+      question: "Having been enticed by the rumors of riches, Caesar crossed the English Channel and fought which  king during his second invasion of Britannia?"
+      answer: "CASSIVELLAUNUS"
+    boni:
+      - question: "Give the years for both of Caesar’s expeditions into Britannia."
+        answer: "55 BC, 54 BC"
+      - question: "Also in 54 BC, which chieftain of the Eburones revolted against Caesar?"
+        answer: "AMBIORIX"
+  - tossup:
+      question: "According to its Latin root, what does “expostulation” entail?"
+      answer: "DEMANDING"
+    boni:
+      - question: "According to its Latin root, what does “vaticination” entail?"
+        answer: "PROPHESYING"
+      - question: "According to its Latin root, what does “passivity” entail?"
+        answer: "SUFFERING/TOLERANCE/ENDURANCE"
+  - tossup:
+      question: "What author, a <latin>semi-Graecus</latin> from Rudiae, was brought to Rome in the midst of the Second Punic War, where he worked as a teacher, though his legacy is in his 18 book hexameter poem on the history of Rome, the <title><latin>Annālēs</latin></title>?"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "When Ennius came to Rome, he did so at the behest of what politician and author?"
+        answer: "(M. PORCIUS) CATO"
+      - question: "Before writing the <title><latin>Annālēs</latin></title>, Ennius made his name as a playwright; he was particularly highly regarded for his tragedies. Name one of Ennius’ tragedies.  <title><latin>ALEXANDER / ANDROMACHA / ANDROMEDA / ERECTHEUS / HECUBA / IPHIGENIA / MEDEA / MELANIPPE / TELEPHUS / ACHILLES / AJAX / ALCMEO / ATHAMUS / CRESOPHONTES / EUMENIDES / HECTORIS LUTRA / PHOENIX / TELAMO / THYESTES  (AND NEMEA?</latin></title>"
+        answer: "<title><latin>)</latin></title>"
+  - tossup:
+      question: "The Latin verb <latin>queō</latin> is a compound of what irregular verb?"
+      answer: "<latin>EŌ</latin>"
+    boni:
+      - question: "Without using a compound of <latin>sum</latin>, say in Latin: They can sing!"
+        answer: "<latin>CANTĀRE QUEUNT</latin>"
+      - question: "Without using a compound of <latin>sum</latin>, say in Latin using only two words: He was unable to walk!"
+        answer: "<latin>AMBULĀRE NEQUĪBAT</latin>"
+  - tossup:
+      question: "Who received a letter from his son-in-law telling him to kill the bearer of this message, who happened  to be Bellerophon?"
+      answer: "IOBATES"
+    boni:
+      - question: "Who was his son-in-law who had sent that message?"
+        answer: "PROETUS"
+      - question: "Who had falsely accused Bellerophon to her husband?"
+        answer: "STHENEBOEA/ANTIA"
+  - tossup:
+      question: "Whom did Octavian deny the <latin>spolia opima</latin>, although he had slain an enemy leader in hand-to-hand  combat?"
+      answer: "(MARCUS LICINIUS) CRASSUS THE YOUNGER / II / SON OF TRIUMVIR"
+    boni:
+      - question: "What king of the Bastarnae did Crassus the Younger defeat?"
+        answer: "DELDO"
+      - question: "In what temple in Rome was the armor of the defeated enemy leader dedicated?"
+        answer: "(TEMPLE OF) JUPITER FERETRIUS"
+  - tossup:
+      question: "What daughter of Ares was turned into a snake along with her husband after leaving the rule of  Thebes to their grandson Pentheus?"
+      answer: "HARMONIA"
+    boni:
+      - question: "According to one account, Harmonia’s famous robe and necklace were originally gifts from Zeus to  what sister of her husband Cadmus?"
+        answer: "EUROPA"
+      - question: "According to another myth, the necklace was poisoned by its creator Hephaestus and intended to kill  Harmonia’s children. What did Hephaestus have against Harmonia?"
+        answer: "SHE WAS THE LOVE-CHILD OF HIS WIFE / APHRODITE AND ARES"
+  - tossup:
+      question: "Translate into English the Latin motto <latin>'festīnā lentē'</latin>."
+      answer: "MAKE HASTE (HURRY, RUSH) SLOWLY"
+    boni:
+      - question: "Give the English meaning of the Latin motto <latin>'absit invidia'</latin>."
+        answer: "LET ENVY (JEALOUSY, SPITE, ILL WILL, ETC.) BE ABSENT"
+      - question: "Give the English meaning of the Latin motto <latin>'suī generis'</latin>."
+        answer: "OF ITS OWN KIND / ONE OF A KIND"
+  - tossup:
+      question: "Tacitus drew heavily for his own writing on WHAT earlier author’s now lost <title><latin>Bella Germanica</latin></title><title>,</title> written before he devoted much of his later life to a 37 book compendium of the totality of human knowledge."
+      answer: "PLINY THE ELDER (GAIUS PLINIUS SECUNDUS)"
+    boni:
+      - question: "To what future emperor is Pliny’s <title><latin>Nātūrālis Historia</latin></title> dedicated?"
+        answer: "TITUS"
+      - question: "During which emperor’s reign did Pliny remove himself from public life out of hatred for the emperor  and a desire to pursue oratory and law?"
+        answer: "NERO"
+  - tossup:
+      question: "Which of the following is NOT in the Campus Martius: Pantheon, <latin>Saepta Iūlia</latin>, <latin>Āra Pācis</latin>,  Temple of Venus and Rome?"
+      answer: "TEMPLE OF VENUS AND ROME"
+    boni:
+      - question: "Who was responsible for building the original Pantheon?"
+        answer: "(MARCUS VIPSANIUS) AGRIPPA"
+      - question: "What emperor had the Pantheon rebuilt after it had been destroyed in a fire?"
+        answer: "HADRIAN"
+  - tossup:
+      question: "Please listen to the following sentences, which I will read twice, and answer the question that follows  in Latin:  <latin>Duplex est enim vīs animōrum atque nātūra: Ūna pars in appetītū posita est, quae hominem  hūc et illūc rapit; altera in rātiōne, quae docet et explānat quid faciendum fugiendumque  sit.</latin> (repeat)  The question: <latin>Quae vīs animōrum hominem hūc et illūc rapit?</latin>"
+      answer: "<latin>APPETĪTUS</latin>"
+    boni:
+      - question: "<latin>Quae vīs animōrum docet et explānat?</latin>"
+        answer: "<latin>RĀTIŌ</latin>"
+      - question: "<latin>Quid rātiō docet?</latin>"
+        answer: "<latin>(QUID) FACIENDUM SIT / FUGIENDUM SIT</latin>"
+  - tossup:
+      question: "Which of the following words, if any, does not belong with the others because of meaning? <latin>cavea, specus, antrum, caverna, cavum</latin>"
+      answer: "<latin>CAVEA</latin>"
+    boni:
+      - question: "Which of the following words, if any, does not belong with the others because of meaning? <latin>mentum, māla, palmes, occulī, nāris</latin>"
+        answer: "<latin>PALMES</latin>"
+      - question: "Which of the following words, if any, does not belong with the others because of meaning? <latin>exstinguō, vastō, perdō, dēstruō, perīmō</latin>"
+        answer: "NONE"
+  - tossup:
+      question: "Ingenuus, Macrianus, Quietus and Aureolus were all pretenders to the throne during the reign of  which emperor?"
+      answer: "(P. LICINIUS EGNATIUS) GALLIENUS"
+    boni:
+      - question: "Which ruler of Palmyra assisted Gallienus with restoring order in the East?"
+        answer: "ODENAETHUS"
+      - question: "Where was Gallienus killed by his own subordinates, as he was besieging Aureolus?"
+        answer: "MILAN / MEDIOLANUM"
+  - tossup:
+      question: "When Catullus says in one of his poems “<latin>nōn sine candidā puellā”,</latin> what literary device was he using?"
+      answer: "LITOTES ("
+    boni:
+      - question: "Identify the author of “A” and identify the literary device, other than alliteration, illustrated in that line."
+        answer: "CICERO - ANAPHORA"
+      - question: "Examine lines “D” and “H” and identify the literary device, other than alliteration, illustrated in each of those lines."
+        answer: "D = CHIASMUS & H = ASYNDETON"
+  - tossup:
+      question: "What warrior maiden & ally of Turnus was killed in the fight against the Trojans?"
+      answer: "CAMILLA"
+    boni:
+      - question: "Who was her father, who tied her to a spear and threw her across the Anaurus River to escape the pursuers?"
+        answer: "METABUS"
+      - question: "Who avenged her death by sending someone to kill the Trojan who killed Camilla?"
+        answer: "DIANA"
+  - tossup:
+      question: "Using <latin>resistō,</latin> say in Latin: Let us resist the enemy bravely!"
+      answer: "<latin>RESISTĀMUS HOSTIBUS / HOSTĪ FORTITER</latin>"
+    boni:
+      - question: "Using <latin>parcō</latin>, say in Latin: Let the enemies be spared!"
+        answer: "<latin>HOSTIBUS PARCĀTUR</latin>"
+      - question: "Using <latin>crēdō</latin> in a passive periphrastic construction, say in Latin: We must not trust the enemies."
+        answer: "<latin>HOSTIBUS Ā NŌBĪS NŌN CRĒDENDUM EST</latin>"

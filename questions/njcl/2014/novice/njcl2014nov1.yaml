@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What modern city did the Romans call <latin>Neāpolis</latin>?"
+      answer: "NAPLES"
+    boni:
+      - question: "What modern city did the Romans call <latin>Mediōlānum</latin>?"
+        answer: "MILAN"
+      - question: "What modern city did the Romans call <latin>Colōnia</latin> <latin>Agrippīnēnsis</latin>?"
+        answer: "COLOGNE"
+  - tossup:
+      question: "Please supply the correct form of the Latin word for “pretty girl” to complete the following sentence: “The poor sailor loved the pretty girl.”"
+      answer: "<latin>PULCHRAM / FORMŌSAM / BELLAM PUELLAM</latin>"
+    boni:
+      - question: "Now say in Latin: The poor sailor loved the pretty girl"
+        answer: "<latin>NAUTA MISER/PAUPER/TRĪSTIS PUELLAM PULCHRAM / FORMŌSAM / BELLAM AMĀBAT/AMĀVIT</latin> "
+      - question: "Now change the verb form <latin>amābat</latin> to the future tense"
+        answer: "<latin>AMĀBIT</latin> "
+  - tossup:
+      question: "A satyr, a flame, and a shower of gold were all guises used by what god to seduce mortal women?"
+      answer: "ZEUS / JUPITER"
+    boni:
+      - question: "Who is “This Girl”?"
+        answer: "EUROPA"
+      - question: "Name one of the children of “This Girl” and Zeus."
+        answer: "MINOS / RHADAMANTHYS / SARPEDON"
+  - tossup:
+      question: "The years 107 BC and 86 BC mark, respectively, the first and last times that which prominent Roman general served as consul?"
+      answer: "(GAIUS) MARIUS"
+    boni:
+      - question: "As consul in 107 BC, Marius’ main objective was to put an end to the war with what foreign king?"
+        answer: "JUGURTHA"
+      - question: "Who was Marius’ consular colleague in 86 BC?"
+        answer: "CINNA"
+  - tossup:
+      question: "What does the interrogative <latin>quot</latin> mean?"
+      answer: "HOW MANY"
+    boni:
+      - question: "What does the interrogative <latin>quālis</latin> mean?"
+        answer: "(OF) WHAT KIND"
+      - question: "Differentiate in meaning among the interrogatives <latin>quō</latin>, <latin>ubi</latin>, and <latin>unde</latin>. "
+        answer: "<latin>QUŌ</latin> – TO WHERE?;WHITHER? / <latin>UBI</latin> – WHERE (AT)? / <latin>UNDE</latin> – FROM WHERE? / WHENCE?"
+  - tossup:
+      question: "What daughter of Helius made pigs from Odysseus’ men?"
+      answer: "CIRCE"
+    boni:
+      - question: "For how long did Odysseus stay with Circe?"
+        answer: "ONE YEAR"
+      - question: "What crewman of Odysseus died when he fell off of Circe’s roof?"
+        answer: "ELPENOR"
+  - tossup:
+      question: "Please translate into English: <latin>Multī virī ad theātrum currunt</latin>"
+      answer: "MANY MEN ARE RUNNING / (DO) RUN TO THE THEATER "
+    boni:
+      - question: "Please translate into English: <latin>Duae avēs in caelō</latin> erant."
+        answer: "TWO BIRDS WERE IN THE SKY"
+      - question: "Please translate into English: <latin>Cervī in silvā lentē ambulābant</latin>"
+        answer: "THE DEER WERE WALKING/ WALKED SLOWLY IN THE FOREST/WOODS"
+  - tossup:
+      question: "What is the Latin motto of the state of New York State, meaning “higher”?"
+      answer: "<latin>EXCELSIOR</latin>"
+    boni:
+      - question: "What is the Latin motto of the state of Kansas, which means “to the stars through difficulties?"
+        answer: "<latin>AD ASTRA PER ASPERA</latin>"
+      - question: "What is the Latin motto of the state of Maine, which means “I point the way”?"
+        answer: "<latin>DĪRIGŌ</latin>"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Caesar</latin> <latin>in forō nōn manēbit</latin>."
+      answer: "PLACE WHERE"
+    boni:
+      - question: "What use of the ablative case is found in the following sentence: <latin>Quis ā Caesāre necātus est?</latin>"
+        answer: "AGENT"
+      - question: "What use of the ablative case is found in the followingsentence: <latin>Caesar nūntium magnō dolōre accēpit.</latin>"
+        answer: "MANNER"
+  - tossup:
+      question: "For the verb <latin>dormiō</latin>, give the form that means “he sleeps.”"
+      answer: "<latin>DORMIT</latin> "
+    boni:
+      - question: "Now say, “we used to sleep.”"
+        answer: "<latin>DORMIĒBĀMUS</latin> "
+      - question: "Now make <latin>dormiēbāmus</latin> pluperfect"
+        answer: "<latin>DORMĪVERĀMUS</latin> "
+  - tossup:
+      question: "What did the ships transport out of the city?"
+      answer: "WINE"
+    boni:
+      - question: "What did Aurelia and Lucia often do happily?"
+        answer: "WATCHED THE SHIPS"
+      - question: "Why did Aurelia and Lucia often watch the ships?"
+        answer: "BECAUSE THE SAILORS (SOMETIMES) GAVE THEM (SMALL) GIFTS/PRESENTS"
+  - tossup:
+      question: "Who defeated monsters that threatened Lake Stymphalus, Lerna, and Nemea as labors to atone for killing his wife and children?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What monster threatened Lerna?"
+        answer: "THE HYDRA"
+      - question: "Which of his wives did Heracles kill?"
+        answer: "MEGARA"
+  - tossup:
+      question: "Who had one of his fellow tribunes removed from office because this tribune kept vetoing his land bill that he was trying to get passed in 133 BC?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "Who was this tribune whom Gracchus had removed from office?"
+        answer: "(M.) OCTAVIUS"
+      - question: "Gracchus’s land bill created a permanent agrarian commission consisting of himself and two other men. For five points, name one of the original members of this commission"
+        answer: "GAIUS GRACCHUS / (APPIUS) CLAUDIUS PULCHER"
+  - tossup:
+      question: "Which two of the following five English words derive from the same Latin root: magistrate, remain, manual, mandatory, manner?"
+      answer: "MANUAL & MANNER"
+    boni:
+      - question: "Which two of the following five English words derive from the same Latin root: pioneer, petulant, pawn, penurious, expert?"
+        answer: "PIONEER & PAWN"
+      - question: "Which two of the following five English words derive from the same Latin root: acceptable, access, achievement, chapter, calcium?"
+        answer: "ACHIEVEMENT & CHAPTER"
+  - tossup:
+      question: "On what part of a Roman’s body would he typically wear <latin>mulleī</latin>?"
+      answer: "FOOT / FEET"
+    boni:
+      - question: "What color were <latin>mulleī</latin>?"
+        answer: "RED / PURPLE"
+      - question: "Who traditionally wore <latin>mulleī</latin>?"
+        answer: "(CURULE) MAGISTRATES / PATRICIANS"
+  - tossup:
+      question: "Translate into Latin: Marcus immediately told me the story"
+      answer: "<latin>STATIM MĀRCUS MIHI FĀBULAM NĀRRĀVIT / DĪXIT</latin>  "
+    boni:
+      - question: "Translate into Latin: There is a fire in the arena"
+        answer: "<latin>IGNIS / INCENDIUM / FLAMMA EST IN ARĒNĀ</latin>"
+      - question: "Translate into Latin: Marcus is working as quickly as possible"
+        answer: "<latin>MĀRCUS QUAM CELERRIMĒ LABŌRAT</latin> "
+  - tossup:
+      question: "What son of Glaucus defeated the Solymi, the Amazons, and the Chimaera? "
+      answer: "BELLEROPHON(TES) / HIPPONOUS"
+    boni:
+      - question: "What king had given these tasks to Bellerophon?"
+        answer: "IOBATES"
+      - question: "What mythical creature helped Bellerophon kill the Chimaera?"
+        answer: "PEGASUS"
+  - tossup:
+      question: "Though joint rule had been seen in the empire a few times before his reign, Diocletian formalized the idea when he raised what man to the rank of Augustus in 286 AD?"
+      answer: "MAXIMIAN"
+    boni:
+      - question: "Diocletian further developed what system of joint rule in 293 AD when he designated two men as junior Caesars?"
+        answer: "TETRARCHY"
+      - question: "Name one of the two men chosen by Diocletian and Maximian to serve as Caesars"
+        answer: "CONSTANTIUS I/CHLORUS // GALERIUS"
+  - tossup:
+      question: "Which of the following nouns does NOT belong for grammatical reasons: <latin>vīlla, poēta, īnsula</latin>,  <latin>lingua</latin>?"
+      answer: "<latin>POĒTA</latin> (MASCULINE)"
+    boni:
+      - question: "Which of the following nouns does NOT belong for grammatical reasons: <latin>agricola</latin>, <latin>aurīga</latin>, <latin>āthlēta</latin>, <latin>ancilla?</latin>"
+        answer: "<latin>ANCILLA</latin> (FEMININE)"
+      - question: "Which of the following verbs does NOT belong for grammatical reasons: <latin>lūdō</latin>, <latin>vincō</latin>, <latin>pugnō</latin>, <latin>relinquō</latin>?"
+        answer: "<latin>PUGNŌ</latin> (NOT 3RD CONJUGATION)"
+  - tossup:
+      question: "What king of Thebes poked out his own eyes when he discovered that he had not only brought a plague to the city by killing the previous king, his father, but had also married his mother?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who was Oedipus’ father and predecessor?"
+        answer: "LAIUS"
+      - question: "When Laius discovered from the Delphic Oracle that his son would kill his father and marry his mother, what did he do to try to prevent this?"
+        answer: "EXPOSED THE CHILD (ON MT. CITHAERON) <latin>2014 NJCL CERTAMEN NOVICE DIVISION</latin>"

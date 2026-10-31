@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What early king of Troy was given divine horses to compensate him for the abduction of his son by Zeus?"
+      answer: "TROS"
+    boni:
+      - question: "Who was Tros’ son, who was abducted by Zeus in the form of an eagle or a whirlwind?"
+        answer: "GANYMEDE"
+      - question: "What scheming Trojan surreptitiously bred his mares with the divine stallions to receive divine horses of his own?"
+        answer: "ANCHISES"
+  - tossup:
+      question: "What use of the subjunctive can be found in this Latin sentence: <latin>Tāle erat Catilīnae ingenium ut nēmō eī crēderet</latin>?"
+      answer: "RESULT CLAUSE"
+    boni:
+      - question: "What use of the subjunctive can be found in the following: <latin>Omnem pecūniam āmīsī! Quid faciam?</latin>"
+        answer: "DELIBERATIVE"
+      - question: "What use of the subjunctive can be found in this Latin sentence: <latin>Rogābisne mātrem nē tē pūniat?</latin>"
+        answer: "INDIRECT COMMAND / SUBSTANTIVE PURPOSE CLAUSE / JUSSIVE NOUN CLAUSE"
+  - tossup:
+      question: "Whose most famous feat was his rescue of the consul Minucius from almost certain death, after which he then laid down his dictatorship after only 16 days?"
+      answer: "(LUCIUS QUINCTIUS) CINCINNATUS"
+    boni:
+      - question: "On what mountain had Minucius been trapped?"
+        answer: "MT. ALGIDUS"
+      - question: "What enemy tribe had trapped him there?"
+        answer: "(THE) AEQUI"
+  - tossup:
+      question: "What derivative of the Latin verb meaning “to hang” describes the swinging lever used to regulate the speed of some clocks?"
+      answer: "PENDULUM"
+    boni:
+      - question: "What other derivative of that same Latin verb means “an apartment or dwelling on the roof of a building”?"
+        answer: "PENTHOUSE"
+      - question: "What other derivative of that same Latin verb can describe a necklace-like piece of jewelry?"
+        answer: "PENDANT"
+  - tossup:
+      question: "According to the passage, what was the direct physical result of the Greeks’ fear?"
+      answer: "THEY COULD NOT SPEAK / PRODUCE A VOICE / SOUND"
+    boni:
+      - question: "What does the ablative absolute in this passage tell us about the Greeks’ mindset?"
+        answer: "THEY HAD GIVEN UP ALL HOPE (OF SAFETY)"
+      - question: "When did the remaining Greeks expect to die?"
+        answer: "IMMEDIATELY / PRESENTLY / DIRECTLY"
+  - tossup:
+      question: "What son of Pontus and Gaia married the Oceanid Doris and fathered fifty sea-nymphs including Amphitrite, the wife of Poseidon?"
+      answer: "NEREUS"
+    boni:
+      - question: "Which daughter of Nereus was fated to bear a son who was stronger than his father and was therefore married off to the mortal Peleus?"
+        answer: "THETIS"
+      - question: "With which daughter of Nereus did the Cyclops Polyphemus fall in love?"
+        answer: "GALATEA"
+  - tossup:
+      question: "What form of the verb <latin>offerō</latin> would be required if the following English sentence were translated into Latin: “Do you know what he is offering?”"
+      answer: "<latin>OFFERAT</latin> "
+    boni:
+      - question: "What form of the Latin verb <latin>offerō</latin> would go in the green blank space?"
+        answer: "<latin>OFFERRĪ</latin> "
+      - question: "What form of the Latin verb <latin>offerō</latin> would go in the blue blank space?"
+        answer: "<latin>OBLĀTUM</latin>"
+  - tossup:
+      question: "What emperor had recently finished a campaign against the Picts in Scotland when he died at Eboracum in 306 A.D.?"
+      answer: "CONSTANTIUS I / CHLORUS"
+    boni:
+      - question: "According to the tetrarchic succession plan set up by Diocletian, who was set to succeed Constantius as <latin>Augustus</latin>?"
+        answer: "(FLAVIUS VALERIUS) SEVERUS"
+      - question: "Whom did Constantius’ troops proclaim <latin>Augustus</latin> at Eboracum?"
+        answer: "CONSTANTINE I / THE GREAT"
+  - tossup:
+      question: "Translate into English: <latin>Discipulus dīxit sē respōnsum nescīre</latin>"
+      answer: "THE STUDENT SAID HE DID NOT KNOW THE ANSWER / RESPONSE"
+    boni:
+      - question: "Translate the independent clause in the following Latin sentence into good English: <latin>Omnēs manūs altē tollendae sunt ut magister sciat quī discipulī respondēre possint.</latin>"
+        answer: "ALL HANDS MUST BE RAISED HIGH"
+      - question: "Translate the dependent clause of the sentence in the toss-up"
+        answer: "SO THE TEACHER MAY KNOW WHICH STUDENTS CAN ANSWER / RESPOND"
+  - tossup:
+      question: "Late in his reign, it is said that Augustus would wake up shouting for Quinctilius Varus to give him back his legions, referring to the 17th, 18th, and 19th legions that were lost at what battle?"
+      answer: "TEUTOBURG FOREST"
+    boni:
+      - question: "What German auxiliary commander led Varus into a trap in the Teutoburg Forest?"
+        answer: "ARMINIUS / HERMAN THE GERMAN"
+      - question: "In what year did this disastrous battle take place?"
+        answer: "9 A.D."
+  - tossup:
+      question: "Because they neglected the worship of Bacchus, whose daughters were transformed into bats?"
+      answer: "MINYAS’"
+    boni:
+      - question: "Whose daughters were turned into doves by Bacchus?"
+        answer: "ANIUS’ / DORIPPE’S"
+      - question: "What powers did the daughters of Anius possess?"
+        answer: "THEY COULD PRODUCE FOOD / WINE / GRAIN (technically oil, corn, and wine)"
+  - tossup:
+      question: "Say in Latin, “If I should sit down, I would sleep.”"
+      answer: "<latin>SĪ SEDEAM, DORMIAM</latin> "
+    boni:
+      - question: "Now, say in Latin: “If I had slept, I would have been very happy.”"
+        answer: "<latin>SĪ DORMĪVISSEM, FĒLĪCISSIMUS / -A FUISSEM</latin> "
+      - question: "Finally, say in Latin: “If I will not have had enough sleep, I will not do well tomorrow.”"
+        answer: "<latin>SĪ SATIS SOMNĪ NŌN HABUERŌ, CRĀS BENE NŌN FACIAM / AGAM</latin> (<latin>NISI</latin> IS ALSO ACCEPTABLE INSTEAD OF <latin>SĪ…NŌN</latin>) "
+  - tossup:
+      question: "Ancaeus, Eurytion, Toxeus, Plexippus, and Meleager all died because of their participation in what expedition?"
+      answer: "CALYDONIAN BOAR HUNT"
+    boni:
+      - question: "Who killed Toxeus and Plexippus in a fit of rage?"
+        answer: "MELEAGER"
+      - question: "Who accidentally killed Eurytion with a spear during the hunt?"
+        answer: "PELEUS"
+  - tossup:
+      question: "Which two of the following six English words share a Latin noun root: glacier, genuine, aggressive, enjoy, engineer, graceful?"
+      answer: "GENUINE & ENGINEER"
+    boni:
+      - question: "What Latin noun is at the root of “genuine” and “engineer”?"
+        answer: "<latin>GENUS</latin>"
+      - question: "What Latin verb is at the root of “enjoy”?"
+        answer: "<latin>GAUDEŌ</latin>"
+  - tossup:
+      question: "What was the term for a Roman boy’s guardian spirit?"
+      answer: "<latin>GENIUS</latin> / GENIUS NOT BOLD"
+    boni:
+      - question: "What was the term for a Roman girl’s guardian spirit?"
+        answer: "<latin>IŪNŌ</latin> / JUNO"
+      - question: "What Latin term was used to refer to a child before he or she was given a name at the <latin>Diēs Lūstricus</latin>?"
+        answer: "<latin>PŪPUS / PŪPA</latin> "
+  - tossup:
+      question: "What pop culture phenomenon might be described in Latin with the following sentence: <latin>Est multitūdō hominum quae subitō convenit ut simul saltent deinde celeriter disiungit.</latin>"
+      answer: "FLASH MOB"
+    boni:
+      - question: "What pop culture phenomenon might be described in Latin with the following sentence: <latin>Est carmen et saltātiō in quā hominēs equō vehī</latin> videntur."
+        answer: "GANGNAM STYLE"
+      - question: "What pop culture phenomenon might be described in Latin with the following sentence: <latin>Est carmen et saltātiō in quā homō</latin> solus <latin>saltāre</latin> coepit dum <latin>aliī</latin> sedent deinde <latin>omnēs saltāre</latin> incipiunt"
+        answer: "THE HARLEM SHAKE"
+  - tossup:
+      question: "Who, while traveling in the Underworld, rescued Theseus from the seat of forgetfulness?"
+      answer: "HERAKLES / HERCULES"
+    boni:
+      - question: "Why was Herakles in the Underworld?"
+        answer: "TO GET CERBERUS (12TH/11TH LABOR)"
+      - question: "What companion of Theseus was Herakles unable to rescue?"
+        answer: "PIRITHOÜS"
+  - tossup:
+      question: "Differentiate in meaning between the Latin nouns <latin>rēgīna</latin> and <latin>rēgia</latin>"
+      answer: "<latin>RĒGĪNA</latin> – QUEEN; <latin>RĒGIA</latin> – PALACE, COURT, CAPITAL"
+    boni:
+      - question: "Differentiate in meaning between the Latin words <latin>vēlox</latin> and <latin>vēlāmen</latin>"
+        answer: "<latin>VĒLOX</latin> – SWIFT, SPEEDY; <latin>VĒLĀMEN</latin> – COVERING; DRAPE; VEIL; ROBE"
+      - question: "Differentiate in meaning between the Latin words <latin>aquila</latin> and <latin>aquilō</latin>"
+        answer: "<latin>AQUILA</latin> – EAGLE; <latin>AQUILŌ</latin> – NORTH; THE NORTH WIND"
+  - tossup:
+      question: "Who was defeated in 148 B.C. at Pydna, thus ending his bid to reunite Macedon and succeed his supposed father, Perseus, as king?"
+      answer: "ANDRISCUS / PSEUDOPHILIPPUS"
+    boni:
+      - question: "Who defeated Andriscus?"
+        answer: "(Q. CAECILIUS) METELLUS (MACEDONICUS)"
+      - question: "What did the Romans do after Andriscus’ defeat to prevent further revolts in Macedon?"
+        answer: "ANNEXED MACEDON AS A PROVINCE"
+  - tossup:
+      question: "Give the Latin motto of the University of Nevada, Las Vegas, which translates into English as “everything for the fatherland.”"
+      answer: "<latin>OMNIA PRŌ PATRIĀ</latin> "
+    boni:
+      - question: "It’s never too early to prepare for next year’s convention! The motto of the 2014 NJCL Convention host school, Emory University, is <latin>Cor prūdentis scientiam possidēbit</latin>. Translate that motto"
+        answer: "THE WISE HEART / HEART OF A WISE MAN SEEKS / WILL SEEK / POSSESS KNOWLEDGE"
+      - question: "It is always the JCL’s hope to return every ten years to Indiana University, which is scheduled to be the site of the 2016 convention"
+        answer: "IU shares its Latin motto with Yale University. Give that motto in Latin. <latin>LUX ET VĒRITĀS</latin>   <latin>2013 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

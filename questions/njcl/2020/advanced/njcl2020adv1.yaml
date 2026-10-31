@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Which of the following would not be a suitable material to use to erect a building: <latin>laterēs, saxa, lignum, facēs, ferrum.</latin>"
+      answer: "<latin>FACĒS</latin>"
+    boni:
+      - question: "Which of those words is most similar to an <latin>acīnacēs</latin>?"
+        answer: "<latin>FERRUM</latin>"
+      - question: "Which of those words is the same material as <latin>arbos</latin>?"
+        answer: "<latin>LIGNUM</latin>"
+  - tossup:
+      question: "In Apollonius Rhodius’ <title>Argonautica</title>, what god accepts his mother’s gift of a golden ball, agreeing to make Medea fall in love with Jason by shooting her with a love-arrow?"
+      answer: "EROS"
+    boni:
+      - question: "According to the <title>Argonautica</title>, what daughter of Melisseus and sister of Ida originally made the ball as a plaything for Zeus?"
+        answer: "ADRASTE(I)A"
+      - question: "After falling in love with Jason, Medea betrayed her father by revealing how to overcome his task. Name her father, a son of Helios."
+        answer: "AEËTES"
+  - tossup:
+      question: "Which of the following, if any, is not derived from the same Latin root as the others: stanza, stance, stage, stall."
+      answer: "STALL"
+    boni:
+      - question: "Which of the following, if any, is not derived from the same Latin root as the others: supernova, novel, novelty, Villanova."
+        answer: "ALL ARE DERIVED FROM THE SAME ROOT"
+      - question: "Which of the following, if any, is not derived from the same Latin root as the others: cross, crouton, crucify, crusade, across."
+        answer: "CROUTON"
+  - tossup:
+      question: "Regulations generally prevent animal abuse in films or stage productions in the modern world, but that was not the case for the Romans. What event in ancient Rome occurred in amphitheaters and involved the hunting and killing of wild animals?"
+      answer: "<latin>VĒNĀTIŌ</latin>"
+    boni:
+      - question: "What name is given to individuals who voluntarily or involuntarily fought animals in a <latin>vēnātiō</latin>?"
+        answer: "<latin>BESTIĀRIĪ / VENATORES</latin>"
+      - question: "Gladiators, too, were sometimes forced to fight to the death for entertainment. What name is given to the feast on the eve of gladiatorial combat, held for those who would fight in the arena on the next day?"
+        answer: "<latin>CĒNA LĪBERA</latin>"
+  - tossup:
+      question: "<latin>RESPONDĒ LATĪNĒ</latin>:  <latin>Quot ōrātiōnēs habuit Cicero in Catilīnam</latin>?"
+      answer: "<latin>QUATTUOR</latin>"
+    boni:
+      - question: "<latin>Quot ōrātiōnēs scripsit Cicero in Antōnium</latin>?"
+        answer: "<latin>QUATTUORDECIM</latin>"
+      - question: "<latin>Quot ōrātiōnēs habuit Cicero Prō virīs, Rosciīs nōmine</latin>?"
+        answer: "<latin>DUĀS</latin>  <latin>--</latin>"
+  - tossup:
+      question: "That the power of the emperor resided in his command of the armies had been true since the time of Augustus, but there was always a formality of having the Senate authorize actions, such as the formal acceptance of an emperor.  This changed when what emperor had his army in Mesopotamia declare Clodius Albinus a public enemy in order to legitimize the war against him?"
+      answer: "(L.) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Septimius Severus also had the army ratify his adoption in 195 AD.  Into what family was he adopted?"
+        answer: "MARCUS AURELIUS’ / THE ANTONINES"
+      - question: "A year later in 196 AD, Septimius Severus had his army declare his son (commonly called Caracalla) as Caesar and change his name to Marcus Aurelius Antoninus.  What had his name been before?"
+        answer: "<latin>(L. SEPTIMIUS) BASSIANUS</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Sumus meditātī omnēs mātrēs scriptricēs factās esse.</latin>"
+      answer: "WE THOUGHT ALL / WE ALL THOUGHT (THAT) THE MOTHERS HAD BECOME WRITERS (accept acceptable English)"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Spērāvī iūdicem modo veritātem dictūrum esse.</latin>"
+        answer: "I HOPED (THAT) THE JUDGE / JUROR WOULD ONLY / JUST NOW SPEAK THE TRUTH"
+      - question: "Translate the following sentence into English: <latin>Loquitur magister suae fīliae sē mox electum īrī.</latin>"
+        answer: "THE TEACHER TELLS HIS DAUGHTER (THAT) HE WILL BE CHOSEN / ELECTED SOON"
+  - tossup:
+      question: "The Universities of New Mexico, North Dakota, and Washington all have mottoes that feature what third declension antonym of <latin>tenebrae</latin>?"
+      answer: "<latin>LUX</latin>"
+    boni:
+      - question: "What is the Latin and English for the motto of the University of New Mexico?"
+        answer: "<latin>LUX HOMINUM VĪTA -</latin> LIGHT THE LIFE OF MEN / MANKIND / PEOPLE"
+      - question: "Give the Latin mottoes of the Universities of North Dakota and Washington. Please specify which belongs to each university."
+        answer: "<latin>LUX ET LEX</latin> - ND and <latin>LUX SIT</latin> - WA"
+  - tossup:
+      question: "<latin>Lactea ūbertās</latin> and <latin>Patavīnitās</latin> were two terms used by critics to describe the work of what historian, who wrote a massive historical work that was 142 books long?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What nickname was jokingly used by Augustus to describe Livy’s nostalgia for republican ideals?"
+        answer: "POMPEIAN"
+      - question: "What is the Latin term for the brief summaries of individual books in Livy’s <title><latin>Ab Urbe Condita</latin></title>?"
+        answer: "<latin>PERIOCHAE</latin>"
+  - tossup:
+      question: "Who, after a stranger from Asia had miraculously freed himself from chains and set the Theban palace on fire, hid himself in a pine tree on Mount Cithaeron to spy on a group of bacchants?"
+      answer: "PENTHEUS"
+    boni:
+      - question: "Name Pentheus’ mother, one of the bacchants who revelled on Mount Cithaeron."
+        answer: "AGAVE"
+      - question: "What uncle of Pentheus succeeded him as king of Thebes?"
+        answer: "POLYDORUS  <latin>--</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow.    <latin>Prīnceps Horātius ībat, trigemina spolia prae sē gerēns; cui soror virgō, quae dēspōnsa ūnī ex Cūriātiīs fuerat, obvia ante portam Capēnam fuit, cognitōque super umerōs frātris palūdāmentō spōnsī quod ipsa cōnfēcerat, solvit crīnēs et flēbiliter nōmine spōnsum mortuum appellāvit.</latin>     REREAD  The question:  <latin>Quot spolia gerēbat Horātius?</latin>"
+      answer: "<latin>TRIA / TRIGEMINA</latin>"
+    boni:
+      - question: "<latin>Cui Horātius occurrit ante portam Capēnam?</latin>"
+        answer: "<latin>SORŌRĪ (SUAE)</latin>"
+      - question: "<latin>Cūr maerēbat soror Horātiī?</latin>"
+        answer: "<latin>DĒSPŌNSA FUERAT ŪNĪ EX CŪRIĀTIĪS/ CŪRIĀTIŌ MORTUŌ//</latin> <latin>IPSA FĒCERAT PALŪDĀMENTUM QUOD FRĀTER FERĒBAT//</latin> <latin>COGNŌVIT PALŪDĀMENTUM QUOD IPSA FĒCERAT</latin>"
+  - tossup:
+      question: "What woman refused to consummate her marriage until her husband avenged the Taphians’ murder of her brothers, a fact which Zeus took advantage of to assault her by extending the night to three times its length, impersonating her husband, Amphitryon, and fathering Heracles?"
+      answer: "ALCMENE / ALCMENA"
+    boni:
+      - question: "When Amphitryon returned to Alcmene, having avenged her brothers, he was  \tsurprised to find that she was indifferent to him. What seer explained that Zeus  \thad raped his wife?"
+        answer: "T(E)IRESIAS"
+      - question: "Some sources record that, at birth, Heracles was given what name, which referred  \tto his paternal grandfather?"
+        answer: "ALCAEÜS / ALCIDES"
+  - tossup:
+      question: "What early Latin author is famous for invoking the Muses rather than the <latin>Camēna</latin>, claiming that he is a reincarnation of Homer, and writing the first work of Latin Literature in dactylic hexameter?"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "What meter, which according to Ennius was sung by country divinities and ancient prophets in the earliest times, was used in works of Gnaeus Naevius and Livius Andronicus?"
+        answer: "SATURNIAN (VERSE / METER)"
+      - question: "Although Ennius’s most famous work in dactylic hexameter was the <title><latin>Annales</latin></title>, what other work of Ennius is the first attested work of Latin literature in dactylic hexameter?"
+        answer: "<title><latin>HEDYPHAEGETICA</latin></title>"
+  - tossup:
+      question: "Name the tribune of the plebs who came from a family of senatorial conservatives but decided to champion reformist causes during his tribunate of 91 BC and consequently introduced a bill to grant full Roman rights to the Italian allies of Rome."
+      answer: "<latin>(M.) LIVIUS DRUSUS THE YOUNGER / MINOR</latin>"
+    boni:
+      - question: "What Marsian leader started out for Rome with an armed group in support of Italian rights but decided to withdraw instead?"
+        answer: "<latin>(Q.) PO(P/M)PAEDIUS SILO</latin>"
+      - question: "What consul of that same year had Drusus’ laws declared null and void because of unconstitutional procedure?"
+        answer: "<latin>(L. MARCIUS) PHILIPPUS</latin>"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē: Quae pars corporis est posita inter oculōs?</latin>"
+      answer: "<latin>NĀSUS</latin>"
+    boni:
+      - question: "<latin>Quae pars corporis est posita inter pedem et genū?</latin>"
+        answer: "<latin>CRŪS / TIBIA / FIBULA / SURA</latin>"
+      - question: "<latin>Quae pars corporis est artus positus inter manum et umerum?</latin>"
+        answer: "<latin>CŪBITUS / CŪBITUM / BRACCHIUM / LACERTUS  --</latin>"
+  - tossup:
+      question: "In Book 14 of the <title>Odyssey</title>, an enslaved Taphian, Mesaulius, serves bread to Odysseus as he dines in the home of what man, a loyal swineherd who hosts his reunion with Telemachus?"
+      answer: "EUMAEÜS"
+    boni:
+      - question: "What goddess, who serves as Telemachus’ guide throughout the poem, directs the youth to stop at Eumaeüs’ home upon his return?"
+        answer: "ATHENA"
+      - question: "When Odysseus meets Telemachus, the hero assumes a persona, claiming that he is a visitor from what island?"
+        answer: "CRETE"
+  - tossup:
+      question: "What Latin author is said to have been a successful lawyer who defended the Jewish queen Berenice but is more well-known for being an eminent teacher of rhetoric, who educated Pliny the Younger and Tacitus and became the first state-appointed professor during the reign of Vespasian?"
+      answer: "(M. FABIUS) QUINTILIAN(US)"
+    boni:
+      - question: "What 12-book work of Quintilian, which was dedicated to Victorius Marcellus, concerned the training of an orator, technical aspects of rhetoric, and literary criticism?"
+        answer: "<title><latin>INSTITUTIO ORATORIA</latin></title>"
+      - question: "According to Quintilian, the ideal orator is a <latin>vir bonus dīcendī perītus</latin>, which is a catchphrase used by what earlier author?"
+        answer: "CATO THE ELDER / CENSOR // (MARCUS PORCIUS) CATO MAIOR"
+  - tossup:
+      question: "Translate the subordinate clause in this sentence: I had so much homework that I got up at dawn."
+      answer: "<latin>UT MANE / PRĪMĀ LŪCE</latin> <latin>SURGEREM / EXPERGĪSCERER</latin>"
+    boni:
+      - question: "Translate this sentence into Latin using a subjunctive: I fight to protect those whom I love."
+        answer: "<latin>PUGNŌ / CONTENDŌ UT (EŌS) QUŌS / (EĀS) QUĀS AMŌ / DĪLIGŌ (PRO)TEGAM / DEFENDAM/ TUEAR / CUSTODIAM / SERVEM</latin>"
+      - question: "What use of the subjunctive would be used to translate this sentence?  I’ve always wondered why people like pineapples on pizza."
+        answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "According to tradition, where did Sextus Tarquinius flee to from Rome after it became known that he raped Lucretia?"
+      answer: "<latin>GABIĪ</latin>"
+    boni:
+      - question: "Sextus was killed in Gabii.  In what city did his father and brothers find refuge?"
+        answer: "<latin>CAERE</latin>"
+      - question: "Lars Porsenna supported the return of Etruscan power in Rome, but around 506 his forces were defeated by the Latins along with help from Cumae.  Where was this battle?"
+        answer: "<latin>ARICIA  --</latin>"
+  - tossup:
+      question: "For the verb <latin>conor</latin> give both present imperative forms."
+      answer: "<latin>CONĀRE, CONĀMINI</latin>"
+    boni:
+      - question: "Give the future imperative forms of the verb <latin>conor</latin>."
+        answer: "<latin>CONĀTOR, CONANTOR</latin>"
+      - question: "Give all of the future active imperative forms of <latin>moneo</latin>."
+        answer: "<latin>MONĒTO, MONĒTŌTE, MONENTO</latin>"

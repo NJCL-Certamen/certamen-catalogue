@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What was the occupation of Machaon and Podalirius?"
+      answer: "DOCTOR / PHYSICIAN / MEDICINE"
+    boni:
+      - question: "Who was the father of both of these men?"
+        answer: "ASCLEPIUS / AESCULAPIUS"
+      - question: "What Greek warrior did either Machaon or Podalirius cure of a festering snake-bite during the Trojan War?"
+        answer: "PHILOCTETES"
+  - tossup:
+      question: "Complete this analogy: <latin>cēnō</latin> is to <latin>cēnābō</latin> as <latin>veniō</latin> is to what?"
+      answer: "<latin>VENIAM</latin>"
+    boni:
+      - question: "Change <latin>veniam</latin> to the 3rd person plural, perfect active indicative"
+        answer: "<latin>VĒNĒRUNT</latin> YOU (HAVE) CALLED"
+      - question: "Change <latin>vēnērunt</latin> to the future perfect"
+        answer: "<latin>VĒNERINT</latin> "
+  - tossup:
+      question: "What Carthaginian general, who led guerilla raids in Sicily and southern Italy near the end of the First Punic War, had his son swear everlasting enmity towards the Romans?"
+      answer: "HAMILCAR (BARCA)"
+    boni:
+      - question: "Where did Hamilcar spend a large amount of time after the First Punic War, expanding Carthaginian holdings to make up for the loss of Sicily, Sardinia, and Corsica?"
+        answer: "SPAIN / <latin>HISPĀNIA</latin>"
+      - question: "Who took over command of the Carthaginian troops in Spain upon the death of Hamilcar?"
+        answer: "HASDRUBAL (prompt on “Hamilcar’s son-in-law”)"
+  - tossup:
+      question: "What are the Latin and English for the familiar abbreviation <latin>M.D.</latin>, often seen in hospitals?"
+      answer: "<latin>MEDICĪNAE DOCTOR,</latin> DOCTOR OF MEDICINE"
+    boni:
+      - question: "Give both the abbreviation and the Latin that a doctor might use for a prescription he intended to be taken twice a day"
+        answer: "<latin>B.I.D. – BIS IN DIĒ</latin>"
+      - question: "Give both the abbreviation and the Latin that a doctor might use for a prescription that should be taken orally"
+        answer: "<latin>P.O. – PER ŌS</latin>"
+  - tossup:
+      question: "What giant guarded the island of Crete?"
+      answer: "TALUS"
+    boni:
+      - question: "Of what material was Talus made?"
+        answer: "BRONZE"
+      - question: "Who drained the life-sustaining ichor from Talus' body?"
+        answer: "MEDEA"
+  - tossup:
+      question: "Use a form of the verb <latin>sum</latin>, <latin>esse</latin> to translate this sentence: “The king does not have a kingdom.”"
+      answer: "<latin>RĒGĪ RĒGNUM NŌN EST</latin> "
+    boni:
+      - question: "What case and use is “<latin>rēgī</latin>” in that sentence?"
+        answer: "DATIVE OF POSSESSION "
+      - question: "In the sentence “The thirsty man could not drink enough water,” what case and use would be used to translate “water”?"
+        answer: "GENITIVE, PARTITIVE/OF THE WHOLE"
+  - tossup:
+      question: "Which of the following English words, if any, is not related by etymology: definition, confine, final, feign, or unfinished? "
+      answer: "FEIGN "
+    boni:
+      - question: "From what Latin noun are the others words in that list derived? "
+        answer: "<latin>FĪNIS</latin>"
+      - question: "From what Latin verb is “feign” derived?"
+        answer: "<latin>FINGŌ / FINGERE</latin>"
+  - tossup:
+      question: "<latin>Respondē Latīnē</latin>: Da mihi <latin>nōmen Latīnum</latin> huius <latin>animālis</latin>. Hoc animal semper <latin>in aquā vīvit et nātat</latin>. Numquam <latin>āēr spīrat. Quod</latin> animal est?"
+      answer: "<latin>PISCIS</latin>  (or any other non-mammalian sea creature)"
+    boni:
+      - question: "<latin>Respondē Latīnē</latin>: Hoc animal quoque <latin>in aquā vīvit</latin>, sed <latin>āēr spīrat. Quod</latin> animal est?"
+        answer: "<latin>DELPHĪNUS, BĀLAENA, PHOCA</latin>  "
+      - question: "<latin>Respondē Latīnē</latin>: Hoc animal magnum <latin>vīvit in Āfricā Asiāque, et nāsum</latin> longissimum habet. Quod animal est?"
+        answer: "<latin>ELEPHANTUS / ELEPHĀ(N)S</latin>"
+  - tossup:
+      question: "What was physically unusual about Zetes and Calais?"
+      answer: "THEY HAD WINGS / COULD FLY"
+    boni:
+      - question: "What wind carried off the nymph Oreithyia, on whom he sired the twins Zetes and Calais?"
+        answer: "BOREAS"
+      - question: "What other wind was responsible for the death of Hyacinthus?"
+        answer: "ZEPHYR(US)"
+  - tossup:
+      question: "What king of Rome killed a rival king Acron in single combat, consecrated the temple of Jupiter Feretrius, created the Senate, and instigated the rape of the Sabine women?"
+      answer: "ROMULUS"
+    boni:
+      - question: "After his victory over Acron, Romulus dedicated the spoils to Jupiter Feretrius. What was the name given to the spoils won when a commander killed an enemy commander in single combat, an honor only bestowed three times in the history of Rome?"
+        answer: "<latin>SPOLIA OPĪMA</latin> (prompt on “spoils of honor” or similar)"
+      - question: "Name Romulus’ Sabine wife"
+        answer: "HERSILIA"
+  - tossup:
+      question: "Now, please open your visuals. You are looking at a visual of provincial allegiances from 69 A.D. in which all of the provinces loyal to Vespasian have been marked in purple. What was the southernmost province loyal to Vespasian, whose capital lay in the city of Alexandria?"
+      answer: "EGYPT / <latin>AEGYPTUS</latin>"
+    boni:
+      - question: "Name one of the other purple provinces, all of which were loyal to Vespasian"
+        answer: "SYRIA, IUDEA, MOESIA, DALMATIA, PANNONIA (Student can pronounce them all in Latin, if (s)he wishes)"
+      - question: "Of the provinces Syria, Iudea, Moesia, Dalmatia, and Pannonia, in which did Vespasian crush a rebellion in 67 and 68 A.D.?"
+        answer: "JUDAEA / IUDEA"
+  - tossup:
+      question: "Give the genitive plural of <latin>rēs</latin>"
+      answer: "<latin>RĒRUM</latin>"
+    boni:
+      - question: "Give the accusative singular of <latin>vīs</latin>, meaning “force or violence.”"
+        answer: "<latin>VIM</latin>"
+      - question: "Make “<latin>vim</latin>” plural"
+        answer: "<latin>VĪRĒS / VĪRĪS</latin> "
+  - tossup:
+      question: "What woman was placed in the heavens on a chair, but sitting upside-down as further punishment for the pride that had almost cost her the life of her daughter Andromeda?"
+      answer: "CASSIOPEIA"
+    boni:
+      - question: "What god had sent the monster to kill Andromeda and had turned Cassiopeia into a constellation?"
+        answer: "POSEIDON / NEPTUNE"
+      - question: "Who was the husband of Cassiopeia?"
+        answer: "CEPHEUS"
+  - tossup:
+      question: "Who took part in a <latin>missus</latin>, where the <latin>curricula</latin> were counted with <latin>ōva et delphīnī</latin>?"
+      answer: "CHARIOTEER / <latin>AURĪGA / ĒDITOR</latin> "
+    boni:
+      - question: "What was the Latin term for the structure in the middle of the <latin>circus</latin> that divided one side from the other?"
+        answer: "<latin>SPĪNA</latin> "
+      - question: "How would a <latin>mappa</latin> be used during a chariot race?"
+        answer: "(DROPPED TO) START THE RACE"
+  - tossup:
+      question: "Quid <latin>faciēbant elephantī in silvā</latin>?"
+      answer: "<latin>ERRĀBANT / AMBULĀBANT etc.</latin>  "
+    boni:
+      - question: "<latin>Vērum an falsum, elephantī effūgērunt?</latin>"
+        answer: "<latin>VĒRUM</latin>  "
+      - question: "<latin>Quōmodo elephantī perterritī sunt?</latin>"
+        answer: "<latin>(MAGNŌ) CLĀMŌRE</latin>"
+  - tossup:
+      question: "Give all the principal parts of the Latin verb meaning “to drag.” "
+      answer: "<latin>TRAHŌ, TRAHERE, TRĀXĪ, TRACTUS/-UM</latin> "
+    boni:
+      - question: "Give all the principal parts of the Latin verb meaning “to force,” from which we derive the English word “cogent.”"
+        answer: "<latin>CŌGŌ, CŌGERE, COĒGĪ, COĀCTUS/-UM AGŌ, AGERE, ĒGĪ, ĀCTUS/-UM</latin> "
+      - question: "Give me the principal parts of the Latin verb meaning “turn,” from which we derive the English word “introverted.” "
+        answer: "<latin>(INTRŌ)VERTŌ, VERTERE, VERTĪ, VERSUS/-UM</latin>"
+  - tossup:
+      question: "Who was the daughter of the Aeolian king Thestius, the wife of Tyndareus, and the mother of two children by Zeus, who came to her as a swan?"
+      answer: "LEDA"
+    boni:
+      - question: "Name the two children of Zeus and Leda"
+        answer: "POLLUX/POLYDEUCES AND HELEN"
+      - question: "Helen, being divinely beautiful, had a correspondingly godly number of suitors. What oath did all of these suitors have to take?"
+        answer: "TO SUPPORT HER FUTURE HUSBAND / TO COME TO HER AID IF SHE WERE EVER IN TROUBLE"
+  - tossup:
+      question: "What year in the third century saw six different emperors?"
+      answer: "238 A.D."
+    boni:
+      - question: "What name was shared by three of those six emperors?"
+        answer: "GORDIAN(US)"
+      - question: "Which two emperors of 238 A.D. were chosen by the Senate to rule jointly?"
+        answer: "(MARCUS CLODIUS) PUPIENUS (MAXIMUS) & (DECIUS CAELIUS CALVINUS) BALBINUS"
+  - tossup:
+      question: "From what Latin noun do we derive “mortal”?"
+      answer: "<latin>MORS</latin>"
+    boni:
+      - question: "What English noun, also derived from <latin>mors</latin>, means “a pledge of property as a security for the repayment of debt”?"
+        answer: "MORTGAGE"
+      - question: "What Latin adjective, etymologically related to <latin>mors</latin>, means “dead”? "
+        answer: "MORTUUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Senex clāmōrēs trium iuvenum nōn amat.</latin> "
+      answer: "THE OLD MAN DOES NOT LIKE THE SHOUTS OF THE THREE YOUTHS / YOUNG MEN / YOUNGUNS"
+    boni:
+      - question: "Translate: <latin>Clāmat senex, “Tacēte aut discēdite, iuvenēs!”</latin> "
+        answer: "“BE QUIET OR LEAVE, YOUNG MEN,” SHOUTS THE OLD MAN"
+      - question: "Translate: <latin>Respondent iuvenēs, “Sī nōbīs vīnum dederis, discēdēmus.”</latin>"
+        answer: "“IF YOU (WILL HAVE) GIVE(N) US WINE, WE WILL LEAVE,” REPLY THE YOUNG MEN. <latin>2011 NJCL CERTAMEN NOVICE DIVISION FINALS</latin>"
+  - tossup:
+      question: "West Virginia, a state that borders Kentucky, has a well-known Latin motto. Give that Latin motto"
+      answer: "<latin>MONTĀNĪ SEMPER LĪBERĪ</latin>"
+    boni:
+      - question: "What does that motto mean?"
+        answer: "MOUNTAINEERS (ARE) ALWAYS FREE "
+      - question: "Another bordering state has as its Latin motto <latin>Salūs populī suprēma lēx estō.</latin> Give the meaning of that phrase as well as the state for which it is the motto."
+        answer: "MISSOURI/ THE SAFETY OF THE PEOPLE SHALL BE THE SUPREME LAW ... or LET THE SAFETY OF THE PEOPLE..."
+  - tossup:
+      question: "What English derivative of the third conjugation Latin verb for “to conquer” means “unable to be conquered or subdued”?"
+      answer: "INVINCIBLE "
+    boni:
+      - question: "What derivative of <latin>vincō</latin> is now used to mean “to make evident” or “to display as a quality or trait”?"
+        answer: "EVINCE"
+      - question: "<latin>Vincō</latin> has a first conjugation synonym which also gives us a derivative that means “unable to be conquered or subdued.” Name it"
+        answer: "INSUPERABLE"
+  - tossup:
+      question: "Of the Roman careers <latin>publicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Ego puerōs Rōmānōs, quī ā paedagōgīs ad mē ductī sunt, causās dīcere doceō.</latin>"
+      answer: "<latin>RHĒTOR</latin> "
+    boni:
+      - question: "Of the Roman careers <latin>pūblicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prō rē pūblicā labōrō</latin>, sed <latin>in meā prōvinciā nēmō mē</latin> amat <latin>quod pecūniam postulō</latin>"
+        answer: "<latin>PŪBLICĀNUS</latin> "
+      - question: "Of the Roman careers <latin>pūblicānus</latin>, <latin>medicus</latin>, <latin>mīles</latin>, <latin>rhētor</latin>, and <latin>tabernārius</latin>, which is described in this Latin sentence? <latin>Prīmā lūce vēndere incipiō, et ad multam noctem vēndō. Multa bona prō pecūniā mūtō.</latin>"
+        answer: "<latin>TABERNĀRIUS</latin> "
+  - tossup:
+      question: "Give me the nominative, genitive, and gender for the Latin noun meaning “summer.”"
+      answer: "<latin>AESTĀS, AESTĀTIS,</latin> FEMININE "
+    boni:
+      - question: "Now do the same for the 3rd declension noun meaning “winter.”"
+        answer: "<latin>HIEMS, HIEMIS,</latin> FEMININE "
+      - question: "Now do the same for the 3rd declension noun meaning “spring.”"
+        answer: "<latin>VĒR, VĒRIS,</latin> NEUTER"
+  - tossup:
+      question: "What Thracian king was fed his own son for dinner after he raped and mutilated his wife’s sister?"
+      answer: "TEREUS"
+    boni:
+      - question: "Who was this sister, an Athenian princess who eventually was transformed into a nightingale?"
+        answer: "PHILOMELA"
+      - question: "What specific act of mutilation did Tereus perform upon Philomela?"
+        answer: "DETONGUED HER"
+  - tossup:
+      question: "To whom did Augustus, when he was seriously ill in 23 B.C., hand his signet ring as a sign that he had chosen him as his successor?"
+      answer: "(MARCUS VIPSANIUS) AGRIPPA"
+    boni:
+      - question: "Who was Augustus’s named successor and son-in-law at this time, whom he passed over in favor of Agrippa?"
+        answer: "(MARCUS CLAUDIUS) MARCELLUS"
+      - question: "Augustus outlived both Agrippa and Marcellus. Marcellus died in 23 B.C. In what year did Agrippa die?"
+        answer: "12 B.C."
+  - tossup:
+      question: "For the verb <latin>pellō</latin>, give the second person plural, perfect active indicative."
+      answer: "<latin>PEPULISTIS</latin>"
+    boni:
+      - question: "Change <latin>pepulistis</latin> to the passive voice."
+        answer: "<latin>PULSĪ /-AE /-A ESTIS</latin>"
+      - question: "Translate <latin>pulsī estis</latin>."
+        answer: "YOU (ALL) HAVE BEEN PUSHED / DRIVEN AWAY"
+  - tossup:
+      question: "What ability did Periclymenus, Vertumnus, Proteus, and Achelous have in common?"
+      answer: "SHAPE-SHIFTING (or similar)"
+    boni:
+      - question: "In the <title>Odyssey</title>, how did Menelaus and three companions disguise themselves in order to trick Proteus into falling asleep in front of them so they could bind him?"
+        answer: "AS SEALS"
+      - question: "Why did Menelaus want to talk to Proteus so much?"
+        answer: "(PROTEUS’ DAUGHTER EIDOTHEA TOLD HIM THAT) PROTEUS KNEW WHAT MENELAUS HAD TO DO TO GET HOME (TO SPARTA) / TO FIND A WAY OUT OF THE DESERT"
+  - tossup:
+      question: "What priests of Mars received their name from ritual dancing?"
+      answer: "<latin>SALIĪ</latin>"
+    boni:
+      - question: "What was the Latin term for the sacred item, protected by the <latin>Saliī</latin>, that supposedly fell from the sky during the reign of Numa?"
+        answer: "<latin>ANCĪLE / ANCĪLIA</latin>"
+      - question: "What other group of <latin>Saliī</latin> were dedicated to Quirinus?"
+        answer: "<latin>SALIĪ COLLĪNĪ</latin>"
+  - tossup:
+      question: "<latin>Quandō appropinquābunt negōtia et rēs cīvīlēs?</latin>"
+      answer: "MOX  "
+    boni:
+      - question: "<latin>Quōmodo iuvenibus necesse est vītās agere?</latin>"
+        answer: "<latin>(ET) BENE ET LAETĒ</latin> (prompt on one adverb only)"
+      - question: "Now translate the last sentence of this passage into English"
+        answer: "LIVE YOUR LIVES, YOUTHS / YOUNG MEN, WHILE YOU CAN / ARE ABLE!"
+  - tossup:
+      question: "Which of the following is derived from the first conjugation verb <latin>parō</latin>? repair, repartee, partake, parcel, depart"
+      answer: "REPAIR"
+    boni:
+      - question: "From what Latin adjective is “compare” derived?"
+        answer: "<latin>PĀR</latin> (EQUAL)"
+      - question: "“Partake”, “parcel”, “depart” are all derived from what 3rd declension noun?"
+        answer: "<latin>PARS</latin> (PART)"
+  - tossup:
+      question: "A boat race, a footrace, and a wrestling match all figured in whose funeral games, held in Sicily by Aeneas and his men?"
+      answer: "ANCHISES"
+    boni:
+      - question: "What king of Eryx in Sicily had extended hospitality to the Trojans?"
+        answer: "ACESTES"
+      - question: "Despite burying his father, Aeneas was able to speak to him again in the Underworld. What woman guided Aeneas through the Underworld?"
+        answer: "(CUMAEAN) SIBYL / DEIPHOBE"
+  - tossup:
+      question: "What half-Vandal general effectively ruled the Western Roman Empire from 395 A.D. until 408 A.D., when he was beheaded on the order of the emperor?"
+      answer: "(FLAVIUS) STILICHO"
+    boni:
+      - question: "What emperor gave the order to behead Stilicho?"
+        answer: "(FLAVIUS) HONORIUS"
+      - question: "To what town in northern Italy, located on the Adriatic, had Stilicho retired before Honorius gave this order?"
+        answer: "RAVENNA"
+  - tossup:
+      question: "The animosity between what divinity and what hero resulted in the formation of the Milky Way?"
+      answer: "HERA & HERACLES"
+    boni:
+      - question: "What city was the center of the worship of Hera on the Greek mainland?"
+        answer: "ARGOS"
+      - question: "What island was the center of Hera's worship in the Aegean?"
+        answer: "SAMOS"
+  - tossup:
+      question: "Translate the following sentence into English <latin>Agricola bovēs diū quaerēbat, sed eōs nōn invēnit.</latin>"
+      answer: "THE FARMER LOOKED FOR THE OXEN/COWS/BULLS FOR A LONG TIME BUT (HE) DID NOT FIND THEM"
+    boni:
+      - question: "Translate: <latin>Ubi agricola bovēs invēnerit, eōs in agrōs dūcet</latin>."
+        answer: "WHEN THE FARMER FINDS / WILL HAVE FOUND THE OXEN/COWS/BULLS, HE WILL LEAD THEM INTO THE FIELDS"
+      - question: "Translate: <latin>Uxor agricolae clāmat</latin>, “Tuum <latin>fīlium in agrōs cum</latin> bovibus <latin>mīsī</latin>.” "
+        answer: "THE FARMER’S WIFE SHOUTS / THE WIFE SHOUTS TO THE FARMER, “I SENT YOUR SON INTO THE FIELDS WITH THE OXEN.”"
+  - tossup:
+      question: "Latin inscriptions quite often contain a large number of words. Nevertheless, students who are new to the Latin language are capable of extracting important information from an inscription without having to translate it entirely. What was the occupation of the man who erected this epitaph for his wife?"
+      answer: "ACTOR"
+    boni:
+      - question: "Please keep examining the inscription on page 1. For how many years and days did Callippus’ wife live?"
+        answer: "27 YEARS, 33 DAYS"
+      - question: "Now turn to page 2, which contains a picture whose inscription shows in just the first two lines what type of object it is. The original object would have contained much more information. What is the purpose of this inscription?"
+        answer: "(AGRICULTURAL) CALENDAR / <latin>FĀSTĪ</latin>"
+  - tossup:
+      question: "What king was warned by the Delphic oracle that Aeolus’ descendant, a man with one sandal, would one day cause his death?"
+      answer: "PELIAS"
+    boni:
+      - question: "What god’s annual festival was chosen by Jason as the occasion at which he would declare his right to the throne of Iolcus?"
+        answer: "POSEIDON’S"
+      - question: "Where had Jason been until his twenty-first year?"
+        answer: "MT. PELION / MAGNESIA (prompt on “with Chiron”)"
+  - tossup:
+      question: "Give the nominative plural form of the phrase “similar hands”"
+      answer: "<latin>MANŪS SIMILĒS</latin>"
+    boni:
+      - question: "Change <latin>manūs</latin> <latin>similēs</latin> to the superlative genitive plural"
+        answer: "<latin>MANUUM SIMILLIMĀRUM</latin> "
+      - question: "<latin>Similis</latin> is one of six adjectives that form their superlatives in the same way. Name three more"
+        answer: "<latin>DIFFICILIS (-E -</latin> DIFFICULT<latin>),</latin>  <latin>DISSIMILIS (-E -</latin> DISSIMILAR<latin>), FACILIS (-E -</latin> EASY),  <latin>GRACILIS</latin> <latin>(-E -</latin> SLENDER)<latin>, HUMILIS (-E</latin> - HUMBLE<latin>)</latin>"
+  - tossup:
+      question: "<latin>Respondē Anglicē</latin>: Quattuor <latin>animālia in eōdem agrō</latin> erant: <latin>leō</latin>, ovis, <latin>testūdō</latin>, lepus. Quod animal ovem <latin>cōnsūmet</latin>?"
+      answer: "THE LION"
+    boni:
+      - question: "<latin>Respondē Anglicē: Quod animal celerrimē currit: ovis, testūdō, lepus?</latin>"
+        answer: "HARE / THE LITTLE FURRY BUNNY WABBIT"
+      - question: "<latin>Respondē Anglicē: In fābulā Aesōpī dē</latin> lepore <latin>testūdineque, quod</latin> animal hoc <latin>certāmen</latin> vincit?"
+        answer: "TORTOISE / TURTLE"
+  - tossup:
+      question: "Postumius Albinus, Caecilius Metellus, and Gaius Marius were all sent to deal with what foreign enemy of Rome?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "What lieutenant of Marius orchestrated the capture of Jugurtha in 106 B.C.?"
+        answer: "(LUCIUS CORNELIUS) SULLA (FELIX)"
+      - question: "What Numidian chieftain, a father-in-law of Jugurtha, facilitated the capture?"
+        answer: "BOCCHUS"

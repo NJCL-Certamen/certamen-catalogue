@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Into what were the grieving sisters of Phaëthon transformed?"
+      answer: "POPLAR (TREE)S"
+    boni:
+      - question: "Into what were their tears transformed?"
+        answer: "AMBER"
+      - question: "Into what was Phaethon’s friend Cygnus transformed?"
+        answer: "SWAN"
+  - tossup:
+      question: "Make the adjective <latin>frūgī</latin> Accusative plural."
+      answer: "<latin>FRŪGĪ</latin> (It is indeclinable.)"
+    boni:
+      - question: "Make the phrase <latin>frūgī calcar</latin> comparative plural."
+        answer: "<latin>FRŪGĀLIŌRA CALCĀRIA</latin>"
+      - question: "Make that phrase superlative."
+        answer: "<latin>FRŪGĀLISSIMA CALCĀRIA</latin>"
+  - tossup:
+      question: "What Latin adjective, with what meaning, is the ultimate root of the English word \"exasperate\"?"
+      answer: "<latin>ASPER (-A-UM)</latin> - HARSH/ROUGH/VIOLENT"
+    boni:
+      - question: "What Latin verb, with what meaning, is the ultimate root of the English word \"author\"?"
+        answer: "<latin>AUGEŌ / AUGĒRE</latin> - INCREASE"
+      - question: "What Latin verb, with what meaning, is the ultimate root of the English word \"decide\"?"
+        answer: "<latin>CAEDŌ / CAEDERE</latin> - CUT/KILL"
+  - tossup:
+      question: "What fifteen-book narrative poem on the history of the Roman people from the fall of Troy to the capture of Ambracia and triumph of Fulvius was an attempt by the author to outdo the <title><latin>Bellum Poenicum</latin></title> by using less archaic vocabulary and replacing Saturnian verse with dactylic hexameter?"
+      answer: "<title><latin>(LIBRĪ) ANNĀLĒS</latin></title>"
+    boni:
+      - question: "While the <title><latin>Annālēs</latin></title> by Ennius was originally fifteen books, he later decided to add how many more books featuring the deeds of lesser-known officers in the wars against the Istrians, Ligurians, and other minor tribes?"
+        answer: "THREE"
+      - question: "While Ennius strayed from Naevius’ writing style for epic poetry, he followed his predecessor’s innovation when he wrote the <title><latin>Ambracia</latin></title>. What is the Latin term for this style of Roman tragedy?"
+        answer: "<latin>FĀBULA(E) PRAETEXTA(E)</latin>"
+  - tossup:
+      question: "What emperor, in an effort to relieve financial problems caused by raising soldiers’ pay, increased the taxable population through an edict known as the <latin>Cōnstitūtiō Antonīniāna</latin>?"
+      answer: "CARACALLA / (M.) AURELIUS ANTONINUS (“MARCUS AURELIUS” IS WRONG)"
+    boni:
+      - question: "Caracalla had demanded to marry the daughter of what Parthian king?"
+        answer: "ARTABANUS (V)"
+      - question: "Near what city was Caracalla assassinated?"
+        answer: "CARRHAE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Corvus nōs monet nē silvam intrēmus.</latin>"
+      answer: "THE RAVEN IS WARNING US NOT TO ENTER THE FOREST"
+    boni:
+      - question: "Translate this sentence: <latin>Sī silvam intrēmus, moriāmur.</latin>"
+        answer: "IF WE SHOULD ENTER THE FOREST, WE WOULD DIE."
+      - question: "Translate this sentence: <latin>Corvō monente, silva nōbīs semper timenda est.</latin>"
+        answer: "WITH THE RAVEN WARNING / WHEN A RAVEN WARNS, WE ALWAYS SHOULD FEAR THE FOREST."
+  - tossup:
+      question: "Which of Cadmus’ grandsons succeeded him as king of Thebes but died young because of his opposition to his cousin, Dionysus?"
+      answer: "PENTHEUS"
+    boni:
+      - question: "Who was Pentheus’ mother, who helped tear him apart and brought his head down the mountain to show the townspeople of Thebes?"
+        answer: "AGAVE"
+      - question: "What young son of Cadmus succeeded Pentheus, though the real power lay with his father-in-law, Nycteus?"
+        answer: "POLYDORUS"
+  - tossup:
+      question: "What Latin elegist, declaring himself to be the “Roman Callimachus,” wrote four books of elegies in which the attention of his romantic affection is Cynthia?"
+      answer: "(SEX.) PROPERTIUS"
+    boni:
+      - question: "According to Apuleius, what was the real name of Cynthia?"
+        answer: "HOSTIA"
+      - question: "About what work did Propertius say, “<title><latin>nesciō quid māius nāscitur Īliade</latin></title>”?"
+        answer: "<title>AENEID</title>"
+  - tossup:
+      question: "During the reign of Tiberius, what Numidian chieftain revolted against Rome?"
+      answer: "TACFARINAS"
+    boni:
+      - question: "What legate all but trapped Tacfarinas in a network of small field fortifications but was recalled  \tbefore final victory?"
+        answer: "(QUINTUS) IUNIUS BLAESUS"
+      - question: "What legate is credited with ending the war against Tacfarinas in 24 AD?"
+        answer: "(PUBLIUS CORNELIUS) DOLABELLA"
+  - tossup:
+      question: "What do the verbs <latin>pellō, poscō, spondeō,</latin> and <latin>dō</latin> have in common with respect to their 3rd principal parts?"
+      answer: "REDUPLICATIVE"
+    boni:
+      - question: "What do all of the following verbs have in common with respect to case usage: <latin>egeō, careō, vescor</latin>?"
+        answer: "TAKE THE ABLATIVE"
+      - question: "What irregularity do all of the following verbs have in common: <latin>secō, sonō, micō?</latin>"
+        answer: "IRREGULAR PERFECT (3rd PP) /ALL GO -<emphasis>UĪ</emphasis>"
+  - tossup:
+      question: "Make the phrase <latin>īdem ferōx exercitus</latin> Genitive plural."
+      answer: "<latin>EŌRUNDEM FERŌCIUM EXERCITUUM</latin>"
+    boni:
+      - question: "Make that phrase Accusative singular."
+        answer: "<latin>EUNDEM FERŌCEM EXERCITUM</latin>"
+      - question: "Make that phrase Dative."
+        answer: "<latin>EĪDEM FERŌCĪ EXERCITUĪ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer the question that follows in LATIN. <latin>Athēniēnsēs, cum tot cīvitātēs dēfēcissent, tamen immōtam cōnstantiam praestābant. Quī quamquam ipsī duās totīus classis partēs praebēbant, libenter Lacedaemōniīs summam potestātem non sōlum terrā sed etiam marī permīsērunt.</latin> Question<latin>: Quī potestātem ab Athēniēnsibus recēpērunt?</latin>"
+      answer: "<latin>LACEDAEMŌNIĪ</latin>"
+    boni:
+      - question: "<latin>Quibus in locīs Lacedaemōniī hāc potestāte ūtī potuērunt.</latin>"
+        answer: "<latin>NŌN SŌLUM TERRĀ SED ETIAM MARĪ</latin> <latin>orTERRĀ ET MARĪ or TERRĀ MARĪQUE</latin>"
+      - question: "<latin>Cūr ēvēnit ut Athēniēnsibus tanta potestās trādenda esset?</latin>"
+        answer: "<latin>TOT / MULTAE CĪVITĀTĒS DĒFĒCERANT / DĒFĒCĒRUNT</latin>"
+  - tossup:
+      question: "What is the modern name of the Roman city of Olisipo?"
+      answer: "LISBON"
+    boni:
+      - question: "Give the letter that corresponds with the modern country where you would find the Roman city of Arretium."
+        answer: "C"
+      - question: "Give the letter that corresponds with the modern country where you would find the Roman city of Tarsus."
+        answer: "D"
+  - tossup:
+      question: "What literary device other than assonance, consonance, and alliteration can be found in the following lines from Vergil’s <title>Aeneid</title>? <latin>Illī indignantēs magnō cum murmure montis circum claustra fremunt</latin>. (Book I.55-56)"
+      answer: "ONOMATOPOIEA"
+    boni:
+      - question: "What literary device other than assonance, consonance, and alliteration can be found in the following adapted from Vergil’s <title>Aeneid</title>? <latin>pater omnipotēns mōlemque et montēs īnsuper altōs imposuit</latin>. (Book I.60-62)"
+        answer: "HENDIADYS"
+      - question: "What literary device other than assonance, consonance, and alliteration can be found in the following lines from Vergil’s <title>Aeneid</title>? <latin>ūnā Eurusque Notusque ruunt crēberque procellīs Āfricus</latin>. (Book I.85-86)"
+        answer: "POLYSYNDETON"
+  - tossup:
+      question: "Give the two distinct genitive singular forms and meanings for the Nominative form <latin>frōns</latin>. \t\t\t(<latin>FRŌNS,) FRŌNDIS</latin> (f.) – (OF) LEAF / FOLIAGE"
+      answer: "<latin>(FRŌNS,) FRŌNTIS</latin> (f.) – (OF) FRONT / FOREHEAD / BROW"
+    boni:
+      - question: "Distinguish in meaning between <latin>geminus</latin> and <latin>gemitus</latin>."
+        answer: "<latin>GEMINUS</latin> – TWIN <latin>GEMITUS</latin> – GROAN / SIGH / COMPLAINT / PAIN"
+      - question: "Distinguish in meaning between <latin>vellus</latin> and <latin>vēlum</latin>."
+        answer: "<latin>VELLUS</latin> – WOOL / FLEECE <latin>VĒLUM</latin> – AWNING / CLOTH / COVERING / CURTAIN / SAIL / VEIL"
+  - tossup:
+      question: "Who was not allowed to sail on the Argo as it would have caused dissension among the crew but was allowed into the Calydonian Boar hunt and was the first to wound the boar?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Who was Atalanta’s father?"
+        answer: "IASUS / SCHOENEUS / MAENALUS"
+      - question: "What animal suckled Atalanta when her father exposed her in a forest as a child?"
+        answer: "(SHE-)BEAR"
+  - tossup:
+      question: "At what battle in 206 BC, did Scipio, the future Africanus, overwhelmingly defeat Carthaginian  \tforces in Spain?"
+      answer: "ILIPA"
+    boni:
+      - question: "What two Carthaginian leaders were defeated at Ilipa by Scipio, the future Africanus?"
+        answer: "MAGO AND HASDRUBAL GISGO / GISCO"
+      - question: "What Spanish city was captured by Scipio three years prior to the Battle of Ilipa with the aid of low tides resulting from an eclipse?"
+        answer: "NEW CARTHAGE / CARTHAGO NOVA"
+  - tossup:
+      question: "Translate the following sentence into Latin: If only we had waited!"
+      answer: "<latin>UTINAM / Ō SĪ (NŌS) MĀNSISSĒMUS</latin>"
+    boni:
+      - question: "Say in Latin: Let us respond as quickly as possible!"
+        answer: "<latin>RESPONDEĀMUS QUAM CELERRIMĒ!</latin>"
+      - question: "With three words, say in Latin: What should we say to the moderator?"
+        answer: "<latin>QUID MODERĀTŌRĪ DĪCĀMUS / LOQUĀMUR?</latin>"
+  - tossup:
+      question: "What sister of Meleager and wife of Heracles caused Heracles’ death?"
+      answer: "DEIANEIRA"
+    boni:
+      - question: "Who had given Deianeira what he called a “love potion” that she put on a robe that poisoned Heracles?"
+        answer: "NESSUS"
+      - question: "Deianeira used the “love potion” because she was jealous of Heracles’ affection for what princess?"
+        answer: "IOLE"
+  - tossup:
+      question: "What Latin poet socialized among those whom Cicero called “<latin>dēlicāta iuventūs</latin>,” rejecting the ideals of early Rome and embracing instead Hellenistic Greek culture, which thus influenced his writing style and even his content, since in these circles he found the subject of his love poetry, Lesbia?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "According to the later author Apuleius, Lesbia was actually a pseudonym for what noteworthy woman?"
+        answer: "CLODIA"
+      - question: "At the encouragement of his politically active friend Gaius Licinius Calvus, Catullus involved himself in a literary campaign attempting to smear the image of what successful general and politician?"
+        answer: "(C. JULIUS) CAESAR"

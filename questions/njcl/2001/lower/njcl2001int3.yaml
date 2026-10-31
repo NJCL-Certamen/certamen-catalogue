@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Give the nominative plural masculine of the present participle of the verb <latin>accipiō</latin>"
+      answer: "<latin>ACCIPIENTĒS</latin>"
+    boni:
+      - question: " Change <latin>accipientēs</latin> to perfect passive"
+        answer: "<latin>ACCEPTĪ</latin>"
+      - question: "Change <latin>acceptī</latin> to the future"
+        answer: "<latin>ACCIPIENDĪ</latin>"
+  - tossup:
+      question: "Who was sent with a new army in 198 B"
+      answer: "C."
+    boni:
+      - question: "to take over the war against Philip V of Macedonia?"
+        answer: "(TITUS QUINCTIUS) FLAMININUS"
+      - question: "At what battle in Thessaly did Flamininus defeat Philip and destroy his army?"
+        answer: "CYNOSCEPHALAE"
+      - question: "At what event did Flamininus proclaim the freedom and independence of Greece?"
+        answer: "ISTHMIAN GAMES (AT CORINTH)"
+  - tossup:
+      question: "What derivative of the Latin verb <latin>cumbō</latin>, <latin>cumbere</latin> means “to give up or yield?”"
+      answer: "SUCCUMB"
+    boni:
+      - question: "means “currently holding a specified office?”"
+        answer: "INCUMBENT"
+      - question: "means “lying down; reclining?”"
+        answer: "RECUMBENT"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “vēnī, vīdī, vīcī”. Quae pars ōrātiōnis est “vēnī”?</latin>"
+      answer: "VERBUM"
+    boni:
+      - question: "“Vīcī”, dīc persōnam tertiam singulārem"
+        answer: "VĪCIT"
+      - question: "“Vīdī”, cuius coniūgātiōnis est?"
+        answer: "SECUNDAE"
+  - tossup:
+      question: "Translate the following sentence into Latin using a subjunctive purpose clause: I have come to see him"
+      answer: "<latin>VĒNĪ</latin> <latin>UT EUM / HUNC / ILLUM VIDĒREM</latin> / <latin>VIDEAM</latin>"
+    boni:
+      - question: "Translate it again using a genitive gerundive"
+        answer: "<latin>VĒNĪ</latin> <latin>EIUS / HUIUS / ILLĪUS VIDENDĪ</latin> <latin>CAUSĀ</latin> / <latin>GRĀTIĀ</latin>"
+      - question: "Translate it again using a supine"
+        answer: "<latin>VĒNĪ</latin> <latin>EUM / HUNC / ILLUM VĪSUM</latin>"
+  - tossup:
+      question: "Who told Althaea that her son would die when the log which was then on the fire was reduced to ashes?"
+      answer: "THE FATES (specifically ATROPOS)"
+    boni:
+      - question: "Who was Meleager's father?"
+        answer: "OENEUS"
+      - question: "What adventure did Meleager join at such a young age that his father sent along a guardian?"
+        answer: "ARGONAUTS' FLEECE SEARCH"
+  - tossup:
+      question: "Who was the emperor in the West while his brother Arcadius was the emperor in the East?"
+      answer: "HONORIUS"
+    boni:
+      - question: "Who was the father of Arcadius and Honorius who had divided the empire between them?"
+        answer: "THEODOSIUS (I or MAGNUS)"
+      - question: "What order had Theodosius issued concerning pagan temples?"
+        answer: "ALL MUST BE CLOSED"
+  - tossup:
+      question: "What form of the adjective <latin>pār</latin> agrees with the noun form <latin>cōpiam</latin>?"
+      answer: "<latin>PAREM</latin>"
+    boni:
+      - question: "What form of the adjective <latin>pār</latin> agrees with the noun form <latin>itinere</latin>?"
+        answer: "<latin>PARĪ</latin>"
+      - question: "What form of the adjective <latin>pār</latin> agrees with the noun form <latin>genera</latin>?"
+        answer: "<latin>PARIA</latin>"
+  - tossup:
+      question: "Give a Latin synonym for the verb <latin>edō</latin>"
+      answer: "<latin>COMEDŌ</latin>, <latin>MANDŪCŌ</latin>, <latin>VESCOR</latin>, <latin>(DĒ)VORŌ</latin>, <latin>CĒNŌ, CŌNSŪMŌ</latin>"
+    boni:
+      - question: "for the verb <latin>trādō</latin>"
+        answer: "<latin>DŌ</latin>, <latin>DŌNŌ</latin>, <latin>TRIBUŌ</latin>, <latin>CĒDŌ</latin>"
+      - question: "for the verb <latin>nōminō</latin>"
+        answer: "<latin>APPELLŌ</latin>, <latin>DĪCŌ</latin>, <latin>NUNCUPŌ, VOCŌ</latin>"
+  - tossup:
+      question: "Who was the father of Aeneas?"
+      answer: "ANCHISES "
+    boni:
+      - question: "Which letter on this map represents the location where Anchises’ funeral games were celebrated?"
+        answer: "C"
+      - question: "Whom did Aeneas consult at the location marked with the letter “A”?"
+        answer: "DEIPHOBE / <emphasis>CUMAEAN</emphasis> SIBYL / <emphasis>CUMAEAN</emphasis> PRIESTESS"
+  - tossup:
+      question: "What Latin maxim and state motto is equivalent in meaning to “While there’s life, there’s hope?”"
+      answer: "<latin>DUM SPĪRŌ, SPĒRŌ</latin>"
+    boni:
+      - question: "What Latin maxim is equivalent in meaning to “I’ll scratch your back if you scratch mine?”"
+        answer: "<latin>MANUS MANUM LAVAT / QUID PRŌ</latin> <latin>QUŌ</latin>"
+      - question: "What Latin maxim is equivalent in meaning to “there’s no accounting for taste?”"
+        answer: "<latin>DĒ</latin> <latin>GUSTIBUS NŌN (EST) DISPUTANDUM</latin>"
+  - tossup:
+      question: "What Latin word or words would be required to introduce the dependent subjunctive clause in the following sentence: Caesar ordered his men not to pitch camp"
+      answer: "<latin>NĒ</latin>"
+    boni:
+      - question: "“It happened that the men were not armed.”?"
+        answer: "<latin>UT (NŌN)</latin>"
+      - question: "Explain why no Latin word is used to introduce the dependent clause in this sentence: “Caesar does not think that he will win the war.”"
+        answer: "IT IS AN INDIRECT STATEMENT / INDIRECT DISCOURSE /"
+  - tossup:
+      question: "What son of the Titan Iapetus was the father of Calypso?"
+      answer: "ATLAS"
+    boni:
+      - question: "What son of the Titan Hyperion was the father of Circe?"
+        answer: "HELIUS"
+      - question: "What son of the Titan Cronus was the father of Polyphemus?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "Who built a double-ring wall around Numantia in order to starve the town into unconditional surrender in 133 B. C.?"
+      answer: "(P. CORNELIUS) <emphasis>SCIPIO AEMILIANUS</emphasis> / <emphasis>AFRICANUS MINOR</emphasis>"
+    boni:
+      - question: "(If “Scipio Africanus” is given, do not prompt and count it as wrong) Name Aemilianus’ cousin who as a tribune was proposing land reform back home in Rome"
+        answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+      - question: "In what campaign had Tiberius served in Aemilianus’ army?"
+        answer: "SIEGE OF CARTHAGE"
+  - tossup:
+      question: "What structure in Rome could hold approximately 250,000 people?"
+      answer: "<latin>CIRCUS MAXIMUS</latin>"
+    boni:
+      - question: "Where was the box for the giver of the games located?"
+        answer: "OVER THE <latin>PORTA POMPA</latin>"
+      - question: "or OVER THE <latin>CARCERES</latin> / STARTING GATES Who sat in a special box known as the <latin>pulvinar</latin>?"
+        answer: "EMPEROR (& FAMILY)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Quīdam faber Graecus, vir summō</latin> <latin>ingeniō, multās ūtilēs rēs fabricāvit. Sed iuvenis, quia ab illō</latin> <latin>fabrō</latin> <latin>docēbātur, celeriter suum magistrum arte</latin>  <latin>superābat. Cum faber esset invidiae plēnus, iuvenem ex altā</latin> <latin>rūpe dēmīsit. Deinde cīvēs Graecī, valdē</latin> <latin>īrātī, fabrum ad mortem condemnāvērunt.</latin>  <latin>Cūr iuvenis celeriter magistrum arte superābat?</latin> "
+      answer: "<latin>(QUIA / QUOD) Ā</latin> <latin>FABRŌ</latin> <latin>/ MAGISTRŌ</latin> <latin>(SUŌ</latin> <latin>/ ILLŌ) DOCĒBĀTUR Ā</latin>"
+    boni:
+      - question: "<latin>quō</latin> <latin>iuvenis necātus est?</latin>"
+        answer: "Ā <latin>FABRŌ</latin> <latin>/</latin> Ā <latin>MAGISTRŌ</latin>"
+      - question: "<latin>Certiōrēs factī</latin> <latin>dē</latin> <latin>morte iuvenis, quid fēcērunt cīvēs?</latin> "
+        answer: "<latin>EUM / FABRUM AD MORTEM CONDEMNĀVĒRUNT</latin>"
+  - tossup:
+      question: "What do all of the following verbs have in common: <latin>fīdō</latin>, <latin>soleō</latin>, <latin>gaudeō</latin>, <latin>audeō</latin>?"
+      answer: "SEMI-DEPONENT"
+    boni:
+      - question: "<latin>scīscō</latin>, <latin>calēscō</latin>, <latin>īrāscor</latin>, <latin>iuvenēscō</latin>?"
+        answer: "INCHOATIVE / INCEPTIVE"
+      - question: "<latin>vēnditō</latin>, <latin>capessō</latin>, <latin>volitō</latin>, <latin>iactō</latin>?"
+        answer: "ITERATIVE / INTENSIVE / FREQUENTATIVE"
+  - tossup:
+      question: "Which emperor’s unofficial advisors in his rise to power were Asinius Pollio, Messalla Corvinus, Gaius Maecenas, and Marcus Agrippa?"
+      answer: "AUGUSTUS’"
+    boni:
+      - question: "To which of these men did the seriously ill Augustus pass his signet ring in 23 BC?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "Which two emperors were descendants of Agrippa and Augustus’s daughter Julia?"
+        answer: "GAIUS / CALIGULA & NERO"
+  - tossup:
+      question: "What do Megara, Deianeira and Hebe have in common?"
+      answer: "WIVES OF HERACLES/HERCULES"
+    boni:
+      - question: "How did Megara die?"
+        answer: "HERACLES KILLED HER"
+      - question: "How did Deianeira die?"
+        answer: "SUICIDE"
+  - tossup:
+      question: "Who convinced Semele to ask to see Zeus in his full glory?"
+      answer: "HERA"
+    boni:
+      - question: "In what disguise did Hera cleverly appear to Semele to do this?"
+        answer: "SEMELE'S NURSE / BEROE"
+      - question: "Who rescued the 6-month-old fetus from Semele's womb and sewed it into Zeus' thigh?"
+        answer: "ZEUS / HERMES"

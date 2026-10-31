@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What emperor established the priestly college of <latin>Flāviālēs</latin> to perpetuate the worship of his deified father and brother?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "What title, used unofficially but publicly of Domitian by officers of the imperial household, clearly reflected Domitian’s autocratic tendencies?"
+        answer: "<latin>DOMINUS ET DEUS</latin>"
+      - question: "What temple, destroyed in the fire of 80 AD, did Domitian rebuild?"
+        answer: "JUPITER CAPITOLINUS / JUPITER OPTIMUS MAXIMUS"
+  - tossup:
+      question: "How many tenses of the infinitive exist in Latin?"
+      answer: "THREE"
+    boni:
+      - question: "How many tenses of participles exist in Latin?"
+        answer: "THREE"
+      - question: "How many passive participles are there for a regular Latin verb?"
+        answer: "TWO"
+  - tossup:
+      question: "With whom did Odysseus spend a year of his life while on his journey home from the Trojan War?"
+      answer: "CIRCE"
+    boni:
+      - question: "On what island did Circe live?"
+        answer: "AEAEA"
+      - question: "What herb prevented Circe from turning Odysseus into a swine along with the rest of his crew?"
+        answer: "MOLY"
+  - tossup:
+      question: "What derivative of a second declension noun meaning “carriage” or “wagon” means “one who builds or repairs wooden structures”?"
+      answer: "CARPENTER"
+    boni:
+      - question: "What derivative of a second declension noun means “word for word”?"
+        answer: "VERBATIM"
+      - question: "What derivative of that same declension neuter noun means “a maxim or adage”?"
+        answer: "PROVERB"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quot sunt sēdecim et duo?</latin>"
+      answer: "DUODĒVĪGINTĪ"
+    boni:
+      - question: "<latin>Quot sunt quīnquāgintā et quīnquāgintā?</latin>"
+        answer: "CENTUM"
+      - question: "<latin>Quot sunt mille passūs et mille passūs?</latin>"
+        answer: "DUO MĪLIA PASSUUM"
+  - tossup:
+      question: "Who, in an attempt to destroy the fleet of Aeneas at Juno’s request, unleashes the power of the winds?"
+      answer: "AEOLUS"
+    boni:
+      - question: "According to Vergil, how does Juno persuade Aeolus to do her bidding?"
+        answer: "BRIBED HIM WITH ONE OF HER NYMPHS (NAMED DEIOPEIA)"
+      - question: "Who, angry that Aeolus overstepped his bounds, calms the sea and saves Aeneas?"
+        answer: "NEPTUNE"
+  - tossup:
+      question: "What phrase, commonly inscribed at the entrance of Roman homes, instructed passers-by to “beware of the dog”?"
+      answer: "<latin>CAVĒ CANEM</latin>"
+    boni:
+      - question: "What modern Latin phrase instructs buyers to beware?"
+        answer: "<latin>CAVEAT ĒMPTOR</latin>"
+      - question: "What Latin phrase is the reverse of “<latin>caveat ēmptor</latin>” instructing the seller to beware?"
+        answer: "<latin>CAVEAT VĒNDITOR</latin>"
+  - tossup:
+      question: "According to Hesiod, what was the nothingness out of which the first objects of existence appeared?"
+      answer: "CHAOS"
+    boni:
+      - question: "Name two of the children of Chaos, according to Hesiod."
+        answer: "see below for answers"
+      - question: "For five more points, name two more"
+        answer: "GAIA/GE // TARTARUS // NYX // EREBUS // EROS"
+  - tossup:
+      question: "What Roman <latin>praenōmen</latin> was abbreviated “A.”?"
+      answer: "<latin>AULUS</latin>"
+    boni:
+      - question: "What Roman <latin>praenōmen</latin> was abbreviated “S.”?"
+        answer: "<latin>SPURIUS / SEXTUS</latin>"
+      - question: "What Roman <latin>praenōmen</latin> was abbreviated “K.”?"
+        answer: "<latin>KAESŌ</latin>"
+  - tossup:
+      question: "Give a synonym for the Latin noun <latin>stella</latin>"
+      answer: "<latin>SĪDUS / SIGNUM / ASTRUM / LUMEN</latin>"
+    boni:
+      - question: "adverb <latin>rūrsus</latin>"
+        answer: "<latin>ITERUM / DĒNUŌ / RŪRSUM</latin>"
+      - question: "noun <latin>statua</latin>"
+        answer: "<latin>SIMULĀCRUM / SIGNUM / EFFIGIĒS / IMĀGŌ / AES</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage about Hannibal, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Proeliō factō, Hannibal Rōmam profectus est, nūllō resistente. Urbem nōn oppugnāvit, sed in propinquīs montibus morātus est. Ergo, ūnus ex mīlitibus eius dīxit Hannibalem stultum esse.</latin> Question: What did one of the soldiers say?"
+      answer: "THAT HANNIBAL WAS / IS STUPID"
+    boni:
+      - question: "Why did the soldier say this?"
+        answer: "HANNIBAL DIDN’T ATTACK ROME / HE DELAYED IN THE MOUNTAINS NEAR ROME"
+      - question: "This passage contains two Ablative Absolutes. Translate both of them"
+        answer: "AFTER THE BATTLE WAS DONE / WHEN THE BATTLE WAS OVER & WITH NO ONE / MAN RESISTING / WITH NOBODY PUTTING UP RESISTANCE"
+  - tossup:
+      question: "For a Latin lover, the aisles of any store provide countless opportunities to indulge oneself in the finest of advertising slogans. For example, did you know that Air Heads are “out of control”? From what Latin preposition with what meaning does the word “control” derive?"
+      answer: "<latin>CONTRĀ</latin> - AGAINST"
+    boni:
+      - question: "Potato Crisps claim to be “revolutionary”. From what Latin verb with what meaning does “revolutionary” derive?"
+        answer: "<latin>VOLVŌ, -ERE</latin> – TURN, ROLL, WIND, TWIST"
+      - question: "Kettle Chips claim to be a “natural obsession”. You will, of course, instantly recognize that both “natural” and “obsession” derive from different Latin verbs. Name those two Latin verbs"
+        answer: "<latin>NĀSCOR</latin> & <latin>OBSIDEŌ, -ĒRE / SEDEŌ, -ĒRE</latin>"
+  - tossup:
+      question: "What is the modern name for the ancient city of Mediolanum?"
+      answer: "MILAN"
+    boni:
+      - question: "What is the modern name for the ancient city of Lugdunum?"
+        answer: "LYON(S)"
+      - question: "What is the modern name for the ancient city of Vindobona?"
+        answer: "VIENNA"
+  - tossup:
+      question: "What Roman hero, after he declared that he was one of three hundred men who were willing to sacrifice their lives for the welfare of Rome, maimed his right hand by thrusting it into fire?"
+      answer: "(C.) MUCIUS / SCAEVOLA"
+    boni:
+      - question: "To whom did Mucius Scaevola demonstrate his bravery?"
+        answer: "(LARS) PORSENNA"
+      - question: "What happened to Mucius Scaevola after he burned his hand in the fire?"
+        answer: "PORSENNA FREED HIM"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>sex ē fēminīs in urbe habitābant</latin>"
+      answer: "SIX <emphasis>OF THE</emphasis> WOMEN LIVED/RESIDED / WERE LIVING/RESIDING IN THE CITY"
+    boni:
+      - question: "Now translate: <latin>nautae in marī ignōtō nāvigāverint</latin>"
+        answer: "THE SAILORS WILL HAVE SAILED ON AN UNKNOWN SEA"
+      - question: "Now translate: <latin>Rēgīna multa genera animālium in aulā habuit</latin>"
+        answer: "THE QUEEN HAD MANY KINDS OF ANIMALS IN THE PALACE / HALL"
+  - tossup:
+      question: "Who, despite the fact that he deplored his brother’s seduction of Helen, continued to lead the Trojan army against the Greeks until he was killed by Achilles?"
+      answer: "HECTOR"
+    boni:
+      - question: "This visual depicts a very poignant scene from Book 6 of Homer’s <title>Iliad</title>. Please identify “This Lady”"
+        answer: "ANDROMACHE"
+      - question: "Please identify “This Child”"
+        answer: "ASTYANAX / SCAMANDRIUS"
+  - tossup:
+      question: "Using <latin>iubeō</latin>, translate the following sentence into Latin: He is ordering the birds to fly"
+      answer: "<latin>IUBET AVĒS VOLĀRE</latin>"
+    boni:
+      - question: "Again, using <latin>iubeō</latin>, translate: The soldiers were ordered to flee"
+        answer: "<latin>MĪLITĒS FUGERE IUSSĪ SUNT / IUBĒBANTUR</latin>"
+      - question: "Again, using <latin>iubeō</latin>, translate: We will have ordered the boys to be quiet"
+        answer: "<latin>IUSSERIMUS PUERŌS TACĒRE / SILĒRE / TACITŌS / SILENTĒS ESSE</latin>"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence<latin>: Iūlia est fēmina minimae dīligentiae</latin>?"
+      answer: "DESCRIPTION"
+    boni:
+      - question: "<latin>Eratne Augustus optimus omnium imperātōrum?</latin>"
+        answer: "PARTITIVE / OF THE WHOLE"
+      - question: "<latin>Nōnne amor patriae omnibus nōbīs est?</latin>"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "Who bequeathed his kingdom to Rome in 133 BC?"
+      answer: "ATTALUS III"
+    boni:
+      - question: "What was his kingdom?"
+        answer: "PERGAMUM"
+      - question: "What province did Pergamum become?"
+        answer: "ASIA"
+  - tossup:
+      question: "How did Heracles demonstrate his superhuman strength to his mortal parents for the first time?"
+      answer: "STRANGLED (TWO) SNAKES (SENT BY HERA)"
+    boni:
+      - question: "Who, upon seeing what baby Heracles had done, realized that he was not the father of Heracles?"
+        answer: "AMPHITRYON"
+      - question: "Who was so terrified by the serpents that he wailed helplessly just like a normal baby?"
+        answer: "IPHICLES  <latin>2008 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What use of the dative case is illustrated in the following Latin sentence: <latin>Pompēius numquam auxiliō</latin> <latin>fuit</latin>"
+      answer: "PURPOSE"
+    boni:
+      - question: "<latin>Pompeiō</latin> <latin>in animō</latin> <latin>est urbem relinquere</latin>"
+        answer: "REFERENCE"
+      - question: "Using the verb <latin>prōsum</latin>, say in Latin, “Running is good for everyone.”"
+        answer: "<latin>CURRERE OMNIBUS PRŌDEST</latin>"
+  - tossup:
+      question: "Which nephew of Marcus Livius Drusus and extremely staunch opponent of Julius Caesar killed himself after the Battle of Thapsus?"
+      answer: "(M. PORCIUS) CATO THE YOUNGER/ UTICENSIS"
+    boni:
+      - question: "Whom did Cato’s sister marry in 45 B.C.?"
+        answer: "(M. IUNIUS) BRUTUS"
+      - question: "What woman was Caesar's mistress, the mother of Brutus, and the step-sister of Cato the Younger?"
+        answer: "SERVILIA"
+  - tossup:
+      question: "What did the following men all have in common? Amphinomus, Demoptolemus, Eurymachus, and Antinous?"
+      answer: "SUITORS OF PENELOPE"
+    boni:
+      - question: "Which of those did Odysseus kill first?"
+        answer: "ANTINOUS"
+      - question: "Which one was the most reasonable of the suitors?"
+        answer: "AMPHINOMUS"
+  - tossup:
+      question: "Which, if any, of the following English words is not derived from the same Latin verb as the others? secretion, crescent, increase, crew, accrue"
+      answer: "SECRETION"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of “secretion?”"
+        answer: "<latin>CERNŌ, CERNERE</latin> - PERCEIVE"
+      - question: "What English noun which is derived from the same Latin word as “crescent” and “increase” means “a steady increase in the loudness of music?”"
+        answer: "CRESCENDO"
+  - tossup:
+      question: "What title was given to those priests who were in charge of the worship of the emperor?"
+      answer: "(<latin>SĒVIRĪ</latin>) <latin>AUGUSTĀLĒS</latin>"
+    boni:
+      - question: "From which social class did most <latin>Augustālēs</latin> come?"
+        answer: "FREEDMEN / <latin>LĪBERTĪ</latin>"
+      - question: "How many served in each town in the empire?"
+        answer: "SIX"
+  - tossup:
+      question: "According to Homer, whose ghost was the only one in Hades to have retained the power to think?"
+      answer: "TEIRESIAS’"
+    boni:
+      - question: "What kind of death did Teiresias predict for Odysseus?"
+        answer: "GENTLE / EASY / FROM THE SEA"
+      - question: "Whose ghost refused to speak to Odysseus because the dead man still harbored a grudge against Odysseus?"
+        answer: "AJAX (GREATER / TELAMONIAN)"
+  - tossup:
+      question: "Using a participle, translate the following sentence into Latin: The farmers must work"
+      answer: "<latin>AGRICOLĪS LABŌRANDUM EST</latin>"
+    boni:
+      - question: "Again, using a participle, say in Latin: The farmers were about to plow the fields"
+        answer: "<latin>AGRICOLAE AGRŌS ARĀTŪRĪ</latin> <latin>ERANT</latin>"
+      - question: "Using a supine, say in Latin: The story about the farmers is wonderful to hear"
+        answer: "<latin>FABULA DĒ</latin> <latin>AGRICOLĪS MIRĀBILIS EST AUDĪTŪ</latin>"
+  - tossup:
+      question: "What Roman emperor founded the games called <latin>Iuvenālia</latin> in honor of his own young age at the time of his ascension?"
+      answer: "NERO (CLAUDIUS CAESAR)"
+    boni:
+      - question: "Name two of Nero’s wives"
+        answer: "OCTAVIA, POPPAEA SABINA, STATILIA MESSALINA"
+      - question: "How many of Nero’s wives did Nero not kill or have killed?"
+        answer: "ONE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Scīvimus nōs quam dīligentissimē</latin> <latin>labōrāvisse</latin>"
+      answer: "WE KNEW (THAT) WE HAD WORKED AS HARD / DILIGENTLY <emphasis>AS POSSIBLE</emphasis>"
+    boni:
+      - question: ". . . <latin>Certus sum tē, quī</latin> <latin>prūdentissimus sīs, hoc respondēre posse</latin>"
+        answer: "I AM SURE THAT YOU, WHO ARE VERY SMART, CAN ANSWER THIS."
+      - question: "<latin>Maximē</latin> <latin>spērāmus nōs hōc certāmine victūrōs esse</latin>"
+        answer: "WE VERY MUCH/GREATLY HOPE (THAT) WE WILL WIN (IN) THIS CERTAMEN / CONTEST"
+  - tossup:
+      question: "Listen to the following four Latin statements, one of which I will perform. When you are recognized by the spotter, repeat exactly the statement which describes my actions: <latin>Spectō</latin> <latin>horologium</latin>. <latin>Tegō</latin> <latin>aurēs</latin>. <latin>Clāmō</latin> <latin>vehementer</latin>. <latin>Vehor in equō</latin>. (The moderator shouts to the audience.)"
+      answer: "<latin>CLĀMŌ</latin> <latin>VEHEMENTER</latin>"
+    boni:
+      - question: "Perform the following command: <latin>Sinistrā</latin> <latin>manū</latin> <latin>sublātā, da oscula spectātōribus ut actor gloriōsus</latin>"
+        answer: "ONE STUDENT SHOULD FIRST RAISE HIS LEFT HAND AND THEN GIVE KISSES TO THE AUDIENCE LIKE A BOASTFUL ACTOR"
+      - question: "<latin>Surgite et hortāminī</latin> <latin>spectātōrēs ut plaudant.</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD ENCOURAGE THE AUDIENCE TO APPLAUD"
+  - tossup:
+      question: "Name the wild pig which ravaged the Isthmus of Corinth until it was killed by Theseus"
+      answer: "PHAEA/ CROMMYONIAN SOW"
+    boni:
+      - question: "By what other name was it known?"
+        answer: "PHAEA/ CROMMYONIAN SOW"
+      - question: "Who were the sow’s parents?"
+        answer: "TYPHON AND ECHIDNA"
+  - tossup:
+      question: "Give a one-word synonym for <latin>properō</latin>"
+      answer: "<latin>MĀTŪRŌ</latin> <latin>/ ACCELERŌ</latin> <latin>/ FESTĪNŌ/ PRAECIPITŌ</latin> <latin>/ INCITŌ</latin> <latin>/ CONTENDŌ</latin> <latin>/ CURRŌ</latin> <latin>/ AGŌ</latin> <latin>/ RUŌ</latin> <latin>/ RAPIŌ</latin>"
+    boni:
+      - question: "Give a one-word synonym for the verb <latin>secō</latin>"
+        answer: "<latin>CAEDŌ / SCINDŌ / INTER-(IN-/SUC-/-OC) CĪDŌ / INTERFICIŌ / NECŌ</latin>"
+      - question: "Give a one-word synonym for the adjective <latin>vērus</latin>."
+        answer: "<latin>SINCĒRUS / VĒRAX / RECTUS / GENUĪNUS / FĪDUS / SOLIDUS / CERTUS / HONESTUS / GERMĀNUS / GENUĪNUS / AUTHENTICUS / DECŌRUS / APERTUS</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Gnaeus Iūlius Agricola prōvinciae praefectus est. Quamquam reī</latin> <latin>mīlitāris perītus erat, artibus pācis magis quam bellī</latin> <latin>Britanniam regere voluit. Itaque per eās partēs insulae quae iam erant pācātae instituit artēs, linguam et mōrēs Rōmānōrum.</latin>  How did Agricola prefer to govern his province?"
+      answer: "WITH THE ARTS OF PEACE/ PEACEFULLY"
+    boni:
+      - question: "Where did Agricola concentrate his efforts?"
+        answer: "IN ALREADY PACIFIED AREAS (OF THE ISLAND)"
+      - question: "What three special attempts at Romanization did he make in those areas?"
+        answer: "ARTS/ SKILLS, LANGUAGE, & CUSTOMS"
+  - tossup:
+      question: "For the verb <latin>oblīvīscor</latin> give the second person singular, present indicative"
+      answer: "<latin>OBLĪVĪSCERIS/ OBLĪVĪSCERE</latin>"
+    boni:
+      - question: "Change <latin>oblīvīsceris</latin> to the future tense"
+        answer: "<latin>OBLĪVĪSCĒRIS / OBLĪVĪSCĒRE</latin>"
+      - question: "Now change it to the perfect tense, subjunctive"
+        answer: "<latin>OBLĪTUS SĪS</latin>"
+  - tossup:
+      question: "What is the Latin term for this type of object, commonly found throughout the empire along major roads?"
+      answer: "<latin>MĪLIĀRIUM</latin>"
+    boni:
+      - question: "Along what road was this particular milestone placed?"
+        answer: "VIA APPIA / APPIAN WAY"
+      - question: "According to the inscription, what office did Trajan hold 5 times?"
+        answer: "CONSULSHIP"
+  - tossup:
+      question: "What Titan assumed the form of a horse in order to mate with Philyra?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who was the offspring of this union?"
+        answer: "CH(E)IRON"
+      - question: "On what mountain in Thessaly did Cheiron live in a cave?"
+        answer: "MT. PELION"
+  - tossup:
+      question: "What are the two Latin roots and their meanings at the root of “solstice?”"
+      answer: "<latin>SŌL</latin> / SUN & <latin>STŌ</latin> (STARE) / STAND"
+    boni:
+      - question: "Which, if any, of these words is not derived from <latin>stō, stāre</latin>? stanchion, destitute, staid, obstacle, arrest"
+        answer: "NONE"
+      - question: "What derivative of <latin>stō, stāre</latin> means “to stop the flow of blood?”"
+        answer: "STA(U)NCH"
+  - tossup:
+      question: "What tribe of northern Thessaly claimed Pirithous as their king?"
+      answer: "LAPITHS"
+    boni:
+      - question: "Who had been the king of the Lapiths before Pirithous?"
+        answer: "IXION"
+      - question: "What son of Pirithous led forty ships to the Trojan War?"
+        answer: "POLYPOETES"
+  - tossup:
+      question: "Give the genitive singular for the phrase “broken knee”"
+      answer: "<latin>FRĀCTĪ</latin> <latin>GENŪS</latin>"
+    boni:
+      - question: "Change <latin>frāctī</latin> <latin>genūs</latin> to the dative"
+        answer: "<latin>FRĀCTŌ</latin> <latin>GENŪ</latin>"
+      - question: "Change <latin>frāctō</latin> <latin>genū</latin> to the genitive plural"
+        answer: "<latin>FRĀCTŌRUM GENUUM</latin>"
+  - tossup:
+      question: "By granting protection to what city in 343 BC did the Romans precipitate the First Samnite War?"
+      answer: "CAPUA"
+    boni:
+      - question: "After what disastrous defeat of the Romans in the Second Samnite War did the city of Capua switch its loyalty to the Samnites?"
+        answer: "LAUTULAE"
+      - question: "After Capua’s defection to what later enemy of Rome were the city’s leaders executed, its territory confiscated, and its political rights revoked?"
+        answer: "HANNIBAL / CARTHAGINIANS (211 BC)"

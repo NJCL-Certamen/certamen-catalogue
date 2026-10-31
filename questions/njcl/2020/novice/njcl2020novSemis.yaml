@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What position, responsible for the second stage of a young Roman’s education, was often held by an enslaved person and shares its name with the school at which they taught?"
+      answer: "<latin>GRAMMATICUS</latin>"
+    boni:
+      - question: "What position was responsible for elementary education?"
+        answer: "<latin>LITTERĀTOR // MAGISTER LITTERĀRUM // LŪDĪ MAGISTER</latin>"
+      - question: "At the age of sixteen, aristocratic Roman boys would serve as an apprentice in politics and then in military training. What was the general term used by Ancient Romans to describe these apprenticeships?"
+        answer: "<latin>TĪRŌCINIUM (FORĪ / MĪLITIAE)</latin>"
+  - tossup:
+      question: "Translate only the subordinate clause of the following sentence into English: <latin>Marcus, \t\tcum Gāius in cubiculō dormiēbat, cōnsul ā senātū appellābātur.</latin>"
+      answer: "WHEN GAIUS WAS SLEEPING IN HIS/THE BEDROOM"
+    boni:
+      - question: "What use of the ablative case is illustrated by <latin>senātū</latin> in that sentence?"
+        answer: "AGENT"
+      - question: "Translate the entire sentence."
+        answer: "WHEN GAIUS WAS SLEEPING IN HIS BEDROOM, MARCUS WAS NAMED / DESIGNATED / APPOINTED CONSUL BY THE SENATE"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “avēs populō initium vēris nūntiāvērunt.” Quō cāsū est ‘initium’?</latin>"
+      answer: "<latin>ACCŪSĀTĪVŌ</latin>"
+    boni:
+      - question: "<latin>Quō cāsū est ‘vēris’?</latin>"
+        answer: "<latin>GENITĪVŌ</latin>"
+      - question: "<latin>Cuius temporis est ‘nūntiāvērunt’?</latin>"
+        answer: "<latin>PERFECTĪ</latin>"
+  - tossup:
+      question: "What emperor of the 3rd century A.D., after defeating his predecessor’s brother Quintillus, worked to reunite a fractured empire by building a wall around the city of Rome that bears his name and by reincorporating the Gallic Empire and the kingdom of Palmyra into the Roman Empire?"
+      answer: "(L. DOMITIUS) AURELIAN(US)"
+    boni:
+      - question: "Who was Aurelian’s friend and predecessor who earned his <latin>agnōmen</latin> with victories at Doberus and Naïssus over an up-and-coming neighboring nation?"
+        answer: "(M. AURELIUS) CLAUDIUS GOTHICUS / II (VALERIUS)"
+      - question: "What queen of Palmyra was granted a pension and a villa in Tibur after she was defeated and dethroned by Aurelian?"
+        answer: "(SEPTIMIA) ZENOBIA"
+  - tossup:
+      question: "What celestial object was watched constantly by the transformed Clytië and was personified by the god Helios?"
+      answer: "SUN"
+    boni:
+      - question: "What celestial object was personified by the goddess Selene?"
+        answer: "MOON"
+      - question: "What celestial object bears the name of a Roman god also called Dis?"
+        answer: "PLUTO"
+  - tossup:
+      question: "From what Latin verb, with what meaning, do we ultimately derive “intercede”?"
+      answer: "<latin>CĒDŌ</latin> – TO YIELD / MOVE"
+    boni:
+      - question: "From what Latin noun, with what meaning, do we ultimately derive “insomnia”?"
+        answer: "<latin>SOMNUS</latin> – SLEEP"
+      - question: "From what Latin verb, with what meaning, do we ultimately derive “instant”?"
+        answer: "<latin>STŌ</latin> – TO STAND"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which involves a <latin>plaustrum</latin>, or wagon. I will read the passage twice, then <latin>respondē Latīnē</latin> to the questions which follow. \t<latin>Nunc vōs omnēs scītis cūr equus Aurēliae domum cucurrerit.  Ēheu!  Nam ūnum crūs sorōris māiōris vulnerātum est, neque ea ambulāre poterat.  Puellae agricolam cum plaustrō invēnērunt, quī illās ad oppidum portābat.  Sed nēmō saxum perīculōsum cōnspexit quod in viā iacēbat.</latin>       REREAD The question:  <latin>Quis ambulāre nōn poterat?</latin>"
+      answer: "<latin>SOROR AURĒLIAE / MĀIOR</latin>"
+    boni:
+      - question: "<latin>Quis puellās iūvit?</latin>"
+        answer: "<latin>AGRICOLA (CUM PLAUSTRŌ)</latin>"
+      - question: "<latin>Quid erat perīculum novum, postquam agricola inventus est?</latin>"
+        answer: "<latin>SAXUM (PERĪCULŌSUM QUOD IN VIĀ IACĒBAT)</latin>"
+  - tossup:
+      question: "What Latin phrase, first popularized by Juvenal in the second century A.D., was adapted by a shoe company as their own brand, ASICS, and means “a sound mind in a sound body”?"
+      answer: "<latin>MENS SĀNA IN CORPORE SĀNŌ</latin>"
+    boni:
+      - question: "What three word Latin phrase used by Cicero in his <title><latin>Dē Officiīs</latin></title> is also the state motto of  \tWyoming?"
+        answer: "<latin>CĒDANT ARMA TŌGAE</latin>"
+      - question: "What two-word Latin phrase used by Vergil in his <title>Aeneid</title> appears on the one-dollar bill along with the phrases <latin>novus ōrdō saeclōrum</latin> and <latin>ē plūribus ūnum</latin>?"
+        answer: "<latin>ANNUIT COEPTĪS</latin>"
+  - tossup:
+      question: "In the Latin sentence, <latin>Aemilia ianuam pede clausit</latin>, how would you translate \t\t<latin>pede</latin>?"
+      answer: "WITH HER / A FOOT / BY MEANS OF A FOOT"
+    boni:
+      - question: "In the sentence, <latin>Lūcius multōs annōs patrem petīvit</latin>, how would you translate <latin>multōs annōs</latin>?"
+        answer: "FOR MANY YEARS"
+      - question: "Translate the full sentence, <latin>Lūcius multōs annōs patrem petīvit.</latin>"
+        answer: "LUCIUS / LUKE SOUGHT / LOOKED FOR / ATTACKED HIS FATHER FOR MANY YEARS"
+  - tossup:
+      question: "What creature did Artemis send to punish Oeneus for failing to sacrifice part of his harvest, which prompted a great hunt attended by many heroes?"
+      answer: "CALYDONIAN BOAR (*<emphasis><latin>prompt</latin></emphasis><latin>*</latin> on BOAR)"
+    boni:
+      - question: "What hero killed the Calydonian boar but gave the spoils to Atalanta?"
+        answer: "MELEAGER"
+      - question: "Because she was aggrieved that her son Meleager killed her brothers, what woman threw his life-brand into the fire, killing him?"
+        answer: "ALTHAEA (*<emphasis><latin>prompt</latin></emphasis><latin>*</latin> on his MOTHER)"
+  - tossup:
+      question: "Say in Latin using the verb <latin>legō</latin>, “it has been read.”"
+      answer: "<latin>LECTUM EST</latin>"
+    boni:
+      - question: "Now say in Latin using the verb <latin>legō</latin>, “it had been read.”"
+        answer: "<latin>LECTUM</latin> <latin>ERAT</latin>"
+      - question: "Now say in Latin using the verb <latin>legō</latin>, “The books will have been read.”"
+        answer: "<latin>LIBRĪ LECTĪ</latin> <latin>ERUNT</latin>"
+  - tossup:
+      question: "At this point we will share a screen with the visual.  Once the visual is displayed you will have 10 seconds to examine it before I begin the toss-up question.    This map depicts the Roman Empire at its peak. Please identify the letter labeling the Roman province of Lusitania."
+      answer: "B"
+    boni:
+      - question: "[Zoom in on the region around D and A, so that map lines are clearly visible.] Please identify the imperial province labeled D."
+        answer: "MACEDONIA"
+      - question: "Now, please identify the imperial province labeled A."
+        answer: "DACIA"
+  - tossup:
+      question: "We’re so elated you registered for Virtual NJCL 2020! From what Latin verb, with what meaning, do we derive the English word “register”?"
+      answer: "<latin>GERŌ –</latin> TO BEAR / WAGE / WEAR"
+    boni:
+      - question: "Even at a virtual convention, be sure you are on your best behavior, lest you be sent home at your parent’s expense. From what Latin verb, with what meaning, do we derive the English word “expense”?"
+        answer: "<latin>PENDŌ</latin> – TO HANG / SUSPEND / WEIGH (OUT) \t\t(NOT <latin>PENDEO</latin>!!!)"
+      - question: "While competing in the <latin>Certamen</latin> tournament, you may be told you are wrong. But if an approved source can vouch for your answer, you may still earn points. From what Latin verb, with what meaning, do we derive the English word “vouch”?"
+        answer: "<latin>VOCŌ –</latin> TO CALL"
+  - tossup:
+      question: "Who wed a stranger from Corinth after Creon offered her hand in marriage to the Sphinx’s conqueror, but did not know that the stranger was her own son, Oedipus?"
+      answer: "JOCASTA / EPICASTA"
+    boni:
+      - question: "What Corinthian couple had become the step-parents of Oedipus after Jocasta had him exposed on Mount Cithaeron?"
+        answer: "POLYBUS and MEROPE / PERIBOEA"
+      - question: "Name both of the daughters of Oedipus and Jocasta."
+        answer: "ANTIGONE and ISMENE"
+  - tossup:
+      question: "What king built a Temple of Diana on the Aventine Hill, which preserved the text of a treaty with the Latin League through the Augustan age, and created the <latin>Comitia Centuriata</latin> as part of his new census?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was Servius Tullius’ mother, who reportedly conceived him with a spark?"
+        answer: "OCRISIA"
+      - question: "The emperor Claudius wrote about Servius Tullius and identified him with what Etruscan hero?"
+        answer: "MASTARNA (OF VULCI)"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin>  <latin>Prope quod oppidum in Galliā Marius Teutōnēs vīcit?</latin>"
+      answer: "<latin>AQUĀS SEXTIĀS /</latin> AQUAE SEXTIAE / AIX-EN-PROVENCE"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quōs Rōmānī prope Vercellās vīcērunt?</latin>"
+        answer: "<latin>CIMBRŌS</latin>"
+      - question: "<latin>Respondē Latīnē: Cui ducī Rōmānō Marius maximē opposuit?</latin>"
+        answer: "<latin>(LŪCIŌ CORNĒLIŌ) SULLAE</latin>"
+  - tossup:
+      question: "What monstrous creatures, who were often depicted as women with wings, talons, and beaks, snatched humans from the earth?"
+      answer: "HARPIES / <latin>HARPYIAI</latin>"
+    boni:
+      - question: "In Book 20 of the <title>Odyssey</title>, what daughter of Icarius tells the story of the Harpies’ seizure of the daughters of Pandareüs?"
+        answer: "PENELOPE"
+      - question: "Who owned the horses Xanthus and Balius, the offspring of the Harpy Podarge?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "Which of the following words does not belong because of a point of grammar: <latin>ferte, sanguine, dīcite, timē?</latin>"
+      answer: "<latin>SANGUINE</latin>"
+    boni:
+      - question: "Which of the following words does not belong because of a point of grammar: <latin>inquam, sciam, pulsābō, iungam?</latin>"
+        answer: "<latin>INQUAM</latin>"
+      - question: "Which of the following words does not belong because of a point of grammar: <latin>dēdere, capere, monēre, stetēre?</latin>"
+        answer: "<latin>STETĒRE</latin>"
+  - tossup:
+      question: "Respondē Latīnē:  <latin>Quam fēminam Aenēās in mātrimōnium dūxit in Italiā?</latin>"
+      answer: "<latin>LAVĪNIAM</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quī erant parentēs Lavīniae?</latin>"
+        answer: "<latin>LATĪNUS ET AMĀTA</latin>"
+      - question: "<latin>Respondē Latīnē: Quae fēmina in Āfricā Aenēān amāvit, et posteā eum vituperāvit?</latin>"
+        answer: "<latin>DIDŌ</latin>"
+  - tossup:
+      question: "Which of the following words is the closest synonym to the word <latin>potestās</latin>: <latin>vulnus, vīs, vir, virgō</latin>?"
+      answer: "<latin>VĪS</latin>"
+    boni:
+      - question: "Which of the following words is the closest synonym to the word <latin>ianua: pompa, pōns, portus, porta</latin>?"
+        answer: "<latin>PORTA</latin>"
+      - question: "Which of the following words is the closest synonym to the word <latin>scientia: āter, arcus, ars, ariēs</latin>?"
+        answer: "<latin>ARS</latin>"

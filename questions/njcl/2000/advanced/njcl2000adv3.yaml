@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "During the Republic, what area of the theater was reserved for the seating of the <latin>ōrdō senātōrius</latin>?"
+      answer: "ORCHESTRA"
+    boni:
+      - question: "Who else might be seated in this area?"
+        answer: "MAGISTRATES / AMBASSADORS / TOWN COUNCILS"
+      - question: "The first fourteen rows of seats behind the orchestra were reserved for the <latin>equitēs.</latin> Which equestrians were entitled to sit in the first two rows of this section?"
+        answer: "THOSE WHO HAD SERVED AS TRIBUNES OF THE PEOPLE"
+  - tossup:
+      question: "According to Homer’s <title>Odyssey</title>, what useful present did Apollo’s priest Maron give to Odysseus? (12 JARS) OF WINE (WHICH ODYSSEUS USED TO GET POLYPHEMUS DRUNK) What name did Odysseus use when he was trying to trick Polyphemus?"
+      answer: "NO MAN / NO BODY / OUTIS (not “nemo”)"
+    boni:
+      - question: "What “kindly” favor did Polyphemus promise “Nobody” after Odysseus gave him more wine?"
+        answer: "THAT HE WOULD EAT “NOBODY” LAST"
+  - tossup:
+      question: "What native of Carthage made his theatrical debut two years after the battle of Pydna?"
+      answer: "(P.) TERENTIUS (AFER) / TERENCE"
+    boni:
+      - question: "What is the Latin title of Terence’s first published work?"
+        answer: "<title><latin>ANDRIA</latin></title>"
+      - question: "In the prologue to which of his works does Terence rebut the charge of <title>contamināre fabulās</title>?"
+        answer: "<title><latin>ANDRIA</latin></title>"
+  - tossup:
+      question: "What derivative of the Latin verb for “spread” means “amazed dismay?”"
+      answer: "CONSTERNATION"
+    boni:
+      - question: "“stretched out face down?”"
+        answer: "PROSTRATE"
+      - question: "“a layer of material?”"
+        answer: "STRATUM / STRATUS"
+  - tossup:
+      question: "Translate into Latin the verb in the apodosis in the following sentence<latin>:</latin> if you should answer this question correctly, your teacher would praise you"
+      answer: "<latin>LAUDET</latin> / PLAUDAT / GRĀTULĒTUR"
+    boni:
+      - question: ": if John had studied all summer long, he would have understood the answer"
+        answer: "<latin>SCĪVISSET / INTELLĒXISSET / (RE)COGNŌVISSET</latin>"
+      - question: ". . . : Marcus, if you know the answer, tell me"
+        answer: "<latin>DĪC / DĪCĀS FĀRE / FĒRIS / FĒRĒ REFER / REFERĀS NARRĀ / NARRĒS</latin>"
+  - tossup:
+      question: "Name the case and its use of the first noun in the following sentence from Cicero: <latin>mē caecum</latin>!"
+      answer: "ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "Name the case and its use of the first noun in the following sentence from Vergil: <latin>vēndidit hic aurō patriam</latin>"
+        answer: "ABLATIVE OF (SPECIFIC) PRICE"
+      - question: "Name the case and its use of the first noun in the following sentence from Vergil: <latin>nūllus est mortis timor</latin>"
+        answer: "OBJECTIVE GENITIVE"
+  - tossup:
+      question: "What Lusitanian chief, still considered a national hero in Portugal, led the revolt of the Celtiberians against Rome in 144 B.C.?"
+      answer: "VIRIATHUS"
+    boni:
+      - question: "After he defeated several Roman commanders and secured peace, what status was he given by the Romans?"
+        answer: "ALLY OF THE ROMAN PEOPLE / SOCIUS"
+      - question: "Who convinced the Senate to denounce the peace, and arranged for Viriathus’ assassination by his own servants?"
+        answer: "(CN. SERVILIUS) CAEPIO"
+  - tossup:
+      question: "Which of the following works, if any, is <emphasis>not</emphasis> written by Horace: <title><latin>Epodes, Carmen Saeculare, Carmina, Ars Poetica, Saturae</latin></title>?"
+      answer: "NONE, THEY WERE ALL WRITTEN BY HORACE"
+    boni:
+      - question: "Which of the works mentioned in the toss-up was written, at the request of Augustus, for the celebration of the Centennial Games?"
+        answer: "<title><latin>CARMEN SAECULARE</latin></title>"
+      - question: "Which of the works mentioned in the toss-up was also known as <title><latin>Epistula ad Pisones</latin></title>?"
+        answer: "<title><latin>ARS POETICA</latin></title>"
+  - tossup:
+      question: "By what name did the gods call the river Scamander?"
+      answer: "XANTHUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Please identify all the characters responsible for the item labeled “A”"
+        answer: "POSEIDON, APOLLO"
+      - question: "Please identify the characters labled “B” and “C”"
+        answer: "XANTHUS & BALIUS"
+  - tossup:
+      question: "Give the idiomatic meaning of the phrase <latin>referre ad senātum?</latin>"
+      answer: "TO MAKE A MOTION IN THE SENATE"
+    boni:
+      - question: "Give the idiomatic meaning of the phrase <latin>fortūnā secundā ūtī?</latin>"
+        answer: "TO ENJOY/USE GOOD LUCK"
+      - question: "Give the idiomatic meaning of the phrase <latin>novīs rēbus studēre?</latin>"
+        answer: "TO BE EAGER FOR A REVOLUTION"
+  - tossup:
+      question: "What 13 year old boy, with the support of the Praetorian Guard, became emperor in A.D. 238?"
+      answer: "GORDIANUS III"
+    boni:
+      - question: "Name the Praetorian Prefect who was the power behind the throne"
+        answer: "TIMESITHEUS"
+      - question: "What Persian capital was Gordianus about to capture when he died in battle?"
+        answer: "CTESIPHON"
+  - tossup:
+      question: "What Roman historian was married to the daughter of Gnaeus Julius Agricola, the governor of Britain?"
+      answer: "(P. or C. CORNELIUS) TACITUS"
+    boni:
+      - question: "Which of Tacitus’ works deals with events from the death of Augustus to the death of Nero?"
+        answer: "<title><latin>ANNALES</latin></title> / ANNALS / <title><latin>AB EXCESSU DIVI AUGUSTI</latin></title>"
+      - question: "Which of Tacitus’ works is a discussion on the state of Latin oratory?"
+        answer: "<title><latin>(DIALOGUS) DE ORATORIBUS</latin></title>"
+  - tossup:
+      question: "Using a deponent verb, say in Latin: Lucius, use the force."
+      answer: "<latin>Lūcī, vī ūtere</latin>"
+    boni:
+      - question: "Using a deponent verb, say in Latin: Lucius and Leia, use the force."
+        answer: "<latin>Lūcī et Leia, vī ūteminī</latin>"
+      - question: "Pretend you are Obi-Won Kenobi writing your last will and testament. Say in Latin: Lucius, use the force."
+        answer: "<latin>Lūcī, vī ūtitor</latin>"
+  - tossup:
+      question: "What son of Amythaon was one of the greatest, and perhaps the first, of Greek seers?"
+      answer: "MELAMPUS"
+    boni:
+      - question: "How did Melampus receive the gift of prophesy?"
+        answer: "SNAKES LICKED HIS EARS"
+      - question: "What two Trojans also received the gift of prophesy in the same way?"
+        answer: "HELENUS & CASSANDRA / ALEXANDRA"
+  - tossup:
+      question: "Translate the motto of the Lambda chapter of The University of Oklahoma’s Beta Phi Mu, <latin>Aliīs Inserviendō Cōnsūmor.</latin>"
+      answer: "I AM CONSUMED WITH/BY/IN SERVING OTHERS"
+    boni:
+      - question: "Give the more grammatically common classical form of this motto."
+        answer: "<latin>ALIĪS INSERVIENDĪS CŌNSŪMOR</latin>"
+      - question: "The ablative of the gerund to express manner later yielded what grammatical form in Italian and Spanish, for example “cantando” and “hablando”?"
+        answer: "PRESENT PARTICIPLE / GERUNDIAL"
+  - tossup:
+      question: "To what specific category of verb do <latin>parturiō</latin> and <latin>vīsō</latin> belong?"
+      answer: "DESIDERATIVES"
+    boni:
+      - question: "To what specific category of verb do <latin>vēnditō</latin> and <latin>quassō</latin> belong?"
+        answer: "INTENSIVES / ITERATIVES / FREQUENTATIVES"
+      - question: "To what specific category of intensives do <latin>lacessō</latin> and <latin>facessō</latin> belong?"
+        answer: "MEDITATIVES"
+  - tossup:
+      question: "Who produced Rome’s largest issue of gold coins before the reign of Nero?"
+      answer: "(C.) (JULIUS) CAESAR / (A.) HIRTIUS"
+    boni:
+      - question: "How many <title>denarii</title> were equivalent to one of Caesar’s <title>aureii</title>?"
+        answer: "25"
+      - question: "What was Julius Caesar the first to put on coins?"
+        answer: "HIS OWN PORTRAIT (PORTRAIT OF A LIVING PERSON)"
+  - tossup:
+      question: "What Silver-Age poet was the author of an epic poem entitled <title><latin>Bellum Civile</latin></title>?"
+      answer: "(M. ANNAEUS) <emphasis>LUCAN</emphasis>US"
+    boni:
+      - question: "What Silver-Age poet was the author of epic poems entitled <title><latin>Achilleid</latin></title> and <title><latin>Silvae</latin></title>?"
+        answer: "(P. PAPINIUS) STATIUS"
+      - question: "What Silver-Age poet was the author of an epic poem entitled <title><latin>Punica</latin></title>?"
+        answer: "(TIBERIUS CATIUS ASCONIUS) SILIUS ITALICUS"
+  - tossup:
+      question: "What crippled son of Hephaestus was killed by Theseus?"
+      answer: "PERIPHETES / CORYNETES"
+    boni:
+      - question: "Why was Periphetes given the nickname “Corynetes”?"
+        answer: "BECAUSE HE HABITUALLY CARRIED A (BRONZE) CLUB"
+      - question: "Who was the mother of Periphetes?"
+        answer: "ANTICLEIA"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer IN LATIN the question about it: <latin>Poēta nōtissimus multīs rēbus dēlectātus est, sed praesertim fruēbātur audiendō versūs suōs recitārī ab aliīs. Ūnum ex suīs carminibus incipit “Lesbia mī praesente virō mala plūrima dīcit.” Quid plūrimum poētae audīre placēbat?</latin>"
+      answer: "<latin>VERSŪS SUŌS (RECITĀRĪ AB ALIĪS)</latin>"
+    boni:
+      - question: "<latin>Quot rēs poētam dēlectābant?</latin>"
+        answer: "<latin>MULTAE</latin>"
+      - question: "<latin>Quod nōmen est huic poētae?</latin>"
+        answer: "<latin>(GAIUS VALERIUS) CATULLUS</latin>"

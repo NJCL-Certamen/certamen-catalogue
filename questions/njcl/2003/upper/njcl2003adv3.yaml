@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Say in Latin: \"I am afraid that I may not live.\""
+      answer: "<latin>TIMEŌ</latin> <latin>/ METUŌ</latin> <latin>/ VEREOR UT VĪVAM</latin>"
+    boni:
+      - question: "Change that entire sentence to the past tense"
+        answer: "<latin>TIMĒBAM / METUĒBAM / VERĒBAR / TIMUĪ</latin> <latin>/ METUĪ</latin> <latin>/ VERITUS SUM UT VĪVEREM.</latin>"
+      - question: "Using the verb <latin>imperō</latin>, say in Latin: \"I command death to laugh.\""
+        answer: "<latin>MORTĪ</latin> <latin>IMPERŌ</latin> <latin>UT RĪDEAT / IMPERŌ</latin> <latin>UT MORS RĪDEAT</latin>"
+  - tossup:
+      question: "What date is denoted by the phrase, <latin>prīdiē</latin> <latin>Īdūs Octōbrēs</latin>?"
+      answer: "OCTOBER"
+    boni:
+      - question: "14 What date is denoted by the phrase, <latin>ante diem tertium Nōnās Iūliās</latin>?"
+        answer: "JULY"
+      - question: "5 What is today’s date in Latin?"
+        answer: "<latin>PRĪDIĒ</latin> <latin>KALENDĀS AUGUSTĀS</latin>"
+  - tossup:
+      question: "Who was freed from the Chair of Forgetfulness by Heracles?"
+      answer: "THESEUS"
+    boni:
+      - question: "Why was Theseus condemned to sit in the Chair of Forgetfulness?"
+        answer: "HE TRIED TO ABDUCT PERSEPHONE"
+      - question: "What accomplice of Theseus was not rescued by Heracles?"
+        answer: "P(E)IRITHOUS"
+  - tossup:
+      question: "What Silver Age author, thinking that Virgil had sanitized Augustus’ tyrranical reign, wrote an anti-Aeneid?"
+      answer: "(M. ANNAEUS) LUCAN(US)"
+    boni:
+      - question: "Give the title of this anti-Aeneid"
+        answer: "<title><latin>BELLUM CĪVĪLE</latin></title> / <latin>PHARSALIA</latin> / THE CIVIL WAR"
+      - question: "What was the subject of Lucan’s <title><latin>Pharsalia</latin></title>?"
+        answer: "CIVIL WAR BETWEEN CAESAR & POMPEY"
+  - tossup:
+      question: "Listen carefully to the following passage about a plague which I will read twice, and answer IN LATIN the question that follows: <latin>Magna pestilentia in urbe orta erat et multī</latin> <latin>cīvēs, et dīvitēs et pauperēs, mortuī</latin> <latin>sunt. Multitūdō</latin> <latin>eōrum quī</latin> <latin>adhūc vīvēbant constituērunt ut nāvem solverent ut novās domūs peterent. Nāve solūtā, nesciēbant quās ad terrās nāvigārent, sed ad sōlis occāsum profectī</latin> <latin>sunt.</latin>  <latin>Quā</latin> <latin>rē</latin> <latin>multī</latin> <latin>cīvēs necābantur?</latin>"
+      answer: "(MAGNĀ) PESTILENTIĀ"
+    boni:
+      - question: "<latin>Cūr cīvēs constituērunt ut nāvem solverent?</latin>"
+        answer: "UT NOVĀS DOMŪS PETERENT"
+      - question: "Quō <latin>cīvēs profectī</latin> <latin>sunt, nāve solūtā?</latin>"
+        answer: "<latin>AD OCCĀSUM SŌLIS / TERRĀS INCOGNITĀS</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat \"taeda\"?</latin>"
+      answer: "(PINEWOOD / MARRIAGE) TORCH"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat \"fors\"?</latin>"
+        answer: "CHANCE / LOT / LUCK"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat \"nēquīquam\"?</latin>"
+        answer: "IN VAIN / FRUITLESSLY / TO NO AVAIL / WITHOUT GOOD REASON / WITH IMPUNITY"
+  - tossup:
+      question: "Who, after abusing his veto power, was removed from his position as tribune by Tiberius Gracchus?"
+      answer: "M. OCTAVIUS"
+    boni:
+      - question: "For five points each, name the other members of Tiberius Gracchus’ land reform commission"
+        answer: "GAIUS GRACCHUS / APPIUS CLAUDIUS (THE FATHER-IN-LAW OF TIBERIUS)"
+  - tossup:
+      question: "Who chose the form of an epic-didactic poem in order to popularize the Epicurean doctrine in the First Century BC?"
+      answer: "(T.) LUCRETIUS (CARUS)"
+    boni:
+      - question: "What was the title of this epic-didactic poem?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒRUM NATŪR</latin></title>Ā"
+      - question: "To whom did Lucretius dedicate his <title><latin>Dē</latin></title> <title><latin>Rērum Natūr</latin></title>ā ?"
+        answer: "MEMMIUS"
+  - tossup:
+      question: "What is special about the following words: <latin>mōs, sāl, opera, fīnis?</latin>"
+      answer: "THEY HAVE PLURAL FORMS THAT HAVE SPECIAL MEANINGS (DIFFERENT MEANINGS IN SINGULAR AND PLURAL)"
+    boni:
+      - question: "What is special about the following words: <latin>Mulciber, pecus, vās, domus?</latin>"
+        answer: "HETEROCLITES (THEY HAVE FORMS THAT VARY BETWEEN/AMONG DECLENSIONS)"
+      - question: "What is special about the following words: <latin>locus, dēlicium, carbasus, balneum?</latin>"
+        answer: "HETEROGENES (THEIR PLURAL FORMS HAVE DIFFERENT GENDER THAN THE SINGULAR)"
+  - tossup:
+      question: "A famous line of graffitti says, \"<latin>Admīror, pariēs, tē</latin> <latin>nōn cecidisse ruīnīs,/ quī</latin> <latin>tot scrīptōrum taedia sustineās</latin>.\" Explain the use of the infinitive in that saying"
+      answer: "INDIRECT STATEMENT (“I am amazed, O Wall, who sustaineth the nettlings of so many authors, that thou hast not fallen into ruin.”)"
+    boni:
+      - question: "You see here five examples of graffiti and other inscriptions. Which one of them most likely comes from a tomb?"
+        answer: "E"
+      - question: "Which one of them is most likely a \"lost and found\" ad?"
+        answer: "D"
+  - tossup:
+      question: "Who went to his father Creon to plead for leniency on behalf of Antigone?"
+      answer: "HAEMON"
+    boni:
+      - question: "Who finally convinces Creon that he must release Antigone because the gods were rejecting all Theban sacrifices?"
+        answer: "T(E)IRESIAS"
+      - question: "Upon discovering the body of Antigone, what did Haemon attempt to do before he killed himself?"
+        answer: "HE TRIED TO KILL HIS FATHER (CREON)"
+  - tossup:
+      question: "What first century A.D. emperor does Suetonius call \"<latin>amor ac dēliciae generis hūmānī</latin>\" or the “love and the delight of the human race?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "When did Titus' troops first salute him as \"imperātor\"?"
+        answer: "AFTER HE CONQUERED JERUSALEM (70 A.D.)"
+      - question: "What office did Titus hold together with his father Vespasian?"
+        answer: "CENSOR"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “quō</latin> <latin>usque tandem abūtēre, Catilīna, patientiā</latin> <latin>nostrā.” Quā</latin> <latin>persōnā</latin> <latin>est “abūtēre?”</latin>"
+      answer: "<latin>SECUNDĀ</latin>"
+    boni:
+      - question: "<latin>quō</latin> <latin>cāsū</latin> <latin>est “patientiā</latin> <latin>nostrā?”</latin>"
+        answer: "ABLĀTĪVŌ"
+      - question: "<latin>quae pars ōrātiōnis est “usque?”</latin>"
+        answer: "ADVERBIUM"
+  - tossup:
+      question: "According to Vergil, which of the judges of the Underworld ruled over Tartarus?"
+      answer: "RHADAMANTHYS"
+    boni:
+      - question: "What river surrounded Tartarus?"
+        answer: "(PYRI)PHLEGETHON"
+      - question: "In addition to Phlegethon, Tartarus was surrounded by three strong walls. What mythological trio guarded the entrance to Tartarus?"
+        answer: "FURIES (ALLECTO, TISIPHONE, MEGARA)"
+  - tossup:
+      question: "What Roman author liked to apply this one line from the <title>Odyssey</title>: “A rugged soil, yet nurse of hardy sons,” to his native land of Arpinum?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "In which of Cicero’s works does he project himself into the past in order to identify the Roman constitution in the time of the Scipios as the best form of the state?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒ</latin></title> <title><latin>PUBLIC</latin></title>Ā"
+      - question: "Inspired by the model of Plato, what work did Cicero write as a complement to the <title><latin>Dē</latin></title> <title><latin>Rē</latin></title> <title><latin>Publicā</latin></title>?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>LEGIBUS</latin></title>"
+  - tossup:
+      question: "Which of the following words, if any, does NOT have the same Latin root as the others? constitution, contrast, persist, arrest, distant"
+      answer: "NONE; ALL SHARE THE SAME ROOT"
+    boni:
+      - question: "Which of the following words, if any, does NOT have the same Latin root as the others? ravine, rate, reify, reason"
+        answer: "RAVINE"
+      - question: "Which of the following words, if any, does NOT have the same Latin root as the others? empire, several, separate, apart"
+        answer: "APART"
+  - tossup:
+      question: "After his death, into what was Cycnus, the son of Neptune, transformed?"
+      answer: "SWAN"
+    boni:
+      - question: "What ability did Neptune bestow on Cycnus during the Trojan War?"
+        answer: "HE MADE HIM INVULNERABLE TO WEAPONS"
+      - question: "How did Achilles kill Cycnus?"
+        answer: "STRANGLED HIM WITH HIS OWN HELMET THONGS"
+  - tossup:
+      question: "Listen to the following line, which I will read as if prose, and indicate where an ecthlipsis would occur? <latin>“extantem atque umerōs innātō mūrice tēctum”</latin>"
+      answer: "BETWEEN <latin>“EXTANTEM”</latin> AND <latin>“ATQUE”</latin>"
+    boni:
+      - question: "How many dactyls are contained in that line?"
+        answer: "TWO"
+      - question: "Listen to the following line, which I will read as if prose, and indicate where an aphaeresis would occur? <latin>“spēs tamen in dubiō est: adeō caelestibus ambō”</latin>"
+        answer: "BETWEEN <latin>“DUBIŌ”</latin> AND <latin>“EST”</latin>"
+  - tossup:
+      question: "Which of Rome's heroes is said to have been military tribune with consular power in 401, 398, 394, 386, 384, and 381 B.C.?"
+      answer: "(M. FURIUS) CAMILLUS"
+    boni:
+      - question: "What military victory did Camillus achieve in 396 B.C.?"
+        answer: "VEII"
+      - question: "What temple did Camillus vow at the foot of the Capitoline Hill?"
+        answer: "CONCORD"
+  - tossup:
+      question: "Give all the participles which are active in form for the verb <latin>ingredior</latin>"
+      answer: "INGREDIĒNS, INGRESSŪRUS"
+    boni:
+      - question: "For the same verb, give the participles which are passive in form"
+        answer: "<latin>INGRESSUS, INGREDIENDUS</latin>"
+      - question: "Translate the following sentence into Latin using the verb <latin>ingredior</latin>: “The senator says that his daughters will enter soon.”"
+        answer: "<latin>SENĀTOR DĪCIT (SUĀS) FĪLIĀS (EIUS) MOX INGRESSŪRĀS ESSE</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What Greek leader enraged Apollo when he took Chryseis as his concubine?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "When the other Greek leaders forced Agamemnon to give up Chryseis, whose concubine did he then take as his own?"
+        answer: "ACHILLES'"
+      - question: "What was her name?"
+        answer: "BRISEIS"
+  - tossup:
+      question: "With what signal did a wounded or defeated gladiator appeal for mercy?"
+      answer: "RAISED (FORE)FINGER"
+    boni:
+      - question: "What was the signal that mercy should be given to the appealing gladiator?"
+        answer: "WAVING OF HANDKERCHIEF(S)"
+      - question: "What is the Latin term for such mercy?"
+        answer: "<latin>MISSIO/MISSUS</latin>"
+  - tossup:
+      question: "Who was only nine years old when his father had him swear eternal hostility to Rome?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "Who was Hannibal’s father?"
+        answer: "HAMILCAR (BARCA)"
+  - tossup:
+      question: "Change the verb <latin>ferimus</latin> (FER-imus) to the perfect tense"
+      answer: "<latin>TULIMUS</latin>"
+    boni:
+      - question: "Change <latin>tulimus</latin> to the passive"
+        answer: "<latin>LĀTĪ</latin> <latin>/ -AE / -A SUMUS</latin>"
+      - question: "Make <latin>ferō</latin> a future active infinitive"
+        answer: "<latin>LĀTŪRUS</latin> / -<latin>UM /</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dictātor summam potestātem obtinuit</latin>"
+      answer: "THE DICTATOR OBTAINED / PRESERVED / MAINTAINED THE GREATEST / HIGHEST POWER"
+    boni:
+      - question: "<latin>Rēs pūblica Rōmānīs servanda est</latin>"
+        answer: "THE ROMANS MUST GUARD THE REPUBLIC / STATE / COUNTRY"
+      - question: "or THE REPUBLIC / STATE / COUNTRY MUST BE GUARDED BY THE ROMANS . . . <latin>Cēnsōrēs novī</latin> <latin>tribus annīs nōminābuntur</latin>"
+        answer: "NEW CENSORS WILL BE NAMED / NOMINATED (WITH)IN THREE YEARS"
+  - tossup:
+      question: "Melampus, Ichnobates, and Laelaps were among the many dogs which accompanied what ill-fated hunter?"
+      answer: "ACTAEON"
+    boni:
+      - question: "Actaeon was definitely ill-fated because he stumbled upon what forbidden sight?"
+        answer: "DIANA/ ARTEMIS BATHING"
+      - question: "What metamorphosis overcame him and was the cause of his death?"
+        answer: "TURNED INTO A STAG"
+  - tossup:
+      question: "What structure was begun after Hadrian’s visit to Britain in A"
+      answer: "D."
+    boni:
+      - question: "122?"
+        answer: "(STONE) WALL (FROM TYNE TO SOLWAY)"
+      - question: "How did the Romans make the wall more defendable on the north side?"
+        answer: "FOSSA / LARGE V-SHAPED DITCH"
+      - question: "What emperor rebuilt the wall 85 years later?"
+        answer: "SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliquandō</latin>”?"
+      answer: "SOMETIMES / AT ANY TIME / EVER"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliquid</latin>”?"
+        answer: "SOMETHING / SOME / A LITTLE BIT"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>aliter</latin>”?"
+        answer: "OTHERWISE / ANY OTHER WAY / ELSE"
+  - tossup:
+      question: "What English derivative of the Latin verb <latin>bibō</latin>, <latin>bibere</latin> means “to drink in or absorb?”"
+      answer: "IMBIBE"
+    boni:
+      - question: "means “given to drink?”"
+        answer: "BIBULOUS"
+      - question: "means “any one of various liquids for drinking?”"
+        answer: "BEVERAGE"
+  - tossup:
+      question: "Translate into English: <latin>Prīmā</latin> <latin>lūce, peditēs Rōmānī</latin> <latin>impetum in hostēs fēcērunt</latin>"
+      answer: "AT DAWN, THE ROMAN FOOT SOLDIERS MADE AN ATTACK AGAINST / ATTACKED THE ENEMY / ENEMIES "
+    boni:
+      - question: "What is the letter of the picture described by the following sentence: <latin>Mīlitēs in fugam hōstēs dedērunt</latin>?"
+        answer: "<latin>B</latin>"
+      - question: "<latin>Lēgātus ōrātiōnem habuit</latin>?"
+        answer: "F"
+  - tossup:
+      question: "What bribe did Juno use to induce Aeolus to send his winds against Aeneas' fleet?"
+      answer: "A NYMPH / DEIOPEIA / THAT HE WILL HAVE BEAUTIFUL OFFSPRING"
+    boni:
+      - question: "What land was Aeneas' fleet leaving when the storm hit?"
+        answer: "SICILY"
+      - question: "How many of Aeneas' ships were destroyed in the storm?"
+        answer: "ONE"
+  - tossup:
+      question: "What two successful Roman generals were rivals for the command against Mithridates of Pontus in 88 B. C.?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "and (L"
+        answer: "CORNELIUS) SULLA"
+      - question: "Name the tribune who had the <latin>concilium plebis</latin> transfer the command from Sulla to Marius?"
+        answer: "(P. SULPICIUS) RUFUS"
+      - question: "How did Sulla get back the command?"
+        answer: "MARCHED ON ROME WITH HIS ARMY"
+  - tossup:
+      question: "Give the form of the comparative of the adjective <latin>bonus</latin> that agrees with the noun form <latin>ālārum</latin>?"
+      answer: "<latin>MELIŌRUM</latin>"
+    boni:
+      - question: "Give the form of the comparative of the adjective <latin>parvus</latin> that agrees with the noun form <latin>animālia</latin>?"
+        answer: "<latin>MINŌRA</latin>"
+      - question: "Give the form of the comparative of the adjective <latin>malus</latin> that agrees with the noun form <latin>os?</latin>"
+        answer: "PEIUS"
+  - tossup:
+      question: "What two uses of the ablative case are found in the following Latin sentence: <latin>Publius ā</latin> <latin>frātre iaculō</latin> <latin>interfectus est</latin>?"
+      answer: "AGENCY & MEANS"
+    boni:
+      - question: "<latin>Hōc annō</latin> <latin>Caesar magnā</latin> <latin>vī</latin> <latin>necātus est?</latin>"
+        answer: "TIME (WHEN) & MANNER"
+      - question: "<latin>Puer statuam magnā</latin> <latin>pulchritūdine decem sestertiīs vēndidit</latin>?"
+        answer: "QUALITY / DESCRIPTION & (SPECIFIC / DEFINITE) PRICE"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā</latin> <latin>Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī</latin> <latin>sexāgintā</latin> <latin>quīnque diēs per annum essent et, haud necessāriō</latin> <latin>mēnse remōt</latin><latin>ō,</latin> <latin>ūnus diēs quārtō</latin> <latin>quōque annō</latin> <latin>adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
+      answer: "<latin>ANNUM / FASTŌS / KALENDĀRIUM</latin>"
+    boni:
+      - question: " <latin>Quid Caesar cōnfēcit antequam rem pūblicam ōrdināre inciperet?</latin> "
+        answer: "<latin>BELLA CĪVĪLIA</latin>"
+      - question: " <latin>Quid Caesar addidit quārtō</latin> <latin>quōque ann</latin><latin>ō?</latin>"
+        answer: "<latin>ŪNUM DIEM</latin>"
+  - tossup:
+      question: "Which one of the Argonauts became the father of Achilles?"
+      answer: "PELEUS"
+    boni:
+      - question: "Which of the Argonauts was later considered the wisest Greek at Troy?"
+        answer: "NESTOR"
+      - question: "Which of the Argonauts was the father of the Greek hero Ajax?"
+        answer: "TELAMON"
+  - tossup:
+      question: "Translate into English the motto of the state of Alabama: <latin>Audēmus iūra nostra dēfendere</latin>?"
+      answer: "WE DARE TO DEFEND/MAINTAIN OUR RIGHTS."
+    boni:
+      - question: "the motto of the state of Oregon: <latin>Ālīs volat propriīs</latin>?"
+        answer: "IT FLIES ON ITS OWN (WINGS) (accept any 3rd person pronoun)"
+      - question: "the motto of the state of Colorado: <latin>Nīl sine nūmine</latin>?"
+        answer: "NOTHING WITHOUT DIVINE POWER / GUIDANCE / WILL"
+  - tossup:
+      question: "What city, located in the instep of the boot of Italy, invited king Pyrrhus to invade Italy?"
+      answer: "TARENTUM"
+    boni:
+      - question: "What Greek city-state, noted for its superb military, had founded Tarentum as a colony?"
+        answer: "SPARTA"
+      - question: "What political partnership was renewed at Tarentum in 37 BC?"
+        answer: "SECOND TRIUMVIRATE"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Surge et prōgredere</latin>  STUDENT SHOULD STAND A WALK IN SOME DIRECTION <latin>. . . Bis surge et cōnsīde</latin>"
+      answer: "ONE STUDENT SHOULD STAND AND SIT TWICE"
+    boni:
+      - question: "<latin>. . . Surgite et plaudite quiet</latin><latin>ē.</latin> "
+        answer: "MORE THAN ONE STUDENT SHOULD STAND AND SILENTLY APPLAUD"
+  - tossup:
+      question: "Who, as a result of a childhood encounter with a wild boar's tusk, had a scar from a deep gash in his thigh?"
+      answer: "ULYSSES/ODYSSEUS"
+    boni:
+      - question: "Who recognized that scar when Odysseus finally returned to Ithaca ten years after the Trojan War?"
+        answer: "(HIS NURSE) EURYCLEIA"
+      - question: "After Odysseus had slain Penelope's suitors, what did he command Eurycleia to tell him?"
+        answer: "WHICH MAIDSERVANTS HAD DISHONORED HIM/ CONSORTED WITH THE SUITORS"

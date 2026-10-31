@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Name the two individuals who pursued Artemis and annoyed her so much that she caused them to kill each other with arrows?"
+      answer: "CRETE"
+    boni:
+      - question: "Who was their mother?"
+        answer: "IPHIMEDIA"
+      - question: "Who was their father and their foster-father?"
+        answer: ""
+  - tossup:
+      question: "What garment, originally a military cloak, was worn extensively by the middle class during the Empire in the place of the toga?"
+      answer: "<latin>LACERNA</latin>"
+    boni:
+      - question: "What cloak was a poncho-like garment with a hood worn, especially by women when traveling?"
+        answer: "<latin>PAENULA</latin>"
+      - question: "What cloak was worn over the tunic like the toga, but did hot hinder movement as much because it was shorter and not folded?"
+        answer: "<latin>PALLIUM</latin>"
+  - tossup:
+      question: "What two cases are used to to express value?"
+      answer: "GENITIVE & ABLATIVE"
+    boni:
+      - question: "Which case expresses indefinite value?"
+        answer: "GENITIVE"
+      - question: "From what use of the genitive case is the genitive of value derived?"
+        answer: "QUALITY / DESCRIPTION"
+  - tossup:
+      question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others? verify, aver, verdict, vertigo, veracity"
+      answer: "VERTIGO"
+    boni:
+      - question: "What Latin verb with what meaning is the root of “vertigo”?"
+        answer: "<latin>VERTŌ, VERTERE</latin> - TURN"
+      - question: "What Latin verb with what meaning is the root of “verdant”?"
+        answer: "<latin>VIREŌ, VIRĒRE</latin> - BE GREEN, STRONG, ALIVE"
+  - tossup:
+      question: "What Roman general showed his love of Greek art by looting every painting, sculpture, and monument he could ship home, after he captured Athens in 86 B.C.?"
+      answer: "L. CORNELIUS SULLA"
+    boni:
+      - question: "From what enemy of Rome was Sulla retaking Athens?"
+        answer: "MITHRIDATES (VI OF PONTUS)"
+      - question: "Where did Sulla and Mithridates sign a treaty in 85 B.C. in which the Pontic king agreed to abandon his conquests in Asia Minor?"
+        answer: "DARDANUS (IN THE TROAD)"
+  - tossup:
+      question: "Make the phrase <latin>pecus nullum</latin> genitive singular"
+      answer: "<latin>PECORIS NULLĪUS</latin>"
+    boni:
+      - question: "Make the phrase <latin>nix liquescens</latin> genitive singular"
+        answer: "<latin>NIVIS LIQUESCENTIS</latin>"
+      - question: "Make the phrase <latin>vās |ēnum</latin> genitive singular"
+        answer: "<latin>VĀSIS {ĒNĪ</latin> (SPELL)"
+  - tossup:
+      question: "Differentiate in meaning between the adjectives <latin>angustus</latin> and <latin>augustus</latin>."
+      answer: "<latin>ANGUSTUS</latin> - NARROW, CONFINED, CLOSE, RESTRICTED, SHORT; <latin>AUGUSTUS</latin> - MAJESTIC, REVEREND, HONORABLE, VENERABLE, AUGUST, IMPERIAL, ROYAL, AUGUSTAN"
+    boni:
+      - question: "From what Latin verb with what meaning is the adjective <latin>augustus</latin> derived?"
+        answer: "<latin>AUGEŌ, -ĒRE</latin> - INCREASE, STRENGTHEN"
+      - question: "From what Latin verb with what meaning is the adjective <latin>angustus</latin> derived?"
+        answer: "<latin>ANGŌ, -ERE</latin> - CHOKE, TORMENT, DRAW, BIND, STRANGLE"
+  - tossup:
+      question: "According to Ovid, who, as a punishment for unknowingly hurting the disguised nymph Lotis, was transformed into a lotus tree?"
+      answer: "DRYOPE"
+    boni:
+      - question: "According to the same account, the nymph Lotis had been transformed into the lotus tree in order to avoid whose obscenities?"
+        answer: "PRIAPUS"
+      - question: "Why did Dryope pluck the flowers of the lotus tree, unknowingly hurting the nymph Lotis, and thus brought upon her own demise?"
+        answer: "BECAUSE SHE WANTED TO GIVE HER SON (AMPHISSUS) SOMETHING TO PLAY WITH"
+  - tossup:
+      question: "What Persian “King of Kings” overran the Roman territories of Mesopotamia and Armenia in the middle of the 3rd century A.D.?"
+      answer: "SHAPUR I"
+    boni:
+      - question: "What Roman emperor foolishly agreed to meet Shapur and was captured?"
+        answer: "VALERIAN"
+      - question: "What ruler of Palmyra defeated Shapur and was rewarded with the command of the Roman forces in the east?"
+        answer: "ODAENATHUS"
+  - tossup:
+      question: "Using a defective verb, say in Latin: they will remember"
+      answer: "<latin>MEMINERINT</latin>"
+    boni:
+      - question: "Use a defective verb to say in Latin “to hate”"
+        answer: "<latin>ŌDISSE</latin>"
+      - question: "With the most common grammatical form for the verb <latin>sciō</latin>, in one word, command one person “to know”"
+        answer: "<latin>SCĪTŌ</latin>"
+  - tossup:
+      question: "In naming their latest microprocessor chip to rival the Intel Pentium line, Advanced Micro Devices chose a classical name they thought fitting. What is the meaning of AMD’s latest microprocessor, the Athlon?"
+      answer: "CONTEST, STRUGGLE"
+    boni:
+      - question: "What related English word means “a contest consisting of seven events”?"
+        answer: "HEPTATHLON"
+      - question: "As we sit here today, many athletes are preparing for the upcoming Sydney Olympics. One of the most watched event during the Olympics will be the 100 meter dash. Give the meaning of the Greek noun from which “meter” is derived"
+        answer: "MEASURE, RULE, STANDARD"
+  - tossup:
+      question: "What Latin city was Rome’s chief rival for power in the early monarchy?"
+      answer: "ALBA LONGA"
+    boni:
+      - question: "Name the son of Aeneas who was the founder of Alba Longa"
+        answer: "ASCANIUS"
+      - question: "or ILUS or IULUS Which Roman king supposedly destroyed Alba Longa and transferred its population to Rome?"
+        answer: "TULLUS HOSTILIUS"
+  - tossup:
+      question: "For what Latin phrase does the abbreviation <latin>ad init.</latin> stand and what does the phrase mean?"
+      answer: "<latin>AD INITIUM</latin> - AT THE BEGINNING"
+    boni:
+      - question: "For what Latin phrase does the similar abbreviation <latin>ad int.</latin> stand?"
+        answer: "<latin>AD INTERIM</latin>"
+      - question: "What is the meaning of <latin>ad int.</latin>?"
+        answer: "IN THE MEANTIME, MEANWHILE, TEMPORARILY, FOR THE TIME BEING"
+  - tossup:
+      question: "Translate the word <latin>cum</latin> into English for the following sentence: <latin>cum Marcus Rōmam eat, tam fēlīx est ut dormīre nōn possit.</latin>"
+      answer: "SINCE / BECAUSE / WHEN"
+    boni:
+      - question: ": <latin>cum Marcus in Fōrum Rōmānum īvisset, arcum Titī tamen nōn vīdit</latin>"
+        answer: "ALTHOUGH / EVEN THOUGH"
+      - question: "What is the standard translation for the correlative <latin>cum...tum</latin>?"
+        answer: "BOTH...AND / NOT ONLY... BUT ALSO"
+  - tossup:
+      question: "According to Vergil, who appeared to Aeneas in a dream and advised him to seek an alliance with Evander?"
+      answer: "(THE RIVER-GOD) TIBER(I)NUS"
+    boni:
+      - question: "What portent, predicted by Tiberinus in the dream, did Aeneas see after he woke up from his sleep?"
+        answer: "A (WHITE) SOW WITH A LITTER (OF THIRTY YOUNG)"
+      - question: "What son of Evander was sent to help Aeneas in his war against Turnus?"
+        answer: "PALLAS"
+  - tossup:
+      question: "16"
+      answer: "(PASS OUT THE VISUALS) DO NOT OPEN THE VISUALS UNTIL YOU ARE INSTRUCTED TO DO SO. YOU MAY OPEN THEM <emphasis>NOW</emphasis>."
+    boni:
+      - question: "The picture you see is from an illustrated edition of <title>Metamorphoses</title> that was published in 1683 in Amsterdam and depicts various episodes of Heracles’ life. Look very carefully at the picture and identify the character labeled “E”"
+        answer: "NESSUS"
+      - question: "In the picture, please identify Antaeus, the son of Gaia, and explain your answer"
+        answer: "“A”"
+      - question: "or “C” / BECAUSE HE REGAINED HIS STRENGTH EVERY TIME HE TOUCHED THE GROUND Please identify the character labeled “D”"
+        answer: "DEIANEIRA"
+  - tossup:
+      question: "Using the most standard grammatical construction with the verb <latin>iubeō</latin>, translate the following sentence into Latin: he ordered the soldiers to march for ten miles"
+      answer: "<latin>IUSSIT MĪLITĒS DECEM MĪLIA PASSUUM ITER FACERE</latin>"
+    boni:
+      - question: "Now, translate that sentence using the most common grammatical construction with the verb <latin>mandō</latin>"
+        answer: "<latin>MANDĀVIT MĪLITIBUS UT</latin>"
+      - question: "(or <latin>UT MĪLITĒS) DECEM MĪLIA  PASSUUM ITER FACERENT</latin>  Now, using the most common grammatical construction with the verb <latin>mittō</latin>, translate the following sentence into Latin: he sent the soldiers to pitch camp"
+        answer: "<latin>MĪSIT MĪLITĒS QUĪ CASTRA PONERENT</latin>"
+  - tossup:
+      question: "Let’s play “Who Wants To Be A Millionaire.” Listen carefully to the following passage, which I will read twice, then answer in LATIN the question that follows: <latin>Aliquā rē difficillimā interrogātā, certātōrī licet ūnam es hīs actiōnibus ēligere: amīcum vocāre, duō respona amovērī, aut sententiam ex audītōribus poscere.  Post quod factum auxilium certātōrī poscendum est?</latin>"
+      answer: "<latin>ALIQUĀ RĒ DIFFICILLIMĀ INTERROGĀTĀ / POST REM DIFFICILLIMAM</latin>"
+    boni:
+      - question: "Aliquā <latin>rē difficillimā interrogātā, quid certātor facere dēbet?</latin>"
+        answer: "<latin>ĒLIGERE (ŪNAM) ACTIŌNEM</latin>"
+      - question: "<latin>Dīc mihi quae sint duae ex actiōnibus certātōris?</latin>"
+        answer: "STUDENT SHOULD NAME TWO OF THE FOLLOWING: <latin>VOCĀRE AMĪCUM</latin>"
+  - tossup:
+      question: "According to Homer, what Ithacan seer predicted that his old friend Odysseus would return to Ithaca in the twentieth year after embarking for Troy?"
+      answer: "HALITHERSES"
+    boni:
+      - question: "In Book II of Homer’s <title>Odyssey</title>, what prediction did Halitherses make upon seeing the two eagles that hovered above the gathered assembly at Odysseus’ palace?"
+        answer: "THAT ODYSSEUS WOULD SOON (RETURN AND) TAKE VENGEANCE UPON THE SUITORS/THOSE WHO WERE DESPOILING HIS HOUSE"
+      - question: "What was Halistherses unable to do in Book XXIV of Homer’s <title>Odyssey</title>?"
+        answer: "HE WAS UNABLE TO DISSUADE THE RELATIVES OF THE DEAD SUITORS FROM ATTACKING ODYSSEUS (AND HIS FATHER)"
+  - tossup:
+      question: "Who was the prefect of Egypt who pushed the frontier of the Empire to the First Cataract of the Nile?"
+      answer: "(C.) CORNELIUS GALLUS"
+    boni:
+      - question: "Who attacked the Roman troops in the area and carried off booty including statues of Augustus?"
+        answer: "CANDACE, QUEEN OF ETHIOPIANS"
+      - question: "Who was sent with a punitive expedition?"
+        answer: "C. PETRONIUS"

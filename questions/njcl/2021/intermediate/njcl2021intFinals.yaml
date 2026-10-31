@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "During a visit to the oracle of his father, Faunus, what king had learned that his daughter must marry a foreigner, and eventually repudiated Turnus by betrothing Lavinia to Aeneas?"
+      answer: "LATINUS"
+    boni:
+      - question: "Who was Lavinia’s mother, the queen who ruled Latium alongside King Latinus?"
+        answer: "AMATA"
+      - question: "According to Book 6 of the <title>Aeneid</title>, what god was Latinus’ great-grandfather?"
+        answer: "SATURN"
+  - tossup:
+      question: "Listen carefully to the following passage, which continues the story of the teenagers from the semifinal round. I will read the passage twice, then answer the Tossup question that follows in LATIN: <latin>Nōnnūllōs post mēnsēs, īdem adulescens sōlus eandem legentem libellum expectāns in lītore stābat pallā aliēnā indūtā. Eō tempore puella, quae mōre lēgit in lītore, appāruit ut epistulam relinqueret. Adulescens spērāvit epistulam fore seu cōnfessiōnem amōris seu aliud simile. Epistulā sublātā, legit adulescens: “Redde mihi pallam. Hiems propinquat.” Oculīs lacrimīs plēnīs, adulescens arrīdēre cōnātur nēquīquam.</latin> Question: <latin>Quālem epistulam spērāvit adulescens esse relictam?</latin>"
+      answer: "(SEU) <latin>CŌNFESSIŌNEM AMŌRIS</latin> (SEU ALIUD SIMILE)"
+    boni:
+      - question: "<latin>RESPONDĒ ANGLICĒ: Quis nūntius in epistulā inerat?</latin>"
+        answer: "GIVE ME BACK MY JACKET / SHAWL / PALLA. WINTER IS COMING. (prompt if one one part of the message is answered)"
+      - question: "<latin>RESPONDĒ LATĪNĒ: Quid fēcit puella aliīs diēbus, secundum lectionem?</latin>"
+        answer: "(MŌRE) LEGIT (LIBELLUM / IN LĪTORE)"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the ultimate root of “confession.”"
+      answer: "<latin>FATEOR</latin> - CONFESS"
+    boni:
+      - question: "Give the Latin noun and its meaning at the root of “stencil.”"
+        answer: "<latin>SCINTILLA</latin> – SPARK"
+      - question: "Give the Latin verb and its meaning at the ultimate root of “interfere”."
+        answer: "<latin>FERIŌ</latin> – STRIKE"
+  - tossup:
+      question: "In the following sentence, distinguish in meaning between any <emphasis>two</emphasis> of the three nouns. <latin>Virī vestrās vīrēs in viīs laudant.</latin>"
+      answer: "Any two of… <latin>VIRĪ</latin> - MEN / <latin>VIR</latin> - MAN, <latin>VĪRĒS / VĪS</latin> – STRENGTH(S) / VIOLENCE(S) / FORCE(S) //, <latin>VIĪS</latin> - (ON/IN) ROADS / STREETS / WAYS // <latin>VIA</latin> - ROAD / STREET / WAY"
+    boni:
+      - question: "In the following sentence distinguish in meaning between any two of the three nouns. <latin>Aestāte erat magnus aestus similis nullae aetātī.</latin>"
+        answer: "Any <emphasis>two</emphasis> of… <latin>AESTĀTE</latin> - (IN (THIS)) SUMMER / <latin>AESTĀS</latin> - SUMMER, <latin>AESTUS</latin> - TIDE / SURGE / HEAT, <latin>AETĀTĪ</latin> - (TO) AGE / <latin>AETĀS</latin> - AGE"
+      - question: "In the following sentence distinguish in meaning between any two of the three nouns. <latin>Unum mensem in meā mente emere novam mensam habēbam.</latin>"
+        answer: "Any two of… <latin>MĒNSIS /</latin> <latin>MENSEM</latin> - (FOR) MONTH <latin>MĒNS / MENTE</latin> - (IN) MIND <latin>MENSA / MENSAM</latin> - TABLE"
+  - tossup:
+      question: "Imagine you are a Roman pedestrian in the 4th century AD. What important thoroughfare do you stroll along as you make your way from the Flavian Amphitheater towards the Roman Forum?"
+      answer: "<latin>VIA SACRA /</latin> SACRED WAY"
+    boni:
+      - question: "As you walk down the Via Sacra headed towards the Capitoline Hill, you pass by the Curia on your right. Then, which monument do you pass under?"
+        answer: "ARCH OF SEPTIMIUS SEVERUS"
+      - question: "As you reach the end of the Via Sacra, you decide to climb the Capitoline Hill in order to peek into the traditional destination of a triumphal procession. What building do you enter?"
+        answer: "TEMPLE OF JUPITER CAPITOLINUS / OPTIMUS MAXIMUS (prompt on just Temple of Jupiter)"
+  - tossup:
+      question: "Knowing that Cicero was fond of parallelism in his tricolons, give the form of <latin>patior</latin> missing from this line of Cicero’s first oration against Catiline: <latin>nōn feram, nōn ____, nōn sinam.</latin>"
+      answer: "<latin>PATIAR</latin>"
+    boni:
+      - question: "Give the form of <latin>adsequor</latin> missing from this line of Cicero’s first oration against Catiline: <latin>nihil agis, nihil ____, nihil mōlīris.</latin>"
+        answer: "<latin>ADSEQUERIS</latin>"
+      - question: "Give the form of <latin>proficīscor</latin> missing from this line, which is also from Cicero’s first oration against Catiline: <latin>perge, quō coepistī; ēgredere aliquandō ex urbe; ____, patent portae.</latin>"
+        answer: "<latin>PROFICĪSCERE</latin>"
+  - tossup:
+      question: "In Book 7 of the <title>Odyssey</title>, the mist melts away from Odysseus as he first kneels at the feet of what daughter of Rhexenor, before turning to her Phaeaecian husband, Alcinoüs?"
+      answer: "ARETE"
+    boni:
+      - question: "In a different epic, Arete allows what couple to consummate their marriage on her island, Drepane, which allows them to rid themselves of the ships that pursued them?"
+        answer: "JASON and MEDEA"
+      - question: "According to the <title>Odyssey</title>, Arete and Alcinoüs were both descendants of what man, who led the migration of the Phaeacians to Scheria?"
+        answer: "NAUSITHOÜS"
+  - tossup:
+      question: "On a recent dig, renowned fictional archeologist Ohio Smith finds a Roman coin. On the obverse of the coin they see a portrait of an emperor and the letters <latin>PP</latin>. What Latin phrase is abbreviated by these two letters on Roman coins?"
+      answer: "<latin>PATER PATRIAE</latin>"
+    boni:
+      - question: "Dr. Smith takes a closer look and sees the inscription <latin>IMP CAES D VESPASIANI F</latin> What relationship is there between the figure on the coin and Vespasian?"
+        answer: "FATHER-SON // THE EMPEROR IS VESPASIAN’S SON"
+      - question: "Another inscription emerges after the coin has been cleaned: <latin>TRIB POT</latin> and <latin>COS II</latin>. Give the English meaning of either of these sets of letters."
+        answer: "TRIBUNICIAN POWER ( - <latin>TRIBUNICIA POTESTAS</latin>) // CONSUL FOR THE SECOND TIME ( - <latin>CONSUL SECUNDUS / SECUNDUM / BIS</latin>)"
+  - tossup:
+      question: "What previously deposed emperor did Odoacer install as ruler of Rome in name only after sacking the city in 476 AD?"
+      answer: "JULIUS NEPOS"
+    boni:
+      - question: "What emperor preceded Nepos and ruled briefly from 473-474 AD?"
+        answer: "GLYCERIUS"
+      - question: "What <latin>magister militum,</latin> a prince of the Burgundians and nephew of Ricimer, continued in his uncle’s footsteps of being the so-called emperor maker by elevating Glycerius to the throne?"
+        answer: "GUNDOBAD"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>vir hastātus audīvit peditem sē trāns flūmen persecūtum esse</latin>."
+      answer: "THE SPEARMAN / PIKEMAN / HALBERDIER / CAPTAIN HEARD THAT THE FOOT SOLDIER / INFANTRYMAN HAD FOLLOWED / PURSUED HIM ACROSS THE RIVER"
+    boni:
+      - question: "Translate the following sentence into English: <latin>explōrātor scīvit exercitum in insidiās ductum iri</latin>."
+        answer: "THE SCOUT / SPY / EXPLORER KNEW THAT THE ARMY WOULD BE LED INTO (A) TRAP(S) / AMBUSH(ES) / PLOTS"
+      - question: "Translate the following sentence into Latin: I see that your father will never use the door."
+        answer: "<latin>VIDEO PATREM (TUUM / VESTRUM) NUMQUAM IANUĀ USURUM (ESSE)</latin>"
+  - tossup:
+      question: "From what two Latin prepositions do we derive the word “advantage”?"
+      answer: "<latin>AB</latin> & <latin>ANTE</latin>"
+    boni:
+      - question: "What adjective, derived from the Latin prepositions <latin>ab</latin> and <latin>ante</latin>, is used to describe people whose works are innovative, radical, or experimental, especially in the arts?"
+        answer: "AVANT-GARDE"
+      - question: "What noun, also derived from the Latin prepositions <latin>ab</latin> and <latin>ante</latin>, is the foremost position in an army or fleet advancing into battle?"
+        answer: "VANGUARD"
+  - tossup:
+      question: "We will now screenshare a visual. Once it is shared, you will have 5 seconds to examine it before I begin the toss-up question. [Share the visual!] Question: This metope from Paestum depicts what creatures, perhaps staring at their captor’s black bottom, after he caught them while conducting tasks on behalf of Omphale?"
+      answer: "CERCOPES // PASSALUS AND ACMON"
+    boni:
+      - question: "Into what type of animal were the Cercopes changed because of their hijinks?"
+        answer: "MONKEY(S) / APE(S)"
+      - question: "While in the service of Omphale, Heracles also sacked the city of which people, who were also her enemies?"
+        answer: "ITONI"
+  - tossup:
+      question: "What bankrupt young nobleman was paid an enormous price by Caesar to defend his interests, such as vetoing his early recall from Gaul in 50 BC?"
+      answer: "(GAIUS SCRIBONIUS) CURIO"
+    boni:
+      - question: "What consul of 50 BC had proposed legislation to recall Caesar?"
+        answer: "GAIUS (CLAUDIUS) MARCELLUS (prompt to get both names)"
+      - question: "Where did Curio later lose his life while commanding two of Caesar’s legions in 49 BC in opposition to Pompey’s supporters Attius Varus and Juba I?"
+        answer: "(BATTLE OF) BAGRADAS (VALLEY / RIVER)"
+  - tossup:
+      question: "In case you weren’t already aware, the 2020 Summer Olympic Games are currently happening in Tokyo, Japan, with the Paralympic Games soon to follow! Of the following Olympic and Paralympic sports — archery, wheelchair fencing, judo, wheelchair basketball, and triathlon — which is being described in this Latin sentence: <latin>Quisque āthlēta nōn sōlum currit sed etiam birotam agit atque natat.</latin>"
+      answer: "TRIATHLON"
+    boni:
+      - question: "Of the following sports — archery, wheelchair fencing, judo, wheelchair basketball, and triathlon — which is being described in this sentence: <latin>Āthlētae sellīs rotālibus in palaestrā contendunt ut pilam per corbem catervae adversae iniciant.</latin>"
+        answer: "WHEELCHAIR BASKETBALL"
+      - question: "Of the following sports — archery, wheelchair fencing, judo, wheelchair basketball, and triathlon — which is being described in this sentence: <latin>Āthlētae aut ūnā aut singulātim maximā cum dīligentiā sagittīs scopum procul pellere conantur.</latin>"
+        answer: "ARCHERY"
+  - tossup:
+      question: "On what mountain did the following events occur: Zeus manufactured a reconciliation with Hera by pretending that he was going to marry a woman named Plataea; a young man was pulled out of a pine tree by his crazed mother, who killed him in a maenadic fury; a youth whose name means “swollen-footed” was exposed by Laius?"
+      answer: "(MOUNT) CITHAERON"
+    boni:
+      - question: "What mother killed her son in a maenadic fury in this manner?"
+        answer: "AGAVE"
+      - question: "When he was returning from Mt. Cithaeron after killing the Cithaeronian lion, Heracles met what ruler’s heralds, whose ears and noses he cut off before sending them home?"
+        answer: "ERGINUS"
+  - tossup:
+      question: "For the following English sentence, give the correct Latin form for every noun used, excluding pronouns: “The branches fell from the trees and struck me in the forehead.”"
+      answer: "<latin>FRONDES / RAMI</latin> , <latin>(Ā / AB / DĒ / Ē / EX)</latin> <latin>ARBORIBUS</latin> , <latin>FRONTE(M)</latin>"
+    boni:
+      - question: "Again, give the correct Latin form for every noun for this sentence, excluding pronouns: “The doctor used her instruments with great care.”"
+        answer: "<latin>MEDICA</latin>, <latin>INSTRUMENTĪS</latin>, <latin>(CUM) CURĀ</latin>"
+      - question: "Once more, give the correct Latin form for every noun for this sentence, excluding pronouns: “With all hope lost, the citizens made prayers full of faith.”"
+        answer: "<latin>SPĒ, CIVĒS, PRECĒS / SUPPLICIA / VOTA, FIDEĪ</latin>"
+  - tossup:
+      question: "The <latin>Rōstra</latin> in the Roman Forum was decorated with the prows captured from pirate ships in a battle at what location, which was the concluding battle of the Great Latin War?"
+      answer: "ANTIUM"
+    boni:
+      - question: "Where did a Roman army along with support from the Samnites defeat a contingent of Latins and Campanians in the first battle of the Great Latin War?"
+        answer: "SUESSA AURUNCA"
+      - question: "At what location did the first of three men named Publius Decius Mus gain the distinction of <latin>dēvōtio</latin> while fighting against the Latins in 340 B.C.?"
+        answer: "(MT.) VESUVIUS / VESERIS"
+  - tossup:
+      question: "What type of bird, into which Elaïs and Spermo were transformed, was sent by Euphemus between the Clashing Rocks and served as the primary avian symbol of Aphrodite?"
+      answer: "DOVE(S)"
+    boni:
+      - question: "What unique physical ability did Euphemus have?"
+        answer: "(INCREDIBLE) SWIFTNESS // COULD RUN ACROSS WATER (WITHOUT WETTING HIS FEET)"
+      - question: "What Delian king was the father of Elaïs, Spermo, and their sister, Oino?"
+        answer: "ANIUS"
+  - tossup:
+      question: "RESPONDĒ LATĪNĒ: <latin>Quibus instrumentīs Romānīs frumentum oppressum est?</latin>"
+      answer: "CATĪLLŌ ET MĒTĀ // METĪS"
+    boni:
+      - question: "<latin>RESPONDĒ AUT LATĪNĒ AUT ANGLICĒ: Quod animal in glīrāriō tentum est priusquam cōnsūmitur?</latin>"
+        answer: "<latin>GLĪS / GLĪRĒS /</latin> DORMOUSE / DORMICE"
+      - question: "<latin>RESPONDĒ LATĪNĒ: Quae potiō fermentāta, bibita Rōmānīs, sōlum melle aquāque facta est?</latin>"
+        answer: "(AQUA) MULSA / MELLĪTA"
+  - tossup:
+      question: "In a typical round of Certamen, each team is allowed to have four players. However, teams may decide to play with only three-fourths of a maximum team. How does Latin express the fraction “three-fourths”?"
+      answer: "<latin>TRĒS PARTĒS</latin>"
+    boni:
+      - question: "Any math-inclined players will know that two is only one-half of four. Give TWO ways Latin can express the fraction “one-half.”"
+        answer: "<latin>DĪMIDIA PARS / DĪMIDIUM / SEMIS</latin>"
+      - question: "When one Latin student participates in a Certamen tournament as their own team, they are using one-fourth of their available team space. How does Latin express the fraction one-fourth?"
+        answer: "<latin>QUĀRTA PARS</latin>"

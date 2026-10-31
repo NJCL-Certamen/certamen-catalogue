@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give the comparative and superlative forms for the adjective <latin>brevis</latin>"
+      answer: "<latin>BREVIOR, BREVISSIMUS (-A)</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms for the adjective <latin>lāta</latin>"
+        answer: "<latin>LĀTIOR, LĀTISSIMA</latin>"
+      - question: "Give the comparative and superlative forms for the adjective <latin>altum</latin>"
+        answer: "<latin>ALTIUS, ALTISSIMUM</latin>"
+  - tossup:
+      question: "Who, because of a suggestion that he made to his uncle, had to travel to a distant land in the Black Sea in search of the Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "To whom did Jason make this rash promise?"
+        answer: "PELIAS"
+      - question: "From whom had Pelias usurped the throne of Iolcus?"
+        answer: "(JASON’S FATHER) AESON"
+  - tossup:
+      question: "Translate into English the motto “<latin>Aut Mors aut victōria</latin>.”"
+      answer: "EITHER DEATH OR VICTORY"
+    boni:
+      - question: "Translate into English the motto “<latin>Mors Iānua Vītae</latin>.”"
+        answer: "DEATH IS THE DOOR/BEGINNING OF LIFE / TO or FOR LIFE"
+      - question: "Translate into English the motto “<latin>Mors celerrima hostibus</latin>.”"
+        answer: "VERY SWIFT DEATH TO THE ENEMY / SWIFTEST DEATH TO ENEMIES"
+  - tossup:
+      question: "In what year was the battle of Actium?"
+      answer: "31 BC"
+    boni:
+      - question: "Where is Actium?"
+        answer: "EPIRUS / W. COAST OF GREECE"
+      - question: "Who was the commander of Octavian's fleet there?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "What dynasty of emperors ruled from A.D. 69-96?"
+      answer: "FLAVIANS"
+    boni:
+      - question: "... from 27 B.C. to A.D. 68?"
+        answer: "JULIO-CLAUDIANS"
+      - question: "... from A.D. 193 to 235?"
+        answer: "SEVERAN"
+  - tossup:
+      question: "Which of the following verbs, if any, does NOT belong because of conjugation: <latin>pulsō, pingō, parō, secō</latin>?"
+      answer: "<latin>PINGŌ</latin>"
+    boni:
+      - question: "Give all of the principal parts of <latin>pulsō</latin>"
+        answer: "<latin>PULS</latin><latin>Ō, -</latin><latin>ĀRE, -ĀV</latin><latin>Ī, -</latin><latin>ĀTUS/-UM</latin>"
+      - question: "Give all of the principal parts of <latin>pingō</latin>"
+        answer: "PINGŌ, PINGERE, PINXĪ, PICTUS/-UM"
+  - tossup:
+      question: "What mythological king of Phrygia took a bath in the river Pactolus?"
+      answer: "MIDAS"
+    boni:
+      - question: "Why did Midas bathe in Pactolus?"
+        answer: "TO REMOVE HIS GOLDEN TOUCH"
+      - question: "For rescuing whom was Midas given his “golden touch”?"
+        answer: "SILENUS"
+  - tossup:
+      question: "What first century A.D. emperor was not exposed as a baby despite his many physical deformities?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "What group chose Claudius to be the emperor of Rome?"
+        answer: "PRAETORIAN GUARD"
+      - question: "Name one of the three provinces which Claudius added to the Roman Empire"
+        answer: "BRITANNIA/ BRITAIN, THRACIA/ THRACE, AND MAURETANIA"
+  - tossup:
+      question: "Say in Latin, “We have come.”"
+      answer: "<latin>VĒNIMUS</latin>"
+    boni:
+      - question: "Change <latin>vēnimus</latin> to pluperfect tense"
+        answer: "<latin>VĒNERĀMUS</latin>"
+      - question: "Change <latin>vēnerāmus</latin> to future"
+        answer: "<latin>VENIĒMUS</latin>"
+  - tossup:
+      question: "Using your knowledge that <latin>nix</latin> is the Latin word for snow, what or who would be “<latin>hominēs ē</latin> <latin>nive factī</latin>?”"
+      answer: "SNOWMEN (accept “MEN MADE OF/FROM SNOW)"
+    boni:
+      - question: "What or who would be “<latin>calceī</latin> <latin>nivī</latin> <latin>aptī</latin>?”"
+        answer: "SNOWSHOES (accept “SHOES SUITABLE FOR SNOW)"
+      - question: "<latin>Respondē</latin> <latin>Latīnē: Vērum aut falsum. Saepe aestāte ningit</latin>"
+        answer: "FALSUM"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat \"decimus\"?</latin>"
+      answer: "TENTH"
+    boni:
+      - question: "Quid Anglicē <latin>significat \"nōnus\"?</latin>"
+        answer: "NINTH"
+      - question: "Quid Anglicē <latin>significat \"centēsimus\"?</latin>"
+        answer: "100TH"
+  - tossup:
+      question: "Whose correct response to a riddle freed Thebes from a monster?"
+      answer: "OEDIPUS’"
+    boni:
+      - question: "Whom did Oedipus marry as a result of this heroic deed?"
+        answer: "JOCASTA / EPICASTA"
+      - question: "As a result of this marriage, what uncle of Oedipus also became his brother-in-law?"
+        answer: "CREON"
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>cf</latin>"
+      answer: "<latin>CONFER</latin> - COMPARE"
+    boni:
+      - question: "Give the Latin and English for the abbreviation <latin>p.m.</latin>"
+        answer: "<latin>POST MERĪDIEM</latin> - AFTER NOON or <latin>POST MORTEM</latin> - AFTER DEATH"
+      - question: "Give the Latin and English for the abbreviation <latin>b.i.d</latin>"
+        answer: "<latin>BIS IN DIĒ</latin> - TWICE A DAY"
+  - tossup:
+      question: "Red, white, blue, and green are the colors usually associated with what Roman activity?"
+      answer: "CHARIOT RACING"
+    boni:
+      - question: "Give the Latin term for the part of the Circus identified by the letter \"A.\""
+        answer: "<latin>CARCERES</latin>"
+      - question: "Give the Latin term for the part of the <latin>spīna</latin> identified by the letter \"E.”"
+        answer: "<latin>METAE</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Rēx avidus fīlium suum necāre volēbat, nam propter ōrāculum puerum valdē</latin> <latin>timēbat. Fīlium igitur adhūc īnfantem comprehendit et in carcere inclūsit. Sēdecim diēs illīc vīvēbat sine cibō</latin> <latin>aut aquā. Quam crūdēlis erat pater īnfantis!</latin>  Where did the king place his infant son?"
+      answer: "IN A PRISON"
+    boni:
+      - question: "Why did the king want to kill his son?"
+        answer: "BECAUSE OF AN ORACLE / HE FEARED HIM"
+      - question: "How long was the infant able to live in the prison without food or water?"
+        answer: "SIXTEEN DAYS"
+  - tossup:
+      question: "A cave on Mt. Cyllene (<emphasis>sigh-lee-knee</emphasis>) was the birthplace of what god?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "Hermes turned out to be a precocious child. What musical instrument did he invent on the first day of his birth?"
+        answer: "LYRE"
+      - question: "What misdeed did Hermes perform on the same day?"
+        answer: "HE STOLE (HIS BROTHER) APOLLO’S CATTLE"
+  - tossup:
+      question: "What use of the genitive case is illustrated in the following phrase? <latin>domus est rēgis</latin>"
+      answer: "POSSESSIVE"
+    boni:
+      - question: "What use of the genitive case is illustrated in the following phrase? <latin>senex octōgintā annōrum</latin>"
+        answer: "DESCRIPTION/QUALITY"
+      - question: "What use of the genitive case is illustrated in the following phrase? <latin>satis pecūniae</latin>"
+        answer: "PARTITIVE, OF THE WHOLE"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “entity,” “present,” and “interest?”"
+      answer: "<latin>SUM, ESSE</latin> - TO BE"
+    boni:
+      - question: "What English derivative of <latin>sum, esse</latin> means “the fundamental nature of something?”"
+        answer: "ESSENCE"
+      - question: "What English derivative of <latin>sum, esse</latin> and the Latin adjective for “fifth” means “the most perfect embodiment of a quality?”"
+        answer: "QUINTESSENCE"
+  - tossup:
+      question: "What girl who betrayed Rome gave her name to the rock from which all Roman traitors were pushed to their death?"
+      answer: "TARPEIA"
+    boni:
+      - question: "To what people did she betray Rome?"
+        answer: "SABINES"
+      - question: "Who was the king of Rome then?"
+        answer: "ROMULUS"
+  - tossup:
+      question: "Which Greek goddess took advantage of Paris’ personality and promised him the most beautiful woman in the world?"
+      answer: "APHRODITE"
+    boni:
+      - question: "Which goddess promised Paris the power to rule the world?"
+        answer: "HERA"
+      - question: "Where did Paris’ judgment of these goddesses take place?"
+        answer: "(ON) MT. IDA"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Welcome to the Virtual NJCL Certamen Tournament. We understand that these \t\tcircumstances are less than ideal. We appreciate your understanding in practicing safe \t\tsocial distancing and being ever vigilant for your well-being. We value your health above \tall else. In this vein, what state has as its motto <latin>salūs populī suprēma lēx estō</latin>?"
+      answer: "MISSOURI"
+    boni:
+      - question: "Translate that motto."
+        answer: "THE WELFARE/HEALTH OF THE PEOPLE SHALL BE THE HIGHEST/SUPREME LAW //  LET THE WELFARE/HEALTH OF THE PEOPLE BE THE HIGHEST/SUPREME LAW"
+      - question: "What is the Latin and English for the motto of the state of Arkansas, which also \t\trefers to its people?"
+        answer: "<latin>RĒGNAT POPULUS</latin> - THE PEOPLE RULE"
+  - tossup:
+      question: "Who daringly rescued the Roman commander during a battle against Hannibal at Ticinus \t\tRiver, then survived the Battle of Cannae and defeated Hannibal at Zama?"
+      answer: "<latin>(P. CORNELIUS) SCIPIO AFRICANUS</latin>"
+    boni:
+      - question: "Before he won at Zama, however, Scipio had to win in Spain. What was the first city that Scipio captured in Spain in 209 B.C.?"
+        answer: "<latin>CARTHĀGŌ NOVA/</latin>NEW CARTHAGE"
+      - question: "At the battles of Campi Magni and Zama, Scipio received military aid from Masinissa, a ruler of what North African kingdom?"
+        answer: "(KINGDOM OF) NUMIDIA"
+  - tossup:
+      question: "What English word, deriving from the Latin verb <latin>scīre,</latin> could fill in the blank of the \t\tfollowing sentence? “As a researcher, May’s job is to add to humanity’s body of"
+      answer: "<emphasis>[blank]</emphasis> knowledge.”  \t \t\tSCIENTIFIC / SCIENCE / CONSCIOUS"
+    boni:
+      - question: "“‘Dig a well before you are thirsty’ is an ancient <emphasis>[blank]</emphasis>.”  What English word, deriving from a Latin noun meaning “word,” could fill in the blank?"
+        answer: "PROVERB"
+      - question: "“During a quarantine, everybody is <emphasis>[blank]</emphasis> from each other.”  What English word, deriving from a Latin noun meaning “island,” could fill in the blank?"
+        answer: "ISOLATED / INSULATED"
+  - tossup:
+      question: "Who accepted the sickle offered by his mother, Gaia, and agreed to castrate his father, Uranus?"
+      answer: "CRONUS"
+    boni:
+      - question: "After castrating his father, Cronus threw the severed parts into the sea. What goddess was born from the foam that arose from them?"
+        answer: "APHRODITE"
+      - question: "Three groups of beings were born from Uranus’ blood when it fell on the earth. Name two of these groups."
+        answer: "<emphasis>TWO</emphasis> OF THE FOLLOWING 3 GROUPS:   (1) ERINYES / FURIES / SEMNAI THEAI,   (2) GIANTS / GIGANTES, (3) MELIAE / MELIADS / NYMPHS OF ASH-TREES"
+  - tossup:
+      question: "For the sentence, “The good athlete won the contest,” make the adjective <latin>bonus</latin> agree with the noun form <latin>athlēta</latin>."
+      answer: "<latin>BONUS / BONA</latin>"
+    boni:
+      - question: "Make the adjective <latin>bonus</latin> agree with the noun form <latin>corpus</latin>."
+        answer: "<latin>BONUM</latin>"
+      - question: "Make the adjective <latin>bonus</latin> agree with the noun form <latin>iuvenum</latin>."
+        answer: "<latin>BONŌRUM / BONĀRUM</latin>"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē: Quae virgō Ūlixem sine vestimentīs invēnit in lītore?</latin>"
+      answer: "NAUSICAÄ / <latin>NAUSICAĒ / NAUSICAÄ</latin>"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quid faciēbant Nausicaa et amīcae ubi Ūlixem invēnērunt?</latin>"
+        answer: "<latin>VESTĒS / VESTIMENTA</latin> <latin>LAVĀBANT //</latin> WASHING CLOTHES"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quī erant parentēs Nausicaae?</latin>"
+        answer: "ALCINOŪS <latin>ET</latin>/AND ARETE"
+  - tossup:
+      question: "Who, long before he and his wife Caesonia were assassinated by Praetorians, grew up in the military camps of his father, Germanicus, where he earned his nickname meaning “Little Boot?”"
+      answer: "GAIUS (IULIUS CAESAR GERMANICUS) / CALIGULA"
+    boni:
+      - question: "What tribune of the Praetorian Guard struck the first blow against Caligula?"
+        answer: "(CASSIUS) CHAEREA"
+      - question: "Whom did the Praetorians find hiding in the palace and name as Caligula’s successor?"
+        answer: "(TIBERIUS) CLAUDIUS (DRUSUS NERO GERMANICUS)"
+  - tossup:
+      question: "Whose fright at seeing two snakes enter his crib was alleviated when his half-brother, \tHeracles, strangled them?"
+      answer: "IPHICLES"
+    boni:
+      - question: "What goddess is said to have sent the snakes to invade the boys’ crib?"
+        answer: "HERA"
+      - question: "What ally of Heracles was the son of Iphicles and his wife, Automedusa?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "Adjacent to which two of Rome's seven hills, known for their temples of Jupiter and \t\tApollo, was the Forum Romanum located?"
+      answer: "CAPITOLINE & PALATINE"
+    boni:
+      - question: "Which of Rome’s seven hills sits between the Quirinal and Esquiline hills?"
+        answer: "VIMINAL"
+      - question: "What hill, from which Lars Porsena’s forces launched his attack on the <latin>Pōns Sublicius</latin>, lies due west of central Rome, across the Tiber from the traditional seven hills?"
+        answer: "JANICULUM"
+  - tossup:
+      question: "For the sentence, “They want to travel to Italy,” give a two-word Latin idiom for  \t“to travel.”"
+      answer: "<latin>ITER FACERE</latin>"
+    boni:
+      - question: "What case is the word <latin>iter</latin> in the phrase <latin>iter facere</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "Now translate that full sentence into Latin, “They want to travel to Italy.”"
+        answer: "<latin>ITER FACERE AD ĪTALIAM VOLUNT / DĒSĪDERANT / CUPIUNT</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions which follow. \t<latin>Aurēlia erat in Aegyptō cum suīs duābus sorōribus maiōribus.  Tredecim lūdōs Iovis spectābant, ubi sorōrēs multa crusta porcī edēbant.  Aurēlia autem mālum edēbat.</latin>  REREAD \tThe question:  <latin>Quot lūdōs Iovis spectābant sorōrēs ?</latin>"
+      answer: "<latin>TREDECIM</latin>"
+    boni:
+      - question: "<latin>Quid</latin> <latin>sorōrēs edēbant?</latin>"
+        answer: "<latin>(MULTA) CRUSTA PORCĪ // PORCUM // CARNEM</latin>"
+      - question: "<latin>Quālēs erant sorōrēs Aurēliae?</latin>"
+        answer: "<latin>MAIŌRĒS</latin>"
+  - tossup:
+      question: "To what group of mythological characters do Euryale, Stheno, and Medusa belong?"
+      answer: "GORGONS"
+    boni:
+      - question: "The Gorgons were also the siblings of what monster guardian of Hades?"
+        answer: "CERBERUS"
+      - question: "Which monster was also a sibling of the Gorgons and Cerberus and was killed as part of Heracles’s second labor?"
+        answer: "(LERNAEAN) HYDRA"
+  - tossup:
+      question: "Using the verb <latin>amō,</latin> say “I was loving” in Latin."
+      answer: "<latin>AMĀBAM</latin>"
+    boni:
+      - question: "Using the verb <latin>sedeō</latin>, say “I used to sit” in Latin."
+        answer: "<latin>SEDĒBAM</latin>"
+      - question: "Using the verb <latin>currō</latin> and only one Latin word, say “I kept running” in Latin."
+        answer: "<latin>CURRĒBAM</latin>"
+  - tossup:
+      question: "What Sabine man served as co-regent with Romulus?"
+      answer: "TITUS TATIUS"
+    boni:
+      - question: "Before he ruled with Romulus, Titus Tatius led an attack on Rome. Which Roman woman aided the Sabines in their attack in the hopes of getting a reward?"
+        answer: "TARPEIA"
+      - question: "Instead of being rewarded with valuable armbands, Tarpeia was thrown from which Roman hill?"
+        answer: "CAPITOLINE (HILL)"
+  - tossup:
+      question: "From what Latin verb do we derive “offer”?"
+      answer: "<latin>FERŌ / OFFERŌ</latin>"
+    boni:
+      - question: "From what Latin noun do we derive the English word “derivative”?"
+        answer: "<latin>RĪVUS</latin>"
+      - question: "From what two Latin words do we derive “centipede”?"
+        answer: "<latin>CENTUM</latin> & <latin>PĒS</latin>"
+  - tossup:
+      question: "Who was the father of the following men: Cebriones, Troilus, Deiphobus, Helenus, and \t\tParis?"
+      answer: "PRIAM"
+    boni:
+      - question: "Who was the father of the following men: Stratichus, Thrasymedes, Peisistratus, and Antilochus?"
+        answer: "NESTOR"
+      - question: "Who was the father of the following men: Thersander, Almus, Ornytion, and Glaucus?"
+        answer: "SISYPHUS"
+  - tossup:
+      question: "For the sentence, “I wrote my friends three letters,” give the correct form of the noun <latin>epistula.</latin>"
+      answer: "<latin>EPISTULĀS</latin>"
+    boni:
+      - question: "Give the correct form of “friends” for that same sentence: “I wrote my friends three letters.”"
+        answer: "<latin>AMĪCĪS / AMĪCĀBUS / SODĀLIBUS / SOCIĪS / SOCIĀBUS / COMITIBUS //</latin> <latin>AD + ACC.</latin>"
+      - question: "Translate into Latin still using <latin>epistula</latin>, “They had written me four letters.”"
+        answer: "<latin>SCRĪPSERANT AD MĒ / MIHI QUATTUOR EPISTULĀS</latin>"
+  - tossup:
+      question: "Respondē Latīnē: In quā parte vīllae cibus parātus est?"
+      answer: "(IN) CULĪNĀ"
+    boni:
+      - question: "In quā parte vīllae dormīvit puer aut puella?"
+        answer: "(IN) CUBICULŌ"
+      - question: "In quā parte apertā vīllae erant columnae et flōrēs?"
+        answer: "CIRCUM PERISTȲL(I)UM / HORTUM // (IN) PERISTȲL(I)Ō / HORTŌ"
+  - tossup:
+      question: "Identify the two-word phrase that expresses location in the following Latin sentence:  <latin>Medica, quae in forō docet, cum discipulīs maximō studiō ambulāvit.</latin>"
+      answer: "<latin>IN FORŌ</latin>"
+    boni:
+      - question: "In that same sentence, identify and translate the two-word phrase that expresses an ablative of accompaniment."
+        answer: "<latin>CUM DISCIPULĪS</latin> - “WITH (THE) STUDENTS”"
+      - question: "In that same sentence, identify the case and the reason (that is, the use) of <latin>maximō studiō.</latin>"
+        answer: "ABLATIVE OF MANNER"
+  - tossup:
+      question: "Translate into English: <latin>Nunc tacēre est bonum.</latin>"
+      answer: "NOW IT IS (A) GOOD (THING) TO BE SILENT"
+    boni:
+      - question: "Translate into English: <latin>Omnēs dōnum capiunt.</latin>"
+        answer: "EVERYONE / EVERYBODY TAKES A GIFT // ALL TAKE A GIFT"
+      - question: "Translate into English: <latin>Laudāmus bōna dōna.</latin>"
+        answer: "WE PRAISE THE GOOD GIFTS"

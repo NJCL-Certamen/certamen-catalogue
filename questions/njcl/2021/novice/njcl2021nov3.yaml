@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "The Italian region of Lazio is geographically similar to its classical counterpart. Name this ancient province of which Rome was the capital."
+      answer: "LATIUM"
+    boni:
+      - question: "What ancient region lay north of Latium and today contains the modern cities of Arezzo and Tarquinia?"
+        answer: "ETRURIA"
+      - question: "What region, which lies between the Apennines and the Tyrrhenian Sea, was located in southwest Italy south of Latium?"
+        answer: "CAMPANIA"
+  - tossup:
+      question: "According to the <title>Aeneid</title>, a priest of Neptune named Laocoön warned against bringing what object into his city, because he feared that Greeks were hidden inside?"
+      answer: "TROJAN / WOODEN HORSE"
+    boni:
+      - question: "According to the <title>Aeneid</title>, what woman also warned against bringing the horse into Troy?"
+        answer: "CASSANDRA"
+      - question: "Later, as represented in a famous statue group, Laocoön and his sons were killed by what type of animal, an event that convinced the Trojans that the gods had rejected his warnings?"
+        answer: "SNAKE(S) / SERPENT(S)"
+  - tossup:
+      question: "When recognized, perform the following commands. <latin>Pōne unam manum post caput et surge alteram manum et simulā spargere aquam in omnēs.</latin>"
+      answer: "PLAYER PRETENDS TO BE A SPRINKLER WITH ONE HAND BEHIND HEAD AND OTHER RAISED"
+    boni:
+      - question: "When you’re ready, perform the following commands. <latin>Pōnite manūs ad genam et tunc iterum iterumque movēte eās ad aliam genam.</latin>"
+        answer: "PLAYERS PUT THEIR HANDS ON THEIR CHEEKS AND THEN REPEATEDLY MOVE THEM TO THE OTHER CHEEK"
+      - question: "When you’re ready, perform the following commands. <latin>Dīcite moderātorī “Nec canere nec saltāre possumus.”</latin>"
+        answer: "PLAYERS SAY, “WE CAN’T SING (N)OR DANCE / WE CAN NEITHER SING (N)OR DANCE.”"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Tibi licet mūtāre mentem</latin>."
+      answer: "YOU ARE ALLOWED / IT IS ALLOWED FOR YOU TO CHANGE YOUR MIND"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Licuit mihi nescīre</latin>."
+        answer: "IT WAS PERMITTED FOR ME NOT TO KNOW // I WAS ALLOWED TO NOT KNOW"
+      - question: "Translate into Latin using a form of <latin>licet</latin>: Will we be allowed to hope?"
+        answer: "<latin>LICEBITNE NŌBĪS SPERĀRE</latin>"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice, and answer in English the question that follows: <latin>Germānicus erat dux Rōmānus, et in Germāniā pugnābat. Ūnō diē, mīlitēs Germānicī nōn pugnāre volēbant--pecūniam volēbant! Mīlitēs clāmābant et Germānicus timēbat. Sed Agrippīna, uxor Germānicī, consilium cēpit. Agrippīna infantem suum, Gaium, portāvit et eum mīlitibus dēmonstrāvit. Gaius gerēbat vestīmenta mīlitis, et mīlitēs eum amābant. “Pugnābimus,” inquit mīles, “quod Caligulam nostrum amāmus.”</latin> Question: What did Germanicus’ soldiers want?"
+      answer: "MONEY / NOT TO FIGHT"
+    boni:
+      - question: "What did Germanicus’ wife do to calm the soldiers?"
+        answer: "SHOWED THEM HER BABY"
+      - question: "Who was the baby?"
+        answer: "CALIGULA / GAIUS"
+  - tossup:
+      question: "What profession is shared between a daughter of Zeus who suddenly resigned after getting married and a Trojan youth abducted by Zeus and named Ganymede?"
+      answer: "CUPBEARER"
+    boni:
+      - question: "What goddess resigned the position of divine cupbearer after marrying Heracles?"
+        answer: "HEBE"
+      - question: "Most say that the constellation Aquarius represents Ganymede, but others argue that it was what half-snake Athenian who judged the contest between Athena and Poseidon?"
+        answer: "CECROPS"
+  - tossup:
+      question: "For the verb <latin>spectō, spectāre</latin>, give the form for the 3rd person plural perfect active indicative, which would mean “they watched.”"
+      answer: "<latin>SPECTĀVĒRUNT</latin>"
+    boni:
+      - question: "For the verb <latin>dō, dare</latin>, give the form for the 1st person plural pluperfect active indicative, which would mean “we had given.”"
+        answer: "<latin>DEDERĀMUS</latin>"
+      - question: "For the verb <latin>tango, tangere</latin>, give the form for the 2nd person plural future perfect active indicative, which would mean “y’all will have touched.”"
+        answer: "<latin>TETIGERITIS</latin>"
+  - tossup:
+      question: "In the early Empire, what four colors were used to denote the different <latin>factiōnēs</latin>, or racing companies, in the Roman circus."
+      answer: "RED / <latin>RUSSATA</latin>, BLUE / <latin>VENETA</latin>, GREEN / <latin>PRASINA</latin>, WHITE / <latin>ALBATA</latin>"
+    boni:
+      - question: "Which two additional colors were added under the reign of Domitian?"
+        answer: "PURPLE, GOLD"
+      - question: "Which two of the original four colors were the oldest, dating back to the Republic?"
+        answer: "RED / <latin>RUSSATA</latin>, WHITE / <latin>ALBATA</latin>"
+  - tossup:
+      question: "Name two Latin cases and the Latin verbs from which they derive."
+      answer: ""
+    boni:
+      - question: "Give two more."
+        answer: ""
+      - question: "Give one more."
+        answer: "NOMINATIVE – <latin>NOMINŌ</latin>, ACCUSATIVE – <latin>ACCŪSŌ</latin>, GENITIVE – <latin>GIGNŌ</latin>, DATIVE – <latin>DŌ</latin>, ABLATIVE – <latin>(AU)FERŌ</latin> VOCATIVE – <latin>VOCŌ</latin>, LOCATIVE - <latin>LOCŌ</latin>"
+  - tossup:
+      question: "Which of the following prepositions CANNOT take the same case as the others: <latin>trāns, in, prō, inter</latin>?"
+      answer: "<latin>PRŌ</latin>"
+    boni:
+      - question: "What case does <latin>prō</latin> take?"
+        answer: "ABLATIVE"
+      - question: "What two cases can <latin>in</latin> take?"
+        answer: "ABLATIVE AND ACCUSATIVE"
+  - tossup:
+      question: "Because he instructed his wife Merope to omit proper burial rituals and because he tied up the god of death, what trickster was forced to ceaselessly roll a boulder up a hill in the Underworld?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Name this god of death, whom Heracles once overpowered to save the life of Alcestis."
+        answer: "THANATOS"
+      - question: "In a proper burial, Greeks would place a coin of what denomination in the mouth of the deceased in order to pay Charon for passage across the Styx?"
+        answer: "OBOL"
+  - tossup:
+      question: "Distinguish in meaning between the nouns <latin>casa</latin> and <latin>causa</latin>."
+      answer: "HOUSE AND CAUSE / REASON, RESPECTIVELY"
+    boni:
+      - question: "Distinguish in meaning among these three nouns: <latin>cor</latin>, <latin>corōna</latin>, and <latin>cornū</latin>."
+        answer: "HEART, CROWN, AND HORN / WING OF AN ARMY, RESPECTIVELY"
+      - question: "Distinguish in meaning among these three nouns: <latin>caedēs</latin>, <latin>caelum</latin>, and <latin>carmen</latin>."
+        answer: "SLAUGHTER / KILLING / MURDER, SKY, AND SONG, RESPECTIVELY"
+  - tossup:
+      question: "What Roman general won battles at Perinthus, Cyzicus, Nicaea, Issus, and Lugdunum before he could claim sole rule of the Roman empire in 197 AD, though he had been proclaimed emperor 4 years earlier, making him the first Roman emperor born in Africa?"
+      answer: "(L.) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Name one of Severus’ rivals that he defeated in any of the battles listed above."
+        answer: "(C.) PESCENNIUS NIGER (JUSTUS) // (D.) CLODIUS ALBINUS"
+      - question: "Name one of Severus’ sons who succeeded him."
+        answer: "(L. SEPTIMIUS) GETA // (M. AURELIUS ANTONINUS) CARACALLA"
+  - tossup:
+      question: "After Apollo told Cupid that he was too young for archery, Cupid shot Apollo with a golden arrow that caused him to fall in love with what woman, who became a laurel tree to escape?"
+      answer: "DAPHNE"
+    boni:
+      - question: "Apollo was boasting about his prowess in archery to Cupid because he had recently defeated what giant serpent, the guardian of the site of Delphi?"
+        answer: "PYTHON"
+      - question: "The god of what river, which was once diverted by Heracles along with the Alpheus, was the father of Daphne and transformed her into a laurel tree?"
+        answer: "PENE(I)US (RIVER)"
+  - tossup:
+      question: "What is the meaning of the Latin verb at the root of “exclamation”?"
+      answer: "SHOUT"
+    boni:
+      - question: "What is the meaning of the Latin verb at the root of “capture”?"
+        answer: "SEIZE / TAKE"
+      - question: "What is the meaning of the Latin noun at the root of “civilian”?"
+        answer: "CITIZEN"
+  - tossup:
+      question: "What abbreviation is given to a document that describes the entirety of one’s career accomplishments, experience, and education?"
+      answer: "C.V."
+    boni:
+      - question: "What is the Latin represented by these letters?"
+        answer: "<latin>CURRICULUM VĪTAE</latin>"
+      - question: "What is the literal meaning of <latin>curriculum vītae</latin>?"
+        answer: "COURSE OF LIFE"
+  - tossup:
+      question: "Where did the Second Triumvirate meet in 38 BC to renew the Lex Titia for another 5 years?"
+      answer: "TARENTUM"
+    boni:
+      - question: "Where had the Second Triumvirate met in 40 BC to divide up the Roman world following the Perusine conflict?"
+        answer: "BRUNDISIUM"
+      - question: "The Second Triumvirate met at Misenum in 39 BC to make peace with Sextus Pompey so that he would not block the grain supply from reaching Rome. Name two of the three locations for which Sextus Pompey was given proconsular command."
+        answer: "(two of) SICILY, SARDINIA, PELOPONNESUS"
+  - tossup:
+      question: "Change the noun <latin>cīvēs</latin> to the ablative plural."
+      answer: "<latin>CĪVIBUS</latin>"
+    boni:
+      - question: "Change the noun <latin>pecūnia</latin> to the ablative plural."
+        answer: "<latin>PECUNIĪS</latin>"
+      - question: "Change the noun <latin>opus</latin> to the ablative plural."
+        answer: "<latin>OPERIBUS</latin>"
+  - tossup:
+      question: "What woman, the mother of Pyrrha, was given as a gift to the personification of afterthought, Epimetheus, and brought as a dowry a jar of evils that she eventually released?"
+      answer: "PANDORA"
+    boni:
+      - question: "According to Hesiod’s <title>Works and Days</title>, when Pandora opened her jar, only the personification of what feeling remained within?"
+        answer: "HOPE / <emphasis>ELPIS</emphasis>"
+      - question: "What specific crime against Zeus led the god to ask Hephaestus to craft Pandora and loose her upon the world?"
+        answer: "(PROMETHEUS’) THEFT OF FIRE // (PROMETHEUS’) GIFT OF FIRE TO MORTALS [ACCEPT EQUIVALENTS]"
+  - tossup:
+      question: "What imperial woman was commemorated with a temple in the Forum Romanum built by her husband, Antoninus Pius, in 141 AD?"
+      answer: "FAUSTINA (THE ELDER)"
+    boni:
+      - question: "Today, that temple bears the names of both Faustina and Antoninus Pius, to whom it was dedicated following the emperor’s death. At what village where he held his country estate did Antoninus Pius die in 161 AD?"
+        answer: "LORIUM"
+      - question: "Antoninus Pius was not Hadrian’s first choice for succession. His first choice was Ceionius Commodus, who died before he could take the imperial reign. Who was the son of this Commodus, who would eventually become a co-Augustus?"
+        answer: "LUCIUS VERUS"

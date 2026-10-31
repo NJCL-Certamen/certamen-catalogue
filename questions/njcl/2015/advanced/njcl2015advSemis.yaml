@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What Roman emperor concluded his successful campaign against the Alemanni with a victory at the  Main River but saw his Parthian campaign cut short when he was stabbed by Julius Martialis near  Carrhae in 217 AD?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Caracalla’s campaign against Parthia was supposedly spurred by his rejected offer to marry the  daughter of what Parthian emperor?"
+        answer: "ARTABANUS V"
+      - question: "Who, despite leading the plot to assassinate Caracalla, later pushed the senate to deify him?"
+        answer: "MACRINUS"
+  - tossup:
+      question: "Translate the following sentence into English: “<latin>Miror utrum princeps Romae an Athenīs habitet</latin>.”"
+      answer: "I WONDER WHETHER THE EMPEROR LIVES IN ROME OR (IN) ATHENS"
+    boni:
+      - question: "Translate, “<latin>Scīn num Neapolim navigavaturī simus?”</latin>"
+        answer: "DO YOU KNOW WHETHER / IF WE ARE GOING TO ( / WILL ) SAIL TO NAPLES?"
+      - question: "Translate, “<latin>Nemo est quīn ruri manere velit</latin>.”"
+        answer: "THERE IS NO ONE WHO DOES NOT WISH TO STAY IN THE COUNTRYSIDE"
+  - tossup:
+      question: "What Golden Age writer of elegies wrote the following lines of Latin verse: “<latin>tū quoque nē timidē  custōdēs, Dēlia, falle/audendum est: fortēs adiuvat ipsa Venus.”</latin>"
+      answer: "(ALBIUS) TIBULLUS"
+    boni:
+      - question: "Identify the author of these lines of Latin elegy: “<latin>Nūlla potest mulier tantum sē dīcere  amātam/vērē, quantum ā mē Lesbia amāta mea est.”</latin>"
+        answer: "(GAIUS VALERIUS) CATULLUS"
+      - question: "Identify the Golden Age author of these lines of Latin elegy: “<latin>et modo solvēbam nostrā dē fronte  corollās/pōnēbamque tuīs, Cynthia, temporibus</latin>.”"
+        answer: "(SEXTUS) PROPERTIUS"
+  - tossup:
+      question: "Complete the following analogy: <latin>carpō : carpere :: carpar : ____ .</latin>"
+      answer: "<latin>CARPTUM ĪRĪ</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>mavultis : malletis :: fit : ____ .</latin>"
+        answer: "<latin>FIERET</latin>"
+      - question: "Complete the following analogy: <latin>esse : sum :: ēsse : ____ .</latin>"
+        answer: "<latin>EDŌ</latin>"
+  - tossup:
+      question: "What daughter of Oceanus and Tethys married the Titan Pallas and bore him Zelus, Nike, Cratus and  Bia?"
+      answer: "(THE RIVER) STYX"
+    boni:
+      - question: "What was the punishment for a god who swore an oath by the Styx and broke their vow?"
+        answer: "HE WOULD LIE FOR A FULL <emphasis>YEAR IN A COMA</emphasis> (AFTER WHICH HE WOULD BE  OSTRACIZED BY THE OTHER GODS FOR 9 MORE YEARS)"
+      - question: "According to Vergil, the Styx formed the boundary of the underworld. How many times did the river  flow around the borders of Hades?"
+        answer: "9"
+  - tossup:
+      question: "Quid significat <latin>Anglicē nūtus</latin>?"
+      answer: "NOD/ COMMAND/ EXPRESSION OF WILL"
+    boni:
+      - question: "Distinguish between the verbs <latin>adnuō</latin> and <latin>abnuō</latin>."
+        answer: "NOD TOWARD/ AGREE/ BE FAVORABLE;;  REFUSE/ DENY/ DECLINE TO DO SOMETHING"
+      - question: "Quid significat Anglicē verbu <latin>nūgor, nūgārī</latin>?"
+        answer: "TO TRIFLE/ BE FRIVOLOUS/ TALK NONSENSE/  TRICK/ CHEAT"
+  - tossup:
+      question: "Listen to the following sentences, which I shall read twice, then answer the question that follows in  Latin:  <latin>Multī saepe honōrēs dīs immortālibus iūstī habitī sunt ac dēbitī, sed profectō iūstiōrēs  numquam. Ēreptī enim estis ex crūdēlissimō ac miserrimō interitū; sine caede, sine  sanguine, sine exercitū, sine dīmicātiōne, togātī, mē ūnō togātō duce et imperātōre, vīcistis.</latin> (repeat)  The question: <latin>Quī saepe honōrēs iūstōs habūērunt?</latin>"
+      answer: "<latin>D(E)Ī IMMORTĀLĒS</latin>"
+    boni:
+      - question: "<latin>Ex quō togātī ēreptī sunt?</latin>"
+        answer: "<latin>(CRŪDĒLISSIMŌ AC MISERRIMŌ) INTERITŪ</latin>"
+      - question: "<latin>Quō modō togātī vīcērunt?</latin>"
+        answer: "<latin>SINE CAEDE, SANGUINE, EXERCITŪ, DĪMICĀTIŌNE</latin>"
+  - tossup:
+      question: "Based upon the <title>Phaedrus</title> of Plato, this work is an interlocution among Cicero, his brother Quintus,  and his friend Atticus, at the conclusion of which Cicero holds up the Roman state as the best  example of a moral set of laws."
+      answer: "<title><latin>DĒ LĒGIBUS</latin></title>"
+    boni:
+      - question: "What is considered to be Cicero’s “masterpiece in philosophy,” in which Cicero takes five books to  refute Epicureanism, to compare Stoicism to the Academic and Peripatetic theories, and  ultimately to explain the teachings of Cicero’s teacher, Antiochus of Ascalon?"
+        answer: "<title><latin>DĒ FĪNIBUS BONŌRUM ET MALŌRUM</latin></title>"
+      - question: "What philosophical work of Cicero gets its name from its setting at Cicero’s villa and can be seen as a  kind of internal dialogue in which Cicero seeks answers to his own personal questions about  philosophy’s most difficult questions?"
+        answer: "TUSCULUM DISPUTATIONS/ LATIN TITLE??"
+  - tossup:
+      question: "What war was ignited when Roman forces under Publilius Philo laid siege to the city of Naples in 327  BC?"
+      answer: "SECOND SAMNITE WAR"
+    boni:
+      - question: "What office was originated when Philo’s consulship ran out during the siege of Naples but the Roman  people voted that he should retain his <latin>imperium</latin>?"
+        answer: "PROCONSUL"
+      - question: "As dictator in 339 BC, Philo passed a law guaranteeing that half of what set of magistrates be  plebeian, an office he would later use himself to abolish the <latin>patrum auctōritās</latin>?"
+        answer: "CENSOR"
+  - tossup:
+      question: "What son of Cretheus was the rightful heir to the throne of Iolcus, but had it usurped by his half brother Pelias?"
+      answer: "AESON"
+    boni:
+      - question: "What brother of Jason, a mere boy at the time, was killed by Pelias while Jason was on his quest?"
+        answer: "PROMACHUS"
+      - question: "According to Pindar, Jason was not alone in Iolcus. Name any two of his uncles or cousins that  accompanied Jason when he confronted Pelias."
+        answer: "AMATHAON (UNCLE) / PHERES (UNCLE) / MELAMPUS (COUSIN) / ADMETUS (COUSIN)"
+  - tossup:
+      question: "Some of Caesar’s troops feared famine <latin>longinquā obsidiōne</latin>. What case and use do we  see used here?"
+      answer: "ABLATIVE, CAUSE"
+    boni:
+      - question: "The troops set out, nevertheless, but the Gauls <latin>inīquissimō nostrīs locō proelium  committere coepērunt</latin>. Identify the case and case use of <latin>nostrīs</latin> in that sentence."
+        answer: "DATIVE WITH SPECIAL ADJECTIVES"
+      - question: "The Helvetians burnt all their goods which were to be left behind so that they would be  less likely to want to return home <latin>reditiōnis spē sublātā</latin>. Identify the case and use of  <latin>reditiōnis</latin> in that phrase."
+        answer: "GENITIVE, OBJECTIVE"
+  - tossup:
+      question: "Quintilian refers to what writer from the reign of Tiberius as having one of the most excellent styles  of Latin prose, which he used to skillfully expound various topics in his encyclopedic work, of  which remains to us only the section on medicine?"
+      answer: "(AULUS CORNELIUS) CELSUS"
+    boni:
+      - question: "One of the disciplines about which Celsus wrote was the art of military command. What writer of the  Augustan period also touched on this subject in a 10-book work, as the need to develop siege  engines called upon his expertise as an architect?"
+        answer: "VITRUVIUS (POLLIO)"
+      - question: "What other Augustan writer, general, and son-in-law to the emperor, drew up a map of the known  world, on which he wrote a commentary?"
+        answer: "(MARCUS VIPSONIUS) AGRIPPA"
+  - tossup:
+      question: "Using an impersonal verb, say in Latin, “That man annoys me.”"
+      answer: "<latin>ILLIUS MĒ PIGET</latin>"
+    boni:
+      - question: "Using an impersonal verb, say in Latin, “I will never tire of this contest.”"
+        answer: "<latin>NUMQUAM MĒ TAEDĒBIT HUIUS CERTAMINIS</latin>"
+      - question: "Using an impersonal verb, say in Latin, “Perhaps you will pity us.”  <latin>FORS(IT)AN NOSTRUM (-I?</latin>"
+        answer: "<latin>) TĒ/VŌS MISERETIT/MISEREAT</latin>"
+  - tossup:
+      question: "To what king of Lycia did Proetus send Bellerophon with a sealed letter?"
+      answer: "IOBATES"
+    boni:
+      - question: "Most authors call Proetus' wife, who tried to seduce Bellerophon, Stheneboea. What name does  Homer give her?"
+        answer: "ANTEIA"
+      - question: "After being unable to defeated Bellerophon through tricks or force, Iobates offered him his daughter  as amends. Name her."
+        answer: "PHILONOE / ANTICLEIA / CASANDRA"
+  - tossup:
+      question: "What city, ultimately abandoned by Arcadius as capital of the western empire,  was the site of Licinius’s marriage to Constantia, the seat of the tetrarch Maximian, and the place  of origin of Constantine’s edict of 313 AD?"
+      answer: "MEDIOLANUM / MILAN"
+    boni:
+      - question: "What city near the Rhine, once the seat of the governor of Belgica, became the capital of Constantius  Chlorus at the formation of the tetrarchy?"
+        answer: "AUGUSTA TREVERORUM / TRIER / TRÈVES"
+      - question: "Trier was also chosen as capital by what man who declared himself emperor in 260 AD and  established the Gallic empire?"
+        answer: "(M. LATINIUS) POSTUMUS"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the same Latin root as the others? precede, success, ancestor, supersede"
+      answer: "SUPERSEDE"
+    boni:
+      - question: "Which of the following words, if any, is NOT derived from the same Latin root as the others? chafe, chowder, scald, cauldron"
+        answer: "ALL COME FROM CALEŌ"
+      - question: "Which of the following words, if any, is NOT derived from the same root? semester, sickle, sistine, siesta"
+        answer: "SICKLE"
+  - tossup:
+      question: "What literary devices (excluding alliteration) can be found in these line from Book 4 of Vergil’s  <title>Aeneid</title>?"
+      answer: "“<latin>spēluncam Dīdō dux et Trōiānus eandem/dēveniunt.”</latin> CHIASMUS/ CAVE DEVICE"
+    boni:
+      - question: "What two literary devices can be found in this quote from Ovid’s <title>Metamorphoses</title>?"
+        answer: "“<latin>mōtae sonuēre colubrae, parsque iacent umerīs, pars circum pectora lāpsae sībila dant  saniemque vomunt linguīsque coruscant.”</latin> TMESIS, ANAPHORA"
+      - question: "What literary device is found in this quote, also from Ovid’s <title>Metamorphoses</title>? “<latin>Est vīdisse satis;  laudat digitōsque manūsque/ bracchiaque et nūdōs mediā plūs parte lacertōs</latin>.” TRICOLON CRESCENS (?"
+        answer: ") / POLYSYNDETON"
+  - tossup:
+      question: "What did the Romans call their version of hash, was made of salted fish, eggs, and cheese?"
+      answer: "<latin>TYROTARĪCUS</latin>"
+    boni:
+      - question: "What did the Romans call the type of fish known as mullet?"
+        answer: "<latin>MULLUS</latin>"
+      - question: "Cheeses made from the milk of what animal was considered by the Romans to be more digestible,  though less palatable, than cheese made from cow’s milk?"
+        answer: "EWE’S"
+  - tossup:
+      question: "The heteroclites <latin>iūgerum, Mulciber,</latin> and <latin>vās</latin> vary their forms between which two declensions?"
+      answer: "SECOND & THIRD"
+    boni:
+      - question: "Between which two declensions do <latin>pubēs</latin> and <latin>fāmēs</latin> vary their forms?"
+        answer: "THIRD & FIFTH"
+      - question: "Between which two declensions do <latin>māteria</latin> and <latin>saevitia</latin> vary their forms?"
+        answer: "FIRST & FIFTH"
+  - tossup:
+      question: "Who gathered the pieces of Orpheus' body and buried them after he was dismembered by Maenads?"
+      answer: "THE MUSES"
+    boni:
+      - question: "Where did the Muses bury him?"
+        answer: "HIS HOME IN PIERIA"
+      - question: "Orpheus' head was not among those parts buried in Pieria. Down what river did his head float before  ultimately being buried on Lesbos?"
+        answer: "HEBRUS"

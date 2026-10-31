@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Give the archaic form of the verb <latin>do</latin>, meaning “let them give,” that was often used in religious ceremonies."
+      answer: "<latin>DUINT</latin>"
+    boni:
+      - question: "On the topic of alternative forms, for what forms of <latin>sum</latin> are <latin>forem</latin> and <latin>forent</latin> used interchangeably?"
+        answer: "THE IMPERFECT SUBJUNCTIVE / <latin>ESSEM</latin> and <latin>ESSENT</latin>"
+      - question: "There appears in the conjugation of <latin>sum</latin> yet another series of irregular forms that are not part of standard classical Latin. These forms replace the present subjunctives <latin>sim, sis, sit, etc.</latin> Give any one of these twelve forms."
+        answer: "<latin>SIEM, SIES, SIET, ETC. / FUAM, FUAS, FUAT, ETC.</latin>"
+  - tossup:
+      question: "What Roman tribune, determined to address the destruction of a large Roman fleet near Ostia and the harassment of grain ships around Sicily, proposed a bill to create a fleet of 500 ships and appoint a supreme commander with a staff of some 24 <latin>lēgātī</latin> to rid the Mediterranean basin of pirates?"
+      answer: "(A.) GABINIUS"
+    boni:
+      - question: "What consul of 67 BC strenuously opposed Gabinius’ bill but was mobbed by the people in the assembly that supported it?"
+        answer: "(C. CALPURNIUS) PISO"
+      - question: "Gabinius put together his bill in order to give the command to Pompey Magnus, of course, and was made one of the 24 <latin>lēgātī</latin> for the expedition.  Gabinius also had Pompey’s political support, however, and eventually became consul.  In what year did he become consul?"
+        answer: "58 BC"
+  - tossup:
+      question: "Who may have become King of Melos after leading fifty ships to the Trojan War in his role as the king of Athens?"
+      answer: "MENESTHEUS"
+    boni:
+      - question: "When the Dorians invaded Attica, who left his city dressed as a beggar and started a fatal argument with two enemies, because the Delphic Oracle had foretold that Athens could not be taken after his death?"
+        answer: "CODRUS"
+      - question: "What king of Athens renamed the region of Cecropia in honor of his deceased daughter and was deposed by his son-in-law, Amphictyon?"
+        answer: "CRANAÜS"
+  - tossup:
+      question: "Pomponius and Novius were the principal exponents of what dramatic genre, which sometimes was performed as an <latin>exodium</latin> or comic finale to other performances, and featured the stock characters Bucco, Dossenus, Maccus, Manducus, and Pappus?"
+      answer: "ATELLAN FARCE / <latin>FABULA(E) ATELLANA(E) / LUDĪ OSCĪ</latin>"
+    boni:
+      - question: "Titinius, Afranius, and Atta were all authors of what dramatic genre, which is defined as a comedy with a Roman or Italian setting?"
+        answer: "<latin>FABULA(E) TOGATA(E)</latin>"
+      - question: "Licinius Imbrex, Atilius, Turpilius, and Trabea were all authors of what dramatic genre, which was popular during the 3rd and 2nd centuries BC, but had been considered archaic by the time of Caesar and Cicero?"
+        answer: "<latin>FABULA(E) PALLIATA(E)</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow. \t<latin>Sacerdōs Sabīnum ita adloquitur: \"Quidnam tū, hospes, parās?  Incestē sacrificium Diānae facere? Quīn tū ante vīvō perfunderis flūmine? Īnfimā valle praefluit Tiberis.\"  Ut Sabīnus descendit ad Tiberim; intereā sacerdōs immolat Diānae bovem.</latin>  REREAD  The question:  <latin>Quōmodo sacerdōs putat Sabīnum sacrificium factūrum esse?</latin>"
+      answer: "<latin>INCESTĒ</latin>"
+    boni:
+      - question: "<latin>Quid facere Sabīnō necesse est ante sacrificium?</latin>"
+        answer: "<latin>PERFUNDĪ / LAVĀRĪ (IN VĪVŌ FLŪMINE)</latin>"
+      - question: "<latin>Sacerdōte bovem immolante, ubi erat Sabīnus?</latin>"
+        answer: "<latin>(IN) TIBERĪ / PROPE TIBERIM / (IN) ĪNFIMĀ VALLE /  \t\t(IN) FLŪMINE / PROPE FLŪMEN  --</latin>"
+  - tossup:
+      question: "Vespasian was intent during his reign on strengthening his son’s position in the imperial administration.  Not only did Titus hold the consulship and <latin>tribunicia potestas</latin> in common with his father, he was also given a command in Rome no previous emperor or heir had held.  What was this position?"
+      answer: "PRAETORIAN PREFECT"
+    boni:
+      - question: "Who was the brother-in-law of Titus from whom he took over the role of praetorian prefect?"
+        answer: "(M.) ARRECINUS (CLEMENS)"
+      - question: "Another innovation of the Flavians was the creation of an official who relieved the provincial governors of the tasks connected with the civilian courts.  What was the Latin term for this official?"
+        answer: "<latin>IŪRIDICUS</latin>"
+  - tossup:
+      question: "Complete the following analogy: <latin>audeō : audax :: pugnō :: ____?</latin>"
+      answer: "<latin>PUGNAX</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>audeō : audax :: proterō : ____?</latin>"
+        answer: "<latin>PROTERVUS</latin>"
+      - question: "Complete the following analogy: <latin>audeō : audax :: bibō : ____?</latin>"
+        answer: "<latin>BIBULUS</latin>"
+  - tossup:
+      question: "In the <title>Aeneid</title>, who receives a golden cloak embroidered with the story of Ganymede after defeating Sergestus, Mnestheus, and Gyas to win the boat-race at the funeral games of Anchises?"
+      answer: "CLOANTHUS"
+    boni:
+      - question: "Which of the defeated competitors - Sergestus, Mnestheus, and Gyas - is compared to a “half-dead serpent, run over in the road,” as he limps to the finish line, since he ran aground by going too close to the turning rock?"
+        answer: "SERGESTUS"
+      - question: "The next contest held at the funeral games of Anchises was the foot-race. Which Trojan wins that race?"
+        answer: "EURYALUS"
+  - tossup:
+      question: "“Elroy”, “voila”, and “lariat” are all derived from what Latin pronoun?"
+      answer: "<latin>ILLE</latin>"
+    boni:
+      - question: "In addition to <latin>ille</latin>, each of those words has another distinct Latin root.  Name all three."
+        answer: "ELROY - <latin>REX</latin>, VOILA - <latin>VIDEŌ</latin>, LARIAT - <latin>APTUS</latin>"
+      - question: "When you’re using a fan during the summer it derives from a different Latin root than when you’re a Los Angeles Lakers fan.  Give the Latin words and their meanings from which we derive each type of fan."
+        answer: "<latin>VANNUS</latin> - (WINNOWING) FAN, <latin>FANUM</latin> - TEMPLE"
+  - tossup:
+      question: "You have in front of you five excerpts from notable works of Latin literature.  Three of them are from the same work of Latin literature, excerpts B, C, and D.  Identify that work of Lucius Apuleius."
+      answer: "<title><latin>METAMORPHOSES</latin></title> <title>/ (THE) GOLDEN ASS /</title> <title><latin>ASINUS AUREUS</latin></title>"
+    boni:
+      - question: "As a matter of fact, all five of these passages are pulled from various works of Apuleius.  From what work of Apuleius is the passage labeled E derived?"
+        answer: "<title><latin>APOLOGIA</latin></title>"
+      - question: "From what work of Apuleius is the passage labeled A derived?"
+        answer: "<title><latin>DE PLATONE (ET EIUS DOGMATE)</latin></title>   <latin>--</latin>"
+  - tossup:
+      question: "According to a legendary poem by Aristeas of Proconnesus, some one-eyed giants called the Arimaspi engaged in an eternal battle with what gold-guarding beasts, who had the bodies of lions and the heads of eagles?"
+      answer: "GRIFFINS"
+    boni:
+      - question: "The Arimaspi lived next to what people, whose members Opis and Arge emigrated to Delos, where they were honored?"
+        answer: "HYPERBOREANS / <latin>HYPERBOREOI</latin>"
+      - question: "In contrast to the griffins, Arimaspi, and Hyperboreans—who lived in the far  \tnorth—what people lived on Oceanus’ southern shores, where they engaged in an eternal battle with migrating cranes?"
+        answer: "PYGMIES / <latin>PYGMAIOI</latin>"
+  - tossup:
+      question: "According to Fabius Pictor and Naevius, a cult of Aeneas Indiges was established in what Latin city, which seems logical since Aeneas is said to have founded the city itself?"
+      answer: "LAVINIUM"
+    boni:
+      - question: "According to the Greek Timaeus, the Trojan penates were also kept in Lavinium and were later worshipped as what twins?"
+        answer: "CASTOR AND POLLUX / POLYDEUCES / \t\tDIOSCURI / GEMINI / TYNDARIDAE"
+      - question: "Underlining the importance of Lavinium in Rome is the fact that the high magistrates, such as consuls, were required at the beginning and end of their tenure to make a sacrifice at Lavinium to the Penates and also what important deity?"
+        answer: "VESTA"
+  - tossup:
+      question: "Give a correlative pair that is synonymous with the correlative <latin>quā...quā…</latin> (A&G 323F)."
+      answer: "<latin>ET...ET… / CUM...TUM… / -QUE…-QUE / IAM...IAM… / NUNC...NUNC… / TUM...TUM…</latin>"
+    boni:
+      - question: "What conjunction introduces a question where there are two alternatives, as in “is it one thing or another?”"
+        answer: "<latin>UTRUM</latin>"
+      - question: "Using <latin>utrum</latin>, say in Latin “When I saw him, I never knew whether I was laughing or crying.”"
+        answer: "UBI /  CUM EUM VIDI/VIDEREM, NUMQUAM SCIVI / UMQUAM NESCIVI UTRUM RIDEREM AN LACRIMAREM"
+  - tossup:
+      question: "Praise of the German King Euric and a famous palindromic line can be found in the nine books of <title>Letters</title> written by what author, a prefect of Rome in 468 AD and bishop of Auvergne who wrote panegyrics for the emperors Anthemius and Majorian?"
+      answer: "(C. SOLLIUS MODESTUS APOLLINARIS) SIDONIUS /  SIDONIUS APOLLINARIS"
+    boni:
+      - question: "Sidonius married Papianilla, who was the daughter of what emperor for whom Sidonius had written his first published panegyric?"
+        answer: "AVITUS"
+      - question: "What author of Spanish origin lived at the court of Valentinian III in Ravenna and wrote a panegyric for his patron Aetius as well as another work entitled <title><latin>De Christo</latin></title>?"
+        answer: "(FLAVIUS) MEROBAUDES"
+  - tossup:
+      question: "Say in Latin, “I am worthy of winning this contest.”"
+      answer: "<latin>SUM DIGNUS QUĪ</latin> / <latin>DIGNA QUAE HOC CERTĀMEN VINCAM</latin> [accept <emphasis><latin>dignus + ut</latin></emphasis>; accept <emphasis><latin>dignus + ad + gerund(ive)</latin></emphasis>; accept <emphasis><latin>dignus + the infinitive but it’s poetic or post-classical</latin></emphasis>; do not accept supine with ablative;  do not accept dignus + gerundive in ablative or genitive]"
+    boni:
+      - question: "Say in Latin, “I promise that even if the wounds had been more severe, I would not have fallen.”"
+        answer: "<latin>PRŌMITTŌ / POLLICEOR, ETIAMSĪ VULNERA</latin> <latin>GRAVIŌRA</latin> <latin>FUISSENT, MĒ NŌN (OC)CASŪRUM FUISSE</latin>  (Conditionals in Indirect Discourse (A&G 589.3.b) If the verb in the apodosis is ACTIVE then the construction is [future ptcpl.] + fuisse. If the apodosis is PASSIVE or lacks a supine form then the periphrasis [future ptcpl.] + futurum fuisse ut + imperf. subjunctive)"
+      - question: "Using a gerund, say in Latin, “While sleeping, the mother was woken suddenly by a sound.”"
+        answer: "<latin>MĀTER INTER DORMIENDUM SUBITŌ Ā SONŌ EXCITĀTA EST</latin>  <latin>--</latin>"
+  - tossup:
+      question: "<latin>Dīc numerīs Rōmānīs septuaginta.</latin>"
+      answer: "<latin>LXX</latin>"
+    boni:
+      - question: "<latin>Dīc numerīs Rōmānīs sēdecim et vigintī septem.</latin>"
+        answer: "<latin>XLIII / XVI ET XXVII</latin>"
+      - question: "<latin>Dīc numerīs Rōmānīs numerum minimum quī nequeat dīvidī aliīs numerīs nīsī eōdem et ūnō.</latin>"
+        answer: "<latin>II</latin>"
+  - tossup:
+      question: "Near what modern city did Aurelian defeat Tetricus in 273 AD, the same location as the site of Attila’s defeat in 451 AD?"
+      answer: "CHÂLONS(-SUR-MARNE/-EN-CHAMPAGNE)"
+    boni:
+      - question: "What modern city served as the tetrarch Constantius Chlorus’s capital?"
+        answer: "TRIER"
+      - question: "One of the rulers of the <latin>imperium Galliārum,</latin> Tetricus, moved his capital from Trier to what modern city?"
+        answer: "BORDEAUX"
+  - tossup:
+      question: "At the end of the Trojan War, Odysseus and Menelaüs saved Glaucus, Helicaon, and Theano, the sons and wife of what man, who had sheltered them when they came to Troy as envoys?"
+      answer: "ANTENOR"
+    boni:
+      - question: "According to Sophocles, at the fall of Troy, Odysseus and Menelaüs hung what kind of object on Antenor’s door as a signal that it should be spared?"
+        answer: "LEOPARD-SKIN // LEOPARD’S SKIN"
+      - question: "According to Vergil’s <title>Aeneid</title>, Antenor founded what city in Italy after abandoning Troy?"
+        answer: "PADUA / PATAVI(UM)"
+  - tossup:
+      question: "What author, whose lost lyric poems are praised by Quintilian for being the only examples from the genre worth reading besides Horace’s <title>Odes,</title> wrote a metrical treatise dedicated to Nero and was responsible for the posthumous publication of his friend Persius’s <title>Satires</title>?"
+      answer: "CAESIUS BASSUS"
+    boni:
+      - question: "Which of Persius’s <title>Satires,</title> which is addressed to Caesius Bassus, encourages Bassus to spend his money in moderation according to the model of Stoicism?"
+        answer: "SIXTH"
+      - question: "What other friend of Persius wrote a biography of Cato Uticensis that would later be used as a model for Plutarch’s biography of the same man?"
+        answer: "(P. CLODIUS THRASEA) PAETUS  <latin>--</latin>"
+  - tossup:
+      question: "The Lexicon Recentis Latinitatis defines the internet as <latin>interrētum</latin>. Using this neologism, translate the following sentence into good Latin: “Although this certamen has been held by internet, nevertheless we have enjoyed it very much.”"
+      answer: "<latin>CUM / QUAMVIS HOC CERTĀMEN INTERRĒTŌ SIT ACTUM /  QUAMQUAM HOC CERTĀMEN INTERRĒTŌ EST ACTUM  (NŌS) EŌ / HŌC / ILLŌ TAMEN MAXIMĒ/VALDĒ</latin> <latin>FRUITĪ / FRUCTĪ SUMUS  (</latin><title><latin>vel sim. -</latin></title> <title>Cum +</title> subjunctive <title>Quamvis +</title> subjunctive <title>Ut + S</title>ubjunctive or Indicative <title>etsi, etiamsi, tametsi +</title> pluperfect subj. <title>quamquam +</title> indicative <title>quamvis +</title> indicative OR subjunctive)"
+    boni:
+      - question: "Now translate this sentence: “If we had been able to play certamen among friends rather than the internet, then we would have had more powerful memories.”"
+        answer: "<latin>SĪ NŌS LŪDERE CERTĀMEN INTER / APUD AMĪCŌS POTIUS QUAM  INTERRĒTUM POTUISSĒMUS / QUĪVISSĒMUS, NŌBĪS  POTENTIŌRĒS MEMORIAE FUISSENT//  ...NŌS MEMORIĀS POTENTIŌRĒS HABUISSĒMUS</latin> <title><latin>(vel sim.)</latin></title>"
+      - question: "The LRL suggests that in a world where screens are ubiquitous, we adopt the use of the word <latin>scrīnium</latin> to define them. As the final question for this tournament, translate this sentence using the word <latin>scrīnium</latin> and a compound of <latin>sī</latin>: “Although we would have preferred to see one another without screens, we rejoice nonetheless because we love our friends!”"
+        answer: "<latin>ETSĪ VIDĒRE ALTERĪ ALTERŌS SINE SCRĪNIĪS MALLĒMUS /  MALUISSĒMUS, NOS TAMEN GAUDĒMUS QUOD / QUIA AMĪCŌS  NOSTRŌS AMĀMUS //   ...GAUDĒMUS AMŌRE NOSTRŌ AMĪCŌRUM NOSTRŌRUM</latin> <title><latin>(vel sim.)</latin></title>"

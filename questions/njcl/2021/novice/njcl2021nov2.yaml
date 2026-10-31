@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Of the words <latin>coquus, latrō, poēta, iānitor,</latin> and <latin>sacerdōs</latin>, which is best described in the following sentence? <latin>Is longōs librōs scrībit.</latin>"
+      answer: "<latin>POĒTA</latin>"
+    boni:
+      - question: "From the list in the tossup, <latin>coquus, latrō, poēta, iānitor,</latin> and <latin>sacerdōs,</latin> which is best described in the following sentence? <latin>Is in templō labōrat, deōs laudans.</latin>"
+        answer: "SACERDŌS"
+      - question: "From the list in the tossup, <latin>coquus, latrō, poēta, iānitor,</latin> and <latin>sacerdōs,</latin> which is best described in the following sentence? <latin>Saepe, is clam per noctem ambulat.</latin>"
+        answer: "LATRŌ"
+  - tossup:
+      question: "Today’s politicians tend to wear formal attire in office or on the campaign trail. In ancient Rome, you could identify an individual running for office by his chalk-white garments known by what name in Latin?"
+      answer: "<latin>TOGA CANDIDA</latin>"
+    boni:
+      - question: "What type of toga was worn by boys until the ages of 15 or 16 and by curule magistrates?"
+        answer: "<latin>TOGA PRAETEXTA</latin>"
+      - question: "What type of toga, which was worn at funerals, was made of black wool?"
+        answer: "<latin>TOGA PULLA</latin>"
+  - tossup:
+      question: "What type of animal includes both the one with full-moon-shaped marks on its flanks that led a Phoenician emigrant to the site of his future city of Thebes, and the one that carried off Europa to Crete?"
+      answer: "COW / CATTLE (PROMPT ON “BULL” / “HEIFER”)"
+    boni:
+      - question: "Upon arriving at the site of Thebes, Cadmus defeated what kind of animal to gain access to a water source, and then sowed its teeth into the ground on Athena’s orders?"
+        answer: "DRAGON / SNAKE / SERPENT"
+      - question: "Name Cadmus’ father, who was married to Telephassa and commanded Cadmus never to return to his native Phoenicia unless he found and rescued Europa."
+        answer: "AGENOR"
+  - tossup:
+      question: "What is the nominative plural of <latin>vīr</latin>?"
+      answer: "<latin>VĪRĪ</latin>"
+    boni:
+      - question: "What are the nominative plural forms of the nouns <latin>vīs</latin> and <latin>vēr</latin>?"
+        answer: "<latin>VĪRES</latin> and <latin>VĒRA</latin>"
+      - question: "What is the dative plural of the noun <latin>vīs</latin>?"
+        answer: "<latin>VĪRIBUS</latin>"
+  - tossup:
+      question: "What emperor was said to have not cut his hair or beard for several months following the disaster at Teutoburg Forest in 9 AD?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What commander of the Rhine legions was responsible for this defeat at the hands of Arminius?"
+        answer: "(PUBLIUS QUIN(C)TILIUS) VARUS"
+      - question: "Augustus’ policy was to reduce the military establishment to the minimum necessary to maintain peace within and guard the borders of the empire. After what notable battle of the Republican era did he permanently reduce the number of legions to 28?"
+        answer: "ACTIUM"
+  - tossup:
+      question: "For the verb <latin>audio</latin>, give the form that means “y’all had heard,” the second person plural pluperfect active indicative."
+      answer: "<latin>AUDĪ(V)ERĀTIS</latin>"
+    boni:
+      - question: "Change that form to the future perfect."
+        answer: "<latin>AUDĪ(V)ERĪTIS</latin>"
+      - question: "Change that form to the third person."
+        answer: "<latin>AUDĪ(V)ERINT</latin>"
+  - tossup:
+      question: "What Latin word, which has a compound meaning “kill”, is the root of English words such as “clarify”, “affect”, and “fact”?"
+      answer: "<latin>FACIŌ</latin>"
+    boni:
+      - question: "What derivative of <latin>faciō</latin> means “a group of people usually having the same opinion contained within a larger group”?"
+        answer: "FACTION"
+      - question: "What derivative of <latin>faciō</latin> means “without flaw or complete”?"
+        answer: "PERFECT"
+  - tossup:
+      question: "What woman was distracted once—then again—then a third time—by gifts from Aphrodite that were thrown in her path and allowed her suitor to beat her in a footrace and marry her?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Name that successful suitor."
+        answer: "HIPPOMENES / MELANION"
+      - question: "Later, for insulting one deity or another, both Atalanta and Hippomenes were transformed into what type of animal?"
+        answer: "LION"
+  - tossup:
+      question: "Which U.S. state, that does not have a Latin motto, has a name that is derived from the Latin word “<latin>mons</latin>” meaning ‘mountain’?"
+      answer: "MONTANA"
+    boni:
+      - question: "Which U.S. state, that also does not have a Latin motto, has a name that is derived from the Latin word “<latin>silva</latin>” meaning forest?"
+        answer: "PENNSYLVANIA"
+      - question: "Which U.S. state, that also does not have a Latin motto, has a name that is derived from the Latin word “<latin>flōs</latin>” meaning ‘flower’?"
+        answer: "FLORIDA"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice, and answer in English the question that follows: <latin>Ōlim, erat cōnsul nōmine Pūblius Claudius Pulcher. Eī valdē placēbant bellum gerere et hominēs necāre. Sed erat difficultās--Pūblius nōn bellum gerere poterat, quod pullī sacrī Rōmae nōn comedēbant! Pūblius pullīs cibum dabat semel, bis, ter… sed pullī nōn comedēbant. Īrātissimus, Pūblius pullōs in mare iēcit.</latin> Question: What are two things that Publius Claudius Pulcher liked to do?"
+      answer: "WAGE WAR and KILL PEOPLE"
+    boni:
+      - question: "Why couldn’t Publius wage war?"
+        answer: "THE (SACRED) CHICKENS WEREN’T EATING"
+      - question: "What did Publius ultimately do to the chickens?"
+        answer: "THREW THEM INTO THE SEA"
+  - tossup:
+      question: "What man who grew up in Spain with his father, whose family name means “lightning,” followed up his victory in a skirmish at Ticinus with three stunning victories over Roman forces at Trebia, Lake Trasimene, and Cannae?"
+      answer: "HANNIBAL (BARCA)"
+    boni:
+      - question: "What Roman dictator stopped the bleeding after Cannae by refusing Hannibal battle, which earned him an <latin>agnōmen</latin> that means “the delayer?”"
+        answer: "(Q.) FABIUS MAXIMUS / VERRUCOSUS / CUNCTATOR"
+      - question: "Who was the only Roman general to defeat Hannibal in a land battle?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)"
+  - tossup:
+      question: "Eurystheus rejected which early labor of Heracles as invalid because Heracles’ nephew, Iolaüs, cauterized the stump of each head that Heracles had clubbed off?"
+      answer: "(LERNAEAN) HYDRA (PROMPT ON 2ND)"
+    boni:
+      - question: "Heracles then dipped his arrows in the Hydra’s poison blood. He used these arrows on several occasions, including alongside noisy bronze castanets during which labor?"
+        answer: "STYMPHALIAN BIRDS (PROMPT ON 5TH OR 6TH)"
+      - question: "Heracles also used another arrow to kill what centaur, who had tried to carry off Deianeira, and committed suicide out of agony when Deianeira poisoned the former’s tunic with the latter’s blood?"
+        answer: "NESSUS"
+  - tossup:
+      question: "Which of the following nouns is not the same case as the others <latin>lībertās</latin>, <latin>artium</latin>, <latin>signum</latin>, <latin>multitūdō</latin>, and <latin>soror</latin>?"
+      answer: "<latin>ARTIUM</latin>"
+    boni:
+      - question: "Of those same nouns, <latin>lībertās</latin>, <latin>artium</latin>, <latin>signum</latin>, <latin>multitūdō</latin>, and <latin>soror</latin>, which is not the same gender as the others?"
+        answer: "<latin>SIGNUM</latin>"
+      - question: "Of those same nouns, <latin>lībertās</latin>, <latin>artium</latin>, <latin>signum</latin>, <latin>multitūdō</latin>, and <latin>soror</latin>, which is not the same declension as the others?"
+        answer: "<latin>SIGNUM</latin>"
+  - tossup:
+      question: "What modern country encompasses the territory the Romans would have called <latin>Baetica</latin> and <latin>Tarracōnēnsis</latin>?"
+      answer: "SPAIN"
+    boni:
+      - question: "Name a modern country that occupies part of the territory of the Roman province <latin>Raetia</latin>."
+        answer: "SWITZERLAND / GERMANY / AUSTRIA"
+      - question: "Name the modern country that contains the territory of the Roman province <latin>Cȳrēnaica</latin>."
+        answer: "LIBYA"
+  - tossup:
+      question: "What man rejected offers of prowess in war and rule over the known world—the gifts offered respectively by Athena and Hera—in favor of Aphrodite’s promise to give him the world’s most beautiful woman, Helen?"
+      answer: "PARIS / ALEXANDER"
+    boni:
+      - question: "Atop what mountain near Troy did Paris complete his judgement of the three goddesses?"
+        answer: "(MT.) IDA"
+      - question: "Fragments of an early poem describe how what group of three attendant goddesses, as well as the Horae, prepared a beautiful dress for Aphrodite to wear to the contest?"
+        answer: "GRACES / <latin>CHARITES</latin>(if they say “CHARITIES” assume it’s their pronunciation of <latin>CHARITES</latin> unless they spell it for you unprompted)"
+  - tossup:
+      question: "“What are you saying? I can’t hear you. Please tell me again.” From those sentences give the Latin verb form for “are you saying” in the first sentence."
+      answer: "<latin>DĪCI(TI)S</latin>"
+    boni:
+      - question: "Give the Latin for “hear” in the second sentence “I can’t hear you.”"
+        answer: "<latin>AUDĪRE</latin>"
+      - question: "Using <latin>dīco</latin>, give the Latin for “tell” in the third sentence “Please tell me again.”"
+        answer: "<latin>DĪC(ITE)</latin>"
+  - tossup:
+      question: "<latin>RESPONDĒ LATĪNĒ: Quem fratrem necāvit Rōmulus?</latin>"
+      answer: "RĒMUM"
+    boni:
+      - question: "<latin>Quis rēxit inter Rōmulum et Tullum Hostīlium?</latin>"
+        answer: "NUMA (POMPILIUS)"
+      - question: "<latin>In quō monte erat oppidum Rōmulī?</latin>"
+        answer: "(IN MONTE) PALĀTĪNŌ"
+  - tossup:
+      question: "What animal’s name in English means “a pig with thorns” by derivation?"
+      answer: "PORCUPINE"
+    boni:
+      - question: "What animal’s name is preserved in “vaccine?”"
+        answer: "<latin>VACCA</latin> / COW"
+      - question: "What English noun is a translation of both <latin>amita</latin> and <latin>mātertera</latin>?"
+        answer: "AUNT"
+  - tossup:
+      question: "What woman is described in the following quote from Ovid’s <title>Metamorphoses</title>: “Then she still had a body, she was not only a voice. But although she was talkative, she had no other manner of speech than she now has: to repeat the most recent words of the many spoken.”"
+      answer: "ECHO"
+    boni:
+      - question: "According to Ovid, what goddess removed Echo’s ability to speak independently?"
+        answer: "JUNO (DO NOT ACCEPT “HERA”)"
+      - question: "Echo fell in love with Narcissus but was scorned by him. What goddess, seeking to avenge one of Narcissus’ other spurned lovers, caused him to fall in love with his own reflection?"
+        answer: "NEMESIS"
+  - tossup:
+      question: "When your Latin teacher asks you “<latin>Intellegisne</latin>?” what are they asking?"
+      answer: "DO YOU UNDERSTAND (ACCEPT EQUIVALENTS)"
+    boni:
+      - question: "You reply to your teacher, “<latin>Plūs minusve</latin>.” What are you telling your teacher?"
+        answer: "MORE OR LESS (ACCEPT EQUIVALENTS)"
+      - question: "Your teacher then says, “<latin>Hoc mihi placet</latin>.” What does their reply mean?"
+        answer: "THIS PLEASES ME. (ACCEPT EQUIVALENTS)"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "In what river did King Midas wash away his accursed golden touch?"
+      answer: "PACTOLUS"
+    boni:
+      - question: "What river of Hades was the River of Woe?"
+        answer: "ACHERON"
+      - question: "What river did Achilles clog with corpses?"
+        answer: "SCAMANDER / XANTHUS"
+  - tossup:
+      question: "What are the other principal parts of the Latin verb <latin>fateor</latin>?"
+      answer: "<latin>FĀTĒRĪ, FASSUS /-UM (SUM)</latin>"
+    boni:
+      - question: "... of <latin>ūrō</latin>"
+        answer: "<latin>ŪRERE, USS</latin><latin>Ī,</latin> <latin>ŪSTUS /-UM (SUM)</latin>"
+      - question: "... of <latin>ulcīscor</latin>"
+        answer: "<latin>ULCĪSCĪ, ULTUS /-UM (SUM)</latin>"
+  - tossup:
+      question: "What man served in the army in Britain, Africa, Greece, and Judea before becoming emperor of Rome in the first century A.D.?"
+      answer: "(T. FLAVIUS) VESPASIAN(US)"
+    boni:
+      - question: "Why did Vespasian fall into disfavor with Nero?"
+        answer: "HE HAD SLEPT WHILE NERO SANG"
+      - question: "In which Roman province did legions first acclaim Vespasian emperor of Rome on July 1, A.D. 69?"
+        answer: "EGYPT/ AEGYPTUS"
+  - tossup:
+      question: "What divinity was given, as an infant, to King Athamas of Orchomenus and his wife Ino to rear?"
+      answer: "DIONYSUS / BACCHUS / LIBER"
+    boni:
+      - question: "Who delivered the infant Dionysus to Athamas and Ino?"
+        answer: "HERMES"
+      - question: "How did Athamas and Ino attempt to hide Dionysus’ identity from Hera?"
+        answer: "THEY DRESSED HIM AS A GIRL"
+  - tossup:
+      question: "What English verb meaning “to bewilder” is borrowed verbatim from a Latin phrase meaning “no more?”"
+      answer: "NONPLUS"
+    boni:
+      - question: "What English noun meaning “burden” is borrowed literatim from a Latin word meaning “burden?”"
+        answer: "ONUS"
+      - question: "What English noun meaning “fake medication” is a Latin word meaning “I will please.”"
+        answer: "PLACEBO"
+  - tossup:
+      question: "What Suebic chieftain assisted the Sequani to overcome the Haedui while Julius Caesar was proconsul of Transalpine Gaul?"
+      answer: "ARIOVISTUS"
+    boni:
+      - question: "What Gallic tribe did Julius Caesar fight in naval warfare?"
+        answer: "VENETI / THE VENETIANS"
+      - question: "What tribe of Belgians offered Caesar the stiffest resistance?"
+        answer: "NERVI"
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>lb</latin>."
+      answer: "<latin>LĪBRA</latin> - BALANCE / POUND / SCALE(S)"
+    boni:
+      - question: "Give the Latin and English for the abbreviation <latin>ad val.</latin>."
+        answer: "<latin>AD VALŌREM</latin> - ACCORDING TO THE VALUE"
+      - question: "Give the Latin and English for the abbreviation <latin>gtt</latin>."
+        answer: "<latin>GUTTAE</latin> - DROPS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Marius prōgressus est mīlitum hortandōrum grātiā</latin>"
+      answer: "MARIUS CAME FORTH TO ENCOURAGE/ EXHORT/ URGE ON/ INSPIRE THE/HIS SOLDIERS or FOR THE SAKE/ PURPOSE OF (..I)NG (...)"
+    boni:
+      - question: "<latin>Dum Marius loquitur, nēmō obdormīvit</latin>"
+        answer: "WHILE MARIUS WAS SPEAKING, NO ONE FELL ASLEEP (do <emphasis>not</emphasis> accept “is speaking” as a translation for “<latin>loquitur</latin>”)"
+      - question: "<latin>Ūnus nostrum sciēbat Marium potentiam habitūrum esse</latin>"
+        answer: "ONE OF US KNEW THAT MARIUS WAS GOING TO / ABOUT TO / INTENDING TO / FIXIN' TO / WOULD HAVE POWER."
+  - tossup:
+      question: "Who taught Heracles how to wrestle?"
+      answer: "AUTOLYCUS"
+    boni:
+      - question: "Who taught Heracles to use a bow and arrow?"
+        answer: "EURYTUS"
+      - question: "Who taught him to drive a chariot?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Quondam fuit vir statūrā</latin> <latin>altus quī</latin> <latin>dīvitiīs abundābat. Ut accidit, virginem formōsam in mātrimōnium dūxerat. Cum beātī</latin> <latin>vidērentur, marītus tamen aliam fēminam in amōre habuit. Rumōre dē</latin> <latin>infidēlitāte ortō, marītus dēspērāns īngentem ānulum purpureum et pretiōsissimum ēmit ut uxōrī</latin> <latin>placēret.</latin>  <latin>Quālis erat fēmina quam hic vir in mātrimōnium dūxerat?</latin>"
+      answer: "FORMŌSA / PULCHRA"
+    boni:
+      - question: "Quō <latin>factō</latin> <latin>marītus ānulum novum uxōrī</latin> <latin>suae ēmit?</latin>"
+        answer: "<latin>RUMŌRE DĒ INFIDĒLITĀTE ORTŌ</latin> or <latin>POSTQUAM ALIAM FĒMINAM IN AMŌRE HABUERAT</latin>"
+      - question: "<latin>Quō consiliō ānulus īngēns uxōrī dabātur?</latin>"
+        answer: "<latin>UT UXŌRĪ PLACĒRET</latin>"
+  - tossup:
+      question: "Who charmed Nero with his poetry, was honored for helping to suppress the Pisonian conspiracy, was a distinguished jurist, and tried to be an enlightened and progressive ruler during his short reign as emperor?"
+      answer: "(M. COCCEIUS) NERVA"
+    boni:
+      - question: "Where were Nerva's ashes placed to rest?"
+        answer: "AUGUSTUS' MAUSOLEUM"
+      - question: "How did Nerva avoid the same problem Galba had and assure the support of the military during his reign?"
+        answer: "HE ADOPTED TRAJAN AS HIS HEIR / CO-REGENT"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Ululā</latin> <latin>ut lupus</latin>"
+      answer: "STUDENT SHOULD HOWL LIKE A WOLF"
+    boni:
+      - question: "<latin>Fac sonum anseris</latin>"
+        answer: "STUDENT SHOULD HONK LIKE A GOOSE"
+      - question: "<latin>Imitāminī</latin> <latin>pullōs edentēs</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD IMITATE CHICKENS / BIRDS EATING"
+  - tossup:
+      question: "With the founding of what city do we associate the mythical Spartoi, or \"sown men\"?"
+      answer: "THEBES"
+    boni:
+      - question: "Which of the Spartoi married Cadmus' daughter Agave?"
+        answer: "ECHION"
+      - question: "At what other city did men grow out of the ground in a similar fashion?"
+        answer: "AEA ( IN COLCHIS)"
+  - tossup:
+      question: "Of the nouns <latin>iūdex, aper, scelus, gelū</latin>, and <latin>fūnus</latin>, which is described in this Latin sentence? <latin>Eōs pūnit quī</latin> <latin>scelera commīsērunt</latin>"
+      answer: "IŪDEX"
+    boni:
+      - question: ". . . <latin>Hoc nōbīs est cum moritūrī</latin> <latin>sīmus</latin>"
+        answer: "<latin>FŪNUS</latin>"
+      - question: ". . . <latin>Dentēs acrōs et perīculōsōs habet</latin>"
+        answer: "<latin>APER</latin>"
+  - tossup:
+      question: "You are looking at a series of Roman reliefs. Which depicts a scene from the Ara Pacis?"
+      answer: "A"
+    boni:
+      - question: "Which of them depicts a scene from the Column of Trajan?"
+        answer: "C"
+      - question: "Which depicts a scene from the Arch of Constantine?"
+        answer: "E"
+  - tossup:
+      question: "Using a single word, translate the prepositional phrase into Latin for the following sentence: Hannibal’s soldiers refused to sit on the ground"
+      answer: "<latin>HUMĪ</latin>"
+    boni:
+      - question: "Translate the prepositional phrase into Latin for the following sentence: \"Hannibal marched his soldiers to the tops of the mountains.\""
+        answer: "<latin>AD SUMMŌS MONTĒS</latin>"
+      - question: "Translate the prepositional phrase into Latin for the following sentence: \"He could not leave his elephants in the middle of the snow.\""
+        answer: "<latin>IN MEDIĀ</latin> <latin>NIVE</latin>"
+  - tossup:
+      question: "What are the two genitive forms of the pronoun <latin>vōs</latin>?"
+      answer: "<latin>VESTRĪ, VESTRUM</latin>"
+    boni:
+      - question: "For five points each, explain when each is used"
+        answer: "<latin>VESTRĪ</latin> IS OBJECTIVE, <latin>VESTRUM</latin> IS PARTITIVE"
+  - tossup:
+      question: "What king of Crete and ally of the Trojans swore during a frightful storm that he would sacrifice the first person he saw upon returning home if he survived the storm?"
+      answer: "IDOMENEUS"
+    boni:
+      - question: "Who was the first person he saw?"
+        answer: "HIS SON"
+      - question: "How did the gods punish Idomeneus for killing his own son?"
+        answer: "SENT A PLAGUE/ HAD HIM DRIVEN FROM CRETE"
+  - tossup:
+      question: "With respect to Julius Caesar’s army, what is the name of the unit that had 120 soldiers?"
+      answer: "MANIPLE"
+    boni:
+      - question: "What function did the <latin>mūliōnēs</latin> serve for a Roman legion?"
+        answer: "MULETEERS/ DROVE PACK ANIMALS/ HANDLED HEAVY BAGGAGE"
+      - question: "What Latin term refers to the soldiers’ slaves?"
+        answer: "<latin>CĀLŌNĒS</latin>"
+  - tossup:
+      question: "What is the ultimate Latin verb root and its meaning from which \"defy\" is derived?"
+      answer: "<latin>FĪDŌ</latin>, TRUST/ BELIEVE/ CONFIDE"
+    boni:
+      - question: "... means \"an unbeliever,\" especially of the state religion"
+        answer: "INFIDEL"
+      - question: "What Latin noun, related to <latin>fīdō</latin>, <latin>fīdere</latin> means “treaty?”"
+        answer: "<latin>FOEDUS</latin>"

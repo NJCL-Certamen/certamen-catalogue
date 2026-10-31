@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who finally relented and allowed Odysseus to make a raft after having him stay on her island, Ogygia, for seven years?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Calypso ultimately relented after Zeus sent what god to order that Odysseus be let go?"
+        answer: "HERMES"
+      - question: "Name Calypso’s father, a Titan who became the namesake of a mountain range in northwestern Africa."
+        answer: "ATLAS"
+  - tossup:
+      question: "Which of the following, if any, is not derived from the same Latin root as the others: recur, incursion, current, cure?"
+      answer: "CURE"
+    boni:
+      - question: "Give the first and second principal parts of the Latin verb from which we derive “cure”."
+        answer: "<latin>CŪRŌ</latin>, <latin>CŪRĀRE</latin>"
+      - question: "What derivative of <latin>cūrō</latin> means “to cleanse hard by scrubbing”?"
+        answer: "SCOUR"
+  - tossup:
+      question: "Make the phrase <latin>pulcher lapis</latin> genitive singular, meaning “of the pretty stone.”"
+      answer: "<latin>PULCHRĪ LAPIDIS</latin>"
+    boni:
+      - question: "Change the phrase <latin>pulchrī lapidis</latin> to the ablative singular."
+        answer: "<latin>PULCHRŌ LAPIDE/LAPIDĪ</latin> <latin>(LAPĪ</latin> is archaic and they should know this if they say it.)"
+      - question: "Change the phrase <latin>pulchrō lapide</latin> to the plural."
+        answer: "<latin>PULCHRĪS LAPIDIBUS</latin>"
+  - tossup:
+      question: "Physicians often use Latin abbreviations when writing prescriptions for medication. When should you take a medication that the doctor has instructed to be taken <latin>p.c.</latin>, which stands for <latin>post cibum</latin>?"
+      answer: "AFTER MEALS / AFTER FOOD / AFTER DINNER"
+    boni:
+      - question: "When should you take a medication that has been prescribed <latin>p.r.n.</latin>, which stands for <latin>prō rē nātā</latin>?"
+        answer: "AS NEEDED // WHEN NECESSARY (TO TREAT THE MEDICAL ISSUE)"
+      - question: "Prior to a surgical procedure requiring general anesthesia, your instructions will probably be to go <latin>n.p.o.</latin>, for twelve hours before your procedure. What should you be doing?"
+        answer: "NOT EATING / DRINKING / CONSUMING ANYTHING (<latin>nīl per os</latin>)"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quis erat frāter, quem necāvit Rōmulus?</latin>"
+      answer: "REMUS / <latin>RĒMUS</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Post quem Tullus Hostīlius rēxit?</latin>"
+        answer: "<latin>(POST) NUMAM POMPILIUM</latin>"
+      - question: "<latin>Respondē Latīnē: In quō monte erat oppidum Romulī?</latin>"
+        answer: "<latin>(IN MONTE) PALĀTĪNŌ</latin>"
+  - tossup:
+      question: "Translate the participle in the following sentence: <latin>videō discipulam labōrantem dīligenter</latin>."
+      answer: "(WHILE / WHO IS) WORKING"
+    boni:
+      - question: "Translate the participle in this sentence: <latin>canis, ā puerō amātus, in viā dormiēbat.</latin>"
+        answer: "(HAVING BEEN / WHO WAS) LOVED"
+      - question: "What English name derives from the future passive participle of <latin>amō</latin> and literally means “she who must be loved?”"
+        answer: "AMANDA"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quod vestīmentum gerēbant omnēs cīvēs et servī Rōmānī?</latin>"
+      answer: "<latin>TUNICAM / TUNICĀS /</latin> TUNIC(S)"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quod vestīmentum suprā caput et umerōs ā fēminīs Rōmānīs gerēbātur?</latin>"
+        answer: "<latin>PALLA / PALLAE</latin>"
+      - question: "What type of clothing was <latin>subligāculum</latin>?"
+        answer: "UNDERWEAR / LOINCLOTH"
+  - tossup:
+      question: "What brother of Linus and son of Calliope was so concerned that his wife was not following him that he looked behind himself, causing her to fade back into the Underworld?"
+      answer: "ORPHEUS"
+    boni:
+      - question: "Before going to the Underworld, Orpheus participated in the Argonautic voyage, drowning out what creatures’ songs with his lyre?"
+        answer: "SIRENS / S(E)IRENES"
+      - question: "Eurydice was killed when she stepped on a snake while trying to escape what shepherd?"
+        answer: "ARISTAEÜS"
+  - tossup:
+      question: "What modern city, located just north of Senonian territory during Caesar’s Gallic campaigns, was known as Lutetia in ancient times and is today the capital of France?"
+      answer: "PARIS"
+    boni:
+      - question: "The ancient Sequana gives its name to what modern river that runs through Paris?"
+        answer: "SEINE"
+      - question: "What city in southern France did the Romans know as Lugdunum?"
+        answer: "LYON(S)"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions which follow. \t<latin>Post lūdōs trēs sorōrēs ad tabernam redīre volēbant.  Diū equum Aurēliae quaerēbant, neque eum invenīre poterant.  Tandem eum post caupōnam invēnērunt, lentē māla edentem</latin>.  REREAD  The question:  <latin>Quid sorōrēs facere volēbant?</latin>"
+      answer: "<latin>(AD TABERNAM) REDĪRE //  \t\t QUAERERE / INVENĪRE EQUUM (AURĒLIAE / SUUM)</latin>"
+    boni:
+      - question: "<latin>Quam difficultātem sorōrēs habēbant?</latin>"
+        answer: "<latin>EQUUM INVENĪRE NŌN POTERANT //  NEQUE EQUUM INVENĪRE POTERANT //</latin>"
+      - question: "<latin>Ubi erat equus?</latin>"
+        answer: ""
+      - question: "<latin>Quid faciēbat equus ubi puellae eum invēnērunt?</latin>"
+        answer: "<latin>(LENTĒ MĀLA) EDĒBAT \t\t (EQUUM / EUM MĀLA) EDENTEM INVENERUNT</latin>"
+  - tossup:
+      question: "Who, like his brother Chrysaor, emerged from the severed neck of Medusa, after which he flew off, since he was a winged horse?"
+      answer: "PEGASUS"
+    boni:
+      - question: "Who was the father of Pegasus and Chrysaor?"
+        answer: "POSEIDON / NEPTUNE"
+      - question: "Chrysaor’s name indicates that he had a sword made of what metal?"
+        answer: "GOLD"
+  - tossup:
+      question: "<latin>Rēspondē aut Anglicē aut Latīnē: Lūnā stellīsque vīsīs, quō tempore diēī est?</latin>"
+      answer: "<latin>NOX / NOCTE / NOCTU /</latin> NIGHT"
+    boni:
+      - question: "<latin>Rēspondē aut Anglicē aut Latīnē: Ubi pendent lūna et sōl et omnēs nimbī?</latin>"
+        answer: "<latin>CAELUM /</latin> SKY // <latin>IN CAELŌ / (</latin>IN THE) SKY"
+      - question: "<latin>Rēspondē aut numerīs Rōmānīs aut Latīnē: Quot diēs in annō sunt?</latin>"
+        answer: "<latin>TRECENTĪ SEXĀGINTĀ ET QUĪNQUE / TRECENTĪ SEXĀGINTĀ ET SEX /  CCCLXV / CCCLXVI</latin>"
+  - tossup:
+      question: "What son of Athamas and Nephele was saved from being sacrificed when he was borne away by a golden-fleeced ram?"
+      answer: "PHRIXUS"
+    boni:
+      - question: "Phrixus’ ram carried him safely to the land of Colchis, but he lost what sister of his along the way, when she fell into the sea?"
+        answer: "HELLE"
+      - question: "The land of Colchis was located at the eastern end of what modern body of water?"
+        answer: "BLACK SEA"
+  - tossup:
+      question: "Make the phrase <latin>longum flūmen</latin> comparative so that it means, “longer river.”"
+      answer: "<latin>LONGIUS FLŪMEN</latin>"
+    boni:
+      - question: "Make the phrase <latin>longius flūmen</latin> plural."
+        answer: "<latin>LONGIŌRA FLŪMINA</latin>"
+      - question: "Make the phrase <latin>longiōra flūmina</latin> superlative."
+        answer: "<latin>LONGISSIMA FLŪMINA</latin>"
+  - tossup:
+      question: "According to its derivation, “linguistics” is the study of what?"
+      answer: "LANGUAGES / TONGUES"
+    boni:
+      - question: "According to its derivation, a “lavatory” is a place for what?"
+        answer: "WASHING (ONESELF)"
+      - question: "According to its derivation, a “humanitarian” organization is one that cares for whom?"
+        answer: "PEOPLE / HUMANS"
+  - tossup:
+      question: "Give a Latin synonym of <latin>videō.</latin>"
+      answer: "<latin>SPECTŌ / ASPICIŌ / CONSPICIŌ</latin>"
+    boni:
+      - question: "Give a Latin synonym of <latin>ingēns</latin>."
+        answer: "<latin>IMMĀNIS / MAGNUS</latin>"
+      - question: "Give a Latin synonym of <latin>appellāre</latin>."
+        answer: "<latin>VOCŌ / NOMINŌ</latin>"
+  - tossup:
+      question: "What member of the Marcian <latin>gēns</latin>, after being exiled for tyrannical conduct and opposition to the distribution of grain in 491 B.C., joined the Volscians, whose city of Corioli he had once captured to earn his name?"
+      answer: "(GNAEUS MARCIUS) CORIOLANUS"
+    boni:
+      - question: "For five points each, give the names of the two women who convinced Coriolanus to take his Volscian army and depart from the walls of Rome."
+        answer: "VETURIA AND VOLUMNIA (names are interchangeable)"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Multa templa ā rēge \taedificāta sunt.</latin>"
+      answer: "MANY TEMPLES WERE BUILT / HAVE BEEN BUILT BY THE KING."
+    boni:
+      - question: "Translate this sentence into English: <latin>Post hunc rēgem rēxērunt quīnque aliī rēgēs.</latin>"
+        answer: "AFTER THIS KING, FIVE OTHER KINGS RULED."
+      - question: "Translate this sentence into English: <latin>Rēx septimus ā populō Romānō expulsus est.</latin>"
+        answer: "THE SEVENTH KING HAS BEEN / WAS EXPELLED BY THE ROMAN PEOPLE."
+  - tossup:
+      question: "What emperor stirred up bad public sentiment by his affair with the Judaean princess Berenice, but was still Rome’s sweetheart when he died young in 81 A.D. after he completed the Colosseum?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "Name a city that was destroyed by volcanic eruption during the reign of Titus."
+        answer: "POMPEII / HERCULANEUM / STABIAE / OPLONTIS"
+      - question: "What brother of Titus succeeded him and dedicated an arch in the forum in his honor?"
+        answer: "(TITUS FLAVIUS) DOMITIAN(US)"
+  - tossup:
+      question: "What mythological couple is described in the following quotation from Book 1 of Ovid’s <title><latin>Metamorphōsēs</latin></title>: “Since the sea had covered all things, here he landed, carried with his wife by a small raft. They supplicate Corycian nymphs, the spirits of the mountain, and fate-speaking Themis.”"
+      answer: "DEUCALION & PYRRHA"
+    boni:
+      - question: "Shortly after, Ovid describes what son of Neptune blowing his horn over land and sea?"
+        answer: "TRITON"
+      - question: "Ultimately, Deucalion and Pyrrha repopulate the world by throwing what objects over their shoulders?"
+        answer: "STONES // ROCKS // BONES OF THEIR MOTHER/EARTH"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Using the 3rd conjugation verb “<latin>currō</latin>,” say in Latin “We used to run.” "
+      answer: "<latin>CURRĒBĀMUS</latin>"
+    boni:
+      - question: "Now say in Latin, “We will run.”"
+        answer: "<latin>CURRĒMUS</latin>"
+      - question: "Now say in Latin, “They had run.”"
+        answer: "<latin>CUCURRERANT</latin>"
+  - tossup:
+      question: "Which of the following words, if any, IS derived from <latin>cēdō</latin>: cascade, cheat, incident, chance, success?"
+      answer: "SUCCESS"
+    boni:
+      - question: "From what root Latin verb are the others derived?"
+        answer: "<latin>CADŌ/CADERE</latin> "
+      - question: "What English verb meaning “to occupy the same place in space or time” is also a derivative of <latin>cadō</latin>?"
+        answer: "COINCIDE"
+  - tossup:
+      question: "By what name do we know the coalition responsible for influencing the consular elections for 59 and 55 B.C., which later saw all three of its members die unnatural deaths?"
+      answer: "FIRST TRIUMVIRATE"
+    boni:
+      - question: "Who gained his first consulship in 59 B.C. thanks to the influence of the First Triumvirate?"
+        answer: "(GAIUS JULIUS) CAESAR"
+      - question: "Pompey and Crassus, the other two members of the triumvirate, had both served as lieutenants under what previous dictator?"
+        answer: "(LUCIUS CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "Give a first- and second-declension adjective meaning “small.”"
+      answer: "<latin>PARVUS (-A, -UM) / EXIGUUS / MINŪTUS</latin> "
+    boni:
+      - question: "Give a third-declension antonym of <latin>parvus</latin>"
+        answer: "<latin>INGĒNS (INGENTIS) / GRANDIS (-E) / IMMĀNIS (-E)</latin>"
+      - question: "You probably first thought of the first- and second-declension adjective that is an antonym of <latin>parvus</latin>. What is that adjective?"
+        answer: "<latin>MAGNUS (-A, -UM)</latin> "
+  - tossup:
+      question: "Name a god who is said to have been a son of Zeus and Hera"
+      answer: "ARES or HEPHAESTUS"
+    boni:
+      - question: "Name a goddess said to have been the daughter of Zeus and Hera"
+        answer: "EILEITHYIA or HEBE"
+      - question: "Name one goddess with whom Ares had an affair"
+        answer: "APHRODITE or EOS"
+  - tossup:
+      question: "The Five Good Emperors give us many firsts when it comes to Roman emperors. Who was the first born to a family outside of Italy?"
+      answer: "(MARCUS ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "Who was the first Roman emperor with a beard?"
+        answer: "(PUBLIUS AELIUS) HADRIAN(US)"
+      - question: "Who was the first Roman emperor chosen by the Senate?"
+        answer: "(MARCUS COCCEIUS) NERVA"
+  - tossup:
+      question: "For the sentence “The girl was walking with her mother,” translate the prepositional phrase"
+      answer: "<latin>CUM (SUĀ/EIUS/ILLĪUS) MĀTRE</latin>"
+    boni:
+      - question: "What ablative construction does “<latin>cum mātre</latin>” exemplify in that sentence?"
+        answer: "ACCOMPANIMENT "
+      - question: "Translate the ablative in this sentence and identify its use: “Marcus washed his hands with water.”"
+        answer: "<latin>AQUĀ</latin> / ABLATIVE OF MEANS/INSTRUMENT"
+  - tossup:
+      question: "Which of the following is NOT found in the <latin>Forum Rōmānum</latin>: the Temple of Vesta, the Curia, the Column of Trajan, or the Basilica Julia?"
+      answer: "COLUMN OF TRAJAN"
+    boni:
+      - question: "Of the Arch of Titus, the Curia, the Column of Trajan, or the Basilica Julia, which was built first?"
+        answer: "THE CURIA"
+      - question: "Which of these structures was built to celebrate a victory over the Dacians?"
+        answer: "TRAJAN’S COLUMN"
+  - tossup:
+      question: "Translate the word “<latin>quod</latin>” into English for the following sentence: <latin>Īnfēlīcēs erant mīlitēs quod nūllum cibum habēbant.</latin>"
+      answer: "BECAUSE"
+    boni:
+      - question: "(PASS OUT VISUAL) You are looking at a small Latin passage. How many of the words in line 3 are in the accusative case?"
+        answer: "THREE"
+      - question: "In the entire passage, how many prepositional phrases are there?"
+        answer: "THREE"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quis erat prīmus rēx Rōmānus?</latin>  "
+      answer: "<latin>RŌMULUS (ERAT PRĪMUS RĒX RŌMĀNUS)</latin> "
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot frātrēs Rōmulō erant?</latin> "
+        answer: "<latin>ŪNUS (ERAT EĪ/RŌMULŌ)</latin>  "
+      - question: "<latin>Respondē Latīnē: Quis erat Rōmulī pater?</latin> "
+        answer: "<latin>MĀRS (ERAT RŌMULĪ PATER)</latin> "
+  - tossup:
+      question: "Whose daughter had to be sacrificed to Artemis in order for the Greeks to obtain favorable winds to sail to Troy?"
+      answer: "AGAMEMNON’S / CLYTEMNESTRA’S"
+    boni:
+      - question: "At what port city did this sacrifice take place?"
+        answer: "AULIS"
+      - question: "Who was this unfortunate maiden?"
+        answer: "IPHIGENEIA"
+  - tossup:
+      question: "Give the accusative singular of the phrase <latin>hostis</latin> <latin>clārus</latin>"
+      answer: "<latin>HOSTEM CLĀRUM</latin>"
+    boni:
+      - question: "Change <latin>hostem</latin> <latin>clārum</latin> to the dative plural"
+        answer: "<latin>HOSTIBUS CLĀRĪS</latin>"
+      - question: "Change <latin>hostibus</latin> <latin>clārīs</latin> to the ablative singular"
+        answer: "<latin>HOSTE CLĀRŌ</latin> "
+  - tossup:
+      question: "What did Heracles study under Linus?"
+      answer: "MUSIC/ LYRE-PLAYING"
+    boni:
+      - question: "What was Linus’ fate at the hands of that irascible demigod?"
+        answer: "KILLED <emphasis>WITH HIS OWN LYRE</emphasis>"
+      - question: "What stepfather of Heracles taught him how to drive a chariot?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "What imperial dynasty consisted solely of a man and his two sons, who ruled from 69 to 96 A.D.?"
+      answer: "FLAVIAN"
+    boni:
+      - question: "What two Flavian emperors fought in Judaea?"
+        answer: "(TITUS FLAVIUS) VESPASIAN(US) and TITUS (FLAVIUS VESPASIANUS)"
+      - question: "What Flavian emperor presided over the opening of the Flavian Amphitheater, also known as the Colosseum?"
+        answer: "TITUS (FLAVIUS VESPASIANUS)"
+  - tossup:
+      question: "For how long was the poet reading his poems in the forum?"
+      answer: "TEN HOURS"
+    boni:
+      - question: "How are the poems described in this story?"
+        answer: "THE WORST / <emphasis>VERY</emphasis> BAD"
+      - question: "What happened to the poet?"
+        answer: "HE WAS <emphasis>THROWN</emphasis> INTO THE <emphasis>RIVER / WATER</emphasis> / THE LISTENERS DRAGGED HIM TO THE RIVER AND THREW HIM IN"
+  - tossup:
+      question: "What set of Alban triplets were sent to fight against Rome during the reign of Tullus Hostilius?"
+      answer: "CURIATII"
+    boni:
+      - question: "What triplet set was their adversary?"
+        answer: "HORATII"
+      - question: "Why did the surviving Horatius kill his sister Horatia?"
+        answer: "SHE MOURNED / WEPT FOR HER LOVER/FIANCÉ (NOT HER BROTHER)"
+  - tossup:
+      question: "Which of the following English words is not related by etymology: terrace, disinter, deter, territory, or terrier?"
+      answer: "DETER"
+    boni:
+      - question: "From what Latin root verb is “deter” derived?"
+        answer: "<latin>TERREŌ</latin>"
+      - question: "From what Latin noun are the others derived?"
+        answer: "<latin>TERRA</latin>"
+  - tossup:
+      question: "Whom did King Alcinous and Queen Arete help after hearing of his disastrous attempts to return home?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "What daughter of Alcinous and Arete was the princess of the Phaeacians?"
+        answer: "NAUSICAA"
+      - question: "What was the name of the island over which Alcinous ruled?"
+        answer: "SCHERIA"
+  - tossup:
+      question: "What do all of the following have in common: <latin>merenda, vesperna, ientāculum, prandium,</latin> and <latin>cēna</latin>?"
+      answer: "THEY ARE ALL MEALS / INVOLVE FOOD"
+    boni:
+      - question: "Put the following meals in the order they would appear in a typical Roman’s day, from earliest to latest: <latin>cēna, ientāculum, prandium</latin>. "
+        answer: "<latin>IENTĀCULUM, PRANDIUM, CĒNA</latin> "
+      - question: "Which meal might consist of a <latin>gustātiō, mēnsa prīma, mēnsa altera</latin>, and <latin>secunda mēnsa</latin>?"
+        answer: "<latin>CĒNA</latin>"
+  - tossup:
+      question: "What Latin phrase, easily applied to a person who can go on talking endlessly, literally means “to infinity”?"
+      answer: "<latin>AD ĪNFĪNĪTUM</latin> "
+    boni:
+      - question: "Sometimes we get rather bored with people who just can’t stop talking, and might describe their monologues with a Latin phrase meaning “to the point of disgust.” What is that phrase?"
+        answer: "<latin>AD NAUSEAM</latin>"
+      - question: "Indeed, we might, while listening politely, make a breach of etiquette and say something unkind aloud in a “slip of the tongue.” What Latin phrase would describe this?"
+        answer: "<latin>LAPSUS LINGUAE</latin> <latin>2011 NJCL CERTAMEN NOVICE DIVISION</latin>"

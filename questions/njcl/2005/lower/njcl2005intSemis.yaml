@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What do all of the following nouns have in common: <latin>moenia</latin>, <latin>dīvitiae</latin>, and <latin>arma</latin>?"
+      answer: "USUALLY / EXCLUSIVELY FOUND IN THE PLURAL"
+    boni:
+      - question: "What do all of these have in common: <latin>castra</latin>, <latin>cōpiae</latin>, <latin>aquae</latin>, <latin>mōrēs</latin>?"
+        answer: "DIFFERENT MEANINGS IN THE SINGULAR AND PLURAL"
+      - question: "Other than their declension, what do all of these have in common: <latin>Corinthus</latin>, <latin>Aegyptus</latin>, <latin>humus</latin>?"
+        answer: "THEY ARE <emphasis>FEMININE</emphasis> NOUNS"
+  - tossup:
+      question: "What Latin phrase is used in law to describe a collection of all the laws of a nation?"
+      answer: "<latin>CORPUS JURIS</latin> "
+    boni:
+      - question: "What Latin word is used to describe a clause in a legal document that specifies some condition?"
+        answer: "<latin>PRŌVĪSŌ</latin>"
+      - question: "What Latin phrase is used in law for a temporary agreement between disputing parties pending a final settlement?"
+        answer: "<latin>MODUS VĪVENDĪ</latin>"
+  - tossup:
+      question: "Which Olympian god was disguised as a girl while being raised by King Athamas of Orchomenus and his wife Ino?"
+      answer: "DIONYSUS"
+    boni:
+      - question: "How did Hera punish them for hiding the fruit of her husband’s adultery?"
+        answer: "MADNESS, (INO GRABBED HER SON MELICERTES) (ATHAMAS KILLED HIS OWN SON LEARCHES THINKING HE WAS A STAG, AND THEY JUMPED INTO THE SEA)"
+      - question: "Zeus next gave Dionysus to nymphs on Mt. Nysa to raise. Into what was the infant transformed as an extra precaution?"
+        answer: "KID or RAM"
+  - tossup:
+      question: "According to rumor, who intentionally delayed the announcement of Trajan’s death in order to arrange for Hadrian’s official adoption?"
+      answer: "(POMPEIA) PLOTINA (TRAJAN’S WIFE)"
+    boni:
+      - question: "Who was Hadrian’s wife, who was Trajan’s great-niece as well?"
+        answer: "(VIBIA) SABINA (AUGUSTA)"
+      - question: "Where was Hadrian serving as governor when he received news of Trajan’s death?"
+        answer: "SYRIA"
+  - tossup:
+      question: "Translate the following sentence into Latin: Let’s use both hands."
+      answer: "<latin>ŪTĀMUR AMBĀBUS MANIBUS</latin> "
+    boni:
+      - question: "Let us remember our fathers."
+        answer: "<latin>MEMINERĪMUS PATRUM NOSTRŌRUM / PATRĒS NOSTRŌS</latin> "
+      - question: "Let them obey the republic."
+        answer: "<latin>PAREANT / OBOEDIANT REĪ</latin> <latin>PŪBLICAE</latin>"
+  - tossup:
+      question: "What Greek warrior is wounded by Euphorbus and killed by Hector?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "What deity has “roughed up” Patroclus by attacking him from behind?"
+        answer: "APOLLO"
+      - question: "What Greek kills Euphorbus but leaves Hector to strip Patroclus of Achilles’ armor?"
+        answer: "MENELAUS"
+  - tossup:
+      question: "Give all the principal parts for the verb from which “consequence” is derived."
+      answer: "<latin>(CON)SEQUOR, (CON)SEQUĪ, (CON)SECŪTUS /-A /-UM (SUM)</latin> "
+    boni:
+      - question: "Give all the principal parts for the verb from which “gradient” is derived."
+        answer: "<latin>GRADIOR, GRADĪ, GRESSUS /-A /-UM (SUM)</latin> "
+      - question: "Give all the principal parts for the verb from which “rational” is derived."
+        answer: "<latin>REOR, RĒRĪ, RATUS /-A /-UM (SUM)</latin> "
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Gaudeō</latin> <latin>quod venīre constituist</latin><latin>ī.</latin>"
+      answer: "I AM HAPPY THAT YOU DECIDED TO COME / I AM REJOICING BECAUSE YOU DECIDED TO COME"
+    boni:
+      - question: "<latin>Kalendīs Ianuāriīs obviam tibi ībimus</latin>."
+        answer: "WE WILL (GO TO) MEET YOU ON THE KALENDS OF JANUARY / JANUARY 1st"
+      - question: "<latin>Nōs Karthāginī</latin> <latin>erāmus tum cum tū</latin> <latin>Rōmae erās</latin>."
+        answer: "WE WERE AT CARTHAGE (AT THE TIME) WHEN YOU WERE AT ROME"
+  - tossup:
+      question: "What treaty established a military alliance between the Romans and Latins in 493 BC?"
+      answer: "<latin>FOEDUS CASSIANUM</latin> "
+    boni:
+      - question: "Name the consul of 493 BC who mediated this treaty."
+        answer: "SPURIUS CASSIUS (VECELLINUS)"
+      - question: "What unsuccessful legislative proposal led to Spurius Cassius’ eventual execution, since many believed he aspired to become king through demagoguery?"
+        answer: "AGRARIAN LAW (FAVORING THE PLEBEIANS)"
+  - tossup:
+      question: "Which of the following prepositions, if any, is not used with the accusative case: <latin>intrā</latin>, <latin>adversus</latin>, <latin>ergā</latin>, <latin>apud</latin>, <latin>tenus?</latin>"
+      answer: "<latin>TENUS</latin> "
+    boni:
+      - question: "Using a preposition, say in Latin, “On this side of the mountains.”"
+        answer: "<latin>CIS / CITRĀ</latin> <latin>MŌNTĒS</latin> "
+      - question: "Translate into English, “<latin>Brundisiō</latin> <latin>tenus.</latin>”"
+        answer: "UP TO / AS FAR AS BRUNDISIUM"
+  - tossup:
+      question: "Wait until you are instructed to open your visuals. (PASS OUT THE VISUALS) Open your visuals. (WAIT A MOMENT FOR THE STUDENTS TO OPEN THEM) Examine this picture, in which people, animals, and objects are labeled. Give the letter that corresponds to the person, animal, or object speaking the following Latin sentence: <latin>Hominēs nōbīs ūtuntur ad aquam continendam</latin>."
+      answer: "G"
+    boni:
+      - question: "Give the corresponding letter for: <latin>Aliquem dantem canī aquam spectō</latin>."
+        answer: "C"
+      - question: "Give the corresponding letter for: <latin>Aliquis mē bona ad forum trāhentem dīrigit</latin>."
+        answer: "F"
+  - tossup:
+      question: "Whom did Polynices bribe with the necklace of Harmonia?"
+      answer: "ERIPHYLE"
+    boni:
+      - question: "What did Eriphyle agree to do in return for the necklace?"
+        answer: "CONVINCE HER HUSBAND / AMPHIARAÜS TO JOIN THE SEVEN AGAINST THEBES"
+      - question: "Amphiaraüs knew that all of the leaders of the expedition would be killed except for whom?"
+        answer: "ADRASTUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Olim fuit actor pessimus quī</latin> <latin>deōs falsae scientiae colēbat. “Sī</latin> <latin>tū</latin> <latin>es aeger mente,” inquit, “cōnsule nūllum medicum, sed meōs deōs quī</latin> <latin>remedia omnibus prōvident. Nam omnia medicamenta sunt vēnēna.” Omnēs</latin>  <latin>crēdēbant eum īnsānum esse quod loquēbātur dē</latin> <latin>suā</latin> <latin>religiōne dum in lectīs saltat. Tandem - mīrābile dictū</latin> <latin>- actor asinus factus est.</latin>  Question: What did the horrible actor tell others to do if they have mental problems?"
+      answer: "NOT TO CONSULT / SEE A DOCTOR / TO CONSULT HIS GODS (WHO PROVIDE CURES FOR EVERYTHING / EVERYONE)"
+    boni:
+      - question: "Why did everyone think the actor was crazy?"
+        answer: "HE TALKED ABOUT HIS RELIGION WHILE JUMPING ON COUCHES / BEDS"
+      - question: "What happened to this actor?"
+        answer: "HE TURNED INTO A DONKEY / HE BECAME A DONKEY"
+  - tossup:
+      question: "According to Ovid, what couple angered Cybele by making love in her temple?"
+      answer: "HIPPOMENES (not Melanion) & ATALANTA"
+    boni:
+      - question: "According to Ovid, what deity created an uncontrollable passion in Hippomenes because he had not thanked her?"
+        answer: "VENUS"
+      - question: "According to Ovid, into what did Cybele transform the couple as a punishment for their sacrilege?"
+        answer: "LIONS"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Quibus partibus corporis tuī</latin> <latin>ambulās</latin>?"
+      answer: "<latin>PEDIBUS / CRŪRIBUS / FEMURIBUS</latin> "
+    boni:
+      - question: "<latin>Quā</latin> <latin>parte corporis tuī</latin> <latin>cōgitās?</latin>"
+        answer: "<latin>CAPITE / CEREBELLŌ</latin> <latin>/ CEREBRŌ</latin> (Do not take “<latin>mente</latin>” or “<latin>animō</latin>”)"
+      - question: "<latin>Quam partem corporis tuī</latin> <latin>pectis?</latin> "
+        answer: "<latin>CAPILLUM / CAPILLŌS / COMAM / CRĪNEM / CAESARIEM</latin> "
+  - tossup:
+      question: "Complete the following analogy: <latin>Mediolānum</latin> : <latin>Milan</latin> :: <latin>Massilia</latin> : _____?"
+      answer: "MARSEILLES"
+    boni:
+      - question: "<latin>Mediōlānum</latin> : <latin>Milan</latin> :: <latin>Vindobōna</latin> : _____?"
+        answer: "VIENNA"
+      - question: "<latin>Mare Īnferum</latin> : <latin>Tyrrhenian Sea</latin> :: <latin>Mare Superum</latin> : _____?"
+        answer: "ADRIATIC SEA"
+  - tossup:
+      question: "Which emperor’s four wives were Junia Claudia, Livia Orestilla, Lollia Paulina and Milonia Caesonia?"
+      answer: "CALIGULA’S"
+    boni:
+      - question: "With whom had Caligula been named co-heir by Tiberius?"
+        answer: "(TIBERIUS) GEMELLUS"
+      - question: "After Tiberius’ death, which ally of Caligula submitted his name to the senate for approval of succession, excluding Gemellus from any claim to the thone?"
+        answer: "MACRO"
+  - tossup:
+      question: "Give an antonym of the noun <latin>prīncipium</latin>."
+      answer: "<latin>FĪNIS, TERMINUS, EXITUS, EXITIUM</latin>  (Do not take “<latin>mors</latin>”)"
+    boni:
+      - question: "<latin>iuventūs</latin>."
+        answer: "<latin>SENECTŪS</latin>, <latin>SENECTA</latin>, <latin>ANĪLITĀS</latin>"
+      - question: "<latin>vigilantia</latin>."
+        answer: "<latin>REQUIĒS, QUIĒS, SOPOR</latin>, <latin>SOMNUS</latin>, <latin>DORMITĀTIŌ</latin>, <latin>DORMITIŌ</latin>"
+  - tossup:
+      question: "What did Heracles fetch as one of his labors for Eurystheus’ daughter?"
+      answer: "HIPPOLYTE’S GIRDLE / BELT"
+    boni:
+      - question: "Who had given the golden girdle / belt to Hippolyte?"
+        answer: "ARES"
+      - question: "How did Hera stir up trouble when Hippolyte offered to give Heracles her girdle / belt?"
+        answer: "DISGUISED AS AN AMAZON SHE SPREAD RUMOR THAT HERACLES WAS KIDNAPPING THEIR QUEEN"
+  - tossup:
+      question: "In which month was a festival celebrated whose rituals included animal sacrifice in a cave on the Palatine followed by two young men wearing the skins of the sacrificed animals, whipping everyone they met?"
+      answer: "FEBRUARY (15TH , <latin>LUPERCALIA</latin>)"
+    boni:
+      - question: "Which festival, also in February, was a commemoration of the dead, involving the offering of food to the deceased at tombs?"
+        answer: "<latin>PARENTALIA / FERALIA</latin> "
+      - question: "Which February festival was dedicated to the god of boundary stones?"
+        answer: "<latin>TERMINALIA</latin>"

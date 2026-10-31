@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who was told by a deity masquerading as Mentes that he should seek news of his father in Sparta and Pylos?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "What deity told Telemachus to do this?"
+        answer: "ATHENA"
+      - question: "When Odysseus returned, whose form did Athena take to aid him and Telemachus in their fight against the suitors?"
+        answer: "MENTOR’S"
+  - tossup:
+      question: "What use of the dative case can be found in the following Latin sentence: <latin>Pauper nōn erat similis agricolae</latin>?"
+      answer: "(SPECIAL) ADJECTIVES / DATIVE WITH <latin>SIMILIS</latin>"
+    boni:
+      - question: "What use of the dative case can be found in the following Latin sentence: <latin>Nūlla pecūnia miserō pauperī data est</latin>?"
+        answer: "INDIRECT OBJECT"
+      - question: "What use of the dative case can be found in the following Latin sentence:  <latin>Agricolae benignō vīlla splendida erat</latin>?"
+        answer: "POSSESSION"
+  - tossup:
+      question: "What did the Romans call the modern city of Milan?"
+      answer: "<latin>MEDIOLĀNUM</latin>"
+    boni:
+      - question: "What did the Romans call the modern city of Lyons (lee-<emphasis>on</emphasis>)?"
+        answer: "<latin>LUGDŪNUM</latin>"
+      - question: "What did the Romans call the modern Spanish city of Cartagena (cart-a-<emphasis>hain-</emphasis>uh)?"
+        answer: "<latin>CARTHĀGŌ</latin> <latin>NOVA</latin>"
+  - tossup:
+      question: "For the verb <latin>teneō</latin>, give the nominative singular of the present active participle"
+      answer: "<latin>TENĒNS</latin>"
+    boni:
+      - question: "Do the same for the compound of <latin>veniō</latin> that means “meet.”"
+        answer: "<latin>CONVENIĒNS</latin>"
+      - question: "Do the same for the compound of <latin>faciō</latin> that means “finish.”"
+        answer: "<latin>CŌNFICIĒNS</latin> / <latin>PERFICIĒNS / EFFICIĒNS</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Aurēlia dē deīs deābusque legēbat. Id quod Aurēlia numquam audīverat, familia Aurēliae ex Iāsone clārissimō vēnerat. Tum Aurēlia valdē volēbat nāvem cōnscendere et vellus aureum referre.</latin>  Question: Once Aurelia read the stories, what was she eager to do?"
+      answer: "HOP ON A SHIP / BRING BACK THE GOLDEN FLEECE"
+    boni:
+      - question: "What was it about her family’s lineage that prompted Aurelia’s impulsive desire?"
+        answer: "THEY WERE DESCENDANTS OF (THE MOST FAMOUS) JASON"
+      - question: "The story continues, <latin>Pater rīsit et dīxit, “Fer, fīlia, ad mē et vellus aureum et Cerberum et mālum aureum.”</latin> What three items did her father tell her to fetch?"
+        answer: "(GOLDEN) FLEECE, CERBERUS, AND A (GOLDEN) APPLE"
+  - tossup:
+      question: "What king was ransomed as a child from Heracles by his sister, fathered numerous children, and died at the hands of a Greek warrior as Troy was falling?"
+      answer: "PRIAM / PODARCES"
+    boni:
+      - question: "Who killed Priam?"
+        answer: "NEOPTOLEMUS / PYRRHUS"
+      - question: "What had Priam earlier bought from Neoptolemus' father?"
+        answer: "THE BODY OF (HIS SON) HECTOR"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the same Latin word as the others: sermon, admonish, summon, premonition?"
+      answer: "SERMON"
+    boni:
+      - question: "Which of the following words, if any, is NOT derived from the same Latin word as the others: motor, emotion, motif, remove?"
+        answer: "ALL FROM <latin>MOVEŌ</latin>"
+      - question: "Which of the following words, if any, is NOT derived from the same Latin word as the others: admit, accommodate, commissary, message?"
+        answer: "ACCOMMODATE"
+  - tossup:
+      question: "What Latin word is used to describe the huge farms owned by wealthy aristocrats and farmed by tenant farmers and slaves?"
+      answer: "<latin>LĀTIFUNDIUM</latin> / <latin>LĀTIFUNDIA /</latin> Or <latin>PRAEDIUM</latin> / <latin>PRAEDIA</latin>  (if just <latin>fundus</latin> or <latin>fundī</latin> is given as an answer, prompt for a more specific term)"
+    boni:
+      - question: "What Roman tribune attempted to break up the <latin>lātifundia</latin> in the Roman countryside by enforcing an age-old law that limited landholders to 500 <latin>iugera</latin>?"
+        answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+      - question: "What is the Latin word for the tenant farmers who worked on the <latin>lātifundia</latin>?"
+        answer: "<latin>COLŌNUS</latin> / <latin>COLŌNĪ</latin>"
+  - tossup:
+      question: "Which of the following adjective forms CANNOT agree with the noun form <latin>cornū</latin>: <latin>mediō</latin>, <latin>celeris</latin>, <latin>nigrum</latin>, <latin>atrōcī</latin>?"
+      answer: "<latin>CELERIS</latin>"
+    boni:
+      - question: "What form of the Latin noun <latin>cornū</latin> would agree with <latin>celeris</latin>?"
+        answer: "<latin>CORNŪS</latin>"
+      - question: "What is the plural of the phrase <latin>cornūs celeris</latin>?"
+        answer: "<latin>CORNUUM CELERIUM</latin>"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine the pictures for ten seconds.  Given that the structure labeled “B” is being made of bronze, identify the figure labeled “A”"
+      answer: "DANAE"
+    boni:
+      - question: "Identify the figures labeled “D” and “E” respectively"
+        answer: "D = PERSEUS ; E = ANDROMEDA"
+      - question: "What is the name of the figure labeled “C”?"
+        answer: "CETUS / KETOS"
+  - tossup:
+      question: "Say in Latin, “The soldier has been wounded by a rock.”"
+      answer: "<latin>MĪLES SAXŌ/LAPIDE/CALCE/CALCULŌ VULNERĀTUS EST</latin>"
+    boni:
+      - question: "Now say in Latin, “The Roman women <emphasis>had</emphasis> been taught by their mothers.”"
+        answer: "<latin>RŌMĀNAE (FĒMINAE/MULIERĒS) Ā MĀTRIBUS (SUĪS) DOCTAE ERANT</latin>"
+      - question: "Finally, say in Latin, “The students and I will have been praised.”"
+        answer: "<latin>EGO ET DISCIPULĪ/-AE LAUDĀTĪ/-AE ERIMUS</latin>"
+  - tossup:
+      question: "What three men were named as <latin>triumvirī reī pūblicae cōnstituendae cōnsulārī potestāte</latin> on November 27th, 43 BC by the <latin>Lēx Titia</latin>?"
+      answer: "MARCUS ANTONIUS / MARC ANTONY, GAIUS IULIUS CAESAR <emphasis>OCTAVIAN</emphasis>(US) (AUGUSTUS ACCEPTABLE WITH SLAP TO HAND - FIGURATIVELY SPEAKING, OF COURSE), (MARCUS AEMILIUS) LEPIDUS"
+    boni:
+      - question: "Earlier that year, Octavian and Antony had been pitted against each other in what city in northern Italy?"
+        answer: "MUTINA"
+      - question: "Though he lost all his political power, what position did Lepidus maintain until his death in 13 or 12 BC, when Augustus himself finally assumed it?"
+        answer: "PONTIFEX MAXIMUS"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quot sunt duo et tredecim?</latin>"
+      answer: "QUĪNDECIM"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot sunt ter octō?</latin>"
+        answer: "VĪGINTĪ (ET) QUATTUOR or <latin>QUATTUOR ET VĪGINTĪ</latin>"
+      - question: "<latin>Trēs : tertius :: novem : _______?</latin>"
+        answer: "NŌNUS"
+  - tossup:
+      question: "What son of the sea-nymph Thoosa was warned by a seer named Telemus that he would lose his sight to a man named Odysseus?"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "For whose love was Polyphemus pining when he received this warning?"
+        answer: "GALATEA’S"
+      - question: "What future river was Polyphemus’ rival for her affection?"
+        answer: "ACIS"
+  - tossup:
+      question: "What naval battle ended the First Punic War in 241 BC?"
+      answer: "AEGATES ISLANDS"
+    boni:
+      - question: "What climactic battle decided the Second Macedonian War in 197 BC?"
+        answer: "CYNOSCEPHALAE"
+      - question: "What battle ended the Third Macedonian War in 168 BC?"
+        answer: "PYDNA"
+  - tossup:
+      question: "Translate: <latin>Ubi dīligenter audiō, multa discō</latin>"
+      answer: "WHEN I LISTEN DILIGENTLY, I LEARN MANY THINGS / MUCH / A LOT (OF THINGS)"
+    boni:
+      - question: "Now translate: <latin>Librum nōn lēgeram, itaque nescīvī</latin>"
+        answer: "I HAD NOT READ THE BOOK, THEREFORE / AND SO I DIDN’T KNOW / I WAS IGNORANT"
+      - question: "Finally, translate this sentence. <latin>Euge! Quamquam librum nōn lēgeram, magister mē nōn interrogāvit</latin>."
+        answer: "AWESOME / KICK-BOOTY! ALTHOUGH I HADN’T READ THE BOOK, THE TEACHER DID NOT INTERROGATE/ASK ME"
+  - tossup:
+      question: "When the U.S. Senate adjourns, sometimes it does not set a specific date for its next meeting. What Latin phrase describes this type of adjournment?"
+      answer: "<latin>SINE DIĒ</latin>"
+    boni:
+      - question: "The leader of the Senate is called the “President Pro Tem.” Give the full Latin phrase and the meaning for this abbreviation"
+        answer: "<latin>PRŌ TEMPORE</latin> – FOR THE TIME BEING / TEMPORARILY/TEMPORARY"
+      - question: "What Latin phrase is used in court cases when a third party, or “friend of the court,” wishes to be heard?"
+        answer: "<latin>AMĪCUS CŪRIAE</latin>"
+  - tossup:
+      question: "After whose death in the fourth century AD were the two halves of the Roman Empire never again to be reunited?"
+      answer: "THEODOSIUS I / THE GREAT’S"
+    boni:
+      - question: "Which of Theodosius' sons inherited the Eastern Empire?"
+        answer: "ARCADIUS"
+      - question: "What Roman general faithfully served Theodosius’ son Honorius for many years, only to be executed by the paranoid young emperor in the end?"
+        answer: "(FLAVIUS) STILICHO"
+  - tossup:
+      question: "Who became a woman when her creator prayed to Venus that his statue become real?"
+      answer: "GALATEA"
+    boni:
+      - question: "On what island did she and her creator Pygmalion live?"
+        answer: "CYPRUS"
+      - question: "Who was the child of Galatea?"
+        answer: "PAPHOS"
+  - tossup:
+      question: "From what Latin noun with what meaning do we derive the English words “friar” and “fraternize”?"
+      answer: "<latin>FRĀTER –</latin> BROTHER"
+    boni:
+      - question: "What English word referred to a breeding matriarch in medieval times but now means an array or grid?"
+        answer: "MATRIX"
+      - question: "What derivative of the Latin word for “grandson” or “nephew” means “favoritism on the basis of familial relationship”?"
+        answer: "NEPOTISM <latin>2010 NJCL CERTAMEN NOVICE DIVISION FINALS</latin>"
+  - tossup:
+      question: "What is the meaning of the Latin word from which we derive “acquaint,” “reconnoiter,” “recognize,” and “cognition”?"
+      answer: "KNOW/UNDERSTAND/LEARN (<latin>COGNOSCŌ</latin>)"
+    boni:
+      - question: "What is the meaning of the Latin word from which we derive “train,” “entreat,” and “contraction”?"
+        answer: "DRAW/DRAG <latin>(TRAHŌ)</latin>"
+      - question: "Give the meaning of one of the Latin nouns from which we derive “manure” and “maneuver.”"
+        answer: "HAND (<latin>MANUS</latin>), WORK/TASK <latin>(OPUS)</latin>"
+  - tossup:
+      question: "Give the accusative plural of the phrase “these names.”"
+      answer: "<latin>HAEC NŌMINA</latin>"
+    boni:
+      - question: "Change <latin>haec nōmina</latin> to the genitive"
+        answer: "<latin>HŌRUM NŌMINUM</latin>"
+      - question: "Change <latin>hōrum nōminum</latin> to the singular"
+        answer: "<latin>HUIUS NŌMINIS</latin>"
+  - tossup:
+      question: "What Hellenistic king of Syria was elected commander-in-chief of the Aetolian League in 192 BC in an ill-advised attempt to overthrow Roman control in Greece?"
+      answer: "ANTIOCHUS III / THE GREAT"
+    boni:
+      - question: "At what historically significant mountain pass did the Romans and their allies defeat Antiochus in 191 BC?"
+        answer: "THERMOPYLAE"
+      - question: "What exile had previously sought refuge in the court of Antiochus in 195 BC and advised the king to unify the myriad Hellenistic kingdoms?"
+        answer: "HANNIBAL (BARCA)"
+  - tossup:
+      question: "What Athenian princess cured the Cretan king Minos of a curse placed upon him by Pasiphae before returning to her husband Cephalus with an unshakable dog and an undodgeable javelin?"
+      answer: "PROCRIS"
+    boni:
+      - question: "Who was this dog, whom Cephalus later lent to Amphitryon to catch the fox of Teumessa?"
+        answer: "LAELAPS"
+      - question: "According to another version of the story, what deity gave Procris the hound and the javelin?"
+        answer: "ARTEMIS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>dēscendō</latin> and <latin>discēdō</latin>"
+      answer: "<latin>DĒSCENDŌ –</latin> DESCEND/COME DOWN <latin>DISCĒDŌ –</latin> LEAVE/DEPART"
+    boni:
+      - question: "Differentiate in meaning between <latin>saliō</latin> and <latin>soleō</latin>"
+        answer: "<latin>SALIŌ –</latin> JUMP/LEAP <latin>SOLEŌ –</latin> BE ACCUSTOMED"
+      - question: "What name is given to verbs like <latin>soleō</latin> that are lacking their active forms in the perfect system only?"
+        answer: "SEMI-DEPONENT"
+  - tossup:
+      question: "What son of Deucalion led a contingent of eighty ships gathered from the towns of Rhytion, Lycastus, Gortyn, and Knossos to the Trojan War and managed to return safely to his native island?"
+      answer: "IDOMENEUS"
+    boni:
+      - question: "On the voyage home from Troy, Idomeneus’ fleet was struck by a catastrophic storm. What sacrifice did Idomeneus rashly promise to make in order to survive?"
+        answer: "<emphasis>FIRST HUMAN</emphasis> BEING HE MET IN CRETE (prompt for explanation on “his son”)"
+      - question: "What nephew of Idomeneus served as his second-in-command in the Trojan War and helped Menelaus rescue the body of Patroclus?"
+        answer: "MERIONES"
+  - tossup:
+      question: "Which of the following English words is derived from a Latin verb meaning “fall”: decide, matricide, deride, provide, denied?"
+      answer: "DECIDE"
+    boni:
+      - question: "Give the principal parts of the Latin verb from which we ultimately derive “subside.”"
+        answer: "<latin>SEDEŌ</latin>, <latin>SEDĒRE</latin>, <latin>SĒDĪ</latin>, <latin>SESSUM/SESSŪRUS</latin> or <latin>SĪDŌ</latin>, <latin>SĪDERE</latin>, <latin>SĪDĪ</latin>, <latin>SESSUM/SESSŪRUS</latin>"
+      - question: "Now give all of the principal parts of the Latin verb from which we derive “deride.”"
+        answer: "<latin>RIDEŌ</latin>, <latin>RIDĒRE</latin>, <latin>RĪSĪ</latin>, <latin>RĪSUM</latin>"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine the pictures for ten seconds.  Picture A shows a famous Roman piazza. What emperor, an avid fan of chariot-racing, originally built a stadium at this location?"
+      answer: "(TITUS FLAVIUS) DOMITIAN(US)"
+    boni:
+      - question: "Picture B shows the Farnese Palace. The basin in front was recycled from what emperor’s bath complex, which was built between 212 and 216 AD?"
+        answer: "CARACALLA’S / MARCUS AURELIUS ANTONINUS’"
+      - question: "Picture C shows an equestrian statue of Marcus Aurelius. This statue, unlike all other bronze portrayals of pre-Christian emperors, survived centuries of anti-pagan sentiment only because it was mistakenly identified as depicting what emperor?"
+        answer: "CONSTANTINE (I / THE GREAT)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Puer in cubiculō suō neque sedēbat neque iacēbat</latin>"
+      answer: "THE BOY WAS NEITHER SITTING NOR LYING (DOWN) IN HIS BEDROOM"
+    boni:
+      - question: "Now translate: <latin>Dum</latin> <latin>puer in cubiculō stat, manūs lavābat</latin>"
+        answer: "WHILE THE BOY <emphasis>STOOD</emphasis>/<emphasis>WAS</emphasis> STANDING IN (HIS) BEDROOM, HE WAS WASHING (HIS) HANDS / HE WASHED (HIS) HANDS"
+      - question: "Finally, translate this sentence: <latin>Deinde, postquam puer ē cubiculō ambulāvit, trāns ātrium in tablīnum īvit</latin>"
+        answer: "THEN, AFTER THE BOY WALKED OUT OF (HIS) BEDROOM, HE WENT ACROSS THE ATRIUM/HALL INTO THE TABLINUM/STUDY"
+  - tossup:
+      question: "According to various stories, what one god is said to be the father of Aethalides, Cephalus, Priapus, Autolycus, and Pan?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "By Clytie, Hermes is also said to have fathered what devious charioteer of Pisa?"
+        answer: "MYRTILUS"
+      - question: "What nymph can be said to have become Hermes’ daughter-in-law when the gods fused her body with the body of Hermaphroditus?"
+        answer: "SALMACIS"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā, “Quaedam ē mulieribus marītō suō dōnum dedit.” Quō cāsū est “mulieribus”?</latin>"
+      answer: "(IN) (CĀSŪ) ABLĀTĪVŌ"
+    boni:
+      - question: "<latin>Respondē Latīnē: Vērum an falsum – In illā sententiā “quaedam” singulāris est.</latin>"
+        answer: "<latin>VĒRUM</latin>"
+      - question: "Keeping all else the same, change the sentence “<latin>Mulier marītō dōnum dedit</latin>” to the passive, making <latin>dōnum</latin> the subject"
+        answer: "<latin>DŌNUM Ā MULIERE MARĪTŌ DATUM EST</latin>"
+  - tossup:
+      question: "According to legend, what Roman king, ruling from 640 to 617 BC, conquered Tellenae and Medullia, instituted the <latin>fetiālēs</latin>, and seized control of the Etruscan salt pits at the mouth of the Tiber?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "Near what eventual Roman colony were these salt pits located?"
+        answer: "OSTIA"
+      - question: "Ancus Marcius famously built the <latin>pōns Sublicius</latin> in order to connect what newly annexed hill to the rest of the city?"
+        answer: "JANICULUM / <latin>IĀNICULUM</latin> / GIANICOLO"
+  - tossup:
+      question: "Which of the following was NOT an abbreviation commonly found on Roman tombstones: R I P, S T T L, H I S, F V?"
+      answer: "<latin>F V</latin>"
+    boni:
+      - question: "You are now looking at the tombstone of Quintus Granius Labeo. Give the exact Latin words abbreviated by M F and their English meaning. Make sure you put the words into their proper grammatical form for this inscription"
+        answer: "<latin>MĀRCĪ FĪLIUS</latin>, SON OF MARCUS"
+      - question: "Now give the exact Latin word for LEG in line 3 of this inscription. Again, make sure you provide the proper grammatical form for this inscription"
+        answer: "<latin>LEGIŌNIS</latin>"
+  - tossup:
+      question: "What name is shared by one of the Charites and one of the nine daughters of Mnemosyne?"
+      answer: "THALIA"
+    boni:
+      - question: "To what mythological group does the goddess of peace, Eirene, belong?"
+        answer: "HOURS / SEASONS / HORAE"
+      - question: "Name two of the Harpies"
+        answer: "ANY TWO OF CELAENO, PODARGE, OCYPETE(S), AELLO"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Captīvī et servī malī, quōs dominī in amphitheātrum mīserant, pugnāre inter sē cōgēbantur. Populus Rōmānus studium lūdōrum numquam dēposuit. Multī captīvī magnō cum animō pugnābant temptantēs lībertātem sibi obtinēre.</latin>  Question: <latin>Quō captīvī servīque missī erant?</latin>"
+      answer: "IN/AD AMPHITHEĀTRUM"
+    boni:
+      - question: "<latin>Cui erat magnum studium lūdōrum?</latin>"
+        answer: "POPULŌ (<latin>RŌMĀNŌ</latin>) / <latin>RŌMĀNĪS</latin>"
+      - question: "<latin>Quid captīvī cupiēbant?</latin>"
+        answer: "LĪBERTĀTEM"
+  - tossup:
+      question: "What Roman priest, ranking between the <latin>Pontifex Maximus</latin> and the <latin>flāminēs</latin>, was married in a <latin>confarreātiō</latin> ceremony to a woman subsequently called <latin>rēgīna</latin> and conducted the religious duties that had originally belonged to the kings?"
+      answer: "<latin>RĒX SACRŌRUM</latin>"
+    boni:
+      - question: "What group of priests protected the twelve <latin>ancīlia</latin>, one of which had supposedly fallen to the earth during the reign of Numa?"
+        answer: "SALIĪ"
+      - question: "What collection of verses, obtained in the reign of Tarquinius Priscus, was protected by the priestly college called <latin>quindecimvirī sacrīs faciundīs</latin>?"
+        answer: "SIBYLLINE BOOKS/VERSES"
+  - tossup:
+      question: "Using two enclitics, say in Latin, “Are the mothers watching the boys and girls?”"
+      answer: "<latin>SPECTANTNE MĀTRĒS / MĀTRĒSNE SPECTANT PUERŌS PUELLĀSQUE?</latin>"
+    boni:
+      - question: "Now say in Latin, “The boys and girls were not able to play in the fields.”"
+        answer: "<latin>PUERĪ ET PUELLAE / PUERĪ PUELLAEQUE IN AGRĪS/CAMPIS LŪDERE NŌN POTERANT/POTUĒRUNT</latin>"
+      - question: "Finally, say in Latin, “The boys and girls will play in the house today.”"
+        answer: "<latin>PUERĪ ET PUELLAE / PUERĪ PUELLAEQUE IN CASĀ/VĪLLĀ / DOMĪ HODIĒ LŪDENT</latin>"
+  - tossup:
+      question: "Who, according to Apollonius of Rhodes, purified Jason and Medea for the murder of Absyrtus?"
+      answer: "CIRCE"
+    boni:
+      - question: "What god was the father of Circe and of Medea’s father Aeetes?"
+        answer: "HELIOS"
+      - question: "Medea is often said to have torn her baby brother Absyrtus into pieces that she then threw into the sea. How does the adult Absyrtus die in Apollonius' <title>Argonautica</title>?"
+        answer: "<emphasis>MEDEA LURES</emphasis> HIM INTO A TRAP/MEETING AND <emphasis>JASON KILLS</emphasis>/AMBUSHES HIM"
+  - tossup:
+      question: "When recognized by the spotter, follow this command: <latin>Surge et clāmā Anglicē, “Ningit similiter fēlibus canibusque.”</latin>"
+      answer: "STUDENT STANDS AND CRIES IN ENGLISH, “IT’S SNOWING (LIKE / SIMILARLY TO) CATS AND DOGS.”"
+    boni:
+      - question: "The third-declension <latin>bison</latin>, <latin>bisontis</latin>, masculine means “bison.” Just saying. Listen to this statement from a North Dakotan parent and then answer the question about it. <latin>Nōlī, Marce Licinī, permittere tuum bisontem in lectō dormīre.</latin> What is the parent telling his child to do?"
+        answer: "NOT TO LET HIS BISON SLEEP ON THE BED/COUCH"
+      - question: "Listen to this translation of a statement found on the water bottle in your convention goodie bag: <latin>“Pilam niveam tibi ferre temptāvimus, sed illa liquefacta est.”</latin> Explain in English what happened."
+        answer: "THE SNOW(BALL) MELTED (INTO THE WATER THAT WAS IN THE BOTTLE) / (ANY ACCURATELY COMPREHENDED TRANSLATION OF THE LATIN)"
+  - tossup:
+      question: "In what year did the following events occur? The former governor of Hispania Tarraconensis murdered by the Praetorian Guard; the ex-husband of Poppaea Sabina died by his own hand at Cremona; the decapitated head of the former legate of Lower Germany was paraded around Rome after the entrance of the troops of the victorious Vespasian?"
+      answer: "69 AD"
+    boni:
+      - question: "What commander of the Praetorian Guard had supported Galba’s initial claim to the throne even before Nero committed suicide?"
+        answer: "(GAIUS) NYMPHIDIUS SABINUS"
+      - question: "What governor of Gaul, even earlier in 68, had rebelled and invited Galba to become emperor?"
+        answer: "(GAIUS IULIUS) VINDEX"

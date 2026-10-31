@@ -1,0 +1,189 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Novice"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Give the Latin root and its meaning from which “demise” is derived."
+      answer: "<latin>MITTŌ, MITTERE</latin> - SEND"
+    boni:
+      - question: "Give the Latin root and its meaning from which “expedient” is derived."
+        answer: "<latin>PĒS</latin> - FOOT"
+      - question: "Give the Latin root and its meaning from which “precocious” is derived."
+        answer: "<latin>COQUŌ, COQUERE</latin> - COOK"
+  - tossup:
+      question: "What derivative of the Latin adjective for “bad, evil” means “intentionally bad or harmful?”"
+      answer: "MALICIOUS"
+    boni:
+      - question: "“active bad feeling or ill will?”"
+        answer: "MALICE / MALEVOLENCE"
+      - question: "“a bad condition; a disease?”"
+        answer: "MALADY / MALAISE"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Tange nasum manū sinistrā.</latin>"
+      answer: "STUDENT TOUCHES NOSE WITH LEFT HAND."
+    boni:
+      - question: "<latin>Tollite pedēs dextrōs.</latin>"
+        answer: "TWO OR MORE STUDENTS LIFT RIGHT FEET."
+      - question: "<latin>Percūte et ululā tuum pectus</latin>"
+        answer: "STUDENT BEATS HIS/HER CHEST AND HOWLS / SHRIEKS / YELLS / SCREAMS"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Dīc moderātōrī certāminis salūtem</latin>"
+      answer: "STUDENT SAYS “<latin>SALVE</latin>” (or <latin>SALVE, MODERATOR</latin>)"
+    boni:
+      - question: "<latin>Plaude tacitē</latin>"
+        answer: "STUDENT CLAPS SILENTLY"
+      - question: "<latin>Omnēs surgite et iungite manūs.</latin>"
+        answer: "ENTIRE TEAM RISES AND JOINS HANDS"
+  - tossup:
+      question: "Listen carefully to this short passage, which I will read twice. Then answer the question about the passage in Latin. <latin>Gāius Iūlius Caesar, audāx dux Rōmānōrum, hostēs multōs superāvit. Militēs Caesarem maximē amābant, nam erat eīs exemplum fortitūdinis. Quālis dux erat Caesar?</latin>"
+      answer: "<latin>AUDĀX / FORTIS</latin>"
+    boni:
+      - question: "<latin>Quō multī hostēs superātī sunt?</latin>"
+        answer: "<latin>(GĀIŌ IŪLIŌ) CAESARE</latin>"
+      - question: "<latin>Quibus exemplum fortitūdinis erat?</latin>"
+        answer: "<latin>MILITIBUS</latin>"
+  - tossup:
+      question: "Listen carefully to this passage which I will read twice. Then answer the question about the passage in English. <latin>Dominus et uxor in cubiculō dormiēbat. subitō canis lātrāre incipiēbat. Dominus īrātus clāmāvit, “pestis, tacē statim!” canis in cubiculum cucurrit et  dominum ad culīnam traxit. Vīdit magnum ignem in culīnā! Dominus familiam excitāvit et omnēs domō effūgērunt.</latin> . Why was the master angry?"
+      answer: "(AWAKENED BY) BARKING DOG"
+    boni:
+      - question: "How did the master discover the fire?"
+        answer: "DOG DRAGGED HIM TOWARD THE KITCHEN"
+      - question: "Why is there an happy ending?"
+        answer: "EVERYONE ESCAPED"
+  - tossup:
+      question: "Differentiate in meaning between <latin>mors</latin> and <latin>mora</latin>."
+      answer: "<latin>MORS</latin> - DEATH / <latin>MORA</latin> - DELAY"
+    boni:
+      - question: "Differentiate in meaning between <latin>sīn</latin> and <latin>sine</latin>."
+        answer: "<latin>SĪN</latin> - BUT IF, IF HOWEVER / <latin>SINE</latin> - WITHOUT"
+      - question: "Differentiate in meaning between <latin>quondam</latin> and <latin>quendam</latin>."
+        answer: "<latin>QUONDAM</latin> - ONCE (UPON A TIME), AT SOMETIME, FORMERLY <latin>QUENDAM</latin> - A CERTAIN MAN (ACC. SING.)"
+  - tossup:
+      question: "What is the Latin and English for the abbreviation b.i.d.?"
+      answer: "<latin>BIS IN DIĒ</latin> - TWICE A DAY"
+    boni:
+      - question: "What is the Latin and English for the abbreviation gtt.?"
+        answer: "<latin>GUTTAE</latin> - DROPS"
+      - question: "What is the Latin and English for the abbreviation p.o.?"
+        answer: "<latin>PER ŌS</latin> - THROUGH THE MOUTH"
+  - tossup:
+      question: "Give the 2nd person plural, perfect active indicative of <latin>volō</latin>"
+      answer: "<latin>VOLUISTIS</latin>"
+    boni:
+      - question: "Change <latin>voluistis</latin> to the pluperfect tense"
+        answer: "<latin>VOLUERĀTIS</latin>"
+      - question: "Change <latin>voluerātis</latin> to the future perfect"
+        answer: "<latin>VOLUERITIS</latin>"
+  - tossup:
+      question: "What case is used to show the subject of a direct statement?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What case is used to show the subject of an indirect statement?"
+        answer: "ACCUSATIVE"
+      - question: "What case is used to show the subject of a direct question?"
+        answer: "NOMINATIVE <latin>HISTORY / GEOGRAPHY / LIFE</latin>"
+  - tossup:
+      question: "What praenomen was abbreviated <latin>C.</latin>?"
+      answer: "<latin>GAIUS</latin>"
+    boni:
+      - question: "What praenomen was abbreviated <latin>Ti.</latin>?"
+        answer: "<latin>TIBERIUS</latin>"
+      - question: "What praenomen was abbreviated <latin>Sp.</latin>?"
+        answer: "<latin>SPURIUS</latin>"
+  - tossup:
+      question: "Give the Latin term for the object on which Romans would usually write a short letter, a list, or some other informal note?"
+      answer: "<latin>CERA, TABELLA,</latin>"
+    boni:
+      - question: "or <latin>TABULA</latin> What was the Latin term for two or more wax tablets bound together?"
+        answer: "<latin>CAUDEX</latin>"
+      - question: "or <latin>CODEX</latin>  What was the Latin term for the instrument used to write on a wax tablet?"
+        answer: "<latin>STILUS</latin>"
+  - tossup:
+      question: "Under what king was the forum drained to become the center of commercial, social, and political life?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "What name was given to the sewer that drained the forum?"
+        answer: "CLOACA MAXIMA"
+      - question: "For what purpose had much of the forum been used prior to the draining?"
+        answer: "BURIAL GROUND"
+  - tossup:
+      question: "What invaders did the Romans meet at the Allia River in 390 B.C.?"
+      answer: "GAULS"
+    boni:
+      - question: "or SENONES Who was the leader of the Senonian Gauls?"
+        answer: "BRENNUS"
+      - question: "What part of Rome did the Gauls besiege for seven months before they accepted a ransom of 1000 pounds of gold and left?"
+        answer: "CAPITOL(INE) / <latin>ARX / CAPITOLIUM</latin>"
+  - tossup:
+      question: "After what battle did Julius Caesar proclaim “<title><latin>vēnī, vīdī, vīc</latin></title>ī”?"
+      answer: "ZELA ( 47 B.C.)"
+    boni:
+      - question: "Who was Caesar’s opponent at Zela?"
+        answer: "PHARNACES (II)"
+      - question: "Of what kingdom in Asia Minor was Pharnaces the ruler?"
+        answer: "PONTUS"
+  - tossup:
+      question: "Who in A.D. 65 organized conspiracy against the emperor Nero?"
+      answer: "(GAIUS CALPURNIUS) PISO"
+    boni:
+      - question: "What former tutor and mentor of Nero was implicated in the conspiracy?"
+        answer: "SENECA THE YOUNGER"
+      - question: "What was Seneca’s punishment?"
+        answer: "FORCED TO COMMIT SUICIDE"
+  - tossup:
+      question: "What emperor in the last year of his reign rebuilt Hadrian’s Wall across Britain?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Where in Britain did Severus die in A.D. 211?"
+        answer: "EBORACUM"
+      - question: "or YORK Who were his joint heirs?"
+        answer: "CARACALLA"
+  - tossup:
+      question: "The Roman provinces of Baetica and Tarraconensis are in what modern country?"
+      answer: "SPAIN"
+    boni:
+      - question: "The Roman provinces of Aquintania and Lugdunensis are in what modern country?"
+        answer: "FRANCE"
+      - question: "The Roman provinces of Macedonia and Achaea are in what modern country?"
+        answer: "GREECE <latin>MYTHOLOGY</latin>"
+  - tossup:
+      question: "Who was the Greek god of sleep?"
+      answer: "HYPNOS"
+    boni:
+      - question: "Which of the sons of Hypnos appears in people’s dreams in the form of a human being?"
+        answer: "MORPHEUS"
+      - question: "In whose form does Morpheus appear to Alcyone to inform her of her husband’s death?"
+        answer: "(HER HUSBAND) CEYX’S"
+  - tossup:
+      question: "Who was the father of Achilles?"
+      answer: "PELEUS"
+    boni:
+      - question: "Who was the father of Peleus?"
+        answer: "AEACUS"
+      - question: "Name Peleus’ half-brother whom Peleus killed"
+        answer: "PHOCUS"
+  - tossup:
+      question: "Who accidentally ate the shoulder of the son of Tantalus at a banquet?"
+      answer: "DEMETER / CERES / DEO"
+    boni:
+      - question: "Who was this poor child?"
+        answer: "PELOPS"
+      - question: "How did Demeter make up for her faux pas?"
+        answer: "SHE PROVIDED THE BOY <emphasis>WITH A NEW SHOULDER / ARM MADE OF IVORY</emphasis>"
+  - tossup:
+      question: "According to Ovid, during which of the “Four Ages of Men” did Jupiter introduce the seasons?"
+      answer: "SILVER"
+    boni:
+      - question: "In which of these ages were laws and punishment unnecessary?"
+        answer: "GOLDEN"
+      - question: "Who ruled the heavens during the Goden Age?"
+        answer: "SATURN(US)"
+  - tossup:
+      question: "What kind of creature suckled Atalanta before she was found by hunters?"
+      answer: "(SHE)BEAR"
+    boni:
+      - question: "Who captured Atalanta’s fancy by defeating her in a foot-race?"
+        answer: "MELANION / HIPPOMENES"
+      - question: "Into what were the couple transformed?"
+        answer: "LIONS"

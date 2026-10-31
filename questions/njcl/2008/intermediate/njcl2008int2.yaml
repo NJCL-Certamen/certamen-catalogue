@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "For the verb <latin>mūniō</latin>, give all of the present infinitive forms"
+      answer: "<latin>MŪNĪRE, MŪNĪRĪ</latin>"
+    boni:
+      - question: "Give all of the perfect infinitive forms of <latin>mūniō</latin>"
+        answer: "<latin>MŪNĪVISSE, MŪNĪTUS (-A, -UM) ESSE</latin>"
+      - question: "Give the future active infinitive of <latin>mūniō</latin>"
+        answer: "<latin>MŪNĪTŪRUS (-A, -UM) ESSE</latin>"
+  - tossup:
+      question: "According to Ovid, which river of the Underworld runs through the dark and misty cavern of Somnus, inviting a gentle and forgetful slumber with its murmuring flow?"
+      answer: "LETHE"
+    boni:
+      - question: "According to Plato, which river of the Underworld is the source of the streams of lava that spout up at various places on earth?"
+        answer: "(PYRI)PHLEGETHON"
+      - question: "Which river of the Underworld serves as a reminder of the pain and woe caused by the deaths of loved ones?"
+        answer: "ACHERON"
+  - tossup:
+      question: "What use of the ablative case can be found in the following sentence: <latin>Exercitus cum explōrātōribus iter fēcit</latin>"
+      answer: "ACCOMPANIMENT"
+    boni:
+      - question: "<latin>Vīdimus aulam factam ex aurō</latin>"
+        answer: "MATERIAL"
+      - question: "<latin>Vīllam centum dēnāriīs vēndidit</latin>"
+        answer: "(DEFINITE) PRICE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Pontifex cīvēs rogāvit ut deōs honōrārent</latin>"
+      answer: "THE PRIEST ASKED THE CITIZENS TO HONOR THE GODS"
+    boni:
+      - question: "Translate: <latin>Pontifex victimam obtulit nē deīs displicēret</latin>"
+        answer: "THE PRIEST OFFERED THE VICTIM SO THAT HE WOULD NOT DISPLEASE THE GODS"
+      - question: "Translate: <latin>Tantā cum reverentiā templum intrāvī ut nihil dīcerem</latin>"
+        answer: "I ENTERED THE TEMPLE WITH SUCH GREAT REVERENCE / RESPECT THAT I SAID NOTHING"
+  - tossup:
+      question: "Laodice, Polyxena, Ilione, and Cassandra were all daughters of which king of Troy?"
+      answer: "PRIAM / PODARCES"
+    boni:
+      - question: "Which of Priam’s daughters was fated to utter true prophecies that were never believed?"
+        answer: "CASSANDRA"
+      - question: "Which of Priam’s daughters was sacrificed on the tomb of Achilles?"
+        answer: "POLYXENA"
+  - tossup:
+      question: "A certain Latin inscription praises the military career of Lucius Baebius Iuncinus. In this inscription, it lists that he was the “<latin>praefectus fabrum.</latin>” What position had he held?"
+      answer: "(PREFECT) IN CHARGE OF THE CRAFTSMEN, BUILDERS / MILITARY ENGINEER"
+    boni:
+      - question: "What job had Iuncinus held in Egypt?"
+        answer: "JUDGE"
+      - question: "Name two other jobs held by Iuncinus"
+        answer: "PREFECT OF (THE 4TH) COHORT OF RAETIANS MILITARY TRIBUNE (OF THE 22ND DEIOTAIRIAN LEGION) PREFECT OF THE WING / OF ASTURIANS PREFECT OF TRANSPORTS (imperial officer in charge of mail communication)"
+  - tossup:
+      question: "Where did the Roman commander Valerius Laevinus suffer a defeat at the hands of Pyrrhus in 280 BC?"
+      answer: "HERACLEA"
+    boni:
+      - question: "With whom did Pyrrhus try to negotiate after the Battle of Heraclea, only to have the patriotic Roman refuse his bribe and the terms of peace?"
+        answer: "FABRICIUS"
+      - question: "Where did Pyrrhus win a costly victory, defeating the forces of Publius Decius Mus?"
+        answer: "ASCULUM / AUSCULUM"
+  - tossup:
+      question: "Who, in an attempt to expand his kingdom across Gaul to the Atlantic Ocean, arrived with his army of Huns in Belgica in 451 AD?"
+      answer: "ATTILA"
+    boni:
+      - question: "What Roman general fought Attila to a draw on the Mauriac Plain?"
+        answer: "AETIUS"
+      - question: "With the help of what king of the Visigoths was Aetius able to achieve this draw?"
+        answer: "THEODORIC / THEODERIC"
+  - tossup:
+      question: "From what Latin noun with what meaning do we derive the English noun “army”?"
+      answer: "<latin>ARMA, -ŌRUM</latin> – ARMS / WEAPONS / TOOLS / SOLDIERS / ARMY / WAR"
+    boni:
+      - question: "What English noun derived from <latin>arma</latin> means “a warning of approaching danger”?"
+        answer: "ALARM"
+      - question: "The motto of Wyoming also contains the word <latin>arma</latin>. What is the Latin and English for this motto?"
+        answer: "<latin>CĒDANT ARMA TOGAE</latin> - LET ARMS YIELD TO THE TOGA"
+  - tossup:
+      question: "What one-eyed monster trapped Odysseus and his men in a cave?"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "What did Odysseus use to deprive Polyphemus of his eye?"
+        answer: "(HE USED) A (HEATED, SHARPENED) STAKE (& POKED HIS EYE OUT)"
+      - question: "How did Odysseus and his men escape from Polyphemus’ cave?"
+        answer: "BY HOLDING ON / BEING TIED TO THE BELLIES OF SHEEP / RAM(S)"
+  - tossup:
+      question: "In ancient Rome, important wills and public treaties were entrusted to the care of what group of female priests?"
+      answer: "VESTAL VIRGINS"
+    boni:
+      - question: "For how long did a Vestal Virgin serve?"
+        answer: "THIRTY YEARS (prompt for an explanation on “ten years”)"
+      - question: "Who served as the father-figure of all the Vestal Virgins?"
+        answer: "<latin>PONTIFEX MAXIMUS</latin>"
+  - tossup:
+      question: "<latin>Spectāte mē nunc</latin>"
+      answer: "(MODERATOR HOLDS UP <emphasis>ONE</emphasis> HAND) <latin>Respondē Latīnē: Quot manūs sustulī? ŪNAM</latin>"
+    boni:
+      - question: "<latin>Nunc Anglicē imperāte spectātōribus ut taceant</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD TELL THE SPECTATORS TO BE QUIET"
+      - question: "<latin>Dīc mihi Anglicē num Rōmam īre tibi placeat</latin>"
+        answer: "ONE STUDENT SHOULD SAY WHETHER OR NOT (S)HE WOULD LIKE TO GO TO ROME or ONE STUDENT COULD SIMPLY RESPOND “YES” OR “NO”"
+  - tossup:
+      question: "What mortal woman vowed that she would marry the man who could beat her in a footrace?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What happened to the men who lost to Atalanta?"
+        answer: "THEY WERE KILLED / EXECUTED / HUNTED (BY A SPEAR / SWORD)"
+      - question: "Who, with the help of Aphrodite, finally beat Atalanta?"
+        answer: "HIPPOMENES / MELANION"
+  - tossup:
+      question: "What two-word Latin prepositional phrase is used in English to mean “annually?"
+      answer: "<latin>PER ANNUM</latin>"
+    boni:
+      - question: "What Latin phrase is used in English to mean “by the hundred”?"
+        answer: "<latin>PER CENTUM</latin>"
+      - question: "What Latin phrase is used in English to mean “essentially or intrinsically”?"
+        answer: "<latin>PER SĒ</latin>"
+  - tossup:
+      question: "Where did the Romans first defeat Antiochus III and his forces in 191 BC?"
+      answer: "THERMOPYLAE"
+    boni:
+      - question: "What group requested that Antiochus III invade Greece?"
+        answer: "AETOLIAN LEAGUE"
+      - question: "What two brothers led the Roman forces against Antiochus III?"
+        answer: "PUBLIUS & LUCIUS (CORNELIUS) SCIPIO"
+  - tossup:
+      question: "What compound of <latin>dō</latin>, <latin>dare</latin> means “to betray”?"
+      answer: "<latin>PRŌDŌ (PRŌDERE)</latin>"
+    boni:
+      - question: "For 5 points each, name two other compounds of <latin>dō</latin> which can mean either “to hand over” or “ to surrender”?"
+        answer: "<latin>TRĀDO</latin> & <latin>DĒDŌ</latin>"
+  - tossup:
+      question: "What monster lost his life because his half-sister gave a foreigner a ball of string to get through the Labyrinth in which he was imprisoned?"
+      answer: "MINOTAUR / ASTERION (-IUS)"
+    boni:
+      - question: "Who was this half-sister of the Minotaur?"
+        answer: "ARIADNE"
+      - question: "Why did Ariadne help Theseus kill the Minotaur?"
+        answer: "SHE FELL IN LOVE WITH HIM / HE PROMISED TO TAKE HER WITH HIM"
+  - tossup:
+      question: "Which of the Five Good Emperors added a new suburb to the city of Athens and completed the temple of Olympian Zeus while serving as archon?"
+      answer: "HADRIAN"
+    boni:
+      - question: "Where did Hadrian build a lavish villa that contained replicas of famous places that he had seen during his travels?"
+        answer: "TIBUR / TIVOLI"
+      - question: "In what country did Hadrian establish the city of Antinoöpolis in honor of his friend Antinous?"
+        answer: "EGYPT / AEGYPTUS"
+  - tossup:
+      question: "Based on its Latin root, what would you be most likely to find in an arboretum?"
+      answer: "TREES"
+    boni:
+      - question: "Based on its Latin root, why would someone be in a penitentiary?"
+        answer: "AS PUNISHMENT"
+      - question: "Based on its Latin root, what must come together in order to achieve concord?"
+        answer: "HEARTS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Scīpiō Africānus, quī Carthāginem dēlēvit, iussit imāginem notissimī poētae in sepulcrō gentis Cornēliae locārī. Nam hic poēta carmina dē rēbus gestīs Scīpiōnum scrīpserat.</latin> Question: <latin>Quālis erat poēta?</latin>"
+      answer: "NŌTUS / NŌTISSIMUS / (PRAE)CLĀRISSIMUS / (PRAE)CLĀRUS"
+    boni:
+      - question: "<latin>Quae rēs in carminibus huius poētae scriptae sunt?</latin>"
+        answer: "(RĒS) GESTAE (SCĪPIŌNUM / SCĪPIŌNIS)"
+      - question: "<latin>Vērum aut falsum: Scīpiō Africānus imperāvit ut imāgō poētae in sepulchrō gentis suae locārētur</latin>"
+        answer: "VĒRUM  2008 NJCL CERTAMEN INTERMEDIATE DIVISION"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "In the sentence “<latin>Novem annōs</latin> Caesar <latin>in Galliā vītam ēgit</latin>”, translate “<latin>novem annōs</latin>”"
+      answer: "FOR NINE YEARS"
+    boni:
+      - question: "Now translate this sentence: “<latin>Saepissimē, Caesar ā decimā legiōne solā dēfēnsus erat</latin>”"
+        answer: "VERY OFTEN, CAESAR HAD BEEN DEFENDED BY ONLY THE TENTH LEGION / BY THE TENTH LEGION ALONE"
+      - question: "Finally, translate this sentence: “<latin>Cum Helvetiōs appropinquāre cognōsceret, Caesar lēgātōs ad eōs mīsit</latin>”"
+        answer: "SINCE (WHEN) HE LEARNED THAT THE HELVETIANS WERE APPROACHING, CAESAR SENT ENVOYS TO THEM"
+  - tossup:
+      question: "What two brothers, known to their mother as her “jewels,” served as tribunes of the plebs in the late second century BC and passed popular legislation such as the redistribution of land to the landless and the discounted sale of grain?"
+      answer: "GAIUS & TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "Which of the Gracchi brothers ensured the passage of a law that established the colony of Junonia on the site of Carthage?"
+        answer: "GAIUS"
+      - question: "In what year did Scipio Nasica and his mob assassinate Tiberius Gracchus?"
+        answer: "133 BC"
+  - tossup:
+      question: "Who murdered a youth named Absyrtus to slow down the pursuit of King Aeetes when he was chasing her and her newfound love Jason?"
+      answer: "MEDEA"
+    boni:
+      - question: "What specifically did Medea do to Absyrtus’ body that kept Aeetes busy?"
+        answer: "SHE SCATTERED ITS PIECES ACROSS THE WATER"
+      - question: "On their voyage back to Iolcus, who purified Jason and Medea of murder?"
+        answer: "CIRCE"
+  - tossup:
+      question: "Give the comparative and superlative forms for the adjective <latin>fortis</latin>. "
+      answer: "FORTIOR, <latin>FORTISSIMUS/-A</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms for the adjective <latin>similis</latin>. "
+        answer: "SIMILIOR, <latin>SIMILLIMUS /-A</latin>"
+      - question: "Change the adjective form <latin>bonum</latin> to the comparative and superlative. "
+        answer: "MELIUS, OPTIMUM "
+  - tossup:
+      question: "What part of his equipment was a soldier’s <latin>cingulum</latin>?"
+      answer: "BELT / SWORD-BELT"
+    boni:
+      - question: "You are looking at a Roman soldier. What letter on the visual corresponds to the soldier’s <latin>lorica</latin>?"
+        answer: "A (BREASTPLATE)"
+      - question: "What letter shows the soldier’s <latin>umbō</latin>?"
+        answer: "E (KNOB / BOSS ON HIS SHIELD)"
+  - tossup:
+      question: "How did the mouse free the lion?"
+      answer: "BY CHEWING/BITING THE LION’S BONDS / CHAINS"
+    boni:
+      - question: "What did the mouse ask for as a reward?"
+        answer: "TO MARRY THE LION’S DAUGHTER"
+      - question: "What was the mouse’s reasoning for asking for such a reward?"
+        answer: "HE THOUGHT THAT HE WOULD BECOME THE KING OF MICE BECAUSE HE HAD SUCH A POWERFUL SPOUSE"
+  - tossup:
+      question: "The deponent verbs <latin>potior</latin>, <latin>fruor</latin>, <latin>vescor</latin>, <latin>fungor</latin>, and <latin>ūtor</latin> all take objects in what case?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What case follows many compound and intransitive verbs, such as <latin>crēdō</latin> and <latin>impōnō</latin>?"
+        answer: "DATIVE"
+      - question: "Other than the accusative, what Latin case can be used for the objects of the verbs <latin>meminī</latin>, “to remember,” and <latin>oblīvīscor</latin>, “to forget”?"
+        answer: "GENITIVE"
+  - tossup:
+      question: "In the sentence “Horatius carried a longer sword than Manlius,” translate “longer sword.” "
+      answer: "<latin>LONGIŌREM GLADIUM / ĒNSEM //</latin> <latin>LONGIUS FERRUM</latin>"
+    boni:
+      - question: "In that same sentence, translate “than Manlius” into Latin in two distinct ways. "
+        answer: "<latin>MANLIŌ / QUAM MANLIUS</latin> "
+      - question: "Now say in Latin, “Manlius has a bigger sword.”"
+        answer: "<latin>EST MAIOR GLADIUS / MAIUS FERRUM MANLIŌ</latin> / / <latin>MANLIUS MAIŌREM GLADIUM / MAIUS FERRUM HABET</latin> "
+  - tossup:
+      question: "Who encouraged Gaius Silius to replace the emperor Claudius as emperor -- and as her husband -- while Claudius was away from Rome?"
+      answer: "(VALERIA) MESSALINA"
+    boni:
+      - question: "What freedman of Claudius had the praetorians kill Messalina and Silius before Claudius returned?"
+        answer: "NARCISSUS"
+      - question: "Who replaced Messalina as Claudius' fourth and final wife?"
+        answer: "AGRIPPINA THE YOUNGER / MINOR"
+  - tossup:
+      question: "What Trojan killed Menesthes, Anchialus, Protesilaus, and Patroclus during the Trojan War before he was killed by Achilles and dragged around the walls of Troy?"
+      answer: "HECTOR"
+    boni:
+      - question: "Hector was able to kill Patroclus only after what god had stunned him three times?"
+        answer: "APOLLO"
+      - question: "Who obtained new armor for Achilles so that he could wreak vengeance on Hector?"
+        answer: "THETIS"
+  - tossup:
+      question: "What emperor was beloved by his subjects in spite of the disasters that occurred during his reign, which included a plague and a fire in Rome as well as the eruption of Mount Vesuvius?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "In what year did Vesuvius erupt?"
+        answer: "79 AD"
+      - question: "In what year did Titus die?"
+        answer: "81 AD"
+  - tossup:
+      question: "Which of the following words does not belong because of its part of speech: <latin>aliter</latin>, <latin>ter</latin>, <latin>heri</latin>, <latin>iter</latin>, <latin>quater</latin>?"
+      answer: "<latin>ITER</latin>"
+    boni:
+      - question: "Which of the following words does not belong because of its part of speech: <latin>ultrō</latin>, <latin>lātrō</latin>, <latin>intrō</latin>, <latin>mōnstrō</latin>?"
+        answer: "<latin>ULTRŌ</latin>"
+      - question: "Of the words <latin>ultrō</latin>, <latin>lātrō</latin>, <latin>intrō</latin>, <latin>mōnstrō</latin>, which one or ones can also be a noun form?"
+        answer: "<latin>LĀTRŌ</latin> & <latin>MŌNSTRŌ</latin>"
+  - tossup:
+      question: "What Lydian queen was Heracles ordered to serve for a span of either one or three years?"
+      answer: "OMPHALE"
+    boni:
+      - question: "Heracles was ordered to serve Omphale to atone for killing what son of Eurytus?"
+        answer: "IPHITUS"
+      - question: "How did Omphale especially degrade Heracles while he was in her service?"
+        answer: "MADE HIM WEAR FEMININE DRESS / SPIN WOOL / ACT AS IF HE WERE A WOMAN"
+  - tossup:
+      question: "What kind of Latin sentence has clauses called the protasis and the apodosis?"
+      answer: "CONDITIONAL SENTENCE"
+    boni:
+      - question: "In which type of conditional sentence is the imperfect subjunctive found in both the protasis and the apodosis?"
+        answer: "PRESENT CONTRARY-TO-FACT (CONTRAFACTUAL)"
+      - question: "What Latin conjunction is generally preferred at the beginning of a conditional sentence’s protasis if the sense of the protasis is negative?"
+        answer: "<latin>NISI</latin>"
+  - tossup:
+      question: "What two-word Latin phrase can be translated with the single word “masterpiece”? "
+      answer: "MAGNUM OPUS "
+    boni:
+      - question: "What two-word Latin phrase can be translated by the single word “intrinsically”? "
+        answer: "<latin>PER SĒ</latin> "
+      - question: "What three-word Latin phrase can be translated in English as simply “a necessity”? "
+        answer: "SINE QUĀ NŌN "
+  - tossup:
+      question: "Who turned Aconteus, Phineus, Atlas, and Polydectes into stone with the head of the Gorgon Medusa, whom he had recently slain?"
+      answer: "PERSEUS"
+    boni:
+      - question: "For which of the men listed above was the head of Medusa supposed to be a wedding present?"
+        answer: "POLYDECTES"
+      - question: "Which of the men listed above was the uncle of Andromeda, to whom she had been betrothed before Perseus saved her from a sea monster?"
+        answer: "PHINEUS"
+  - tossup:
+      question: "According to its Latin root, how much of something would be gone if you “decimated” it?"
+      answer: "ONE-TENTH"
+    boni:
+      - question: "According to its Latin root, what would be left if you were to “pulverize” something?"
+        answer: "DUST"
+      - question: "According to its Latin root, what specifically is destroyed when something is “obliterated”?"
+        answer: "LETTERS"
+  - tossup:
+      question: "When recognized by the spotter, perform the following commands: <latin>Sedēns, ēnumerā Anglicē ab ūnō ad decem.</latin>"
+      answer: "STUDENT COUNTS TO TEN IN ENGLISH WHILE SITTING"
+    boni:
+      - question: "When recognized by the spotter, perform the following commands: <latin>Gaudēte, omnēs, quasī magnum praemium obtinuerītis</latin>"
+        answer: "ALL STUDENTS CELEBRATE AS IF THEY HAVE WON A GREAT PRIZE"
+      - question: "When recognized by the spotter, perform the following commands: <latin>Ūnus ē sociīs stet et exclāmet Anglicē, “Discēdō. Cum hominibus similibus vōbīs labōrāre nōn possum!”</latin>"
+        answer: "ONE TEAM MEMBER STANDS AND EXCLAIMS, “I’M LEAVING. I CAN’T WORK WITH PEOPLE LIKE YOU!” (OR SOMETHING TO THAT EFFECT)"
+  - tossup:
+      question: "Whom did Zeus help in his quest to seduce Aphrodite by stealing one of her sandals?"
+      answer: "HERMES"
+    boni:
+      - question: "Who was the one child of Hermes and Aphrodite?"
+        answer: "HERMAPHRODITUS"
+      - question: "What nymph joined her body with that of Hermaphroditus while he was swimming in her spring?"
+        answer: "SALMACIS"
+  - tossup:
+      question: "Who was the first Roman king of an Etruscan background?"
+      answer: "(LUCIUS) TARQUINIUS PRISCUS"
+    boni:
+      - question: "From what Greek town had Priscus' father Demaratus been exiled when he came to Etruria?"
+        answer: "CORINTH"
+      - question: "Give the Latin term for the sewer system, constructed by Priscus, that drained the Forum, allowing construction to begin there"
+        answer: "<latin>CLOĀCA MAXIMA</latin> <latin>2012 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

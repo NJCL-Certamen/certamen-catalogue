@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Into what did Latona transform a group of Lycian villagers when they refused to let her drink water from their watering spot?"
+      answer: "FROGS"
+    boni:
+      - question: "Which of the twins was born to Latona first and aided in the birth of the other?"
+        answer: "DIANA"
+      - question: "What island was covered in waves so that it no longer fell under Juno’s decree that no land under the sun could receive her?"
+        answer: "ORTYGIA / DELOS"
+  - tossup:
+      question: "What author, after he was accused of embezzlement as governor of <latin>Africa Nova</latin>, retired to his large garden estate in Rome?"
+      answer: "(GAIUS) SALLUST (IUS) (CRISPUS)"
+    boni:
+      - question: "Both of the following are passages from Sallust’s fragmented works. From which work, left unfinished at the time of Sallust’s death, does the passage denoted by letter “A” come?"
+        answer: "<title><latin>HISTORIAE</latin></title> <title>/ HISTORIES</title>"
+      - question: "Who is the subject of the work identified by passage “B”?"
+        answer: "MITHRIDATES (VI / THE GREAT)"
+  - tossup:
+      question: "What use of the subjunctive is found in the following sentence? <latin>Cōnstitūtum est ut Rōmae manērem</latin>"
+      answer: "<emphasis>SUBSTANTIVE</emphasis> CLAUSE OF <emphasis>RESULT</emphasis>"
+    boni:
+      - question: "When a clause of result is the subject, what word is often used instead of a future infinitive?"
+        answer: "<latin>FORE</latin> "
+      - question: "Translate into English: <latin>Tanta virtūs Iūliō est ut auxiliō omnibus sit.</latin> "
+        answer: "JULIUS HAS SO MUCH VIRTUE / THERE IS SO MUCH VIRTUE FOR JULIUS THAT HE IS A HELP / AID TO ALL / EVERYONE"
+  - tossup:
+      question: "What law of 367 B.C. required that one of the two yearly-elected consuls be a Plebeian?"
+      answer: "<latin>LĒX LICINIA SEXTIA</latin> / LICINIAN-SEXTIAN LAW (accept plural)"
+    boni:
+      - question: "What law of 287 B.C. made the laws of the plebiscite binding on all citizens?"
+        answer: "<latin>LĒX HORTĒNSIA</latin> / HORTENSIAN LAW"
+      - question: "What law of 180 B.C. established minimum ages for offices in the <latin>cursus honōrum</latin>?"
+        answer: "<latin>LĒX VĪLLIA ANNĀLIS</latin> "
+  - tossup:
+      question: "Give all the nominative singular masculine participial forms of the verb <latin>eō</latin>"
+      answer: "<latin>IĒNS, ITŪRUS, EUNDUS</latin>"
+    boni:
+      - question: "Now give all the active infinitive forms of <latin>eō</latin>"
+        answer: "<latin>ĪRE, (I)ĪSSE / ĪVISSE, ITŪRUM ESSE</latin> "
+      - question: "Now give all future imperative forms of <latin>eō</latin>"
+        answer: "<latin>ĪTŌ, ĪTŌTE, (ĪTŌ), EUNTŌ</latin>"
+  - tossup:
+      question: "Give the Latin noun and its meaning at the root of “disinter”"
+      answer: "<latin>TERRA</latin> – LAND"
+    boni:
+      - question: "Give the Latin noun and its meaning at the root of “architrave”"
+        answer: "<latin>TRABS</latin> – BEAM"
+      - question: "Give the Latin noun and its meaning at the root of “formaldehyde”"
+        answer: "<latin>FORMĪCA</latin> – ANT"
+  - tossup:
+      question: "What early author, originally a slave, attempted to teach Greek to the children of Livius Salinator with his work, <title><latin>Odussia</latin></title>?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "In what deity’s honor was Andronicus commissioned to write a <latin>parthenion</latin> in 207 B.C.?"
+        answer: "JUNO"
+      - question: "The <title><latin>Gladiolus</latin></title> and <title><latin>Lūdius</latin></title> of Andronicus are examples of what Latin genre?"
+        answer: "<title><latin>FĀBULA PALLIĀTA</latin></title>"
+  - tossup:
+      question: "What two sons of Antiope were the first kings to rule Thebes jointly and built the walls of the city?"
+      answer: "ZETHUS AND AMPHION"
+    boni:
+      - question: "How did Amphion move the bricks to build the walls, annoying his stronger brother to no end?"
+        answer: "CHARMED THEM WITH HIS LYRE PLAYING"
+      - question: "Who was the aunt of Antiope whom Amphion and Zethus killed?"
+        answer: "DIRCE"
+  - tossup:
+      question: "Verulamium, Camolodunum, and Londinium were all cities destroyed by a revolt during the reign of Nero by what British queen?"
+      answer: "BOUDICCA / BOADICEA"
+    boni:
+      - question: "What Roman general finally subdued the revolt?"
+        answer: "(GAIUS) SUETONIUS PAULINUS"
+      - question: "Who was Boudicca’s husband, whose death had prompted her to take up arms against the Romans?"
+        answer: "PRASUTAGUS"
+  - tossup:
+      question: "Who received mercy from Augustus?"
+      answer: "ALL THE CITIZENS WHO ASKED FOR / ASKING / SEEKING MERCY"
+    boni:
+      - question: "What kind of wars did Augustus often wage?"
+        answer: "CIVIL / INTERNAL & FOREIGN / EXTERNAL WARS OR LAND AND SEA WARS"
+      - question: "What type of foreign enemies did Augustus prefer to spare?"
+        answer: "THOSE WHO COULD BE FORGIVEN <emphasis>SAFELY</emphasis>"
+  - tossup:
+      question: "Define the Latin verb <latin>experior</latin>"
+      answer: "TRY / ATTEMPT / TEST"
+    boni:
+      - question: "Define the Latin verb <latin>populor</latin>"
+        answer: "DESTROY / RAVAGE / PLUNDER"
+      - question: "Define the Latin verb <latin>nītor</latin>"
+        answer: "STRIVE / RELY / STRUGGLE / ADVANCE / BEAR / LEAN / REST UPON"
+  - tossup:
+      question: "Which epic of Latin literature contains the following characteristics: Infusion of mythological stories into historical accounts, hyperbolic brutality and horror leading to the “death of the republic”, and a stark contrast to the grandeur of the <title>Aeneid</title> in detailing the events of the civil war between Pompey and Caesar?"
+      answer: "<title><latin>BELLUM CĪVĪLE</latin></title> / <title><latin>DĒ BELLŌ CĪVĪLĪ</latin></title> / <title><latin>PHARSĀLIA</latin></title>"
+    boni:
+      - question: "Who is the author of the <title><latin>Bellum Cīvīle</latin></title>?"
+        answer: "(MARCUS ANNAEUS) LUCAN (US)"
+      - question: "This poem ends abruptly with Caesar being where?"
+        answer: "ALEXANDRIA"
+  - tossup:
+      question: "What English phrase might be the equivalent of the Latin <latin>parēs cum paribus</latin>?"
+      answer: "BIRDS OF A FEATHER (FLOCK TOGETHER) / LIKE ATTRACTS LIKE"
+    boni:
+      - question: "What English phrase might be the equivalent of the Latin <latin>cōnsuētūdō locī observānda est</latin>?"
+        answer: "WHEN IN ROME (DO AS THE ROMANS DO)"
+      - question: "What English phrase might be the equivalent of the Latin <latin>nē frontī crēde</latin>?"
+        answer: "DON’T JUDGE A BOOK BY ITS COVER"
+  - tossup:
+      question: "What emperor assumed full command following his father’s capture at the battle of Edessa in 260 A.D. by the Persian king Shapur I?"
+      answer: "GALLIENUS (PUBLIUS LICINIUS VALERIANUS AUGUSTUS)"
+    boni:
+      - question: "Following the battle, what ruler of Palmyra did Gallienus appoint to deal with the Persians in the East?"
+        answer: "OD(A)ENATHUS"
+      - question: "The reign of Gallienus was littered with revolts spanning all over the Empire. Who attempted to set up his own <latin>Imperium Galliārum</latin> in 261 A.D.?"
+        answer: "(MARCUS CASSIANUS LATINIUS) POSTUMUS"
+  - tossup:
+      question: "According to Vergil, who sold Dido the land for the future site of Carthage?"
+      answer: "IARBAS"
+    boni:
+      - question: "Why, according to Greeks and Romans, was the Carthaginian citadel called Byrsa?"
+        answer: "DIDO ENCLOSED THE LAND FOR THE CITADEL WITH COWHIDE"
+      - question: "Name one of the things found when digging the foundations for their new city"
+        answer: "OX HEAD / HORSE HEAD"
+  - tossup:
+      question: "A dispute between Helios and Poseidon over the patronage of Corinth was mediated by which of the Hecatoncheires?"
+      answer: "(O)BRIAREUS / AEGAEON"
+    boni:
+      - question: "How did Briareus settle the dispute?"
+        answer: "HE AWARDED THE ACROCORINTH / CITADEL TO HELIOS AND THE ISTHMUS TO POSEIDON"
+      - question: "Who once summoned Briareus to help Zeus when Hera, Poseidon, and Athena had chained him?"
+        answer: "THETIS"
+  - tossup:
+      question: "Translate into English: <latin>Sī nautae inter sē certārent, quis gubernāret?</latin> "
+      answer: "IF THE SAILORS WERE FIGHTING / STRUGGLING AMONG THEMSELVES, WHO WOULD STEER / PILOT?"
+    boni:
+      - question: "Translate into Latin: It is easy to see whom you love more"
+        answer: "<latin>FACILE EST VIDĒRE QUEM</latin> / <latin>QUŌS</latin> / <latin>QUAM / QUĀS MAGIS AMĒS / AMĒTIS</latin>"
+      - question: "Translate into English: <latin>Quis est quī suī misereātur?</latin>"
+        answer: "WHO IS THERE WHO WOULD / MAY PITY / PITIES HIMSELF?"
+  - tossup:
+      question: "The use of <latin>sambūcae</latin>, or floating siege towers with grappling hooks, was employed by the Romans during the siege of what Sicilian city from 213-212 B.C.?"
+      answer: "SYRACUSE"
+    boni:
+      - question: "What Roman general led the Romans in the siege of Syracuse?"
+        answer: "(MARCUS CLAUDIUS) MARCELLUS"
+      - question: "What young king of Syracuse, who initially attempted to win over his city for the Carthaginians, was murdered prior to Marcellus’ siege in 213 B.C.?"
+        answer: "HIERONYMUS"
+  - tossup:
+      question: "You have decided to go shopping in the Vatican, and you stumble across a store with a sign reading, “<latin>braccae līneae caeruleae</latin>”. According to the <title><latin>Lexicon Recentis Latīnitātis</latin></title>, what is the store selling?"
+      answer: "(BLUE) JEANS / DUNGAREES"
+    boni:
+      - question: "You decide to grab a bite to eat, and you are greeted by a “<latin>vectōrum adiūtrīx</latin>”. According to the <title><latin>Lexicon Recentis Latīnitātis</latin></title>, who greeted you?"
+        answer: "HOSTESS"
+      - question: "After your stay, you decide it’s time to use a “<latin>capācissima aërināvis</latin>”. How are you getting home?"
+        answer: "(ON A) <emphasis>JUMBO</emphasis> JET PLANE"
+  - tossup:
+      question: "What author was appointed <title><latin>scrība quaestōrius</latin></title> upon returning to Italy to further his writing career after his farm at Venusia was confiscated?"
+      answer: "(QUINTUS) HORATIUS FLACCUS / HORACE"
+    boni:
+      - question: "What work of Horace in two books of dactylic hexameter is modeled after an earlier author’s journey to Sicily?"
+        answer: "<title><latin>SERMONES</latin></title> / <title><latin>SATŪRAE</latin></title> / <title>SATIRES</title>"
+      - question: "What work of Horace opens with the line, “<latin>Phoebē silvārumque potēns Diāna</latin>”?"
+        answer: "<title><latin>CARMEN SAECULĀRE</latin></title> / <title>SECULAR SONG</title> <latin>2013 NJCL CERTAMEN ADVANCED DIVISION</latin>"

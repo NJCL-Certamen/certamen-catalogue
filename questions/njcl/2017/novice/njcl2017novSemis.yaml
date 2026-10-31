@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What crew member of the Argo was so fast that he could walk on water?"
+      answer: "EUPHEMUS"
+    boni:
+      - question: "What seer predicted that the Argonauts would be successful in their quest, but boarded the ship knowing that he himself would die?"
+        answer: "IDMON"
+      - question: "How did Idmon die?"
+        answer: "KILLED BY A BOAR"
+  - tossup:
+      question: "Differentiate in meaning between <latin>lepus</latin> and <latin>lupus</latin>."
+      answer: "<latin>LEPUS -</latin> HARE / RABBIT; <latin>LUPUS -</latin> WOLF"
+    boni:
+      - question: "Differentiate in meaning between <latin>cēlo</latin> and <latin>cēnō</latin>."
+        answer: "<latin>CĒLŌ -</latin> HIDE/CONCEAL; <latin>CĒNŌ -</latin> DINE/EAT DINNER"
+      - question: "Differentiate in meaning between <latin>ōdium</latin> and <latin>ōtium</latin>."
+        answer: "<latin>ŌDIUM –</latin> HATE / HATRED; <latin>ŌTIUM -</latin> LEISURE"
+  - tossup:
+      question: "Which king of Rome annexed the Caelian hill so that he could provide enough space for the citizens of Alba Longa to live in Rome?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "How did Hostilius punish the duplicitous leader Mettius Fufettius?"
+        answer: "HAD HIM DRAWN AND QUARTERED // TIED EACH OF HIS LIMBS  TO A CHARIOT AND HAD THEM RIDE OFF IN DIFFERENT DIRECTIONS"
+      - question: "What building at the north end of the forum was Hostilius credited with building?"
+        answer: "<latin>CŪRIA (HOSTĪLIA)</latin>"
+  - tossup:
+      question: "For the phrase <latin>hic pulcher flōs</latin>, give the Accusative singular."
+      answer: "<latin>HUNC PULCHRUM FLŌREM</latin>"
+    boni:
+      - question: "Make <latin>hunc pulchrum flōrem</latin> Dative."
+        answer: "<latin>HUIC PULCHRŌ FLŌRĪ</latin>"
+      - question: "Give the dative singular of <latin>illud breve bellum</latin>."
+        answer: "<latin>ILLĪ BREVĪ BELLŌ</latin>"
+  - tossup:
+      question: "What English word, meaning \"unable to be climbed over\" is derived from the Latin noun <latin>mōns</latin>?"
+      answer: "INSURMOUNTABLE / UNSURMOUNTABLE"
+    boni:
+      - question: "What English verb, meaning \"to gather together\" is derived from the Latin adjective <latin>similis</latin>?"
+        answer: "ASSEMBLE"
+      - question: "What relatively modern English verb, meaning \"to transmit electronically,\" is derived from the same Latin adjective?"
+        answer: "FAX"
+  - tossup:
+      question: "Whom did Hera enlist to prevent Heracles from being the son that Zeus had prophesied to be the ruler of Tiryns?"
+      answer: "EILEITHYIA"
+    boni:
+      - question: "Eileithyia achieved this by preventing Alcmene from giving birth before the birth of Eurystheus. What maid helped Alcmene give birth by distracting Eileithyia?"
+        answer: "GALANTHIS"
+      - question: "How was the poor maid rewarded for her loyal efforts to help Alcmene?"
+        answer: "SHE WAS TRANSFORMED INTO A WEASEL"
+  - tossup:
+      question: "In the following sentence: <latin>Imperātor centum mīlitēs mīsit magnō auxiliō castrīs</latin>, what two uses of the Dative are found?"
+      answer: "SEE BELOW (DON’T READ BOTH ANSWERS!!!)"
+    boni:
+      - question: "What is this also known as?"
+        answer: "PURPOSE AND REFERENCE // DOUBLE DATIVE"
+      - question: "Now translate that sentence."
+        answer: "THE COMMANDER / GENERAL SENT A HUNDRED SOLDIERS AS / FOR A GREAT HELP TO / FOR THE CAMP"
+  - tossup:
+      question: "Which of the following is not derived from a Latin word for a body part: principal, manumission, salubrious, peon, chapter."
+      answer: "SALUBRIOUS"
+    boni:
+      - question: "What Latin noun lies at the root of “peon”?"
+        answer: "<latin>PĒS</latin>"
+      - question: "What Latin noun with what meaning lies at the root of “salubrious”?"
+        answer: "<latin>SALŪS</latin> – HEALTH / SAFETY / WELFARE"
+  - tossup:
+      question: "Whose suicide following the capture of Sarmizegethusa was captured in a relief at the top of Trajan's Column?"
+      answer: "DECEBALUS"
+    boni:
+      - question: "Trajan's consistent ability to win military victories, such as against Dacia, is often credited as one of the primary reasons why the senate conferred what highly honorific title in 115 AD?"
+        answer: "OPTIMUS PRINCEPS"
+      - question: "A year prior to Trajan's first victory at Sarmizegethusa, Trajan was able to win a costly victory near what fortress town that guarded the mountain pass into the Dacian Capital?"
+        answer: "TAPAE"
+  - tossup:
+      question: "Listen carefully to the following passage about characters who should be familiar by now, which I will read twice; then answer IN LATIN the question that follows. <latin>Cane inventō, puer fortūnātus domum reveniēns maximō gaudiō complētus est. Omnia quae acciderant mātrī nārrāvit. Tanta laetitia mātrī erat dē mercātōre benignō. Voluit hunc virum invenīre, pecūniam eī dare, grātiās deīs agere.</latin> Question<latin>: Cui māter pecūniam dare voluit?</latin>"
+      answer: "<latin>MERCĀTŌRĪ / VIRŌ</latin> The story continues: <latin>Itaque trēs diēs in forō cum fīliō et duōbus canibus mercātōrem quaesīvit. Mercātor autem ēvanuerat. Nūllīs in locīs mercātor invenīrī potuit.</latin>"
+    boni:
+      - question: "<latin>Quamdiū in forō mercātor ā mātre quaesītus est?</latin>"
+        answer: "<latin>TRĒS DIĒS</latin>"
+      - question: "<latin>Quid māter facere nōn potuit?</latin>"
+        answer: "<latin>MERCĀTŌREM INVENĪRE</latin>"
+  - tossup:
+      question: "Identify the Roman landmark labeled B."
+      answer: "<latin>CIRCUS MAXIMUS</latin>"
+    boni:
+      - question: "What type of structure is labeled A?"
+        answer: "AQUEDUCT"
+      - question: "What hill, labeled C, lay between the forum and the <latin>Circus Maximus</latin>?"
+        answer: "PALATINE"
+  - tossup:
+      question: "What is the meaning of the adjectival form <latin>“prūdentior”</latin>?"
+      answer: "MORE WISE / WISER / TOO WISE / RATHER WISE (SENSIBLE, PRUDENT, FORESEEING)"
+    boni:
+      - question: "<latin>Quid Anglicē significat “audācissimē.”</latin>"
+        answer: "VERY BOLDLY, MOST BOLDLY"
+      - question: "Now give the corresponding positive and comparative forms of the adjective <latin>trīstissimum</latin>."
+        answer: "<latin>TRĪSTE, TRĪSTIUS</latin>"
+  - tossup:
+      question: "What son of Zeus was the leader of the Lycian forces in the Trojan War?"
+      answer: "SARPEDON"
+    boni:
+      - question: "Who killed Sarpedon?"
+        answer: "PATROCLUS"
+      - question: "What supernatural memorial did Zeus give for his son?"
+        answer: "CAUSED A BLOODY RAIN TO FALL"
+  - tossup:
+      question: "For the verb <latin>plaudō</latin>, give the 2nd person singular present active imperative."
+      answer: "<latin>PLAUDE</latin>"
+    boni:
+      - question: "Give the corresponding form of <latin>ferō</latin>."
+        answer: "<latin>FER</latin>"
+      - question: "Now, using those verbs, say in Latin, “Guests, applaud and bring gifts!”"
+        answer: "<latin>HOSPITĒS, PLAUDITE ET / DEIN(DE) / INDE DŌNA / MŪNERA FERTE! /</latin> <latin>HOSPITĒS, PLAUDITE FERTEQUE DŌNA / MŪNERA!</latin>"
+  - tossup:
+      question: "What was the term designated for gladiators who had yet to fight in public?"
+      answer: "<latin>TĪRŌ / -ŌNĒS</latin>"
+    boni:
+      - question: "Because gladiators were so valuable, they avoided using real weaponry and instead trained using wooden swords known as what?"
+        answer: "<latin>RUDIS / -ĒS</latin>"
+      - question: "What title was given to the men who trained the novice gladiators?"
+        answer: "<latin>LANISTA / -AE</latin>"
+  - tossup:
+      question: "You are rifling through a dictionary in order to increase your vast knowledge of English etymology. As you search, you come upon the abbreviation <latin>v.s.</latin> What is the Latin and English for this abbreviation?"
+      answer: "<latin>VIDĒ SUPRĀ -</latin> LOOK / SEE ABOVE / PREVIOUS"
+    boni:
+      - question: "On another page, you notice the abbreviation <latin>f.v.</latin> What is the Latin and English for this abbreviation?"
+        answer: "<latin>FOLIŌ VERSŌ -</latin> ON THE TURNED / LEFT / OPPOSITE PAGE"
+      - question: "Finally, you see the abbreviation <latin>s.v.</latin> in a footnote. What is the Latin and English for this abbreviation?"
+        answer: "<latin>SUB VERBŌ / SUB VŌCE -</latin> UNDER THE WORD / HEADING"
+  - tossup:
+      question: "Against whom did Zeus send a gadfly for daring to fly to the top of Mount Olympus?"
+      answer: "BELLEROPHON / PEGASUS (WITH BELLEROPHON ON HIS BACK)"
+    boni:
+      - question: "What was Bellerophon's original name?"
+        answer: "HIPPONOÜS"
+      - question: "What seer in Bellerophon's homeland of Ephyra suggested that he spend the night in Athena's temple?"
+        answer: "POLYEIDUS"
+  - tossup:
+      question: "Who, at the wedding of Cadmus and Harmonia, seduced Demeter and lay with her in a thrice-plowed field?"
+      answer: "IASION"
+    boni:
+      - question: "What children were the result of this union?"
+        answer: "PLUTUS AND PHILOMELUS"
+      - question: "What did Philomelus invent to please his mother?"
+        answer: "WAGON / THE ACT OF HARNESSING TWO OXEN TO ONE CART"
+  - tossup:
+      question: "Complete the following analogy. <latin>amō : amāns :: ferō : _______</latin>"
+      answer: "<latin>FERĒNS</latin>"
+    boni:
+      - question: "Give the correct form of <latin>ferēns</latin> to agree with <latin>ursārum</latin>."
+        answer: "<latin>FERENTIUM</latin>"
+      - question: "Give the form of <latin>ferō</latin> that means “about to bear.”"
+        answer: "<latin>LĀTŪRUS / -A / -UM</latin>"
+  - tossup:
+      question: "Whose declaration that the Aetolian League was liberated from Philip V led to his receiving a standing ovation from the crowd of the 196 BC Isthmian games?"
+      answer: "(T. QUINCTIUS) FLAMININUS"
+    boni:
+      - question: "What battle did the Romans win the previous year to end the Second Macedonian War?"
+        answer: "CYNOSCEPHALAE"
+      - question: "Flamininus later negotiated the handing over of Hannibal to the Romans with what Bithynia king, though the Carthaginian committed suicide before the Romans could take him prisoner?"
+        answer: "PRUSIAS (II)"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Which of the following Nominative singular nouns does NOT belong because of meaning: <latin>pedes, genū, umerus, calx</latin>."
+      answer: "<latin>PEDES</latin>"
+    boni:
+      - question: "Which of those words is neuter in gender?"
+        answer: "<latin>GENŪ</latin>"
+      - question: "Changing only one letter, make the word <latin>genū</latin> into a word for ice."
+        answer: "<latin>GELŪ</latin>"
+  - tossup:
+      question: "Which of the following ancient temples was not on or next to the Capitoline Hill: Temple of Jupiter Optimus Maximus, Temple of Concord, Temple of Juno Moneta, Temple of Saturn, Temple of Diana?"
+      answer: "TEMPLE OF DIANA"
+    boni:
+      - question: "On which hill is the temple of Diana located?"
+        answer: "AVENTINE"
+      - question: "The temple of Divine Augustus is located between the Capitoline and what other hill?"
+        answer: "PALATINE"
+  - tossup:
+      question: "Who dragged the corpse of Hector behind his chariot from Troy to the Greek camp?"
+      answer: "ACHILLES"
+    boni:
+      - question: "Whom had Hector killed to make Achilles so angry with him?"
+        answer: "PATROCLUS"
+      - question: "Who convinced Achilles to return the body of Hector for burial?"
+        answer: "PRIAM / PODARCES"
+  - tossup:
+      question: "Which law's passage following the original Laws of the 12 Tables was primarily a symbolic victory for the plebeians, allowing the lower classes a chance to marry into different classes, though this almost never actually happened?"
+      answer: "<latin>LĒX CANULEIA</latin>"
+    boni:
+      - question: "What was the effect of the <latin>Lēx Sacrāta</latin> for the plebeians?"
+        answer: "IT RECOGNIZED THE SACROSANCTITY OF THE (PLEBEIAN) TRIBUNES"
+      - question: "Which law is traditionally seen as the final and most consequential legal victory for the plebeians during the struggle of orders, because it gave them the right for the senate to recognize laws passed by the plebeian assembly?"
+        answer: "<latin>LĒX HORTĒNSIA</latin>"
+  - tossup:
+      question: "Give all participial forms of the verb <latin>lābor</latin>."
+      answer: "<latin>LĀBĒNS, LĀPSUS, LĀPSŪRUS, LĀBENDUS</latin>"
+    boni:
+      - question: "Translate the participial form <latin>lāpsūrus</latin>."
+        answer: "ABOUT TO / GOING TO FALL / SLIP / GLIDE"
+      - question: "Translate the participial form “<latin>lāpsus</latin>”"
+        answer: "HAVING FALLEN / SLIPPED / GLIDED"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer IN LATIN the question that follows. <latin>“Vēnātōrēs,” inquit mīles, “statim in silvam missī sunt ut hostium latebrās invenīrent. Quod cum factum esset, hostēs, quī putābant omnem exercitum nostrum iam in silvā esse, celerrimē ērūpērunt. Facillimē hostēs in fugam dedimus. Mīrābile dictū! Ducentī occīsī sunt, trīgintā hostēs manibus meīs fortissimīs ūnā hōrā captī sunt.”</latin> Question: <latin>Quās vēnātorēs sē inventurōs esse speravērunt?</latin>"
+      answer: "<latin>LATĒBRĀS / HOSTĒS</latin>"
+    boni:
+      - question: "<latin>Quid fēcērunt hostēs antequam mīlitēs eōs in fugam dedērunt?</latin>"
+        answer: "<latin>(CELERRIMĒ) ĒRŪPĒRUNT (Ē SILVĀ) / LATUĒRUNT (IN SILVĀ)</latin>"
+      - question: "<latin>Respondē Anglicē: Quot hostēs occīsī et captī sunt</latin>?"
+        answer: "230 (200 KILLED & 30 CAPTURED)"
+  - tossup:
+      question: "Using bronze castanets, Heracles drove what creatures into the air so that he could shoot them, thus completing his sixth labor?"
+      answer: "(STYMPHALIAN) BIRDS"
+    boni:
+      - question: "For his tenth labor, Heracles stole the cows of what three-bodied monster?"
+        answer: "GERYON"
+      - question: "For his eleventh labor, Heracles tricked what giant into bringing him the apples of the Hesperides?"
+        answer: "ATLAS"
+  - tossup:
+      question: "What TWO uses of the Accusative case are found in the following sentence: <latin>Classibus dēlētīs, mare nōs quīnque mēnsēs vexit.</latin>"
+      answer: "DURATION OF TIME & DIRECT OBJECT"
+    boni:
+      - question: "What use of the Ablative case can be found in this sentence: <latin>Sī duōbus mēnsibus perveniāmus, sit celerius quam cōnsilium quod deī cēpērunt.</latin>"
+        answer: "TIME WITHIN WHICH / TIME WHEN"
+      - question: "What use of the Ablative case is in found in this sentence: <latin>Vōce imperātōris audītā, nostrī omnēs fortissimē rīvum trānsiērunt</latin>."
+        answer: "ABSOLUTE"
+  - tossup:
+      question: "Give the Latin term for the Romans’ symbolic procedure prior to a wedding, which carried no legal ramifications and only featured a further promise that the bride would marry the groom?"
+      answer: "<latin>SPŌNSĀLIA</latin>"
+    boni:
+      - question: "What was the Latin term for the dowry paid by the bride’s family to the groom?"
+        answer: "<latin>DŌS</latin>"
+      - question: "Give the Latin term for the public gesture of unity or togetherness, led by the <latin>prōnuba</latin> at a wedding."
+        answer: "<latin>DEXTRĀRUM IUNCTIŌ</latin>"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from a Latin root for an animal: porpoise, mural, canary, capricious."
+      answer: "MURAL"
+    boni:
+      - question: "What derivative of a Latin word for an animal is a strong ceramic material."
+        answer: "PORCELAIN"
+      - question: "What English derivative of a Latin for “bird” means “propitious; opportune?”"
+        answer: "AUSPICIOUS"
+  - tossup:
+      question: "What emperor made Incitatus, his horse, a senator?"
+      answer: "CALIGULA / GAIUS"
+    boni:
+      - question: "Give the letter that corresponds to the statue of Caligula's uncle and successor, Claudius."
+        answer: "A"
+      - question: "Give name of and the letter that represents the emperor who wrote the <title>Meditations</title>."
+        answer: "D – MARCUS AURELIUS (ANTONINUS) / MARCUS ANNIUS VERUS"
+  - tossup:
+      question: "Give a synonym for <latin>cōnor</latin>."
+      answer: "<latin>(AT)TEMPTŌ</latin>"
+    boni:
+      - question: "Give a synonym for <latin>proficīscor</latin>."
+        answer: "<latin>DISCĒDŌ / EXEŌ /</latin> <latin>just about any verb meaning “leave” except relinquō</latin>"
+      - question: "Give a synonym for <latin>nancīscor</latin>."
+        answer: "<latin>INVENIŌ / POTIOR / REPERIŌ / OBTINEŌ / INFERŌ / QUAERO / COMPARŌ</latin> <latin>and dozens of other synonyms of “to obtain/find, incur, meet with”</latin>"
+  - tossup:
+      question: "Who was born just before his mother was visited by the Fates, who gave her a log that was linked to his life?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Who was Meleager’s mother?"
+        answer: "ALTHAEA"
+      - question: "What caused Althaea to burn the log, killing Meleager?"
+        answer: "MELEAGER KILLED HER BROTHERS (TOXEUS AND PLEXIPPUS)"
+  - tossup:
+      question: "Using the verb <latin>imperō</latin>, say in Latin: “I ordered the soldier to defend the bridge.”"
+      answer: "<latin>MĪLITĪ IMPERĀVĪ / IMPERĀBAM UT PONTEM DĒFENDERET</latin>"
+    boni:
+      - question: "Say the same sentence using <latin>iubeō</latin>."
+        answer: "<latin>MĪLITEM IUSSĪ / IUBĒBAM PONTEM DĒFENDERE.</latin>"
+      - question: "Now say in Latin using <latin>imperō</latin>, “He thinks that you ordered the soldier to defend the bridge.”"
+        answer: "<latin>PUTAT / COGITAT TĒ / VŌS IMPERĀVISSE MĪLITĪ UT PONTEM DĒFENDERET … UT MĪLES PONTEM DĒFENDERET</latin>"
+  - tossup:
+      question: "What Greek deity had the epithets <latin>Bromios</latin> meaning “thunderer” and <latin>Dithyrambus</latin> meaning “twice-born” in reference to his rebirth from Zeus’ thigh?"
+      answer: "DIONYSUS"
+    boni:
+      - question: "What Greek deity had the epithets <latin>Ergane</latin> meaning “worker” and <latin>Tritogeneia</latin>?"
+        answer: "ATHENA"
+      - question: "What Greek deity had the epithets <latin>Enosigaeos</latin> and <latin>Enosichthon</latin>, which both mean “earth-shaker”?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "Verbs such as <latin>versor</latin>, <latin>molior</latin>, and <latin>gradior</latin> are all examples of what type of verb?"
+      answer: "DEPONENT"
+    boni:
+      - question: "Give an example of a semi-deponent verb."
+        answer: "<latin>GAUDEŌ / FIDŌ / AUDEŌ / SOLEŌ</latin>"
+      - question: "Give an example of a defective verb."
+        answer: "<latin>ŌDĪ,/ MEMINĪ/ COEPĪ/ AIŌ/ INQUAM/ FOR/ QUEŌ/ QUAESŌ/ŌVŌ/    SEE A&G 206 ALL.</latin>"
+  - tossup:
+      question: "For the verb <latin>poscō</latin>, give the 1st person singular pluperfect active indicative."
+      answer: "<latin>POPOSCERAM</latin>"
+    boni:
+      - question: "Make that form subjunctive."
+        answer: "<latin>POPOSCISSEM</latin>"
+      - question: "Change that form to the Future indicative."
+        answer: "<latin>POSCAM</latin>"
+  - tossup:
+      question: "What town evaded capture by the Romans for almost a decade, until a double ringed siege around the town starved them into submission in 133 BC?"
+      answer: "NUMANTIA"
+    boni:
+      - question: "Numantia acted as the final resistance for the defeat and suppression of what tribe of Hither Spain?"
+        answer: "CELTIBERIANS"
+      - question: "Who was the final commander sent to capture Numantia after the previous three had all failed to subjugate the fortress town?"
+        answer: "(P. CORNELIUS SCIPIO) AEMILIANUS / AFRICANUS MINOR"
+  - tossup:
+      question: "What English word, meaning \"a formal agreement between governments\" is derived from the Latin verb <latin>trahō</latin>?"
+      answer: "TREATY"
+    boni:
+      - question: "What English word, meaning \"a deep pot for serving soup\" is derived from the Latin noun <latin>terra</latin>?"
+        answer: "TUREEN"
+      - question: "What English word, meaning \"capable of burning\" is derived from the Latin verb <latin>ūrō</latin>?"
+        answer: "COMBUSTIBLE"
+  - tossup:
+      question: "What deity impersonated both Mentes and Mentor in the hopes of aiding Telemachus in his search for news of his father?"
+      answer: "ATHENA / MINERVA"
+    boni:
+      - question: "Athena, in the form of Mentor, procured a boat for Telemachus, which he used to sail to what city in mainland Greece?"
+        answer: "PYLOS"
+      - question: "In Book 1 of the <title>Odyssey</title>, when Athena receives permission to encourage Telemachus to seek his father, what deity does Zeus send to extricate Odysseus from Ogygia?"
+        answer: "HERMES"

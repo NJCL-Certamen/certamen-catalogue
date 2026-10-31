@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Phobos and Deimos are the sons of which Greek god?"
+      answer: "ARES"
+    boni:
+      - question: "What do their names mean?"
+        answer: "PANIC / TERROR (PHOBOS) AND FEAR (DEIMOS)"
+      - question: "Who was the mother of Phobos and Deimos?"
+        answer: "APHRODITE"
+  - tossup:
+      question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>vulnus, opus, genus, lepus</latin>?"
+      answer: "<latin>LEPUS</latin>"
+    boni:
+      - question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>carō, virgō, multitūdō, legiō, imāgō</latin>?"
+        answer: "NONE / ALL FEMININE"
+      - question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>avis, ignis, piscis, orbis, lapis</latin>?"
+        answer: "<latin>AVIS</latin>"
+  - tossup:
+      question: "Of the words <latin>scūtum</latin>, <latin>iuvenis</latin>, <latin>rēmus</latin>, <latin>crīnis</latin>, and <latin>mēnsis</latin>, which is described in the following sentence? <latin>Hōc instrumentō</latin> <latin>nauta nāvem movēre potest</latin>"
+      answer: "<latin>RĒMUS</latin>"
+    boni:
+      - question: "... <latin>Auxiliō</latin> <latin>est mīlitī</latin> <latin>quī</latin> <latin>sē</latin> <latin>dēfendit</latin>"
+        answer: "SCŪTUM"
+      - question: "... <latin>Est rēs quae summum caput tegit</latin>"
+        answer: "CRĪNIS"
+  - tossup:
+      question: "A visitor to the island of Capri will find an inscription which thanks what Roman emperor for giving the island immortal fame by living there for most of his reign?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who convinced Tiberius to retire to Capri?"
+        answer: "SEJANUS"
+      - question: "To what other island in the Tyrrhenian Sea was Tiberius' wife Julia exiled by Augustus in A.D. 2?"
+        answer: "PANDATERIA"
+  - tossup:
+      question: "Say in Latin “On this day.”"
+      answer: "<latin>HŌC DIĒ</latin> <latin>/ HŌDIĒ</latin>"
+    boni:
+      - question: "Say in Latin “For which men.”"
+        answer: "(<latin>PRŌ</latin>) <latin>QUIBUS VIRĪS / HOMINIBUS</latin>"
+      - question: "Say in Latin “Of no sailor.”"
+        answer: "<latin>NŪLLĪUS NAUTAE</latin>"
+  - tossup:
+      question: "Which of the following was NOT situated in the Forum Romanum? Temple of Castor, Basilica Aemilia, Temple of Venus Genetrix, Temple of Concord, Porticus Deorum T"
+      answer: "OF VENUS GENETRIX"
+    boni:
+      - question: "What was the Clivus Capitolinus?"
+        answer: "ROAD UP TO/DOWN FROM CAPITOLINE HILL"
+      - question: "Where in the forum was the Miliarium Aureum?"
+        answer: "NEXT TO / BEHIND THE ROSTRA"
+  - tossup:
+      question: "What derivative of <latin>moneō, monēre</latin> is an English adjective meaning “colossal” or \"massive and long-lasting?”"
+      answer: "MONUMENTAL"
+    boni:
+      - question: "What derivative of <latin>moneō</latin> means \"to command a person or thing to appear or meet\"?"
+        answer: "SUMMON"
+      - question: "What derivative of <latin>moneō</latin> means \"a creature of abnormal shape, often large and horrifying\"?"
+        answer: "MONSTER/ MONSTROSITY"
+  - tossup:
+      question: "Give the present active plural imperative of the verb <latin>scrībō</latin>"
+      answer: "<latin>SCRĪBITE</latin>"
+    boni:
+      - question: "Give the corresponding form for the verb <latin>ferō</latin>"
+        answer: "<latin>FERTE</latin>"
+      - question: "Give the corresponding form for the verb <latin>mūniō</latin>"
+        answer: "<latin>MŪNĪTE</latin>"
+  - tossup:
+      question: "Which of the sinners in the Underworld was punished because he used a trick to return to life after Death took his life the first time?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "What trick did Sisyphus use?"
+        answer: "HE INSTRUCTED HIS <emphasis>WIFE</emphasis> (MEROPE) <emphasis>NOT TO PERFORM FUNERAL RITES</emphasis> (AND HADES WAS SO AFFRONTED THAT HE SENT SISYPHUS BACK TO TALK TO HIS WIFE)"
+      - question: "Sisyphus was also known for tying up Death. What god was eventually sent to release Death?"
+        answer: "ARES"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>\"Via ad victōriam,\" inquit medicus, \"facillima Rōmānīs aperītur. Sī</latin> <latin>pecūniam mihi dabis, castra petam, rēgem venēnō</latin> <latin>necābō.\" Cui respondit Fabricius, \"Virtūte, nōn perfidiā, hostēs vincēmus.\"</latin>  <latin>Quid voluit medicus prō</latin> <latin>officiō</latin> <latin>suō?</latin>"
+      answer: "PECŪNIAM"
+    boni:
+      - question: "Quomodō <latin>medicus rēgem interficere vult?</latin>"
+        answer: "VENĒNŌ"
+      - question: "<latin>Sententiā</latin> <latin>Fabricī, quomodō</latin> <latin>Rōmānī</latin> <latin>hostēs vincent?</latin>"
+        answer: "VIRTŪTE"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hīs verbīs: \"Gaudium certāminis\" Quae pars ōrātiōnis est \"certāminis\"?</latin>"
+      answer: "NŌMEN"
+    boni:
+      - question: "Quō <latin>cāsū</latin> <latin>est \"Certāminis\"?</latin>"
+        answer: "(CĀSŪ) GENITĪVŌ"
+      - question: "<latin>Cuius numerī</latin> <latin>est \"Certāminis\"?</latin>"
+        answer: "SINGULĀRIS"
+  - tossup:
+      question: "Which coin pictured here was struck by Brutus to commemorate the assassination of Julius Caesar?"
+      answer: "D"
+    boni:
+      - question: "Which coin pictured here was struck to remind Romans of the contributions made by Castor and Pollux?"
+        answer: "B"
+      - question: "Which coin pictured here depicts a <latin>pilleus</latin>?"
+        answer: "D"
+  - tossup:
+      question: "Who turned the king of Seriphus, Polydectes, into a stone statue?"
+      answer: "PERSEUS"
+    boni:
+      - question: "How was Perseus able to do this?"
+        answer: "HE USED THE HEAD OF MEDUSA"
+      - question: "Who became the king of Seriphus after Polydectes was petrified?"
+        answer: "DICTYS"
+  - tossup:
+      question: "Give a synonym for the verb <latin>timeō</latin>"
+      answer: "<latin>METUŌ, (RE-, SUB-) VEREOR, EX-(PER-)TIMĒSCŌ, PAVEŌ</latin>"
+    boni:
+      - question: "... for the verb <latin>bibō</latin>"
+        answer: "POTŌ, (EX)HAURIŌ"
+      - question: "... for the verb <latin>edō</latin>"
+        answer: "<latin>COMEDŌ, MANDŪCŌ, VESCOR, GUSTŌ, CŌNSŪMŌ</latin>"
+  - tossup:
+      question: "What enemy of Rome was strangled to death in the Tullianum after he was paraded in Marius’ triumphal procession?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "What father-in-law and staunch ally of Jugurtha was induced to surrender Jugurtha to the Romans?"
+        answer: "BOCCHUS"
+      - question: "What lieutenant of Marius had bribed Bocchus to betray Jugurtha?"
+        answer: "SULLA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Canēs quōs vīdimus ferōciter latrābant</latin>."
+      answer: "THE DOGS WHICH WE SAW WERE BARKING FEROCIOUSLY / LOUDLY"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Marcus, cuius avus paene mortuus est, perterritus est</latin>."
+        answer: "MARCUS, WHOSE GRANDFATHER NEARLY / ALMOST DIED, WAS (VERY) SCARED / TERRIFIED OR: MARCUS, WHOSE GRANDFATHER IS NEARLY / ALMOST DEAD, IS (VERY) SCARED / TERRIFIED"
+      - question: "Translate the following sentence into English: <latin>Mīles ā quō signum datum erat statim ad ducem cucurrit</latin>."
+        answer: "THE SOLDIER BY WHOM THE SIGNAL HAD BEEN GIVEN RAN STRAIGHT / IMMEDIATELY TO THE / HIS GENERAL"
+  - tossup:
+      question: "What son of Oeneus and Althaea joined the Argonauts when still very young?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Of what country was Meleager the prince?"
+        answer: "CALYDON(IA)"
+      - question: "Why did Artemis send a wild boar to ravage Calydon?"
+        answer: "OENEUS HAD FORGOTTEN TO INCLUDE HER IN A SACRIFICE"
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>q.v</latin>"
+      answer: "<latin>QUOD VIDE</latin> - WHICH SEE or <latin>QUANTUM VĪS</latin> - AS MUCH AS YOU WISH"
+    boni:
+      - question: "... <latin>c.v.</latin>"
+        answer: "<latin>CURRICULUM VĪTAE</latin> - RESUME / COURSE OF LIFE / LIST OF ACCOMPLISHMENTS"
+      - question: "... <latin>aet.</latin>"
+        answer: "<latin>AETĀTE</latin> - AGED / OF AGE"
+  - tossup:
+      question: "What son of a Roman king precipitated the end of the monarchy by attacking a woman?"
+      answer: "SEXTUS TARQUINIUS"
+    boni:
+      - question: "Lars Porsena's Etruscans attacked Rome's Sublician Bridge from what hill?"
+        answer: "JANICULUM"
+      - question: "How did the first Roman consul Brutus die?"
+        answer: "HE WAS KILLED <emphasis>IN BATTLE</emphasis> (BY TARQUIN’S SON ARRUNS)"
+  - tossup:
+      question: "What pair of intertwined trees reflect the transformations of Baucis and Philemon?"
+      answer: "OAK & LINDEN (WILLOW)"
+    boni:
+      - question: "What did Baucis and Philemon offer to Zeus and Hermes that earned them the good grace of the gods?"
+        answer: "HOSPITALITY / DINNER / PLACE TO REST etc."
+      - question: "What did the cottage of Baucis and Philemon become after Zeus punished their inhospitable neighbors?"
+        answer: "A TEMPLE"

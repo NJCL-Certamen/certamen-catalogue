@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What derivative of the Latin verb for “call” means “a singer”?"
+      answer: "VOCALIST"
+    boni:
+      - question: "What derivative of the Latin verb for “call” means “the act of inciting”?"
+        answer: "PROVOCATION / PROVOKING"
+      - question: "What derivative of the Latin verb for “call” means “to speak on someone’s behalf”?"
+        answer: "ADVOCATE"
+  - tossup:
+      question: "Give the accusative form of the pronoun <latin>nōs</latin>."
+      answer: "<latin>NŌS</latin> "
+    boni:
+      - question: "Change <latin>nōs</latin> to the accusative singular."
+        answer: "<latin>MĒ</latin>"
+      - question: "Give the dative forms for <latin>nōs</latin> and for <latin>mē</latin>."
+        answer: "<latin>NŌBĪS</latin>, <latin>MIHI</latin> "
+  - tossup:
+      question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>amō</latin>, <latin>amīcus</latin>, <latin>inimīcus</latin>, <latin>ambulō</latin> <latin>AMBULŌ</latin>"
+      answer: "<latin>AMBULŌ</latin>"
+    boni:
+      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>liber</latin>, <latin>līberō</latin>, <latin>lībertās</latin>, <latin>līberī</latin> <latin>LIBER</latin> "
+        answer: "<latin>LIBER</latin>"
+      - question: "Which of the following Latin words, if any, is NOT related by etymology to the others? <latin>effectus</latin>, <latin>faciō</latin>, <latin>officium</latin>, <latin>factum</latin> "
+        answer: "THEY ARE ALL RELATED"
+  - tossup:
+      question: "Who was the mother of Clytemnestra and Helen?"
+      answer: "LEDA"
+    boni:
+      - question: "To what two sons did she also give birth?"
+        answer: "CASTOR AND POLLUX / POLYDEUCES (Prompt if student says, “Dioscuri” or “Geminī”)"
+      - question: "In what form did Zeus appear to Leda?"
+        answer: "AS A SWAN"
+  - tossup:
+      question: "Give the meaning of the Latin noun <latin>potestās</latin>."
+      answer: "POWER / ABILITY / INFLUENCE / COMMAND / CONTROL / AUTHORITY / OFFICE"
+    boni:
+      - question: "of the Latin noun <latin>cīvitās</latin>."
+        answer: "CITIZENSHIP / STATE / COMMUNITY / TOWN / CITY"
+      - question: "of the Latin noun <latin>tempestās</latin>."
+        answer: "STORM / WEATHER"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Aurēlia, cui urbs placēbat, erat in Aegyptō</latin> <latin>cum familiā</latin> <latin>suā</latin> <latin>ingentī</latin> <latin>et equō</latin> <latin>suō. Tredecim lūdōs magnōs Iovis in amphitheātrō</latin> <latin>Alexandrīae spectābant. Tandem equus īrātus domum recurrere coepit. Eheu!</latin>  Question: <latin>In quō</latin> <latin>aedificiō</latin> <latin>erant lūdī</latin> <latin>magnī?</latin>"
+      answer: "<latin>(IN) AMPHITHEĀTRŌ</latin>"
+    boni:
+      - question: "<latin>Quō</latin> <latin>cucurrit equus?</latin>"
+        answer: "<latin>DOMUM</latin>"
+      - question: "<latin>Cui urbs placēbat?</latin>"
+        answer: "<latin>AURĒLIAE</latin> "
+  - tossup:
+      question: "Who waited twenty years for her husband's return from Troy?"
+      answer: "PENELOPE"
+    boni:
+      - question: "As what was Odysseus disguised when he returned to Ithaca?"
+        answer: "BEGGAR"
+      - question: "Penelope hesitated to accept the beggar as her husband Odysseus until he revealed the secret construction of what piece of furniture?"
+        answer: "THEIR (MARRIAGE) BED"
+  - tossup:
+      question: "Name the only emperor of the Julio-Claudian dynasty who had no Julian blood."
+      answer: "TIBERIUS"
+    boni:
+      - question: "Which of the parents of the emperor Caligula contributed his Julian blood?"
+        answer: "GERMANICUS / AGRIPPINA THE ELDER (AUGUSTUS’ GRANDDAUGHTER) (He actually gets it from both parents – oops!!!)"
+      - question: "Which of the parents of the emperor Claudius contributed his Julian blood?"
+        answer: "ANTONIA (MINOR) (DAUGHTER OF OCTAVIA)"
+  - tossup:
+      question: "In what code of laws was the intermarriage of patricians and plebeians forbidden?"
+      answer: "TWELVE TABLES"
+    boni:
+      - question: "What group had written the Twelve Tables in 451 & 450 BC?"
+        answer: "DECEMVIRI"
+      - question: "What law of 445 BC finally legalized marriage between patricians and plebeians?"
+        answer: "LEX CANULEIA"
+  - tossup:
+      question: "What Latin mood states a fact?"
+      answer: "INDICATIVE"
+    boni:
+      - question: "What Latin mood states a command?"
+        answer: "IMPERATIVE"
+      - question: "Say in Latin, “Sextus, I want to close the door.”"
+        answer: "<latin>VOLŌ, SEXTE, IĀNUAM CLAUDERE</latin> "
+  - tossup:
+      question: "Who, often called “the sword of Rome,” captured Syracuse after a two year siege?"
+      answer: "(M. CLAUDIUS) MARCELLUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Who is the famous gentleman drawing geometric shapes in the street during Marcellus’ invasion?"
+        answer: "ARCHIMEDES"
+      - question: "Explain why the soldiers in this picture don’t get a chance to learn much geometry from Archimedes."
+        answer: "THEY KILL HIM / HE DIES IN THE INVASION"
+  - tossup:
+      question: "From what Latin noun, with what meaning, do we derive the word “expedition”?"
+      answer: "<latin>PĒS</latin> - FOOT"
+    boni:
+      - question: "“discourage”?"
+        answer: "<latin>COR</latin> - HEART"
+      - question: "“mannerism”?"
+        answer: "<latin>MANUS</latin> - HAND"
+  - tossup:
+      question: "For the verb <latin>sum</latin>, give the present active infinitive."
+      answer: "<latin>ESSE</latin> "
+    boni:
+      - question: "Change <latin>esse</latin> to the perfect."
+        answer: "<latin>FUISSE</latin> "
+      - question: "Give the present and perfect active infinitives for the verb <latin>vehō</latin>."
+        answer: "<latin>VEHERE</latin>, <latin>VEXISSE</latin> "
+  - tossup:
+      question: "Which of the magistrates of republican Rome held office for 18 months?"
+      answer: "CENSORS"
+    boni:
+      - question: "How many censors were elected at one time?"
+        answer: "TWO"
+      - question: "After 209 BC, how often were censors elected?"
+        answer: "EVERY FIVE YEARS"
+  - tossup:
+      question: "What Latin phrase is used in English to mean “temporarily”?"
+      answer: "<latin>PRŌ</latin> <latin>TEMPORE</latin> (If student says, “Pro Tem.”, prompt for more complete answer)"
+    boni:
+      - question: "What Latin phrase is used in English to mean “for the sake of formality”?"
+        answer: "<latin>PRŌ</latin> <latin>FŌRMĀ</latin>"
+      - question: "What Latin phrase is used in English to mean “proportionally”<latin>?</latin>"
+        answer: "<latin>PRŌ</latin> <latin>RĀTĀ</latin>"
+  - tossup:
+      question: "Whom did Perseus accidentally kill with a discus?"
+      answer: "(HIS GRANDFATHER) ACRISIUS"
+    boni:
+      - question: "Who were the parents of Perseus?"
+        answer: "DANAE & ZEUS/JUPITER"
+      - question: "How had Acrisius tried to prevent the birth of Perseus?"
+        answer: "IMPRISONED DANAE (IN BRONZE TOWER/UNDERGROUND CHAMBER)"
+  - tossup:
+      question: "What winged creature was the offspring of Poseidon and Medusa?"
+      answer: "PEGASUS"
+    boni:
+      - question: "What spring did Pegasus create on Mt. Helicon with a stamp of his hoof?"
+        answer: "HIPPOCRENE"
+      - question: "Who tamed Pegasus?"
+        answer: "BELLEROPHON(TES) / HIPPONOUS / ATHENA / POSEIDON"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Ubi est ursa ferōx</latin>?"
+      answer: "WHERE IS THE FIERCE BEAR?"
+    boni:
+      - question: "<latin>Casam illīus ursae invēn</latin><latin>ī.</latin>  "
+        answer: "I’VE FOUND THAT BEAR’S HOUSE"
+      - question: "<latin>Eadem ursa aderat</latin>."
+        answer: "THE SAME BEAR WAS HERE / THERE"
+  - tossup:
+      question: "What Roman emperor was a sheik from Jordan?"
+      answer: "PHILIP THE ARAB"
+    boni:
+      - question: "What anniversary of Rome’s founding did he celebrate?"
+        answer: "1000th"
+      - question: "What future emperor, later known for his persecution of the Christians, defeated Phillip in battle in A.D. 249?"
+        answer: "(C. MESSIUS QUINTUS) DECIUS"
+  - tossup:
+      question: "What deity was also called Dis and Orcus?"
+      answer: "PLUTO / HADES"
+    boni:
+      - question: "By what name did the Romans refer to the wife of Pluto?"
+        answer: "PROSERPINA"
+      - question: "Who were the parents of Proserpina?"
+        answer: "JUPITER / JOVE & CERES"

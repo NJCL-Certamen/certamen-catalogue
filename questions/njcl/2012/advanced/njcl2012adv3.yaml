@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What author celebrates Marcus Fulvius Nobilior’s campaigns in his work <title><latin>Ambracia</latin></title>?"
+      answer: "(QUINTUS) ENNIUS"
+    boni:
+      - question: "Ennius’ most famous work, <title><latin>Annālēs</latin></title>, begins with what event?"
+        answer: "FALL OF TROY"
+      - question: "Into how many books do most scholars agree the <latin>Annālēs</latin> was divided?"
+        answer: "18"
+  - tossup:
+      question: "What name in mythology was shared by the wives of Ilus, Acrisius, Creon, and Orpheus?"
+      answer: "EURYDICE"
+    boni:
+      - question: "One Eurydice was the mother of what king of Troy by her husband Ilus?"
+        answer: "LAOMEDON"
+      - question: "Who was the son of Creon’s wife Eurydice, after whose death she hanged herself?"
+        answer: "HAEMON"
+  - tossup:
+      question: "Using a supine, say in Latin, “The thief went to Rome to steal the money.”"
+      answer: "<latin>FŪR / PRAEDŌ / LĀTRŌ Ī</latin>(V)IT / <latin>ĪBAT RŌMAM PECŪNIAM</latin> RAPTUM "
+    boni:
+      - question: "Now, using a supine, say, “The money will not be difficult to find.”"
+        answer: "<latin>PECŪNIA NŌN ERIT DIFFICILIS INVENTŪ / REPERTŪ</latin> "
+      - question: "Now say in Latin, “I don’t believe the thief will be punished.” "
+        answer: "<latin>NŌN CRĒDŌ FŪREM / PRAEDŌNEM / LĀTRŌNEM PŪNĪTUM ĪRĪ / FORE UT FŪR / PRAEDŌ / LĀTRŌ PŪNIĀTUR</latin> "
+  - tossup:
+      question: "What important port city in Hispania gave Scipio both resources and a stronghold when he captured it in 209 BC?"
+      answer: "<latin>CARTHĀGŌ NOVA</latin> / NEW CARTHAGE / CARTAGENA"
+    boni:
+      - question: "At what battle in the following year did Scipio successfully outflank Hasdrubal Barca, forcing him to withdraw from Spain?"
+        answer: "BAECULA"
+      - question: "What relatives of Scipio did the Carthaginians defeat and kill in Spain?"
+        answer: "PUBLIUS & GNAEUS (CORNELIUS) SCIPIO (HIS FATHER AND UNCLE)"
+  - tossup:
+      question: "Complete this well-known quotation from Seneca: <latin>Nōn est ad astra mollis ______.</latin>"
+      answer: "<latin>Ē TERRĪS VIA</latin> "
+    boni:
+      - question: "Complete this quotation from Catullus: <latin>Difficile est longum subitō ______.</latin> "
+        answer: "<latin>DĒPŌNER(E) AMŌREM</latin> "
+      - question: "Complete this quotation, also from Catullus: <latin>Rīsū ineptō rēs ______.</latin> "
+        answer: "<latin>INEPTIOR NŪLLA (E)ST</latin> "
+  - tossup:
+      question: "What scorned nymph refused to heal her former lover Paris as he lay dying, only to change her mind when it was too late?"
+      answer: "OENONE"
+    boni:
+      - question: "Where did Oenone make her home?"
+        answer: "MT. IDA"
+      - question: "From what Titan had Oenone learned her healing arts?"
+        answer: "RHEA"
+  - tossup:
+      question: "For the verb <latin>tundō</latin>, give the 2nd person plural, pluperfect passive subjunctive"
+      answer: "<latin>TŪNSĪ / TŪSĪ / TŪSSĪ ESSĒTIS</latin> "
+    boni:
+      - question: "Make <latin>tunsī essētis</latin> active"
+        answer: "<latin>TUTUDISSĒTIS</latin>"
+      - question: "Make <latin>tutudissētis</latin> perfect"
+        answer: "<latin>TUTUDERĪTIS</latin>"
+  - tossup:
+      question: "Translate the motto of University of Chicago, <latin>Crēscat scientia, vīta excolātur</latin>"
+      answer: "LET KNOWLEDGE GROW, LET LIFE BE ENRICHED (accept literal translations)"
+    boni:
+      - question: "Translate the motto of Northwestern University, <latin>Quaecumque sunt vēra</latin>"
+        answer: "WHAT(SO)EVER THINGS ARE TRUE / WHATEVER IS TRUE"
+      - question: "Translate the motto of Princeton University, <latin>Deī sub nūmine vīget</latin>"
+        answer: "UNDER THE GUIDANCE / (DIVINE) POWER OF GOD (S)HE/IT FLOURISHES"
+  - tossup:
+      question: "What author, according to St. Jerome, committed suicide after taking a love potion that drove him mad?"
+      answer: "(TITUS) LUCRETIUS (CARUS)"
+    boni:
+      - question: "To what man did Lucretius address his epic <title><latin>Dē Rērum Nātūrā</latin></title>?"
+        answer: "(GAIUS) MEMMIUS"
+      - question: "What author, a philosopher in his own right, did Jerome credit with revising and publishing the <title><latin>Dē Rērum Nātūrā</latin></title> after Lucretius’ death?"
+        answer: "(MARCUS TULLIUS) CICERO"
+  - tossup:
+      question: "Whose daughters were transformed into bats for foregoing the revels of Bacchus?"
+      answer: "MINYAS’"
+    boni:
+      - question: "Whose daughters produced wine, oil, and grain and were transformed into white doves by Bacchus when the Greek army tried to take them away to Troy?"
+        answer: "ANIUS’ / DORIPPE’S"
+      - question: "What Athenian king’s daughters, though told not to open a chest, opened it to find Erichthonius?"
+        answer: "CECROPS’"
+  - tossup:
+      question: "What is the Latin term for the curse that Roman children would avoid by wearing their <latin>bulla</latin>?"
+      answer: "<latin>FASCINĀTIŌ</latin>"
+    boni:
+      - question: "Give a Latin term for the playthings a Roman child would receive. "
+        answer: "<latin>LŪNULAE / CREPUNDIA</latin> "
+      - question: "What is the Latin term for the period between a child’s birth and the <latin>diēs lūstricus</latin> when he received his name?"
+        answer: "<latin>PRĪMORDIA</latin> "
+  - tossup:
+      question: "What author received his cognomen because he was a native of Carthage?"
+      answer: "TERENCE / PUBLIUS TERENTIUS AFER"
+    boni:
+      - question: "What play of Terence involves two brothers who fall in love with the courtesan Pamphila?"
+        answer: "<title><latin>ADELPHOI</latin></title>"
+      - question: "What play of Terence, whose title translates to “mother-in-law,” was so unsuccessful that the audience walked out of its first two performances?"
+        answer: "<title><latin>HECYRA</latin></title>"
+  - tossup:
+      question: "From what Latin noun with what meaning do we derive the English word “recalcitrant”?"
+      answer: "<latin>CALX</latin>, HEEL"
+    boni:
+      - question: "From what Latin noun with what meaning do we derive the English word “powder”? "
+        answer: "PULVIS, DUST"
+      - question: "From what Latin noun with what meaning do we derive the English word “coy”?"
+        answer: "<latin>QUIĒS</latin>, QUIET"
+  - tossup:
+      question: "What Syrian emperor gave Jupiter’s spot in the Pantheon to the god <latin>Sōl Invictus</latin>?"
+      answer: "ELAGABALUS / HELIOGABALUS / (VARIUS AVITUS) BASSIANUS"
+    boni:
+      - question: "What grandmother of Elagabalus acted as a surrogate for him, even openly debating in the Senate?"
+        answer: "JULIA MAESA"
+      - question: "From what town in Syria, also his birthplace, did Elagabalus import the worship of the sun god?"
+        answer: "EMESA"
+  - tossup:
+      question: "Listen carefully to the following passage about the Morini from Caesar’s Commentaries on the Gallic War, which I will read twice; then answer in LATIN the questions that follow: <latin>Dum in hīs locīs</latin> Caesar <latin>nāvium parandārum causā morātur, ex magnā</latin> parte <latin>Morinōrum ad</latin> eum <latin>lēgātī vēnērunt quī sē dē superiōris</latin> temporis <latin>cōnsiliō excūsārent</latin>. (repeat) <latin>Quī ad Caesarem vēnērunt</latin>?"
+      answer: "<latin>LĒGĀTĪ</latin>"
+    boni:
+      - question: "What contracted form does Caesar use in the first four lines of this passage, and what would its standard form be?"
+        answer: "<latin>IMPERĀSSET, IMPERĀVISSET</latin>"
+      - question: "What are two of the three reasons that Caesar gives for accepting the apology of the Morini?"
+        answer: "(1) HE DIDN’T WANT TO LEAVE AN ENEMY BEHIND HIM; (2) HE DIDN’T THINK IT WAS THE RIGHT TIME OF YEAR; (3) HE DIDN’T WANT TO POSTPONE THE INVASION OF BRITAIN (FOR SUCH A SMALL MATTER)"
+  - tossup:
+      question: "Give an antonym for the Latin verb <latin>pandō</latin>. "
+      answer: "<latin>CLAUDŌ / SAEPIŌ / CINGŌ / CIRCUMDŌ / ABDŌ</latin> "
+    boni:
+      - question: "Give a synonym for the Latin verb <latin>mentior</latin>"
+        answer: "<latin>FINGŌ / FALLŌ</latin> "
+      - question: "Give a synonym for the Latin verb <latin>secō</latin>"
+        answer: "<latin>FINDŌ / SCINDŌ / CAEDŌ</latin>"
+  - tossup:
+      question: "Lepos, <latin>venustās</latin>, and <latin>urbānitās</latin> are the central principles to what Latin author’s sometimes risqué nugatory poetry?"
+      answer: "(GAIUS VALERIUS) CATULLUS’"
+    boni:
+      - question: "What Greek author did Catullus and the neoteric poets draw on for inspiration?"
+        answer: "CALLIMACHUS"
+      - question: "What term is given to Catullus’s <latin>carmina</latin> 61 and 62, laudatory and sometimes erotic wedding songs?"
+        answer: "EPITHALAMIA"
+  - tossup:
+      question: "What was the original name of the man whom we know as Bellerophon?"
+      answer: "HIPPONOUS"
+    boni:
+      - question: "Who purified Bellerophon for his childhood murder?"
+        answer: "PROETUS"
+      - question: "Who was the wife of Proetus who, when she failed to seduce Bellerophon, accused him of trying to seduce her?"
+        answer: "STHENEBOEA / ANT(E)IA"
+  - tossup:
+      question: "What emperor depended on his <latin>praepositus ā libellīs</latin>, <latin>praepositus ab epistulīs</latin>, and <latin>praepositus ā ratiōnibus</latin> to rule?"
+      answer: "(TIBERIUS) CLAUDIUS (DRUSUS)"
+    boni:
+      - question: "Name two of the three men who filled these positions under Claudius"
+        answer: "CALLISTUS, PALLAS, NARCISSUS"
+      - question: "These freedman often did more than their job entailed. What man, a lover of Messalina, did Narcissus catch plotting against the emperor in 48 AD?"
+        answer: "(GAIUS) SILIUS"
+  - tossup:
+      question: "Give the comparative and superlative forms of the adjective <latin>arduus</latin>. "
+      answer: "<latin>MAGIS ARDUUS, MAXIMĒ ARDUUS</latin> "
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>diū</latin>"
+        answer: "<latin>DIŪTIUS, DIŪTISSIMĒ</latin>"
+      - question: "What does the superlative adverb <latin>potissimum</latin> mean?"
+        answer: "CHIEFLY / FIRST OF ALL / IN PREFERENCE TO ALL <latin>2012 NJCL CERTAMEN ADVANCED DIVISION</latin>"

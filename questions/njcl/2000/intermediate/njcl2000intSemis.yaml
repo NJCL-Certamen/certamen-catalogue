@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who was the father of Jason, the leader of the Argonauts?"
+      answer: "AESON"
+    boni:
+      - question: "Who was the mother of Jason?"
+        answer: "POLYMEDE / ALCIMEDE"
+      - question: "Who was the younger brother of Jason?"
+        answer: "PROMACHUS"
+  - tossup:
+      question: "Translate: <latin>mīrābile vīsū</latin>"
+      answer: "MIRACULOUS TO SEE"
+    boni:
+      - question: "Give the corresponding Latin form for “easy to say.”"
+        answer: "<latin>FACILE DICTŪ</latin>"
+      - question: "Using a supine, say in Latin, “Winning is difficult to do.”"
+        answer: "<latin>VINCERE / SUPERĀRE DIFFICILE EST FACTŪ</latin>"
+  - tossup:
+      question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others? engender, generic, genuine, generosity, degenerate"
+      answer: "GENUINE"
+    boni:
+      - question: "What is the Latin root of “genuine”?"
+        answer: "<latin>GENU</latin> - KNEE"
+      - question: "What is the Latin root of “genteel”?"
+        answer: "<latin>GĒNS</latin> - TRIBE, CLAN, FAMILY, RACE, NATION"
+  - tossup:
+      question: "What Roman commander avenged the disaster at Teutoburg Forest in A.D. 14-16?"
+      answer: "GERMANICUS"
+    boni:
+      - question: "Who recalled Germanicus to Rome and then sent them to the East to negotiate with the Parthian king?"
+        answer: "TIBERIUS"
+      - question: "Who was accused of poisoning Germanicus while he was in Antioch?"
+        answer: "(CN. CALPURNIUS) PISO"
+  - tossup:
+      question: "In Book XIII of Homer’s <title>Iliad</title>, who assumed the shape of Calchas and urged the Greeks to hold firm against the Trojans?"
+      answer: "POSEIDON"
+    boni:
+      - question: "What king of Crete was urged by Poseidon to arm himself and fight?"
+        answer: "IDOMENEUS"
+      - question: "Whose shape did Poseidon assume when he urged Idomeneus to fight?"
+        answer: "THOAS"
+  - tossup:
+      question: "<latin>Ad quem locum vādit māne antīquus Rōmānus ut nātet utque sē exerceat?</latin>"
+      answer: "<latin>(AD) THERMĀS / BALNEĀS</latin>"
+    boni:
+      - question: "<latin>Quō īnstrūmentō ūsi sunt Rōmānī radendō sūdōrī?</latin>"
+        answer: "<latin>STRĪGILE / -Ī</latin> (must be designated as poetic, rare)"
+      - question: "<latin>Possuntne thērmās Imperātōris Traiānī nunc vidērī Rōmae?</latin>"
+        answer: "<latin>ITA / VĒRŌ</latin>"
+  - tossup:
+      question: "What soft, Italian cheese derives its name from the Latin verb meaning “to cook”?"
+      answer: "RICOTTA"
+    boni:
+      - question: "What edible yellow-orange fruit, a favorite in making preserves, also derives its name from the same Latin verb?"
+        answer: "APRICOT"
+  - tossup:
+      question: "What leader of the Senate opposed Scipio’s plan to invade Africa?"
+      answer: "(Q.) FABIUS MAXIMUS (VERRUCOSUS) CUNCTATOR"
+    boni:
+      - question: "The Senate finally gave Scipio permission to invade, but did not permit him to do what?"
+        answer: "LEVY TROOPS"
+      - question: "In addition to the two legions already in Sicily, where did Scipio get another 7000 soldiers?"
+        answer: "VOLUNTEERS"
+  - tossup:
+      question: "What word or words would best be used to introduce the dependent subjunctive clause if the following sentence were translated into Latin: “Marcus ran into the house so that he would not be beaten by the soldiers.”"
+      answer: "<latin>NĒ</latin>"
+    boni:
+      - question: "“So great was the slaughter that very few escaped.”"
+        answer: "<latin>UT</latin>"
+      - question: "... “There is no doubt that few citizens will survive the slaughter.”"
+        answer: "<latin>QUĪN</latin>"
+  - tossup:
+      question: "What giant is eternally punished in the Underworld by having his body streched to cover nine acres while two vultures ate his heart?"
+      answer: "TITYUS"
+    boni:
+      - question: "Why was Tityus punished in the Underworld?"
+        answer: "HE TRIED TO RAPE LETO / LATONA"
+      - question: "Who was the father of Tityus?"
+        answer: "ZEUS / JUPITER"
+  - tossup:
+      question: "11"
+      answer: "(PASS OUT THE VISUALS)"
+    boni:
+      - question: "You now have 30 seconds to examine the inscription"
+        answer: "(WAIT 30 SECONDS)."
+      - question: "The visual you see is from a tombstone that was found in a Roman burial area in Colchester, England. According to the inscription, who had the inscription placed there?"
+        answer: "THE <emphasis>FREEDMEN</emphasis> OF MARCUS FAVONIUS POLLIA FACILIS / VERECUNDUS AND NOVICIUS"
+      - question: "According to the inscription, what was Marcus Favonius Pollia Facilis’specific job when he was alive?"
+        answer: "HE WAS A <emphasis>CENTURION</emphasis> OF <emphasis>LEGION</emphasis>"
+      - question: "20 What is the Latin and English for the standard abbreviation found at the end of the inscription, H.S.E.?"
+        answer: "<latin>HĪC SITUS EST / HĪC SEPULTUS EST</latin>"
+  - tossup:
+      question: "Who was married to Clodius, then Curio, and finally Mark Anthony?"
+      answer: "FULVIA"
+    boni:
+      - question: "During the Second Triumvirate how did she become very rich?"
+        answer: "THROUGH THE PROSCRIPTIONS"
+      - question: "Whom did her daughter Claudia marry briefly until the marriage was dissolved as a result of the Perusine War?"
+        answer: "OCTAVIAN"
+  - tossup:
+      question: "What huntress-warrior was the leader of the Volscians during the war between Aeneas and Turnus?"
+      answer: "CAMILLA"
+    boni:
+      - question: "Who was the father of Camilla?"
+        answer: "METABUS"
+      - question: "What Etruscan warrior killed Camilla?"
+        answer: "AR(R)UNS"
+  - tossup:
+      question: "Translate this sentence: <latin>Patriae nostrae dēfendendae causā, iter faciāmus!</latin>"
+      answer: "LET US MARCH TO DEFEND OUR COUNTRY"
+    boni:
+      - question: "Translate this sentence: <latin>Timeō nē nēmō nostram rem publicam nunc servāre possit.</latin>"
+        answer: "I FEAR THAT NOBODY CAN SAVE OUR STATE NOW"
+      - question: "Translate this sentence: <latin>Utinam plūs hērōicōrum virōrum hodiē sit.</latin>"
+        answer: "WOULD THAT THERE WERE MORE HEROIC MEN TODAY"
+  - tossup:
+      question: "According to Hesiod, which of the Olympians was the husband of Aglaea, the youngest of the Graces?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "According to Homer’s <title>Iliad</title>, who was the wife of Hephaestus?"
+        answer: "CHARIS"
+      - question: "In Homer’s <title>Odyssey,</title> who tells the story of how Aphrodite made a fool of her husband Hephaestus?"
+        answer: "DEMODOCUS"
+  - tossup:
+      question: "Which of the following does not belong because of gender: <latin>Īdūs, cāsus, dominus, incola, amātor?</latin>"
+      answer: "ĪDŪS"
+    boni:
+      - question: "... <latin>sermō, legiō, virtūs, arbor, puella</latin>?"
+        answer: "<latin>SERMŌ</latin>"
+      - question: "<latin>cor, ōs, rōbur, ōrdō, vērū</latin>?"
+        answer: "<latin>ŌRDŌ</latin>"
+  - tossup:
+      question: "The Oppius and the Cispius are projections of which of the hills of Rome?"
+      answer: "ESQUILINE"
+    boni:
+      - question: "In early times the Esquiline was used as a cemetery for whom?"
+        answer: "PAUPERS"
+      - question: "Which emperor built a huge palace complex, of which a major part was on the Esquiline?"
+        answer: "NERO (<title>DOMUS AUREA</title>)"
+  - tossup:
+      question: "What use of the subjunctive is found in the following sentence: <latin>Eī ostendit unde vēnisset et quis esset?</latin>"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: ": <latin>Castra mūnīvērunt quō facilius hostium impetūs sustinērent.</latin>"
+        answer: "PURPOSE / FINAL"
+      - question: ": <latin>Vereor nē hoc facilius sit.</latin>"
+        answer: "FEARING / SUBSTANTIVE CLAUSE OF PURPOSE"
+  - tossup:
+      question: "What title was given to the highest ranking centurion of a legion?"
+      answer: "<title>PRIMUS PILUS</title>"
+    boni:
+      - question: "What unit of the legion did the <title>primus pilus</title> command?"
+        answer: "FIRST CENTURY OF THE FIRST COHORT"
+      - question: "How many centurions were assigned to every cohort except the first?"
+        answer: "SIX"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer in ENGLISH the question that follows: <latin>Ad praemium summum referendum, discipulī, quī multōs mensēs dīligenter exercuerant, ad certāmen natiōnāle vēnērunt. Prīmō diē ubi certābant, bene respondēbant, sed aliī celerius aliīs functī sunt. Sōlī optimī celerrimīque ad ultimum diem certāminis prōgredī potuērunt.</latin>  According to the passage, why had the students practiced diligently?"
+      answer: "TO BRING BACK THE HIGHEST REWARD/HONOR"
+    boni:
+      - question: "What happened on the first day of the contest?"
+        answer: "ALL ANSWERED WELL BUT SOME PERFORMED FASTER THAN OTHERS"
+      - question: "Who could proceed to the last day of the contest?"
+        answer: "ONLY THE BEST AND FASTEST"

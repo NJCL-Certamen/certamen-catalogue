@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Roman province was located mostly in the modern countries of Morocco and Algeria?"
+      answer: "MAURETANIA"
+    boni:
+      - question: "Into what two sub-provinces did Claudius divide Mauretania upon annexing the province?"
+        answer: "CAESARIENSIS and TINGITANA"
+      - question: "The capital city of the Tingitana region was Tingis, which remains a major city in Morocco, albeit by a different name. What is that name?"
+        answer: "TANGIERS"
+  - tossup:
+      question: "Side, Merope, and Artemis were all love interests of what giant hunter in mythology?"
+      answer: "ORION"
+    boni:
+      - question: "Name Merope’s father who blinded Orion."
+        answer: "OENOPION"
+      - question: "According to other accounts, Artemis shot Orion for lying with what goddess, whose other lovers included Cleitus and Tithonus?"
+        answer: "EOS"
+  - tossup:
+      question: "Of the words <latin>faber, marmor, sors, turba</latin>, and <latin>vōx</latin>, which is being described in the following sentence? <latin>Est quā ūtimur ut loquāmur.</latin>"
+      answer: "<latin>VŌX</latin>"
+    boni:
+      - question: "Of the words <latin>faber, marmor, sors, turba</latin>, and <latin>vōx</latin>, which is being described in the following sentence? <latin>Est māteria ex quā statuae sculpuntur.</latin>"
+        answer: "<latin>MARMOR</latin>"
+      - question: "Of the words <latin>faber, marmor, sors, turba</latin>, and <latin>vōx</latin>, which is being described in the following sentence? <latin>Est quā Fortūna cōnstitit.</latin>"
+        answer: "<latin>SORS</latin>"
+  - tossup:
+      question: "For the verb <latin>ūtor</latin>, give the 2nd person plural, future, indicative form."
+      answer: "<latin>ŪTĒMINĪ</latin>"
+    boni:
+      - question: "Change <latin>utēminī</latin> to the form meaning, “you all have used.”"
+        answer: "<latin>ŪSĪ (-AE, -A) ESTIS</latin>"
+      - question: "Now make <latin>ūsī estis</latin> subjunctive, keeping all else the same."
+        answer: "<latin>ŪSĪ (-AE, -A) SĪTIS</latin>"
+  - tossup:
+      question: "What author from Sarsina wrote such dramas as <title><latin>Curculio</latin></title>, <title><latin>Vidularia</latin></title>, <title><latin>Trinummus</latin></title>, <title><latin>Mīles Glōriōsus</latin></title>, and <title><latin>Pseudolus</latin></title>?"
+      answer: "(T. MACCIUS) PLAUTUS"
+    boni:
+      - question: "What work of Plautus centered around a house that was made to look haunted?"
+        answer: "<title><latin>MOSTELLĀRIA</latin></title>"
+      - question: "What work of Plautus, based on Menander’s <title><latin>Dīs Exapaton</latin></title>, centered around twin sisters who were both courtesans?"
+        answer: "<title><latin>BACCHIDĒS</latin></title>"
+  - tossup:
+      question: "Anxiety over Roman encroachment into southern Italy prompted the town of Tarentum to seek aid from what king in Greece, who utilized his military acumen as a mercenary for foreign nations?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "Pyrrhus’ name was immortalized beyond the classical world when he found himself in a seemingly paradoxical situation.  After what victory against the Romans were Pyrrhus’ forces devastated so completely that he was forced to leave the Italian peninsula to regroup?"
+        answer: "A(U)SCULUM"
+      - question: "Knowing that he could not continue to fight against Rome with such costly victories, Pyrrhus attempted to sue for peace through what ambassador?"
+        answer: "CINEAS"
+  - tossup:
+      question: "According to Vergil, what priest of Neptune uttered the line “I fear the Greeks, even when they bear gifts,” as he cast a spear at the Trojan horse?"
+      answer: "LAOCOÖN"
+    boni:
+      - question: "Later, as Laocoön was sacrificing to Neptune, two sea-serpents appeared and killed him. What, besides the assault on the horse, was his crime?"
+        answer: "HE HAD MARRIED / HAD CHILDREN (AGAINST THE GODS’/APOLLO’S WILL)"
+      - question: "In deciding to accept the gift of the horse, the Trojans also ignored the warnings of what prophetess and daughter of Priam?"
+        answer: "CASSANDRA"
+  - tossup:
+      question: "Give the principal parts and the meaning of the Latin verb at the ultimate root of “reverence.”"
+      answer: "<latin>VEREOR, VERĒRĪ, VERITUS (SUM)</latin>- FEAR, STAND IN AWE OF / REVERE / RESPECT"
+    boni:
+      - question: "Give the principal parts and the meaning of the Latin verb at the ultimate root of “fulcrum.”"
+        answer: "<latin>FULCIŌ, FULCĪRE, FULSĪ, FULTUS / -UM</latin> - SUPPORT, SUSTAIN, PROP UP"
+      - question: "Give the principal parts and the meaning of the Latin verb at the root of “tribute.”"
+        answer: "<latin>TRIBUŌ, TRIBUERE, TRIBUĪ, TRIBŪTUS / -UM</latin> - ASSIGN, GRANT, GIVE"
+  - tossup:
+      question: "Translate the following sentence into Latin:  If the army should be conquered, the enemy would rejoice."
+      answer: "<latin>SĪ EXERCITUS SUPERĒTUR / VINCĀTUR, HOSTĒS</latin> <latin>GAUDEANT / LAETENTUR // HOSTIS GAUDEAT / LAETĒTUR</latin>"
+    boni:
+      - question: "Translate this sentence into Latin:  If the soldiers were not fighting bravely, the king would send more legions."
+        answer: "<latin>SĪ NŌN / NISI / NĪ MĪLITĒS FORTITER / AUDĀCTER PUGNĀRENT,</latin> <latin>RĒX PLŪS LEGIŌNUM MITTERET</latin>"
+      - question: "Translate this sentence into Latin using <latin>caedō</latin>:  If the legions had not been sent by the king, all the soldiers would have been killed."
+        answer: "<latin>SĪ NŌN / NISI / NĪ LEGIŌNĒS Ā/AB RĒGE MISSAE</latin> <latin>ESSENT, OMNĒS MĪLITĒS CAESĪ ESSENT</latin>"
+  - tossup:
+      question: "What Roman author wrote “<latin>difficile est saturam nōn scrībere”</latin> in the first of his 16 satires?"
+      answer: "(D. IUNIUS) JUVENAL(IS)"
+    boni:
+      - question: "Into how many books did Juvenal break his 16 satires?"
+        answer: "5"
+      - question: "What earlier satirist wrote only six satires that reflected the Stoicism of his mentor Cornutus?"
+        answer: "(A.) PERSIUS (FLACCUS)"
+  - tossup:
+      question: "Consider the sentence: <latin>Forsitan ad prōvinciam hodiē iter faciam</latin>.  What type of independent  \t\tsubjunctive can be found in that sentence."
+      answer: "POTENTIAL"
+    boni:
+      - question: "Translate that sentence."
+        answer: "MAYBE / PERHAPS I WILL / MAY / MIGHT / SHOULD MARCH / TRAVEL TO THE PROVINCE TODAY"
+      - question: "The potential subjunctive used with <latin>forsitan</latin> was originally what type of dependent subjunctive clause?"
+        answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "Change the phrase <latin>eadem magna domus</latin> to the genitive."
+      answer: "<latin>EIUSDEM MAGNAE DOMŪS / DOMĪ</latin>"
+    boni:
+      - question: "Change <latin>eadem magna supellex</latin> to the accusative."
+        answer: "<latin>EANDEM MAGNAM SUPELLECTILEM</latin>"
+      - question: "Change <latin>īdem biceps bōs</latin> to the dative plural."
+        answer: "<latin>EĪSDEM BICIPITIBUS BŌBUS /</latin>  \t\t<latin>BŪBUS</latin>"
+  - tossup:
+      question: "Who sent a breastplate and forty-nine clay ships to fulfill his duty as a suitor of Helen?"
+      answer: "CINYRAS"
+    boni:
+      - question: "What man thwarted Odysseus’ attempt to avoid going to Troy by placing his son Telemachus before his plow, forcing Odysseus to turn out of the way and thus revealing his sanity?"
+        answer: "PALAMEDES"
+      - question: "Who sent a mare as a gift to Agamemnon in an attempt to avoid going to Troy?"
+        answer: "ECHEPOLUS"
+  - tossup:
+      question: "The emperor Claudius’ interest in history led him to write several histories of neighboring peoples, but what author tutored Claudius, perhaps encouraging his interest in history?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "From what northern Italian city did Livy hail?"
+        answer: "PATAVIUM / PADUA"
+      - question: "What literary patron of the time accused Livy of <latin>Patavīnītas</latin>, Paduan provincialism?"
+        answer: "(ASINIUS) POLLIO"
+  - tossup:
+      question: "Who so impressed Lars Porsenna with his courage and sacrifice that he abandoned his siege of Rome, and all this hero had to do was burn off his right hand?"
+      answer: "(MUCIUS) SCAEVOLA ("
+    boni:
+      - question: "Identify the letter of the image that depicts the legendary heroism of Cloelia."
+        answer: "C ("
+      - question: "Identify by letter the picture that depicts a traumatic event in the life of one of Rome's first consuls."
+        answer: "D"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: \t\t<latin>Aurēlia et familia eius ad lūdōs īvērunt ut nōtissimum pugilem spectārent. Cum pugilis sē exercēbat in arēnā, adeō capta est Aurēlia ut eum adamāret. Quam ob rem, nōn poterat ā corpore huius firmissimī virī oculōs suōs āvertere.</latin> \tThe question:  Why did Aurelia and her family go to the games?"
+      answer: "TO SEE A (VERY) FAMOUS BOXER / FIGHTER // A BOXING MATCH"
+    boni:
+      - question: "What happened to Aurelia when she saw the boxer practicing?"
+        answer: "SHE FELL IN LOVE WITH HIM"
+      - question: "What was Aurelia not able to do?"
+        answer: "TURN HER EYES AWAY FROM HIM / HIS BODY / FROM THIS MOST ROBUST MAN"
+  - tossup:
+      question: "Unlike their descendants Eteocles and Polyneices, what co-rulers of Thebes shared the throne amicably, even though one preferred cattle breeding and the other preferred music?"
+      answer: "AMPHION and ZETHUS"
+    boni:
+      - question: "What mother of Amphion and Zethus had been raped by Zeus while he was disguised as a satyr?"
+        answer: "ANTIOPE"
+      - question: "What service did Amphion perform for Thebes with the aid of his lyre?"
+        answer: "BUILT / ERECTED THE WALLS (OF THE CITY)"
+  - tossup:
+      question: "What English verb meaning \"to upchuck or throw up\" is derived from a Latin noun meaning “whirlpool”?"
+      answer: "REGURGITATE"
+    boni:
+      - question: "What derivative of <latin>gurges</latin> means “a narrow cleft with steep, rocky walls, especially one through which a stream runs”?"
+        answer: "GORGE"
+      - question: "What derivative of <latin>gurges</latin> means “a grotesquely carved figure usually used as a water spout”?"
+        answer: "GARGOYLE"
+  - tossup:
+      question: "After thwarting the conspiracy of Scribonius Drusus, which emperor decided that Rome was too dangerous for him to remain and chose to flee to the island of Capri?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who was the praetorian prefect who convinced Tiberius to leave Rome and used the emperor’s absence as an opportunity to accumulate his power in Rome?"
+        answer: "SEJANUS"
+      - question: "During the reign of Augustus, Tiberius had previously fled to what famous island in the Aegean Sea in a self-imposed exile?"
+        answer: "RHODES"
+  - tossup:
+      question: "Of the so-called <latin>Novī Poētae</latin>, poets heavily influenced by the Alexandrians, who was the best known, mainly for his love affair with Lesbia?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "What contemporary author coined the term <latin>Novī Poētae</latin> to refer to poets like Catullus?"
+        answer: "(M. TULLIUS) CICERO"
+      - question: "What Latin term meaning “trifles” did Catullus use in his first poem to refer to his poems?"
+        answer: "<latin>NŪGAE</latin>"

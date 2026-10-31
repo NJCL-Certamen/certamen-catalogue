@@ -11,6 +11,9 @@ You are helping convert a source round document into the repository’s YAML for
 
 Turn a round source file such as an RTF or text dump into one or more YAML files in the project’s expected directory and schema, preserving tournament metadata, division, round name, and pseudo-formatting tags.
 
+## Model
+Please use a model no later than GPT-5
+
 ## Repository conventions
 
 - Use the project’s standard YAML schema from the existing question files.
@@ -74,6 +77,9 @@ For each round:
 
 - Identify tossup entries by their number and question/answer pattern.
 - Identify bonus entries as `B1`, `B2`, etc., or similar patterns.
+- Treat the source's paragraph/layout boundaries as authoritative: an answer may continue after a dash, semicolon, slash, or line break, and that continuation still belongs to the preceding prompt even if it appears immediately before the next prompt.
+- Audit every bonus question that begins with a dash, an all-caps phrase, an answer alternative, a Latin inflection ending, or an English gloss. Check the preceding answer in the source before accepting that text as part of the question; move answer continuations into the preceding answer and keep the next prompt clean.
+- Before finishing, trace each sequence of tossup, B1, and B2 in the source and verify that every answer (including translations, alternate forms, and inflection endings) is complete before the next prompt begins. In particular, do not let an answer to the tossup become the beginning of B1, or a B1 answer become the beginning of B2.
 - Capture:
   - tossup question
   - tossup answer
@@ -186,6 +192,7 @@ A conversion is complete only when all of the following are true:
 - Missing formatting tags for Latin text, titles, or emphasized phrases.
 - Italic text tagged as a literary title without checking its meaning.
 - Numeric answers or alternate accepted forms attached to the wrong prompt or omitted.
+- Answer text after a dash (including translations, alternate forms, and Latin endings) attached to the following bonus question instead of the preceding answer.
 - YAML parsing errors caused by unquoted colons or malformed nested lists.
 
 ## Final instruction

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Name the famous Roman historical figure who is being described by the following passage of Latin literature: <latin>Nōbilī genere nātus, fuit magnā vī et animī et corporis, sed ingeniō malō prāvōque. Huic ab adulēscentiā bella intestīna, caedēs, rapīnae, discordia cīvīlis grāta fuēre ibique iuventūtem suam exercuit.</latin>"
+      answer: "CATILINE / (L. SERGIUS) CATILINA"
+    boni:
+      - question: "The passage in the toss-up is an excerpt from a work by what author?"
+        answer: "(C.) SALLUST(IUS CRISPUS)"
+      - question: "Sallust’s <title><latin>Historiae</latin></title> is a continuation of what other author’s historical work?"
+        answer: "(L. CORNELIUS) SISENNA’S"
+  - tossup:
+      question: "Make the phrase <latin>quaedam ingēns basis</latin> genitive singular."
+      answer: "<latin>CUIUSDAM INGENTIS BASEŌS / BASIS</latin>"
+    boni:
+      - question: "Make the phrase <latin>quaedam ingēns basis</latin> genitive plural."
+        answer: "<latin>QUĀRUNDAM INGENTIUM BASEŌN / BASIUM</latin>"
+      - question: "Make the phrase <latin>quaedam ingēns basis</latin> accusative singular."
+        answer: "<latin>QUANDAM INGENTEM BASIN / BASIM / BASEM</latin>"
+  - tossup:
+      question: "What group surprised Julius Caesar on the banks of the river Sabis and nearly defeated his army in a hand-to-hand encounter in 57 BC?"
+      answer: "NERVII (PROMPT: BELGAE)"
+    boni:
+      - question: "Following the battle of the Sabis, what lieutenant of Caesar accepted the surrender of the tribes living on the western seaboard of Gaul?"
+        answer: "PUBLIUS (LICINIUS) CRASSUS"
+      - question: "Earlier in 57 BC, what tribe was the only one to sit out of a Belgic coalition against Caesar?"
+        answer: "REMI"
+  - tossup:
+      question: "Which of the following words does not belong because of mood: <latin>ferās, monērēmur, amet, venient, locūtus sim?</latin>"
+      answer: "VENIENT"
+    boni:
+      - question: "Which of the following words does not belong because of tense: <latin>velim, parcendum, amantī, iacentēs?</latin>"
+        answer: "PARCENDUM"
+      - question: "Which of the following words does not belong because of voice: <latin>veritus, locūtus, passus, fūsus?</latin>"
+        answer: "FŪSUS"
+  - tossup:
+      question: "What type of animal both suckled a child, who was discovered by hunters of King Corythus and named Telephus, and was marked by Taÿgete with Artemis’ name on its horns?"
+      answer: "DEER / HIND / DOE"
+    boni:
+      - question: "According to Euripides, Artemis substituted a deer for Iphigeneia on the altar as she was about to be sacrificed, carrying her to live among what people?"
+        answer: "TAURIANS"
+      - question: "What youth was shot by his father, whom the Erinyes had caused to go mad, because his father thought that his son was a deer or a lion?"
+        answer: "LEARCHUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer the questions that follow in ENGLISH: <latin>Intrā silvās cīvitātis Louisiānae iuxtā Novum Aurēliānēnsem inter arborēs viridēs habitābat quīdam rūsticus citharoedus nōmine Iōhannēs Bonus. Ille numquam bene legere nec scrībere scīvit, sed citharae suae perītissimē sīcut tintinnābulī canere potuit. Saepius sub arbore sedēbat diēī terendī causā. Cum aliī hominēs praeteriērunt, sibi dīcerent “Dī immortālēs! Quam mīrābilem hunc esse!”</latin> Question: Name a thing that Johannes could not do well according to the passage."
+      answer: "READ / WRITE"
+    boni:
+      - question: "What is Johannes’ guitar music compared to?"
+        answer: "(RINGING A) BELL(S)"
+      - question: "Why would he often sit under a tree?"
+        answer: "TO WASTE AWAY THE DAY"
+  - tossup:
+      question: "What man’s war-band was defeated after a short siege of the Roman Capitol in 460 BC?"
+      answer: "APPIUS HERDONIUS"
+    boni:
+      - question: "An auxiliary corps from what Etruscan city notably assisted Rome in defeating Herdonius?"
+        answer: "TUSCULUM"
+      - question: "In 504 BC, the Romans avoided Sabine aggression by accepting and conferring patrician status onto what Sabine man?"
+        answer: "APPIUS CLAUDIUS / ATTIUS CLAUSUS"
+  - tossup:
+      question: "<latin>Audī dīligenter et respondē aut Anglicē aut Latīnē: Dā nōbīs Rōmānīs numerīs annum ante Chrīstum nātum conditae Urbis secundum Varronem Reatinum.</latin>"
+      answer: "DCCLIII"
+    boni:
+      - question: "<latin>Optimē dīxtī! Nunc dā nōbīs Rōmānīs numerīs annum Annō Dominī ubi Rōma capta esset.</latin>"
+        answer: "CDLXXVI / CCCCLXXVI / CDX / CCCCX / CDLV / CCCCLV"
+      - question: "<latin>Tandem, dā nōbīs Rōmānīs numerīs annum Annō Dominī ubi nōs lūdimus hoc certāmen.</latin>"
+        answer: "MMXXI"
+  - tossup:
+      question: "<emphasis>A visual will now be shared</emphasis>. Once it is shared, you will have 10 seconds to examine it before I begin the toss-up question. TU: Identify the author and work of passage D."
+      answer: "(P. PAPINIUS) STATIUS’ <title><latin>THEBAID</latin></title>"
+    boni:
+      - question: "The name of what literary figure belongs in the blanks in both passages A and B?"
+        answer: "(C. ASINIUS) POLLIO’S"
+      - question: "Identify the author and work of passage C."
+        answer: "(P.) OVID(IUS NASO)’S <title><latin>FASTI</latin></title>"
+  - tossup:
+      question: "Translate the following sentence into English, “<latin>est difficilius adipīscī permissiōnem quam rogāre remissiōnem.</latin>”"
+      answer: "IT’S MORE DIFFICULT TO GET / OBTAIN PERMISSION THAN TO ASK (FOR) FORGIVENESS"
+    boni:
+      - question: "Now translate “<latin>Nē inspexeris in ōs equī dōnātī</latin>.”"
+        answer: "DON’T LOOK IN(TO) THE MOUTH OF A GIFT HORSE / HORSE THAT’S A GIFT // DON’T LOOK A GIFT HORSE IN THE MOUTH"
+      - question: "Say in Latin, “If only the Trojans had looked into the mouth of that very horse!”"
+        answer: "<latin>(UTINAM) TRŌIĀNĪ IN ŌS (ILLĪUS) IPSĪUS EQUĪ INSPĒXISSENT!</latin>"
+  - tossup:
+      question: "What city, in which two quarreling Heraclids named Procles and Eurysthenes established a dual kingship, was the site of Oeonus’ death at the hands of the sons of Hippocoön, the brother of Tyndareüs?"
+      answer: "SPARTA / LACEDAEMON"
+    boni:
+      - question: "Hippocoön, like Neleus, once refused to purify Heracles after he threw what man to his death from the walls of Tiryns in a fit of madness?"
+        answer: "IPHITUS"
+      - question: "What Spartan princess, a daughter of Tyndareüs, cheated on her husband Echemus, fulfilling a prophecy that all of Tyndareüs’ daughters would be unfaithful?"
+        answer: "TIMANDRA"
+  - tossup:
+      question: "Using an idiom, say in Latin, “As soon as possible, y’all should come here.”"
+      answer: "<latin>QUAM PRĪMUM HŪC VENIĀTIS (VŌ(S O)MNĒS)</latin>"
+    boni:
+      - question: "Using a correlative phrase, say in Latin, “The sooner y’all arrive, the better.”"
+        answer: "<latin>QUŌ CITIUS (AD)VENITIS (VŌ(S O)MNĒS), EŌ MELIUS</latin>"
+      - question: "Using an impersonal verb, say in Latin in two sentences, “I am sorry. Y’all came much too late.”"
+        answer: "<latin>MĒ PAENITET. SĒRIUS / TARDIUS MULTŌ VĒNISTIS (VŌ(S O)MNĒS)</latin>"
+  - tossup:
+      question: "What mythological hero’s story is the focus of works by both Varro Atacinus and Valerius Flaccus, who rewrote the original story by Apollonius of Rhodes?"
+      answer: "JASON(’S)"
+    boni:
+      - question: "What is the title of Varro Atacinus’s historical poem concerning the campaigns of Julius Caesar against Ariovistus?"
+        answer: "<title><latin>BELLUM SĒQUANĪCUM</latin></title>"
+      - question: "What work of Varro Atacinus is regarded as one of the first examples of erotic peotry in Latin?"
+        answer: "<title><latin>LEUCADIA</latin></title>"
+  - tossup:
+      question: "In the <title>Aeneid</title>, Corynaeus places the fragments of what man’s cremated bones in an urn after he was found drowned on Cumae’s shore, having rashly dared the gods to a trumpeting contest?"
+      answer: "MISENUS(’)"
+    boni:
+      - question: "Earlier in the poem, Misenus serves as a lookout when Aeneas’ crews attack what islands, where Celaeno and the other Harpies live?"
+        answer: "STROPHADES"
+      - question: "What companion of Aeneas, killed in Book 12 of the <title>Aeneid</title>, was the father of Misenus?"
+        answer: "AEOLUS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “reus”</latin>?"
+      answer: "DEFENDANT / PRISONER / CRIMINAL / PLAINTIFF / CULPRIT"
+    boni:
+      - question: "<latin>Quid Anglicē significat “lacer”</latin>?"
+        answer: "TORN / MANGLED / LACERATED / MUTILATED"
+      - question: "<latin>Quid Anglicē significat “eminus”</latin>?"
+        answer: "AT A DISTANCE / ALOOF / A SPEAR’S THROW AWAY"
+  - tossup:
+      question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quī dux exercitum Gothicum ē Galliā exēgit, tum Gallam Placidiam in mātrimōnium dūxit et prīncipātum cum Honōriō partīvit?</latin>"
+      answer: "CONSTANTIUS III / <latin>TERTIUS</latin>"
+    boni:
+      - question: "<latin>RĒSPONDĒ ANGLICĒ:</latin> <latin>Quem rēgem Gothicum, quī Placidiam in mātrimōnium coēgerat, Cōnstantius vīcit?</latin>"
+        answer: "AT(H)AULF"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quī fīlius Placidiae Cōnstantiīque prīnceps factus est post Honōriī mortem?</latin>"
+        answer: "VALENTINIAN(US) III / <latin>TERTIUS</latin>"
+  - tossup:
+      question: "Although most likely from two works on sauces and the preparation of dishes, respectively, what work of Latin literature contains a <latin>corpus</latin> of cooking recipes and is commonly attributed to a man named Marcus Gavius?"
+      answer: "<title><latin>DĒ RĒ COQUĪNĀRIĀ</latin></title>"
+    boni:
+      - question: "Although the name of the author is thought to be simply Marcus Gavius, the work is actually attributed to a Marcus Gavius with what <latin>cognōmen</latin>, which is thought to be derived from a famous gourmet at the end of the second century AD?"
+        answer: "APICIUS"
+      - question: "How many books comprise the <title><latin>Dē Rē Coquīnāriā</latin></title>?"
+        answer: "TEN"
+  - tossup:
+      question: "Which of the following nouns, if any, is not derived from the same Latin root as the others: inquest, perk, query, quarrel?"
+      answer: "QUARREL"
+    boni:
+      - question: "From what Latin noun with what meaning do we derive “queue” (spell)?"
+        answer: "<latin>CAUDA</latin> - TAIL"
+      - question: "Finally, from what two Latin words with what meanings is “rampart” derived?"
+        answer: "<latin>ANTE - BEFORE // PARŌ, PARĀRE - TO PREPARE</latin>"
+  - tossup:
+      question: "What body of water, near which a spring had formed after a thirsty man kicked a rock, was navigated after a tripod was dedicated to its half-fish god, a son of Poseidon, by the Argonauts?"
+      answer: "LAKE TRITONIS"
+    boni:
+      - question: "Who was this thirsty man, with whom the Argonauts were actually quite familiar?"
+        answer: "HERACLES"
+      - question: "According to Apollonius’ <title><latin>Argonautica</latin></title>, what Libyan shepherd killed one of the Argonauts for trying to steal his flocks and was killed by the Argonauts in return?"
+        answer: "CAPHAURUS / CEPHALION"
+  - tossup:
+      question: "You are meeting with a Latin-speaking architect about a new house. What specific part of the house is the architect discussing with you when she mentions <latin>imbricēs</latin>?"
+      answer: "THE ROOF(-TILES) / CEILING / <latin>TECTUM</latin>"
+    boni:
+      - question: "The architect next mentions <latin>opus caementicium</latin> and <latin>opus quadratum</latin>. What specific part of the house is the architect discussing when she mentions these terms?"
+        answer: "THE WALL(S) / <latin>MURĪ / PARIETĒS</latin>"
+      - question: "The house is finished and it is finally time to move in! The movers come up to you and ask where to place the <latin>arca</latin> which is filled with the money of the <latin>paterfamiliās</latin>. Give the Latin name for the room in which the <latin>arca</latin> would traditionally be placed."
+        answer: "<latin>TABLĪNUM</latin>"

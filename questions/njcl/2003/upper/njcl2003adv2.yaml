@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Whose fondness for writing comedies centering around slaves and Fortune is evident in his <title><latin>Mostellaria</latin></title>?"
+      answer: "PLAUTUS"
+    boni:
+      - question: "Which of Plautus’ comedies centers around a hilarious swaggering soldier named Pyrgopolynices?"
+        answer: "<title><latin>MĪLES GLORIŌSUS</latin></title>"
+      - question: "Which of Plautus’ comedies deals with a young spendthrift who is saved by an old friend of his father through a well-intentioned swindle?"
+        answer: "<title><latin>TRINUMMUS</latin></title>"
+  - tossup:
+      question: "What derivative of the Latin adjective <latin>aptus</latin> means \"a manner of acting which reveals one's disposition\"?"
+      answer: "ATTITUDE"
+    boni:
+      - question: "\"two of the same species\"?"
+        answer: "COUPLE"
+      - question: "\"awkward or unsuitable\"?"
+        answer: "INEPT"
+  - tossup:
+      question: "What fisherman from Anthedon ate an unfamiliar herb and was transformed into a sea god?"
+      answer: "GLAUCUS"
+    boni:
+      - question: "With what beautiful maiden did Glaucus fall in love, only to be rejected by her?"
+        answer: "SCYLLA"
+      - question: "From whom did Glaucus then seek aid, only to have his petition backfire?"
+        answer: "CIRCE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Caesar īvit Galliam victum</latin>"
+      answer: "CAESAR WENT TO CONQUER GAUL"
+    boni:
+      - question: "<latin>Vercingetorix dēcrēvit sē</latin> <latin>nōn victum īrī</latin>"
+        answer: "VERCINGETORIX DECIDED / DECREED / (THAT) HE WOULD NOT BE CONQUERED"
+      - question: "<latin>Nūllīs Gallīs parcendum est</latin>"
+        answer: "NO GAULS MUST / SHOULD BE SPARED / HE / WE MUST / SHOULD SPARE NO GAULS"
+  - tossup:
+      question: "With respect to the abbreviations <latin>H.S.</latin> and <latin>H.I.</latin>, what word is common to both?"
+      answer: "<latin>HĪC</latin>"
+    boni:
+      - question: "With respect to the abbreviations <latin>v.i.</latin> and <latin>v.s.</latin>, what word is common to both?"
+        answer: "<latin>VIDĒ</latin>"
+      - question: "With respect to the abbreviations <latin>s.a.</latin> and <latin>s.d.</latin>, what word is common to both?"
+        answer: "<latin>SINE</latin>"
+  - tossup:
+      question: "If you were walking in ancient Pompeii, in which direction would you travel to get to Stabiae?"
+      answer: "SOUTH"
+    boni:
+      - question: "If you were walking in ancient Athens, which way would you go to get to Thebes?"
+        answer: "NORTHWEST (PROMPT “NORTH”)"
+      - question: "If you were walking in ancient Helvetia, which way would you go to get to Rome?"
+        answer: "SOUTH/SOUTHEAST"
+  - tossup:
+      question: "An ancient Roman uses a time machine and arrives in San Antonio. Upon arriving, he exclaims, “<latin>tam calidum hīc est ut ōvum in viā</latin> <latin>coquere possīs</latin>”. What is the Roman trying to tell you?"
+      answer: "IT IS SO <emphasis>HOT</emphasis> HERE THAT YOU CAN <emphasis>COOK</emphasis> AN <emphasis>EGG</emphasis> ON THE <emphasis>STREET</emphasis>"
+    boni:
+      - question: "You then progress to tell this Roman “<latin>nōn est tantī</latin> <latin>momentī. crās procella coorta erit</latin>.” What is going to happen tomorrow?"
+        answer: "A STORM WILL ARISE"
+      - question: "The Roman then replies “<latin>ēheu! ictus fulminis et tonitrus mē</latin> <latin>terrent</latin>”. Of what is he afraid?"
+        answer: "BOLT OF <emphasis>LIGHTNING</emphasis> AND <emphasis>THUNDER</emphasis>"
+  - tossup:
+      question: "What son of Uranus and Gaia was considered to be the first sun god?"
+      answer: "HYPERION"
+    boni:
+      - question: "Which brother of Hyperion refused to help Cronus in his quest to seize power from their father Uranus?"
+        answer: "OCEANUS"
+      - question: "Which sister of Hyperion was said to have a memory as long as her hair?"
+        answer: "MNEMOSYNE"
+  - tossup:
+      question: "What Silver Age author regarded epigram as the humblest of all literary genres?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "For what event did Martial compose a book with about thirty epigrams originally entitled <title><latin>Epigrammaton Liber</latin></title>?"
+        answer: "OPENING OF THE COLOSSEUM"
+      - question: "Which of Martial’s works consisted of very short inscriptions which accompanied presents of varying sorts given on the occasion of the <title>Saturnalia</title>?"
+        answer: "<title><latin>XENIA</latin></title>"
+  - tossup:
+      question: "Give a synonym for the noun <latin>poena</latin>"
+      answer: "<latin>SUPPLICIUM / VERBERA / NOXA ANIMADVERSIŌ</latin> <latin>/ EXEMPLUM / CASTĪGĀTIŌ</latin> <latin>/VINDICTA / PŪNĪTIŌ</latin>"
+    boni:
+      - question: "... for the noun <latin>honor</latin>"
+        answer: "<latin>DECUS/ DIGNITĀS/ IUSTA/ SUPRĒMA</latin>"
+      - question: "... for the noun <latin>lūx</latin>"
+        answer: "<latin>LŪMEN / LUCERNA</latin>"
+  - tossup:
+      question: "What made the mares of Diomedes dangerous for Heracles to catch?"
+      answer: "THEY ATE HUMAN FLESH"
+    boni:
+      - question: "How did Heracles calm the mares?"
+        answer: "BY FEEDING THEM THE FLESH OF DIOMEDES"
+      - question: "What king of Pherae entertained Heracles while he was traveling to Thrace to capture the mares of Diomedes?"
+        answer: "ADMETUS"
+  - tossup:
+      question: "Who attempted to dispel the aristocratic propaganda that portrayed him as a revolutionary in his <title><latin>Dē</latin></title> <title><latin>Bellō</latin></title> <title><latin>Cīvīl</latin></title>ī?"
+      answer: "(C. IULIUS) CAESAR"
+    boni:
+      - question: "Which of Caesar’s works was originally titled <title><latin>Gaī</latin></title> <title><latin>Iūliī</latin></title> <title><latin>Caesaris Commentariī</latin></title> <title><latin>Rērum Gestārum</latin></title>?"
+        answer: "<title><latin>(COMMENTARIĪ) DĒ</latin></title> <title><latin>BELLŌ</latin></title> <title><latin>GALLIC</latin></title>Ō / <title>THE GALLIC WARS</title>"
+      - question: "Who completed Caesar’s commentary on the Gallic campaign?"
+        answer: "(AULUS) HIRTIUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tum lātior per viās fit pavor. Nam mīlitēs mittuntur quī</latin> <latin>virōs līberōsque in domibus latentēs extrahant. Servī</latin> <latin>dominōs, fīliī</latin> <latin>parentēs ad necem trādunt; virōs in uxōrum gremiō</latin> <latin>iugulant. Capita mortuōrum hastīs praefīxa, in Forō</latin> <latin>ostendunt.</latin>  <latin>Ubi virī</latin> <latin>iugulantur?</latin>"
+      answer: "IN GREMIŌ <latin>UXŌRUM / UXŌRIS</latin>"
+    boni:
+      - question: "Quid faciunt virī <latin>et līberī</latin> <latin>antequam extrahuntur et occīduntur?</latin>"
+        answer: "<latin>LATENT (IN DOMIBUS)</latin>"
+      - question: "<latin>Quae rēs in hastīs ostentantur?</latin>"
+        answer: "CAPITA (MORTUŌRUM) / MORTUĪ"
+  - tossup:
+      question: "What is formed by adding forms of <latin>sum, esse</latin> to the future active participle?"
+      answer: "ACTIVE / FIRST PERIPHRASTIC"
+    boni:
+      - question: "Using an idiom, how would you say in Latin “I was about to set sail”?"
+        answer: "<latin>NĀVEM SOLŪTŪRUS (-A) ERAM (FUĪ) / VĒLA DATŪRUS (-A) ERAM (FU</latin><latin>Ī)</latin>"
+      - question: "Using an idiom, how would you say in Latin “We had been about to begin battle”?"
+        answer: "<latin>PROELIUM COMMISSŪRĪ</latin> <latin>(-AE) FUERĀMUS</latin>"
+  - tossup:
+      question: "What Roman emperor closed all temples and banned all forms of pagan cults in A.D. 391?"
+      answer: "THEODOSIUS (I/ THE GREAT)"
+    boni:
+      - question: "Which of his sons did Theodosius twice leave in charge of the eastern Roman empire?"
+        answer: "ARCADIUS"
+      - question: "Which of Arcadius' ministers, a eunuch, was the most influential man in the east from A.D. 395-399?"
+        answer: "EUTROPIUS"
+  - tossup:
+      question: "What characteristic was shared by all types of animals the Romans sacrificed to the gods of the underworld?"
+      answer: "BLACK"
+    boni:
+      - question: "Which letter represents the person functioning as a priest?"
+        answer: "B"
+      - question: "This picture is one of the reliefs from which famous structure built during the reign of Augustus?"
+        answer: "ARA PACIS"
+  - tossup:
+      question: "Who authored the following lines: <latin>“Daedalus intereā</latin> <latin>Crētēn longumque perōsus</latin>  <latin>exsilium tactusque locī</latin> <latin>nātālis amōre</latin>  <latin>clausus erat pelag</latin><latin>ō. ...”</latin>"
+      answer: "(P.) OVID(IUS NASO)"
+    boni:
+      - question: "In what larger work are these lines found?"
+        answer: "<title><latin>METAMORPHOSES</latin></title>"
+      - question: "What mythological couple, in Ovid’s <title><latin>Metamorphoses</latin></title>, followed these instructions “<latin>vēlāte caput, cīnctāsque resolvite vestēs, ossaque post tergum magnae iactāte parentis”</latin>?"
+        answer: "DEUCALION & PYRRHA"
+  - tossup:
+      question: "Change the phrase <latin>alius capāx mīles</latin> to the genitive"
+      answer: "<latin>ALĪUS CAPĀCIS MĪLITIS</latin>"
+    boni:
+      - question: "Change the phrase <latin>quaedam pulchra Venus</latin> to the dative"
+        answer: "<latin>CUIDAM PULCHRAE VENERĪ</latin>"
+      - question: "Change the phrase <latin>idem vīrus</latin> to the accusative"
+        answer: "<latin>IDEM VĪRUS</latin>"
+  - tossup:
+      question: "After which victory of Hannibal was Tiberius Sempronius Longus recalled from a planned invasion of Africa to help Scipio, the father of the future Africanus, in 218 BC?"
+      answer: "TICINUS (RIVER)"
+    boni:
+      - question: "Where in the same year did Hannibal annihilate three legions under the command of Sempronius Longus?"
+        answer: "TREBIA (RIVER)"
+      - question: "Who was elected consul along with Gnaeus Servilius after the defeat of Sempronius Longus in 218 BC?"
+        answer: "(C.) FLAMINIUS"
+  - tossup:
+      question: "What did Odysseus’ crew do while he was praying to the gods on the island of Thrinacia?"
+      answer: "SLAUGHTERED THE CATTLE OF HELIUS / SUN (FOR FOOD) / HYPERION"
+    boni:
+      - question: "Which of Odysseus’ men persuaded the others to perform this act?"
+        answer: "EURYLOCHUS"
+      - question: "Helius, angered by the slaughter of his cattle, went to Zeus to demand retribution. What did he threaten to do if Zeus had refused his demand?"
+        answer: "HE WOULD TAKE HIS LIGHT DOWN TO HADES"

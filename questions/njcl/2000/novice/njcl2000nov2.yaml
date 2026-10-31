@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who was named dictator by the <title>lex Valeria</title> in 82 B.C. to “draft laws and reconstitute the state”?"
+      answer: "(L. CORNELIUS) SULLA"
+    boni:
+      - question: "Before Sulla, who was the last person to hold a Roman dictatorship?"
+        answer: "(Q.) FABIUS MAXIMUS (VERRUCOSUS) / CUNCTATOR"
+      - question: "Sulla’s reforms were all designed to establish a stable government under the control of the Senate dominated by what political party?"
+        answer: "<latin>OPTIMATES</latin>"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Surge et flecte genua tua</latin>"
+      answer: "STUDENT RISE & BEND KNEES (not necessarily at the same time)"
+    boni:
+      - question: "<latin>Surge et ambulā retro lātrāns</latin>"
+        answer: "STUDENT RISES, WALKS BACKWARDS BARKING"
+      - question: "<latin>Pulsāte leniter mēnsam manibus</latin>"
+        answer: "TWO OR MORE STUDENTS GENTLY HIT THE TABLE/DESK WITH THEIR HANDS."
+  - tossup:
+      question: "Which of the following, if any, does <emphasis>not</emphasis> belong because of its grammatical usage: <latin>ab, cum, dē, sine, prae, ad</latin>?"
+      answer: "<latin>AD</latin>"
+    boni:
+      - question: "Which of the following prepositions, if any, is <emphasis>not</emphasis> used with the accusative case: <latin>contrā, adversus, ante, extrā, prō, per</latin>?"
+        answer: "<latin>PRŌ</latin>"
+      - question: "Which of the following prepositions, if any, can be used with the genitive case: <latin>ā, circā, īnfrā, ob, tenus, ultrā</latin>?"
+        answer: "<latin>TENUS</latin>"
+  - tossup:
+      question: "Who founded the city of Thebes?"
+      answer: "CADMUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Please look at the following family tree and identify the character labeled “A”"
+        answer: "PENTHEUS"
+      - question: "For five more points, please identify the character labeled “C”"
+        answer: "ACTAEON"
+  - tossup:
+      question: "What Greek warrior was so vain that he attempted to ride to Mt. Olympus on the back of Pegasus?"
+      answer: "BELLEROPHON(TES) / HIPPONOUS"
+    boni:
+      - question: "Who was outraged by this act and caused Bellerophon to fall back down to earth?"
+        answer: "ZEUS"
+      - question: "How did Zeus cause Bellerophon’s fall?"
+        answer: "HE SENT A GADFLY WHICH STUNG PEGASUS (AND CAUSED HIM TO THROW BELLEROPHON FROM HIS BACK)"
+  - tossup:
+      question: "Make the phrase <latin>stella cadēns</latin> dative plural"
+      answer: "<latin>STELLĪS CADENTIBUS</latin>"
+    boni:
+      - question: "Change <latin>stellīs cadentibus</latin> to the accusative"
+        answer: "<latin>STELLĀS CADENTĒS (</latin>or <latin>-ĪS)</latin>"
+      - question: "Change <latin>stellās cadentēs</latin> to the most common ablative singular as if <latin>cadēns</latin> is used as a regular adjective"
+        answer: "<latin>STELLĀ CADENTĪ</latin>"
+  - tossup:
+      question: "Which emperor traveled three times to the outskirts of Rome but always returned to Capri without entering?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who had convinced Tiberius to retire to the isle of Capri in A.D. 26?"
+        answer: "SEJANUS"
+      - question: "For how many years did Tiberius rule the empire from Capri?"
+        answer: "10"
+  - tossup:
+      question: "Translate the following sentence into Latin using the verb <latin>eō, īre</latin>: At dawn, Livia and Julia will be going to Rome."
+      answer: "<latin>SŌLIS ORTŪ / PRĪMĀ LŪCE, LĪVIA ET IŪLIA RŌMAM ĪBUNT</latin>"
+    boni:
+      - question: "Translate the following sentence into Latin using the same verb and the noun <latin>domus</latin>: Livia and Julia went to Augustus’ home yesterday."
+        answer: "<latin>LĪVIA ET IŪLIA (AD) DOMUM AUGUSTĪ HĒRĪ ĪVĒRUNT / ĪĒRUNT</latin>"
+      - question: "Translate the following sentence into Latin using the same verb and the noun <latin>rūs</latin>: Livia and Julia used to go to the country everyday."
+        answer: "<latin>LĪVIA ET IŪLIA RŪS COTĪDIĒ ĪBANT</latin>"
+  - tossup:
+      question: "<latin>sedēre : sella :: dormīre</latin> : _______?"
+      answer: "<latin>LECTUS, CUBĪLE, SUBSELIUM, TORUS</latin>"
+    boni:
+      - question: "cubiculum : <latin>dormīre :: frīgidarium</latin> : _______?"
+        answer: "<latin>NATĀRE, NĀRE, LAVĀRE</latin>"
+      - question: "frīgidarium : aqua frīgida :: caldarium : ______?"
+        answer: "AQUA CAL(I)DA"
+  - tossup:
+      question: "What Latin princess became the second wife of Aeneas?"
+      answer: "LAVINIA"
+    boni:
+      - question: "Who was Aeneas’ Trojan wife whom he left behind during the evacuation?"
+        answer: "CREUSA"
+      - question: "Who was the son of Aeneas and Lavinia?"
+        answer: "SILVIUS (or ASCANIUS / IÜLUS)"
+  - tossup:
+      question: "For what purpose did the Romans use <latin>facēs, candēlae</latin>, and <latin>lucernae</latin>?"
+      answer: "LIGHT/ILLUMINATION"
+    boni:
+      - question: "Which of the terms in the toss-up is the Latin for “oil lamps?”"
+        answer: "<latin>LUCERNAE</latin>"
+      - question: "What were <latin>faces</latin>?"
+        answer: "TORCHES"
+  - tossup:
+      question: "What derivative of the Latin verb for “believe” means “a formal statement of belief?”"
+      answer: "CREED / CREDO"
+    boni:
+      - question: "“to destroy belief in?”"
+        answer: "DISCREDIT"
+      - question: "“not believing readily; disbelieving?”"
+        answer: "INCREDULOUS"
+  - tossup:
+      question: "What pasture, originally belonging to the Tarquins, was used for military musters, exercising, and meetings of the <title>comitia centuriata</title>?"
+      answer: "CAMPUS MARTIUS / FIELD OF MARS"
+    boni:
+      - question: "What circus was built there in 221 B.C.?"
+        answer: "CIRCUS FLAMINIUS"
+      - question: "Who built Rome’s first permanent theater in the Campus Martius?"
+        answer: "POMPEY (THE GREAT)"
+  - tossup:
+      question: "What interrogative particle would be used to introduce a question that expects a negative answer?"
+      answer: "<latin>NUM</latin>"
+    boni:
+      - question: "What interrogative particle would be used to introduce a question that expects an affirmative answer?"
+        answer: "<latin>NŌNNE</latin>"
+      - question: "The combination <latin>utrum</latin> and <latin>an</latin> is used to ask what type of questions?"
+        answer: "DOUBLE QUESTIONS / “EITHER OR” QUESTION"
+  - tossup:
+      question: "Why was it difficult for Heracles to kill the Nemean Lion?"
+      answer: "ITS SKIN WAS IMPENETRABLE TO WEAPONS"
+    boni:
+      - question: "How did Heracles finally kill the Nemean Lion?"
+        answer: "STRANGLED IT WITH HIS HANDS / BATTERED IT TO DEATH WITH HIS CLUB"
+      - question: "Since the skin of the Nemean Lion was invulnerable to ordinary weapons, what did Heracles use to remove the hide of the monster?"
+        answer: "NEMEAN LION’S OWN CLAWS"
+  - tossup:
+      question: "Give an antonym of <latin>ūxor</latin>."
+      answer: "<latin>MARĪTUS, VIR, CONIUNX</latin>"
+    boni:
+      - question: "Give an antonym of <latin>adulēscentia</latin>."
+        answer: "<latin>SENECTĀS, AETĀS, EXTRĒMA</latin>"
+      - question: "Give an antonym of <latin>negōtium</latin>."
+        answer: "<latin>ŌTIUM, LŪDUS</latin>"
+  - tossup:
+      question: "What abbreviation would your Latin teacher use to give you an example of a grammatical structure that you have just discussed?"
+      answer: "<latin>e.g.</latin>"
+    boni:
+      - question: "Your Latin teacher has given you three nouns that are all declined in the same manner. Instead of giving you more Latin nouns that follow that same pattern, what Latin abbreviation might your teacher use to let you know that there are several more such nouns?"
+        answer: "<latin>etc. / et al.</latin>"
+      - question: "Now, having stayed up late last night grading tests, your Latin teacher decides to tell you to go to your textbook and look up the answers on your own. What Latin abbreviation would be used to indicate that the answer to your question can be found in the “same place” as the answer to your previous question?"
+        answer: "<latin>ibid.</latin>"
+  - tossup:
+      question: "Who was strangled in the <latin>Tullianum</latin> after being paraded in Marius’ triumph?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "Name Marius’ quaestor who was procured Jugurtha’s capture"
+        answer: "(L. CORNELIUS) SULLA"
+      - question: "What ally of Jugurtha betrayed him to the Romans?"
+        answer: "(KING) BOCCHUS (OF MAURETINA)"
+  - tossup:
+      question: "Into what kinds of trees were Baucis and Philemon transformed?"
+      answer: "LIME / LINDEN & OAK"
+    boni:
+      - question: "Into what kind of tree was Cyparissus transformed?"
+        answer: "CYPRESS"
+      - question: "Into what kind of trees were the sisters of Phaethon transformed?"
+        answer: "POPLAR TREES"
+  - tossup:
+      question: "Listen carefully to this short passage, which I will read twice. Then answer in Latin the question about the passage. <latin>Rēx pulcherrimam fēminam, cui nōmen Iūlia erat, maximē amābat. Gēns Iūliae nōn erat nōbilis, quod erat plēbēia. Mōs nōn erat rēgī in mātrimōnium dūcere plēbem. Rēx suō populō dīxit, “Sine fēminā quam amō, rēx esse nōn possum.” Quem rēx amābat?</latin>"
+      answer: "<latin>IŪLIAM / FĒMINAM (PULCHERRIMAM)</latin>"
+    boni:
+      - question: "<latin>Licēbatne rēgī in mātrimōnium ducere plēbem?</latin>"
+        answer: "<latin>NŌN LICĒBAT / MINIMĒ</latin>"
+      - question: "<latin>Anglicē, quid rēx populō dīxit?</latin>"
+        answer: "I CANNOT BE KING WITHOUT THE WOMAN I LOVE"

@@ -1,0 +1,159 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give an antonym of <latin>dīvitiae</latin>"
+      answer: "<latin>PAUPERTĀS</latin>, <latin>PAUPERIĒS</latin>, <latin>EGESTĀS</latin>, <latin>INOPIA</latin>"
+    boni:
+      - question: ". . . of <latin>glōria</latin>"
+        answer: "<latin>PUDOR</latin>, <latin>DĒDECUS</latin>, <latin>VĒRĒCUNDIA</latin>, <latin>RUBOR</latin>, <latin>FLĀGITIUM</latin>, <latin>PROBRUM</latin>"
+      - question: ". . . of <latin>odium</latin>"
+        answer: "<latin>AMOR</latin>, <latin>CĀRITĀS</latin>, <latin>STUDIUM</latin>, <latin>CUPĪDITĀS</latin>"
+  - tossup:
+      question: "What was the Latin term for a charioteer?"
+      answer: "<latin>AURĪGA/AGITĀTOR</latin>"
+    boni:
+      - question: "At a chariot race, what was a <latin>spatium</latin>?"
+        answer: "A LAP"
+      - question: "At a chariot race, what was a <latin>missus</latin>?"
+        answer: "A RACE /"
+  - tossup:
+      question: "Who was protected from his father’s cannibalism by noises made by the clashing of the spears and shields of the Corybantes?"
+      answer: "ZEUS / JUPITER"
+    boni:
+      - question: "In the cave of what mountain on Crete was Zeus born?"
+        answer: "MT. IDA / MT. DICTE"
+      - question: "What goat gave nourishment to the infant Zeus?"
+        answer: "AMALTHEA"
+  - tossup:
+      question: "What Latin idiomatic phrase is used as a medical term for an autopsy?"
+      answer: "<latin>POST MORTEM</latin>"
+    boni:
+      - question: "What is the Latin expression for “at the point of death”?"
+        answer: "<latin>IN EXTRĒMĪS</latin>"
+      - question: "What is the meaning of this quotation from Seneca: <latin>ōtium sine litterīs mors est</latin>?"
+        answer: "LEISURE WITHOUT LITERATURE (LETTERS) IS DEATH."
+  - tossup:
+      question: "Give the supine forms for the verb <latin>spondeō</latin>"
+      answer: "<latin>SPONSUM, SPONSŪ</latin>"
+    boni:
+      - question: "Give the supine forms for the verb <latin>fundō</latin>"
+        answer: "<latin>FŪSUM, FŪSŪ</latin>"
+      - question: "Give the supine forms for the verb <latin>fallō</latin>"
+        answer: "<latin>FALSUM, FALSŪ</latin>"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, who informed the Greeks that Apollo would not stop the plague that had befallen the Greek camp until the return of Chryseis?"
+      answer: "CALCHAS"
+    boni:
+      - question: "Whose wrath had caused Calchas to be hesitant at first in revealing the cause of the plague?"
+        answer: "AGAMEMNON’S"
+      - question: "Who vowed that he would protect Calchas from the wrath of Agamemnon?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "What Roman biographer had a notable tendency to emphasize the scandalous details of the private lives of the emperors in his <title><latin>Dē</latin></title> <title><latin>Vītā</latin></title> <title><latin>Caesarum</latin></title>?"
+      answer: "(C.) SUETONIUS (TRANQUILLUS)"
+    boni:
+      - question: "With the life of what emperor did Suetonius conclude his <title><latin>Dē</latin></title> <title><latin>Vītā</latin></title> <title><latin>Caesarum</latin></title>?"
+        answer: "DOMITIAN"
+      - question: "Which of Suetonius’ works was a collection of biographies of writers subdivided according to their literary genres?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>VIRĪS ILLUSTRIBUS /</latin></title><title>ABOUT/ON FAMOUS MEN</title>"
+  - tossup:
+      question: "When you are recognized by the spotter, perform the following commands: ī <latin>ad iānuam et bis pulsā</latin> A STUDENT SHOULD GO TO THE DOOR AND KNOCK / POUND IT TWICE . . . <latin>surgite et, ululantēs, iungite manūs.</latin> "
+      answer: "MORE THAN ONE STUDENT SHOULD STAND AND HOLD HANDS WHILE HOWLING"
+    boni:
+      - question: "<latin>Dīc mihi Anglicē</latin> <latin>cūr gallīna viam transierit</latin>"
+        answer: "ONE STUDENT WILL SAY “TO GET TO THE OTHER SIDE” (accept any other non-standard chicken-joke like answer)"
+  - tossup:
+      question: "At public <latin>vēnātiōnēs</latin>, what emperor could be seen dressed as Hercules?"
+      answer: "COMMODUS"
+    boni:
+      - question: "Name one of the two chief conspirators of the unsuccessful assassination attempt on Commodus in A"
+        answer: "D."
+      - question: "or POMPEIANUS QUINTIANUS What city was renamed <latin>Colōnia Commodiāna</latin> by Commodus?"
+        answer: "ROME"
+  - tossup:
+      question: "What use of the ablative case can be found in the following sentence: <latin>pater iussit nōs vītā</latin> <latin>fruī</latin>?"
+      answer: "WITH THE <emphasis>DEPONENT</emphasis> VERB <latin>FRUOR</latin> / MEANS / SPECIAL <emphasis>DEPONENT</emphasis> VERBS"
+    boni:
+      - question: "What use of the ablative case can be found in the following sentence: <latin>mē</latin> <latin>metū</latin> <latin>līberā</latin>?"
+        answer: "SEPARATION"
+      - question: "What use of the ablative case can be found in the following sentence: <latin>tōtum montem hominibus complēvit</latin>?"
+        answer: "MEANS / INSTRUMENT"
+  - tossup:
+      question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō</latin> <latin>discere multa carmina scripta ā</latin> <latin>poētīs Rōmānīs</latin>  <latin>quia magistrī</latin> <latin>semper prōfitentur, ut discipulī</latin> <latin>in exāmīnātiōne bene agant,</latin>  <latin>carmina poētārum, praesertim Catullī, in memōriā</latin> <latin>tenenda esse.</latin>  <latin>Quī</latin> <latin>multa carmina composuerant?</latin>"
+      answer: "<emphasis><latin>PO</latin></emphasis><emphasis>Ē</emphasis><emphasis><latin>TAE</latin></emphasis> <latin>RŌMĀNĪ</latin>"
+    boni:
+      - question: "<latin>Cūr necesse est discipulīs carmina discere?</latin> "
+        answer: "<latin>UT BENE IN EXĀMĪNĀTIŌNE AGANT / BENE AGERE NECESSE EST</latin>"
+      - question: " <latin>Quid discipulīs facere necesse est?</latin>"
+        answer: "CARMINA IN MEMŌRIĀ <latin>TENĒRE</latin> / <latin>CARMINA DISCERE</latin>"
+  - tossup:
+      question: "Who led the mob that killed Tiberius Gracchus?"
+      answer: "SCIPIO NASICA"
+    boni:
+      - question: "In which temple had the senate held the meeting which led to this lynching?"
+        answer: "FIDES"
+      - question: "Other than Tiberius himself, who were the two original members of his land commission?"
+        answer: "GAIUS (SEMPRONIUS) GRACCHUS & CLAUDIUS PULCHER (TIBERIUS’ FATHER-IN-LAW)"
+  - tossup:
+      question: "What silver-age poet was famous for his short and witty epigrams?"
+      answer: "(M. VALERIUS) MARTIAL(IS)"
+    boni:
+      - question: "In what meter were most of Martial’s epigrams written?"
+        answer: "ELEGIAC COUPLETS"
+      - question: "Which of his works won Martial the appreciation of the emperor Titus?"
+        answer: "(<title><latin>LIBER</latin></title>) <title><latin>DĒ</latin></title> <title><latin>SPECTĀCULĪS</latin></title> / <title><latin>LIBER SPECTĀCULŌRUM</latin></title>"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> speaks these lines, which I will read as prose: <latin>“Iūnōnis gravis īra neque exsaturābile pectus</latin>  <latin>cōgunt mē, Neptūne, precēs dēscendere in omnīs”</latin> VENUS Who in the <title>Aeneid</title> speaks these lines: <latin>“nāte, mihi vītā</latin> <latin>quondam,dum vīta manēbat,</latin>  <latin>cāre magis, nāte, Īliacīs exercite fātīs,</latin>  <latin>imperiō</latin> <latin>Iovis hūc veniō, quī</latin> <latin>classibus ignem</latin>  <latin>dēpulit, et caelō</latin> <latin>tandem miserātus ab altō</latin> <latin>est.”</latin>"
+      answer: "ANCHISES"
+    boni:
+      - question: "Whom was Anchises addressing in the previous quote?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Under what Lydian queen did Heracles serve as a slave?"
+      answer: "OMPHALE"
+    boni:
+      - question: "Why did Heracles serve as a slave under Omphale?"
+        answer: "TO BE PURIFIED (FOR THE MURDER OF IPHITUS) / TO GET RID OF HIS MADNESS"
+      - question: "According to the Delphic oracle, for how long must Heracles serve Omphale in order for him to be completely purified?"
+        answer: "THREE YEARS / ONE YEAR"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from <latin>cernō</latin>? certain, crime, decree, cereal, secret CEREAL What derivative of <latin>cernō</latin> means \"to see distinctly\"?"
+      answer: "DISCERN"
+    boni:
+      - question: "What derivative of <latin>cernō</latin> means \"a person hired to keep records\"?"
+        answer: "SECRETARY"
+  - tossup:
+      question: "On the banks of which river did the Romans suffer a disastrous defeat against the Gauls in 390 BC?"
+      answer: "ALLIA"
+    boni:
+      - question: "Which Gallic tribe was this?"
+        answer: "<latin>SENŌNĒS</latin> / SENONIANS"
+      - question: "In which town did the Vestal Virgins and the <latin>flāmen Quirīnālis</latin> seek refuge when the Gauls besieged Rome?"
+        answer: "CAERE"
+  - tossup:
+      question: "What early comic writer often centered his plays on witty slaves such as Tranio and Pseudolus?"
+      answer: "(TITUS MACCIUS) PLAUTUS"
+    boni:
+      - question: "In which of his plays did he describe the misadventures of a miser named Euclio?"
+        answer: "<title><latin>AULULARIA</latin></title>"
+      - question: "What modern production maybe considered to be a compilation of Plautus’ comedies?"
+        answer: "<title>A FUNNY THING HAPPENED ON THE WAY TO THE FORUM</title>"
+  - tossup:
+      question: "Who, in an attempt to escape the stings of the constellation Scorpio, dropped his reins and lost control of his father’s chariot?"
+      answer: "PHAETHON"
+    boni:
+      - question: "According to Ovid’s <title>Metamorphoses</title>, what country in Africa got its deserts because of Phaethon’s reckless driving?"
+        answer: "LIBYA"
+      - question: "Again, according to Ovid’s <title>Metamorphoses</title>, who finally stops Phaethon’s wild ride?"
+        answer: "JUPITER"
+  - tossup:
+      question: "Translate into English: <latin>timēbat nē</latin> <latin>pecūnia invenīrētur</latin>"
+      answer: "HE WAS AFRAID THAT THE MONEY MIGHT/WOULD BE FOUND"
+    boni:
+      - question: "Translate into English: <latin>verēmur ut illa nōs videat</latin>"
+        answer: "WE FEAR THAT SHE WILL NOT SEE US / MAY NOT SEE US"
+      - question: "Translate into English: <latin>metuī</latin> <latin>nē</latin> <latin>mihi auxilium nōn ferrēs</latin>"
+        answer: "I FEARED / WAS AFRAID THAT YOU WOULD NOT BRING HELP TO ME"

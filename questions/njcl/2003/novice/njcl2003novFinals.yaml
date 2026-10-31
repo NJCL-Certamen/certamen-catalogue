@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What use of the dative case is illustrated in the following sentence: <latin>Nōmen tibi est Iūlius</latin>"
+      answer: "POSSESSION"
+    boni:
+      - question: "<latin>Marius proeliō</latin> <latin>campum lātum ēlēgit</latin>"
+        answer: "PURPOSE"
+      - question: "<latin>Multa nōbīs discenda sunt</latin>"
+        answer: "AGENCY"
+  - tossup:
+      question: "What emperor went through a quick succession of Praetorian Prefects according to the dictates of his mistress Marcia and renamed Rome \"Colonia Commodiana\"?"
+      answer: "(L. AELIUS AURELIUS) COMMODUS"
+    boni:
+      - question: "Who unsuccessfully conspired to murder Commodus in A.D. 182?"
+        answer: "(HIS SISTER) LUCILLA"
+      - question: "Who succeeded in killing Commodus?"
+        answer: "A PROFESSIONAL ATHLETE/ NARCISSUS"
+  - tossup:
+      question: "Who compared the appearance of Odysseus to that of a ram when she identified the Greek chieftains from the walls of Troy?"
+      answer: "HELEN"
+    boni:
+      - question: "For whose benefit did Helen identify the Greek chieftains?"
+        answer: "PRIAM / PODARCES"
+      - question: "Helen noted the visible absence of her brothers as she identified the Greek chieftains. Who were her brothers?"
+        answer: "DIOSCURI / CASTOR & POLLUX (POLYDEUCES)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Fīliae senātōris lūdere in campō</latin> <latin>volēbant</latin>"
+      answer: "THE SENATOR’S DAUGHTERS WANTED TO PLAY IN THE FIELD"
+    boni:
+      - question: "<latin>Quamquam pluēbat, uxor senātōris cum fīliābus exībat</latin>"
+        answer: "ALTHOUGH IT WAS RAINING, THE SENATOR’S WIFE LEFT WITH THE DAUGHTERS"
+      - question: "<latin>Fīliās fēlīciter rīdentēs audīre possum</latin>"
+        answer: "I CAN HEAR DAUGHTERS LAUGHING HAPPILY"
+  - tossup:
+      question: "The noun <latin>arma</latin> does NOT agree with which of the following adjectives? <latin>fortia, magna, haec, brevis, vetera</latin>?"
+      answer: "<latin>BREVIS</latin>"
+    boni:
+      - question: "The noun <latin>manūs</latin> does NOT agree with which of the following adjectives? <latin>haec, hās, hae, huius</latin>?"
+        answer: "<latin>HAEC</latin>"
+      - question: "Which is the only ONE of the following adjectives that agrees with the noun <latin>canum</latin>? <latin>gravem, parvum, ferōcium, ācre, magnam</latin>?"
+        answer: "<latin>FERŌCIUM</latin>"
+  - tossup:
+      question: "Whom did Julius Caesar defeat at Munda in 45 BC to eliminate the last of his opposition?"
+      answer: "POMPEY’S SONS / SEXTUS AND GNAEUS POMPEY"
+    boni:
+      - question: "Who met with Caesar on his return from Munda and assured Cicero of Caesar’s laudable intentions?"
+        answer: "(MARCUS IUNIUS) BRUTUS"
+      - question: "After Brutus became the <latin>ex officio</latin> leader of the conspiracy against Caesar, whose life did Brutus spare on the Ides of March, 44 BC?"
+        answer: "MARK <emphasis>ANTHONY</emphasis> / MARCUS <emphasis>ANTONIUS</emphasis>"
+  - tossup:
+      question: "Which of the following English words does NOT derive from a Latin word for an animal: capricious, asinine, equation, bovine, apiary?"
+      answer: "EQUATION"
+    boni:
+      - question: "From what Latin word with what meaning is “apiary” derived?"
+        answer: "<latin>APIS</latin> - BEE"
+      - question: "From what Latin word with what meaning is “capricious” derived?"
+        answer: "<latin>CAPER</latin> / <latin>CAPRA</latin> - GOAT"
+  - tossup:
+      question: "During which festival in March did Roman boys officially became men?"
+      answer: "LIBERALIA"
+    boni:
+      - question: "What two items made up the <latin>insignia puerītiae</latin>, which a boy gave up on that day?"
+        answer: "BULLA & TOGA PRAETEXTA"
+      - question: "What type of tunic did the young man wear under his new toga virilis?"
+        answer: "TUNICA RECTA"
+  - tossup:
+      question: "What two-headed dog guarded the cattle of Geryon?"
+      answer: "ORTH(R)US"
+    boni:
+      - question: "Who were the parents of Orthus, according to Hesiod?"
+        answer: "ECHIDNA & TYPH(A)ON (TYPHOEUS)"
+      - question: "Name a monster offspring of Orthus"
+        answer: "SPHINX (PHIX) / NEMEAN LION"
+  - tossup:
+      question: "Of the Latin words <latin>foris, Graecia, ātrium, rudis,</latin> and <latin>carpentum</latin>, which is described in the following Latin sentence? <latin>Est locus ubi cīvitās antīquior quam Rōma flōruit</latin>"
+      answer: "<latin>GRAECIA</latin>"
+    boni:
+      - question: "Est locus ubi compluvium invenītur"
+        answer: "ĀTRIUM"
+      - question: "Gladiātōrī <latin>dabātur quī</latin> <latin>multās victōriās accumulāverat</latin>"
+        answer: "RUDIS"
+  - tossup:
+      question: "Letter “E” points to a temple dedicated to which deity?"
+      answer: "VENUS (GENETRIX)"
+    boni:
+      - question: "What building is labeled “A”?"
+        answer: "BASILICA <emphasis>ULPIA</emphasis> OR <emphasis>OF TRAJAN</emphasis>"
+      - question: "Who commissioned the temple labeled “D”?"
+        answer: "NERVA"
+  - tossup:
+      question: "Give the comparative and superlative forms of <latin>multī</latin>"
+      answer: "<latin>PLŪRĒS, PLŪRIMĪ</latin>"
+    boni:
+      - question: "... of <latin>bene</latin>"
+        answer: "<latin>MELIUS, OPTIMĒ</latin>"
+      - question: "... of <latin>ēgregia</latin>"
+        answer: "MAGIS ĒGREGIA, MAXIMĒ <latin>ĒGREGIA</latin>"
+  - tossup:
+      question: "<latin>Dīc mihi Anglicē</latin> <latin>tē</latin> <latin>cantāre velle</latin>"
+      answer: "STUDENT SHOULD SAY, “I WANT TO SING.”"
+    boni:
+      - question: "<latin>Cantāte Anglicē</latin> <latin>\"Stellae nocte sunt magnae et clārae.\"</latin>"
+        answer: "AT LEAST TWO MUST SING \"THE STARS AT NIGHT ARE BIG AND BRIGHT.\" (Any sort of tune will do if the students do not know the song)"
+      - question: "<latin>Nunc Anglicē</latin> <latin>cantāte, omnēs, \"Dīc, potesne vidēre parvā</latin> <latin>lūce māne...\"</latin>"
+        answer: "ALL SING IN ENGLISH \"O SAY, CAN YOU SEE BY THE DAWN'S EARLY LIGHT\""
+  - tossup:
+      question: "Who was the helmsman of the Argo on the first part of its journey to Colchis?"
+      answer: "TIPHYS"
+    boni:
+      - question: "Who was the only other Argonaut who did not man the oars?"
+        answer: "ORPHEUS"
+      - question: "Name one of the seers on the Argo"
+        answer: "MOPSUS / IDMON"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer in LATIN the question about it: <latin>Marcus rem mīram duōbus frātribus suīs nārrāvit. Heri cum per viās urbis ambulābat, subitō</latin> <latin>in viā</latin> <latin>occurrit serpentī</latin> <latin>quae tria capita habēbat. “Sed semper fortis sum” inquit Marcus. “Virgā</latin> <latin>meā</latin> <latin>serpentem pulsāv</latin><latin>ī.</latin> <latin>Ūnō</latin> <latin>ictū</latin> <latin>necāta est.</latin>” <latin>Frātrēs Marcī</latin> <latin>crūdēliter cachinnāvērunt.</latin>  <latin>Quot capita habēbat serpens?</latin>"
+      answer: "TRIA"
+    boni:
+      - question: "Quō <latin>Marcus serpentem pulsāvit?</latin>"
+        answer: "VIRGĀ <latin>(SUĀ)</latin>"
+      - question: "Quālēs sunt frātrēs Marcī?"
+        answer: "CRŪDĒLĒS"
+  - tossup:
+      question: "What caused the scar on Odysseus’ thigh?"
+      answer: "A BOAR(ēS TUSK) / HUNTING ACCIDENT"
+    boni:
+      - question: "Name the person who recognized him because of that scar when he returned to Ithaca?"
+        answer: "EURYCLEIA (HIS CHILDHOOD NURSE)"
+      - question: "What did Euryclea do in her excitement at recognizing Odysseus?"
+        answer: "SHE DROPPED THE BOWL OF WATER WITH WHICH SHE HAD BEEN WASHING HIS FEET"
+  - tossup:
+      question: "Who was the primary deity worshiped at Eleusis?"
+      answer: "DEMETER / CERES"
+    boni:
+      - question: "What queen of Eleusis entertained Demeter in her house?"
+        answer: "METAN(E)IRA"
+      - question: "Under what circumstances did Demeter come to Metan(e)ira’s house?"
+        answer: "SHE WAS SEARCHING FOR PERSEPHONE / SHE HAD ABANDONED HER DIVINE DUTY IN ANGER DUE TO PERSEPHONE’S ABDUCTION / SHE WAS GRIEVING FOR THE LOSS OF PERSEPHONE"
+  - tossup:
+      question: "Translate the following sentence into Latin: \"I have received two gifts.\""
+      answer: "<latin>DUO DŌNA/ MŪNERA ACCĒPĪ</latin> <latin>/ RECĒPĪ</latin>"
+    boni:
+      - question: "\"I gave one gift to my sister.\""
+        answer: "<latin>ŪNUM (DŌNUM / Ē</latin> <latin>DŌNĪS / DŌNŌRUM) SORŌRĪ</latin> <latin>(MEAE) DEDĪ</latin> <latin>/ DŌNĀVĪ</latin>"
+      - question: "\"I will receive more gifts tomorrow.”"
+        answer: "<latin>CRĀS PLŪRA (DŌNA/MŪNERA) RECIPIAM</latin>"
+  - tossup:
+      question: "What two brothers, both victorious generals, were accused by their political enemies of accepting bribes from Antiochus the Great?"
+      answer: "LUCIUS CORNELIUS <emphasis>SCIPIO ASIATICUS</emphasis> / ASIAGENES / -US, AND PUBLIUS CORNELIUS <emphasis>SCIPIO AFRICANUS</emphasis> MAIOR"
+    boni:
+      - question: "Who was the leader of the political opposition to the Scipios?"
+        answer: "(MARCUS PORCIUS) CATO THE ELDER/PRISCUS/MAIOR/THE CENSOR"
+      - question: "At what battle had Lucius Scipio defeated Antiochus to earn the agnomen Asiaticus?"
+        answer: "MAGNESIA / MT. SIPYLUS"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from <latin>ambō</latin>? amble, ambiance, ambition, ambiguous?"
+      answer: "AMBLE"
+    boni:
+      - question: "From what Latin verb, with what meaning, is “amble” derived?"
+        answer: "<latin>AMBULŌ</latin>, WALK"
+      - question: "What derivative of <latin>ambulō</latin> means \"sleepwalker\"?"
+        answer: "SOMNAMBULIST"

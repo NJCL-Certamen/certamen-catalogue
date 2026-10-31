@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Say in Latin: “be be led”"
+      answer: "<latin>DŪCĪ</latin>"
+    boni:
+      - question: "Now say in Latin: “to be about to buy.”"
+        answer: "<latin>ĒMPTŪRUS / -A / -UM ESSE</latin>"
+      - question: "Now in Latin, “to have lifted.”"
+        answer: "<latin>LEVĀVISSE / SUSTULISSE</latin>"
+  - tossup:
+      question: "What jealous spouse trapped Ares and Aphrodite in a net while they were in bed?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "Who repaid the dowry for Aphrodite to Hephaestus so that he would free her from the net?"
+        answer: "POSEIDON"
+      - question: "Who looked down on the naked Aphrodite while she was trapped, saying that it might be  worth it to be trapped like this as long as he was with her?"
+        answer: "HERMES"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the same Latin root as the  others: fictitious, office, sacrifice, effectual, benefit?"
+      answer: "FICTITIOUS"
+    boni:
+      - question: "Which of the following words, if any, is NOT derived from the same Latin root as the  others: relief, elevator, relevant, levy?"
+        answer: "NONE (ALL FROM <latin>LEVIS)</latin>"
+      - question: "Which of the following words, if any, is NOT derived from the same Latin root as the  others: residue, president, assess, recess?"
+        answer: "RECESS"
+  - tossup:
+      question: "What emperor, heavily influenced by his mother, Julia Soemias, was worshiped as a sun  god?"
+      answer: "(MARCUS AURELIUS ANTONINUS) ELAGABALUS /  (VARIUS AVITUS) BASSIANUS"
+    boni:
+      - question: "From what Syrian city did Elagabalus originate?"
+        answer: "EDESSA"
+      - question: "Who was the mother of Julia Soemias who exerted influence on two Roman emperors, both  her grandsons?"
+        answer: "JULIA MAESA"
+  - tossup:
+      question: "Translate the following sentence into Latin: “To where had the dogs gone?”"
+      answer: "<latin>QUŌ CANĒS Ī(V)ERANT?</latin>"
+    boni:
+      - question: "Translate this sentence: “If you are sick, do not play in the arena.”"
+        answer: "<latin>SĪ AEGER ES(TIS), NŌLĪ(TE) IN ARĒNĀ LŪDERE /   CAVĒ(TE) (NĒ) IN ARĒNĀ LŪDĀ(TI)S / NĒ IN ARĒNĀ LŪSERIS(/-ITIS))</latin>"
+      - question: "Using <latin>loquor</latin>, translate this sentence into English: “Both the teacher and the poet were  speaking.”"
+        answer: "<latin>ET MAGISTER ET POĒTA LOQUĒBANTUR</latin>"
+  - tossup:
+      question: "What goddess, upon the death of her son Memnon, shed tears that became the dew that  accompanies the dawn, of which she was the goddess?"
+      answer: "EOS/AURORA"
+    boni:
+      - question: "What brother of Priam was the father of Memnon?"
+        answer: "TITHONUS"
+      - question: "Into what was Tithonus transformed?"
+        answer: "GRASSHOPPER"
+  - tossup:
+      question: "Give the comparative and superlative of <latin>senex.</latin>"
+      answer: "<latin>SENIOR / MAIOR NĀTŪ</latin> and <latin>MAXIMUS NĀTŪ</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>humilis</latin>."
+        answer: "<latin>HUMILIOR</latin> & <latin>HUMILLIMUS</latin>"
+      - question: "Give the comparative and superlative forms of <latin>bene</latin>."
+        answer: "<latin>MELIUS</latin> & <latin>OPTIMĒ</latin>"
+  - tossup:
+      question: "What term describes the act of a <latin>paterfamiliās</latin> raising a newborn child into his arms,  acknowledging the baby as his own?"
+      answer: "<latin>SUSCEPTIŌ</latin>"
+    boni:
+      - question: "For a newborn girl, how many days were the <latin>prīmōrdia</latin>?"
+        answer: "EIGHT"
+      - question: "What was a child called during this time?"
+        answer: "<latin>PŪPA / PŪPUS</latin>"
+  - tossup:
+      question: "Who got a whole sea named after him because he jumped off a cliff to his death when he  saw black sails on returning ships?"
+      answer: "AEGEUS"
+    boni:
+      - question: "Who forgot to change the sails to indicate victory?"
+        answer: "THESEUS"
+      - question: "What rebellious brother of Aegeus had Theseus helped Aegeus to defeat?"
+        answer: "PALLAS"
+  - tossup:
+      question: "(WHEN ALL OF THE VISUALS HAVE BEEN PASSED OUT SAY...)  Now open your visuals.   (WAIT UNTIL ALL VISUALS ARE OPENED)  Which of these images is most appropriately described by the phrase <latin>in flagrante   dēlictō</latin>?"
+      answer: "A"
+    boni:
+      - question: "Which commonly used Latin phrase most appropriately describes the situation depicted in  image B?"
+        answer: "<latin>IN VITRŌ</latin>"
+      - question: "Which commonly used Latin phrase most appropriately describes the situation depicted in  image D and means “from start to finish”?"
+        answer: "<latin>AB ŌVŌ ŪSQUE AD MĀLA</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dum hominēs dormiunt, animālia noctem  capiēbant.</latin>"
+      answer: "WHILE MEN WERE SLEEPING, ANIMALS SEIZED THE NIGHT."
+    boni:
+      - question: "Translate the following sentence into English: <latin>Mulier putat mare pulchrum esse.</latin>"
+        answer: "THE WOMAN THINKS THAT THE SEA IS BEAUTIFUL/  THAT A BEAUTIFUL SEA EXISTS."
+      - question: "Translate the following sentence into English: <latin>Ut nūntius cucurrerat, ita currēs.</latin>"
+        answer: "AS THE MESSENGER HAD RUN, SO WILL YOU RUN"
+  - tossup:
+      question: "Constantine became the sole ruler of the Roman Empire after he defeated Licinius at what  battle in 324 AD?"
+      answer: "(BATTLE OF) CHRYSOPOLIS"
+    boni:
+      - question: "Where in the following year did Constantine summon a council of bishops to settle the  theological question raised by the Alexandrian priest, Arius?"
+        answer: "NICAEA"
+      - question: "After Constantine’s death in 337 AD, the empire was divided between his three sons. Which of Constantine’s heirs survived the longest?"
+        answer: "CONSTANTIUS II"
+  - tossup:
+      question: "Translate the phrase “a few young men” into Latin for the following sentence: “He was not  able to persuade a few young men to vote for the candidate.”"
+      answer: "<latin>PAUCĪS IUVENIBUS (VIRĪS)</latin>"
+    boni:
+      - question: "Translate “thief” into Latin for the following sentence: “The candidate was called a thief by  the young men."
+        answer: "<latin>FŪR</latin>"
+      - question: "Translate “them” into Latin for the following sentence: “It pleases them to vote for the  other candidate.”"
+        answer: "<latin>ILLĪS / ISTĪS / EĪS</latin>"
+  - tossup:
+      question: "Complete the following analogy with ONE Latin verb: <latin>surgō:cadō:: cupiō:____</latin>"
+      answer: "<latin>NŌLŌ etc.</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>et:sed :: quamquam:____</latin>"
+        answer: "<latin>QUOD / QUIA / NAM / ENIM</latin>"
+      - question: "Complete the following analogy: <latin>ovis:ariēs :: vacca :____</latin>"
+        answer: "<latin>BŌS / TAURUS</latin>"
+  - tossup:
+      question: "Who identified man as one who walks on four legs in the morning, two legs at midday and  three legs in the evening?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Whose hand in marriage and the throne of what city was his prize?"
+        answer: "THE HAND OF JOCASTA & THRONE OF THEBES"
+      - question: "To where did Oedipus retire after he blinded himself and fled Thebes?"
+        answer: "COLONUS"
+  - tossup:
+      question: "What city was destroyed in 146 BC by the Roman general Lucius Mummius?"
+      answer: "CORINTH"
+    boni:
+      - question: "What province, comprised mostly of the Greek mainland, was formed after the destruction  of Corinth?"
+        answer: "HAEA"
+      - question: "What other city was razed in the year 146 BC by Scipio Aemelianus?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "When you are recognized, please perform the following command: <latin>tolle ambās manūs  super caput et clāmā Anglicē: “vincēns!”</latin>"
+      answer: "STUDENT SHOULD RAISE BOTH HANDS ABOVE HIS/HER HEAD AND SHOUT:  “(WHILE) WINNING!”"
+    boni:
+      - question: "<latin>Surgite omnēs et cantāte Anglicē: “Salvē! potesne mē audīre?”  (ALL STUDENTS SHOULD STAND AND SING, “HELLO! CAN YOU HEAR ME?</latin>"
+        answer: "<latin>”)</latin>"
+      - question: "<latin>Vertite bis et cantāte Anglicē carmen nomine “Marīae erat agnillus.”</latin>"
+        answer: "<latin>(ALL STUDENTS SHOULD TURN AROUND TWICE AND SING IN   ENGLISH “MARY HAD A LITTLE LAMB”)</latin>"
+  - tossup:
+      question: "What city was captured by Lucullus in 69 BC after a battle lasting only a few minutes?"
+      answer: "TIGRANOCERTA"
+    boni:
+      - question: "What Armenian king did Lucullus defeat?"
+        answer: "TIGRANES (I)"
+      - question: "What commander replaced Lucullus in the conflict against Mithridates?"
+        answer: "POMPEY (THE GREAT) / (GNAEUS) POMPEIUS (MAGNUS)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice and answer IN  ENGLISH, the question that follows:  <latin>lupus porcum parvum cēperat et domum fugiēbat ubi leō eum oppugnāvit et porcum rapuit.  Lacrimāns, lupus sibi dīxit, “ēheu, quod sum fortior quam porcus, rapere porcum potuī sed leō, quī  est etiam fortior quam ego, porcum ā mē rapuit. Vērē fortūna fortiōrēs adiuvat.”</latin> (repeat) The question: Who stole the piglet from the wolf?"
+      answer: "<latin>THE LION</latin>"
+    boni:
+      - question: "Where was the wolf going with the piglet when accosted by the lion?"
+        answer: "<latin>HOME</latin>"
+      - question: "What does the wolf conclude based on these events?"
+        answer: "<latin>FORTUNE IS ON THE SIDE OF THE STRONG</latin>"
+  - tossup:
+      question: "What mythologized siblings dragged their mother to a festival because there was no other  transportation?"
+      answer: "BITON & CLEOBIS"
+    boni:
+      - question: "Who was dragged to this festival of Hera?"
+        answer: "CYDIPPE"
+      - question: "Everyone praised her sons for their act of devotion. How did the gods reward them?"
+        answer: "THEY DIED IN THEIR SLEEP  (HAVING BEEN PRAISED AND AVOIDING ALL OF LIFE’S FUTURE TROUBLES)"

@@ -1,0 +1,323 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What Silver Age epic poet from the reign of Domitian wrote a book of smaller poems called <title><latin>Silvae</latin></title>?"
+      answer: "(PUBLIUS PAPINIUS) STATIUS"
+    boni:
+      - question: "Name Statius’ two extant epics"
+        answer: "<title>ACHILLEID</title>+<title>THEBAID</title> (<title><latin>ACHILLEIS</latin></title><latin>+</latin><title><latin>THEBAIS</latin></title>)"
+      - question: "What epicist from a generation before wrote what he called an anti-<title>Aeneid</title>, which is considered the most original Silver Age epic?"
+        answer: "(MARCUS ANNAEUS) LUCAN(US)"
+  - tossup:
+      question: "In temporal clauses implying intention or expectancy, what tense and mood follow <latin>dum</latin> and <latin>quoad</latin>?"
+      answer: "PRESENT OR IMPERFECT SUBJUNCTIVE"
+    boni:
+      - question: "In clauses stating an actual fact in past time, what tense and mood follow <latin>donec</latin> and <latin>quoad</latin>?"
+        answer: "PERFECT INDICATIVE"
+      - question: "When <latin>dum</latin>, <latin>donec</latin>, and <latin>quoad</latin> mean “as long as,” what mood do they take?"
+        answer: "INDICATIVE"
+  - tossup:
+      question: "In order to avoid a two-front war, on whom did Septimius Severus confer the title “Caesar”?"
+      answer: "(DECIMUS CLODIUS) ALBINUS"
+    boni:
+      - question: "What three major provinces did Septimius concede to Albinus?"
+        answer: "SPAIN, GAUL, BRITAIN"
+      - question: "On what general did Septimius then focus with his Danubian troops?"
+        answer: "(GAIUS) PESCENNIUS / NIGER (IUSTUS)"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> speaks these words “<latin>Fās omne est, Cytherēa, meīs tē fīdere rēgnīs, unde genus ducis</latin>”?"
+      answer: "NEPTUNE / NEPTUNUS"
+    boni:
+      - question: "At the end of this speech Neptune says, “<latin>Ūnus erit tantum āmissum quem gurgite quaerēs; ūnum prō multīs dabitur caput</latin>.” Who is the <latin>ūnus</latin> to whom Neptune refers?"
+        answer: "PALINURUS"
+      - question: "In what book of the <title>Aeneid</title> does Neptune say these words?"
+        answer: "5"
+  - tossup:
+      question: "What use of the infinitive is commonly found in historical narration as a substitute for the imperfect indicative?"
+      answer: "HISTORICAL"
+    boni:
+      - question: "In what case is the subject of the historical infinitive?"
+        answer: "NOMINATIVE"
+      - question: "What use of the infinitive is found in the following line from Vergil’s Aeneid? <latin>“Mēne inceptō dēsistere victam”</latin>"
+        answer: "EXCLAMATION / EXCLAMATORY"
+  - tossup:
+      question: "What prince of the <latin>Marcomannī</latin> refused to assist Arminius, or Herman the German, against the Romans in 9 A.D.?"
+      answer: "MAROBODUUS"
+    boni:
+      - question: "Maroboduus was eventually forced to flee to Italy for Roman protection. In what city did the Romans keep him?"
+        answer: "RAVENNA"
+      - question: "Who finally defeated Arminius?"
+        answer: "(DRUSUS) GERMANICUS"
+  - tossup:
+      question: "From what Latin noun is the English word “cosine” derived?"
+      answer: "<latin>SINUS</latin>"
+    boni:
+      - question: "“cousin”?"
+        answer: "<latin>SOROR</latin> (N.B. Prompt, “take it back further,” if <latin>CŌNSOBRĪNUS</latin> is given)"
+      - question: "“coward”?"
+        answer: "<latin>CAUDA</latin>"
+  - tossup:
+      question: "What lawgiver and son of Zeus and Europa was a judge in Elysium along with Minos and Aeacus?"
+      answer: "RHADAMANTHYS"
+    boni:
+      - question: "How were Minos and Rhadamanthys related?"
+        answer: "SIBLINGS / BROTHERS"
+      - question: "Aeacus lived on an island without companions until he prayed to his father Zeus. How did Zeus answer his prayer?"
+        answer: "TURNED THE ANTS INTO PEOPLE"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quid per vēnās corporis hūmānī fluit?</latin>"
+      answer: "CRUOR / SANGUIS"
+    boni:
+      - question: "<latin>Quid flentī ex lateribus oculōrum perfluit?</latin>"
+        answer: "FLĒTUS / LACRIMA(E)"
+      - question: "<latin>Quae pars corporis tuī super oculōs posita saepe significat superbiam et arrogantiam?</latin>"
+        answer: "SUPERCILIUM / SUPERCILIA"
+  - tossup:
+      question: "Among Rhegium, Messana, Drepanum and Lilybaeum, which is not in Sicily?"
+      answer: "RHEGIUM"
+    boni:
+      - question: "Among Tarracina, Brundisium, Tarentum, and Beneventum, which is not along the Via Appia?"
+        answer: "TARRACINA"
+      - question: "Among Bithynia, Pontus, Galatia, and Cyrene, which is not in Asia Minor?"
+        answer: "CYRENE"
+  - tossup:
+      question: "What Roman author of the <latin>fabula praetexta</latin> <title><latin>Brūtus</latin></title> wrote tragedies coined the phrase <latin>ōderint dum metuant</latin>?"
+      answer: "(LUCIUS) ACCIUS"
+    boni:
+      - question: "What emperor later used the phrase <latin>ōderint dum metuant</latin> as slogan?"
+        answer: "CALIGULA / GAIUS"
+      - question: "What slightly older tragedian, a rival of Accius, was related to Ennius?"
+        answer: "(MARCUS) PACUVIUS"
+  - tossup:
+      question: "As we all know, Latin abbreviations are common throughout medicine. How often should a medication be taken if the prescription contains the abbreviation <latin>omn. bid.,</latin> which stands for “<latin>omnī bīduō</latin>”?"
+      answer: "EVERY TWO DAYS"
+    boni:
+      - question: "When should a medication be taken that is labeled <latin>a.j.</latin>?"
+        answer: "BEFORE BREAKFAST (<latin>ANTE IENTĀCULUM</latin>)"
+      - question: "Another abbreviation, once used by apothecaries as an instruction to their apprentices, is <latin>n.t.s.n,</latin> which stands for “<latin>nē trādās sine nummō</latin>”? What does this abbreviation mean?"
+        answer: "(THEY ARE) NOT TO HAND OVER THE DRUG / DON’T DELIVER / HAND OVER WITHOUT MONEY / PAYMENT – C.O.D."
+  - tossup:
+      question: "Adrastus led the Seven Against Thebes to regain the throne for whom?"
+      answer: "POLYNEICES"
+    boni:
+      - question: "Which of the Seven foretold that the expedition would end in failure and that all would die except Adrastus?"
+        answer: "AMPHIARAUS"
+      - question: "Name the wife of Amphiarius, who convinced him to join the expedition after being bribed with the necklace of Harmonia"
+        answer: "ERIPHYLE"
+  - tossup:
+      question: "How did Marcus Livius and Claudius Nero know to intercept Hasdrubal at the Metaurus?"
+      answer: "THEY INTERCEPTED CORRESPONDENCE BETWEEN THE (ENEMY) COMMANDERS"
+    boni:
+      - question: "Which earlier defeat encouraged Hasdrubal to join his brother?"
+        answer: "BAECULA (IN 208 B.C.)"
+      - question: "A year after Hasdrubal’s defeat, the general who had defeated him in Spain was then able to make what change in Rome’s strategy in this war?"
+        answer: "TO TAKE THE WAR TO CARTHAGE (prompt on “end fighting in Spain” or “get Hannibal out of Italy”)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Athēniēnsēs, cum Persārum impetum nūllō modō possent sustinēre, et in animō habērent ut, urbe relictā, nāvēs cōnscenderent, cīvem quendam quī eīs suādēbat ut in urbe manērent, lapidibus obruērunt.</latin> Question: Why did the Athenians stone the citizen?"
+      answer: "HE WAS TRYING TO PERSUADE THEM TO STAY IN THE CITY"
+    boni:
+      - question: "What instigated the Athenians’ plan to abandon the city?"
+        answer: "(COULDN’T SUSTAIN) PERSIAN ASSAULT"
+      - question: "What was the Athenians’ specific plan of evacuation?"
+        answer: "CLIMB ABOARD THEIR <emphasis>SHIPS</emphasis> / SAIL AWAY"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine this inscription for ten seconds.  According to the first half of the inscription, what two deeds had the person who dedicated this temple and statue accomplished"
+      answer: "CAPTURED ACHAIA & DESTROYED CORINTH"
+    boni:
+      - question: "On what specific object would this inscription have been found?"
+        answer: "<emphasis>STATUE</emphasis> (DEDICATED TO) <emphasis>HERCULES</emphasis> (THE CONQUEROR IN A TEMPLE)"
+      - question: "Who dedicated the temple and why?"
+        answer: "(LUCIUS) <emphasis>MUMMIUS</emphasis> & <emphasis>HE HAD VOWED</emphasis> IN WAR THAT HE WOULD DEDICATE THE TEMPLE AND STATUE IF HE WERE VICTORIOUS"
+  - tossup:
+      question: "What daughter of Salmoneus was raped by her uncle Sisyphus?"
+      answer: "TYRO"
+    boni:
+      - question: "What happened to the two sons whom Tyro bore to Sisyphus?"
+        answer: "SHE KILLED THEM"
+      - question: "Where did Sisyphus tell king Asopus to create a spring of fresh water?"
+        answer: "ACROCORINTH"
+  - tossup:
+      question: "What speech of Cicero in 56 B.C. marked his acceptance of the First Triumvirate’s settlement at Luca?"
+      answer: "<title><latin>DĒ PRŌVINCIĪS CŌNSULĀRIBUS</latin></title>"
+    boni:
+      - question: "Name one of the four speeches Cicero made about his exile upon his return"
+        answer: "<title><latin>POST REDITUM IN SENĀTŪ</latin></title> / <title><latin>POST REDITUM IN QUIRĪTĒS</latin></title> / <title><latin>DĒ DOMŌ SUĀ / DĒ HARUSPICUM RESPŌNSĪS</latin></title>"
+      - question: "Which of Cicero’s speeches sought clemency for one of the men who had sought in 51 B.C. to recall Caesar from Gaul?"
+        answer: "<title><latin>PRŌ MĀRCELLŌ</latin></title>"
+  - tossup:
+      question: "Using <latin>cavē</latin> and a deponent verb, say in Latin, “soldier, don’t use your sword!”"
+      answer: "<latin>MĪLES, CAVĒ (NĒ) ŪTĀRIS / MĪLES, CAVĒ ŪSUS SĪS GLADIŌ (TUŌ)</latin>"
+    boni:
+      - question: "For the verb <latin>ūtor</latin>, give the 3rd person, plural, future imperative"
+        answer: "<latin>ŪTUNTOR</latin>"
+      - question: "Change <latin>ūtuntor</latin> to the singular"
+        answer: "<latin>ŪTITOR</latin>"
+  - tossup:
+      question: "What temple did Romulus establish after winning the first <latin>spolia opima</latin>?"
+      answer: "JUPITER FERETRIUS"
+    boni:
+      - question: "What grandfather of another king of Rome struck one of the first blows against the Sabines after that tribe had taken over the Capitoline?"
+        answer: "HOSTIUS HOSTILIUS"
+      - question: "Whom did the deified Romulus command to tell the Romans they would conquer the world?"
+        answer: "PROCULUS (JULIUS) / (JULIUS) PROCULUS  <latin>2008 NJCL CERTAMEN ADVANCED DIVISION FINALS</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “holus”?</latin>"
+      answer: "VEGETABLE"
+    boni:
+      - question: "<latin>Quid Anglicē significat “tomāculum?”</latin>"
+        answer: "SAUSAGE"
+      - question: "<latin>Quid Anglicē significat “lactūca?”</latin>"
+        answer: "LETTUCE"
+  - tossup:
+      question: "Who wrote a <latin>fabula praetexta</latin> called <latin>Ambracia</latin> about the exploits of his patron in Greece and later commemorated these same deeds in a book of his historical epic, the <latin>Annālēs</latin>?"
+      answer: "(QUINTUS) ENNIUS"
+    boni:
+      - question: "Name this patron of Ennius"
+        answer: "FULVIUS / NOBILIOR"
+      - question: "To what earlier writer did Ennius pay homage by omitting the first Punic War from his <latin>Annālēs</latin>?"
+        answer: "(GNAEUS) NAEVIUS"
+  - tossup:
+      question: "For the verb <latin>nequeō</latin>, give the nominative, plural, masculine form of the present participle"
+      answer: "<latin>NEQUEUNTĒS</latin>"
+    boni:
+      - question: "What verb, found primarily in the 2nd person, present, active, imperative, means “give” or “tell”?"
+        answer: "<latin>CEDO</latin>, <latin>CETTE</latin>"
+      - question: "Translate: <latin>ain (A-I-N)</latin>"
+        answer: "YOU DON’T SAY? / WHAT’S THAT? / INDEED! / SO! / ARE YOU SPEAKING?"
+  - tossup:
+      question: "What was the original name of the hero whose name meant “young soldier” because of the early age at which either he or his father joined the Trojan War?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "By what other name was Astynax called by his father Hector?"
+        answer: "SCAMANDRIUS"
+      - question: "Chiron renamed the son of Peleus “Achilles.” What was this hero’s original name?"
+        answer: "LIGYRON"
+  - tossup:
+      question: "At what low-lying site did Fabius Rullianus allow his army to be trapped in a valley in 314 B.C., leading to a crushing defeat in the Second Samnite War?"
+      answer: "LAUTULAE"
+    boni:
+      - question: "The Etruscans, who joined the Samnite forces in 311 B.C., were defeated by Fabius Rullianus in what battle of the following year?"
+        answer: "LAKE VADIMO"
+      - question: "According to Livy, the Romans crushed the Samnites with what great victory of 305 B.C.?"
+        answer: "BOVIANUM"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin verb as the others? fatal, affable, farce, infant, fate"
+      answer: "FARCE"
+    boni:
+      - question: "From what Latin verb with what meaning does “farce” derive?"
+        answer: "<latin>FARCIŌ</latin>, <latin>FARCĪRE</latin> - STUFF"
+      - question: "From what Latin noun do we derive “fair,” meaning “a gathering or exhibition”?"
+        answer: "<latin>FĒRIA</latin> / <latin>FĒRIAE</latin>"
+  - tossup:
+      question: "What effect did the <latin>iūs trium līberōrum</latin> have upon a woman whose marriage was <latin>sine manū</latin>?"
+      answer: "SHE BECAME (FULLY) INDEPENDENT / SHE LOST HER <latin>TUTĒLA</latin>/GUARDIAN / <latin>TUTĒLA</latin>/GUARDIANSHIP LAPSED"
+    boni:
+      - question: "What ground for divorce was the first to be deemed acceptable in Roman society?"
+        answer: "ADULTERY"
+      - question: "Why were plebeian marriages not sanctioned by the state until the Servian Constitution?"
+        answer: "PLEBS WERE NOT LEGALLY CITIZENS UNTIL THEN"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quotiēns mē vīderat, mē rogābat num valērem</latin>"
+      answer: "WHENEVER HE SAW ME, HE ASKED ME HOW I WAS (DOING) / HOWEVER MANY TIMES HE SAW/HAD SEEN ME, HE ASKED ME WHETHER/IF I WAS WELL"
+    boni:
+      - question: "Translate: <latin>Quamvīs strēnuē labōrēs, hoc nōn ad tempus cōnficiēs</latin>"
+        answer: "HOWEVER HARD YOU WORK, YOU WILL NOT FINISH ON TIME THOUGH YOU MAY WORK HARD, YOU WILL NOT FINISH ON TIME YOU MAY WORK HOW HARD YOU LIKE, BUT YOU WILL NOT FINISH ON TIME"
+      - question: "Translate: <latin>Mātūrius advēnimus quam sī pedibus vēnissēmus</latin>"
+        answer: "WE HAVE ARRIVED MORE QUICKLY THAN IF WE HAD COME COME ON FOOT"
+  - tossup:
+      question: "Which of Dionysus’ aunts became his surrogate mother and was tormented by Juno for her help?"
+      answer: "INO / LEUCOTHEA"
+    boni:
+      - question: "On the topic of love, what river god, the son of Oceanus and Tethys, was so enamored with a nymph that he pursued her as far as Ortygia, where she became a spring and he mingled his waters with hers?"
+        answer: "ALPHEIUS"
+      - question: "Again on the topic of love, Vertumnus fell in love with Pomona. Disguised as an old woman, what story did he tell Pomona in order to convince her to marry him?"
+        answer: "IPHIS & ANAXARETE / A YOUNG <emphasis>GIRL REFUSED TO MARRY</emphasis> THE <emphasis>MAN</emphasis> WHO LOVED HER, SO <emphasis>HE KILLED HIMSELF</emphasis> AND <emphasis>SHE</emphasis>, WATCHING THE FUNERAL PROCESSION, <emphasis>TURNED TO STONE</emphasis>"
+  - tossup:
+      question: "The lightly-armored Gauls, led by Concolitanus and Aneroestus, were defeated by javelin-wielding Romans in what battle of 225 B.C.?"
+      answer: "TELAMON"
+    boni:
+      - question: "At what battle of 222 B.C. did Marcus Claudius Marcellus earn the <latin>spolia opīma</latin> by defeating the Insubrian chieftain Viridomarus in single combat?"
+        answer: "CLASTIDIUM"
+      - question: "Octavian rejected Licinius Crassus’ claim to the spolia opīma in 29 B.C. after he slew what chief of the Bastarnae?"
+        answer: "DELDO"
+  - tossup:
+      question: "Please do not open the visuals until you are instructed to do so.  You may now open your visuals and examine the passages for thirty seconds.  Toss-up: Of these five passages, which would have been posted publicly throughout the empire as a piece of first-century-A.D. imperial propaganda?"
+      answer: "3"
+    boni:
+      - question: "Name the author of passage 5"
+        answer: "(SEXTUS JULIUS) FRONTINUS"
+      - question: "Name the author of the surviving poetic fragment in passage 4"
+        answer: "(QUINTUS) ENNIUS"
+  - tossup:
+      question: "Listen carefully to the following Latin translation of a letter from the Macedonian king Philip to Aristotle, which I will read twice, and answer IN ENGLISH the question that follows: <latin>F</latin>§<latin>lium mihi genitum sc</latin>§<latin>tÇ. Qu</latin>~ <latin>d</latin>‘ <latin>caus</latin>~ <latin>gr</latin>~<latin>tiam d</latin>§<latin>s habeÇ, nÇn quia n</latin>~<latin>tus est, sed quod n</latin>~<latin>tus est temporibus v</latin>§<latin>tae tuae. Sp</latin>‘<latin>rÇ</latin> <latin>enim fore ut</latin> ‘<latin>ductus</latin> ‘<latin>rud</latin>§<latin>tusque</latin> ~ <latin>t</latin>‘, <latin>dignus sit et nÇb</latin>§<latin>s et r</latin>‘<latin>gnÇ</latin> <latin>nostr</latin>Ç<latin>.</latin> Question: Why does king Philip feel grateful to the gods?"
+      answer: "HIS SON WAS BORN IN THE TIME WHEN ARISTOTLE WAS ALIVE"
+    boni:
+      - question: "What does king Philip hope for, once his son has been raised and eduated by Aristotle?"
+        answer: "THAT HIS SON WILL BE WORTHY OF THE CROWN / OF HIS KINGDOM AND HIMSELF"
+      - question: "In this letter, the following subjunctive clause was used: <latin>Spērō fore ut dignus sit</latin>. Restate this sentence with an indirect statement"
+        answer: "<latin>SPĒRŌ EUM / FĪLIUM MEUM DIGNUM FUTŪRUM ESSE / FORE</latin>"
+  - tossup:
+      question: "What prince of Eleusis travelled in a winged chariot drawn by serpents?"
+      answer: "TRIPTOLEMUS"
+    boni:
+      - question: "Lyncus, king of Scythia, refused to share the knowledge he learned from Triptolemus with his people, and then tried to kill Triptolemus. What did Demeter turn him into for his misbehavior?"
+        answer: "LYNX"
+      - question: "What lover of Demeter is said to have been placed in the stars as the constellation Gemini with Triptolemus?"
+        answer: "IASION"
+  - tossup:
+      question: "What author, born in Spain, has been called “the first great Christian poet”?"
+      answer: "PRUDENTIUS"
+    boni:
+      - question: "Name one of his collections of poems"
+        answer: "<title>CATHEMERINON</title> / <title>PERISTEPHANON</title>"
+      - question: "About what emperor did Prudentius write “<latin>perfīdus ille deō quamvīs nōn perfīdus urbī</latin>”?"
+        answer: "JULIAN(US) (THE APOSTATE)"
+  - tossup:
+      question: "The Dark Knight returns again!  When you are recognized, perform the following commands: <latin>Ambulā ad equitem obscūrum et clāmā Anglicē: Accūsō tē caedis vigilium</latin>"
+      answer: "PLAYER SHOULD WALK TO THE BATMAN DOLL AND SAY, “I ACCUSE YOU OF THE MURDER OF POLICE.”"
+    boni:
+      - question: "<latin>Rogā mē Anglicē num eques obscūrus emī possit</latin>"
+        answer: "PLAYER SHOULD ASK WHETHER THE BATMAN DOLL CAN BE PURCHASED"
+      - question: "<latin>Dīc mihi Anglicē: Umquamne saltāvistī cum diabolō sub pallidā lūce lūnae?</latin>"
+        answer: "PLAYER SHOULD SAY, “EVER DANCE WITH THE DEVIL IN THE PALE MOONLIGHT?”"
+  - tossup:
+      question: "After skirmishes with Cornelius Gallus and Gaius Petronius, who ceded to Augustus territory which became the frontier border in Egypt for the next 300 years?"
+      answer: "CANDACE OF ETHIOPIA"
+    boni:
+      - question: "What border nation was Augustus able to convert into a vassal state simply by supporting the rebel Tigranes?"
+        answer: "ARMENIA"
+      - question: "What commander in 4 and 5 A.D. skillfully combined land and river routes to reduce the <latin>Marcomannī</latin>, thus consolidating the Germanic border?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "What baby girl would have been exposed had her mother Telethusa not been encouraged by Isis to save her?"
+      answer: "IPHIS"
+    boni:
+      - question: "How did Telethusa save the baby from her misogynisic husband Ligdus?"
+        answer: "SHE WAS RAISED / DRESSED AS A BOY / GIVEN GENDER-AMBIGUOUS NAME"
+      - question: "This plan went swimmingly until Ligdus betrothed Iphis to another woman. Name this woman"
+        answer: "IANTHE"
+  - tossup:
+      question: "When Livy wrote about events in the East from Book 31 on, what expatriate Greek historian was his primary source?"
+      answer: "POLYBIUS"
+    boni:
+      - question: "For 5 points each, name two first century B.C. Roman writers, whom Livy used as his direct sources for Western events"
+        answer: "(Q.) CLAUDIUS QUADRIGARIUS, VALERIUS ANTIAS, (C.) LICINIUS MACER, (L.) CAELIUS ANTIPATER (N.B.: Fabius Pictor, Cato the Elder, and Calpurnius Piso Frugi are not acceptable since they are not 1st B.C. and it is believed (see OCD) that Livy only used them indirectly through the above 1st century sources)"
+  - tossup:
+      question: "Although standard Latin uses two voices, poets sometimes employ the Greek concept of the middle voice. Using the middle voice and the verb <latin>cingō</latin>, translate into Latin, “He equips himself with a sword.”"
+      answer: "<latin>(IS) CINGITUR GLADIŌ / FERRŌ / ENSE</latin>"
+    boni:
+      - question: "You are familiar with the nominative and accusative of exclamation, but poets, imitating Greek, sometimes use another case. Using this Hellenizing construction and <latin>ēheu</latin>, translate into Latin, “Alas for the broken treaty!”"
+        answer: "<latin>ĒHEU FOEDERIS FRACTĪ</latin> (cf. A&G section 359a)"
+      - question: "Although standard Latin uses the genitive or ablative for specification, poets sometimes employ another case. Using this Hellenizing method of specification and the verb <latin>nectō</latin>, translate into Latin, “They will be bound around the head.”"
+        answer: "<latin>CAPUT / CAPITA NECTENTUR</latin>"
+  - tossup:
+      question: "“Vermilion” derives its name from the diminutive Latin form for a certain insect from which the crimson dye was at one time obtained. According to its root, what is this insect?"
+      answer: "WORM (<latin>VERMIS</latin>)"
+    boni:
+      - question: "The English word “vesicle,” meaning a “small sack or cyst,” derives from the diminutive Latin form for a certain body part. What body part is this?"
+        answer: "BLADDER (<latin>VĒSĪCA</latin>)"
+      - question: "“Vanilla” derives its name from the diminutive Latin form for the shape of its seedpods. According to its root, what is the shape of these seedpods?"
+        answer: "SHEATH / COVERING OF A SWORD (<latin>VĀGĪNA</latin>)"

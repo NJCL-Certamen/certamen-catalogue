@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "To what son of Athamas did King Aeëtes of Colchis give sanctuary and marry to his oldest daughter?"
+      answer: "PHRIXUS"
+    boni:
+      - question: "Who had tricked Athamas into believing that Phrixus had to be sacrificed to end a famine?"
+        answer: "INO"
+      - question: "Who saved Phrixus and his sister Helle by sending a golden-fleeced ram to fly them away?"
+        answer: "(THEIR MOTHER) NEPHELE"
+  - tossup:
+      question: "<latin>Quid significat “circiter”</latin>?"
+      answer: "APPROXIMATELY / ABOUT / AROUND"
+    boni:
+      - question: "<latin>Quid significat “iuxt</latin><latin>ā”</latin>?"
+        answer: "NEXT TO / ADJACENT TO / ADJOINED TO"
+      - question: "<latin>Quid significat “erg</latin><latin>ā”</latin>?"
+        answer: "TOWARD"
+  - tossup:
+      question: "What general introduced “the eagle” as the standard of a Roman legion?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "What is the Latin term for the soldier who carried “the eagle”?"
+        answer: "<latin>AQUILIFER</latin>"
+      - question: "In a Roman camp an <latin>aquila</latin> was kept in a shrine called a <latin>sacellum</latin>. Name the building in which the <latin>sacellum</latin> was located"
+        answer: "<latin>PRĪNCIPIA</latin>"
+  - tossup:
+      question: "What twelve-year-old, inspired by the backbone of a fish, invented the saw?"
+      answer: "CALUS / TALUS / PERDIX"
+    boni:
+      - question: "Who was jealous of Perdix’s skill and hurled him off the Acropolis?"
+        answer: "DAEDALUS"
+      - question: "Into what was Perdix transformed by Athena?"
+        answer: "PARTRIDGE"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim poēta nōtissimus in Viā</latin> <latin>Sacrā</latin> <latin>ambulābat. Solēbat cōgitāre dē</latin> <latin>amōre et vītā. Subitō</latin> <latin>homō</latin> <latin>quīdam ad eum cucurrit et dīxit, “Quid agis, carissime?” “Nōn tam bene.” respondit poēta, “Mea carmina plūs amōris habent quam mea vīta.”</latin>  The question: <latin>Quid agere solēbat poēta?</latin>"
+      answer: "<latin>CŌGITĀRE DĒ AMŌRE ET VĪTĀ</latin>"
+    boni:
+      - question: "<latin>Quid dictum est ab amīcō poetā?</latin>"
+        answer: "<latin>QUID AGIS, CARISSIME?</latin>"
+      - question: "<latin>Cuius reī volēbat poēta plūs habēre?</latin>"
+        answer: "<latin>AMŌRIS</latin>"
+  - tossup:
+      question: "Say in Latin, “In the middle of the night, there was silence.”"
+      answer: "<latin>MEDIĀ</latin> <latin>NOCTE SILENTIUM FUIT / ERAT</latin>"
+    boni:
+      - question: "... “At dawn we wanted to eat the food.”"
+        answer: "<latin>PRĪMĀ</latin> <latin>LŪCE VOLUIMUS / VOLĒBĀMUS CIBUM EDERE / CONSŪMERE</latin>"
+      - question: "... “Within ten days we will be able to leave.”"
+        answer: "<latin>DECEM DIĒBUS POTERIMUS DISCĒDERE</latin>"
+  - tossup:
+      question: "By what name did the ancient Romans know the city of Paris?"
+      answer: "LUTETIA (PARISIORUM)"
+    boni:
+      - question: "By what name did the ancient Romans know the city of Lyon?"
+        answer: "LUGDUNUM"
+      - question: "By what name did the ancient Romans know the city of Marseilles?"
+        answer: "MASSILIA / MASSALIA"
+  - tossup:
+      question: "What English derivative of <latin>levis</latin> means “height”?"
+      answer: "ELEVATION"
+    boni:
+      - question: "“not pertinent”?"
+        answer: "IRRELEVANT"
+      - question: "“to reduce or set free”?"
+        answer: "RELIEVE / ALLEVIATE"
+  - tossup:
+      question: "What Persian emperor defeated a Roman army at Edessa in A.D. 260?"
+      answer: "SHAPUR or SHAPOR(I)"
+    boni:
+      - question: "Name the Roman emperor captured in that battle"
+        answer: "VALERIAN"
+      - question: "Name Valerian’s son and co-emperor who was left to handle multiple barbarian invasions and usurpers"
+        answer: "GALLIENUS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “duodēquadrāgintā”?</latin>"
+      answer: "38"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot sunt ter quīnque?</latin>"
+        answer: "<latin>QUĪNDECIM</latin>"
+      - question: "<latin>Respondē Latīnē: Quot sunt bis mille?</latin>"
+        answer: "<latin>DUO MĪLIA</latin>"
+  - tossup:
+      question: "According to the inscription, how long did Aeneas rule?"
+      answer: "3 YEARS"
+    boni:
+      - question: "What does the first line of the inscription tell us about Aeneas?"
+        answer: "HE WAS THE SON OF VENUS"
+      - question: "What does the second line of the inscription tell us?"
+        answer: "HE WAS THE KING OF THE LATINS"
+  - tossup:
+      question: "Who saved the life of Telamon at the Calydonian Boar hunt by wounding the boar with an arrow?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What young king of Pylos saved himself from the boar by using his spear to vault into a tree?"
+        answer: "NESTOR"
+      - question: "What weapon did Meleager use to kill the boar?"
+        answer: "JAVELIN / HUNTING SPEAR"
+  - tossup:
+      question: "Which of the following, if any, CANNOT take a complementary infinitive? <latin>posse</latin>, <latin>volāre</latin>, <latin>solēre</latin>, <latin>coepisse</latin>"
+      answer: "<latin>VOLĀRE</latin>"
+    boni:
+      - question: "Using a complementary infinitive, say in Latin, “They had wanted to stay at home.”"
+        answer: "<latin>VOLUERANT DOMĪ MANĒRE</latin>"
+      - question: "... “They began to sail to Italy.”"
+        answer: "<latin>COEPĒRUNT NĀVIGĀRE IN / AD ITALIAM</latin>"
+  - tossup:
+      question: "For whom did the tribune Gaius Vatinius pass legislation granting proconsular powers over Cisalpine Gaul and Illyricum?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "The migration across Gaul of which tribe from Switzerland did Caesar stop in 58 B.C.?"
+        answer: "HELVETIANS"
+      - question: "Against what aggressive German king did many Gallic states ask for Caesar’s aid?"
+        answer: "ARIOVISTUS"
+  - tossup:
+      question: "Say in Latin: “a very easy task.”"
+      answer: "<latin>FACILLIMUS LABOR</latin>"
+    boni:
+      - question: "... “a rather beautiful summer.”"
+        answer: "<latin>AESTĀS PULCHRIOR</latin>"
+      - question: "... “the worst leader.”"
+        answer: "<latin>PESSIMUS DUX</latin>/ <latin>PRĪNCEPS</latin>/ <latin>IMPERĀTOR</latin>"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “secretly?”"
+      answer: "<latin>SUB RŌSĀ</latin>"
+    boni:
+      - question: "What Latin phrase is commonly used in English to mean “temporarily?”"
+        answer: "<latin>PRŌ</latin> <latin>TEMPORE</latin>"
+      - question: "What Latin phrase is commonly used in English to mean “an autopsy?”"
+        answer: "<latin>POST MORTEM</latin>"
+  - tossup:
+      question: "What infant was exposed on Mt. Cithaeron with a spike driven through his ankles?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Name the king and queen of Corinth who raised Oedipus as their own son"
+        answer: "POLYBUS & MEROPE"
+      - question: "Who were the biological parents of Oedipus?"
+        answer: "LAIUS & JOCASTA(EPICASTA)"
+  - tossup:
+      question: "Which of these words, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: sullen, desolate, insolent, soliloquy, soloist?"
+      answer: "INSOLENT"
+    boni:
+      - question: "What is the Latin word and its meaning at root of “insolent?”"
+        answer: "<latin>SOLEŌ, SOLĒRE</latin> - BECOME ACCUSTOMED"
+      - question: "What are the Latin words and their meanings at the root of “soliloquy?”"
+        answer: "<latin>SOLUS</latin> - ALONE & <latin>LOQUOR, LOQUĪ</latin> - SPEAK"
+  - tossup:
+      question: "What foreign ruler was defeated by the Roman consul Glabrio at Thermopylae in 191 B.C.?"
+      answer: "ANTIOCHUS III or THE GREAT"
+    boni:
+      - question: "Where was Antiochus defeated decisively in 190 B.C. by Scipio Asiagenes?"
+        answer: "MAGNESIA"
+      - question: "Of what dynasty of rulers of the vast empire stretching from the Aegean Sea to Afghanistan was Antiochus called the greatest?"
+        answer: "SELEUCID"
+  - tossup:
+      question: "Who pretended to be mad to avoid fighting in the Trojan War?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Who earned Odysseus’ enmity by proving that he was sane?"
+        answer: "PALAMEDES"
+      - question: "How did Odysseus get revenge on Palamedes?"
+        answer: "FRAMED PALAMEDES FOR TREASON (ACCEPTING GOLD FROM PRIAM TO BETRAY THE GREEKS)"

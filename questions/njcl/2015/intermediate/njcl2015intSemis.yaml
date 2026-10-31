@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Of the words <latin>turris, rogus, līmen, iugum,</latin> and <latin>flābellum</latin>, which is being described by the following  sentence?"
+      answer: "“<latin>Est aedificium in magnam altitūdinem prōtensum.</latin>” <latin>TURRIS</latin>"
+    boni:
+      - question: "Of those words, which is being described in the sentence, “<latin>Est līgneum īnstrūmentum quod  duōrum boum collō trānsversum impositum, eōs simul iungit et colligat.</latin>”"
+        answer: "<latin>IUGUM</latin>"
+      - question: "Of those words, which is being described in the sentence, “<latin>Est īnstrūmentum, quō fit ventilātiō ad  refrigerandum, vel ad ignem excitandum.</latin>”"
+        answer: "<latin>FLĀBELLUM</latin>"
+  - tossup:
+      question: "On which of Rome’s seven hills was the Temple of Divine Claudius?"
+      answer: "CAELIAN"
+    boni:
+      - question: "On which of the seven hills was the Temple of Diana that was begun during the reign of Servius  Tullius?"
+        answer: "AVENTINE"
+      - question: "On which of the seven hills was the Temple of Apollo that was dedicated by Augustus?"
+        answer: "PALATINE"
+  - tossup:
+      question: "Who killed Hippocoön, Laomedon, and Neleus along with most of their children in three separate  battles, each for varying degrees of offense, ranging from the murder of his cousin, Oeonus, to the  refusal to purify him for the murder of Iphitus?"
+      answer: "HERAKLES / HERCULES"
+    boni:
+      - question: "Which two of the kings in the tossup refused to purify Herakles for the murder of Iphitus?"
+        answer: "NELEUS AND HIPPOCOÖN"
+      - question: "Which of the kings from the tossup, along with his sons, was responsible for the murder of Oeonus?"
+        answer: "HIPPOCOÖN"
+  - tossup:
+      question: "For the verb <latin>pellō,</latin> give the 2nd person singlar, perfect active subjunctive."
+      answer: "<latin>PEPULERĪS</latin>"
+    boni:
+      - question: "Change <latin>pepulerīs</latin> to the pluperfect tense."
+        answer: "<latin>PEPULISSĒS</latin>"
+      - question: "Change <latin>pepulissēs</latin> to the passive voice."
+        answer: "<latin>PULSUS (-A, -UM) ESSĒS</latin>"
+  - tossup:
+      question: "Give the two Latin phrases for which <latin>q.v.</latin> is an abbreviation."
+      answer: "<latin>QUOD VIDĒ</latin> & <latin>QUANTUM VĪS</latin>"
+    boni:
+      - question: "Give the Latin phrase and its meaning for the abbreviation <latin>R.I.P.</latin>"
+        answer: "<latin>REQUIĒSCAT IN PĀCE</latin> – MAY (S)HE REST IN PEACE /  <latin>REQUIĒSCIT IN PĀCE</latin> – (S)HE RESTS IN PEACE"
+      - question: "Give the Latin phrase and its meaning for the abbreviation <latin>v.i.</latin> (note: read as <latin>“v-</latin>period-<latin>i</latin>-period”)."
+        answer: "<latin>VIDĒ INFRĀ</latin> – SEE BELOW"
+  - tossup:
+      question: "Please give the letter of the picture that depicts the myth in which Aristaeus was involved."
+      answer: "B"
+    boni:
+      - question: "On what island did the myth depicted in Picture A take place?"
+        answer: "CYPRUS"
+      - question: "Assuming the body of water depicted in Picture C is the Hellespont, who are in that picture?"
+        answer: ""
+  - tossup:
+      question: "Using a passive periphrastic, say in Latin, “I must find the money.”"
+      answer: "<latin>PECŪNIA MIHI INVENIENDA / REPERIENDA EST</latin>"
+    boni:
+      - question: "Using a passive periphrastic, say in Latin, “The slaves will have to greet the king.”"
+        answer: "<latin>RĒX SERVĪS SALŪTANDUS ERIT</latin>"
+      - question: "Using a passive periphrastic, say in Latin, “We will have to trust you.”"
+        answer: "<latin>TIBI ( / VOBĪS) Ā ( / AB) NŌBĪS CRĒDENDUM EST</latin>"
+  - tossup:
+      question: "During the war against what foreign king did tribune C. Mamilius set up a special court to investigate  aristocratic corruption and successfully convicted Lucius Opimius, Calpurnius Bestia, and Spurius  Albinus in 110 BC?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "Before his discord with Rome, Jugurtha previously served under what Roman general at the fall of  Numantia in 133 BC?"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS"
+      - question: "Scipio Aemilianus, in his role as patron of the Numidian dynasty, convinced what king to adopt  Jugurtha, an act that would ultimately lead to the Jugurthan war?"
+        answer: "MICIPSA"
+  - tossup:
+      question: "What use of the dependent subjunctive clause can be found in the following sentence? “<latin>Nōn facile discernerēs utrum cunīculus an bōs caesus esset?</latin>"
+      answer: "” INDIRECT QUESTION"
+    boni:
+      - question: "What use of the dependent subjunctive clause can be found in the following sentence? “<latin>cum bōs caesus esset, agricola tamen nōn contentus erat?</latin>"
+        answer: "” <latin>CUM</latin> CONCESSIVE CLAUSE"
+      - question: "What use of the dependent subjunctive clause can be found in the following sentence? “<latin>uxor agricolae tam īrāta erat ut nihil dīcere posset?</latin>"
+        answer: "” RESULT CLAUSE"
+  - tossup:
+      question: "For a rapid journey with no traveling companion and little baggage, what type of uncovered and two wheeled vehicle would a Roman use?"
+      answer: "<latin>CISIUM</latin>"
+    boni:
+      - question: "What was the luxurious traveling “van” that was furnished with a bed on which the traveler reclined  by day and slept by night?"
+        answer: "<latin>CARRŪCA</latin>"
+      - question: "What type of carriage was used in the triumphal processions, but only for the spoils of war?"
+        answer: "<latin>PETŌRITUM</latin>"
+  - tossup:
+      question: "Give the Latin root and its meaning from which we derive the English word “foyer”."
+      answer: "<latin>FOCUS</latin> – HEARTH, FIREPLACE"
+    boni:
+      - question: "Give the Latin root and its meaning from which we derive the English word “tissue”."
+        answer: "<latin>TEXŌ</latin> – TO WEAVE"
+      - question: "Give the Latin root and its meaning from which we derive the English word “mustang”."
+        answer: "<latin>MISCEŌ</latin> – TO MIX"
+  - tossup:
+      question: "What river god created a spring on Acrocorinth to repay a favor to Sisyphus?"
+      answer: "ASOPUS"
+    boni:
+      - question: "What did Sisyphus do to earn Asopus’ favor?"
+        answer: "TOLD HIM THAT ZEUS HAD TAKEN HIS DAUGHTER (AEGINA)"
+      - question: "What games did Sisyphus institute in remembrance of his nephew, Melicertes?"
+        answer: "ISTHMIAN GAMES"
+  - tossup:
+      question: "When you have been recognized by the spotter, perform the following commands: <latin>surge et pulsā  caput cum ventrem frīcās</latin>."
+      answer: "STUDENT MUST RISE AND PAT/KNOCK ON HEAD WHILE  RUBBING STOMACH"
+    boni:
+      - question: "Now perform this command: <latin>prehendite aurēm sociī tuī</latin>."
+        answer: "EACH PLAYER SHOULD GRAB THE  EAR OF ONE OF HIS TEAMMATES"
+      - question: "Now perform this command: <latin>dīc moderātōrtī Anglicē illum socium tibi nocuisse</latin>."
+        answer: "ONE PLAYER  SHOULD TELL THE MODERATOR THAT ONE TEAMMATE HAS HURT HIM"
+  - tossup:
+      question: "What general brought the empire into direct conflict with the Parthian king Vologeses I when he  attempted to place Tiridates I, a Roman client, on the Armenian throne in 60 AD?"
+      answer: "(CN.) DOMITIUS CORBULO"
+    boni:
+      - question: "Name the brother of Vologeses who replaced Tiridates as king of Armenia by 64 AD?"
+        answer: "TIGRANES (V)"
+      - question: "Who crowned Tigranes V as king of Armenia in 64 AD?"
+        answer: "NERO"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice, then answer the question that follows in  English:  <latin>Nōnnūllī mīlitēs Caesaris, postquam nāvis in quā nāvigābant tempestāte dēlēta est, cum  centuriōne captī sunt. ubi ad imperātōrem hostium ductī sunt, “fortūna,” inquit, “vōs in  meam potestātem tulit. sciō vōs ab imperātōre scelestō contrā nōbīlēs pugnāre coactōs  esse.”</latin> (repeat)  The question: How does the leader of the enemy refer to Caesar?"
+      answer: "AS A WICKED COMMANDER"
+    boni:
+      - question: "In the opinion of the enemy leader, how did these soldiers end up as his prisoners?"
+        answer: "BY LUCK"
+      - question: "The commander of the enemy then says to his prisoners, “<latin>sī tamen rem pūblicam dēfendētis, et   vītam et pecūniam vōbīs dare cōnstituī. itaque dīcite: quid mē facere vultis?”</latin> How is the  commander of the enemy hoping to “bribe” these soldiers?"
+        answer: "BY PROMISING TO GIVE THEM BOTH <emphasis>LIFE</emphasis> AND <emphasis>MONEY</emphasis>"
+  - tossup:
+      question: "What son of Alcinoüs was the most handsome of the Phaeacians, the best boxer of the Phaeacians,  and the only Phaeacian with whom Odysseus would not compete in athletics because he was the  guest of Alcinoüs?"
+      answer: "LAODAMAS"
+    boni:
+      - question: "Name one of the two other sons of Alcinoüs mentioned by Homer."
+        answer: "HALIOS / CLYTONEUS"
+      - question: "What son of Naubolus, the wrestling champion at the athletic games, challenged Odysseus and was  quite rude to him when he demurred at first?"
+        answer: "EURYALUS"
+  - tossup:
+      question: "Change the phrase <latin>idem vetus ancīle</latin> to the accusative plural."
+      answer: "<latin>EADEM VETERA ANCĪLIA</latin>"
+    boni:
+      - question: "Change the phrase <latin>eadem vetera ancīlia</latin> to the genitive singular."
+        answer: "<latin>EIUSDEM VETERIS ANCĪLIS</latin>"
+      - question: "Change the phrase <latin>eiusdem veteris ancīlis</latin> to the ablative singular."
+        answer: "<latin>EŌDEM VETERE / VETERĪ ANCĪLI</latin>"
+  - tossup:
+      question: "What Roman general, noted for his victory at Lake Vadimo in 210 BC that came five years after his  defeat at Lautulae, is most famous for joining with Decius Mus to scrape out a crucial win against  the Samnites at Sentinum in 295 BC?"
+      answer: "(Q. FABIUS MAXIMUS) RULLIANUS"
+    boni:
+      - question: "Where did Roman troops under the command of Scipio Barbatus face a defeat in the same year as  Sentinum?"
+        answer: "CAMERINUM"
+      - question: "What war was ended with Rullianus’s victory at Lake Vadimo?"
+        answer: "SECOND SAMNITE WAR"
+  - tossup:
+      question: "Translate into English, “<latin>Audīvimus urbem, quae prope mare sita esset, dēlētam esse.</latin>”"
+      answer: "WE HEARD THAT THE CITY, WHICH HAD BEEN / WAS PLACED / SITUATED NEAR  THE SEA, HAD BEEN DESTROYED"
+    boni:
+      - question: "Translate into English, “<latin>Vīdimus multōs cīvēs ex urbe captā quam celerrimē effugere.</latin>”"
+        answer: "WE SAW THAT MANY CITIZENS ESCAPED FROM THE CAPTURED CITY AS QUICKLY  AS POSSIBLE"
+      - question: "Translate into English, “<latin>Multīs cīvibus minandīs, hostēs spērābant senātōrēs sibi pecūniam  dātūrōs esse.</latin>”"
+        answer: "BY THREATENING MANY CITIZENS, THE ENEMIES HOPED / WERE HOPING THAT  THE SENATORS WOULD GIVE THEM MONEY"
+  - tossup:
+      question: "What tribe wounded Talaüs and Iphitus in an attack against the Argonauts after Polydeuces killed  their king in a boxing match?"
+      answer: "THE BEBRYCES"
+    boni:
+      - question: "Who, until just before the battle, had been the king of the Bebryces?"
+        answer: "AMYCUS"
+      - question: "What tribe, whom the Argonauts met later, took advantage of the distraction of the battle to raid the  cattle of the Bebryces?"
+        answer: "THE MARIANDYNI"

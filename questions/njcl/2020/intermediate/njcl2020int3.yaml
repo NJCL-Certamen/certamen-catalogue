@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who was admired by Nero for his verses, received <latin>ornamenta triumphālia</latin> for suppressing the Pisonian conspiracy, attained distinction as a jurist, served as consul in 90 AD, and ultimately succeeded Domitian?"
+      answer: "(M. COCCEIUS) NERVA"
+    boni:
+      - question: "On what artifacts of Nerva’s reign do we find phrases such as <latin>Lībertas Publica</latin>, <latin>Salūs</latin>, <latin>Aequitas</latin>, <latin>Iustitia</latin>, and <latin>Concordia Exercituum</latin>?"
+        answer: "COINS"
+      - question: "In order to maintain the <latin>Concordia Exercituum</latin> what man did Nerva adopt as his heir?"
+        answer: "(M. ULPIUS) TRAJAN(US)"
+  - tossup:
+      question: "Translate into idiomatic Latin, using the name <latin>Andreās</latin> for “Andrew”: Andrew always wakes up at dawn."
+      answer: "<latin>ANDREĀS SEMPER PRĪMĀ LŪCE SURGIT / EXPERGĪSCITUR / ORITUR.</latin>"
+    boni:
+      - question: "What is the case and use of <latin>lūce</latin>?"
+        answer: "ABLATIVE TIME WHEN"
+      - question: "Now translate this sentence into Latin:  Cynthia will rise within three hours."
+        answer: "<latin>CYNTHIA TRIBUS HŌRĪS SURGET / ORIĒTUR / EXPERGĪSCĒTUR.</latin>"
+  - tossup:
+      question: "From what Latin word, with what meaning, do we derive the English word “constellation”?"
+      answer: "<latin>STELLA</latin> - STAR"
+    boni:
+      - question: "What derivative of a Latin word meaning “star” is an adjective that would describe someone who held the door open for an old grandmother?"
+        answer: "CONSIDERATE/ STELLAR"
+      - question: "Give the nominative singular, genitive singular, and gender for the root of “considerate”."
+        answer: "<latin>SĪDUS</latin>, <latin>SĪDERIS</latin>, N."
+  - tossup:
+      question: "Book 5 of the <title>Iliad</title> primarily focuses on the successes of what hero, who is aided by Athena in wounding two other deities, Ares and Aphrodite?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "In Book 6 of the <title>Iliad</title>, after they discover an ancestral guest-friendship, Diomedes exchanges armor with what Trojan warrior?"
+        answer: "GLAUCUS"
+      - question: "The <title>Iliad</title> says that Zeus took away Glaucus’ wit, for he gave away armor of what metal in exchange for Diomedes’ bronze armor?"
+        answer: "GOLD"
+  - tossup:
+      question: "Make the phrase <latin>tōtum corpus</latin> accusative singular."
+      answer: "<latin>TŌTUM CORPUS</latin>"
+    boni:
+      - question: "Make the phrase <latin>tōtum corpus</latin> dative singular."
+        answer: "<latin>TŌTĪ CORPORĪ</latin>"
+      - question: "Make the phrase <latin>tōtum corpus</latin> genitive plural."
+        answer: "<latin>TŌTŌRUM CORPORUM</latin>"
+  - tossup:
+      question: "Who worked around her inability to speak by weaving a tapestry that informed her sister, Procne, of her brother-in-law’s crimes?"
+      answer: "PHILOMELA"
+    boni:
+      - question: "Name Philomela’s brother-in-law, a Thracian king."
+        answer: "TEREUS"
+      - question: "Procne and Philomela were transformed into a nightingale and swallow, respectively, after the events of their myth. Into what type of bird was Tereus transformed?"
+        answer: "(FILTHY) HOOPOE"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Cuius filius, Diadumeniānus, prope Antiocheam perīit circa unō annō post mingentem Caracallam ipse necāverat ut princeps fieret?</latin>"
+      answer: "(<latin>M.</latin> <latin>OPELLIĪ</latin>) <latin>MACRĪNĪ</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Cuius ordinis erat Macrīnus prīmus princeps?</latin>"
+        answer: "<latin>EQUESTRIS / EQUITUM</latin>"
+      - question: "<latin>Respondē Latīnē: In quā Africanā provinciā natus est Macrīnus?</latin>"
+        answer: "<latin>(IN) MAURETANIĀ</latin>"
+  - tossup:
+      question: "For the sentence “The Roman citizens will force all instigators of sedition out of the city.” give the form of the verb <latin>pellō</latin> needed to translate “will force”."
+      answer: "<latin>PELLENT</latin>"
+    boni:
+      - question: "For the sentence “Speak, Fido. Good boy!” Translate “speak” using a deponent verb."
+        answer: "<latin>LOQUERE</latin>"
+      - question: "For the sentence “All of you will be compelled by the judge to complete your community service.” what form of <latin>cogō</latin> would be needed to translate “you will be compelled”?"
+        answer: "<latin>COGĒMINI</latin>"
+  - tossup:
+      question: "Of the phrases <latin>nē plūs ultrā, prō tempore, multum in parvō,</latin> and <latin>persōna nōn grāta,</latin> which is best described by the phrase “big things come in small packages?"
+      answer: "” <latin>MULTUM IN PARVŌ</latin>"
+    boni:
+      - question: "Of the phrases <latin>nē plūs ultrā, prō tempore, multum in parvō,</latin> and <latin>persōna nōn grāta,</latin>  which is best described by the word “perfection?”"
+        answer: "<latin>NĒ PLŪS ULTRĀ</latin>"
+      - question: "Of the phrases <latin>nē plūs ultrā, prō tempore, multum in parvō,</latin> and <latin>persōna nōn grāta,</latin>  which is best described by the word “unwelcome?”"
+        answer: "<latin>PERSŌNA NŌN GRĀTA</latin>"
+  - tossup:
+      question: "Give a Latin antonym for <latin>initium</latin>."
+      answer: "<latin>FĪNIS /</latin> <latin>EXITUS / EXTRĒMUM / TERMINUS / EXITIUM</latin>"
+    boni:
+      - question: "Give a Latin antonym for <latin>perīculum</latin>."
+        answer: "<latin>SALŪS / TŪTUM / INCOLUMITAS / SALVĀTIO / SĀNITAS / VALĒTŪDO</latin>"
+      - question: "Give a Latin antonym for <latin>laetitia.</latin>"
+        answer: "<latin>TRISTITIA / MAESTITIA / DOLOR / TRISTITŪDO</latin>  <latin>---</latin>"
+  - tossup:
+      question: "What brother of Demetrius brought about Demetrius’ execution by playing on the suspicions of their father Philip, ultimately leading to his succession to the throne of Macedon?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What Pergamene king stoked the Romans’ suspicions of Perseus, ultimately leading to the Third Macedonian War?"
+        answer: "EUMENES II"
+      - question: "The Romans had no trouble reading geo-political implications into Perseus’ marriage to Laodice, who was the daughter of what eastern king?"
+        answer: "SELEUCUS IV"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Atalanta est fēmina quae quam omnēs celerius currere possit.</latin>"
+      answer: "ATALANTA IS A / THE (KIND OF) WOMAN WHO  CAN / COULD RUN FASTER THAN EVERYONE."
+    boni:
+      - question: "Translate this sentence: <latin>Cum Atalanta celerrima esset, aliquis tamen eam superāvit.</latin>"
+        answer: "ALTHOUGH ATALANTA WAS THE FASTEST (WOMAN),  SOMEONE BEAT HER NEVERTHELESS."
+      - question: "Translate this sentence: <latin>Sī superēris ab Atalantā, caput tuum sit remōtūrum positūrumque sūprā hastam.</latin>"
+        answer: "IF YOU SHOULD BE / ARE BESTED BY ATALANTA,  IT WOULD REMOVE AND PLACE YOUR HEAD ATOP A SPEAR."
+  - tossup:
+      question: "What type of animal so frightened Battus that he lost his stammer, ravaged Cithaeron until being killed by Alcathoüs, was part of the Chimera together with a goat and a snake, and terrorized Nemea before being strangled by Heracles for his first labor?"
+      answer: "LION(S)"
+    boni:
+      - question: "Others say that Heracles killed the Cithaeronian Lion, because it had ravaged the flocks of what man, his stepfather?"
+        answer: "AMPHITRYON"
+      - question: "Apollo fell in love with what woman when he saw her wrestling a lion on Mount Pelion?"
+        answer: "CYRENE"
+  - tossup:
+      question: "Which of these provinces was farthest east? Epirus, Galatia, Judaea, Numidia, or Raetia?"
+      answer: "JUDAEA"
+    boni:
+      - question: "Which Roman emperor renamed Judaea to Syria Palaestina?"
+        answer: "HADRIAN"
+      - question: "Put the provinces Epirus, Galatia, Judaea, Numidia, and Raetia in order progressing from farthest west to farthest east."
+        answer: "NUMIDIA, RAETIA, EPIRUS, GALATIA, JUDAEA"
+  - tossup:
+      question: "Complete the following analogy: <latin>conor : conārī</latin> :: <latin>intersum</latin> : <emphasis>[blank]</emphasis>"
+      answer: "<latin>INTERESSE</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>conor : conātum esse :: frangō :</latin> <emphasis>[blank]</emphasis>"
+        answer: "<latin>FREGISSE</latin>"
+      - question: "Complete the following analogy: <latin>conor : conāre :: ducō :</latin> <emphasis>[blank]</emphasis>"
+        answer: "<latin>DUC</latin>  <latin>---</latin>"
+  - tossup:
+      question: "<latin>Respondē Latīnē:</latin> <latin>Cuius oculī in caudā pavōnis positī sunt ā Iūnōne?</latin>"
+      answer: "<latin>(OCULĪ) ARGĪ (PANOPTIS)</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quem custōdiēbat Argus antequam caecus factus est?</latin>"
+        answer: "<latin>ĪŌNEM</latin>"
+      - question: "<latin>Respondē Latīnē: Quā in regiōne est perfectum iter Īōnis</latin> <latin>post mortem Argī?</latin>"
+        answer: "<latin>(IN) AEGYPTŌ</latin> (prompt on <latin>Africā</latin>)"
+  - tossup:
+      question: "In Round 1 we asked you about the English word “repugnant.”  What synonym of “repugnant” is a derivative of a Latin word meaning “taste”?"
+      answer: "DISGUSTING"
+    boni:
+      - question: "What synonym of “disgusting” is a derivative of a Latin word meaning “roll”?"
+        answer: "REVOLTING"
+      - question: "What synonym of “revolting” is a derivative of <latin>horreō</latin>, a Latin word meaning “to bristle”?"
+        answer: "ABHORRENT"
+  - tossup:
+      question: "In death, what pair of brothers became either the constellation Gemini or became St. Elmo’s Fire, if one ignores the rumors that they spent alternate days on Olympus and in Hades?"
+      answer: "CASTOR and POLYDEUCES / POLLUX // DIOSCURI"
+    boni:
+      - question: "Polydeuces was originally immortal like what sister of his, who is sometimes called a daughter of Zeus and Nemesis?"
+        answer: "HELEN"
+      - question: "Castor was originally mortal like what sister of his, the mother of Erigone and Chrysothemis?"
+        answer: "CLYTEMNESTRA"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lacerta sibi putāvit: “Etiam plus cibī mē exspectat in domō illīus ursae!” Maximā cum difficultāte lacerta sē levāvit ē flūmine et ursam secūta est, avida magnam cēnam edere.</latin>  <latin>Nescīvit autem ursulōs ā patre ursō servārī, et patrem in animō habēre aliquid edere tantum quam lacertam.</latin>     <title>REPEAT</title>  The question:  <latin>Quōmodo lacerta</latin> <latin>ē flūmine sē levāvit?</latin>"
+      answer: "<latin>MAXIMĀ (CUM) DIFFICULTĀTE // \t\tCUM DIFFICULTĀTE// DIFFICILE // NON FACILE</latin>"
+    boni:
+      - question: "<latin>Cūr lacerta ursam secūta est?</latin>"
+        answer: "<latin>UT MAGNAM CĒNAM EDERET//  VOLUIT / AVIDA (ERAT) EDERE MAGNAM CĒNAM/PLŪS CIBĪ</latin>"
+      - question: "<latin>Quem nōn exspectābat lacerta?</latin>"
+        answer: "<latin>PATREM / URSUM  ---</latin>"
+  - tossup:
+      question: "According to Livy, what king’s reign included building projects, such as draining the area for the Forum and starting construction on the Circus Maximus, but ended in murder at the hands of his predecessor’s sons?"
+      answer: "(L.) TARQUIN(IUS) PRISCUS’ // LUCUMO’S"
+    boni:
+      - question: "Who was Priscus’ wife who predicted his kingship and ensured the reign of his successor?"
+        answer: "TANAQUIL"
+      - question: "Who was this successor who brought the sons of Ancus Marcius to justice before it was revealed that Priscus was dead?"
+        answer: "SERVIUS TULLIUS"

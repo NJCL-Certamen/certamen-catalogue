@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What letters are added to the third person endings of a verb in the present, imperfect, and future tenses to make it passive?"
+      answer: "<latin>-UR</latin>"
+    boni:
+      - question: "What do we call verbs such as <latin>ambulō</latin>, <latin>vireō</latin>, and <latin>caleō</latin>, which cannot be made passive under normal circumstances?"
+        answer: "INTRANSITIVE"
+      - question: "Using a 3rd conjugation verb, say in Latin, “They will be killed.”"
+        answer: "<latin>INTERFICIENTUR</latin> / <latin>CAEDENTUR</latin> / <latin>OCCĪDENTUR</latin>"
+  - tossup:
+      question: "What pious couple survived the flood that destroyed the rest of mankind?"
+      answer: "DEUCALION & PYRRHA"
+    boni:
+      - question: "To what goddess did the couple pray?"
+        answer: "THEMIS"
+      - question: "What did Themis tell the couple to do to re-populate the earth?"
+        answer: "(COVER HEADS, LOOSEN CLOTHING, & ) <emphasis>TOSS</emphasis> THE <emphasis>BONES</emphasis> OF THE GREAT <emphasis>MOTHER OVER</emphasis> YOUR <emphasis>SHOULDERS</emphasis>"
+  - tossup:
+      question: "Translate the verb into Latin for the sentence “Castor and Pollux are called Gemini.”"
+      answer: "<latin>APPELLANTUR</latin>/ <latin>NŌMINANTUR</latin>/ <latin>DĪCUNTUR/ VŌCANTUR</latin>"
+    boni:
+      - question: "Using a dative of possession, translate “two” for the sentence “The two had many adventures.”"
+        answer: "<latin>DUŌBUS</latin> / <latin>DUĀBUS</latin>"
+      - question: "Translate “the other” for the sentence “The was equal to the other.”"
+        answer: "<latin>ALTERĪ</latin>"
+  - tossup:
+      question: "Many Roman soldiers and merchants worshiped what Persian god of light?"
+      answer: "MITHRAS"
+    boni:
+      - question: "Where were most temples or shrines of Mithras?"
+        answer: "IN (NATURAL OR ARTIFICIAL) CAVES"
+      - question: "What creature is Mithras supposed to have killed in a cave?"
+        answer: "BULL"
+  - tossup:
+      question: "Listen carefully to this passage which I will read twice, and answer the question that follows in English. <latin>Duae puellae dīvitēs, cum minimō</latin> <latin>cane, ad fundum vēnērunt ut labōrārent. Quattuor diēs aliquid efficere recūsābant et agricola īrātissimus fiēbat. “Cūr nihil semper agitis?” agricola rōgāvit. Puellae superbē</latin> <latin>respondērunt, “Quia crīnēs flāvae sunt nōbīs et multam pecūniam habēmus.”</latin>  The question: Why did the rich girls and the little dog go to the farm?"
+      answer: "TO WORK"
+    boni:
+      - question: "How did the girls anger the farmer?"
+        answer: "THEY REFUSED TO WORK"
+      - question: "Give two reasons why they didn’t work?"
+        answer: "THEY HAVE BLONDE HAIR AND ARE RICH"
+  - tossup:
+      question: "In the recent movie <title>Troy</title>, the screen writers revised some elements of the Trojan saga. For example, in the movie Agamemnon announced his intentions to take Briseis back to Mycenae with him. What Trojan woman did Agamemnon actually take back?"
+      answer: "CASSANDRA"
+    boni:
+      - question: "Also in the movie, Hector kills Menelaus after Menelaus’ duel with Paris. In Homer’s <title>Iliad</title>, who kills Menelaus?"
+        answer: "NOBODY"
+      - question: "In the movie Achilles jumped out of the Trojan horse. Why is this innacurate?"
+        answer: "<emphasis>ACHILLES WAS DEAD</emphasis> BEFORE TROY FELL"
+  - tossup:
+      question: "What derivative of the Latin noun for “road, way” means “to turn away from the common or right course?”"
+      answer: "DEVIATE"
+    boni:
+      - question: "What derivative of the Latin noun for “witness” means “to abhor”?"
+        answer: "DETEST"
+      - question: "What derivative of the Latin noun for “wall” means “to entomb?”"
+        answer: "IMMURE"
+  - tossup:
+      question: "According to both Roman legend and archaeological evidence, which was the first of Rome’s hills to be settled?"
+      answer: "PALATINE"
+    boni:
+      - question: "Which number on this map of the Palatine designates the private residence of Augustus and Livia?"
+        answer: "2"
+      - question: "Which emperor added the feature numbered 9 to the Palatine complex?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Spērāre facilius est quam crēdere</latin>"
+      answer: "HOPING IS EASIER THAN BELIEVING / TO HOPE IS EASIER THAN TO BELIEVE"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Domum cum amīcīs īre solēbant</latin>"
+        answer: "THEY WERE ACCUSTOMED TO GOING HOME WITH FRIENDS"
+      - question: "Translate the following sentence into English: <latin>Nōn sinunt nōs in urbe manēre</latin>"
+        answer: "THEY DO NOT ALLOW US TO REMAIN IN THE CITY"
+  - tossup:
+      question: "Change the phrase <latin>mōns tōtus</latin> to the genitive"
+      answer: "<latin>MONTIS TŌTĪUS</latin>"
+    boni:
+      - question: "Change <latin>montis tōtīus</latin> to the dative"
+        answer: "<latin>MONTĪ</latin> <latin>TŌTĪ</latin>"
+      - question: "Change <latin>montī</latin> <latin>tōtī</latin> to the ablative"
+        answer: "<latin>MONTE TŌTŌ</latin>"
+  - tossup:
+      question: "Whose program of agrarian reform was vetoed by the tribune M. Octavius in 133 B.C.?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS’"
+    boni:
+      - question: "How did Gracchus circumvent the veto?"
+        answer: "HAD OCTAVIUS REMOVED FROM OFFICE"
+      - question: "By what body was the reform program approved?"
+        answer: "<latin>CONCILIUM PLEBIS</latin>"
+  - tossup:
+      question: "Of the words <latin>mors, mōs, mora, mūs, musca</latin>, which is described here: <latin>Est parvum animal quod in caelō volat</latin>?"
+      answer: "<latin>MUSCA</latin>"
+    boni:
+      - question: "Of the words <latin>mors, mōs, mora, mūs, musca</latin>, which is described here: <latin>Est cunctātiō actiōnis</latin>?"
+        answer: "<latin>MORA</latin>"
+      - question: "Of the words <latin>mors, mōs, mora, mūs, musca</latin>, which is described here: <latin>Est cēna fēlibus vel hominibus ēsūrientissimīs</latin>?"
+        answer: "<latin>MŪS</latin>"
+  - tossup:
+      question: "Which of his family members does Aeneas lose in the escape from Troy?"
+      answer: "(HIS WIFE) CREÜSA"
+    boni:
+      - question: "Which of his family members escape with him?"
+        answer: "ANCHISES & ASCANIUS / IULUS"
+      - question: "What else does Aeneas take with him from burning Troy?"
+        answer: "PENATES / SACRED FIRE / SHIPS / FILLETS"
+  - tossup:
+      question: "Which of Rome’s kings executed Mettius Fufetius?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "By what means was Mettius Fufetius torn apart?"
+        answer: "TORN APART BY <emphasis>CHARIOTS/HORSES</emphasis> DRIVEN IN OPPOSITE DIRECTIONS"
+      - question: "Of what Latin city had Mettius been the ruler?"
+        answer: "ALBA (LONGA)"
+  - tossup:
+      question: "Translate idiomatically the phrase <latin>verba facere</latin>"
+      answer: "TO SPEAK"
+    boni:
+      - question: "<latin>castra pōnere</latin>"
+        answer: "TO PITCH/SET UP CAMP"
+      - question: "ā <latin>puerīs</latin>"
+        answer: "FROM BOYHOOD"
+  - tossup:
+      question: "For whose seduction did Zeus extend the night to three times its proper length?"
+      answer: "ALCMENA / ALCMENE’S"
+    boni:
+      - question: "How did Zeus disguise himself for this seduction?"
+        answer: "AS HER HUSBAND <emphasis>AMPHITRYON</emphasis>"
+      - question: "In due course Alcmena gives birth to twins. Name each twin and his respective father"
+        answer: "HERACLES"
+  - tossup:
+      question: "Who adopted Marcus Ulpius Traianus as his heir and co-regent in A.D. 97?"
+      answer: "(MARCUS COCCEIUS) NERVA"
+    boni:
+      - question: "Of what province was Trajan the military governor at the time of his adoption?"
+        answer: "LOWER GERMANY / <latin>GERMANIA INFERIOR</latin>"
+      - question: "In what province had Trajan been born?"
+        answer: "BAETICA"
+  - tossup:
+      question: "Whom did Perseus rescue from a sea monster sent by Poseidon?"
+      answer: "ANDROMEDA"
+    boni:
+      - question: "What reward did Perseus ask from Andromeda’s father, King Cepheus, for her rescue?"
+        answer: "MARRIAGE TO ANDROMEDA (& A KINGDOM)"
+      - question: "Who, having been previously promised Andromeda as a wife, attempted to oppose the marriage and was turned into stone?"
+        answer: "PHINEUS (CEPHEUS’ BROTHER)"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “on the face of it?”"
+      answer: "<latin>PRĪMĀ</latin> <latin>FACIĒ</latin>"
+    boni:
+      - question: "What Latin phrase is commonly used in English to mean “tit for tat?”"
+        answer: "<latin>QUID PRŌ</latin> <latin>QUŌ</latin>"
+      - question: "What Latin phrase is commonly used in English to mean “masterpiece?”"
+        answer: "<latin>MAGNUM OPUS</latin>"
+  - tossup:
+      question: "Excluding its compounds, give a Latin synonym for the verb <latin>rogō</latin>, <latin>rogāre</latin>"
+      answer: "<latin>PETŌ</latin>/ <latin>POSCŌ</latin>/ <latin>PERCONTOR</latin>/ <latin>QUAERŌ</latin>/ <latin>SCĪSCITOR</latin>/ <latin>SCĪTOR</latin>"
+    boni:
+      - question: "... for the verb <latin>temptō, temptāre</latin>"
+        answer: "<latin>CONOR</latin>"
+      - question: "... for the verb <latin>mūtō</latin>, <latin>mūtāre</latin>"
+        answer: "<latin>VERTŌ</latin>/ <latin>CONVERTŌ</latin>/ <latin>NOVŌ</latin>"

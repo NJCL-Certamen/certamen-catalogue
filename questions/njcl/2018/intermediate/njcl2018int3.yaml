@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "<latin>Respondē Latīnē:</latin>  <latin>In quā parte corporis sunt mentum, aurēs, crīnēsque?</latin>"
+      answer: "<latin>(IN) CAPITE</latin>"
+    boni:
+      - question: "<latin>In quā parte corporis est unguis?</latin>"
+        answer: "<latin>(IN) DIGITĪS / DIGITŌ / MANŪ / MANIBUS / PEDE / PEDIBUS / POLLICE / POLLICIBUS</latin>"
+      - question: "<latin>Respondē Anglicē: Quae pars corporis hūmānī est calx?</latin>"
+        answer: "HEEL / FOOT"
+  - tossup:
+      question: "The battle of Munda was the final victory in a long civil war fought between a cohort of various  \t\toptimates leaders and what man?"
+      answer: "(C. JULIUS) CAESAR"
+    boni:
+      - question: "What general had fought against Caesar in the first two major battles of the war before fleeing  \t\tto Egypt where he was beheaded?"
+        answer: "(CN.) POMPEY (MAGNUS)"
+      - question: "Which of the sons of Pompey was the only leader of the optimates forces to survive the war?"
+        answer: "SEXTUS (POMPEY / POMPEIUS)"
+  - tossup:
+      question: "Using the verbs <latin>videō</latin> and <latin>dormiō</latin> say in Latin:  I saw that a dog was sleeping under a tree."
+      answer: "<latin>(EGO) VĪDĪ / VIDĒBAM  CANEM SUB ARBORE DORMĪRE</latin>"
+    boni:
+      - question: "Make all the necessary changes to say “Do you see that the dogs were sleeping under a tree.”"
+        answer: "<latin>VIDĒSNE CANĒS SUB ARBORE DORMĪ(V)ISSE</latin>"
+      - question: "Say in Latin:  I see that the dogs will sleep under a tree."
+        answer: "<latin>VIDEŌ CANĒS SUB ARBORE DORMĪTŪRŌS /-ĀS ESSE</latin>"
+  - tossup:
+      question: "By cutting the fingers and toes from the corpse, Jason attempted to expiate his murder of what brother of Medea?"
+      answer: "APSYRTUS / ABSYRTUS"
+    boni:
+      - question: "Apsyrtus was also known by what honorific title, meaning “Shining One?”"
+        answer: "PHAËTHON"
+      - question: "Name Medea’s aunt who purified the Argonauts of the murder of Apsyrtus."
+        answer: "CIRCE"
+  - tossup:
+      question: "For the verb <latin>morior</latin>, give the 1st person plural, imperfect indicative."
+      answer: "<latin>MORIĒBĀMUR</latin>"
+    boni:
+      - question: "Change <latin>moriēbāmur</latin> to the future tense."
+        answer: "<latin>MORIĒMUR</latin>"
+      - question: "Change <latin>moriēmur</latin> to the singular."
+        answer: "<latin>MORIAR</latin>"
+  - tossup:
+      question: "Which king of Rome was killed by his son-in-law and had his body further defiled by his own  \t\tdaughter when she drove a chariot over his body?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Name these two blood-thirsty and ambitious characters."
+        answer: "TULLIA MINOR & (L.) TARQUINIUS SUPERBUS"
+      - question: "Name two of the three hills that Tullius is credited with annexing during his reign."
+        answer: "QUIRINAL / ESQUILINE / VIMINAL"
+  - tossup:
+      question: "What god competed against Hera for the patronage of Argos and against Athena for the patronage of Athens but lost both contests?"
+      answer: "POSEIDON"
+    boni:
+      - question: "Name one of the river gods who judged in favor of Hera for the patronage of Argos."
+        answer: "INACHUS / CEPHISUS / ASTERION"
+      - question: "Against whom did Poseidon compete for the patronage of Corinth?"
+        answer: "HELIUS"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice; then answer the question that follows in  \t\tENGLISH: <latin>Vēnātor fīliōs vocāvit et per silvam properāre coepērunt. Cum iam novem mīlia passuum iter fēcerant, subitō ē spēluncā ērūpit sīmia perterrita. Vēnātor sīmiam celeriter in arborem ascendentem sagittā occīdere cōnātus est. Fīliī autem sīmiam cēpērunt et domum dūxērunt.</latin>  (repeat) \tThe question:  How far had the hunter and his sons traveled when they saw the terrified monkey?"
+      answer: "9 MILES"
+    boni:
+      - question: "What did the monkey do after it burst out of the cave?"
+        answer: "CLIMBED (INTO / ONTO) A TREE"
+      - question: "What did the hunter want to do <emphasis>AND</emphasis> what was the final fate of the monkey?"
+        answer: "THE HUNTER WANTED TO KILL THE MONKEY WITH AN ARROW, BUT THE MONKEY WAS CAUGHT BY THE HUNTER’S SONS / THE HUNTER’S SONS TOOK IT HOME"
+  - tossup:
+      question: "From the Latin verb meaning “to will or wish,” what English noun means “free will”?"
+      answer: "VOLITION"
+    boni:
+      - question: "Give the Latin verb and its meaning from which we derive the English word “orient.”"
+        answer: "<latin>ORIOR / ORĪRĪ</latin> - RISE"
+      - question: "Based on its Latin root, what do we mean when we say a person is “peerless”?"
+        answer: "WITHOUT EQUAL"
+  - tossup:
+      question: "On which of the seven hills of Rome were the mass graves of the poor located?"
+      answer: "ESQUILINE"
+    boni:
+      - question: "By what Latin name were these mass graves known?"
+        answer: "<latin>PUTICULĪ</latin>"
+      - question: "Eventually the stench and disease coming from the mass graves were so terrible that which  \t\temperor moved all the bodies outside of the city?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "What man asked to be carried to his father Daunus to die, but was refused when Aeneas caught sight of Pallas’ belt tauntingly displayed on this man’s armor?"
+      answer: "TURNUS"
+    boni:
+      - question: "What king of Pallanteum had sent Pallas to help Aeneas?"
+        answer: "EVANDER"
+      - question: "Over what Italian woman were Turnus and Aeneas fighting?"
+        answer: "LAVINIA"
+  - tossup:
+      question: "Give the Latin term for the couch on which the host of a Roman dinner party would sit?"
+      answer: "<latin>LECTUS ĪMUS</latin>"
+    boni:
+      - question: "What was the Latin name given to the seat of the most distinguished guest?"
+        answer: "<latin>LOCUS CŌNSULĀRIS</latin>"
+      - question: "Give the Latin term for the couch where the <latin>locus cōnsulāris</latin> was located?"
+        answer: "<latin>LECTUS MEDIUS</latin>"
+  - tossup:
+      question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Ūnum tibi dīcam ut rīdeās.</latin>"
+      answer: "<latin>IOCUS</latin>"
+    boni:
+      - question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Est tempus quō tempestās est frīgida et ningit.</latin>"
+        answer: "<latin>HIEMS</latin>"
+      - question: "Of the words <latin>catēna, dēns, hiems, iocus,</latin> and <latin>patera</latin>, which is being described in the following sentence? <latin>Hāc custōdēs</latin> <latin>ūtuntur ut captīvī teneantur.</latin>"
+        answer: "<latin>CATĒNA</latin>"
+  - tossup:
+      question: "Since he was too weak to stir from the dung heap on which he lay, what animal wagged his tail, then died, when he saw that his master had returned to Ithaca?"
+      answer: "ARGUS / ARGOS (PROMPT ON “ODYSSEUS’ DOG”)"
+    boni:
+      - question: "What mythological dog was renowned for being inescapable, but failed to catch the Teumessian  \t\tvixen?"
+        answer: "LAELAPS"
+      - question: "What woman gave Laelaps to her husband, Cephalus, after she received the dog as a gift?"
+        answer: "PROCRIS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Amīcī mihi persuāsērunt ut domī cēnārem</latin>."
+      answer: "(MY) FRIENDS PERSUADED ME TO DINE / EAT (DINNER) AT HOME"
+    boni:
+      - question: "<latin>Rogātī sumus ut cīvibus auxilium ferrēmus</latin>."
+        answer: "WE WERE ASKED / HAVE BEEN ASKED TO BRING HELP TO THE CITIZENS"
+      - question: "<latin>Puerō imperāvī nē equum sibi emeret</latin>."
+        answer: "I ORDERED THE BOY NOT TO BUY A HORSE FOR HIMSELF"
+  - tossup:
+      question: "Which emperor, after winning sole control of the empire at the battle of Margus River, decided to divide the tasks of the emperor among four men?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "Who served as Diocletian’s co-Augustus?"
+        answer: "MAXIMIAN"
+      - question: "Whom did Diocletian appoint as his Caesar in the east?"
+        answer: "GALERIUS"
+  - tossup:
+      question: "From what Latin noun, with what meaning, do we derive the English word “predator”?"
+      answer: "<latin>PRAEDA</latin> – LOOT / BOOTY"
+    boni:
+      - question: "From what Latin adverb, with what meaning, do we derive the English word “repent”?"
+        answer: "<latin>PAENE</latin> – NEARLY / ALMOST"
+      - question: "From what Latin noun, with what meaning, do we derive the English word “appreciate”?"
+        answer: "<latin>PRETIUM –</latin> PRICE / PAY / REWARD / PUNISHMENT"
+  - tossup:
+      question: "To complete which of his labors did Heracles select a boatload of companions and sail to Themiscyra, where his comrade Theseus abducted Antiope and won the enmity of the Amazons?"
+      answer: "GIRDLE OF HIPPOLYTA"
+    boni:
+      - question: "At what city, which was then ruled by Laomedon, did the crew stop on the way home?"
+        answer: "TROY / ILIUM / ILION"
+      - question: "Name Laomedon’s daughter, whom Heracles saved from a sea-monster."
+        answer: "HESIONE"
+  - tossup:
+      question: "Say in Latin, “on August 1st.”"
+      answer: "<latin>KALENDĪS AUGUSTĪS</latin>"
+    boni:
+      - question: "On what day did she die?"
+        answer: "JULY 14"
+      - question: "Give the specific Latin noun form for which <latin>cos</latin> in line 5 is the abbreviation."
+        answer: "<latin>CŌNSULIBUS</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē significat</latin>:  <latin>idōneus?</latin>"
+      answer: "SUITABLE / FIT / APT / CAPABLE / CONVENIENT / PROPER"
+    boni:
+      - question: "For five points each, give two Latin synonyms for <latin>idōneus</latin>."
+        answer: "<latin>APTUS / APPOSITUS /</latin> <latin>COMMODUS / CONGRUUS / CONVENIĒNS / DIGNUS / OPPORTŪNUS / ŪTILIS</latin>"

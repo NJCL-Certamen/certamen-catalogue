@@ -1,0 +1,161 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What derivative of the Latin verb for “carry, bear” means “the boundary of a circle?”"
+      answer: "CIRCUMFERENCE"
+    boni:
+      - question: "What derivative of the Latin verb for “write” means “to restrict or confine?”"
+        answer: "CIRCUMSCRIBE"
+      - question: "What derivative of the Latin verb for “come” means “to avoid or get around?”"
+        answer: "CIRCUMVENT"
+  - tossup:
+      question: "According to Roman tradition, on which of the hills of Rome did Romulus establish an asylum or sanctuary?"
+      answer: "CAPITOLINE"
+    boni:
+      - question: "Between what two temples was the area known as the asylum?"
+        answer: "TEMPLE OF JUPITER CAPITOLINE (OPTIMUS MAXIMUS ET AL.) & TEMPLE OF JUNO MONETA"
+      - question: "What name was given to that part of the Capitoline from which traitors and criminals were thrown?"
+        answer: "TARPEIAN ROCK / <latin>RUPES TARPEIA</latin>"
+  - tossup:
+      question: "What two lovers agreed to meet at the tomb of King Ninus?"
+      answer: "PYRAMUS & THISBE"
+    boni:
+      - question: "What did Pyramus see at their rendevous that made him think Thisbe was dead?"
+        answer: "(LIONESS &) BLOODY CLOAK / VEIL / SHAWL"
+      - question: "When Pyramus killed himself in despair, what transformation was caused by his blood?"
+        answer: "CHANGED MULBERRY (FRUIT & FLOWER) TO RED"
+  - tossup:
+      question: "Of what adjective is <latin>melior</latin> the comparative form?"
+      answer: "<latin>BONUS / -A</latin>"
+    boni:
+      - question: "Of what adjective is <latin>māior</latin> the comparative form?"
+        answer: "<latin>MAGNUS / -A</latin>"
+      - question: "Of what adjective is <latin>minor</latin> the comparative form?"
+        answer: "<latin>PARVUS / -A</latin>"
+  - tossup:
+      question: "According to historical tradition, who usurped the throne of the Alban king Numitor?"
+      answer: "AMULIUS"
+    boni:
+      - question: "Who had founded the city of Alba Longa?"
+        answer: "ASCANIUS or IULUS"
+      - question: "In what region of Italy was Alba Longa?"
+        answer: "LATIUM"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “conversely?”"
+      answer: "<latin>VICE VERSA</latin>"
+    boni:
+      - question: "What Latin phrase is commonly used in English to mean “an unknown or unexplored region?”"
+        answer: "<latin>TERRA INCOGNITA</latin>"
+      - question: "What Latin phrase is commonly used in English to mean “individually?”"
+        answer: "<latin>PER CAPITA</latin>"
+  - tossup:
+      question: "What monster ate its victims when they could not answer her riddle?"
+      answer: "SPHINX"
+    boni:
+      - question: "What Greek deity sent the Sphinx to plague the city of Thebes?"
+        answer: "HERA / APOLLO / DIONYSUS"
+      - question: "Who had taught the Sphinx the riddle which it asked Thebans?"
+        answer: "THE MUSES"
+  - tossup:
+      question: "Which of the following statements best describes what you would do with a <latin>volūmen</latin>? <latin>cibum coquere... captīvōs pūnīre... animālia agitāre... avidē legere</latin>?"
+      answer: "<latin>AVIDĒ LEGERE</latin>"
+    boni:
+      - question: "Which of the following statements best describes what you would do with an <latin>ās</latin>? <latin>in currō equitāre... in oculōs mortuōrum pōnere... canibus dare... consūmere</latin>?"
+        answer: "<latin>IN OCULŌS MORTUŌRUM PŌNERE</latin>"
+      - question: "Which of the following statements best describes what you would do with a <latin>piscis</latin>? <latin>in caput pōnere... in caelō vidēre... mandātīs parēre... in triclīniō consūmere</latin>?"
+        answer: "<latin>IN TRICLĪNIŌ CONSŪMERE</latin>"
+  - tossup:
+      question: "Which emperor spent his nights writing his philosophic reflections during the Marcomannic Wars?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What title is given to these reflections?"
+        answer: "MEDITATIONS / <latin>MEDITATIONES</latin>"
+      - question: "Of what philosophy was Marcus Aurelius a disciple?"
+        answer: "STOICISM"
+  - tossup:
+      question: "What is the meaning of the Latin conjunction <latin>ac?</latin>"
+      answer: "AND"
+    boni:
+      - question: "What is the meaning of the Latin conjunction <latin>vel</latin>?"
+        answer: "EITHER / OR"
+      - question: "What is the meaning of <latin>enim</latin>?"
+        answer: "FOR / BECAUSE / INDEED / TRULY"
+  - tossup:
+      question: "Which mythological creatures each had one single round eye in the center of their foreheads?"
+      answer: "CYCLOPES/CYCLOPS"
+    boni:
+      - question: "For what deity did the Cyclopes construct bolts of lightning?"
+        answer: "ZEUS / JUPITER / JOVE"
+      - question: "For what deity did the Cyclopes make a cap of invisibility?"
+        answer: "HADES / PLUTO / DIS"
+  - tossup:
+      question: "Change the phrase <latin>dens niger</latin> to the accusative plural"
+      answer: "<latin>DENTĒS NIGRŌS</latin>"
+    boni:
+      - question: "Change <latin>dentēs nigrōs</latin> to the ablative plural"
+        answer: "<latin>DENTIBUS NIGRĪS</latin>"
+      - question: "Change <latin>dentibus nigrīs</latin> to the genitive singular"
+        answer: "<latin>DENTIS NIGRĪ</latin>"
+  - tossup:
+      question: "Who shot the arrow that fatally wounded Achilles?"
+      answer: "PARIS / ALEXANDER"
+    boni:
+      - question: "Hand-out the visual. For 5 points each, identify the two warriors holding their shields to protect both themselves and Achilles"
+        answer: "ODYSSEUS AND AJAX TELAMON / THE GREATER"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Da mihi librōs quōs ēmistī</latin>"
+      answer: "GIVE ME THE BOOKS (WHICH) YOU BOUGHT"
+    boni:
+      - question: "Say in Latin, “The boys of the farmer do not read books.”"
+        answer: "<latin>PUERĪ</latin> <latin>AGRICOLAE LIBRŌS NŌN LEGUNT</latin>"
+      - question: "Say in Latin, “The maid whom you see is very pretty.”"
+        answer: "<latin>ANCILLA QUAM VIDĒS / VIDĒTIS EST PULCHERRIMA</latin>"
+  - tossup:
+      question: "Listen carefully to this opinion as expressed by Cicero, which I will read twice, and answer the question that follows in English. <latin>Hoc dīcō</latin> <latin>dē</latin> <latin>tōtō</latin> <latin>genere Graecōrum: laudō</latin> <latin>litterās eōrum et multārum artium scientiam. Ista nātiō</latin> <latin>vēritātem et fīdem numquam coluit.</latin>  The question: According to Cicero, what are two Greek strong points?"
+      answer: "LITERATURE / LETTERS AND ARTS / KNOWLEDGE OF THE ARTS"
+    boni:
+      - question: "For five points each what are two weaknesses of Greek character?"
+        answer: "(LACK OF) TRUTH AND LOYALTY"
+  - tossup:
+      question: "Who became the emperor upon the death of his older brother in A.D. 81?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "Domitian was named after Gnaeus Domitius Corbulo, a general under which emperor?"
+        answer: "NERO"
+      - question: "Why had Nero forced this most capable general to commit suicide?"
+        answer: "INVOLVED IN PISO’S CONSPIRACY"
+  - tossup:
+      question: "Who accidently killed his grandfather Acrisius with a discus?"
+      answer: "PERSEUS"
+    boni:
+      - question: "How had Acrisius tried to circumvent a prophecy that he would be killed by his grandson?"
+        answer: "<emphasis>IMPRISONED</emphasis> HIS <emphasis>DAUGHTER</emphasis> (DANAË) IN A <emphasis>BRONZE</emphasis> CHAMBER / TOWER"
+      - question: "In what form did Zeus enter Danaë’s tower?"
+        answer: "SHOWER OF GOLD"
+  - tossup:
+      question: "Give the Latin root and its meaning from which “apricot,” “cuisine,” “terra cotta,” and “biscuit” are derived"
+      answer: "<latin>COQUŌ, COQUERE</latin> - COOK"
+    boni:
+      - question: "What derivative of <latin>coquō, coquere</latin> means “to devise?”"
+        answer: "CONCOCT"
+      - question: "What derivative of <latin>coquō, coquere</latin> means “marked by unusual early development or maturity?”"
+        answer: "PRECOCIOUS"
+  - tossup:
+      question: "What Roman magistrate was preceded by twelve lictors?"
+      answer: "CONSUL"
+    boni:
+      - question: "What did these twelve lictors carry as symbols of the consul’s power?"
+        answer: "<latin>FASCES</latin>"
+      - question: "What was removed from the fasces when the consuls and his lictors were in Rome?"
+        answer: "AXE / <latin>SECŪRIS</latin>"
+  - tossup:
+      question: "What is the term for the last syllable of a Latin word?"
+      answer: "ULTIMA"
+    boni:
+      - question: "When an enclitic such as -ne or -que is added to a word, what happens to the accent on that word?"
+        answer: "IT FALLS ON THE SYLLABLE BEFORE THE ENCLITIC / ON THE PENULT"
+      - question: "How many syllables are there in the word (((SPELL IT))) q - u - a - e - r - i - t ?"
+        answer: "TWO"

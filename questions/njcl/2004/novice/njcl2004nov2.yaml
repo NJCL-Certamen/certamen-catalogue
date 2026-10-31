@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who gave Bellerophon a magic bridle with which to tame Pegasus?"
+      answer: "ATHENA / MINERVA"
+    boni:
+      - question: "What was Bellerophon trying to do when Zeus caused Pegasus to throw him?"
+        answer: "FLY TO MT. OLYMPUS"
+      - question: "The riderless Pegasus continued to Olympus, where he served Zeus by doing what?"
+        answer: "CARRYING HIS THUNDERBOLTS"
+  - tossup:
+      question: "Give an antonym of <latin>inimīcus</latin>"
+      answer: "<latin>AMĪCUS</latin>, <latin>SOCIUS</latin>, <latin>FĀMILIĀRIS</latin>, <latin>SODĀLIS</latin>, <latin>HOSPES</latin>"
+    boni:
+      - question: ". . . of <latin>servus</latin>"
+        answer: "<latin>DOMINUS</latin> / <latin>ANCILLA</latin> / <latin>LĪBERTUS</latin> / <latin>LĪBERTĪNUS / SERVA</latin>"
+      - question: ". . . of <latin>mons</latin>"
+        answer: "<latin>CAMPUS</latin> / <latin>AGER / MARE / PONTUS / FOSSA / VALLES</latin>"
+  - tossup:
+      question: "Give the superlative form for the adjective <latin>nōbilis</latin>"
+      answer: "<latin>NŌBILISSIMUS</latin>"
+    boni:
+      - question: "Give the corresponding form for the adjective <latin>ācer</latin>"
+        answer: "<latin>ĀCERRIMUS</latin>"
+      - question: "Give the corresponding form for the adjective <latin>similis</latin>"
+        answer: "<latin>SIMILLIMUS</latin>"
+  - tossup:
+      question: "What Roman emperor died in battle against the Goths on August 9, 378 AD?"
+      answer: "VALENS"
+    boni:
+      - question: "Where in Thrace was the battle fought?"
+        answer: "ADRIANOPLE"
+      - question: "What four year old was named emperor with Gratian?"
+        answer: "VALENTINIAN II"
+  - tossup:
+      question: "Who spurned Echo because she could only repeat the last words of his utterances?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "Who had cursed Echo with this unusual speech impediment?"
+        answer: "HERA / JUNO"
+      - question: "What had Echo done to anger Hera?"
+        answer: "DETAINED HERA WITH HER ENDLESS CHATTER WHILE ZEUS DALLIED (WITH OTHER NYMPHS)"
+  - tossup:
+      question: "An inscription on a gambling board from ancient Rome states “<latin>Italia gaudet</latin>”. Translate that inscription"
+      answer: "ITALY REJOICES"
+    boni:
+      - question: "The inscription ends by stating “<latin>Lūdite Rōmānī</latin>.” Translate that inscription"
+        answer: "PLAY, ROMANS!"
+      - question: "Change the inscription “<latin>Lūdite, Rōmānī</latin>” to the singular"
+        answer: "<latin>LŪDE, RŌMĀNE</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “servāre”</latin>?"
+      answer: "SAVE / PROTECT / GUARD"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “necāre”</latin>?"
+        answer: "KILL"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “audēre”</latin>?"
+        answer: "DARE"
+  - tossup:
+      question: "What was the Latin word for a trainer and seller of gladiators?"
+      answer: "LANISTA"
+    boni:
+      - question: "Choose the correct letter and give the Latin word for the item in this picture that is the <emphasis>best</emphasis> evidence that the <latin>lanista</latin> Astinax was once a gladiator himself"
+        answer: "LETTER"
+      - question: "E: RUDIS A <latin>rudis</latin> was not simply a token given to retired gladiators. Why would a gladiator called a <latin>tiro</latin> use a <latin>rudis</latin> similar to the one pictured here?"
+        answer: "FOR TRAINING"
+  - tossup:
+      question: "Who sacrificed his eldest daughter in order to obtain favorable winds to Troy?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "What deity had demanded this sacrifice?"
+        answer: "ARTEMIS"
+      - question: "Name the sacrificed daughter"
+        answer: "IPHIGENIA / IPHIANASSA"
+  - tossup:
+      question: "Listen carefully to the following passage about Pompey the Great, which I will read twice, and answer IN LATIN the question that follows: <latin>Illō tempore pīrātae omnia maria regēbant atque quāsdam urbēs Ītaliae saepe oppugnābant. Licēbat igitur Pompēiō Magnō pīrātās superāre. Brevī tempore Pompēius orbem terrārum ab illīs pīrātīs līberāvit. Nihil hāc victōriā erat celerius, nam quadrāgintā diēbus pīrātās ex tōtō marī expulit.</latin> The question: <latin>Ā quibus Pompēius orbem terrārum līberāvit?</latin>"
+      answer: "<latin>(Ā) PĪRĀTĪS</latin>"
+    boni:
+      - question: "Cūr necesse erat Pompēiō <latin>pīrātās superāre?</latin>"
+        answer: "<latin>(PĪRĀTAE) OMNIA MARIA REGĒBANT / URBĒS ĪTALIAE OPPUGNĀBANT</latin>"
+      - question: "<latin>Unde Pompēius omnēs pīrātās expulit?</latin>"
+        answer: "<latin>EX (TŌTŌ) MARĪ</latin>"
+  - tossup:
+      question: "What do all of the following nouns have in common? <latin>īnsidiae, mānēs, dīvitiae, arma</latin>?"
+      answer: "THEY ARE <emphasis>ONLY</emphasis> USED IN THE PLURAL"
+    boni:
+      - question: "Define the plural noun <latin>castra</latin>."
+        answer: "<latin>CAMP</latin>"
+      - question: "What plural-only noun means “town wall”?"
+        answer: "<latin>MOENIA</latin>"
+  - tossup:
+      question: "Who returned to Rome in A.D. 2 after a self-imposed exile on the island of Rhodes?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What potential heir of Augustus died in A.D. 2?"
+        answer: "(HIS GRANDSON) LUCIUS (CAESAR)"
+      - question: "Whose death caused Augustus finally to adopt Tiberius as his heir in A.D. 4?"
+        answer: "GAIUS CAESAR’S"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “ a slip of the tongue?”"
+      answer: "<latin>LĀPSUS LINGUAE</latin>"
+    boni:
+      - question: "What Latin phrase is commonly used in English to mean “ a slip of memory?”"
+        answer: "<latin>LĀPSUS MEMORIAE</latin>"
+      - question: "What Latin phrase is commonly used in English to mean “ a slip of the pen?”"
+        answer: "<latin>LĀPSUS CALAMĪ</latin>"
+  - tossup:
+      question: "What derivative of the Latin noun <latin>animus</latin> means “dull, lifeless?”"
+      answer: "INANIMATE"
+    boni:
+      - question: "... means “bitter hostility?”"
+        answer: "ANIMOSITY"
+      - question: "... means “cowardly?”"
+        answer: "PUSILLANIMOUS"
+  - tossup:
+      question: "What did Heracles discover each time he cut off one of the heads of the Lernaean Hydra?"
+      answer: "TWO GREW BACK IN ITS PLACE"
+    boni:
+      - question: "Who helped Heracles by cauterizing the stumps as he cut off eight of the heads?"
+        answer: "(HIS NEPHEW) IOLAUS"
+      - question: "What did Heracles do with the Hydra’s ninth head which was immortal?"
+        answer: "BURIED IT UNDER A HUGE ROCK"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Sociī, nōlīte sine audaciā</latin> <latin>pugnāre</latin>"
+      answer: "FRIENDS / ALLIES, DO NOT FIGHT WITHOUT BRAVERY"
+    boni:
+      - question: "Say in Latin, “Mom, don’t say these words.”"
+        answer: "<latin>MĀTER, NŌLĪ</latin> <latin>HAEC (VERBA) DĪCERE / LOQUĪ</latin>"
+      - question: "Say in Latin, “Lucius and Marcus, don’t believe the merchant.”"
+        answer: "<latin>LŪCĪ</latin> <latin>ET MARCE, NŌLĪTE MERCĀTŌRĪ</latin> <latin>CRĒDERE</latin>"
+  - tossup:
+      question: "Where did the Romans lose a minor cavalry skirmish to Hannibal in 218 B.C.?"
+      answer: "TICINUS RIVER"
+    boni:
+      - question: "Whose life did the seventeen-year old Publius Cornelius Scipio save at this battle?"
+        answer: "HIS FATHER’S (SAME NAME)"
+      - question: "Name the elder Scipio’s consular colleague who joined forces with him to meet Hannibal at the Battle of Trebia"
+        answer: "(TIBERIUS SEMPRONIUS) LONGUS"
+  - tossup:
+      question: "Whose singing was so beautiful that it temporarily stopped the revolving of Ixion’s fiery wheel?"
+      answer: "ORPHEUS"
+    boni:
+      - question: "What was Orpheus’ mission in the Underworld?"
+        answer: "TO RETRIEVE HIS WIFE (WHO HAD DIED OF A SNAKEBITE)"
+      - question: "Who was his wife whom he lost twice?"
+        answer: "EURYDICE"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā</latin>: <latin>“Lībertī, dominīs dōna dōnāte!” Quō</latin> <latin>cāsū</latin> <latin>est “dominīs”?</latin>"
+      answer: "DATĪVŌ"
+    boni:
+      - question: "<latin>Cuius numerī</latin> <latin>est “dōna”?</latin>"
+        answer: "PLŪRĀLIS"
+      - question: "Cuius modī <latin>est “dōnāte”?</latin>"
+        answer: "IMPERĀTĪVĪ"
+  - tossup:
+      question: "What reformer secured the passage of the <latin>lex frumentaria</latin> which provided for subsidized grain for the city masses?"
+      answer: "<emphasis>GAIUS</emphasis> GRACCHUS"
+    boni:
+      - question: "What reform did Gracchus secure concerning the juries for extortion trials?"
+        answer: "JURIES COMPOSED OF EQUESTRIANS / KNIGHTS (NOT SENATORS)"
+      - question: "What did Gracchus propose to establish at Capua, Tarentum, and Carthage?"
+        answer: "COLONIES"

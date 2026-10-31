@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What Greek commander, for sacrificing his daughter Iphigenia, was killed by his wife Clytemnestra?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "At what port did Agamemnon perform the sacrifice?"
+        answer: "AULIS"
+      - question: "What deity required this sacrifice in exchange for favorable winds?"
+        answer: "ARTEMIS"
+  - tossup:
+      question: "Please translate into English: <latin>servus dominum in tabernā exspectābat</latin>"
+      answer: "THE SLAVE WAS WAITING/WAITED/USED TO WAIT/DID WAIT FOR THE/HIS MASTER IN THE SHOP/TAVERN/INN"
+    boni:
+      - question: "Please translate into English: <latin>coquī in culīnā multās hōrās labōrāverint</latin>."
+        answer: "THE COOKS WILL HAVE WORKED IN THE KITCHEN FOR MANY HOURS"
+      - question: "Please translate into English: <latin>senex pecūniam ā mercātōre dīligenter numerāverat</latin>"
+        answer: "THE OLD MAN HAD COUNTED THE MONEY FROM THE MERCHANT CAREFULLY/ DILIGENTLY"
+  - tossup:
+      question: "Of the Five Good Emperors, which was the first to break the tradition of adoption and declare his own son as his successor?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "Marcus Aurelius declared Commodus his heir after the death of his wife. Name her"
+        answer: "FAUSTINA THE YOUNGER"
+      - question: "In what year did Marcus Aurelius die and pass rule of the empire to his son?"
+        answer: "180 AD"
+  - tossup:
+      question: "When shipwrecked in North Africa, what leader forged an alliance with Queen Dido of Carthage,  allowing his wayward band of Trojans a place to stay before continuing their quest for Italy?"
+      answer: "AENEAS"
+    boni:
+      - question: "What half-brother of Aeneas caused Dido to fall in love with Aeneas?"
+        answer: "EROS / CUPID"
+      - question: "What did Dido do when Aeneas left for Italy?"
+        answer: "KILLED HERSELF (WITH A SWORD HE LEFT BEHIND)"
+  - tossup:
+      question: "<latin>ubi Pūblius vīllam habēbat?</latin>"
+      answer: "<latin>INTER MONTĒS</latin>"
+    boni:
+      - question: "<latin>quālis</latin> domus in urbe erat <latin>Pūbliō</latin>?"
+        answer: "<latin>MAGNA / URBĀNA</latin>"
+      - question: "<latin>cūr Pūblius nōn saepius ad montēs ībat?</latin>"
+        answer: "(QUOD) SEMPER (IN URBE) <latin>LABŌRĀBAT</latin> "
+  - tossup:
+      question: "Who travelled from Troezen to Athens by land rather than by the safer sea route in order to gain fame  like his cousin, Heracles?"
+      answer: "THESEUS"
+    boni:
+      - question: "During this adventurous journey, what club-wielding son of Hephaestus fought Theseus?"
+        answer: "PERIPHETES / CORYNETES"
+      - question: "Who was the “pine-bender” encountered by Theseus?"
+        answer: "SINIS / PITYOCAMPTES"
+  - tossup:
+      question: "Complete religious freedom throughout the empire and full recognition of the Christian Church were two central ideas put forth in 313 AD by what victor of the Battle of the Milvian Bridge?"
+      answer: "CONSTANTINE THE GREAT / I"
+    boni:
+      - question: "In what edict were these ideas put forth?"
+        answer: "EDICT OF MILAN"
+      - question: "Who married Constantia that year in Milan, forging a temporary alliance with Constantine?"
+        answer: "LICINIUS"
+  - tossup:
+      question: "Complete the following analogy: <latin>amō</latin> : <latin>amāvī</latin> :: <latin>dō</latin> : _______"
+      answer: "<latin>DEDĪ</latin>"
+    boni:
+      - question: "Give the present active participle of <latin>dō</latin>."
+        answer: "<latin>DĀNS</latin> "
+      - question: "Now give the present passive infinitive of <latin>dō</latin>"
+        answer: "<latin>DARĪ</latin>"
+  - tossup:
+      question: "What couple agreed to meet at the tomb of Ninus on the outskirts of Babylon but ended up committing suicide instead due to a misunderstanding involving a lioness and a bloody veil?"
+      answer: "PYRAMUS & THISBE"
+    boni:
+      - question: "How had Pyramus and Thisbe communicated up to that point?"
+        answer: "THROUGH A CHINK IN A WALL"
+      - question: "What fruit changed color when it was soaked with Pyramus and Thisbe’s blood?"
+        answer: "MULBERRY"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quot sunt octō et ūndecim?</latin>"
+      answer: "<latin>ŪNDĒVĪGINTĪ</latin> "
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot sunt sēdecim minus novem</latin>?"
+        answer: "<latin>SEPTEM</latin> "
+      - question: "<latin>Respondē Latīnē: Quot sunt bis vīgintī</latin>?"
+        answer: "<latin>QUADRĀGINTĀ</latin>"
+  - tossup:
+      question: "In what type of structure would a Roman find <latin>mētae, carcerēs,</latin> and the <latin>spīna</latin>?"
+      answer: "<latin>CIRCUS</latin> "
+    boni:
+      - question: "Give the Latin term for “These Things” and explain the purpose for “These Things”"
+        answer: "<latin>ŌVA ET DELPHĪNĪ / DELPHĪNĒS</latin> & TO COUNT THE LAPS OF THE CHARIOT RACES "
+      - question: "Give the Latin term for the type of chariot in this visual"
+        answer: "<latin>QUADRĪGA</latin> "
+  - tossup:
+      question: "Translate into Latin: “The little boy is walking into the field.”"
+      answer: "<latin>PARVUS PUER IN AGRUM/CAMPUM AMBULAT</latin> "
+    boni:
+      - question: "Change that entire sentence to the plural"
+        answer: "<latin>PARVĪ PUERĪ IN AGRŌS/CAMPŌS</latin> AMBULANT"
+      - question: "Translate into Latin: “The mother of the small boys will beat them.”"
+        answer: "<latin>MĀTER</latin> <latin>PARVŌRUM</latin> <latin>PUERŌRUM</latin> <latin>EŌS PULSĀBIT / VERBERĀBIT / FERIET</latin>"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: <latin>cuius canem spectātis?</latin> "
+      answer: "POSSESSIVE / (SHOWING) POSSESSION"
+    boni:
+      - question: "What use of the genitive case is found in the following sentence: <latin>Graecī magnam partem urbis</latin>  <latin>cēpērunt</latin>? "
+        answer: "PARTITIVE / GENITIVE OF THE WHOLE"
+      - question: "What use of the genitive case is found in the following sentence: <latin>magnum timōrem meae vītae habēbam?</latin>"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "What region of the Underworld was guarded by the Hecatoncheires and held the Titans along with  other wicked souls?"
+      answer: "TARTARUS"
+    boni:
+      - question: "From what entity did Tartarus spring into being?"
+        answer: "CHAOS"
+      - question: "What son of Gaea and Tartarus challenged the gods and was buried under Mt. Aetna?"
+        answer: "TYPH(A)ON / TYPHOEUS"
+  - tossup:
+      question: "When might one appropriately use the Latin phrase <latin>mea culpa</latin>?"
+      answer: "TO ADMIT HAVING MADE A <emphasis>MISTAKE</emphasis>"
+    boni:
+      - question: "What Latin phrase means “to err is human”?"
+        answer: "<latin>ERRĀRE HŪMĀNUM EST</latin>"
+      - question: "When one is appointed to certain high positions, he is, or ought to be, told that the appointment is <latin>aut vītam aut culpam</latin>. How long may the appointee hold his position?"
+        answer: "EITHER FOR LIFE OR (UNTIL) GUILT/MISTAKE"
+  - tossup:
+      question: "The death of his brother at the Metaurus River in 207 BC forced what Carthaginian commander to  abandon his land offensive in Italy?"
+      answer: "HANNIBAL (BARCA)"
+    boni:
+      - question: "Name this brother who died at the Metaurus River"
+        answer: "HASDRUBAL (BARCA)"
+      - question: "Name the father of Hannibal who had made him swear undying hatred against Rome?"
+        answer: "HAMILCAR (BARCA)"
+  - tossup:
+      question: "Say in Latin, using a third declension adjective, “the brave soldier.”"
+      answer: "<latin>FORTIS/AUDĀX/FERŌX/ĀCER MĪLES</latin> "
+    boni:
+      - question: "Make <latin>fortis mīles</latin> genitive and plural"
+        answer: "<latin>FORTIUM MĪLITUM</latin> "
+      - question: "Make <latin>fortium mīlitum</latin> ablative singular"
+        answer: "<latin>FORTĪ MĪLITE</latin> "
+  - tossup:
+      question: "What English derivative of the Latin verb <latin>lavō</latin> means “to make a liquid thinner or weaker by adding water or another liquid”?"
+      answer: "DILUTE"
+    boni:
+      - question: "What English derivative of the Latin verb <latin>lavō</latin> means “a great flood of water or a torrential downpour”?"
+        answer: "DELUGE / ALLUVION"
+      - question: "What English derivative of the Latin verb <latin>lavō</latin> means “occurring in great amounts, as in praise or spending”?"
+        answer: "LAVISH"
+  - tossup:
+      question: "In what general direction from the city of Rome would you travel to reach Pannonia? "
+      answer: "NORTH(EAST)"
+    boni:
+      - question: "In what general direction from the city of Rome would you travel to reach Baetica?"
+        answer: "WEST"
+      - question: "In what general direction from the city of Rome would you travel to reach Cappadocia?"
+        answer: "EAST"
+  - tossup:
+      question: "Of the words <latin>quandō, quōmodō, quatiō,</latin> and <latin>quis</latin>, which is NOT an interrogative?"
+      answer: "<latin>QUĀTIŌ</latin>"
+    boni:
+      - question: "Give an interrogative adverb that means “why.” <emphasis>see below for answer</emphasis>"
+        answer: "<latin>CŪR / QUĀRĒ / QUĀPROPTER</latin>"
+      - question: "Give another."
+        answer: "<latin>CŪR / QUĀRĒ / QUĀPROPTER</latin>"

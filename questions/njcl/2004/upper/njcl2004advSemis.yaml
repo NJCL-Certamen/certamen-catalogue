@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "The <title><latin>Metamorphoseon Libr</latin></title>ī, a romance novel in eleven books, was written by Apuleius and has been known since antiquity under what title?"
+      answer: "<title><latin>ASINUS AUREUS</latin></title> / <title>THE GOLDEN ASS</title>"
+    boni:
+      - question: "What is the more common title of Apuleius’ <title><latin>Dē</latin></title> <title><latin>Magic</latin></title>ā, which he wrote to defend himself against the charge of witchcraft?"
+        answer: "APOLOGY / <title><latin>APOLOGIA</latin></title>"
+      - question: "Which of Apuleius’ works is a collection of twenty-three oratorical passages?"
+        answer: "<title><latin>FLŌRIDA</latin></title>"
+  - tossup:
+      question: "<latin>Sāl</latin> : <latin>salārium</latin> :: <latin>aes</latin> : ________"
+      answer: "<latin>AERĀRIUM</latin>"
+    boni:
+      - question: "<latin>Hodiē</latin> : <latin>hodiernus</latin> :: <latin>herī</latin> : ________"
+        answer: "<latin>HESTERNUS</latin>"
+      - question: "<latin>Habēre</latin> : <latin>habilis</latin> :: <latin>nōscere</latin> : ________"
+        answer: "<latin>NŌBILIS</latin>"
+  - tossup:
+      question: "Why did Eurystheus order Heracles to fetch the girdle of Hippolyta?"
+      answer: "BECAUSE HE WANTED TO PLEASE HIS DAUGHTER <emphasis>ADMETE</emphasis>"
+    boni:
+      - question: "What deity was the father of Hippolyta?"
+        answer: "ARES"
+      - question: "Heracles went to the land of the Amazons with Theseus and other Greek heroes. What sister of Hippolyta fell in love with Theseus and betrayed the Amazons to the Greeks?"
+        answer: "ANTIOPE"
+  - tossup:
+      question: "What derivative of the Latin verb for “wander” means “ a deviation from the normal?”"
+      answer: "ABERRATION /ERROR"
+    boni:
+      - question: "What derivative of the Latin verb for “do, drive” means “uncompromising” or “stubborn”?"
+        answer: "INTRANSIGENT"
+      - question: "What derivative of the Latin verb for “be strong” means “widely or commonly occurring?”"
+        answer: "PREVALENT /PREVAILING"
+  - tossup:
+      question: "Translate the protasis of the following sentence into Latin: \"You would have done better if you had not sent the letter.\""
+      answer: "<latin>NISI EPISTULAM / LITTERĀS MĪSISSĒ(TI)S</latin>"
+    boni:
+      - question: "Change the protasis to passive voice"
+        answer: "<latin>NISI EPISTULA Ā VŌBĪS / Ā TĒ MISSA ESSET</latin> or <latin>NISI LITTERAE Ā VŌBĪS / Ā TĒ MISSAE ESSENT</latin>"
+      - question: "Now translate the apodosis"
+        answer: "<latin>MELIUS FĒCISSĒ(TI)S/ ĒGISSĒ(TI)S</latin>"
+  - tossup:
+      question: "Wait until you are instructed to open your visuals. Open your visuals. These are three pictures of ruins in the Forum Romanum. The ruins are labeled “A” through “G”. If you cannot find all the letters, raise your hand. (If needed, help players with letters.) You now have 15 seconds to study the visual. (Wait 15 seconds) To whom was dedicated the building labeled “C”?"
+      answer: "CASTOR (AND POLLUX) <emphasis>OR</emphasis> THE DIOSCURI <emphasis>OR</emphasis> THE CASTORS <emphasis>OR</emphasis> THE GEMINI"
+    boni:
+      - question: "Identify the letter and name of the building pictured here which is closest to the site of the <latin>Rēgia</latin>"
+        answer: "LETTER A: TEMPLE OF VESTA"
+      - question: "Who commissioned the construction of the building labeled “G”?"
+        answer: "JULIUS CAESAR"
+  - tossup:
+      question: "Who dedicated the third book of his <title><latin>Rērum Rūsticārum Librī</latin></title> <title><latin>Trēs</latin></title> to such topics as raising barnyard animals, bees, and fish?"
+      answer: "(M. TERENTIUS) VARRO (REATINUS)"
+    boni:
+      - question: "What is the more common Latin title of Varro’s <title><latin>Rērum Rūsticārum Librī</latin></title> <title><latin>Trēs</latin></title>?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒ</latin></title> <title><latin>RŪSTIC</latin></title>Ā"
+      - question: "Give the Latin title of Varro’s work whichwas an exhaustive systematic treatise that moved from problems of the origin of the Latin language and etymology on to questions of morphology, syntax, and stylistics?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>LINGUĀ</latin></title> <title><latin>LATĪN</latin></title>Ā"
+  - tossup:
+      question: "What daughter of Idas and Marpessa did Meleager take as his wife?"
+      answer: "CLEOPATRA"
+    boni:
+      - question: "Who was the daughter of Meleager and Cleopatra?"
+        answer: "POLYDORA"
+      - question: "According to some sources, Polydora was married to what unfortunate Greek chieftain who died during the first skirmish between the Trojans and the Greeks?"
+        answer: "PROTESILAUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nē</latin> <latin>dē</latin> <latin>fugiendō</latin> <latin>loquāmur</latin>"
+      answer: "LET’S NOT TALK ABOUT FLEEING"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Dux signum dedit flūminis sine morā</latin> <latin>trānseund</latin><latin>ī.</latin>"
+        answer: "THE LEADER GAVE THE SIGNAL FOR CROSSING / TO CROSS /THE RIVER WITHOUT DELAY"
+      - question: "Translate the following sentence into English: <latin>Vōbīs diūtius nōn est cunctandum</latin>"
+        answer: "YOU MUST NOT DELAY / HESITATE FOR A RATHER LONG TIME / ANY LONGER / TOO LONG"
+  - tossup:
+      question: "Who, having been proscribed by Sulla, was invited by the Lusitanians to return to Spain to lead them against Rome?"
+      answer: "(Q.) SERTORIUS"
+    boni:
+      - question: "For five points each, what two prominent Roman commanders were essentially unsuccessful in battle against Sertorius?"
+        answer: "(Q. CAECILIUS) METELLUS PIUS and POMPEY (CN. POMPEIUS MAGNUS)"
+  - tossup:
+      question: "Give the first person plural, imperfect passive subjunctive of the verb <latin>faciō</latin>"
+      answer: "<latin>FIERĒMUS</latin>"
+    boni:
+      - question: "Change <latin>fierēmus</latin> to perfect tense, keeping all else the same"
+        answer: "<latin>FACTĪ</latin> <latin>SĪMUS</latin>"
+      - question: "Now change <latin>factī</latin> <latin>sīmus</latin> to the present tense"
+        answer: "<latin>FIĀMUS</latin>"
+  - tossup:
+      question: "<title><latin>Equos Trōiānus, Gladíolus, Odyssēa</latin></title> and <title><latin>Achillēs</latin></title> were all works written by what school teacher?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "Of what type of <latin>fābula</latin> was <title><latin>Gladíolus</latin></title> an example?"
+        answer: "<latin>PALLIĀTA</latin>"
+      - question: "What word, the ancient name of an Italic water divinity, did Andronicus use in his <title><latin>Odyssēa</latin></title> to render Homer’s “Muse”?"
+        answer: "<latin>CAMENA</latin>"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Quid dīcerēs dē</latin> <latin>tempestāte sī</latin> <latin>aqua dē</latin> <latin>caelō</latin> <latin>dēcideret?</latin>"
+      answer: "PLUIT / DĪCEREM “PLUIT” / DĪCEREM PLUERE"
+    boni:
+      - question: "<latin>Quid dīcerēs dē</latin> <latin>tempestāte sī</latin> <latin>aqua gelāta dē</latin> <latin>caelō</latin> <latin>dēcideret?</latin>"
+        answer: "<latin>NINGIT / DĪCEREM “NINGIT” / DĪCEREM NINGERE</latin> or <latin>GRANDINAT / DĪCEREM “GRANDINAT” / DĪCEREM GRANDINĀRE</latin>"
+      - question: "<latin>Quid dīcerēs dē tempestāte sī nullī nimbī essent in caelō et lux esset undique?</latin>"
+        answer: "(SOL) LŪCET / DĪCEREM “(SOL) LŪCET / DĪCEREM SŌLEM LŪCĒRE CALIDUM EST / CALIDUM ESSE DĪCEREM"
+  - tossup:
+      question: "What is the name of the special chair which was used by higher magistrates and then emperors?"
+      answer: "<latin>SELLA CURŪLIS</latin>"
+    boni:
+      - question: "What feature of the <latin>sella curūlis</latin> allowed magistrates to be itinerant?"
+        answer: "IT FOLDED / HINGES"
+      - question: "Of what material were the legs of a <latin>sella curūlis</latin> made?"
+        answer: "IVORY / GOLD"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Mortuō</latin> <latin>Rōmulō, Nūma Pompilius rex creātus est. Cum nūllum bellum gesserit, tamen nōn minus cīvitātis prōfuit quam Rōmulus. Instituit et lēges et mōrēs Rōmānīs, quī</latin> <latin>iam latrōnēs ac barbarī</latin> <latin>putābantur. Annum sīc dīvīsit in decem mēnsēs quō</latin> <latin>facilius intellegī</latin> <latin>posset. Īnfīnīta templa Rōmae aedificāvit ad fidem deīs crēscendam.</latin>  How did others perceive the Romans before Numa’s reign?"
+      answer: "AS <emphasis>ROBBERS</emphasis> AND <emphasis>SAVAGES / BARBARIANS</emphasis>"
+    boni:
+      - question: "Why did Numa divide the year into ten months?"
+        answer: "SO THAT IT COULD BE MORE EASILY UNDERSTOOD"
+      - question: "Why did Numa build countless temples?"
+        answer: "TO <emphasis>INCREASE</emphasis> THE <emphasis>FAITH</emphasis> / <emphasis>LOYALTY</emphasis> TO THE <emphasis>GODS</emphasis>"
+  - tossup:
+      question: "Which of the Seven Against Thebes was compelled to go on the expedition because his wife had accepted a bribe from Polyneices?"
+      answer: "AMPHIARAUS"
+    boni:
+      - question: "Who was the wife of Amphiaraus who accepted the bribe from Polyneices?"
+        answer: "ERIPHYLE"
+      - question: "Knowing that he would die on this expedition, whom did Amphiaraus force to make to promise of avenging his death on the Thebans and on Eriphyle?"
+        answer: "(HIS SONS) ALCM(A)EON & AMPHILOCHUS"
+  - tossup:
+      question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“Hoc illud, germāna, fuit? Mē</latin> <latin>fraude petēbās?</latin>  <latin>Hoc rogus iste mihi, hoc ignēs āraeque parābant?”</latin>"
+      answer: "ANNA"
+    boni:
+      - question: "Which character in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: <latin>“... iuvenēs, mōnstrāte, meārum</latin>  <latin>vīdistis sī</latin> <latin>quam hīc errantem forte sorōrum</latin>  <latin>succīnctam pharetrā</latin> <latin>et maculōsae tēgmine lyncis.”</latin>"
+        answer: "VENUS"
+      - question: "About whom does Aeneas speak the following line, which I shall read as prose: <latin>“Ō</latin> <latin>fortūnātī, quōrum iam moenia surgunt!”</latin>"
+        answer: "CARTHAGINIANS / <latin>POĒNĪ</latin> <latin>/</latin> PHOENICIANS"
+  - tossup:
+      question: "Which Roman general was “defeated” in a manner of speaking by an “army” of 2000 oxen in 217 B.C.?"
+      answer: "(Q.) FABIUS MAXIMUS (CUNCTATOR)"
+    boni:
+      - question: "In which region of Italy had Fabius trapped Hannibal before the oxen trick allowed Hannibal’s escape?"
+        answer: "CAMPANIA"
+      - question: "What was unusual about the way Fabius had been selected as dictator that year?"
+        answer: "HE HAD BEEN POPULARLY ELECTED"
+  - tossup:
+      question: "Give the ultimate Latin adjective root of our English word “doubt”?"
+      answer: "<latin>DUO</latin>"
+    boni:
+      - question: "Duo combines with what other Latin verb to produce <latin>dubitō</latin>?"
+        answer: "<latin>HABEŌ/HABITŌ</latin>"
+      - question: "Say in Latin, “We do not doubt that we can win.”"
+        answer: "<latin>NŌN DUBITĀMUS QUĪN VINCERE/SUPERĀRE POSSĪMUS</latin>"
+  - tossup:
+      question: "Who led the relatives of Penelope’s suitors to the farm of Laertes in order to avenge the deaths of the suitors?"
+      answer: "(ANTINOUS’ FATHER) EUPEITHES"
+    boni:
+      - question: "Who killed Eupeithes with a spear guided by Athena?"
+        answer: "LAERTES"
+      - question: "What old man, the father of the treacherous goat herd Melantheus, defended the actions of Odysseus to the relatives of the suitors?"
+        answer: "DOLIUS"

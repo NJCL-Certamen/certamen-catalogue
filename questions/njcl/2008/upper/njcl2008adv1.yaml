@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Listen carefully to the following list of synonymous English adjectives. Which of them, if any, does NOT derive from a Latin root? Prolegomenous, preliminary, introductory, preparatory, prefatory"
+      answer: "PROLEGOMENOUS"
+    boni:
+      - question: "What is the meaning of the verb at the root of prefatory?"
+        answer: "SPEAK"
+      - question: "What is the meaning of the noun at the root of preliminary?"
+        answer: "THRESHOLD"
+  - tossup:
+      question: "Who was sent by Hera to the bed of Alcmene in order to delay the birth of Heracles?"
+      answer: "EILEITHYIA (GODDESS OF CHILDBIRTH)"
+    boni:
+      - question: "How was Eileithyia preventing the birth from occuring?"
+        answer: "SHE WAS SITTING WITH HER LEGS (AND ARMS / FINGERS) TIGHTLY CROSSED (AS A CHARM)."
+      - question: "When Galanthis, an attendant of Alcmene, tricked Eileithyia, Heracles was born. Into what did Eileithyia change Galanthis in revenge?"
+        answer: "WEASEL"
+  - tossup:
+      question: "What medical condition do you have if the diagnosis is “angina <latin>(ăn-jī΄nƏ)</latin> pectoris”?"
+      answer: "PAIN IN THE CHEST"
+    boni:
+      - question: "What condition do you have if the diagnosis is “tinnitus <latin>(tĭn-eye-tus)</latin> aurium”?"
+        answer: "RINGING IN/OF THE EARS"
+      - question: "What disease do you have if your doctor’s diagnosis is “sacer <latin>(săs΄Ər)</latin> morbus” or “morbus caducus”?"
+        answer: "EPILEPSY"
+  - tossup:
+      question: "What was the adult Vergil’s first literary work?"
+      answer: "<title><latin>ECLOGUES</latin></title> <latin>/</latin> <title><latin>BUCOLICA</latin></title> <title>/ BUCOLICS</title>"
+    boni:
+      - question: "How many Eclogues were there?"
+        answer: "10"
+      - question: "Which Eclogue is a commiseration to Cornelius Gallus on the loss of his mistress?"
+        answer: "10"
+  - tossup:
+      question: "Who was the daughter of King Creon of Corinth whom Jason wanted to marry, thereby incurring the wrath of Medea?"
+      answer: "GLAUCE / CREUSA"
+    boni:
+      - question: "According to Euripides, Jason threatened Medea with divorce. How did Mermerus and Pheres figure into her revenge?"
+        answer: "SHE KILLED THEM / THEY TOOK THE POISONED ROBE TO GLAUCE."
+      - question: "How did Jason eventually die?"
+        answer: "A <emphasis>BEAM FROM THE ARGO</emphasis> FELL ON HIM"
+  - tossup:
+      question: "<latin>Respondē Latīnē: Quot sunt ter centum?</latin>"
+      answer: "TRECENTĪ /-AE /-A"
+    boni:
+      - question: "<latin>Quid Anglicē significat “septemplex”?</latin>"
+        answer: "SEVENFOLD"
+      - question: "<latin>Verte in Anglicum: centēna mīlia sestertium</latin>"
+        answer: "100,000 SESTERCES"
+  - tossup:
+      question: "Name two emperors, one from the 1st Century, the other from the 2nd, who ascended the throne as boys with promising careers but soon transferred their trust to unscrupulous advisors and died young"
+      answer: "NERO, COMMODUS"
+    boni:
+      - question: "Nero : Seneca :: Commodus : ________?"
+        answer: "(TIGIDIUS) PERENNIS"
+      - question: "Why did Commodus throw Cleander to the mob?"
+        answer: "CLEANDER, AFTER DELIBERATE MISMANAGEMENT, CREATED A <emphasis>GRAIN SHORTAGE</emphasis> AND HIGH PRICES"
+  - tossup:
+      question: "What literary device is exemplified in this line from an Eve 6 song? “I took her hand and then an aspirin in the morning.”"
+      answer: "ZEUGMA / ANAPHORA"
+    boni:
+      - question: "What literary device is exemplified in this line from a Beatles song? “See how they run like pigs from a gun, see how they fly.”"
+        answer: "SIMILE"
+      - question: "What literary device is exemplified in this line from a Nirvana song? I need an easy friend/I do ... with an ear to lend/I do ... think you fit this shoe/I do ... won't you have a clue"
+        answer: "ANAPHORA / METONYMY / METAPHOR"
+  - tossup:
+      question: "Using the verb <latin>crēdō</latin>, say in Latin, “to have trusted.”"
+      answer: "<latin>CRĒDIDISSE</latin>"
+    boni:
+      - question: "Now, use the verb <latin>fīdō</latin> to say “to have trusted.”"
+        answer: "<latin>FĪSUS /-A /-UM ESSE</latin>"
+      - question: "Besides <latin>fīdō</latin>, name two other semi-deponent verbs"
+        answer: "<latin>AUDEŌ, GAUDEŌ, SOLEŌ, CŌNFĪDŌ</latin>"
+  - tossup:
+      question: "What woman from Lyrnessus was taken as a concubine of Achilles when her husband, brothers and parents were killed? Agamemnon later demanded her as a replacement for the loss of his own concubine, Chryseis"
+      answer: "BRISEIS"
+    boni:
+      - question: "What Amazon queen was killed by Achilles, who then fell in love with her corpse?"
+        answer: "PENTHESILEIA"
+      - question: "Which daughter of Lycomedes was the mother of Achilles’ son Pyrrhus?"
+        answer: "DEIDAMEIA"
+  - tossup:
+      question: "At what battle were the consuls Spurius Postumius and Titus Veturius forced to surrender with their whole army?"
+      answer: "CAUDINE FORKS / <latin>FURCULAE CAUDINAE</latin>"
+    boni:
+      - question: "What war was that?"
+        answer: "SECOND SAMNITE"
+      - question: "What year was that?"
+        answer: "321 B.C."
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Ōlim cēpit Rōmulum et Remum cupīdō urbis condendae in eīs locīs ubi expositī atque ēducātī erant. Albānōs igitur et Latīnōs ad urbem novam condendam dūxērunt.</latin> Question: <latin>Quae gentēs ad urbem novam condendam ductae sunt?</latin>"
+      answer: "ALBĀNĪ ET LATĪNĪ"
+    boni:
+      - question: "<latin>Quae rēs Rōmulum et Remum invāserat?</latin>"
+        answer: "CUPĪDŌ URBIS CONDENDAE / URBEM CONDERE CUPĪVĒRUNT/ URBEM FUNDĀRE VOLUĒRUNT"
+      - question: "<latin>Quō cōnsiliō Rōmulus et Remus Albānōs Latīnōsque dūxērunt?</latin>"
+        answer: "AD URBEM (NOVAM) CONDENDAM / UT URBEM NOVAM CONDERENT CŌNSILIŌ URBIS CONDENDAE / CŌNSILIŌ URBEM CONDENDĪ"
+  - tossup:
+      question: "A description of the plague of Athens ends the sixth and final book of what work of Epicurean philosophy?"
+      answer: "<title><latin>DĒ RĒRUM NĀTŪRĀ</latin></title>"
+    boni:
+      - question: "What goddess does Lucretius invoke to start his work?"
+        answer: "VENUS"
+      - question: "What other author is said to have edited the <title><latin>Dē Rērum Nātūrā</latin></title>?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "Give a synonym of the verb <latin>careō</latin>"
+      answer: "<latin>ABSTINEŌ, ABSUM, EGEŌ, DĒFICIŌ, DĒSIDERŌ, INDIGEŌ</latin>"
+    boni:
+      - question: "<latin>accidit</latin>"
+        answer: "ĒVENIT / ĒVĒNIT // CONTINGIT / CONTIGIT // FIT / FACTUM EST // USŪ VENIT / USŪ VĒNIT // AGITUR / ACTUM EST"
+      - question: "<latin>permittō</latin>"
+        answer: "<latin>TRADŌ/ CONICIŌ / IACIŌ / IACTŌ / DONŌ / SINŌ / (CON)CĒDŌ / LICET</latin>"
+  - tossup:
+      question: "Whose death in 54 B.C. contributed to the dissolution of the First Triumvirate?"
+      answer: "JULIA'S"
+    boni:
+      - question: "To whom had she been betrothed before marrying Pompey?"
+        answer: "(QUINTUS) SERVILIUS CAEPIO"
+      - question: "Who was Julia's mother?"
+        answer: "CORNELIA (CINNAE)"
+  - tossup:
+      question: "What use of the genitive case is found in the following quotation from Plautus: “<latin>Quid negōtī sit rogās?</latin>”"
+      answer: "PARTITIVE / GENITIVE OF THE WHOLE"
+    boni:
+      - question: "Translate this quotation from Plautus: “<latin>Mūs ūnī nōn fīdit antrō</latin>.”"
+        answer: "A MOUSE DOES NOT RELY ON / TRUST IN ONE HOLE / CAVE"
+      - question: "Speaking of Plautus, the last word written in his epitaph is <latin>conlacrumārunt</latin>. What is the person, number, and tense of this verb form?"
+        answer: "<latin>3RD PLURAL PERFECT</latin>"
+  - tossup:
+      question: "The fury Allecto, sent by Juno, stirred up what king of the Rutulians against Aeneas?"
+      answer: "TURNUS"
+    boni:
+      - question: "Which Amazon-like leader of the Volscians was an ally of Turnus?"
+        answer: "CAMILLA"
+      - question: "Whom, attempting to defend his father Mezentius, did Aeneas kill?"
+        answer: "LAUSUS"
+  - tossup:
+      question: "The first major defensive wall built around the city of Rome is traditionally known as the Servian Wall. Of what local material was this wall constructed?"
+      answer: "TUFA"
+    boni:
+      - question: "This handout contains pictures of four different styles of ancient Roman building construction. Which picture is an example of <latin>Opus Reticulatum</latin>?"
+        answer: "C"
+      - question: "What style of building construction is exemplified in picture D?"
+        answer: "<latin>OPUS LATERICIUM</latin> / <latin>OPUS TESTACEUM</latin>"
+  - tossup:
+      question: "What Latin word or words would be needed to translate “not” in this sentence? “The soldier dodged the sword in order not to be killed.”"
+      answer: "<latin>NĒ</latin>"
+    boni:
+      - question: "What Latin word is most commonly used to negate an optative subjunctive?"
+        answer: "<latin>NĒ</latin>"
+      - question: "Say in Latin, “The river is so deep that we cannot cross it.”"
+        answer: "<latin>ITA / TAM ALTUM EST FLUMEN UT ID TRĀNSĪRE NŌN POSSĪMUS ITA / TAM ALTUS EST FLUVIUS UT EUM TRĀNSĪRE NŌN POSSĪMUS ITA / TAM ALTUS /-A EST AMNIS UT EUM / -EAM TRĀNSĪRE NŌN POSSĪMUS</latin>"
+  - tossup:
+      question: "What Roman writer puts the following quotation about the Romans in the mouth of a British chieftain: “They steal, they murder, they pillage under the false name of power, and when they make solitude, they call it peace,” in his biography of his father-in-law?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "Which two of Tacitus’ works cover the events from the death of Augustus to the death of Domitian?"
+        answer: "<title><latin>ANNĀLĒS</latin></title> & <title><latin>HISTORIAE</latin></title>"
+      - question: "Which did Tacitus write first?"
+        answer: "<title><latin>HISTORIAE</latin></title>  <latin>2008 NJCL CERTAMEN ADVANCED DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Give the Latin verb at the ultimate root of the English noun \"conjugation.\""
+      answer: "<latin>IUNGŌ</latin>"
+    boni:
+      - question: "of \"adjective.\""
+        answer: "<latin>IACIŌ</latin>"
+      - question: "What English part of speech, used to convey emotion, is also derived from <latin>iaciō</latin>?"
+        answer: "INTERJECTION"
+  - tossup:
+      question: "Who set Danae and Perseus adrift in a box?"
+      answer: "ACRISIUS (prompt if “father” is given)"
+    boni:
+      - question: "Which fisherman rescued Danae and her son from the sea?"
+        answer: "DICTYS"
+      - question: "Who sent Perseus on his mission to fetch Medusa’s head?"
+        answer: "POLYDECTES"
+  - tossup:
+      question: "Which Roman general rescued the Roman forces at Mt. Algidus around 460 BC?"
+      answer: "(L. QUINCTIUS) CINCINNATUS"
+    boni:
+      - question: "What office did Cincinnatus hold at that time?"
+        answer: "DICTATOR(SHIP)"
+      - question: "Which tribe had trapped the Romans at Mt. Algidus?"
+        answer: "AEQUI / AEQUIANS"
+  - tossup:
+      question: "Change the phrase <latin>miser leō</latin> to the plural"
+      answer: "<latin>MISERĪ</latin> <latin>LEŌNĒS</latin>"
+    boni:
+      - question: "Change <latin>miserī</latin> <latin>leōnēs</latin> to the dative"
+        answer: "<latin>MISERĪS LEŌNIBUS</latin>"
+      - question: "Change that <latin>miserīs leōnibus</latin> to the singular"
+        answer: "<latin>MISERŌ</latin> <latin>LEŌNĪ</latin>"
+  - tossup:
+      question: "For what occasion would a Roman father hang a <latin>bulla</latin> around his child’s neck?"
+      answer: "<latin>SUSCEPTIŌ</latin> <latin>/ DIĒS LŪSTRICUS / DIĒS NŌMINUM /</latin>"
+    boni:
+      - question: "  <latin>NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
+        answer: "<latin>FASCINĀTIŌ</latin>"
+      - question: "What is the Latin term for the toys and ornaments strung together worn by infants?"
+        answer: "<latin>CREPUNDIA</latin>"
+  - tossup:
+      question: "After the fall of Troy, who ravaged Cassandra in Athena’s temple?"
+      answer: "AJAX OILEUS/LESSER"
+    boni:
+      - question: "Whose concubine did Cassandra become after the war?"
+        answer: "AGAMEMNON’S"
+      - question: "What deity killed Ajax Oileus?"
+        answer: "ATHENA"
+  - tossup:
+      question: "What use of the dative case is found in the following sentence: <latin>sunt dominō</latin> <latin>multī</latin> <latin>servī</latin> <latin>et ancillae</latin>?"
+      answer: "POSSESSION"
+    boni:
+      - question: "What use of the dative case is found in the following sentence: <latin>dominus multīs</latin>  <latin>servīs praeest</latin>?"
+        answer: "WITH COMPOUND / SPECIAL VERB <latin>PRAESUM</latin>"
+      - question: "What two uses of the dative case are found in the following sentence: <latin>servus magnō</latin> <latin>auxiliō</latin> <latin>dominō</latin> <latin>fuit</latin>?"
+        answer: "REFERENCE & PURPOSE (prompt if “double dative” is given as an answer)"
+  - tossup:
+      question: "What case is governed by the preposition <latin>trāns</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case is governed by the preposition <latin>īnfrā</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What case is governed by the preposition <latin>iuxtā</latin>?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "Near what city did the Python ravage the countryside?"
+      answer: "DELPHI"
+    boni:
+      - question: "What mountain, famous in myth, was nearby?"
+        answer: "MOUNT PARNASSUS"
+      - question: "Which athletic games did Apollo establish there after killing the Python?"
+        answer: "PYTHIAN GAMES"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū</latin> <latin>regēbant. Ultimus rēx, quem Rōmānī</latin> <latin>appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī</latin> <latin>Superbum ex urbe expulērunt.</latin>  <latin>Quem Rōmānī</latin> <latin>ex urbe expulērunt?</latin>"
+      answer: "SUPERBUM / RĒGEM (ULTIMUM)"
+    boni:
+      - question: "Vērum aut falsum: Superbus ab omnibus amābātur"
+        answer: "FALSUM"
+      - question: "Quālis erat Superbus?"
+        answer: "SUPERBUS / CRŪDĒLIS / <latin>TERRIBILIS</latin>"
+  - tossup:
+      question: "What is the Latin noun at the ultimate root of “crown” and \"coronary.\""
+      answer: "<latin>CORŌNA</latin>"
+    boni:
+      - question: ". . . of \"corset.\""
+        answer: "<latin>CORPUS</latin>"
+      - question: ". . . of \"corner.\""
+        answer: "<latin>CORNŪ</latin>"
+  - tossup:
+      question: "During which war did the following battles take place: Baecula, Ilipa, Trebia, Lake Trasimene, Cannae?"
+      answer: "2ND PUNIC WAR"
+    boni:
+      - question: "At what battle did Scipio, later named Africanus, save his father’s life?"
+        answer: "TICINUS RIVER"
+      - question: "Who was the elder Scipio’s consular colleague and co-commander at the loss of Trebia in 218 BC?"
+        answer: "(TIBERIUS) SEMPRONIUS LONGUS"
+  - tossup:
+      question: "What was the name of the fiery river in the Underworld?"
+      answer: "(PYRO) PHLEGETHON"
+    boni:
+      - question: "According to some accounts, across which river, besides the Styx, did Charon do his ferrying?"
+        answer: "ACHERON"
+      - question: "What role did Minos, Rhadamanthys and Aeacus play in the Underworld?"
+        answer: "JUDGES OF THE DEAD"
+  - tossup:
+      question: "Translate into Latin: I have walked for three days"
+      answer: "<latin>TRĒS DIĒS AMBULĀVĪ</latin>"
+    boni:
+      - question: "Translate into Latin: We will arrive in three days"
+        answer: "<latin>TRIBUS DIĒBUS ADVENIĒMUS / PERVENIĒMUS</latin>"
+      - question: " Translate into Latin: They arrived on the fourth day"
+        answer: "<latin>QUARTŌ</latin> <latin>DIĒ</latin> <latin>ADVĒNĒRUNT / PERVĒNĒRUNT</latin>"
+  - tossup:
+      question: "A tombstone for a certain Scaterius Celer begins “<latin>Nihil sumus et fuimus</latin>”. Translate that into English"
+      answer: "WE ARE NOTHING, AND WE HAVE BEEN / WERE (NOTHING) (Posted here as a reference. Do not read)"
+    boni:
+      - question: "<latin>Scaterius Celer</latin>  <latin>Nihil sumus et fuimus. Mortales respice, lector.</latin>  <latin>In nihil ab nihilo quam cito recidimus.</latin> "
+        answer: "<latin>L.</latin>"
+      - question: "Scaterius Amethystus ex testamento fecit  What does this inscription urge the reader to do?"
+        answer: "THINK ABOUT THOSE WHO ARE MORTAL - “LOOK BACK AT THE MORTALS”"
+      - question: "How did Scaterius’ relative know to make this inscription?"
+        answer: "IN HIS WILL"
+  - tossup:
+      question: "Give a synonym of <latin>iānua</latin>"
+      answer: "<latin>ŌSTIUM</latin>, <latin>FORIS</latin>, <latin>PORTA</latin>"
+    boni:
+      - question: ". . . of <latin>pictūra</latin>"
+        answer: "<latin>IMĀGŌ</latin>, <latin>SPECIĒS</latin>"
+      - question: ". . . of <latin>vīlla</latin>"
+        answer: "<latin>DOMUS</latin>, <latin>HABITĀTIŌ</latin>, <latin>CASA</latin>, <latin>AEDĒS</latin>, <latin>TĒCTUM</latin>"
+  - tossup:
+      question: "Who, along with 300 of his supporters, was clubbed to death on the Capitoline hill in 133 BC?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "What nickname did Cornelia, the mother of the Gracchii, have for her sons?"
+        answer: "HER JEWELS"
+      - question: "Who was the maternal grandfather of the Gracchi?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)"
+  - tossup:
+      question: "What minor deity helped Odysseus on his way home from Troy by giving him a full, ox-hide bag?"
+      answer: "AEOLUS"
+    boni:
+      - question: "Which wind was not in that bag?"
+        answer: "ZEPHYR(US)/THE WEST WIND"
+      - question: "Where were Odysseus and his men just before the bag of winds was opened?"
+        answer: "NEAR/WITHIN SIGHT OF ITHACA"
+  - tossup:
+      question: "Who in 29 BC celebrated triumphs on 3 successive days?"
+      answer: "OCTAVIAN / OCTAVIUS / AUGUSTUS"
+    boni:
+      - question: "For five points each, name two of the victories for which the triumphs were held"
+        answer: "ACTIUM, EGYPT, & DALMATIA"
+  - tossup:
+      question: "Give the Latin and the English meaning for the abbreviation <latin>cf</latin>"
+      answer: "CONFER - COMPARE"
+    boni:
+      - question: "Give the Latin and the English for the abbreviation <latin>c.</latin> when it is used before dates"
+        answer: "<latin>CIRCĀ</latin> / <latin>CIRCITER</latin> / <latin>CIRCUM</latin> - ABOUT, APPROXIMATELY, AROUND"
+      - question: "Give the Latin and the English for the abbreviation <latin>con</latin>"
+        answer: "<latin>CONIUNX</latin>"

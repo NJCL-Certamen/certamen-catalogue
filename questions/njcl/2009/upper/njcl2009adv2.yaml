@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "The adjective <latin>similis</latin> regularly takes the dative case. What other case may it take?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What Latin phrase meaning “probable” is an example of this use of <latin>similis</latin> and the genitive?"
+        answer: "<latin>VĒRĪ SIMILIS</latin>"
+      - question: "What indeclinable noun is used with the genitive case and has an effect similar to <latin>similis</latin>?"
+        answer: "<latin>ĪNSTAR</latin>"
+  - tossup:
+      question: "Who recounted Rome’s war with Hannibal in Books 21 through 30 of his massive work on the history of Rome?"
+      answer: "(TITUS) LIVIUS / LIVY"
+    boni:
+      - question: "What is the common Latin title of this history?"
+        answer: "<title><latin>AB URBE CONDITĀ</latin></title>"
+      - question: "What term was given to the summaries written to condense Livy’s voluminous history?"
+        answer: "<title><latin>PERIOCHAE</latin></title>"
+  - tossup:
+      question: "In Book 6 of Ovid’s <title>Metamorphoses</title>, into what kind of creatures were the inhabitants of Lycia transformed by Latona?"
+      answer: "FROGS"
+    boni:
+      - question: "How did the Lycian peasants incur the wrath of Latona?"
+        answer: "THEY DENIED HER WATER"
+      - question: "What was Latona doing when she arrived at Lycia in need of water?"
+        answer: "SHE WAS FLEEING JUNO (WITH BABY APOLLO & DIANA)"
+  - tossup:
+      question: "What derivative of a Latin noun meaning “burden” means “to free from blame or guilt”?"
+      answer: "EXONERATE"
+    boni:
+      - question: "What derivative of a Latin deponent verb meaning “to think” or “to consider” means “to plan beforehand, as in a crime or murder”?"
+        answer: "PREMEDITATE"
+      - question: "What derivative of a Latin noun meaning “prayer” means “to express disapproval of, deplore”?"
+        answer: "DEPRECATE"
+  - tossup:
+      question: "During what emperor’s reign were the <latin>Aqua Alsietīna, Aqua Iūlia,</latin> and <latin>Aqua Virgō</latin> built?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What was the name of Rome’s first high-level aqueduct, which brought water to the top of the Capitoline Hill?"
+        answer: "<latin>AQUA MARCIA</latin>"
+      - question: "What was the name of the last aqueduct built during the Republic?"
+        answer: "<latin>AQUA TEPULA</latin>"
+  - tossup:
+      question: "What son of Helios had a palace at Aea, the capital of Colchis?"
+      answer: "AEËTES"
+    boni:
+      - question: "Identify “This Guy” in Picture #1 <emphasis>and</emphasis> the reason why he was able to remain unharmed, even though Aeëtes asked him to yoke the creatures seen in the picture"
+        answer: "JASON – MEDEA HAD GIVEN HIM MAGIC OINTMENT / CHARM OF PROMETHEUS"
+      - question: "Identify “This Dude” in Picture #2, whom Jason and his men encountered while on their way back from Colchis"
+        answer: "TALOS"
+  - tossup:
+      question: "What use of the independent subjunctive is found in the following sentence: <latin>Forsitan latrō rapuerit quam plūrimum!</latin>"
+      answer: "POTENTIAL"
+    boni:
+      - question: "What use of the independent subjunctive expresses wishes, often with <latin>utinam</latin>?"
+        answer: "OPTATIVE"
+      - question: "What use of the independent subjunctive is found in this sentence? <latin>Quisnam ad hanc quaestiōnem respondēre nōn potuerit?</latin>"
+        answer: "DELIBERATIVE"
+  - tossup:
+      question: "What Silver Age author is said to have recited his own poetry while committing suicide at Nero’s orders at the age of 25 in 65 AD?"
+      answer: "(MARCUS ANNAEUS) <emphasis>LUCAN</emphasis>US"
+    boni:
+      - question: "Lucan’s <title><latin>Bellum Cīvile</latin></title> is about the civil war between what two Roman politicians?"
+        answer: "JULIUS CAESAR & POMPEY"
+      - question: "Under whom did Lucan study Stoicism at Rome?"
+        answer: "(LUCIUS ANNAEUS) CORNUTUS"
+  - tossup:
+      question: "For the verb <latin>fungor</latin>, give all the active participles"
+      answer: "<latin>FUNGĒNS, FUNCTŪRUS (FUNCTUS)</latin>"
+    boni:
+      - question: "Give all the infinitives of <latin>fungor</latin>"
+        answer: "FUNGĪ, FUNCTUS/-UM ESSE, FUNCTŪRUS/-UM ESSE (FUNCTUM ĪRĪ)"
+      - question: "Translate this Latin sentence using a particple of <latin>fungor</latin>: We were working yesterday to perform well today"
+        answer: "<latin>HERI LABŌRĀBĀMUS, HODIĒ BENE FUNCTŪRĪ</latin>"
+  - tossup:
+      question: "Religious rituals and their origins are outlined in what author’s poetic calendar?"
+      answer: "(PUBLIUS) <emphasis>OVID</emphasis>IUS (NASO)"
+    boni:
+      - question: "Into how many books did Ovid intend to divide the <title><latin>Fastī</latin></title>?"
+        answer: "12"
+      - question: "What interrupted Ovid’s work on the <title><latin>Fastī</latin></title>?"
+        answer: "HIS EXILE (TO TOMIS)"
+  - tossup:
+      question: "What second-century emperor sought to win over the public by granting a week of gladiatorial games and cancelling 900 million sesterces worth of debt to the state after the execution of four Roman generals who plotted against him, including Lusius Quietus?"
+      answer: "HADRIAN"
+    boni:
+      - question: "Where had Quietus served as <latin>lēgātus</latin> under Trajan?"
+        answer: "JUDAEA"
+      - question: "To what Praetorian prefect did Hadrian delegate the responsibility of the execution of the “Four Consulars”?"
+        answer: "(CAELIUS) ATTIANUS"
+  - tossup:
+      question: "Define the fourth-declension noun <latin>vīctus</latin>"
+      answer: "LIVELIHOOD / FOOD (NOT LIFE)"
+    boni:
+      - question: "Define the Latin noun <latin>lētum</latin>"
+        answer: "DEATH / DESTRUCTION / RUIN"
+      - question: "Define the Latin noun <latin>lūcus</latin>"
+        answer: "(SACRED) GROVE / WOODS"
+  - tossup:
+      question: "Who instructed the young Heracles in the art of fencing?"
+      answer: "CASTOR"
+    boni:
+      - question: "Who instructed the young Heracles in the art of wrestling?"
+        answer: "AUTOLYCUS"
+      - question: "Who instructed the young Heracles in the art of chariot-driving?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "Who gave birth to the giants Otus and Ephialtes after being impregnated by Poseidon?"
+      answer: "IPHIMED(E)IA"
+    boni:
+      - question: "What had Iphimedeia, having fallen in love with Poseidon, done on a daily basis to attract the attention of the god?"
+        answer: "(WALKED BY THE SEA AND) POURED THE (SEA)WATER INTO HER LAP"
+      - question: "What girl, the sister of Otus and Ephialtes, was the daughter of Iphimedeia and Aloeus?"
+        answer: "PANCRATIS"
+  - tossup:
+      question: "Harry Potter mania refuses to die. Listen to the following passage, which describes the moments before his first Quidditch match. Then, answer IN LATIN the question that follows. <latin>Intereā Rōnaldus et Hermionē, amīcī Harriī, locum forīs invēnerant iūxtā sōdālem. Is nōn poterat intellegere cūr vidērentur tam torvī et anxiī, aut cūr ambō bacula ad lūdum sēcum attulissent.</latin> The question: <latin>Quālēs erant Rōnaldus et Hermionē?</latin>"
+      answer: "TORVĪ / ANXIĪ"
+    boni:
+      - question: "<latin>Prope quem erant Rōnaldus et Hermionē?</latin>"
+        answer: "(PROPE / IUXTĀ) SŌDĀLEM"
+      - question: "<latin>Ubi sunt Rōnaldus et Hermionē et sōdālis?</latin>"
+        answer: "FORĪS / AD LŪDUM"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Mūs cito cucurrit ut leōnem līberāret</latin>"
+      answer: "THE MOUSE QUICKLY RAN (UP) TO FREE THE LION"
+    boni:
+      - question: "Translate: <latin>Cervus fūgit nē ā canibus raperētur</latin>"
+        answer: "THE DEER/STAG FLED SO THAT IT WOULD NOT BE CAUGHT BY THE DOGS / …lest it be… / … in order not to be…"
+      - question: "Translate: <latin>Estne tantī ut parva animālia amēmus?</latin>"
+        answer: "IS IT WORTHWHILE TO LOVE SMALL ANIMALS? / IS IT OF WORTH THAT WE LOVE SMALL ANIMALS?"
+  - tossup:
+      question: "What king of the Vandals sacked Rome in 455 AD?"
+      answer: "GAISERIC"
+    boni:
+      - question: "Where in 439 AD did Gaiseric declare himself an independent ruler owing no allegiance to Rome?"
+        answer: "CARTHAGE / AFRICA"
+      - question: "The army of what Eastern Roman emperor was utterly outwitted by Gaiseric and failed even to reach Africa?"
+        answer: "LEO (I)"
+  - tossup:
+      question: "What Latin prepositional phrase meaning “from what comes before” is used as a legal and philosophical term to describe something not based on prior study or examination?"
+      answer: "<latin>Ā PRIŌRĪ</latin>"
+    boni:
+      - question: "What is the opposite of <latin>ā priōrī</latin>?"
+        answer: "<latin>Ā POSTERIŌRĪ</latin>"
+      - question: "What does the phrase <latin>ā tergō</latin> mean?"
+        answer: "FROM BEHIND / FROM THE BACK / IN THE REAR"
+  - tossup:
+      question: "What Roman author’s <latin>magnum opus</latin> was the first in Latin to be written in dactylic hexameter?"
+      answer: "(QUINTUS) ENNIUS"
+    boni:
+      - question: "What Roman general granted Ennius citizenship and added him to his staff in Aetolia in 189 B.C?"
+        answer: "(MARCUS) FULVIUS NOBILIOR"
+      - question: "What historical tragedy did Ennius write to commemorate the convincing victory of the Romans in Aetolia under the Roman general Fulvius Nobilior?"
+        answer: "<title><latin>AMBRACIA</latin></title>"
+  - tossup:
+      question: "Whose association with the Marsic leader Poppaedius Silo and other Italian agitators may have led to his assassination in 91 BC?"
+      answer: "(MARCUS) LIVIUS DRUSUS"
+    boni:
+      - question: "Who, despite the fact that Drusus warned him about an assassination plot, remained his most persistent opponent?"
+        answer: "(LUCIUS MARCIUS) PHILIPPUS"
+      - question: "What tribune, after the assassination of Drusus, introduced a law in 90 BC that established a court with equestrian jurors to try anyone suspected of collusion with the Italian allies?"
+        answer: "(QUINTUS) VARIUS (HYBRIDA)  <latin>2009 NJCL CERTAMEN ADVANCED DIVISION</latin>"

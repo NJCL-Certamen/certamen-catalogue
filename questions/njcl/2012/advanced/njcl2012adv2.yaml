@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Whose wife, Laodameia, grieved so piteously after his death that he was permitted to return from Hades for a brief time to comfort her?"
+      answer: "PROTESILAUS’"
+    boni:
+      - question: "What king of Iolcus was Laodameia’s father?"
+        answer: "ACASTUS"
+      - question: "What was the name of Protesilaus’ brother who assumed command of his forces after his death – a name also associated with the last king of Troy in his earlier years?"
+        answer: "PODARCES"
+  - tossup:
+      question: "Over 130 comedies can be attributed to what Roman playwright from Sarsina?"
+      answer: "(TITUS MACCIUS) PLAUTUS"
+    boni:
+      - question: "Of his plays that are still extant, which one involves the slave Tranio and a haunted house?"
+        answer: "<title><latin>MOSTELLĀRIA</latin></title>"
+      - question: "What play of Plautus was based on the <title><latin>Onagos</latin></title>, or “Donkey,” of Demophilus?"
+        answer: "<title><latin>ASINĀRIA</latin></title>"
+  - tossup:
+      question: "Make the phrase <latin>ingēns calcar</latin> accusative singular"
+      answer: "<latin>INGĒNS CALCAR</latin>"
+    boni:
+      - question: "Make <latin>ingēns calcar</latin> ablative"
+        answer: "<latin>INGENTĪ CALCĀRĪ / INGENTE CALCARĪ</latin> "
+      - question: "Make <latin>ingēntī calcārī</latin> genitive plural"
+        answer: "<latin>INGENTIUM CALCĀRIUM</latin>"
+  - tossup:
+      question: "Of the cities Cumae, Arpinum, Pompeii, and Veii, which is the farthest south?"
+      answer: "POMPEII"
+    boni:
+      - question: "This mosaic was found in a house in Pompeii. By what name is this house known?"
+        answer: "HOUSE OF THE (DANCING) FAUN"
+      - question: "Identify the prominent figure in the cap on the right and the figure on horseback on the left"
+        answer: "RIGHT – DARIUS (III) LEFT – ALEXANDER (III / THE GREAT / OF MACEDON)"
+  - tossup:
+      question: "<latin>Impotēns</latin>, <latin>affīnis</latin>, <latin>īnsōns</latin>, <latin>pauper</latin>, <latin>perītus</latin>, and <latin>memor</latin> are all adjectives that can govern what case?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What adjective in the toss-up can also take the dative case?"
+        answer: "<latin>AFFĪNIS</latin>"
+      - question: "What adjective in the toss-up can also be followed by an ablative?"
+        answer: "<latin>PERĪTUS</latin>"
+  - tossup:
+      question: "What Danubian officer became emperor after he killed the praetorian prefect Aper with his own hands in 284 AD?"
+      answer: "(GAIUS AURELIUS VALERIUS) DIOCLETIAN"
+    boni:
+      - question: "With Aper dead, Diocletian only faced opposition from what elder son of the former emperor Carus?"
+        answer: "CARINUS"
+      - question: "At what battle did Diocletian finally defeat Carinus?"
+        answer: "MARGUS / MORAVA"
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>d.s.p. (d-period-s-period-p-period)</latin>"
+      answer: "<latin>DĒCESSIT SINE PRŌLĒ</latin>, ((S)HE) DIED WITHOUT OFFSPRING"
+    boni:
+      - question: "Give the Latin and English for the abbreviation <latin>q.pl. (q-period-p-l-period)</latin>"
+        answer: "<latin>QUANTUM PLACET</latin>, AS MUCH AS IS PLEASING"
+      - question: "Give the Latin and English for the abbreviation <latin>a.u. (a-period-u-period)</latin>"
+        answer: "<latin>AURE UTRĀ</latin>, IN EACH EAR"
+  - tossup:
+      question: "Who asked for the use of Cephalus’ hound Laelaps to help him catch the Teumessian vixen, all so that he could lie with his reluctant bride Alcmene?"
+      answer: "AMPHITRYON"
+    boni:
+      - question: "Amphitryon had been banished for killing his father-in-law with a club. Who was this man?"
+        answer: "ELECTRYON"
+      - question: "What great hero was Amphitryon’s grandfather through his father Alcaeus?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "What author established dactylic hexameter as the meter for satire?"
+      answer: "(GAIUS) LUCILIUS"
+    boni:
+      - question: "Into how many books were Lucilius’ satires divided?"
+        answer: "30"
+      - question: "From what town in Campania did Lucilius hail?"
+        answer: "SUESSA ARUNCA"
+  - tossup:
+      question: "<latin>Quō prīmā lūce ībat vir?</latin>"
+      answer: "<latin>AD FONTEM</latin>"
+    boni:
+      - question: "<latin>Ubi vestēs induēbat</latin>?"
+        answer: "<latin>DOMĪ</latin> "
+      - question: "<latin>Quotiēns collem cōnscendere oblītus est</latin>?"
+        answer: "<latin>NUMQUAM</latin>"
+  - tossup:
+      question: "Give a synonym for the Latin noun <latin>lūcus</latin>"
+      answer: "<latin>NEMUS / SILVA</latin> "
+    boni:
+      - question: "Give a synonym for the Latin noun <latin>nūbēs</latin>"
+        answer: "<latin>PROCELLA / NIMBUS / IMBER / TEMPESTĀS / NEBULA / NŪBILA</latin> "
+      - question: "Give a synonym for the Latin noun <latin>fīlum</latin>"
+        answer: "<latin>LĪNUM / LĪNEA / NERVUS</latin>"
+  - tossup:
+      question: "What emperor was pelted with rocks by the urban proletariat after a winning bid of 25,000 sesterces per praetorian guard for the emperorship in 193 AD?"
+      answer: "DIDIUS JULIANUS"
+    boni:
+      - question: "What senator had Didius Julianus outbid in this auction?"
+        answer: "SULPICIANUS"
+      - question: "What previous emperor was the son-in-law of Sulpicianus?"
+        answer: "(HELVIUS) PERTINAX"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Scīsne utrum sociī an hostēs sint</latin>?"
+      answer: "DO YOU KNOW WHETHER THEY ARE ALLIES OR ENEMIES?"
+    boni:
+      - question: "Translate into English: <latin>Sīve pluit sīve ningit, Rōmam eāmus</latin>"
+        answer: "WHETHER IT’S RAINING OR SNOWING, LET’S GO TO ROME"
+      - question: "Translate into English: <latin>Nisi quis imperātor erit, Rōma ruētur</latin>"
+        answer: "UNLESS SOMEONE/ANYONE IS / WILL BE EMPEROR, ROME WILL BE RUINED"
+  - tossup:
+      question: "You’re in ancient Rome, and you see a bumper sticker on your friend’s chariot that reads, <latin>Bālaenae nōbīs cōnservandae sunt</latin>. What does this mean?"
+      answer: "(WE MUST) SAVE THE WHALES"
+    boni:
+      - question: "You notice another sticker on the same chariot that reads, <latin>Frēna prō ferīs retineō</latin>. What does the bumper sticker mean?"
+        answer: "I (HOLD THE) BRAKE(S) FOR (WILD) ANIMALS"
+      - question: "Finally, you notice another chariot with a smaller sticker on it that reads, <latin>Sī hoc lēgere potes, nimis propīnquus ades</latin>. What does this bumper sticker mean?"
+        answer: "IF YOU CAN READ THIS (STICKER ON THE BUMPER), YOU ARE (MUCH) TOO CLOSE"
+  - tossup:
+      question: "What nymph, disguised as Camers, urged the Latins to break the truce that had allowed Aeneas and her brother Turnus to fight in single combat?"
+      answer: "JUTURNA"
+    boni:
+      - question: "According to Vergil, what goddess urged her to do this to save her brother?"
+        answer: "JUNO"
+      - question: "Who committed suicide when she thought that Turnus had been defeated at the hands of Aeneas?"
+        answer: "AMATA"
+  - tossup:
+      question: "What work of Caesar, possibly unfinished in three books, discussed the events of 49-48 BC?"
+      answer: "(<title><latin>COMMENTĀRIĪ</latin></title>) <title><latin>DĒ BELLŌ CĪVILĪ</latin></title> / <title><latin>BELLUM CĪVILE</latin></title> (COMMENTARIES ON) THE CIVIL WAR"
+    boni:
+      - question: "Give the Latin title of Caesar’s treatise on grammatical rules and diction. "
+        answer: "<latin>DĒ ANALOGIĀ</latin> "
+      - question: "Give the Latin title of Cicero’s work that might have inspired Caesar to write <title><latin>Dē Analogiā</latin></title>"
+        answer: "<title><latin>DĒ ŌRĀTŌRE</latin></title>"
+  - tossup:
+      question: "What Latin verb, with what meaning, is at the root of “taste,” “disintegrate,” and “attain”?"
+      answer: "<latin>TANGŌ</latin> / <latin>TANGERE</latin>, TOUCH"
+    boni:
+      - question: "What English noun, derived from a Latin verb meaning “believe,” means “a vicious or depraved person; a villain”?"
+        answer: "MISCREANT"
+      - question: "What English adjective, derived from a Latin verb meaning “measure,” means “having the same measure; of equal extent or duration”?"
+        answer: "COMMENSURATE"
+  - tossup:
+      question: "What event in Roman history occurred for the first time in 494 BC and would happen four more times before the passage of the <latin>Lēx</latin> <latin>Hortēnsia</latin> in 287 BC?"
+      answer: "PLEBEIAN SECESSION / WITHDRAWAL (FROM ROME)"
+    boni:
+      - question: "To what hill did the plebeians secede in 494 BC?"
+        answer: "<latin>MŌNS SĀCER</latin> / AVENTINE"
+      - question: "What Latin term refers to the legal power of patrician magistrates that plebeians such as <latin>tribūnī plēbis</latin> lacked?"
+        answer: "<latin>IMPERIUM</latin>"
+  - tossup:
+      question: "Who was unintentionally killed by a spear tipped with the barb of a stingray by his son Telegonus?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Where was Odysseus buried?"
+        answer: "AEAEA (prompt on “Circe’s isle”)"
+      - question: "After Odysseus was properly buried, Telegonus married Penelope and became the father of what eponymous founder of the Italian people?"
+        answer: "ITALUS"
+  - tossup:
+      question: "That he wrote <latin>et rārō et tardē</latin> was written about what satirist, who wrote only six books and died at the age of 28 in 62 AD?"
+      answer: "(AULUS) PERSIUS (FLACCUS)"
+    boni:
+      - question: "What contemporary author said of Persius’ works, “That is real poetry, whereas what I have written is utter tripe”?"
+        answer: "LUCAN"
+      - question: "What Stoic philosopher tutored Persius at Rome and helped edit much of his work?"
+        answer: "(LUCIUS ANNAEUS) CORNUTUS <latin>2012 NJCL CERTAMEN ADVANCED DIVISION</latin>"

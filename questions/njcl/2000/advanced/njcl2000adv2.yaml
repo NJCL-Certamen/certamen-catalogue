@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What famous Roman orator was the author of two treatises on political science entitled <title><latin>De Re Publica</latin></title> and <title><latin>De Legibus</latin></title>?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "In what final section of the <title><latin>De Re Publica</latin></title> is Scipio Aemilianus the main speaker?"
+        answer: "<title><latin>SOMNIUM SCIPIONIS</latin></title>"
+      - question: "What Greek author was the inspiration of Cicero’s use of dialogues in his <title><latin>De Re Publica</latin></title>?"
+        answer: "PLATO"
+  - tossup:
+      question: "Make the noun <latin>moenia</latin> singular"
+      answer: "IT DOES NOT EXIST (or MOENE)"
+    boni:
+      - question: "Make the noun <latin>epulum</latin> plural"
+        answer: "<latin>EPULAE</latin>"
+      - question: "Make the noun <latin>carbasus</latin> plural"
+        answer: "<latin>CARBASA</latin>"
+  - tossup:
+      question: "Who entrusted the care of young Achilles to King Lycomedes of Scyrus because she knew that Achilles was fated to die at Troy?"
+      answer: "THETIS"
+    boni:
+      - question: "Under what name did Lycomedes rear the disguised Achilles?"
+        answer: "PYRRHA"
+      - question: "What son of Achilles was also known as Pyrrhus because of Achilles’ disguise?"
+        answer: "NEOPTOLEMUS"
+  - tossup:
+      question: "What does the abbreviation <latin>aq. niv.</latin>, which stands for <latin>aqua nivālis</latin>, tell you about the origin of the water?"
+      answer: "FROM (MELTED) SNOW"
+    boni:
+      - question: "What does the abbreviation <latin>aq. bull.</latin>, which stands for <latin>aqua bulliēns</latin>, caution you about the water?"
+        answer: "THE WATER IS <emphasis>BOILING/BUBBLING</emphasis>"
+      - question: "What does the abbreviation <latin>aq. plu.</latin>, which stands for <latin>aqua pluviālis</latin>, tell you about the water?"
+        answer: "THAT IT IS RAINWATER"
+  - tossup:
+      question: "In what war did M. Tullius Cicero and L. Sergius Catiline serve on the staff of Pompeius Strabo?"
+      answer: "SOCIAL/ITALIC/MARSIC WAR"
+    boni:
+      - question: "For what were the Italian allies fighting?"
+        answer: "RIGHTS OF CITIZENSHIP"
+      - question: "Pompeius Strabo ended the war in the North by capturing what city?"
+        answer: "ASCULUM (PICENUM)"
+  - tossup:
+      question: "Translate: <latin>sēdēs tam frīgida est ut eam tangere nōlim</latin>"
+      answer: "THE SEAT IS SO COLD THAT I DO NOT WANT TO TOUCH IT"
+    boni:
+      - question: "Translate: <latin>tempestās tam calida fit ut nōs omnēs in piscinā natāre dēbeāmus</latin>"
+        answer: "THE WEATHER IS GROWING/BECOMING SO HOT/SWELTERING THAT WE ALL SHOULD/OUGHT TO SWIM IN A POOL/POND"
+      - question: "Translate: <latin>tantus clāmor ortus est ut arbitrārēmur hostēs ad mūrum pervēnisse</latin>"
+        answer: "SUCH A GREAT SHOUT HAS RISEN/AROSE THAT WE WERE THINKING/THOUGHT THAT THE ENEMY <emphasis>HAD</emphasis> ARRIVED AT THE WALL"
+  - tossup:
+      question: "Romans who could afford it looked for a cooler place than Rome to spend the summer. Where did the emperor Hadrian build a massive imperial retreat and complex?"
+      answer: "TIBUR / TIVOLI"
+    boni:
+      - question: "Name one of the two lakes in the cool hills southeast of Rome which were popular with upper class Romans?"
+        answer: "NEMI / NEMORENSIS"
+      - question: "or ALBANUS / ALBANO What fashionable seaside spa and resort near Naples boasted having the villas of wealthy Romans such as Cicero as well as many imperial palaces?"
+        answer: "BAIAE"
+  - tossup:
+      question: "What Roman author’s first work is known today as the <title><latin>Liber de Spectaculis</latin></title> or the <title><latin>Liber Spectaculorum</latin></title>?"
+      answer: "(M. VALERIUS) <emphasis>MARTIAL</emphasis>IS"
+    boni:
+      - question: "Which of Martial’s works contained short inscriptions used to accompany presents given on <title>Saturnalia</title>?"
+        answer: "<title><latin>XENIA</latin></title> (“GIFTS FOR GUESTS”)"
+      - question: "Which of Martial’s works contained short inscriptions used to accompany gifts presented to guests at banquets?"
+        answer: "<title><latin>APOPHORETA</latin></title> (“CARRY-OUTS”)"
+  - tossup:
+      question: "With what Olympian goddess did Hermes have a child?"
+      answer: "APHRODITE"
+    boni:
+      - question: "How did Zeus help Hermes in this amorous adventure?"
+        answer: "HE SENT HIS EAGLE TO STEAL ONE OF APHRODITE’S SANDALS AS SHE BATHED (AND SHE WAS UNABLE TO RECOVER THE LOST SANDAL UNTIL SHE CONSENTED TO GRATIFY HERMES’ DESIRES)"
+      - question: "Who was the son of Hermes and Aphrodite?"
+        answer: "HERMAPHRODITUS / ATLANTIUS / ATLANTIADES"
+  - tossup:
+      question: "Give the Latin noun and its meaning from which we get “arcade.”"
+      answer: "<latin>ARCUS</latin> - BOW"
+    boni:
+      - question: "Give the Latin noun and its meaning from which we get “retina.”"
+        answer: "<latin>RĒTE</latin> - NET"
+      - question: "Give the Latin noun and its meaning from which we get “profane.”"
+        answer: "<latin>FANUM</latin> - TEMPLE"
+  - tossup:
+      question: "What use of the dative can be found in the following sentence: <latin>quisque sibi cārus est</latin>?"
+      answer: "WITH SPECIAL ADJECTIVES / <latin>CĀRUS</latin>"
+    boni:
+      - question: "What use of the dative can be found in the following sentence: <latin>occurrit dulcis aqua marī acerbō</latin>?"
+        answer: "WITH COMPOUND VERBS"
+      - question: "What use of the dative can be found in the following sentence: <latin>aureum eī dētrāxit amiculum</latin>?"
+        answer: "SEPARATION"
+  - tossup:
+      question: "<latin>Quid significat: scopulus?</latin>"
+      answer: "ROCK, CRAG, PROMONTORY, DANGER"
+    boni:
+      - question: "<latin>Quid significat: viscis?</latin>"
+        answer: "ENTRAIL, INTERNAL ORGAN, FLESH, WOMB, CHILD, HEART, BOWELS"
+      - question: "<latin>Quid significat: famulus?</latin>"
+        answer: "SERVANT, ATTENDANT, MAN-SLAVE"
+  - tossup:
+      question: "What type of jewelry was the <latin>ānulus</latin>?"
+      answer: "RING FOR THE FINGER; SIGNET RING"
+    boni:
+      - question: "What type of jewelry were <latin>armillae</latin>?"
+        answer: "BRACELETS"
+      - question: "What type of jewelry were <latin>inaurēs</latin>?"
+        answer: "EARRINGS"
+  - tossup:
+      question: "What literary device, other than alliteration, is found in the following quotation: <latin>et superiectō pavidae natārunt aequore dammae</latin>?"
+      answer: "SYNCHYSIS / INTERLOCKING WORD ORDER (HAND OUT THE VISUAL)"
+    boni:
+      - question: "Which of the following quotations demonstrates the use of tmesis?"
+        answer: "B"
+      - question: "Which of the following quotations demonstrates the use of zeugma?"
+        answer: "E"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Ōdī et Amō”. Quae pars ōrātiōnis est “ōdī”?</latin>"
+      answer: "VERBUM"
+    boni:
+      - question: "“Ōdī”, cūius numerī <latin>est?</latin>"
+        answer: "SINGULĀRIS"
+      - question: "“Amō”, dīc passīvum"
+        answer: "AMOR"
+  - tossup:
+      question: "After what defeat was Mark Antony declared a public enemy in 43 B.C.?"
+      answer: "MUTINA"
+    boni:
+      - question: "Which assassin of Caesar had Antony besieged at Mutina?"
+        answer: "<emphasis>DECIMUS</emphasis> (JUNIUS) BRUTUS"
+      - question: "Name the two consuls whom the Senate sent along with Octavian against Antony"
+        answer: "(A.) HIRTIUS"
+      - question: "and (C"
+        answer: "VIBIUS) PANSA"
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, who, upon seeing that Aeneas is alive and armed, angrily demands to know what right Aeneas has to be in the land of the dead?"
+      answer: "CHARON"
+    boni:
+      - question: "With what talisman was the Sibyl able to abate Charon’s anger?"
+        answer: "GOLDEN BOUGH"
+      - question: "What creature was put to sleep by the Sibyl’s drugged cake?"
+        answer: "CERBERUS"
+  - tossup:
+      question: "When you are recognized, perform the following command: <latin>tolle ambās manūs suprā caput et dīc mihī Anglicē tē vēnisse, vīdisse, vīcisse</latin>"
+      answer: "PLAYER RAISES BOTH HANDS ABOVE THE HEAD AND SAYS “I CAME, I SAW, I CONQUERED” (IN ENGLISH)"
+    boni:
+      - question: ": <latin>iacēns humī, tende sinistram manum et dīc mihī Anglicē “et tū Brūte”</latin>"
+        answer: "PLAYER LIES ON THE GROUND AND STRECHES OUT THE LEFT HAND AND SAYS “AND YOU BRUTUS” (<latin>MUST BE IN ENGLISH</latin>)"
+      - question: ": <latin>tolle dextrum pugnum et dīc mihī Anglicē id quod ā Caesare dictum est, Rūbicōne transitō.</latin>"
+        answer: "ONE PLAYER RAISES HIS/HER RIGHT <emphasis>FIST</emphasis> AND SAYS <emphasis>IN ENGLISH</emphasis> “THE DIE IS CAST”"
+  - tossup:
+      question: "According to Ovid, who was transformed into a horse because she revealed too much about the future?"
+      answer: "OCYRHOE / HIPPO"
+    boni:
+      - question: "Who was her father?"
+        answer: "CH(E)IRON"
+      - question: "Who was her mother?"
+        answer: "CHARICLO"
+  - tossup:
+      question: "Whose principal work, which has shaped all Western culture, is the Latin translation of the Bible?"
+      answer: "(SOPHRONIUS EUSEBIUS) HIERONYMUS / (ST.) JEROME"
+    boni:
+      - question: "What is the title given to this translation?"
+        answer: "<title><latin>VULGATA</latin></title> / VULGATE"
+      - question: "Which of Jerome’s works contained 135 biographies of Christian writers, from St. Peter to Jerome himself?"
+        answer: "<title><latin>DE VIRIS ILLUSTRIBUS /</latin> ABOUT FAMOUS MEN</title>"

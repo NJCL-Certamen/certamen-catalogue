@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What author, a native of Carthage, was brought to Rome as a slave and, with support from the Scipio  family, wrote comedies?"
+      answer: "TERENCE (PUBLIUS TERENTIUS AFER)"
+    boni:
+      - question: "What play of Terence was unable to reach its conclusion until its third performance, notably being  skipped over by audiences who preferred to watch gladiator fights and tightrope performances?"
+        answer: "<title><latin>HECYRA</latin></title>"
+      - question: "In crafting his plays, Terence practiced <latin>contāminātiō</latin>, the mixing of plots taken from two or more  previously written plays. From what Greek playwright did Terence borrow much of his material  in this effort?"
+        answer: "MENANDER"
+  - tossup:
+      question: "What nursemaid recognized her master Odysseus when she saw a familiar scar while bathing his feet?"
+      answer: "EURYCLEIA"
+    boni:
+      - question: "When the disguised Odysseus met with Penelope, he pretended that he was the brother of what king  of Crete?"
+        answer: "IDOMENEUS"
+      - question: "According to one tradition, Penelope bore Odysseus a second son after his return. Name this child."
+        answer: "ACUSILAUS / PTOLIPORTHES"
+  - tossup:
+      question: "To what classification of verbs do <latin>mītēscō</latin> and <latin>labāscō</latin> belong?"
+      answer: "INCEPTIVES / INCHOATIVES"
+    boni:
+      - question: "To what classification of verbs do <latin>ēsuriō</latin> and <latin>parturiō</latin> belong?"
+        answer: "DESIDERATIVES"
+      - question: "To what classification of verbs do <latin>cavillor</latin> and <latin>cantillō</latin> belong?"
+        answer: "DIMINUTIVES"
+  - tossup:
+      question: "Who succeeded in banishing Agrippina the Elder shortly after the death of Drusus II but was  ultimately denounced by Tiberius and murdered despite his position as consul of 31 AD and sole  Praetorian prefect?"
+      answer: "(L. AELIUS) SEJANUS"
+    boni:
+      - question: "Sejanus’s path to power was made easier by the death of what empress in 29 AD?"
+        answer: "LIVIA"
+      - question: "Name the prefect of the <latin>vigilēs</latin> who led the senate in arresting Sejanus and thereafter replaced him as  Praetorian prefect."
+        answer: "(Q. SUTORIUS) MACRO"
+  - tossup:
+      question: "Translate into English, “<latin>Sunt in patriā meā quot ovēs tot hominēs</latin>.”"
+      answer: "IN MY COUNTRY THERE ARE AS MANY SHEEP AS PEOPLE / PEOPLE AS SHEEP"
+    boni:
+      - question: "Translate into English, “<latin>Quantō mercātor in arte est melior, tantō est scelestior</latin>.”"
+        answer: "THE BETTER A MERCHANT IS WITH RESPECT TO SKILL, THE WICKEDER HE IS"
+      - question: "Translate into English, “<latin>Non tam turpe fuit vincī quam contendisse decōrum est</latin>.”"
+        answer: "IT WAS NOT AS / SO SHAMEFUL TO BE CONQUERED   AS IT IS FITTING / BECOMING TO HAVE STRIVED"
+  - tossup:
+      question: "Give the accusative singular of the phrase <latin>onus grave</latin>."
+      answer: "<latin>ONUS GRAVE</latin>"
+    boni:
+      - question: "Change <latin>onus grave</latin> to the dative plural."
+        answer: "<latin>ONERIBUS GRAVIBUS</latin>"
+      - question: "Change <latin>oneribus gravibus</latin> to the nominative."
+        answer: "<latin>ONERA GRAVIA</latin>"
+  - tossup:
+      question: "What Arcadian settler founded a city named Pallantium on the banks of the Tiber?"
+      answer: "EVANDER"
+    boni:
+      - question: "Who was Evander’s father?"
+        answer: "HERMES / MERCURY"
+      - question: "According to Vergil, what local deity was Evander honoring with a banquet, when Aeneas and his  men arrived?"
+        answer: "HERCULES"
+  - tossup:
+      question: "Which Roman author wrote a work on the Second Punic War, in which the battle of Cannae alone  comprises two whole books, but the entire work consists of 17 books and over 12,000 lines and is considered the longest poem in the entire Latin <title>corpus</title>?"
+      answer: "SILIUS ITALICUS"
+    boni:
+      - question: "How did Silius Italicus die?"
+        answer: "SELF-IMPOSED STARVATION"
+      - question: "What contemporary of Silius Italicus wrote a poem entitled <title>Argonautica</title>, which deals with the  expedition of Jason and the Argonauts?"
+        answer: "VALERIUS FLACCUS"
+  - tossup:
+      question: "What use of the ablative is found in Vergil’s description of the golden bough in the following  sentence: “<latin>aureus et foliīs et lentō vīmine rāmus</latin>.”"
+      answer: "RESPECT / SPECIFICATION"
+    boni:
+      - question: "The poet goes on to say that once the golden bough has been plucked, “<latin>nōn dēficit alter aureus, et  similī frondēscit virga metallō</latin>.” What use of the ablative is found in this sentence?"
+        answer: "ABLATIVE OF DESCRIPTION"
+      - question: "The golden bough had to be found before Aeneas could enter the “<latin>rēgna invia vīvīs</latin>.” Translate that  Latin phrase."
+        answer: "REALMS / KINGDOMS IMPASSABLE FOR THE LIVING"
+  - tossup:
+      question: "Fearing the spread of rebel power in the Social War, the Roman Senate passed what law near the end  of 90 BC that extended citizenship to all loyal Italian allies?"
+      answer: "<latin>LĒX IŪLIA</latin>"
+    boni:
+      - question: "Name one of the tribunes of 89 BC who passed a law extending citizenship to all free men in Italy and  Cispadane Gaul."
+        answer: "(M.) PLAUTIUS // (C.) PAPIRIUS"
+      - question: "What tribune of 88 BC survived much difficulty to pass a law distributing the newly enfranchised  Italians into the existing thirty-five Roman tribes?"
+        answer: "(P.) SULPICIUS RUFUS"
+  - tossup:
+      question: "Of the words <latin>nōdus, fūmus, nīdus,</latin> and <latin>sīdus</latin>, which is being described in the following Latin  sentence?"
+      answer: "<latin>Est locus ubi hēroēs illustrantur</latin>. SĪDUS"
+    boni:
+      - question: "Of the words <latin>nōdus, fūmus, nīdus,</latin> and <latin>sīdus</latin>, which is being described in the following Latin  sentence?"
+        answer: "<latin>Orītur ex flammā</latin>. FŪMUS"
+      - question: "Which of these four words (<latin>nōdus, fūmus, nīdus,</latin> and <latin>sīdus</latin>) is declined differently from the others?"
+        answer: "SĪDUS"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice, then answer the question that follows in Latin:  <latin>Imperātor exercitum cum, mīlitārī mōre, ad pugnam cohortārētur, in prīmīs commemorāvit  testibus sē mīlitibus ūtī posse, quantō studiō pācem petīsset; neque sē umquam abūtī  mīlitum sanguine neque rem pūblicam alterutrō exercitū prīvāre voluisse.</latin> (repeat)  The question: <latin>Quībus ūsus est imperātor testibus?</latin>"
+      answer: "<latin>MĪLITIBUS</latin>"
+    boni:
+      - question: "<latin>Quā rē imperātor numquam abūsus est?</latin>"
+        answer: "<latin>SANGUINE (MĪLITUM)</latin>"
+      - question: "<latin>Cui necesse est habēre ambōs exercitūs, imperātōris sententiā?</latin>"
+        answer: "<latin>REĪ PŪBLICAE</latin>"
+  - tossup:
+      question: "What daughter of Ares and Otrera possessed a belt that Heracles needed to obtain as one of his  labors?"
+      answer: "HIPPOLYTE"
+    boni:
+      - question: "When Hippolyte promised the belt to Heracles after some discussion, who posed as an Amazon and  reported that Heracles was kidnapping the queen to increase the danger of the labor?"
+        answer: "HERA"
+      - question: "Name the Amazonian capital where Hippolyte lived."
+        answer: "THEMISCYRA"
+  - tossup:
+      question: "In which work does a poet complain that Cupid has stolen a foot, altering his original intentions  as expressed by his opening statement, “<latin>Arma gravī numerō violentaque bella parābam ēdere”</latin>?"
+      answer: "<title><latin>AMŌRĒS</latin></title>"
+    boni:
+      - question: "What is the full name of the author of these <title><latin>Amōrēs</latin></title>?"
+        answer: "PUBLIUS OVIDIUS NASO"
+      - question: "What contemporary of Ovid pays tribute to his patron with the line, “<latin>Maecēnās atavīs ēdite  rēgibus</latin>,” which opens a collection of three books of poetry published in 23 BC?"
+        answer: "HORACE"
+  - tossup:
+      question: "What emperor won battles at Antioch and Emesa and ultimately succeeded in obtaining the surrender  of Palmyra after capturing its queen Zenobia in 272 AD?"
+      answer: "AURELIAN"
+    boni:
+      - question: "What man, who would later hold the throne himself after the assassination of Tacitus in 276 AD,  served as Aurelian’s <latin>magister equitum</latin> during the Palmyrene campaign?"
+        answer: "(M. AURELIUS) PROBUS"
+      - question: "What Danubian province did Aurelian permanently abandon in order to shorten the frontier line and  free up troops for his eastern campaign?"
+        answer: "DACIA"
+  - tossup:
+      question: "Using a gerundive, say in Latin, “We must make a long journey.”"
+      answer: "<latin>NŌBĪS LONGUM ITER FACIENDUM EST</latin>"
+    boni:
+      - question: "Using a gerundive, say in Latin, “You must believe me.”"
+        answer: "<latin>MIHI Ā TĒ CRĒDENDUM EST</latin>"
+      - question: "Using a gerundive, say in Latin, “Aurelia had to use a broken sword.”"
+        answer: "<latin>AURĒLIAE FRACTŌ GLADIŌ ŪTENDUM ERAT</latin>"
+  - tossup:
+      question: "Perseus traveled to a Libyan mountain on which Atlas stood in order to find what daughters of  Phorcys and Ceto, born as grey-haired hags?"
+      answer: "GRAEAE"
+    boni:
+      - question: "After tricking the Graeae, Danae’s son Perseus flung their stolen eye into what body of water in  Libya?"
+        answer: "LAKE TRITONIS"
+      - question: "Perseus, ashamed that he inherited the kingdom of Argos by killing his own grandfather, traded Argos  for which city of Proetus’s, at the time ruled by Megapenthes?"
+        answer: "TIRYNS"
+  - tossup:
+      question: "Which of the following words is NOT derived from the Latin verb <latin>minor</latin>? demeanor, eminent, miniature, prominent"
+      answer: "MINIATURE"
+    boni:
+      - question: "Which of the following words is NOT derived from the Latin verb <latin>metior</latin>? dimension, commensal, measure, immense"
+        answer: "COMMENSAL"
+      - question: "Which of the following words is NOT derived from the Latin noun <latin>merx</latin>? immerse, commerce, mercy, mercenary"
+        answer: "IMMERSE"
+  - tossup:
+      question: "During the late republic, how many <latin>sestertiī</latin> were there in one <latin>dēnārius</latin>?"
+      answer: "4  ("
+    boni:
+      - question: "Identify by letter the <latin>dēnārius</latin> in this picture."
+        answer: "C"
+      - question: "Give the Latin term for the coin depicted in Picture “B”, which did NOT make its debut until the 4th century AD."
+        answer: "<latin>SOLIDUS</latin>"
+  - tossup:
+      question: "What Roman historian, born in 86 BC, allied himself with the <latin>populārēs</latin> faction, was expelled from  the Senate for “moral turpitude,” and wrote historical monographs?"
+      answer: "SALLUST"
+    boni:
+      - question: "For five points each, name Sallust’s two extant monographs."
+        answer: "<latin>BELLUM CATILĪNAE/DĒ CATILĪNAE CONIŪRĀTIŌNE</latin> / ON CATILINE’S CONSPIRACY <latin>BELLUM IUGURTHĪNUM</latin> / ON THE WAR WITH JUGURTHA"

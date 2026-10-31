@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who died as the result of a fall from his horse while campaigning against the Germans in 9 B.C.?"
+      answer: "(NERO CLAUDIUS) DRUSUS"
+    boni:
+      - question: "To whom had Drusus been married?"
+        answer: "ANTONIA (THE YOUNGER)"
+      - question: "Which of the children of Drusus and Antonia became emperor?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "Give the Latin verb and its meaning which is the root of “tissue” and “text.”"
+      answer: "<latin>TEXŌ, TEXERE</latin> - WEAVE"
+    boni:
+      - question: "What derivative of <latin>texō, texere</latin> means “the circumstances in which an event occurs?”"
+        answer: "CONTEXT"
+      - question: "What derivative of <latin>texō, texere</latin> means “an excuse?”"
+        answer: "PRETEXT"
+  - tossup:
+      question: "Whom did Juno command to destroy Aeneas’ fleet in the first book of the <title>Aeneid</title>?"
+      answer: "AEOLUS"
+    boni:
+      - question: "According to the <title>Aeneid</title>, which of her fourteen nymphs did Juno promise to Aeolus as his reward for destroying Aeneas’ fleet?"
+        answer: "DEIOPE(I)A"
+      - question: "What deity foiled Juno’s evil designs and saved Aeneas’ ship?"
+        answer: "NEPTUNE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Haec fābula est mīrābilis nārrātū</latin>."
+      answer: "THIS STORY IS WONDERFUL TO TELL"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Centum mīlitēs Rōmā exiērunt novam colōniam conditum</latin>."
+        answer: "A HUNDRED SOLDIERS LEFT (FROM) ROME TO FOUND A NEW COLONY"
+      - question: "Translate the following sentence into English: <latin>Numquam mihi persuādēbis Rōmānōs ā barbarīs victum īrī</latin>."
+        answer: "YOU WILL NEVER PERSUADE ME THAT THE ROMANS WILL BE CONQUERED BY BARBARIANS / FOREIGNERS"
+  - tossup:
+      question: "In which book of Vergil’s <title>Aeneid</title> does Dido commit suicide?"
+      answer: "BOOK IV"
+    boni:
+      - question: "You now have 15 seconds to study the visual. Which passage is depicted by the picture labeled “A”?"
+        answer: "PASSAGE"
+      - question: "#4 Which passage is depicted by the picture labeled “B”?"
+        answer: "PASSAGE"
+  - tossup:
+      question: "Give a synonym for the Latin verb <latin>lacrimō</latin>, <latin>lacrimāre</latin>"
+      answer: "<latin>LAMENTOR</latin>/ <latin>DEPLORŌ</latin>/ <latin>LUGEŌ</latin>/ <latin>FLEŌ</latin>/ <latin>MISEROR</latin>/ <latin>PLORŌ</latin>/ <latin>VAGIŌ</latin>"
+    boni:
+      - question: "... for the verb <latin>relinquō</latin>, -<latin>ere</latin>"
+        answer: "<latin>DĒSERŌ</latin>/ <latin>DEMITTŌ</latin>"
+      - question: "... for the verb <latin>iaciō</latin>, -<latin>ere</latin>"
+        answer: "<latin>IACTŌ</latin>/ <latin>CONICIŌ</latin>/ <latin>MITTŌ</latin>/ <latin>IACULOR</latin>/ <latin>TORQUEŌ</latin>/ <latin>PRAECIPITŌ</latin>/ <latin>PRORUŌ</latin>/ <latin>STERNŌ</latin> <latin>/</latin> <latin>ĒMITTŌ</latin>"
+  - tossup:
+      question: "Who insisted on taking the perilous land route that led across the Isthmus of Corinth because he wanted to emulate Heracles and make a name for himself?"
+      answer: "THESEUS"
+    boni:
+      - question: "Which of the brigands encountered by Theseus was the son of Hephaestus and Anticleia?"
+        answer: "CORYNETES / PERIPHETES"
+      - question: "Which of the brigands encountered by Theseus was the son of Polypemon and Sylea?"
+        answer: "SIN(N)IS / PITYOCAMPTES"
+  - tossup:
+      question: "Who led the Roman army which drove the Samnites out of Lucania in 298 B.C.?"
+      answer: "(L. CORNELIUS) SCIPIO <emphasis>BARBATUS</emphasis>"
+    boni:
+      - question: "Of what war was this the beginning?"
+        answer: "THIRD SAMNITE"
+      - question: "Where did the Romans defeat the Samnites in 295 BC?"
+        answer: "SENTINUM"
+  - tossup:
+      question: "What Greek chieftain was responsible for capturing Helenus, the son of Priam who knew the oracle concerning the fall of Troy?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Upon hearing Helenus’ prophecy, with whom did Odysseus sail to Scyros to enlist the help of Neoptolemus?"
+        answer: "PHOENIX"
+      - question: "To what citadel of Troy did Odysseus and Diomedes go in order to steal the Palladium?"
+        answer: "PERGAMA"
+  - tossup:
+      question: "Who made a landmark in the history of autobiography by including himself in the discussion of the development of Latin oratory in a work entitled <title><latin>Brutus</latin></title>?"
+      answer: "(MARCUS TULLIUS) CICERO"
+    boni:
+      - question: "Give the Latin title for Cicero’s work in which a young Scipio transmits Roman and family tradition to the younger generation"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>RĒ</latin></title> <title><latin>PŪBLIC</latin></title>Ā"
+      - question: "Give the Latin title for Cicero’s work in which he claims that the training of the perfect orator should rest on a firm basis of the liberal arts?"
+        answer: "<title><latin>D</latin></title>Ē Ō<title><latin>RĀTŌRE / ŌRĀTOR</latin></title>"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “with the necessary changes having been made?”"
+      answer: "<latin>MŪTĀTĪS MŪTANDĪS</latin>"
+    boni:
+      - question: "What does the commonly used Latin phrase <latin>volēns nōlēns</latin> ideomatically mean?"
+        answer: "WILLY NILLY / WHETHER WILLING OR NOT"
+      - question: "What does the commonly used Latin phrase <latin>inter canem et lūpum</latin> ideomatically mean?"
+        answer: "BETWEEN A ROCK AND A HARD PLACE / BETWEEN THE DEVIL AND THE DEEP BLUE SEE / BETWEEN SCYLLA AND CHARYBDIS"
+  - tossup:
+      question: "What emperor had won the titles of Germanicus, Parthicus, and Dacicus?"
+      answer: "(MARCUS ULPIUS TRAIANUS) TRAJAN"
+    boni:
+      - question: "What other title was given to Trajan and stamped on coins because of his tactful and respectful attitude towards the Senate?"
+        answer: "OPTIMUS PRINCEPS"
+      - question: "The Senate later bestowed on some new emperors the compliment <latin>Felicior Augusto Melior Traiano</latin>. What does the Latin mean?"
+        answer: "LUCKIER / HAPPIER THAN AUGUSTUS, BETTER THAN TRAJAN"
+  - tossup:
+      question: "Change the verb <latin>positus esset</latin> to the active"
+      answer: "<latin>POSUISSET</latin>"
+    boni:
+      - question: "Change <latin>posuisset</latin> to perfect tense"
+        answer: "<latin>POSUERIT</latin>"
+      - question: "Change <latin>posuerit</latin> to present tense"
+        answer: "<latin>PŌNAT</latin>"
+  - tossup:
+      question: "In whose works did the emperor Domitian become a symbol of the insane pride of the tyrant whose excesses can debase a whole era?"
+      answer: "JUVENAL’S"
+    boni:
+      - question: "How many satires did Juvenal write?"
+        answer: "SIXTEEN"
+      - question: "To where did Domitian exile Juvenal?"
+        answer: "EGYPT"
+  - tossup:
+      question: "Who negotiated with the Goths for the return of Placida, the sister of Honorius?"
+      answer: "CONSTANTIUS III"
+    boni:
+      - question: "How did Honorius reward Constantius in AD 421?"
+        answer: "NAMED HIM CO-EMPEROR"
+      - question: "Constantius III married Placida. Who was their son?"
+        answer: "VALENTINIAN III"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā, \"Mīlitēs quibus hoc opus faciendum est adsunt,\"Quō</latin> <latin>cāsū</latin> <latin>est “quibus”</latin>?"
+      answer: "<latin>DATĪVŌ</latin>"
+    boni:
+      - question: "<latin>...in hāc sententiā, \"Quae agenda sunt, difficilia sunt,\" cuius generis est “difficilia”</latin>?"
+        answer: "<latin>NEUTRĪUS</latin>"
+      - question: "<latin>...in hāc sententiā, \"Haec opera sunt difficillima,” cuius numerī</latin> <latin>est “opera”?</latin>"
+        answer: "PLŪRĀLIS"
+  - tossup:
+      question: "Who was the task-master of Bellerophon?"
+      answer: "IOBATES"
+    boni:
+      - question: "Which of Iobates’ daughters falsely accused Bellerophon of lusting over her?"
+        answer: "ANT(E)IA / STHENEBOEA"
+      - question: "After completing his tasks, which of the daughters of Iobates did Bellerophon marry?"
+        answer: "PHILONOE / ANTICLEIA / CASSANDRA"
+  - tossup:
+      question: "What type of subjunctive clause is found in the dependent clause of the following Latin sentence? <latin>Nihil erat reliquum unde agger comportārī</latin> <latin>posset</latin>"
+      answer: "RELATIVE CLAUSE OF CHARACTERISTIC/ DESCRIPTION"
+    boni:
+      - question: "<latin>Vergīnius morātus est dum collēgam cōnsuleret</latin>"
+        answer: "ANTICIPATORY"
+      - question: "<latin>Ōderint dum metuant</latin>"
+        answer: "PROVISO"
+  - tossup:
+      question: "Who conveyed the magnetism of Julius Caesar and the complexities of Augustus’ personality in his <title><latin>Dē</latin></title> <title><latin>Vītā</latin></title> <title><latin>Caesarum</latin></title>?"
+      answer: "SUETONIUS"
+    boni:
+      - question: "Give the Latin title for Suetonius’ work which was a collection of biographies of writers subdivided by genres"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>VIRĪS ILLUSTRIBUS</latin></title>"
+      - question: "With respect to his <title><latin>Dē</latin></title> <title><latin>Virīs Illustribus</latin></title>, what was the significance of <title><latin>Dē</latin></title> <title><latin>Grammāticīs et Rhētōribus</latin></title>?"
+        answer: "IT’S THE ONLY SECTION THAT IS EXTANT"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Quīdam puer et eius canis sermōnem habēbant. Puer ait, “Exīstimō, canis, tē</latin> <latin>esse optimum meōrum amīcōrum. Quid putās dē</latin> <latin>hāc sententiā?” Cui respondit canis, sententiā</latin> <latin>cogitātā, “Mihi vidētur tibi tacendum esse. Nam sōlī</latin> <latin>insānī</latin> <latin>ad canēs alloquuntur.”</latin>  The question: <latin>Sententiā</latin> <latin>puerī, quis est melior amīcus cane?</latin>"
+      answer: "<latin>NĒMŌ</latin> <latin>/ NŪLLUS (AMĪCUS)</latin>"
+    boni:
+      - question: "<latin>Quō</latin> <latin>modō</latin> <latin>dēscrībātur puer sī</latin> <latin>ille canī</latin> <latin>dīcat?</latin>"
+        answer: "INSĀNUS"
+      - question: "Cui tacendum erat?"
+        answer: "PUERŌ <latin>/ AMĪCŌ</latin> <latin>/ DOMINŌ</latin>"

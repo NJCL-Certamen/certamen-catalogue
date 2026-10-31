@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "According to Ovid, how did Jupiter get close enough to Callisto to seduce her?"
+      answer: "(HE APPROACHED HER) IN THE FORM OF DIANA / APOLLO"
+    boni:
+      - question: "Into what kind of creature did Juno transform Callisto?"
+        answer: "(SHE-)BEAR"
+      - question: "Who was the child of Jupiter and Callisto?"
+        answer: "ARCAS"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Tū</latin> <latin>es cīvis Rōmānus in urbe Rōmā</latin> <latin>antīquā. Vīs panem emere, templa vidēre, cūriam vīsitāre. Quō</latin> <latin>ambulābis?</latin>"
+      answer: "<latin>AD / IN FORUM (RŌMĀNUM)</latin>"
+    boni:
+      - question: "<latin>Tū</latin> <latin>es cīvis Rōmānus in urbe Rōmā</latin> <latin>antīquā</latin> <latin>et necesse est tibi vīsitāre templum deī</latin> <latin>medicīnae. Dīc Anglicē</latin> <latin>nōmen illīus deī</latin> <latin>cui templum in īnsulā</latin> <latin>tiberīnā</latin> <latin>dēdicātum est</latin>"
+        answer: "AESCULAPIUS"
+      - question: "<latin>Nunc aurīgās et factiōnēs et equōs vidēre vīs. Itaque ad locum inter montem Palātīnum et montem Aventīnum ambulās. Dīc mihi Latīnē</latin> <latin>quō</latin> <latin>eās?</latin>"
+        answer: "AD CIRCUM (MAXIMUM)"
+  - tossup:
+      question: "What law, passed in 90 BC, conferred citizenship on all Latins and Italians still loyal to Rome during the Social War?"
+      answer: "<latin>LĒX IŪLIA</latin>"
+    boni:
+      - question: "Name one of the tribunes of 89 BC who put through a more comprehensive bill that granted citizenship to all free persons residing in any allied community who would register before a Roman praetor within sixty days"
+        answer: "(MARCUS) PLAUTIUS (SILVANUS) / (GAIUS) PAPIRIUS (CARBO)"
+      - question: "What consul of 89 BC passed a third law that extended citizenship to all free persons residing in the Cisalpine region south of the Po and Latin rights to those living north of the river?"
+        answer: "(GNAEUS POMPEIUS) STRABO"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Omnī</latin> <latin>pecūniā</latin> <latin>cōnsūmptā, fūrēs novās victimās quaerere coepērunt.</latin>"
+      answer: "THE THIEVES, AFTER ALL THE MONEY HAD BEEN USED UP, BEGAN TO LOOK FOR NEW VICTIMS"
+    boni:
+      - question: "<latin>Duce interfectō, mīlitēs nesciēbant quō</latin> <latin>iter facerent.</latin>"
+        answer: "BECAUSE / AFTER / WHEN THE LEADER HAD BEEN KILLED, THE SOLDIERS DIDN’T KNOW WHERE TO MARCH / TRAVEL"
+      - question: "<latin>Sōle ortō, senātōrēs nātū</latin> <latin>maximī</latin> <latin>intrā</latin> <latin>cūriam sedēbant.</latin>"
+        answer: "AFTER THE SUN HAD RISEN / AFTER THE SUN ROSE, THE OLDEST / GREATEST BY BIRTH SENATORS WERE SITTING IN(SIDE) THE SENATE HOUSE / CURIA"
+  - tossup:
+      question: "Differentiate in meaning between <latin>mōs</latin> and <latin>mox</latin>"
+      answer: "<latin>MŌS</latin> - CUSTOM / <latin>MOX</latin> - SOON"
+    boni:
+      - question: "Differentiate in meaning between <latin>nōmen</latin> and <latin>nūmen.</latin>"
+        answer: "<latin>NŌMEN</latin> - NAME / <latin>NŪMEN</latin> - DIVINE WILL, SPIRIT OF NATURE"
+      - question: "Differentiate in meaning between <latin>tegō</latin> and <latin>texō</latin>"
+        answer: "<latin>TEGŌ</latin> - COVER, PROTECT / <latin>TEXŌ</latin> - WEAVE"
+  - tossup:
+      question: "Where did Deiphobe serve as prophetess?"
+      answer: "CUMAE"
+    boni:
+      - question: "This visual depicts a famous Roman literary scene at a cave entrance near Cumae. Who is the mother of “This Dude”?"
+        answer: "VENUS"
+      - question: "What is “This Item” which “This Dude” was told to pluck, and to whom is it to be given as a gift?"
+        answer: "GOLDEN BOUGH & PROSERPINA"
+  - tossup:
+      question: "Of adversary, tergiversate, vertiginate, and animadvert, which means to change sides or switch?"
+      answer: "TERGIVERSATE"
+    boni:
+      - question: "Which of those means to notice?"
+        answer: "ANIMADVERT"
+      - question: "Of a librarian, a soprano, a goalie, or a ballerina, which is most apt to vertiginate?"
+        answer: "BALLERINA (to twirl)"
+  - tossup:
+      question: "What governor of Hispania Tarraconensis, believing a prophecy that a new emperor shall come forth from Spain, rebelled against the emperor Nero in 68 A.D.?"
+      answer: "(SERVIUS SULPICIUS) GALBA"
+    boni:
+      - question: "What governor of Gallia Lugdunensis had convinced Galba to rebel against Nero?"
+        answer: "(GAIUS IULIUS) VINDEX"
+      - question: "What future emperor also supported Galba’s claim to the throne until it was painfully obvious that Galba didn’t want him to be his successor when he adopted Calpurnius Piso as his son and heir instead?"
+        answer: "(MARCUS SALVIUS) OTHO"
+  - tossup:
+      question: "Who used a golden bridle to tame the flying horse Pegasus?"
+      answer: "BELLEROPHON(TES)"
+    boni:
+      - question: "Who had given Bellerophon this golden bridle?"
+        answer: "ATHENA / MINERVA"
+      - question: "Near what spring was Bellerophon able to tame Pegasus with the magical golden bridle?"
+        answer: "PEIRENE"
+  - tossup:
+      question: "Say in Latin: Soldiers, follow me!"
+      answer: "<latin>MĪLITĒS, MĒ</latin> <latin>SEQUIMINĪ</latin>"
+    boni:
+      - question: "Using a deponent verb, say in Latin: Speak, my dearest senator"
+        answer: "<latin>LOQUERE, MĪ</latin> <latin>CĀRISSIME SENĀTOR</latin>"
+      - question: "<latin>Amāte</latin> : <latin>amātis</latin> :: <latin>arbitrāminī</latin>: _____?"
+        answer: "<latin>ARBITRĀMINĪ</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat: simul?</latin>"
+      answer: "AT THE SAME TIME, SIMULTANEOUSLY"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat: quisque?</latin>"
+        answer: "EACH (ONE)"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat: simulac?</latin>"
+        answer: "AS SOON AS"
+  - tossup:
+      question: "What significant event occurred on the 24th of August in AD 410?"
+      answer: "THE SACK OF ROME BY ALARIC (& VISIGOTHS)"
+    boni:
+      - question: "Who had defeated Alaric and the Visigoths in AD 402 & 403?"
+        answer: "(FLAVIUS) STILICHO"
+      - question: "From what Roman province did Stilicho withdraw troops in order to build an army to fight the Visigoths?"
+        answer: "BRITANNIA"
+  - tossup:
+      question: "What daughter of Menoeceus became the wife of Laius, king of Thebes?"
+      answer: "JOCASTA / EPICASTA"
+    boni:
+      - question: "How did Laius die?"
+        answer: "KILLED BY HIS OWN SON OEDIPUS"
+      - question: "Who became regent of Thebes after the exile of Oedipus?"
+        answer: "CREON"
+  - tossup:
+      question: "Which of the following, if any, does NOT belong with the others because of case: <latin>iuvenum, librōrum, ducis, stellae, ātrium?</latin>"
+      answer: "ĀTRIUM"
+    boni:
+      - question: "<latin>sorōrī</latin>, <latin>diēbus</latin>, <latin>virī</latin>, <latin>aquae</latin>, <latin>dominō</latin>?"
+        answer: "<latin>VIRĪ</latin>"
+      - question: "<latin>cordī</latin>, <latin>nūbe</latin>, <latin>animālī</latin>, <latin>prīncipibus</latin>, <latin>manū</latin>?"
+        answer: "<latin>CORDĪ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Agricola senex, cum mortem sibi appropīnquāre sentīret, fīliōs convocāvit. Quibus allātīs, fascem rāmōrum parvōrum afferrī</latin> <latin>iubet. Fīliōs hortātur ut hunc fascem frangeret. Cum id facere non possent, docuit fīliōs suōs quam firma esset concordia.</latin>  Question: What did the old farmer order his sons to bring to him?"
+      answer: "A BUNDLE OF SMALL BRANCHES / TWIGS (If “bundle” is given, ask for more information)"
+    boni:
+      - question: "What did the father first do when the bundle of twigs was brought to him by his sons?"
+        answer: "HE ENCOURAGED THEM (HIS SONS) TO BREAK THEM"
+      - question: "When the sons were not able to break the bundle of twigs, what then did the father do?"
+        answer: "HE TAUGHT HIS SONS HOW STRONG CONCORD / HARMONY / TOGETHERNESS IS"
+  - tossup:
+      question: "What Latin genitive phrase means “unique, one of a kind”?"
+      answer: "<latin>SUĪ</latin> <latin>GENERIS</latin>"
+    boni:
+      - question: "What Latin ablative absolute means “in reverse” in English?"
+        answer: "<latin>VICE VERSĀ</latin>"
+      - question: "What Latin phrase, used as a legal terminology to refer to a compendium of all laws, literally means ēbody of law’?"
+        answer: "<latin>CORPUS IŪRIS</latin>"
+  - tossup:
+      question: "The chilly and sunless Underworld was watered by which five rivers?"
+      answer: "STYX, LETHE, ACHERON, COCYTUS, (PYRI)PHLEGETHON"
+    boni:
+      - question: "Cottus, Briareus, and Gyes served as guards in which region of the Underworld?"
+        answer: "TARTARUS"
+      - question: "Name the three judges of the underworld?"
+        answer: "RHADAMANTHUS, AEACUS, MINOS"
+  - tossup:
+      question: "What province, considered the private property of the Emperor, was the chief granary for Rome?"
+      answer: "<latin>AEGYPTUS</latin> / EGYPT"
+    boni:
+      - question: "Unlike other major provinces which were governed by proconsuls or propraetors, emperors in the early principate protected Egypt’s strategic grain supply by carefully hand-picking her governor. What was the Latin term for a governor of Egypt?"
+        answer: "<latin>PRAEFECTUS</latin>"
+      - question: "The office of prefect was not open to everyone. Hypothetically speaking, why could Tiberius have chosen Sejanus as prefect of Egypt but not Germanicus?"
+        answer: "PREFECTS HAD TO BE EQUESTRIAN (NOT SENATORIAL)"
+  - tossup:
+      question: "Using an impersonal verb and an infinitive, translate the following sentence into Latin: We should not fight"
+      answer: "<latin>NŌS PUGNĀRE NŌN DECET / OPORTET / NŌBĪS LICET</latin>"
+    boni:
+      - question: "We are allowed to use swords"
+        answer: "<latin>NŌBĪS LICET GLADIĪS ŪTĪ</latin>"
+      - question: "We are tired of this question"
+        answer: "<latin>NŌS TAEDET / PERTAESUM EST HUIUS QUAESTIŌNIS / INTERROGĀTĪ</latin>"
+  - tossup:
+      question: "What is the formal Latin term describing the ritual when the <latin>pater familiās</latin> acknowledged a new-born child?"
+      answer: "<latin>SUSCEPTIŌ</latin>"
+    boni:
+      - question: "What would happen to a child if the <latin>pater familiās</latin> did not recognize his status with the act of <latin>susceptiō</latin>?"
+        answer: "(HE WOULD BE TAKEN AWAY FROM THE HOUSE BY A SLAVE AND) <emphasis><latin>EXPOSED</latin></emphasis> (ON THE SIDE OF THE ROAD) / LEFT TO LIVE OR DIE OUTSIDE (ON THE HIGHWAY)"
+      - question: "What Latin term refers to the first eight days of the life of the acknowledged child?"
+        answer: "<latin>PRĪMORDIA</latin>   <latin>2007 NJCL CERTAMEN</latin>  <latin>INTERMEDIATE DIVISION</latin>"

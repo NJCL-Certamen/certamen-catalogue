@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What derivative of the Latin verb for “sit” means “material that settles to the bottom of a liquid?”"
+      answer: "SEDIMENT"
+    boni:
+      - question: "“to preoccupy the mind abnormally?”"
+        answer: "OBSESS"
+      - question: "“more dangerous than seems evident?”"
+        answer: "INSIDIOUS"
+  - tossup:
+      question: "What would happen to the souls of the dead after they drink the water of Lethe?"
+      answer: "THEY WOULD LOSE THEIR MEMORIES (OF THEIR LIVES ON EARTH)"
+    boni:
+      - question: "Which of the rivers in the Underworld is the River of Woe?"
+        answer: "ACHERON"
+      - question: "Which of the rivers in the Underworld is the River of Lamentations?"
+        answer: "COCYTUS"
+  - tossup:
+      question: "What war was fought basically for the control of Sicily?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "What did the Romans have built in order to win this war?"
+        answer: "A NAVY/A FLEET"
+      - question: "At what battle did the Romans win their first naval victory?"
+        answer: "MYLAE"
+  - tossup:
+      question: "Make the phrase <latin>poēta dēfessus</latin> accusative plural"
+      answer: "<latin>POĒTĀS DĒFESSŌS</latin>"
+    boni:
+      - question: "Make <latin>poētās dēfessōs</latin> dative"
+        answer: "<latin>POĒTĪS DĒFESSĪS</latin>"
+      - question: "Make <latin>poētīs dēfessīs</latin> genitive"
+        answer: "<latin>POĒTĀRUM DĒFESSŌRUM</latin>"
+  - tossup:
+      question: "What benevolent mythological character was sometimes said to be the king of the centaurs?"
+      answer: "CH(E)IRON"
+    boni:
+      - question: "What son of Apollo is said to have fathered the race of centaurs on Magnesian mares?"
+        answer: "CENTAURUS"
+      - question: "According to a different story, Centaurus is not the son of Apollo but the son of what mortal?"
+        answer: "IXION"
+  - tossup:
+      question: "What case is used for direct address?"
+      answer: "VOCATIVE"
+    boni:
+      - question: "What is the vocative of <latin>fīlius</latin>?"
+        answer: "<latin>FĪLĪ</latin>"
+      - question: "What is the vocative of <latin>imperātor</latin>?"
+        answer: "<latin>IMPERĀTOR</latin>"
+  - tossup:
+      question: "<latin>Quid significat: nōnāgintā?</latin>"
+      answer: "NINETY"
+    boni:
+      - question: "<latin>Quid significat: ūndēsexāgintā?</latin>"
+        answer: "FIFTY-NINE"
+      - question: "<latin>Quid significat: dūcentī?</latin>"
+        answer: "TWO HUNDRED"
+  - tossup:
+      question: "What Roman king obtained his throne through murder?"
+      answer: "(L.) TARQUINIUS SUPERBUS / TARQUIN THE PROUD (HAND OUT THE VISUAL)"
+    boni:
+      - question: "Who was Tarquinius’ victim as indicated by the letter “A” on the visual?"
+        answer: "SERVIUS TULLIUS"
+      - question: "Who is the lady indicated by the letter “B” and what is her relationship to Servius and to Superbus?"
+        answer: "TULLIA (MINOR), DAUGHTER OF SERVIUS & WIFE OF SUPERBUS"
+  - tossup:
+      question: "What king of Mycenae, at the request of Menelaus, used his great prestige in raising a Greek army to retrieve the kidnapped Helen?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Who had kidnapped Helen from Menelaus?"
+        answer: "PARIS / ALEXANDER (-DROS)"
+      - question: "At what port did Agamemnon assemble the Greek fleet before sailing to Troy?"
+        answer: "AULIS"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Dīc mihī Ānglicē nōmen schōlae tuae.</latin>"
+      answer: "STUDENT TELLS MODERATOR THE NAME OF HIS/HER SCHOOL"
+    boni:
+      - question: "<latin>Dīc mihī praenōmina sociōrum omnium sedentium tēcum</latin>  STUDENT TELLS MODERATOR THE <emphasis>FIRST-NAMES</emphasis> OF ALL THE TEAMMATES <latin>Monstrāte mihī titulōs vestrōs.</latin>"
+        answer: "STUDENTS SHOW MODERATOR THEIR NAMETAGS"
+  - tossup:
+      question: "In 57 B.C., the Senate declared a public thanksgiving 15 days after whose triumphs in Gaul?"
+      answer: "(C. JULIUS) CAESAR"
+    boni:
+      - question: "The Senate decreed another public thanksgiving in 55 B.C. after Caesar invaded what island?"
+        answer: "BRITAIN"
+      - question: "What British war-king did Caesar defeat in 54 B.C.?"
+        answer: "CASSIVELLAUNUS"
+  - tossup:
+      question: "Translate into Latin: on the ninth hour"
+      answer: "<latin>NŌNĀ HŌRĀ</latin>"
+    boni:
+      - question: "Translate into Latin: in the tenth year"
+        answer: "<latin>DECIMŌ ANNŌ</latin>"
+      - question: "Translate into Latin: in six days"
+        answer: "<latin>SEX DIĒBUS</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>mūrus</latin>"
+      answer: "<latin>MOENIA, PARIĒS, MĀCERIA</latin>"
+    boni:
+      - question: "Give a synonym of <latin>cūstōdia</latin>"
+        answer: "<latin>VIGILIA, PRAESIDIUM</latin>"
+      - question: "Give a synonym of <latin>clāmor</latin>"
+        answer: "<latin>STREPITUS, CREPITUS, TUMULTUS, MAGNA VOX</latin>"
+  - tossup:
+      question: "According to Homer, who detained Odysseus and his crew on her island for a full year?"
+      answer: "CIRCE"
+    boni:
+      - question: "What is the name of Circe’s island home?"
+        answer: "AEAEA"
+      - question: "Which of Odysseus’ men perished on Circe’s island after falling off Circe’s roof?"
+        answer: "ELPENOR"
+  - tossup:
+      question: "Listen carefully to this brief piece of correspondence which I will read twice, then answer the question about the passage in English. <latin>Ecce, pater! Haec nōn est prīma epistula mea; iam ad tē mīsī quattuor epistulās. Tū mihī nihil scrīpsistī; tū ad mē nūllam pecūniam mīsistī. Sum pauperrimus discipulus, quī studēre aut edere nōn possum.</latin>  What two things has the father not done?"
+      answer: "WRITTEN TO HIS SON AND SENT MONEY"
+    boni:
+      - question: "Including this letter, how many letters has the son written home?"
+        answer: "FIVE"
+      - question: "How does this situation affect the son?"
+        answer: "UNABLE TO STUDY/BE EAGER/ BE EXCITED OR EAT"
+  - tossup:
+      question: "What emperor was strangled in his bath on the last day of A.D. 192?"
+      answer: "COMMODUS"
+    boni:
+      - question: "What action was taken posthumously against Commodus by the Senate?"
+        answer: "<latin>DAMNATIO MEMORIAE</latin>"
+      - question: "Who was approved by the Praetorian Guard and the Senate as the new emperor?"
+        answer: "PERTINAX"
+  - tossup:
+      question: "What Latin phrase might be used in our legal system for a plea of “no contest”?"
+      answer: "<latin>NŌLŌ CONTENDERE</latin>"
+    boni:
+      - question: "What might a district attorney say to a judge if he does not want to prosecute a case?"
+        answer: "<latin>NŌLŌ/NŌLLE PROSEQUĪ / NOL. PROS.</latin>"
+      - question: "What Latin phrase might be used in our legal system to mean “there is no objection”?"
+        answer: "<latin>NIHIL/NĪL OBSTAT</latin>"
+  - tossup:
+      question: "Give the 1st person, plural, perfect, active, indicative for the verb <latin>possum</latin>"
+      answer: "<latin>POTUIMUS</latin>"
+    boni:
+      - question: "Change <latin>potuimus</latin> to the imperfect"
+        answer: "<latin>POTERĀMUS</latin>"
+      - question: "Change <latin>poterāmus</latin> to the pluperfect"
+        answer: "<latin>POTUERĀMUS</latin>"
+  - tossup:
+      question: "What virgin goddess of childbirth and of wild animals was the sister of Apollo?"
+      answer: "ARTEMIS / DIANA"
+    boni:
+      - question: "What giant hunter was, at one time, Artemis’ hunting companion?"
+        answer: "ORION"
+      - question: "According to one account, Orion and Artemis became such good friends that she seriously thought about marrying him. Disturbed by this notion, who tricked Artemis into killing Orion?"
+        answer: "(HER BROTHER PHOEBUS) APOLLO"
+  - tossup:
+      question: "What is the Latin term for the entry passage in front of the main door of a typical <latin>domus</latin>?"
+      answer: "<latin>VESTIBULUM</latin>"
+    boni:
+      - question: "What is the Latin term for the entry way or hall behind the main door?"
+        answer: "<latin>FAUCE</latin>S"
+      - question: "What is the Latin term for the entire main door?"
+        answer: "<latin>IANUA</latin>"

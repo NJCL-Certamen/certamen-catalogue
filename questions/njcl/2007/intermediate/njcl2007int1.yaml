@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Supply the correct form of <latin>exercitus</latin> to complete the following sentence: <latin>imperātor mīsit mīlitēs auxiliō</latin> <latin>_____</latin>"
+      answer: "EXERCITUĪ"
+    boni:
+      - question: "<latin>imperātor _____ ūtī</latin> <latin>nōlēbat</latin>"
+        answer: "EXERCITŪ <latin>/ EXERCITIBUS</latin>"
+      - question: "<latin>hostēs diū</latin> <latin>_____ imperātōris resistēbant</latin>"
+        answer: "EXERCITUĪ <latin>/ EXERCITIBUS</latin>"
+  - tossup:
+      question: "What infant was protected by the war dance of the Curetes?"
+      answer: "ZEUS / JUPITER / JOVE"
+    boni:
+      - question: "According to most traditions, what Titaness had handed over the infant Zeus to the Curetes for safe-keeping?"
+        answer: "RHEA"
+      - question: "On what island did the Curetes make their war-cries to hide the wailing of the infant Zeus?"
+        answer: "CRETE"
+  - tossup:
+      question: "Give the Latin verb and its meaning from which we derive “participle”"
+      answer: "<latin>CAPIŌ</latin>, TAKE, SEIZE, CAPTURE, OCCUPY, GET"
+    boni:
+      - question: "Give the Latin verb and its meaning from which we derive “infinitive”"
+        answer: "<latin>FĪNIŌ</latin> - FINISH , ACCOMPLISH"
+      - question: "Give the Latin verb and its meaning from which we derive “gerund”"
+        answer: "<latin>GERŌ</latin> - CARRY ON, WEAR, BEAR, WAGE"
+  - tossup:
+      question: "What native of Cures was elected king one year after the supposed death of Romulus?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "What temple, founded by Numa Pompilius, always remained shut during his peaceful reign?"
+        answer: "TEMPLE OF JANUS"
+      - question: "What <latin>Camena</latin> was said to have visited Numa Pompilius in a grove near Rome and to have honored him with her love?"
+        answer: "EGERIA"
+  - tossup:
+      question: "What use of the subjunctive can be found in the following sentence: <latin>imperātor rogat mē</latin> <latin>ut discēdam?</latin>"
+      answer: "INDIRECT COMMAND / SUBSTANTIVE (NOUN) CLAUSE OF PURPOSE / JUSSIVE NOUN CLAUSE /"
+    boni:
+      - question: "<latin>Imperātor mē</latin> <latin>rogat cūr nōn discesserim?</latin>"
+        answer: "INDIRECT QUESTION"
+      - question: "<latin>Imperātor tam īrātus est ut mē</latin> <latin>discēdere velit?</latin>"
+        answer: "RESULT CLAUSE"
+  - tossup:
+      question: "Of <latin>voveō</latin>, <latin>volvō</latin>, <latin>vocō</latin>, and <latin>volō</latin>, from which do we derive the English verb “vouch”?"
+      answer: "<latin>VOCŌ</latin>"
+    boni:
+      - question: "From which do we derive “devout”?"
+        answer: "<latin>VOVEŌ</latin>"
+      - question: "From which do we derive “revolution”?"
+        answer: "<latin>VOLVŌ</latin>"
+  - tossup:
+      question: "After a difficult and costly siege lasting eight months, what city, perched on a rocky plateau, was finally captured by Hannibal in 219 BC?"
+      answer: "SAGUNTUM"
+    boni:
+      - question: "The siege of Saguntum was the cause of what war?"
+        answer: "SECOND PUNIC"
+      - question: "According to the Romans, the siege of Saguntum violated what treaty of 226 BC?"
+        answer: "THE EBRO TREATY"
+  - tossup:
+      question: "What young prince was marked by Hera as the instrument of destruction for King Pelias?"
+      answer: "JASON"
+    boni:
+      - question: "How had Pelias earn the hatred of Hera?"
+        answer: "HE WITHHELD SACRIFICE FROM HER / DISHONORED HER / VIOLATED HER SANCTUARY / KILLED SOMEONE (SIDERO) IN HERA’S SANCTUARY (OR TEMPLE)"
+      - question: "How did Pelias recognize Jason as the “instrument” of his demise?"
+        answer: "HE APPEARED WEARING ONLY ONE SANDAL / SHOE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nautae missī</latin> <latin>sunt quī</latin> <latin>īnsulam āmissam quaererent</latin>"
+      answer: "THE SAILORS WERE SENT TO SEARCH FOR A LOST ISLAND"
+    boni:
+      - question: "<latin>Nautae nesciēbant chartam āmissam esse.</latin>"
+        answer: "THE SAILORS DIDN’T KNOW THAT THE MAP HAD BEEN / WAS LOST"
+      - question: "<latin>Incolae tam attonitī</latin> <latin>adventū</latin> <latin>nautārum fuērunt ut ad mediam silvam sē</latin> <latin>reciperent.</latin>"
+        answer: "THE INHABITANTS WERE SO SURPRISED BY THE ARRIVAL OF THE SAILORS THAT THEY RETREATED INTO THE MIDDLE OF THE FOREST"
+  - tossup:
+      question: "What race destroyed all but one of Odysseus’ ships?"
+      answer: "LAESTRYGONIANS"
+    boni:
+      - question: "What societal custom made the Laestrygonians so dangerous?"
+        answer: "THEY WERE CANNIBALS"
+      - question: "Why was Odysseus’ ship not destroyed with the rest of the ships?"
+        answer: "HE MOORED IT OUTSIDE THE HARBOR (WHILE THE REST OF HIS SHIPS CAME ALL THE WAY INTO THE HARBOR)"
+  - tossup:
+      question: "What first-century emperor, unhappy at being recently widowed, married his niece Agrippina the Younger?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "This cameo depicts one of Claudius’ earlier wives and their children. Which adopted child of Claudius married the person labeled “B”?"
+        answer: "NERO"
+      - question: "Identify the person labeled “A”"
+        answer: "BRITANNICUS"
+  - tossup:
+      question: "Listen to the following passage about a man named Tiro, which I will read twice, and answer IN LATIN the question that follows: <latin>Tīrō, lībertus Cicerōnis, fuit homō</latin> <latin>ingeniō</latin> <latin>ēlegāntī</latin> <latin>sed rērum litterārumque veterum indoctus. Cicerō</latin> <latin>līberāliter hōc homine īnstitūtō</latin> <latin>adiūtōre et quasi administrō</latin> <latin>in studiīs litterārum ūsus est.</latin>  Question: <latin>Cuius servus fuerat hic homō</latin> <latin>nōmine Tīrō?</latin>"
+      answer: "CICERŌNIS"
+    boni:
+      - question: "<latin>Quāle fuit ingenium Tīrōnis?</latin>"
+        answer: "ĒLEGĀNS"
+      - question: "<latin>Quis fuit adiūtor Cicerōnī</latin> <latin>in studiīs litterārūm?</latin>"
+        answer: "TIRŌ (If student says “<latin>hic homō</latin>”, ask him to be more specific)"
+  - tossup:
+      question: "‘<latin>Lapsus linguae</latin>’ is a slip of the tongue. What then is a ‘<latin>lapsus calamī</latin>’?"
+      answer: "SLIP OF THE PEN (CIL) / REED"
+    boni:
+      - question: "What Latin phrase is used to mean “a slip of morals’?"
+        answer: "<latin>LAPSUS MŌRUM</latin>"
+      - question: "Give the principal parts of the Latin verb from which ‘<latin>lapsus’</latin> is derived?"
+        answer: "<latin>LABOR</latin>, <latin>LABĪ</latin>, <latin>LAPSUS (SUM)</latin>"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Quot manūs duōbus hominibus sunt?</latin>"
+      answer: "QUATTUOR"
+    boni:
+      - question: "<latin>Quot pedēs decem equīs sunt?</latin>"
+        answer: "QUADRĀGINTĀ"
+      - question: "<latin>Quot capita canī</latin> <latin>Plūtōnis sunt?</latin>"
+        answer: "TRIA"
+  - tossup:
+      question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>cōnstituit</latin> : _____ ?"
+      answer: "<latin>CŌNSTITUIT</latin>"
+    boni:
+      - question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>cōnsulit</latin> : _____ ?"
+        answer: "<latin>CŌNSULUIT</latin>"
+      - question: "<latin>Dīcit</latin> : <latin>dīxit</latin> :: <latin>contendit</latin> : _____ ?"
+        answer: "<latin>CONTENDIT</latin>"
+  - tossup:
+      question: "By hurling his spear at a deer and proclaiming that “even Artemis could not do so well,” what king of Mycenae caused the Greek troops to be stranded at Aulis?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Who finally revealed to the Greeks that Artemis’ anger was the reason why they could not set sail for Troy?"
+        answer: "CALCHAS"
+      - question: "According to Calchas, the Greek expedition would be saved only if Agamemnon sacrificed whom?"
+        answer: "IPHIGENIA / IPHIANASSA (Prompt for “his daughter”)"
+  - tossup:
+      question: "Whose first act as emperor was to frustrate the attempts of the Senate to condemn the memory and annul the edicts and acts of his predecessor Hadrian?"
+      answer: "ANTONI<emphasis>N</emphasis>US PIUS"
+    boni:
+      - question: "What honor did Antoninus convince the Senate to bestow on Hadrian, an act which probably earned him the title “Pius”?"
+        answer: "DEIFICATION OF HADRIAN"
+      - question: "Before he died, Hadrian had forced Antoninus Pius to adopt two men as his heirs. Name them"
+        answer: "MARCUS AURELIUS & LUCIUS VERUS"
+  - tossup:
+      question: "Translate the following sentence into Latin: Do you think that the lions are more ferocious than the dogs?"
+      answer: "<latin>PUTĀS(NE) / PUTĀTIS(NE) LEŌNĒS FERŌCIŌRĒS / SAEVIŌRĒS / FERIŌRĒS / ĀTRŌCIŌRĒS QUAM CANĒS / CANIBUS ESSE</latin>"
+    boni:
+      - question: "I believe that dogs are smaller than lions"
+        answer: "<latin>CRĒDŌ</latin> <latin>CANĒS MINŌRĒS LEŌNIBUS / QUAM LEŌNĒS ESSE</latin>"
+      - question: "What mood would be used to translate “cannot” into Latin for the following sentence? “The dog fears that he cannot defeat the lion.”"
+        answer: "SUBJUNCTIVE"
+  - tossup:
+      question: "Of pork, beef, mutton, and goat, which type of meat was considered by the Romans to be the poorest of all and was used only by the lower classes?"
+      answer: "GOAT"
+    boni:
+      - question: "Which type of meat had been eaten by the Romans from the earliest times, but its use was considered to be a mark of luxury until very late in the Empire?"
+        answer: "BEEF"
+      - question: "The meat of what type of bird was most highly esteemed in Cicero’s time?"
+        answer: "PEACOCK"
+  - tossup:
+      question: "How did the Cerynian hind differ in appearance from the other deer?"
+      answer: "IT HAD GOLDEN HORNS / ANTLERS"
+    boni:
+      - question: "Whom did Heracles offend with the capture of the Cerynian Hind?"
+        answer: "ARTEMIS"
+      - question: "How did Heracles appease Artemis?"
+        answer: "HE SAID HE WAS FOLLOWING ZEUS’ ORDERS TO OBEY EURYSTHEUS / SHIFTED THE BLAME TO EURYSTHEUS   <latin>2007 NJCL CERTAMEN</latin>  <latin>INTERMEDIATE DIVISION</latin>"

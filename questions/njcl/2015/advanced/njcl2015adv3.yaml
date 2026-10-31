@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What sea deity does Vergil describe as being born in Thessaly and living on the island of Carpathus  when Aristaeus seeks the advice of this Old Man of the Sea?"
+      answer: "PROTEUS"
+    boni:
+      - question: "According to Homer, where in Egypt does Proteus live?"
+        answer: "(THE ISLAND OF) PHAROS"
+      - question: "What daughter of Proteus revealed to Menelaus her father’s location in Egypt?"
+        answer: "(THE NYMPH) EIDOTHEA"
+  - tossup:
+      question: "What triumvir was forced to deal with treason when Lucius Antonius took his brother’s troops to  march on Rome in 41 BC, starting the Perusine War and threatening the stability of the second triumvirate?"
+      answer: "OCTAVIAN"
+    boni:
+      - question: "What good friend of Octavian defeated Lucius Antonius at Perusia in 40 BC?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "In what coastal town did Marcus Antonius meet with Octavian in 40 BC to reaffirm their political  alliance and exchange the control of some provinces?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "Place the following Latin words in chronological order according to their definition: <latin>hodiernus, prīscus, crāstinus, hesternus</latin>"
+      answer: "<latin>PRĪSCUS, HESTERNUS, HODIERNUS, CRĀSTINUS</latin>"
+    boni:
+      - question: "Place the following Latin words in order from smallest to largest according to their definition:  <latin>pontus, passer, pectus, phasēlus</latin>"
+        answer: "<latin>PASSER, PECTUS, PHASĒLUS, PONTUS PHASĒLUS, PASSER, PECTUS, PONTUS</latin>"
+      - question: "Place the following Latin words in order from the top of the head to the bottom of the foot according  to their definition: <latin>planta, supercilium, umbilīcus, gena</latin>"
+        answer: "<latin>SUPERCILIUM, GENA, UMBILĪCUS, PLANTA</latin>"
+  - tossup:
+      question: "What Roman writer of philosophy and tutor of a Julio-Claudian emperor wrote seven extant books on  natural phenomena, titled <title><latin>Nātūrālēs Quaestiōnēs</latin></title>?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "What philosophical school does Seneca promote in much of his other writings?"
+        answer: "STOICISM"
+      - question: "What Julio-Claudian emperor did Seneca tutor?"
+        answer: "NERO"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice, then answer the question that follows in  English:  <latin>Ōlim dominus saevus lavābātur in vīllā Formiānā. Repente eum servī circumstetērunt.  Alius faucēs invāsit, alius ōs, alius pectus verberāvit et, terribile dictū, ventrem contūdit.  Cum servī exanimem putārent, eum abiēcērunt in pavīmentum fervēns ut experīrentur num vīveret.</latin> (repeat)  The question: The injury to what body part of the master was singled out by the narrator as particularly  foul?"
+      answer: "STOMACH"
+    boni:
+      - question: "What was the cruel master doing when the slaves surprised him?"
+        answer: "HE WAS BATHING / HE WAS BEING WASHED"
+      - question: "How did the slaves try to find out if their master was still alive?"
+        answer: "(BY) THROWING HIM ONTO A BURNING / HOT STREET / FLOOR / PAVEMENT"
+  - tossup:
+      question: "What mythological king’s first wife was named Arisbe?"
+      answer: "PRIAM’S"
+    boni:
+      - question: "Priam gave Arisbe to Hyrtacus so that he could marry what daughter of the Sangarius river?"
+        answer: "HECUBA"
+      - question: "Against what people was Priam fighting when he first met Hecuba beside the Sangarius?"
+        answer: "AMAZONS"
+  - tossup:
+      question: "Using an infinitive, say in Latin: “Because of the heat, they ordered us to rest.”"
+      answer: "<latin>PROPTER/OB AESTUM/CALŌREM/FERVŌREM, NŌS (RE)QUIESCERE  IUBĒBANT/IUSSĒRUNT</latin>"
+    boni:
+      - question: "Using the subjunctive mood, say in Latin: “The old woman ordered me to drink.”"
+        answer: "<latin>ANUS / FĒMINA VETUS MIHI IMPERĀBAT / IMPERĀVIT UT BIBEREM</latin>"
+      - question: "In Latin, using a future imperative, command the soldiers to remember that battle."
+        answer: "<latin>MEMENTŌTE ILLUM PROELIUM / ILLĪUS PROELIĪ //  (IN) MEMORIĀ TENĒTŌTE ILLUM PROELIUM</latin>"
+  - tossup:
+      question: "What work of history, written by a Paduan who encouraged Claudius in the future emperor’s own historical inquiries, chronicled the history of Rome up to the author’s own day in 142 books?"
+      answer: "<title><latin>AB URBE CONDITĀ</latin></title>"
+    boni:
+      - question: "Who was the author of the <title><latin>Ab Urbe Conditā</latin></title>?"
+        answer: "TITUS LIVIUS/LIVY"
+      - question: "What event ends the <title><latin>Ab Urbe Conditā</latin></title>?"
+        answer: "THE DEATH OF DRUSUS (9 AD)"
+  - tossup:
+      question: "Whose adoption and subsequent ascension to the imperial throne was likely engineered by the  empress Plotina after the death of her husband in 117 AD?"
+      answer: "HADRIAN"
+    boni:
+      - question: "In 100 AD, Plotina had arranged Hadrian’s marriage to what niece of Trajan?"
+        answer: "(VIBIA) SABINA"
+      - question: "Name the Praetorian prefect who accompanied Plotina to Rome following Trajan’s death and briefly  wielded great power in the city until Hadrian’s return from the eastern provinces?"
+        answer: "(CAELIUS) ATTIANUS"
+  - tossup:
+      question: "What use of the ablative is found in the following sentence adapted from <title>Aeneid</title>?"
+      answer: "“<latin>Et nunc ille Paris  raptō potītur</latin>.” SPECIAL VERBS / DEPONENT VERBS / MEANS"
+    boni:
+      - question: "Vergil says of the dying Dido, “<latin>quaesīvit caelō lūcem ingemuitque repertā</latin>.” What use of the  ablative is expressed by the participle <latin>repertā</latin>?"
+        answer: "ABSOLUTE"
+      - question: "What use of the ablative is used by Iris when she says, “<latin>tēque istō corpore solvō</latin>?"
+        answer: "” SEPARATION"
+  - tossup:
+      question: "Decent decemvirs are a dime a dozen in December. Which of the words in that sentence starting with  the letter “D” is NOT derived from the same root?"
+      answer: "DECENT"
+    boni:
+      - question: "From what Latin impersonal verb, with what meaning, is “decent” derived?"
+        answer: "<latin>DECET</latin>, IT IS RIGHT/ FITTING/BECOMING"
+      - question: "Give TWO English derivatives of <latin>decet</latin> that mean “unbecoming”?"
+        answer: "INDECOROUS, INDECENT"
+  - tossup:
+      question: "In what series of speeches did Cicero attack Mark Antony, proclaiming him as an enemy of the  Senate?"
+      answer: "<title>PHILIPPICS</title> <title><latin>/ IN ANTŌNIUM</latin></title>"
+    boni:
+      - question: "Cicero modeled his speeches on a series of speeches against Philip II of Macedon, given by an Athenian orator. Who was this Athenian orator?"
+        answer: "DEMOSTHENES"
+      - question: "What happened to Cicero as a result of these speeches?"
+        answer: "HE WAS KILLED (NAME WAS PLACED ON 2ND TRIUMVIRATE’S PROSCRIPTION LISTS)"
+  - tossup:
+      question: "In what type of grammatical construction is the subject of an infinitive in the nominative case?"
+      answer: "HISTORICAL INFINITIVE / IMPERSONAL VERBS / GREEK LOAN WORD"
+    boni:
+      - question: "The infinitive is often used to replace what tense of the indicative in the historical infinitive  construction?"
+        answer: "IMPERFECT"
+      - question: "Say in Latin using the historical infinitive construction, “The soldiers were marching to Rome from  Brundisium.”"
+        answer: "<latin>MĪLITĒS RŌMAM BRUNDISIŌ ITER FACERE / INCĒDERE</latin>"
+  - tossup:
+      question: "What descendant of the Spartoi Udaeus carried a staff of cornel wood, could understand the language  of birds, and maintained all his intellectual faculties in the Underworld?"
+      answer: "TEIRESIAS"
+    boni:
+      - question: "Name Teiresias’s parents."
+        answer: "CHARICLO & EVERES"
+      - question: "After living for seven generations, beside what spring did Teiresias die when he drank from its  waters?"
+        answer: "TELEPHUSA"
+  - tossup:
+      question: "What modern day town did the Romans call <latin>Eborācum</latin>?"
+      answer: "YORK  ("
+    boni:
+      - question: "Please identify by number the Roman province that contained the city of <latin>Caesaraugusta.</latin>"
+        answer: "8"
+      - question: "Please identify by number the Roman province that contained the city of <latin>Leptis Magna</latin>."
+        answer: "5"
+  - tossup:
+      question: "For the verb <latin>gaudeō</latin>, give the 2nd person plural, pluperfect active indicative."
+      answer: "<latin>GĀVĪSĪ/-AE/-A ERĀTIS</latin>"
+    boni:
+      - question: "Change <latin>gāvīsī erātis</latin> to the imperfect subjunctive."
+        answer: "<latin>GAUDĒRĒTIS</latin>"
+      - question: "Make <latin>gaudērētis</latin> perfect."
+        answer: "<latin>GĀVĪSĪ SITIS</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: “<latin>Catō dīcit sē servīre quam pugnāre mālle</latin>.”"
+      answer: "CATO SAYS (THAT) HE PREFERS TO BE A SLAVE / TO SERVE THAN TO FIGHT"
+    boni:
+      - question: "Translate the following sentence into English: “<latin>Mendāx negāvit sē calceum abstulisse</latin>.”"
+        answer: "THE LIAR SAID THAT HE DID NOT STEAL / HAD NOT STOLEN A SHOE /  THE LIAR DENIED THAT HE STOLE A SHOE"
+      - question: "Translate the following sentence into English: “<latin>Spērō vōs istī numquam crēditūrōs esse.</latin>"
+        answer: "I HOPE YOU / Y’ALL WILL NEVER TRUST / BELIEVE THAT (DARN) ONE / PERSON / /  HIM / HER etc."
+  - tossup:
+      question: "Identify the literary device, excluding alliteration, in this line from Book 2 of Vergil’s <title>Aeneid</title>: <latin>urbis utī captae cāsum convulsaque vīdit/līmina tēctōrum.</latin>"
+      answer: "SYNECDOCHE / CHIASMUS"
+    boni:
+      - question: "Now identify the literary device in this line from Book 1 of Vergil’s <title>Aeneid</title>: <latin>saevae memorem Iūnōnis ob īram</latin>"
+        answer: "TRANSFERRED EPITHET / HYPALLAGE /  SYNCHESIS"
+      - question: "What literary device is exemplified in the following line from Book 3 of Vergil’s <title>Aeneid</title>? <latin>heu fuge crūdēlēs terrās, fuge lītus avārum</latin>"
+        answer: "ASYNDETON / ANAPHORA"
+  - tossup:
+      question: "What city saw its downfall foreshadowed in 426 BC by the slaying of its king Tolumnius in single  combat and met its ultimate end in 396 BC at the hands of Marcus Furius Camillus after a ten year  siege?"
+      answer: "VEII"
+    boni:
+      - question: "What Roman general slew Tolumnius and thereby distinguished himself as the second person to be  awarded the <latin>spōlia opīma</latin>?"
+        answer: "(A. CORNELIUS) COSSUS"
+      - question: "In what temple in Rome did Cossus place the spoils he took from Tolumnius?"
+        answer: "JUPITER FERETRIUS"
+  - tossup:
+      question: "Who was the father of Ornytion, Thersander, Almus, and Glaucus by the Pleiad Merope?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Whose body did Sisyphus discover after it had been brought ashore by a dolphin?"
+        answer: "MELICERTES (HIS NEPHEW)"
+      - question: "What games did Sisyphus found in Melicertes’s honor?"
+        answer: "ISTHMIAN"

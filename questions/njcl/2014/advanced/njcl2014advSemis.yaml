@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Give the Latin root and its meaning from which we derive “refrain”, as in “repeated verse in a song”?"
+      answer: "<latin>FRANGŌ</latin> – TO BREAK"
+    boni:
+      - question: "Give the Latin root and its meaning from which we derive “refrain”, as in “to cease”?"
+        answer: "<latin>FRĒNUM</latin> – A BRIDLE, BIT, CURB"
+      - question: "Give the Latin root and its meaning from which we derive “sagebrush”?"
+        answer: "<latin>SALVUS</latin> - HEALTHY"
+  - tossup:
+      question: "I am now going to hand each of you a visual. Please do not open the visual until you are told to do so. Please open the visual and you have 10 seconds to study the visual. Pictures A, B, and C all depict events that can be found in which book of Caesar’s <title><latin>Dē Bellō Gallicō</latin></title>?"
+      answer: "BOOK 4"
+    boni:
+      - question: "Please identify the picture that depicts Passage #1"
+        answer: "B"
+      - question: "Please identify the picture that depicts Passage #3"
+        answer: "A"
+  - tossup:
+      question: "Please give the syncopated form of <latin>laudāvissēmus</latin>"
+      answer: "<latin>LAUDĀSSĒMUS</latin> "
+    boni:
+      - question: "Please give the syncopated form of <latin>dormīveritis</latin>"
+        answer: "<latin>DORMĪRITIS</latin>"
+      - question: "The form <latin>faxō</latin> is the equivalent of what standard Latin verb form?"
+        answer: "<latin>FĒCERŌ</latin> "
+  - tossup:
+      question: "Incursions into Roman Britain by Scottish tribes near the end of the second century AD were dealt with by what general who permanently abandoned the Antonine Wall in 184 AD?"
+      answer: "(ULPIUS) MARCELLUS"
+    boni:
+      - question: "What general had begun the construction of the Antonine Wall during the reign of Antoninus Pius?"
+        answer: "(QUINTUS) LOLLIUS URBICUS"
+      - question: "Name one of the two firths that marked the boundaries of the Antonine Wall"
+        answer: "FORTH & CLYDE"
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, to whom are Evander and his people sacrificing when they first meet Aeneas?"
+      answer: "HERCULES"
+    boni:
+      - question: "What deed is their festival meant to celebrate?"
+        answer: "HERCULES’ SLAYING OF CACUS"
+      - question: "What people does Hercules defeat with rocks that came down from the heavens?"
+        answer: "THE LIGURIANS"
+  - tossup:
+      question: "What queen of the Thesprotians does Odysseus marry after the events of the <title>Odyssey</title>?"
+      answer: "CALLIDICE"
+    boni:
+      - question: "Who was the son of Callidice and Odysseus?"
+        answer: "POLYPOETES"
+      - question: "What is the name of Odysseus’ sister?"
+        answer: "CTIMENE"
+  - tossup:
+      question: "What is the case and its usage of the reflexive pronoun in the following sentence: <latin>Suō sibi servit patrī</latin>?"
+      answer: "ETHICAL DATIVE"
+    boni:
+      - question: "What is the case and its usage of the word <latin>caput</latin> in the following sentence: <latin>Capita vēlāmur</latin>?"
+        answer: "ACCUSATIVE OF SPECIFICATION / RESPECT"
+      - question: "What is the case and its usage of the word <latin>animus</latin> in the following phrase: <latin>Nōtus animī paternī</latin>?"
+        answer: "GENITIVE OF SPECIFICATION"
+  - tossup:
+      question: "Of the words <latin>iugum, trivium, scapha, penna,</latin> and <latin>fīlum</latin>, which is being described in the following Latin sentence: <latin>Est quod ex līnō lānāve trahendō dūcitur</latin>?"
+      answer: "<latin>FĪLUM</latin>"
+    boni:
+      - question: "…: <latin>Est exigua nāvicula quā ūtimur ad piscandum</latin>?"
+        answer: "<latin>SCAPHA</latin> "
+      - question: "…: <latin>Est ligneum instrumentum quod bovēs duōs simul iungit et colligat</latin>?"
+        answer: "<latin>IUGUM</latin> "
+  - tossup:
+      question: "Who devoted himself to writing in defence of the Church against popular charges of atheism and magic after he converted to Christianity <latin>circa</latin> 195 AD and was regarded as the 1st Latin theologian?"
+      answer: "(Q. SEPTIMIUS FLORENS) TERTULLIAN(US)"
+    boni:
+      - question: "Where was Tertullian born?"
+        answer: "CARTHAGE"
+      - question: "How many of Tertullian’s work survive?"
+        answer: "31"
+  - tossup:
+      question: "Which of the following is furthest east: Halicarnassus, Tigranocerta, Pergamum, Cyzicus, Apamea?"
+      answer: "TIGRANOCERTA"
+    boni:
+      - question: "Which of the following is furthest north: Isca, Tolosa, Emporiae, Corduba, Sarmizegethusa?"
+        answer: "ISCA"
+      - question: "Which of the following is furthest south: Alalia, Carnuntum, Ephesus, Sabrata, Tarsus?"
+        answer: "SABRATA"
+  - tossup:
+      question: "Who hindered Octavian’s administration of Italy and caused a rift among the members of the Second  Triumvirate by marching against Octavian in 41 BC?"
+      answer: "LUCIUS ANTONIUS"
+    boni:
+      - question: "Where was Antonius defeated by Salvidienus and Agrippa in 40 BC?"
+        answer: "PERUSIA"
+      - question: "Name Marc Antony’s wife who conspired with Lucius against Octavian"
+        answer: "FULVIA"
+  - tossup:
+      question: "What son of Creon sacrificed himself in order to save the city from the Seven Against Thebes?"
+      answer: "MENOECEUS"
+    boni:
+      - question: "What fruit tree grew on his grave?"
+        answer: "POMEGRANATE"
+      - question: "Who was the father of this Creon?"
+        answer: "MENOECEUS"
+  - tossup:
+      question: "What should be given to all students?"
+      answer: "(SOME) RELAXATION"
+    boni:
+      - question: "What two things do refreshed students bring to their studies?"
+        answer: "MORE STRENGTH & SHARPER MIND"
+      - question: "Against what does a sharper mind rebel?"
+        answer: "EXCESSIVE WORK"
+  - tossup:
+      question: "Of what grammatical number are <latin>ambō</latin> and <latin>duo</latin> examples?"
+      answer: "DUAL"
+    boni:
+      - question: "What kind of words are <latin>fors</latin> and <latin>spontis</latin>?"
+        answer: "DIPTOTES"
+      - question: "What is a diptote?"
+        answer: "NOUNS FOUND IN TWO CASES ONLY"
+  - tossup:
+      question: "The line “<latin>haec tua Pēnelopē lentō tibi mittit, Ulīxe, nīl mihi rescrībās attinet: ipse venī!</latin>” can be found in which work by Ovid?"
+      answer: "<title>HEROIDES</title> / <title><latin>EPISTULAE HEROIDUM</latin></title>"
+    boni:
+      - question: "In the <title><latin>Heroidēs</latin></title>, how many pairs of letters were there that contained a response from a beloved to whom a letter was addressed?"
+        answer: "3 PAIRS"
+      - question: "Name one of these pairs of lovers."
+        answer: "PARIS & HELEN / HERO & LEANDER / ACONTIUS & CYDIPPE"
+  - tossup:
+      question: "What daughter of Achelous eventually married Alcmaeon, son of Amphiaraus?"
+      answer: "CALLIRHOE"
+    boni:
+      - question: "To whom was Alcmaeon already married?"
+        answer: "ARSINOE"
+      - question: "What two sons of Callirhoe grew overnight and avenged their father?"
+        answer: "ACARNAN & AMPHOTERUS"
+  - tossup:
+      question: "The ascension of the emperor Diocletian was facilitated by what Praetorian Prefect who murdered the  previous emperor Numerian in 284 AD?"
+      answer: "(ARRIUS) APER"
+    boni:
+      - question: "What position in Numerian’s army did Diocletian hold at the time?"
+        answer: "CAPTAIN/COMMANDER OF IMPERIAL BODYGUARD"
+      - question: "Numerian’s brother Carinus refused to recognize Diocletian as emperor in the East and met him in battle at what river?"
+        answer: "MARGUS/MORAVA"
+  - tossup:
+      question: "Say in Latin “one-fifth”"
+      answer: "<latin>QUĪNTA PARS</latin> "
+    boni:
+      - question: "Say in Latin “five-sixth”"
+        answer: "<latin>QUINQUE PARTĒS</latin>"
+      - question: "Say in Latin with one word “two-thirds”"
+        answer: "<latin>BĒS</latin> "
+  - tossup:
+      question: "What Latin poet and lawyer, who served as consul in 68 AD and governor of Asia <latin>circa</latin> 77 AD, wrote an epic poem in 17 books on the Second Punic War?"
+      answer: "(TI. CATIUS ASCONIUS) SILIUS ITALICUS"
+    boni:
+      - question: "Silius Italicus purchased the home of what earlier famous Roman because of his admiration for him?"
+        answer: "(M. TULLIUS) CICERO"
+      - question: "What other author’s tomb was restored by Silius Italicus?"
+        answer: "(P.) VERGIL(IUS MARO) "
+  - tossup:
+      question: "Translate into Latin: There is no one so lazy that he can’t write this letter"
+      answer: "<latin>NĒMŌ EST TAM IGNĀVUS QUĪN HANC EPISTULAM / HĀS LITTERĀS SCRĪBERE POSSIT</latin> "
+    boni:
+      - question: "Say in Latin: He was hiding in the ditch in order to avoid the enemies more easily"
+        answer: "<latin>IN FOSSĀ LATĒBAT QUŌ / UT EŌ HOSTĒS / INIMĪCŌS</latin> FACILIUS (<latin>Ē)VĪTĀRET</latin> "
+      - question: "Say in Latin: I will wait here provided that the commander returns"
+        answer: "<latin>HĪC (RE)MANĒBŌ DUM/DUM MODO/ TANTUM UT IMPERĀTOR / LĒGĀTUS REVENIAT</latin> <latin>2014 NJCL CERTAMEN ADVANCED DIVISION FINALS</latin>"
+  - tossup:
+      question: "Elected consul in 115 BC with Marcus Caecilius Metellus and censor in 109 BC with Marcus Livius Drusus, what man served as <latin>princeps senatus</latin>from 120 BC until his death and called for the <latin>senatus consultum ultimum</latin> against Saturninus in 100 BC?"
+      answer: "(MARCUS) AEMILIUS SCAURUS"
+    boni:
+      - question: "At the height of the Jugurthan War, Scaurus served as president of a special court for investigating aristocratic corruption that had been created by what tribune of 110 BC?"
+        answer: "(GAIUS) MAMILIUS (LIMETANUS)"
+      - question: "In order to bolster his political influence, Scaurus married Caecilia Metella, who would later go on to marry what Roman politician after her first husband’s death?"
+        answer: "SULLA"
+  - tossup:
+      question: "For the verb <latin>praetereō</latin>, give the 3rd person singular future imperative"
+      answer: "<latin>PRAETERĪTO</latin>"
+    boni:
+      - question: "Keeping all else the same, change that form to the plural"
+        answer: "<latin>PRAETEREUNTŌ</latin> "
+      - question: "Change that form to the 2nd person"
+        answer: "<latin>PRAETERĪTŌTE</latin>"
+  - tossup:
+      question: "Who sent his sons for safe keeping first to Polypheides, king of Sicyon, then to Oeneus, king of Aetolia, in order to protect them during his long feud with his brother, Thyestes?"
+      answer: "ATREUS"
+    boni:
+      - question: "What king of Sparta brought Atreus’ sons back to Mycenae?"
+        answer: "TYNDAREUS"
+      - question: "Atreus’ son, Menelaus, later married Tyndareus’ daughter, Helen. Name both the son and daughter born to this couple"
+        answer: "NICOSTRATUS AND HERMIONE"
+  - tossup:
+      question: "What type of subjunctive is used in this sentence: <latin>forsitan temēre fēcerim</latin>?"
+      answer: "POTENTIAL"
+    boni:
+      - question: "The Latin word <latin>forsitan</latin> originally introduced what type of dependent subjunctive clause?"
+        answer: "INDIRECT QUESTION"
+      - question: "Say in Latin using <latin>forsitan</latin>: “Perhaps you may ask why we are doing this.”"
+        answer: "<latin>FORSITAN QUAERĀ(TI)S / ROGĀ(TI)S CŪR / QUĀRE (HOC) FACIĀMUS</latin>"
+  - tossup:
+      question: "What two emotions did Lucius feel immediately upon awakening?"
+      answer: "FEAR & JOY"
+    boni:
+      - question: "With what did Lucius wash himself?"
+        answer: "(MARINE) DEW / SEAWATER"
+      - question: "What is the last thing that Lucius does in this passage?"
+        answer: "HE THINKS OVER / PONDERS THE GODDESS’ INSTRUCTIONS / THE ORDER OF THINGS WHICH SHE INSTRUCTED HIM TO DO"
+  - tossup:
+      question: "The following is a visual tossup. (Begin distributing the visuals) Please do NOT open your visuals until you are instructed to do so. Also, please keep in mind that this is a tossup question so there should be no consultation among teammates. You will have 15 seconds to examine your visuals. Please open your visuals. Which of the passages on the visual was NOT written by Plautus?"
+      answer: "“B”"
+    boni:
+      - question: "Identify by letter the title of any two of the five Plautine plays in the visual"
+        answer: "SEE BELOW"
+      - question: "Now do the same for two more of the remaining passages"
+        answer: "“A” = <latin>MOSTELLARIA</latin> / “<latin>C</latin>” = <latin>AULULARIA</latin> / “<latin>D</latin>” = <latin>MILES GLORIOSUS</latin> / “<latin>E</latin>” = <latin>MENAECHMI</latin> / “<latin>F</latin>” = <latin>RUDENS</latin>"
+  - tossup:
+      question: "What Latin poet, after 30 years in Bordeaux as a teacher of rhetoric, was summoned to the imperial court at Trier to teach the son of the emperor Valentinian?"
+      answer: "(DECIMUS MAGNUS) AUSONIUS"
+    boni:
+      - question: "The best known work of Ausonius is a description of what river in 483 lines of hexameter?"
+        answer: "MOSELLA / <title>MOSELE</title>"
+      - question: "For which emperor did Ausonius compose a prose speech of thanks in 379 AD?"
+        answer: "GRATIAN"
+  - tossup:
+      question: "The assassinations of Aetius and Valentinian III opened the way for the dominance of what German general who raised and deposed four of the last seven Roman emperors?"
+      answer: "RICIMER"
+    boni:
+      - question: "The emperor Glycerius was given the throne in 473 AD by what nephew and de facto successor of Ricimer?"
+        answer: "GUNDOBAD"
+      - question: "Ricimer’s maternal grandfather was Wallia, successor to Athaulf and king of what German tribe?"
+        answer: "VISIGOTHS"
+  - tossup:
+      question: "<latin>Bipedālia, abaculī, tēgulae</latin>, and <latin>imbricēs</latin> are all what kind of construction material?"
+      answer: "TILE"
+    boni:
+      - question: "Of the four types of tile listed in the toss-up, which was a gutter tile?"
+        answer: "<latin>IMBRICĒS</latin> "
+      - question: "Of the other three types of tile listed in the toss-up, which was also a type of roof tile?"
+        answer: "<latin>TĒGULAE</latin>"
+  - tossup:
+      question: "What son of Andraemon secured the throne of Elis after defeating Dius, despite having been denied the aid of the Heraclids, for whom he had served as oracle upon his trusty mule?"
+      answer: "OXYLUS"
+    boni:
+      - question: "The Heraclids also attacked Argos, defeating what son of Orestes?"
+        answer: "TISAMENUS"
+      - question: "After defeating their enemies, the Heraclid leaders drew lots to divide the territories they had won. Which of the leaders won Messenia by trickery and was eventually killed by his sons and Polyphontes?"
+        answer: "CRESPHONTES"
+  - tossup:
+      question: "In the following sentence, what is the use of the accusative case: “<latin>In arbore multī avēs</latin> carmina <latin>dulcissimē</latin> canebant”?"
+      answer: "COGNATE /INTERNAL / ACCUSATIVE OF KINDRED SPECIFICATION"
+    boni:
+      - question: "Now what is the use of the accusative case in this sentence: “<latin>Nōnnē puerī id aetātis molestiorēs sunt</latin>?”"
+        answer: "ADVERBIAL"
+      - question: "Now what is the use of the ablative case in this sentence: “<latin>Figule, vās ingens argillā statim fingātur</latin>“?"
+        answer: "MATERIAL"
+  - tossup:
+      question: "What Latin word is at the root of the English <emphasis>verb</emphasis> “soil”?"
+      answer: "<latin>SŪS</latin> "
+    boni:
+      - question: "What Latin word is at the root of the English noun “sexton”?"
+        answer: "<latin>SACER</latin> "
+      - question: "What Latin word is at the root of the English verb “pester”?"
+        answer: "<latin>PASCŌ</latin>"
+  - tossup:
+      question: "<latin>Sī quis secūrim in arbōrem</latin> identidem <latin>iactābit</latin>, quid <latin>secūrī</latin> accidat?"
+      answer: "<latin>HEBĒSCIT</latin>"
+    boni:
+      - question: "<latin>Sī quis equum ferum cogere equitem recipere potest, quid equō accidat?</latin>"
+        answer: "<latin>MĀNSUĒFACIT</latin>"
+      - question: "<latin>Sī fēmina innocēns iocum immodestum audit, quid fēminae accidat?</latin>"
+        answer: "<latin>ĒRUBĒSCIT</latin>"
+  - tossup:
+      question: "What son of Poseidon and Euryte raped the daughter of Aglaurus and Ares, whose name was Alcippe, and as a result became the first murder victim in mythology?"
+      answer: "HALIRRHOTHIUS"
+    boni:
+      - question: "What son of Ares was killed by Apollo for burning down the Apollonian temple at Delphi?"
+        answer: "PHLEGYAS"
+      - question: "Name the father of Dia and father-in-law to be of Ixion, whom Ixion killed by pushing him into a bed of flaming coals?"
+        answer: "(D)EIONEUS"
+  - tossup:
+      question: "Who am I? Born to the historian Licinius Macer in 82 BC, I became a great orator, though my prosecution of Caesar’s ally Vatinius was unsuccessful. An accomplished poet, I composed the historical epic <title><latin>Io</latin></title> as well as a mournful poem honouring my dead wife Quintilia"
+      answer: "CALVUS"
+    boni:
+      - question: "Calvus was a good friend of Catullus. What other friend of his did Catullus mock for composing an abstruse, learned epic poem about an incestuous mythological relationship?"
+        answer: "CINNA"
+      - question: "Calvus, Cinna and Catullus were all neoteric poets. What earlier neoteric poet was described as “<latin>Latina siren, qui solus legit ac facit poetas”</latin>?"
+        answer: "VALERIUS CATO"
+  - tossup:
+      question: "Please translate the following sentence into Latin using the verb <latin>petō</latin>: “Caesar asked his lieutenants why they had not obeyed his orders.”"
+      answer: "<latin>CAESAR Ā LĒGĀTĪS PETĪVIT / PETĒBAT CŪR MANDĀTĪS / IMPERIĪS / IUSSĪS (SUĪS) NŌN PARUISSENT</latin> "
+    boni:
+      - question: "Please translate this sentence into Latin: “The lieutenants will have to obey Caesar’s orders.”"
+        answer: "<latin>PARENDUM ERIT MANDĀTĪS / IMPERIĪS / IUSSĪS CAESARIS Ā LĒGĀTĪS</latin>"
+      - question: "Please translate this sentence into Latin: “He believes that the lieutenants of Caesar are worthy to be praised.”"
+        answer: "<latin>CREDIT LEGATOS CAESARIS ESSE DIGNOS QUI LAUDENTUR</latin>"
+  - tossup:
+      question: "Who was likely present in Perusia when Octavian captured the city in 41 BC and was often called the Roman Callimachus?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "Book 3 of Propertius’s poetry contains a prominent poem to Maecenas and what member of Augustus’s family?"
+        answer: "(M. CLAUDIUS) MARCELLUS"
+      - question: "Propertius dedicated his Monobiblos to the nephew of what consul who served alongside of Octavian in 33 BC?"
+        answer: "(L. VOLCACIUS) TULLUS"
+  - tossup:
+      question: "By whom were Minos’ son Glaucus, Hymenaeus, Lycurgus, Capaneus, and Hippolytus all said to have been revived using Gorgon blood?"
+      answer: "ASCLEPIUS"
+    boni:
+      - question: "For reanimating the dead, Zeus killed Asclepius. How did Apollo avenge his son?"
+        answer: "HE KILLED THE CYCLOPES (WHO HAD FORGED THE THUNDERBOLT)"
+      - question: "Give the Latin term for the constellation into which Zeus turned Asclepius"
+        answer: "<latin>OPHIUCHUS</latin>"
+  - tossup:
+      question: "The year 190 BC saw Rome emerge victorious at two separate battles against its enemy Antiochus III. At which of these two battles did Lucius Aemilius Regillus achieve Rome’s last notable naval victory against a foreign enemy?"
+      answer: "MYONESSUS"
+    boni:
+      - question: "Roman forces won their second victory against Antiochus III that year under the command of what consul of 190 BC?"
+        answer: "LUCIUS (CORNELIUS) SCIPIO (ASIAGENES/ASIATICUS)"
+      - question: "What consul of 189 BC succeeded Scipio as commander in Asia and signed a treaty with Antiochus at Apamea?"
+        answer: "(GNAEUS) MANLIUS VULSO"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Multī in oppidō clāmāre et nōnnūllī plōrāre</latin>."
+      answer: "MANY IN TOWN SHOUTED/WERE SHOUTING AND SOME CRIED / WERE CRYING"
+    boni:
+      - question: "Translate: <latin>Quid obstat quōminus sit beātus?</latin>"
+        answer: "WHAT IS TO PREVENT HIM / HINDER HIM FROM BEING HAPPY"
+      - question: "Translate: <latin>Multī puerī sunt tam pigrī quīn celeriter currere possint.</latin>"
+        answer: "MANY BOYS ARE SO SLOW/SLUGGISH THAT THEY CAN’T RUN FAST/QUICKLY"

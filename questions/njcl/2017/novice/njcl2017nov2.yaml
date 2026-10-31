@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Give the four principal parts of the verb from which “conserve,” “observe,” and “reserve” are all derived."
+      answer: "<latin>SERVŌ, SERVĀRE, SERVĀVĪ, SERVĀTUS /-A /-UM</latin>"
+    boni:
+      - question: "Which one of the following is also derived from <latin>servō</latin>: deserve, service, reservoir, dissertation?"
+        answer: "RESERVOIR"
+      - question: "Give the 2nd principal part of the verb from which the words “deserve” and “service” derive."
+        answer: "<latin>SERVĪRE</latin>"
+  - tossup:
+      question: "Name, in chronological order, the emperors who ruled in 69 AD."
+      answer: "GALBA, OTHO, VITELLIUS, VESPASIAN"
+    boni:
+      - question: "What Latin colony became the site of two battles that determined the ascension of two emperors in the same year, 69 AD?"
+        answer: "CREMONA / BEDRIACUM"
+      - question: "What energetic officer, ignoring the caution of his superior, Mucianus, led the forces of Vespasian to victory during the Second Battle of Cremona?"
+        answer: "(M. ANTONIUS) PRIMUS"
+  - tossup:
+      question: "Which of the suitors of Penelope was the first to be shot by Odysseus?"
+      answer: "ANTINOÜS"
+    boni:
+      - question: "What treacherous goatherd supplied the suitors with weapons and stopped the battle from being a simple slaughter?"
+        answer: "MELANTHEUS"
+      - question: "How did Melantheus die?"
+        answer: "HE WAS <emphasis>HANGED</emphasis> (BY EUMAEUS AND PHILOETIUS)"
+  - tossup:
+      question: "<latin>Quid Anglicē significat</latin> <latin>somnus?</latin>"
+      answer: "SLEEP / DREAM"
+    boni:
+      - question: "<latin>Quid Anglicē significat somnium?</latin>"
+        answer: "DREAM"
+      - question: "<latin>Quid Anglicē significat sonus?</latin>"
+        answer: "SOUND"
+  - tossup:
+      question: "What king did Zeus, for the crime of attempting to rape Hera, attach to a fiery wheel?"
+      answer: "IXION"
+    boni:
+      - question: "Name the maidens who were sentenced to carry leaky jars forever in the underworld for the crime of killing their new husbands."
+        answer: "DANAÏDS"
+      - question: "Who was the one maiden who took pity on her husband and spared his life?"
+        answer: "HYPERM(N)ESTRA"
+  - tossup:
+      question: "What Arvernian chieftain united Gaul against Caesar?"
+      answer: "VERCINGETORIX"
+    boni:
+      - question: "What fortress held by Vercingetorix did Caesar fail to capture in 52 BC?"
+        answer: "GERGOVIA"
+      - question: "Where did Vercingetorix finally surrender after being surrounded by Caesar's forces?"
+        answer: "ALESIA"
+  - tossup:
+      question: "Which of the following does not belong due to case usage: <latin>dē, ad, circum, apud, trāns</latin>?"
+      answer: "<latin>DĒ</latin>"
+    boni:
+      - question: "What case do the rest take?"
+        answer: "ACCUSATIVE"
+      - question: "Not all prepositions take a single case. Give a preposition that takes more than one case."
+        answer: "<latin>IN, SUB, TENUS, SUPER, SUBTER</latin>"
+  - tossup:
+      question: "What exclusively female priesthood in Rome was responsible for tending the sacred fire of Vesta?"
+      answer: "VESTAL(S VIRGINS) / <latin>VIRGINĒS VESTALĒS</latin>"
+    boni:
+      - question: "In what building in the Forum did the Vestal Virgins live?"
+        answer: "<latin>ĀTRIUM VESTAE /</latin> ATRIUM OF VESTA"
+      - question: "How many years was a Vestal Virgin required to serve?"
+        answer: "30"
+  - tossup:
+      question: "Give the correct form of the relative pronoun to translate the following sentence into Latin: The senators who were walking to the Forum suddenly stopped."
+      answer: "<latin>QUĪ</latin>"
+    boni:
+      - question: "Give the correct form of the relative pronoun for this sentence: The men, whom Aurelia saw on the road, were stopped."
+        answer: "<latin>QUŌS</latin>"
+      - question: "Give the correct form of the relative pronoun for this sentence: The women, whom we trusted, promised to fight our battles."
+        answer: "<latin>QUIBUS</latin>"
+  - tossup:
+      question: "What fisherman on the island Seriphus sheltered the stranded Perseus and Danaë?"
+      answer: "DICTYS"
+    boni:
+      - question: "What Ethiopian princess did Perseus rescue from a sea-monster?"
+        answer: "ANDROMEDA"
+      - question: "What son of Perseus and Andromeda inherited the throne of king Cepheus?"
+        answer: "PERSES"
+  - tossup:
+      question: "Listen carefully to the following passage about a boy and his dog, which I will read twice, then answer the questions that follow in ENGLISH <latin>Tredecim diēs post tempestātem, puer cum amīcīs suīs canem invenīre temptābat. Petīvērunt per omnēs agrōs et rogāvērunt agricolās et mercātōrēs, sed nēmō canem āmissum vīderat. Tandem puer trīstis et amīcī domum revēnērunt. Mīrābile dictū! Māter puerō lacrimantī novum canem dedit.</latin>  Question: What two groups of people did the boy and his friends ask about the lost dog?"
+      answer: "FARMERS AND MERCHANTS"
+    boni:
+      - question: "How long did they search for the dog?"
+        answer: "FOR THIRTEEN DAYS"
+      - question: "What did the boy’s mom do for him?"
+        answer: "GAVE HIM A NEW DOG"
+  - tossup:
+      question: "Give an antonym for the word <latin>uxor</latin>."
+      answer: "<latin>MARĪTUS / VIR / VIRGŌ / PUELLA</latin>"
+    boni:
+      - question: "Give an antonym for the word <latin>pāx</latin>."
+        answer: "<latin>BELLUM / PUGNA / PROELIUM</latin>"
+      - question: "Give an antonym for the word <latin>nox</latin>."
+        answer: "<latin>DIĒS / LŪX / LŪMEN</latin>"
+  - tossup:
+      question: "What ancient Roman structure contained the following features: <latin>porta triumphālis</latin>, <latin>carcerēs</latin>, <latin>mētae</latin>, and <latin>spīna</latin>?"
+      answer: "<latin>CIRCUS</latin> / CIRCUS (MAXIMUS / FLAMINIUS /  \t\t\tOF GAIUS AND NERO / OF THE ARVAL BRETHREN / OF MAXENTIUS)"
+    boni:
+      - question: "During a chariot race, what was the function of <latin>ōva et delphīnī</latin>?"
+        answer: "COUNT LAPS COMPLETED"
+      - question: "How many laps constituted a typical race?"
+        answer: "7"
+  - tossup:
+      question: "Whom did the Greek forces abandon on the island of Lemnos because a festering wound on his foot caused a terrible stench?"
+      answer: "PHILOCTETES"
+    boni:
+      - question: "What item did Philoctetes possess which a Trojan seer claimed was necessary for taking the city of Troy?"
+        answer: "THE BOW / ARROWS OF HERACLES"
+      - question: "What Trojan prince died painfully from Philoctetes' poisoned arrow?"
+        answer: "PARIS"
+  - tossup:
+      question: "What English verb meaning \"to happen again and again\" is derived from the Latin verb <latin>currō</latin>, meaning \"run\"?"
+      answer: "RECUR / REOCCUR"
+    boni:
+      - question: "What English noun, meaning \"a carved likeness\" is derived from the Latin verb <latin>stō</latin>?"
+        answer: "STATUE"
+      - question: "What other English noun, meaning \"a doctor who delivers babies,\" is derived from the same Latin verb, <latin>stō</latin>?"
+        answer: "OBSTETRICIAN"
+  - tossup:
+      question: "What three-letter Latin abbreviation commonly used in English means “and the rest”?"
+      answer: "<latin>ETC</latin>."
+    boni:
+      - question: "What four letter abbreviation used by the Romans to denote all of Rome can be found in this inscription and what is its English meaning?"
+        answer: "<latin>S.P.Q.R.</latin> - THE SENATE AND PEOPLE OF ROME / ROMAN PEOPLE"
+      - question: "What use of the ablative case can be found in the next to last line of the inscription?"
+        answer: "MEANS"
+  - tossup:
+      question: "What king of Corinth incurred Zeus’ wrath when he informed the river Asopus that Zeus had taken his daughter?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Who was Asopus’ daughter?"
+        answer: "AEGINA"
+      - question: "What son did Aegina bear to Zeus?"
+        answer: "AEACUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Mīles fortis ā leōne vulnerātus est</latin>."
+      answer: "THE BRAVE SOLDIER WAS WOUNDED / HAS BEEN WOUNDED / BY A LION."
+    boni:
+      - question: "Translate this sentence: <latin>Deinde mīles leōnem gladiō vulnerāvit.</latin>"
+        answer: "THEN, THE SOLDIER WOUNDED THE LION WITH HIS SWORD."
+      - question: "Translate this sentence: <latin>Tandem, mors appropinquāvit mīlitī leōnīque.</latin>"
+        answer: "FINALLY, DEATH APPROACHED/ CAME TO/ DREW NEAR TO THE SOLDIER AND THE LION."
+  - tossup:
+      question: "Who, having been appointed dictator in a popular election, was dubbed “Hannibal’s Lackey” for refusing to meet Hannibal in pitched battle?"
+      answer: "(Q.) FABIUS MAXIMUS // VERRUCOSUS // CUNCTATOR"
+    boni:
+      - question: "After what disastrous defeat, did the Centuriate Assembly appoint Fabius dictator?"
+        answer: "BATTLE OF LAKE TRASIMENE"
+      - question: "After the Romans’ frustration with Fabius’ prudence bubbled over, what two men did they elect as consuls for 216 BC with an ill-advised mandate to attack Hannibal head-on?"
+        answer: "(L. AEMILIUS) PAULLUS AND (C. TERENTIUS) VARRO"
+  - tossup:
+      question: "When recognized by the spotter, perform the following commands: <latin>Tolle manūs tuās suprā ūnīus amīcī caput</latin>."
+      answer: "PLAYER LIFTS BOTH HANDS ABOVE ONE OF HIS/HER FRIEND’S HEAD"
+    boni:
+      - question: "Now perform these actions: <latin>Surgite omnēs et coniungite brachia</latin>."
+        answer: "ALL PLAYERS ON THE TEAM RISE AND JOIN ARMS"
+      - question: "Finally perform these actions: <latin>Sedentēs, dīcite moderātōrī nōmen cīvitātis vestrae</latin>."
+        answer: "AT LEAST TWO OF THE PLAYERS, WHILE SITTING, TELL THE MODERATOR WHICH STATE / CITY / COUNTRY THEY ARE FROM."

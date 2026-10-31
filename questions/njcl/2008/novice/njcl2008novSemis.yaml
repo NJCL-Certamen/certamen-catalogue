@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "For the verb <latin>volō</latin>, <latin>velle</latin>, give the 3rd person singular, present, indicative"
+      answer: "<latin>VULT</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>nōlō</latin>"
+        answer: "<latin>NŌN VULT</latin>"
+      - question: "Give the corresponding form for <latin>eō</latin>"
+        answer: "<latin>IT</latin>"
+  - tossup:
+      question: "What monster snatched six of Odysseus’ men as they sailed through the Straits of Messina?"
+      answer: "SCYLLA"
+    boni:
+      - question: "Who had warned Odysseus about Scylla?"
+        answer: "CIRCE"
+      - question: "Who were the parents of Circe?"
+        answer: "HELIOS & PERSE(IS)"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dīctiōnum in hāc sententiā: “multī gladiātōrēs in amphitheātrō pugnābant.” quō cāsū est “gladiātōrēs”?</latin>"
+      answer: "NŌMINĀTĪVŌ"
+    boni:
+      - question: "<latin>quae pars ōrātiōnis est “multī”?</latin>"
+        answer: "ADIECTĪVUM"
+      - question: "<latin>cuius generis est “amphitheātrō”?</latin>"
+        answer: "NEUTRIUS"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of the following words: journal, meridian, diurnal, diary?"
+      answer: "<latin>DIĒS</latin>, <latin>(-ĒĪ</latin>) – DAY"
+    boni:
+      - question: "From what Latin noun with what meaning do we derive the English adjective “otiose”?"
+        answer: "<latin>ŌTIUM, (ŌTĪ)</latin> – LEISURE"
+      - question: "From what Latin noun with what meaning do we derive the English adjective “precious”?"
+        answer: "<latin>PRETIUM, (PRETĪ)</latin> - PRICE"
+  - tossup:
+      question: "The loss of what woman caused Achilles’ withdrawal from the war at Troy?"
+      answer: "BRISEIS"
+    boni:
+      - question: "Why did Agamemnon take Briseis away from Achilles?"
+        answer: "BECAUSE HE WAS FORCED TO GIVE UP (HIS CONCUBINE) CHRYSEIS"
+      - question: "What tutor of Achilles was among the men sent to persuade Achilles to rejoin battle?"
+        answer: "PHOENIX"
+  - tossup:
+      question: "Translate the following sentence into Latin: “Tomorrow the guard will look for the thief.”"
+      answer: "<latin>CRĀS (ILLE / IS) CUSTŌS FŪREM / LATRŌNEM QUAERET / PETET</latin>"
+    boni:
+      - question: "Now translate: Caesar and I will go to Athens"
+        answer: "<latin>EGO ET CAESAR ATHĒNĀS ĪBIMUS</latin>"
+      - question: "Now translate: Ten women have sailed from Rome"
+        answer: "<latin>DECEM FĒMINAE / MULIERĒS RŌMĀ NĀVIGĀVĒRUNT</latin>"
+  - tossup:
+      question: "Who, though little more than a child, was placed on the imperial throne by his father Orestes in 475 AD?"
+      answer: "ROMULUS AUGUSTULUS"
+    boni:
+      - question: "What Germanic chieftain deposed Romulus Augustulus?"
+        answer: "ODO(V)ACER"
+      - question: "To what region of Italy did Odovacer send Romulus Augustulus to live out the rest of his life with an annual pension of 6,000 <latin>solidī</latin>?"
+        answer: "CAMPANIA"
+  - tossup:
+      question: "Which Roman statesman, despite his constant warnings against the resurgence of an enemy state, did not live to see the destruction of Carthage?"
+      answer: "CATO THE ELDER / CENSOR"
+    boni:
+      - question: "Which Roman was responsible for the final destruction of Carthage in 146 BC?"
+        answer: "SCIPIO AEMILIANUS / AFRICANUS MINOR"
+      - question: "Who commanded the Roman forces that sacked Corinth in that same year?"
+        answer: "(GAIUS) MUMMIUS"
+  - tossup:
+      question: "What Latin case in the singular appears identical to the locative of the first and second declensions?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What is the locative of <latin>rūs</latin>?"
+        answer: "<latin>RŪRĪ</latin>"
+      - question: "What locative idiom in Latin means “at home and in the field”?"
+        answer: "<latin>DOMĪ MĪLITIAEQUE</latin>"
+  - tossup:
+      question: "What son of Glaucus and Eurynome was famous for slaying the fire-breathing Chimaera?"
+      answer: "BELLEROPHON(TES) / HIPPONOUS"
+    boni:
+      - question: "What Lycian king sent Bellerophon to kill the Chimaera?"
+        answer: "IOBATES"
+      - question: "Whose false accusation of rape resulted in Bellerophon being sent to Iobates?"
+        answer: "STHENEBOEA / ANTEIA"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine the map for ten seconds.  This is a map of the Roman Empire <latin>circa</latin> 117 AD. Please give the letter that indicates the location where the rebellion of Boudicca took place"
+      answer: "“A”"
+    boni:
+      - question: "Please give the Latin name for the body of water to which letter “C” points"
+        answer: "<latin>PONTUS EUXINUS</latin>"
+      - question: "Please name the Roman provinces represented by letters “D” and “E”"
+        answer: "D = TARRACONENSIS & E=BAETICA"
+  - tossup:
+      question: "What TWO uses of the ablative case are found in the following sentence: <latin>Mercātor ā Quīntō saxō interfectus est</latin>"
+      answer: "AGENT & MEANS"
+    boni:
+      - question: "What TWO uses of the ablative case are found in this sentence: <latin>Illō diē ad urbem cum celeritāte cucurrimus</latin>"
+        answer: "TIME (WHEN) & MANNER"
+      - question: "What TWO uses of the ablative case are found in this sentence: <latin>Illa saltātrīx est multō pulchrior sorōre meā</latin>"
+        answer: "DEGREE OF DIFFERENCE & COMPARISON"
+  - tossup:
+      question: "Who commits suicide with the sword of her beloved Aeneas?"
+      answer: "DIDO / ELISSA"
+    boni:
+      - question: "Whom does Juno send to free Dido’s soul?"
+        answer: "IRIS"
+      - question: "Who unknowingly helped her sister Dido commit suicide?"
+        answer: "ANNA"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin verb as the others? frugal, fugitive, fugue, subterfuge, centrifugal"
+      answer: "FRUGAL"
+    boni:
+      - question: "prohibit, debit, habit, ability, endeavor"
+        answer: "ALL ARE FROM THE SAME VERB (<latin>HABEŌ</latin>)"
+      - question: "fiddle, infidel, diffident, bonafide, defy"
+        answer: "FIDDLE"
+  - tossup:
+      question: "The Roman commanders Veturius Calvinus and Postumius Albinus were trapped by Samnite forces as they led their troops through what mountainous area in 321 BC?"
+      answer: "CAUDINE FORKS / <latin>FURCULAE CAUDĪNAE</latin>"
+    boni:
+      - question: "Who was the leader of the Samnite forces at the Battle of Caudine Forks?"
+        answer: "(GA<emphasis>V</emphasis>IUS) PONTIUS"
+      - question: "What humiliating act did the victorious Samnites force the Romans to perform?"
+        answer: "MARCH UNDER A YOKE (OF SPEARS) / SUBJUGATION"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Caelum serēnum erat. Iam Rōmānī in Campō Mārtiō ambulābant, sed tacitī erant quod imperātōrem vidēre nōn poterant. Mox appropinquāvit imperātor cum familiā suā ingentī. Omnēs clāmābant et plaudēbant.</latin> Question: Why were the people initially silent?"
+      answer: "THEY WERE UNABLE TO SEE THE EMPEROR"
+    boni:
+      - question: "Describe the weather on this day"
+        answer: "THE SKY WAS CALM / <emphasis>CLEAR</emphasis> SKIES"
+      - question: "What did the people do when the emperor arrived with his family?"
+        answer: "THEY <emphasis>SHOUTED</emphasis> AND <emphasis>APPLAUDED</emphasis>"
+  - tossup:
+      question: "Zelus, Nike, Kratos, and Bia were all children of which river of the Underworld?"
+      answer: "STYX"
+    boni:
+      - question: "Why did Zeus choose to honor Styx by decreeing that the most solemn oath the gods might swear would be sworn by her waters?"
+        answer: "BECAUSE STYX (& HER CHILDREN) SIDED WITH ZEUS (IN HIS WAR AGAINST THE TITANS)"
+      - question: "The name of which of the children of Styx means “victory”?"
+        answer: "NIKE"
+  - tossup:
+      question: "The modeling of proper Latin pronunciation, the guidance of a student’s hand to trace the letters of the alphabet, and the training of memory with various memorization techniques were all job descriptions of what type of teacher in the Roman education system?"
+      answer: "<latin>(LUDĪ) MAGISTER</latin> (do not accept “MAGISTRA”)"
+    boni:
+      - question: "What instrument did a <latin>ludī magister</latin> use to help with the teaching of the more difficult concepts of math, even though mental calculation was the primary focus?"
+        answer: "<latin>ABACUS</latin>"
+      - question: "Give the Latin term for the teacher who would train a Roman student to practice <latin>suāsōria</latin>, where the student assumes the character of an historical figure at a point of decision and discusses possible courses of action?"
+        answer: "<latin>RHĒTOR</latin>"
+  - tossup:
+      question: "Please translate the following sentence into English: <latin>perīculōsum est multōs inimīcōs habēre</latin>"
+      answer: "IT IS DANGEROUS TO HAVE MANY ENEMIES / HAVING MANY ENEMIES IS DANGEROUS"
+    boni:
+      - question: "<latin>semper melius est plūrēs amīcōs quam inimīcōs habēre</latin>"
+        answer: "IT IS ALWAYS BETTER TO HAVE MORE FRIENDS THAN ENEMIES / HAVING MORE FRIENDS THAN ENEMIES IS ALWAYS BETTER"
+      - question: "<latin>necesse est tibi quam plūrimōs amīcōs habēre</latin>"
+        answer: "IT IS NECESSARY FOR YOU TO HAVE AS MANY FRIENDS AS POSSIBLE / HAVING AS MANY FRIENDS AS POSSIBLE IS NECESSARY FOR YOU"
+  - tossup:
+      question: "Give an antonym of <latin>ōdī</latin>"
+      answer: "<latin>AMŌ / DĪLIGŌ / MIHI PLACET</latin>"
+    boni:
+      - question: "Give an antonym of <latin>vacuus</latin>"
+        answer: "<latin>PLĒNUS / REFERTUS / DIFFERTUS</latin>"
+      - question: "Give an antonym of <latin>niger</latin>"
+        answer: "<latin>ALBUS</latin> / <latin>CANDIDUS</latin> / <latin>NIVEUS</latin> (If student says “<latin>āter</latin>”, ask him or her to explain the answer. “<latin>Niger</latin>” is dull black, while <latin>āter</latin> is shiny black) 2008 NJCL CERTAMEN NOVICE DIVISION FINALS"
+  - tossup:
+      question: "With the help of elephants and Numidian cavalry provided by Massinissa, the Romans were able to smash the Macedonian phalanx and end the Second Macedonian War at what battle of 197 BC?"
+      answer: "CYNOSCEPHALAE"
+    boni:
+      - question: "Who was the victorious Roman general at the Battle of Cynoscephalae?"
+        answer: "(T. QUINCTIUS) FLAMININUS"
+      - question: "At which of the Panhellenic gatherings did Flamininus proclaim the “Freedom of Greece”?"
+        answer: "ISTHMIAN GAMES"
+  - tossup:
+      question: "Which of the following Latin nouns does NOT belong to the same declension as the others? <latin>uxor</latin>, <latin>vulnus</latin>, <latin>tempus</latin>, <latin>impetus</latin>, <latin>arbor</latin>, <latin>lēx</latin>"
+      answer: "IMPETUS"
+    boni:
+      - question: "Give the declension and usual gender of the noun <latin>merīdiēs</latin>. 5th,"
+        answer: "MASCULINE"
+      - question: "<latin>Respondē Latīne: Cuius generis est “impetus”?</latin>"
+        answer: "MASCULĪNĪ"
+  - tossup:
+      question: "What king of Phylace chose to jump onto the shores of Troy before all of the other Greek warriors?"
+      answer: "PROTESILAUS"
+    boni:
+      - question: "Who killed Protesilaus not long after he touched on Trojan soil?"
+        answer: "HECTOR"
+      - question: "Who grieved so much that the gods allowed Protesilaus to return to life for a short time?"
+        answer: "(HIS WIFE) LAODAMEIA"
+  - tossup:
+      question: "Give the Latin noun and its meaning from which the verb “contest” is derived"
+      answer: "<latin>TESTIS</latin> = WITNESS"
+    boni:
+      - question: "Give the Latin noun and its meaning from which the adjective “pestiferous” is derived"
+        answer: "<latin>PESTIS</latin> - PEST"
+      - question: "What is the meaning of the adjective “subcutaneous”, which is derived from the noun <latin>cutis</latin>?"
+        answer: "UNDERNEATH THE SKIN"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Tertiō diē pontifex magnae sapientiae vēnit</latin>"
+      answer: "ON THE THIRD DAY, A PRIEST OF GREAT WISDOM CAME"
+    boni:
+      - question: "Translate: <latin>Spectāte quod perīculōsum est</latin>"
+        answer: "LOOK BECAUSE IT IS DANGEROUS / LOOK AT THAT WHICH IS DANGEROUS"
+      - question: "Translate this sentence into Latin: Lucius, where are we able to eat?"
+        answer: "<latin>LŪCĪ, UBI EDERE POSSUMUS?</latin>"
+  - tossup:
+      question: "Which of the evil-doers encountered by Theseus forced passersby to wash his feet, only to kick them off a cliff to feed a giant turtle?"
+      answer: "SC(E)IRON"
+    boni:
+      - question: "Which of the evil-doers encountered by Theseus forced people to fit his bed?"
+        answer: "PROCRUSTES / POLYPEMON / DAMASTES"
+      - question: "Which of the evil-doers encountered by Theseus killed people by catapulting them to their deaths?"
+        answer: "SINIS / PITYOCAMPTES"
+  - tossup:
+      question: "What grammatical mood is seen in the motto of Miami University of Ohio, “<latin>prōdesse quam cōnspicī</latin>?”"
+      answer: "INFINITIVE"
+    boni:
+      - question: "What use of the infinitive is found in this motto?"
+        answer: "SUBJECT(IVE)"
+      - question: "Using the same type of construction as the motto, say in Latin, “To love rather than to be loved.”"
+        answer: "<latin>AMĀRE QUAM AMĀRĪ</latin>"
+  - tossup:
+      question: "For which of his labors did Heracles sail beyond the river Oceanus in a huge golden cup?"
+      answer: "(FETCHING THE) CATTLE OF GERYON (promp on “10th”)"
+    boni:
+      - question: "Who gave Heracles this huge golden cup?"
+        answer: "HELIOS"
+      - question: "What guard-dog did Heracles kill once he reached Geryon’s island?"
+        answer: "ORTH(R)US"
+  - tossup:
+      question: "What son of a tax-collector, with the support of Antonius Primus and the Danubian legions, established the second imperial dynasty in Roman history?"
+      answer: "VESPASIAN"
+    boni:
+      - question: "Where did Antonius Primus defeat the forces of Vitellius?"
+        answer: "CREMONA / BEDRIACUM"
+      - question: "Which of Vespasian’s sons was stranded on the Capitol when the forces of Antonius Primus entered Rome?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>“Publius erat mīles Rōmānus quī tōtam vītam inter proelia et bella ēgerat. Ubi ūndēquadrāgintā annōs habēbat, tandem Rōmam revēnit. “Mortuī,” inquit “sunt meī amīcī. Nūllus fīlius, nūlla uxor, nūllus ager mihi est. Ergō, dēfessus, pācem et ōtium valdē cupiō.”</latin> Question: According to Publius, what three things does he lack?"
+      answer: "A SON, A WIFE, AND A FIELD"
+    boni:
+      - question: "How old was Publius when he returned to Rome?"
+        answer: "39"
+      - question: "How had Publius spent his whole life, and how does he wish to spend the remainder of his life?"
+        answer: "HE HAD SPENT HIS WHOLE LIFE IN WAR and HE WANTS TO SPEND THE REMAINDER OF HIS LIFE IN PEACE / LEISURE"
+  - tossup:
+      question: "Please do not open the visuals until you are instructed to do so.  You may now open your visuals and examine the pictures for ten seconds.  Please identify the types of gladiators featured in pictures #1 and #2"
+      answer: "SAMNITE/<latin>HOPLOMACHUS</latin> (PICTURE #1) & THRACIAN/THRAX (PICTURE #2)"
+    boni:
+      - question: "Please identify the types of gladiators featured in pictures #3 and #4"
+        answer: "<latin>MURMILLŌ</latin> (PICTURE #3) & <latin>RĒTIĀRIUS</latin> (PICTURE #4)"
+      - question: "Please identify the type of gladiator featured in picture #5"
+        answer: "<latin>DIMACHAERUS</latin>"
+  - tossup:
+      question: "For the verb <latin>agō</latin>, give the 3rd person singular, imperfect, passive, indicative"
+      answer: "<latin>AGĒBĀTUR</latin>"
+    boni:
+      - question: "Change <latin>agēbātur</latin> to the future tense"
+        answer: "<latin>AGĒTUR</latin>"
+      - question: "Change <latin>agētur</latin> to the future perfect tense"
+        answer: "<latin>ACTUS /-A /-UM ERIT</latin>"
+  - tossup:
+      question: "What low-born native of Dalmatia established the Tetrarchy?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "Who was Diocletian’s co-Augustus?"
+        answer: "MAXIMIAN"
+      - question: "Who was Diocletian’s Caesar?"
+        answer: "GALERIUS"
+  - tossup:
+      question: "What chess piece derives its name from the Latin noun for “foot”?"
+      answer: "PAWN"
+    boni:
+      - question: "What English noun for “a woman’s scarf worn as a covering for the head” derives from the Latin noun for “head”?"
+        answer: "(HAND)KERCHIEF"
+      - question: "What English noun, an ancient unit of linear measure originally equal to the length of the forearm, derives from the Latin noun for “elbow”?"
+        answer: "CUBIT"
+  - tossup:
+      question: "Batman mania has taken control of the United States!  Behold, it’s the Dark Knight, <latin>Eques Obscūrus</latin>!  When you are recognized, perform the following commands: <latin>surge et dīc Anglicē “cūr tam gravis es”?</latin>"
+      answer: "STUDENT RISES AND SAYS, “WHY (ARE YOU) SO SERIOUS?”"
+    boni:
+      - question: "<latin>surge et, ūnum digitum ad caelum tollēns, clāmā Anglicē “ego sum nox”</latin>"
+        answer: "A STUDENT RISES, POINTS ONE FINGER TO THE SKY AND SHOUTS “I AM THE NIGHT”"
+      - question: "<latin>surgite, omnēs, et tuās zōnās ostendentēs, dīcite Anglicē “nōs omnēs zōnās ūtilitātis habēmus”</latin>"
+        answer: "ALL STUDENTS RISE AND WHILE SHOWING THEIR BELTS, SAY “WE ALL HAVE UTILITY BELTS”"
+  - tossup:
+      question: "Who divided sacrificial beef into twelve portions for the Olympian gods after killing two of Apollo’s cows near the river Alpheius?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "How did Hermes try to conceal his theft of Apollo’s cattle?"
+        answer: "DROVE THEM BACKWARDS / MASKED HIS OWN FOOTPRINTS (BY TYING BROOMS/STRAW/TWIGS TO THEIR FEET/TAILS)"
+      - question: "What old man, according to some versions, tattled on Hermes and was turned into a touchstone?"
+        answer: "BATTUS"
+  - tossup:
+      question: "Change the phrase <latin>ille cīvis stultus</latin> to the genitive plural"
+      answer: "<latin>ILLŌRUM CĪVIUM STULTŌRUM</latin>"
+    boni:
+      - question: "Change <latin>illōrum cīvium stultōrum</latin> to the singular"
+        answer: "<latin>ILLĪUS CĪVIS STULTĪ</latin>"
+      - question: "Change <latin>illīus cīvis stultī</latin> to the dative singular"
+        answer: "<latin>ILLĪ CĪVĪ STULTŌ</latin>"
+  - tossup:
+      question: "What tribune proposed the legislation that conferred governorship of Illyricum and Cisalpine Gaul on Julius Caesar in 59 BC?"
+      answer: "(P.) VATINIUS"
+    boni:
+      - question: "What additional province did the Senate confer on Caesar after Vatinius made public his legislations?"
+        answer: "GALLIA TRĀNSALPINA / TRANSALPINE GAUL"
+      - question: "Upon hearing the news that his political enemies had been attacking his conduct during the Gallic Wars, where did Caesar meet with Crassus and Pompey to renew their political alliance in 56 BC?"
+        answer: "LUCA"
+  - tossup:
+      question: "Into what types of bird were Procne and Philomela transformed?"
+      answer: "NIGHTINGALE & SWALLOW (DOESN’T MATTER THE ORDER)"
+    boni:
+      - question: "Name the husband of Procne who was responsible for cutting out the tongue of Philomela"
+        answer: "TEREUS"
+      - question: "Into what type of bird was Tereus transformed?"
+        answer: "(A FILTHY) HOOPOE (prompt on “bird of prey”)"
+  - tossup:
+      question: "Supply the correct form of the relative pronoun needed to translate the following sentence: “The soldiers, whose swords were stolen, were very angry.”"
+      answer: "<latin>QUŌRUM</latin>"
+    boni:
+      - question: "Give the correct form of the pronoun for this sentence: The old man, whom you trust, is a liar"
+        answer: "<latin>CUI</latin>"
+      - question: "Say in Latin: The city, which you see, is Rome"
+        answer: "<latin>URBS QUAM VIDĒS / SPECTĀS RŌMA EST</latin>"

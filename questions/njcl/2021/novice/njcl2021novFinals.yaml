@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Under what circumstances would a Roman man’s eldest son perform a <latin>conclāmātio</latin>, shouting his name three times, before the man was bathed, dressed, and his eyes closed?"
+      answer: "UPON HIS DEATH (WHILE NOT ON CAMPAIGN) / FUNERAL / IF FATHER DIED"
+    boni:
+      - question: "Along what road were the family tombs of Rome’s oldest aristocratic families located due to the prohibition against burying people within the city walls?"
+        answer: "APPIAN WAY / <latin>VIA APPIA</latin>"
+      - question: "What funereal activity would take place at an <latin>ustrīna</latin> before placing the remains in a <latin>columbārium</latin>?"
+        answer: "BURNING THE BODY / CREMATION"
+  - tossup:
+      question: "Sometimes called by her real name, Deiphobe, what priestess of Apollo tells Aeneas how to fetch the golden bough and guides him through the Underworld?"
+      answer: "(CUMAEAN) SIBYL"
+    boni:
+      - question: "According to the <title>Aeneid</title>, what man built the temple to Apollo at Cumae after “daring to trust himself to the sky on swift wings”?"
+        answer: "DAEDALUS"
+      - question: "In the <title>Aeneid</title>, the Sibyl and Aeneas enter the Underworld via an entrance near what lake, whose name supposedly meant “birdless”?"
+        answer: "(LAKE) AVERNUS"
+  - tossup:
+      question: "Name in chronological order the three European mountain ranges that Hannibal crossed during his invasion of Italy in the Second Punic War?"
+      answer: "PYRENEES, ALPS, APENNINES"
+    boni:
+      - question: "Name the mountain that overlooked many of the battles of the First Punic War around the Strait of Messina?"
+        answer: "MOUNT AETNA"
+      - question: "Name the mountain range that stands near the Punic city of Tingis and the pillars of Hercules."
+        answer: "ATLAS MOUNTAINS"
+  - tossup:
+      question: "Which of the following English words does not have its root in <latin>altus</latin>: alleviate, altitude, haughty, oboe?"
+      answer: "ALLEVIATE"
+    boni:
+      - question: "Which of the following does not come from the related verb <latin>alō</latin>: alimentary, alimony, altruism, coalesce?"
+        answer: "ALTRUISM"
+      - question: "What Latin adjective is the root of altruism?"
+        answer: "<latin>ALTER</latin>"
+  - tossup:
+      question: "In the prologue to Euripides’ <title>Bacchae</title>, what woman’s house in Thebes still smolders after she was vaporized upon seeing Zeus’ full glory, nearly killing her unborn son, Dionysus?"
+      answer: "SEMELE"
+    boni:
+      - question: "Later in the prologue, Dionysus says that “Cadmus has given his honor and rule to” what man, “born from his daughter, who fights the gods … and drives me away from libations?”"
+        answer: "PENTHEUS"
+      - question: "Dionysus delivers the prologue near the fountains of what woman, who was tied to a bull by Amphion and Zethus and dragged to death after she persecuted their mother?"
+        answer: "DIRCE"
+  - tossup:
+      question: "Translate the following sentence using a participle into Latin: My friend, living in Rome, wants me to visit."
+      answer: "<latin>AMĪCUS/-A MEUS/-A, RŌMAE HABITANS, MĒ VĪSITĀRE VULT</latin>"
+    boni:
+      - question: "Translate the following sentence into Latin: The lion, having been wounded, drained the blood of the bunny having been killed."
+        answer: "<latin>LEŌ VULNERĀTUS / LEAENA VULNERĀTA CUNĪCULĪ NECĀTĪ / INTERFECTĪ SANGUINEM HAUSIT</latin>"
+      - question: "Translate the following sentence into Latin: Walking to the theater, I met a priest worshipping a goddess."
+        answer: "<latin>AMBULANS AD THEĀTRUM, SACERDŌTI / FLĀMINI OCCURRI / OBVIUS/-A/-UM ERAM / FUI DEAM COLENTI</latin>"
+  - tossup:
+      question: "What emperor introduced a new system of taxation that regularized exactions in kind in order to pay for nearly doubling the size of the army, nearly doubled the number of provinces, separated military and administrative responsibilities in the provinces by splitting the duties of a governor between military <latin>duces</latin> and civilian <latin>praesides</latin>, split the empire into twelve dioceses, each under a <latin>vicarius</latin>, and setup a system of non-hereditary succession where four rulers ruled at once with two senior and two junior rulers?"
+      answer: "(C. AURELIUS VALERIUS) DIOCLETIAN(US)"
+    boni:
+      - question: "What admiral of the fleet in the British channel did the junior ruler Constantius Chlorus fight in Gaul and Britain?"
+        answer: "CARAUSIUS"
+      - question: "What praetorian prefect accompanied Constantius to Britain to defeat Allectus, who had killed Carausius and taken control of Britain?"
+        answer: "(JULIUS) ASCLEPIODOTUS"
+  - tossup:
+      question: "Give the present tense indicative form of <latin>possum</latin> to complete this sentence: <latin>Egō et Metella cēnam bonam tibi coquere</latin> ____."
+      answer: "<latin>POSSŪMUS</latin>"
+    boni:
+      - question: "Give the present tense indicative form of <latin>possum</latin> to complete this sentence: <latin>Nōbīscum, Claudī, hodiē tu cēnāre</latin> ____."
+        answer: "<latin>POTES</latin>"
+      - question: "Give the present tense indicative form of <latin>possum</latin> to complete this sentence: <latin>Vīsne mēcum celebrāre</latin> ____?"
+        answer: "<latin>POSSE</latin>"
+  - tossup:
+      question: "According to tradition, the Roman king Tullus Hostilius’ grandfather, Hostius Hostilius, died fighting against what king who attacked Rome?"
+      answer: "<latin>TITUS TATIUS</latin>"
+    boni:
+      - question: "The union of the Sabines with the Romans had occurred after the Romans had invited neighboring peoples to come to Rome to celebrate a festival called the <latin>Consuālia</latin>. What god, according to Livy, did the <latin>Consuālia</latin> honor?"
+        answer: "<latin>(EQUESTRIAN) NEPTUNE</latin>"
+      - question: "It was during the war over the women abducted at the <latin>Consuālia</latin> that Romulus won the first <latin>spolia opima</latin> and offered it to Jupiter. What specific epithet did Romulus give to the aspect of Jupiter who watched over the <latin>spolia opima</latin><title>?</title>"
+        answer: "<latin>FERETRIUS</latin>"
+  - tossup:
+      question: "What girl, the youngest daughter of Hecuba and Priam, was sacrificed by Neoptolemus on the tomb of his father, Achilles, after the ghost of the hero demanded it?"
+      answer: "POLYXENA"
+    boni:
+      - question: "In some accounts, Achilles promised to keep the Greek ships at Troy unless Polyxena was sacrificed. For this reason, Polyxena is often compared to Iphigeneia, who was sacrificed at Aulis on the advice of what seer, so that the Greeks could obtain favorable winds to Troy?"
+        answer: "CALCHAS"
+      - question: "In Euripides’ <title>Hecuba</title>, what chief herald of the Greek forces reports Polyxena’s dying words?"
+        answer: "TALTHYBIUS"
+  - tossup:
+      question: "For the following sentence, fill in the blank with the correct form of the noun <latin>amīca</latin>: “<latin>necesse est tibi appropinquāre ___</latin>”"
+      answer: "AMĪCAE / <latin>AMĪCĪS</latin>"
+    boni:
+      - question: "For the following sentence, fill in the blank with the correct form of the noun <latin>senex</latin>: “<latin>multae togae emuntur ā ___</latin>”"
+        answer: "SENE / <latin>SENIBUS</latin>"
+      - question: "For the following sentence, fill in the blank with the correct form of the adjective <latin>potēns</latin>: “<latin>bovēs sunt ___ quam caprī</latin>”"
+        answer: "<latin>POTENTIŌRĒS</latin>"
+  - tossup:
+      question: "Let’s imagine you were speaking text abbreviations in Latin. What common three letter English text message might be rendered in Latin as “<latin>sonans rīdeō”</latin>?"
+      answer: "LOL"
+    boni:
+      - question: "What common three letter English text message would be rendered in Latin as “<latin>Mox hūc iterum reveniam”</latin>?"
+        answer: "BRB"
+      - question: "What common four letter English text message would be rendered in Latin as “<latin>Tēcum posteā dīcam</latin>”?"
+        answer: "TTYL"
+  - tossup:
+      question: "<emphasis>A visual will now be shared.</emphasis> Once it is shared, you will have 10 seconds to examine it before I begin the toss-up question. Of the words <latin>unda, portus, arcus, aurīga,</latin> and <latin>sepulcrum</latin>, what is best described in the sentence labeled with the letter “B?”"
+      answer: "<latin>ARCUS</latin>"
+    boni:
+      - question: "From the list in the tossup, <latin>unda, portus, arcus, aurīga,</latin> and <latin>sepulcrum</latin>, what is best described in the sentence labeled with the letter “A?”"
+        answer: "AURIGA"
+      - question: "From the list in the tossup, <latin>unda, portus, arcus, aurīga,</latin> and <latin>sepulcrum</latin>, what is best described in the sentence labeled with the letter “E?”"
+        answer: "SEPULCRUM"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer the questions that follow in LATIN: <latin>Ōlim fuit mercātor Rōmānus quī nāve iter fēcit trans mare. Saepe Athēnīs Rōmam fēcit iter et bona sua vendidit inter cīvēs urbium. Fuit quoque pulcherrima Athēniensis quae mercatorem expectābat usque ad tempus revēnit. Quandō poterat, Athēniensis ēmit amphorās olei olīvae. Athēniensem Rōmānus amat, et Rōmānum Athēniensis adamāvit, sed alter alteram nescīvit amōrem inter sē esse. Nihil igitur factum est.</latin> Question: <latin>Quid in quāque urbe fēcit mercātor Rōmānus?</latin>"
+      answer: "BONA SUA VENDIDIT"
+    boni:
+      - question: "<latin>Quale bonum ēmit Athēniensis?</latin>"
+        answer: "AMPHORĀS (OLEI OLĪVAE) / OLEUM (OLĪVAE)"
+      - question: "<latin>Quid fēcērunt hī duo dē amōre suō?</latin>"
+        answer: "NIHIL"
+  - tossup:
+      question: "What type of object, two of which were tied to Hera’s feet when she hung from Olympus, would fall for nine days to reach Tartarus and was used by Hephaestus as the base to shape his metal when he hammered?"
+      answer: "ANVIL(S)"
+    boni:
+      - question: "Tartarus was primarily guarded by the three Hecatoncheires. Name them."
+        answer: "(O)BRIAREUS / AEGAEON, COTTUS, and GY(G)ES"
+      - question: "Among the criminals in Tartarus that the Hecatoncheires guarded was Tityus. He was stretched out over nine acres and suffered what additional punishment?"
+        answer: "(TWO) VULTURES ATE HIS LIVER (WHICH GREW BACK EVERY NIGHT)"
+  - tossup:
+      question: "Which of these does not have its origins in the numeral <latin>quattuor</latin> meaning “four”: quadrant, quarantine, quarrel, quatrain?"
+      answer: "QUARREL"
+    boni:
+      - question: "What Latin verb does “quarrel” come from?"
+        answer: "<latin>QUEROR</latin>, “COMPLAIN”"
+      - question: "Based ultimately on <latin>quattuor</latin>, what number does quarantine more immediately come from?"
+        answer: "<latin>QUADRAGINTA</latin> (- FORTY)"
+  - tossup:
+      question: "Serving as dictator in the Second Samnite War and a consul in the Third Samnite War, what man lost at Lautulae but later won at Sentinum, paving the way for an end to Rome’s conflict with the Samnites?"
+      answer: "(Q. FABIUS MAXIMUS) RULLIANUS"
+    boni:
+      - question: "In what years did the two battles occur?"
+        answer: "315 BC and 295 BC (RESPECTIVELY)"
+      - question: "Alongside Rullianus at Sentinum, what man is said to have committed the act of <latin>dēvōtiō</latin> like his father and grandfather before him?"
+        answer: "(P.) DECIUS MUS"
+  - tossup:
+      question: "What Latin word fills in the blank in Vergil’s quotation “<latin>hoc _____, hic lābor est</latin>” and is represented by the “<latin>o</latin>” in an abbreviation meaning “if needed,” <latin>s.o.s.</latin>?"
+      answer: "<latin>OPUS</latin>"
+    boni:
+      - question: "Make the sentence “<latin>hoc opus, hic lābor est</latin>” plural."
+        answer: "<latin>HAEC OPERA, HĪ LABŌRĒS SUNT</latin>"
+      - question: "Translate these words spoken by the Sibyl in <title>Aeneid</title> 6, keeping in mind that “<latin>ītō</latin>” is equivalent to “<latin>ī</latin>” and “<latin>audentior</latin>” to “<latin>audācior</latin>”: “<latin>tū nē cēde malīs, sed contrā audentior ītō</latin>.”"
+        answer: "(YOU,) YIELD NOT TO EVILS, BUT GO MORE BOLDLY AGAINST THEM [ACCEPT EQUIVALENTS]"
+  - tossup:
+      question: "Appropriately decline the phrase <latin>iste tenax puer</latin> in the sentence: Detention was given to that stubborn boy."
+      answer: "<latin>ISTĪ TENĀCĪ PUERŌ</latin>"
+    boni:
+      - question: "Appropriately decline the phrase <latin>iste tenax puer</latin> in this sentence: The books of those stubborn boys were confiscated."
+        answer: "<latin>ISTŌRUM TENĀCIUM PUERŌRUM</latin>"
+      - question: "Appropriately decline the phrase <latin>iste tenax puer</latin> in this sentence: The teacher explains that the stubborn boy stopped horsing around during class."
+        answer: "<latin>ISTUM TENĀCEM PUERUM</latin>"
+  - tossup:
+      question: "Whenever a traveler stooped down to wash his feet as ordered, what man kicked him off a cliff into the jaws of his turtle, but suffered the same fate when he tried to trick Theseus?"
+      answer: "SC(E)IRON"
+    boni:
+      - question: "Theseus is traditionally said to have defeated four more bandits and one creature on his journey from Troezen to Athens. Name any two of these."
+        answer: "SEE BELOW"
+      - question: "Now name another."
+        answer: "<emphasis>TWO OF</emphasis>: PERIPHETES, SINIS / PITYOCAMPTES, CROMMYONIAN SOW or PHAEA, CERCYON, and PROCRUSTES"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Give the Latin verb root and its meaning for \"able” and \"prohibit.\""
+      answer: "<latin>HABEŌ / HABĒRE</latin> - HAVE"
+    boni:
+      - question: "Give the Latin adjective root and its meaning for \"cadre,\" \"square,\" and quarter."
+        answer: "<latin>QUATTUOR</latin> - FOUR or <latin>QUARTUS</latin> - FOURTH"
+      - question: "Give the Latin noun root and its meaning for \"pay,\" \"pact,\" and \"pacify.\""
+        answer: "<latin>PAX</latin> - PEACE"
+  - tossup:
+      question: "Give an antonym of the adjective <latin>dīvus</latin>"
+      answer: "<latin>HŪMĀNUS, MORTĀLIS</latin>"
+    boni:
+      - question: "... of the adjective <latin>humilis</latin>"
+        answer: "<latin>ALTUS, CELSUS, NŌBILIS, SUPERBUS, SUPERUS</latin>"
+      - question: "... of the adjective <latin>mollis</latin>"
+        answer: "<latin>DŪRUS, RIGIDUS, ARDUUS, ACER, ASPER, AUSTERUS, SEVERUS</latin>"
+  - tossup:
+      question: "What barbarian tribe that sacked Rome in A.D. 410 was led by Alaric?"
+      answer: "VISIGOTHS"
+    boni:
+      - question: "The Visigoths would probably have been unable to attack Rome if the Roman Emperor Honorius had not had what great leader beheaded two years before?"
+        answer: "STILICHO"
+      - question: "Stilicho had defeated Alaric's Visigoths twice, once in A.D. 402 and again in 403. Name one of those two battles"
+        answer: "POLLENTIA/ POLLENZA AND VERONA"
+  - tossup:
+      question: "What use of the accusative case is illustrated in the following sentence? <latin>Pater mox domum reveniet</latin>"
+      answer: "PLACE TO WHICH"
+    boni:
+      - question: "... in this sentence: <latin>Trīgintā mīlia passuum ambulāvērunt</latin>"
+        answer: "DURATION / EXTENT OF (LENGTH, TIME AND) SPACE"
+      - question: "Translate this sentence into Latin. Caesar came to Rome"
+        answer: "<latin>CAESAR RŌMAM VĒNIT /VENIĒBAT</latin>"
+  - tossup:
+      question: "Who chitchatted with Juno until Jupiter and his lover could make their escape?"
+      answer: "ECHO"
+    boni:
+      - question: "With whom did Echo fall in love after she was cursed?"
+        answer: "NARCISSUS"
+      - question: "What do we mean today when we say someone has a bad case of narcissism?"
+        answer: "(S)HE IS VAIN / STUCK ON HIM/HERSELF)"
+  - tossup:
+      question: "At what ceremony would the guests eat a cake known as <latin>mustaceum</latin>?"
+      answer: "WEDDING / <latin>CONFARREATIŌ</latin>"
+    boni:
+      - question: "The cake got its name from the fact that one of its ingredients was <latin>mustum</latin>. What was <latin>mustum</latin>?"
+        answer: "NEW WINE / GRAPEJUICE / UNFERMENTED WINE"
+      - question: "What ingredient had been added to wine called <latin>mulsum</latin>?"
+        answer: "HONEY"
+  - tossup:
+      question: "Give the second person plural, pluperfect active indicative of the verb <latin>maneō</latin>"
+      answer: "<latin>MANSERĀTIS</latin>"
+    boni:
+      - question: "Give the same form of <latin>cupiō</latin>"
+        answer: "<latin>CUPĪVERĀTIS</latin>"
+      - question: "Give the same form of <latin>tangō</latin>"
+        answer: "<latin>TETIGERĀTIS</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat \"disc</latin><latin>ō\"</latin>?"
+      answer: "LEARN, FIND OUT, GET TO KNOW"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat \"toll</latin><latin>ō\"</latin>?"
+        answer: "RAISE, LIFT, REMOVE, STEAL, DESTROY"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat \"fī</latin><latin>ō\"</latin>?"
+        answer: "BECOME, BE MADE, HAPPEN"
+  - tossup:
+      question: "With what place do we associate Labdacus, Amphion, Laius, and Polyneices?"
+      answer: "THEBES"
+    boni:
+      - question: "What name had been given to Thebes before the reign of Amphion and Zethus?"
+        answer: "CADMEIA"
+      - question: "After whose wife was Cadmeia renamed Thebes?"
+        answer: "ZETHUS’"
+  - tossup:
+      question: "Into what was Clytie transformed?"
+      answer: "SUNFLOWER / HELIOTROPE"
+    boni:
+      - question: "Into what was Atalanta transformed?"
+        answer: "LION(ESS)"
+      - question: "Into what was Alectryon transformed?"
+        answer: "ROOSTER"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer in ENGLISH the question about it: <latin>Ōlim in casā</latin> <latin>parvā</latin> <latin>habitābat fēlēs nigra quae habēbat etiam nigrōs oculōs. Semper noctū</latin> <latin>fēlēs casam dominī</latin> <latin>suī</latin> <latin>circumambulābat, cibum petēns. Ūnā</latin> <latin>nocte mūrem magicum dēvorāvit. Magnus clamor ad caelum īvit et subitō</latin> <latin>fēlēs fēmina pulchra facta est. Nōmen quod huic fēminae datum est erat “Fēlīcitās.”</latin>  When did the cat catch the magic mouse?"
+      answer: "AT NIGHT"
+    boni:
+      - question: "What happened to the cat after it had eaten the mouse?"
+        answer: "IT TURNED INTO A (BEAUTIFUL) WOMAN"
+      - question: "What name was given to the woman?"
+        answer: "HAPPINESS / JOY / FELICITY / <latin>FĒLĪCITĀS</latin>"
+  - tossup:
+      question: "Who defeated Mallius and Caepio in 105 B.C. at Arausio?"
+      answer: "CIMBRI (OCD); CIMBRI & TEUTONES (C&S)"
+    boni:
+      - question: "What is the modern name of Arausio?"
+        answer: "ORANGE"
+      - question: "The battle at Arausio was the worst defeat for the Romans since what rout over two centuries earlier?"
+        answer: "CAUDINE FORKS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Perīculōsum est amāre multās fēminās</latin>"
+      answer: "IT IS DANGEROUS TO LOVE MANY WOMEN <emphasis>HERE IS A TRANSLATION ONLY FOR THE MODERATOR'S CONVENIENCE:</emphasis>"
+    boni:
+      - question: "(1) <latin>Restitūtus multās dēcēpit saepe puellās</latin>. (2) <latin>Restitūtus hīc sōlus dormīvit et Urbānam suam dēsīderābat</latin>. You are looking at graffiti from Pompeii. What has Restitutus done to deserve the first graffito?"
+        answer: "(OFTEN) DECEIVED MANY GIRLS"
+      - question: "What is Restitutus' lament in the second graffito?"
+        answer: "HE HAS <emphasis>SLEPT</emphasis> HERE <emphasis>ALONE</emphasis> AND DESIRED HIS URBANA"
+  - tossup:
+      question: "What hero’s chariot was pulled by Xanthus and Balius?"
+      answer: "ACHILLES’"
+    boni:
+      - question: "Because of whose death on the plains of Troy did Xanthus and Balius weep?"
+        answer: "PATROCLUS’"
+      - question: "What did Xanthus tell Achilles right before he fought Hector?"
+        answer: "THAT HIS (ACHILLES’) DEATH WILL COME SOON (AFTER HECTOR’S DEATH)"
+  - tossup:
+      question: "The prison or <latin>carcer</latin> at the foot of the Capitoline is sometimes referred to by another certain name, possibly because of a mistaken assumption that it had been established by which Roman king?"
+      answer: "SERVIUS TULLIUS - (\"Tullianum\" was the name given to the prison)"
+    boni:
+      - question: "The <latin>carcer</latin> was mainly a place of temporary detention, but it was also the site of several famous executions. Who was a foreign enemy of Rome executed there?"
+        answer: "JUGURTHA / VERCINGETORIX"
+      - question: "Many executions of Christian martyrs took place in which building that was mainly used for spectacles and competitions and was also located on part of the present-day site of Saint Peter’s Basilica?"
+        answer: "CIRCUS OF (GAIUS / CALIGULA) AND NERO / <latin>CIRCUS GAĪ</latin> <latin>ET NERŌNIS</latin> / VATICAN CIRCUS / <latin>CIRCUS VATICĀNUS</latin>"
+  - tossup:
+      question: "What form of the adjective <latin>līber</latin> agrees with the noun form <latin>nātiōnī</latin>?"
+      answer: "<latin>LĪBERAE</latin>"
+    boni:
+      - question: "... with the noun form <latin>mūnus</latin>?"
+        answer: "<latin>LĪBERUM</latin>"
+      - question: "... with the pronoun form <latin>nostrum</latin>?"
+        answer: "<latin>LĪBERŌRUM/ LĪBERĀRUM</latin>"
+  - tossup:
+      question: "Who was the nemesis of Aeneas in Italy?"
+      answer: "TURNUS"
+    boni:
+      - question: "Why was Turnus angry at Aeneas?"
+        answer: "BECAUSE AENEAS TOOK AWAY LAVINIA / THE FURY ALECTO STIRRED UP HATRED IN HIM"
+      - question: "Whom did Turnus kill that led to his own demise?"
+        answer: "PALLAS"
+  - tossup:
+      question: "Which of the following words, if any, does NOT have the same Latin root as the others? record, corsage, corset, corpse?"
+      answer: "RECORD"
+    boni:
+      - question: "Give the Latin noun at the root of \"record.\""
+        answer: "<latin>COR</latin>"
+      - question: "What English noun derived from <latin>cor</latin> means \"to give support to\"?"
+        answer: "ENCOURAGE"
+  - tossup:
+      question: "What naval commander invented the <latin>corvus</latin>, with which Roman soldiers could board enemy ships?"
+      answer: "(GAIUS) DUILLIUS"
+    boni:
+      - question: "At what battle was this device first employed?"
+        answer: "MYLAE"
+      - question: "Name one of the three main strongholds which the Carthaginians had on the island of Sicily"
+        answer: "PANORMUS / PALERMO, DREPANA / TRAPANI, AND LILYBAEUM / MARSALA"
+  - tossup:
+      question: "Give the correct form of the Latin relative pronoun used in the following sentence: \"I do not trust the women whom you believe.\""
+      answer: "<latin>QUIBUS</latin>"
+    boni:
+      - question: "... \"The names which you seek are very obvious.\""
+        answer: "<latin>QUAE</latin>"
+      - question: "... \"The man whose wife ran away is very kind to me.\""
+        answer: "<latin>CUIUS</latin>"

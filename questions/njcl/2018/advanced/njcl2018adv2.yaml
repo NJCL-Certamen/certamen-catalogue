@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Because two <title>Star Wars</title> movies have come out since the last time we gathered, there should be at least one <title>Star Wars</title> question.  What figure of speech, other than consonance, assonance, and alliteration, would a cantina proprietor be using if he told you: “we serve drinks, not droids”?"
+      answer: "ZEUGMA"
+    boni:
+      - question: "What figure of speech is Darth Vader using when he says, “I sense something, a presence I’ve not felt since…” and pauses?"
+        answer: "APOSIOPESIS"
+      - question: "What figure of speech does Rey use when she tells Luke “I’ve seen your daily routine; you are not busy.”"
+        answer: "LITOTES"
+  - tossup:
+      question: "Which emperor started his reign by executing four generals and brutally suppressed a revolt in Judea when he attempted to erect a temple to Jupiter Capitolinus in the Temple of Jerusalem?"
+      answer: "HADRIAN"
+    boni:
+      - question: "Whom did Hadrian appoint as commander of the Roman army tasked with destroying the Jewish revolt?"
+        answer: "JULIUS SEVERUS"
+      - question: "After putting down the revolt, Hadrian merged Roman Judaea into Syria and gave it what new name?"
+        answer: "<latin>SYRIA PALESTINA</latin>"
+  - tossup:
+      question: "For the verb <latin>volō</latin>, give the form meaning “we may want,” which is the 1st person, plural, present, subjunctive form."
+      answer: "<latin>VELĪMUS</latin>"
+    boni:
+      - question: "Change <latin>velīmus</latin> to the perfect tense, keeping all else the same."
+        answer: "<latin>VOLUERĪMUS</latin>"
+      - question: "Change <latin>voluerīmus</latin> to the passive voice, keeping all else the same."
+        answer: "IT CAN’T BE DONE / THAT FORM DOESN’T EXIST"
+  - tossup:
+      question: "According to Homer’s <title>Odyssey</title>, what mythological people lived in a land where it was almost  \t\tperpetually day and skewered and ate many of Odysseus’ crew members?"
+      answer: "LAESTRYGONIANS"
+    boni:
+      - question: "Who was the king of the Laestrygonians when Odysseus lost his men?"
+        answer: "ANTIPHATES"
+      - question: "According to Homer’s <title>Odyssey</title>, what mythological people possessed a substance which made men forget their homes?"
+        answer: "LOTUS-EATERS / LOTOPHAGOI"
+  - tossup:
+      question: "What Latin phrase is medical terminology for “the widest muscle of the back”?"
+      answer: "<latin>LĀTISSIMUS DORSĪ</latin> (accept English pronunciation for this set of questions)"
+    boni:
+      - question: "What Latin phrase is the medical terminology for “the large vein that empties into the right atrium of the heart”?"
+        answer: "(<latin>SUPERIOR</latin>) <latin>VĒNA CAVA</latin>"
+      - question: "What Latin phrase is the medical terminology for “painful spasm of the chest”?"
+        answer: "<latin>ANGINA PECTORIS</latin>"
+  - tossup:
+      question: "What work of Latin literature begins “<latin>Tītyre, tū patulae recubāns sub tegmine fāgī</latin>”?"
+      answer: "<title>ECLOGUES</title> / <title>BUCOLICS</title>"
+    boni:
+      - question: "What Greek poet’s <title>Idylls</title> served as the model for the <title>Eclogues</title>?"
+        answer: "THEOCRITUS’"
+      - question: "What work, in reference to the Eclogues, ends “<latin>Tītyre, tē patulae cecinī sub tegmine fāgī</latin>”?"
+        answer: "GEORGICS"
+  - tossup:
+      question: "By what name were specialized gladiators who fought from chariots known?"
+      answer: "<latin>ESSEDĀRIUS / ESSEDĀRIĪ</latin>"
+    boni:
+      - question: "The Romans often staged elaborate hunting sequences as part of gladiatorial shows.  By what name were the gladiators who participated in these mock hunts known?"
+        answer: "<latin>VĒNĀTOR(ĒS) / BĒSTIĀRIUS / BĒSTIĀRIĪ</latin>"
+      - question: "Name the type of performance in which the Romans flooded the floor of the stadium and pitched mock naval battles."
+        answer: "<latin>NAUMACHIA</latin>"
+  - tossup:
+      question: "What English noun, derived from a Latin verb <latin>pungō</latin>, means “the system of using certain non-verbal marks to enhance the meaning of a string of words”?"
+      answer: "PUNCTUATION ("
+    boni:
+      - question: "From what two Latin verbs are punctuation marks #3 and #5 respectively derived? VISUAL_RESPONSE:"
+        answer: "3: <latin>CLĀMŌ / CLĀMĀRE</latin> // <latin>PUNGŌ / PUNGERE</latin>  AND  5: <latin>QUAERŌ</latin> / <latin>QUAERERE</latin>"
+      - question: "Give the number of the punctuation mark whose name is derived from the Latin verb “to lack or be missing”?"
+        answer: "2 (THE CARET)"
+  - tossup:
+      question: "In mythology, what city’s kings were usually represented as autochthonous, or born from the earth, as in the cases of Erechtheus, Cecrops, and Erichthonius?"
+      answer: "ATHENS"
+    boni:
+      - question: "While pursuing Athena, what god spilled his semen onto the earth and begat Erichthonius?"
+        answer: "HEPHAESTUS"
+      - question: "Name any of the daughters of Cecrops—one of them obeyed their father and refused to look inside the box that held Erichthonius, while the other two forgot their promise, looked inside, and went mad."
+        answer: "PANDROSUS / AGLAURUS / HERSE"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice; then answer the question that follows in  \t\tLATIN: \t<latin>Graecī et Rōmānī mortuōs aut humābant aut cremābant. Antīquissimum certē  \tsepultūrae genus fuit ut terrā contegerentur. Eīsdem rītibus quoque temporibus nostrīs \tmortuōrum corpora terrā conduntur.</latin>  (repeat) \tThe question:  <latin>Quī ā Graecīs et Rōmānīs aut humārī aut cremārī solēbant?</latin>"
+      answer: "<latin>MORTUĪ</latin>"
+    boni:
+      - question: "<latin>Quid corpora Graecōrum et Rōmānōrum contegēbat?</latin>"
+        answer: "<latin>TERRA</latin>"
+      - question: "<latin>Quālibus rītibus corpora mortuōrum nostrīs temporibus conduntur?</latin>"
+        answer: "<latin>EĪSDEM (RĪTIBUS  \t\t\tGRAECŌRUM / RŌMĀNŌRUM) / RŌMĀNĪS / GRAECĪS / ANTĪQU(ISSIM)ĪS</latin>"
+  - tossup:
+      question: "What work dedicated to Memmius was so dangerous to Christianity that Jerome went out of his way to discredit its author, Lucretius?"
+      answer: "<title><latin>DĒ RĒRUM NĀTŪRĀ</latin></title>"
+    boni:
+      - question: "What deity is invoked at the very start of <title><latin>Dē Rērum Nātūrā</latin></title>?"
+        answer: "VENUS (GENETRIX)"
+      - question: "Which book of <title><latin>Dē Rērum Nātūrā</latin></title> contains an account of the plague of Athens?"
+        answer: "6 \t\t\t(prompt if they say “last”)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Coniūrātiōnem inveniendō, spērant inimīcōs cōnsulis Rōmā relegātum īrī.</latin>"
+      answer: "BY DISCOVERING THE CONSPIRACY / PLOT, THEY HOPE THAT THE ENEMIES / ENEMY OF THE CONSUL WILL BE EXILED FROM ROME"
+    boni:
+      - question: "Translate this sentence into English: <latin>Fēmina audāx ferōcem impetum fēcit ut vītam virī servāret</latin>."
+        answer: "THE BOLD WOMAN MADE A FIERCE ATTACK TO SAVE HER HUSBAND’S LIFE"
+      - question: "Using <latin>perītus,</latin> translate this sentence into Latin:  The poet was said to be very skilled in writing."
+        answer: "<latin>POĒTA / VĀTES DĪCĒBĀTUR / FERĒBĀTUR PERĪTISSIMUS SCRĪBENDĪ /</latin> <latin>SCRĪBENDŌ ESSE</latin>"
+  - tossup:
+      question: "Whose death at Formiae removed an outspoken opponent of Marc Antony in 43 BC?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "An outraged Antony had placed Cicero on a list of men to be executed, much as Sulla had done forty years prior. By what name was this kind of list known?"
+        answer: "PROSCRIPTION"
+      - question: "What speeches of Cicero earned his inclusion on the proscription lists?"
+        answer: "<title>PHILLIPICS /</title>  \t\t\t<title><latin>IN ANTONIUM</latin></title>"
+  - tossup:
+      question: "Members of what mythological group escaped the clutches of Pyreneus, gathered the scattered pieces of Orpheus’ body, and defeated the Pierides in a singing contest?"
+      answer: "MUSES"
+    boni:
+      - question: "Into what type of bird did the Muses turn the Pierides for their impudence?"
+        answer: "MAGPIES / JACKDAWS"
+      - question: "Though they were themselves children of Melpomene, what other group challenged the Muses to a concert, lost, and had their feathers made into crowns as punishment?"
+        answer: "SIRENS / SEIRENES"
+  - tossup:
+      question: "Give a Latin synonym for <latin>quondam</latin>."
+      answer: "<latin>ŌLIM / ANTEĀ</latin>"
+    boni:
+      - question: "Give a Latin synonym for <latin>paene</latin>."
+        answer: "<latin>FERĒ / FERMĒ / PROPE / QUASI</latin>"
+      - question: "Give a Latin synonym for <latin>velut</latin>."
+        answer: "<latin>SĪCUT(I) / QUASI / QUŌMODO / TAMQUAM / CEU</latin>"
+  - tossup:
+      question: "Which of the following English words, if any, IS derived from a DIFFERENT root from the others:    Repair, sever, parasol, apparatus, repertoire?"
+      answer: "REPERTOIRE"
+    boni:
+      - question: ". . .  Reciprocate, enrapture, usurper, ravage, rapacious?"
+        answer: "RECIPROCATE"
+      - question: "…  Cull, coil, legend, privilege, election?"
+        answer: "PRIVILEGE"
+  - tossup:
+      question: "What Greek soldier gained the epithet “of the endless speech” for railing at Agamemnon’s seizure of Briseïs and ridiculing Achilles’ obsession with Penthesilea’s corpse?"
+      answer: "THERSITES"
+    boni:
+      - question: "According to his epithet, which Homeric hero possessed a “glinting helmet”—an object which frightened his son when the light reflected off it?"
+        answer: "HECTOR"
+      - question: "What elder Greek chieftain’s epithets included “the Gerenian horseman”?"
+        answer: "NESTOR"
+  - tossup:
+      question: "Which emperor emerged as the last from the chaos of 238 AD?"
+      answer: "GORDIAN III"
+    boni:
+      - question: "At what shockingly early age did Gordian ascend to the throne?"
+        answer: "13"
+      - question: "In light of Gordian’s premature age, his reign was largely sustained by the political machinations of his praetorian prefect who died in 243 AD. Name him."
+        answer: "TIMESITHEUS"
+  - tossup:
+      question: "Who refused to set his kaleidoscopic material into any framework shortly before 170 AD when he wrote his collection of notes taken while he was in Greece?"
+      answer: "(A.) GELLIUS"
+    boni:
+      - question: "In the fifth book of his <title><latin>Noctēs Atticae</latin></title>, what well-known fable does Gellius relate?"
+        answer: "ANDROCLES AND THE LION"
+      - question: "What early Roman comedian does Gellius compare with Menander in the second book of <title><latin>Noctēs Atticae</latin></title>?"
+        answer: "CAECILIUS STATIUS"
+  - tossup:
+      question: "<latin>Fortūna, nātālis, tabella,</latin> and <latin>aqua</latin> all share what grammatical anomaly?"
+      answer: "DIFFERENT MEANING IN THE PLURAL"
+    boni:
+      - question: "Give the distinct meanings of the singular form <latin>opera</latin> and its plural form <latin>operae</latin>."
+        answer: "<latin>OPERA</latin> – WORK & <latin>OPERAE</latin> – DAY LABORERS / DAY WORKERS / THUGS"
+      - question: "What grammatical anomaly do all of the following 2nd declension nouns share: <latin>Vāllum, collum, cingulum?</latin>"
+        answer: "HETEROGENEOUS"

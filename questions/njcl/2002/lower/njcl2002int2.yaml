@@ -1,0 +1,171 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Consider the verb form <latin>amāverint</latin>, which letters comprise the <latin>ultima</latin>?"
+      answer: "<latin>-RINT</latin>"
+    boni:
+      - question: "Which letter or letters comprise the antepenult?"
+        answer: "<latin>-M</latin><latin>Ā-</latin>"
+  - tossup:
+      question: "In which room in a Roman house would the <latin>imāginēs</latin> have been kept?"
+      answer: "<latin>ĀLA</latin> (IF “<latin>ĀTRIUM</latin>” IS GIVEN, BE MORE PRECISE)"
+    boni:
+      - question: "What were <latin>imāginēs</latin>?"
+        answer: "WAX BUSTS OF (CURULE) ANCESTORS"
+      - question: "The <latin>ālae</latin> were usually situated on either side of what room other than the <latin>ātrium</latin>?"
+        answer: "<latin>TABLĪNUM</latin>"
+  - tossup:
+      question: "According to Ovid, who was transformed into a mare for daring to reveal the future?"
+      answer: "OCYRHOE / HIPPO"
+    boni:
+      - question: "Who was the father of Ocyrhoe?"
+        answer: "CH(E)IRON"
+      - question: "About whose future was Ocyrhoe speaking when she was transformed into a mare?"
+        answer: "AESCULAPIUS"
+  - tossup:
+      question: "What is the Latin phrase and the English meaning of the abbreviation <latin>q.v.</latin>?"
+      answer: "<latin>QUOD VIDĒ</latin> - WHICH SEE or <latin>QUANTUM VĪS</latin> - AS MUCH AS YOU WILL/WISH"
+    boni:
+      - question: "Why would a scholar use <latin>quod vidē</latin> in a document or paper?"
+        answer: "TO PROVIDE A CROSS-REFERENCE"
+      - question: "Why would a scholar use the expression <latin>vidē</latin> <latin>suprā</latin> or its abbreviation <latin>v.s.</latin> in a text?"
+        answer: "TO REFER THE READER TO SOMETHING THAT APPEARS EARLIER (ABOVE) IN THE TEXT"
+  - tossup:
+      question: "Who was fond of saying, “<latin>Censeō</latin> <latin>Carthāginem esse dēlendam</latin>!”?"
+      answer: "(M. PORCIUS) CATO CENSOR/MAIOR OR THE CENSOR/THE ELDER"
+    boni:
+      - question: "During his inspection tour of Carthage in the late 150's BC, what had disturbed Cato so much that he adamantly demanded Carthage’s destruction?"
+        answer: "CARTHAGE’S RENEWED PROSPERITY/CARTHAGE’S USE OF ARMS TO DEFEND HERSELF (AGAINST NUMIDIA)(THUS BREAKING THE TREATY BETWEEN HER AND ROME)"
+      - question: "For what cultural affinity did Cato criticize Scipio Africanus?"
+        answer: "HELLENISM / THINKING LIKE A GREEK"
+  - tossup:
+      question: "For the verb <latin>vereor</latin>, give the 1st person plural, future, indicative"
+      answer: "<latin>VERĒBIMUR</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>mentior</latin>"
+        answer: "<latin>MENTIĒMUR</latin>"
+      - question: "Give the corresponding form for <latin>loquor</latin>"
+        answer: "<latin>LOQUĒMUR</latin>"
+  - tossup:
+      question: "In whose home on the island of Seriphus did Danae and Perseus find refuge?"
+      answer: "DICTYS’"
+    boni:
+      - question: "What former king of Seriphus had sent Perseus to obtain the head of Medusa?"
+        answer: "POLYDECTES"
+      - question: "What two gods helped Perseus in this task?"
+        answer: "ATHENA/MINERVA & HERMES/MERCURY"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>pauper</latin> to agree with the noun form <latin>agricolārum</latin>"
+      answer: "<latin>PAUPERUM</latin>"
+    boni:
+      - question: " Change the phrase <latin>agricolārum pauperum</latin> to the ablative case"
+        answer: "<latin>AGRICOLĪS PAUPERIBUS</latin>"
+      - question: "Change that ablative form <latin>agricolīs pauperibus</latin> to the singular"
+        answer: "<latin>AGRICOLĀ</latin> <latin>PAUPERĪ</latin>"
+  - tossup:
+      question: "Give a synonym of <latin>quiētus</latin>"
+      answer: "<latin>TRANQUILLUS</latin>, <latin>ŌTIŌSUS</latin>, <latin>PĀCĀTUS</latin>, <latin>PLĀCĀTUS</latin>, <latin>PLACIDUS</latin>, <latin>TACITUS</latin>, <latin>TACITURNUS</latin>"
+    boni:
+      - question: " . . . of <latin>sānus</latin>"
+        answer: "<latin>VALIDUS</latin>, <latin>FIRMUS, SALVUS</latin>"
+      - question: ". . . of <latin>pecūniōsus</latin>"
+        answer: "<latin>DĪVES</latin>, <latin>LOCUPLĒS</latin>, <latin>OPULĒNS</latin>, <latin>ABUNDĀNS</latin>, <latin>BEĀTUS</latin>, <latin>FORTŪNĀTUS</latin>"
+  - tossup:
+      question: "Whom did Jupiter seduce in the form of Diana?"
+      answer: "CALLISTO"
+    boni:
+      - question: "Whom did Jupiter seduce in the form of the picture labeled “B”?"
+        answer: "AEGINA"
+      - question: "Whom did Jupiter seduce in the form of the picture labeled “E”?"
+        answer: "ANTIOPE"
+  - tossup:
+      question: "Whom did Jupiter seduce in the form of Diana?"
+      answer: "CALLISTO"
+    boni:
+      - question: "Whom did Jupiter seduce in the form of a flame?"
+        answer: "AEGINA"
+      - question: "Whom did Jupiter seduce in the form of a satyr?"
+        answer: "ANTIOPE"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the question that follows: <latin>Post mortem marītī, quaedam rēgīna, Artemisia nōmine, constituit proficīscī</latin> <latin>cum decem mīlibus mīlitum ut regnum frātris marītī</latin> <latin>occupāret. Tribus</latin>  <latin>proeliīs gestīs, Artemisia facta est rēgīna regnī</latin> <latin>et marītī</latin> <latin>et frātris eius.</latin>  <latin>Quot proelia ab Artemisiā</latin> <latin>gerēbantur?</latin>"
+      answer: "TRIA"
+    boni:
+      - question: "Quandō <latin>Artemisia regnum frātris marītī</latin> <latin>oppugnāre constituit?</latin> "
+        answer: "<latin>POST MORTEM MARĪTĪ</latin> <latin>/ MARĪTŌ</latin> <latin>MORTUŌ</latin>"
+      - question: "<latin>Quot mīlitēs Artemisiam comitātī</latin> <latin>sunt?</latin>"
+        answer: "DECEM MĪLIA (<latin>MĪLITUM</latin>)"
+  - tossup:
+      question: "Which of the following words are synonymous: derisive, surreptitious, acquiescent, primordial, clandestine?"
+      answer: "SURREPTITIOUS & CLANDESTINE"
+    boni:
+      - question: "What is the Latin verb and its meaning at the ultimate root of “surreptitious”?"
+        answer: "<latin>RAPIŌ, RAPERE</latin> - SEIZE"
+      - question: "What is the Latin adverb and its meaning at the ultimate root of “clandestine”?"
+        answer: "<latin>CLAM</latin>"
+  - tossup:
+      question: "In 287 BC to which hill did the plebs withdraw in their final secession?"
+      answer: "JANICULUM"
+    boni:
+      - question: "Which plebeian was elected dictator to deal with this problem?"
+        answer: "(Q.) HORTENSIUS"
+      - question: "The <title><latin>Lex Hortensia</latin></title> declared that the bills passed by which assembly would have the force of law over plebeians and patricians alike?"
+        answer: "<latin>CONCILIUM PLEBIS</latin>"
+  - tossup:
+      question: "What character in mythology could address Pegasus as his brother?"
+      answer: "CHRYSAOR"
+    boni:
+      - question: "What sea-nymph did Chrysaor marry?"
+        answer: "CALIRRHOE"
+      - question: "What monster was the son of Chrysaor?"
+        answer: "GERYON"
+  - tossup:
+      question: "Which emperor instituted a relief program to help feed and educate poor freeborn children around the end of the first century A. D.?"
+      answer: "TRAJAN OR NERVA"
+    boni:
+      - question: "What was this relief program called?"
+        answer: "ALIMENTA"
+      - question: "What title did the senate bestow on Trajan to show their appreciation of his benevolent attitude toward them?"
+        answer: "<title><latin>OPTIMUS PRĪNCEPS</latin></title>"
+  - tossup:
+      question: "Translate this sentence into Latin: A brave leader was in charge of the soldiers"
+      answer: "<latin>DUX / IMPERĀTOR FORTIS MĪLITIBUS PRAEERAT/ PRAEFUIT</latin>"
+    boni:
+      - question: " Translate this sentence into Latin: The consul was put in command of the legion"
+        answer: "<latin>CŌNSUL LEGIŌNĪ</latin> <latin>PRAEFECTUS EST</latin> / <latin>PRAEPOSITUS EST</latin>"
+      - question: " Translate this sentence into Latin: Caesar placed Labienus in command of the tenth legion"
+        answer: "<latin>CAESAR LABIĒNUM DECIMAE LEGIŌNĪ</latin> <latin>PRAEFĒCIT</latin> / <latin>PRAEPOSUIT</latin>"
+  - tossup:
+      question: "How many of the following English words, if any, ARE derived from the noun <latin>bellum</latin>? bellicose, belligerent, duel, rebel ALL ARE FROM <latin>BELLUM</latin> / FOUR (4) According to its derivation, how many people fight a “duel”?"
+      answer: "TWO"
+    boni:
+      - question: "What Latin verb combines with <latin>bellum</latin> to produce “belligerent”?"
+        answer: "<latin>GERŌ</latin>"
+  - tossup:
+      question: "Which Roman emperor died in captivity in A"
+      answer: "D."
+    boni:
+      - question: "260?"
+        answer: "VALERIAN"
+      - question: "Which Persian “king of kings” had captured him?"
+        answer: "SHAPUR/SAPOR (I)"
+      - question: "Who was Valerian’s son and successor?"
+        answer: "GALLIENUS"
+  - tossup:
+      question: "“I fear the Greeks even bearing gifts!” According to Vergil’s <title>Aeneid,</title> a priest of which deity said this?"
+      answer: "NEPTUNE"
+    boni:
+      - question: "What did Laocoon do that showed the wooden horse to be hollow inside?"
+        answer: "HE THREW A SPEAR AT ITS BELLY"
+      - question: "Who convinced the Trojans that the horse was a gift left behind by the Greeks?"
+        answer: "SINON"
+  - tossup:
+      question: "What two cases may be governed by the verb <latin>potior</latin>?"
+      answer: "ABLATIVE & GENITIVE"
+    boni:
+      - question: "What two cases may be governed by the verb <latin>egeō</latin>?"
+        answer: "ABLATIVE & GENITIVE"
+      - question: "What two cases may be governed by the verb <latin>oblīvīscor</latin>?"
+        answer: "ACCUSATIVE & GENITIVE"

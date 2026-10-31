@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the following words, if any, does "
+      answer: "<latin>NOT</latin> have the same Latin root as the others: aggregate, gregarious, segregation, congress, egregious CONGRESS"
+    boni:
+      - question: "What is the Latin root and its meaning from which “congress” is derived?"
+        answer: "<latin>GRADIOR, GRADĪ</latin> - WALK, STEP, GO"
+      - question: "What is the Latin root and its meaning from which the other words in the toss-up are derived?"
+        answer: "<latin>GREX</latin> - FLOCK"
+  - tossup:
+      question: "What city in Latium did Aeneas’ son Ascanius found?"
+      answer: "ALBA LONGA"
+    boni:
+      - question: "Name Ascanius’ half-brother who succeeded him on the throne of Alba Longa."
+        answer: "SILVIUS"
+      - question: "Who was Silvius’ mother?"
+        answer: "LAVINIA"
+  - tossup:
+      question: "Who defeated and killed his rival Pescennius Niger in the spring of A.D. 194?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "With what title was his other rival Clodius Albinus bought off?"
+        answer: "CAESAR"
+      - question: "Where did Severus defeat Albinus in A.D. 197?"
+        answer: "LUGDUNUM / LYONS"
+  - tossup:
+      question: "Change the verb form <latin>estis</latin> to the subjunctive mood."
+      answer: "<latin>SĪTIS</latin>"
+    boni:
+      - question: "<latin>erat</latin>."
+        answer: "<latin>ESSET</latin>"
+      - question: "<latin>fuī</latin>."
+        answer: "<latin>FUERIM</latin> "
+  - tossup:
+      question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title>, or <title>Dictionary of Modern Latin</title>, lists “communism” as “<latin>omnium bonōrum aequāti</latin><latin>ō.</latin>” Translate that phrase into English."
+      answer: "THE LEVELING / EQUALING OF ALL GOODS / GOOD THINGS / WEALTH (NOT “of all good men”. <latin>Bona</latin> in the plural means “goods”.)"
+    boni:
+      - question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title> defines the adjective “supersonic” as “<latin>sonī</latin> <latin>fīnēs exsuperāns</latin>.” Translate that phrase into English."
+        answer: "EXCEEDING / SURPASSING THE BORDERS / BOUNDARIES OF SOUND"
+      - question: "What type of clothing might be described as “<latin>brevissimae brācae</latin>”?"
+        answer: "SHORTS / CUTOFFS / DAISY DUKES / HOT PANTS / GRIPPERS"
+  - tossup:
+      question: "What Latin idiom means “revolution”?"
+      answer: "<latin>RĒS NOVAE</latin> "
+    boni:
+      - question: "What Latin idiom means “accomplishments” or “deeds”?"
+        answer: "<latin>RĒS GESTAE</latin> "
+      - question: "What Latin idiom means “grain supply”?"
+        answer: "<latin>RĒS FRŪMENTĀRIA</latin> (Do not accept “<latin>annōna</latin>”)"
+  - tossup:
+      question: "What island in the northern Aegean Sea is associated with Hephaestus?"
+      answer: "LEMNOS"
+    boni:
+      - question: "Why did Hera throw the newborn Hephaestus out of Olympus?"
+        answer: "BECAUSE HE WAS UGLY / LAME"
+      - question: "How long did it take Hephaestus to fall from heaven to Lemnos?"
+        answer: "ONE DAY"
+  - tossup:
+      question: "What king of Mycenae often hid in a bronze storage jar when Heracles arrived with the fearsome trophies of his labors?"
+      answer: "EURYSTHEUS"
+    boni:
+      - question: "What huge beast did Heracles carry back to Mycenae on his shoulders after capturing it in a snowbank?"
+        answer: "ERYMANTHIAN BOAR"
+      - question: "What creature did Heracles show to the cowering Eurystheus and then return as promised to its usual place?"
+        answer: "CERBERUS"
+  - tossup:
+      question: "Whom was Sempronia, the sister of the Gracchi, suspected of murdering in 129 BC?"
+      answer: "(HER HUSBAND) (PUBLIUS CORNELIUS) SCIPIO AEMILIANUS (AFRICANUS MINOR)"
+    boni:
+      - question: "Whom had Scipio declared to have been “justly slain” if he had intended to seize the government of Rome?"
+        answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+      - question: "What city had Scipio been blockading when his brother-in-law Tiberius was killed by the mob?"
+        answer: "NUMANTIA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question about it: <latin>Maximum certāmen inter lūsōrēs Rōmānōs et Gallicōs habēbātur. Factiōnēs pilā</latin> <latin>lūdentēs inter sē</latin> <latin>currēbant, cum ūnus ex Rōmānīs Gallicō</latin> <latin>nōtissimō</latin> <latin>dē</latin> <latin>ēius mātre maledīceret. Gallicus furēns capite suō</latin> <latin>Rōmānum īcit adeō</latin> <latin>ut Rōmānus in herbam caderet. Ecce Rōma, caput mund</latin><latin>ī.</latin>  Question: What did one of the Roman players do to the Gaul?"
+      answer: "HE INSULTED HIS MOTHER / HE INSULTED HIM"
+    boni:
+      - question: "What was the response of the Gallic player?"
+        answer: "HE HIT THE ROMAN PLAYER WITH HIS HEAD / HEAD-BUTTED HIM"
+      - question: "<emphasis>Translate</emphasis> the last sentence of this passage."
+        answer: "BEHOLD ROME, HEAD OF THE WORLD / BEHOLD ROME, CAPITOL OF THE WORLD"
+  - tossup:
+      question: "What is the Latin term for the selection of a man by the emperor for membership in the Roman Senate?"
+      answer: "<latin>ADLECTIŌ</latin>"
+    boni:
+      - question: "In the late Republic, election to what magistracy included membership in the Senate?"
+        answer: "QUAESTORSHIP"
+      - question: "Who established a property qualification for the Senate?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “cement,” “chisel,” “concise,” and “scissor”."
+      answer: "<latin>CAEDŌ, CAEDERE</latin> - CUT, STRIKE, KILL"
+    boni:
+      - question: "What derivative of <latin>caedō, caedere</latin> means “exactness”?"
+        answer: "PRECISION"
+      - question: "What derivative of <latin>caedō, caedere</latin> means “ to remove by cutting”?"
+        answer: "EXCISE"
+  - tossup:
+      question: "The Latin abbreviation <latin>n.</latin> has several possible meanings. Give the Latin and English for one of those meanings."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Give another."
+        answer: "<latin>NĀTUS</latin> - BORN , <latin>NEUTER -</latin> NEUTER, or <latin>NOCTE</latin> - AT NIGHT"
+      - question: "Give the Latin and English for two of the possible meanings of the abbreviation <latin>a.d.</latin> "
+        answer: "<latin>ANTE DIEM</latin> - BEFORE THE DAY OR <latin>AURIS DEXTRA</latin> - RIGHT EAR <latin>ANNŌ</latin> <latin>DOMINĪ</latin> - IN THE YEAR OF OUR LORD"
+  - tossup:
+      question: "Using a deponent verb, say in Latin: “It is difficult to speak in Latin."
+      answer: "<latin>DIFFICILE EST LATĪNĒ</latin> <latin>LOQUĪ</latin> / <latin>AD LOQUENDUM</latin>  “<latin>In (linguā) Latīna</latin>” is acceptable, but not the best. Inform the student of the better form"
+    boni:
+      - question: "Using a deponent verb, say in Latin: “We have forgotten.”"
+        answer: "<latin>OBLĪTĪ</latin> <latin>/ -AE SUMUS</latin> "
+      - question: "Using two deponent verbs, say in Latin: “We will try to follow you.”"
+        answer: "<latin>VŌS / TĒ</latin> <latin>SEQUĪ</latin> <latin>CŌNĀBIMUR</latin> "
+  - tossup:
+      question: "What two friends decide to kidnap Persephone, the queen of the Underworld?"
+      answer: "THESEUS & PIRITHOUS"
+    boni:
+      - question: "What young beauty had they already abducted?"
+        answer: "HELEN"
+      - question: "How did Hades punish them?"
+        answer: "INVITED THEM TO SIT IN CHAIRS OF FORGETFULNESS (FLESH STUCK TO / BOUND BY SNAKES)"
+  - tossup:
+      question: "Whom did Augustus convince to divorce his second wife Marcella in order to marry Julia in 21 BC?"
+      answer: "(MARCUS VIPSANIUS) AGRIPPA"
+    boni:
+      - question: "Whom did Augustus force to divorce his wife to marry Julia in 11 BC?"
+        answer: "TIBERIUS (CLAUDIUS NERO)"
+      - question: "Name Julia’s first husband who died in 23 B.C."
+        answer: "(M. CLAUDIUS) MARCELLUS"
+  - tossup:
+      question: "Which Roman commander was killed at Lake Trasimene in 217 BC?"
+      answer: "(C.) FLAMINIUS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "The visual shows an event that took place later in 217 BC. Whose “bright idea” was this?"
+        answer: "HANNIBAL’S"
+      - question: "Whose trap did Hannibal escape by employing these unique “troops”?"
+        answer: "(Q.) FABIUS MAXIMUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Silentiō</latin> <latin>factō, cōnsul dīcere coepit</latin>."
+      answer: "WHEN THERE WAS SILENCE, THE CONSUL BEGAN TO SPEAK"
+    boni:
+      - question: "<latin>Incēnsō</latin> <latin>oppidō, quam celerrimē</latin> <latin>discessimus</latin>."
+        answer: "AFTER THE TOWN BURNED / WITH THE TOWN BURNED, WE LEFT AS QUICKLY AS POSSIBLE"
+      - question: "<latin>Publiō</latin> <latin>Cornēliō</latin> <latin>et Aulō</latin> <latin>Gabīniō</latin> <latin>cōnsulibus, Rōma ūndecim templa habuit</latin>."
+        answer: "WHEN PUBLIUS CORNELIUS AND AULUS GABINIUS WERE CONSULS / DURING THE CONSULSHIP OF PUBLIUS CORNELIUS AND AULUS GABINIUS, ROME HAD ELEVEN TEMPLES"
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Rēx Thessaliae, quī</latin> <latin>Peliās appellābātur, iussit mē</latin> <latin>iter facere et vellus aureum referre. Quam ob causam quīnquāgintā</latin> <latin>virōs fortissimōs dēlēgī</latin> <latin>et magnam nāvem aedificārī</latin> <latin>iussī. Mea nāvis Argō</latin> <latin>appellāta est et virī</latin> <latin>Argonautae. Quis sum?</latin>"
+      answer: "JASON / IASON"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quamquam rēgis fīlius eram, ad Crētam nāvigāre cōnstituī</latin> <latin>ut patriam ā</latin> <latin>terrōre mīnōtaurī</latin> <latin>līberārem. Ariadna, fīlia Mīnōis, mihi gladium dedit et exitum ē</latin> <latin>labyrinthō</latin> <latin>docuit. Mīnōtaurō</latin> <latin>necāt</latin><latin>ō,</latin> ā <latin>Crētā</latin> <latin>cum fīliā</latin> <latin>rēgis nāvigāvī. Quis sum?</latin>"
+        answer: "THESEUS"
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Dum lūdō</latin> <latin>et flōrēs carpō</latin> <latin>in īnsulā</latin> <latin>Siciliā, paene simul ā</latin> <latin>Plūtōne vīsa, amāta et rapta sum. Uxor rēgis īnfernī</latin> <latin>facta, nunc rēgīna rēgnī</latin> <latin>obscūrī</latin> <latin>sum. Cum mea māter mē</latin> <latin>per omnēs terrās quaereret, frūmentum et herbae nōn crēscēbant. Tandem Iuppiter annum dīvīsit ita ut sex mēnsēs cum mātre et sex mensēs cum coniuge agerem. Quis sum?</latin>"
+        answer: "PROSERPINA"
+  - tossup:
+      question: "What term do we use for such verbs as <latin>cōnor</latin> and <latin>proficīscor</latin>?"
+      answer: "DEPONENTS"
+    boni:
+      - question: "What do we call such verbs as <latin>licet</latin>, <latin>pudet</latin>, and <latin>oportet</latin>?"
+        answer: "IMPERSONAL"
+      - question: "What do we call such verbs as <latin>noceō</latin>, <latin>cadō</latin>, and <latin>cantō</latin>?"
+        answer: "INTRANSITIVE"

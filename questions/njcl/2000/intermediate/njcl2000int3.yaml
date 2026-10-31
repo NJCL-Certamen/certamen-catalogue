@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What would one keep or find in an “aviary?”"
+      answer: "BIRDS"
+    boni:
+      - question: "What would one keep or find in an “apiary”?"
+        answer: "BEES"
+      - question: "What would one keep or find in a “vespiary”?"
+        answer: "WASPS"
+  - tossup:
+      question: "Who, even though he was not able to recognize his master through his disguise, became the first mortal to entertain Odysseus after he returned to Ithaca?"
+      answer: "EUMAEUS"
+    boni:
+      - question: "In what capacity had Eumaeus served Odysseus?"
+        answer: "SWINEHRD"
+      - question: "Who advised Telemachus that he should stop by the hut of Eumaeus after he had returned to Ithaca from his visit to Menelaus?"
+        answer: "(PALLAS) ATHENA"
+  - tossup:
+      question: "Name the Roman consul who invaded Africa in 256 B.C"
+      answer: "(M. ATILIUS) REGULUS"
+    boni:
+      - question: "Name the Spartan mercenary who defeated and captured Regulus"
+        answer: "XANTHIPPUS"
+      - question: "What naval battle had Regulus and L. Manlius Vulso won in 256 before the invasion of Africa?"
+        answer: "CAPE ECONOMUS"
+  - tossup:
+      question: "Translate: <latin>Maleficia quae hominēs fēcērunt post eōs vīvunt.</latin>"
+      answer: "THE EVIL WHICH MEN DO LIVES AFTER THEM"
+    boni:
+      - question: "Translate: <latin>Beneficia saepe cum eōrum ossibus sepulta sunt</latin>"
+        answer: "THE GOOD IS OFT INTERRED WITH THEIR BONES"
+      - question: "Translate: <latin>Ullō nōmine quam dulcis rōsa redoleat</latin>"
+        answer: "A ROSE BY ANY OTHER NAME WOULD SMELL AS SWEET"
+  - tossup:
+      question: "Differentiate in meaning between the nouns <latin>agnus</latin> and <latin>anus</latin>."
+      answer: "<latin>AGNUS</latin> - LAMB; <latin>ANUS</latin> - OLD WOMAN"
+    boni:
+      - question: "Differentiate in meaning between <latin>ulmus</latin> and <latin>almus</latin>."
+        answer: "<latin>ULMUS</latin> - ELM (TREE); <latin>ALMUS</latin> - NOURISHING, FOSTER"
+      - question: "Differentiate in meaning between the nouns <latin>amor</latin> and <latin>ūmor</latin>."
+        answer: "<latin>AMOR</latin> - LOVE; <latin>ŪMOR</latin> - MOISTURE, DAMPNESS"
+  - tossup:
+      question: "If a Roman were at a dinner party, for what purpose was he given a <latin>mappa</latin>?"
+      answer: "TABLE NAPKIN"
+    boni:
+      - question: "and/or DOGGY-BAG If a Roman were at the circus, how would a <latin>mappa</latin> be used?"
+        answer: "(DROPPED) TO GIVE THE STARTING SIGNAL"
+      - question: "Similiar to the <latin>mappa</latin> was the <latin>sūdārium</latin> or handkerchief. What would Romans be signaling by waving their <latin>sūdāria</latin> in an amphitheater?"
+        answer: "SPARE THE DEFEATED GLADIATOR"
+  - tossup:
+      question: "What use of the Ablative case is found in the following: <latin>Magistrī benignitāte praecēdunt</latin>"
+      answer: "SPECIFICATION / RESPECT"
+    boni:
+      - question: "What use of the Ablative case is found in this sentence: <latin>Caesar Amplissimō genere nātus est</latin>"
+        answer: "ORIGIN / SOURCE"
+      - question: "What two uses of the Ablative case are found in this sentence: <latin>Caesar multō dītior tuō magistrō erat</latin>"
+        answer: "COMARISON & DEGREE OF DIFFERENCE"
+  - tossup:
+      question: "What son of a Vandal was charged by the dying Theodosius I with protecting his young sons?"
+      answer: "(FLAVIUS) STILICHO"
+    boni:
+      - question: "Name Theodosius’ two sons and heirs"
+        answer: "ARCADIUS"
+      - question: "and HONORIUS What king of the Visigoths did Stilicho defeat several times?"
+        answer: "ALARIC"
+  - tossup:
+      question: "What queen of Lydia was the task-master of Heracles for a year?"
+      answer: "OMPHALE (PASS OUT THE VISUAL)"
+    boni:
+      - question: "The picture that you see depicts an earlier labor performed by Heracles. Please identify the parents of the character labeled “B”"
+        answer: "IPHICLES & AUTOMEDUSA"
+      - question: "Please identify the parents of the character labeled “C”"
+        answer: "TYPH(A)ON & ECHIDNA"
+  - tossup:
+      question: "Listen carefully to the following sentence, which I will read twice, and answer IN ENGLISH the question about it: <latin>Dux Rōmānus ēgregius, Maximus nōmine, imperātōris perfidiae causā gladiātor factus est. Cum multa ā lanistā doctus esset, Maximus autem pugnābat similiter mīlitī, semper dīcens aliīs gladiātōribus, “Vīs Honōsque!”</latin>  Whose treachery led to the Roman leader’s becoming a gladiator?"
+      answer: "EMPEROR’S"
+    boni:
+      - question: "How did the gladiator Maximus fight?"
+        answer: "LIKE A SOLDIER"
+      - question: "What was he always saying to the other gladiators?"
+        answer: "STRENGTH AND HONOR"
+  - tossup:
+      question: "From what Latin noun with what meaning is “venereal” derived?"
+      answer: "<latin>VENUS</latin>"
+    boni:
+      - question: "– CHARM, BEAUTY, GODDESS OF LOVE From what Latin noun with what meaning is “venial” derived?"
+        answer: "<latin>VENIA</latin>"
+      - question: "– MERCY, INDULGENCE, KINDNESS From what Latin noun with what meaning is “venal” derived?"
+        answer: "<latin>VĒNUM</latin>"
+  - tossup:
+      question: "What emperor drafted slaves, gladiators, and brigands in order to defeat the invading Marcomanni and Quadi in A.D. 170?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What had earlier decimated the Roman legions on the Danube frontier?"
+        answer: "PLAGUE"
+      - question: "How did Aurelius finance his campaign against the Marcomanni and Gaudi?"
+        answer: "SOLD GOLD VESSELS"
+  - tossup:
+      question: "Say in Latin, “I know who you are.”"
+      answer: "<latin>SCIŌ QUIS SĪS / SCIŌ QUĪ SĪTIS</latin>"
+    boni:
+      - question: "Say in Latin, “There are many who love you.”"
+        answer: "<latin>MULTĪ SUNT QUĪ TĒ AMENT</latin>"
+      - question: "Say in Latin, “I know that the woman, who sing well, is loved by all.”"
+        answer: "<latin>SCIŌ FĒMINAM, QUAE BENE CANTĒT, AB OMNIBUS AMĀRĪ</latin>"
+  - tossup:
+      question: "What mortal in classical mythology suffered from insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "Why was Erysichthon afflicted with insatiable hunger?"
+        answer: "BECAUSE HE HAD CUT DOWN AN OAK TREE SACRED TO DEMETER/CERES"
+      - question: "What daughter of Erysichthon was sold over and over in order to provide him with food?"
+        answer: "MESTRA"
+  - tossup:
+      question: "Make the phrase <latin>quod tempus</latin> genitive plural"
+      answer: "<latin>QUŌRUM TEMPORUM</latin>"
+    boni:
+      - question: "Change <latin>quōrum temporum</latin> to the singular"
+        answer: "<latin>CŪIUS TEMPORIS</latin>"
+      - question: "Change <latin>cūius temporis</latin> to the accusative"
+        answer: "<latin>QUOD TEMPUS</latin>"
+  - tossup:
+      question: "Which of the “Seven Against Thebes” had the gift of prophecy?"
+      answer: "AMPHIARAUS"
+    boni:
+      - question: "Which of the “Seven Against Thebes” was blasted off the walls of Thebes by Zeus’ thunderbolts?"
+        answer: "CAPANEUS"
+      - question: "Which of the “Seven Against Thebes” was the son of Atalanta?"
+        answer: "PARTHENOPAEUS"
+  - tossup:
+      question: "Give the Latin motto of The University of Oklahoma"
+      answer: "<latin>CĪVĪ ET REĪ PUBLICAE</latin>"
+    boni:
+      - question: "Translate that motto"
+        answer: "FOR THE CITIZEN AND THE STATE"
+      - question: "Change the motto <latin>cīvī et reī publicae</latin> to the plural"
+        answer: "<latin>CĪVIBUS ET RĒBUS PUBLICĪS</latin>"
+  - tossup:
+      question: "Name the grandson of Numa Pompilius who became the fourth king of Rome"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "Name the wooden bridge he supposedly built across the Tiber"
+        answer: "PONS SUBLICIUS"
+      - question: "Which of Rome’s hills did Ancus Marcius settle with inhabitants of nearby conquered towns?"
+        answer: "AVENTINE"
+  - tossup:
+      question: "Who was tried on the Areopagus by a jury of Athenians for the murder of his mother Clytemnestra?"
+      answer: "ORESTES"
+    boni:
+      - question: "What group of deities was driving Orestes mad before he was advised to go to Athens?"
+        answer: "ERINYES / FURIES"
+      - question: "<latin>*</latin> <emphasis><latin>Do not accept</latin></emphasis> <latin>“Eumenides” as an answer because that name was not used until after the trial</latin> Who casted the final vote for Orestes’ acquittal?"
+        answer: "(PALLAS) ATHENA / MINERVA"
+  - tossup:
+      question: "In Latin, which participle combines with a form of <latin>sum, esse</latin> to form the passive periphrastic?"
+      answer: "FUTURE PASSIVE / GERUNDIVE"
+    boni:
+      - question: "Which participle combines with a form of <latin>sum, esse</latin> to form the active periphrastic?"
+        answer: "FUTURE ACTIVE"
+      - question: "Say in Latin using a gerundive, “Cicero must write the letter.”"
+        answer: "<latin>EPISTULA CICERŌNĪ SCRĪBENDA EST</latin>"

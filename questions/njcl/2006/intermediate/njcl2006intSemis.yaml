@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who stole the sinews from Zeus' hands and feet?"
+      answer: "TYPHON / TYPHOEUS"
+    boni:
+      - question: "Where did Typhon hide the disabled Zeus?"
+        answer: "CILICIA / CORYCIAN CAVE (UNDER A BEARSKIN, GUARDED BY DRAGON DELPHYNE)"
+      - question: "What twosome stole the sinews and refitted them to Zeus?"
+        answer: "HERMES & AEGIPAN"
+  - tossup:
+      question: "For the verb <latin>laedō</latin>, give the 2nd person singular pluperfect active indicative."
+      answer: "<latin>LAESERĀS</latin> "
+    boni:
+      - question: "Change <latin>laeserās</latin> to the subjunctive."
+        answer: "<latin>LAESISSĒS</latin> "
+      - question: "Change <latin>laesissēs</latin> to the imperfect."
+        answer: "<latin>LAEDERĒS</latin> "
+  - tossup:
+      question: "Give the English meaning and the principal parts of the verb at the root of “contingent”."
+      answer: "<latin>TANGŌ, TANGERE, TETIGĪ, TĀCTUM</latin> - TOUCH"
+    boni:
+      - question: "What derivative of <latin>tangō, tangere</latin> means “meeting, joining, or touching”?"
+        answer: "CONTIGUOUS"
+      - question: "What derivative of <latin>tangō, tangere</latin> means “transmissible by touch”?"
+        answer: "CONTAGIOUS"
+  - tossup:
+      question: "Whom did Theodosius select as regent for the eleven-year-old Honorius?"
+      answer: "STILICHO"
+    boni:
+      - question: "What was Stilicho’s ethnicity by birth?"
+        answer: "VANDAL"
+      - question: "What barbarian’s first invasion of Italy did Stilicho repel in AD 402?"
+        answer: "ALARIC’S (THE VISIGOTH)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Praefectus vigilum per tōtam noctem vigilāre dēbet et per urbem errāre. Dēbet iubēre omnēs incolās cūram habēre nē</latin> <latin>neglegentiā</latin> <latin>incendium fīat. Praetereā</latin> <latin>imperat omnibus incolīs ut aquam parātam habeant</latin>. Question: <latin>Quid fit, sī</latin> <latin>incolae sunt neglegentēs?</latin> "
+      answer: "<latin>INCENDIUM / FLAMMA / RUĪNA</latin>   (Be prepared to take any reasonable sentence describing a fire occurring. Also be prepared for an <latin>ut</latin> clause + present subjunctive)"
+    boni:
+      - question: "<latin>Cui per urbem errandum est?</latin>"
+        answer: "<latin>PRAEFECTŌ</latin> <latin>(VIGILUM / VIGILIBUS)</latin>"
+      - question: "<latin>Praefectus iubet omnēs incolās cūram habēre. Quid aliud agere iubet?</latin>"
+        answer: "<latin>(OMNĒS INCOLĀS) AQUAM (PARĀTAM) HABĒRE</latin>  or <latin>AQUAM PARĀRE</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “castellum”</latin>?"
+      answer: "LITTLE CAMP, LITTLE FORT, CASTLE, FORTRESS, FORT"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “lapillus”</latin>?"
+        answer: "LITTLE STONE, GEM"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “flabellum”</latin>?"
+        answer: "FAN"
+  - tossup:
+      question: "What military commander did the Carthaginian government authorize to negotiate the terms of peace at the end of the First Punic War?"
+      answer: "HAMILCAR (BARCA)"
+    boni:
+      - question: "What rival and enemy was given Hamilcar’s command and caused a mutiny of the Carthaginian mercenaries because he did not honor Hamilcar’s promises?"
+        answer: "HANNO"
+      - question: "After the mutiny was finally suppressed, where was Hamilcar sent to secure the resources needed to pay Carthage’s war indemnity?"
+        answer: "(SOUTHERN) SPAIN"
+  - tossup:
+      question: "Give the exact Latin motto with its English meaning for Indiana University Bloomington?"
+      answer: "<latin>LŪX ET VĒRITĀS -</latin> LIGHT AND TRUTH"
+    boni:
+      - question: "Translate this motto from Kendall College in Evanston,"
+        answer: "IL: <latin>Ēmitte Lūcem et Vēritātem</latin> SEND FORTH/OUT LIGHT AND TRUTH"
+      - question: "What is the exact Latin motto of Johns Hopkins University, which means “The truth will set you free”?"
+        answer: "<latin>VĒRITĀS VŌS LĪBERĀBIT</latin> "
+  - tossup:
+      question: "Whose daughters, refusing to participate in the rites of Dionysus, were transformed into bats?"
+      answer: "MINYAS'"
+    boni:
+      - question: "Whose daughters were transformed into magpies for challenging the Muses to a singing contest?"
+        answer: "PIERUS'"
+      - question: "Whose daughters were transformed into a nightingale and a swallow?"
+        answer: "PANDION'S"
+  - tossup:
+      question: "(PASS OUT THE VISUAL TO ALL TEAMS) Please do NOT open your visuals until instructed to do so. (WAIT UNTIL ALL THE TEAMS HAVE THEIR VISUALS) Open up your visuals. You now have 10 seconds to study this scene from the Trojan War. (WAIT 10 SECONDS) What minor deity is represented by figure “D”?"
+      answer: "SCAMANDER, SCAMANDRUS, (<emphasis>NOT SCAMANDR</emphasis><emphasis><latin>I</latin></emphasis><emphasis>US)</emphasis> / XANTHUS"
+    boni:
+      - question: "Why is the river god angry?"
+        answer: "ACHILLES HAS FILLED HIS WATERS WITH CORPSES (SO CAN’T FLOW TO THE SEA)"
+      - question: "Identify the figures “B” and “C” and explain their role in this scene."
+        answer: "POSEIDON & ATHENA ARE THERE TO ASSURE ACHILLES THAT IT IS NOT HIS FATE TO BE DROWNED (SO KEEP FIGHTING / KILLING TROJANS)"
+  - tossup:
+      question: "From what Latin verb, with what meaning, does English derive the word “miscreant”?"
+      answer: "<latin>CRĒDŌ</latin> -- BELIEVE"
+    boni:
+      - question: "From what Latin noun, with what meaning, does English derive the word “chateau”?"
+        answer: "<latin>CASTRA</latin> -- CAMP"
+      - question: "From what Latin verb, with what meaning, does English derive the word “succor” (spell), which means to help?"
+        answer: "<latin>CURRŌ</latin> -- TO RUN"
+  - tossup:
+      question: "On which of the <latin>lectī</latin> <latin>trīclīniārēs</latin> would a high-ranking elected official recline if he were a dinner guest?"
+      answer: "<latin>(LECTUS) MEDIUS</latin> (AT THE <latin>LOCUS CŌNSULĀRIS</latin>, OR <latin>LOCUS ĪMUS</latin>  OR <latin>LOCUS MEDIUS</latin> ON THE <latin>LECTUS MEDIUS</latin>)"
+    boni:
+      - question: "If a dinner guest were reclining on the <latin>lectus imus</latin> in the position known as the <latin>locus medius</latin>, whom would he most likely have seen next to him if he turned to the direction the Romans called <latin>suprā</latin>?"
+        answer: "THE HOST"
+      - question: "During the empire a new type of semi-circular couch came into fashion for use with round tables. This couch got its name from a Greek letter it resembled. What was this couch called?"
+        answer: "<latin>SIGMA</latin> "
+  - tossup:
+      question: "Soccer clubs in England often have Latin mottoes. Translate into English the motto of Blackburn Rovers Club, “<latin>Arte et Labōre</latin>.”"
+      answer: "WITH / BY SKILL / ART AND WORK"
+    boni:
+      - question: "Translate the motto of the Manchester City Football Club, “<latin>Superbia in Proeliō</latin>.”"
+        answer: "PRIDE / ARROGANCE / HAUGHTINESS IN BATTLE"
+      - question: "Translate the motto of the Everton Club, “<latin>Nīl satis nisi optimum</latin>.”"
+        answer: "NOTHING (IS) ENOUGH / SUFFICIENT EXCEPT THE BEST / UNLESS IT IS THE BEST"
+  - tossup:
+      question: "Most third declension nouns which have identical forms in the nominative singular and genitive singular are i-stems. That is, they use the ending -ium in the genitive plural. Name ONE which does NOT."
+      answer: "<latin>CANIS</latin> / <latin>IUVENIS</latin> "
+    boni:
+      - question: "What is the accusative singular of a pure i-stem?"
+        answer: "<latin>-IM</latin> "
+      - question: "Give one example of such a word in its accusative singular form."
+        answer: "<latin>SITIM / BURIM / CUCUMIM / RAVIM / TUSSIM / VIM / FEBRIM / TIBERIM / PUPPIM / RESTIM / TURRIM / SECŪRIM / SĒMENTIM</latin> "
+  - tossup:
+      question: "What king of Argos purified Bellerophon of the sin of murder?"
+      answer: "PROETUS"
+    boni:
+      - question: "Whom had Bellerophon murdered?"
+        answer: "BELLERUS, DELIADES, or PIREN"
+      - question: "Name Proetus' wife who falsely accused Bellerophon of seduction."
+        answer: "STHENEBOEA / ANTEIA / ANTIA"
+  - tossup:
+      question: "Who killed the serpent of Ares that guarded a sacred spring?"
+      answer: "CADMUS"
+    boni:
+      - question: "Who advised Cadmus to sow the serpent's teeth?"
+        answer: "ATHENA"
+      - question: "What name was given to the armed men who sprang from the serpent's teeth?"
+        answer: "SPARTOI"
+  - tossup:
+      question: "From what Latin verb with what meaning is the Latin noun <latin>tēctum</latin> derived?"
+      answer: "<latin>TEGŌ</latin> - COVER"
+    boni:
+      - question: "What are the 3rd and 4th principal parts of the verb meaning “to touch”?"
+        answer: "<latin>TETIGĪ, TACTUS</latin> "
+      - question: "What are the 3rd and 4th principal parts of the verb meaning “to weave”?"
+        answer: "<latin>TEXUĪ</latin>, <latin>TEXTUM</latin> "
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quam viam Rōmānam dēscrībō? Inter Rōmam et Beneventum, multa sepulchra iuxtā</latin> <latin>hanc viam posita sunt. Rōmā</latin> <latin>Capuam Rōmānī</latin> <latin>eam mūnīvērunt.</latin> "
+      answer: "<latin>(VIAM) APPIAM / VIA APPIA</latin> /APPIAN WAY"
+    boni:
+      - question: "<latin>Quis hanc viam faciendam cūrāvit? Dīc praenōmen, nōmen et cognōmen.</latin>"
+        answer: "APPIUS CLAUDIUS CAECUS"
+      - question: "<latin>Quam viam Rōmānam dēscrībō? Incēpit ā</latin> <latin>Tiberis ōre. Rōmā</latin> <latin>vertit ad septentriōnem et orientem. Haec via mūnīta est quō</latin> <latin>sāl facilius portārī</latin> <latin>posset.</latin>"
+        answer: "<latin>(VIAM) SALĀRIAM</latin> / <latin>(VIA) SALĀRIA</latin> / (VIA) SALARIA"
+  - tossup:
+      question: "Who sentenced 90 senators, 15 consulars and 2600 <latin>equitēs</latin> to death and confiscated their property in his proscriptions in 82 BC?"
+      answer: "(L. CORNELIUS) SULLA"
+    boni:
+      - question: "What law, passed in 82 BC, legalized Sulla’s murders, confiscations and other atrocities?"
+        answer: "<latin>LĒX VALERIA</latin> "
+      - question: "What sort of time limit did the <latin>lēx Valeria</latin> put on Sulla’s dictatorship?"
+        answer: "NONE / INDEFINITE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Scīs Carthāginiēnsēs numquam redītūrōs esse</latin>."
+      answer: "YOU KNOW THAT THE CARTHAGINIANS WILL NEVER RETURN"
+    boni:
+      - question: "<latin>Pompēius prōmīsit sē</latin> <latin>terram mīlitibus dare</latin>."
+        answer: "POMPEY PROMISED THAT HE WAS GIVING / GAVE LAND TO THE SOLDIERS"
+      - question: "<latin>Captīvī</latin> <latin>ipsī</latin> <latin>affirmābant sē</latin> <latin>Germānōs vīdisse.</latin> "
+        answer: "THE PRISONERS / CAPTIVES THEMSELVES WERE AFFIRMING THAT THEY <emphasis>HAD SEEN</emphasis> GERMANS"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Who captained the Scylla to a victory in the boat race at the funeral games of Anchises?"
+      answer: "CLOANTHUS"
+    boni:
+      - question: "Who captained the Leviathan to a second place finish?"
+        answer: "MNESTHEUS"
+      - question: "Who tripped Salius in the footrace to ensure a win for his friend?"
+        answer: "NISUS"
+  - tossup:
+      question: "Please translate into English: <latin>in silvīs sē cēlent nē magnō calōre interficiantur.</latin>"
+      answer: "LET THEM HIDE THEMSELVES IN THE WOODS/FOREST IN ORDER NOT TO BE KILLED BY THE GREAT HEAT / LEST THEY BE KILLED BY THE GREAT HEAT"
+    boni:
+      - question: "...: <latin>exspectēmus dum maximus calor vānescat.</latin>"
+        answer: "LET US WAIT UNTIL THE VERY GREAT HEAT SHOULD DISAPPEAR / DISAPPEARS"
+      - question: "...: <latin>maximus calor nōn prohibēbit quōminus diū ambulēmus.</latin>"
+        answer: "THE VERY GREAT HEAT WILL NOT PREVENT US FROM WALKING FOR A LONG  TIME"
+  - tossup:
+      question: "The city of Ctesiphon was sacked a total of five times by Roman troops. Name any three of the seven  men who ruled as Augusti of any part of the Roman Empire during a sack of Ctesiphon."
+      answer: "TRAJAN / MARCUS AURELIUS / LUCIUS VERUS / SEPTIMIUS SEVERUS / CARUS / MAXIMIAN / DIOCLETIAN [<latin>PLEASE DO NOT READ THE FULL ANSWER</latin>]"
+    boni:
+      - question: "What man, as Caesar, joined his father on the campaign against the Persians that succeeded in sacking  Ctesiphon in 284 AD?"
+        answer: "NUMERIAN"
+      - question: "What man, although only Caesar, personally commanded the troops that defeated the Persian emperor  Narses and took Nisibis in addition to Ctesiphon in 298 AD?"
+        answer: "GALERIUS"
+  - tossup:
+      question: "What use of the accusative can be found in the Latin phrases “<latin>servitūtem servīre</latin>” and “<latin>vītam  vīvere</latin>”?"
+      answer: "COGNATE / KINDRED SIGNIFICATION"
+    boni:
+      - question: "What use of the accusative is illustrated by the words <latin>multum</latin>, <latin>facile</latin>, and <latin>quid</latin>?"
+        answer: "ADVERBIAL"
+      - question: "What use of the accusative, in addition to direct object, is used with verbs like <latin>appellō</latin>, <latin>nominō</latin>, and  <latin>creō</latin>?"
+        answer: "PREDICATE"
+  - tossup:
+      question: "What is the meaning of the Latin 5th declension noun <latin>perniciēs</latin>?"
+      answer: "RUIN / DESTRUCTION / CURSE"
+    boni:
+      - question: "Which two of the following deponent verbs are most nearly synonymous, especially as used by  Cicero? <latin>machinor, molior, morior, metior, medeor</latin>"
+        answer: "<latin>MACHINOR & MOLIOR</latin>"
+      - question: "Differentiate between two of Cicero’s favorite Q-words, <latin>quoniam</latin> and <latin>quondam</latin>."
+        answer: "BECAUSE / SINCE (<latin>QUONIAM</latin>) & FORMERLY / ONCE / SOME DAY (<latin>QUONDAM</latin>)"
+  - tossup:
+      question: "In the <title>Odyssey</title> what seer predicted the return of Odysseus and the death of the suitors by interpreting  an omen that occurred during a gathering of the Ithacan nobles in book 2?"
+      answer: "HALITHERSES"
+    boni:
+      - question: "What was the omen that Halitherses thus interpreted?"
+        answer: "TWO EAGLES FIGHTING"
+      - question: "Which suitor replies to Halitherses’ prophecy with disdain for augury, averring that Odysseus is dead  and that Halitherses should stop adding to the anger of Telemachus?"
+        answer: "EURYMACHUS"
+  - tossup:
+      question: "Give a synonym of <latin>vituperō.</latin>"
+      answer: "<latin>CULPŌ, OBIURGŌ, DAMNŌ</latin>"
+    boni:
+      - question: "Give a synonym of <latin>sedīle.</latin>"
+        answer: "<latin>SELLA, SCAMNUM</latin>"
+      - question: "Give a synonym of <latin>cachinnus.</latin>"
+        answer: "<latin>RĪSUS</latin>"
+  - tossup:
+      question: "What Roman general, co-consul with Marcus Claudius Marcellus in 222 BC, gained a crucial victory  at the mouth of the Ebro in 217 BC but was captured and killed only six years later, paving the  way for the ascension of his nephew Publius to chief commander of Roman forces?"
+      answer: "GNAEUS (CORNELIUS) SCIPIO (CALVUS)"
+    boni:
+      - question: "What key Spanish city, taken by Carthaginian forces in 218 BC, was recaptured by Gnaeus and his  brother Publius in 212 BC?"
+        answer: "SAGUNTUM"
+      - question: "At what city did Gnaeus meet his end the following year?"
+        answer: "NEW CARTHAGE / <latin>CARTHĀGŌ NOVA</latin> / CARTAGENA"
+  - tossup:
+      question: "What son of Lucifer died in a shipwreck while on his way to consult the oracle of Apollo, leaving his  wife, Alcyone, behind to mourn him?"
+      answer: "CEYX"
+    boni:
+      - question: "Who was the father of Alcyone?"
+        answer: "AEOLUS"
+      - question: "What brother of Ceyx went mad and was transformed into a hawk?"
+        answer: "DAEDALION"
+  - tossup:
+      question: "Give the form of the Latin word for “guard” that would be needed if you translated the following  sentence into English using an impersonal construction: “the guard needs sleep.”"
+      answer: "<latin>CUSTŌDĪ / VIGILĪ</latin>"
+    boni:
+      - question: "Translate that sentence into Latin using the aforementioned impersonal construction."
+        answer: "<latin>CUSTODĪ OPUS SOMNŌ / SOPORE EST</latin>"
+      - question: "Now using another impersonal construction, translate into Latin the sentence, “They were disgusted  with the unending heat in that place.”"
+        answer: "<latin>EŌS PIGĒBAT / PIGUIT AESTŪS / AESTĪ / CALORIS PERPETUĪ /   CONTINUĪ ILLĪC / ISTĪC / IN ILLŌ LOCŌ</latin>"
+  - tossup:
+      question: "Which of these provinces did NOT border the <latin>Pontus Euxīnus</latin>: Bithynia, Moesia, Galatia, or  Cappadocia?"
+      answer: "GALATIA"
+    boni:
+      - question: "Which of these provinces did NOT have the <latin>Dānuvius</latin> as one of its borders: Dalmatia, Noricum,  Pannonia, or Raetia?"
+        answer: "DALMATIA"
+      - question: "Which of these provinces did NOT have a coastline along the Mediterranean Sea: Aquitania, Cilicia,  Lycia, or Narbonensis?"
+        answer: "AQUITANIA"
+  - tossup:
+      question: "Please listen to the following sentences, which I shall read twice, then answer the question that  follows in Latin:  <latin>At Hamilcar posteāquam mare trānsiit in Hispāniamque vēnit, magnās rēs secundā gessit  fortūnā; equīs, armīs, virīs, pecūniā tōtam locuplētāvit Āfricam. nōnō annō, postquam in  Hispāniam vēnerat, in proeliō pugnāns adversus Vettōnēs occīsus est.</latin> (REPEAT) The question: <latin>quās rēs ex Hispāniā Āfrica accēpit?</latin>"
+      answer: "<latin>EQUŌS, ARMĀ, VIRŌS, PECŪNIAM</latin>"
+    boni:
+      - question: "<latin>quōmodō in Hispāniā Hamilcar rēs gessit?</latin>"
+        answer: "<latin>SECUNDĀ FORTŪNĀ / FĒLĪCITER</latin>"
+      - question: "<latin>quandō Hamilcar occīsus est?</latin>"
+        answer: "<latin>PUGNĀNS (IN PROELIŌ) / DUM PUGNAT</latin>"
+  - tossup:
+      question: "Give the Latin and English for the motto of Trinity University, the location of the 2015 NJCL  convention."
+      answer: "<latin>Ē TRIBUS UNUM</latin>, FROM THREE, ONE (OUT OF THREE ONE)"
+    boni:
+      - question: "Just down the road from our current location is the University of Texas at Austin. Give the Latin and  English for the motto of this university."
+        answer: "<latin>DISCIPLINA PRAESIDIUM CIVITATIS</latin>,  TRAINING THE DEFENSE OF THE STATE/  CULTIVATED MIND IS THE GUARDIAN GENIUS OF DEMOCRACY"
+      - question: "The Latin motto on the coat of arms that was adopted by San Antonio, Texas, in 1972 is <latin>Lībertātis  cūnābula</latin>. Translate this motto."
+        answer: "CRADLES OF LIBERTY"
+  - tossup:
+      question: "What son of Pelops did Pelops march on Thebes to rescue after he was abducted and taken there by  Laius?"
+      answer: "CHRYSIPPUS"
+    boni:
+      - question: "According to some stories, Chrysippus killed himself, but according to others what two men  murdered Chrysippus?"
+        answer: "ATREUS AND THYESTES"
+      - question: "Who convinced Atreus and Thyestes to kill their bastard brother Chrysippus?"
+        answer: "HIPPODAMEIA (PROMPT ON “THEIR MOTHER”)"
+  - tossup:
+      question: "Please identify the picture in which you would find a <latin>tībīcen</latin> and <latin>nēniae</latin>."
+      answer: "C"
+    boni:
+      - question: "Please identify the picture in which you would find a <latin>camillus</latin>."
+        answer: "A"
+      - question: "Give the Latin term for the manager pictured in picture “D”."
+        answer: "<latin>DOMINUS GREGIS</latin>"
+  - tossup:
+      question: "Which TWO of the following words are derived from the same Latin verb? incessantly, resuscitate, succinct, ancestral, succumb"
+      answer: "INCESSANTLY & ANCESTRAL"
+    boni:
+      - question: "For both boni, give the Latin verb and its meaning at the root of any TWO of the other words in  the tossup."
+        answer: "RESUSCIATE: <latin>CIEŌ</latin>, TO STIR UP SUCCINCT: <latin>CINGŌ</latin>, TO GIRD  SUCCUMB: <latin>CUBŌ</latin>, TO RECLINE"
+  - tossup:
+      question: "Say in Latin using a gerundive: The citizens ran to Pompeii to hear the poets."
+      answer: "<latin>CĪVĒS POMPĒIŌS CURRĒBANT / CUCURRĒRUNT POĒTĀRUM AUDIENDŌRUM  CAUSĀ / GRĀTIĀ // AD POĒTĀS AUDIENDŌS</latin>"
+    boni:
+      - question: "Say in Latin: Let us use swords to fight!"
+        answer: "<latin>GLADIĪS UTĀMUR UT PUGNĒMUS / AD PUGNANDUM /   PUGNANDĪ CAUSĀ/GRĀTIĀ</latin>"
+      - question: "Say in Latin using a form of <latin>necesse est</latin>: If you become thirsty, you will need to drink more water."
+        answer: "<latin>SĪ SĪTĪVERIS / SĪTIĒNS FACTUS ERIS / SĪTIĒS / SĪTIĒNS FIĒS, NECESSE ERIT TIBI  PLŪS AQUAE BIBERE</latin>"
+  - tossup:
+      question: "What emperor’s decision to appoint Cornelius Laco to the leadership of the Praetorian Guard  alienated his crucial supporter Nymphidius Sabinus, who had helped him by turning the Guard  against the emperor Nero in 68 AD?"
+      answer: "GALBA’S"
+    boni:
+      - question: "What Praetorian prefect, after years of service under Nero, was forced to resign by Sabinus and  subsequently replaced by Laco on Galba’s orders?"
+        answer: "TIGELLINUS"
+      - question: "Galba’s adoption of what man prompted Otho to bribe the Praetorian Guard into murdering the  Galba in 69 AD?"
+        answer: "(L.) CALPURNIUS PISO LICINIANUS [ACCEPT ANY NAME]"
+  - tossup:
+      question: "Dionysus drove the inhabitants of Calydon mad when which of his priests prayed for help upon being  rejected by the girl of his dreams?"
+      answer: "CORESUS"
+    boni:
+      - question: "Who was this woman who had to be sacrificed to save the Calydonians from madness?"
+        answer: "CALLIRHOË"
+      - question: "How was Callirhoë saved from sacrifice?"
+        answer: "CORESUS SACRIFICED HIMSELF IN HER PLACE"
+  - tossup:
+      question: "Give the comparative and superlative forms of an adjective that has no positive form and means  “swift.”"
+      answer: "<latin>ŌCIOR, ŌCISSIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>dē</latin>."
+        answer: "<latin>DĒTERIOR, DĒTERRIMUS</latin>"
+      - question: "Give the comparative and superlative forms of <latin>exīlis</latin>."
+        answer: "<latin>EXILIOR</latin>, NO SUPERLATIVE FORM"

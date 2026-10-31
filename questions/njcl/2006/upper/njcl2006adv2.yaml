@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What Roman historian added twenty-two books to his history of Rome in the last three years of his life?"
+      answer: "LIVY (TITUS LIVIUS)"
+    boni:
+      - question: "How many books were there in Livy’s <title><latin>Ab Urbe Conditā</latin></title>?"
+        answer: "142"
+      - question: "With what event did Livy end his history?"
+        answer: "DEATH OF DRUSUS (IN 9 BC)"
+  - tossup:
+      question: "The noun <latin>nēmō</latin> lacks certain case forms in its declension. What adjective is used to supply those missing forms? "
+      answer: "<latin>NâLLUS</latin> "
+    boni:
+      - question: "What cases does <latin>nēmō</latin> borrow from <latin>nūllus</latin>?"
+        answer: "GENITIVE & ABLATIVE"
+      - question: "What two Latin words contract to form <latin>nēmō</latin>?"
+        answer: "<latin>NĒ</latin> + <latin>HOMŌ</latin> (technically the older form “<latin>hemō</latin>”)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Sī</latin> <latin>mihi pārēbis, salvus eris</latin>."
+      answer: "IF YOU (WILL) OBEY ME, YOU WILL BE SAFE"
+    boni:
+      - question: "<latin>Spērō</latin> <latin>fore ut dēleātur Carthāgō</latin>."
+        answer: "I HOPE THAT CARTHAGE WILL BE DESTROYED"
+      - question: "<latin>Exeat captīvus in carcerem nēve plūra dīcat</latin>."
+        answer: "LET THE PRISONER GO (AWAY IN)TO JAIL AND (LET HIM) NOT SPEAK MORE (WORDS)"
+  - tossup:
+      question: "Who recovered Britain for the empire in A.D. 296?"
+      answer: "CONSTANTIUS I / CHLORUS"
+    boni:
+      - question: "What traitorous admiral had taken control of Britain and part of northern Gaul?"
+        answer: "(MARCUS AURELIUS) CARAUSIUS"
+      - question: "Who assassinated Carausius only to be defeated by Constantius Chlorus?"
+        answer: "ALLECTUS"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence? <latin>Haec terra omnibus dīvitiīs abundat</latin>."
+      answer: "RESPECT / SPECIFICATION"
+    boni:
+      - question: "<latin>Nātū</latin> <latin>minor est quam frāter</latin>."
+        answer: "RESPECT / SPECIFICATION"
+      - question: "<latin>Catō</latin> <latin>nōbilī</latin> <latin>genere ortus exemplō</latin> <latin>reliquīs cīvibus esse cōnātus est</latin>."
+        answer: "SOURCE / ORIGIN"
+  - tossup:
+      question: "What first century B.C. historian claimed in his first work that he had abandoned politics in disgust at the wholesale corruption?"
+      answer: "SALLUST ( Q. SALLUSTIUS CRISPUS)"
+    boni:
+      - question: "What is the Latin title of Sallust’s first work?"
+        answer: "<title><latin>BELLUM CATILĪNAE</latin></title> "
+      - question: "What two politicians, whom he considered the only great men of the time, did Sallust contrast near the end of this work?"
+        answer: "JULIUS CAESAR & CATO THE YOUNGER / UTICENSIS"
+  - tossup:
+      question: "What is the name of the shoe which a fashion conscious Roman would wear with his toga?"
+      answer: "<latin>CALCEUS / CALCEĪ</latin>"
+    boni:
+      - question: "What is the name of the footwear, originally worn by only patrician magistrates, which was high soled and red in color?"
+        answer: "<latin>MULLEUS / MULLEĪ</latin>"
+      - question: "What was unique/different about the sole of a <latin>caliga</latin> worn by soldiers and peasants?"
+        answer: "<latin>HOB-NAILED / HAD BUMPS OR SMALL SPIKES FOR TRACTION OR WEAR</latin> "
+  - tossup:
+      question: "Listen to the following passage of later Latin in which Christopher Columbus discusses discoveries in the New World, and answer IN ENGLISH the question that follows: “<latin>Et sīc retrōcēdēns ad portum quendam sum reversus. Unde duōs hominēs ex nostrīs in terram mīsī, quī</latin> <latin>investīgārent essetne rēx in eā</latin> <latin>prōvinciā</latin> <latin>urbēsve aliquae. Hī</latin> <latin>per trēs diēs ambulārunt invēnēruntque innumerōs populōs et habitātiōnēs, parvās tamen et absque ūllō</latin> <latin>regimine. Quāpropter rediērunt</latin>.” Question: What two things was Columbus trying to find out when he sent two men from his ship?"
+      answer: "IF THERE WAS A KING OR IF THERE WERE ANY CITIES"
+    boni:
+      - question: "What did the scouts find?"
+        answer: "COUNTLESS <emphasis>PEOPLE</emphasis> AND <emphasis>DWELLINGS</emphasis> "
+      - question: "How does Columbus describe the small villages in this part of the New World?"
+        answer: "WITHOUT / LACKING A LEADER / GOVERNMENT (If “without a regimen” is given as an answer, prompt for what is meant by “regimen”)"
+  - tossup:
+      question: "Who married Eurynome, Themis, Metis, and his own sister Demeter?"
+      answer: "ZEUS"
+    boni:
+      - question: "What two groups of sisters were the children of Zeus and Themis?"
+        answer: "HORAE / SEASONS & MOIRAE / PARCAE / FATES"
+      - question: "By what collective name are the daughters of Zeus and Eurynome known."
+        answer: "CHARITES / GRACES"
+  - tossup:
+      question: "Give the English meaning and principal parts of the Latin verb from which “progeny” is derived."
+      answer: "<latin>GIGNŌ, GIGNERE, GENUĪ, GENITUS</latin> - BEGET, GIVE BIRTH TO or <latin>GENŌ</latin>, <latin>GENERE</latin>, <latin>GENUĪ</latin>, <latin>GENITUS</latin> - BEGET, GIVE BIRTH TO"
+    boni:
+      - question: "Give the English meaning and principal parts of the Latin verb from which “indigent” is derived."
+        answer: "<latin>EGEŌ, EGĒRE, EGUĪ</latin> - BE IN NEED, LACK"
+      - question: "Give the English meaning and principal parts of the Latin verb from which “repast” is derived."
+        answer: "<latin>PĀSCŌ, PĀSCERE, PĀVĪ, PĀSTUS</latin> / or <latin>PĀSCOR</latin>, <latin>PĀSCĪ</latin>, <latin>PASTUS (SUM)</latin> - FEED, SUPPORT, PLAY AROUND"
+  - tossup:
+      question: "Who were elected to the consulship for 449 BC after the forced abdication of the <latin>decemvirī</latin>?"
+      answer: "(L.) VALERIUS (POTITUS) & (M.) HORATIUS (BARBATUS)"
+    boni:
+      - question: "Whose interests did the so-called Valerio-Horatian laws support?"
+        answer: "PLEBEIANS"
+      - question: "What protection was legally guaranteed to the <latin>tribūnī</latin> <latin>plēbis</latin>?"
+        answer: "<latin>SACROSĀNCTITĀS</latin> / SACROSANCTITY / HE BODY WAS INVIOLATE (PUNISHABLE BY DEATH)"
+  - tossup:
+      question: "What is the Latin title of the longest of Plautus’ comedies, which was about Pyrgopolynices, a boastful soldier?"
+      answer: "<title><latin>MĪLES GLŌRIŌSUS</latin></title> "
+    boni:
+      - question: "What is the Latin title of the shortest of Plautus’ plays, which is about a parasite of a young man who is in love with a courtesan?"
+        answer: "<title><latin>CURCULIŌ</latin></title>"
+      - question: "What is the Latin title of Plautus’ play in which the title character is a Carthaginian?"
+        answer: "<title><latin>POENULUS</latin></title> "
+  - tossup:
+      question: "Using a participle, say in Latin, “We must defeat Athens.”"
+      answer: "<latin>NŌBĪS ATHĒNAE VINCENDAE / SUPERANDAE SUNT</latin> "
+    boni:
+      - question: "Using a participle, say in Latin, “The Romans had to destroy Carthage.”"
+        answer: "<latin>RŌMĀNĪS CARTHĀGŌ</latin> <latin>DĒLENDA / VASTANDA / DĒSTRUENDA ERAT</latin> "
+      - question: "Using a participle, say in Latin, “The Romans were desirous of destroying Carthage.”"
+        answer: "<latin>RŌMĀNĪ</latin> <latin>ERANT CUPIDĪ</latin> <latin>/ AVIDĪ</latin> <latin>CARTHĀGINIS DĒLENDAE /</latin>   <latin>VASTANDAE / DĒSTRUENDAE</latin> "
+  - tossup:
+      question: "Differentiate in meaning between <latin>iugum</latin> and <latin>iugulum</latin>."
+      answer: "<latin>IUGUM</latin> - YOKE, TEAM, PAIR OF HORSES <latin>IUGULUM</latin> - COLLAR BONE, THROAT, NECK, RIDGE"
+    boni:
+      - question: "between <latin>grūs</latin> and <latin>grex</latin>. "
+        answer: "<latin>GRâS</latin> - CRANE <latin>GREX</latin> - HERD, FLOCK, LITTER"
+      - question: "Define the noun <latin>gryps</latin>."
+        answer: "GRIFFIN"
+  - tossup:
+      question: "Into what bird did Athena change the maiden Nyctimene?"
+      answer: "OWL"
+    boni:
+      - question: "Why did Nyctimene not want to appear in the daytime?"
+        answer: "ASHAMED BECAUSE HER FATHER HAD RAPED HER or BECAUSE SHE HAD AN INCESTUOUS RELATIONSHIP WITH HER FATHER"
+      - question: "What other maiden seduced her own father and later gave birth to Adonis?"
+        answer: "MYRRHA/ SMYRNA"
+  - tossup:
+      question: "According to Euripides, who convinced the young Theban king Pentheus to disguise himself as a woman to spy on the followers of Dionysus?"
+      answer: "DIONYSUS / BACCHUS"
+    boni:
+      - question: "What happened when the women discovered him?"
+        answer: "TORE HIM TO PIECES"
+      - question: "Who led the attack and carried Pentheus' severed head back to his palace?"
+        answer: "(HIS MOTHER) AGAVE"
+  - tossup:
+      question: "Translate the infinitive form <latin>ductum īrī</latin>."
+      answer: "TO BE ABOUT TO BE LED"
+    boni:
+      - question: "Make <latin>ductum īrī</latin> active. "
+        answer: "<latin>DUCTâRUS / -A / -UM ESSE</latin> "
+      - question: "What is the future passive participle of that verb? "
+        answer: "<latin>DâCENDUS / -A / -UM</latin> "
+  - tossup:
+      question: "With whom did Augustus share the <latin>tribūnicia potestās</latin> and thereby indicate as his successor in 18 BC?"
+      answer: "(MARCUS VIPSANIUS) AGRIPPA"
+    boni:
+      - question: "Whom had Agrippa married in 21 BC?"
+        answer: "(AUGUSTUS’ DAUGHTER) JULIA (MAIOR / ELDER)"
+      - question: "Which of the children of Agrippa and Julia did Augustus adopt in 17 BC?"
+        answer: "GAIUS & LUCIUS (CAESAR)"
+  - tossup:
+      question: "What hero, suffering from the sun’s heat, dared to draw his bow at Helius?"
+      answer: "HERACLES (PASS OUT THE VISUAL)"
+    boni:
+      - question: "You may now open your visual and examine it for 5 seconds. (WAIT 5 SECONDS) At whom is Heracles shooting the arrow and why?"
+        answer: "GERYON - (TO KILL HIM IN ORDER) TO STEAL HIS CATTLE"
+      - question: "Identify by name the creature at the lower left of the visual."
+        answer: "ORTH(R)US"
+  - tossup:
+      question: "What Roman army officer retired shortly after the accession of the emperor Jovian to write a 31 book history from the reign of Nerva to the death of Valens?"
+      answer: "AMMIANUS MARCELLINUS"
+    boni:
+      - question: "What is the Latin title of this history?"
+        answer: "<title><latin>RĒRUM GESTĀRUM LIBRĪ</latin></title> (<latin>XXXI</latin>) / <title><latin>RĒS GESTAE</latin></title> (Ā <latin>FĪNE CORNĒLĪ</latin> <latin>TACITĪ</latin>)"
+      - question: "What emperor’s rule dominates the surviving 18 books of Ammianus’ history?"
+        answer: "JULIAN’S"

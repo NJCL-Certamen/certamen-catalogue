@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "A Roman triumphal procession during the Republic did NOT make its way past which of the following sites in Rome? Porta Triumphalis, Palatine Hill, Shrine of Quirinus, or the Via Sacra?"
+      answer: "SHRINE OF QUIRINUS"
+    boni:
+      - question: "In order to be qualified to celebrate a triumph, the Romans had to have killed a minimum of how many enemy soldiers?"
+        answer: "5,000"
+      - question: "What type of tunic did the victorious general wear?"
+        answer: "<latin>PALMĀTA</latin> / PALMATE"
+  - tossup:
+      question: "What derivative of the Latin noun <latin>genus</latin> means \"a type of literary or artistic work?”"
+      answer: "GENRE"
+    boni:
+      - question: "... means \"a person who has deteriorated morally or mentally from the norm\"?"
+        answer: "DEGENERATE"
+      - question: "... means “not having a brand name?”"
+        answer: "GENERIC"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dum Marcus manūs lavat, māter cibum in mēnsā</latin> <latin>posuit</latin>"
+      answer: "WHILE MARCUS WASHED / WAS WASHING HIS HANDS, (HIS) MOTHER PUT FOOD ON THE TABLE. (Do <emphasis>not</emphasis> accept a present tense translation - “washes” - for the verb <latin>lavat</latin>)"
+    boni:
+      - question: "<latin>Edere poteris postquam manūs lāveris</latin>"
+        answer: "YOU WILL BE ABLE TO EAT AFTER YOU (WILL) HAVE WASHED / WASH YOUR HANDS"
+      - question: "<latin>Cum Marcus manūs lāvisset, māter eius tamen putābat eās sordidās esse</latin>"
+        answer: "ALTHOUGH MARCUS (HAD) WASHED HIS HANDS, HIS MOTHER THOUGHT THEY WERE DIRTY ANYHOW / NEVERTHELESS"
+  - tossup:
+      question: "According to legend, who freed the Palatine Hill from the monster Cacus?"
+      answer: "HERACLES / HERCULES (HANDOUT THE VISUAL TO THE APPROPRIATE TEAM)"
+    boni:
+      - question: "These pictures depict the adventures of Heracles. Which of these scenes took place in Thrace?"
+        answer: "\"C\""
+      - question: "Which of these scenes took place in Erytheia?"
+        answer: "\"B\""
+  - tossup:
+      question: "Change the verb <latin>pōnēmur</latin> to the singular"
+      answer: "<latin>PŌNAR</latin>"
+    boni:
+      - question: "Change <latin>pōnar</latin> to the perfect indicative"
+        answer: "<latin>POSITUS / -A SUM</latin>"
+      - question: "Change <latin>positus sum</latin> to imperfect tense"
+        answer: "<latin>PŌNĒBAR</latin>"
+  - tossup:
+      question: "Who, born in A.D. 76, probably in Italica in Spain, became the emperor of Rome in 117?"
+      answer: "(P. AELIUS) HADRIAN(US)"
+    boni:
+      - question: "Where did Hadrian build a luxurious country villa near Rome?"
+        answer: "TIBUR/TIVOLI"
+      - question: "What temple in Rome, originally built by a friend of Augustus, did Hadrian rebuild?"
+        answer: "PANTHEON"
+  - tossup:
+      question: "Give the accusative singular, feminine, of the perfect participle of the verb <latin>ferō</latin>"
+      answer: "<latin>LĀTAM</latin>"
+    boni:
+      - question: "Keeping everything else the same, change <latin>lātam</latin> to a present participle"
+        answer: "<latin>FERENTEM</latin>"
+      - question: "Again, keeping everything else the same, change <latin>ferentem</latin> to a future active participle"
+        answer: "<latin>LĀTŪRAM</latin>"
+  - tossup:
+      question: "Disregarding compounds, give a Latin synonym of the verb <latin>loquor</latin>"
+      answer: "<latin>FOR, DĪCŌ, (CON)FĀBULOR, VERBA FACIO, ŌRŌ, GARRIŌ</latin>"
+    boni:
+      - question: "... of the verb <latin>patior</latin>"
+        answer: "<latin>(PER/SUF)FERŌ, TOLERŌ, SUSTINEŌ, SINŌ</latin>"
+      - question: "... of the adjective <latin>quiētus</latin>"
+        answer: "<latin>TRANQUILLUS, ŌTIŌSUS, PĀCĀTUS, PLĀCĀTUS, PLACIDUS, SĒDĀTUS, TACITURNUS, TACITUS, SILĒNS</latin>"
+  - tossup:
+      question: "What was Hera’s wedding gift from Gaia?"
+      answer: "(TREE OF) GOLDEN APPLES"
+    boni:
+      - question: "Who guarded these apples?"
+        answer: "HESPERIDES"
+      - question: "Name the serpent which aided them"
+        answer: "LADON"
+  - tossup:
+      question: "What use of the ablative case is found in the following Latin sentence? <latin>Domō</latin> <latin>ēgredior</latin>"
+      answer: "PLACE FROM WHICH"
+    boni:
+      - question: "<latin>Frāter meus multō</latin> <latin>maior est quam ego</latin>"
+        answer: "DEGREE OF DIFFERENCE"
+      - question: "Using the ablative, say in Latin \"He was a boy of very little wisdom.\""
+        answer: "<latin>ERAT / FUIT PUER MINIMĀ SAPIENTIĀ / PRŪDENTIĀ</latin> or <latin>MINIMŌ CONSILIŌ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tōtā</latin> <latin>Galliā</latin> <latin>superātā, senātōrēs iussērunt Caesarem ē</latin> <latin>prōvinciā</latin> <latin>discēdere; nam eīs iam diū</latin> <latin>cum Caesare dissensiō</latin> <latin>erat. Nōn placēbat Caesarī</latin> <latin>tantam potestātem dēpōnere quod nōn ignōrābat vitia senātūs.</latin>  <latin>Quandō</latin> <latin>senātus Caesarem ē</latin> <latin>Galliā</latin> <latin>discēdere iussit?</latin>"
+      answer: "<latin>TŌTĀ GALLIĀ SUPERĀTĀ</latin> or <latin>POST BELLUM GALLICUM / IN GALLIĀ</latin>"
+    boni:
+      - question: "<latin>Cūr senātus hoc iussit?</latin>"
+        answer: "(CUM CAESARE) DISSENSIŌ <latin>ERAT</latin>"
+      - question: "Quid sciēbat Caesar dē <latin>senātū?</latin>"
+        answer: "VITIA (EŌRUM / SENĀTŌRUM / SENĀTŪS)"
+  - tossup:
+      question: "Who took over command of Rome after the Battle of the Colline Gate?"
+      answer: "SULLA"
+    boni:
+      - question: "Where had Sulla been for most of the five years before that battle?"
+        answer: "FIGHTING MITHRIDATES / IN PONTUS"
+      - question: "What man held the consulship for four years, 87-84 B.C. while Sulla was in the east?"
+        answer: "(L. CORNELIUS) CINNA"
+  - tossup:
+      question: "Who murdered her sons Mermerus and Pheres to exact revenge on their father for leaving her?"
+      answer: "MEDEA"
+    boni:
+      - question: "What king of Athens did Medea soon thereafter marry?"
+        answer: "AEGEUS"
+      - question: "What stranger did Medea induce Aegeus to try to kill with poison?"
+        answer: "THESEUS"
+  - tossup:
+      question: "Which of the following nouns, if any, does NOT belong because of gender? <latin>iter, māter, cadāver, corpus, opus</latin>"
+      answer: "<latin>MĀTER</latin>"
+    boni:
+      - question: "Which of the following nouns, if any, does NOT belong because of gender? <latin>humus, domus, manus, frūctus</latin>"
+        answer: "<latin>FRŪCTUS</latin>"
+      - question: "Of the words <latin>humus, portus, manus</latin> and <latin>exercitus</latin>, which one is not normally declined in the 4th declension?"
+        answer: "<latin>HUMUS</latin>"
+  - tossup:
+      question: "What king of Ethiopia came to Troy to aid his uncle Priam?"
+      answer: "MEMNON"
+    boni:
+      - question: "Who killed Memnon?"
+        answer: "ACHILLES"
+      - question: "Whose tears over the death of Memnon turned into dew?"
+        answer: "EOS'"
+  - tossup:
+      question: "Change the phrase <latin>gladius acer</latin> to the genitive plural"
+      answer: "<latin>GLADIŌRUM ĀCRIUM</latin>"
+    boni:
+      - question: "Change <latin>gladiōrum ācrium</latin> to ablative singular"
+        answer: "<latin>GLADIŌ</latin> <latin>ĀCRĪ</latin>"
+      - question: "Change <latin>gladiō</latin> <latin>ācrī</latin> to accusative singular"
+        answer: "<latin>GLADIUM ĀCREM</latin>"
+  - tossup:
+      question: "Who established the Praetorian Guard?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What was the name of the Praetorian Guard’s “home base” in Rome?"
+        answer: "<latin>CASTRA PRAETŌRIA</latin>"
+      - question: "What emperor finally disbanded them?"
+        answer: "CONSTANTINE <emphasis>I</emphasis>"
+  - tossup:
+      question: "What Latin expression is commonly used in English to mean \"anyone can make a mistake\" and translates as “to make a mistake is human?”"
+      answer: "<latin>ERRĀRE HŪMĀNUM EST</latin>"
+    boni:
+      - question: "What Latin expression is commonly used in English to mean \"according to law\"?"
+        answer: "<latin>DĒ</latin> <latin>IŪRE</latin>"
+      - question: "What Latin expression is commonly used in English to mean \"the characters in a play\"?"
+        answer: "<latin>DRAMATIS PERSŌNAE</latin>"
+  - tossup:
+      question: "Whom did Hera throw from heaven in disgust because he was lame?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "Where did he land?"
+        answer: "THE SEA / OCEANUS / LEMNOS"
+      - question: "What did Hephaestus later give Hera in revenge?"
+        answer: "A (GOLDEN) THRONE / CHAIR THAT SHE COULDN'T GET OUT OF"
+  - tossup:
+      question: "What girl, according to legend, escaped from Etruscan enemy forces and returned to her parents in Rome, only to have them send her back?"
+      answer: "CLOELIA"
+    boni:
+      - question: "Why did her parents send her back?"
+        answer: "THEY KEPT THEIR WORD THAT SHE WOULD BE PORSENA'S HOSTAGE or PORSENA HAD SAID THAT HE WOULD SEND HER HOME IF THEY GAVE HER BACK."
+      - question: "What girl, according to legend, opened the very gates of Rome to the enemy?"
+        answer: "TARPEIA"

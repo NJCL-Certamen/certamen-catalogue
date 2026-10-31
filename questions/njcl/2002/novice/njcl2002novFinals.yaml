@@ -1,0 +1,171 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Which king of Rome oversaw the first Roman coinage, constructed a temple to Diana with help from neighboring Latin cities, and was the victim of a deadly conspiracy involving his daughter?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Name Servius’ mother who had been a captive of war in the court of Tarquinius Priscus"
+        answer: "OCRISIA"
+      - question: "How did the street in Rome called the <latin>Vīcus Scelerātus</latin> get its name?"
+        answer: "SERVIUS’ DAUGHTER (TULLIA MINOR) RAN OVER HIS (DEAD) BODY THERE"
+  - tossup:
+      question: "Who refused to accompany her sister on a trip to bury their mutual brother?"
+      answer: "ISMENE"
+    boni:
+      - question: "Who had decreed that it was illegal to bury the body of Polyneices, the brother of Ismene?"
+        answer: "(KING) CREON"
+      - question: "Why did Creon make such a decree against Polyneices?"
+        answer: "HE (POLYNEICES) WAS ONE OF THE SEVEN WHO ATTACKED THEBES"
+  - tossup:
+      question: "Give the vocative for the phrase “my dear Antonius”"
+      answer: "<latin>MĪ</latin> <latin>CĀRE ANTŌNĪ</latin>"
+    boni:
+      - question: "Give the corresponding form for “my dear boy”"
+        answer: "<latin>MĪ</latin> <latin>CĀRE PUER</latin>"
+      - question: "Give the corresponding form for “my dear sister”"
+        answer: "<latin>MEA CĀRA SOROR</latin>"
+  - tossup:
+      question: "What would the abbreviation <latin>v.</latin> next to a gladiator’s name denote in graffiti reporting the result of matches?"
+      answer: "HE WON (<latin>VĪCIT</latin>)"
+    boni:
+      - question: "What would the abbreviation <latin>m.</latin> denote?"
+        answer: "HE (LOST &) WAS SPARED (<latin>MISSUS</latin>)"
+      - question: "What would the abbreviation <latin>p.</latin> denote?"
+        answer: "HE DIED (<latin>PERIIT</latin>)"
+  - tossup:
+      question: "When you are recognized by the spotter, perform the following commands: <latin>Surge et tange umerum sociī</latin>"
+      answer: "STUDENT SHOULD RISE AND TOUCH THE SHOULDER OF A TEAMMATE (* any form of contact–even hitting, punching–may be acceptable)"
+    boni:
+      - question: "<latin>Surgite, plaudite, et cantāte Anglicē</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD RISE, CLAP, AND SING IN ENGLISH"
+      - question: "<latin>Īte sub mēnsā</latin> <latin>et clāmāte mihi Anglicē</latin> <latin>vōs timidōs esse</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD GO UNDER THE DESK AND SHOUT THAT THEY ARE SCARED"
+  - tossup:
+      question: "Of the words <latin>rētiārius</latin>, <latin>vigil</latin>, <latin>augur</latin>, <latin>rēx</latin>, and <latin>haruspex</latin> which does the following Latin sentence describe? <latin>Est nocturnus custōs quī</latin> <latin>urbem custōdit</latin>"
+      answer: "<latin>VIGIL</latin>"
+    boni:
+      - question: ". . . <latin>Hic adversus murmillōnem saepe pugnat</latin>"
+        answer: "RĒTIĀRIUS"
+      - question: ". . . <latin>Est vir quī</latin> <latin>ex avibus futūrum dīvīnat</latin>"
+        answer: "AUGUR"
+  - tossup:
+      question: "Why did Odysseus dig a pit at the junction of the Acheron, Periphlegethon, and Cocytus rivers?"
+      answer: "TO SUMMON THE SOUL(S) OF THE DEAD / TO CONSULT TEIRESIAS"
+    boni:
+      - question: "Which ghost in the Underworld appeared to Odysseus first?"
+        answer: "ELPENOR"
+      - question: "Which ghost warned Odysseus not to touch the herd of Helius?"
+        answer: "T(E)IRESIAS"
+  - tossup:
+      question: "Name the last two wives of Claudius"
+      answer: "(VALERIA) MESSALINA & AGRIPPINA THE YOUNGER"
+    boni:
+      - question: "Why was Messalina executed?"
+        answer: "ATTEMPT TO USURP CLAUDIUS / (MARRIED C. SILIUS) & COMMITTED TREASON"
+      - question: "Which of Claudius’ wives was the sister of Sejanus?"
+        answer: "AELIA (PAETINA)"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence: <latin>Publius, quī</latin> <latin>fortis est, plūs pecūniae habēre vult</latin>"
+      answer: "PARTITIVE / GEN. OF THE WHOLE"
+    boni:
+      - question: "<latin>Tiberis est flūmen omnium pulcherrimum</latin>"
+        answer: "PARTITIVE / GEN. OF THE WHOLE"
+      - question: "<latin>Amor pacis melior est quam bellī</latin>"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "Give the Latin and the English meaning for the abbreviation <latin>stat</latin>"
+      answer: "STATIM - IMMEDIATELY"
+    boni:
+      - question: "What is the meaning of the editor’s or proofreader’s mark <latin>stet</latin>?"
+        answer: "LET IT STAND"
+      - question: "What is the Latin expression which means “the way things were before”?"
+        answer: "<latin>STATUS QUŌ</latin>"
+  - tossup:
+      question: "To which emperor is the oldest of these arches dedicated?"
+      answer: "TITUS (FLAVIUS VESPASIANUS) (Arch B)"
+    boni:
+      - question: "Whom did the emperor commemorated by arch “A” defeat to complete his mastery of the western portion of the Roman empire?"
+        answer: "MAXENTIUS"
+      - question: "The emperor of arch “A” was proclaimed emperor by his troops in the same city where emperor “C” died. What city was this?"
+        answer: "YORK/EBORACUM"
+  - tossup:
+      question: "What emperor is honored by the oldest existing arch in the Roman Forum?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)"
+    boni:
+      - question: "The Arch of Constantine next to the Colosseum commemorates his victory over whom?"
+        answer: "MAXENTIUS"
+      - question: "Constantine was proclaimed emperor by his troops in the same city where Septimius Severus died. What city was this?"
+        answer: "YORK/EBORACUM"
+  - tossup:
+      question: "Give an antonym of <latin>negōtium</latin>"
+      answer: "<latin>ŌTIUM</latin>, <latin>LĪBERTĀS</latin>, <latin>VACĀTIŌ</latin>, <latin>IMMŪNITĀS</latin>, <latin>FERIAE</latin>"
+    boni:
+      - question: ". . . of <latin>rūs</latin>"
+        answer: "<latin>URBS</latin>, <latin>OPPIDUM</latin>, <latin>CĪVITĀS</latin>"
+      - question: ". . . of <latin>fraus</latin>"
+        answer: "<latin>VĒRITĀS, HONOR/-OS, HONESTĀS, VĒRUM, FIDĒS</latin>"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from <latin>avis</latin>? auspices, aviator, avian, avuncular, avionics AVUNCULAR From what ultimate Latin noun, with what meaning, is “avuncular” derived?"
+      answer: "<latin>AVUS</latin>, GRANDFATHER"
+    boni:
+      - question: "What Latin verb combines with <latin>avis</latin> to give English \"auspices\"?"
+        answer: "<latin>(A-)SPICIŌ, SPECTŌ</latin>"
+  - tossup:
+      question: "Whom did Heracles rescue from death by wrestling Thanatos?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "In whose place had Alcestis voluntarily gone to the Underworld?"
+        answer: "ADMETUS (HUSBAND)"
+      - question: "Whom did Heracles wrestle near the Tiber in order to retrieve some cattle?"
+        answer: "CACUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows. <latin>Ōlim mōnstrum saevissimum ē</latin> <latin>marī</latin> <latin>cotīdiē</latin> <latin>veniēbat atque hominēs</latin>  <latin>dēvorābat quod quīdam rēx deum maris offenderat. Rēx igitur ōrāculum</latin>  <latin>cōnsuluit. Ōrāculum dīxit, “Necesse est tibi fīliam tuam mōnstrō</latin> <latin>trādere.” Fīlia, quae ā</latin> <latin>mōnstrō</latin> <latin>interficī</latin> <latin>nōlēbat, patrī</latin> <latin>inquit, “Tē</latin> <latin>ipsum</latin>  <latin>sacrificā,” et cum amīcīs suīs discessit.</latin>  Why did the king consult the oracle?"
+      answer: "A (VERY SAVAGE/SEA) MONSTER WAS EATING HIS PEOPLE"
+    boni:
+      - question: "What did the oracle tell the king to do in order to get rid of the sea monster?"
+        answer: "SACRIFICE HIS DAUGHTER / HAND OVER HIS DAUGHTER TO THE MONSTER"
+      - question: "What did the princess say to her father when she heard the news?"
+        answer: "SACRIFICE YOURSELF"
+  - tossup:
+      question: "Change <latin>portāvī</latin> to the passive"
+      answer: "<latin>PORTĀTUS (-A, UM) SUM</latin>"
+    boni:
+      - question: "Change <latin>portātus sum</latin> to the pluperfect"
+        answer: "<latin>PORTĀTUS ERAM</latin>"
+      - question: "Change <latin>portātus eram</latin> to the future perfect"
+        answer: "<latin>PORTĀTUS ERŌ</latin>"
+  - tossup:
+      question: "Who killed such adversaries as Sceiron, Periphetes and Sinon?"
+      answer: "THESEUS"
+    boni:
+      - question: "Periphetes was also called Corynetes because of what item he carried?"
+        answer: "A (BRONZE) CLUB"
+      - question: "What sort of animal was the beast called Phaea, which Theseus killed at Crommyon?"
+        answer: "A BOAR/SOW/PIG"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Tria capita Cerberō</latin> <latin>canī</latin> <latin>erant</latin>"
+      answer: "CERBERUS THE <emphasis>DOG</emphasis> HAD THREE HEADS"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Eratne canis senātōris fērocior quam cōnsulis?</latin>"
+        answer: "WAS THE SENATOR’S DOG MORE FEROCIOUS THAN THE CONSUL’S"
+      - question: "Translate the following sentence into English: <latin>Canis cōnsulis vehementer latrāre nōn poterat</latin>"
+        answer: "THE CONSUL’S DOG COULD/WAS NOT ABLE TO BARK FIERCELY / LOUDLY"
+  - tossup:
+      question: "Whom did Odysseus take from Troy as his slave woman?"
+      answer: "HECUBA / HECABE"
+    boni:
+      - question: "What happened to her in Thrace?"
+        answer: "SHE TURNED INTO A (HELL)HOUND/FIERY-EYED DOG / SHE WENT INSANE"
+      - question: "Why did she go mad?"
+        answer: "SHE LEARNED OF HER SON’S (PLOYDORUS’) DEATH"
+  - tossup:
+      question: "The dynasty founded by Theodosius I was remarkable because several of its members assumed the throne before they were 20. Which of them became emperor when he was only 6 in AD 423?"
+      answer: "VALENTINIAN III"
+    boni:
+      - question: "Name the two brothers in this dynasty who became emperors at the respective ages of 17 and 10. Please be precise"
+        answer: "ARCADIUS - 17; HONORIUS - 10"
+      - question: "Who was the regent for Honorius?"
+        answer: "STILICHO"

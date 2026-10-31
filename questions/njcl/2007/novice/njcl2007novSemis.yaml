@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Give the correct form of the noun <latin>lēx</latin> to agree with <latin>huic</latin>"
+      answer: "LĒGĪ"
+    boni:
+      - question: "Give the correct form of the noun <latin>glōria</latin> to agree with <latin>cuidam</latin>"
+        answer: "GLŌRIAE"
+      - question: "Give the correct form of the noun <latin>nāvis</latin> to agree with <latin>eārum</latin>"
+        answer: "NĀVIUM"
+  - tossup:
+      question: "Name the law of 287 BC which made <latin>plēbiscīta,</latin> or resolutions of the plebeians, legally binding"
+      answer: "<latin>LEX HORTENSIA</latin>"
+    boni:
+      - question: "What assembly of the plebeians was legalized by the <latin>lex Publilia</latin> in 471 BC?"
+        answer: "<latin>CONCILIUM PLEBIS (TRIBUTUM)</latin>"
+      - question: "Which of the assemblies of the people did the plebeians dominate?"
+        answer: "<latin>COMITIA TRIBUTA</latin>"
+  - tossup:
+      question: "The form <latin>Pompēiīs</latin> can be in what three different cases?"
+      answer: "DATIVE, ABLATIVE, AND LOCATIVE"
+    boni:
+      - question: "Using the locative case, say in Latin: at Laurentum"
+        answer: "<latin>LAURENTĪ</latin>"
+      - question: "Translate into Latin: They marched from Beneventum to Verona"
+        answer: "<latin>BENEVENTŌ</latin> <latin>VERŌNAM ITER FĒCĒRUNT / FACIĒBANT</latin>"
+  - tossup:
+      question: "What minor Greek deity had three sons, each of whom represented a different kind of dream? This god’s Roman name was Somnus"
+      answer: "HYPNOS"
+    boni:
+      - question: "Which of his sons did Hypnos send to Alcyone to report her husband’s shipwreck?"
+        answer: "MORPHEUS"
+      - question: "What goddess offered Hypnos a wife if he would put Zeus to sleep, thus allowing the Greeks to rout the Trojans?"
+        answer: "HERA (NOT JUNO)"
+  - tossup:
+      question: "What derivative of a Latin noun meaning ‘head’ is an English noun meaning “the falling of hail, snow, or rain”?"
+      answer: "PRECIPITATION / PRECIPITATE (the noun, any pronunciation)"
+    boni:
+      - question: "Using the same root again, what is the English derivative meaning “to bargain, negotiate, or surrender”?"
+        answer: "CAPITULATE"
+      - question: "What common Latin phrase, also incorporating that same Latin noun, is used in English to mean “for each person”?"
+        answer: "PER CAPITA"
+  - tossup:
+      question: "Which consul of 125 BC proposed that citizenship be granted to any of Rome’s allies that wanted it?"
+      answer: "(MARCUS) FULVIUS FLACCUS"
+    boni:
+      - question: "With what fellow tribune did Flaccus renew his proposal for Italian citizenship in 122 BC?"
+        answer: "GAIUS GRACCHUS"
+      - question: "What tribune was assassinated in 91 BC after proposing citizenship be extended to the Italian allies?"
+        answer: "(MARCUS) LIVIUS DRUSUS THE YOUNGER"
+  - tossup:
+      question: "What use of the Accusative case can be found in the following sentence: <latin>Servī</latin> <latin>decem hōrās labōrābant?</latin>"
+      answer: "DURATION / EXTENT OF TIME"
+    boni:
+      - question: "<latin>Mē</latin> <latin>augurem nōmināvērunt?</latin>"
+        answer: "PREDICATE (ACCUSATIVE) (Not a “Double Accusative”)"
+      - question: "<latin>Servī</latin> <latin>decem mīlia passuum ambulāverant?</latin>"
+        answer: "EXTENT OF SPACE"
+  - tossup:
+      question: "Which state’s motto would be “<latin>agricultūra et commercium</latin>”, if its motto were in Latin?"
+      answer: "TENNESSEE"
+    boni:
+      - question: "Which state has the motto <latin>nīl sine nūmine?</latin>"
+        answer: "COLORADO"
+      - question: "Which state has the motto <latin>rēgnat populus?</latin>"
+        answer: "ARKANSAS"
+  - tossup:
+      question: "In 164 B.C. the rebels led by brothers named the <latin>Macabeī</latin>, or Macabees, overthrew their Seleucid overlord and liberated WHAT middle-Eastern land which Rome later recognized as an ally in 161 B.C.?"
+      answer: "JUDAEA"
+    boni:
+      - question: "Who was this Seleucid overlord against whom the Macabees had rebelled?"
+        answer: "ANTIOCHUS (IV / EPIPHANES) - do not accept “The Great”"
+      - question: "What act by Antiochus provoked the rebellion?"
+        answer: "WORSHIP OF BAAL / DEDICATION OF (A YAWEH) TEMPLE TO BAAL / OLYMPIAN ZEUS"
+  - tossup:
+      question: "Using the verb <latin>saliō</latin>, say in Latin, “I have jumped.”"
+      answer: "<latin>SALUĪ</latin> <latin>/ SALIĪ</latin>"
+    boni:
+      - question: "Say in Latin, “We had jumped.”"
+        answer: "<latin>SALUERĀMUS / SALIERĀMUS</latin>"
+      - question: "Using the adjective “<latin>iūcundus</latin>”, say in Latin, “Jumping is fun.”"
+        answer: "<latin>SALĪRE IŪCUNDUM EST</latin>"
+  - tossup:
+      question: "Please do not open your visuals until you are instructed to do so.   You may open your visuals.  Examine these scenes from the adventures of Aeneas for ten seconds.  Give the number and an explanation of the picture which illustrates a prophecy that Helenus gave to Aeneas"
+      answer: "PICTURE #1; AENEAS WAS DESTINED TO BUILD HIS CITY/NEW HOMELAND WHERE HE SAW THIS (WHITE SOW WITH 30 NEWBORN PIGLETS)"
+    boni:
+      - question: "Look at picture #3 which shows young Ascanius joking about what Aeneas and his men are doing. What prophecy had someone in picture #2 made that is being fulfilled in picture #3?"
+        answer: "(THE HARPY CELAENO HAD PREDICTED THAT) AENEAS AND HIS MEN WOULD BE SO <emphasis>HUNGRY</emphasis> THAT THEY WOULD <emphasis>EAT THEIR TABLES</emphasis> (AND NOT FOUND HIS NEW CITY BEFORE THIS HAPPENED)"
+      - question: "Who is the Italian woman in picture #4?"
+        answer: "CAMILLA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quattuor puerī, quōrum māter erat mortua, miserrimī</latin> <latin>erant .</latin>"
+      answer: "THE FOUR BOYS, WHOSE MOTHER WAS DEAD / HAD DIED, WERE VERY SAD"
+    boni:
+      - question: "<latin>Gladiātōrēs, quī</latin> <latin>in amphitheātrō</latin> <latin>pugnābant, quattuor elephantōs interficiēbant.</latin>"
+        answer: "THE GLADIATORS, WHO WERE FIGHTING / FOUGHT IN THE AMPHITHEATER, KILLED / WERE KILLING FOUR ELEPHANTS"
+      - question: "<latin>Dōnum, quod puellae pulcherrimae dederās, erat ānulus.</latin>"
+        answer: "THE GIFT, WHICH YOU HAD GIVEN TO A VERY PRETTY GIRL, WAS A RING"
+  - tossup:
+      question: "What goddess laid with Iasion in a thrice-plowed field at the marriage of Cadmus and Harmonia?"
+      answer: "DEMETER"
+    boni:
+      - question: "What happened to Iasion as a result of this liaison?"
+        answer: "KILLED BY ZEUS (WITH A THUNDERBOLT)"
+      - question: "What brother of Iasion was regarded as the first ancestor of the Trojans?"
+        answer: "DARDANUS"
+  - tossup:
+      question: "During the Roman monarchy, whose glorious and potentially royal future was recognized when a queen told her household slaves not to extinguish the crown of flames that had appeared around his head?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was this prophetic queen?"
+        answer: "TANAQUIL"
+      - question: "Who hired two shepherds to stage a fictitious argument in the palace and assassinate Tanaquil’s husband, Tarquinius Priscus?"
+        answer: "THE SONS OF ANCUS MARCIUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Postquam deī</latin> <latin>Olympiī</latin> <latin>Titānōs superāvērunt, Iuppiter aliīs deīs dīxit. “Plūtō” inquit, “mī</latin> <latin>frāter, tū</latin> <latin>in Tartarō</latin> <latin>obscūrō</latin> <latin>sub terrā</latin> <latin>rēgnābis et Cerberus, canis trīceps, iānuam Tartarī</latin> <latin>semper custōdiet. Et tū, Mercurī, mortuōs ad rīpam flūminis dūcēs.” Sīc factum est.</latin>  Question: Ā <latin>quō</latin> <latin>iānua Tartarī</latin> <latin>custōdiētur?</latin>"
+      answer: "(Ā) CERBERŌ <latin>/ CANE TRĪCIPĪ</latin>"
+    boni:
+      - question: "<latin>Vērum aut falsum: Titānīs superātīs, Iuppiter iussit Mercurium mortuōs ad rīpam flūminis dūcere</latin>"
+        answer: "VĒRUM"
+      - question: "<latin>Quid faciet Plūtō</latin> <latin>sub terrā?</latin>"
+        answer: "RĒGNĀBIT / <latin>RĒGET</latin>"
+  - tossup:
+      question: "What mythological couple was punished for making love in a temple of Rhea by being turned into lions?"
+      answer: "ATALANTA AND HIPPOMENES / MELANION"
+    boni:
+      - question: "What goddess, offended when Hippomenes failed to give her thanks for her help, had inspired the lovers to do this?"
+        answer: "APHRODITE (RHEA IS GREEK, SO VENUS IS NOT ACCEPTABLE)"
+      - question: "What help had Aphrodite given to Hippomenes?"
+        answer: "SHE GAVE HIM THREE GOLDEN APPLES (FOR HIM TO USE IN A FOOTRACE)"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: Carpe diem, quam minimum crēdulā</latin> <latin>posterō. Quae pars ōrātiōnis est “diem”?</latin>"
+      answer: "NŌMEN"
+    boni:
+      - question: "<latin>“Diem”, quō</latin> <latin>cāsū</latin> <latin>est?</latin>"
+        answer: "ACCUSĀTĪVŌ"
+      - question: "<latin>“Carpe”, cuius numerī</latin> <latin>est?</latin>"
+        answer: "SINGULĀRIS"
+  - tossup:
+      question: "Which of these was farthest west in the Roman empire: Tarraconensis, Cappadocia, Calabria, or Pannonia?"
+      answer: "TARRACONENSIS"
+    boni:
+      - question: "Which of these was farthest east in the Roman empire: Libya, Moesia, Galatia, or Dacia?"
+        answer: "GALATIA"
+      - question: "Which of these was farthest south in the Roman empire: Libya, Armenia, Sequania, or Lusitania?"
+        answer: "LIBYA"
+  - tossup:
+      question: "What son of Zeus founded Mycenae in the Argolid?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What son of Zeus and the Pleiad Taygete founded Sparta?"
+        answer: "LACEDAEMON"
+      - question: "What town was founded by, and named after, the child of Pygmalion and Galatea?"
+        answer: "PAPHOS / PAPHIS"
+  - tossup:
+      question: "Translate the following sentence into Latin: I am not crazy, am I?"
+      answer: "<latin>NUM (EGO) SUM ĪNSĀNUS (-A)?</latin>"
+    boni:
+      - question: "This contest is more difficult than that one, isn’t it?"
+        answer: "<latin>NŌNNE HOC CERTĀMEN DIFFICILIUS EST ILLŌ</latin> <latin>/ QUAM ILLUD</latin>"
+      - question: "Why are you sparing us students?"
+        answer: "<latin>CŪR NŌBĪS DISCIPULĪS / STUDENTIBUS PARCIS / PARCITIS?</latin> <latin>2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>  <latin>FINALS</latin>"
+  - tossup:
+      question: "In order, name the first three labors of Herakles"
+      answer: "NEMEAN LION, (LERNAEAN) HYDRA, ERYMANTHIAN BOAR"
+    boni:
+      - question: "Name the fourth, fifth, and sixth labors of Herakles, not necessarily in order"
+        answer: "CERYNEAN/CERYNITIAN HIND, AUGEAN STABLES, STYMPHALIAN BIRDS"
+      - question: "Within what geographical region did the first six labors of Herakles take place?"
+        answer: "THE PELOPONNESUS (PROMPT FOR INFORMATION ON GREECE)"
+  - tossup:
+      question: "Who was killed in January of 52 BC when two rival groups of political hooligans, one of which supported him, clashed in the streets of Rome?"
+      answer: "(PUBLIUS) CLODIUS (PULCHER)"
+    boni:
+      - question: "Into which public building did a mob, egged on by Clodius’ widow Fulvia, carry his body for cremation?"
+        answer: "THE SENATE HOUSE/ CURIA"
+      - question: "Who was elected as sole consul in 52 BC to restore order in the city?"
+        answer: "POMPEY / (<latin>GNAEUS</latin>) <latin>POMPĒIUS</latin> (<latin>MAGNUS</latin> / THE GREAT)"
+  - tossup:
+      question: "Complete this analogy: <latin>nōmen : nōminum :: ignis : _____</latin>"
+      answer: "IGNIUM"
+    boni:
+      - question: "<latin>nōmen : nōminum :: manus : _____</latin>"
+        answer: "MANUUM"
+      - question: "<latin>nōmen : nōminum :: vīs : _____</latin>"
+        answer: "VĪRIUM"
+  - tossup:
+      question: "Using the Ablative case, translate the following sentence into Latin: The dog was running with great speed"
+      answer: "<latin>CANIS MAGNĀ</latin> <latin>(CUM) CELERITĀTE CURRĒBAT</latin>"
+    boni:
+      - question: "Using the Ablative case, translate this sentence: The farmer was killed by the swords of the soldiers"
+        answer: "<latin>AGRICOLA GLADIĪS MĪLITUM NECĀTUS / INTERFECTUS / CAESUS EST</latin>"
+      - question: "Using <latin>doceō</latin>, translate this sentence: The teacher was teaching many things to the students"
+        answer: "<latin>MAGISTER / MAGISTRA MULTA DISCIPULŌS DOCĒBAT</latin>"
+  - tossup:
+      question: "At a Roman public bath, what was the purpose for the room called a <latin>lacōnicum</latin>?"
+      answer: "SWEAT BATH / SWEAT ROOM / SAUNA"
+    boni:
+      - question: "What was the purpose of the room called an <latin>unctōrium</latin>?"
+        answer: "ANOINTING / APPLYING (AND REMOVING) OIL"
+      - question: "At the baths, what was the job of a slave called a <latin>capsārius</latin>?"
+        answer: "HE BROUGHT OIL AND SCRAPERS (AND TOWELS)"
+  - tossup:
+      question: "What use of the Dative case can be found in the following sentence: <latin>Est mihi magna vīlla Rōmae?</latin>"
+      answer: "POSSESSION"
+    boni:
+      - question: "<latin>Coriolānus multīs mīlitibus praeerat?</latin>"
+        answer: "WITH COMPOUND VERB / SPECIAL VERB <latin>PRAESUM</latin>"
+      - question: "<latin>Meī</latin> <latin>discipulī</latin> <latin>sunt cāriōrēs mihi quam vīta?</latin>"
+        answer: "WITH SPECIAL ADJECTIVE <latin>CĀRUS</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Lutetia erat fēmina magnae pulchritūdinis sed minimae prūdentiae, cui cīvēs semper favēbant. Illa autem in convīviīs semper nimium vīnī</latin> <latin>bibere volēbat. Quondam, ubi ebria in currū</latin> <latin>suō</latin> <latin>inventa erat, ad iudicem missa est. Iudex Lutetiam flentem in carcerem coniēcit cum hīs verbīs: “Nōlī, stulta puella, umquam bibere et currum agere!”</latin>  Question: What did Lutetia always want to do?"
+      answer: "DRINK TOO MUCH WINE AT (DINNER) PARTIES"
+    boni:
+      - question: "Why was she sent before a judge?"
+        answer: "SHE HAD BEEN FOUND DRUNK IN HER CHARIOT"
+      - question: "Translate the judge’s advice"
+        answer: "“STUPID GIRL, DON’T EVER DRINK AND DRIVE YOUR CHARIOT!”"
+  - tossup:
+      question: "Of the following, which did not fight on the same side as the others in the Trojan War? Asius, Deiphobus, Meriones, Hector"
+      answer: "MERIONES"
+    boni:
+      - question: "Meriones was a lieutenant of which Greek king?"
+        answer: "IDOMENEUS"
+      - question: "What contest did Meriones win at the funeral games of Patroclus?"
+        answer: "ARCHERY"
+  - tossup:
+      question: "When recognized by the spotter, perform the following Latin command: <latin>Dīc Anglicē,</latin> “<latin>Vōs omnēs posterō</latin> <latin>annō</latin> <latin>vidēbō</latin>.”"
+      answer: "ONE STUDENT SHOULD SAY IN ENGLISH THAT HE WILL SEE EVERYONE NEXT YEAR"
+    boni:
+      - question: "<latin>Dīc Anglicē, “Quinque annīs Certāmen Tōtīus Mundī</latin> <latin>lūdam.”</latin>"
+        answer: "ONE STUDENT SHOULD SAY IN ENGLISH THAT HE WILL PLAY IN THE WORLD SERIES OF CERTAMEN (WITH)IN FIVE YEARS"
+      - question: "<latin>Dīcite Anglicē, “Nōs decem annīs optimī</latin> <latin>magistrī</latin> <latin>Linguae Latīnae fī</latin><latin>ēmus.”</latin>"
+        answer: "MORE THAN ONE STUDENT WILL SAY THAT THEY WILL (ALL) BECOME VERY GOOD / THE BEST LATIN TEACHERS (WITH)IN TEN YEARS"
+  - tossup:
+      question: "Give an antonym of <latin>plēnus</latin>"
+      answer: "INĀNIS, VACUUS"
+    boni:
+      - question: "Give an antonym of <latin>āter.</latin>"
+        answer: "<latin>SPLENDIDUS, NŌTUS, CANDIDUS</latin>, <latin>ALBUS</latin>, <latin>NIVEUS</latin>"
+      - question: "Give an antonym of <latin>amō</latin>"
+        answer: "DĒSPICI<latin>Ō,</latin> <latin>ŌDĪ(SSE)</latin>"
+  - tossup:
+      question: "Who visited Odysseus’ court at Ithaca disguised as the sailor Mentes, and spoke with Telemachus?"
+      answer: "ATHENA"
+    boni:
+      - question: "Whose form did Athena take later to advise Telemachus to seek news of his father in Sparta and Pylos?"
+        answer: "MENTOR"
+      - question: "To whom did Odysseus first choose to reveal his true identity upon his return to Ithica?"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "What English adjective meaning “overweight” gets its root from a Latin verb meaning “eat”?"
+      answer: "OBESE"
+    boni:
+      - question: "What English synonym of “obese” derives from a 3rd declension neuter noun?"
+        answer: "CORPULENT"
+      - question: "What English adjective derived from the same Latin verb as “devouring” means “craving large quantities of food”?"
+        answer: "VORACIOUS"
+  - tossup:
+      question: "Which of the following cities was NOT located on an island? Syracusae, Eboracum, Cnossus, Lilybaeum, MEDIOLANUM, Messana"
+      answer: "3 & SYRACUSAE, LILYBAEUM, MESSANA (ALL ON SICILY)"
+    boni:
+      - question: "Listen to those cities again - Syracusae, Eboracum, Cnossus, Lilybaeum, Mediolanum, Messana. How many of them were located on the same island, and which ones were they?"
+        answer: "3 & SYRACUSAE, LILYBAEUM, MESSANA (ALL ON SICILY)"
+      - question: "Which of the cities listed in the tossup was farthest north?"
+        answer: "EBORACUM (IN BRITANNIA)"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quī</latin> <latin>marītus et uxor Iovī</latin> <latin>Mercuriōque placēbant, novum templum hīs deīs custōdiēbant, et tum post multōs annōs, ubi mortuī</latin> <latin>sunt, arborēs quercus et tīlia factī</latin> <latin>sunt?</latin>"
+      answer: "BAUCIS AND PHILEMON or <latin>BAUCIS ET PHILĒMŌ(N)</latin>"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>Latīnē: Quot vīcīnī</latin> <latin>Baucidis et Philēmōnis iānuās Iovī</latin> <latin>Mercuriōque aperuērunt?</latin>"
+        answer: "NĒMŌ / <latin>NŪLLUS</latin> / <latin>NŪLLĪ</latin>"
+      - question: "<latin>Respondē</latin> <latin>Anglicē: Ubi Baucis et Philēmōn servātī</latin> <latin>erant, quō</latin> <latin>modō</latin> <latin>Iuppiter cēterōs incolās necāvit?</latin>"
+        answer: "A FLOOD"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Ancillae, ā</latin> <latin>dominō</latin> <latin>vituperātae, lacrimāre coepērunt.</latin>"
+      answer: "THE SLAVE GIRLS, (HAVING BEEN) CURSED BY THE MASTER, BEGAN TO CRY"
+    boni:
+      - question: "<latin>Manus mīlitum, ā</latin> <latin>rēge missa, ad pontem contendērunt.</latin>"
+        answer: "A BAND OF SOLDIERS, (HAVING BEEN) SENT BY THE KING, HURRIED TO THE BRIDGE"
+      - question: "<latin>Nautae, inter sē</latin> <latin>pugnantēs, saxum in undīs nōn vīdērunt.</latin>"
+        answer: "THE SAILORS, (WHILE) FIGHTING AMONG THEMSELVES, DID NOT SEE THE ROCK UNDER THE WAVES"
+  - tossup:
+      question: "Please do not open your visuals until you are instructed to do so.   You may open your visuals.  Study these imperials busts for ten seconds.  Identify by letter and name the emperor depicted here that was neither father nor brother to any of the others in this picture and was a member of the Julio-Claudian dynasty"
+      answer: "A - NERO"
+    boni:
+      - question: "Identify by letter and name the person who served as viceregent in Rome while awaiting the arrival of his father who had been proclaimed emperor"
+        answer: "D - DOMITIAN"
+      - question: "You are about to receive a second visual to use in conjunction with the first visual.  Identify by letter and name the emperor in the first visual who oversaw the construction of the arch in the second visual"
+        answer: "D - DOMITIAN"
+  - tossup:
+      question: "What are the singular and plural present active imperatives for the following four verbs? <latin>ferō, faciō, dīcō, dūcō</latin>"
+      answer: "FER / <latin>FERTE FAC</latin> / <latin>FACITE</latin>  <latin>DĪC</latin> / <latin>DĪCITE</latin>  <latin>DŪC</latin> / <latin>DŪCITE</latin>"
+    boni:
+      - question: "Give the singular and plural present active imperatives for the verb <latin>cōnficiō</latin>"
+        answer: "<latin>CŌNFICE</latin> & <latin>CŌNFICITE</latin>"
+      - question: "Give the singular and plural present active imperatives for the verb <latin>cōnferō</latin>"
+        answer: "<latin>CŌNFER</latin> & <latin>CŌNFERTE</latin>"
+  - tossup:
+      question: "In which city did Hadrian erect a shrine to Jupiter Capitolinus that precipitated a rebellion led by Simon Bar Kokhba?"
+      answer: "JERUSALEM"
+    boni:
+      - question: "After quelling the rebellion, what new name did Hadrian give to Jerusalem?"
+        answer: "AELIA CAPITOLINA"
+      - question: "During his travels, in which city did the emperor Hadrian do the following: established a suburban town called Hadrianopolis, erected a great temple called the Panhellenion, built a gymnasium and library, and dedicated a huge temple to Olympian Zeus?"
+        answer: "ATHENS"
+  - tossup:
+      question: "Translate the motto of Johns Hopkins University: <latin>vēritās vōs līberābit</latin>?"
+      answer: "THE TRUTH WILL SET YOU FREE"
+    boni:
+      - question: "What is the meaning of the motto of Hunter College: <latin>mihi cūra futūr</latin><latin>ī?</latin>"
+        answer: "MY ANXIETY IS FOR THE FUTURE"
+      - question: "What is the meaning of the motto of the University of Oregon: <latin>mēns agitat molem</latin>?"
+        answer: "MIND MOVES THE MASS"
+  - tossup:
+      question: "What twin brothers ruled Thebes together amicably?"
+      answer: "ZETHUS AND AMPHION"
+    boni:
+      - question: "Who was their mother, who was seduced by Zeus in the form of a satyr?"
+        answer: "ANTIOPE"
+      - question: "Zethus renamed the city for his wife Thebe. What was Thebes called before then?"
+        answer: "CADMEIA"

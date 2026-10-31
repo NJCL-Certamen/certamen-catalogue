@@ -1,0 +1,173 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Listen to the following Latin story that involves whirlpools, vorāginēs, which I will read twice, and answer in ENGLISH the question that follows: \tMulta perīcula nautīs impendent, sīcut saxa, quibus nāvēs franguntur, vorāginēs, in quās nāvēs dēmerguntur, et praedōnēs maritimī, quī nāvēs persequuntur ut mercēs et pecūniam rapiant nautāsque occīdant.  (reread)"
+      answer: ""
+    boni:
+      - question: "For what two reasons do pirates chase ships?"
+        answer: "TO TAKE MONEY / GOODS AND KILL THE SAILORS"
+      - question: "What problem is posed by rocks?"
+        answer: "SHIPS ARE BROKEN UP ON THEM / THEY DESTROY SHIPS"
+  - tossup:
+      question: "“Then came the ghost of the Theban, holding his golden scepter, and I recognized him and spoke to him.” These lines from Book 11 of the <title>Odyssey</title> describe what seer, who tells Odysseus of his future wanderings?"
+      answer: "T(E)IRESIAS"
+    boni:
+      - question: "The ghost of what crewman of Odysseus is the first to approach him in the Underworld?"
+        answer: "ELPENOR"
+      - question: "The ghost of Odysseus’ mother next approaches him. Name her."
+        answer: "ANTICLEIA"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē: Quot sunt bis septem?</latin>"
+      answer: "<latin>QUATTUORDECIM</latin>"
+    boni:
+      - question: "<latin>Quot sunt ter sex?</latin>"
+        answer: "<latin>DUODĒVIGINTĪ / OCTŌDECIM</latin>"
+      - question: "<latin>Quot sunt deciēns decem?</latin>"
+        answer: "<latin>CENTUM</latin>"
+  - tossup:
+      question: "Translate into Latin: “Let her drink!”"
+      answer: "<latin>BIBAT</latin>"
+    boni:
+      - question: "What use of the subjunctive is illustrated by that sentence?"
+        answer: "JUSSIVE / HORTATORY / VOLITIVE"
+      - question: "Translate this sentence into English: <latin>Aemilia bibat aquam ut vīvat.</latin>"
+        answer: "LET EMILY / AEMILIA DRINK WATER SO THAT SHE MAY LIVE"
+  - tossup:
+      question: "What kind of Roman magistrate, whose number grew until there were 20 in Cicero’s time, had the duty of administering Rome’s <latin>aerārium</latin>?"
+      answer: "<latin>QUAESTOR</latin>"
+    boni:
+      - question: "The number of quaestors was not random.  What was their number linked to?"
+        answer: "THE NUMBER OF PROVINCES (GOVERNED BY ROME)"
+      - question: "Which assembly elected the quaestors?"
+        answer: "<latin>COMITIA TRIBŪTA</latin> / TRIBAL ASSEMBLY"
+  - tossup:
+      question: "Listen carefully to the following Latin passage that involves a <latin>lacerta</latin> or “lizard,” which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow.   \t<latin>Ursa lacertae maximae dīxit sē trēs ursulōs domī habēre, quī eam expectārent et quōs cūrāre dēbēret. Tum reversa est et domum prōgressa est, dīcēns lacertae, “tē vidēbō posteā, lacerta!”</latin>    <title>REPEAT</title>  The question:  <latin>Quī ursam domī expectābant?</latin>"
+      answer: "<latin>(TRĒS) URSULĪ / LIBERĪ</latin>"
+    boni:
+      - question: "<latin>Quō ambulāvit ursa?</latin>"
+        answer: "<latin>DOMUM / AD URSULŌS</latin>"
+      - question: "<latin>Dīc Anglicē id quod ursa discēdēns lacertae maximae dīxit.</latin>"
+        answer: "(I WILL) SEE YOU LATER, ALLIGATOR / LIZARD  <latin>---</latin>"
+  - tossup:
+      question: "Which two of the following words are derived from the same Latin root: present, imperfect, future, and imperative?"
+      answer: "PRESENT & FUTURE"
+    boni:
+      - question: "Give the ultimate Latin root and its meaning of “present” and “future”?"
+        answer: "<latin>SUM</latin> – TO BE"
+      - question: "Give the ultimate Latin root and its meaning of “imperfect”."
+        answer: "<latin>FACIŌ</latin> – TO DO / MAKE"
+  - tossup:
+      question: "What Roman military disaster, engineered by a Cheruscan auxiliary commander, forced Augustus to abandon plans for extending the Roman frontier to the Elbe and to lose sleep many nights while he mourned the loss of his three legions?"
+      answer: "TEUTOBURG FOREST // TEUTOBURGER WALD // <latin>SALTUS TEUTOBURGIENSIS</latin>"
+    boni:
+      - question: "Who was the head of the Cherusci who was able to lead a Roman army into difficult country and slaughter them?"
+        answer: "ARMINIUS / HERMAN (THE GERMAN)"
+      - question: "Who was the Roman commander at the <latin>Saltus Teutoburgiensis</latin> who took his own life?"
+        answer: "(P. QUIN(C)TILIUS) VARUS"
+  - tossup:
+      question: "What king of Elis reneged on his promise to give Heracles one-tenth of his herd of cattle after the hero cleaned the muck out of his stables?"
+      answer: "AUGE(I)AS"
+    boni:
+      - question: "In what clever way did Heracles clean the stables?"
+        answer: "DIVERTED (TWO) RIVERS (ALPHEIUS AND PENEIUS, TO DO THE WORK)"
+      - question: "What later labor of Heracles, his tenth, also involved livestock?"
+        answer: "CATTLE OF GERYON"
+  - tossup:
+      question: "Using the verb <latin>iubeō</latin>, say “I was being ordered” in Latin."
+      answer: "<latin>IUBĒBAR</latin>"
+    boni:
+      - question: "Now, using the verb <latin>iubeō,</latin> say, “they were being ordered.”"
+        answer: "<latin>IUBĒBANTUR</latin>"
+      - question: "Now, using the verb <latin>iubeō,</latin> say, “they had been ordered.”"
+        answer: "<latin>IUSSI/-AE/-A ERANT</latin>"
+  - tossup:
+      question: "If the Latin verb used for this sentence is <latin>sunt</latin>, translate the pronoun into Latin for the sentence, “How many cats do you have?”"
+      answer: "<latin>TIBI / VŌBĪS</latin>"
+    boni:
+      - question: "Now translate the full sentence into Latin still using <latin>sunt</latin>, “How many cats do you have?”"
+        answer: "<latin>QUOT FĒLĒS TIBI / VŌBĪS SUNT?</latin>"
+      - question: "Now say in Latin, “I hear that you have many cats.”"
+        answer: "<latin>AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE //</latin> <latin>AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE</latin>  <latin>---</latin>"
+  - tossup:
+      question: "Who, at a banquet thrown by Tantalus, obliviously ate a piece of Pelops’ shoulder, because she was still grieving the death of her daughter Persephone?"
+      answer: "DEMETER"
+    boni:
+      - question: "Distraught, Demeter replaced Pelops’ shoulder with a new one, made from what material?"
+        answer: "IVORY"
+      - question: "Later in his life, Pelops found his wife, Hippodameia, by winning what kind of race with the help of Myrtilus?"
+        answer: "CHARIOT (RACE)"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Puerī, quorum pater Mars erat, ā mātre relictī sunt.</latin>"
+      answer: "THE BOYS, WHOSE FATHER WAS MARS,  WERE LEFT (BEHIND) / ABANDONED BY THEIR MOTHER."
+    boni:
+      - question: "Translate into Latin: “The wolves, who were near the river, had heard the brothers.”"
+        answer: "<latin>LUPĪ, QUĪ PROPE RĪVUM</latin> / <latin>FLŪMEN ERANT, FRATRES AUDĪVĒRANT</latin>"
+      - question: "Translate this sentence into English: <latin>Urbs, quam ūnus ex puerīs aedificāvit, Alba Longa erat.</latin>"
+        answer: "THE CITY, WHICH ONE OF THE BOYS BUILT, WAS ALBA LONGA"
+  - tossup:
+      question: "Who held seven successive consulships, wore the dress of a <latin>triumphātor</latin> even in the senate, and became <latin>censor perpetuus</latin> in 84 or 85 AD, which gave him the power to reshape the senate as he wanted, though he relied more heavily on his <latin>consilium principis</latin>, thus exacerbating the absolutist tendencies of his father, Vespasian?"
+      answer: "(T. FLAVIUS) DOMITIAN(US)"
+    boni:
+      - question: "Whose rebellion at Moguntiacum, though easily put down, made Domitian even more paranoid and dangerous in the later years of his rule?"
+        answer: "(L. ANTONIUS) SATURNINUS’"
+      - question: "Even before Saturninus’ rebellion, Domitian was plagued with jealousy of his commanders.  What governor of Britain did he recall in 84 AD after his victories in Scotland?"
+        answer: "(CN. IULIUS) AGRICOLA"
+  - tossup:
+      question: "Which of the following verbs does not belong because of conjugation: <latin>audiō, ulcīscor, gradior, capiō</latin>?"
+      answer: "<latin>AUDIŌ</latin>"
+    boni:
+      - question: "Which of the following verbs does not belong because of conjugation: <latin>iactō, vendō, quassō, tractō</latin>?"
+        answer: "<latin>VENDŌ</latin>"
+      - question: "Which of the following verbs does not belong because of conjugation: <latin>petō, cernō, pellō, iuvō</latin>?"
+        answer: "<latin>IUVŌ</latin>"
+  - tossup:
+      question: "Apollo put the lament <title>ai ai</title> on the flower that sprang up after the death of which of his lovers, who was killed by a discus?"
+      answer: "HYACINTH(US)"
+    boni:
+      - question: "In Ovid’s account, Hyacinthus perished in a tragic accident, but some writers claimed that what god of the west wind blew the discus off course?"
+        answer: "ZEPHYR(US) / FAVONIUS"
+      - question: "In yet another version, what bard, the son of Philammon and the nymph Argiope, became the first man to love another man when he became infatuated with Hyacinthus?"
+        answer: "THAMYRIS  <latin>---</latin>"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē: Quī dux Rōmānus, duōbus in Hispāniā victīs Hasdrubālibus, ad Africam vectus est ad Hannibālem dēmum pugnandum Zamae</latin>?"
+      answer: "<latin>(P. CORNELIUS) SCĪPIO AFRICĀNUS (MĀIOR)</latin>"
+    boni:
+      - question: "<latin>Responde aut Anglice aut Latīnē: Dīc mihi nōmen ūnīus ē patribus Hasdrubalium ā Scīpiōne victōrum?</latin>"
+        answer: "HAMILCAR (BARCA) <latin>/</latin> GISCO / GISGO"
+      - question: "<latin>Respondē Latīnē: Zamae quālibus copiīs praeerat Masinissa?</latin>"
+        answer: "<latin>EQUITIBUS / EQUIĪS</latin>"
+  - tossup:
+      question: "Now that you all are Intermediate players, you are no longer Certamen amateurs.  From what Latin verb, with what meaning, do we derive “amateur”?"
+      answer: "<latin>AMŌ</latin> – LOVE"
+    boni:
+      - question: "Give the Latin verb at the root of “Certamen” and its meaning."
+        answer: "<latin>CERTŌ</latin> – CONTEND / FIGHT / STRUGGLE"
+      - question: "Give the Latin verb at the root of “deride” and its meaning."
+        answer: "<latin>RĪDEŌ</latin> - LAUGH / SMILE"
+  - tossup:
+      question: "Complete the following geographical analogy: <latin>Bonōnia</latin> : Bologna :: <latin>Eborācum</latin> : [<emphasis>blank</emphasis>]"
+      answer: "YORK"
+    boni:
+      - question: "What modern city was once called <latin>Aquincum</latin>?"
+        answer: "BUDAPEST"
+      - question: "What modern city was once called <latin>Colōnia Claudia Ara Agrippinensium</latin>?"
+        answer: "COLOGNE"
+  - tossup:
+      question: "Depending on punctuation, the letters vs can mean a number of things. What is the Latin and English of <latin>vs.</latin>?"
+      answer: "<latin>VERSUS</latin> - AGAINST"
+    boni:
+      - question: "What is the Latin and English of <latin>v.s.</latin>? The phrase is found in citations when it is used in this way."
+        answer: "<latin>VIDĒ SUPRĀ</latin> - LOOK ABOVE"
+      - question: "What abbreviation functions as the antonym of <latin>v.s.</latin> and means “look below?”"
+        answer: "<latin>V.I. (VIDĒ INFRĀ</latin>)  <latin>---</latin>"
+  - tossup:
+      question: "When the Argonauts stopped in Mysia, whose youthful beauty led the nymphs at the spring of Pegae to kidnap him, and caused his lover, Heracles, to go mad?"
+      answer: "HYLAS"
+    boni:
+      - question: "What twin Argonautic brothers convinced the Argonauts to sail on without Hylas and Heracles?"
+        answer: "ZETES AND CALAÏS // THE BOREADES"
+      - question: "What aged Argonaut was also left behind in Mysia, where he founded the city of Cius?"
+        answer: "POLYPHEMUS"

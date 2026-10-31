@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What name did the Romans give to the spur of land which stretches from the Palatine toward the spur of the Esquiline?"
+      answer: "<title>VELIA</title>"
+    boni:
+      - question: "What temple did Hadrian build on the <title>velia</title>?"
+        answer: "TEMPLE OF VENUS AND ROME"
+      - question: "Whose triumphal arch still crowns the <title>velia</title>?"
+        answer: "TITUS’"
+  - tossup:
+      question: "What is the gender of the Latin nouns <latin>ulmus, Alpēs,</latin> and <latin>vulpēs?</latin>"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of the Latin nouns <latin>Sulmō, acanthus,</latin> and <latin>opalus?</latin>"
+        answer: "MASCULINE"
+      - question: "What is the gender of the Latin nouns <latin>rōbur, papāver, acer?</latin>"
+        answer: "NEUTER"
+  - tossup:
+      question: "Who was the father of Jocasta?"
+      answer: "MENOECEUS"
+    boni:
+      - question: "According to Sophocles, why did Jocasta commit suicide?"
+        answer: "BECAUSE SHE LEARNED THAT SHE HAD MARRIED HER OWN SON"
+      - question: "According to Euripides, why did Jocasta commit suicide?"
+        answer: "BECAUSE SHE LEARNED THAT HER TWO SONS HAD KILLED EACH OTHER"
+  - tossup:
+      question: "Differentiate in meaning between <latin>immānis</latin> and <latin>immūnis</latin>."
+      answer: "<latin>IMMĀNIS</latin> - LARGE, VAST, SAVAGE, MONSTROUS, BRUTAL, FRIGHTFUL; <latin>IMMŪNIS</latin> - IMMUNE, EXEMPT, WITH NO PUBLIC OBLIGATION, FREE FROM OFFICE, FREE OF COST, NOT PAYING ONES SHARE"
+    boni:
+      - question: "Differentiate in meaning between <latin>fīrmē</latin> and <latin>fermē</latin>."
+        answer: "<latin>FĪRMĒ</latin> - FIRMLY, STRONGLY, POWERFULLY; <latin>FERMĒ</latin> - ALMOST, NEARLY, USUALLY"
+      - question: "Differentiate in meaning between <latin>rigō</latin> and <latin>rigeō</latin>."
+        answer: "<latin>RIGŌ</latin> - WATER, MOISTEN, LEAD, DIRECT, CONDUCT; <latin>RIGEŌ</latin> - BE STIFF, BRISTLE, HARDEN"
+  - tossup:
+      question: "In which of Plautus’ plays does he mention the imprisonment of Gnaeus Naevius?"
+      answer: "<title><latin>CAPTIVI</latin></title>"
+    boni:
+      - question: "In which of Plautus’ plays was the prologue spoken by the <title>Lar Familiaris</title>?"
+        answer: "<title><latin>AULULARIA</latin></title>"
+      - question: "Give the Latin titles of the two Plautine plays on which Shakespeare’s <title>A Comedy of Errors</title> is based"
+        answer: "<title><latin>MENAECHMI & AMPHITRUO</latin></title>"
+  - tossup:
+      question: "Translate the following sentence into Latin: what is there which cannot be accomplished?"
+      answer: "<latin>QUID EST QUOD PERFICĪ/EFFICĪ/PATRĀRĪ/CŌNFICĪ/FIERĪ NŌN POSSIT</latin>"
+    boni:
+      - question: "Without using an infinitive, translate the following sentence into Latin: Marcus fears that his sister is dead"
+        answer: "<latin>MARCUS VERĒTUR/TIMET/METUIT NĒ (SUA) SOROR MORTUA SIT</latin>"
+      - question: "Translate the following sentence into standard Latin prose: Livia used the knife to cut the meat more easily"
+        answer: "<latin>LIVIA CULTRŌ</latin>"
+  - tossup:
+      question: "What didactic poem was said to have been written <latin>per intervalla insaniae</latin> caused by a love potion?"
+      answer: "<title><latin>DE RERUM NATURA</latin></title>"
+    boni:
+      - question: "Whose translation of the <title><latin>Chronicon</latin></title> of Eusebius gives us the most extensive biographical information on Lucretius?"
+        answer: "(SOPHRONIUS EUSEBIUS) HIERONYMUS / (ST.) JEROME"
+      - question: "Who is said to have edited the <title><latin>De Rerum Natura</latin></title> after Lucretius’ death?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "Supply the correct form of <latin>laus</latin> to complete the following sentence: <latin>mīlitēs Caesaris cupidī _____ sunt</latin>"
+      answer: "LAUDIS / <latin>LAUDUM</latin>"
+    boni:
+      - question: "Supply the correct form of <latin>leō</latin> to complete the following sentence: <latin>Aurelius obvius _____ erat dum in silvīs vagātur</latin>"
+        answer: "LEŌNĪ <latin>/ LEŌNIBUS</latin>"
+  - tossup:
+      question: "According to Hesiod’s <title>Theogony</title>, what river in the Underworld was the oldest of the children of Oceanus and Tethys?"
+      answer: "STYX"
+    boni:
+      - question: "Which of the offspring of Styx was the personification of “victory”?"
+        answer: "NIKE"
+      - question: "Which of the offspring of Styx was the personification of “zeal”?"
+        answer: "ZELUS"
+  - tossup:
+      question: "Which Roman king was the son of Ocrisia, a Latin captive?"
+      answer: "<emphasis>SERVIUS</emphasis> TULLIUS"
+    boni:
+      - question: "In whose household was Servius Tullius raised?"
+        answer: "TARQUINIUS PRISCUS’ (or TANAQUIL’S, his wife)"
+      - question: "Servius conducted the first census and reorganized the Romans on what basis?"
+        answer: "WEALTH/PROPERTY"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer in LATIN the question about it: <latin>Bellum, māximē omnium memorābile quae umquam gesta sunt, est Bellum Pūnicum Secundum, quod, Hannibale dūce, Carthāginiēnsēs cum populō Rōmānō gessēre. Numquam ūllae cīvitātēs aut gentēs validiōrēs vīribus inter sē contūlerant arma. Quod bellum est māximē memorābile omnium?</latin>"
+      answer: "<latin>(BELLUM) PŪNICUM SECUNDUM</latin>"
+    boni:
+      - question: "<latin>Quot cīvitātēs interfuēre in Bellō Pūnicō Secundō?</latin>"
+        answer: "<latin>DUAE</latin>"
+      - question: "<latin>Quālēs sunt cīvitātēs quae in Bellō Pūnicō Secundō arma contulērunt?</latin>"
+        answer: "<latin>VALIDIŌRĒS (VĪRIBUS) / VALIDISSIMAE</latin>"
+  - tossup:
+      question: "What festival was celebrated in May for the purpose of propitiating the evil spirits of the dead?"
+      answer: "LEMURIA"
+    boni:
+      - question: "or LEMURALIA According to Ovid in the <emphasis>Fasti</emphasis>, who instituted this festival to appease the spirit of his murdered brother?"
+        answer: "ROMULUS"
+      - question: "What did celebrants throw over their shoulders while walking barefoot at midnight?"
+        answer: "<emphasis>BLACK</emphasis> BEANS"
+  - tossup:
+      question: "Name the speaker of the following quotation from Vergil’s <title>Aeneid</title>: <latin>“Iuppiter omnipotēns, cui nunc Maurūsia pictīs  gēns epulāta torīs Lēnaeum lībat honōrem,  aspicis haec?</latin>”"
+      answer: "IARBAS"
+    boni:
+      - question: "Name the speaker of the following quotation from Vergil’s <title>Aeneid</title>: <latin>“Nunc age, Dardaniam prōlem quae deinde sequātur  glōria, quī maneant Italā dē gente nepōtēs,  inlūstrīs animās nostrumque in nōmen itūrās,  expediam dictīs, et tē tua fāta docēbō.”</latin>"
+        answer: "ANCHISES"
+      - question: "Name the speaker of the following quotation from Vergil’s <title>Aeneid</title>: <latin>“Quae scelerum faciēs?</latin>"
+        answer: "Ō"
+      - question: "<latin>virgō, effāre; quibusve  urgentur poenīs? Quis tantus clangor ad aurīs?”</latin>"
+        answer: "AENEAS"
+  - tossup:
+      question: "What English word derived from the Greek verb that means “to throw” is “the process by which food is built up and used in our bodies”?"
+      answer: "METABOLISM"
+    boni:
+      - question: "What English word derived from that same root is an adjective that means “wicked, fiendish, or cruel”?"
+        answer: "DIABOLICAL / DEVILISH"
+      - question: "What mathematical function, expressed by the equation y2=x, is also derived from the Greek verb that means to throw?"
+        answer: "PARABOLA"
+  - tossup:
+      question: "According to Ovid, who was so grief-stricken by the death of his daughter that he flung himself off a cliff and was transformed into a hawk?"
+      answer: "DAEDALION"
+    boni:
+      - question: "Who took pity on Daedalion and transformed him into the hawk?"
+        answer: "(PHOEBUS) APOLLO"
+      - question: "Again, according to Ovid, what brother of Daedalion was also transformed into a bird?"
+        answer: "CEYX"
+  - tossup:
+      question: "(PASS OUT THE VISUALS) PLEASE DO NOT OPEN THE VISUAL UNTIL YOU ARE INSTRUCTED TO DO SO. OPEN THE VISUAL AND STUDY IT FOR A FEW SECONDS. (WAIT 5 SECONDS) To answer this question, give both the letter and name. I was succeeded by my son, whose twin unfortunately died in infancy. While I was hesitant to name my rather headstrong and pleasure-loving son as my heir, I knew he would be the center of many plots and rebellions if I did not. Moreover, the empire was faced with serious threats along the Danube from the Quadi and Marcomanni. How was I to know that he would buy them off and go to Rome to play Hercules? Who am I?"
+      answer: "B - MARCUS AURELIUS"
+    boni:
+      - question: "To answer this question, give both the letter and name. I didn’t get to choose my heir, and if I had been able to, I wouldn’t have chosen that drooling idiot! Oh, I suppose it was a fine joke! The Praetorians found him trembling behind a curtain and proclaimed him. Who could argue with them? Certainly not his wives who used and manipulated him. But it really galls me that his soldiers conquered Britain and mine collected seashells. Who am I?"
+        answer: "C - GAIUS / CALIGULA"
+      - question: "To answer this question, give both the letters and names. The four emperors pictured here had respectively zero, one, two, and three sons who also became emperors. Place these four emperors in order according to the number of sons who became emperors from lowest to highest."
+        answer: "C - CALIGULA, B - MARCUS AURELIUS, A - VESPASIAN, D - CONSTANTINE"
+  - tossup:
+      question: "Give the ultimate Latin verb root and its meaning from which we derive “resilience.”"
+      answer: "<latin>SALIŌ, SALĪRE</latin> - LEAP, JUMP"
+    boni:
+      - question: "Give the ultimate Latin noun root and its meaning from which we derive “recalcitrant.”"
+        answer: "<latin>CALX</latin> - HEEL"
+      - question: "Give the ultimate Latin verb root and its meaning from which we derive “refulgent.”"
+        answer: "<latin>FULGEŌ, FULGĒRE / FULGŌ, FULGERE</latin> - GLEAM, SHINE, BE BRIGHT"
+  - tossup:
+      question: "What Roman historian did Caligula call “long-winded and careless”?"
+      answer: "(TITUS) LIVIUS / LIVY"
+    boni:
+      - question: "What Roman emperor was tutored by Livy and encouraged by him to pursue his study in history?"
+        answer: "CLAUDIUS"
+      - question: "What later Roman author compared Livy to Herodotus, the Greek Father of History?"
+        answer: "QUINTILIAN"
+  - tossup:
+      question: "According to Homer, after the death of Antinoüs, which of the suitors incited the other suitors to fight against Odysseus?"
+      answer: "EURYMACHUS"
+    boni:
+      - question: "Who was the next person to charge against Odysseus after Eurymachus’ death?"
+        answer: "AMPHINOMUS"
+      - question: "Who killed Amphinomus?"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "For the verb <latin>trūdō</latin>, give the 2nd person, singular, perfect, active, subjunctive."
+      answer: "<latin>TRŪSERĪS</latin>"
+    boni:
+      - question: "Change <latin>trūserīs</latin> to the pluperfect."
+        answer: "<latin>TRŪSISSĒS</latin>"
+      - question: "Change <latin>trūsissēs</latin> to the passive."
+        answer: "<latin>TRŪSUS (-A, -UM) ESSĒS</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What leader of the Rutulians despised Aeneas so much that he waged war against Aeneas?"
+      answer: "TURNUS"
+    boni:
+      - question: "Why did Turnus hate Aeneas so much?"
+        answer: "BECAUSE AENEAS WAS TAKING AWAY (HIS BETROTHED) LAVINIA"
+      - question: "What queen of Latium supported Turnus during the war?"
+        answer: "AMATA"
+  - tossup:
+      question: "Name the son-in-law of Titus Tatius who became the second king of Rome"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "To what tribe did Numa belong?"
+        answer: "SABINES"
+      - question: "Who followed Numa as the third king of Rome?"
+        answer: "TULLUS HOSTILIUS"
+  - tossup:
+      question: "For the verb <latin>faciō</latin>, give the present, active, singular, imperative"
+      answer: "<latin>FAC (FACE</latin>"
+    boni:
+      - question: "is ACCEPTABLE ONLY if the student designates it as occurring in early Latin) Give the corresponding imperative for the verb <latin>perficiō</latin>"
+        answer: "<latin>PERFICE</latin>"
+      - question: "Give the corresponding imperative for the verb <latin>cōnferō</latin>"
+        answer: "<latin>CŌNFER</latin>"
+  - tossup:
+      question: "What derivative of the Latin word for “street or road” means “to turn away from an established way”?"
+      answer: "DEVIATE"
+    boni:
+      - question: "“incapable of being passed through”?"
+        answer: "IMPERVIOUS"
+      - question: "“to prevent”?"
+        answer: "OBVIATE"
+  - tossup:
+      question: "According to Homer, who was the keeper of the winds?"
+      answer: "AEOLUS"
+    boni:
+      - question: "What was special about Aeolus’ island kingdom?"
+        answer: "IT WAS A FLOATING ISLAND / IT WAS SURROUNDED BY A BRONZE WALL / THE STONE ON THE ISLAND WAS ALL SMOOTH"
+      - question: "What did Aeolus give Odysseus as Odysseus departed?"
+        answer: "BAG OF WINDS / BAG CONTAINING ALL THE WINDS <emphasis>EXCEPT</emphasis> FOR ZEPHYRUS / WEST WIND"
+  - tossup:
+      question: "Differentiate in meaning between <latin>tam</latin> and <latin>tum</latin>."
+      answer: "<latin>TAM</latin> - SO / <latin>TUM</latin> - THEN, NEXT"
+    boni:
+      - question: "Differentiate in meaning between <latin>ita</latin> and <latin>item</latin>."
+        answer: "<latin>ITA</latin> - YES, IN THIS WAY, THUS, SO / <latin>ITEM</latin> - LIKEWISE, ALSO, TOO"
+      - question: "Differentiate in meaning between <latin>at</latin> and <latin>aut</latin>."
+        answer: "<latin>AT</latin> - BUT, YET / <latin>AUT</latin> - OR"
+  - tossup:
+      question: "What senator in his sixties became emperor after the assassination of Domitian?"
+      answer: "(M. COCCEIUS) NERVA"
+    boni:
+      - question: "By whom was Nerva chosen as emperor?"
+        answer: "SENATE"
+      - question: "What promise did Nerva make to the Senate?"
+        answer: "NEVER TO PUT A SENATOR TO DEATH (UNLESS CONDEMNED BY A SENATORIAL COURT)"
+  - tossup:
+      question: "Translate: <latin>nōmen gladiātōrī est Maximus.</latin>"
+      answer: "THE GLADIATOR’S NAME IS MAXIMUS / THE NAME FOR THE GLADIATOR IS MAXIMUS"
+    boni:
+      - question: "Translate: <latin>gladiātor, quī magnificus dux mīlitum erat, in amphitheātrō fortiter pugnābat.</latin>"
+        answer: "THE GLADIATOR, WHO USED TO BE/WAS A GREAT/MAGNIFICENT LEADER/GENERAL OF THE SOLDIERS, WAS FIGHTING/FOUGHT BRAVELY IN THE AMPHITHEATER"
+      - question: "Translate: <latin>gladiātor, quamquam fortiter pugnābat, ab imperātōre vulnerātus est</latin>"
+        answer: "THE GLADIATOR, ALTHOUGH HE FOUGHT/WAS FIGHTING BRAVELY, WAS WOUNDED/HAS BEEN WOUNDED BY THE EMPEROR/COMMANDER/GENERAL"
+  - tossup:
+      question: "What was the name given to the priest who served the cult of Jupiter in Rome?"
+      answer: "<latin>FLAMEN DIALIS</latin>"
+    boni:
+      - question: "From what social class did the <latin>flamen dialis</latin> have to be chosen?"
+        answer: "PATRICIAN"
+      - question: "What mode of travel was forbidden to the <latin>flamen dialis</latin>?"
+        answer: "TO RIDE A HORSE"
+  - tossup:
+      question: "What ferocious creature was captured by Heracles after trapping it in deep snow?"
+      answer: "<emphasis>ERYMANTHIAN</emphasis> BOAR / BOAR OF MT. ERYMANTHUS"
+    boni:
+      - question: "What was King Eurystheus’ reaction when Heracles brought the giant Erymanthian boar back alive?"
+        answer: "HE HID IN A JAR"
+      - question: "What centaur friend of Heracles died during Heracles’ visit en route to capture the Erymanthian boar?"
+        answer: "PHOLUS / CH(E)IRON"
+  - tossup:
+      question: "Give in Latin the motto of the State of Oklahoma"
+      answer: "<latin>LABOR OMNIA VINCIT</latin>"
+    boni:
+      - question: "Translate that motto"
+        answer: "WORK CONQUERS ALL"
+      - question: "Say in Latin “Love conquers all.”"
+        answer: "<latin>AMOR OMNIA VINCIT</latin>"
+  - tossup:
+      question: "Complete this analogy: <latin>tertius : trēs :: _____ : quattuor</latin>"
+      answer: "QUĀRTUS"
+    boni:
+      - question: ". . . : <latin>trēs : tertius :: novem : _____</latin>"
+        answer: "<latin>NŌNUS</latin>"
+      - question: ". . . : <latin>trēs : tertius :: duodecim : _____</latin>"
+        answer: "<latin>DUODECIMUS</latin>"
+  - tossup:
+      question: "Under what emperor was the real power held by the praetorian prefect Ulpian and Julia Mamaea?"
+      answer: "SEVERUS ALEXANDER"
+    boni:
+      - question: "Name Alexander’s predecessor and cousin who was murdered by the Praetorians"
+        answer: "ELAGABALUS / (VARIUS AVITIUS) BASSIANUS / (M. AURELIUS) ANTONINUS"
+      - question: "For his victory over what enemy did Alexander celebrate a triumph?"
+        answer: "PERSIANS"
+  - tossup:
+      question: "According to Ovid, who was transformed into a weeping rock after her fourteen children were killed by Apollo and Diana?"
+      answer: "NIOBE"
+    boni:
+      - question: "What boast did Niobe make which resulted in this tragedy?"
+        answer: "SHE SAID THAT SHE GAVE BIRTH TO MORE (AND PRETTIER) CHILDREN THAN LATONA"
+      - question: "Of what city was Niobe the queen?"
+        answer: "CADMEIA / THEBES"
+  - tossup:
+      question: "Please listen while I read this inscription from a roadside tomb. After I have read the inscription twice, please answer IN ENGLISH the question about it. <latin>Hīc est sepulcrum nōn pulchrum pulchrae fēminae. Nōmen eius erat Claudia. Suum marītum amāvit. Fīliōs duōs habuit.</latin>  Who were the other members of Claudia’s family?"
+      answer: "HUSBAND AND TWO SONS (PASS OUT THE VISUAL)"
+    boni:
+      - question: "You now have 10 seconds to examine the inscription"
+        answer: "(WAIT 10 SECONDS)"
+      - question: "Which member of the family does this inscription state was still alive at the time of Claudia’s death?"
+        answer: "ONE SON"
+      - question: "What two things does the inscription reveal about Claudia as a homemaker?"
+        answer: "SHE TOOK CARE OF THEIR COTTAGE AND WORKED WITH WOOL (ACCEPT ANYTHING FROM SPINNING & WEAVING TO MAKING WOOL CLOTHES)"
+  - tossup:
+      question: "Change the adjective <latin>fortis</latin> to the comparative degree"
+      answer: "<latin>FORTIOR</latin>"
+    boni:
+      - question: "Give the corresponding form for the adjective <latin>ācer</latin>"
+        answer: "<latin>ĀCRIOR</latin>"
+      - question: "Give the corresponding form for the adjective <latin>bonus</latin>"
+        answer: "<latin>MELIOR</latin>"
+  - tossup:
+      question: "Name two of the modern Romance languages that are descended from spoken Latin. <title>see below for answers</title>  Name two more"
+      answer: "ITALIAN, FRENCH, SPANISH, PORTUGUESE, ROMANIAN,"
+    boni:
+      - question: "PROVENōAL, ROMANSCH, CATALAN To what prehistoric language family does Latin belong?"
+        answer: "INDO-EUROPEAN / INDO-GERMANIC"
+  - tossup:
+      question: "Who was elected consul five consecutive times to meet the threat of the invading Cimbri and Teutones?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "At what battle had these Germanic tribes destroyed a Roman army in 105 B.C.?"
+        answer: "ARAUSIO"
+      - question: "At what battle did Marius defeat the Teutones in 102 B.C.?"
+        answer: "AQUAE SEXTIAE"
+  - tossup:
+      question: "Which king of Thebes, the father of Oedipus, grew up at the court of Pelops, the king of Pisa?"
+      answer: "LAÏUS"
+    boni:
+      - question: "Why did the Thebans take the young Laïus to Pelops’ court?"
+        answer: "BECAUSE THEY WANTED TO SAFEGUARD CADMUS’ LINE / WANTED TO MAKE SURE THAT HE WOULD NOT BE KILLED BY AMPHION AND ZETHUS"
+      - question: "What illegitimate son of Pelops was kidnapped by Laïus during the Nemean games, and thus, by some accounts, started the tragic chain of events at Thebes?"
+        answer: "CHRYSIPPUS"
+  - tossup:
+      question: "What mood in Latin is used for most direct assertions and interrogations?"
+      answer: "INDICATIVE"
+    boni:
+      - question: "How many tenses are there in the indicative mood?"
+        answer: "SIX"
+      - question: "How many tenses are there in the infinitive mood?"
+        answer: "THREE"

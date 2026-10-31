@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What use of the dative case can be found in the following sentence:  <latin>Dā mihi pecūniam?</latin>"
+      answer: "INDIRECT OBJECT"
+    boni:
+      - question: "…:  <latin>Eratne tibi multa pecūnia?</latin>"
+        answer: "POSSESSION"
+      - question: "…:  <latin>Pecūnia auxiliō dāta est?</latin>"
+        answer: "PURPOSE"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “pōculum?”</latin>"
+      answer: "CUP"
+    boni:
+      - question: "Earlier this summer, teams were battling in the <latin>Pōculum Mundī</latin>, what is the Latin word for summer?"
+        answer: "<latin>AESTĀS (AESTĀTIS)</latin>"
+      - question: "The World Cup is made of gold.  What Latin adjective means “of gold?”"
+        answer: "<latin>AUREUS / -A / -UM</latin>"
+  - tossup:
+      question: "Which Roman emperor’s reign was largely favored by the populace but was marred by multiple natural disasters, including a fire in Rome and the eruption of Mount Vesuvius?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)’"
+    boni:
+      - question: "The triumph following the capture of what city is depicted on the Arch of Titus in the Roman Forum?"
+        answer: "JERUSALEM (DON’T TAKE AELIA CAPITOLINA)"
+      - question: "Titus’ affair with what Jewish princess was a source of scandal and disapproval during his reign?"
+        answer: "BERENICE"
+  - tossup:
+      question: "After running aground on Mount Parnassus after nine days and nights, what mythological couple immediately sacrificed to Zeus and Themis for delivering them from the flood?"
+      answer: "DEUCALION and PYRRHA"
+    boni:
+      - question: "Deucalion was the son of what foolish Titan, who married Pandora despite his brother’s warnings?"
+        answer: "EPIMETHEUS"
+      - question: "When Deucalion and Pyrrha wished to repopulate the Earth, what action did they take on the oracle’s advice?"
+        answer: "THREW ROCKS / STONES / “BONES OF THEIR \t\t\tMOTHER (EARTH)” OVER THEIR SHOULDERS / BEHIND THEM"
+  - tossup:
+      question: "Listen to the following passage about the adventures of Aurelia, which I will read twice; then  \t\tanswer the question that follows in LATIN: \t\t<latin>Lūx sōlis per fenestram lūcēbat. Aurēlia ē lectō surrēxit.  “Quam pulchra,” inquit, “est  \t\tlūx sōlis! Hodiē iter ad urbem Rōmam facere volō. Nam multae statuae, alta aedificia, et  \t\tnōtissimae fēminae sunt in eā urbe.”</latin>  (repeat) \tThe question: <latin>Cuius lūx per fenestram lūcēbat</latin>?"
+      answer: "<latin>(LUX) SŌLIS</latin>"
+    boni:
+      - question: "<latin>Quid Aurēlia facere volēbat ?</latin>"
+        answer: "<latin>ITER (RŌMAM / AD URBEM RŌMAM FACERE) // \t\t\tRŌMAM / AD URBEM ĪRE // VIDĒRE STATUĀS / AEDIFICIA / FĒMINĀS</latin>"
+      - question: "<latin>Quālēs sunt fēminae urbis Rōmae, secundum Aurēliam?</latin>"
+        answer: "<latin>NŌTISSIMAE / NŌTAE</latin>"
+  - tossup:
+      question: "What English adjective meaning \"lacking qualification or ability\" is derived from the Latin verb <latin>petō, petere</latin>?"
+      answer: "INCOMPETENT"
+    boni:
+      - question: "What English adjective meaning \"appealing\" is derived from the same Latin verb?"
+        answer: "APPETIZING"
+      - question: "What English adjective meaning \"impulsive\" is derived from the same Latin verb?"
+        answer: "IMPETUOUS / PETULANT"
+  - tossup:
+      question: "Between what two hills of Rome would you find the <latin>Forum Rōmānum</latin>?"
+      answer: "CAPITOLINE AND PALATINE ("
+    boni:
+      - question: "Identify by letter the building where gladiatorial combat would take place."
+        answer: "C"
+      - question: "Identify by letter the two buildings that were originally built or rebuilt during the reign of Augustus."
+        answer: "A AND B"
+  - tossup:
+      question: "What hero received a <latin>kibisis</latin>, a scimitar, and the cap of darkness to help him slay the Gorgon Medusa?"
+      answer: "PERSEUS / EURYMEDON"
+    boni:
+      - question: "Name either of the other two Gorgons."
+        answer: "STHENO / EURYALE"
+      - question: "What goddess helped Perseus with his quest because Poseidon and Medusa had desecrated her  \t\ttemple?"
+        answer: "ATHENA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Magister puerīs tabellās novās ostendit</latin>."
+      answer: "THE TEACHER SHOWED / SHOWS THE BOYS NEW TABLETS"
+    boni:
+      - question: "Translate this sentence: <latin>Cūr senātōrī nōn crēdis</latin>?"
+        answer: "WHY DON’T YOU TRUST / BELIEVE THE SENATOR?"
+      - question: "Translate this sentence: <latin>Stilī fractī nōn nōbīs ūtilissimī sunt</latin>."
+        answer: "BROKEN STILUSES / PENCILS / WRITING INSTRUMENTS / ARE NOT VERY / THE MOST USEFUL TO US"
+  - tossup:
+      question: "Respond in English: Name all the Latin declensions that have nouns that can be categorized as <latin>generis neutrius.</latin>"
+      answer: "2ND, 3RD, & 4TH"
+    boni:
+      - question: "How many declensions have nouns that can be categorized as <latin>generis masculīnī</latin>?"
+        answer: "(ALL) 5"
+      - question: "How many declensions have nouns that can be categorized as <latin>generis femininī</latin>?"
+        answer: "(ALL) 5"
+  - tossup:
+      question: "At what battle in 295 BC did the Roman forces rally against the Samnites to gain a decisive victory during the Third Samnite War?"
+      answer: "SENTINUM"
+    boni:
+      - question: "What plebeian leader sacrificed himself by exposing himself to the enemy in order to rally his troops, an act known as <latin>dēvōtiō</latin>?"
+        answer: "(P.) DECIUS MUS"
+      - question: "What commander led the Romans to victory after Decius Mus’ act of self-sacrifice?"
+        answer: "(Q. FABIUS MAXIMUS) RULLIANUS"
+  - tossup:
+      question: "Complete the analogy:  <latin>saliō : salī :: dūcō :</latin> <emphasis><latin>_________</latin></emphasis><latin>.</latin>"
+      answer: "<latin>DŪC</latin>"
+    boni:
+      - question: "Complete the analogy:  <latin>salī : salīte :: dūc :</latin> <emphasis><latin>_________</latin></emphasis><latin>.</latin>"
+        answer: "<latin>DŪCITE</latin>"
+      - question: "Complete the analogy:  <latin>dūc : dūcite :: fer :</latin> <emphasis><latin>_________</latin></emphasis><latin>.</latin>"
+        answer: "<latin>FERTE</latin>"
+  - tossup:
+      question: "The Latin words <latin>mangō</latin> and <latin>vēnālīcius</latin> denote what type of occupation in ancient Rome?"
+      answer: "SLAVE DEALER"
+    boni:
+      - question: "At a slave auction a <latin>pilleus</latin> on the head of a slave denotes what about that slave?"
+        answer: "THE SLAVE HAD NO WARRANTY/ THE PURCHASER WOULD ASSUME ALL RISK"
+      - question: "What could a Roman infer about the origin of a slave whose ears were pierced?"
+        answer: "THEY WERE FROM THE EAST"
+  - tossup:
+      question: "After murdering his father-in-law and attempting to seduce Hera, what Thessalian king was condemned to spin endlessly on a wheel of fire?"
+      answer: "IXION"
+    boni:
+      - question: "What Underworld sinner was stretched over nine acres for his crime?"
+        answer: "TITYUS"
+      - question: "What group of forty-nine sisters are condemned to forever carry water in leaky buckets?"
+        answer: "DANAIDS"
+  - tossup:
+      question: "Please translate the following sentence into Latin:  My mother told me a long story."
+      answer: "<latin>(MEA) MĀTER MIHI FĀBULAM LONGAM NĀRRĀVIT / NĀRRĀBAT</latin>"
+    boni:
+      - question: "…:  The soldiers fought as bravely as possible."
+        answer: "<latin>MĪLITĒS QUAM FORTISSIMĒ / AUDĀCISSIMĒ / ĀCERRIMĒ PUGNĀVĒRUNT /</latin> <latin>PUGNĀBANT</latin>"
+      - question: "Using the verb <latin>interficiō</latin>, translate this sentence into Latin:  The gladiators were praised by the citizens after they had killed many lions."
+        answer: "<latin>GLADIĀTŌRĒS, POSTQUAM MULTŌS</latin> \t\t\t<latin>LEŌNĒS INTERFĒCERANT, Ā/AB CĪVIBUS LAUDĀTĪ SUNT \t\t\t(MULTĪS LEŌNIBUS INTERFECTĪS</latin> also acceptable)"
+  - tossup:
+      question: "<latin>Quaestor</latin>, <latin>praetor</latin>, and <latin>cōnsul</latin> are all offices on what ladder of political progression?"
+      answer: "<latin>CURSUS HONŌRUM</latin>"
+    boni:
+      - question: "What was the term for a man who was the first in his family to reach the office of <latin>cōnsul</latin>?"
+        answer: "<latin>NOVUS HOMŌ</latin>"
+      - question: "What law of 180 BC provided greater rigidity to the <latin>cursus honōrum</latin> by setting minimum age  \t\trequirements for each of the curule magistracies?"
+        answer: "<latin>LĒX VILLIA ANNĀLIS</latin>"
+  - tossup:
+      question: "On what island did the abandonment of Ariadne by Theseus take place?"
+      answer: "NAXOS / STRONGYLE / DIA"
+    boni:
+      - question: "According to some versions of the story, what deity rescued Ariadne on Naxos and married her?"
+        answer: "DIONYSUS / BACCHUS / LĪBER / ZAGREUS"
+      - question: "After Ariadne died, what item of hers did Bacchus place in the heavens that became a constellation?"
+        answer: "A CROWN / DIADEM (THAT HE HAD GIVEN TO ARIADNE AT THEIR WEDDING)"
+  - tossup:
+      question: "What Latin phrase is used in English to tell the reader to take special notice of what follows?"
+      answer: "<latin>NŌTĀ BENE</latin>"
+    boni:
+      - question: "What Latin word is used in English with the meaning “a popular saying”?"
+        answer: "<latin>DICTUM</latin>"
+      - question: "What Latin phrase does the abbreviation <latin>h.s.</latin> stand for when it is found on tombstones?"
+        answer: "<latin>HĪC SEPULTUS / SEPULTA</latin>"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same ultimate Latin root as the others: adorable, usher, oratory, oracle, aboriginal?"
+      answer: "ABORIGINAL"
+    boni:
+      - question: "Give the Latin noun and its meaning that is the root of adorable, usher, oratory, and oracle."
+        answer: "<latin>ŌS</latin> - MOUTH"
+      - question: "The Latin noun <latin>ōs, ōris</latin>, has also given us the English noun “osculation.”  What act is referred to by the word osculation?"
+        answer: "KISS(ING)"
+  - tossup:
+      question: "In mythology, what phenomenon was embodied by the sons of Eos and Astraeüs, including Eurus, Notus, Boreas, and Zephyrus?"
+      answer: "WIND"
+    boni:
+      - question: "Which of the winds Eurus, Notus, Boreas, and Zephyrus blew from the west?"
+        answer: "ZEPHYRUS"
+      - question: "What twin sons of Boreas accompanied the voyage of the Argo and had the power of flight?"
+        answer: "ZETES and CALAÏS (PROMPT ON “BOREADES”)"

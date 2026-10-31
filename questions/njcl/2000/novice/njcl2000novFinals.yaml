@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What use of the Ablative case is found in the following sentence: <latin>Necesse est discipulīs ā magistrō docērī?</latin>"
+      answer: "AGENCY"
+    boni:
+      - question: "What use of the Dative case is found in the following sentence: <latin>Discipulī magistrō docendī sunt?</latin>"
+        answer: "AGENCY"
+      - question: "Name a use of the Ablative case, other than Agency or Place From Which, that also uses the preposition ā or <latin>ab</latin>?"
+        answer: "CAUSE / SOURCE-ORIGIN / SEPARATION (if “object of preposition is given”, ask for a specific usage of the Ablative)"
+  - tossup:
+      question: "Which Roman king was the son of Demaratus, a Corinthian aristocrat who had migrated to Tarquinia?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "Who were responsible for the assassination of Tarquinius Priscus?"
+        answer: "SONS OF ANCUS MARTIUS"
+      - question: "Name Priscus’ wife who prevented the assassins from gaining the throne by securing it for Servius Tullius"
+        answer: "TANAQUIL"
+  - tossup:
+      question: "Give an antonym of <latin>vīvus</latin>"
+      answer: "<latin>(DĒ)MORTUUS, DĒFUNCTUS, EXTINCTUS, EXANIMUS, EXANIMIS</latin>"
+    boni:
+      - question: "Give an antonym of <latin>crūdēlis</latin>"
+        answer: "<latin>CLĒMĒNS, AMĪCUS, BENIGNUS, BENEVOLUS,</latin>"
+      - question: "<latin>BENEFICUS, SUĀVIS, CŌMIS, FACILIS</latin>  Give an antonym of <latin>sapienter</latin>"
+        answer: "<latin>STULTĒ,</latin>"
+  - tossup:
+      question: "What two deities vied for recognition as the patron deity of Argos and the surrounding region?"
+      answer: "POSEIDON/NEPTUNE & HERA/JUNO"
+    boni:
+      - question: "Name one of the river gods who judged this contest"
+        answer: "INACHUS / ASTERION / CEPHISUS"
+      - question: "What did Poseidon do after the river gods rewarded the patronage of Argos to Hera?"
+        answer: "DRIED UP THE SPRINGS/RIVERS IN ARGOS / FLOODED THE REGION OFARGOS"
+  - tossup:
+      question: "Who in 72 B.C. won a series of victories forcing Mithridates to flee into exile in Armenia?"
+      answer: "(L. LICINIUS) LUCULLUS"
+    boni:
+      - question: "Who led the mutiny in Lucullus’ army that allowed Mithridates to regain most of the territory that he had lost?"
+        answer: "(P.) CLODIUS PULCHER"
+      - question: "Name Mithridates’ son who led a successful revolt against his father after Mithridates was defeated by Pompey"
+        answer: "PHARNACES (II)"
+  - tossup:
+      question: "Using the standard construction used with the verb <latin>iubeō</latin>, say in Latin: The master ordered the slaves to carry the wine"
+      answer: "<latin>DOMINUS SERVŌS IUSSIT/IUBĒBAT VĪNUM/VĪNA PORTĀRE</latin>"
+    boni:
+      - question: "Translate into Latin: The slaves will not be able to drink the wine"
+        answer: "<latin>SERVĪ NŌN POTERUNT VĪNUM/VĪNA BIBERE/POTĀRE/HAURĪRE</latin>"
+      - question: "Translate into Latin: The wine did not please the master’s daughters"
+        answer: "<latin>VĪNUM NŌN PLĀCĒBAT/PLACUIT FĪLIĀBUS DOMINĪ</latin>"
+  - tossup:
+      question: "Which Roman emperor attacked the Parthian capital of Ctesiphon in A.D. 115?"
+      answer: "TRAJAN"
+    boni:
+      - question: "What two new provinces did Trajan create out of Parthian territory?"
+        answer: "ASSYRIA & MESOPOTAMIA (NOT ARMENIA)"
+      - question: "The province of Mesopotamia was abandoned by the emperor Hadrian. Who was the next emperor to re-annex Mesopotamia as a province of Rome?"
+        answer: "SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "In Book XXIII of Homer’s <title>Odyssey</title>, who awakened Penelope and joyously announced the return of Odysseus?"
+      answer: "EURYCLEIA"
+    boni:
+      - question: "What was Penelope’s reaction upon hearing this news?"
+        answer: "SHE REBUKED EURYCLEIA’S CLAIM / SHE DIDN’T BELIEVE THAT ODYSSEUS HAD RETURNED / SHE WAS ANGRY AT EURYCLEIA (FOR WAKING HER)"
+      - question: "Who angrily called Penelope cruel because she wouldn’t approach Odysseus who is still in a beggar’s clothing?"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "For the verb <latin>moneō</latin>, give the present participle"
+      answer: "<latin>MONĒNS</latin>"
+    boni:
+      - question: "Give the present participle of the verb <latin>eō.IĒNS</latin> Using a participle, translate “listening” into Latin for this sentence: Catullus read his love poems to the women listening in the theater"
+        answer: "<latin>AUDIENTIBUS</latin>"
+  - tossup:
+      question: "What derivative of the Latin verb of “say or speak” means “a decree?”"
+      answer: "EDICT / DICTUM"
+    boni:
+      - question: "“choice of words in style of speaking or writing?”"
+        answer: "DICTION"
+      - question: "“to renounce formally, resign?”"
+        answer: "ABDICATE"
+  - tossup:
+      question: "In Book XI of Homer’s <title>Iliad</title>, who is sent by Zeus to warn Hector not to fight until a certain Greek leader is wounded?"
+      answer: "IRIS"
+    boni:
+      - question: "Name this Greek leader who must be wounded before Hector could fight"
+        answer: "AGAMEMNON"
+      - question: "In the same book, whom does Zeus send to awaken the Greeks for battle?"
+        answer: "ERIS / STRIFE"
+  - tossup:
+      question: "Translate into Latin the place constructions for this sentence: Caesar was not in Rome, but in Gaul"
+      answer: "<latin>RŌMAE & IN GALLIĀ</latin>"
+    boni:
+      - question: "“Hannibal marched into Italy and then to Rome.”"
+        answer: "<latin>IN ITALIAM & RŌMAM</latin>"
+      - question: "“Cato went away from Carthage and sailed to Athens.”"
+        answer: "<latin>CARTHĀGINE</latin>"
+  - tossup:
+      question: "From whom did Heracles borrow the pair of brass castanets that he used to frighten away the Stymphalian Birds?"
+      answer: "(PALLAS) ATHENA"
+    boni:
+      - question: "Who had fashioned this pair of brass castanets?"
+        answer: "HEPHAESTUS"
+      - question: "According to some sources, what object did Heracles make for himself to accomplish the task of driving away the Stymphalian Birds?"
+        answer: "A RATTLE"
+  - tossup:
+      question: "Based upon its etymology, what does the latin word <latin>trāditiō</latin> mean?"
+      answer: "A GIVING/HANDING ACROSS"
+    boni:
+      - question: "<latin>ēlocūtiō</latin>?"
+        answer: "A SPEAKING OUT"
+      - question: "<latin>collātiō</latin>?"
+        answer: "A BRINGING/CARRYING TOGETHER"
+  - tossup:
+      question: "What was the Latin term for a teacher of reading, writing, and arithmetic to 7 to 11 year old children?"
+      answer: "<latin>LITTERATOR</latin>"
+    boni:
+      - question: "or <latin>LUDI MAGISTER</latin> What was the school of a <latin>litterator</latin> called?"
+        answer: "<latin>SCHOLA</latin>"
+      - question: "or <latin>LUDUS</latin> What was the teacher of grammar and literature called?"
+        answer: "<latin>GRAMMATICUS</latin>"
+  - tossup:
+      question: "(VISUAL QUESTION) -- PASS OUT VISUALS TO EACH PLAYER; DO NOT OPEN THE VISUAL UNTIL PROMPTED. YOU WILL THEN BE GIVEN 15 SECONDS TO EXAMINE IT. (WAIT FOR ALL STUDENTS TO BE READY FOR THE QUESTION) NOW OPEN YOUR VISUAL. YOU HAVE 15 SECONDS TO EXAMINE IT. I WILL NOW ASK YOU A QUESTION IN LATIN ABOUT THE VISUAL. THEN I WILL READ FOUR POSSIBLE ANSWER CHOICES. REPEAT THE STATEMENT THAT ANSWERS THE QUESTION. <latin>In quartā pictūrā, quid facit medicus?</latin> HERE ARE YOUR CHOICES: <latin>salūtat mīlitem, parat medicīnam, inspicit oculōs, ōscula dat.</latin>"
+      answer: "<latin>PARAT MEDICĪNAM</latin>"
+    boni:
+      - question: "<latin>Quot pictūrae demonstrant mīlitem sedentem?</latin>"
+        answer: "<latin>ŪNA (PICTŪRA)</latin>"
+      - question: "<latin>Quotiēns dēbet mīles medicīnam cōnsūmere?</latin>"
+        answer: "<latin>BIS IN DIĒ / BIS PER DIEM</latin>"
+  - tossup:
+      question: "What infallible hunting dog was given to Europa as a watchdog?"
+      answer: "LAELAPS"
+    boni:
+      - question: "What boon was granted to Laelaps by Zeus?"
+        answer: "IT SHOULD ALWAYS CAPTURE WHAT EVER IT PURSUED"
+      - question: "What was the only creature that Laelaps could not catch because it was destined by Hera never to be caught?"
+        answer: "TEUMESSIAN VIXEN / FOX"
+  - tossup:
+      question: "It’s 10 p.m. on a Tuesday evening and you’re watching a rerun of NYPD Blue. The first thing you see is the body of the victim of the crime. What Latin phrase may be used to describe this “body of the crime”?"
+      answer: "CORPUS DELICTI"
+    boni:
+      - question: "The corpse can be described as <latin>in locō crīminis</latin>. What does this mean?"
+        answer: "IT HAS BEEN FOUND “IN THE SCENE OF THE CRIME”"
+      - question: "Luckily, the body has been covered to mask the stiffness that has already set in from death. What Latin phrase would be used to describe this stiffness?"
+        answer: "RIGOR MORTIS"
+  - tossup:
+      question: "Who sabotaged Diocletian’s rule by tetrarchy when he declared himself an Augustus in A.D. 306?"
+      answer: "MAXENTIUS"
+    boni:
+      - question: "Name Maxentius’ father who at first supported his son"
+        answer: "MAXIMIAN"
+      - question: "Name the legitimate Augustus whom Maxentius murdered at Ravenna in A.D. 307"
+        answer: "(FLAVIUS VALERIUS) SEVERUS"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Surge et dā ōsculum ūnī ex tuīs sociīs</latin>"
+      answer: "STUDENT RISES AND GIVES A KISS TO ONE OF THE TEAMMATES"
+    boni:
+      - question: "<latin>Cantā carmen scholae tuae quam celerrimē</latin>"
+        answer: "STUDENT SINGS SCHOOL SONG AS QUICKLY AS POSSIBLE."
+      - question: "<latin>Pōnite menta in manibus et lacrimāte</latin>"
+        answer: "STUDENTS PUT THEIR CHINS IN THEIR HANDS AND (PRETEND TO) CRY"

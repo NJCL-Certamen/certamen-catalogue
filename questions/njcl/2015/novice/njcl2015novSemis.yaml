@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>albus</latin>?"
+      answer: "<latin>ĀTER</latin>"
+    boni:
+      - question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of  <latin>exiguus</latin>?"
+        answer: "<latin>INGĒNS</latin>"
+      - question: "Of the adjectives <latin>ferōx, ingēns, āter</latin>, <latin>rūsticus</latin> and <latin>cēterī</latin>, which is the best antonym of <latin>mītis</latin>?"
+        answer: "<latin>FERŌX</latin>"
+  - tossup:
+      question: "What was the Latin term for a slave who oversaw the work of the other slaves on an estate?"
+      answer: "<latin>VĪLICUS</latin>"
+    boni:
+      - question: "What was the Latin term for the slave whose job it was to punish other slaves?"
+        answer: "<latin>LŌRĀRIUS / CARNIFEX</latin>"
+      - question: "What was the Latin term for the slave of a slave?"
+        answer: "<latin>VICĀRIUS</latin>"
+  - tossup:
+      question: "Give the accusative plural in Latin for the phrase “unlucky buildings.”"
+      answer: "<latin>AEDIFICIA ĪNFĒLĪCIA</latin>"
+    boni:
+      - question: "Give the genitive of the phrase “three republics.”"
+        answer: "<latin>TRIUM RĒRUM PŪBLICĀRUM</latin>"
+      - question: "Give the genitive of the phrase “one flower.”"
+        answer: "<latin>ŪNĪUS FLŌRIS</latin>"
+  - tossup:
+      question: "Of the three Greeks who visited Achilles’s tent to beg him to return to the Trojan War, which did Achilles invite to stay the night?"
+      answer: "PHOENIX"
+    boni:
+      - question: "What hero’s story did Phoenix tell in an attempt to convince Achilles that he would miss out  on great rewards unless he rejoined the war?"
+        answer: "MELEAGER’S"
+      - question: "What Greek suggested that an embassy be sent to Achilles?"
+        answer: "NESTOR"
+  - tossup:
+      question: "Translate this English sentence into Latin: “Today, it will be prudent for us to visit the priests.”"
+      answer: "<latin>HODIĒ, PRŪDĒNS ERIT NŌBĪS SACERDŌTĒS VĪSITĀRE</latin>"
+    boni:
+      - question: "Translate this English sentence into Latin: “The priests, who were preparing an animal, were  silent."
+        answer: "<latin>SACERDŌTĒS, QUĪ ANIMAL (PRAE)PARĀBANT, TACĒBANT</latin>"
+      - question: "Using the first conjugation verb <latin>sacrificō, sacrificāre</latin>, translate this English sentence into  Latin: “The fierce animal will be able to be sacrificed soon.”"
+        answer: "<latin>ANIMAL ATRŌX / ĀCRE SACRIFICĀRĪ MOX POTERIT</latin>"
+  - tossup:
+      question: "Name the emperors who immediately preceded and succeeded Severus Alexander?"
+      answer: "ELAGABALUS // MAXIMINUS THRAX"
+    boni:
+      - question: "How was Severus Alexander related to Elagabalus?"
+        answer: "COUSINS"
+      - question: "Name the grandmother of both Severus Alexander and Elagabalus."
+        answer: "JULIA MAESA"
+  - tossup:
+      question: "Whose marriage to Philonoë didn’t seem likely after he was falsely accused of trying to seduce Philonoë’s sister, Stheneboea and subsequently sent to her father, Iobates, with a letter instructing Iobates to kill him?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "Who was Stheneboea’s husband, who, as Bellerophon’s host, could not kill Bellerophon  himself and instead sent him to Iobates to be killed?"
+        answer: "PROËTUS"
+      - question: "For whose murder had Proëtus purified Bellerophon?"
+        answer: "BELLERUS / HIS BROTHER"
+  - tossup:
+      question: "Give the correct form of the participle that would be used to translate the following sentence into Latin: “Having prepared for battle, the general won handily.”"
+      answer: "<latin>PARĀTUS</latin>"
+    boni:
+      - question: "Give the correct participle to complete this sentence in Latin: “The general proclaimed his  victory while holding his sword in the air.”"
+        answer: "<latin>TENĒNS</latin>"
+      - question: "Give the correct participle to complete this sentence in Latin: “The enemies, having been  defeated, walked under the yoke.”"
+        answer: "<latin>VICTĪ</latin>"
+  - tossup:
+      question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being described in  this English sentence?"
+      answer: "<latin>It ad caelum propter ignēs</latin>. <latin>FŪMUS</latin>"
+    boni:
+      - question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
+        answer: "<latin>Potest trādī prō pānem et aliīs bonīs</latin>. <latin>DĒNĀRIUS</latin>"
+      - question: "Of the Latin nouns <latin>sepulcrum</latin>, <latin>pompa</latin>, <latin>fūmus</latin>, <latin>hiems</latin>, and <latin>dēnārius</latin>, which is being  described in this English sentence?"
+        answer: "<latin>Hoc incēpit in Campō Martiō</latin>. <latin>POMPA</latin>"
+  - tossup:
+      question: "What modern city did the Romans call <latin>Vindobona</latin>?"
+      answer: "VIENNA"
+    boni:
+      - question: "What modern city did the Romans call <latin>Bonōnia</latin>?"
+        answer: "BOLOGNA"
+      - question: "What modern city did the Romans call <latin>Lūtētia</latin>?"
+        answer: "PARIS"
+  - tossup:
+      question: "What Theban woman was seduced by Zeus in the form of a satyr?"
+      answer: "ANTIOPE"
+    boni:
+      - question: "When Antiope fled Thebes, what Theban regent, her uncle, dragged her back to Thebes?"
+        answer: "LYCUS"
+      - question: "To whom did Antiope give birth while being taken back to Thebes?"
+        answer: "AMPHION AND ZETHUS"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Equus ignāvus, cūius dentēs erant frāctī,  dolēbat.</latin>"
+      answer: "THE LAZY HORSE WHOSE TEETH WERE BROKEN WAS IN PAIN."
+    boni:
+      - question: "Now, translate this sentence: <latin>Equus temptāns cōnsūmere saxum dentēs frēgerat.</latin>"
+        answer: "THE HORSE HAD BROKEN HIS TEETH (WHILE) TRYING TO EAT A ROCK."
+      - question: "Finally, translate this sentence: <latin>Dominus benignus equō novōs dentēs aureōs ēmit.</latin>"
+        answer: "THE KIND MASTER BOUGHT THE HORSE NEW GOLDEN TEETH."
+  - tossup:
+      question: "Which of the following words, if any, is not derived from the Latin word meaning “peace”: repay,  expedient, appease, pacifist?"
+      answer: "EXPEDIENT"
+    boni:
+      - question: "From what Latin word with what meaning is “expedient” derived?"
+        answer: "<latin>PĒS</latin> - FOOT"
+      - question: "Another derivative of <latin>pēs</latin> can be defined as a noun as “one who goes about on foot” and as an  adjective as “commonplace or unremarkable.” What is this word?"
+        answer: "PEDESTRIAN"
+  - tossup:
+      question: "What emperor was born just before sunrise on the ninth day before the Kalends of October in the  consulship of Gaius Antonius Hybrida and Marcus Tullius Cicero?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What other honorific title was the senate considering giving to Octavian in 27 BC before  deciding on Augustus?"
+        answer: "ROMULUS"
+      - question: "What title was Augustus awarded in 12 BC following the death of Marcus Aemilius Lepidus?"
+        answer: "PONTIFEX MAXIMUS"
+  - tossup:
+      question: "Who had water from the Phlegethon thrown in his face after revealing that Persephone had eaten  pomegranate seeds in the Underworld?"
+      answer: "ASCALAPHUS"
+    boni:
+      - question: "What affect did the Phlegethon water have on Ascalaphus?"
+        answer: "TURNED HIM INTO AN OWL"
+      - question: "What river god was Ascalaphus’ father?"
+        answer: "ACHERON"
+  - tossup:
+      question: "Give the Latin and the English for the abbreviation <latin>F.D.</latin>, an abbreviation commonly found on the  coins of the United Kingdom?"
+      answer: "<latin>FIDEĪ DĒFĒNSOR</latin> – DEFENDER OF THE FAITH"
+    boni:
+      - question: "The Romans also used numerous abbreviations on their coins. For what Latin did the  abbreviation <latin>P P</latin> stand?"
+        answer: "<latin>PATER PATRIAE</latin>"
+      - question: "Another abbreviation on Roman coins was <latin>TR P</latin>. For what Latin did that abbreviation stand?"
+        answer: "<latin>TRIBŪNĪCIĀ POTESTĀTE / TRIBŪNĪCIA POTESTĀS</latin>"
+  - tossup:
+      question: "What case and use of that case of the word “friend” can be seen in the following Latin sentence?"
+      answer: "<latin>Putō amīcum meum Rōmae quattuor annōs habitāvisse</latin>.  ACCUSATIVE, SUBJECT OF INFINITIVE (IN INDIRECT STATEMENT)"
+    boni:
+      - question: "What case is the word <latin>Rōmae</latin> in the same sentence?"
+        answer: "LOCATIVE"
+      - question: "What case and use is the word <latin>annōs</latin> in the same sentence?"
+        answer: "ACCUSATIVE, DURATION OF TIME"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer the question that  follows IN LATIN:  <latin>Venus, postquam accēpit mālum aureum, Paridī dīxit, “Fēmina pulcherrima in Graeciā  habitat. Nōmen ēius est Helena; Helena erit tua coniūnx.” Dea quoque dīxit Paridem ipsum  nōn esse fīlium pāstōris; patrem et mātrem esse rēgem et rēginam Trōiae.</latin> (Repeat) Question: <latin>Priusquam Venus dīxit, quem Paris putāverat patrem esse?</latin>"
+      answer: "<latin>PĀSTOREM</latin>"
+    boni:
+      - question: "<latin>Quid Venerī Paris dederat?</latin>"
+        answer: "<latin>MĀLUM (AUREUM)</latin>"
+      - question: "<latin>Propter iūdicium Paridis, quod bellum coepit?</latin>"
+        answer: "<latin>BELLUM TRŌIANUM</latin>"
+  - tossup:
+      question: "What man, disgusted by the Propoetides, women native to his homeland of Cyprus, fell in love with  a statue he had sculpted?"
+      answer: "PYGMALION"
+    boni:
+      - question: "To what deity did Pygmalion pray, asking for a woman as virtuous and beautiful as his statue?"
+        answer: "VENUS / APHRODITE"
+      - question: "What was the name of the child that Pygmalion’s animated statue bore to him?"
+        answer: "PAPHOS"
+  - tossup:
+      question: "Who took advantage of the treaty of Zama by slowly capturing Carthaginian territories and  ultimately helped goad the Romans into declaring war on Carthage by abusing his position as  Roman ally and king of Numidia?"
+      answer: "MASINISSA"
+    boni:
+      - question: "Who distinguished himself so strongly in the early parts of the Third Carthaginian War that his  candidacy for aedile in 147 BC resulted in his unexpected ascension to the consulship?"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS"
+      - question: "What earlier king of Numidia was Masinissa’s rival during the Second Carthaginian War?"
+        answer: "SYPHAX"

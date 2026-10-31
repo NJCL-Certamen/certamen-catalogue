@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Little Red Riding Hood said to the wolf, “My, what big teeth you have!” Which of the following adjectives would apply to those teeth? ursine, indentured, porcine, lupine, or aquiline"
+      answer: "LUPINE"
+    boni:
+      - question: "A pantomimist who uses simian gestures would be portraying what animal?"
+        answer: "MONKEY"
+      - question: "Which might be described as piscatory: seagull, lion, elephant, rattlesnake?"
+        answer: "SEAGULL"
+  - tossup:
+      question: "The Sirens, the Laestrygonians, and the Cyclops Polyphemus were all strange creatures encountered by whom?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "How did Odysseus prevent his men from hearing the enchanting songs of the Sirens?"
+        answer: "HE PUT BEE WAX IN THEIR EARS"
+      - question: "How was Odysseus able to hear the Sirens’ song without swimming to his own demise?"
+        answer: "HE HAD HIS MEN CHAIN / TIE HIM TO THE MAST"
+  - tossup:
+      question: "Give a synonym of <latin>vīlla</latin>"
+      answer: "DOMUS, CASA, AEDĒS, TĒCTUM (-A)"
+    boni:
+      - question: "Give a synonym of <latin>dēnique.</latin>"
+        answer: "<latin>TANDEM, DĒMUM, POSTRĒMUM (-Ō)</latin>, <latin>CĒTERUM</latin>, <latin>ITAQUE</latin>, <latin>DEIN(DE)</latin>"
+      - question: "Give a synonym of <latin>lūcēre</latin>"
+        answer: "<latin>SPLENDĒRE</latin>, <latin>FULGĒRE</latin>, <latin>NITĒRE</latin>, <latin>MICĀRE</latin>, <latin>CANDĒRE</latin>"
+  - tossup:
+      question: "At what battle was Hasdrubal, Hannibal’s brother, defeated and killed in 207 BC?"
+      answer: "METAURUS RIVER"
+    boni:
+      - question: "What Roman commander’s battle strategy destroyed Hasdrubal’s army at Metaurus River?"
+        answer: "(GAIUS CLAUDIUS) NERO"
+      - question: "How was the news of Hasdrubal’s death revealed to Hannibal?"
+        answer: "HASDRUBAL’S HEAD WAS THROWN INTO HANNIBAL’S CAMP"
+  - tossup:
+      question: "From what Latin verb with what meaning do we derive the English adjective “sentient”?"
+      answer: "<latin>SENTIŌ</latin>, <latin>SENTĪRE</latin> - FEEL, PERCEIVE, HEAR, SEE, THINK, SENSE"
+    boni:
+      - question: "Using the same Latin root, give the English verb meaning “ to grant permission or give approval.”"
+        answer: "CONSENT / ASSENT"
+      - question: "Again using the same root, give an English adjective meaning “affectedly emotional.”"
+        answer: "SENTIMENTAL / SENSITIVE"
+  - tossup:
+      question: "Who was punished in Tartarus by being shown food and drink, which he could never reach?"
+      answer: "TANTALUS"
+    boni:
+      - question: "What had Tantalus done to deserve this fate?"
+        answer: "(COOKED) HIS SON (PELOPS) AND <emphasis>SERVED</emphasis> HIM TO THE GODS or HE STOLE NECTAR AND AMBROSIA FROM THE GODS AND SHARED THEIR SECRETS (IN ORDER TO PROVE THEM FALLABLE)"
+      - question: "Which deity accidentally ate the shoulder of Pelops?"
+        answer: "DEMETER / CERES"
+  - tossup:
+      question: "For the verb <latin>agō</latin>, give the 3rd person singular, imperfect, active, indicative"
+      answer: "<latin>AGĒBAT</latin>"
+    boni:
+      - question: "Change <latin>agēbat</latin> to the perfect tense"
+        answer: "<latin>ĒGIT</latin>"
+      - question: "Using the verb <latin>agō</latin>, say in Latin, “Marcus, we are thanking you.”"
+        answer: "<latin>TIBI, MĀRCE, GRĀTIĀS AGIMUS</latin>"
+  - tossup:
+      question: "What part of a Roman house was the <latin>iānua</latin>?"
+      answer: "DOOR(WAY)"
+    boni:
+      - question: "What door in a Roman house was referred to as a <latin>postīcum</latin>?"
+        answer: "BACK / SIDE DOOR (OPENING INTO THE GARDEN)"
+      - question: "What were <latin>forēs</latin>?"
+        answer: "(DOUBLE) DOORS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Ōlim crocodīlus quīdam, cui nōmen erat Publius, in Aegyptō</latin> <latin>habitābat. Hic crocodīlus in flūmine Nīlō</latin> <latin>habitābat et natābat. Sed Publius erat crocodīlus benignissimus. Aurēlia et familia saepe in hōc flūmine natābant et</latin>  <latin>Publius multa ōscula eīs dabat.</latin>  Question: In what river did Publius the crocodile live?"
+      answer: "NILE"
+    boni:
+      - question: "What adjective with what meaning is used in the passage to describe the nature of the crocodile?"
+        answer: "<latin>BENIGNISSIMUS</latin> - VERY KIND / GENEROUS / NICE etc."
+      - question: "What happened to Aurelia and her familia when they swam in the river?"
+        answer: "PUBLIUS KISSED THEM / GAVE THEM MANY KISSES"
+  - tossup:
+      question: "Translate into English: <latin>duo animālia in pictūrā</latin> <latin>sunt</latin>"
+      answer: "THERE ARE TWO ANIMALS IN THE PICTURE"
+    boni:
+      - question: "Using all of your knowledge, correctly identify which of the following animals is shown in picture ‘A’. Is it a <latin>leō</latin>, <latin>canis</latin>, <latin>vulpēs</latin>, <latin>agna</latin>, or <latin>lupa</latin>?"
+        answer: "<latin>LUPA</latin>"
+      - question: "Look closely at pictures ‘B’ and ‘C’, which are two photos of the same sculpture. <latin>Dīc mihi Anglicē</latin> <latin>nōmen huius saevissimī</latin> <latin>mōnstrī</latin>"
+        answer: "CHIMAERA"
+  - tossup:
+      question: "Translate the following sentence into Latin: The mother was cooking the food"
+      answer: "<latin>MĀTER CIBUM / VICTUM COQUĒBAT</latin>"
+    boni:
+      - question: "You and I will go to Rome"
+        answer: "<latin>EGO ET TŪ</latin> <latin>RŌMAM ĪBIMUS</latin>"
+      - question: "The slaves have sailed from the town"
+        answer: "<latin>SERVĪ</latin> <latin>EX/AB OPPIDŌ</latin> <latin>NĀVIGĀVĒRUNT</latin>"
+  - tossup:
+      question: "Who married an Amazon named Antiope and a Cretan princess named Phaedra, whose sister he had earlier abandoned on Naxos?"
+      answer: "THESEUS"
+    boni:
+      - question: "Who was Phaedra’s sister and who was their father?"
+        answer: "ARIADNE, MINOS"
+      - question: "Name Theseus’ son by Antiope"
+        answer: "HIPPOLYTUS / VIRBIUS"
+  - tossup:
+      question: "After what battle in 280 BC did Pyrrhus march with his army towards Rome?"
+      answer: "HERACLEA"
+    boni:
+      - question: "Failing to force the Romans to negotiate peace, where did Pyrrhus next meet the Romans in battle?"
+        answer: "A(U)SCULUM"
+      - question: "Name the Roman consul who defeated Pyrrhus at Beneventum in 275 BC"
+        answer: "(MANIUS CURIUS) DENTATUS"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>Latīnē: Quis est deus caelī</latin> <latin>et rēx deōrum?</latin>"
+      answer: "IUPPITER"
+    boni:
+      - question: "<latin>Quis est uxor Iovis et rēgīna deōrum?</latin>"
+        answer: "IŪNŌ"
+      - question: "<latin>Quis est fīlius Iovis et Iūnōnis quī</latin> <latin>pugnāre amat?</latin>"
+        answer: "MARS / MAVORS"
+  - tossup:
+      question: "Who was the immortal wife of Herakles?"
+      answer: "HEBE"
+    boni:
+      - question: "What duty did she perform for the gods?"
+        answer: "CUPBEARER"
+      - question: "What Trojan prince took over her duties as cupbearer?"
+        answer: "GANYMEDE(S)"
+  - tossup:
+      question: "What use of the ablative case can be found in the following sentence? <latin>Puer semper nōbīscum labōrābat</latin>"
+      answer: "ACCOMPANIMENT"
+    boni:
+      - question: "<latin>Puer saxō</latin> <latin>vulnerātus est</latin>"
+        answer: "MEANS / INSTRUMENT"
+      - question: "<latin>Puer ā</latin> <latin>medicō</latin> <latin>sānātus est</latin>"
+        answer: "(PERSONAL) AGENT"
+  - tossup:
+      question: "Whose suspicious death in Antioch led his widow to accuse and slander the emperor Tiberius?"
+      answer: "GERMANICUS’"
+    boni:
+      - question: "Who was this angry widow?"
+        answer: "AGRIPPINA THE ELDER"
+      - question: "Which governor of Syria and rival of Germanicus was suspected by Agrippina of conspiring to kill Germanicus?"
+        answer: "(GNAEUS CALPURNIUS) PISO"
+  - tossup:
+      question: "Who killed her children when she found out her husband was about to marry a princess of Corinth?"
+      answer: "MEDEA"
+    boni:
+      - question: "What was her husband’s name?"
+        answer: "JASON"
+      - question: "Who was the Corinthian princess he was to marry?"
+        answer: "GLAUCE/CREUSA"
+  - tossup:
+      question: "By what name is the emperor Gaius Julius Caesar Germanicus more commonly known?"
+      answer: "CALIGULA"
+    boni:
+      - question: "By what name is the emperor Varius Avitus Bassianus more commonly known?"
+        answer: "ELAGABALUS or HELIOGABALUS"
+      - question: "By what name is the emperor Marcus Aurelius Antoninus more commonly known?"
+        answer: "CARACALLA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Servī, quamquam dīligenter labōrābant, nōn erant fess</latin><latin>ī</latin>"
+      answer: "ALTHOUGH THE SLAVES WERE WORKING DILIGENTLY, THEY WERE NOT TIRED"
+    boni:
+      - question: "<latin>Dominus, postquam vīllam intrāvit, servōs dīligenter labōrantēs vīdit</latin>"
+        answer: "AFTER THE MASTER ENTERED THE HOUSE, HE SAW THE SLAVES WORKING DILIGENTLY"
+      - question: "<latin>Dominus servīs praemium dedit quod dīligenter labōrāverant</latin>"
+        answer: "THE MASTER GAVE THE SLAVES A REWARD BECAUSE THEY <emphasis>HAD</emphasis> WORKED DILIGENTLY <latin>2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>"

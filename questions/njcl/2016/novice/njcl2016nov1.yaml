@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Translate this sentence into English: <latin>Nōs fortiter in hortō pugnābāmus.</latin>"
+      answer: "WE WERE FIGHTING / FOUGHT BRAVELY IN THE GARDEN"
+    boni:
+      - question: "…: <latin>Trēs cervōs prope silvam cōnspexistī.</latin>"
+        answer: "YOU CAUGHT SIGHT OF / NOTICED THREE DEER NEAR THE FOREST / WOODS"
+      - question: "…: <latin>Servīs cibum quam celerrimē trādētis.</latin>"
+        answer: "YOU (PL.) / Y’ALL WILL HAND OVER FOOD TO THE SLAVES   AS QUICKLY AS POSSIBLE"
+  - tossup:
+      question: "Name the emperors who immediately preceded and succeeded Claudius."
+      answer: "CALIGULA / GAIUS AND NERO"
+    boni:
+      - question: "Name the emperors who immediately preceded and succeed Nerva."
+        answer: "DOMITIAN - TRAJAN"
+      - question: "Name the emperors who immediately preceded and succeeded Severus Alexander."
+        answer: "MARCUS AURELIUS ANTONINUS / ELAGABALUS - MAXIMINUS THRAX"
+  - tossup:
+      question: "Give the meaning of the Latin motto of the District of Columbia, “<latin>iūstitia omnibus</latin>”."
+      answer: "JUSTICE FOR ALL"
+    boni:
+      - question: "Give the meaning of the Latin motto of Maine, “<latin>dīrigō</latin>”."
+        answer: "I GUIDE / DIRECT / POINT THE WAY"
+      - question: "Give the meaning of the Latin motto of New York, “<latin>excelsior</latin>”."
+        answer: "HIGHER / EVER UPWARD"
+  - tossup:
+      question: "What son of Zeus and Danaë killed the Gorgon Medusa?"
+      answer: "PERSEUS ("
+    boni:
+      - question: "Identify the creature labeled “A” and name the slayer of this creature."
+        answer: "CHIM(A)ERA – BELLEROPHON(TES) / HIPPONOUS"
+      - question: "Name the mother of the creature labeled “B” and name the slayer of this creature."
+        answer: "PASIPHAE - THESEUS"
+  - tossup:
+      question: "For the verb <latin>terreō</latin>, give the third person singular, future, active, indicative, which means  “she will fear.”"
+      answer: "<latin>TERRĒBIT</latin>"
+    boni:
+      - question: "Make <latin>terrēbit</latin> plural, meaning “they will fear.”"
+        answer: "<latin>TERRĒBUNT</latin>"
+      - question: "Now say “they will be feared.”"
+        answer: "<latin>TERREBUNTUR</latin>"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the ultimate root of “conscious”."
+      answer: "<latin>SCIŌ</latin> - TO KNOW"
+    boni:
+      - question: "Give the Latin noun and its meaning at the ultimate root of “penitent”."
+        answer: "<latin>POENA</latin> - PUNISHMENT"
+      - question: "Give the Latin verb and its meaning at the ultimate root of “besiege”."
+        answer: "<latin>SEDEŌ</latin> - TO SIT"
+  - tossup:
+      question: "Who joined his fellow Romans and successful repelled the Gauls from the citadel after he was  woken up by the honking of the sacred geese?"
+      answer: "(M.) MANLIUS CAPITOLINUS"
+    boni:
+      - question: "To whom were these geese sacred?"
+        answer: "JUNO (MONETA)"
+      - question: "Who was the leader of the Gauls that sacked Rome in 390 BC?"
+        answer: "BRENNUS"
+  - tossup:
+      question: "What husband did Helen abandon when she ran off with a visiting Trojan prince?"
+      answer: "MENELAÜS"
+    boni:
+      - question: "Who was this Trojan youth who eloped with Helen?"
+        answer: "PARIS"
+      - question: "Who were the brothers of Helen, who had earlier rescued her from a kidnapping by Theseus?"
+        answer: "CASTOR AND POLYDEUCES / POLLUX"
+  - tossup:
+      question: "What mood of a Latin verb is used for commands?"
+      answer: "IMPERATIVE"
+    boni:
+      - question: "What mood of a Latin verb is used in a statement of fact?"
+        answer: "INDICATIVE"
+      - question: "What form of a Latin verb is used with <latin>nōlī</latin> to express a negative command?"
+        answer: "2ND PRINCIPAL PART / PRESENT (ACTIVE) INFINITIVE"
+  - tossup:
+      question: "Who, under the orders of his cousin Eurystheus, performed twelve labors?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Which of Heracles’ labors required him to travel to Erythea, which was later identified with Spain?"
+        answer: "CATTLE OF GERYON / 10TH"
+      - question: "What kingdom was ravaged by a boar until Meleager and Atalanta killed it?"
+        answer: "CALYDON"
+  - tossup:
+      question: "What Roman <latin>praenōmen</latin> was abbreviated <latin>M’</latin> (read as “M-apostrophe)?"
+      answer: "<latin>MANIUS</latin>"
+    boni:
+      - question: "What <latin>praenōmen</latin> was abbreviated <latin>SER</latin>?"
+        answer: "<latin>SERVIUS</latin>"
+      - question: "What <latin>praenōmen</latin> was only used by the <latin>gēns Aemilia</latin>?"
+        answer: "<latin>MAMERCUS</latin>"
+  - tossup:
+      question: "Please listen to the following sentences, which I will read twice, and answer the question that  followings in English:  <latin>Ōlim nautae vīnum ex Graeciā ad Āsiam portābant. Ubi prope īnsulam dēsertam  nāvigābant, magnam cavernam vīdērunt. Subitō ex cavernā ruit mōnstrum terrībile.  Flāmmās spīrābat et saxa magna in nautās iaciēbat. Ēheu!</latin> (repeat)  The question: What was being transported from Greece to Asia by the sailors?"
+      answer: "WINE"
+    boni:
+      - question: "When did the sailors see a big cave?"
+        answer: "WHEN THEY WERE SAILING NEAR (A DESERTED) ISLAND"
+      - question: "What two horrible things was the monster doing?"
+        answer: "BREATHING FIRE & THROWING (BIG) ROCKS (AGAINST THE SAILORS)"
+  - tossup:
+      question: "Who lay in wait for his father with a sickle, cutting off his genitalia and overthrowing the old man?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who was the former ruler of the heavens who was dethroned in this unpleasant manner?"
+        answer: "URANUS"
+      - question: "What was the result of the blood of Uranus falling upon the foam of the sea?"
+        answer: "APHRODITE"
+  - tossup:
+      question: "Which of the following does NOT govern the same case as the others: <latin>Prope, circum, sine, ad,  trāns?</latin>"
+      answer: "<latin>SINE</latin>"
+    boni:
+      - question: "…: <latin>Praesum, crēdō, persuādeō, noceō, accūsō</latin>?"
+        answer: "<latin>ACCŪSŌ</latin>"
+      - question: "…: <latin>Fidēlis, similis, inimīcus, pār, plēnus?</latin>"
+        answer: "<latin>PLĒNUS</latin>"
+  - tossup:
+      question: "Hasdrubal Barca’s decapitated head was thrown into Hannibal’s camp after what battle in 207 BC?"
+      answer: "METAURUS (RIVER)"
+    boni:
+      - question: "What two commanders led the Romans at this battle?"
+        answer: "(GAIUS) CLAUDIUS NERO AND (MARCUS) LIVIUS SALINATOR"
+      - question: "Where had Scipio the future Africanus defeated Hasdrubal one year earlier?"
+        answer: "BAECULA"
+  - tossup:
+      question: "Where might you be in ancient Rome if someone said to you, “<latin>Quid emere vīs?</latin>"
+      answer: "” IN A STORE / THE FORUM / SOMEWHERE WHERE STUFF IS SOLD /  <latin>TABERNA / FORUM</latin>"
+    boni:
+      - question: "Where might you be in ancient Rome if someone said to you, “<latin>Quid edere vīs?</latin>” be?"
+        answer: "A RESTAURANT / SOMEWHERE FOOD IS SOLD / <latin>TABERNA / CAUPŌNA /  THERMOPŌLIUM / POPĪNA</latin>"
+      - question: "Where might you be in ancient Rome if someone said to you,, “<latin>Nōnne animal deō dās?</latin>"
+        answer: "(IN FRONT OF) A TEMPLE / AN ALTAR / <latin>TEMPLUM / ĀRA / AEDĒS / DELŪBRUM  / FĀNUM</latin>"
+  - tossup:
+      question: "What follower of Artemis was loved by Zeus and eventually turned into a bear?"
+      answer: "CALLISTO"
+    boni:
+      - question: "Who was the son of Callisto and Zeus who almost shot his mother while hunting?"
+        answer: "ARCAS"
+      - question: "Into what constellations did Callisto & Arcas become?"
+        answer: "URSA MAJOR & MINOR"
+  - tossup:
+      question: "Change the phrase <latin>bonus frater</latin> to the accusative."
+      answer: "<latin>BONUM FRĀTREM</latin>"
+    boni:
+      - question: "Change <latin>bonum frātrem</latin> to the plural."
+        answer: "<latin>BONŌS FRĀTRĒS</latin>"
+      - question: "Change <latin>bonōs frātrēs</latin> to the genitive."
+        answer: "<latin>BONŌRUM FRĀTRUM</latin>"
+  - tossup:
+      question: "What was the bundle of sticks with an ax blade carried by a <latin>lictor</latin> called?"
+      answer: "<latin>FASCĒS</latin>"
+    boni:
+      - question: "How many <latin>lictōrēs</latin> accompanied a <latin>praetor</latin>?"
+        answer: "6"
+      - question: "How many <latin>lictōrēs</latin> accompanied a <latin>cōnsul</latin>?"
+        answer: "12"
+  - tossup:
+      question: "<latin>Quid significat Anglicē: “mūrus”?</latin>"
+      answer: "WALL / RAMPART"
+    boni:
+      - question: "<latin>Quid significat Anglicē: “prīnceps”?</latin>"
+        answer: "LEADER / CHIEF(TAIN)"
+      - question: "<latin>Quid significat Anglicē: “vōx”?</latin>"
+        answer: "VOICE"

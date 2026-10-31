@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What derivative of a Latin word meaning “fight” means “disgusting” or “distasteful”?"
+      answer: "REPUGNANT"
+    boni:
+      - question: "What derivative of a Latin word meaning “place” means “to move something away from its original position, usually of bones”?"
+        answer: "DISLOCATE"
+      - question: "What derivative of a Latin word meaning “smoke” means “a fragrant liquid used as a cosmetic”?"
+        answer: "PERFUME"
+  - tossup:
+      question: "Who led two forays into Britain while he governed Gaul, which he brought under full  \tRoman control by defeating such groups as the Helvetii, Suevi, Eburones, and Arverni, the last under the command of Vercingetorix?"
+      answer: "(C. IULIUS) CAESAR"
+    boni:
+      - question: "What leader of the Eburones was freed by Caesar from dependence on the Atuatuci, but in 54 BC led the troops of Titurius Sabinus into a trap?"
+        answer: "AMBIORIX"
+      - question: "At what battle did Caesar defeat and capture Vercingetorix?"
+        answer: "ALESIA"
+  - tossup:
+      question: "For the sentence “Predators follow their prey for several days at a time.” give the form of <latin>sequor</latin> that would be needed."
+      answer: "<latin>SEQUUNTUR</latin>"
+    boni:
+      - question: "For the sentence “Rainstorms have often followed a drastic change in temperature.” give the form of the verb <latin>sequor</latin> that would be needed."
+        answer: "<latin>SECŪTĪ / SECŪTAE SUNT</latin>"
+      - question: "For the sentence “If only they had followed laws more carefully.” What form of the verb <latin>sequor</latin> that would be needed."
+        answer: "<latin>SECŪTĪ / SECŪTAE / SECŪTA ESSENT</latin>"
+  - tossup:
+      question: "While passing by Sicily in the <title>Aeneid</title>, the Trojans see what monster, still nursing the wound that Odysseus had inflicted on him, “washing the blood from his hollowed-out eye socket”?"
+      answer: "POLYPHEMUS (prompt on CYCLOPS)"
+    boni:
+      - question: "Next, Aeneas’ crew does not sail through the Strait of Messina in order to avoid what two monsters that guarded the narrows?"
+        answer: "SCYLLA and CHARYBDIS"
+      - question: "Soon after, Vergil tells the story of what river, which supposedly chased a water nymph to Sicily by flowing under the sea from Greece?"
+        answer: "ALPHE(I)US"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Cāra mihi es.</latin>"
+      answer: "YOU ARE DEAR TO ME"
+    boni:
+      - question: "Translate this sentence into English: <latin>Cūr nōn eī crēdit?</latin>"
+        answer: "WHY DOESN’T (S)HE BELIEVE HIM / HER?"
+      - question: "Translate this sentence into English: <latin>Labōrāvimus multās hōrās.</latin>"
+        answer: "WE (HAVE) WORKED FOR MANY HOURS  <latin>---</latin>"
+  - tossup:
+      question: "Inspired by his beauty, the gods carried off what brother of Ilus and Assaracus to Olympus, forcing him to become Zeus’ cupbearer?"
+      answer: "GANYMEDE"
+    boni:
+      - question: "What goddess did Ganymede replace as Zeus’ cupbearer?"
+        answer: "HEBE"
+      - question: "What did Zeus send to Ganymede’s father as recompense for the loss of his son?"
+        answer: "(PAIR OF) MARES / HORSES or GOLDEN GRAPEVINE"
+  - tossup:
+      question: "Consider the sentence: <latin>architecta perīta Athēnīs habitat.</latin> What case is <latin>Athēnīs</latin>?"
+      answer: "LOCATIVE"
+    boni:
+      - question: "The locative case is typically found with the names of cities, towns, and small islands.  There are, however, a number of other words that have a locative form. <latin>Domus</latin> and <latin>rūs</latin> are the usual suspects. What feminine noun, meaning “ground” or “earth” also has a locative form?"
+        answer: "<latin>HUMUS</latin>"
+      - question: "Although it is usually reckoned as an ablative of time, what third declension noun is literally translated in the locative as “in the evening?”"
+        answer: "<latin>VESPERE / VESPERĪ</latin>"
+  - tossup:
+      question: "What gluttonous general lost favor with the people by proclaiming himself <latin>Germanicus Imperator</latin> and alienated much of the military by humiliating Otho’s defeated soldiers, thus leading to his swift downfall in 69 AD?"
+      answer: "(A.) VITELLIUS"
+    boni:
+      - question: "Which of Vitellius’ commanders attempted to betray him but was deposed by his own troops at Hostilia?"
+        answer: "(A.) CAECINA (ALIENUS)"
+      - question: "Where did a demoralized Vitellian army crumble before the Danubian troops of Antonius Primus?"
+        answer: "(SECOND BATTLE OF) CREMONA / BEDRIACUM"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin>  <latin>Quae fēmina sub arbore mōrī sē necāvit quod coniunx suus quoque est mortuus sub eādem arbore?</latin>"
+      answer: "<latin>THISBĒ</latin>"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis erat amātor Hērōis quī est mortuus \t\tnatandō?</latin>"
+        answer: "<latin>LĒANDER</latin>"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quis erat marītus Psȳchēs quī vetuit uxōrem sē conspicere?</latin>"
+        answer: "<latin>CUPĪDO / AMOR / ERŌS //</latin> CUPID"
+  - tossup:
+      question: "Translate into Latin: “My love for school is small.”"
+      answer: "<latin>MEUS AMOR SCHOLAE / LUDĪ PARVUS EST</latin>"
+    boni:
+      - question: "Translate into Latin: “Everyone desires more good food.”"
+        answer: "<latin>OMNĒS PLŪS BONĪ CIBĪ CUPIUNT</latin>"
+      - question: "Using the word <latin>infirmus,</latin> translate into Latin: “The middle of Scipio’s legion was weak.”  <latin>MEDIA LEGIŌ SCIPIŌNIS INFIRMA ERAT</latin>"
+        answer: "<latin>---</latin>"
+  - tossup:
+      question: "The Valerio-Horatian laws, the <latin>Lex Hortensia</latin>, the <latin>Lex Canuleia</latin>, and the recognition of the tribunate were all results of what plebeian action that was probably their most powerful tool in securing rights from the patricians?"
+      answer: "SECESSION"
+    boni:
+      - question: "How many plebeian secessions are recorded between 494 and 287 BC?"
+        answer: "5"
+      - question: "In what year did the plebeians secede for the second time in protest of the abuses of the <latin>decemvirī</latin>?"
+        answer: "449 BC"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, that involves a <latin>lacerta</latin> or “lizard,” which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow.   \t<latin>Ursa in rīpā flūminis lacertae maximae occurrit.  Lacerta, quae in flūmine natābat, famem habēbat – et dentēs maximōs et terrībilēs!  Dīxit lacerta ursae, “in flūmen intrā et natā mēcum.”  Ursa, timēns dentēs maximōs lacertae magnamque sapientiam habēns, recūsāvit</latin>.\t<title>REPEAT</title>  The question:  <latin>Quid lacerta ursam facere hortābātur?</latin>"
+      answer: "<latin>INTRĀRE (IN) FLŪMEN/NATĀRE (SĒCUM)</latin>"
+    boni:
+      - question: "<latin>Cūr ursa lacertam timēbat?</latin>"
+        answer: "<latin>OB / PROPTER DENTĒS MAXIMŌS // LACERTA</latin> <latin>DENTĒS MAXIMŌS HABĒBAT</latin>"
+      - question: "<latin>Quālis erat ursa?</latin>"
+        answer: "<latin>PRŪDĒNS / SAPIĒNS / VĪVA / TIMENS</latin>"
+  - tossup:
+      question: "What two word Latin phrase, often conjoined into a single English word, is used to describe a period in American history in the South prior to 1860?"
+      answer: "<latin>ANTE BELLUM</latin>"
+    boni:
+      - question: "What two word Latin phrase is the title of a comic strip from 1992 similar to Far Side where individual strips do not necessarily follow one another in a cohesive narrative, but highlight an individual gag?"
+        answer: "<latin>NŌN SEQUITUR</latin>"
+      - question: "If, perhaps, you did not much care for the previous question, that is fine. There is no accounting for taste, after all. What Latin phrase means “there is no accounting for taste?”"
+        answer: "<latin>DĒ GUSTIBUS NŌN (EST) DISPUTANDUM / DISPUTANDUM EST</latin>"
+  - tossup:
+      question: "Who, on the same day as he was born on Mount Cyllene, killed a tortoise to create the first seven-stringed lyre and stole his half-brother Apollo’s cattle?"
+      answer: "HERMES"
+    boni:
+      - question: "What woman was Hermes’ mother?"
+        answer: "MAIA"
+      - question: "Mount Cyllene stands in what region of Greece, which is generally depicted in mythology as an idyllic location and the home to satyrs such as the god Pan?"
+        answer: "ARCADIA"
+  - tossup:
+      question: "What Roman fertility festival took place on the 15th of February?"
+      answer: "<latin>LUPERCALIA</latin>"
+    boni:
+      - question: "Although in Augustan times the god Lupercus was worshipped on the Lupercalia, in earlier times this festival was associated with what god who was also associated with Pan?"
+        answer: "<latin>FAUNUS / INUUS</latin>"
+      - question: "On which hill of Rome was the cave called the Lupercal?"
+        answer: "<latin>PALATINE</latin>  <latin>---</latin>"
+  - tossup:
+      question: "Distinguish in meaning among <latin>clēmens, clam,</latin> and <latin>clāmō</latin>."
+      answer: "<latin>CLĒMENS</latin> – CALM / MERCIFUL; <latin>CLAM</latin> – SECRETLY; <latin>CLĀMŌ</latin> - SHOUT"
+    boni:
+      - question: "Distinguish in meaning between <latin>humilis</latin> and <latin>umerus</latin>."
+        answer: "<latin>HUMILIS</latin> - HUMBLE / LOWLY; <latin>UMERUS</latin> – SHOULDER / (UPPER)ARM"
+      - question: "Give a Latin antonym of <latin>humilis</latin>."
+        answer: "<latin>SUPERBUS / SUBLIMIS /ALTUS / (EX)CELSUS /</latin> <latin>MAGNUS / CARUS / NOBILIS / ARROGANS / INSOLENS</latin>"
+  - tossup:
+      question: "Before being reincarnated, souls would forget their past experiences by drinking the waters of what Underworld river?"
+      answer: "LETHE"
+    boni:
+      - question: "The Lethe was one of the Underworld’s five rivers. On which of the other Underworld rivers did the gods swear oaths?"
+        answer: "STYX"
+      - question: "Which of the other Underworld rivers, sometimes considered a tributary of the Styx, was the river of wailing?"
+        answer: "COCYTUS"
+  - tossup:
+      question: "For the verb <latin>sūmō</latin>, give the second person singular, present active imperative."
+      answer: "<latin>SŪME</latin>"
+    boni:
+      - question: "Change that to the plural."
+        answer: "<latin>SŪMITE</latin>"
+      - question: "Give the second person singular, present active imperative of <latin>faciō</latin>."
+        answer: "<latin>FAC</latin>"
+  - tossup:
+      question: "Who founded the cult of Fides, enacted a law on parricide which required punishment by <latin>sciens dolō</latin>, built the Regia, and added two months to the year, all with advice of the nymph Egeria?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "From what Sabine town had the Romans summoned Numa to be their king?"
+        answer: "CURES"
+      - question: "What grandson of Numa was also a king of Rome?"
+        answer: "ANCUS MARCIUS / MARTIUS  <latin>---</latin>"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same root as the others: confusion, refund, fuselage, profuse?"
+      answer: "FUSELAGE"
+    boni:
+      - question: "Give all four principal parts and the meaning of the Latin verb at the root of the other words: confusion, refund, profuse."
+        answer: "<latin>FUNDŌ</latin>, <latin>FUNDERE</latin>, <latin>FŪDĪ</latin>, <latin>FŪSUM / -A / -US</latin> – POUR"
+      - question: "What English derivative of <latin>fons</latin> means “a receptacle for holy water.”"
+        answer: "FONT"

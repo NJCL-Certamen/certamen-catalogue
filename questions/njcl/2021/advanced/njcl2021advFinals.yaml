@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Which of the following adjectives CANNOT agree with the noun form <latin>tigrida</latin>: <latin>benevolentem, clāra, ignōtum, maximam</latin>?"
+      answer: "<latin>CLĀRA</latin>"
+    boni:
+      - question: "Which of the following adjectives CANNOT agree with the noun form <latin>vīrus</latin>: <latin>ingēns, maleficus, maius, obscūrum</latin>?"
+        answer: "<latin>MALEFICUS</latin>"
+      - question: "Which of the following adjectives CANNOT agree with the noun form <latin>orīgō: humilī, ignōta, aspera, turpis?</latin>"
+        answer: "HUMILĪ"
+  - tossup:
+      question: "A visual will now be shared. Once it is shared, you will have 15 seconds to examine it before I begin the toss-up question. You are looking at a scene from a sixteenth century tapestry, likely designed by Jean Cousin the Elder, which depicts a central myth in Cretan mythology. Please identify by name the individual labeled with the letter “E.”"
+      answer: "BRITOMARTIS / DICTYNNA"
+    boni:
+      - question: "Please identify the character in this myth labeled with the letter “D.”"
+        answer: "MINOS"
+      - question: "According to Vergil’s <title><latin>Ciris</latin></title>, what woman was forced to be the nursemaid to Nisus' daughter, Scylla, and was the mother of Britomartis?"
+        answer: "CARME"
+  - tossup:
+      question: "What prefect of Egypt led a six-month march through the Arabian desert to raid the kingdom of the Sabaeans in Arabia Felix during the reign of Augustus?"
+      answer: "(C.) AELIUS GALLUS"
+    boni:
+      - question: "Due to lack of water, Gallus was forced to abandon the siege of what city, whose ruins can be found in modern Yemen?"
+        answer: "MARIBA"
+      - question: "After the <latin>amicitia</latin> with the Sabaeans was broken, what coastal city did the Romans destroy?"
+        answer: "ADEN"
+  - tossup:
+      question: "<title><latin>In Togā Candidā</latin></title> and <title><latin>Pro Corneliō</latin></title> are the titles of two lost Ciceronian speeches that are transmitted to us from commentaries by what author, a blind man from Padua from whom we have commentaries on five speeches of Cicero?"
+      answer: "ASCONIUS PEDIANUS"
+    boni:
+      - question: "Name one of the other three speeches of Cicero which Pedianus commented on."
+        answer: "(one of:) <title><latin>PRO SCAURŌ</latin></title> / <title><latin>IN PISONEM</latin></title> / <title><latin>PRO MILONE</latin></title>"
+      - question: "Pedianus also wrote a philological work that opposed the detractors of what author?"
+        answer: "(P.) VERGIL(IUS MARO)"
+  - tossup:
+      question: "What meaning is shared by the roots of the English words “lintel” and “paraffin”?"
+      answer: "BOUNDARY [<latin>LIMES</latin> and <latin>FINIS</latin>]"
+    boni:
+      - question: "What meaning is shared by the roots of the English words “neat” and “candid”?"
+        answer: "SHINE [<latin>NITEO</latin> and <latin>CANDIDO</latin>]"
+      - question: "What meaning is shared by the roots of the English words “inept,” “verisimilitude,” and “correct.”?"
+        answer: "PROPER / FITTING [<latin>APTUS</latin>, <latin>VERUS</latin>, <latin>RECTUS</latin>]"
+  - tossup:
+      question: "Give the Latin term for the optional fee that patrons would pay to fashionable schools that didn’t charge explicit fees?"
+      answer: "<latin>HONORARIUM</latin>"
+    boni:
+      - question: "Along with holidays like Saturnalia and religious festivals, what days would students habitually get off from school?"
+        answer: "<latin>NUNDINAE</latin> / MARKET DAYS"
+      - question: "What was the Latin term for the gallery attached to a public building in which school was often held?"
+        answer: "<latin>PERGULA</latin>"
+  - tossup:
+      question: "Say in Latin using a passive periphrastic: “The only thing we have to fear is fear itself.”"
+      answer: "<latin>SOLA RĒS, (QUAE) NŌBĪS TIMENDA EST // SOLUM (QUOD) NOBĪS TIMENDUM EST, TIMOR IPSE EST.</latin>"
+    boni:
+      - question: "Now using two indirect questions say in Latin to one person, “Ask not what your country can do for you, ask what you can do for your country.”"
+        answer: "<latin>NOLĪ ROGĀRE QUID (TUA) PATRIA TIBI / PRŌ TĒ FACERE POSSIT, ROGĀ / SED QUID (TŪ) (TUAE) PATRIAE / PRŌ (TUĀ) PATRIĀ FACERE POSSĪS.</latin>"
+      - question: "Now say in Latin to more than one person: “It is better for you to be defeated while upholding a high principle than to escape by deceiving.”"
+        answer: "<latin>EST MELIUS VOBIS VINCĪ / SUPERĀRĪ SUSTINENTIBUS / TOLLENTIBUS ALTUM DECRETUM / PRINCIPIUM QUAM (EF)FUGERE / EVADERE DĒCIPIENDŌ / FALLENDŌ.</latin>"
+  - tossup:
+      question: "Because the new pope Cornelius agreed with Cyprian’s view on the controversy pertaining to Christians who had denied their faith during the persecutions, what Latin author and priest of Rome who opposed Cyprian’s view had himself elected pope of his own followers and also wrote works entitled <title><latin>De Bono Pudicitiae, De Spectaculis,</latin></title> and <title><latin>De Trinitate</latin></title>?"
+      answer: "NOVATIAN(US)"
+    boni:
+      - question: "What was the title of Cyprian’s work concerning these Christians who had denied their faith during the persecutions?"
+        answer: "<title><latin>DE LAPSIS</latin></title>"
+      - question: "What controversial Christian theologian was the subject of violent exchanges of letters between Jerome and Rufinus?"
+        answer: "ORIGEN"
+  - tossup:
+      question: "Give the Latin legal phrase often figuratively translated, “malice aforethought,” although a stricter translation might be, “with evil mind”"
+      answer: "<latin>MALŌ ANIMŌ</latin>"
+    boni:
+      - question: "Your editorial team hopes that they have caught and fixed all the questions that had to be corrected. What one-word Latin motto is used to indicate “things which must be corrected”?"
+        answer: "<latin>CORRIGENDA</latin>"
+      - question: "We think that we have changed everything that needed changing. What two-word Latin motto expresses that idea?"
+        answer: "<latin>MUTATĪS MUTANDĪS</latin>"
+  - tossup:
+      question: "Natives of Troezen claimed that nine men used a sacred stone in its marketplace to cleanse what man, who supposedly bit off a finger to stop the Furies from chasing him for matricide?"
+      answer: "ORESTES"
+    boni:
+      - question: "Name Orestes’ half-sister, the daughter of Aegisthus and Clytemnestra, whom Apollodorus says brought him to trial for matricide."
+        answer: "ERIGONE"
+      - question: "Name Orestes’ half-brother, the son of Aegisthus and Clytemnestra, who seized the throne at Mycenae while Orestes was absent and was killed on Orestes’ return."
+        answer: "ALETES"
+  - tossup:
+      question: "What emperor from Sirmium defeated the Getae on the lower Danube, a Nubian people called the Blemmyae, and an Isaurian man named Lydius who had led a band of robbers to terrorize Pamphylia and Lycia, all during his 6-year reign?"
+      answer: "PROBUS"
+    boni:
+      - question: "What two men proclaimed themselves joint emperors at Cologne in 280 AD but were defeated several months later, either dying in battle or captured?"
+        answer: "BONOSUS and PROCULUS"
+      - question: "What Moorish governor of Syria also proclaimed himself Augustus in 280 AD but was killed by his own troops before Probus could travel east?"
+        answer: "(IULIUS) SATURNINUS"
+  - tossup:
+      question: "Which of the following nouns, if any, does not belong with the others because of gender: <latin>ōs, vēr, acer, cōs, marmor</latin>?"
+      answer: "<latin>CŌS</latin>"
+    boni:
+      - question: "Which of those nouns, if any, does not belong because of declension: <latin>ōs, vēr, acer, cōs, marmor</latin>?"
+        answer: "NONE"
+      - question: "Which of the following nouns, if any, does not belong with the others because of gender: <latin>vertex, ligō, pariēs, fōns, grex</latin>?"
+        answer: "NONE"
+  - tossup:
+      question: "The legal author Masurius Sabinus gave his name to the legal school headed by what scholar of the Augustan age, who wrote works on sacred and constitutional law such as <title><latin>Coniectanea</latin></title> and <title><latin>De Iure Sacrificiorum</latin></title> and pursued a political career all the way up to the consulship, unlike his contemporary Antistius Labeo who preferred a more private and peaceful life?"
+      answer: "(C. ATEIUS) CAPITO"
+    boni:
+      - question: "What was the name of the opposing school of legal thought led by Antistius Labeo?"
+        answer: "PROCULIAN"
+      - question: "What earlier legal scholar, a consul of 198 B.C., wrote a work entitled <title><latin>Tripertita</latin></title> which includes the Twelve Tables and a commentary on their development along with the <latin>legis actiones</latin>?"
+        answer: "(AELIUS) PAETUS (CATUS)"
+  - tossup:
+      question: "Who changed his sacrifice from a hero’s sacrifice to a sacrifice to Zeus the Savior after he saw—exactly 30 days after first coming—Heracles again reach Cleonae, though now with the Nemean Lion’s pelt?"
+      answer: "MOLORCHUS"
+    boni:
+      - question: "Heracles returned to Cleonae a third time, for it was there that he ambushed and killed what pair of brothers as they journeyed to the Isthmian Games?"
+        answer: "MOLIONE(S) / MOLIONIDES / MOLIONIDAE // CTEATUS and EURYTUS"
+      - question: "After killing the Moliones, Heracles recalled Augeas’ son, Phyleus, from what island, from which Phyleus’ son Meges hails in the <title>Iliad</title> and Amphinomus hails in the <title>Odyssey</title>?"
+        answer: "DULICHIUM"
+  - tossup:
+      question: "Translate to English the following sentence. <latin>Cum praedōnēs in silvā nōs invenīrent, omnia nōbīs praeter vestīmenta in tergīs nostrīs abstulērunt.</latin>"
+      answer: "WHEN / SINCE / BECAUSE THE ROBBERS FOUND US IN THE FOREST, THEY STOLE EVERYTHING FROM US EXCEPT THE CLOTHES ON OUR BACK(S)."
+    boni:
+      - question: "Now translate: <latin>Etiam sī haec vestimenta ā tergīs nostrīs avulsa essent, animus noster ab eīs minuī nōn potuissent.</latin>"
+        answer: "EVEN IF THESE CLOTHES HAD BEEN TORN FROM OUR BACKS, OUR SPIRIT WOULD NOT HAVE BEEN ABLE TO BE / COULDN’T HAVE BEEN LESSENED BY THEM."
+      - question: "Now translate: <latin>Is quī est praeditus spē et nullō timōre, nēquīquam cibō, vestimentō, tectō prīvātur.</latin>"
+        answer: "HE WHO IS FURNISHED / ENDOWED / GIFTED WITH HOPE AND NO FEAR, IN VAIN IS DEPRIVED OF FOOD, CLOTHING, (AND) SHELTER"
+  - tossup:
+      question: "While the most famous example of this type of poem is exemplified by a lost letter from Cinna to Asinius Pollio in 56 BC, a reversed form of this type of poem is still preserved in one of Horace’s epodes wishing a shipwreck upon the poet Maevius. What is the Greek term for this type of poem that expresses wishes for a prosperous journey to a departing friend?"
+      answer: "<latin>PROPEMPTIKON</latin>"
+    boni:
+      - question: "Claudian’s poem on the occasion of the marriage of Honorius and the daughter of Stilicho, and Catullus’s poem on the marriage of Manlius Torquatus and Vinia Aurunculeia are examples of what type of Latin poem?"
+        answer: "<latin>EPITHALAMIUM</latin>"
+      - question: "Calvus’s <title><latin>Io</latin></title>, Cinna’s <title><latin>Zmyrna</latin></title>, and Valerius Cato’s <title><latin>Dictynna</latin></title> are examples of what type of Latin poem?"
+        answer: "EPYLLION"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer the questions that follow in ENGLISH: <latin>Iōhannēs Bonus quī terēbat diēs suōs sub arbore citharae canendō numquam officium sūmēbat. Māter eius Iōhannī dictāvit fore ut is dux fīeret gregis magnī tam clārī ut hominēs undique Novum Aurēliānēnsem advenīrent. Nōn sōlum hoc sed etiam prōmīsit fore ut nōmen eius sōlis occāsū scrīberētur lūminibus. Numquam metuit nē īnsignis nōn fīeret quia omnēs quī hūc advenīrent “Iōhanne” clāmābunt.</latin> Question: Who will shout Johannes’ name, according to the passage?"
+      answer: "EVERYONE WHO COMES / ARRIVES (TO NEW ORLEANS / THERE) // PEOPLE COMING FROM EVERYWHERE"
+    boni:
+      - question: "Who got Johannes out from under the tree with a couple of promises?"
+        answer: "HIS MOTHER"
+      - question: "What two things did Johannes’ mother promise him?"
+        answer: "HE WOULD BE THE LEADER OF A (GREAT / BIG OLD) BAND / FLOCK (SO FAMOUS THAT PEOPLE WOULD COME TO NEW ORLEANS FROM ALL AROUND) // HIS BAND WOULD BECOME FAMOUS <emphasis><latin>AND</latin></emphasis> HIS NAME WOULD BE WRITTEN IN LIGHTS (ON THE SUNSET / DUSK) (if they give two parts of the same promise, you can say “we consider those two parts of the same promise. Please give both promises”)"
+  - tossup:
+      question: "Following the disaster at Lautulae during the Second Samnite War, the Romans were able to recover lost resources in part by establishing several colonies, such as one on the site of what Samnite stronghold in Apulia which they captured in 314 BC?"
+      answer: "LUCERIA"
+    boni:
+      - question: "Perhaps influenced by their Greek allies at Naples, what naval board did the Romans establish in 311 BC, along with a little squadron to patrol the Tyrrhenian coast?"
+        answer: "<latin>DUOVIRI NAVALES</latin>"
+      - question: "After a march through the Ciminian Mountains, where did Fabius Maximus Rullianus redeem himself in 310 BC by defeating the Etruscans, who had allied themselves with the Samnites?"
+        answer: "LAKE VADIMO"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententia ab Ovidiō scrīpta: Pār erat īnferior versus -- rīsisse Cupīdō dīcitur atque ūnum surripuisse pedem. Quō cāsū est Cupīdō?</latin>"
+      answer: "NOMINATIVO"
+    boni:
+      - question: "<latin>RESPONDĒ AUT ANGLICĒ AUT LATĪNĒ: Quārē sunt verba “rīsisse” et “surripuisse” īnfīnītīvī?</latin>"
+        answer: "ORATIO OBLIQUA / INDIRECT STATEMENT (DEPENDENT ON <latin>DICITUR</latin>)"
+      - question: "<latin>Ovidius continuēbat: Quis tibi, saevē puer, dedit hoc in carmina iūris? Dīc mihi Anglicē quārē “iūris” in cāsū genitīvī sit.</latin>"
+        answer: "PARTITIVE (GENITIVE)"
+  - tossup:
+      question: "What two men stay at Pherae in the house of Diocles as they, encouraged by a so-called “Gerenian charioteer,” journey to visit Helen and Menelaüs and discover Odysseus’ fate?"
+      answer: "TELEMACHUS and P(E)ISISTRATUS"
+    boni:
+      - question: "Menelaüs was in the process of marrying off what son of his, whose name means “great sorrow,” to a daughter of Alector?"
+        answer: "MEGAPENTHES"
+      - question: "During their initial conversation, Helen slips the drug <latin>nepenthe</latin> into the drinks of Telemachus and Menelaüs. From what Egyptian woman had Helen received this drug?"
+        answer: "POLYDAMNA"

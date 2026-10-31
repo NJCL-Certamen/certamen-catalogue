@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "The Roman navy underwent a dramatic and crucial transformation after what Roman consul  captured a Carthaginian quinquereme as he crossed into Sicily in 264 BC to start the First Punic  War?"
+      answer: "APPIUS CLAUDIUS (CAUDEX)"
+    boni:
+      - question: "Who took advantage of the newly developed Roman navy to achieve a major victory at Mylae in 260  BC?"
+        answer: "(C.) DUILIUS"
+      - question: "At what battle did Publius Claudius Pulcher, brother of Appius Claudius Caudex and consul of 249  BC, face a crushing naval defeat after supposedly failing to respect inauspicious portents on his  ship?"
+        answer: "DREPANA"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “agmen”?</latin>"
+      answer: "COLUMN (OF PEOPLE) / MOVING / MARCH / LINE / ARMY / A TRAIN / FLEET"
+    boni:
+      - question: "<latin>Quid Anglicē significat “discrīmen”?</latin>"
+        answer: "SEPARATION / DIVIDING LINE / DECISION / CRISIS / DANGER / CRITICAL CONDITION / MOMENT (OF DECISION) / DISCRIMINATION"
+      - question: "<latin>Quid Anglicē significat “facinus”?</latin>"
+        answer: "(MIS)DEED / CRIME / GUILT / CRIMINAL CONDUCT"
+  - tossup:
+      question: "Who supplanted Medus, the son of Medea, as the heir to the throne of Athens when he came to the  court of his father, Aegeus, bearing the sword and sandals that Aegeus had left for him under a  rock in Troezen?"
+      answer: "THESEUS"
+    boni:
+      - question: "What did Medea attempt to do to prevent Theseus from taking her son’s birthright?"
+        answer: "POISON THESEUS"
+      - question: "How did Theseus avoid death from Medea’s poison?"
+        answer: "AEGEUS RECOGNIZED THE SWORD AND KEPT HIM FROM INGESTING THE POISON"
+  - tossup:
+      question: "Complete this analogy: <latin>portō : portātus esse :: mittō : _____.</latin>"
+      answer: "<latin>MISSUS ESSE</latin>"
+    boni:
+      - question: "Change <latin>missus esse</latin> to the active."
+        answer: "<latin>MĪSISSE</latin>"
+      - question: "Change <latin>missus esse</latin> to the future."
+        answer: "<latin>MISSUM ĪRĪ</latin>"
+  - tossup:
+      question: "What Roman king is described in this excerpt from Livy?"
+      answer: "“He prepared to found anew, by laws and  customs, that city that had so recently been founded by force of arms. He built the temple of Janus  at the foot of the Argiletum as an index of peace and war. Further, he strove to inculcate in the  minds of his subjects the fear of the gods.” NUMA (POMPILIUS)"
+    boni:
+      - question: "What supernatural being is described in this excerpt from Livy?"
+        answer: "“Numa pretended to have nocturnal  interviews with her, saying it was on her advice that he was instituting the ritual most acceptable  to the gods.” EGERIA"
+      - question: "Livy states that the doors to the Temple of Janus were shut for the third and last time after what battle  of the first century BC?"
+        answer: "ACTIUM"
+  - tossup:
+      question: "Say in Latin, “Let’s run!”"
+      answer: "<latin>CURRĀMUS!</latin>"
+    boni:
+      - question: "Using the verb <latin>interficiō</latin> and the jussive subjunctive, say in Latin “Let him not be killed!”"
+        answer: "<latin>NĒ INTERFICIĀTUR! / NĒ INTERFECTUS SIT!</latin>"
+      - question: "Using the verb <latin>maneō</latin>, say in Latin “Let them stay here for three hours!”"
+        answer: "<latin>HĪC TRĒS HŌRĀS MANEANT!</latin>"
+  - tossup:
+      question: "Who gathered feathers and used string and wax to tie them together to build functional wings with  which he and his son could escape imprisonment in Crete?"
+      answer: "DAEDALUS"
+    boni:
+      - question: "What information had Daedalus divulged to earn imprisonment?"
+        answer: "A WAY TO ESCAPE THE LABYRINTH"
+      - question: "Who was Daedalus’ son, who did not survive their flight?"
+        answer: "ICARUS"
+  - tossup:
+      question: "Give the Latin phrase and its meaning for the abbreviation <latin>b.i.d.</latin>"
+      answer: "<latin>BIS IN DIĒ</latin> – TWICE (IN) A DAY"
+    boni:
+      - question: "Give the Latin phrase and its meaning for the abbreviation <latin>loc. cit.</latin>"
+        answer: "<latin>LOCŌ CITĀTŌ</latin> – IN THE PLACE CITED"
+      - question: "Give the Latin phrase and its meaning for the abbreviation <latin>sec. leg.</latin>"
+        answer: "<latin>SECUNDUM LĒGEM</latin> – ACCORDING TO LAW"
+  - tossup:
+      question: "What Latin term refers to the dark and bitter liquid from the first pressing of olives?"
+      answer: "<latin>AMURCA</latin>"
+    boni:
+      - question: "For what purpose did the Romans use <latin>amurca</latin>?"
+        answer: "FERTILIZER / BUILDING MATERIAL / PESTICIDE / HERBICIDE / FOOD PRESERVATIVE / LEATHER MAINTENANCE  PRODUCT / ASTRINGENT / BRONZE POLISHER"
+      - question: "What Latin term refers to the second liquid that flowed out from greater pressure being applied to the  olive crusher?"
+        answer: "<latin>OLEUM (OLĪVUM)</latin>"
+  - tossup:
+      question: "Translate into English, “<latin>Servī in hortō mānsērunt ut dominum custōdīrent</latin>.”"
+      answer: "THE SLAVES REMAINED / STAYED IN THE GARDEN (IN ORDER) TO GUARD THE(IR)  MASTER"
+    boni:
+      - question: "Translate into English, “<latin>Ancillae ad forum missae erant quae plūs cibī emerent.</latin>”"
+        answer: "THE SLAVE-GIRLS / SLAVE-WOMEN HAD BEEN SENT TO THE FORUM / MARKET TO BUY / WHO WOULD BUY / WERE TO BUY MORE FOOD"
+      - question: "Translate into English, “<latin>Pater fīliīs imperāvit nē dīligentius labōrārent.</latin>”"
+        answer: "THE FATHER ORDERED HIS SONS NOT TO WORK TOO HARD / HARDER / TOO  DILIGENTLY / MORE DILIGENTLY"
+  - tossup:
+      question: "Whose unexpected loss in a footrace, after outrunning numerous suitors, was caused by golden  apples?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Who won Atalanta’s hand in marriage by beating her in that footrace?"
+        answer: "HIPPOMENES / MELANION"
+      - question: "Who gave Hippomenes the golden apples from a grove at Tamasus?"
+        answer: "APHRODITE / VENUS"
+  - tossup:
+      question: "According to the <title><latin>Lēxicon Latīnitātis Recentis</latin></title><title>,</title> what type of modern establishment would you be  frequenting if you were at a <latin>currus cēnātōrius</latin> during lunch time?"
+      answer: "FOOD CART / MOBILE RESTAURANT / FOOD TRUCK"
+    boni:
+      - question: "What would you be ordering at this <latin>currus cēnātōrius</latin> if you were to ask for a <latin>placenta compressa</latin> with only <latin>cāseus</latin> <emphasis>on</emphasis> it?"
+        answer: "PIZZA / FLATBREAD"
+      - question: "At this <latin>currus cēnātōrius</latin>, what would you be asking for if you wanted some <latin>lactis flōs</latin> for your  crêpe?"
+        answer: "(WHIPPED) CREAM"
+  - tossup:
+      question: "Listen carefully to the following passage, which I shall read twice, then answer the question that  follows in English:  <latin>Cīvitās bellum sine causā bonā aut propter īram gerere nōn dēbet. Sī, autem, nōn poterimus  esse salvī et servāre patriam sine bellō, bellum erit necessārium. Semper   dēbēmus dēmonstrāre magnam fortitūdinem in bellō et, hostibus victīs, maximam  clēmentiam.</latin> (repeat)  The question: Under what two circumstances will war be necessary?"
+      answer: "IF WE CAN’T BE SAFE & PROTECT (OUR) COUNTRY"
+    boni:
+      - question: "Why should a state avoid war in the first place?"
+        answer: "IF THERE’S NOT A GOOD REASON / OUT / BECAUSE OF ANGER"
+      - question: "What should we always remember to do after a victory?"
+        answer: "SHOW (GREATEST) CLEMENCY / MERCY"
+  - tossup:
+      question: "What king of Argos yoked his daughters to a boar and a lion and attempted to put his son-in-law back  on the throne of Thebes by leading an expedition of seven heroes, commonly known as the  “Seven Against Thebes”?"
+      answer: "ADRASTUS"
+    boni:
+      - question: "Who was Adrastus’s leonine son-in-law, whom he was attempting to restore to the throne of Thebes?"
+        answer: "POLYNEICES"
+      - question: "What other son-in-law of Adrastus bore a boar on his shield and had lost the throne of Calydon?"
+        answer: "TYDEUS"
+  - tossup:
+      question: "Of the <latin>Templum Dīvī Iūlī</latin>, the <latin>Basilica Iūlia</latin>, the <latin>Templum Sāturnī</latin>, and the <latin>Arcus Cōnstantīnī</latin>,  which is not located in the <latin>Forum Rōmānum</latin>?"
+      answer: "<latin>ARCUS CŌNSTANTĪNĪ</latin> ("
+    boni:
+      - question: "Identify the building first constructed by Agrippa and later rebuilt by Hadrian."
+        answer: "A"
+      - question: "Identify the Temple to Hercules Victor, sometimes called the Temple to Mater Matuta."
+        answer: "D"
+  - tossup:
+      question: "Give the correct Latin form of the relative pronoun needed for the following sentence: “The soldiers, whose commander had been killed, fought fiercely.”"
+      answer: "<latin>QUŌRUM</latin>"
+    boni:
+      - question: "Give the correct Latin form of the relative pronoun needed for the following sentence: “The legions, which the enemies destroyed, had been stationed around the city.”"
+        answer: "<latin>QUĀS</latin>"
+      - question: "Give the correct Latin form of the relative pronoun needed for the following sentence:  “The cohort, of which Caesar was in charge, defended the city.”"
+        answer: "<latin>CUI</latin>"
+  - tossup:
+      question: "What emperor, who paid Shapur I for control of several eastern provinces, is most notable for his  exquisite festivities celebrating the 1000th anniversary of Rome’s founding two years before his  death in 249 AD?"
+      answer: "(M. IULIUS) PHILIP(PUS) (THE ARAB)"
+    boni:
+      - question: "Name Philip’s former general who defeated him at Verona in 249 AD."
+        answer: "DECIUS"
+      - question: "What emperor came close to defeating Shapur before his untimely death in 244 AD, possibly at the  hands of a mutiny engineered by Philip?"
+        answer: "GORDIAN III"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: incriminate, discern, secret, critter, excrement?"
+      answer: "CRITTER"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: capture, receipt, cable, cater, achieve?"
+        answer: "ACHIEVE"
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others: agility, examination, navigate, adage, coagulate?"
+        answer: "ADAGE"
+  - tossup:
+      question: "What son of Ixion, king of the Lapiths, and former husband of Hippodameia sits trapped to this day  on the Seat of Forgetfulness in the Underworld?"
+      answer: "PIRITHOÜS"
+    boni:
+      - question: "Why was Hades displeased enough with Pirithoüs to trap him for eternity?"
+        answer: "PIRITHOÜS INTENDED TO ABDUCT PERSEPHONE"
+      - question: "Who accompanied Pirithoüs and was also trapped in a Seat of Forgetfulness for a time?"
+        answer: "THESEUS"
+  - tossup:
+      question: "How many tenses are there for participles in Latin?"
+      answer: "THREE"
+    boni:
+      - question: "How many tenses are there for subjunctives in Latin?"
+        answer: "FOUR"
+      - question: "How many tenses are there for imperatives in Latin?"
+        answer: "TWO"

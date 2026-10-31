@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "With what movie and comic book hero would you associate the sentence: “M<latin>agnā cum potestāte  venit magnum officium</latin>”?"
+      answer: "SPIDERMAN"
+    boni:
+      - question: "What famous movie character once said, “<latin>reveniam</latin>”?"
+        answer: "THE TERMINATOR"
+      - question: "The title of what movie might be rendered into Latin as “<latin>Pugnātricēs Umbrārum”</latin>?"
+        answer: "GHOSTBUSTERS"
+  - tossup:
+      question: "What mythical figure supposedly provided guidance on the foundation of Rome’s religious practices  to Numa Pompilius?"
+      answer: "EGERIA"
+    boni:
+      - question: "From what Sabine city did Numa originate?"
+        answer: "CURES"
+      - question: "What two months did Numa add to the Roman calendar?"
+        answer: "JANUARY, FEBRUARY"
+  - tossup:
+      question: "Across what hateful river, upon which the gods swear their oaths, are the souls of the dead ferried by  boat?"
+      answer: "STYX"
+    boni:
+      - question: "Who is the boatman of the river Styx?"
+        answer: "CHARON"
+      - question: "What did Aeneas have to give to Charon to ferry him across the Styx while still living?"
+        answer: "GOLDEN BOUGH"
+  - tossup:
+      question: "Change the phrase <latin>ille bonus poēta</latin> to the genitive."
+      answer: "<latin>ILLĪUS BONĪ POĒTAE</latin>"
+    boni:
+      - question: "Change <latin>illīus bonī poētae</latin> to the dative."
+        answer: "<latin>ILLĪ BONŌ POĒTAE</latin>"
+      - question: "Change <latin>illīus bonī poētae</latin> to the ablative."
+        answer: "<latin>ILLŌ BONŌ POĒTĀ</latin>"
+  - tossup:
+      question: "Capua, Naples, and Pompeii were all towns that can be found in what region of Italy?"
+      answer: "CAMPANIA"
+    boni:
+      - question: "Clusium, Veii, and Tarquinia were all towns that can be found in what region of Italy?"
+        answer: "ETRURIA"
+      - question: "Velitrae, Antium, and Caenina were all towns that can be found in what region of Italy?"
+        answer: "LATIUM"
+  - tossup:
+      question: "What Lydian girl challenged Athena to a weaving contest and was changed into a spider?"
+      answer: "ARACHNE"
+    boni:
+      - question: "Who challenged Apollo to a music contest and was flayed alive?"
+        answer: "MARSYAS"
+      - question: "Who disagreed with Tmolus' verdict in the music contest between Apollo and Pan?"
+        answer: "MIDAS"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: “canis dominum numquam  mordet.” Quō cāsū est “dominum”?</latin>"
+      answer: "<latin>ACCŪSĀTĪVŌ</latin>"
+    boni:
+      - question: "<latin>Quae pārs ōrātiōnis est “numquam”?</latin>"
+        answer: "<latin>ADVERBIUM</latin>"
+      - question: "<latin>Cuius numerī est “canis”?</latin>"
+        answer: "<latin>SINGULĀRIS</latin>"
+  - tossup:
+      question: "Which of the following words does not belong with the others: <latin>Pōns, nūbēs, sōl, lūna?</latin>"
+      answer: "<latin>PŌNS</latin>"
+    boni:
+      - question: "Which of the following words does not belong with the others: S<latin>anguis, cor, fustis, digitus?</latin>"
+        answer: "<latin>FUSTIS</latin>"
+      - question: "Which of the following words does not belong with the others: <latin>Nōminō, vocō, numerō, appellō?</latin>"
+        answer: "<latin>NUMERŌ</latin>"
+  - tossup:
+      question: "What Trojan prince, the son of Tros, was abducted by Zeus in the form of an eagle, so that he could  serve as cupbearer to the gods?"
+      answer: "GANYMEDE"
+    boni:
+      - question: "Whom did he displace as cupbearer because she had exposed herself and embarrassed everyone?"
+        answer: "HEBE"
+      - question: "What was the food and drink of the gods?"
+        answer: "NECTAR AND AMBROSIA"
+  - tossup:
+      question: "Please listen to the following sentences about Minos, which I will read twice, and answer the  question that follows in Latin:  <latin>Mīnōs rēx, quī Crētam īnsulam rēgēbat, ibi magnam et pulchram aulam, multōs servōs,  multam pecūniam habēbat; itaque superbus factus erat, atque deōs omnēs sibi favēre  putābat sēque ab eīs omnia petere posse.</latin> (repeat)  The question: <latin>Ubi erat Mīnōs rēx?</latin>"
+      answer: "<latin>IN ĪNSULĀ / IN CRĒTĀ / IN AULĀ</latin>"
+    boni:
+      - question: "<latin>Quālis erat aula rēgis?</latin>"
+        answer: "<latin>MAGNA / PULCHRA</latin>"
+      - question: "<latin>Ā quibus Mīnōs putābat sē omnia petere posse?</latin>"
+        answer: "<latin>Ā DEĪS</latin>"
+  - tossup:
+      question: "The reign of what emperor involved almost nonstop conflict along the Danube against the Iazyges,  Quadi, and Marcomanni?"
+      answer: "MARCUS AURELIUS / MARCUS ANNIUS VERUS"
+    boni:
+      - question: "With whom did Marcus Aurelius co-rule?"
+        answer: "LUCIUS VERUS / LUCIUS CEIONIUS COMMODUS"
+      - question: "Give the Latin name for the ancient city where Marcus Aurelius died."
+        answer: "VINDOBONA"
+  - tossup:
+      question: "For the verb <latin>tangō</latin>, give the 2nd person plural, perfect, active, indicative."
+      answer: "<latin>TETIGISTIS</latin>"
+    boni:
+      - question: "Change <latin>tetigistis</latin> to the passive."
+        answer: "<latin>TACTĪ (-AE, -A) ESTIS</latin>"
+      - question: "Change <latin>tactī estis</latin> to the present."
+        answer: "<latin>TANGIMINĪ</latin>"
+  - tossup:
+      question: "What Babylonian couple fell in love with each other even though they had never met but only talked  through a hole in the wall separating them?"
+      answer: "PYRAMUS & THISBE"
+    boni:
+      - question: "What couple was able to be together nightly because he swam the Hellespont to be with her, until he  drowned in a storm?"
+        answer: "HERO AND LEANDER"
+      - question: "What couple was eventually together when he carved her out of marble and fell in love with her?"
+        answer: "PYGMALION & GALATEA"
+  - tossup:
+      question: "What should a hospital patient be allowed to eat or drink if the abbreviation <latin>N.P.O.</latin> is on their door,  standing for <latin>nihil per ōs</latin>?"
+      answer: "NOTHING"
+    boni:
+      - question: "For what Latin word does the medical abbreviation <latin>stat.</latin> stand?"
+        answer: "<latin>STATIM</latin>"
+      - question: "How often should medicine be taken if it is labeled with the abbreviation <latin>q.n.,</latin> standing for <latin>quāque  nocte</latin>?"
+        answer: "EVERY NIGHT"
+  - tossup:
+      question: "In which room of the Roman baths would the bather wait long enough for the perspiration to start, in  order to guard against the danger of passing too suddenly into the high temperature of the  <latin>caldārium</latin>?"
+      answer: "<latin>TEPIDĀRIUM</latin> ("
+    boni:
+      - question: "Which of the imperial bathing complex is depicted as “A”?"
+        answer: "BATHS OF DIOCLETIAN"
+      - question: "Which of the imperial bathing complex is depicted as “B”?"
+        answer: "BATHS OF CARACALLA"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Gladiātor, postquam amphitheātrum intrāvit, statim leōnēs interfēcit.</latin>"
+      answer: "AFTER HE ENTERED THE AMPHITHEATER, THE GLADIATOR IMMEDIATELY KILLED THE LIONS"
+    boni:
+      - question: "…: <latin>Gladiātor, quamquam fessus erat, cum multīs animālibus diū pugnābat.</latin>"
+        answer: "THE GLADIATOR, ALTHOUGH HE WAS TIRED, WAS FIGHTING / KEPT ON FIGHTING WITH MANY (WILD) ANIMALS FOR A LONG TIME"
+      - question: "…: <latin>Duo ē leōnibus gladiātōrī clam appropinquābant quod eum cōnsūmere cupiēbant.</latin>"
+        answer: "TWO OF THE LIONS SECRETLY APPROACHED / WERE APPROACHING THE GLADIATOR SECRETLY BECAUSE THEY WERE WANTING / WANTED TO EAT HIM"
+  - tossup:
+      question: "What derivative of the verb <latin>audiō</latin> means “an official examination of records”?"
+      answer: "AUDIT"
+    boni:
+      - question: "What derivative of the noun <latin>vestis</latin> means “to use something for potential profitable returns”?"
+        answer: "INVEST"
+      - question: "What derivative of the verb <latin>moneō</latin> means “what one can enjoy from a profitable investment”?"
+        answer: "MONEY"
+  - tossup:
+      question: "Having been summoned by the Aetolian League, which king fought a war against Rome in battles at  Myonessus, Ambracia, and Thermopylae?"
+      answer: "ANTIOCHUS III / ANTIOCHUS THE GREAT"
+    boni:
+      - question: "Where in 190 BC was Antiochus III defeated by the combined forces of Lucius Scipio and  Eumenes II?"
+        answer: "MAGNESIA"
+      - question: "What enemy of a previous war with Rome sought refuge at Antiochus’ court and commanded a  squadron at the Battle of Side?"
+        answer: "HANNIBAL (BARCA)"
+  - tossup:
+      question: "Who carried the wife of Heracles across a river and then tried to abduct her?"
+      answer: "NESSUS"
+    boni:
+      - question: "Who was this wife of Heracles?"
+        answer: "DEIANEIRA"
+      - question: "Why did Deianeira send Heracles a cloak soaked in Nessus' blood, which ended up killing him?"
+        answer: "NESSUS TOLD DEIANEIRA THAT IT WOULD MAKE HIM FALL BACK IN LOVE WITH HER (AND HERACLES WAS CURRENTLY SMITTEN WITH IOLE)"
+  - tossup:
+      question: "What use of the ablative case is illustrated in the following sentence: <latin>Fīlius cum celeritāte scrībit</latin>?"
+      answer: "MANNER"
+    boni:
+      - question: "…: <latin>Fīlius trībus hōrīs reveniet</latin>?"
+        answer: "TIME WITHIN WHICH"
+      - question: "…: <latin>Fīliī inter sē fortitūdine differunt</latin>?"
+        answer: "SPECIFICATION / RESPECT"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What two-word Latin phrase means “in one’s right mind”?"
+      answer: "<latin>COMPOS MENTIS</latin>"
+    boni:
+      - question: "What two-word Latin phrase means “Northern Lights”?"
+        answer: "<latin>AURŌRA BOREĀLIS</latin>"
+      - question: "What two-word Latin phrase means “alcohol, specifically brandy or whiskey”?"
+        answer: "<latin>AQUA VĪTAE</latin>"
+  - tossup:
+      question: "In the <title>Iliad</title>, how did the Trojans retrieve Hector's body for burial?"
+      answer: "PRIAM WENT TO ACHILLES' TENT (DURING THE NIGHT) AND RANSOMED HIM"
+    boni:
+      - question: "Who guided Priam safely past the Greeks to Achilles' tent?"
+        answer: "HERMES"
+      - question: "What happens in the <title>Iliad</title> immediately after the funeral of Hector?"
+        answer: "NOTHING / THE <title>ILIAD</title> ENDS"
+  - tossup:
+      question: "Who was Maximian's better-known imperial colleague?"
+      answer: "(GAIUS AURELIUS VALERIUS) DIOCLETIAN(US)"
+    boni:
+      - question: "Which of the two ruled in the Western half of the empire?"
+        answer: "(MARCUS AURELIUS VALERIUS) MAXIMIAN(US)"
+      - question: "To where did Diocletian retire in 305 AD?"
+        answer: "SALONA / SPLIT"
+  - tossup:
+      question: "For the verb <latin>sum</latin>, give the first person singular, perfect subjunctive"
+      answer: "<latin>FUERIM</latin>"
+    boni:
+      - question: "Make that form <latin>fuerim</latin> imperfect"
+        answer: "<latin>ESSEM</latin>"
+      - question: "Change <latin>fuerim</latin> to the future perfect indicative"
+        answer: "<latin>FUERŌ</latin>"
+  - tossup:
+      question: "What son of Eupeithes did Odysseus kill first in his battle against the suitors?"
+      answer: "ANTINOÜS"
+    boni:
+      - question: "Whom did Telemachus kill first in the battle?"
+        answer: "AMPHINOMOUS"
+      - question: "What rich son of Polybus did Penelope favor and Odysseus kill second?"
+        answer: "EURYMACHUS"
+  - tossup:
+      question: "Translate this motto from a branch of the British Royal Air Force: <latin>Bellō parātī, pācem volentēs</latin>"
+      answer: "PREPARED FOR WAR, (BUT) WISHING PEACE"
+    boni:
+      - question: "Translate this Latin quotation from the military author Vegetius: <latin>quī dēsīderat pācem, praeparet bellum</latin>"
+        answer: "LET HIM WHO DESIRES PEACE PREPARE (FOR) WAR"
+      - question: "Speaking of death and destruction, translate this Latin phrase: <latin>Sōla lingua bona est lingua mortua</latin>"
+        answer: "THE ONLY GOOD LANGUAGE IS A DEAD LANGUAGE"
+  - tossup:
+      question: "Where did Hannibal accomplish the unique feat of encircling a numerically superior army with a smaller one to inflict a disastrous defeat on the Romans?"
+      answer: "CANNAE"
+    boni:
+      - question: "Who were the two Roman commanders at Cannae?"
+        answer: "(LUCIUS AEMILIUS) PAULLUS AND (GAIUS TERENTIUS) VARRO"
+      - question: "Upon what African country’s cavalry did the success of Hannibal’s encircling tactic partially depend?"
+        answer: "NUMIDIA"
+  - tossup:
+      question: "America runs on Dunkin, but the world lives on Starbucks! You are about to order your usual drink, a tall Tazo tea, but you are overcome with sleep deprivation from last night’s lucubration. Instead, you decide to maximize your coffee intake by upgrading to the “Venti.” What does this imply about the quantity of beverage that you are ordering?"
+      answer: "IT CONTAINS <emphasis>TWENTY</emphasis> OUNCES"
+    boni:
+      - question: "Your Certamen teammate, who specializes in mythology, is cogitating on the story of Aeolus in the <title>Aeneid</title> and thinks the word “Venti” is the nominative plural of a Latin noun. What does your teammate think this word means?"
+        answer: "WIND(S)"
+      - question: "Your other Certamen teammate, who specializes in history, is thinking about Caesar and one of his famous three-word phrases. He believes that the word “Venti” derives from a word in that phrase. About what verb is your malinformed teammate thinking?"
+        answer: "<latin>VENIŌ / -ĪRE</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Memoria magnī bellī cōnsulibus grātissima erat</latin>"
+      answer: "THE MEMORY OF A / THE GREAT WAR WAS VERY PLEASING TO THE CONSULS"
+    boni:
+      - question: "Translate: <latin>Trium frātrum Alexander nātū maximus fuit</latin>"
+        answer: "OF THE / HIS THREE BROTHERS, ALEXANDER WAS THE OLDEST / GREATEST BY BIRTH"
+      - question: "Translate: <latin>Hī servī neque diū labōrāre possunt neque numerāre</latin>"
+        answer: "THESE SLAVES CAN NEITHER WORK FOR A LONG TIME NOR COUNT"
+  - tossup:
+      question: "What town, originally founded by the Oscans in the seventh- or sixth-century BC and an important crossroad between Cumae, Nola, and Stabiae, was besieged by Sulla in 89 BC and later destroyed by the eruption of Mount Vesuvius?"
+      answer: "POMPEII"
+    boni:
+      - question: "Let’s take a trip to ancient Pompeii. What is the Latin term for the type of facility shown in picture three?"
+        answer: "<latin>THERMOPOLIUM / POPĪNA</latin>"
+      - question: "What building is shown in picture one?"
+        answer: "TEMPLE OF ISIS / <latin>TEMPLUM ISIDIS</latin>"
+  - tossup:
+      question: "On what desolate island did the Greeks leave the annoyingly loud and smelly Philoctetes?"
+      answer: "LEMNOS"
+    boni:
+      - question: "What had caused his sudden, noisome condition?"
+        answer: "SNAKE-BITE"
+      - question: "In the last year of the war, why did the Greeks retrieve Philoctetes and actually take the time to heal his snakebite?"
+        answer: "(IT WAS PROPHESIED BY HELENUS THAT) <emphasis>PHILOCTETES</emphasis> AND THE <emphasis>BOW</emphasis> AND ARROWS OF <emphasis>HERACLES</emphasis> WERE <emphasis>NEED</emphasis>ED (TO WIN THE WAR BY KILLING PARIS)"
+  - tossup:
+      question: "What English noun meaning “a tax on the import or export of goods” is derived from Latin verb meaning “owe”?"
+      answer: "DUTY"
+    boni:
+      - question: "<latin>Debeō</latin> itself is derived from another Latin verb. Which one?"
+        answer: "<latin>HABEŌ</latin>"
+      - question: "What Latin verb meaning “offer” or “provide” also derives from <latin>habeō</latin>?"
+        answer: "<latin>PRAEBEŌ</latin>"
+  - tossup:
+      question: "What use of the subjunctive is found in the following quotation from Vergil: “<latin>Nunc sciō quid sit amor</latin>”?"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "What other change would have to be made to that sentence if “<latin>sciō</latin>” were changed to “<latin>sciēbat</latin>”?"
+        answer: "<latin>SIT</latin> WOULD BECOME <latin>ESSET</latin>"
+      - question: "Now say in Latin, “I know that there is love.”"
+        answer: "<latin>SCIŌ AMŌREM ESSE</latin>"
+  - tossup:
+      question: "By what more common name do we know the Marsic or Italian War?"
+      answer: "SOCIAL WAR"
+    boni:
+      - question: "The name Marsic War comes from the Marsi, a southern Italian tribe. What Oscan speaking Italian tribe was the other opponent of Rome in the war?"
+        answer: "SAMNITES"
+      - question: "What was the first capital of the Italian allies, which was later renamed Italia?"
+        answer: "CORFINIUM"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Iūlius Caesar, cum ā pīrātīs captus esset, eōs dērīsit quod exīstimābat pretium nimis parvum esse. Eīs minātus est sē omnēs in crucem sublātūrum esse et imperāvit ut tacērent nēve somnum suum turbārent.</latin> Question: <latin>Quibus Caesar minātus est sē eōs interfectūrum esse?</latin>"
+      answer: "PĪRĀTĪS"
+    boni:
+      - question: "<latin>Cūr Caesar pīrātās dērīsit?</latin>"
+        answer: "(QUOD EXĪSTIMĀBAT) PRETIUM (NIMIS) PARVUM ESSE / PRETIUM (NIMIS) PARVUM ERAT"
+      - question: "<latin>Quid Caesar pīrātās facere iussit nē somnum suum turbārent?</latin>"
+        answer: "TACĒRE / SILĒRE"
+  - tossup:
+      question: "What sort of people wore the following articles of clothing: <latin>trabea</latin>, <latin>sagum</latin>, <latin>lacerna</latin>, <latin>caligae</latin>?"
+      answer: "SOLDIERS"
+    boni:
+      - question: "For five points each, give the Latin terms for the two major categories into which Roman clothing fell depending on whether they were wrapped or pulled over the head"
+        answer: "<latin>AMICTUS</latin>, <latin>INDŪTUS</latin>"
+  - tossup:
+      question: "What did Minos challenge Theseus to retrieve from the sea to prove he was the son of Poseidon?"
+      answer: "HIS RING"
+    boni:
+      - question: "When Theseus dove into the sea to retrieve it, who handed it to him?"
+        answer: "AMPHITRITE"
+      - question: "How did Theseus' argument with Minos over paternity begin?"
+        answer: "THESEUS PROTECTED AN ATHENIAN GIRL  (PERIBOEA / EËRIBOEA) FROM MINOS' ADVANCES"
+  - tossup:
+      question: "Consider the sentence, “They came to Greece to see the statues in Athens.” How does one say in Latin “in Athens”?"
+      answer: "<latin>ATHĒNĪS</latin>"
+    boni:
+      - question: "Using a subjunctive, now translate “to see the statues” for that sentence"
+        answer: "<latin>UT / QUĪ STATUĀS / SIGNA VIDĒRENT / SPECTĀRENT</latin>"
+      - question: "How would you translate “to see the statues” using a supine?"
+        answer: "<latin>STATUĀS / SIGNA VĪSUM / SPECTĀTUM</latin>"
+  - tossup:
+      question: "In the <title>Odyssey</title>, what river must Odysseus cross to reach the underworld?"
+      answer: "OCEAN(US)"
+    boni:
+      - question: "With what must Odysseus fill a hole to attract dead spirits?"
+        answer: "(SHEEP) BLOOD"
+      - question: "Who was the first shade to approach Odysseus?"
+        answer: "ELPENOR"
+  - tossup:
+      question: "When recognized by the spotter, follow this command: <latin>Surge et dīc mihi Anglicē tē certāmine fruī</latin>"
+      answer: "STUDENT SHOULD STAND AND SAY THAT HE ENJOYS / LOVES CERTAMEN"
+    boni:
+      - question: "Now perform this command: <latin>Surgite et dīcite mihi Anglicē vōs dīligenter studuisse</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD STAND AND SAY THAT THEY HAVE STUDIED DILIGENTLY / CAREFULLY"
+      - question: "Now perform this command: <latin>Surge et imperā mihi Anglicē ut saltem</latin>"
+        answer: "ONE STUDENT SHOULD STAND AND ORDER THE MODERATOR TO DANCE  <latin>2009 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

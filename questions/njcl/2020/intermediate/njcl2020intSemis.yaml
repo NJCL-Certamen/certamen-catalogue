@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who set up as a ferryman on the River Evenus, easily carrying off Deïaneira, who had just married Heracles, because he could swiftly ford the river as a centaur?"
+      answer: "NESSUS"
+    boni:
+      - question: "To save Deïaneira, Heracles shot Nessus with an arrow, which he had tipped with the venom of what creature?"
+        answer: "(LERNAEAN) HYDRA"
+      - question: "Deïaneira was the mother of several of Heracles’ children. What eldest son of the pair led the first Heraclid invasion of the Peloponnese but was killed in single combat by Echemus?"
+        answer: "HYLLUS"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lentē lacerta ad cavernam ursōrum appropinquāvit.  Stomachus eius fremēbat propter famem.  Nōn timēbat quod nūllum signum perīculī nōtāvit.  Subitō eī aggressus est pater ursus, cuius dentēs erant tantī quantī eius. Ecce autem, inter ursum et lacertam errāvit ūnus ex ursulīs, nūllā cum cūrā!  Lacerta putāvit sē hoc patī nōn posse.</latin> <title>REPEAT</title>  \tThe question:  <latin>Cūr lacerta nōn verēbatur, ad cavernam appropinquans?</latin>"
+      answer: "<latin>NŪLLUM SIGNUM PERĪCULĪ NŌTĀVIT // NŪLLUM PERĪCULUM VĪDIT // PATREM URSUM NŌN EXSPECTĀVIT //  SIGNUM PERĪCULĪ NŌN NŌTĀVIT</latin>"
+    boni:
+      - question: "<latin>Quālēs erant dentēs ursī patris?</latin>"
+        answer: "<latin>TANTĪ QUANTĪ LACERTAE</latin> \t\t(*<emphasis><latin>prompt</latin></emphasis><latin>*</latin> on “<latin>TANTĪ QUANTĪ EIUS”</latin>) // \t\t<latin>MAXIMĪ / MAGNĪ / INGENTĒS</latin>"
+      - question: "<latin>Dīc Anglicē id quod lacerta sibi putāvit.</latin>"
+        answer: "(THAT) THE LIZARD / (S)HE/IT / I CAN’T / COULDN’T BEAR / ENDURE THIS"
+  - tossup:
+      question: "What emperor, the son of Eutropia, suffered a famine in Rome caused by the  \trevolt of Domitius Alexander in Africa, but was able to thwart attacks by Severus and  \tGalerius with the help of his father, Maximian, and was only ousted after his defeat by  \tConstantine at the Milvian Bridge?"
+      answer: "(M. AURELIUS VALERIUS) MAXENTIUS"
+    boni:
+      - question: "For what son who died at the age of 4 in 309 AD did Maxentius build a temple in the <latin>Forum Romānum</latin>?"
+        answer: "ROMULUS"
+      - question: "What other building in the forum did Maxentius begin and Constantine finish?"
+        answer: "<latin>BASILICA NOVA</latin> / BASILICA OF MAXENTIUS (AND CONSTANTINE)"
+  - tossup:
+      question: "Verbs that contain the infix <latin>-sc-</latin> such as <latin>senescō, labescō,</latin> and <latin>crescō</latin> fall under what category of verb, which convey the beginning of an action?"
+      answer: "INCEPTIVE / INCHOATIVE"
+    boni:
+      - question: "Intensive verbs, also called frequentatives, denote a forcible or repetitious action over time.  What subset of intensive verbs is exemplified by the verbs <latin>capessō</latin> and <latin>petissō</latin>?"
+        answer: "MEDITATIVE"
+      - question: "Meditative verbs of the third conjugation typically have supines of the fourth conjugation.  Bearing that in mind, what are the principal parts of the verb <latin>arcessō</latin>?"
+        answer: "<latin>ARCESSŌ, ARCESSERE, ARCESSĪVĪ, ARCESSĪTUS/-A/-UM</latin>"
+  - tossup:
+      question: "In Book 5 of Ovid’s <title><latin>Metamorphōsēs</latin></title>, who speaks the following lines to a Scythian king, Lyncus: “I came neither by ship through the waves, nor by foot across lands—the penetrable air parted for me. I bear the gifts of Ceres, which will give back fruitful harvests when scattered through the wide fields.”"
+      answer: "TRIPTOLEMUS"
+    boni:
+      - question: "The Scythian king, Lyncus, ignored Triptolemus and attempted to kill him. Into what kind of animal was he turned for this crime?"
+        answer: "LYNX"
+      - question: "After this, Ovid tells the fate of the Pierides, who were transformed into magpies for challenging what goddesses to a contest?"
+        answer: "MUSES / MOUSAI  <latin>---</latin>"
+  - tossup:
+      question: "What emperor of the third century AD observed several pretenders to the throne, known as the “thirty tyrants,” pop up across the Roman Empire?"
+      answer: "(PUBLIUS LICINIUS EGNATIUS) GALLIENUS"
+    boni:
+      - question: "Which of these pretenders, based in western Europe, claimed the title of <latin>Restitūtor Galliārum</latin> and also won allegiance from the governors of Spain and Britain?"
+        answer: "(MARCUS CASSIANUS LATINUS) POSTUMUS"
+      - question: "Which young son of Gallienus did Postumus kill after storming and taking the city of Cologne?"
+        answer: "SALONINUS"
+  - tossup:
+      question: "Translate only the subordinate clause in this sentence: <latin>Ut monstrum terrērent, fēminae magnae clāmāvērunt.</latin>"
+      answer: "(SO) THAT THEY TERRIFIED THE MONSTER // (IN ORDER) TO TERRIFY THE MONSTER"
+    boni:
+      - question: "Now fully translate this sentence: <latin>Est puella tam fortis ut ūnō ictū monstra vincantur.</latin>"
+        answer: "THE GIRL IS / THERE IS A GIRL SO STRONG  THAT (THE) MONSTERS ARE DEFEATED WITH ONE STRIKE / BLOW"
+      - question: "Now fully translate this sentence: <latin>Plūs crīnium in summō puerī capite crescat.</latin>"
+        answer: "MAY/LET MORE HAIR(S) GROW ON THE TOP OF THE BOY’S HEAD"
+  - tossup:
+      question: "For the sentence, “The opinions of those who were feeling that injustice had been committed were ignored,” give one Latin word, a form of the verb <latin>sentiō</latin>, that would on its own translate “of those who were feeling.”"
+      answer: "<latin>SENTIENTIUM</latin>"
+    boni:
+      - question: "For that same sentence: “The opinions of those who were feeling that injustice had been committed were ignored,” give the correct Latin form of the verb <latin>agō</latin> which means “commit” in this context."
+        answer: "<latin>ACTAM (ESSE)</latin>"
+      - question: "For the sentence: “The citizenry persuaded the man who went outside to stay inside,” \t\tgive the correct Latin form of the verb <latin>eō, īre</latin> to translate “the man who went” in a single \t\tword."
+        answer: "<latin>EUNTĪ</latin> / <latin>IENTĪ</latin> [player must identify as later form unprompted]"
+  - tossup:
+      question: "What island was home to two sons of Magnes - one a fisherman named Dictys, who attempted to protect a woman marooned in a chest from the other, Polydectes?"
+      answer: "SERIPHUS / SERIPHOS"
+    boni:
+      - question: "Name that woman, who washed up on Seriphos in a chest with her son."
+        answer: "DANAË"
+      - question: "In Hyginus’ version, Perseus accidentally killed Acrisius at the funeral games of Polydectes on Seriphos. In the more common version, however, Perseus accidentally killed Acrisius during funeral games at what town?"
+        answer: "LARIS(S)A"
+  - tossup:
+      question: "If you’ve ever saved a funny meme from the Internet, it may have been a JPEG [‘jay-peg’] file, which stands for Joint Photographic Experts Group. Of the words “joint,” “photographic,” “experts,” and “group,” which two are derived from Latin?"
+      answer: "JOINT & EXPERTS"
+    boni:
+      - question: "If the image wasn’t a JPEG, it may have been a PNG [‘pee-en-gee’] file, which stands for Portable Network Graphics.  Of those three words, which word or words ultimately derive from Latin?"
+        answer: "PORTABLE"
+      - question: "Another type of digital image file, though less common than JPEG or PNG, is a TIFF [‘tiff’] file, which stands for Tagged Image File Format.  Of those four words, which word or words are derived from Latin?"
+        answer: "IMAGE, FILE, FORMAT  <latin>---</latin>"
+  - tossup:
+      question: "Translate this sentence into Latin: “I knew Horatius was working yesterday.”"
+      answer: "<latin>SCĪVĪ / COGNŌVĪ HORĀTIUM HERI LABŌRĀRE</latin>"
+    boni:
+      - question: "Translate this sentence into Latin: “I think Horatius slept for three days.”"
+        answer: "<latin>CŌGITŌ / PUTŌ HORĀTIUM TRĒS DIĒS DORMĪ(VI)SSE / DORMĪISSE</latin>"
+      - question: "Using <latin>intellegō</latin>, say in Latin, “Horatius understands that he will live in Rome soon.” <latin>HORĀTIUS INTELLEGIT SĒ / EUM / ILLUM / HUNC</latin>"
+        answer: "<latin>RŌMAE MOX HABITĀTŪRUM / VĪCTURUM ESSE</latin>"
+  - tossup:
+      question: "Who arbitrated between Helius and Poseidon for the patronage of Corinth, a job which distracted him from guarding Tartarus together with Gyges and Cottus, his hundred-handed brothers?"
+      answer: "BRIAREÜS"
+    boni:
+      - question: "Following Zeus’ victory, the Hecatoncheires were tasked with guarding the Titans who had opposed him. What two Titans with prophetic ability were not put in Tartarus?"
+        answer: "PROMETHEUS & THEMIS"
+      - question: "When the other gods revolted against Zeus, who summoned Briareüs to defend him?"
+        answer: "THETIS"
+  - tossup:
+      question: "Who married the consul-designate in 48 A.D., Gaius Silius, which led the freedman Narcissus to report their conspiracy to Claudius, her actual husband and the father of their son, Brittanicus?"
+      answer: "(VALERIA) MESSAL(L)INA"
+    boni:
+      - question: "Valeria Messalina was Claudius’ third wife. Name either of the first two."
+        answer: "(PLAUTIA) URGULANILLA / (AELIA) PAETINA"
+      - question: "What freedman gained ascendancy after championing Agrippina’s candidacy for fourth wife of Claudius?"
+        answer: "PALLAS"
+  - tossup:
+      question: "Answer this question with one Latin term: <latin>Quī vir an quae fēmina animalia in silvā petit ut haec necet et familiae cibum det?</latin>"
+      answer: "<latin>VĒNĀTOR / VĒNĀTRIX / \tCAPTOR / CAPTRIX / PRAEDATOR / PRAEDĀTRIX</latin>"
+    boni:
+      - question: "Answer this question with one Latin term: <latin>Quī vir an quae fēmina navem in marī perīte navigat?</latin>"
+        answer: "<latin>GUBERNĀTOR / GUBERNĀTRIX/NAUTA</latin>"
+      - question: "Answer this question with one Latin term: <latin>Quī vir an quae fēmina voce suavī et musicā aliōs dēlectat?</latin>"
+        answer: "<latin>CAN(TĀ)TOR / CAN(TĀ)TRIX</latin>"
+  - tossup:
+      question: "This is a visual question. You will have 10 seconds to study the visual before the question begins."
+      answer: "TU:  I received a number of postcards from my dear friend who took social distancing to the extreme and moved to his own tropical island. Each of the items contains one postcard. Identify by letter the postcard that had the following message attached: <latin>Salvē, amīcē! Volō ut tū mē visitēs et insulam meam conspicias. Hīc habēmus nōn unum solum sed duo etiam loca aquīs cadentibus.</latin>  <latin>D</latin>"
+    boni:
+      - question: "Which of the postcards had this message attached: <latin>Hōdiē tam laetus fuī. Adeō gavīsus sum hōdiē ut aquam per florēs spargēns ambulābam.</latin>"
+        answer: "B"
+      - question: "Which of the postcards had this message attached: <latin>Eugē! Hodiē in lītore errābam ēsuriēns. Capere prandium meum cōnābar, et pistrem magnam et īrātissimam cēpī. Nātūra est tam magnifica ut pistris ad mare mihi reddenda esset. Etiam ēsuriō. Ēheu!</latin>"
+        answer: "<latin>E</latin>     <latin>---</latin>"
+  - tossup:
+      question: "Zeus turned what two creatures to stone in order to resolve a paradox between an inescapable pursuer and uncatchable prey?"
+      answer: "LAELAPS and TEUMESSIAN VIXEN / FOX"
+    boni:
+      - question: "Over the course of his life, Laelaps was owned by a series of notables, but to what woman did Zeus originally bequeath Laelaps upon her arrival to Crete?"
+        answer: "EUROPA"
+      - question: "After Europa, both Minos and Procris owned Laelaps. To whom did Procris’ husband, Cephalus, loan Laelaps when he wanted to kill the Teumessian Vixen?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "<latin>RESPONDĒ LATĪNĒ:</latin>  <latin>Quid dīxit fēmina ad dextrārum iūnctiōnem cōnfarreātiōnis?</latin>"
+      answer: "<latin>QUANDŌ / UBI TŪ GAĪUS, EGO GAĪA</latin>."
+    boni:
+      - question: "<latin>RESPONDĒ LATĪNĒ: Quī tunc dīxērunt “Fēlīciter”?</latin>"
+        answer: "<latin>OMNĒS / AMĪCĪ / HOSPITĒS / FAMILIA(E) / PATER ET MATER (vel sim.)</latin>"
+      - question: "<latin>RESPONDĒ LATĪNĒ: Quid uxōrī dedit marītus in ātriō domūs suae?</latin>"
+        answer: "<latin>AQUAM / IGNEM</latin>"
+  - tossup:
+      question: "On occasion, the courts of the justice system can act on behalf of a minor in the same way as a guardian. What Latin phrase describes this power of the court?"
+      answer: "<latin>IN LOCŌ PARENTIS</latin>"
+    boni:
+      - question: "The preposition <latin>dē</latin> can be used to mean “concerning.” What two word Latin phrase, using a fifth declension noun, can also be used to mean “concerning” or “in the matter of”?"
+        answer: "<latin>IN RĒ</latin>"
+      - question: "What three word Latin phrase, using the same fifth declension noun, is used to describe a narrative that begins in the middle of the action?"
+        answer: "<latin>IN MEDIĀS RĒS</latin>"
+  - tossup:
+      question: "What governor of Gaul was defeated at the Milvian Bridge by Lutatius Catulus in 77 BC, putting an end to his bid to overturn all of the recently retired Sulla’s reforms?"
+      answer: "(M. AEMILIUS) LEPIDUS"
+    boni:
+      - question: "What legate of Lepidus stirred up another revolt in Northern Italy and was driven into Mutina and surrendered?"
+        answer: "(M. IUNIUS) BRUTUS"
+      - question: "Who was granted a special pro-praetorian <latin>imperium</latin> to fight Brutus and dishonored his promise to spare Brutus’ life after he surrendered?"
+        answer: "(CN.) POMPEY / POMPEIUS (MAGNUS)  <latin>---</latin>"
+  - tossup:
+      question: "“Courage,” “cordial,” and “discord” all come from what Latin word with what meaning?"
+      answer: "<latin>COR</latin> – HEART"
+    boni:
+      - question: "“Maneuver,” “operand,” and “cooperate” all come from what Latin noun with what meaning?"
+        answer: "<latin>OPUS</latin> – WORK"
+      - question: "“Price,” “praise,” and “appreciate” all come from what Latin word with what meaning?"
+        answer: "<latin>PRETIUM</latin> – PRICE"

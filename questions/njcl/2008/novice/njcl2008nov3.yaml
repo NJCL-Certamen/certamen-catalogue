@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "The ashes of which emperor, a distant relative of the Julio-Claudians, were the last to be placed in the Mausoleum of Augustus in 98 AD?"
+      answer: "NERVA"
+    boni:
+      - question: "What was unique about Nerva’s ascension to the imperial throne?"
+        answer: "HE WAS (THE FIRST EMPEROR) CHOSEN BY THE SENATE"
+      - question: "What prompted Nerva to choose Trajan as his successor?"
+        answer: "TRAJAN’S MILITARY EXPERIENCE / TO APPEASE THE TROOPS / TO MITIGATE HIS OWN LACK OF MILITARY EXPERIENCE"
+  - tossup:
+      question: "Aurelia really likes her history books. Give the Latin and English for the abbreviation <latin>A.D.,</latin> which she commonly finds in her history book"
+      answer: "<latin>ANNŌ DOMINĪ</latin> – IN THE YEAR OF THE LORD"
+    boni:
+      - question: "What is the Latin and English for the abbreviation <latin>e.g.</latin>?"
+        answer: "<latin>EXEMPLĪ GRĀTIĀ</latin> - FOR THE SAKE OF AN EXAMPLE"
+      - question: "Aurelia is reading a passage in her history book and comes across a footnote with the abbreviation <latin>ibid</latin>. Give the Latin and English for this abbreviation"
+        answer: "IBĪDEM – IN THE SAME PLACE / BOOK / CHAPTER / PAGE"
+  - tossup:
+      question: "The <latin>Lēx Semprōnia Agrāria</latin>, which stipulated that landowners may not possess more than 500 <latin>iūgera</latin> of the <latin>ager pūblicus</latin>, was proposed by which tribune in 133 BC?"
+      answer: "TIBERIUS GRACCHUS"
+    boni:
+      - question: "Which fellow tribune tried to block Tiberius Gracchus’ proposal by using his veto powers?"
+        answer: "(M.) OCTAVIUS"
+      - question: "Who led the mob that killed Tiberius Gracchus and his followers?"
+        answer: "SCIPIO N<emphasis>ASICA</emphasis>"
+  - tossup:
+      question: "From what Latin verb with what meaning do we derive the English noun “sentence”?"
+      answer: "<latin>SENTIŌ</latin>, <latin>SENTĪRE</latin> – FEEL, PERCEIVE, SENSE, SEE"
+    boni:
+      - question: "From the same Latin root, give the English noun meaning “feeling.”"
+        answer: "SENSE / SENTIMENT / SENSATION"
+      - question: "From the same Latin root, give the English verb meaning “to give approval or permission.”"
+        answer: "CONSENT / ASSENT"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>agricolae, quī fessī nōn erant, in agrō labōrābant</latin>"
+      answer: "THE FARMERS WHO WERE NOT TIRED WORKED / WERE WORKING IN THE FIELD"
+    boni:
+      - question: "Now translate: <latin>agricola, postquam ad agrum pervēnit, equōs currentēs vīdit</latin>"
+        answer: "AFTER THE FARMER REACHED THE FIELD, HE SAW THE HORSES RUNNING / RUNNING HORSES"
+      - question: "Now translate: <latin>agricola equīs frumentum dedit quod dīligenter labōrābant</latin>"
+        answer: "THE FARMER GAVE THE HORSES GRAIN BECAUSE THEY WORKED / WERE WORKING DILIGENTLY / HARD"
+  - tossup:
+      question: "Which emperor of Rome ordered massive executions after a governor of Upper Germany led a rebellion against him in 89 AD?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "Who was this governor of <latin>Germania Superior</latin>?"
+        answer: "SATURNINUS"
+      - question: "By whom was Domitian eventually assassinated?"
+        answer: "STEPHANUS"
+  - tossup:
+      question: "Of the words <latin>ānulus, piscīna, gladius, flōs,</latin> and <latin>mōns</latin>, which is being described by the following sentence: <latin>est locus ubi animalia in aquā nātantia vidēre potes</latin>"
+      answer: "PISCĪNA"
+    boni:
+      - question: "…: <latin>hās rēs in digitīs hominum invenīmus</latin>"
+        answer: "ĀNULUS"
+      - question: "…: <latin>postquam vēr advēnit, ē terrā surgunt</latin>"
+        answer: "FLŌS"
+  - tossup:
+      question: "What she-goat provided baby Zeus with milk in the caves of Mt. Ida on Crete?"
+      answer: "AMALTHEA"
+    boni:
+      - question: "What was the ghastly fate suffered by Zeus’ brothers and sisters?"
+        answer: "BEING EATEN (ALIVE / WHOLE) BY (THEIR FATHER) CRONUS"
+      - question: "Who was the last of Zeus’ siblings to be disgorged?"
+        answer: "HESTIA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Ōlim rēx trēs fīliās habēbat. Duae eārum erant pulchrae, sed tertia soror erat turpissima. Propter turpitūdinem omnēs cīvēs eam dēspiciēbant. Quamquam pulchritūdinem nōn habēbat, maxima scientia eī erat.</latin> Question: <latin>Quālis erat tertia fīlia?</latin>"
+      answer: "TURPIS(SIMA) / SAPIĒNS / SAPIENTISSIMA"
+    boni:
+      - question: "<latin>Quot fīliae pulchritūdinem nōn habēbant?</latin>"
+        answer: "ŪNA"
+      - question: "<latin>Quid habēbat turpis fīlia?</latin>"
+        answer: "(MAXIMAM) SCIENTIAM / TURPITŪDINEM"
+  - tossup:
+      question: "Ilipa, Baecula, Metaurus River, and Zama were all battles fought during what war?"
+      answer: "SECOND PUNIC WAR"
+    boni:
+      - question: "During which of the battles mentioned in the toss-up did Hasdrubal, the brother of Hannibal, lose his head?"
+        answer: "METAURUS RIVER"
+      - question: "Who was the victorious general at the Battle of Ilipa?"
+        answer: "(P. CORNELIUS) SCIPIO (THE FUTURE) AFRICANUS (MAIOR)"
+  - tossup:
+      question: "For which of his labors did Heracles enlist the help of his nephew Iolaus?"
+      answer: "KILLING THE HYDRA (OF LERNA)"
+    boni:
+      - question: "How did Iolaus help Heracles in this labor?"
+        answer: "EVERY TIME HERACLES CUT OFF ONE OF HYDRA’S HEADS IOLAUS WOULD CAUTERIZE THE NECK"
+      - question: "What creature did Hera send to hinder Heracles as he was cutting off the Hydra’s heads?"
+        answer: "A GIANT CRAB / CANCER"
+  - tossup:
+      question: "From what two Latin roots with what meanings do we derive the English noun “sinecure”?"
+      answer: "<latin>SINE</latin> (+ ABL.) – WITHOUT <latin>CŪRA</latin> – CARE, CONCERN"
+    boni:
+      - question: "From what two Latin roots with what meanings do we derive the English verb “mollify”?"
+        answer: "<latin>MOLLIS, -E</latin> – SOFT <latin>FACIŌ</latin> (<latin>FACERE)</latin> – MAKE, DO"
+      - question: "From what Latin adjective with what meaning do we derive the English noun “relic”?"
+        answer: "<latin>RELIQUUS (-A/ -UM)</latin> – REMAINING, REST (OF)"
+  - tossup:
+      question: "Into what was Clytie transformed?"
+      answer: "SUN-FLOWER / HELIOTROPE"
+    boni:
+      - question: "Into what was Daphne transformed?"
+        answer: "LAUREL TREE"
+      - question: "Into what were the sisters of Phaethon transformed?"
+        answer: "POPLAR TREES"
+  - tossup:
+      question: "What is the Latin term for the household shrine?"
+      answer: "<latin>LARĀRIUM</latin>"
+    boni:
+      - question: "Where in the Roman house would you find the <latin>larārium</latin>?"
+        answer: "<latin>ALA(E)</latin> (prompt on <latin>“ATRIUM”</latin>)"
+      - question: "With respect to a Roman house, what was the <latin>postīcum</latin>?"
+        answer: "BACK DOOR"
+  - tossup:
+      question: "It is not uncommon to find dedicatory inscriptions from ancient Rome. One such inscription begins with the words “<latin>Minervae memorī</latin>.” In what case and number is the word Minervae in this inscription?"
+      answer: "DATIVE SINGULAR (Accept “Genitive singular” but let the student know that we have accepted it because there is not enough information in the toss-up. However, it is Dative in the actual inscription.)"
+    boni:
+      - question: "You now have the complete dedicatory inscription with important notes at the bottom. To what or to whom does the word “<latin>sibi</latin>” refer?"
+        answer: "TULLIA (SUPERIANA) / THE AUTHOR OF THE INSCRIPTION"
+      - question: "Why did Tullia Superiana offer this dedication to Minerva?"
+        answer: "(SHE BELIEVED THAT) MINERVA HAD RESTORED HER HAIR"
+  - tossup:
+      question: "Who killed a dragon sacred to Ares before establishing the foundation of the city of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "What did Cadmus do with the teeth of the dragon?"
+        answer: "HE PLANTED / SOWED THEM"
+      - question: "What happened after Cadmus planted the teeth in the ground?"
+        answer: "WARRIORS ROSE FROM THE GROUND (AND FOUGHT EACH OTHER)"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>miser</latin> to agree with the noun form <latin>animālī</latin>"
+      answer: "<latin>MISERŌ</latin>"
+    boni:
+      - question: "Give the correct form of <latin>pulcher</latin> to go with <latin>puellae</latin>"
+        answer: "<latin>PULCHRAE</latin>"
+      - question: "Give the correct form of <latin>iūstus</latin> to go with <latin>rem</latin>"
+        answer: "<latin>IŪSTAM</latin>"
+  - tossup:
+      question: "Translate the following sentence into Latin: The dogs played for three hours"
+      answer: "<latin>CANĒS TRĒS HŌRĀS LUDĒBANT / LŪSĒRUNT</latin>"
+    boni:
+      - question: "Now translate: We had walked (for) four miles"
+        answer: "<latin>QUATTUOR MĪLIA PASSUUM AMBULĀVERĀMUS</latin>"
+      - question: "Now translate: The senators have named Julius king"
+        answer: "<latin>SENĀTŌRĒS IŪLIUM RĒGEM NŌMINĀVĒRUNT / CLĀMĀVĒRUNT / CREĀVĒRUNT / APPELLĀVĒRUNT</latin>"
+  - tossup:
+      question: "Give the positive adverb for the adjective <latin>īrātus</latin>"
+      answer: "<latin>ĪRĀTĒ</latin>"
+    boni:
+      - question: "<latin>audāx</latin>"
+        answer: "<latin>AUDĀCTER</latin>"
+      - question: "<latin>bonus</latin>"
+        answer: "<latin>BENE</latin>"
+  - tossup:
+      question: "Who stole the eye and tooth of the Gray Sisters in order to learn the whereabouts of the Gorgon Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who were the parents of Perseus?"
+        answer: "ZEUS / JUPITER & DANAE"
+      - question: "How was Perseus able to kill Medusa without being turned into stone?"
+        answer: "HE USED A BRONZE SHIELD & LOOKED AT THE REFLECTION (INSTEAD OF LOOKING INTO MEDUSA’S EYES) 2008 NJCL CERTAMEN NOVICE DIVISION"

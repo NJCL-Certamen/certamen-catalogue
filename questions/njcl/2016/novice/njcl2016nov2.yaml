@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What grandson of Cadmus stumbled upon Artemis and saw her naked while she was bathing, and was  turned into a stag as punishment?"
+      answer: "ACTAEON"
+    boni:
+      - question: "What king of Elis did Selene visit nightly as he lay sleeping on Mt. Latmus?"
+        answer: "ENDYMION"
+      - question: "Who pursued Artemis and died when they both shot arrows at her in the form of a deer and missed,  hitting each other?"
+        answer: "OTUS AND EPHIATLES (THE ALOADAE)"
+  - tossup:
+      question: "Supply the correct form of the adjective <latin>fortis</latin> to agree with the noun form <latin>iuvene.</latin>"
+      answer: "<latin>IUVENĪ</latin>"
+    boni:
+      - question: "Change <latin>fortī iuvene</latin> to the plural."
+        answer: "<latin>FORTIBUS IUVENIBUS</latin>"
+      - question: "Change <latin>fortibus iuvenibus</latin> to the genitive."
+        answer: "<latin>FORTIUM IUVENUM</latin>"
+  - tossup:
+      question: "Europe is being deluged by a major refugee crisis. Which word in that sentence has come into English  unchanged from its Latin origin?"
+      answer: "MAJOR"
+    boni:
+      - question: "What Latin verb lies at the root of “refugee”?"
+        answer: "<latin>FUGIŌ</latin>"
+      - question: "According to its Latin root, what does “deluged” mean?"
+        answer: "FLOODED"
+  - tossup:
+      question: "Who accumulated power by concentrating the Praetorian Guard into a single camp and by procuring  the banishment of imperial family members while the emperor Tiberius was on Capri?"
+      answer: "(L. AELIUS) SEJANUS"
+    boni:
+      - question: "Who sent a timely letter to Tiberius, alerting him of Sejanus’ offenses?"
+        answer: "ANTONIA (THE WIDOW OF DRUSUS)"
+      - question: "What <latin>praefectus vigilum</latin> carried out the overthrow of Sejanus?"
+        answer: "(Q. SUTORIUS) MACRO"
+  - tossup:
+      question: "Which of the following does NOT belong grammatically: gender, number, declension, voice, case?"
+      answer: "VOICE"
+    boni:
+      - question: "Which of the following does NOT belong grammatically: demonstrative, personal, reflexive,  intensive, subjunctive?"
+        answer: "SUBJUNCTIVE"
+      - question: "How does a verb agree with its subject?"
+        answer: "PERSON & NUMBER"
+  - tossup:
+      question: "In the Underworld, what son of Zeus and Pluto is punished by having food and drink just beyond his  reach?"
+      answer: "TANTALUS"
+    boni:
+      - question: "What giant attempted to assault Leto and was punished in the Underworld?"
+        answer: "TITYUS"
+      - question: "What Thessalian hero attempted to seduce Hera and was punished in the Underworld on a wheel of  fire?"
+        answer: "IXION"
+  - tossup:
+      question: "Translate this quotation from the poet Juvenal: \"<latin>Mēns sāna in corpore sānō</latin>\"."
+      answer: "A HEALTHY / SOUND MIND IN A HEALTHY / SOUND BODY"
+    boni:
+      - question: "Translate this quotation from the writer Cicero: \"<latin>Cīvis Rōmānus sum</latin>.\""
+        answer: "I AM A ROMAN CITIZEN"
+      - question: "Translate this quotation from the poet Lucretius: \"<latin>Nihil dē nihilō</latin>.\""
+        answer: "NOTHING (COMES) FROM NOTHING"
+  - tossup:
+      question: "What Roman commander in 249 BC threw the sacred chickens overboard after they would not eat?"
+      answer: "(P.) CLAUDIUS PULCHER"
+    boni:
+      - question: "Off the coast of what Sicilian city did this battle occur?"
+        answer: "DREPANA / TRAPANI"
+      - question: "What Carthaginian commander defeated Claudius Pulcher in this battle?"
+        answer: "ADHERBAL"
+  - tossup:
+      question: "Identify the use of the ablative in the following sentence: <latin>Puer saxō aedificium pulsāvit.</latin>"
+      answer: "MEANS"
+    boni:
+      - question: "Identify the use of the ablative in the following sentence: <latin>Māter cum fīliō ambulat.</latin>"
+        answer: "ACCOMPANIMENT"
+      - question: "Identify the use of the ablative in the following sentence: <latin>Mārcus ā Paulō amātur.</latin>"
+        answer: "AGENT"
+  - tossup:
+      question: "With what daughter of Thestius did Zeus mate in the form of a swan?"
+      answer: "LEDA"
+    boni:
+      - question: "Who insisted that Zeus reveal himself to her in “all his glory?"
+        answer: "” SEMELE"
+      - question: "Whom did Zeus visit in the form of a golden shower?"
+        answer: "DANAË"
+  - tossup:
+      question: "Please listen to the following story about the Persian Darius, which I will read twice, and answer the  question that follows in Latin:  <latin>Dārīus, ubi rēx Persārum factus est, omnēs Āsiae gentēs in rēgnō suō habuit. Itaque ad  Eurōpam oculōs vertit et hās quoque terrās imperiō Persārum addere cōnstituit.</latin> (repeat) The question: <latin>Ā quō omnēs gentēs Āsiae rēgnābantur?</latin>"
+      answer: "<latin>(Ā) DĀRĪŌ</latin>"
+    boni:
+      - question: "<latin>Quō Dārīus oculōs vertit?</latin>"
+        answer: "<latin>AD EURŌPAM</latin>"
+      - question: "<latin>Quid Dārīus agere cōnstituit?</latin>"
+        answer: "<latin>ADDERE TERRĀS (EURŌPAE) IMPERIŌ (PERSĀRUM)</latin>"
+  - tossup:
+      question: "What do the following have in common: <latin>andābatae</latin>, <latin>dimachaerī</latin>, <latin>laqueātōrēs</latin>, <latin>rētiāriī</latin>,  <latin>murmillōnēs</latin>?"
+      answer: "TYPES OF GLADIATORS"
+    boni:
+      - question: "Which of the gladiators mentioned in the toss-up used a net to fight?"
+        answer: "<latin>RĒTIĀRIĪ</latin>"
+      - question: "Which of the gladiators mentioned in the toss-up fought blindfolded?"
+        answer: "<latin>ANDĀBATAE</latin>"
+  - tossup:
+      question: "Distinguish in meaning between the verbs <latin>laudō</latin> and <latin>lavō</latin>."
+      answer: "<latin>LAUDŌ</latin> = TO PRAISE  <latin>LAVŌ</latin> = TO WASH"
+    boni:
+      - question: "Distinguish in meaning between the verbs <latin>iaceō</latin> and <latin>iaciō</latin>."
+        answer: "<latin>IACEŌ</latin> = TO LIE (DOWN / DEAD) <latin>IACIŌ</latin> = TO THROW / CAST / HURL"
+      - question: "Distinguish in meaning between the verbs <latin>claudō</latin> and <latin>cēlō CLAUDŌ</latin> = TO CLOSE / SHUT <latin>CĒLŌ</latin> ="
+        answer: "TO HIDE / KEEP SECRET"
+  - tossup:
+      question: "What tribune sought land for Marius’ African veterans in 103 BC?"
+      answer: "(L. APPULEIUS) SATURNINUS"
+    boni:
+      - question: "Saturninus supported the illegal bid of what praetor for the consulship?"
+        answer: "(C. SERVILIUS) GLAUCIA"
+      - question: "Where in the <latin>Forum Rōmānum</latin> were Saturninus and Glaucia murdered by an angry mob?"
+        answer: "THE SENATE HOUSE / <latin>CŪRIA</latin>"
+  - tossup:
+      question: "What rightful heir to the throne of Iolcus gathered a crew in order to launch an expedition to seek the  Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "What was the name of his ship?"
+        answer: "ARGO"
+      - question: "What young woman fell in love with Jason and aided him in obtaining the Fleece, helping him to steal  it from her father?"
+        answer: "MEDEA"
+  - tossup:
+      question: "Using <latin>currō,</latin> translate this sentence into Latin: Marcus, why were you running?"
+      answer: "<latin>MĀRCE, CŪR CURRĒBĀS?</latin>"
+    boni:
+      - question: "Using <latin>audiō</latin>, translate this sentence into Latin: Listen to me carefully, Publius and Quintus!"
+        answer: "<latin>PŪBLĪ ET QUĪNTE, AUDĪTE MĒ DĪLIGENTER</latin>"
+      - question: "Using <latin>ferō</latin>, translate this sentence into Latin: Bring me the tunics, merchants!"
+        answer: "<latin>MERCĀTŌRĒS, FERTE MIHI TUNICĀS!</latin>"
+  - tossup:
+      question: "What daughter of Pelias volunteered to die in her husband’s place when no one else would do this?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Who was her husband?"
+        answer: "ADMETUS"
+      - question: "When Heracles visited Admetus and found out about her sacrifice, what was his solution to the  situation?"
+        answer: "HE WRESTLED THANATOS / DEATH"
+  - tossup:
+      question: "Complete this analogy: <latin>portō</latin> : <latin>portābit :: sum : _____.</latin>"
+      answer: "<latin>ERIT</latin>"
+    boni:
+      - question: "…: <latin>portō : portābitur : dīcō : _____.</latin>"
+        answer: "<latin>DĪCĒTUR</latin>"
+      - question: "…: <latin>portō : portātus est : ferō : _____.</latin>"
+        answer: "<latin>LĀTUS EST</latin>"
+  - tossup:
+      question: "What did the Romans call the modern day city, Paris?"
+      answer: "<latin>LUTĒTIA</latin>"
+    boni:
+      - question: "… : Chester?"
+        answer: "<latin>DĒVA</latin>"
+      - question: "… : Jerusalem?"
+        answer: "<latin>HIEROSOLYMA / AELIA CAPITOLĪNA</latin>"
+  - tossup:
+      question: "When you are recognized, please perform the following commands: <latin>Surge et pōne pedem in sellam.</latin>"
+      answer: "STUDENT RISES & PLACES ONE FOOT ONTO THE CHAIR  ("
+    boni:
+      - question: "<latin>Ostendite mihi digitīs pictūram in quā aliquis certior factus est.</latin>"
+        answer: "MORE THAN ONE PLAYER SHOULD POINT TO THE MIDDLE PICTURE WITH  FINGERS"
+      - question: "<latin>Omnēs, ambulāte ad mē et ostendite mihi pictūram in quā aliquis iniūriam habet et dīcite mihi  Latīne ūnam sententiam dē illā pictūrā.</latin>"
+        answer: "MORE THAN ONE PLAYER SHOULD POINT TO THE TOP PICTURE & DESCRIBE  SOME OF THE DETAILS IN THE PICTURE IN LATIN"

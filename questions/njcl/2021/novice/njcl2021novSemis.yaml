@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who was the father of Silvius by the princess Lavinia, the son of Venus and the Trojan prince Anchises, and the one-time lover of the Carthaginian queen Dido?"
+      answer: "AENEAS"
+    boni:
+      - question: "Name Aeneas’ son by his first wife, Creusa."
+        answer: "ASCANIUS / IULUS"
+      - question: "What son of Jupiter Ammon had wanted to marry Dido, although she preferred Aeneas?"
+        answer: "IARBAS"
+  - tossup:
+      question: "What Roman general, who had served as military tribune under Marcellus in 208 BC during the Second Punic War, became consul before his thirtieth birthday and two years later, at the Isthmian Games, proclaimed the freedom of Greece after he had defeated Macedon and forced them to evacuate Greece?"
+      answer: "(T. QUINCTIUS) FLAMININUS"
+    boni:
+      - question: "What Macedonian king had Flamininus defeated?"
+        answer: "PHILIP V"
+      - question: "Name one of the three “Fetters of Greece” that Phillip had refused to give up before his defeat by Flamininus."
+        answer: "DEMETRIAS / CALCHIS / ACROCORINTH (prompt on CORINTH)"
+  - tossup:
+      question: "Complete the following well-known Latin phrase “<latin>ars longa</latin>, ___________.”"
+      answer: "<latin>VĪTA BREVIS</latin>"
+    boni:
+      - question: "What is the Latin motto of MGM?"
+        answer: "<latin>ARS GRĀTIĀ ARTIS</latin>"
+      - question: "What does the abbreviation M.A. stand for in Latin?"
+        answer: "<latin>MAGISTER ARTIUM</latin>"
+  - tossup:
+      question: "<latin>RESPONDĒ LATĪNĒ:</latin> <latin>In linguā Anglicā, quot litterae sunt?</latin>"
+      answer: "VĪGINTĪ (ET) SEX / SEX (ET) VĪGINTĪ"
+    boni:
+      - question: "<latin>RESPONDĒ LATĪNĒ:</latin> <latin>Quot pedes sunt quattuor equīs?</latin>"
+        answer: "SĒDECIM"
+      - question: "<latin>RESPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quot pollicēs vobīs sunt?</latin>"
+        answer: "2 / 4 / 6 / 8 // <latin>DUO / QUATTUOR / SEX</latin> / <latin>OCTO</latin>"
+  - tossup:
+      question: "Which of the following nouns, if any, does not belong due to declension: <latin>ager, senātus, populus, rēgnum</latin>?"
+      answer: "SENĀTUS"
+    boni:
+      - question: "Which of the following nouns, if any, does not belong due to gender: <latin>saxum, cornu, nōmen, vīs</latin>?"
+        answer: "VĪS"
+      - question: "Which of the following verbs, if any, does not belong due to conjugation: <latin>mittō, necō, mūtō, excitō</latin>?"
+        answer: "MITTŌ"
+  - tossup:
+      question: "As she gazed down from her tower on a winter morning, what woman spied the lifeless body of her drowned lover on the shore, causing her to jump off to be with that man, Leander?"
+      answer: "HERO"
+    boni:
+      - question: "Hero and Leander lived on opposite sides of the modern-day Dardanelles in Turkey. In ancient times, this waterway received its name when what girl fell out of the sky into it?"
+        answer: "HELLE"
+      - question: "Name Helle’s mother, who saved her from sacrifice by sending the golden-fleeced ram but could not prevent her daughter from falling off into the Hellespont."
+        answer: "NEPHELE"
+  - tossup:
+      question: "What case in Latin is used for all of the following reasons: possession, agent, purpose, reference, and indirect object?"
+      answer: "DATIVE (CASE)"
+    boni:
+      - question: "What case in Latin is used for all of the following relations to another noun: description, subjective, objective, and partitive?"
+        answer: "GENITIVE (CASE)"
+      - question: "What case in Latin is used for all of the following reasons: adverbial, exclamation, object, respect?"
+        answer: "ACCUSATIVE (CASE)"
+  - tossup:
+      question: "For the name Publius Cornelius Scipio Africanus, what is the Latin term for the name Africanus?"
+      answer: "<latin>AGNŌMEN / COGNŌMEN EX VIRTŪTE</latin> (prompt on <latin>COGNŌMEN</latin>)"
+    boni:
+      - question: "What was the ceremony called in which a Roman child received their name?"
+        answer: "<latin>LŪSTRĀTIŌ / DIĒS LUSTRICUS</latin>"
+      - question: "What were the small noisemakers and trinkets called that were presented to children at the <latin>Lūstrātiō</latin> ceremony?"
+        answer: "<latin>CREPUNDIA</latin>"
+  - tossup:
+      question: "What derivative of the Latin word <latin>bracchium</latin> is a type of baked pastry that is made of dough commonly shaped into a knot?"
+      answer: "PRETZEL"
+    boni:
+      - question: "What derivative of the Latin word <latin>collum</latin> is an award?"
+        answer: "ACCOLADE"
+      - question: "What derivative of the Latin word <latin>manus</latin> is a breed of large, powerful, short haired dogs?"
+        answer: "MASTIFF"
+  - tossup:
+      question: "What man kills Eupeithes with a spear, has his mournful story told by the shade of his wife, Anticleia, and has his burial shroud continuously woven and unwoven by Penelope?"
+      answer: "LAËRTES"
+    boni:
+      - question: "Name Eupeithes’ son, the leading suitor for Penelope’s hand alongside Eurymachus."
+        answer: "ANTINOÜS"
+      - question: "Name Laërtes’ father-in-law, who chose the name Odysseus for his young grandson."
+        answer: "AUTOLYCUS"
+  - tossup:
+      question: "Of the words <latin>vēr, impetus, corōna, pretium,</latin> and <latin>lacrima</latin>, which is best described by the following sentence? <latin>Dē oculīs cadunt.</latin>"
+      answer: "<latin>LACRIMA(E)</latin>"
+    boni:
+      - question: "From the list in the tossup, <latin>vēr, impetus, corōna, pretium,</latin> and <latin>lacrima</latin>, which is best described by the following sentence? <latin>Ea in capite sedet</latin>."
+        answer: "<latin>CORŌNA</latin>"
+      - question: "From the list in the tossup, <latin>vēr, impetus, corōna, pretium,</latin> and <latin>lacrima</latin>, which is best described by the following sentence? <latin>Inter hiemem et aestātem est.</latin>"
+        answer: "VĒR"
+  - tossup:
+      question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quō diē mēnseque mortuus est Iūlius Caesar?</latin>"
+      answer: "ĪDIBUS MARTIĪS / ON THE IDES OF MARCH / MARCH 15"
+    boni:
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Ubi Caesar mortuus est?</latin>"
+        answer: "IN THEĀTRŌ / CŪRIĀ POMPĒIĪ (prompt on <latin>CŪRIĀ</latin>) <latin>// // AD PEDĒS STATUAE POMPĒIĪ //</latin> IN POMPEY’S THEATER / SENATE HOUSE // AT THE FEET OF POMPEY’S STATUE"
+      - question: "<latin>RĒSPONDĒ AUT LATĪNĒ AUT ANGLICĒ:</latin> <latin>Quis ōrātiōnem ad Caesaris mortem habuit?</latin>"
+        answer: "MĀRCUS ANTŌNIUS / MARK ANTONY"
+  - tossup:
+      question: "For the verb <latin>rēspondeō</latin>, give the 1st person singular perfect active indicative, so that it means “I have responded.”"
+      answer: "<latin>RĒSPONDĪ</latin>"
+    boni:
+      - question: "Give the corresponding form of the verb <latin>discēdō</latin>, so that it means, “I have departed.”"
+        answer: "<latin>DISCESSĪ</latin>"
+      - question: "Give the corresponding form of the verb <latin>discō</latin>, so that it means, “I have learned.”"
+        answer: "<latin>DIDICĪ</latin>"
+  - tossup:
+      question: "What king, the husband of Eidyia, told a stranger to yoke two fire-breathing bulls together, plow a field, and kill the men that sprung up if he wanted to have the Golden Fleece?"
+      answer: "AEËTES"
+    boni:
+      - question: "Name Aeëtes’ son who was treacherously killed by his sister, Medea, while she fled."
+        answer: "APSYRTUS / ABSYRTUS"
+      - question: "Name Aeëtes’ brother, who shares his name with the husband of the Titan Asteria and who later deposed the king, though Aeëtes eventually regained his throne?"
+        answer: "PERSES"
+  - tossup:
+      question: "The following passage takes place at a <latin>vīvārium</latin>, a zoo. Listen carefully to the passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Ōlim in magnā urbe vir per vīvārium diu ambulāre amābat. Ūnō diē in vīvāriō duās albās tigrēs vīdit. Prīma arborem ascendēbat. Altera super saxa celeriter currēbat. Portīs apertīs, tigrēs sē excitābant. “Ēheu,” vir perterritus clāmāvit.</latin> REREAD The question: <latin>Quid prīma tigris faciēbat?</latin>"
+      answer: "<latin>ARBOREM ASCENDĒBAT</latin>"
+    boni:
+      - question: "<latin>Quōmodo altera tigris currēbat?</latin>"
+        answer: "<latin>CELERITER</latin>"
+      - question: "<latin>Cur vir erat perterritus?</latin>"
+        answer: "<latin>(QUOD)</latin> <latin>PORTAE (ERANT / SUNT) APERTAE / PORTĪS APERTĪS TIGRĒS SĒ EXCITĀBANT / (ET) TIGRĒS (ERANT / SUNT) EXCITĀTAE</latin> [PRESENT VISUAL FROM <emphasis>THIS LINK</emphasis> TO ALL TEAMS BEFORE PROCEEDING]"
+  - tossup:
+      question: "The red dots on this visual are a non-exhaustive set of ancient cities that were each the capital of a Roman province at some point. Please take 10 seconds to study the visual. [PAUSE] The question: Which letter denotes the city <latin>Tarraco</latin>?"
+      answer: "(LETTER) “M”"
+    boni:
+      - question: "Which letter denotes the city <latin>Tingis</latin>?"
+        answer: "(LETTER) “A”"
+      - question: "Which city, denoted by H, was the capital of the province Achaea during the early Empire?"
+        answer: "CORINTH / <latin>CORINTHUS</latin>"
+  - tossup:
+      question: "Which of the following English words is derived from the same Latin verb as the word “provident:” “prosperous,” “injudicious,” “hurtful,” “prudent,” or “lucky”?"
+      answer: "PRUDENT"
+    boni:
+      - question: "Give the first two principal parts for the Latin verb from which we derive the English noun “volleyball”?"
+        answer: "<latin>VOLŌ, VOLĀRE</latin>"
+      - question: "From what Latin noun do we derive the English noun “amount”?"
+        answer: "<latin>MŌNS</latin>"
+  - tossup:
+      question: "What group of sisters—whose members included Aegle—helped a hundred-headed dragon named Ladon protect a set of golden apples that Heracles wished to steal?"
+      answer: "HESPERIDES / ATLANTIDES (prompt on “Daughters of Atlas”)"
+    boni:
+      - question: "The Hesperides were often considered daughters of Atlas, meaning they were related to what other group of sisters, who counted Electra and Merope among their members?"
+        answer: "PLEIADES"
+      - question: "Based on the meaning of their name and their placement in the far west of the world, the Hesperides are often called the daughters of what phenomenon?"
+        answer: "(THE) EVENING"
+  - tossup:
+      question: "<latin>RĒSPONDĒ LATĪNĒ:</latin> <latin>Nōminā ūnam</latin> <latin>prōvinciam quam Claudius imperiō addidit.</latin>"
+      answer: "BRITANNIA/AM // THRĀCIA/AM // LYCIA/AM // MAURĪTĀNIA/AM / MAURETANIA/AM // NŌRICUM"
+    boni:
+      - question: "<latin>Ā quō imperātōre victa est Dacia?</latin>"
+        answer: "(Ā/AB) (ULPIŌ) TRAIANŌ"
+      - question: "<latin>Ā quō equus Incitātus cōnsul factus est?</latin>"
+        answer: "(Ā/AB) CALIGULĀ / GĀIŌ"
+  - tossup:
+      question: "Translate the following sentence into Latin: We loved our mother, who had always led us."
+      answer: "<latin>AMĀVIMUS / AMĀBAMUS (NOSTRAM) MATREM, QUAE NŌS SEMPER DUXERAT</latin>"
+    boni:
+      - question: "Translate the following sentence into Latin: You will defend those whom you trust."
+        answer: "<latin>DEFENDĒ(TI)S (EŌS / EĀS / EA) QUIBUS CREDI(TI)S</latin>"
+      - question: "Translate the following sentence into Latin: They whose leisure will not have been destroyed will favor the dictators."
+        answer: "<latin>(EI / EAE / EA) QUŌRUM / QUĀRUM ŌTIUM NŌN DĒLĒTUM ERIT DICTĀTŌRIBUS FAVĒBUNT // (IS / EA / ID) CUIUS ŌTIUM NŌN DĒLĒTUM ERIT DICTĀTŌRIBUS FAVĒBIT</latin> [ACCEPT EQUIVALENTS]"

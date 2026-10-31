@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What use of the ablative can be found in the following sentence:  <latin>Mārcus erat vir summā</latin>  \t\t<latin>virtūte</latin>?"
+      answer: "QUALITY / DESCRIPTION"
+    boni:
+      - question: "…:  <latin>Templum dē marmore pōnam</latin>?"
+        answer: "MATERIAL / SOURCE"
+      - question: "…:  <latin>Magnō illī ea cūnctātiō stetit</latin>?"
+        answer: "PRICE"
+  - tossup:
+      question: "What epithet, meaning “the maiden”, did the people of Eleusis use in their secret rites honoring Persephone?"
+      answer: "KORE"
+    boni:
+      - question: "According to Apollodorus, Persephone, as the goddess of death, was the daughter of Zeus and what goddess?"
+        answer: "STYX"
+      - question: "Name two of Styx’ children by Pallas."
+        answer: "NIKE / CRATUS / BIA / ZELUS"
+  - tossup:
+      question: "What English derivative of the Latin verb meaning “to stand” means “living together in relative harmony”?"
+      answer: "COEXIST(ENCE)"
+    boni:
+      - question: "What English derivative of a Latin verb meaning “to eat” means “very overweight”?"
+        answer: "OBESE"
+      - question: "What English derivative of a Latin verb meaning “to buy” means “performed at once”?"
+        answer: "PROMPT"
+  - tossup:
+      question: "After defeating usurpers in battle near Frigidus River in 394 AD, what Roman became the last to  \t\trule over a unified empire?"
+      answer: "THEODOSIUS I / THE GREAT"
+    boni:
+      - question: "Theodosius defeated what Frankish <latin>magister mīlitum</latin>, who had rebelled after Valentinian II’s  \t\tsuspicious suicide in 392 AD?"
+        answer: "ARBOGAST"
+      - question: "Since Arbogast was of “barbarian” origin, he was unable to declare himself emperor. Instead what  teacher of Latin grammar and rhetoric did Arbogast proclaim as a puppet emperor after the death of Valentinian II?"
+        answer: "(FLAVIUS) EUGENIUS"
+  - tossup:
+      question: "When you are recognized by the spotter, please perform the following commands:  <latin>surge et, ūnō pede stāns, fac sonum fēlis</latin>."
+      answer: "STUDENT SHOULD RISE & “MEOW” <emphasis>WHILE</emphasis> <emphasis>STANDING</emphasis> ON ONE FOOT"
+    boni:
+      - question: "Please perform these commands:  <latin>manibus iūnctīs, pulsāte bis pavīmentum pedibus ut strepitum faciātis</latin>."
+        answer: "<emphasis>AFTER</emphasis> STUDENT<emphasis>S</emphasis> JOIN HAND<emphasis>S</emphasis>, THEY STOMP THE GROUND TWICE"
+      - question: "…:  <latin>capite vestrās faucēs et, sīcut moriminī venēnō, cadite in terram</latin>."
+        answer: "STUDENT<emphasis>S</emphasis> HOLD/GRAB THEIR THROATS & FALL ON THE GROUND AS IF DYING FROM POISON"
+  - tossup:
+      question: "Which son of Saturn remained so faithful to his fiancée Canens that Circe turned him into a woodpecker out of spite?"
+      answer: "PICUS"
+    boni:
+      - question: "Who were the parents of Canens?"
+        answer: "JANUS & VENILIA"
+      - question: "According to Ovid, for how many days did Canens search for Picus after he was transformed into a woodpecker?"
+        answer: "SIX DAYS"
+  - tossup:
+      question: "Translate the state motto of Vermont, “<latin>stella quarta decima fulgeat</latin>.”"
+      answer: "MAY / LET THE 14TH STAR SHINE (BRIGHT(LY))"
+    boni:
+      - question: "In 1866, the Republican General Assembly of Ohio adopted a coat of arms for the state that contained a Latin motto.  Please give the Latin and English for this early motto of the state of Ohio."
+        answer: "<latin>IMPERIUM IN IMPERIŌ</latin> – EMPIRE (WITH)IN AN EMPIRE"
+      - question: "The state of Kentucky adopted a Latin motto in 2002.  Please give that Latin motto which means “let us feel grateful to god”."
+        answer: "<latin>DEŌ GRĀTIAM HABEĀMUS</latin>"
+  - tossup:
+      question: "Cape Passaro, Cape Hermaeum, Drepana, Mylae, and the Aegates Islands were all sites of battles  \t\tduring what war between Rome and Carthage?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "Of Cape Passaro, Cape Hermaeum, Drepana, Mylae, and the Aegates Islands, where did the  \t\tCarthaginian admiral Carthalo trap a Roman fleet in unsheltered waters, where the fleet was  \tdestroyed by a storm?"
+        answer: "CAPE PASSARO"
+      - question: "Of Cape Passaro, Cape Hermaeum, Drepana, Mylae, and the Aegates Islands, where  did the  \t\tRomans defeat a Carthaginian counter-attack, crippling Carthage’s naval power for the next  \t\tfive years?"
+        answer: "CAPE HERMAEUM"
+  - tossup:
+      question: "Please translate into Latin using a deponent verb:  Wounded by a sword, the soldier was not able to  \t\tenjoy the victory."
+      answer: "<latin>MĪLES, GLADIŌ VULNERĀTUS, VICTŌRIĀ FRUĪ NŌN</latin> <latin>POTERAT / POTUIT</latin>"
+    boni:
+      - question: "Please translate into Latin using a deponent verb and an idiom:  Soldiers, follow me to Athens as  \t\tsoon as possible!"
+        answer: "<latin>MĪLITĒS, SEQUIMINĪ MĒ ATHĒNĀS QUAM PRĪMUM</latin>"
+      - question: "Please translate into Latin using deponent verbs and an infinitive:  Get possession of the sword but  \t\tdon’t use the money, Lucius!"
+        answer: "<latin>POTĪRE GLADIŌ / GLADIĪ SED NŌLĪ ŪTĪ PECŪNIĀ, LŪCĪ!</latin>"
+  - tossup:
+      question: "Change the phrase <latin>quaedam laurus alta</latin> to the genitive plural."
+      answer: "<latin>QUĀRUNDAM LAURŌRUM ALTĀRUM</latin>"
+    boni:
+      - question: "Change <latin>quārundam laurōrum altārum</latin> to the dative."
+        answer: "<latin>QUIBUSDAM LAURĪS ALTĪS</latin>"
+      - question: "Change that <latin>quibusdam laurīs altīs</latin> to the singular."
+        answer: "<latin>CUIDAM LAURŌ ALTAE</latin>"
+  - tossup:
+      question: "What son of a Garamantian nymph and Jupiter complained to his father that a foreigner had claimed the object of his affection, Queen Dido?"
+      answer: "IARBAS"
+    boni:
+      - question: "Name the two Phoenicians who were the brother and husband of Dido, respectively."
+        answer: "PYGMALION (BROTHER) & SYCHAEÜS / SICHARBAS (HUSBAND)"
+      - question: "Name Dido’s father, king of Tyre."
+        answer: "BELUS"
+  - tossup:
+      question: "Give the impersonal verb that is associated with the nouns <latin>imber, nimbus,</latin> and <latin>pluvia</latin> that means “it rains.”"
+      answer: "<latin>PLUIT</latin>"
+    boni:
+      - question: "Give the impersonal verb that is associated with the words <latin>frīgidus, hiems,</latin> and <latin>nix</latin> and means “it is snowing.”"
+        answer: "<latin>NINGIT</latin>"
+      - question: "Give the impersonal verb that is associated with the nouns <latin>rōs</latin> and <latin>aurōra</latin> and means “the dew falls.”"
+        answer: "<latin>RŌRAT</latin>"
+  - tossup:
+      question: "Please give the modern name for the ancient city <latin>Colōnia Agrippīnēnsis</latin>."
+      answer: "COLOGNE"
+    boni:
+      - question: "... <latin>Augusta Treverōrum</latin>."
+        answer: "TRIER"
+      - question: "What town in Aragon in Spain on the banks of the Ebro River was called <latin>Caesaraugusta</latin>?"
+        answer: "ZARAGOZA / SARAGOSSA"
+  - tossup:
+      question: "Who called upon his relatives, including his brother-in-law Amphiaraüs, to lead his seven-man expedition to recover Thebes for Polyneices?"
+      answer: "ADRASTUS"
+    boni:
+      - question: "From what brother of Polyneices were they attempting to recover Thebes?"
+        answer: "ETEOCLES"
+      - question: "What Arcadian son of Atalanta also joined their expedition?"
+        answer: "PARTHENOPAEÜS"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice; then answer the question that follows in  \t\tLATIN: \t<latin>Trēs puerī in vīllā prope flūmen lātum habitābant.  cum magnī fluctūs in flūmine  \tsemper essent,  capere tamen piscēs et in undīs natāre poterant.  Ōlim, cum puerī in rīpā  \tsedērent, ursa subitō ē silvā ērūpit.  puerīs territīs, ursa piscēs rapere coepit.  ēheu !</latin>   \t(repeat) \tThe question :  <latin>Quāle flūmen erat prope vīllam puerōrum?</latin>"
+      answer: "<latin>LĀTUM // (FLŪMEN) MAGNĪS FLUCTIBUS / MAGNŌRUM FLUCTUUM</latin>"
+    boni:
+      - question: "<latin>Cūr erat perīculōsum puerīs in flūmine natāre ?</latin>"
+        answer: "<latin>(QUOD / QUIA / QUONIAM) MAGNĪ FLUCTŪS SEMPER ERANT IN FLŪMINE /</latin> \t\t\tor <latin>OB / PROPTER FLUCTŪS (MAGNŌS)</latin>"
+      - question: "<latin>Quandō ursa piscēs rapere coepit?</latin>"
+        answer: "<latin>PUERĪS TERRITĪS / POSTQUAM PUERĪ TERRITĪ \t\t\tSUNT / ERANT / POSTQUAM URSA PUERŌS TERRUIT</latin>"
+  - tossup:
+      question: "Identify by letter the image that does not have something to do with Roman baths."
+      answer: "B"
+    boni:
+      - question: "Give the term for and the use of the instrument labelled A."
+        answer: "STRIGIL(IS) – USED FOR <emphasis>SCRAPING</emphasis> OIL AND DIRT OFF THE SKIN (PROMPT ON “CLEANING”)"
+      - question: "Give the letter of the image that represents a hypocaust."
+        answer: "D"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Magister discipulōs monuit ut dīligenter ōrātiōnēs habērent</latin>."
+      answer: "THE TEACHER ADVISED / WARNED THE STUDENTS TO DELIVER / GIVE THEIR SPEECHES CAREFULLY"
+    boni:
+      - question: "Translate this sentence: <latin>Tum rogāvit quis prīmus sententiam explicāre vellet</latin>."
+        answer: "THEN HE ASKED WHO FIRST WANTED TO EXPLAIN HIS OPINION / SENTENCE"
+      - question: "Translate this sentence: <latin>Aulus tam tacitē locūtus est ut nēmō eum intellegere posset</latin>."
+        answer: "AULUS SPOKE SO QUIETLY THAT NO ONE COULD UNDERSTAND HIM"
+  - tossup:
+      question: "What river god’s ability to change shape didn’t prevent one of his horns from being broken off in a wrestling match with Heracles for the hand of Deïaneira?"
+      answer: "ACHELOÜS"
+    boni:
+      - question: "Another obstacle Heracles faced in marrying Deïaneira was what centaur, who tried to rape Deïaneira as they were fording a river?"
+        answer: "NESSUS"
+      - question: "Name that river, which was named after Marpessa’s father after he drowned in it."
+        answer: "EVENUS / LYCORMAS"
+  - tossup:
+      question: "Which man became emperor after the Praetorian Prefect Petronius Secundus kept the Praetorians in check following Stephanus’ assassination of Domitian."
+      answer: "NERVA"
+    boni:
+      - question: "Earlier in Domitian’s reign, growing resentment among the troops of Upper Germany caused what man to revolt, though he was swiftly crushed by Lappius Maximus?"
+        answer: "(L. ANTONIUS) SATURNINUS"
+      - question: "Name the Praetorian Prefect who in 97 AD demanded the execution of Petronius Secundus for the murder of Domitian."
+        answer: "CASPERIUS ALIENUS"
+  - tossup:
+      question: "Using the verb <latin>audiō</latin>, say in Latin:  Let us be heard!"
+      answer: "<latin>AUDIĀMUR</latin>"
+    boni:
+      - question: "Using the verb <latin>hortor</latin>, say in Latin:  Let them not encourage the enemies."
+        answer: "<latin>NĒ INIMĪCŌS / HOSTĒS HORTENTUR</latin>"
+      - question: "Say in Latin:  May you have enough money!"
+        answer: "<latin>SATIS PECŪNIAE HABEĀ(TI)S // SATIS PECŪNIAE SIT VŌBĪS / TIBI</latin>"

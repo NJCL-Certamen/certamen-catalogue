@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What king of Rome was killed when it became clear that his adopted son Servius Tullius was being groomed as his successor?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "Who ensured that it was Servius Tullius and not the sons of Ancus who succeeded Tarquinius Priscus?"
+        answer: "TANAQUIL"
+      - question: "Why, according to Livy, had Tarquinius and Tanaquil decided to move to Rome from Tarquinii?"
+        answer: "TARQUINIUS <emphasis>WANTED TO BE KING</emphasis> / <emphasis>POLITICAL AMBITION</emphasis> / <emphasis>COULD NOT BE KING IN TARQUINII</emphasis> OR HOLD OFFICE AS SOMEONE OF FOREIGN DESCENT"
+  - tossup:
+      question: "For what use of the subjunctive do the traditional meanings of the conjunctions <latin>ut</latin> and <latin>nē</latin> seem to be inverted?"
+      answer: "FEAR CLAUSE"
+    boni:
+      - question: "Which of the following uses of the subjunctive does not typically use the conjunction <latin>nē</latin>: purpose clause, result clause, indirect command, jussive?"
+        answer: "RESULT CLAUSE"
+      - question: "What specific type of result clause can be commonly introduced by the phrase <latin>accidit ut</latin>?"
+        answer: "SUBSTANTIVE/NOUN CLAUSE (OF RESULT)"
+  - tossup:
+      question: "What descendant of Jupiter, son-in-law of Priam, and son of Venus led a group of Trojan refugees to Italy?"
+      answer: "AENEAS"
+    boni:
+      - question: "What son of Jupiter was Aeneas' great-great-great-great grandfather and one of the ancestral founders of Troy?"
+        answer: "DARDANUS"
+      - question: "What daughter of Priam was Aeneas' first wife?"
+        answer: "CREUSA"
+  - tossup:
+      question: "Give the dative singular for the phrase “the same beautiful city”"
+      answer: "<latin>EĪDEM URBĪ PULCHRAE</latin>"
+    boni:
+      - question: "Make the phrase <latin>eīdem urbī pulchrae</latin> accusative"
+        answer: "<latin>EANDEM URBEM PULCHRAM</latin>"
+      - question: "Make the phrase <latin>eandem urbem pulchram</latin> genitive plural"
+        answer: "<latin>EĀRUNDEM URBIUM PULCHRĀRUM</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Antīquīs temporibus, cum Rōmānī in parvā urbe habitārent, agricultūram quam mīlitiam ūtiliōrem esse arbitrābantur. Saepe dux exercitūs, bellō cōnfectō, ad agrōs suōs redībat.</latin>  Question: When did a general often return to his fields?"
+      answer: "WHEN THE WAR WAS FINISHED / AFTER A WAR"
+    boni:
+      - question: "In these times, what did Romans children think about agriculture as opposed to military service?"
+        answer: "AGRICULTURE WAS MORE USEFUL (THAN MILITARY SERVICE)"
+      - question: "The passage continues, <latin>Exemplī grātiā, clārissimus dux post sēdecim diēs dictātūram dēposuit ut agrōs arāret</latin>. How long did the leader serve as dictator?"
+        answer: "SIXTEEN DAYS"
+  - tossup:
+      question: "What city was the birthplace of Manto, Heracles, Pentheus, Laius, and Antigone?"
+      answer: "THEBES"
+    boni:
+      - question: "What son of Oeagrus did Heracles kill with a lyre in Thebes?"
+        answer: "LINUS"
+      - question: "For what so-called traitor did Antigone perform a burial against the wishes of king Creon?"
+        answer: "POLYNEICES"
+  - tossup:
+      question: "What type of gladiator wore a fish-shaped helmet?"
+      answer: "<latin>MURMILLŌ</latin> / <latin>MYRMILLŌ</latin>"
+    boni:
+      - question: "What was the main instrument of a gladiator known as an <latin>essedārius</latin>?"
+        answer: "CHARIOT / <latin>ESSEDA</latin>"
+      - question: "What did it mean if a <latin>mūnus</latin> was fought <latin>sine missiōne</latin>?"
+        answer: "IT WAS FOUGHT TO THE DEATH"
+  - tossup:
+      question: "What derivative of the Latin word for “flock” means “extraordinary in some bad way”?"
+      answer: "EGREGIOUS"
+    boni:
+      - question: "What derivative of the same Latin word means “a sum of particulars, a total amount”?"
+        answer: "AGGREGATE"
+      - question: "What derivative of the same word means “fond of the company of others, sociable”?"
+        answer: "GREGARIOUS"
+  - tossup:
+      question: "For the verb <latin>ardeō</latin>, give the third person singular present active subjunctive"
+      answer: "<latin>ARDEAT</latin>"
+    boni:
+      - question: "Give the corresponding form for the verb <latin>lātrō</latin>"
+        answer: "<latin>LĀTRET</latin>"
+      - question: "Give the corresponding form for the verb <latin>fīō</latin>"
+        answer: "<latin>FIAT</latin>"
+  - tossup:
+      question: "What divine creature, a gift from Poseidon, was retrieved from Crete by Heracles for his seventh labor?"
+      answer: "MARATHIONIAN / CRETAN BULL (JIMMY)"
+    boni:
+      - question: "After presenting the bull to Eurystheus, Heracles left it in the vicinity of what town in Attica?"
+        answer: "MARATHON"
+      - question: "What other hero then captured and killed the bull?"
+        answer: "THESEUS"
+  - tossup:
+      question: "Translate ONLY the verb in the protasis of this conditional sentence: “Is there actually a sound if no one hears a falling tree?”"
+      answer: "<latin>AUDIT</latin>"
+    boni:
+      - question: "Translate ONLY the verb in the apodosis of this sentence: “If I spill my milk, I will cry.”"
+        answer: "<latin>PLORĀBO/LACRIMĀBŌ/FLĒBŌ/CLĀMĀBŌ/VAGIAM</latin>"
+      - question: "Translate both verbs in this sentence: “If I were the pot, I would not call the kettle black.”"
+        answer: "<latin>ESSEM, APPELLĀREM/NŌMINĀREM/VOCĀREM/NUNCUPĀREM</latin>"
+  - tossup:
+      question: "What Roman emperor added the provinces of Arabia, Armenia, Mesopotamia, and Dacia to the Roman Empire, bringing it to its largest extent?"
+      answer: "(MARCUS ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "What emperor toured nearly all the provinces, building several walls and losing a loved one in the Nile?"
+        answer: "(PUBLIUS AELIUS) HADRIAN(US)"
+      - question: "What emperor from the same century, unlike Trajan and Hadrian, never left Italy?"
+        answer: "(TITUS AURELIUS FULVUS BOIONIUS) ANTONINUS PIUS"
+  - tossup:
+      question: "What third-declension Latin noun is commonly abbreviated <latin>cos.</latin> on Roman coins and inscriptions on public buildings?"
+      answer: "<latin>CONSUL</latin>"
+    boni:
+      - question: "You are looking at pictures of the front and back of two ancient Roman coins. The coin shown on top was issued to commemorate Nero and Drusus Caesar. What Latin phrase referring to a senatorial decree do the two large letters in the top right picture abbreviate?"
+        answer: "(EX) <latin>SENĀTŪS</latin> <latin>CŌNSULTŌ</latin> (accept <latin>SENĀTŪS</latin> <latin>CŌNSULTUM</latin>)"
+      - question: "The coin shown on the bottom was issued to commemorate Caligula. Convert the prepositional phrase on the bottom right picture to an ablative absolute"
+        answer: "<latin>CĪVIBUS SERVĀTĪS</latin>"
+  - tossup:
+      question: "What god unintentionally killed his friend Hyacinthus by accident?"
+      answer: "APOLLO"
+    boni:
+      - question: "What jealous wind diverted Apollo's discus into Hyacinthus' head?"
+        answer: "ZEPHYR(US)"
+      - question: "What lover of Apollo was transformed into a cypress tree because he was inconsolable due to the death of his pet stag?"
+        answer: "CYPARISSUS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “pudor”?</latin>"
+      answer: "SHAME/DECENCY/MODESTY"
+    boni:
+      - question: "<latin>Quid Anglicē significat “laetitia”?</latin>"
+        answer: "HAPPINESS/JOY"
+      - question: "<latin>Quid Anglicē significat “misericordia”?</latin>"
+        answer: "PITY/COMPASSION/SYMPATHY"
+  - tossup:
+      question: "Who won the <latin>spolia opīma</latin> in 222 B.C. at the battle of Clastidium?"
+      answer: "(MARCUS CLAUDIUS) MARCELLUS"
+    boni:
+      - question: "What Gallic chieftain did Marcellus kill in single combat?"
+        answer: "VIRIDOMARUS"
+      - question: "To which Gallic tribe did Viridomarus belong?"
+        answer: "INSUBRES/INSUBRIANS"
+  - tossup:
+      question: "Using the verb <latin>discēdō</latin>, translate into Latin, “We are about to leave.”"
+      answer: "<latin>SUMUS DISCESSŪRĪ /-AE</latin>"
+    boni:
+      - question: "Using a passive periphrastic, now say in Latin, “The whole dinner must be eaten.”"
+        answer: "<latin>CĒNA OMNIS/CŪNCTA/TŌTA EDENDA/CŌNSŪMENDA/ GUSTANDA/(DĒ)VORANDA EST</latin>"
+      - question: "Again, using a passive periphratic, say in Latin, “We must go.”"
+        answer: "<latin>EUNDUM EST NŌBĪS</latin>"
+  - tossup:
+      question: "Who, according to Ovid, turned Atlas into Mount Atlas?"
+      answer: "PERSEUS (PROMPT ON MEDUSA)"
+    boni:
+      - question: "What group of seven stars are the daughters of Atlas?"
+        answer: "PLEIADES"
+      - question: "What had Atlas done, according to Ovid, to warrant such a punishment?"
+        answer: "REFUSED PERSEUS A PLACE TO STAY / SLEEP / REST (BECAUSE OF AN ORACLE OF THEMIS THAT A SON OF JUPITER WOULD STEAL HIS GOLDEN APPLES)"
+  - tossup:
+      question: "At what Roman defeat did the Eastern emperor Valens die?"
+      answer: "(SECOND BATTLE OF) ADRIANOPLE"
+    boni:
+      - question: "In what year did this battle occur?"
+        answer: "378 A.D."
+      - question: "Who rose up in rebellion the year before because the Romans, while allowing them to settle in imperial territory, treated them abusively, selling them bad food, even dog meat, at high prices?"
+        answer: "GOTHS / VISIGOTHS AND OSTROGOTHS/T(H)ERVINGI (PROMPT FOR COMPLETE ANSWER IF ONLY ONE OF THE SPECIFIC SUBTRIBES IS GIVEN)"
+  - tossup:
+      question: "Which two of these words come from the same Latin root: valley, convalescent, valve, invalid?"
+      answer: "CONVALESCENT & INVALID"
+    boni:
+      - question: "Which two of these words come from the same Latin root: volatile, devout, vote, vowel?"
+        answer: "DEVOUT & VOTE"
+      - question: "Which two of these words come from the same Latin root: vaccination, vacuous, invasive, evacuate?"
+        answer: "VACUOUS & EVACUATE  <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

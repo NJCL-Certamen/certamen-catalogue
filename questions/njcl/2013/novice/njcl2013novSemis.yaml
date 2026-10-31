@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What ordinal number is missing from the following sequence: <latin>secundus, quārtus, sextus, decimus</latin>?"
+      answer: "<latin>OCTĀVUS</latin> "
+    boni:
+      - question: "What cardinal number is missing from this sequence: <latin>quattuordecim</latin>, <latin>quīndecim</latin>, <latin>sēdecim</latin>, <latin>duodēvigintī</latin>?"
+        answer: "<latin>SEPTENDECIM / SEPTEMDECIM</latin> "
+      - question: "What would be the correct way to say “102 girls” in the accusative case?"
+        answer: "<latin>CENTUM (ET) DUĀS PUELLĀS</latin> "
+  - tossup:
+      question: "Cethegus and Lentulus were both put to death because of their participation in what clandestine event in 63 B.C.?"
+      answer: "CATILINARIAN CONSPIRACY"
+    boni:
+      - question: "What Gallic tribe did Lentulus and Cethegus unsuccessfully attempt to bring to their cause, resulting in the arrest of both men?"
+        answer: "ALLOBROGES"
+      - question: "Where were Allobrogian envoys captured entering Rome, carrying letters from Lentulus?"
+        answer: "MILVIAN BRIDGE"
+  - tossup:
+      question: "The phrases “no food,” “enough water,” and “more wine,” when expressed in Latin, would all illustrate what use of the genitive case?"
+      answer: "PARTITIVE GENITIVE / GENITIVE OF THE WHOLE"
+    boni:
+      - question: "Say in Latin: “more wine.”"
+        answer: "<latin>PLŪS VĪNĪ</latin>"
+      - question: "Say in Latin: “no food.”"
+        answer: "<latin>NIL / NIHIL CIBĪ / NŪLLUS CIBUS</latin>"
+  - tossup:
+      question: "Who brought the disguised Odysseus back to his palace at Odysseus’ request?"
+      answer: "EUMAEUS"
+    boni:
+      - question: "What beggar was Odysseus forced to fight for the amusement of the suitors?"
+        answer: "IRUS / ARNAEUS"
+      - question: "Penelope finally tells the suitors under what conditions she will marry. She tells them that she will marry the first suitor who is successfully able to do what?"
+        answer: "STRING ODYSSEUS’ BOW AND SHOOT IT THROUGH (A DOZEN) AXE HEADS"
+  - tossup:
+      question: "What question did the other gods ask Jupiter?"
+      answer: "WHY HE DID THIS / WHY HE TURNED NEVADA INTO A DESERT"
+    boni:
+      - question: " What does Jupiter say that Pluto had requested?"
+        answer: "THAT THERE BE ONE PLACE HOTTER THAN HELL / HADES / ORCUS"
+      - question: "What does Jupiter say that he has done to mitigate the suffering of all Nevadans?"
+        answer: "HE HAS MADE IT A DRY HEAT"
+  - tossup:
+      question: "What commander in Lower Germany declared himself emperor of Rome early in 69 A.D., making him the second of four men to claim to be emperor in that year?"
+      answer: "(AULUS) VITELLIUS"
+    boni:
+      - question: "What two lieutenants of Vitellius hoped to use him as a figurehead emperor to screen their usurpation of real power?"
+        answer: "(FABIUS) VALENS AND (AULUS) CAECINA (ALIENUS)"
+      - question: "Which of those two survived the overthrow of Vitellius and lived ten more years before he was executed for conspiracy?"
+        answer: "CAECINA"
+  - tossup:
+      question: "What son of Priam told the Greeks what they would need to sack Troy, including the son of Achilles, a bone of Pelops, and the Palladium?"
+      answer: "HELENUS"
+    boni:
+      - question: "One thing Helenus told the Greeks they needed was the bow and arrows of Herakles. What Greek warrior possessed these items?"
+        answer: "PHILOCTETES"
+      - question: "Where did Odysseus have to go to bring the teenaged Neoptolemus to Troy?"
+        answer: "SCYROS"
+  - tossup:
+      question: "What Latin phrase can refer either to a song honoring one’s school or to the school itself?"
+      answer: "<latin>ALMA MĀTER</latin> "
+    boni:
+      - question: "At your <latin>alma māter</latin>, you may receive a degree titled <latin>M.A.</latin> For what Latin words does this abbreviation stand?"
+        answer: "<latin>MAGISTER ARTIUM</latin> "
+      - question: "In law school, you can receive a <latin>J.D.</latin>, although all good Latin students know that the “J” is really a consonantal Latin “I”. For what do those letters stand?"
+        answer: "<latin>IŪRIS DOCTOR</latin>"
+  - tossup:
+      question: "Give the Latin genitive plural for the phrase “beautiful mind.”"
+      answer: "<latin>PULCHRĀRUM MENTIUM / ANIMĀRUM // PULCHRŌRUM ANIMŌRUM</latin> "
+    boni:
+      - question: "Give the Latin dative singular for the phrase: “this tired body.”"
+        answer: "<latin>EĪ / HUIC CORPORĪ (DĒ)FESSŌ</latin> "
+      - question: "Give the Latin ablative singular for the phrase “which difficult work.”"
+        answer: "<latin>QUŌ DIFFICILĪ LABŌRE / OPERE</latin> "
+  - tossup:
+      question: "Who was called away to attend the funeral of his grandfather Catreus after having entertained a Trojan visitor to his home, only to find upon his return that the visitor had departed with his wife and a large part of his treasury?"
+      answer: "MENELAÜS"
+    boni:
+      - question: "What wife had Paris abandoned to marry Helen?"
+        answer: "OENONE"
+      - question: "When Menelaüs finally found Helen, she was in the home of what brother of Paris, who had married her after Paris’ death?"
+        answer: "DEÏPHOBUS"
+  - tossup:
+      question: "What do we now call the ancient city of Lutetia?"
+      answer: "PARIS"
+    boni:
+      - question: "What do we now call the ancient city of Eboracum?"
+        answer: "YORK"
+      - question: "What do we now call the ancient city of Gades?"
+        answer: "CADIZ"
+  - tossup:
+      question: "What Latin word is used unchanged in English and means “a list of errors and their corrections inserted, usually on a slip of paper or separate page, of a book or other publication”?"
+      answer: "ERRATUM / CORRIGENDUM / ERRATA / CORRIGENDA"
+    boni:
+      - question: "What other derivative of the Latin verb <latin>errō</latin> means “moving in an aimless or lightly changing manner”?"
+        answer: "ERRANT"
+      - question: "What third derivative of the Latin verb <latin>errō</latin> means “the act of deviating from the right, normal, or usual course”?"
+        answer: "ABERRATION"
+  - tossup:
+      question: "Who in mythology became the first mortal-born woman when her mother Pandora gave birth to her?"
+      answer: "PYRRHA"
+    boni:
+      - question: "What son of Deucalion and Pyrrha became the eponym for the people of Greece?"
+        answer: "HELLEN"
+      - question: "The four main branches of the Greeks, or Hellenes, also took their names from either sons or grandsons of Hellen. Name any two of these descendants of Hellen"
+        answer: "ION, DORUS, ACHAEÜS, AEOLUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Virginēs scelestae dona deīs dare neglexērunt.</latin>"
+      answer: "THE WICKED MAIDENS / GIRLS NEGLECTED TO GIVE GIFTS TO THE GODS "
+    boni:
+      - question: "Now, translate this sentence: <latin>Itaque deī virginēs in testūdinēs mutāre cōnstituērunt</latin>"
+        answer: "THEREFORE, THE GODS DECIDED TO CHANGE THE MAIDENS / GIRLS INTO TURTLES / TORTOISES"
+      - question: "Finally, translate this sentence: <latin>Est periculōsissimum īram deōrum incitāre.</latin>"
+        answer: "IT IS VERY DANGEROUS / PERILOUS TO AROUSE / STIR UP THE ANGER OF THE GODS"
+  - tossup:
+      question: "Based on what you see on the back of this coin, what Roman emperor’s portrait is on the front side?"
+      answer: "COMMODUS"
+    boni:
+      - question: "The letter “P” and the abbreviation “FEL” both stand for Latin adjectives. What are those adjectives?"
+        answer: "<latin>PIUS</latin> <latin>& FĒLIX</latin> "
+      - question: "This coin can be dated to 191 A.D. or later because of the use of Commodus’ family name, Aelius. It is believed that he restored this name to his official title to create a connection between himself and what other beloved emperor who was part of the Aelius <latin>gēns</latin>?"
+        answer: "HADRIAN"
+  - tossup:
+      question: "At what battle were the Roman forces of Titus Veturius Calvinus and Spurius Postumius Albinus defeated by Gavius Pontius in 321 B.C. in what is considered the most disastrous Roman defeat of the Second Samnite War?"
+      answer: "CAUDINE FORKS"
+    boni:
+      - question: "What humiliation were the surviving Romans forced to undergo?"
+        answer: "WALKING UNDER THE YOKE"
+      - question: "What defeat, almost as disastrous as Caudine Forks, befell the Romans later in the war in 315 B.C.?"
+        answer: "LAUTULAE"
+  - tossup:
+      question: "Which of the following is highest up on a standing person: <latin>cor, lingua, supercilium, pēs, pulmō?</latin>"
+      answer: "SUPERCILIUM "
+    boni:
+      - question: "On a human, what are <latin>unguēs</latin>?"
+        answer: "(FINGER / TOE) NAILS"
+      - question: "What part of your body are your <latin>genae</latin>?"
+        answer: "CHEEKS"
+  - tossup:
+      question: "With whom did the members of the Second Triumvirate sign a peace treaty in 39 BC after several years of skirmishes because of a growing threat in Parthia, allowing him to solidify his base of power in Sicily and Sardinia?"
+      answer: "SEXTUS POMPEY"
+    boni:
+      - question: "Hostilities between the forces of Sextus Pompey and the forces of Octavian were soon renewed. At what battle of 36 B.C. was Sextus decisively defeated?"
+        answer: "(CAPE) NAULOCHUS"
+      - question: "Sextus escaped for a short time to Asia Minor, but was caught by an officer of Marc Antony. What illegal act then occurred, an act which Octavian made sure to use against Antony several years later?"
+        answer: "HE WAS EXECUTED WITHOUT A TRIAL (ILLEGAL BECAUSE HE WAS A ROMAN CITIZEN)"
+  - tossup:
+      question: "What name in mythology is shared by a man who drowned in a vat of honey before being revived, one who lost a chariot race to Iolaüs and was then eaten by his horses, and one who became a minor sea deity and then fell in love with the maiden Scylla?"
+      answer: "GLAUCUS"
+    boni:
+      - question: "The Glaucus who met his unfortunate end by man-eating horses raised what hero as his own son, unaware that Poseidon had lain with his wife Eurynome and was the true father of the child?"
+        answer: "BELLEROPHON"
+      - question: "A fourth Glaucus is well-known in the <title>Iliad</title> for a scene in which he and what Greek warrior exchange armor when they realize that their grandfathers had been guest-friends?"
+        answer: "DIOMEDES"
+  - tossup:
+      question: "In the sentence, “Caesar is coming to see the formations himself,” say “himself” in Latin"
+      answer: "<latin>IPSE</latin>"
+    boni:
+      - question: "In the sentence, “The children were resisting their mothers’ attempts to bathe them very fiercely,” say “very fiercely” in Latin"
+        answer: "<latin>ĀCERRIMĒ / FEROCISSIMĒ</latin> "
+      - question: "In the sentence, “Do not go near the casinos, my students,” say “my students” in Latin"
+        answer: "<latin>MEĪ DISCIPULĪ</latin>  <latin>2013 NJCL CERTAMEN NOVICE DIVISION FINALS</latin>"
+  - tossup:
+      question: "Give the Latin for “I will be defended.”"
+      answer: "<latin>DĒFENDAR</latin>"
+    boni:
+      - question: "Change <latin>dēfendar</latin> to the pluperfect tense"
+        answer: "<latin>DĒFĒNSUS (-A, -UM) ERAM</latin> "
+      - question: "Make <latin>dēfēnsus eram</latin> active"
+        answer: "<latin>DĒFENDERAM</latin>"
+  - tossup:
+      question: "Which members of the Argonauts convinced Jason to sail away from Mysia without Herakles?"
+      answer: "ZETES AND CALAÏS"
+    boni:
+      - question: "Which crew member came to help Herakles in his search for Hylas and was left behind?"
+        answer: "POLYPHEMUS"
+      - question: "Whom does Apollonius claim asked to join the crew, but was denied by Jason, who thought that she would cause trouble among her all-male crewmates?"
+        answer: "ATALANTA"
+  - tossup:
+      question: "Which two of the following five words derive from the same Latin root: hyperventilate, covenant, venerable, intervene, prosaic?"
+      answer: "COVENANT & INTERVENE"
+    boni:
+      - question: "Give the Latin word and its meaning from which we derive “hyperventilate.”"
+        answer: "<latin>VENTUS</latin> - WIND"
+      - question: "Give the Latin word and its meaning from which we derive “prosaic,” a verb which also gives us the word “adversarial.”"
+        answer: "<latin>VERTŌ</latin> – TO TURN"
+  - tossup:
+      question: "Who was declared <latin>dictātor lēgibus scrībundīs et reīpūblicae cōnstituendae</latin> in 81 B.C. in order to fix what he considered to be problems with the current state of the Republic?"
+      answer: "(L. CORNELIUS) SULLA"
+    boni:
+      - question: "What magistracy did Sulla strip of much of its power?"
+        answer: "TRIBUNE"
+      - question: "When did Sulla resign his dictatorship?"
+        answer: "79 B.C."
+  - tossup:
+      question: "Give the principal parts of the Latin verb meaning “to cook.”"
+      answer: "<latin>COQUŌ, COQUERE, COXĪ, COCTUS (-UM)</latin>"
+    boni:
+      - question: "Give the principal parts of the Latin verb meaning “to leave behind; abandon.”"
+        answer: "<latin>RELINQUŌ, RELINQUERE, RELĪQUĪ, RELĪCTUS (-UM)</latin> "
+      - question: "Give the principal parts of the Latin verb meaning “to dress, put on clothing.”"
+        answer: "<latin>INDUŌ, INDUERE, INDUĪ, INDŪTUS (-UM)</latin> "
+  - tossup:
+      question: "Whose sons Aglaüs, Callileon, and Orchomenus, were served to their father at a feast by their uncle Atreus?"
+      answer: "THYESTES’"
+    boni:
+      - question: "Who was Atreus’ wife, whom Thyestes had earlier seduced?"
+        answer: "AEROPE"
+      - question: "With whom did Thyestes later father a child who would avenge him on Atreus and his children?"
+        answer: "PELOPIA (PROMPT ON “HIS DAUGHTER”)"
+  - tossup:
+      question: "What forced the passage of the <latin>Lēx Hortēnsia</latin>, granting the full force of law to the resolutions of the <latin>Concilium Plēbis</latin>?"
+      answer: "THE <emphasis>FOURTH</emphasis> PLEBEIAN SECESSION"
+    boni:
+      - question: "In what year did this secession and subsequent passage of the law take place?"
+        answer: "287 B.C."
+      - question: "What Latin term is applied to the resolutions of the <latin>Concilium Plēbis</latin>?"
+        answer: "<latin>PLĒBESCĪTA</latin> "
+  - tossup:
+      question: "Identify the use of the genitive in the following sentence: <latin>Tribus annīs Rōmānī vītās plēnās gaudī vīvēbunt</latin>"
+      answer: "GENITIVE WITH SPECIAL ADJECTIVES / WITH ADJECTIVES OF FILLING"
+    boni:
+      - question: "Identify the use of the ablative in that same sentence: <latin>Tribus annīs Rōmānī vītās plēnās gaudī vīvēbunt</latin>"
+        answer: "ABLATIVE OF TIME WITHIN WHICH"
+      - question: "Identify the use of the accusative in that same sentence: <latin>Tribus annīs Rōmānī vītās plēnās gaudī vīvēbunt</latin>"
+        answer: "COGNATE ACCUSATIVE"
+  - tossup:
+      question: "Give the meaning of the Latin verb at the root of “overt,” “pert,” and “aperture.”"
+      answer: "TO OPEN / DISCLOSE / REVEAL"
+    boni:
+      - question: "The Latin verb <latin>claudō</latin>, meaning “to close” also has many derivatives. What derivative of <latin>claudō</latin> means “accessible only to a select few.”"
+        answer: "EXCLUSIVE"
+      - question: "Which one of these less-common English words also comes from <latin>claudō</latin>: disinclined, sluice, colander, sconce, cormorant?"
+        answer: "SLUICE"
+  - tossup:
+      question: "The Titan Menoetius, Capaneus, Salmoneus, and Asclepius all share the dubious distinction of what manner of death?"
+      answer: "KILLED BY <emphasis>ZEUS</emphasis> WITH A <emphasis>THUNDERBOLT / LIGHTNING BOLT</emphasis>"
+    boni:
+      - question: "What two sons of Asclepius survived their father and served as the chief Greek physicians during the Trojan War?"
+        answer: "MACHAON & PODAL(E)IRIUS"
+      - question: "Capaneus had joined the expedition of the Seven Against Thebes because he was kin to Adrastus. What was their relationship?"
+        answer: "CAPANEUS WAS ADRASTUS’ NEPHEW"
+  - tossup:
+      question: "<latin>Quid Valerius virō nōn mittit?</latin>"
+      answer: "<latin>(SUUM) LIBRUM</latin>"
+    boni:
+      - question: "<latin>Quālis est homō cui Valerius dīcēbat?</latin>"
+        answer: "<latin>IGNĀVUS</latin>"
+      - question: "<latin>Cūr Valerius suum librum virō mittere nōn vult?</latin>"
+        answer: "<latin>QUOD NŌN VULT VIRĪ LIBRUM LEGERE</latin> "
+  - tossup:
+      question: "Gaius Marius hid the forces of the tribune Claudius Marcellus and had them attack the rear of the enemy, causing a rout that virtually wiped out the Teutones at what battle of 102 BC?"
+      answer: "AQUAE SEXTIAE"
+    boni:
+      - question: "What king of the Teutones was captured at Aquae Sextiae?"
+        answer: "TEUTOBOD"
+      - question: "At what battle in the following year did Marius annihilate the Cimbri?"
+        answer: "VERCELLAE"
+  - tossup:
+      question: "Give the Latin phrase used to describe an argument that, instead of focusing on the actual issue at hand, becomes a personal attack on one of the people involved"
+      answer: "<latin>AD HOMINEM</latin> "
+    boni:
+      - question: "What other Latin phrase also describes a logical fallacy such as the following statement: “Bigfoot has been reported in these woods. I can’t find my sandwich. Therefore, Bigfoot ate my sandwich”? The Latin literally translates to “after this, therefore because of this.”"
+        answer: "<latin>POST HOC ERGŌ PROPTER HOC</latin> "
+      - question: "What Latin phrase is used in logical analysis and in law to denote where the burden of proof lies, and literally means in Latin, “The burden of proving”?"
+        answer: "<latin>ONUS PROBĀNDĪ</latin> "
+  - tossup:
+      question: "Of <latin>subsellium</latin>, <latin>solium</latin>, <latin>sedīle</latin>, and <latin>cathedra</latin>, which was a bench-type seat used in the <latin>curia</latin> among other places?"
+      answer: "<latin>SUBSELLIUM</latin> "
+    boni:
+      - question: "Of <latin>subsellium</latin>, <latin>solium</latin>, <latin>sedīle</latin>, and <latin>cathedra</latin>, which was used in the plural to describe rows of seats, such as could be found in a theater, or to describe the benches sat upon by those who rowed ships?"
+        answer: "<latin>SEDĪLE</latin> "
+      - question: "What type of folding chair not on this list would a magistrate sit on while hearing petitions?"
+        answer: "<latin>SELLA CURŪLIS</latin> / CURULE CHAIR"
+  - tossup:
+      question: "Who was said to be the oldest of the offspring of Oceanus and Tethys and was the mother of Zelus, Nike, Bia, Cratus, and Echidna?"
+      answer: "STYX"
+    boni:
+      - question: "Styx became the river by which the gods swore because of Zeus’ gratitude for what deed of hers?"
+        answer: "SHE WAS THE FIRST TO BRING HER CHILDREN TO AID THE GODS IN THEIR STRUGGLE AGAINST THE TITANS"
+      - question: "Zeus became the first to swear an oath on the waters of the Styx and agreed that if any god should break an oath made on the Styx that that god would lie in a coma for how long?"
+        answer: "ONE YEAR"
+  - tossup:
+      question: "According to this inscription, what was the name of Granius’ father?"
+      answer: "MARCUS"
+    boni:
+      - question: "What exact military position did Quintus Granius hold AND for what unit?"
+        answer: "MILITARY TRIBUNE OF THE THIRD LEGION (PROMPT ON “TRIBUNE”)"
+      - question: "For what exact four Latin words do the last four words or abbreviations in this inscription stand?"
+        answer: "<latin>TRIBŪNUS MĪLITUM LEGIŌNIS TERTIAE</latin> "
+  - tossup:
+      question: "Say in Latin: In virtue, your father is like my brother"
+      answer: "<latin>PATER TUUS / VESTER SIMILIS FRĀTRĪ MEŌ VIRTŪTE EST</latin> "
+    boni:
+      - question: "Say in Latin: Your father seems to be a man of the highest virtue"
+        answer: "<latin>PATER TUUS / VESTER VIR / HOMŌ MAXIMĀ VIRTŪTE / MAXIMAE VIRTŪTIS (ESSE) VIDĒTUR</latin> "
+      - question: "Say in Latin: Your father’s virtue is much greater than the consul’s"
+        answer: "<latin>VIRTŪS PATRIS TUĪ / VESTRĪ MULTŌ MAIOR (VIRTŪTE) / QUAM (VIRTUS) CŌNSULIS EST</latin> "
+  - tossup:
+      question: "When the Epigoni sacked Thebes, this woman was declared “the fairest of the spoils” and dedicated to Apollo. Name this seeress, the daughter of Teiresias"
+      answer: "MANTO"
+    boni:
+      - question: "What seer was Manto’s son?"
+        answer: "MOPSUS"
+      - question: "Mopsus and Calchas had an epic seer-off in which two seemingly impossible questions were posed. Mopsus answered both questions correctly. Give one of the two questions posed"
+        answer: "HOW MANY FIGS WERE ON A CERTAIN TREE / HOW MANY PIGLETS A CERTAIN PREGNANT SOW WAS CARRYING"
+  - tossup:
+      question: "Translate this sentence from Latin into English: <latin>Herculēs cervum vīvum circum collum posuit</latin>"
+      answer: "HERCULES PLACED THE LIVING DEER / STAG AROUND HIS NECK"
+    boni:
+      - question: "Translate this sentence: <latin>Ibi corpus animālis mortuī relīquit</latin>"
+        answer: "HE LEFT BEHIND THE BODY OF THE DEAD ANIMAL THERE / IN THAT PLACE."
+      - question: "Now translate this sentence: <latin>Fabula Herculis ad terrās omnēs lātē allāta erat.</latin> "
+        answer: "THE STORY OF HERCULES HAD BEEN CARRIED TO ALL THE LANDS WIDELY / FAR AND WIDE."
+  - tossup:
+      question: "What emperor massacred a crowd at Thessalonica to avenge the murder of a general, allowed Christians to burn down pagan temples, allowed a bishop to burn down synagogues, and defeated the pagan Eugenius at the battle of the River Frigidus in order to reunite the Eastern and Western empires for the final time?"
+      answer: "THEODOSIUS I / THE GREAT"
+    boni:
+      - question: "Who was the bishop of Milan who drove Theodosius to deny Arianism and to allow many of the more zealous Christians to perpetrate acts of violence unpunished?"
+        answer: "AMBROSE / AMBROSIUS"
+      - question: "What two sons of Theodosius inherited the empire upon his death in 395 A.D.?"
+        answer: "ARCADIUS AND HONORIUS  "

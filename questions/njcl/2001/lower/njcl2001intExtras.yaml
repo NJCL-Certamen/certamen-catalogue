@@ -1,0 +1,245 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim Publius Claudius, vir magnae superbiae, dux classis Rōmānae factus est. Cum impetum in classem hostium parāret, ab haruspicibus monēbātur, “Hodiē</latin> <latin>pullī</latin> <latin>sacrī</latin> <latin>cibum nōn edunt.” “Bibant tamen,” respondit īrātus dux et pullōs sacrōs in mare dēmīsit.</latin>  <latin>Quid parābat Claudius?</latin>"
+      answer: "IMPETUM (IN CLASSEM HOSTIUM)"
+    boni:
+      - question: "Quī <latin>dīxērunt pullōs sacrōs cibum nōn edere?</latin>"
+        answer: "HARUSPICĒS"
+      - question: "Quō <latin>consiliō</latin> <latin>Claudius pullōs sacrōs in mare dēmīsit?</latin> "
+        answer: "<latin>UT BIBERENT / UT EŌS NECĀRET</latin>"
+  - tossup:
+      question: "Of <latin>tibicen</latin>, <latin>theātrum</latin>, <latin>templum</latin>, <latin>rostrum</latin>, and <latin>nāvis</latin>, which is described in this Latin sentence: <latin>Est aedificium ad spectandōs lūdōs factum</latin>"
+      answer: "<latin>THEĀTRUM</latin>"
+    boni:
+      - question: ". . . <latin>Est machina quā</latin> <latin>per mare aut flūmen nāvigāmus</latin>"
+        answer: "<latin>NĀVIS</latin>"
+      - question: ". . . <latin>Est ōs quō</latin> <latin>animalia cibum capiunt</latin>"
+        answer: "<latin>ROSTRUM</latin>"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Plaude bis pedibus tuīs</latin>"
+      answer: "STUDENT SHOULD CLAP TWICE WITH HIS FEET"
+    boni:
+      - question: "<latin>Duō</latin> <latin>sodālēs, plaudite ambās manūs inter vos.</latin> "
+        answer: "TWO TEAMMATES SHOULD DO SOMETHING INVOLVING CLAPPING HANDS BETWEEN THEMSELVES"
+      - question: "<latin>Surge et tē</latin> <latin>rotā</latin> <latin>ter.</latin> "
+        answer: "ONE STUDENT SHOULD RISE AND TURN AROUND THREE TIMES"
+  - tossup:
+      question: "What derivative of the Latin adjective <latin>grātus</latin> means “mercy or clemency?”"
+      answer: "GRACE"
+    boni:
+      - question: "means “a gift in return for services?”"
+        answer: "GRATUITY"
+      - question: "means “unnecessary or unwarranted?”"
+        answer: "GRATUITOUS"
+  - tossup:
+      question: "What derivative of the Latin verb <latin>regō</latin>, <latin>regere</latin> means “incapable of being corrected or reformed?”"
+      answer: "INCORRIGIBLE"
+    boni:
+      - question: "What derivative of the Latin verb <latin>condō</latin>, <latin>condere</latin> means “not easily understood, hidden?”"
+        answer: "RECONDITE"
+      - question: "What derivative of the Latin verb <latin>precor</latin>, <latin>precārī</latin> means “to deplore?”"
+        answer: "DEPRECATE"
+  - tossup:
+      question: "Using the noun <latin>virgō</latin>, give the dative plural of “ two virgins.”"
+      answer: "<latin>DUĀBUS VIRGINIBUS</latin>"
+    boni:
+      - question: "Give the ablative plural of “three days.”"
+        answer: "<latin>TRIBUS DIĒBUS</latin>"
+      - question: "Give the dative singular of “one army.”"
+        answer: "<latin>ŪNĪ</latin> <latin>EXERCITUĪ</latin>"
+  - tossup:
+      question: "The noun <latin>capitī</latin> does NOT agree with which of the following adjectives?"
+      answer: "<emphasis>Ū</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis>, <latin>MAGNŌ</latin>, <latin>ŪNĪ</latin>"
+    boni:
+      - question: "The noun <latin>sanguinis</latin> CAN agree with which of the following adjectives?"
+        answer: "<latin>RUBER</latin>, <emphasis><latin>RUBR</latin></emphasis><emphasis>Ī</emphasis>, <latin>RUBRIS</latin>"
+      - question: " The noun <latin>nūbēs</latin> CAN agree with which of the following adjectives?"
+        answer: "<latin>ĀTRĪ</latin>, <emphasis>Ā</emphasis><emphasis><latin>TRA</latin></emphasis>, <latin>ĀTRUM</latin>"
+  - tossup:
+      question: "Give the third person singular, future perfect active indicative of the verb <latin>capiō</latin>"
+      answer: "<latin>CĒPERINT</latin>"
+    boni:
+      - question: " Change <latin>cēperint</latin> to the passive"
+        answer: "<latin>CAPTĪ</latin> <latin>ERUNT</latin>"
+      - question: "Change <latin>captī</latin> <latin>erunt</latin> to the singular"
+        answer: "<latin>CAPTUS</latin>/"
+  - tossup:
+      question: "Identify the tense, mood, voice, person, number and the base verb of the form <latin>iī</latin>"
+      answer: "PERFECT, INDICATIVE, ACT., FIRST PERSON SING. OF <latin>EŌ</latin> / <latin>ĪRE</latin>"
+    boni:
+      - question: "Do the same for <latin>possēs</latin>"
+        answer: "IMPERF, INDIC., ACT., 2ND PER. SING.. OF <latin>POSSUM</latin> /<latin>POSSE</latin>"
+      - question: " Do the same for <latin>vōluerim</latin>"
+        answer: "PERF, SUBJV., ACT., 1ST PER. SING. OF <latin>VŌLŌ</latin>/ <latin>VELLE</latin>"
+  - tossup:
+      question: "Change the verb <latin>nōlō</latin> to the plural"
+      answer: "<latin>NŌLUMUS</latin>"
+    boni:
+      - question: "Change <latin>nōlumus</latin> to the perfect"
+        answer: "<latin>NŌLUIMUS</latin>"
+      - question: "Change <latin>nōluimus</latin> to the present subjunctive"
+        answer: "<latin>NŌLĪMUS</latin>"
+  - tossup:
+      question: "What is the antonym of the adjective <latin>tenuis</latin>?"
+      answer: "<latin>CRASSUS</latin>, <latin>OBĒSUS</latin>, <latin>TURDUS</latin>, <latin>OBTŪSUS</latin>"
+    boni:
+      - question: " Of <latin>dīligēns</latin>?"
+        answer: "<latin>SĒCŪRUS</latin>, <latin>NEGLIGENS</latin>, <latin>DISSOLŪTUS</latin>, <latin>PIGER</latin>"
+      - question: "Of the adjective <latin>mīrus</latin>?"
+        answer: "<latin>ŪSITĀTUS</latin>, <latin>MEDIOCRIS</latin>, <latin>VULGĀRIS</latin>, <latin>ORDINĀRIUS</latin>"
+  - tossup:
+      question: "Give a Latin antonym for the conjunction <latin>etsī</latin>"
+      answer: "<latin>QUIA</latin>, <latin>QUONIAM</latin>, <latin>CUM</latin>, <latin>NAM</latin>, <latin>ENIM</latin>"
+    boni:
+      - question: ". . . for the conjunction <latin>priusquam</latin>"
+        answer: "<latin>POSTQUAM</latin>"
+      - question: ". . . for the conjunction <latin>numquam</latin>"
+        answer: "<latin>SEMPER</latin>, <latin>ASSIDUĒ</latin>, <latin>PERPETUŌ</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>auris</latin>”?"
+      answer: "EAR"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>crūs</latin>”?"
+        answer: "LEG, SHANK, SHIN, FOOT"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mentum</latin>”?"
+        answer: "CHIN, BEARD"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>Fēlīciter</latin>”?"
+      answer: "GOOD LUCK! SUCCESSFULLY, FAVORABLY"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>euge</latin>”?"
+        answer: "HURRAH!, WELL DONE!, BRAVO!"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>vae</latin>”?"
+        answer: "ALAS!, WOE!"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>scindō</latin>”?"
+      answer: "TEAR, RIP, CUT, DIVIDE, DISTURB"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>soleō</latin>”?"
+        answer: "BE ACCUSTOMED, USUALLY"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat verbum</latin> “<latin>spargō</latin>”?"
+        answer: "SPREAD, SCATTER, SPRINKLE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Marcum rogābō</latin> <latin>quid crās faciat</latin>"
+      answer: "I SHALL ASK MARCUS WHAT HE IS DOING / WILL DO TOMORROW"
+    boni:
+      - question: "<latin>Omnēs sciunt quam fortis fuerit Caesar</latin>"
+        answer: "EVERYONE KNOWS HOW BRAVE CAESAR WAS"
+      - question: "<latin>Nēmō</latin> <latin>scit utrum fūr hoc abstulerit necne</latin>"
+        answer: "NO ONE KNOWS WHETHER A THIEF HAS STOLEN THIS OR NOT"
+  - tossup:
+      question: "What use of the accusative case is illustrated in this sentence: <latin>Turris pedēs dūcentōs alta est</latin>"
+      answer: "EXTENT OF SPACE"
+    boni:
+      - question: "in this sentence: <latin>Sentiō</latin> <latin>aquam frīgidam esse</latin>"
+        answer: "SUBJECT OF INFINITIVE"
+      - question: "in this sentence: <latin>Cōnsul Caesarem sententiam rogābat</latin>"
+        answer: "DOUBLE <latin>HISTORY / GEOGRAPHY / LIFE</latin>"
+  - tossup:
+      question: "What would a Roman intend to buy if he went to the <latin>forum boarium</latin>?"
+      answer: "CATTLE/MEAT"
+    boni:
+      - question: "to the <latin>forum piscarium</latin>?"
+        answer: "FISH"
+      - question: "to the <latin>forum holitorium</latin>?"
+        answer: "VEGETABLES"
+  - tossup:
+      question: "What months in the Roman calendar had 31 days?"
+      answer: "MARCH, MAY, JULY, & OCTOBER <latin>(MARTIUS, MAIUS, QUINCTILIS IULIUS, & OCTOBER)</latin>"
+    boni:
+      - question: " For these months, on what days did the Nones and Ides fall?"
+        answer: "<latin>NONAE-</latin>7TH<latin>, IDUS-</latin>15TH"
+  - tossup:
+      question: "To what Etruscan family did the fifth and seventh kings belong?"
+      answer: "<latin>TARQUINIUS/TARQUINII</latin>"
+    boni:
+      - question: " Give the full Latin name of the fifth Roman king"
+        answer: "<latin>LUCIUS TARQUINIUS PRISCUS</latin>"
+      - question: "Name his wife, who skilled in the Etruscan art of augury, predicted he would be king"
+        answer: "<latin>TANAQUIL</latin>"
+  - tossup:
+      question: "Whom did <latin>comitia centuriata</latin> elect as dictator in 217 BC?"
+      answer: "<latin>Q. FABIUS MAXIMUS (TO BECOME CUNCTATOR)</latin>"
+    boni:
+      - question: " What huge defeat had the Romans just suffered?"
+        answer: "<latin>LAKE TRASIMENE</latin>"
+      - question: "What military strategy earned Fabius Maximus the derogatory nickname of the “Hannibal’s lackey”?"
+        answer: "<latin>INACTION/REFUSING TO MEET HANNIBAL IN SET BATTLE</latin>"
+  - tossup:
+      question: "Who, having been proscribed by Sulla, was invited by the Lusitanians to return to Spain to lead them against Rome?"
+      answer: "(Q.) SERTORIUS"
+    boni:
+      - question: "For five points each, what two prominent Roman commanders were basically unsuccessful against Sertorius?"
+        answer: "(Q. CAECILIUS) METELLUS PIUS"
+      - question: "and POMPEY(CN"
+        answer: "POMPEIUS MAGNUS)"
+  - tossup:
+      question: "What Roman commander committed suicide after his three legions were ambushed and destroyed by Arminius, a Cherusci chieftain?"
+      answer: "(P. QUINCTILIUS) VARUS"
+    boni:
+      - question: "In what year did this disaster occur?"
+        answer: "A. D."
+      - question: "9 What Roman commander defeated Arminius in A"
+        answer: "D."
+      - question: "16?"
+        answer: "GERMANICUS"
+  - tossup:
+      question: "On what site did Hadrian determine to found a Roman colony named Aelia Capitolina?"
+      answer: "JERUSALEM"
+    boni:
+      - question: "What did Hadrian build on the site of the Jewish temple?"
+        answer: "SHRINE/TEMPLE TO JUPITER (CAPITOLINUS)"
+      - question: "What was the result of Hadrian’s building projects?"
+        answer: "JEWISH REBELLION"
+  - tossup:
+      question: "What would a person in the Roman world be indicating if he wore a hat known as a <latin>pilleus</latin>?"
+      answer: "<latin>RECENTLY FREED FROM SLAVERY</latin>"
+    boni:
+      - question: "What shape was a <latin>pilleus</latin>?"
+        answer: "<latin>CONE-SHAPED</latin>"
+      - question: "Most Romans did not wear hats. What would one do to protect his head in a sudden storm?"
+        answer: "<emphasis>PULL PART OF TOGA (OR HOOD OF CLOAK) OVER HEAD</emphasis>"
+  - tossup:
+      question: "What is the modern name of the ancient Spanish city of Carthago Nova?"
+      answer: "CARTAGENA"
+    boni:
+      - question: "Carthago Nova was founded by Hasdrulbal Barca. What modern city derives its name from “Barca?”"
+        answer: "BARCELONA"
+      - question: "What are the modern names of Olisipo, Lusitania?"
+        answer: "LISBON, PORTUGAL <latin>MYTHOLOGY</latin>"
+  - tossup:
+      question: "Who won the footrace in Anchises' funeral games?"
+      answer: "EURYALUS"
+    boni:
+      - question: "Who won the boxing match?"
+        answer: "ENTELLUS"
+      - question: "What was the target in the archery contest?"
+        answer: "A DOVE/ PIGEON/ BIRD"
+  - tossup:
+      question: "Who disappeared at the spring of Pegae?"
+      answer: "HYLAS"
+    boni:
+      - question: "Who insisted that the Argonauts leave Hylas & Heracles there?"
+        answer: "ZETES & CALAIS"
+      - question: "or GLAUCUS (THE SEA GOD) Who was the father of Zetes and Calais?"
+        answer: "BOREAS"
+  - tossup:
+      question: "What king had a herdsman who made all his cows bear twins?"
+      answer: "ADMETUS"
+    boni:
+      - question: "Who was Admetus' herdsman?"
+        answer: "APOLLO"
+      - question: "Who was Admetus' first cousin, the son of his uncle Aeson?"
+        answer: "JASON"
+  - tossup:
+      question: "What Thessalian seer sailed with the Argonautas?"
+      answer: "MOPSUS"
+    boni:
+      - question: "How did Mopsus die?"
+        answer: "BITTEN BY A SNAKE"
+      - question: "Where did that happen?"
+        answer: "LIBYA"

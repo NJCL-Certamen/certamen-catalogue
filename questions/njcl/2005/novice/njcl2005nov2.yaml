@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Which of Rome’s seven kings were Sabines?"
+      answer: "NUMA POMPILIUS AND ANCUS MARCIUS"
+    boni:
+      - question: "According to tradition, which of the seven hills did Ancus Marcius annex into the city limits of Rome during his reign?"
+        answer: "AVENTINE"
+      - question: "Which city does legend tell us that Ancus founded near Rome in order to increase Rome’s ability to trade the salt she produced nearby?"
+        answer: "OSTIA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Rēx ipse fortitūdinem mīlitum laudāvit</latin>."
+      answer: "THE KING HIMSELF PRAISED THE BRAVERY OF THE SOLDIERS"
+    boni:
+      - question: "<latin>Heri virgō</latin> <latin>et iuvenis trāns flūmen natāvērunt</latin> "
+        answer: "YESTERDAY A MAIDEN AND A YOUTH SWAM ACROSS THE RIVER"
+      - question: "<latin>Quis hōs fortēs virōs et fēminās nōn laudābunt</latin>?"
+        answer: "WHO WILL NOT PRAISE THESE BRAVE MEN AND WOMEN"
+  - tossup:
+      question: "Which temple stood in the forum of Julius Caesar?"
+      answer: "VENUS (GENETRIX)"
+    boni:
+      - question: "Whose temple stood in the Forum Transitorium?"
+        answer: "MINERVA’S"
+      - question: "Whose temple stood in Trajan’s forum?"
+        answer: "TRAJAN’S"
+  - tossup:
+      question: "Who orders a violent storm to be sent against Aeneas’ ships, driving them to Carthage?"
+      answer: "JUNO / HERA"
+    boni:
+      - question: "Name the queen of Carthage who welcomes the Trojans and falls in love with Aeneas?"
+        answer: "DIDO / ELISSA"
+      - question: "What does Dido do after Aeneas refused to stay and, instead, set sail for Italy?"
+        answer: "COMMITS SUICIDE (WITH AENEAS’ SWORD)"
+  - tossup:
+      question: "Who was the first of the suitors to be killed by Odysseus?"
+      answer: "ANTINOÜS"
+    boni:
+      - question: "Whom did Odysseus kill second?"
+        answer: "EURYMACHUS"
+      - question: "Once all of the suitors were killed, how were the maid-servants who had consorted with the suitors punished?"
+        answer: "FORCED TO CLEAN THE HALL <emphasis>&</emphasis> THEN HANGED"
+  - tossup:
+      question: "Which of the following verbs, if any, does NOT take an object in the dative case: <latin>servō</latin>, <latin>noceō</latin>, <latin>ignōscō</latin>, <latin>faveō</latin>, <latin>imperō</latin>?"
+      answer: "<latin>SERVŌ</latin>"
+    boni:
+      - question: "Say in Latin, “The senator had believed the farmers.”"
+        answer: "<latin>SENĀTOR AGRICOLĪS CRĒDIDERAT</latin> "
+      - question: "Say in Latin, “The slaves were serving Lucius very well.”"
+        answer: "<latin>SERVĪ</latin> <latin>LŪCIŌ</latin> <latin>OPTIMĒ</latin> <latin>SERVIĒBANT</latin>"
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? In amōrem cum Caesare cecidī. Marcus Antonius mē</latin> <latin>amāvit. Manū</latin> <latin>meā</latin> <latin>serpens mē</latin> <latin>necāvit. Rēgīna Aegyptī</latin> <latin>fuī.</latin> "
+      answer: "<latin>CLEOPĀTRA</latin> / CLEOPATRA"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Hostis Rōmānōrum fuī. Manius Curius meum exercitum vīcit et triumphāvit. Mulier tēgulam in caput meum dēiēcit. Rēx Epīrī</latin> <latin>et Siciliae fuī.</latin> "
+        answer: "<latin>PYRRHUS</latin> / PYRRHUS"
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Bis dictātor fuī. Ubi Hannibal erat in Italiā, nolēbam cum Hannibale pugnāre. Rōmānī</latin> <latin>mē</latin> <latin>rīsērunt. Ego autem salvātor Rōmae fuī.</latin> "
+        answer: "<latin>QUĪNTUS</latin> <emphasis><latin>FABIUS MAXIMUS</latin></emphasis> <latin>CUNCTĀTOR</latin>   / QUINTUS <emphasis>FABIUS MAXIMUS</emphasis> CUNCTATOR / THE DELAYER"
+  - tossup:
+      question: "Give the genitive singular of the phrase, “<latin>magna laus</latin>.”"
+      answer: "<latin>MAGNAE LAUDIS</latin> "
+    boni:
+      - question: "Give the genitive singular of the phrase, “<latin>carmen longum</latin>.”"
+        answer: "<latin>CARMINIS LONGĪ</latin>"
+      - question: "Give the genitive singular of the phrase, “<latin>mōs antīquus</latin>.”"
+        answer: "<latin>MŌRIS ANTĪQUĪ</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “aquila”?</latin>"
+      answer: "EAGLE, STANDARD"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “aqua” in architectūrā</latin>?"
+        answer: "AQUEDUCT"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “arca”?</latin>"
+        answer: "CHEST, BOX"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Templum Saturnī</latin> <latin>in Forō</latin> <latin>Rōmānō</latin> <latin>aedificābātur</latin>."
+      answer: "THE TEMPLE OF SATURN WAS BEING BUILT / WAS BUILT IN THE ROMAN FORUM"
+    boni:
+      - question: "(PASS OUT THE VISUAL) The visual contains the inscription on the ruins of the Temple of Saturn in Rome. According to this inscription, why was the temple rebuilt?"
+        answer: "(IT HAD BEEN CONSUMED BY) FIRE"
+      - question: "According to this inscription, who rebuilt the temple?"
+        answer: "THE <emphasis>SENATE</emphasis> AND THE <emphasis>PEOPLE</emphasis> OF ROME"
+  - tossup:
+      question: "Who defies her uncle by throwing three handfuls of earth over the body of her slain brother?"
+      answer: "ANTIGONE"
+    boni:
+      - question: "Name this brother who had been denied a proper burial for attacking his own city."
+        answer: "POLYN(E)ICES"
+      - question: "To what punishment is Antigone sentenced for her defiance?"
+        answer: "BURIED ALIVE / SEALED IN A CAVE"
+  - tossup:
+      question: "Translate the following sentence into Latin: We saw Marcus running quickly."
+      answer: "<latin>MARCUM CELERITER / CUM CELERITĀTE</latin>   <latin>CURRENTEM VĪDIMUS / VIDĒBĀMUS</latin> "
+    boni:
+      - question: "Marcus moved his feet with great swiftness."
+        answer: "<latin>MARCUS PEDĒS (SUŌS) MAGNĀ</latin> <latin>(CUM) CELERITĀTE MŌVIT / MOVĒBAT</latin> "
+      - question: "Tomorrow morning Marcus will be running in the Circus Maximus."
+        answer: "<latin>CRĀS MĀNE MARCUS IN CIRCŌ</latin> <latin>MAXIMŌ</latin> <latin>CURRET</latin> "
+  - tossup:
+      question: "Which of the gods seldom visited Olympus because his realm was the underworld?"
+      answer: "HADES / AIDES / PLUTON / PLUTO / DIS/ DIS PATER / ORCUS"
+    boni:
+      - question: "What was made for him by the Cyclopes that was his most prized possession?"
+        answer: "HELMET OF INVISIBILITY"
+      - question: "Who are the parents of Hades / Pluto?"
+        answer: "CRONUS / SATURN & RHEA / OPS"
+  - tossup:
+      question: "What derivative of the Latin noun for “death” means “not subject to death”?"
+      answer: "IMMORTAL"
+    boni:
+      - question: "What derivative of the Latin verb for “change” means “not subject to change”?"
+        answer: "IMMUTABLE / IRREVERSIBLE"
+      - question: "What derivative of the Latin noun for “wall” means “to confine within walls”?"
+        answer: "IMMURE"
+  - tossup:
+      question: "With whom were Clodius Albinus and Pescennius Niger rivals for the imperial throne in A.D. 193?"
+      answer: "(SEPTIMIUS) SEVERUS"
+    boni:
+      - question: "Which rival did Severus acknowledge as his Caesar?"
+        answer: "(CLODIUS) ALBINUS"
+      - question: "Where did Albinus amass a huge army for the eventual confrontation with Severus?"
+        answer: "BRITAIN"
+  - tossup:
+      question: "Who sent heralds to every Greek city calling for volunteers to sail with him in search of the golden fleece?"
+      answer: "JASON"
+    boni:
+      - question: "Who was the builder of Jason’s fifty-oared ship?"
+        answer: "ARGUS"
+      - question: "What deity fitted a talking beam into the Argo’s prow?"
+        answer: "ATHENA / MINERVA"
+  - tossup:
+      question: "What Latin phrase is medical terminology for “ in a test tube or petri dish”?"
+      answer: "<latin>IN VITRŌ</latin>"
+    boni:
+      - question: "What Latin phrase is medical terminology for “at the point of death”?"
+        answer: "<latin>IN EXTRĒMĪS</latin> "
+      - question: "What Latin phrase is medical terminology for “after birth”?"
+        answer: "<latin>POST PARTUM</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Dux Rōmānus, quī</latin> <latin>hostem vīcit, urbem intrat cum exercitū</latin> <latin>suō</latin> <latin>per portam triumphālem. Dux, nunc triumphātor, stat in currū</latin> <latin>aureō, quem quattuor equī</latin> <latin>trahunt; super caput ēius aurea corōna est, quam tenet servus pūblicus, quī</latin> <latin>post ducem in currū</latin> <latin>ascendit.</latin>  Question: <latin>Quōcum intrat dux per portam triumphālem</latin>?"
+      answer: "<latin>CUM EXERCITŪ</latin> (<latin>SUŌ</latin>)"
+    boni:
+      - question: "<latin>Quid tenet servus pūblicus</latin>?"
+        answer: "<latin>(AUREAM) CORŌNAM (SUPER CAPUT TRIUMPHĀTŌRIS)</latin> "
+      - question: "<latin>Quod vehiculum tenet triumphātōrem</latin>?"
+        answer: "<latin>CURRUS (AUREUS)</latin> "
+  - tossup:
+      question: "What is the Latin term for the day on which a child was named?"
+      answer: "<latin>DIĒS LUSTRICUS</latin> "
+    boni:
+      - question: "How many days after birth was a male Roman child named?"
+        answer: "<latin>EIGHT / NINE</latin> "
+      - question: "What magic charm or amulet was also given on this day to the child?"
+        answer: "<latin>BULLA</latin> "
+  - tossup:
+      question: "You are walking with a friend in ancient Rome. What does your friend want to know when she asks you, “<latin>Ubi illam stolam ēmistī</latin>?”"
+      answer: "WHERE YOU BOUGHT YOUR STOLA / DRESS / GOWN"
+    boni:
+      - question: "You respond, “<latin>Cūr vīs scīre</latin>?” What are you asking?"
+        answer: "WHY DO YOU WANT TO KNOW?"
+      - question: "She responds, “<latin>Quod crās est meae mātris nātālis diēs</latin>.” What is her answer?"
+        answer: "TOMORROW IS HER MOTHER’S BIRTHDAY"

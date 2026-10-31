@@ -1,0 +1,161 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What two brothers deprived Hannibal of reinforcements and supplies from Spain?"
+      answer: "GNAEUS"
+    boni:
+      - question: "and PUBLIUS (CORNELIUS) SCIPIO After those commanders were killed, to whom did the Senate give the command in Spain?"
+        answer: "(PUBLIUS CORNELIUS) SCIPIO"
+      - question: "<emphasis>and</emphasis> one of the following: AFRICANUS / <emphasis>THE FUTURE</emphasis> AFRICANUS / THE SON OF PUBLIUS CORNELIUS SCIPIO IN THE TOSS-UP After what battle was the younger Scipio in control of Spain?"
+        answer: "BATTLE OF ILIPA"
+  - tossup:
+      question: "Which centaur dropped one of Hercules' poisoned arrows on his foot and died from its venom?"
+      answer: "PHOLUS"
+    boni:
+      - question: "or CHEIRON What had Pholus offered to Hercules in an act of hospitality?"
+        answer: "WINE"
+      - question: "During which of the labors did Pholus offer Hercules his hospitality?"
+        answer: "(HUNTING THE) ERYMANTHIAN BOAR"
+  - tossup:
+      question: "For the verb <latin>precor</latin> give the second person plural, present imperative"
+      answer: "<latin>PRECĀMINĪ</latin>"
+    boni:
+      - question: "Change <latin>precāminī</latin> to the imperative singular"
+        answer: "<latin>PRECĀRE</latin>"
+      - question: "Give the present imperative singular of <latin>patior</latin>"
+        answer: "<latin>PATERE</latin>"
+  - tossup:
+      question: "What use of the genitive case is illustrated in this sentence: <latin>Catullus cupidus amōris erat</latin>"
+      answer: "WITH CERTAIN SPECIAL / ADJECTIVES / <latin>CUPIDUS</latin> / OBJECTIVE"
+    boni:
+      - question: "in this sentence: <latin>Fīlius oblīvīscēbātur patris patriaeque</latin>"
+        answer: "AFTER VERBS OF REMEMBERING / FORGETTING"
+      - question: "in this sentence: <latin>Eum capitis damnāvērunt</latin>"
+        answer: "AFTER VERBS OF CONDEMNING / ACQUITTING"
+  - tossup:
+      question: "What derivative of the Latin verb <latin>errō</latin>, <latin>errāre</latin> means “a deviation from the proper or expected course?”"
+      answer: "ABERRATION / ABERRANCY"
+    boni:
+      - question: "What derivative of the Latin verb <latin>carpō</latin>, <latin>carpere</latin> means “to select material from a longer work?”"
+        answer: "EXCERPT"
+      - question: "What derivative of the Latin verb <latin>fingō</latin>, <latin>fingere</latin> means “an image made to represent an individual?”"
+        answer: "EFFIGY / FIGURE"
+  - tossup:
+      question: "Translate “immortal god” into Latin for the following sentence: “O immortal god, would that I had defeated the enemy!”"
+      answer: "<latin>DEUS IMMORTĀLIS</latin> / <latin>DEE IMMORTĀLIS</latin> / THERE IS NO ANSWER"
+    boni:
+      - question: "What use of the independent subjunctive would have been used to translate the sentence in the toss-up?"
+        answer: "OPTATIVE"
+      - question: "Again, for that sentence, translate “I had defeated.”"
+        answer: "<latin>SUPERĀVISSEM</latin> / <latin>VĪCISSEM</latin>"
+  - tossup:
+      question: "Name the governor of Gallia Lugdunensis who rebelled against Nero in March, A"
+      answer: "D."
+    boni:
+      - question: "What other governor did Vindex pledge to support as emperor?"
+        answer: "(SERVIUS SULPICIUS) GALBA"
+      - question: "By whom was Vindex defeated?"
+        answer: "(L.)VERGINIUS RUFUS"
+  - tossup:
+      question: "How did Prometheus foil Zeus's plan to destroy the human race?"
+      answer: "HE WARNED (HIS SON) DEUCALION TO BUILD A BOAT"
+    boni:
+      - question: "Who incited similar feelings of destructive wrath in Zeus by feeding the god human flesh?"
+        answer: "LYCAON"
+      - question: "According to Ovid, what fire precipitated Zeus' flood to drown the earth?"
+        answer: "PHAETHON'S SUN CHARIOT BURNING THE EARTH"
+  - tossup:
+      question: "What type of cum-clause is illustrated by the following Latin sentence: <latin>Cum Rōma plēna hominum esset, nōs tamen facile ambulāre poteramus</latin> CONCESSIVE . . . <latin>Quae cum ita sint, fūr damnandus est</latin>"
+      answer: "CAUSAL"
+    boni:
+      - question: "Translate the cum clause into Latin for the following sentence: “When I go to Rome next summer, I will visit the Colosseum.”"
+        answer: "<latin>CUM RŌMAM PROXIMĀ</latin> <latin>AESTĀTE EŌ</latin> / <latin>ĪBŌ</latin> / <latin>Ī(V)ERŌ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Iuvenis pauperem anum sedentem in rīpā</latin> <latin>vīdit. Ea statim magnā</latin> <latin>vōce iuvenem sē</latin> <latin>transportāre iussit. Iuvenis, quī</latin> <latin>anum esse pulchram deam suspicābātur, eam sustulit. Ad rīpam contrāriam īvit et onus dēposuit. At, mīrābile dictū, nōn pulchra dea, sed eadem anus adhūc erat.</latin>  Whom did the young man see sitting on the shore?"
+      answer: "(A POOR) OLD WOMAN"
+    boni:
+      - question: "What did the youth suspect the old woman to be?"
+        answer: "A (BEAUTIFUL) GODDESS"
+      - question: "What did the youth find after he carried the old woman across the river?"
+        answer: "THAT SHE WAS NOT A BEAUTIFUL GODDESS, (JUST THE SAME LAUGHING OLD HAG)"
+  - tossup:
+      question: "Who gave birth to a son who grew up to be strong enough to move a heavy stone and claim the sword and sandals under it?"
+      answer: "AETHRA"
+    boni:
+      - question: "What two males were said to be Theseus' father?"
+        answer: "AEGEUS AND POSEIDON"
+      - question: "With what woman was Aegeus living when Theseus first came to Athens?"
+        answer: "MEDEA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Hostēs audīvērunt magnum numerum Rōmānōrum appropinquāre</latin>  THE ENEMY HEARD THAT A GREAT NUMBER OF ROMANS WERE APPROACHING . . . <latin>Rōmānī</latin> <latin>scīvērunt sē</latin> <latin>superātūrōs esse</latin>"
+      answer: "THE ROMANS KNEW THAT THEY WOULD WIN"
+    boni:
+      - question: "<latin>nūntiātum est equitēs appropinquāvisse</latin>"
+        answer: "IT WAS REPORTED/ANNOUNCED THAT THE HORSEMEN HAD APPROACHED"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Susurrā</latin> <latin>Latīnē</latin> <latin>verba tria.</latin> "
+      answer: "STUDENT SHOULD WHISPER THREE WORDS IN LATIN / OR SAY “VERBA TRIA”"
+    boni:
+      - question: "<latin>Clāmāte Anglicē</latin> <latin>nōmen cīvitātis vestrae</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD SHOUT OUT THE NAMES OF THEIR STATE"
+      - question: "<latin>Sībilā</latin> <latin>carmen breve</latin>"
+        answer: "ONE STUDENT SHOULD WHISTLE / HISS A SHORT SONG"
+  - tossup:
+      question: "What Trojan warrior led his men in an advance that nearly succeeded in burning the Greek ships?"
+      answer: "HECTOR"
+    boni:
+      - question: "What immortal urged Achilles to give up Hector's corpse for burial?"
+        answer: "THETIS"
+      - question: "What immortal embalmed Hector's corpse with ambrosia to keep it from harm?"
+        answer: "APHRODITE"
+  - tossup:
+      question: "A group of Romans are crowded around a table in a taberna. One man shouts “<latin>Venus</latin>!”. Why do the other men owe him money?"
+      answer: "HE HAS <emphasis>BEATEN</emphasis> THEM AT <latin>TALI</latin> / KNUCKLEBONES"
+    boni:
+      - question: "or <latin>TESSERAE</latin> / DICE HAS ROLLED THE <emphasis>HIGHEST</emphasis> COMBINATION OF DICE / THE MAN HAS ROLLED DOUBLE SIXES What is the Latin term for the lowest roll in <latin>tali</latin> or <latin>tesserae</latin>?"
+        answer: "<latin>CANIS</latin> / DOG"
+      - question: "or <latin>VULTUR</latin> / VULTURE How many <latin>tali</latin> were thrown with a <latin>fritillus</latin>?"
+        answer: "FOUR"
+  - tossup:
+      question: "Please open your visual and study it for 10 seconds. The perspective of the visual is northwest across the <latin>Forum Rōmānum</latin>. Identify the temple visible between the Temple of Saturn and the Temple of Concord"
+      answer: "TEMPLE OF (THE DIVINE) VESPASIAN (& TITUS) / <latin>TEMPLUM VESPĀSIĀNĪ(ET TITĪ</latin>)"
+    boni:
+      - question: "Identify either of the small shrines in front of the Basilica Aemilia"
+        answer: "TEMPLE/SHRINE OF JANUS (GEMINUS or QUIRINUS) / <latin>SACELLUM</latin>"
+      - question: "<emphasis>or</emphasis> SHRINE OF (VENUS) CLOACINA / <latin>SACRUM</latin> (<latin>CLOACINAE</latin>) Identify the temple, whose porch was often used as a second rostrum, where the viewer of this picture is standing"
+        answer: "TEMPLE OF (DIVINE) JULIUS CAESAR / <latin>TEMPLUM DĪVĪ</latin> <latin>AUGUSTĪ</latin>"
+  - tossup:
+      question: "In an effort to regain the city from Eteocles, how many men led the attack against Thebes?"
+      answer: "SEVEN"
+    boni:
+      - question: "Name two of them"
+        answer: "(SEE BELOW)"
+      - question: "Name two more"
+        answer: "POLYNEICES, ADRASTUS, CAPANEUS, AMPHIARAUS, HIPPOMEDON, PARTHENOPAEUS, AND TYDEUS"
+  - tossup:
+      question: "What Latin word is a synonym of the noun <latin>pluvia</latin>?"
+      answer: "<latin>IMBER</latin>, <latin>NIMBUS, AQUA</latin>"
+    boni:
+      - question: ". . . of the adjective <latin>tūtus</latin>?"
+        answer: "<latin>SALVUS</latin>, <latin>MŪNĪTUS</latin>, <latin>SOSPES</latin>"
+      - question: ". . . of the adverb <latin>ibi</latin>?"
+        answer: "<latin>ILLĪC</latin>, <latin>ISTĪC</latin>, <latin>EŌ</latin>"
+  - tossup:
+      question: "Against whom did Cato the Younger bring a charge of sacrilege in 62 B. C.?"
+      answer: "(P.) CLODIUS (PULCHER)"
+    boni:
+      - question: "What act of sacrilege was Clodius accused of committing?"
+        answer: "ATTENDING THE ALL-FEMALE RITUAL OF THE BONA DEA (IN FEMALE DRESS)"
+      - question: "Who was later forced to exile because he testified against Clodius at his trial?"
+        answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "Translate the following sentence into Latin: “I told Marcus what I was doing.”"
+      answer: "<latin>MARCŌ</latin> <latin>DĪXĪ</latin> <latin>QUID FACEREM</latin>"
+    boni:
+      - question: " . . . “Everyone knows how brave Caesar is.”"
+        answer: "<latin>OMNĒS SCIUNT QUAM FORTIS CAESAR SIT</latin>"
+      - question: " . . . “Who is there who loves Carthage?”"
+        answer: "<latin>QUIS EST QUĪ</latin> <latin>CARTHĀGINEM AMET</latin> / <latin>DĪLIGAT</latin>"

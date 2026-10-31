@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Of the words “delimit, alloy, religion, rely, and league,” which is NOT derived from ligō?"
+      answer: "DELIMIT"
+    boni:
+      - question: "Of the words “negligent, coil, intelligent, and allegation,” which is NOT derived from legō?"
+        answer: "ALLEGATION"
+      - question: "Of the words “agree, graceful, a metal grate, and gratuity,” which is NOT derived from the adjective   grātus?"
+        answer: "GRATE"
+  - tossup:
+      question: "Translate this sentence into English: Mārcus patriam dīligenter dēfendere spērābat."
+      answer: "MARCUS WAS HOPING / HOPED TO DEFEND THE/HIS COUNTRY DILIGENTLY"
+    boni:
+      - question: "…: Nec fāma nec pecūnia hās fēminās excitat."
+        answer: "NEITHER FAME NOR MONEY EXCITES   THESE WOMEN"
+      - question: "…: Fēminae pecūniam spernunt ut amentur."
+        answer: "WOMEN REJECT / SPURN / DESPISE /   SCORN MONEY IN ORDER TO BE LOVED / SO THAT THEY MAY BE LOVED"
+  - tossup:
+      question: "During the reign of Nero, the city of Londinium was burnt down by rebels led by which queen of the   Iceni?"
+      answer: "BOUDI(CC)A / BOUDICEA / BOADICEA"
+    boni:
+      - question: "Which Roman put down Boudicca’s revolt?"
+        answer: "(C.) SUETONIUS PAULINUS"
+      - question: "What governor of Gallia Lugdunensis also led a rebellion during Nero’s reign?"
+        answer: "(C. IULIUS) VINDEX"
+  - tossup:
+      question: "What king of Thebes, who slew Laius, bested the Sphinx, and fled from Corinth where he grew up,  brought a plague upon Thebes because he had murdered his predecessor and father Laius before  marrying Jocasta?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "How did Oedipus best the Sphinx, earning him the crown of Thebes that was coincidentally his   birthright?"
+        answer: "SOLVED THE (SPHINX'S) RIDDLE"
+      - question: "How did Oedipus come to marry Jocasta?"
+        answer: "SHE WAS A REWARD FOR BESTING THE SPHINX"
+  - tossup:
+      question: "Quid significat Anglicē “impetus”?"
+      answer: "ATTACK/CHARGE/ONSET/RUSH"
+    boni:
+      - question: "Quid significat Anglicē “uter”?"
+        answer: "WHICH ONE (OF TWO)"
+      - question: "Quid significat Anglicē “pollex”?"
+        answer: "THUMB"
+  - tossup:
+      question: "Roman names that end with the suffix “-ācus” likely have what non-Roman origin?"
+      answer: "GAUL / GALLIC"
+    boni:
+      - question: "Names that end in “-na.” have what non-Roman origin?"
+        answer: "ETRUSCAN"
+      - question: "Names that end in “-ēnus” have what non-Roman origin?"
+        answer: "UMBRIAN / PICENE"
+  - tossup:
+      question: "What half-brother of Heracles who was also his great-grandfather used a particularly shiny shield to   safely decapitate Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who had demanded that Perseus bring him Medusa's head as a wedding present?"
+        answer: "POLYDECTES"
+      - question: "Besides Polydectes, what other man who was intent on marrying someone he cared about did Perseus   turn to stone with Medusa's head?"
+        answer: "PHINEUS"
+  - tossup:
+      question: "For the verb audeo, give the third person singular, pluperfect, indicative form, which means   “he had dared.”"
+      answer: "AUSUS ERAT"
+    boni:
+      - question: "Make ausus erat imperfect."
+        answer: "AUDĒBAT"
+      - question: "To what category of verbs does audeō belong?"
+        answer: "SEMI-DEPONENT"
+  - tossup:
+      question: "Trifanum, Mt. Vesuvius, Suessa Arunca, and Antium were all battles that occurred during what war?"
+      answer: "GREAT LATIN WAR"
+    boni:
+      - question: "What Roman commander in the Great Latin War is said to have executed his own son for disobeying   orders?"
+        answer: "(TITUS MANLIUS) TORQUATUS (IMPERIOSUS)"
+      - question: "What treaty had originally established the Latin League in 493 BC?"
+        answer: "FOEDUS CASSIĀNUM"
+  - tossup:
+      question: "What use of the accusative case is in the following sentence: Quot hōrās hīc manēbimus?"
+      answer: "DURATION / EXTENT OF TIME"
+    boni:
+      - question: "…: Mē artēs docēbit?"
+        answer: "DOUBLE ACCUSATIVE"
+      - question: "What two uses of the accusative case are in the following sentence Caesarem imperātōrem   creābunt?"
+        answer: "DIRECT OBJECT & PREDICATE"
+  - tossup:
+      question: "Who killed Salmoneus, Phaëthon, and Asclepius, fathered Aëthlius, Dardanus, and Perseus, and was  the king of the gods?"
+      answer: "ZEUS (NOT JUPITER BECAUSE ASCLEPIUS IS A GREEK NAME)"
+    boni:
+      - question: "Why did Zeus strike down Salmoneus with a bolt of lightning?"
+        answer: "HE PRETENDED TO BE ZEUS /   IMITATED HIS THUNDER AND LIGHTNING"
+      - question: "How did Apollo’s son Asclepius earn a death at the hands of Zeus?"
+        answer: "BROUGHT PEOPLE / HIPPOLYTUS BACK FROM THE DEAD"
+  - tossup:
+      question: "Please listen to the following sentences, which I will read twice, and answer the question that follows   in Latin:    Omnium hominum, ut multīs poētīs vidētur, beātissimus est agricola: Neque enim tubārum   cantū ē somnō excitātur, neque horret perīculōsum mare. Multō procul ab urbe et negōtiīs   abest. (repeat)    The question: Quī agricolam esse beātissimum crēdēbant?"
+      answer: "MULTĪ POĒTAE"
+    boni:
+      - question: "Quid agricolam ē somnō nōn excitat?"
+        answer: "CANTUS (TUBĀRUM)"
+      - question: "Quae rēs multō procul ab agricolā sunt?"
+        answer: "URBS ET NEGŌTIA"
+  - tossup:
+      question: "Which state's Latin motto translates as \"thus always to tyrants\"?"
+      answer: "VIRGINIA"
+    boni:
+      - question: "Which state's Latin motto translates as \"mountaineers are always free\"?"
+        answer: "WEST VIRGINIA"
+      - question: "Which state's Latin motto translates as \"work overcomes all\"?"
+        answer: "OKLAHOMA"
+  - tossup:
+      question: "Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: “manibus līgātīs, hostēs intus ā   pāstōribus ductī sunt.” Quō cāsū est “līgātīs”?"
+      answer: "ABLĀTĪVŌ"
+    boni:
+      - question: "Quā vōce est “ductī sunt”?"
+        answer: "PASSĪVĀ"
+      - question: "Quae pārs ōrātiōnis est “intus”?"
+        answer: "ADVERBIUM"
+  - tossup:
+      question: "In what city did Jugurtha kill his brother Adherbal and massacre Italian residents prompting   Rome to declare war?"
+      answer: "CIRTA   ("
+    boni:
+      - question: "If “This Guy” is Jugurtha, who is “A”?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+      - question: "Who is “B”?"
+        answer: "BOCCHUS"
+  - tossup:
+      question: "Who landed on a plague-riddled Crete, thinking it was the home destined for him and his people, but   was informed in a dream that he in fact had to continue on to Hesperia, where he would marry   Lavinia and become the progenitor of the Roman race?"
+      answer: "AENEAS"
+    boni:
+      - question: "Whose misinterpretation of an oracle had led Aeneas to believe that Crete was his destined home?"
+        answer: "ANCHISES’S"
+      - question: "Who appeared to Aeneas in a dream to correct this misapprehension?"
+        answer: "THE PENATES"
+  - tossup:
+      question: "In a Roman thermae, what room was specialized for rubbing and anointing oil that finished the bath?"
+      answer: "ŪNCTŌRIUM / DĒSTRICTĀRIUM"
+    boni:
+      - question: "What was the changing room called?"
+        answer: "APODYTĒRIUM"
+      - question: "What was the hot room without water, similar to a sauna?"
+        answer: "LACŌNICUM"
+  - tossup:
+      question: "Change the Latin phrase quīdam nauta to the accusative."
+      answer: "QUENDAM NAUTAM"
+    boni:
+      - question: "Change quondam nautam to the genitive."
+        answer: "CUIUSDAM NAUTAE"
+      - question: "Change cuiusdam nautae to the pural."
+        answer: "QUŌRUNDAM NAUTĀRUM"
+  - tossup:
+      question: "Whose depictions of Asterie, Europa, and Leda, among others, led to her transformation into a spider   by the goddess Minerva?"
+      answer: "ARACHNE’S"
+    boni:
+      - question: "In what form did Minerva first approach Arachne?"
+        answer: "OLD WOMAN"
+      - question: "In what artistic medium did Arachne claim to be better than Minerva?"
+        answer: "WEAVING"
+  - tossup:
+      question: "Say in Latin: The soldier, wounded by a sword, shouted."
+      answer: "MĪLES, GLADIŌ VULNERĀTUS, CLĀMĀBAT / CLĀMĀVIT"
+    boni:
+      - question: "Say in Latin: The soldier, having prayed to the goddess, left."
+        answer: "MĪLES, DEAM PRECĀTUS, DISCESSIT / EXIIT / DISCĒDĒBAT / EXĪBAT"
+      - question: "Say in Latin: The soldier, whose prayers were heard by the goddess, killed the enemy."
+        answer: "MĪLES, CUIUS PRECĒS Ā DEĀ AUDIĒBANTUR / AUDĪTAE SUNT, INIMĪCUM /   HOSTEM / INIMĪCŌS / HOSTĒS NECĀVIT / INTERFĒCIT / CECĪDIT"

@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "When Telemachus first encountered his father upon his return to Ithaca, Odysseus was staying in the hut of what loyal Ithacan swineherd?"
+      answer: "EUMAEUS"
+    boni:
+      - question: "Odysseus learned from Eumaeus that his father Laertes was also living in a hut, because he was disgusted at the behavior of the suitors and grieving his wife’s death. Who was his wife, the mother of Odysseus?"
+        answer: "ANTICLEIA"
+      - question: "In the conclusion of the <title>Odyssey</title>, Laertes killed Eupeithes, the father of which most arrogant of Penelope’s suitors?"
+        answer: "ANTINOUS"
+  - tossup:
+      question: "Third-declension nouns ending in <latin>–ns</latin> or <latin>–rs</latin>, one-syllable third-declension nouns whose stems end in two or more consonants, and third-declension nouns ending in <latin>–is</latin> or <latin>–ēs</latin> with the same number of syllables in the nominative and genitive singulars are part of what subset of third-declension nouns?"
+      answer: "I-STEMS"
+    boni:
+      - question: "Name the three endings that signal that a third-declension neuter noun is definitely an i-stem."
+        answer: "<latin>-E, -AL, -AR</latin>"
+      - question: "There are exceptions to every rule. What common third-declension noun for an animal fits the rules for i-stem nouns, but is NOT in fact an i-stem?"
+        answer: "<latin>CANIS</latin>"
+  - tossup:
+      question: "At the beginning of the First Punic War, Appius Claudius Caudex and Marcus Valerius Messalla conducted a successful Roman offensive against what king of Syracuse?"
+      answer: "HIERO (II) / HIERON"
+    boni:
+      - question: "By the end of the First Punic War, what Carthaginian was the commander of his country’s fleet?"
+        answer: "HAMILCAR (BARCA)"
+      - question: "Name the three sons of Hamilcar Barca, all of whom held positions of leadership against the Romans during the Second Punic War"
+        answer: "HANNIBAL, HASDRUBAL, MAGO"
+  - tossup:
+      question: "To what group do all of the following mythological figures belong: Eurytus, Agrius, Mimas, Porphyrion, Alcyoneus, Enceladus?"
+      answer: "GIANTS / GIGANTES"
+    boni:
+      - question: "What usually peaceful trio killed Agrius during the Gigantomachy by beating him to death with bronze clubs?"
+        answer: "FATES / MOIRAE / PARCAE"
+      - question: "In some stories, Enceladus was not killed but imprisoned. What mountain was thrown on top of him?"
+        answer: "MT. ETNA"
+  - tossup:
+      question: "<latin>Quot legiōnēs cum cōnsule pugnant?</latin>"
+      answer: "<latin>DUAE</latin> "
+    boni:
+      - question: "<latin>Quid mīlitēs servāvērunt</latin>?"
+        answer: "<latin>PATRIAM / RŌMAM / URBEM</latin> "
+      - question: "<latin>Cuius locī cōnsul crēdit mīlitēs virōs optimōs esse</latin>?"
+        answer: "<latin>(HUIUS) URBIS / MUNDĪ / RŌMAE</latin>"
+  - tossup:
+      question: "What form of the Latin adjective <latin>dulcis</latin> would be needed to modify the noun form <latin>poētam</latin>?"
+      answer: "<latin>DULCEM</latin>"
+    boni:
+      - question: "What form of the Latin adjective <latin>dulcis</latin> would be needed to modify the noun form <latin>diērum</latin>?"
+        answer: "<latin>DULCIUM</latin>"
+      - question: "What form of the Latin adjective <latin>dulcis</latin> would be needed to modify the noun form <latin>praemium</latin>?"
+        answer: "<latin>DULCE</latin>"
+  - tossup:
+      question: "You are looking at a map of the regions of Italy as divided by Augustus. What number on the map corresponds to the region of Etruria?"
+      answer: "VII (7)"
+    boni:
+      - question: "What number on the map shows where the Romans were defeated at the battle of the Trebia River?"
+        answer: "IX (9)"
+      - question: "What number on the map shows the region in which Bovianum, the ancient Samnite capital, was found?"
+        answer: "IV (4)"
+  - tossup:
+      question: "Which two of the following Latin verbs are synonymous: <latin>cōnsūmō</latin>, <latin>ostendō</latin>, <latin>impellō</latin>, <latin>dēmōnstrō</latin>, <latin>saliō</latin>?"
+      answer: "<latin>OSTENDŌ</latin> & <latin>DĒMŌNSTRŌ</latin>"
+    boni:
+      - question: "What are the meanings of the other verbs in the tossup – <latin>cōnsūmō</latin>, <latin>impellō</latin>, and <latin>saliō</latin>?"
+        answer: "<latin>CŌNSŪMŌ</latin> – TO CONSUME / EAT; <latin>IMPELLŌ</latin> – TO FORCE / STRIKE / PUSH; <latin>SALIŌ</latin> – TO LEAP, JUMP"
+      - question: "Give the principal parts of <latin>saliō</latin>"
+        answer: "<latin>SALIŌ, SALĪRE, SALUĪ, SALTUS/-UM</latin> "
+  - tossup:
+      question: "The Isthmian games were instituted by Sisyphus in honor of his nephew, the child of Athamas and Ino, who died when his mother jumped into the sea with him. Name this child"
+      answer: "MELICERTES"
+    boni:
+      - question: "Melicertes and Ino were transformed into sea deities. By what names were they then known?"
+        answer: "PALAEMON & LEUCOTHEA"
+      - question: "Ino had jumped into the sea because she had been driven mad by what goddess?"
+        answer: "HERA"
+  - tossup:
+      question: "With one Latin word, translate into Latin the word “writing” in this sentence: “Marcia watched the senator writing letters.”"
+      answer: "<latin>SCRĪBENTEM</latin>"
+    boni:
+      - question: "With one word, translate \"written\" in this sentence: \"The senator gave the written letters to Marcia.\""
+        answer: "<latin>SCRĪPTĀS</latin>"
+      - question: "Now translate this sentence: \"Marcia saw many things about the war in the written letters.\""
+        answer: "<latin>MARCIA MULTĀS RĒS</latin> / MULTA <latin>DĒ BELLŌ IN LITTERĪS / EPISTULĪS SCRĪPTĪS VĪDIT / VIDĒBAT</latin> "
+  - tossup:
+      question: "What would the name <latin>centēnārius</latin> signify about a racing horse?"
+      answer: "HE HAD WON 100 RACES"
+    boni:
+      - question: "Added during the reign of Augustus were the factions <latin>veneta</latin> and <latin>prasina</latin>. What colors represented these two factions?"
+        answer: "BLUE & GREEN"
+      - question: "What Latin word is used to describe the most common racing chariot, one that yoked four horses together?"
+        answer: "<latin>QUADRĪGA</latin>"
+  - tossup:
+      question: "What youth, inspired by either the spine of a fish or the jawbone of a snake, invented the saw, an achievement that made his uncle Daedalus so envious that he threw the young man off the Acropolis?"
+      answer: "PERDIX / TALUS"
+    boni:
+      - question: "Into what kind of bird did Athena change Perdix?"
+        answer: "PARTRIDGE"
+      - question: "Perdix is sometimes given credit for having invented two other useful items. Name either one"
+        answer: "COMPASS / POTTER’S WHEEL"
+  - tossup:
+      question: "The Latin form <latin>capite</latin> can be both a noun and a verb. Identify both forms"
+      answer: "PLURAL IMPERATIVE (SECOND PERSON, PRESENT ACTIVE OF <latin>CAPIŌ</latin>), ABLATIVE SINGULAR (NEUTER OF <latin>CAPUT</latin>)"
+    boni:
+      - question: "Make the form <latin>capite</latin> negative"
+        answer: "<latin>NŌLĪTE CAPERE</latin>"
+      - question: "Now, in Latin, order Publius and Sextus to sleep the entire day"
+        answer: "<latin>DORMĪTE, PUBLĪ ET SEXTE, TŌTUM / OMNEM DIEM!</latin> "
+  - tossup:
+      question: "Why was Marius elected to a new consulship for 104 BC before he had even returned to Rome from Africa?"
+      answer: "TO DEAL WITH THE INVADING NORTHMEN / GERMANS (CIMBRI & TEUTONES) // BECAUSE OF THE DISASTER AT ARAUSIO / ORANGE"
+    boni:
+      - question: "Marius defeated the Cimbri and Teutones one at a time. Where did he defeat the Cimbri?"
+        answer: "VERCELLAE"
+      - question: "What king of the Cimbri, victorious at Arausio, was later killed in the Roman victory at Vercellae in 101 BC?"
+        answer: "BOIORIX"
+  - tossup:
+      question: "It’s time to compete in the Olympics! When recognized by the spotter, perform the following commands: <latin>Surge et in sitū</latin> curre"
+      answer: "STUDENT SHOULD RISE AND RUN IN PLACE"
+    boni:
+      - question: "Perform the following commands: <latin>Surgite, omnēs, et celeriter natāre simulāte</latin>!"
+        answer: "ALL STUDENTS SHOULD RISE AND PRETEND TO SWIM QUICKLY"
+      - question: "Perform the following command: <latin>Dīc mihi Anglicē tē novem praemia aurea accēpisse</latin>"
+        answer: "CAPTAIN SAYS IN ENGLISH THAT (S)HE HAS WON NINE GOLD MEDALS (GOLDEN AWARDS)"
+  - tossup:
+      question: "Which of the following states does NOT have a Latin motto that is exactly three words long: Mississippi, Colorado, Wyoming, Arkansas, Oregon?"
+      answer: "ARKANSAS"
+    boni:
+      - question: "Give the three-word motto and its meaning for Wyoming"
+        answer: "<latin>CĒDANT ARMA TOGAE</latin>, LET ARMS YIELD TO THE TOGA"
+      - question: "Give the three-word motto and its meaning for Mississippi. "
+        answer: "<latin>VIRTŪTE ET ARMĪS</latin>, BY VALOR AND ARMS"
+  - tossup:
+      question: "What emperor issued the <latin>Cōnstitūtiō Antōnīniāna</latin>, thus granting Roman citizenship to all the empire’s freedmen, although he is more unfavorably known for devaluing the <latin>dēnārius</latin> and ordering the murder of his younger brother Geta?"
+      answer: "(MARCUS AURELIUS SEVERUS ANTONINUS) CARACALLA"
+    boni:
+      - question: "What praetorian prefect succeeded Caracalla?"
+        answer: "(MARCUS OPELLIUS SEVERUS) MACRINUS"
+      - question: "Macrinus fled from a defeat at Antioch in 218 AD and was killed shortly thereafter. What Severan was then installed as emperor?"
+        answer: "(MARCUS AURELIUS ANTONINUS) ELAGABALUS / HELIOGABALUS / (VARIUS AVITUS) BASSIANUS"
+  - tossup:
+      question: "Give the meaning of the Latin word from which we derive all of the following: chance, decay, casualty, accident"
+      answer: "TO FALL"
+    boni:
+      - question: "What English word is derived from two Latin verbs, “to fall” and “to prepare”?"
+        answer: "PARACHUTE"
+      - question: "What other English word derived from the verb “to fall” describes the beat, rhythm, or measure of music or dancing?"
+        answer: "CADENCE"
+  - tossup:
+      question: "Translate this sentence: <latin>Quīnque mēnsibus, dictātor rem pūblicam servāverit</latin>"
+      answer: "(WITH)IN FIVE MONTHS, THE DICTATOR WILL HAVE SAVED THE REPUBLIC / STATE"
+    boni:
+      - question: "Translate: <latin>Dictātor cīvitātem magnō perīculō līberābit</latin>"
+        answer: "THE DICTATOR WILL FREE THE STATE FROM / WITH / BY GREAT DANGER"
+      - question: "Translate: <latin>Dictātor vir maximae prūdentiae esse vidētur</latin>"
+        answer: "THE DICTATOR SEEMS TO BE A MAN OF GREATEST PRUDENCE / CAUTION"
+  - tossup:
+      question: "What Greek was blinded in his youth by his father Amyntor, had his sight restored by the centaur Cheiron, took part in the Calydonian Boar Hunt, went to Troy with Achilles, and, with Ajax and Odysseus, comprised the embassy sent to Achilles to convince him to rejoin the fight?"
+      answer: "PHOENIX"
+    boni:
+      - question: "Although Phoenix died along the way, with whom did he set out for Greece after the end of the war?"
+        answer: "NEOPTOLEMUS / PYRRHUS"
+      - question: "What king of Phthia and father of Achilles had earlier installed Phoenix as king of the Dolopians?"
+        answer: "PELEUS <latin>2012 NJCL CERTAMEN NOVICE DIVISION FINALS</latin> "
+  - tossup:
+      question: "Give the form of the Latin verb <latin>cōnferō</latin> for the following sentence: The rather sad women have been carried out of the sea into the harbor"
+      answer: "<latin>COLLĀTAE SUNT</latin> "
+    boni:
+      - question: "Give the Latin for the entire subject of that same sentence"
+        answer: "<latin>MISERIŌRĒS / TRĪSTIŌRĒS FĒMINAE / MULIERĒS</latin> "
+      - question: "Give the Latin for both prepositional phrases in that sentence. "
+        answer: "<latin>Ā / AB / Ē / EX MARĪ, IN</latin> PORTUM "
+  - tossup:
+      question: "The Social War had its roots in the plans of what Roman tribune to offer citizenship to all of the Italian allies?"
+      answer: "(MARCUS) LIVIUS DRUSUS / DRUSUS THE YOUNGER"
+    boni:
+      - question: "In what year was Drusus assassinated?"
+        answer: "91 BC"
+      - question: "Drusus transferred control of the courts from the equestrians to the senators because of the equestrians’ unfair conviction of what man in 92 BC?"
+        answer: "(PUBLIUS) RUTILIUS RUFUS"
+  - tossup:
+      question: "The official known in Republican Rome as the <latin>praefectus annōnae</latin> was in charge of what commodity?"
+      answer: "GRAIN / GRAIN SUPPLY"
+    boni:
+      - question: "What other staple was added to the <latin>annōna</latin> in the 3rd century AD?"
+        answer: "WINE"
+      - question: "Until the institution of the <latin>praefectus annōnae</latin> in the late Republic, what other official took on the duties of overseeing the grain supply?"
+        answer: "AEDILE"
+  - tossup:
+      question: "Give an antonym of the Latin verb <latin>neglegō</latin>"
+      answer: "<latin>CŪRŌ / CUSTŌDIŌ / CĀVEŌ / PRŌVIDEŌ / INVIGILŌ / TUEOR / PARCŌ</latin> "
+    boni:
+      - question: "Give an antonym of the Latin verb <latin>cōnsīdō</latin>"
+        answer: "<latin>SURGŌ / STŌ / MIGRŌ / ABEŌ / DISCĒDŌ</latin> "
+      - question: "Which of the following is NOT an antonym for the verb <latin>pūniō</latin>: <latin>parcō, laudō, laedō,</latin> and the idiom <latin>poenam dare</latin>?"
+        answer: "<latin>LAEDŌ</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Proelium ācriter inter trēs gladiātōrēs contendēbātur.</latin> "
+      answer: "THE BATTLE WAS BEING FOUGHT FIERCELY AMONG THE THREE GLADIATORS"
+    boni:
+      - question: "Translate this sentence into English: <latin>Post mortem duōrum ē tribus gladiātōribus, reliquus clāmōrēs populī audīvit.</latin> "
+        answer: "AFTER THE DEATH OF TWO OF THE THREE GLADIATORS, THE REMAINING (ONE) HEARD THE SHOUTS OF THE PEOPLE"
+      - question: "Translate: <latin>Gladiātor putat sē frūstrā laudārī</latin>"
+        answer: "THE GLADIATOR THINKS THAT HE IS BEING PRAISED IN VAIN"
+  - tossup:
+      question: "What did the teacher tell his wife to do?"
+      answer: "STAND ON HIS SHOULDERS"
+    boni:
+      - question: "Give one reason why he told her to stand on his shoulders"
+        answer: "SHE WAS WORRIED / HE WANTED TO CROSS THE RIVER"
+      - question: "What happened to the teacher in the middle of the river?"
+        answer: "HE WAS ATTACKED BY (BIG) FISH"
+  - tossup:
+      question: "Which of the Argonauts was so young that his uncle Laocoön was sent by his father Oeneus as a chaperon?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Although most authors do not mention any great deeds of Meleager while he was an Argonaut, Diodorus Siculus claims that Meleager killed what enemy of the Argonauts?"
+        answer: "AEETES"
+      - question: "What daughter of Idas and Marpessa was the wife of Meleager?"
+        answer: "CLEOPATRA"
+  - tossup:
+      question: "What Roman emperor precipitated his own assassination when he named Lucius Calpurnius Piso as his successor instead of one of his major early supporters, Otho?"
+      answer: "(SERVIUS SULPICIUS) GALBA"
+    boni:
+      - question: "During Galba’s short reign, where did legions rebel and proclaim Vitellius as their emperor?"
+        answer: "THE RHINE / GERMANIA / (LOWER) GERMANY"
+      - question: "At what battle did the forces of Vitellius defeat the forces of Otho?"
+        answer: "FIRST BATTLE OF CREMONA / BEDRIACUM"
+  - tossup:
+      question: "In the Latin sentence “<latin>Clientēs Caesaris magnum timōrem barbarōrum habuērunt”</latin>, what are the case and use of the word <latin>barbarōrum</latin>?"
+      answer: "OBJECTIVE GENITIVE"
+    boni:
+      - question: "In the Latin sentence <latin>Caesar clientibus dīxit magnam partem barbarōrum amīcissimam esse</latin>”, what are the case and use of the word <latin>barbarōrum</latin>?"
+        answer: "PARTITIVE GENITIVE / GENITIVE OF THE WHOLE"
+      - question: "In the Latin sentence “<latin>Barbarōrum vestēs sordidae cruentaeque erant</latin>”, what are the case and use of the word <latin>barbarōrum</latin>?"
+        answer: "GENITIVE OF POSSESSION"
+  - tossup:
+      question: "Which one of the seven Pleiades’ lights is said to be dim because she is blushing at having married a mortal, Sisyphus, while her six sisters all had dalliances with gods?"
+      answer: "MEROPE’S"
+    boni:
+      - question: "Who was the single offspring of Sisyphus and Merope?"
+        answer: "GLAUCUS"
+      - question: "The other account of the dim Pleiad says that it was not Merope, but which of her sisters, who is mourning the destruction of Troy and her son Dardanus?"
+        answer: "ELECTRA"
+  - tossup:
+      question: "You are looking at a Roman frieze. What one mythological character is depicted in each scene?"
+      answer: "HERCULES (NOT Heracles)"
+    boni:
+      - question: "Identify the labor depicted in the scene labeled “A”"
+        answer: "LERNEAN HYDRA"
+      - question: "Identify the labor depicted in the scene labeled “B”"
+        answer: "STYPMHALIAN BIRDS"
+  - tossup:
+      question: "Which of the following words, if any, is derived from the same Latin word as “somber”: insomnia, soundless, umbrella, consumption?"
+      answer: "UMBRELLA"
+    boni:
+      - question: "Give the Latin noun and its meaning from which “insomnia” is derived"
+        answer: "<latin>SOMNUS, SOMNĪ</latin> – SLEEP / <latin>SOMNIUM, SOMNĪ</latin> – DREAM"
+      - question: "Give the ultimate verb from which we derive “consumption.”"
+        answer: "<latin>SUMŌ</latin>"
+  - tossup:
+      question: "What consul of 503 BC was awarded a triumph for his defeat of the Sabines, but is better known for a speech he made in 494 BC in which he compared the patrician class in Rome to the stomach?"
+      answer: "MENENIUS AGRIPPA"
+    boni:
+      - question: "What specific type of laws were the plebeians protesting when they seceded to the <latin>Mōns</latin> <latin>Sacer</latin>?"
+        answer: "DEBT LAWS"
+      - question: "In what year did the plebs secede a second time after the patricians balked at adopting the Twelve Tables?"
+        answer: "449 BC"
+  - tossup:
+      question: "What Latin quotation, ascribed to Juvenal, urges people to train their mental and physical abilities to the highest degree possible?"
+      answer: "<latin>MĒNS SĀNA IN</latin> CORPORE <latin>SĀNŌ</latin> "
+    boni:
+      - question: "In another famous quotation, Juvenal refers to the scarcity of virtuous women in his time. Give that two-word Latin phrase"
+        answer: "<latin>RĀRA AVIS</latin>"
+      - question: "To what actual rare bird is Juvenal referring with the quotation <latin>rāra avis</latin>?"
+        answer: "A BLACK SWAN"
+  - tossup:
+      question: "What native Italian claimed descent from Danae, the mother of Perseus, was the son of Daunus and Venilia, and had been engaged to the princess Lavinia before she was offered to Aeneas?"
+      answer: "TURNUS"
+    boni:
+      - question: "Turnus’ fate in the <title>Aeneid</title> is sealed after he despoils the body of what son of Evander?"
+        answer: "PALLAS"
+      - question: "In the climactic battle between Turnus and Aeneas, Turnus loses all of his strength and sinks to his knees after attempting to kill Aeneas in what way?"
+        answer: "THROWING A ROCK (A HUGE ROCK, A HUGE ANCIENT ROCK) AT HIM"
+  - tossup:
+      question: "What Latin verb is at the root of “grant” and “incredulity”?"
+      answer: "<latin>CRĒDŌ / CRĒDERE</latin> "
+    boni:
+      - question: "Give the Latin verb at the root of “provost” and “postage”?"
+        answer: "<latin>PŌNŌ / PŌNERE</latin>"
+      - question: "Give the Latin verb at the root of “ravish” and “usurpation”?"
+        answer: "<latin>RAPIŌ / RAPERE</latin>"
+  - tossup:
+      question: "What Roman emperor opened his reign by naming his son Gallienus as Caesar, and closed it with a disastrous defeat at the battle of Edessa, after which he was captured by the Persian king Shapur?"
+      answer: "(PUBLIUS LICINIUS) VALERIAN(US)"
+    boni:
+      - question: "How did Shapur use his captive Valerian for the remainder of the Roman emperor’s life?"
+        answer: "AS A MOUNTING BLOCK / TO HELP HIM GET ON HIS HORSE"
+      - question: "Before the disaster with Shapur, Valerian had successfully recovered what Eastern city from Sassanid rebels?"
+        answer: "ANTIOCH"
+  - tossup:
+      question: "What is the meaning of the verb <latin>faveō</latin>?"
+      answer: "TO FAVOR / SUPPORT / BEFRIEND"
+    boni:
+      - question: "What is the meaning of the verb <latin>lātrō</latin>?"
+        answer: "TO BARK / SNARL (AT)"
+      - question: "What is the meaning of the verb <latin>cēlō</latin>?"
+        answer: "TO HIDE / CONCEAL / DARKEN"
+  - tossup:
+      question: "Before being killed by Achilles, Memnon achieved a moment of glory by killing what son of Nestor?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "Eos begged Zeus to show Memnon some special favor after his death, so what happened to the smoke from his funeral pyre?"
+        answer: "IT FORMED INTO BIRDS"
+      - question: "Memnon had become a Trojan ally because he was directly related to Priam. How was he related to Priam?"
+        answer: "MEMNON WAS PRIAM’S NEPHEW (THROUGH PRIAM’S BROTHER TITHONUS)"
+  - tossup:
+      question: "Using a dative, say in Latin: “In every town, the Romans had soldiers.” "
+      answer: "<latin>IN OMNĪ OPPIDŌ</latin>/URBE / OMNIBUS <latin>OPPIDĪS</latin>/URBIBUS ERANT / <latin>FUĒRUNT MĪLITĒS RŌMĀNĪS</latin> "
+    boni:
+      - question: "Change the phrase <latin>in omnī oppidō</latin> to the plural"
+        answer: "<latin>IN OMNIBUS OPPIDĪS</latin> "
+      - question: "Now, with three words, say in Latin: “Where did the soldiers come from?” "
+        answer: "<latin>UNDE MĪLITĒS VĒNĒRUNT?</latin> "

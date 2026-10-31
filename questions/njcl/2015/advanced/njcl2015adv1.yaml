@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Which of the following Latin words does NOT belong because of its part of speech? <latin>temō, tegō, terō, texō, tentō</latin>"
+      answer: "TEMŌ"
+    boni:
+      - question: "Which of the following Latin words would be most unwelcome in a house? <latin>fornix, fornāx, forēs, formīca</latin>"
+        answer: "FORMĪCA"
+      - question: "Identify any TWO of <latin>fornix, fornāx,</latin> or <latin>forēs.</latin>"
+        answer: "<latin>FORNIX = ARCH/VAULT // FORNĀX = OVEN/   FURNACE // FORĒS = (DOUBLE/FRENCH) DOOR/ ENTRANCE</latin>"
+  - tossup:
+      question: "What Roman author, a native of Tagaste, innovatively wrote an autobiography that focuses not on  his merits and accomplishments, but on his identity as a “humble sinner who…by the will of God has found the path of salvation”?"
+      answer: "(ST.) AUGUSTINE/ AURELIUS AUGUSTINUS"
+    boni:
+      - question: "What is the title of Augustine’s autobiography?"
+        answer: "<title>CONFESSIONS</title>"
+      - question: "The sack of Rome in 410 AD and pagans’ subsequent attacks against Christians, prompted Augustine  to defend his faith in what 22-book <title>magnum opus</title>?"
+        answer: "<title>THE CITY OF GOD/</title> <title><latin>DĒ CĪVITĀTE DEĪ</latin></title>"
+  - tossup:
+      question: "To what classification of numerals do <latin>triplex</latin> and <latin>quadruplex</latin> belong?"
+      answer: "MULTIPLICATIVES"
+    boni:
+      - question: "To what classification of numerals do <latin>bīnī</latin> and <latin>trīnī</latin> belong?"
+        answer: "DISTRIBUTIVES"
+      - question: "To what classification of numerals do <latin>biduum</latin> and <latin>bimēstris</latin> belong?"
+        answer: "TEMPORALS"
+  - tossup:
+      question: "When a servant of Lucius Opimius was killed in a brawl, the senate declared its first <latin>senātūs cōnsultum ultimum</latin> against what tribune, who shortly thereafter met his death in  121 BC, two years after his first tribunate?"
+      answer: "GAIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "What tribune of 100 BC was another victim of the <latin>senātūs cōnsultum ultimum</latin> and met his death at  the hands of an angry mob while surrounded by the troops of Marius?"
+        answer: "(L. APPULEIUS) SATURNINUS"
+      - question: "Name the friend of Saturninus and quaestor of 100 BC who attempted to run for the consulship of 99  BC but was killed as well as a result of the <latin>senātūs cōnsultum ultimum</latin>."
+        answer: "(C. SERVILIUS) GLAUCIA"
+  - tossup:
+      question: "What daughter of Priam and Hecuba married Aeneas and bore Ascanius?"
+      answer: "CREUSA"
+    boni:
+      - question: "Give another name for Ascanius."
+        answer: "IULUS / ILUS"
+      - question: "In one version of the fall of Troy, Creusa is captured by the Greeks. Name the goddess who  saved her."
+        answer: "CYBELE / APHRODITE / VENUS"
+  - tossup:
+      question: "Give the comparative and superlative forms of the adjective <latin>malus</latin>."
+      answer: "<latin>PEIOR // PESSIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of the adjective <latin>idōneus</latin>."
+        answer: "<latin>MAGIS IDŌNEUS // MAXIME IDŌNEUS</latin>"
+      - question: "Give the comparative and superlative forms of the adjective <latin>benevolus</latin>."
+        answer: "<latin>BENEVOLENTIOR // BENEVOLENTISSIMUS</latin>"
+  - tossup:
+      question: "What Roman author was made an official both of public libraries by Trajan and of imperial  correspondence by Hadrian, positions which undoubtedly helped him research material for his  collection of biographies of the first emperors titled <title><latin>Dē Vītā Caesarum</latin></title>?"
+      answer: "(GAIUS) SUETONIUS (TRANQUILLUS)"
+    boni:
+      - question: "How many biographies are contained in Suetonius’ <title><latin>Dē Vītā Caerarum</latin></title>?"
+        answer: "TWELVE"
+      - question: "With what men does Suetonius begin and end this collection?"
+        answer: "JULIUS CAESAR (BEGIN) and DOMITIAN (END)"
+  - tossup:
+      question: "Who was aided by Jupiter's eagle in acquiring a jarful of water from the Styx, a task assigned by  Venus?"
+      answer: "PSYCHE"
+    boni:
+      - question: "The eagle helped because he owed a debt to Cupid. According to Apuleius, with what task did Cupid  assist the eagle?"
+        answer: "CARRYING GANYMEDE TO HEAVEN"
+      - question: "A lame beggar asking for rope, a floating corpse asking for a lift into Charon's ferry, and women  asking for help weaving were all tricks by Venus intending to make Psyche drop what objects  necessary for her trip to the Underworld?"
+        answer: "HONEY CAKES"
+  - tossup:
+      question: "Which <latin>basilica</latin> in the <latin>Forum Rōmānum</latin> in the 5th century AD was located closest to the Colosseum?"
+      answer: "<latin>BASILICA NOVA</latin> / BASILICA OF MAXENTIUS (& CONSTANTINE)  ("
+    boni:
+      - question: "Please identify the building labeled “A”."
+        answer: "<latin>TABULĀRIUM</latin>"
+      - question: "Please identify the building labeled “B”."
+        answer: "TEMPLE OF SATURN"
+  - tossup:
+      question: "Translate into English, “<latin>Quisquis amat valeat</latin>.”"
+      answer: "MAY (S)HE WHO LOVES BE WELL / STRONG"
+    boni:
+      - question: "Translate into English, “<latin>Pereat quī nescit amāre</latin>.”"
+        answer: "LET HIM / HER PERISH WHO DOESN’T KNOW HOW TO LOVE"
+      - question: "Translate into English, “<latin>Bis tantō pereat quisquis amāre vetat</latin>.”"
+        answer: "LET WHOEVER FORBIDS LOVE / LOVING PERISH TWICE AS MUCH / BY TWICE SO MUCH"
+  - tossup:
+      question: "What Roman author, a plebeian by birth and the first Latin writer of Roman nationality, wrote a work  entitled <title>Bellum Poenicum</title>?"
+      answer: "(GNAEUS) NAEVIUS"
+    boni:
+      - question: "What is the meter of Naevius’ <title>Bellum Poenicum</title>?"
+        answer: "SATURNIAN"
+      - question: "What powerful Roman family did Naevius make an enemy?"
+        answer: "METELLI"
+  - tossup:
+      question: "What use of the dative case is Vergil using in this line from book two of the <title>Aeneid</title>, “<latin>Nōn ego …  Graiīs servītum mātribus ībō</latin>.”"
+      answer: "DATIVE WITH SPECIAL VERBS"
+    boni:
+      - question: "Venus says to Aeneas on the night of the fall of Troy, “<latin>Ēripe, nāte, fugam fīnemque impōne  labōrī</latin>.” Identify the case and use of <latin>labōrī</latin> in that sentence."
+        answer: "DATIVE WITH A COMPOUND VERB / DATIVE WITH A SPECIAL VERB / SEPARATION  / REFERENCE"
+      - question: "What use of the dative case is Vergil using in the line, “<latin>Longa tibi exsilia et vastum maris aequor  arandum</latin>?"
+        answer: "” POSSESSION / AGENT / REFERENCE"
+  - tossup:
+      question: "The abandonment of Sicily and the payment of 3200 Euboic talents were terms of the treaty  ultimately enforced by what Roman admiral who ended the Carthaginian threat to Rome for two  decades with his victory in 241 BC at the Aegates Islands?"
+      answer: "(C. LUTATIUS) CATULUS"
+    boni:
+      - question: "How many permanent provinces did Rome possess before gaining Sicily from Carthage?"
+        answer: "ZERO"
+      - question: "Give the name of the next province acquired by Rome."
+        answer: "<latin>CORSICA ET SARDINIA</latin> (ACCEPT IN ENGLISH AND IN EITHER ORDER)"
+  - tossup:
+      question: "What English derivative of the Latin verb <latin>nūbō</latin> is synonymous with “wedding”?"
+      answer: "NUPTIAL(S)"
+    boni:
+      - question: "What derivative of <latin>omnis</latin> is a means of public transportation?"
+        answer: "(OMNI)BUS"
+      - question: "What derivative of <latin>sequor, sequī</latin> is synonymous with “next”?"
+        answer: "SUBSEQUENT / SECOND / ENSUING"
+  - tossup:
+      question: "In Pelasgia, Philyra gave birth to what son who became king of the Centaurs?"
+      answer: "CHEIRON"
+    boni:
+      - question: "What form did Cronus take when he lay with Philyra?"
+        answer: "STALLION"
+      - question: "Into what did Zeus change Philyra at her request?"
+        answer: "A LINDEN TREE"
+  - tossup:
+      question: "What native of Spain and friend of the satirist Persius died by his own hand at the age of only 26  years, but not before completing nearly 10 books of his account of the civil war between Pompey  and Julius Caesar?"
+      answer: "(MARCUS ANNAEUS) LUCAN"
+    boni:
+      - question: "What man can best be considered the hero in Lucan’s epic?"
+        answer: "POMPEY / CATO THE YOUNGER"
+      - question: "What emperor, after discovering that Lucan had joined a plot against his life, ordered the author’s  suicide?"
+        answer: "NERO"
+  - tossup:
+      question: "Translate the verb in the apodosis of the following English sentence: “If the gods favor us, we will  win.”"
+      answer: "<latin>VINCĒMUS</latin>"
+    boni:
+      - question: "Using a deponent verb, translate the following sentence into Latin: “If the queen had died, the king  would have cried.”"
+        answer: "<latin>SĪ RĒGĪNA MORTUA ESSET, RĒX LACRIMĀVISSET / FLĒVISSET</latin>"
+      - question: "Translate the following sentence into Latin: “I would rejoice if I were queen.”"
+        answer: "<latin>GAUDEREM SĪ RĒGĪNA ESSEM</latin>"
+  - tossup:
+      question: "What Roman general was supported in his bid for the imperial throne by the Egyptian governor  Tiberius Alexander and the Syrian governor Gaius Licinius Mucianus after the death of Nero in  69 AD?"
+      answer: "VESPASIAN"
+    boni:
+      - question: "Who led the Danubian legions to victory over Vitellian forces at Cremona before Mucianus could  bring his troops to Italy?"
+        answer: "(M.) ANTONIUS PRIMUS"
+      - question: "Name either of the two Vitellian commanders at the battle of Cremona who were subsequently  captured and executed."
+        answer: "(FABIUS) VALENS // (A.) CAECINA (ALIENUS)"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice, then answer the question that follows in  English:  <latin>Aliī cēnsuērunt fūnus ā triumphālī portā dūcendum esse, praecēdente Victoriā, canentibus  nēniam puerīs; aliī fuērunt quī crēderent appellātiōnem mēnsis Augustī in Septembrem  mūtandam esse quod Augustus hāc genitus, illā dēfunctus esset.</latin> (repeat)  The question: Name two things that some believed must be part of this funeral procession."
+      answer: "MUST BE LED FROM THE TRIUMPHAL GATE, WITH VICTORIA/VICTORY  PRECEDING, WITH CHILDREN SINGING FUNERAL SONG / DIRGE"
+    boni:
+      - question: "What did some believe must be changed?"
+        answer: "THE NAME OF THE MONTH OF SEPTEMBER (TO AUGUST)"
+      - question: "According to this passage, in what month did Augustus die?"
+        answer: "AUGUST"
+  - tossup:
+      question: "On the island of what seafaring people did Odysseus wash ashore alone, after Poseidon destroyed his  last ship?"
+      answer: "PHAEACIANS"
+    boni:
+      - question: "What was the name of the island?"
+        answer: "SCHERIE/DREPANE"
+      - question: "Who was the king of the island at the time of Odysseus’ arrival?"
+        answer: "ALCINOUS"

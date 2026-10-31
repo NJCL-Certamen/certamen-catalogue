@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the sinners in the Underworld forever spins on a wheel of fire?"
+      answer: "IXION"
+    boni:
+      - question: "Which of the sinners in the Underworld is stretched over nine acres?"
+        answer: "TITYUS"
+      - question: "Which of the sinners in the Underworld was punished because he informed the river-god Asopus that it was Zeus who had carried off his daughter Aegina?"
+        answer: "SISYPHUS"
+  - tossup:
+      question: "At what city did the Romans and the Samnites fight the decisive battle of the Third Samnite War?"
+      answer: "SENTINUM / SENTINO"
+    boni:
+      - question: "What Roman consul performed the act of <latin>dēvōtiō</latin> at Sentinum?"
+        answer: "DECIUS MUS"
+      - question: "What was <latin>dēvōtiō</latin> ?"
+        answer: "ACT OF SELF-SACRIFICE IN BATTLE"
+  - tossup:
+      question: "Say in Latin using one word, “We were here.”"
+      answer: "<latin>ADERĀMUS</latin>"
+    boni:
+      - question: "… “They will be away.”"
+        answer: "<latin>ABERUNT</latin>"
+      - question: "… “Y’all have been able.”"
+        answer: "<latin>POTUISTIS</latin>"
+  - tossup:
+      question: "Give the Latin noun and its meaning from which we derive “reality.”"
+      answer: "<latin>RĒS</latin> – THING, MATTER, AFFAIR"
+    boni:
+      - question: "Give the Latin noun and its meaning from which we ultimately derive “enmity.”"
+        answer: "<latin>AMĪCUS</latin> – FRIEND"
+      - question: "Give the Latin noun and its meaning from which we derive “kennel.”"
+        answer: "<latin>CANIS</latin> – DOG"
+  - tossup:
+      question: "Cornelia, Pompeia, and Calpurnia were all wives of what Roman general and politician?"
+      answer: "(GAIUS) IULIUS CAESAR"
+    boni:
+      - question: "Which of the three women was present during the Bona Dea festival that Clodius Pulcher infiltrated while dressed as a woman?"
+        answer: "POMPEIA"
+      - question: "Which of these women did Caesar refuse to divorce, thereby incurring the political enmity of Sulla?"
+        answer: "CORNELIA (DAUGHTER OF CINNA)"
+  - tossup:
+      question: "Who, explaining that a woman’s presence would cause dissension among the crew, politely refused Atalanta’s attempt to join his expedition to Colchis?"
+      answer: "JASON"
+    boni:
+      - question: "Name the two seers who were among the Argonauts"
+        answer: "IDMON & MOPSUS"
+      - question: "Name the cousin of Jason who defied orders and joined the expedition"
+        answer: "ACASTUS"
+  - tossup:
+      question: "In standard Latin present tense, how must a verb agree with the subject?"
+      answer: "PERSON & NUMBER"
+    boni:
+      - question: "Name three of the moods a Latin verb can have"
+        answer: "INDICATIVE, SUBJUNCTIVE, IMPERATIVE, INFINITIVE"
+      - question: "What are the two voices for Latin verbs?"
+        answer: "ACTIVE & PASSIVE"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice; then answer IN ENGLISH the question that follows: <latin>Omnēs cēnāre parābant. Dominus uxorque et līberī ex omnibus partibus domūs mēnsīs appropinquābant. Aliī servī cibum ferēbant, aliī vīnum. Postquam servī omnia in mēnsīs posuērunt, omnēs recumbēbant et magnificē cēnābant.</latin> The question: What were the slaves doing?"
+      answer: "BRINGING FOOD & WINE / DINNER / PUTTING EVERYTHING ON(TO) THE TABLES"
+    boni:
+      - question: "Who approached the tables from all parts of the house?"
+        answer: "THE MASTER, (HIS) WIFE, AND (HIS) CHILDREN"
+      - question: "What did everyone do after everything had been placed on the tables?"
+        answer: "RECLINED AND DINED (MAGNIFICENTLY)"
+  - tossup:
+      question: "Whose alliance with Hannibal led to the outbreak of the First Macedonian War?"
+      answer: "PHILIP V (OF MACEDON)"
+    boni:
+      - question: "What other enemy of Rome, a refugee in the court of Philip V, advised the young Macedonian king to turn his attention to the Romans and Illyria and to abandon his conflict with the Aetolians?"
+        answer: "DEMETRIUS (OF PHAROS)"
+      - question: "How many Macedonian wars did Rome wage against Philip V?"
+        answer: "TWO"
+  - tossup:
+      question: "Which of the following does not belong because of meaning? <latin>Agnus</latin>, <latin>gallus</latin>, <latin>fēlīx</latin>, <latin>serpēns</latin>, <latin>ovis</latin>"
+      answer: "FĒLĪX"
+    boni:
+      - question: "<latin>Respondē Latīnē: Dā mihi nōmen animālis in pictūra secundā</latin>"
+        answer: "LEPUS / CUNĪCULUS"
+      - question: "<latin>Respondē Latīnē: Dā mihi nōmina animālium quae cornua in pictūrīs habent</latin>"
+        answer: "VACCA / TAURUS, BŌS (ET) ARIĒS"
+  - tossup:
+      question: "What valuable counselor to Agamemnon brought ninety ships from Pylos and was the oldest Greek at Troy?"
+      answer: "NESTOR"
+    boni:
+      - question: "Which of the Greek leaders was from Salamis?"
+        answer: "AJAX (or AIAS) TELAMON / THE GREAT(ER)"
+      - question: "Which of the Greek leaders was the king of Argos?"
+        answer: "DIOMEDES"
+  - tossup:
+      question: "Give the genitive plural of <latin>puella fortis</latin>"
+      answer: "PUELLĀRUM FORTIUM"
+    boni:
+      - question: "Change <latin>puella fortis</latin> to the ablative"
+        answer: "<latin>PUELLĀ FORTĪ</latin>"
+      - question: "Change <latin>puella fortī</latin> to the plural"
+        answer: "<latin>PUELLĪS FORTIBUS</latin>"
+  - tossup:
+      question: "Two male goats and a dog were sacrificed and young men wearing nothing but goatskins ran around the city during what Roman festival?"
+      answer: "LUPERCALIA"
+    boni:
+      - question: "What did these young men do to promote the fertility of barren women?"
+        answer: "“WHIPPING” / “TAPPING” OF WOMEN WITH (LEATHER) WHIPS (MADE OF DOG/WOLF SKIN)"
+      - question: "In what month did the festival of Lupercalia take place?"
+        answer: "FEBRUARY"
+  - tossup:
+      question: "Differentiate in meaning between <latin>vestis</latin> and <latin>pestis</latin>"
+      answer: "<latin>VESTIS</latin> - CLOTHING <latin>PESTIS</latin> - PEST / PLAGUE / PESTILENCE"
+    boni:
+      - question: "Differentiate in meaning between the noun <latin>collum</latin> and the verb <latin>cēlō</latin>"
+        answer: "<latin>COLLUM</latin> – NECK <latin>CĒLŌ</latin> – (I / TO) HIDE"
+      - question: "Differentiate in meaning between <latin>pereō</latin> and <latin>perdō</latin>"
+        answer: "<latin>PEREŌ</latin> – (I /TO) PERISH / DISAPPEAR <latin>PERDŌ</latin> – (I / TO)WASTE / DESTROY"
+  - tossup:
+      question: "Alpheius and Peneius were the two rivers that Heracles used to accomplish what task?"
+      answer: "(CLEANING) STABLES OF AUGEIAS (Prompt for more information if “5th labor” is given as an answer.)"
+    boni:
+      - question: "On the way to which labor was Heracles entertained by the centaur Pholus?"
+        answer: "(CAPTURING THE) ERYMANTHIAN BOAR (Prompt for more information if “3rd labor” is given as an answer.)"
+      - question: "During which of his labors did Heracles use a pair of bronze castanets?"
+        answer: "(CHASING AWAY THE) STYMPHALIAN BIRDS"
+  - tossup:
+      question: "Give both the Latin and the English meaning for the abbreviation <latin>vs</latin>"
+      answer: "VERSUS – AGAINST"
+    boni:
+      - question: "Give both the Latin and the English meaning for the abbreviation <latin>q.v</latin>"
+        answer: "QUOD VIDĒ – WHICH SEE"
+      - question: "Give the meaning for the abbreviation <latin>i.a.</latin>, which stands for <latin>inter alia</latin>"
+        answer: "AMONG OTHER THINGS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nōnne mīlitēs fortiōrēs quam gladiātōrēs sunt?</latin>"
+      answer: "SURELY THE SOLDIERS ARE MORE BRAVE THAN GLADIATORS or AREN’T THE SOLDIERS MORE BRAVE THAN GLADIATORS? or THE SOLDIERS ARE MORE BRAVE THAN THE GLADIATORS, AREN’T THEY?"
+    boni:
+      - question: "…: <latin>Num vīlla senātōris maior quam templum est?</latin>"
+        answer: "SURELY THE SENATOR’S HOUSE IS NOT BIGGER THAN A TEMPLE or THE SENATOR’S HOUSE IS NOT BIGGER THAN A TEMPLE, IS IT? or IT’S NOT TRUE, IS IT, THAT THE SENATOR’S HOUSE IS BIGGER THAN A TEMPLE?"
+      - question: "…: <latin>Potuerāsne auxilium in urbe invenīre?</latin>"
+        answer: "HAD YOU BEEN ABLE TO FIND HELP IN THE CITY"
+  - tossup:
+      question: "What emperor, before he died, gave the following advice to his sons? “Be harmonious, enrich the soldiers, and scorn all other men.”"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "In what town did Septimius Severus die?"
+        answer: "EBORACUM / YORK"
+      - question: "What event proves that the first piece of Septimius Severus’ advice fell on deaf ears"
+        answer: "HIS SON <emphasis>CARACALLA</emphasis> KILLED HIS OTHER SON <emphasis>GETA</emphasis>"
+  - tossup:
+      question: "Who learned from oracles that his daughter was to marry a foreigner and therefore welcomed the ambassadors of Aeneas?"
+      answer: "LATINUS"
+    boni:
+      - question: "Who was this beautiful daughter of Latinus?"
+        answer: "LAVINIA"
+      - question: "What prince of the Rutulians had courted Lavinia before the arrival of Aeneas?"
+        answer: "TURNUS"
+  - tossup:
+      question: "What English word, derived from the Latin verb meaning “to give,” means “to give up”?"
+      answer: "SURRENDER"
+    boni:
+      - question: "What English word, derived from the Latin verb meaning “to buy,” means “to turn in and receive something in exchange”?"
+        answer: "REDEEM"
+      - question: "What English word, derived from the Latin verb meaning “to know,” means “amiably pleasant”?"
+        answer: "NICE 2009 NJCL CERTAMEN NOVICE DIVISION"

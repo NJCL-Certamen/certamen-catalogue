@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who were the parents of Ismene, Eteocles, Polyneices, and Antigone?"
+      answer: "OEDIPUS AND EPICASTA / JOCASTA"
+    boni:
+      - question: "By what other name was Oedipus’ wife-mother known?"
+        answer: "EPICASTA / JOCASTA"
+      - question: "In what city was Oedipus raised?"
+        answer: "CORINTH"
+  - tossup:
+      question: "Translate “friend’s” into Latin for the following sentence: “For three days I traveled with my friend’s family to Athens.”"
+      answer: "<latin>AMĪCĪ</latin> / <latin>AMĪCAE</latin> / <latin>AMĪCŌRUM</latin>"
+    boni:
+      - question: "or <latin>AMĪCĀRUM</latin> (cannot tell difference orally in English sentence) What use of the ablative is found in the toss-up sentence?"
+        answer: "ACCOMPANIMENT (prompt if “prepositional phrase” given)"
+      - question: "For that sentence, translate “to Athens”into Latin?"
+        answer: "<latin>ATHĒNĀS</latin>"
+  - tossup:
+      question: "Which of the following words are synonymous: impugn, postulate, capitulate, denigrate, exacerbate IMPUGN & DENIGRATE Which of the words in the toss-up means “to aggravate”?"
+      answer: "EXACERBATE"
+    boni:
+      - question: "Which of the words in the toss-up means “to assume to be true”?"
+        answer: "POSTULATE"
+  - tossup:
+      question: "After fighting the battle of Silva Arsia with help from Veii and Tarquinii, whose aid did Tarquinius Superbus seek next?"
+      answer: "LARS PORSENNA"
+    boni:
+      - question: "Whose wife was Lucretia, the woman whose defilement increased the Roman’s distaste for kings?"
+        answer: "(TARQUINIUS) COLLATINUS"
+      - question: "Who was Porsenna’s son who led the Etruscan force which was defeated at Aricia?"
+        answer: "ARRUNS"
+  - tossup:
+      question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā</latin> <latin>multōs hostēs pōntem dēfendit. Dum magnā</latin> <latin>virtūte</latin>  <latin>impetum sustinet, Aliī</latin> <latin>mīlitēs Rōmānī</latin> <latin>pōntem dēlēvērunt. Tum Horātius,</latin>  <latin>quī</latin> <latin>multa vulnera habēbat, deum flūminis invocāvit et dē</latin> <latin>pōnte in aquam</latin>  <latin>saluit.</latin>  <latin>Quō</latin> <latin>modō</latin> <latin>sustinēbat Horātius impetum?</latin>"
+      answer: "MAGNĀ <latin>VIRTŪTE / FORTITER</latin>"
+    boni:
+      - question: "Quī <latin>pontem dēlēvērunt?</latin>"
+        answer: "(ALIĪ) MĪLITĒS RŌMĀNĪ"
+      - question: "<latin>Quid fēcit Horātius postquam deum flūminis invocāverat?</latin> "
+        answer: "<latin>(DĒ</latin> <latin>PONTE) IN AQUAM / IN FLŪMEN SALUIT</latin>"
+  - tossup:
+      question: "Translate into English: <latin>coquus dominī</latin> <latin>ab amīcīs saepe laudābātur.</latin> "
+      answer: "THE MASTER’S COOK WAS OFTEN (BEING) PRAISED BY (HIS) FRIENDS"
+    boni:
+      - question: "Translate into English: <latin>pecūnia, quam puella āmīserat, subitō</latin> <latin>inventa est.</latin> "
+        answer: "THE MONEY, WHICH THE GIRL HAD LOST, WAS SUDDENLY FOUND"
+      - question: "Translate into English: <latin>postquam pecūnia inventa est, puella magnopere gaudēbat</latin>"
+        answer: "AFTER THE MONEY WAS/HAS BEEN FOUND, THE GIRL GREATLY REJOICED"
+  - tossup:
+      question: "As a stalling tactic, which of his rivals did Septimius Severus appoint as heir in AD 193?"
+      answer: "(DECIMUS CLODIUS) ALBINUS"
+    boni:
+      - question: "Whose forces were defeated by Septimius Severus near Cyzicus in the winter of AD 193?  "
+        answer: "(C.) PESCENNIUS NIGER’S"
+      - question: "Of what Roman provinces were Clodius Albinus and Pescennius Niger governors?"
+        answer: "ALBINUS"
+  - tossup:
+      question: "Give a synonym of <latin>verberō</latin>"
+      answer: "<latin>PULSŌ</latin>, <latin>CAEDŌ</latin>, <latin>MULCŌ</latin>, <latin>ĪCIŌ</latin>, <latin>ĪCŌ</latin>"
+    boni:
+      - question: "of <latin>vocō</latin>"
+        answer: "<latin>CLĀMŌ</latin>, <latin>APPELLŌ</latin>, <latin>NŌMINŌ</latin>, <latin>DĪCŌ</latin>"
+      - question: "of <latin>inquit</latin>"
+        answer: "<latin>DĪCIT</latin>, <latin>AIT</latin>, <latin>NARRAT</latin>, <latin>LOQUITUR</latin>, <latin>FĀTUR</latin> (or any other common form of these words)"
+  - tossup:
+      question: "Who was the only child of Zeus and Demeter?"
+      answer: "PERSEPHONE"
+    boni:
+      - question: "According to some traditions, Zeus did not beget Persephone by Demeter, but by what river?"
+        answer: "STYX"
+      - question: "Who, as a result of Zeus’ arbitration, was made to spend a third of his life with Aphrodite, a third in the Underworld with Persephone, and a third by himself?"
+        answer: "ADONIS"
+  - tossup:
+      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō</latin> <latin>dextrārum</latin> take place?"
+      answer: "A WEDDING"
+    boni:
+      - question: "You are looking at two pictures of Roman statues. In what sort of ceremony is the Roman in picture “A” participating?"
+        answer: "A FUNERAL"
+      - question: "Examine the item that the Roman boy is wearing around his neck in picture “B.” During what type of ceremony would an adult male wear that item?"
+        answer: "A TRIUMPH"
+  - tossup:
+      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō</latin> <latin>dextrārum</latin> take place?"
+      answer: "A WEDDING"
+    boni:
+      - question: "During what type of ceremony would a person wear a dark tunic pulled over the head?"
+        answer: "A FUNERAL"
+      - question: "During what type of ceremony would a Roman man wear his childhood ēbulla’?"
+        answer: "A TRIUMPH"
+  - tossup:
+      question: "During the reign of Domitian, which two temples stood directly in front of the <latin>tabularium</latin> at the foot of the Capitoline hill?"
+      answer: "TEMPLE OF CONCORD & TEMPLE OF (THE DIVINE) VESPASIAN (& TITUS)"
+    boni:
+      - question: "Which two temples stood on either side of the <latin>Basilica Iūlia</latin>?"
+        answer: "TEMPLE OF SATURN & TEMPLE OF CASTOR & POLLUX / DIOSCURI / CASTORS"
+      - question: "Which large temple in the <latin>Forum Rōmānum</latin> had two <latin>cellae</latin>?"
+        answer: "TEMPLE OF VENUS & ROME"
+  - tossup:
+      question: "What was Aeneas’ gift for Proserpina on his journey to the Underworld?"
+      answer: "GOLDEN BOUGH"
+    boni:
+      - question: "To whom did Aeneas first show the Golden Bough to gain access to Proserpina?"
+        answer: "CHARON"
+      - question: "Who had advised him that he must take the Bough to gain access to the underworld?"
+        answer: "(CUMAEAN) SIBYL / DEIPHOBE"
+  - tossup:
+      question: "Change <latin>fructus</latin> to the nominative plural"
+      answer: "<latin>FRUCTŪS</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>cornū</latin>"
+        answer: "<latin>CORNUA</latin>"
+      - question: "Give the corresponding form for <latin>domus</latin>"
+        answer: "<latin>DOMŪS</latin>"
+  - tossup:
+      question: "Who captured a ferocious bull on the plain of Marathon?"
+      answer: "THESEUS"
+    boni:
+      - question: "Who had brought the bull there and from where had he brought it?"
+        answer: "HERACLES BROUGHT IT FROM CRETE"
+      - question: "Who sent Theseus on the mission to kill this bull?"
+        answer: "AEGEUS"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from <latin>capiō</latin>? caper, caption, catch, deceit, occupy CAPER (fr. <latin>caper</latin>, goat) What derivative of <latin>capiō</latin> means \"the instructions for preparing a certain meal\"?"
+      answer: "RECIPE"
+    boni:
+      - question: "What derivative of <latin>capiō</latin> means \"an idea\"?"
+        answer: "CONCEPT, CONCEPTION, PERCEPTION, PRINCIPLE"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>mīlitēs tribus diēbus revenient</latin>?"
+      answer: "TIME WITHIN WHICH / TIME WHEN"
+    boni:
+      - question: "What use of the ablative case is found in the following sentence: <latin>Quīntus fābulam</latin>  <latin>narrābat dē</latin> <latin>amīcīs</latin>?"
+        answer: "WITH THE <emphasis>PREPOSITION</emphasis> <latin>DĒ</latin>"
+      - question: "What use of the ablative case is found in the following sentence: <latin>necesse est āthlētae cum celeritāte currere</latin>?"
+        answer: "MANNER (prompt if “use with preposition or <latin>cum</latin>” is given)"
+  - tossup:
+      question: "What caused Odysseus' men to want to stay on the coast of Libya?"
+      answer: "EATING LOTUS (SEEDS)"
+    boni:
+      - question: "What prevented six of Odysseus' men from leaving Sicily?"
+        answer: "POLYPHEMUS ATE THEM"
+      - question: "Who else ate six of Odysseus' men?"
+        answer: "SCYLLA"
+  - tossup:
+      question: "Who took over Lucullus’ command in the East in 66 BC?"
+      answer: "POMPEY (THE GREAT)"
+    boni:
+      - question: "Whom had Lucullus restored as king of Armenia after defeating Tigranes?"
+        answer: "ANTIOCHUS (XIII)"
+      - question: "Whom did Pompey choose to succeed Mithridates after his suicide?"
+        answer: "PHARNACES (II)"
+  - tossup:
+      question: "Give the correct form of <latin>quisque</latin> to agree with the noun form <latin>mīlitis</latin>"
+      answer: "<latin>CUIUSQUE</latin>"
+    boni:
+      - question: "Give the correct form <latin>īdem</latin> to agree with the noun form <latin>nautārum</latin>"
+        answer: "<latin>EŌRUNDEM</latin>"
+      - question: "Give the correct form of <latin>quīdam</latin> to agree with the noun form <latin>manuum</latin>"
+        answer: "<latin>QUĀRUNDAM</latin>"
+  - tossup:
+      question: "What is the Latin motto of the United States of America?"
+      answer: "Ē <latin>PLŪRIBUS ŪNUM</latin>"
+    boni:
+      - question: "For five points each, give the two Latin mottoes and their English meanings which appear on the great seal of the United States"
+        answer: "<latin>ANNUIT COEPTĪS</latin> / HE (GOD) HAS FAVORED OUR UNDERTAKING(S). <latin>NOVUS ŌRDŌ</latin> <latin>SECLŌRUM</latin>"

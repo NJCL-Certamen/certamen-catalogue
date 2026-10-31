@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "The adventures of Encolpius and Ascyltus are part of what larger work of Petronius?"
+      answer: "<title><latin>SATYRICON (LIBRĪ) / SATYRICA</latin></title>"
+    boni:
+      - question: "At whose house do the two, along with the servant Giton, stop to attend a dinner party?"
+        answer: "TRIMALCHIO’S"
+      - question: "What is the term for a work such as the <title><latin>Satyricon</latin></title> that combines elements of prose and verse to provide social commentary?"
+        answer: "MENIPPEAN SATIRE"
+  - tossup:
+      question: "Give the 2nd person plural, pluperfect indicative for the verb from which “exhort” is derived"
+      answer: "(<latin>EX</latin>)<latin>HORTĀTĪ / -AE / -A ERĀTIS</latin>"
+    boni:
+      - question: "Give the 1st person singular, perfect subjunctive for the verb from which “reason” is derived"
+        answer: "<latin>RĀTUS /-A SIM</latin>"
+      - question: "Give the 3rd person singular, imperfect subjunctive for the verb from which “intrinsic” is derived"
+        answer: "<latin>SEQUERĒTUR</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Caesar lēgātō imperāvit ut vincula hostium removēret.</latin>"
+      answer: "CAESAR ORDERED HIS LEGATE/LIEUTENANT/ ENVOY/AMBASSADOR TO REMOVE THE CHAINS/BONDS OF THE ENEMY"
+    boni:
+      - question: "Translate into English: <latin>Pompēius Caesarem rogāvit ut suīs virīs parceret.</latin>"
+        answer: "POMPEY ASKED CAESAR THAT HE (CAESAR) SPARE HIS (POMPEY’S) MEN / TO SPARE HIS MEN"
+      - question: "Now translate into English: <latin>Lēgātus ā Caesare petīvit utrum clēmēns obsidibus esset.</latin>"
+        answer: "THE LEGATE/LIEUTENANT/ENVOY/AMBASSADOR ASKED / SOUGHT FROM CAESAR IF/WHETHER HE WAS / WOULD/MIGHT BE MERCIFUL/CLEMENT TO THE HOSTAGES/CAPTIVES."
+  - tossup:
+      question: "What daughter of Autolycus did Odysseus try to embrace three times in vain when communicating with the spirits of the dead?"
+      answer: "ANTICLEA"
+    boni:
+      - question: "The next shade Odysseus encountered after his mother was Tyro, the daughter of Salmoneus. According to Homer, what two sons did she conceive when she was raped by Poseidon?"
+        answer: "PELIAS, NELEUS"
+      - question: "After meeting Antiope, Odysseus then encounters the shades of what two important female relatives of Heracles?"
+        answer: "ALCMENE, MEGARA"
+  - tossup:
+      question: "What colony did Hadrian establish in Judea by erecting a shrine to Jupiter Capitolinus at the site of the Jewish Temple?"
+      answer: "<latin>AELIA CAPITOLĪNA</latin>"
+    boni:
+      - question: "Explain the origin of <latin>Aelia</latin> as seen in this Roman name for Jerusalem"
+        answer: "HADRIAN’S <latin>NŌMEN</latin> / FAMILY NAME IS AELIUS"
+      - question: "After Simon Bar-Cochba’s rebellion against the Roman occupation of Judea, whom did Hadrian send in 134 AD to take command of the area and restore order, killing some 500,000 of the Jewish people in the process?"
+        answer: "(GAIUS) IULIUS SEVERUS"
+  - tossup:
+      question: "What use of the subjunctive mood is illustrated in this sentence, “<latin>Nōn possum efficere ut canis nimium nōn lātret</latin>”?"
+      answer: "(SUBSTANTIVE CLAUSE OF) RESULT"
+    boni:
+      - question: "What use of the subjunctive mood is illustrated in the sentence, “<latin>Nihil est quod tū nōn vīderīs</latin>”?"
+        answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+      - question: "What uses of the subjunctive mood is illustrated in this sentence, “<latin>Forsitan querāminī dē meā praeclārā speciē</latin>”?"
+        answer: "POTENTIAL"
+  - tossup:
+      question: "Who, according to Euripides, blamed Andromache for casting spells that rendered her incapable of bearing Orestes any children?"
+      answer: "HERMIONE"
+    boni:
+      - question: "What was the name of Hermione’s son by Orestes who inherited his father’s throne?"
+        answer: "TISAMENUS"
+      - question: "What group defeated Tisamenus and divided up his lands among themselves?"
+        answer: "HERACLIDS / DESCENDANTS/SONS OF HERACLES"
+  - tossup:
+      question: "What Roman author recommended such concoctions as honey with crushed stag-horn and barley with eggs for the beautification of his readers?"
+      answer: "(PUBLIUS) OVID (IUS NASO)"
+    boni:
+      - question: "What is the Latin title of this work?"
+        answer: "<title><latin>MEDICĪNA FACIĒĪ / MEDICĀMINA FACIĒĪ FĒMINĒAE</latin></title>"
+      - question: "What other work of Ovid instructs lovers in how to free themselves from unhappy relationships?"
+        answer: "<title><latin>REMEDIA AMŌRIS</latin></title>"
+  - tossup:
+      question: "Of the nouns <latin>nefās</latin>, <latin>sūdor</latin>, <latin>penna</latin>, <latin>ratis</latin>, and <latin>unguis</latin>, which is being described in this sentence? <latin>Hōc volucrēs praedam dīlaniant lacerantque.</latin>"
+      answer: "<latin>UNGUIS</latin>"
+    boni:
+      - question: "Of the nouns <latin>nefās</latin>, <latin>sūdor</latin>, <latin>penna</latin>, <latin>ratis</latin>, and <latin>unguis</latin>, which is being described in this sentence? <latin>Hōc vestis ūmidior diē calidō fit.</latin>"
+        answer: "<latin>SŪDOR</latin>"
+      - question: "Of the nouns <latin>nefās</latin>, <latin>sūdor</latin>, <latin>penna</latin>, <latin>ratis</latin>, and <latin>unguis</latin>, which is being described in this sentence? <latin>Exemplōrum grātiā: virginem in dēlubrō foedāre, flammam sacram Vestae extinguere.</latin>"
+        answer: "<latin>NEFĀS</latin>"
+  - tossup:
+      question: "Who, after surviving the disasters of Ticinus, Trebia, and Cannae, never lost a battle after receiving command of Roman forces at the age of 25?"
+      answer: "(PUBLIUS CORNELIUS) SCIPIO AFRICANUS/MAIOR (with admonition of errant temporality))"
+    boni:
+      - question: "At what battle did Cornelius Scipio defeat the last of the Carthaginian contingent in Spain in 206 BC?"
+        answer: "ILIPA"
+      - question: "What was unprecedented about Scipio’s receiving the <latin>imperium</latin> for this battle?"
+        answer: "<emphasis>FIRST PRIVATE CITIZEN</emphasis> (<latin>PRĪVĀTUS</latin>) TO RECEIVE <latin>IMPERIUM</latin>"
+  - tossup:
+      question: "In Book II of Ovid’s <title>Metamorphoses</title>, into what is Nyctimene transformed?"
+      answer: "(SCREECH-) OWL"
+    boni:
+      - question: "Who transformed her into this owl as an act of pity?"
+        answer: "MINERVA"
+      - question: "Why did Minerva pity the maiden?"
+        answer: "SHE WAS RAPED BY HER FATHER (EPOPEUS)"
+  - tossup:
+      question: "Which of the following is not synonymous to the others: <latin>larva, imāgō, persōna, lībra, anima</latin>?"
+      answer: "<latin>LĪBRA</latin>"
+    boni:
+      - question: "Which of the following is not synonymous: <latin>propāgō, rēmus, stirps, gēns, prōlēs</latin>?"
+        answer: "<latin>RĒMUS</latin>"
+      - question: "Give a synonym of the Latin noun <latin>collum.</latin>"
+        answer: "<latin>CERVĪX/FAUCĒS/GUTTUR</latin>"
+  - tossup:
+      question: "What lost work, dealing with the foundation legends of Italian cities including Rome, was the first prose historical work written in Latin?"
+      answer: "<title><latin>ORĪGINĒS</latin></title>"
+    boni:
+      - question: "Who wrote an adulatory poem called <title><latin>Dē Suō Cōnsulātū</latin></title> that detailed the wonders of his own consulship?"
+        answer: "(MARCUS TULLIUS) CICERO"
+      - question: "From whose <title><latin>Historiae</latin></title> do several large fragments, including a portion of the introduction, four speeches, and two letters survive?"
+        answer: "(GAIUS) SALLUST(IUS)(CRISPUS)"
+  - tossup:
+      question: "For what honor in military service would one receive the <latin>corōna cīvica</latin>?"
+      answer: "SAVING LIFE OF A CITIZEN"
+    boni:
+      - question: "For what deed was the <latin>corōna mūrālis</latin> awarded?"
+        answer: "FIRST INTO BESEIGED TOWN / FIRST OVER ENEMY WALLS"
+      - question: "What crown, famously given both to Fabius Maximus and Sulla, was the highest accolade and was given to a general who had broken through a blockade, thus saving a legion or an entire army?"
+        answer: "<latin>CORŌNA GRĀMINEA/OBSIDIŌNĀLIS /</latin> GRASS CROWN"
+  - tossup:
+      question: "Listen carefully to the following excerpt, adapted from Ovid’s <title><latin>Trīstia</latin></title> about his last night in Rome, which I shall read twice, and answer IN ENGLISH the question that follows: <latin>Cum noctis meminī quae mihi suprēmum tempus Rōmae fuit, etiam nunc lacrima cadit ex meīs oculīs. Iam lūx aderat, quā Caesar mē discēdere ē fīnibus Italiae iusserat.</latin>  Question: What happens when Ovid recalls his last night in Rome?"
+      answer: "A TEAR DROPS FROM HIS EYES / HE CRIES"
+    boni:
+      - question: "What two types of ablatives are illustrated in the 2nd sentence, <latin>Iam lūx aderat, quā Caesar mē discēdere ē fīnibus Italiae iusserat</latin>?"
+        answer: "TIME WHEN / ATTENDANT CIRCUMSTANCE, SEPARATION / PLACE FROM WHICH"
+      - question: "The passage continues, <latin>Mēns fuerat nōn satis apta parandī: pectora nostra morā longā torpuerant.</latin> Why, specifically, did Ovid’s chest become dull upon his imminent departure?"
+        answer: "HIS MIND WAS NOT FIT TO PREPARE (TO LEAVE) / BECAUSE OF THE LONG DELAY (HE HAD BEEN WAITING TOO LONG, ETC.)"
+  - tossup:
+      question: "The death certificate of your spinster aunt reads <latin>d.s.p</latin>. What does this abbreviation indicate about this person?"
+      answer: "DIED WITHOUT ISSUE/CHILDREN (<latin>DĒCESSIT SINE PRŌLE</latin>)"
+    boni:
+      - question: "What, specifically, does the note labeled “A” instruct the reader to do?"
+        answer: "<emphasis>LOOK UP</emphasis> BOTH <latin>AMĪCUS</latin> AND <latin>COMĒS</latin> (IN THE <emphasis>OLD</emphasis>)"
+      - question: "Now examine the part of the visual labeled “B”. What Latin abbreviation is missing from line 4?"
+        answer: "Q.E.D. (<latin>QUOD ERAT DĒMONSTRANDUM</latin>) (n.b. <emphasis>NOT</emphasis> Q.E.F.)"
+  - tossup:
+      question: "Arrange the following provinces from east to west: Egypt, Africa, Arabia, Cyrene, Mauretania"
+      answer: "ARABIA, EGYPT, CYRENE, AFRICA, MAURETANIA"
+    boni:
+      - question: "What province, in the time of Trajan, contained the cities Corduba and Gades?"
+        answer: "BAETICA (prompt on “Hispania”)"
+      - question: "Identify the province that, in the time of Trajan, shared borders with Macedonia, Moesia, and both Upper and Lower Pannonia"
+        answer: "ILLYRICUM"
+  - tossup:
+      question: "What two young men, who were so strong that they were able to carry a cart from Argos to a festival honoring Hera, were the sons of Cydippe?"
+      answer: "CLEOBIS AND BITON"
+    boni:
+      - question: "What happened to the sons as a result of their devotion to Hera?"
+        answer: "AFTER THEY FEASTED AND SLEPT, THEY NEVER AWOKE"
+      - question: "According to Herodotus, what did the citizens of Argos do in the two sons’ honor?"
+        answer: "DONATED A PAIR OF STATUES TO APOLLO (AT DELPHI)"
+  - tossup:
+      question: "What 1st century AD author wrote lost works on cavalry tactics, oratory, and the German wars, but is more famous for his thirty-seven-book encyclopedia, <title><latin>Historia Nātūrālis</latin></title>?"
+      answer: "PLINY THE ELDER / GAIUS PLINIUS SECUNDUS"
+    boni:
+      - question: "Where did Pliny the Elder command a fleet under the emperor Titus in 79 AD?"
+        answer: "MISENUM"
+      - question: "Where was a library dedicated to both Pliny the Elder and Pliny the Younger?"
+        answer: "<latin>CŌMUM</latin>/ COMO"
+  - tossup:
+      question: "Of what noun class are the following examples: <latin>Dardanidēs</latin>, <latin>Scīpiadēs</latin>, <latin>Atlantides</latin>, <latin>Anchīsiadēs</latin>?"
+      answer: "PATRONYMICS"
+    boni:
+      - question: "Of what noun class are the following examples: <latin>puella</latin>, <latin>versiculus</latin>, <latin>homunculus</latin>, <latin>ocellus</latin>?"
+        answer: "DIMINUTIVES"
+      - question: "When appended to the end of a noun such as <latin>pecūnia</latin> or <latin>glōria</latin>, what does the suffix -<latin>ōsus</latin> mean?"
+        answer: "“FULL OF” / ”PRONE TO” / PLENARY <latin>2010 NJCL CERTAMEN ADVANCED DIVISION</latin>"

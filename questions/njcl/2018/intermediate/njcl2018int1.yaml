@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "From what Latin verb with what meaning do we derive “treaty”, “trait,” and “treat”?"
+      answer: "<latin>TRAHŌ / TRAHERE</latin> - DRAG/DRAW"
+    boni:
+      - question: "From what Latin adjective with what meaning do we derive “siesta”, “Sistine,” and “semester”?"
+        answer: "<latin>SEX</latin> - SIX"
+      - question: "From what Latin adjective with what meaning do we derive “squad”, “cadre,” and “square”?"
+        answer: "<latin>QUATTUOR</latin> - FOUR"
+  - tossup:
+      question: "Which of the <latin>comitia</latin> was the only one that had the right to declare an offensive war and to elect higher officials such as consuls, praetors, and censors?"
+      answer: "(<latin>COMITIA) CENTURIĀTA</latin>"
+    boni:
+      - question: "Which of the <latin>comitia</latin> elected tribunes, quaestors, aediles, and minor officials?"
+        answer: "(<latin>COMITIA) TRIBŪTA</latin>"
+      - question: "Which of the <latin>comitia</latin> was in charge of appointing the <latin>pontifex</latin> <latin>maximus</latin>?"
+        answer: "(<latin>COMITIA) CŪRIĀTA</latin>"
+  - tossup:
+      question: "“Hatred,” “woe,” “wailing,” “fire,” and “forgetfulness” are the five concepts represented by the rivers in what mythological location?"
+      answer: "(RIVERS OF THE) UNDERWORLD / HADES / ORCUS"
+    boni:
+      - question: "What river of the Underworld causes souls to forget their past lives?"
+        answer: "LETHE"
+      - question: "What river of the Underworld was sometimes said to be the boundary of Hades and is considered the river of “woe”?"
+        answer: "ACHERON"
+  - tossup:
+      question: "Change the verb form <latin>crēdit</latin> to the passive voice, meaning “it is believed.”"
+      answer: "<latin>CRĒDITUR</latin>"
+    boni:
+      - question: "Now change <latin>crēditur</latin> to the future perfect, meaning “it will have been believed.”"
+        answer: "<latin>CRĒDITUM ERIT</latin>"
+      - question: "Now make <latin>crēditum erit</latin> active."
+        answer: "<latin>CRĒDIDERIT</latin>"
+  - tossup:
+      question: "Who rose up from his provincial birth to become a highly respected general and, upon ascending the imperial throne, instituted the <latin>alimenta</latin> program to alleviate poverty, but was best known for bringing the Roman Empire to its greatest geographical extent?"
+      answer: "(M. ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "Who was the Dacian king whom Trajan defeated upon capturing the Dacian capital city of Sarmizegethusa?"
+        answer: "DECEBALUS"
+      - question: "In what town in Spain had Trajan been born?"
+        answer: "ITALICA"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “super?”</latin>"
+      answer: "OVER, ABOVE"
+    boni:
+      - question: "<latin>Quid Anglicē significat “nūper?”</latin>"
+        answer: "RECENTLY"
+      - question: "<latin>Quid Anglicē significat “aper?”</latin>"
+        answer: "(WILD) BOAR"
+  - tossup:
+      question: "Which of the following sons of Zeus was also a son of Hera, at least by some reports: Hermes, Ares, Dionysus, Heracles?"
+      answer: "ARES ("
+    boni:
+      - question: "You are looking at a mythological family tree.  Using the pictorial clues provided, identify the mythological figure represented by number 1."
+        answer: "LETO ("
+      - question: "Identify by letter and name the mythological figure on page 2 that corresponds to number 2 on page 1."
+        answer: "B: ASCLEPIUS"
+  - tossup:
+      question: "Listen carefully to the following passage about the British queen Boudicca, or <latin>Boudicēa</latin>, which I shall read twice; then answer IN LATIN the question that follows: \t\t<latin>Marītō interfectō, Boudicēa dīcēbātur fēminās Britannicās dūxisse et bellum contrā Rōmānōs gessisse. Quod erat etiam mīrābilius, rēgīna dīcēbātur, currum agēns, fīliās suās sēcum in proelium tulisse.</latin>  (repeat) \tThe question: <latin>Quās Boudicēa in proelium contrā Rōmānōs dūcēbat?</latin>"
+      answer: "<latin>FĒMINĀS (BRITANNICĀS)</latin>"
+    boni:
+      - question: "<latin>Quando Boudicēa fēminās contrā Romanōs dūcēbat?</latin>"
+        answer: "<latin>MARĪTŌ INTERFĒCTŌ / POST MARĪTUS INTERFECTUS EST</latin>"
+      - question: "<latin>Cum fīliās sēcum ferret, quid Boudicēa faciēbat?</latin>"
+        answer: "<latin>BELLUM GERĒBAT / CURRUM AGĒBAT / PUGNĀBAT</latin>"
+  - tossup:
+      question: "What use of the genitive case is found in the following sentence:  <latin>Barbarī magnam partem mīlitum necābant</latin>?"
+      answer: "PARTITIVE / OF THE WHOLE"
+    boni:
+      - question: ". . . <latin>Equus Mārcī celerior quam Titī est</latin>."
+        answer: "POSSESSION"
+      - question: ". . . <latin>Formīca est animal magnī labōris</latin>."
+        answer: "QUALITY / DESCRIPTION"
+  - tossup:
+      question: "Which type of gladiator was immensely popular with the spectators, likely because of his risky  \t\tfighting tactics, which involved ensnaring his opponent in a net before stabbing them to death \t \t\twith a three-pronged spear?"
+      answer: "<latin>RĒTIĀRIUS /-Ī</latin>"
+    boni:
+      - question: "What other type of heavily armed gladiator did a <latin>rētiārius</latin> often fight?"
+        answer: "<latin>MURMILLŌ / SECŪTOR</latin>"
+      - question: "What was the Latin term for the three-pronged spear that the <latin>rētiārius</latin> used?"
+        answer: "<latin>FUSCINA / TRIDĒNS</latin>"
+  - tossup:
+      question: "Which of the following is NOT an impersonal verb: <latin>pingit, taedet</latin>, <latin>pudet</latin>, <latin>paenitet</latin>?"
+      answer: "<latin>PINGIT</latin>"
+    boni:
+      - question: "Say in Latin using an impersonal verb, “I am tired of you.”"
+        answer: "<latin>MĒ TUĪ / VESTRĪ TAEDET / PERTAESUM EST</latin>"
+      - question: "Say in Latin using an impersonal verb, “I will never be ashamed of my students.”"
+        answer: "<latin>MĒ NUMQUAM PUDĒBIT (MEŌRUM) DISCIPULŌRUM / (MEĀRUM) DISCIPULĀRUM</latin>"
+  - tossup:
+      question: "What man chose not to establish a Trojan colony in Thrace, Crete, and Sicily, since his prophesied homeland was actually Latium?"
+      answer: "AENEAS"
+    boni:
+      - question: "When Aeneas stopped in Thrace, the bloodied ghost of what son of Priam told him not to settle there?"
+        answer: "POLYDORUS"
+      - question: "On his way to Italy, Aeneas also stopped at Buthrotum and met what seer, who had once told the Greeks the conditions necessary to take Troy?"
+        answer: "HELENUS"
+  - tossup:
+      question: "What Latin student doesn’t love pharmaceutical abbreviations? How should a medicine be taken, if the prescription states <latin>p.o.</latin>?"
+      answer: "ORALLY / BY MOUTH (PROMPT ON <latin>PER</latin> <latin>ŌS</latin>)"
+    boni:
+      - question: "What is the Latin for the abbreviation <latin>p.r.n.</latin>, which you also might find on a prescription?"
+        answer: "<latin>PRŌ RĒ NĀTĀ</latin>"
+      - question: "What type of medicine has been prescribed to you if the label states <latin>ung.</latin>?"
+        answer: "OINTMENT (PROMPT ON <latin>UNGUENTUM</latin>)"
+  - tossup:
+      question: "Using the verb <latin>videō</latin>, say in Latin “seeing is believing.”"
+      answer: "<latin>VIDĒRE EST CRĒDERE</latin>"
+    boni:
+      - question: "Now using the verb <latin>aspiciō</latin> and the noun <latin>vātes,</latin> meaning “prophet,” translate “the seeing prophet” in the sentence, “they value the eyesight of the seeing prophet.”"
+        answer: "<latin>ASPICIENTIS VĀTIS</latin>"
+      - question: "Now using the same verb, say, “by seeing the world, you can learn a lot.”"
+        answer: "<latin>ASPICIENDŌ MUNDŌ / MUNDUM / ORBE / ORBEM (TERRĀRUM),</latin> <latin>POTES(TIS) DISCERE MULTUM/A</latin>"
+  - tossup:
+      question: "Which town in Italy did the Romans conquer after a ten-year siege that ended in 396 BC?"
+      answer: "VEII"
+    boni:
+      - question: "One of the most famous episodes associated with the conflict against the Veians came when what  \t\tRoman general slew the Veiian king Lars Tolumnius to win the second ever <latin>spolia</latin> <latin>opīma</latin>?"
+        answer: "(A. CORNELIUS) COSSUS"
+      - question: "At what colony of Veii did this victory occur?"
+        answer: "FIDENAE"
+  - tossup:
+      question: "Who, after killing an old-man at an intersection where three roads crossed each other, proceeded to answer the riddle of the Sphinx correctly?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who was the old man that Oedipus killed at this intersection?"
+        answer: "(HIS BIRTH FATHER) LAÏUS"
+      - question: "When he unknowingly killed his father Laïus, Oedipus was fleeing from Corinth because he discovered that he was fated to kill his father and marry his mother.  Name the king and queen of Corinth who turned out to be Oedipus’ foster parents instead of his birth parents."
+        answer: "POLYBUS & MEROPE / PERIBOEA"
+  - tossup:
+      question: "What two brothers, whom their mother affectionately referred to as her “jewels,” both attempted to  \t\tuse their time as tribune to pass land reforms?"
+      answer: "GAIUS AND TIBERIUS GRACCHUS / GRACCHI BROTHERS"
+    boni:
+      - question: "The Gracchi’s mother was the daughter of what notable Roman general?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)"
+      - question: "What cousin of the Gracchi, who was serving as <latin>Pontifex Maximus</latin> at the time, led the  \t\trevolt that killed Tiberius?"
+        answer: "(P. CORNELIUS) SCIPIO NASICA"
+  - tossup:
+      question: "Give a synonym of the noun <latin>imperium</latin>."
+      answer: "<latin>MANDĀTUM, POTESTĀS</latin>, <latin>POTENTIA</latin>, <latin>RĒGNUM</latin>, <latin>DOMINĀTUS</latin>, <latin>PRĪNCIPĀTUS</latin>, <latin>AUCTŌRITĀS</latin>, <latin>VĪRĒS</latin>"
+    boni:
+      - question: "Give a deponent synonym of the verb <latin>dīcō</latin>."
+        answer: "<latin>FOR</latin>, <latin>LOQUOR</latin>"
+      - question: "Give a synonym of the adjective <latin>aeger.</latin>"
+        answer: "<latin>INVALIDUS, ĪNFIRMUS, AEGRŌTUS</latin>"
+  - tossup:
+      question: "What man obliterated the city of Itoni, captured the Cercopes, and spun wool dressed as a woman during his service to queen Omphale?"
+      answer: "HERACLES"
+    boni:
+      - question: "For what were Passalus and Acmon, the Cercopes, warned by their mother to lookout for, which they noticed about Heracles too late?"
+        answer: "A BLACK BOTTOM (ACCEPT EQUIVALENTS)"
+      - question: "On Heracles’ return voyage to Greece, he came across the corpse of what boy, who had perished in his attempt to escape Minos and Crete?"
+        answer: "ICARUS"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same ultimate root as the others: matrix, mature, madrigal, material, matter?"
+      answer: "MATURE"
+    boni:
+      - question: "…puny, nascent, natural, naïve, nasturtium?"
+        answer: "NASTURTIUM"
+      - question: "…boon, ameliorate, mellifluous, optimal, bonanza?"
+        answer: "MELLIFLUOUS"

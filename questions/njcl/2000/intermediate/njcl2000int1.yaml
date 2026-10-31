@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "In many literary works, authors may often start the narrative <latin>in medias res</latin>. What does this mean with respect to the intention of the author?"
+      answer: "TO START THE STORY IN THE MIDDLE OF THE ACTION"
+    boni:
+      - question: "Teachers nowadays often have to act <latin>in loco parentis</latin>. What does this mean with respect to the teacher?"
+        answer: "THEY <emphasis>ACT</emphasis> IN PLACE OF THE PARENT"
+      - question: "When you take a shower, you are most likely doing so <latin>in purīs naturālibus</latin>. What does this mean with respect to you?"
+        answer: "NOT WEARING ANY CLOTHES / NAKED"
+  - tossup:
+      question: "Give an antonym of <latin>sequor</latin>"
+      answer: "<latin>DŪCŌ</latin>"
+    boni:
+      - question: "Give an antonym of <latin>prōcēdō</latin>"
+        answer: "<latin>RĒCĒDŌ, REVERTŌ, REVERTOR, REVENIŌ</latin>"
+      - question: "Give an antonym of <latin>dōnō</latin>"
+        answer: "<latin>RĒCIPIŌ, CAPIŌ, RAPIŌ</latin>"
+  - tossup:
+      question: "Give the Latin term for the kind of structures built in Rome by Agrippa, Titus, Trajan, Caracalla, and Diocletain, <latin>THERMAE</latin> (PASS OUT THE VISUALS) What is the Latin term for the room of a bath complex as illustrated at the top of the page?"
+      answer: "<latin>APODYTERIUM</latin>"
+    boni:
+      - question: "What is the Latin term for the four item on the middle of the ring at the bottom of the page?"
+        answer: "<latin>STRIGILES</latin>"
+  - tossup:
+      question: "During the Trojan War, what Greek warrior was able to wound two deities with the aid of an Olympian goddess?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Name the two Olympians whom Diomedes wounded"
+        answer: "APHRODITE & ARES"
+      - question: "What goddess aided Diomedes in wounding Aphrodite and Ares?"
+        answer: "(PALLAS) ATHENA"
+  - tossup:
+      question: "Differentiate in meaning between <latin>salvus</latin> and <latin>salūs</latin>."
+      answer: "<latin>SALVUS</latin> – SAVE, WELL, SOUND, UNHARMED <latin>SALŪS</latin> – SAFETY, HEALTH, GREETING"
+    boni:
+      - question: "Differentiate in meaning between <latin>perīre</latin> and <latin>parīre</latin>."
+        answer: "<latin>PERĪRE</latin> – PERISH, DIE, BE DESTROYED <latin>PARĪRE</latin> – BRING FORTH, BEAR, GIVE BIRTH TO, PRODUCE, PROCURE, GAIN"
+      - question: "Differentiate in meaning between <latin>digitus</latin> and <latin>dignitās</latin>."
+        answer: "<latin>DIGITUS</latin> – FINGER, TOE <latin>DIGNITĀS</latin> – WORTH, MERIT, DIGNITY, RANK, HONOR, PRESTIGE"
+  - tossup:
+      question: "Who tricked Sempronius Longus and P. Cornelius Scipio into attacking him across a swollen and icy-cold river in 218 B.C.?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "At what river was this battle fought?"
+        answer: "TREB(B)IA"
+      - question: "At what river had Scipio lost a skirmish to Hannibal?"
+        answer: "TICINUS"
+  - tossup:
+      question: "Using two words, say in Latin “For the sake of food.”"
+      answer: "<latin>CIBĪ CAUSĀ / GRATIĀ</latin>"
+    boni:
+      - question: "Using two words, say in Latin “For the sake of loving.”"
+        answer: "<latin>AMANDĪ CAUSĀ / GRATIĀ</latin>"
+      - question: "What term is given to <latin>causa</latin> and <latin>gratia</latin> because they are placed after their objects?"
+        answer: "POSTPOSITIVE"
+  - tossup:
+      question: "According to Homer, who was the last of the Greek heroes to reach his homeland after the fall of Troy?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "To what tribe of cannibals did Odysseus lose all but one of his ships?"
+        answer: "LAESTRYGONIANS"
+      - question: "To what monstrous creature did Odysseus lose six of his men while passing through the Strait of Messina?"
+        answer: "SCYLLA"
+  - tossup:
+      question: "Give the present passive infinitive of <latin>cōnsūmō</latin>"
+      answer: "<latin>CŌNSŪMĪ</latin>"
+    boni:
+      - question: "Change <latin>cōnsūmī</latin> to the perfect"
+        answer: "<latin>CŌNSŪMPTUM ESSE</latin>"
+      - question: "Change <latin>cōnsūmptum esse</latin> to the active"
+        answer: "<latin>CŌNSŪMPSISSE</latin>"
+  - tossup:
+      question: "Once you’re recognized, perform the following command. <latin>Surge tangeque tuōs umerōs ambābus manibus.</latin>"
+      answer: "STUDENT STANDS AND TOUCHES HIS/HER SHOULDERS WITH BOTH HANDS"
+    boni:
+      - question: "<latin>Surgite et pōnite utrāsque manūs in summīs vestrīs capitibus.</latin>"
+        answer: "STUDENTS ON THE TEAM STAND AND THEN PUT BOTH HANDS ON TOP OF THEIR HEADS"
+      - question: "<latin>Stantēs, prōclāmāte Anglicē nōmen statūs in quō habitātis</latin>"
+        answer: "WHILE STANDING, STUDENTS SHOUT OUT THE NAME OF THE STATE IN WHICH THEY LIVE"
+  - tossup:
+      question: "What newly proclaimed emperor’s first act was the kill the treacherous Praetorian Prefect Aper?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "What emperor (and his son) did Aper probably kill but claimed had been struck by lightning?"
+        answer: "CARUS (and NUMERIANUS)"
+      - question: "What other son of Carus did Diocletian still have to defeat to be sole ruler?"
+        answer: "CARINUS"
+  - tossup:
+      question: "The noun <latin>domus</latin> is called a heteroclite because its endings vary between which two declensions?"
+      answer: "SECOND & FOURTH"
+    boni:
+      - question: "Give two possible alternatives for the accusative plural of the phrase <latin>laeta domus</latin>"
+        answer: "<latin>LAETĀS DOMŌS & LAETĀS DOMŪS</latin>"
+      - question: "The nouns <latin>māteria</latin> and <latin>saevitia</latin> are also heteroclites. In which two declensions do they varying forms?"
+        answer: "FIRST & FIFTH"
+  - tossup:
+      question: "What is the case and use of <latin>urbs</latin> in the sentence: <latin>Multae rēs ōrnāmentō urbī sunt</latin>"
+      answer: "DATIVE OF REFERENCE"
+    boni:
+      - question: ": <latin>Meministi Urbis pulchritūdinis hieme?</latin>"
+        answer: "GENITIVE OF POSSESSION"
+      - question: ": <latin>Rōma antīquior nostrā urbe est</latin>"
+        answer: "ABLATIVE OF COMPARISON"
+  - tossup:
+      question: "Which of the Olympians was the inventor of the flute?"
+      answer: "(PALLAS) ATHENA"
+    boni:
+      - question: "Under what circumstances did Athena invent the flute?"
+        answer: "SHE HEARD THE LAMENTATIONS (AND THE HISSING OF THE SERPENT HAIR) OF THE TWO SURVIVING GORGONS AND MADE THE FLUTE TO IMITATE THE SOUND"
+      - question: "Why did she throw away this newly invented musical instrument?"
+        answer: "BECAUSE THE FLUTE DISTORTED HER CHEEKS/FACE (WHEN SHE BLEW INTO THE FLUTE)"
+  - tossup:
+      question: "Against what triplets did the Horatii brothers fight?"
+      answer: "CURIATII"
+    boni:
+      - question: "For whom were the Curiatii fighting?"
+        answer: "CITY OF ALBA LONGA"
+      - question: "During what king’s reign was this duel fought?"
+        answer: "TULLUS HOSTILIUS"
+  - tossup:
+      question: "What proscribed Roman taught the Spanish to fight like the Roman legionaries?"
+      answer: "(Q.) SERTORIUS"
+    boni:
+      - question: "What Roman commander did Sertotius defeat in hand-to-hand combat?"
+        answer: "POMPEY (CN. POMPEIUS MAGNUS)"
+      - question: "Who assassinated Sertorius and usurped his command only to be defeated and executed by Pompey?"
+        answer: "(M.) PERPERNA (VEIENTO"
+  - tossup:
+      question: "What derivative of the Latin noun for “year” means “lastin thorugh the year or through many years?”"
+      answer: "PERENNIAL"
+    boni:
+      - question: "“occurring two times a year?”"
+        answer: "BIANNUAL"
+      - question: "or SEMIANNUAL . . . “occurring every two years?”"
+        answer: "BIENNIAL"
+  - tossup:
+      question: "What king of Ethiopia was the father-in-law of Perseus?"
+      answer: "CEPHEUS"
+    boni:
+      - question: "What queen of Ethiopia was the mother-in-law of Perseus?"
+        answer: "CASSIOPEIA"
+      - question: "What son of Perseus and Andromeda succeeded Cepheus as the king of Ethiopia?"
+        answer: "PERSES"
+  - tossup:
+      question: "Make the phrase <latin>īdem artifex</latin> genitive"
+      answer: "<latin>EIUSDEM ARTIFICIS</latin>"
+    boni:
+      - question: "Change <latin>eiusdem artificis</latin> to the accusative"
+        answer: "<latin>EUNDEM ARTIFICEM</latin>"
+      - question: "Change <latin>eundem artificem</latin> to the plural"
+        answer: "<latin>EŌSDEM ARTIFICĒS</latin>"
+  - tossup:
+      question: "What nymph asked to be transformed into march reeds in order to avoid Pan?"
+      answer: "SYRINX"
+    boni:
+      - question: "By the bank of what river did this transformation occur?"
+        answer: "LADON"
+      - question: "What other nymph was transformed into a pine tree so that she, too, could avoid Pan’s pursuit?"
+        answer: "PITYS"

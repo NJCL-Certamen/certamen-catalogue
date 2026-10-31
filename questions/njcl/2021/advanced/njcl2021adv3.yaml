@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What work of Latin literature which discusses literary issues, such as beginning <latin>in mediās rēs</latin> and the <latin>deus ex māchinā</latin> in 476 hexameters, addresses Peripatetic theories on poetry and is written by Horace?"
+      answer: "<title><latin>ARS POĒTICA / EPISTULA AD PISONĒS</latin></title>"
+    boni:
+      - question: "The <title><latin>Ars Poētica</latin></title> is alternatively titled <title><latin>Epistula Ad Pisonēs.</latin></title> What other work does Horace alternatively refer to as <title><latin>Iambī</latin></title>?"
+        answer: "<title><latin>EPODES</latin></title>"
+      - question: "The <title><latin>Ars Poētica</latin></title> is sometimes placed in the second book of what other work of Horace, which contains lengthy letters to Augustus and Julius Florus on literary subjects?"
+        answer: "<title>EPISTLES</title> / <title><latin>EPISTULAE</latin></title>"
+  - tossup:
+      question: "What Latin noun, formed from a Latin verb meaning “pretend,” means “image” or “statue”?"
+      answer: "<latin>SIMULĀCRUM</latin>"
+    boni:
+      - question: "What Latin noun, formed from another Latin noun meaning “wall,” means a “gap” or “the space between two things”?"
+        answer: "<latin>INTERVĀLLUM</latin>"
+      - question: "What Latin noun, formed from a Latin verb meaning “cover,” means “a roof-tile”?"
+        answer: "<latin>TĒGULA</latin>"
+  - tossup:
+      question: "On what island does a man strap on the gloves of Eryx to defeat a young boxer named Dares during the funeral-games for Anchises in the <title>Aeneid</title>?"
+      answer: "SICILY"
+    boni:
+      - question: "Dares had earlier won the boxing match at whose funeral games?"
+        answer: "HECTOR(’S)"
+      - question: "During the archery contest at the games, what man’s arrow miraculously catches fire?"
+        answer: "ACESTES’"
+  - tossup:
+      question: "Which hill hosted Domitian’s large funeral monument to the Flavian dynasty, had the Forum of Trajan carved into it, and was the mythical home of Titus Tatius and the Sabine people?"
+      answer: "QUIRINAL"
+    boni:
+      - question: "Which hill contained the site of the Temple of Divus Claudius, which was temporarily commandeered for a grand fountain by Nero, and may have originally been named after its oak groves?"
+        answer: "CAELIAN"
+      - question: "What site on the edge of the Caelian hill did Constantine choose for his first Christian cathedral? It later served as the residence for many popes and still stands today after many renovations and extensions."
+        answer: "(ST. JOHN) LATERAN / <latin>DOMUS LATERĀNĪ</latin>"
+  - tossup:
+      question: "Give the form of <latin>auferō</latin> that would appear in a Latin translation of this sentence: “If only that man had not stolen the gift!”"
+      answer: "<latin>ABSTULISSET</latin>"
+    boni:
+      - question: "Give the form of <latin>auferō</latin> that would appear in a Latin translation of this sentence: “I don’t know by whom the gift was stolen.”"
+        answer: "<latin>ABLATUM / A SIT</latin>"
+      - question: "Now give the form of <latin>auferō</latin> that would appear in a Latin translation of this sentence: “I hope that we will steal the gift back.”"
+        answer: "<latin>ABLATŪRŌS/AS/A ESSE / ABLATŪRĪ SIMUS / AUFERAMUS</latin>"
+  - tossup:
+      question: "On a trip to Rome in 40 B.C., what minister of Hyrcanus convinced Antony and Octavian to make him king of Judaea, which came to pass in 37 B.C.?"
+      answer: "HEROD (I / THE GREAT)"
+    boni:
+      - question: "Name two of Herod’s three sons between whom his kingdom was divided upon his death in 4 BC?"
+        answer: "(TWO OF) (HEROD) ANTIPAS, ARCHELAUS, PHILIP"
+      - question: "Pompey had previously supported Hyrcanus’ claim to Judaea against what brother of his?"
+        answer: "ARISTOBULUS"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: Grex discipulōrum multōs mēnsēs Latīnae studēbant quō melius exāminibus fungerentur. Cuius temporis est “studēbant”?</latin>"
+      answer: "IMPERFECTĪ"
+    boni:
+      - question: "<latin>Dīc Anglicē ratiōnem cāsūs verbōrum multōs mēnsēs.</latin>"
+        answer: "EXTENT / DURATION (OF TIME)"
+      - question: "<latin>Prō vocābulō “melius” dīc fōrmam positīvam.</latin>"
+        answer: "BENE"
+  - tossup:
+      question: "What deity caused the instant coming-of-age of Acarnan and Amphoterus, transformed the Myrmidons from ants to men, and made a daughter of Inachus into a heifer?"
+      answer: "ZEUS / JUPITER"
+    boni:
+      - question: "What goddess made Jupiter promise to transform Aeneas’ ships into nymphs and herself transformed Atalanta into a lioness?"
+        answer: "CYBELE / CYBEBE / <latin>MAGNA MATER</latin>"
+      - question: "What deity, in order to aid her husband, convinced Psamathe to turn a wolf to stone?"
+        answer: "THETIS"
+  - tossup:
+      question: "In Latin Literature, what name is shared by the title of an exhortation to philosophy written by Cicero that caused Augustine’s spiritual crisis, and the man in Catullus 65 to whom Catullus addresses a letter accompanying a translation of Callimachus? This man was also a well known orator who defended Verres."
+      answer: "HORTENSIUS"
+    boni:
+      - question: "How many <title><latin>Actiōnēs in Verrem</latin></title> were written by Cicero?"
+        answer: "TWO"
+      - question: "Catullus 66 contains the accompanying translation mentioned in the preceding letter to Hortensius. Catullus 66 is a translation of what poem of Callimachus?"
+        answer: "THE LOCK OF BERENICE"
+  - tossup:
+      question: "The battle of bananas continues! Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Ut hastās brevēs prohibērēmus quōminus nostrōs pedēs ferīrent, totiēns saliēbamus ut saltāre vidērēmur. Nunc sīmiae nōs dērīdēbant et exclāmābant, “Ecce, illī hominēs sunt paucīs ariēnīs perterritī. Meminērimus imaginem eōrum saltantium! Hominēs interdum sunt tam stultī.”</latin>"
+      answer: "REREAD The question: <latin>Quibus erant hominēs perterritī, secundum sīmiās?</latin> <latin>(PAUCĪS) ARIĒNĪS / HASTĪS</latin> (DON’T TAKE <latin>SĪMIĪS</latin> OR <latin>SĪMIĀBUS</latin>)"
+    boni:
+      - question: "<latin>Quōmodo hominēs ariēnās vitāvērunt?</latin>"
+        answer: "SALUĒRUNT / SALIĒBANT / SALIENDŌ / SALTĀVERUNT / SALTĀBANT / SALTANDŌ"
+      - question: "<latin>Quotiēns hominēs dēmenter sē gerunt?</latin>"
+        answer: "INTERDUM"
+  - tossup:
+      question: "What man’s crime was given away by Academus after he used the city of Aphidnae to hide the newly abducted Helen, leading the Dioscuri to abduct his mother, Aethra, in retribution?"
+      answer: "THESEUS"
+    boni:
+      - question: "What man proposed this plan to Theseus because he wanted to seize a daughter of Zeus?"
+        answer: "PIRITHOÜS"
+      - question: "What sons of Theseus later rescued Aethra from Troy?"
+        answer: "ACAMAS and DEMOPHO(Ö)N"
+  - tossup:
+      question: "Employing the same double envelopment tactic Hannibal would use at Cannae, what Spartan mercenary defeated Regulus in battle at the Bagradas Valley?"
+      answer: "XANTHIPPUS"
+    boni:
+      - question: "At what naval battle following Bagradas Valley were Carthage’s sea forces crippled for the next five years?"
+        answer: "CAPE HERMAEUM"
+      - question: "Set back by the disaster at Bagradas and their own ships lost to storms, the Romans returned to Sicily and captured what Carthaginian fortress in 254 B.C.?"
+        answer: "PANORMUS"
+  - tossup:
+      question: "Give the two Latin verbs and their meanings which have the 3rd principal part <latin>crēvī</latin>."
+      answer: "<latin>CRĒSCŌ / CRĒSCERE</latin> - GROW / INCREASE and <latin>CERNŌ / CERNERE</latin> - DISTINGUISH / DISCERN / SEE / PERCEIVE"
+    boni:
+      - question: "Distinguish in meaning between the periphrastic verb constructions <latin>victurus sum</latin> and <latin>vīcturus sum</latin>?"
+        answer: "<latin>VICTURUS SUM -</latin> I AM GOING / ABOUT / FIXIN’ TO WIN, <latin>VĪCTURUS SUM -</latin> I AM GOING / ABOUT / FIXIN’ TO LIVE"
+      - question: "Give the 3rd and 4th principal parts for both the Latin verb <latin>edō</latin> meaning “to eat” and the Latin verb <latin>ēdō</latin> meaning “to bring forth.”"
+        answer: "<latin>ĒDĪ, ĒSUS</latin> and <latin>ĒDIDĪ, ĒDITUS</latin>"
+  - tossup:
+      question: "What author, perhaps inspired by a successful campaign against the Calaeci by his patron Decimus Brutus, wrote a <latin>fābula praetexta</latin> on the successful overthrow of Lucius Tarquinius Superbus by an earlier Brutus?"
+      answer: "(L.) ACCIUS"
+    boni:
+      - question: "What is the title of Accius’s other <latin>fābula praetexta</latin>?"
+        answer: "<title><latin>DECIUS</latin></title> / <title><latin>AENEADAE</latin></title>"
+      - question: "What is the Latin term for the genre of plays that encompasses most of Accius’s works?"
+        answer: "<latin>FĀBULA COTHURNĀTA / CREPIDĀTA</latin>"
+  - tossup:
+      question: "What group of sisters chose Lerna as the burial-place for the heads of their husbands, for whose murder they were condemned to ceaselessly fill leaky buckets in the Underworld?"
+      answer: "DANAIDS / DANAÏDES"
+    boni:
+      - question: "Since Hypermnestra spared Lynceus, they were able to carry on the Danaid line. What twins, who supposedly quarreled in the womb, were the grandsons of Hypermnestra and Lynceus?"
+        answer: "ACRISIUS and PROËTUS"
+      - question: "Ovid calls the Danaids by a patronymic referring to their descent from what man, the father of Danaüs and his brother Aegyptus?"
+        answer: "BELUS"
+  - tossup:
+      question: "What emperor was beheaded and thrown into the Tiber after he tried to go back on the arrangement to make his cousin Severus Alexander his Caesar?"
+      answer: "ELAGABALUS / HELIOGABALUS / BASSIANUS"
+    boni:
+      - question: "What powerful grandmother of Elagabalus played the Agrippina to his Nero but was not able to save Elagabalus from himself?"
+        answer: "JULIA MAESA"
+      - question: "What city is the origin of the Sun God that Elagabalus worshipped in Rome?"
+        answer: "EMESA"
+  - tossup:
+      question: "Say in Latin, “Who knew we would be at home for a very long time?”"
+      answer: "QUIS SCĪVIT / SCIĒBAT / QUĪ SCĪVERUNT / SCIĒBANT NŌS FUTŪRŌS ESSE DOMĪ DIŪTISSIMĒ?"
+    boni:
+      - question: "Using an optative subjunctive and <latin>amplector</latin> for “hug”, say in Latin “I wish I may hug again those whom I love!”"
+        answer: "(<latin>UTINAM) ITERUM / RŪRSUS (EŌS/-ĀS / ILLŌS/-ĀS), QUŌS / QUĀS</latin> <latin>AMŌ, AMPLECTAR!</latin>"
+      - question: "Using <latin>linteum</latin> for “mask,” say in Latin to one person, “Don’t trust people not wearing masks.”"
+        answer: "<latin>NOLĪ CRĒDERE / NĒ CRĒDIDERIS / CAVĒ CRĒDĀS HOMINIBUS NŌN LINTEA GERENTIBUS</latin>"
+  - tossup:
+      question: "Make “any dirty pig” <latin>quispiam luteus sūs</latin> nominative plural."
+      answer: "<latin>QUĪPIAM LUTEĪ SŪĒS</latin>"
+    boni:
+      - question: "Make “no witty poem” <latin>nullum dicāx poēma</latin> nominative plural."
+        answer: "<latin>NULLA DICĀCIA POĒMATA</latin>"
+      - question: "Make “every lavish feast” <latin>quidque sūmptuōsum epulum</latin> nominative plural."
+        answer: "<latin>QUAEQUE SŪMPTUŌSAE EPULAE</latin>"
+  - tossup:
+      question: "What Silver Age author wrote an epic poem about the Second Punic War in 17 books that is said to be the longest Latin historical epic that comes down to us?"
+      answer: "(TI. CATIUS ASCONIUS) SILIUS ITALICUS"
+    boni:
+      - question: "According to Pliny the Younger, Silius Italicus had an obsessive admiration for what earlier Roman author, whose tomb and relics he possessed?"
+        answer: "(P.) VERGIL(IUS MARO)"
+      - question: "What other Silver Age author wrote an epic poem on the civil war between Pompey and Caesar?"
+        answer: "(M. ANNAEUS) LUCAN(US)"
+  - tossup:
+      question: "Let’s hear some Roman epitaphs. Translate this Latin inscription found on a tombstone into English. <latin>Quī legis hunc titulum, mortālem tē esse mementō.</latin>"
+      answer: "YOU WHO READ THIS INSCRIPTION / TITLE, REMEMBER THAT YOU ARE MORTAL / HUMAN"
+    boni:
+      - question: "You will have THIRTY SECONDS to translate this epitaph: <latin>Dēsine iam, mater, lacrimīs renovāre querellās, namque dolor tālis nōn tibi contigit unī.</latin>"
+        answer: "CEASE NOW, MOTHER, TO RENEW YOUR LAMENTS WITH TEARS, FOR SUCH GRIEF HAS NOT BEFALLEN YOU ALONE."
+      - question: "Provided that you notice the hyperbaton, you will be able to translate this epitaph with 30 seconds’ time: <latin>Hōc quī scīre cupis iaceant quae membra sepulchrō, discēs, dum relegas hōs modo versiculōs.</latin>"
+        answer: "YOU WHO WANT TO KNOW WHAT LIMBS LIE IN THIS TOMB, YOU WILL LEARN, PROVIDED THAT YOU READ AGAIN THESE LITTLE VERSES"

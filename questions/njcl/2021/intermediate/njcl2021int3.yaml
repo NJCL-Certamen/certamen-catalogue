@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2021
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What region of the Roman empire contained the <latin>Liger</latin>, <latin>Garumna</latin>, <latin>Sēquana</latin>, and <latin>Rhodanus</latin> rivers?"
+      answer: "<latin>GALLIA</latin> / GAUL"
+    boni:
+      - question: "Which of those rivers formed the border between <latin>Aquītānia</latin> and <latin>Lugdūnensis</latin>?"
+        answer: "<latin>LIGER</latin> / LOIRE"
+      - question: "Which of those rivers flowed through the city of <latin>Lutetia</latin>?"
+        answer: "<latin>SĒQUANA</latin> / SEINE"
+  - tossup:
+      question: "What is the Latin abbreviation commonly found on tombs which means, “Here lies buried?”"
+      answer: "H.I.S. (okay to <emphasis>add</emphasis> <latin>HĪC IACET SEPULTUS,</latin> but they must also give the <latin>H.I.S.</latin> but don’t prompt for it!)"
+    boni:
+      - question: "If a tomb bears the letters <latin>H.I.S.</latin> then one would assume a body to be present within. What word is used to describe tombs that contain no such body and cannot accurately bear the inscription?"
+        answer: "CENOTAPH / <latin>CENOTAPHIUM</latin>"
+      - question: "What four letter abbreviation, containing a subjunctive form of the verb <latin>esse</latin>, can also be used in the context of graves and is found in Martial 9.29?"
+        answer: "<latin>S.T.T.L.</latin> (okay to <emphasis>add</emphasis> <latin>SIT TIBI TERRA LEVIS,</latin> but they must also give the <latin>S.T.T.L.</latin> but don’t prompt for it!)"
+  - tossup:
+      question: "Which emperor was able to restore Rome’s dominance in the East by defeating Zenobia?"
+      answer: "(L. DOMITIUS) AURELIAN(US)"
+    boni:
+      - question: "Who was Zenobia’s son, who had been declared an Augustus?"
+        answer: "VABALLATHUS"
+      - question: "In his reconquest of the East, Aurelian was completing the work of Claudius Gothicus. How had Claudius died?"
+        answer: "PLAGUE / ILLNESS"
+  - tossup:
+      question: "Of the nouns <latin>insidiae, sapientia, ventus, rōs, praesidium</latin>, which is best described in the following Latin sentence? <latin>Cum aetāte id venit ad eōs quī audiunt et discunt.</latin>"
+      answer: "<latin>SAPIENTIA</latin>"
+    boni:
+      - question: "Which of those same nouns - <latin>insidiae, sapientia, ventus, rōs, praesidium -</latin> is best described in this sentence: <latin>Quaerās hoc cum tē circumdārī sentis.</latin>"
+        answer: "<latin>PRAESIDIUM</latin>"
+      - question: "Which of those same nouns - <latin>insidiae, sapientia, ventus, rōs, praesidium -</latin> is best described in this sentence: <latin>Māne, hoc in summā herbā apparet.</latin>"
+        answer: "<latin>RŌS</latin>"
+  - tossup:
+      question: "What type of substance both produces a flower marked with the Greek lament <emphasis>aiai</emphasis> and miraculously falls from the sky when Zeus wishes to honor the death of his son Sarpedon?"
+      answer: "BLOOD"
+    boni:
+      - question: "In his account, Ovid compares the fate of Ajax to what Spartan youth, who was transformed by his lover Apollo into a flower bearing the lament <emphasis>aiai</emphasis> on its petals?"
+        answer: "HYACINTH(US)"
+      - question: "In Book 12 of the <title>Iliad</title>, Sarpedon delivers a lengthy speech on glory to what man, who was his cousin and the co-commander of the Lycian forces?"
+        answer: "GLAUCUS"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: “bonō virō cōnsule, patria omnia beneficia agere potest.” Quō cāsū est “virō?”</latin>"
+      answer: "(IN CĀSŪ) ABLĀTĪVŌ"
+    boni:
+      - question: "<latin>Cuius modī est “agere?”</latin>"
+        answer: "(MODĪ) ĪNFĪNĪTĪVĪ"
+      - question: "<latin>Cuius generis est “beneficia?”</latin>"
+        answer: "(GENERIS) NEUTRĪUS"
+  - tossup:
+      question: "Name the owner of the building described in the following quotation: “So he went, and with him went twenty-two weeping companions … They found the house, built of hewn stone … and around it were mountain wolves and lions, which she had bewitched, because she had given them evil drugs.”"
+      answer: "CIRCE"
+    boni:
+      - question: "Name Circe’s island, which was perhaps located somewhere off Italy."
+        answer: "AEAEA"
+      - question: "What man led the expedition of 23 men that located Circe’s house on Aeaea and was the only one to escape being transformed into pigs by the sorceress?"
+        answer: "EURYLOCHUS"
+  - tossup:
+      question: "The passage from the previous rounds continues. Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows. <latin>Ubi duae fēminae tandem aquilam conspēxērunt et capiēbant pictūrās aquilae.</latin>"
+      answer: "“O miserās fēminās” aquila furens sibi cogitāvit. “Ego eās pūniam quod pictūrae nōn mihi placent.” Statim rēgīna avium dē statuā volābat et dōnum sordidum in capita fēminārum demīsit. Fēminae multīs lacrimīs dolent. REREAD The question: <latin>Quālēs fēminae ad fīnem fabulae erant?</latin> <latin>MISERRIMAE / MISERAE / MAESTAE / INFĒLICĒS (DOLENT) // MULTĪS LACRIMĪS (DOLENT) (</latin>prompt on just <latin>“DOLENT”</latin>) <latin>// SORDIDAE</latin>"
+    boni:
+      - question: "<latin>Cūr aquila īrāta erat?</latin>"
+        answer: "(<latin>QUOD) FĒMINAE PICTŪRĀS AQUILAE / EIUS CAPIĒBANT // (QUOD) NŌN AQUILAE / EĪ PICTŪRAE PLACENT</latin>"
+      - question: "<latin>Quōmodo aquila fēminās pūnīvit?</latin>"
+        answer: "<latin>DŌNUM SORDIDUM IN CAPITA (FĒMINĀRUM) DEMĪSIT / DŌNŌ SORDIDŌ</latin>"
+  - tossup:
+      question: "Circumventing the Senate, what tribune attempted to rebuild Rome’s class of small farmers by confiscating private holdings of public land in excess of 500 <latin>iūgera</latin> and redistributing it to smaller farmers in 133 BC?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "What friend of Scipio Aemilianus had attempted to pass a similar law around 145 BC, but halted in the face of opposition from the large landholders?"
+        answer: "(C.) LAELIUS"
+      - question: "Who led the mob that murdered Tiberius Gracchus?"
+        answer: "(P. CORNELIUS) SCIPIO NASICA (SERAPIO)"
+  - tossup:
+      question: "From what Latin noun do we derive the English words “inertia” and “artifice?”"
+      answer: "<latin>ARS</latin>"
+    boni:
+      - question: "From what Latin noun do we derive the English words “duel,” “revel,” and “rebellion?”"
+        answer: "BELLUM"
+      - question: "From what Latin noun do we derive the words “ferret” and “furtive?”"
+        answer: "<latin>FŪR</latin>"
+  - tossup:
+      question: "Name the title character from the classic children’s book described with the following Latin sentences: <latin>Puer cum tribus līberīs ad insulam dīstāntem volat. In quā insulā sunt multī puerī āmissī, īrātī pīrātae, et crocodīlus crepitāns sicut hōrologium.</latin>"
+      answer: "PETER PAN"
+    boni:
+      - question: "Name the title character from the classic children’s book described with the following Latin sentence: <latin>Puella cunīculum album sub forāmen sequitur in quō sunt fēlēs et vir īnsānus et mūs et rēgīna quae capita hominum excīdī iubet.</latin>"
+        answer: "ALICE (IN WONDERLAND)"
+      - question: "Name the children’s book described: <latin>Postquam mater fīlium, nōmine Māximum, ad cubiculum mittit, Māximus obdormit et suum cubiculum silva intrā mare profundum fit in quā multa fera habitant.</latin>"
+        answer: "<title>WHERE THE WILD THINGS ARE</title> / <title><latin>UBI FERA SUNT</latin></title>"
+  - tossup:
+      question: "What man went into exile with the necklace and robe of his ancestor Harmonia after he was driven from the shared rule of the city of Thebes by his brother, Eteocles?"
+      answer: "POLYN(E)ICES"
+    boni:
+      - question: "Name the two sisters of Polyneices and Eteocles."
+        answer: "ANTIGONE and ISMENE"
+      - question: "Polyneices used the necklace of Harmonia to bribe Eriphyle into persuading her husband to join the expedition against Thebes. Name Eriphyle’s husband."
+        answer: "AMPHIARAÜS"
+  - tossup:
+      question: "Give the present passive infinitive for <latin>sūmō</latin>, meaning “to be taken up.”"
+      answer: "<latin>SŪMĪ</latin>"
+    boni:
+      - question: "Give the perfect active infinitive for <latin>cadō</latin>, meaning “to have fallen.”"
+        answer: "<latin>CECIDISSE</latin>"
+      - question: "Give the correct form of <latin>proficīscor</latin> for the sentence, “Marcia sees that her sister is about to set out from home.”"
+        answer: "<latin>PROFECTŪRAM (ESSE)</latin>"
+  - tossup:
+      question: "What region was the home of the xenophobic king Busiris, the home of the shape-shifting sea-god Proteus, and the place where Io ended her wanderings near the Nile?"
+      answer: "EGYPT"
+    boni:
+      - question: "Which Greek captured Proteus on Pharos while trying to return home from Troy?"
+        answer: "MENELAÜS"
+      - question: "Who killed Busiris during a journey westward that also saw him kill the giant Antaeüs?"
+        answer: "HERACLES / HERCULES"
+  - tossup:
+      question: "In a Roman <latin>conūbium</latin>, what was the <latin>flammeum</latin>, a bright red garment worn by the bride?"
+      answer: "VEIL"
+    boni:
+      - question: "A trio of what kind of object was traditionally carried by a Roman bride during her wedding procession: one to drop on the road, one to give to her husband, and one to dedicate to the <latin>larēs</latin> of her new household?"
+        answer: "COINS / <latin>NUMMĪ</latin>"
+      - question: "What was the Latin term for a bride’s dowry?"
+        answer: "<latin>DŌS</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Caelum erat clārum vīsū</latin>."
+      answer: "THE SKY WAS CLEAR / BRIGHT TO SEE / WITH RESPECT TO SEEING"
+    boni:
+      - question: "Translate the following sentence into English idiomatically: <latin>Ad silvam vēnī vītam actum</latin>."
+        answer: "I CAME TO THE WOOD(S) / FOREST TO LIVE (MY / A) LIFE"
+      - question: "Translate the following sentence into Latin using a supine: My voice is pleasant to hear."
+        answer: "<latin>VŌX MEA / MIHI EST AMOENA / IŪCUNDA AUDĪTŪ</latin>"
+  - tossup:
+      question: "What derivative of the Latin word <latin>tenuis</latin>, meaning “thin,” means “providing a partial justification or excuse for something?”"
+      answer: "EXTENUATING"
+    boni:
+      - question: "What derivative of the Latin verb <latin>stringō,</latin> meaning “to bind,” means “a narrow passage or channel?”"
+        answer: "STRAIT / STRICTURE"
+      - question: "What derivative of the Latin verb <latin>placeō</latin>, meaning “to please,” means “to maintain or urge a claim”?"
+        answer: "PLEAD"
+  - tossup:
+      question: "What new colony did Hadrian commemorate with a shrine to Jupiter Capitolinus, and thus ignited a conflict known as the Second Jewish War due to the shrine occupying a space sacred to the city’s inhabitants?"
+      answer: "AELIA CAPITOLINA"
+    boni:
+      - question: "In response, what Jewish leader led a guerrilla-style revolt against the Romans for the next five years?"
+        answer: "SIMON BAR KOKHBA / COCHBAR / COSIBAR // SIMON BEN KOSEVAH / COSIBAH"
+      - question: "What did Hadrian rename the province of Judea after the Second Jewish War?"
+        answer: "SYRIA PALESTINA (prompt if only one half is given)"
+  - tossup:
+      question: "Aphrodite angrily killed Calliope’s son Orpheus after the Muse ruled that half of what youth’s time should be given to Aphrodite and half should be given to Persephone?"
+      answer: "ADONIS"
+    boni:
+      - question: "It mattered little, however, since Adonis was killed as a youth by what type of animal?"
+        answer: "BOAR"
+      - question: "What king of Thrace was the father of Orpheus by Calliope?"
+        answer: "OEAGRUS"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence: <latin>Volō amīcīs appropinquāre, sed nesciō in quō locō sint</latin>."
+      answer: "PLACE WHERE // LOCATION"
+    boni:
+      - question: "What use of the dative case is found in that same sentence: <latin>Volō amīcīs appropinquāre, sed nesciō in quō locō sint</latin>."
+        answer: "DATIVE WITH SPECIAL VERBS"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Mē arguisne illīus facinoris</latin>?"
+        answer: "GENITIVE OF CHARGE / PENALTY"

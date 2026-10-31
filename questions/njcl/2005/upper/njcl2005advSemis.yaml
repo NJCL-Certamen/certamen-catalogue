@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Which road ran southeast from Rome approximately parallel to the <latin>Via Appia</latin>, until it merged with it at Casilinum near Capua?"
+      answer: "<latin>LATINA</latin> "
+    boni:
+      - question: "Which road, stretching from Ariminum to Placentia in northern Italy, helped expedite the Romanization of Cisalpine Gaul?"
+        answer: "<latin>AEMILIA</latin> "
+      - question: "Which road, built in 220 BC, crosses the Tiber at the Milvian bridge and was the main northern highway from Rome to the Adriatic coast?"
+        answer: "<latin>FLAMINIA</latin> "
+  - tossup:
+      question: "What English adjective, derived from the Latin noun for “spot” or “stain” means “free from blemish”?"
+      answer: "IMMACULATE"
+    boni:
+      - question: "What English adjective, derived from the Latin verb for “measure” means “huge”?"
+        answer: "IMMENSE, IMMEASURABLE"
+      - question: "What derivative of the Latin noun for “meal or millstone” means “to sacrifice, kill, or destroy by fire ”?"
+        answer: "IMMOLATE"
+  - tossup:
+      question: "Give the Latin title of the work by Cato the Elder in which the following quotation can be found: <latin>“Imperātor Poenus in terrā</latin> <latin>Siciliā</latin> <latin>bellō</latin> <latin>Carthāginiēnsī</latin> <latin>prīmō, obviam Rōmānō</latin> <latin>exercitū</latin> <latin>prōgreditur, collēs locōsque idōneōs prior occupat.”</latin>?"
+      answer: "<title><latin>ORĪGINĒS</latin></title> "
+    boni:
+      - question: "What was the significance of Cato’s <title><latin>Orīginēs</latin></title> with respect to Latin literature?"
+        answer: "FIRST ROMAN HISTORY IN LATIN PROSE"
+      - question: "Give the Latin title of the Cato’s work which contains information on topics such as curing illnesses and injuries to both animal and man, when best to gather and press olives, and how to plant asparagus?"
+        answer: "<title><latin>DĒ RĒ RŪSTICĀ</latin></title> / <title><latin>DĒ AGRĪ CULTŪRĀ</latin></title>"
+  - tossup:
+      question: "The stories of the god Vertumnus, the dedication of the Temple of Palatine Apollo, and the legend of Hercules and Cacus, can all be found in the elegies of what Augustan Age poet?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "After whom was Propertius’ first book of elegies named?"
+        answer: "CYNTHIA"
+      - question: "The use of mythological parallel for whatever emotional experience that is occupying Propertius’s mind shows the influence of what Greek style?"
+        answer: "ALEXANDRIAN"
+  - tossup:
+      question: "Who, because of his grief over his daughter’s death, was transformed into a hawk by Apollo?"
+      answer: "DAEDALION"
+    boni:
+      - question: "Into what kind of creature was Cerambus transformed?"
+        answer: "(STAG) BEETLE"
+      - question: "Into what was Celmis, a childhood companion of Jupiter, transformed?"
+        answer: "(LUMP OF) DIAMOND"
+  - tossup:
+      question: "Wait until you are instructed to open your visuals. (PASS OUT THE VISUALS) Open your visuals. You are free to pull the visuals apart. (WAIT A MOMENT FOR THE STUDENTS TO OPEN THEM) You now have 15 seconds to examine this visual. (WAIT 15 SECONDS) According to this inscription, what action did Appius Claudius take against Pyrrhus?"
+      answer: "HE PREVENTED PEACE FROM BEING MADE / HAPPENING WITH KING PYRRHUS (If student says “.. prevented peace to be made...,” do NOT accept)"
+    boni:
+      - question: "You now have 10 seconds to examine this inscription about Appius Claudius. (WAIT 10 SECONDS) According to the inscription, what office did Appius Claudius hold when he built both a road and an aqueduct?"
+        answer: "IN HIS CENSORSHIP / WHEN HE WAS CENSOR"
+      - question: "This inscription describes victories over three Italic tribes. Name the three tribes and specify what Appius Claudius did to each."
+        answer: "SAMNITES, SABINES, AND ETRUSCANS SAMNITES - HE SACKED / CAPTURED (SEVERAL) OF THEIR TOWNS SABINES & ETRUSCANS - DEFEATED / WASTED THEIR ARMIES (If student translates <latin>fūdit</latin> as “poured,” say, “<latin>fūdit</latin> does mean ēpoured.’ What is a better idiomatic meaning of <latin>fūdit</latin> in this context?)"
+  - tossup:
+      question: "In A.D. 60, what Roman governor of Britain was in the process of conquering the island of Mona, the center of Druidism, when he received news of Boudicca’s rebellion?"
+      answer: "(C. SUETONIUS) PAULINUS"
+    boni:
+      - question: "What tribe joined Queen Boudicca and the Iceni in this rebellion?"
+        answer: "TRINOVANTES"
+      - question: "Who was Boudicca’s husband, a client king of the Iceni, who had bequeathed his lands to the Romans in his will?"
+        answer: "PRASUTAGUS"
+  - tossup:
+      question: "Translate the following sentence into Latin: All citizens must defend the country."
+      answer: "<latin>PATRIA OMNIBUS CĪVIBUS DĒFENDENDA EST</latin> "
+    boni:
+      - question: "Teachers have a great love of teaching."
+        answer: "<latin>MAGISTRĪ</latin> <latin>MAGNUM AMŌREM HABENT DOCENDĪ</latin> <latin>/</latin>  <latin>MAGISTRĪS MAGNUS AMOR DOCENDĪ</latin> <latin>EST</latin> "
+      - question: "Did you hear what your teacher was saying about writing well?"
+        answer: "<latin>AUDĪVISTĪ(S)NE QUID MAGISTER TUUS DĒ</latin> <latin>BENE SCRĪBENDŌ</latin> <latin>DĪCERET?</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Sīve voluistī</latin> <latin>sīve nōn, hoc facere dēbuistī</latin>"
+      answer: "WHETHER YOU WANTED TO OR NOT, YOU SHOULD HAVE DONE THIS"
+    boni:
+      - question: "<latin>Nisi huic mīlitī</latin> <latin>parcēs, odiō</latin> <latin>eris hostibus</latin>."
+        answer: "UNLESS YOU (WILL) SPARE THIS SOLDIER, YOU WILL BE HATED BY THE ENEMY / YOU WILL BE A SOURCE OF HATRED TO THE ENEMY"
+      - question: "<latin>Sī</latin> <latin>contrā</latin> <latin>rem pūblicam cōniūrāvēre, dignī</latin> <latin>sunt quī</latin> <latin>caedantur</latin>."
+        answer: "IF THEY HAVE PLOTTED AGAINST THE REPUBLIC, THEY ARE WORTHY TO BE KILLED / THEY DESERVE TO BE KILLED / THEY ARE WORTHY OF BEING KILLED"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum. Pareō, placeō, faveō. Cui cāsuī</latin> <latin>serviunt?</latin>"
+      answer: "<latin>(CĀSUĪ) DATĪVŌ</latin>"
+    boni:
+      - question: "<latin>Dā</latin> <latin>exemplum verbī</latin> <latin>dēfectīvī</latin> <latin>quod significat “dīcō”?</latin> "
+        answer: "<latin>AIŌ, INQUAM, FŌR</latin> "
+      - question: "<latin>Quot sunt tempora participiōrum?</latin>"
+        answer: "<latin>TRIA</latin> "
+  - tossup:
+      question: "Name two of the Argonauts who were sent to find Heracles after getting news of their former comrade from the Hesperides."
+      answer: "ZETES, CALAIS, EUPHEMUS, LYNCEUS, CANTHUS"
+    boni:
+      - question: "Which of the five did NOT return safely to the Argonauts?"
+        answer: "CANTHUS"
+      - question: "Canthus joined the others because he wanted to find news of his old friend who was left behind with Heracles in Mysia. Who was this old friend of Canthus?"
+        answer: "POLYPHEMUS"
+  - tossup:
+      question: "<latin>“Lūcius Catilīna nōbilī</latin> <latin>genere nātus”</latin> are the words that can be found in what author’s historical monograph?"
+      answer: "(C.) SALLUST(IUS CRISPUS)"
+    boni:
+      - question: "Under whom did Sallust serve in Africa in 48 BC?"
+        answer: "JULIUS CAESAR"
+      - question: "Caesar appointed Sallust to what position, which he used to his advantage in researching his <title><latin>Bellum Iugurthinum</latin></title>?"
+        answer: "GOVERNOR OF NUMIDIA / AFRICA NOVA"
+  - tossup:
+      question: "Who was the leader of the Epigoni?"
+      answer: "ALCMAEON"
+    boni:
+      - question: "At whose urging did Alcmaeon reluctantly accept the leadership of the Epigoni?"
+        answer: "ERIPHYLE"
+      - question: "Who bribed Eriphyle so that she would persuade Alcmaeon to lead the Epigoni?"
+        answer: "THERSANDER / THERSANDRUS"
+  - tossup:
+      question: "Differentiate in meaning between the verbs <latin>torpeō</latin> and <latin>torreō</latin>."
+      answer: "<latin>TORPEŌ</latin> - BE DULL, LIFELESS, LISTLESS <latin>TORREŌ</latin> - ROAST, BURN, SCORCH"
+    boni:
+      - question: "Differentiate in meaning among the verbs <latin>sileō</latin>, <latin>soleō</latin>, and <latin>solvō</latin>."
+        answer: "<latin>SILEŌ</latin> - BE SILENT <latin>SOLEŌ</latin> - BE ACCUSTOMED TO, BE USED TO <latin>SOLVŌ</latin> - LOOSEN, RELEASE"
+      - question: "Differentiate in meaning between the verbs <latin>dīmicō</latin> and <latin>dīruō</latin>."
+        answer: "<latin>DĪMICŌ</latin> - FIGHT, CONTEND <latin>DĪRUŌ</latin> - DESTROY, DEMOLISH"
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Sabīnīs et Titō</latin> <latin>Tatiō</latin> <latin>arcem Rōmānam obsidentibus, ego extrā</latin> <latin>moenia ad aquam petendam īvī. Sabīnī</latin> <latin>mē</latin> <latin>invēnērunt et, ānulīs et armillīs prōmissīs, mē</latin> <latin>scūtīs necāvērunt.</latin> "
+      answer: "<latin>TARPEIA</latin> / TARPEIA"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Semper ūsus sum grātiā</latin> <latin>imperātōris Augustī</latin> <latin>ut prodessem omnibus. Nam fertur mē</latin> <latin>ōlim Augustō</latin> <latin>dīxisse “Surge tandem, carnifex!” Patrōnus Horātiī</latin> <latin>et Vergiliī</latin> <latin>fuī.</latin>  "
+        answer: "<latin>MAECĒNĀS</latin> / MAECENAS"
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Gāius Marius Gaetūlōs et mē</latin> <latin>aggressus fūdit. Bellō</latin> <latin>dēfessus, lēgātōs ad Marium mīsī</latin> <latin>pācem petītum. Iugurtham trādendō</latin> <latin>mē</latin> <latin>servāvī.</latin>"
+        answer: "<latin>BOCCHUS</latin> / BOCCHUS"
+  - tossup:
+      question: "What son of Antion and Perimela was punished in the Underworld because he tried to seduce Hera?"
+      answer: "IXION"
+    boni:
+      - question: "Who was the wife of Ixion?"
+        answer: "DIA"
+      - question: "Whom did Ixion kill, thus making him the first mortal to commit murder of a kin?"
+        answer: "(HIS FATHER-IN-LAW) EIONEUS"
+  - tossup:
+      question: "Listen to the following short poem which concerns the daily grooming habits of a woman named Sertoria and answer IN ENGLISH the question that follows. I will read this twice, and as prose. <latin>Cum crētam sūmit, faciem Sertōria sūmit.</latin>  <latin>Perdidit ut crētam, perdidit et faciem.</latin>  Question: What does Sertoria use for makeup?"
+      answer: "CHALK/POWDER"
+    boni:
+      - question: "What does the author say happens as Sertoria put on the chalk?"
+        answer: "SHE PUTS HER FACE ON"
+      - question: "What two acts of destruction does the poet describe?"
+        answer: "THE REMOVAL/DESTRUCTION OF THE MAKEUP AND OF SERTORIA’S FACE"
+  - tossup:
+      question: "Say in Latin, “I am desirous of learning.”"
+      answer: "<latin>SUM CUPIDUS / STUDIŌSUS DISCENDĪ</latin> <latin>/ NOSCENDĪ</latin>"
+    boni:
+      - question: "Say in Latin, “For the sake of complaining."
+        answer: "<latin>QUERENDĪ</latin> <latin>CAUSĀ</latin> <latin>/ GRĀTIĀ</latin>"
+      - question: "Say in Latin, “Suitable for building roads.”"
+        answer: "<latin>APTUS / IDONEUS VIĪS MŪNIENDĪS / AD VIĀS MŪNIENDĀS /</latin>  <latin>APTUS / IDONEUS VIĀS MŪNIENDŌ</latin> <latin>/ AD VIĀS MŪNIENDUM</latin>  <latin>(+ other alternate verbs meaning “build.”)</latin> "
+  - tossup:
+      question: "What is the Latin term for the military prize which, according to ancient Roman coins, was awarded, “<latin>ob cīvīs servātōs</latin>”?"
+      answer: "<latin>CORŌNA CĪVICA</latin> "
+    boni:
+      - question: "What is the Latin term for the military prize worn by a general who was on his way to offer a “<latin>supplicātiō</latin> <latin>in Capitōliō</latin> <latin>Iovī</latin> <latin>Optimō</latin> <latin>Maximō</latin>”?"
+        answer: "<latin>CORŌNA TRIUMPHĀLIS</latin> "
+      - question: "What is the Latin term for the military prize awarded to the soldier who had been “<latin>prīmus in castra hostium</latin>”?"
+        answer: "<latin>CORŌNA VALLĀRIS</latin> (NOT the <latin>corōna mūrālis</latin>, which was awarded to the first soldier over the wall of a town, or <latin>mūrus</latin>)"
+  - tossup:
+      question: "What later Latin author wrote a compendium of Roman history in ten books from the foundation of Rome to the death of the Emperor Jovian?"
+      answer: "EUTROPIUS"
+    boni:
+      - question: "What was the Latin title of this compendium?"
+        answer: "<title><latin>BREVIĀRIUM AB URBE CONDITĀ</latin></title>"
+      - question: "What emperor commissioned Eutropius to write this compendium because he found himself unable to read the detailed works of Livy and the other historians?"
+        answer: "VALENS"

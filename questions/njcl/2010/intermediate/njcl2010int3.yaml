@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Of the following prepositions, which, if any, can be followed by either accusative or ablative objects: <latin>ob</latin>, <latin>dē</latin>, <latin>extrā</latin>, <latin>subter</latin>, <latin>apud</latin>?"
+      answer: "<latin>SUBTER</latin>"
+    boni:
+      - question: "Which of the following phrases, if any, cannot be synonymous to <latin>apud mē</latin>: <latin>mēcum</latin>, <latin>domī meae</latin>, <latin>ex scrīptīs meīs</latin>, <latin>propter mē</latin>?"
+        answer: "<latin>PROPTER MĒ</latin>"
+      - question: "What does it mean if an event occurs <latin>ob oculōs</latin>?"
+        answer: "HAPPENS IN FRONT OF / BEFORE ONE’S EYES / UNDER ONE’S NOSE / IN PERSON"
+  - tossup:
+      question: "What two cities were sacked in the year 146 B.C.?"
+      answer: "CARTHAGE AND CORINTH"
+    boni:
+      - question: "What city was sacked in 133 B.C.?"
+        answer: "NUMANTIA"
+      - question: "Who was responsible for the fall of two of those cities?"
+        answer: "(PUBLIUS CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS MINOR / NUMANTINUS"
+  - tossup:
+      question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in the following Latin sentence: <latin>Pecūniā amissā aut parente mortuō, hoc sentīs</latin>?"
+      answer: "<latin>DOLOR</latin>"
+    boni:
+      - question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Antīquīs temporibus, sī nimium aeris aliēnī dēbēs, in hoc trāderis</latin>"
+        answer: "SERVITŪS"
+      - question: "Of the words <latin>colloquium</latin>, <latin>servitūs</latin>, <latin>factiō</latin>, <latin>cornū</latin>, and <latin>dolor</latin>, which is being described in this sentence: <latin>Hoc est pars vel exercitūs vel animālis</latin>?"
+        answer: "<latin>CORNŪ</latin>"
+  - tossup:
+      question: "Who am I? Because I lay with Nephele, a cloud doppelgänger of Hera, Zeus punished me for presuming to sleep with a goddess"
+      answer: "IXION"
+    boni:
+      - question: "Who am I? I tried to rape Leto. That did not go well for me. Now I'm stretched over 9 acres and have birds eating me"
+        answer: "TITYUS"
+      - question: "Who am I? I refused to kill my husband. Now all my sisters are carrying water in leaky jugs while I can rest easy"
+        answer: "HYPERMNESTRA"
+  - tossup:
+      question: "Give the Latin verb and its English meaning at the root of the word “cloister” and “enclosure.”"
+      answer: "<latin>CLAUDŌ</latin> – CLOSE"
+    boni:
+      - question: "Give the Latin noun and its English meaning at the root of the word “collar.”"
+        answer: "<latin>COLLUM</latin> – NECK"
+      - question: "Give the Latin verb and its English meaning at the ultimate root of the word “conceal.”"
+        answer: "CĒLŌ - HIDE"
+  - tossup:
+      question: "Where did Theseus grow up with his mother and maternal grandfather?"
+      answer: "TRO(E)ZEN"
+    boni:
+      - question: "Who was his mother, who put his paternity in doubt by sleeping with a man and a god on the same night?"
+        answer: "AETHRA"
+      - question: "Name Aethra’s father, the king of Troezen who understood the oracle’s warning that Aegeus not “loosen his wineskin” until he reached Athens"
+        answer: "PITTHEUS"
+  - tossup:
+      question: "What is the case and use of “<latin>nāvēs</latin>” in the following sentence? <latin>Caesar certior factus est nāvēs longās aedificārī.</latin>"
+      answer: "ACCUSATIVE, SUBJECT IN INDIRECT STATEMENT / DISCOURSE"
+    boni:
+      - question: "You are looking at a passage from Book 3 of Caesar’s <title>Commentaries on the Gallic Wars</title>. Knowing that <latin>rēmex</latin> means “rower,” if the infinitive <latin>īnstituī</latin> in the third line were changed to the future tense, give the exact form needed for a grammatically correct sentence."
+        answer: "<latin>ĪNSTITŪTŪRŌS ESSE</latin>"
+      - question: "According to the underlined portion of the last sentence of the passage, when specifically was Caesar able to hurry to his army?"
+        answer: "AS SOON AS HE WAS ABLE BASED ON THE TIME OF YEAR / THE WEATHER (prompt for more information on “as soon as possible”)"
+  - tossup:
+      question: "Who in 65 A.D. was the figurehead of an allegedly massive conspiracy against Nero?"
+      answer: "(GAIUS CALPURNIUS) PISO"
+    boni:
+      - question: "Who led a rebellion in Britain against Roman power, also during the reign of Nero?"
+        answer: "BOUDICCA"
+      - question: "What future emperor did Nero dispatch to quell the Jewish revolt in Judaea in 67 A.D.?"
+        answer: "(TITUS FLAVIUS) VESPASIAN(US)"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē: Quī rēx Trōiānus duōs deōs offendit</latin>?"
+      answer: "LAOMEDON / <latin>LAŌMEDON</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē</latin>: <latin>Quid Neptūnus Apollōque Trōiae aedificāvērunt</latin>?"
+        answer: "<latin>MOENIA / MŪRŌS</latin>"
+      - question: "<latin>Respondē Anglicē</latin>: <latin>Quid mīsērunt Neptūnus Apollōque propter Laōmedontis contumēliam</latin>?"
+        answer: "A SEA-MONSTER"
+  - tossup:
+      question: "What two-word Latin phrase is used to describe the characters or cast of a play or theatrical event?"
+      answer: "<latin>DRAMATIS PERSŌNAE</latin>"
+    boni:
+      - question: "What Latin phrase also used in the theater describes the unlikely and sudden solution to a seemingly irresolvable problem?"
+        answer: "<latin>DEUS EX MACHINĀ</latin>"
+      - question: "Give the three-word Latin phrase that describes the literary convention of starting a narrative at the midpoint of the story rather than at the beginning"
+        answer: "<latin>IN MEDIĀS RĒS</latin>"
+  - tossup:
+      question: "Which one of the following words is derived from the Latin word <latin>ops</latin>, meaning “aid” or “wealth”: adopt, copious, cooperate, orbit?"
+      answer: "<latin>COPIOUS</latin>"
+    boni:
+      - question: "Each of the other three words in the tossup is derived from a Latin noun or verb. Give the Latin word and meaning at the root of one of those other three words – adopt, cooperate, orbit"
+        answer: "(SEE ANSWERS BELOW)"
+      - question: "Give the Latin word and meaning at the root of another of the three words in the tossup"
+        answer: "ADOPT from <latin>OPTŌ –</latin> TO CHOOSE COOPERATE from <latin>OPUS –</latin> TASK<latin>;</latin> WORK ORBIT from <latin>ORBIS -</latin> CIRCLE"
+  - tossup:
+      question: "What Roman province in Africa was created by the emperor Claudius?"
+      answer: "MAURETANIA"
+    boni:
+      - question: "What province did Claudius create in the Balkans?"
+        answer: "<latin>THRĀCA / THRACIA</latin> / <latin>THRACĒ</latin> / THRACE"
+      - question: "What general led Claudius' invasion of Britain and became the first governor of the new province?"
+        answer: "AULUS PLAUTIUS"
+  - tossup:
+      question: "Give the singular present imperative for the deponent Latin verb meaning “to step.”"
+      answer: "<latin>GRADERE</latin>"
+    boni:
+      - question: "Make <latin>gradere</latin> plural"
+        answer: "<latin>GRADIMINĪ</latin>"
+      - question: "What does <latin>gradiminī</latin> mean when it is indicative?"
+        answer: "YOU (ALL) / Y’ALL / YOUSE-ALL STEP/WALK/GO"
+  - tossup:
+      question: "What goddess stopped Zetes and Calais from butchering her sisters the Harpies?"
+      answer: "IRIS"
+    boni:
+      - question: "What wind was the father of Zetes and Calais?"
+        answer: "BOREAS"
+      - question: "Who were the two gods who usually sent Iris on her missions?"
+        answer: "ZEUS & HERA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Ovidius, poēta praeclārissimus, in urbe Sulmōne habitāvit. Ūnum frātrem habuit nātū minōrem. Ille et frāter ā patre Rōmam missī sunt quī lēgibus atque ēloquentiae studērent.</latin>  Question: Who were sent to Rome?"
+      answer: "(A VERY FAMOUS) POET/OVID & (HIS) BROTHER"
+    boni:
+      - question: "Why were Ovid and his brother sent to Rome?"
+        answer: "TO STUDY LAW(S) <emphasis>AND</emphasis> ELOQUENCE/ORATORY/ RHETORIC/PUBLIC SPEAKING"
+      - question: "Name two uses of the ablative case found in this passage"
+        answer: "PLACE WHERE, SPECIFICATION/RESPECT, AGENCY"
+  - tossup:
+      question: "Of Crassus, Caesar, Pompey, Sulla, and Scipio, which would have abbreviated his <latin>praenōmen</latin> Cn.?"
+      answer: "POMPEY"
+    boni:
+      - question: "What three-word Latin phrase, synonymous with <latin>agnōmen</latin>, refers to such nicknames as <latin>Africānus</latin> and <latin>Germānicus</latin>?"
+        answer: "<latin>COGNŌMEN EX VIRTŪTE</latin>"
+      - question: "The early members of what patrician <latin>gēns</latin> claiming divine ancestry were the exclusive holders of the unusual praenomen Vopiscus?"
+        answer: "JULIAN / <latin>IULIUS</latin> / <latin>(GĒNS) IŪLIA</latin>"
+  - tossup:
+      question: "Give the deponent Latin verb meaning “to rise.”"
+      answer: "(<latin>EX/AB</latin>/<latin>CO</latin>/<latin>AD</latin>)<latin>ORIOR</latin>"
+    boni:
+      - question: "Give the deponent Latin verb meaning “to be angry.”"
+        answer: "<latin>ĪRĀSCOR</latin>"
+      - question: "Give the deponent Latin verb meaning “to reckon, judge, deem.”"
+        answer: "<latin>ARBITROR/REOR</latin>"
+  - tossup:
+      question: "Who was the grandfather of the two Lycian chieftains at Troy and the grandson of Sisyphus?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "Who were the two Lycian chieftains descended from Bellerophon?"
+        answer: "SARPEDON & GLAUCUS"
+      - question: "When Diomedes met Glaucus on the battlefield, they realized that they should not fight each other because Glaucus' grandfather, Bellerophon, had stayed at the house of Diomedes' grandfather. Which king of Calydon was this grandfather of Diomedes?"
+        answer: "OENEUS"
+  - tossup:
+      question: "Say in Latin, “He said that the messenger had been sent by the queen.”"
+      answer: "<latin>DĪXIT NŪNTIUM Ā RĒGĪNĀ MISSUM ESSE</latin>"
+    boni:
+      - question: "Say in Latin, “The queen announces that the king will send a messenger.”"
+        answer: "<latin>RĒGĪNA (Ē)NŪNTIAT RĒGEM NŪNTIUM MISSŪRUM ESSE</latin>"
+      - question: "Finally, say in Latin, “The messenger thinks that he is being deceived.”"
+        answer: "<latin>NŪNTIUS PUTAT SĒ/EUM/HUNC/ILLUM FALLĪ</latin>"
+  - tossup:
+      question: "What barbarian chieftain killed his brother Bleda and began raiding the Eastern Roman Empire until Honoria offered him her hand in marriage?"
+      answer: "ATTILA (THE HUN)"
+    boni:
+      - question: "Attila's first attempt to invade Italy was frustrated at the battle of the Catalaunian Fields by what Roman general?"
+        answer: "(FLAVIUS) AETIUS"
+      - question: "After the death of Aetius, Attila invaded again. How was he thwarted from seizing Rome as Alaric had done before him?"
+        answer: "THE POPE (LEO I) TALKED HIM OUT OF IT  <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

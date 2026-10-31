@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What is the Latin motto of Wake Forest University, which translates to “for humanity”?"
+      answer: "<latin>PRŌ HŪMĀNITĀTE</latin> "
+    boni:
+      - question: "What Texas college has as its motto “<latin>Prō ecclēsiā, prō Texānā</latin>”?"
+        answer: "BAYLOR UNIVERSITY"
+      - question: "What medical abbreviation also beginning with the word <latin>prō</latin> is abbreviated <latin>p.r.n. (p- period-r-period-n-period)</latin>?"
+        answer: "<latin>PRŌ RĒ NĀTĀ</latin>"
+  - tossup:
+      question: "According to Homer, what island people had ships that steered themselves and often gave complete strangers passage, which angered Poseidon in the case of Odysseus?"
+      answer: "PHAEACIANS / SCHERIANS"
+    boni:
+      - question: "Who was the hospitable king of the Phaeacians?"
+        answer: "ALCINOUS"
+      - question: "Who was Alcinous’ wise wife?"
+        answer: "ARETE"
+  - tossup:
+      question: "For the Latin verb <latin>doceō</latin>, give the 1st person singular, perfect active subjunctive"
+      answer: "<latin>DOCUERIM</latin>"
+    boni:
+      - question: "Make <latin>docuerim</latin> plural and passive"
+        answer: "<latin>DOCTĪ (-AE, -A) SĪMUS</latin>"
+      - question: "Make <latin>doctī sīmus</latin> pluperfect and active"
+        answer: "<latin>DOCUISSĒMUS</latin>"
+  - tossup:
+      question: "Who, along with Diocletian, abdicated the imperial crown in 305 AD?"
+      answer: "(M. AURELIUS VALERIUS) MAXIMIAN(US)"
+    boni:
+      - question: "Who replaced Maximian as Augustus in the West?"
+        answer: "(FLAVIUS VALERIUS) CONSTANTIUS I / CHLORUS"
+      - question: "Who was Maximian's son who defied the tetrarchs to declare himself <latin>prīnceps</latin> in Rome?"
+        answer: "(M. AURELIUS VALERIUS) MAXENTIUS"
+  - tossup:
+      question: "Using the Latin verb <latin>dēbeō</latin>, say in Latin: Cicero ought not to praise that gladiator"
+      answer: "<latin>CICERŌ ILLUM (ISTUM / EUM) GLADIĀTŌREM LAUDĀRE NŌN DĒBET</latin> "
+    boni:
+      - question: "Now use a passive periphrastic to translate the same sentence into Latin"
+        answer: "<latin>ILLE (ISTE / IS) GLADIĀTOR CICERŌNĪ NŌN</latin> LAUDANDUS EST "
+      - question: "“Cicero ought to depart from Rome.” "
+        answer: "<latin>CICERŌ RŌMĀ DISCĒDERE DĒBET / RŌMĀ CICERŌNĪ DISCĒDENDUM EST (EXCĒDENDUM, ETC.)</latin> "
+  - tossup:
+      question: "What warrior, originally named Ligyron and for a short time called Pyrrha, came to be known as the greatest Greek warrior at Troy?"
+      answer: "ACHILLES"
+    boni:
+      - question: "In what king’s court was the young Achilles made to dress as a girl and answer to the name Pyrrha?"
+        answer: "LYCOMEDES’"
+      - question: "Because of this name, Achilles named the son he had with one of Lycomedes’ daughters Pyrrhus. Who was Pyrrhus’ mother?"
+        answer: "DEIDAMEIA"
+  - tossup:
+      question: "Whose reign saw an attempted conspiracy involving Faenius Rufus, Lucan, and Seneca, which was discovered in 65 AD?"
+      answer: "NERO’S"
+    boni:
+      - question: "Who was meant to be emperor as a result of this conspiracy?"
+        answer: "(GAIUS CALPURNIUS) PISO"
+      - question: "Who replaced Faenius Rufus as praetorian prefect?"
+        answer: "(GAIUS) NYMPHIDIUS / SABINUS"
+  - tossup:
+      question: "What Latin verb with what meaning is at the root of “deciduous” and “cascade”? "
+      answer: "<latin>CADŌ</latin> / <latin>CADERE</latin>, FALL"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of “obsequious” and “sect”? "
+        answer: "SEQUOR / <latin>SEQUĪ</latin>, FOLLOW"
+      - question: "What Latin verb with what meaning is at the root of “obtuse” and “contusion”? "
+        answer: "<latin>TUNDŌ</latin> / <latin>TUNDERE</latin>, BEAT"
+  - tossup:
+      question: "Translate the following sentence: <latin>Multī Graecī nescīvērunt cūr Mēdēa Iāsōnem adiuvāret</latin>"
+      answer: "MANY GREEKS DID NOT KNOW WHY MEDEA HELPED / WAS HELPING JASON"
+    boni:
+      - question: "Translate the <latin>cum</latin>-clause in this sentence into English: <latin>Cum Mēdēa Iāsōnem vehementer amāret, Iāsōn tamen barbaram fēminam amāre nōn potuit</latin>"
+        answer: "ALTHOUGH MEDEA LOVED JASON GREATLY / EXCEEDINGLY / FORCEFULLY, ETC."
+      - question: "Translate the independent clause of that same sentence: <latin>Cum Mēdēa Iāsōnem vehementer amāret, Iāsōn tamen barbaram fēminam amāre nōn potuit</latin>"
+        answer: "NEVERTHELESS / STILL, JASON COULD NOT / WAS NOT ABLE TO LOVE A FOREIGN WOMAN"
+  - tossup:
+      question: "What man in mythology was the grandson of Perseus and Pelops and the king of two realms, although he inherited the throne only because Hera caused him to be born before Heracles?"
+      answer: "EURYSTHEUS"
+    boni:
+      - question: "Of what two cities was Eurystheus king?"
+        answer: "TIRYNS & MYCENAE"
+      - question: "What mother of Heracles is said to have either ordered Eurystheus’ execution or gouged his eyes from his severed head?"
+        answer: "ALCMENE"
+  - tossup:
+      question: "What English noun, derived from a deponent Latin verb meaning “speak,” means “the act of speaking one’s thoughts while alone”?"
+      answer: "SOLILOQUY"
+    boni:
+      - question: "What English adjective, derived from a deponent Latin verb meaning “slip,” means “to fall or slip back into a former state or practice”?"
+        answer: "RELAPSE"
+      - question: "What English noun, derived from a deponent Latin verb meaning “speak,” means “a baby too young to speak”?"
+        answer: "INFANT"
+  - tossup:
+      question: "On most large farms in the late republic and empire, day-to-day activities were managed not by the master but by an overseer slave. What term is given to this slave?"
+      answer: "<latin>VĪLICUS</latin>"
+    boni:
+      - question: "What was the task of the <latin>lōrārius</latin>?"
+        answer: "WHIPPER / PUNISHMENT (OF SLAVES) / HARNESS-MAKER"
+      - question: "What Latin term was given to a slave who ran away?"
+        answer: "<latin>FUGITĪVUS</latin>"
+  - tossup:
+      question: "In what three tenses do infinitives and participles exist?"
+      answer: "PRESENT, FUTURE, PERFECT"
+    boni:
+      - question: "Please give the Latin sentence listed as Bonus 1 in correct Latin using indirect discourse and translate it."
+        answer: "<latin>DĪCIT LABŌREM</latin> DIFFICILEM ESSE – HE/SHE SAYS THAT THE WORK IS DIFFICULT"
+      - question: "Please give the Latin sentence listed as Bonus 2 in correct Latin using indirect discourse and translate it"
+        answer: "<latin>DĪXIT MĪLITĒS QUĪ MISSĪ ESSENT ĪVISSE</latin> – HE/SHE SAID THAT THE SOLDIERS WHO HAD BEEN SENT HAD GONE"
+  - tossup:
+      question: "Who was the eldest daughter of Danaus, the only one among the fifty sisters who did not kill her husband on her wedding night?"
+      answer: "HYPERMNESTRA"
+    boni:
+      - question: "Who was this husband whom Hypermnestra spared?"
+        answer: "LYNCEUS"
+      - question: "What brother of Danaus was the father of Lynceus?"
+        answer: "AEGYPTUS"
+  - tossup:
+      question: "According to the passage, what were the boys’ fathers doing when these events happened?"
+      answer: "(BRAVELY) WAGING WAR WITH THE ENEMY (prompt on “fighting”)"
+    boni:
+      - question: "What did the commander of the enemy do with the boys?"
+        answer: "HE SENT THEM BACK HOME"
+      - question: "For what alleged purpose had the teacher taken the boys out to the fields?"
+        answer: "TO PLAY (FOR MANY HOURS)"
+  - tossup:
+      question: "What son of Celtillus and chieftain of the Arverni united many Gallic tribes against Caesar until besieged and defeated at Alesia in 52 BC?"
+      answer: "VERCINGETORIX"
+    boni:
+      - question: "What Helvetian chieftain convinced his tribe to burn their homes and migrate west, but did not survive to see his plan come to fruition?"
+        answer: "ORGETORIX"
+      - question: "What chief of the Eburones duped the Caesarian leaders Sabinus and Cotta into leading their troops into an ambush that resulted in the death of most of the Romans?"
+        answer: "AMBIORIX"
+  - tossup:
+      question: "Identify the use of the subjunctive illustrated by the following Latin sentence: <latin>Magister discipulōs rogāvit ut librōs aperīrent</latin>"
+      answer: "INDIRECT COMMAND / JUSSIVE NOUN CLAUSE / SUBSTANTIVE CLAUSE OF PURPOSE"
+    boni:
+      - question: "Translate that sentence: <latin>Magister discipulōs rogāvit ut librōs aperīrent</latin>"
+        answer: "THE TEACHER ASKED THE STUDENTS TO OPEN THEIR BOOKS"
+      - question: "What use of the subjunctive is found in this sentence: <latin>Magister nōs rogāvit quid legerēmus</latin>?"
+        answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "What is the ancient name for the French capital, Paris?"
+      answer: "<latin>LUTETIA</latin>"
+    boni:
+      - question: "What is the ancient name for the Austrian capital, Vienna?"
+        answer: "<latin>VINDOBONA</latin>"
+      - question: "What is the ancient name for the Hungarian capital, Budapest?"
+        answer: "<latin>AQUINCUM</latin>"
+  - tossup:
+      question: "Surrounded by a bronze fence and iron gates, this place was so deep that an anvil would have to fall for nine days to reach it. It was as far below the earth as heaven is above it; it was the prison of Cronus and the other Titans. Name this region of the Underworld reserved for eternal punishment"
+      answer: "TARTARUS (prompt on “Underworld”)"
+    boni:
+      - question: "What two monsters were the children of Tartarus and Ge?"
+        answer: "TYPHON / TYPHOEUS & ECHIDNA"
+      - question: "According to Hesiod, Tartarus and Ge arose from Chaos with what third deity?"
+        answer: "EROS"
+  - tossup:
+      question: "What is the meaning of <latin>nuptiae</latin>?"
+      answer: "MARRIAGE / WEDDING / NUPTIALS"
+    boni:
+      - question: "What is the meaning of the adverb <latin>nūper</latin>?"
+        answer: "RECENTLY / NOT LONG AGO"
+      - question: "What is the meaning of <latin>nundīnae</latin>?"
+        answer: "MARKET DAYS / MARKETPLACE / BUSINESS <latin>2012 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

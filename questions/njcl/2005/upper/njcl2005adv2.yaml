@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Whose witty and rather cynical discussion of promiscuity, rather than of love, incurred the displeasure of the emperor Augustus?"
+      answer: "(P.) OVID(IUS NASO)"
+    boni:
+      - question: "How did the publication of Ovid’s <title><latin>Ars Amātōria</latin></title> go against Augustus’ political agenda?"
+        answer: "AUGUSTUS WAS TRYING TO <emphasis>REFORM SOCIAL MORALS /</emphasis> ENCOURAGE MARRIAGE& OVID’S WRITINGS WENT AGAINST WHAT HE WAS TRYING TO DO"
+      - question: "What punishment did Augustus dole out to Ovid?"
+        answer: "BANISHMENT FROM ROME (TO TOMI)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Lūcius spērat fore ut dīvitiīs abundet</latin>."
+      answer: "LUCIUS HOPES THAT HE WILL ABOUND IN RICHES"
+    boni:
+      - question: "<latin>Tam procul ab urbe habitābat ut eum nē</latin> <latin>māter quidem vīsitāret</latin> "
+        answer: "HE LIVED / WAS LIVING SO FAR FROM THE CITY THAT NOT EVEN HIS MOTHER VISITED HIM / COULD VISIT HIM / WOULD VISIT HIM"
+      - question: "<latin>Hī</latin> <latin>rūsticī</latin> <latin>erant dīvitēs et pecore et pecūniā</latin>."
+        answer: "THESE COUNTRY FOLKS WERE RICH BOTH IN LIVESTOCK AND IN MONEY"
+  - tossup:
+      question: "Into what was Leucothoe, the daughter of Orchamus, transformed?"
+      answer: "FRANKINCENSE"
+    boni:
+      - question: "Into what was Dryope, the wife of Andraemon, transformed?"
+        answer: "LOTUS (TREE)"
+      - question: "Into what was Philyra transformed after she gave birth to the centaur Cheiron?"
+        answer: "LIME (TREE)"
+  - tossup:
+      question: "What event did Heracles supposedly establish on the banks of the Alpheus River in honor of Zeus?"
+      answer: "THE OLYMPIC GAMES"
+    boni:
+      - question: "Name one of the gifts that Heracles received for winning all the contests at the first Olympic Games <emphasis>and</emphasis> the deity who gave it to him."
+        answer: "ROBE - ATHENA ; WAR CLUB & COAT OF MAIL - HEPHAESTUS ; HORSES - POSEIDON ; SWORD - HERMES ; BOW & ARROWS - APOLLO"
+      - question: "Name another set."
+        answer: "ROBE - ATHENA ; WAR CLUB & COAT OF MAIL - HEPHAESTUS ; HORSES - POSEIDON ; SWORD - HERMES ; BOW & ARROWS - APOLLO"
+  - tossup:
+      question: "Listen carefully to the following modified excerpt from classical Latin literature, which I will read twice. Answer IN ENGLISH the question that follows: <latin>Claudius morī</latin> <latin>coepit nec invenīre exitum poterat. Tum deus Mercurius, quī</latin> <latin>semper ingeniō</latin> <latin>Claudiī</latin> <latin>dēlectātus esset, ūnam ē</latin> <latin>tribus Fātīs sēdūcit et ait: “Cūr, fēmina crūdēlissima, hunc hominem miserum torquērī</latin> <latin>pateris? Cūr huic hominī</latin> <latin>et reī</latin> <latin>pūblicae invidēs?”</latin>  Question: To whom is Mercury speaking?"
+      answer: "TO A FATE / TO ONE OF THE THREE FATES (If student answers with “a woman,” or “very cruel woman,” ask them to be more specific)"
+    boni:
+      - question: "What two rhetorical questions does Mercury ask the Fate?"
+        answer: "WHY SHE IS ALLOWING CLAUDIUS / A WRETCHED MAN TO SUFFER and WHY SHE HATES / ENVIES CLAUDIUS / THIS MAN AND THE REPUBLIC"
+      - question: "Using your knowledge of Latin literature, name the author of this satirical work."
+        answer: "(LUCIUS ANNAEUS) SENECA MINOR / THE YOUNGER"
+  - tossup:
+      question: "Who, in an attempt to show the basics of the literature of Greece to the children of Livius Salinator, translated Homer’s <title>Odyssey</title> into Latin?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "What meter did Andronicus employ in his translation of Homer?"
+        answer: "SATURNIAN"
+      - question: "Livius Andronicus also wrote plays. Give the Latin title for one of his comedies?"
+        answer: "GLADIOLUS / LUDIUS / VIRGUS"
+  - tossup:
+      question: "What ancent Roman structure once occupied the site of what is now the Piazza Navona in the Campus Martius?"
+      answer: "THE STADIUM OF DOMITIAN / <latin>STADIUM DOMITIĀNĪ</latin> <latin>/ CIRCUS AGŌNĀLIS</latin> "
+    boni:
+      - question: "What other entertainment structure did Domitian build just south of his stadium?"
+        answer: "<latin>ODEUM</latin> / ODEON"
+      - question: "Whose baths were just east of Domitian’s stadium?"
+        answer: "NERO’S"
+  - tossup:
+      question: "For the verb <latin>moror</latin>, give all the infinitive forms."
+      answer: "<latin>MORĀRĪ, MORĀTUS / -A / -UM ESSE, MORĀTŪRUS / -A / -UM ESSE</latin> "
+    boni:
+      - question: "Give all the infinitive forms of the verb <latin>nōlō</latin>."
+        answer: "<latin>NOLLE</latin>, <latin>NŌLUISSE</latin> "
+      - question: "Give all six infinitive forms for the verb <latin>auferō</latin>."
+        answer: "<latin>AUFERRE, AUFERRĪ, ABSTULISSE, ABLĀTUS /-A /-UM ESSE,</latin>   <latin>ABLĀTŪRUS /-A /-UM ESSE, ABLĀTUM ĪRĪ</latin>"
+  - tossup:
+      question: "What Roman commander did the Romans send in 146 B.C. to punish Corinth and the Achaean League for rebellion against Rome?"
+      answer: "(L.) MUMMIUS"
+    boni:
+      - question: "What was the punishment meted out to Corinth?"
+        answer: "DESTROYED / SACKED AND RAZED TO GROUND"
+      - question: "What was the fate of the citizens who were not killed in the fighting?"
+        answer: "SOLD INTO SLAVERY"
+  - tossup:
+      question: "You are a doctor in ancient Rome. A patient complains, “<latin>Adiuvā</latin> <latin>mē</latin> <latin>quod nōn possum exsurgere</latin>.” What is his complaint?"
+      answer: "HE NEEDS HELP BECAUSE <emphasis>HE CAN’T GET UP / STAND UP</emphasis> "
+    boni:
+      - question: "The patient explains, “<latin>Cum mea amīca et ego dē</latin> <latin>aliquā</latin> <latin>rē</latin> <latin>disputārēmus, genū</latin> <latin>meum calcitrāvit.”</latin> What happened?"
+        answer: "HE HAD AN ARGUMENT WITH HIS GIRLFRIEND AND SHE KICKED HIM IN HIS KNEE"
+      - question: "You then tell the patient, “<latin>Melius tibi sit sī</latin> <latin>cum amantibus nōn disputēs</latin>.” What is your advice?"
+        answer: "THAT IT’S BETTER NOT TO ARGUE WITH GIRLFRIENDS / YOUR GIRLFRIEND THAT IT IS BETTER FOR HIM IF HE DIDN’T ARGUE WITH HER / WITH LOVERS"
+  - tossup:
+      question: "What verb mood is found in the motto of Missouri, <latin>Salūs populī</latin> <latin>suprēma lex estō</latin>?”"
+      answer: "(FUTURE) IMPERATIVE"
+    boni:
+      - question: "Change that form of <latin>estō</latin> to the plural."
+        answer: "<latin>SUNTŌ</latin> (<latin>estōte</latin> is NOT correct)"
+      - question: "Change <latin>suntō</latin> to the 2nd person."
+        answer: "<latin>ESTŌTE</latin> "
+  - tossup:
+      question: "In the Republic, what solemn purification ceremony concluded the taking of a census?"
+      answer: "<latin>LUSTRUM / LUSTRĀTIŌ</latin> <latin>/</latin> LUSTRATION"
+    boni:
+      - question: "In what area of Rome was the census conducted?"
+        answer: "CAMPUS MARTIUS"
+      - question: "In what building was the new roll of citizens deposited by the censors after the census?"
+        answer: "<latin>AERARIUM</latin> / TEMPLE OF SATURN"
+  - tossup:
+      question: "Who published a study of the people, geography, and customs of <latin>Germānia</latin> in AD 98?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "Which of Tacitus’ works is one of the finest pieces of biographical literature that has come down to us from antiquity?"
+        answer: "<title><latin>AGRICOLA</latin></title> "
+      - question: "In which of Tacitus’ works did he proclaim that the opening crime of Tiberius’ reign was the murder of Agrippa Postumus?"
+        answer: "<title><latin>ANNĀLĒS</latin></title> "
+  - tossup:
+      question: "What king was awakened one night by two young men quarreling over a couch on the porch of his palace in Argos?"
+      answer: "ADRASTUS"
+    boni:
+      - question: "Who were these two young men?"
+        answer: "POLYN(E)ICES & TYDEUS"
+      - question: "What oracle did Adrastus recall when he saw these two young men fighting?"
+        answer: "THAT HE SHOULD YOKE HIS DAUGHTERS TO A LION AND A BOAR"
+  - tossup:
+      question: "The <title><latin>Lexicon Recentis Latīnitātis</latin></title>, or <title>Dictionary of Modern Latin</title>, lists coffee as “<latin>cafēum</latin>.” What would you be drinking if you ordered “<latin>cafēum lacte mixtum</latin>?”"
+      answer: "COFFEE MIXED WITH MILK / LATTE / CAFFELATTE / CAPPUCINO"
+    boni:
+      - question: "Who would you be if you were listed in the dictionary as a “<latin>Latīnus fēminārum captātor</latin>?”"
+        answer: "LATIN LOVER"
+      - question: "The entry for “cactus” describes it as a “<latin>planta spīnōsa Siciliae pecūliāris</latin>.” Translate that."
+        answer: "A SPINY PLANT PECULIAR TO SICILY"
+  - tossup:
+      question: "What literary device, other than alliteration, can be found in the following lines: <latin>Appellāre, temptāre, sollicitāre poterat, audēbat?</latin>"
+      answer: "ASYNDETON (PLEASE HAND OUT THE VISUAL)"
+    boni:
+      - question: "You now have 15 seconds to examine these lines. (WAIT FOR 15 SECONDS) Which of these contains an example of chiasmus?"
+        answer: "“E”"
+      - question: "Which of these contains an example of hysteron proteron?"
+        answer: "“A”"
+  - tossup:
+      question: "What maiden did the centaurs Rhoecus and Hylaeus try to rape?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What son of Athamas was sometimes said to be the father of Atalanta?"
+        answer: "SCHOENEUS"
+      - question: "According to Euripides, who was the father of Atalanta?"
+        answer: "MAENALUS"
+  - tossup:
+      question: "Who was persuaded by Mucianus, the governor of Syria, to allow himself to be proclaimed emperor on July 1st, A.D. 69?"
+      answer: "(TITUS FLAVIUS) <emphasis>VESPASIAN</emphasis>(US)"
+    boni:
+      - question: "Who commanded the Danubian legions who invaded Italy and defeated Vitellius’ forces on Vespasian’s behalf?"
+        answer: "(ANTONIUS) PRIMUS"
+      - question: "Before Vespasian arrived in Rome to take control, who acted as vice-regent until he was relieved by Mucianus in A.D. 70?"
+        answer: "DOMITIAN (VESPASIAN’S SON) / (T.) FLAVIUS DOMITIANUS"
+  - tossup:
+      question: "Translate the following sentence into Latin using a cum-clause: Although he knew this, nevertheless he sent messengers."
+      answer: "<latin>CUM HOC SCĪRET, TAMEN NŪNTIŌS MĪSIT</latin> "
+    boni:
+      - question: "Translate the following sentence into Latin using a cum-clause: Since the soldiers have been killed, they are very sad."
+        answer: "<latin>CUM MĪLITĒS NECĀTĪ</latin> <latin>/ INTERFECTĪ</latin> <latin>SINT,</latin>   <latin>INFĒLĪCISSIMĪ</latin> <latin>/ MISERRIMĪ</latin> <latin>/ INFĒLĪCISSIMĪ</latin> <latin>SUNT</latin> "
+      - question: "Translate the following sentence into Latin using a cum-clause: When the army was sleeping, the camp had to be defended."
+        answer: "<latin>CUM EXERCITUS DORMĪRET / DORMIĒBAT,</latin>   <latin>CASTRA DĒFENDENDA ERANT</latin> "
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “plight,” “pleat,’ “appliance,” and “implicate.”"
+      answer: "<latin>PLICŌ, PLICĀRE</latin> - FOLD, BEND"
+    boni:
+      - question: "What English derivative of <latin>plicō</latin> means “to make clear”?"
+        answer: "EXPLICATE"
+      - question: "What English derivative of <latin>plicō</latin> means “easily bent or influenced”?"
+        answer: "PLIABLE"

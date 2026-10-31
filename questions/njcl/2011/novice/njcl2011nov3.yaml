@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "“Meanwhile, back at the ranch” was a standard phrase in 1940s serial movies. How would you say the word “meanwhile” in Latin?"
+      answer: "<latin>INTERIM / INTEREĀ / INTERDUM</latin>"
+    boni:
+      - question: "Adverbs confuse Latin students every day. What is the Latin adverb for “every day” or “daily”?"
+        answer: "<latin>CO(T)TĪDIĒ</latin>"
+      - question: "Indeed, sometimes I feel that I study them in vain. Give the Latin for “in vain.”"
+        answer: "<latin>FRŪSTRĀ / NĒQUĀQUAM / NĒQUĪQUAM / (IN</latin>)CASSUM "
+  - tossup:
+      question: "Clodius Albinus and Pescennius Niger were the two major obstacles that what man had to overcome to become the first Roman emperor born in Africa?"
+      answer: "(LUCIUS) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Besides Albinus, Niger, and Severus, name one of the two other emperors of 193 A.D"
+        answer: "(PUBLIUS HELVETIUS) PERTINAX / (MARCUS) DIDIUS JULIANUS"
+      - question: "What two sons of Severus succeeded their father, but could not coexist for long after his death?"
+        answer: "CARACALLA AND GETA"
+  - tossup:
+      question: "For the verb <latin>vocō</latin>, give the second person singular, perfect active indicative form. "
+      answer: "<latin>VOCĀVISTĪ</latin>"
+    boni:
+      - question: "Translate <latin>vocāvistī</latin>"
+        answer: "YOU (HAVE) CALLED / DID CALL "
+      - question: "Change <latin>vocāvistī</latin> to the passive"
+        answer: "<latin>VOCĀTUS /-A /-UM ES</latin>"
+  - tossup:
+      question: "Egyptian troops under Tiberius Alexander, Syrian troops under Mucianus, Danubian troops under Antonius Primus, and his own Judaean troops all successfully declared what man emperor in July and August of 69 A.D.?"
+      answer: "(TITUS FLAVIUS) VESPASIAN(US)"
+    boni:
+      - question: "How many emperors were recognized by the Senate in that year?"
+        answer: "FOUR"
+      - question: "What emperor had died in 68 A.D., precipitating this rash of short-lived emperors?"
+        answer: "NERO (CLAUDIUS CAESAR AUGUSTUS GERMANICUS)"
+  - tossup:
+      question: "What son of Autonoe was torn apart by his own hounds as punishment for seeing Artemis as she bathed nude?"
+      answer: "ACTAEON"
+    boni:
+      - question: "Who were the parents of Autonoe, as well as Agave, Ino, Semele, and Polydorus?"
+        answer: "CADMUS AND HARMONIA"
+      - question: "Who were the parents of Harmonia?"
+        answer: "ARES AND APHRODITE"
+  - tossup:
+      question: "In the sentence “<latin>Pater suīs fīliīs favet</latin>,” what case and use is <latin>pater?</latin>"
+      answer: "NOMINATIVE, SUBJECT"
+    boni:
+      - question: "Now, give me the case and use of <latin>fīliīs</latin> for that sentence"
+        answer: "DATIVE WITH SPECIAL VERBS"
+      - question: "Change the sentence to mean “Fathers will favor their daughters”"
+        answer: "<latin>PATRĒS (SUĪS) FĪLIĀBUS FAVĒBUNT</latin> "
+  - tossup:
+      question: "What king of Rome, an immigrant from Etruria who was originally named Lucumo, initiated a number of building projects including the Cloaca Maxima?"
+      answer: "(LUCIUS) TARQUINIUS PRISCUS"
+    boni:
+      - question: "Who was Tarquinius Priscus’ wife, who was an accomplished interpreter of signs?"
+        answer: "TANAQUIL"
+      - question: "Who murdered Tarquinius Priscus?"
+        answer: "SONS OF ANCUS (MARCIUS)"
+  - tossup:
+      question: "When recognized, perform this command: <latin>Fac sonum canis!</latin>"
+      answer: "PLAYER SHOULD MAKE A SOUND SUCH AS RUFF / GRRR / BARK / WOOF "
+    boni:
+      - question: "<latin>Optimē! Nunc trēs – et trēs sōlī, facite sonōs asinōrum</latin>"
+        answer: "THREE PLAYERS SAY “HEE HAW” (<emphasis>NOTE TO MODERATOR</emphasis>: If the team who responds has only one or two players, please read command as follows: <latin>Erat factum bonum! Nunc fac sonum asinī</latin>. Only one player should now make the sound.)"
+      - question: "<latin>Illud erat rīdiculōsum! Nunc duo, et duo sōlī, facite sonōs fēlium</latin>"
+        answer: "TWO PLAYERS SAY “MEOW” (<emphasis>NOTE TO MODERATOR</emphasis>: If a one-person team responds, please read this command: <latin>Illud erat rīdiculōsum! Nunc fac sonum fēlis</latin>.)"
+  - tossup:
+      question: "Who had once been a beautiful girl, but was made hideous with hair of serpents and a truly stony glare by an enraged Athena?"
+      answer: "MEDUSA"
+    boni:
+      - question: "Why was Athena so angry at Medusa?"
+        answer: "MEDUSA AND POSEIDON WERE INTIMATE IN ATHENA’S TEMPLE"
+      - question: "What two other immortal Gorgons did Medusa join?"
+        answer: "STHENO AND EURYALE"
+  - tossup:
+      question: "Translate the following Latin sentence into English: <latin>Cōnsulēs fābulās dē proeliō magnō narrābant</latin>"
+      answer: "THE CONSULS USED TO TELL / WERE TELLING / TOLD STORIES ABOUT A GREAT BATTLE"
+    boni:
+      - question: "Translate: <latin>“Barbarī,” inquit cōnsul, “urbem cēpērunt.”</latin>"
+        answer: "“(THE) BARBARIANS,” SAID/SAYS THE CONSUL, “(THEY HAVE) CAPTURED THE CITY.”"
+      - question: "Translate: <latin>Subitō mīles sōlus in</latin> ponte stetit et urbem <latin>servāvit</latin>. "
+        answer: "SUDDENLY A LONE / THE ONLY SOLDIER STOOD ON THE BRIDGE AND SAVED THE CITY"
+  - tossup:
+      question: "Where would you be if you saw people reciting <latin>versūs Fescennīnī</latin> to a woman who was wearing a <latin>tunica rēcta</latin> and a <latin>flammeum</latin>?"
+      answer: "A WEDDING"
+    boni:
+      - question: "What would Romans throw during the procession?"
+        answer: "NUTS / <latin>NUCĒS</latin> "
+      - question: "What color was a bride’s <latin>flammeum</latin>?"
+        answer: "FLAME-COLORED / RED / YELLOW"
+  - tossup:
+      question: "By what name did the Romans call farmhouses or country houses?"
+      answer: "VILLA(S) / <latin>VĪLLA(E) (RŪSTICA(E))</latin> (PASS OUT THE VISUAL)"
+    boni:
+      - question: "What Latin term did the Romans give to the type of dwelling shown in picture A?"
+        answer: "<latin>ĪNSULA(E)</latin> "
+      - question: "Picture B shows a cross-cut section of a Roman <latin>domus</latin>. What is the Latin word for the room of the <latin>domus</latin> that is highlighted?"
+        answer: "<latin>ĀTRIUM</latin>"
+  - tossup:
+      question: "What queen’s last moments were presided over by Iris, who cut a lock of hair after the queen committed suicide while watching the Trojan ships sail away from Carthage?"
+      answer: "DIDO’S"
+    boni:
+      - question: "What sister of Dido was distraught to discover that Dido had killed herself?"
+        answer: "ANNA"
+      - question: "What African chieftain had wanted to marry Dido, but had been rejected?"
+        answer: "IARBAS"
+  - tossup:
+      question: "What is the Latin motto of Yale University?"
+      answer: "<latin>LŪX ET VĒRITĀS</latin> "
+    boni:
+      - question: "What university has as its motto <latin>lūx, hominum vīta</latin>?"
+        answer: "NEW MEXICO "
+      - question: "The University of Michigan also has a three-word Latin motto meaning “the arts, knowledge, truth.” What is this Latin motto?"
+        answer: "<latin>ARTĒS, SCIENTIA, VĒRITĀS</latin>"
+  - tossup:
+      question: "What king of Troy was famous for never keeping his word?"
+      answer: "LAOMEDON"
+    boni:
+      - question: "What two gods helped Laomedon to build Troy's walls, but went unpaid by the king?"
+        answer: "APOLLO AND POSEIDON/NEPTUNE"
+      - question: "What was one of the punishments which Apollo and Poseidon sent for this breach of contract?"
+        answer: "PLAGUE, SEA-MONSTER"
+  - tossup:
+      question: "Say in Latin “the short war.”"
+      answer: "<latin>BELLUM BREVE</latin> "
+    boni:
+      - question: "Change <latin>bellum</latin> <latin>breve</latin> to the genitive plural"
+        answer: "<latin>BELLŌRUM BREVIUM</latin>"
+      - question: "Change <latin>bellōrum</latin> <latin>brevium</latin> to the comparative and to the genitive singular"
+        answer: "<latin>BELLĪ BREVIŌRIS</latin>"
+  - tossup:
+      question: "In the indicative mood, how many tenses are there?"
+      answer: "SIX"
+    boni:
+      - question: "Name the two normally used voices in Latin"
+        answer: "ACTIVE & PASSIVE"
+      - question: "Name six of the cases that Latin uses"
+        answer: "SIX OF THE FOLLOWING: NOMINATIVE, GENITIVE, DATIVE, ACCUSATIVE, ABLATIVE, LOCATIVE, VOCATIVE"
+  - tossup:
+      question: "What villain, sometimes known as Polypemon or Damastes, was thwarted by Theseus, who stretched him upon his own bed?"
+      answer: "PROCRUSTES"
+    boni:
+      - question: "What villain, also bested by Theseus, kicked people over a cliff to their death?"
+        answer: "SCIRON"
+      - question: "Sciron's victims did not always die by landing on the rocks below. What other danger lurked in the waters below?"
+        answer: "(MAN-EATING SEA) TURTLE"
+  - tossup:
+      question: "According to this passage, there are three types of wise women. What does a merely wise woman hold dear?"
+      answer: "KNOWLEDGE / WISDOM / SCIENCE"
+    boni:
+      - question: "What does a wiser woman do?"
+        answer: "SHE TEACHES OTHERS"
+      - question: "And, finally, what does the wisest woman of all do?"
+        answer: "SHE TEACHES OTHERS LATIN"
+  - tossup:
+      question: "From what third declension Latin noun is “capitalism” derived?"
+      answer: "<latin>CAPUT</latin> "
+    boni:
+      - question: "Which of the following is NOT derived from <latin>caput</latin>: captain, code, precipice, mischief, or chattel?"
+        answer: "CODE  "
+      - question: "From what Latin noun is “code” derived?"
+        answer: "<latin>CAUDEX / CŌDEX</latin>   <latin>2011 NJCL CERTAMEN NOVICE DIVISION</latin>"

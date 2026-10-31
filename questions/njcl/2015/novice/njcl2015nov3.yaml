@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "On what road would you be walking if you pass the temple of divine Romulus, the temple of Antoninus  and Faustina, and the Arch of Septimius Severus?"
+      answer: "VIA SACRA"
+    boni:
+      - question: "On what road would you be travelling if you passed over the Milvian Bridge on your way out of  Rome?"
+        answer: "VIA FLAMINIA"
+      - question: "What road took a path similar to the Via Appia, just further to the east, only to rejoin the Via  Appia north of Capua?"
+        answer: "VIA LATINA"
+  - tossup:
+      question: "According to Ovid, who offended Cupid, thus causing Cupid to make him fall in love with Daphne?"
+      answer: "APOLLO"
+    boni:
+      - question: "What creature had Apollo recently slain at Delphi, giving him an inflated sense of pride?"
+        answer: "PYTHON"
+      - question: "Into what was Daphne transformed in order to escape from Apollo?"
+        answer: "LAUREL TREE"
+  - tossup:
+      question: "Give the proper form of the pronoun to complete this sentence in Latin: “Marcus fears for himself.”"
+      answer: "<latin>SIBI</latin>"
+    boni:
+      - question: "Now give the proper form of the pronoun to complete this sentence in Latin: “Marcus favors  you.”"
+        answer: "<latin>TIBI / VŌBĪS</latin>"
+      - question: "Now give the proper form of the pronoun to complete this sentence in Latin: “Marcus favors the  man who will give the people bread.”"
+        answer: "<latin>QUĪ</latin>"
+  - tossup:
+      question: "Of the words <latin>levis, aeger, vīvus</latin>, and <latin>trīstis</latin>, which is an antonym of <latin>gravis</latin>?"
+      answer: "LEVIS"
+    boni:
+      - question: "Give an antonym of the Latin word <latin>vīvus</latin>."
+        answer: "MORTUUS"
+      - question: "Give an antonym of the Latin word <latin>trīstis</latin>."
+        answer: "LAETUS/ FĒLIX/ BEĀTUS/ FORTŪNĀTUS"
+  - tossup:
+      question: "Who travelled to Pylos and then to Sparta to ask some vague and seemingly hopeless questions about  the fate and whereabouts of his father Odysseus?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "To what king of sandy Pylos did Telemachus travel first?"
+        answer: "NESTOR"
+      - question: "What son of Nestor accompanied Telemachus from Pylos to Sparta and back?"
+        answer: "PEISISTRATUS"
+  - tossup:
+      question: "Whose ascension to the Roman dictatorship was fueled in part by daily meetings of a conservative  senate, the recent death of Flaminius at Lake Trasimene, and the imminent threat of a Carthaginian  siege of Rome?"
+      answer: "(QUINTUS) FABIUS MAXIMUS"
+    boni:
+      - question: "What <latin>agnōmen</latin> was commonly adjoined to Fabius’s name due to the gorilla tactics he employed  during his fight against Hannibal?"
+        answer: "<latin>CUNCTĀTOR</latin>"
+      - question: "Name one of the two men elected consuls for 216 BC after Minucius called for the election of  men who would bring a faster end to the war?"
+        answer: "(L.) AEMILIUS PAULLUS // (C.) TERENTIUS VARRO"
+  - tossup:
+      question: "When recognized by the spotter, perform the following commands. <latin>Surge et vehementer plaude.</latin>"
+      answer: "STUDENT SHOULD STAND AND VIGO(U)ROUSLY APPLAUD / CLAP"
+    boni:
+      - question: "Now perform these commands: <latin>Prehendite, omnēs, aurem ūnīus ē sociīs</latin>."
+        answer: "ALL TEAM MEMBERS GRAB <emphasis>ONE</emphasis> OF THEIR TEAMMATES’ EAR"
+      - question: "Finally, perform these commands: <latin>Tenēns sociī umerum, clāmā Ānglicē, “Amīcitia inter nōs  erit perpetua.”</latin>"
+        answer: "ONE PERSON, HOLDING HIS / HER TEAMMATE’S SHOULDER, EXCLAIMS IN  ENGLISH, “OUR FRIENDSHIP / THE FRIENDSHIP BETWEEN US WILL BE FOREVER.”"
+  - tossup:
+      question: "What one Latin word is common to the mottoes of West Virginia and the United States Coast Guard?"
+      answer: "<latin>SEMPER</latin>"
+    boni:
+      - question: "What one Latin word is common to the mottoes of Massachusetts and the Princeton University?"
+        answer: "<latin>SUB</latin>"
+      - question: "Different forms of what one Latin word can be found in the mottoes of Arizona and Brown  University?"
+        answer: "<latin>DEUS</latin>"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: Gentēs Rōmānae ā Persārum rēge  laudābuntur. Cūius temporis est “laudābuntur”?</latin>"
+      answer: "<latin>FUTŪRĪ</latin>"
+    boni:
+      - question: "<latin>Cūius generis est “gentēs”?</latin>"
+        answer: "<latin>FEMINĪNĪ</latin>"
+      - question: "<latin>Quō casū est “Persārum”?</latin>"
+        answer: "<latin>GENITĪVŌ</latin>"
+  - tossup:
+      question: "Who fled her house on the Janiculum in 44 BC following the murder of Julius Caesar and attempted to  regain some political influence with the murder of her brother Ptolemy XIV?"
+      answer: "CLEOPATRA (VII)"
+    boni:
+      - question: "Name the young son of Cleopatra whom she crowned Ptolemy XV?"
+        answer: "CAESARION"
+      - question: "Caesarion was Cleopatra’s only child with Caesar.How many children did Cleopatra have with  Antony?"
+        answer: "THREE"
+  - tossup:
+      question: "What Greek goddess, the daughter of Metis, was born when Hephaestus solved Zeus’ splitting  headache by splitting his head open?"
+      answer: "ATHENA"
+    boni:
+      - question: "How had Athena wound up in Zeus’ head anyway?"
+        answer: "HER MOTHER (METIS) (WHILE PREGNANT WITH ATHENA) WAS SWALLOWED BY ZEUS"
+      - question: "What well-known shield did Zeus often leave in the care of Athena?"
+        answer: "THE AEGIS"
+  - tossup:
+      question: "Say in Latin: Caesar had been killed with many swords."
+      answer: "<latin>CAESAR MULTĪS GLADIĪS INTERFECTUS / NECĀTUS / OCCĪSUS / CAESUS ERAT.</latin>"
+    boni:
+      - question: "Now, say in Latin: Calpurnia will have been forced to depart from Rome."
+        answer: "<latin>CALPURNIA DISCĒDERE / EXCĒDERE / ABĪRE / EXĪRE RŌMĀ COACTA ERIT.</latin>"
+      - question: "Finally say in Latin: Brutus has been punished by the soldiers of Caesar."
+        answer: "<latin>BRŪTUS Ā CAESARIS MĪLITIBUS PUNĪTUS EST.</latin>"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice, and answer the questions that follow IN ENGLISH:   <latin>Apud virōs antīquōs equitēs magnō honōre habēbantur. Equitēs domō exīvērunt et per omnēs  terrās īvērunt ubi eōs quī aliīs nocuerant petīvērunt. Postquam eques pervēnit, sī malī hās rēs  restituere nōlēbant, eques tēlum sūmpsit et impetum fēcit.</latin>  The Question: How did the ancient men feel about knights?"
+      answer: "THEY WERE ESTEEMED / HONORED / ETC."
+    boni:
+      - question: "Whom did the knights seek out?"
+        answer: "WRONGDOERS / BAD PEOPLE / CRIMINALS / THUGS / BANDITS"
+      - question: "Why would a knight take up a weapon and attack?"
+        answer: "THE BAD GUY(S) WOULDN’T MAKE AMENDS."
+  - tossup:
+      question: "What was the purpose of the <latin>mētae</latin> in a Roman circus?"
+      answer: "TURNING POSTS ("
+    boni:
+      - question: "What type of chariot is depicted in Picture “A”?"
+        answer: "<latin>BĪGA</latin>"
+      - question: "What is “This Thing” in Picture “B”, upon which you can see <latin>delphīnī</latin>?"
+        answer: "<latin>SPĪNA</latin>"
+  - tossup:
+      question: "Who visited Samothrace, Salmydessus, Cius, and Lemnos on their way to Colchis to find the Golden  Fleece?"
+      answer: "ARGONAUTS / JASON (PROMPT FOR ANY OTHER ARGONAUT)"
+    boni:
+      - question: "Which of the locations above was populated solely by women?"
+        answer: "LEMNOS"
+      - question: "Name a member who left the expedition on Cius?"
+        answer: "HERAKLES / HERCULES / HYLAS / POLYPHEMUS"
+  - tossup:
+      question: "What is the meaning of the Latin verb at the root of all of the following words: vanquish, convincing, evict?"
+      answer: "TO CONQUER; DEFEAT (<latin>VINCŌ</latin>)"
+    boni:
+      - question: "What is the meaning of the Latin verb at the root of the words “malevolent,” “involuntary,” and  “volition”?"
+        answer: "TO WISH / BE WILLING (<latin>VOLŌ, VELLE</latin>)"
+      - question: "What is the meaning of the Latin verb at the root of the words “victuals,” “vivacious,” and  “revive”?"
+        answer: "TO LIVE (<latin>VĪVŌ</latin>)"
+  - tossup:
+      question: "A plague in Campania, a fire in Rome, and the eruption of Mt. Vesuvius did nothing to weaken the extremely positive reputation of what popular but short-ruling emperor who died of a fever in 81 AD?"
+      answer: "TITUS"
+    boni:
+      - question: "What architectural achievement, boasting eighty arches and bearing the family name of Titus’s  imperial dynasty, was completed during his reign in 80 AD?"
+        answer: "COLOSSEUM"
+      - question: "Besides Pompeii, name a town that was destroyed by the eruption of Vesuvius."
+        answer: "HERCULANEUM / STABIAE / OPLONTIS"
+  - tossup:
+      question: "Translate this Latin sentence into English: <latin>Sunt mihi decem librī.</latin>"
+      answer: "I HAVE TEN BOOKS / THERE ARE TO / FOR ME TEN BOOKS."
+    boni:
+      - question: "Translate this Latin sentence into English: <latin>Magnificōs librōs in tablīnō tuō invēnī</latin>."
+        answer: "I FOUND MAGNIFICENT / SPLENDID BOOKS IN YOUR STUDY."
+      - question: "Translate this Latin sentence into English: <latin>Nōnne illōs librōs in mēnsā invēnistī?</latin>"
+        answer: "YOU FOUND THOSE BOOKS ON THE TABLE, DIDN’T YOU?"
+  - tossup:
+      question: "What case is the only Latin noun in the following sentence? <latin>Quō, fīliī meī, ītis</latin>?"
+      answer: "VOCATIVE"
+    boni:
+      - question: "The sons reply, “<latin>Rōmam īmus, pater</latin>.” What case and use is the word <latin>Rōmam</latin> in this sentence?"
+        answer: "ACCUSATIVE, PLACE TO WHICH"
+      - question: "Their father replies, “<latin>Curāte ut valeātis! Cārissimī mihi estis</latin>!” What use of the dative is in  this sentence?"
+        answer: "DATIVE WITH (SPECIAL) ADJECTIVES"
+  - tossup:
+      question: "What queen, the widow of Sychaeus, welcomed Aeneas and the Trojans to her African kingdom of Carthage?"
+      answer: "DIDO"
+    boni:
+      - question: "Who was Dido’s brother, whom she was fleeing when she left Tyre?"
+        answer: "PYGMALION"
+      - question: "Who impersonated Ascanius while Aeneas was in Carthage?"
+        answer: "CUPID / EROS"

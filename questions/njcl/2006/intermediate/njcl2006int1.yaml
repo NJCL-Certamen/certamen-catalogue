@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What are two possible gender, number, and case combinations for the word <latin>haec</latin>?"
+      answer: "FEMININE SINGULAR NOMINATIVE & NEUTER PLURAL NOMINATIVE / ACCUSATIVE"
+    boni:
+      - question: "Differentiate between the meanings of <latin>omnēs</latin> and <latin>omnia</latin>?"
+        answer: "<latin>OMNĒS</latin> - EVERYONE, ALL THE PEOPLE, ALL THE... OMNIA - EVERYTHING, ALL THINGS"
+      - question: "What did the Romans mean by <latin>Mariānī</latin> or <latin>Sullānī</latin>?"
+        answer: "FOLLOWERS OF MARIUS OR SULLA"
+  - tossup:
+      question: "Which of the following words, if any, does "
+      answer: "<latin>NOT</latin> have the same Latin root as the others: constituent, static, stall, thermostat, stability NONE OF THESE"
+    boni:
+      - question: "Give the first three principal parts of the verb at the root of the words in the toss up."
+        answer: "<latin>STŌ, STARE, STETĪ</latin> - STAND, ENDURE, REMAIN"
+      - question: "What derivative of <latin>stō</latin>, <latin>stare</latin> means “the strength to resist or to withstand”?"
+        answer: "STAMINA"
+  - tossup:
+      question: "What Roman god was known to early Italians as Mamers, Maris, or Mavors?"
+      answer: "MARS"
+    boni:
+      - question: "What animal and what bird were sacred to Mars?"
+        answer: "WOLF & WOODPECKER"
+      - question: "In addition to being a war god, of what was Mars the deity?"
+        answer: "FARMING / AGRICULTURE"
+  - tossup:
+      question: "Which was the oldest of the Roman assemblies that existed under the kings?"
+      answer: "<latin>COMITIA CŪRIĀTA</latin> "
+    boni:
+      - question: "Of how many <latin>cūriae</latin> was this assembly composed?"
+        answer: "THIRTY"
+      - question: "By what assembly was the <latin>Comitia Cūriāta</latin> superseded in the early republic?"
+        answer: "<latin>COMITIA CENTURIĀTA</latin> "
+  - tossup:
+      question: "Differentiate in meaning between the nouns <latin>gemma</latin> and <latin>gena</latin>."
+      answer: "<latin>GEMMA</latin> - GEM, BUD, EYE (OF A PLANT), JEWEL, STONE <latin>GENA</latin> - CHEEK"
+    boni:
+      - question: "between <latin>geminus</latin> and <latin>gemitus</latin>."
+        answer: "<latin>GEMINUS</latin> - TWIN <latin>GEMITUS</latin> - GROAN, ROAR"
+      - question: "between <latin>genus</latin> and <latin>gener</latin>."
+        answer: "<latin>GENUS</latin> - KIND, TYPE <latin>GENER</latin> - SON-IN-LAW"
+  - tossup:
+      question: "Who was the emperor in the West while his brother Arcadius was the emperor in the East?"
+      answer: "HONORIUS"
+    boni:
+      - question: "Who was the father of Arcadius and Honorius who had divided the empire between them?"
+        answer: "THEODOSIUS (I or MAGNUS)"
+      - question: "What order had Theodosius issued concerning pagan temples?"
+        answer: "ALL CLOSED"
+  - tossup:
+      question: "What is the exact motto of the state of Oklahoma, which means “Work conquers all”?"
+      answer: "<latin>LABOR OMNIA VINCIT</latin> "
+    boni:
+      - question: "What is the exact motto of the state of Maine<latin>,</latin> which means, “I show the way”?"
+        answer: "<latin>DĪRIGŌ</latin>"
+      - question: "What is the exact motto of the state of North Carolina<latin>,</latin> which means, “To be rather than to seem”?"
+        answer: "<latin>ESSE QUAM VIDĒRĪ</latin>"
+  - tossup:
+      question: "What Greek was physician to the emperors Marcus Aurelius, Commodus, and Septimius Severus?"
+      answer: "GALEN"
+    boni:
+      - question: "At the beginning of his medical career, on whom did Galen practice medicine?"
+        answer: "GLADIATORS"
+      - question: "By whose writings on medicine was he greatly influenced?"
+        answer: "HIPPOCRATES’"
+  - tossup:
+      question: "Under what ambitious praetorian prefect were all nine cohorts of the guard permanently stationed in Rome?"
+      answer: "(LUCIUS AELIUS) SEJANUS"
+    boni:
+      - question: "Who managed to convince Tiberius that Sejanus was plotting to gain the imperial throne?"
+        answer: "ANTONIA (THE YOUNGER)"
+      - question: "Name the new commander of the guard whom Tiberius sent to the Senate to condemn Sejanus."
+        answer: "(NAEVIUS SUTORIUS) MACRO"
+  - tossup:
+      question: "From what Latin noun, with what meaning, does English derive the word “derivation”?"
+      answer: "<latin>RĪVUS</latin> -- RIVER/STREAM (Do not accept “<latin>rīpa</latin>” as an answer, unless the student wishes to provide proof of derivation, not being a cognate of <latin>rīvus</latin>)"
+    boni:
+      - question: "From what base Latin verb, with what meaning, does English derive the word “editor”?"
+        answer: "<latin>DŌ</latin> -- GIVE"
+      - question: "From what Latin noun, with what meaning, does English derive the word “despair”?"
+        answer: "<latin>SPĒS</latin> - HOPE"
+  - tossup:
+      question: "Who was the father of Electra and Orestes?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "With whom did Agamemnon’s wife Clytemnestra have an affair while Agamemnon was fighting at Troy?"
+        answer: "AEGISTHUS"
+      - question: "Why was Orestes pursued by the Furies?"
+        answer: "FOR KILLING HIS MOTHER (TO AVENGE HIS FATHER'S MURDER)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dum inter sē</latin> <latin>loquuntur, liber dē</latin> <latin>mēnsā</latin> <latin>cecidit.</latin> "
+      answer: "WHILE THEY WERE TALKING AMONG(ST) / BETWEEN / THEMSELVES / WITH ONE ANOTHER / TO EACH OTHER, A BOOK FELL FROM THE TABLE"
+    boni:
+      - question: "<latin>Quī</latin> <latin>bonī</latin> <latin>sunt, īdem sunt beāt</latin><latin>ī.</latin> "
+        answer: "(THOSE) WHO ARE GOOD, (THE SAME MEN / LIKEWISE / ALSO / AT THE SAME TIME) ARE BLESSED / HAPPY"
+      - question: "<latin>Vīgintī</latin> <latin>lēgātōs mīsit quī</latin> <latin>pācem peterent.</latin> "
+        answer: "HE SENT TWENTY AMBASSADORS TO SEEK PEACE"
+  - tossup:
+      question: "What case use is seen in such words as <latin>Brundisī</latin>, <latin>domī</latin>, <latin>Delphīs</latin> and <latin>Rōmae</latin>?"
+      answer: "LOCATIVE"
+    boni:
+      - question: "What case use is seen in such phrases as <latin>multum aquae</latin> and <latin>numerus līberōrum</latin>?"
+        answer: "PARTITIVE GENITIVE/ GEN. OF THE WHOLE"
+      - question: "Say in Latin, “We walked from the countryside to Tarentum.”"
+        answer: "<latin>AMBULĀVIMUS RŪRE TARENTUM</latin> "
+  - tossup:
+      question: "According to tradition, who were the first two joint rulers of Rome?"
+      answer: "ROMULUS AND TITUS TATIUS"
+    boni:
+      - question: "Of what tribe had Tatius previously been the ruler?"
+        answer: "SABINES"
+      - question: "Who had betrayed the Capitol to Tatius and the Sabines trying to recover their women from the Romans?"
+        answer: "TARPEIA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Aurēlia et familia gladiātōrēs in arēnā</latin> <latin>Alexandrīae spectābant. Statim percussus est ūnus gladiātor vulnere magis in animā</latin> <latin>quam in corpore. Ut vīdit Aurēlia sanguinem, magnum amōrem mortis sēnsit. Nōn oculōs suōs āvertit sed dīligenter spectāvit. Nam dēlectābātur scelere certāminis. Ecce crūdēlitātem Rōmānōrum antīquōrum.</latin>  Question: Describe the wound that the gladiator suffered in the arena."
+      answer: "IT WAS A SUPERFICIAL WOUND / IT TOOK THE GLADIATOR’S SPIRIT AWAY / IT WAS MORE IN HIS MIND THAN IN HIS BODY"
+    boni:
+      - question: "How did Aurelia react to the action in the arena?"
+        answer: "SHE FELT A GREAT LOVE OF DEATH / SHE DID NOT TURN HER EYES AWAY (FROM THE ACTION) / SHE WATCHED CAREFULLY / SHE WAS DELIGHTED BY THE WICKEDNESS OF THE CONTEST"
+      - question: "According to the last sentence, what does this passage describe?"
+        answer: "THE CRUELTY OF THE ANCIENT ROMANS"
+  - tossup:
+      question: "What priest of Apollo gave Odysseus twelve jars of wine?"
+      answer: "MARON"
+    boni:
+      - question: "For what was Maron repaying Odysseus?"
+        answer: "PROTECTION FOR HIMSELF & FAMILY (WIFE & CHILD) DURING SACK OF CITY"
+      - question: "Name Maron's city which Odysseus' men had sacked."
+        answer: "ISMARUS"
+  - tossup:
+      question: "Using two irregular verbs, say in Latin, “We want to go home now.”"
+      answer: "<latin>IAM / NUNC DOMUM ĪRE VOLUMUS</latin>."
+    boni:
+      - question: "Using two irregular verbs, say in Latin, “Where do you want to go?”"
+        answer: "<latin>QUŌ</latin> <latin>(T</latin><latin>Ū)</latin> <latin>ĪRE VĪS/ (VŌS) ...VULTIS</latin> "
+      - question: "Using just one irregular verbs, say in Latin, “I don’t want to stay at home.”"
+        answer: "<latin>DOMĪ</latin> <latin>/ APUD MĒ</latin> <latin>(RĒ)MANĒRE NŌLŌ</latin>"
+  - tossup:
+      question: "Which of the following prepositions, if any, CANNOT take the ablative case? <latin>Cum</latin>, <latin>cōram</latin>, <latin>apud</latin>, <latin>in</latin>, <latin>sub?</latin>"
+      answer: "<latin>APUD</latin> "
+    boni:
+      - question: "What is special about the prepositions <latin>subter</latin> & <latin>super</latin>?"
+        answer: "THEY TAKE <emphasis>EITHER THE ACCUSATIVE OR ABLATIVE CASES</emphasis>, DEPENDING UPON MEANING"
+      - question: "Say in Latin, “I have walked from Alexandria.”"
+        answer: "<latin>ALEXANDRĪĀ</latin> <latin>AMBULĀVĪ</latin>"
+  - tossup:
+      question: "Who decreed that the raven would never again be a white bird?"
+      answer: "APOLLO"
+    boni:
+      - question: "The raven had angered Apollo by revealing whose infidelity?"
+        answer: "CORONIS’"
+      - question: "Who was the son of Apollo and Coronis?"
+        answer: "AESCULAPIUS / ASCLEPIUS"
+  - tossup:
+      question: "Who was afflicted with a terrible disease because he had killed Iphitus in a fit of rage sent by Hera?"
+      answer: "HERACLES (PASS OUT THE VISUAL)"
+    boni:
+      - question: "You now have 5 seconds to examine the visual. (WAIT 5 SECONDS) Where does this scene take place and why is Heracles there?"
+        answer: "DELPHI - TO FIND OUT HOW TO GET RID OF THE DISEASE"
+      - question: "Why is Heracles stealing the tripod?"
+        answer: "PYTHIA REFUSED TO SPEAK TO HIM SO ANGRY HERACLES TRIED TO STEAL TRIPOD TO SET UP HIS OWN ORACLE"

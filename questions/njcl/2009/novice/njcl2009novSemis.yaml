@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who became the constellation Arctophyllax and guarded his mother, the constellation Ursa Major?"
+      answer: "ARCAS"
+    boni:
+      - question: "Who was the mother of Arcas?"
+        answer: "CALLISTO"
+      - question: "When Juno discovered that Callisto became the constellation Ursa Major, what favor did she request from Oceanus and Tethys?"
+        answer: "TO NEVER LET CALLISTO / URSA MAJOR REST / DRINK (IN THE WATERS OF OCEAN(US))"
+  - tossup:
+      question: "Consider the sentence, “The farmer walked from his home to go to the countryside for two days”. Translate “for two days” into Latin"
+      answer: "<latin>DUŌS DIĒS</latin>"
+    boni:
+      - question: "Using <latin>domus</latin>, translate “from home” for that sentence"
+        answer: "<latin>DOMŌ</latin>"
+      - question: "Now consider the sentence, “The farmer will reach his house within twenty hours.” Translate “within twenty hours” for that sentence"
+        answer: "<latin>VĪGINTĪ HŌRĪS</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Necesse est vōbīs mātrēs dīligenter audīre</latin>"
+      answer: "IT IS NECSESARY FOR YOU TO / YOU MUST LISTEN TO YOUR MOTHERS CAREFULLY / DILIGENTLY"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Nōn commodum est nōbīs hāc aestāte labōrāre</latin>"
+        answer: "IT IS NOT CONVENIENT / COMFORTABLE / FITTING FOR US TO WORK THIS SUMMER"
+      - question: "Translate the following sentence into English: <latin>Decōrum est omnibus templa deōrum vīsitāre</latin>"
+        answer: "IT IS PROPER / BECOMING / FITTING FOR ALL / EVERYONE TO VISIT TEMPLES OF THE GODS"
+  - tossup:
+      question: "Give the Latin term for the object on which a slave’s age, nationality, health, and criminal tendencies were all listed at a slave auction"
+      answer: "<latin>TITULUS</latin>"
+    boni:
+      - question: "Give the Latin term for the object placed on the head of a slave sold without a warranty to signify “caveat emptor.”"
+        answer: "<latin>PILLEUS</latin>"
+      - question: "For how long was a vendor obligated to take back a slave whose defects had not been properly disclosed at the time of purchase?"
+        answer: "SIX MONTHS"
+  - tossup:
+      question: "What road, crossing the Tiber River via the <latin>Pōns Aemilius</latin> and exiting Rome from its west side, became an important road during the early and middle Republic because it linked Rome, Cosa, and Pisae?"
+      answer: "<latin>VIA AURĒLIA</latin>"
+    boni:
+      - question: "What road, built in 109 BC, extended the <latin>Via Aurēlia</latin> by roughly 200 miles?"
+        answer: "<latin>VIA AEMILIA (SCAURA)</latin>"
+      - question: "What road crossed the Tiber River via the <latin>Pōns Mulvius</latin> and connected Rome with Ariminum?"
+        answer: "<latin>VIA FLĀMINIA</latin>"
+  - tossup:
+      question: "If a corporate consultant is traveling for work, what Latin phrase would be used to refer to the daily allowance for food and expenses?"
+      answer: "<latin>PER DIEM</latin>"
+    boni:
+      - question: "What Latin phrase might be used to refer to the institution from which this consultant received his or her diploma?"
+        answer: "<latin>ALMA MĀTER</latin>"
+      - question: "When this consultant reads an email from his office, what two-letter Latin word would he look for to find the subject of the email?"
+        answer: "<latin>RĒ</latin>"
+  - tossup:
+      question: "What use of the genitive case can be found in the following sentence? <latin>Puerī amōrem rānārum saepe habent</latin>"
+      answer: "OBJECTIVE"
+    boni:
+      - question: "… <latin>Leō erat animal magnae auctōritātis?</latin>"
+        answer: "DESCRIPTION / QUALITY"
+      - question: "… <latin>Elephantus plūs cibī cōnsūmere volēbat?</latin>"
+        answer: "PARTITIVE / OF THE WHOLE"
+  - tossup:
+      question: "What young god was transformed into a goat by his father Zeus and was brought to the nymphs of Mount Nysa in order to escape the wrath of Hera?"
+      answer: "DIONYSUS / BACCHUS"
+    boni:
+      - question: "What drunken satyr is said to have been Dionysus’ tutor?"
+        answer: "SILENUS"
+      - question: "Who washed away an unfortunate gift of Dionysus in the waters of the Pactolus?"
+        answer: "MIDAS"
+  - tossup:
+      question: "Which of the brigands killed by Theseus fed human flesh to his pet turtle?"
+      answer: "SC(E)IRON"
+    boni:
+      - question: "Which of the brigands killed by Theseus was a great wrestler?"
+        answer: "CERCYON"
+      - question: "Which of the brigands killed by Theseus carried a bronze club as his weapon?"
+        answer: "PERIPHETES / CORYNETES"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others? sojourn, conjure, meridian, circadian, diary"
+      answer: "CONJURE"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others? vintner, vinyl, vicious, vignette, vinegar"
+        answer: "VICIOUS"
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others? cable, chef, capital, chief, chapter"
+        answer: "CABLE"
+  - tossup:
+      question: "Do not open the visual until you are instructed to do so.  Now, open your visual and examine it for ten seconds.  These pictures depict events in the life of Hannibal. Give the letters of the pictures in chronological order."
+      answer: "D, A, C, B"
+    boni:
+      - question: "After what battle did the scene depicted in “B” occur?"
+        answer: "METAURUS RIVER"
+      - question: "Whom did Hannibal outsmart by the scene depicted in “C”?"
+        answer: "(QUINTUS) FABIUS MAXIMUS (CUNCTATOR)"
+  - tossup:
+      question: "Who realized that her master had returned when she recognized a scar on a stranger’s leg?"
+      answer: "EURYCLE(I)A"
+    boni:
+      - question: "How had her master received this scar?"
+        answer: "FROM A HUNTING ACCIDENT / BOAR’S TUSK(S)"
+      - question: "Eurycleia’s master, of course, was Odysseus. What information did Eurycleia provide him after Odysseus slaughtered the suitors?"
+        answer: "SHE INFORMED HIM WHICH MAIDS HAD BEEN DISLOYAL / WHICH MAIDS HAD SLEPT WITH THE SUITORS"
+  - tossup:
+      question: "What English word, derived from the Latin word meaning “procession,” is an adjective that means “characterized by excessive self-esteem”?"
+      answer: "POMPOUS"
+    boni:
+      - question: "What English word, derived from the Latin word meaning “wave,” is an adjective that means “overwhelmed”?"
+        answer: "INUNDATED"
+      - question: "What English word, derived from the Latin word meaning “flower,” is an adjective that means “lavishly decorated, embellished”?"
+        answer: "FLORID"
+  - tossup:
+      question: "What dictator’s hatred for the office of plebeian tribune motivated him to remove the tribune’s power to initiate legislation?"
+      answer: "(LUCIUS CORNELIUS) SULLA (FELIX)"
+    boni:
+      - question: "Conversely, what “privilege” did Sulla grant to newly-elected <latin>quaestōrēs</latin>?"
+        answer: "(AUTOMATIC) MEMBERSHIP INTO THE SENATE"
+      - question: "For what unprecedented length of time did Sulla serve as dictator?"
+        answer: "THREE YEARS"
+  - tossup:
+      question: "Give the comparative and superlative forms of the adverb <latin>male</latin>"
+      answer: "PEIUS, PESSIMĒ"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>magnopere</latin>"
+        answer: "MAGIS, MAXIMĒ"
+      - question: "Give the comparative and superlative forms of <latin>parum</latin>"
+        answer: "MINUS, MINIMĒ"
+  - tossup:
+      question: "Give an antonym of <latin>perīculum</latin>"
+      answer: "SALŪS, REFUGIUM, SĒCŪRITĀS, SERĒNITĀS, PAX, ASYLUM"
+    boni:
+      - question: "Give an antonym of <latin>urbs</latin>"
+        answer: "RŪS, OPPIDUM, VĪCUS, PĀGŪS"
+      - question: "Give an antonym of <latin>doceō</latin>"
+        answer: "DISCŌ, (COG)NŌSCŌ, <latin>STUDEŌ, MENTIOR, CĒLŌ, OPERIŌ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Vir pulcher dīvitem fēminam in mātrimōnium dūcere volēbat. Fēmina autem nōlebat quod illī virō erant turpis animus et nimium cupiditātis. Sapiēns erat haec! “Abī,” inquit, “Nōlī mihi dīcere, sed manuī meae!”</latin> Question: <latin>Quālis erat fēmina?</latin>"
+      answer: "SAPIĒNS / DĪVES"
+    boni:
+      - question: "<latin>Quālem animum habēbat vir?</latin>"
+        answer: "TURPEM / (NIMIS) CUPIDUM"
+      - question: "<latin>Respondē Anglicē: Quid fēmina virō dīxit?</latin>"
+        answer: "GO AWAY / DON’T TALK TO ME / TALK TO MY HAND"
+  - tossup:
+      question: "With the support of what Praetorian prefect did Caligula ascend to the throne?"
+      answer: "MACRO"
+    boni:
+      - question: "Whom did Tiberius name Caligula’s co-regent?"
+        answer: "(TIBERIUS) GEMELLUS"
+      - question: "What favorite sister did Caligula deify posthumously?"
+        answer: "DRUSILLA"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “inveniō”?</latin>"
+      answer: "(I / TO) FIND, COME UPON, INVENT"
+    boni:
+      - question: "<latin>Quid Anglicē significat “conveniō”?</latin>"
+        answer: "(I / TO) COME TOGETHER, GATHER, MEET, VISIT, APPROACH, FIT, CONVENE"
+      - question: "<latin>Quid Anglicē significat “reveniō”?</latin>"
+        answer: "(I / TO) RETURN, COME BACK"
+  - tossup:
+      question: "Who, in defiance of a royal decree, buried her brother with three handfuls of dirt?"
+      answer: "ANTIGONE"
+    boni:
+      - question: "Who had issued this decree?"
+        answer: "CREON"
+      - question: "How was Antigone punished for defying Creon’s orders?"
+        answer: "WALLED UP / BURIED IN A TOMB ALIVE 2009 NJCL CERTAMEN NOVICE DIVISION FINALS"
+  - tossup:
+      question: "Who owed his ascension to the imperial throne to two commanders of the Rhine legions named Fabius Valens and Caecina Alienus?"
+      answer: "VITELLIUS"
+    boni:
+      - question: "At what battle did Valens and Caecina defeat the forces of Otho, securing a safe passage for Vitellius to enter the city of Rome as emperor?"
+        answer: "FIRST BATTLE OF CREMONA / BEDRIACUM"
+      - question: "Which of Vespasian’s supporters defeated the forces of Vitellius and Caecina at the Second Battle of Cremona?"
+        answer: "ANTONIUS PRIMUS"
+  - tossup:
+      question: "The UC-Davis campus has many locations with names that ultimately derive from Latin. One such edifice is the Social Sciences & Humanities building. Give the three Latin nouns from which this building derives its name"
+      answer: "<latin>SOCIUS</latin>, <latin>SCIENTIA</latin>, <latin>HOMŌ</latin> / <latin>HŪMĀNITĀS</latin>"
+    boni:
+      - question: "Another such place is the Environmental Horticulture building. The word “horticulture” derives from both a Latin noun and a Latin verb. What are those two words and their meanings?"
+        answer: "<latin>HORTUS</latin> - GARDEN <latin>COLŌ</latin> - (I / TO) CULTIVATE / TILL / TEND / DWELL / INHABIT"
+      - question: "The campus also houses a Raptor Center, which contains displays and information about various birds of prey. Give the principal parts of the verb from which “Raptor” is derived"
+        answer: "<latin>RAPIŌ, RAPERE, RAPUĪ, RAPTUS /-A /-UM</latin>"
+  - tossup:
+      question: "Which of the following was not grown by the Romans in Italy in the first century AD: apricot, pomegranate, peach, tomato, cherry?"
+      answer: "TOMATO"
+    boni:
+      - question: "What fruit did the Romans call <latin>mālum Armeniacum</latin>?"
+        answer: "APRICOT"
+      - question: "What was a <latin>mālum Persicum</latin>?"
+        answer: "PEACH"
+  - tossup:
+      question: "Give the correct form of <latin>hic, haec, hoc</latin> to agree with the noun form <latin>lū</latin>"
+      answer: "ce. HĀC"
+    boni:
+      - question: "… to agree with the noun form <latin>flūminum</latin>"
+        answer: "HŌRUM"
+      - question: "to agree with the noun form <latin>arborēs</latin>"
+        answer: "HAE / HĀS"
+  - tossup:
+      question: "Whose snowy white horses could have rendered Troy invulnerable had they been able to graze on Trojan grass before being captured by two Greek chieftains?"
+      answer: "RHESUS"
+    boni:
+      - question: "Which two Greeks captured the horses of Rhesus and brought them back to the Greek camp?"
+        answer: "ODYSSEUS & DIOMEDES"
+      - question: "Who had revealed the location of Rhesus’ camp to Odysseus & Diomedes?"
+        answer: "DOLON"
+  - tossup:
+      question: "Which queen of Pherae was literally rescued from death by Heracles while the hero was traveling to Thrace?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Why was Heracles traveling to Thrace?"
+        answer: "TO RETRIEVE THE MAN-EATING MARES OF DIOMEDES"
+      - question: "Which young companion of Heracles was eaten alive by the mares of Diomedes?"
+        answer: "ABDERUS"
+  - tossup:
+      question: "Harry Potter mania rages yet again. Listen to the following passage about a conversation on the train to Hogwarts that Ronald Weasley is having with Harry Potter about Draco Malfoy and his family. Answer IN LATIN the question about it that follows: <latin>“dē familiā Drācōnis Malfoy audīvī,” inquit Rōnaldus. “erat familia quae ex umbrīs rediit postquam Voldemort discessit. Sententiā patris Malfoy, Voldemort eōs multōs annōs arte magicā rēgnābat, sed meus pater patrī Drācōnis nōn crēdit.”</latin> The question: <latin>Quōmodō Voldemort familiam Drācōnis Malfoy regnābat?</latin>"
+      answer: "ARTE MAGICĀ"
+    boni:
+      - question: "<latin>Quandō familia Malfoy in lūcem rediit?</latin>"
+        answer: "POSTQUAM VOLDEMORT DISCESSIT / POST MORTEM VOLDEMORTIS / VOLDEMORTE MORTUŌ or <latin>ĒGRESSŌ</latin>"
+      - question: "<latin>Quamdiū familia Malfoy potestāte Voldemort rēgnābātur</latin>"
+        answer: "MULTŌS ANNŌS"
+  - tossup:
+      question: "America runs on Dunkin, but the world lives on Starbucks! You are about to order your usual drink when you notice that they’ve introduced a new beverage, the Vivanno™ Smoothie. Give all the principal parts for the Latin verb from which the word Vivanno derived"
+      answer: "<latin>VĪVŌ, VĪVERE, VĪXĪ, VĪCTUS /-A /-UM</latin>"
+    boni:
+      - question: "Though you are enjoying your Vivanno smoothie, you find that it’s not quite as tasty as your usual drink, a double-shot, raspberry, soy, extra hot with extra foam latte. The word latte, of course, derives from Latin. Decline the Latin noun from which “latte” is derived in the singular. You need only provide the five standard cases"
+        answer: "<latin>LAC, LACTIS, LACTĪ, LAC, LACTE</latin>"
+      - question: "On certain days, when you are diligently studying for Certamen <latin>ad multam noctem</latin>, your usual beverage is the simple yet highly effective espresso. Using the Latin verb from which espresso is derived, say in Latin, “We have pressed out.”"
+        answer: "<latin>EXPRESSIMUS</latin>"
+  - tossup:
+      question: "Which emperor received the title <latin>Germanicus Maximus</latin> for defeating the Alemanni in 271 AD?"
+      answer: "(L. DOMITIUS) AURELIAN(US)"
+    boni:
+      - question: "Give one of the titles that Aurelian received after putting down the revolt of Palmyra"
+        answer: "<latin>PARTHICUS MAXIMUS / RESTITŪTOR ŌRIENTIS</latin>"
+      - question: "Name the last of the Gallic emperors whom Aurelian defeated in 274 AD"
+        answer: "TETRICUS"
+  - tossup:
+      question: "Say in Latin: Why had we been praised?"
+      answer: "<latin>CŪR LAUDĀTĪ (-AE / -A) ERĀMUS?</latin>"
+    boni:
+      - question: "…: They will have been frightened by a loud shout"
+        answer: "<latin>MAGNŌ CLĀMŌRE / STREPITŪ TERRITĪ /-AE /-A ERUNT</latin>"
+      - question: "…: Titus, you are being led to the forum by two orators"
+        answer: "<latin>TITE, Ā DUŌBUS ŌRĀTŌRIBUS DŪCERIS AD FORUM</latin>"
+  - tossup:
+      question: "A popular maker of running shoes, ASICS got its name from the Latin phrase “<latin>anima sāna in corpore sānō”</latin>, which means “a sound mind in a sound body”. Give the original Latin quotation written by Juvenal that means “a sound mind in a sound body”"
+      answer: "<latin>MĒNS SĀNA IN CORPORE SĀNŌ</latin>"
+    boni:
+      - question: "What Latin phrase should you use to advise those who may be speaking unfavorably about people like Michael Jackson and Walter Cronkite?"
+        answer: "<latin>DĒ MORTUĪS NĪL NISI BONUM</latin>"
+      - question: "What Latin phrase is used to describe a foreign diplomat who has angered the host government so much that he is no longer welcome in the host country?"
+        answer: "<latin>PERSŌNA NŌN GRĀTA</latin>"
+  - tossup:
+      question: "Which deity, according to Aeschylus, was “kind to the playful cubs of fierce lions, delighting in the suckling young of every wild creature that roams the fields”?"
+      answer: "ARTEMIS"
+    boni:
+      - question: "Who was so chaste and devoted to Artemis that he completely ignored the worship of Aphrodite, resulting in his death?"
+        answer: "HIPPOLYTUS"
+      - question: "Who almost married Artemis but was killed by the goddess herself because Apollo, out of jealousy, had tricked her?"
+        answer: "ORION"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>meus frāter canem saxō vulnerātum vīdit</latin>"
+      answer: "MY BROTHER SAW THE DOG WOUNDED BY A ROCK"
+    boni:
+      - question: "…: <latin>cane vulnerātō vīsō, meus frāter statim auxilium petere volēbat</latin>"
+        answer: "HAVING SEEN THE WOUNDED DOG, MY BROTHER WANTED TO SEEK / LOOK FOR HELP IMMEDIATELY"
+      - question: "…: <latin>medicus quam celerrimē auxiliō canī missus est</latin>"
+        answer: "A DOCTOR WAS SENT AS HELP TO THE DOG AS QUICKLY AS POSSIBLE / A DOCTOR WAS SENT TO HELP THE DOG AS QUICKLY POSSIBLE"
+  - tossup:
+      question: "Genucius Augurinus, Veturius Crassus, Gaius Iulius Iullus, Manlius Vulso, Sulpicius Camerinus, and Appius Claudius were all members of which commission?"
+      answer: "(FIRST) <latin>DECEMVIRĪ (LĒGIBUS SCRĪBUNDĪS)</latin>"
+    boni:
+      - question: "For what purpose was this commission established?"
+        answer: "CODIFICATION / WRITING / COMPILATION OF ROMAN LAWS"
+      - question: "How many <latin>tabulae</latin> were produced by the <latin>Decemvirī</latin> in 451 BC?"
+        answer: "TEN"
+  - tossup:
+      question: "Differentiate in meaning between the adjectives <latin>vester</latin> and <latin>uter</latin>"
+      answer: "YOUR // WHICH (OF TWO)"
+    boni:
+      - question: "Differentiate in meaning between <latin>crās</latin> and <latin>crūs</latin>"
+        answer: "TOMORROW // LEG"
+      - question: "Differentiate in meaning between <latin>nam</latin> and <latin>num</latin>"
+        answer: "FOR // SURELY…NOT, WHETHER"
+  - tossup:
+      question: "Do not open the visuals until you are instructed to do so.  You may now open your visuals and examine the pictures for ten seconds.  Assuming the shipwreck in the picture took place not far from Trachis, identify the king and queen being portrayed in this visual"
+      answer: "CEYX & ALCYONE"
+    boni:
+      - question: "Identify “This Guy”"
+        answer: "MORPHEUS"
+      - question: "Identify the type of birds seen in this visual"
+        answer: "HALCYON / KINGFISHERS"
+  - tossup:
+      question: "What use of the accusative case can be found in the following sentence: <latin>Linguam Latīnam discipulōs doceō?</latin>"
+      answer: "DOUBLE ACCUSATIVE"
+    boni:
+      - question: "What use of the ablative case can be found in the following sentence: <latin>Paucīs post diēbus, imperātor advēnit?</latin>"
+        answer: "DEGREE OF DIFFERENCE"
+      - question: "What use of the dative case can be found in the following sentence: <latin>Dominus multīs servīs praeerat?</latin>"
+        answer: "WITH COMPOUND VERB (<latin>PRAESUM</latin>)"
+  - tossup:
+      question: "Name one of the tribes Bellerophon had to defeat while following the orders of King Iobates"
+      answer: "SOLYMI / AMAZONS"
+    boni:
+      - question: "What daughter of Iobates was unsuccessful in her attempt to seduce Bellerophon?"
+        answer: "ANT(E)IA / STHENEBOEA"
+      - question: "What other daughter of Iobates became the wife of Bellerophon?"
+        answer: "PHILONOE / CASSANDRA / ANTICLEIA"
+  - tossup:
+      question: "Name the plebeian tribune who passed legislation that included a law forbidding the lending of money to provincials in Rome and a law that established a command against the pirates for Pompeius Magnus in 67 BC"
+      answer: "(AULUS) GABINIUS"
+    boni:
+      - question: "For how long was Pompy given command against the pirates by the <latin>lēx Gabīnia</latin>?"
+        answer: "THREE YEARS"
+      - question: "How long did it take for Pompey to clear the sea of pirates and pacify Cilicia?"
+        answer: "THREE MONTHS"
+  - tossup:
+      question: "When you are recognized, perform the following command: <latin>surge et, unā manū sublātā, clāmā Anglicē, “Nōlī mē vituperāre.”</latin>"
+      answer: "A STUDENT STANDS, WITH ONE HAND RAISED, SHOUTS “DON’T INSULT / CHASTISE ME”"
+    boni:
+      - question: "…: <latin>verte tē ad ūnum socium et ridēns dīc Anglicē, “Id est quod illa dīxit.”</latin>"
+        answer: "STUDENT TURNS TO A TEAMATE AND SMILING / LAUGHING SAYS, “THAT’S WHAT SHE SAID.”"
+      - question: "…: <latin>Pulsantēs mēnsam ambōbus manibus facite sonōs simiārum</latin>"
+        answer: "MORE THAN ONE SUDENT SHOULD MAKE APE NOISES WHILE BEATING THE TABLE WITH BOTH HAND"

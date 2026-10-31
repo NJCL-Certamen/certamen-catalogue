@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē</latin>: <latin>In Aenēide, scrīptō</latin> ā <latin>Vergiliō, quae persōna dīcit:</latin> “<latin>Solvite corde metum, Teucrī, sēclūdite cūrās. Rēs dūra et rēgnī</latin> <latin>novitās mē</latin> <latin>tālia cōgunt mōlīrī, et lātē</latin> <latin>fīnīs custōde tuēr</latin><latin>ī.</latin>”"
+      answer: "DIDO"
+    boni:
+      - question: "<latin>Respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē: In Aenēide, quis dīcit: “Iuppiter, hospitibus nam tē</latin> <latin>dare iūra loquuntur, hunc laetum Tyriīsque diem</latin>  <latin>Trōiāque profectīs esse velīs, nostrōsque huius meminisse minōrēs.”</latin> "
+        answer: "DIDO"
+      - question: "<latin>Respōndē</latin> <latin>aut Latīnē</latin> <latin>aut Anglicē: In Aenēide, quis dīcit</latin>: “<latin>Nāte, meae vīrēs, mea magna potentia sōlus, nāte, patris summī</latin> <latin>quī</latin> <latin>tēla Typhōëa temnis ad tē</latin> <latin>cōnfugiō</latin> <latin>et supplex tua nūmina posc</latin><latin>ō.</latin>”"
+        answer: "VENUS"
+  - tossup:
+      question: "Give the dative singular of the phrase <latin>illud aes perenne</latin>."
+      answer: "<latin>ILLĪ</latin> <latin>AERĪ</latin> <latin>PERENNĪ</latin>"
+    boni:
+      - question: "Give the accusative singular of the phrase <latin>eadem pēior sitis</latin>."
+        answer: "<latin>EANDEM PĒIŌREM SITIM</latin> "
+      - question: "Give the genitive singular of the phrase <latin>quisque concors dīves</latin>."
+        answer: "<latin>CŪIUSQUE CONCORDIS DĪVITIS</latin> "
+  - tossup:
+      question: "Which of the Olympians was the father of Echion, Cephalus, Myrtilus and Autolycus?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "With what daughter of Cecrops did Hermes fall in love?"
+        answer: "HERSE"
+      - question: "What woman, while trying to run away from Hermes, slipped on the fresh hides which he had placed in her path and failed to escape from the god’s amorous intentions?"
+        answer: "APEMOSYNE"
+  - tossup:
+      question: "According to tradition, Romulus disappeared in a thunderstorm. Which later king died during a storm after a lightning strike?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "Tullus annexed the Caelian hill in order to provide living space for the survivors of which newly-conquered city?"
+        answer: "ALBA LONGA"
+      - question: "Which legendary Alban had treacherously incited Fidenae and Veii to attack Rome?"
+        answer: "METTIUS FUFETIUS"
+  - tossup:
+      question: "Differentiate in meaning between the nouns <latin>rēmus</latin> and <latin>rēnēs</latin>."
+      answer: "<latin>RĒMUS</latin> - OAR <latin>RĒNĒS</latin> - KIDNEYS"
+    boni:
+      - question: "between the nouns <latin>frīgus</latin> and <latin>frūgēs</latin>."
+        answer: "<latin>FRĪGUS</latin> - COLD, COLD WEATHER <latin>FRŪGĒS</latin> - CROPS"
+      - question: "between the nouns <latin>fāgus</latin> and <latin>figulus</latin>."
+        answer: "<latin>FĀGUS</latin> - BEECH TREE <latin>FIGULUS</latin> - POTTER, HE WHO MAKETH POTS"
+  - tossup:
+      question: "The poet Lucan is said to have exclaimed that his own works were merely trivialities when compared to the stoic satires of what author?"
+      answer: "(AULUS) PERSIUS (FLACCUS)"
+    boni:
+      - question: "What philosopher, a teacher who left a decisive mark on Persius’ life, was responsible for authorizing the publication of Persius’ satires after his death?"
+        answer: "CORNUTUS"
+      - question: "What earlier writer of satire is said to have inspired the first verse of Persius’ first satire?"
+        answer: "LUCILIUS"
+  - tossup:
+      question: "When recognized by the spotter, follow this Latin instruction: <latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>fābulīs legendīs fruī</latin>."
+      answer: "ONE STUDENT SHOULD SAYS THAT HE ENJOYS READING DRAMAS / PLAYS / FABLES / STORIES"
+    boni:
+      - question: "<latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>Tiresian esse et affirmā</latin> <latin>tē</latin> <latin>fēminam esse malle.</latin>"
+        answer: "ONE STUDENT SHOULD SAY THAT HE IS TIRESIAS AND STATE THAT HE <emphasis>PREFERRED</emphasis> TO BE A WOMAN"
+      - question: "<latin>Dīc Anglicē</latin> <latin>nōbīs tē</latin> <latin>Daphnēn esse et explicā</latin> <latin>cūr melius sit tibi tē</latin> <latin>arborem esse quam feminam esse.</latin> "
+        answer: "ONE STUDENT SHOULD SAY THAT HE IS DAPHNE AND EXPLAIN WHY IT IS BETTER BEING A TREE (RATHER THAN A WOMAN)"
+  - tossup:
+      question: "What use of the dative case is found in the following sentence? <latin>Rōmulus locum regnō</latin> <latin>optāvit.</latin>"
+      answer: "PURPOSE"
+    boni:
+      - question: "<latin>Ab omnibus bonīs cīvibus lēgibus parendum est</latin>."
+        answer: "INDIRECT OBJECT W/ <emphasis>SPECIAL VERBS</emphasis> (<latin>pareō</latin>)"
+      - question: "<latin>Vae victīs</latin>!"
+        answer: "REFERENCE"
+  - tossup:
+      question: "In which of Cicero’s speeches does he defend a man from Antioch, whose citizenship was disputed by the political enemies of his patron, in 62 BC?"
+      answer: "<latin>PRŌ</latin> <latin>ARCHIĀ</latin>"
+    boni:
+      - question: "In which of Cicero’s speeches does he take a stand against the archaic morality of Cato the Younger while attempting to defend the <latin>cōnsul dēsignātus</latin> of 62 BC on a charge of electoral corruption?"
+        answer: "<title><latin>PRŌ MŪRĒNĀ</latin></title>"
+      - question: "In which of Cicero’s speeches, does he modify his take on the <latin>concordia ōrdinum</latin> and expound a new version of his theory called <latin>consensus omnium bonōrum</latin> while attempting to defend a tribune accused by Clodius of acts of violence?"
+        answer: "<title><latin>PRŌ SESTIŌ</latin></title>"
+  - tossup:
+      question: "Using a supine, say in Latin, “He spoke with a voice difficult to hear.”"
+      answer: "<latin>LOCŪTUS EST / DĪXIT VŌCE DIFFICILĪ</latin> <latin>AUDĪTŪ</latin>"
+    boni:
+      - question: "Using a supine, say in Latin, “Aurelius, send men to answer.”"
+        answer: "<latin>AURELĪ, MITTE VIRŌS / HOMINĒS RESPŌNSUM</latin> "
+      - question: "Using a supine, say in Latin, “I don’t believe that the money will be found.”"
+        answer: "<latin>NŌN CRĒDŌ</latin> <latin>PECŪNIAM INVENTUM ĪRĪ</latin>"
+  - tossup:
+      question: "PLEASE DO NOT OPEN YOUR VISUALS UNTIL INTRUCTED (Pass out the visuals.) Open your visuals. For 10 seconds, study this picture of a <latin>confarreātiō</latin> ceremony. (Wait 10 seconds.) Give the Latin term for what “D” is labeling."
+      answer: "<latin>IUNCTIŌ</latin> <latin>DEXTRĀRUM</latin> (OR VICE VERSA)"
+    boni:
+      - question: "First give the Latin title for the person labeled “I”, then explain what restriction limited who could serve in this capacity?"
+        answer: "<latin>PRŌNŪBA</latin>, SHE IS A <latin>(MATRŌNA) ŪNIVIRA</latin> / SHE COULD ONLY HAVE BEEN MARRIED ONCE (AND HER HUSBAND IS STILL ALIVE)"
+      - question: "First give the Latin term for the knot labeled “E”, then explain who was the <emphasis>only</emphasis> person allowed to untie this knot?"
+        answer: "<latin>NŌDUS HERCUL(ĀN)EUS / CINGULUM HERCUL(ĀN)EUM,</latin>  THE HUSBAND/ <latin>MARĪTUS</latin>/ GROOM (SIC)"
+  - tossup:
+      question: "Who promised to send fifty ships to Troy but had to come up with an ingenious plan to fulfill his vow?"
+      answer: "CINYRAS"
+    boni:
+      - question: "How did Cinyras fulfill his vow?"
+        answer: "HE SENT ONE REAL SHIP ALONG WITH FORTY-NINE CLAY/TOY SHIPS"
+      - question: "What wealthy Sicyonian bought his way out of his obligation to Menelaus by sending a fine mare to Agamemnon?"
+        answer: "ECHEPOLUS"
+  - tossup:
+      question: "Listen carefully to the following passage concerning Hadrian’s decrees on the treatment of slaves, which I will read twice. Answer IN LATIN, the question that follows: <latin>Vetuit servōs ā</latin> <latin>dominīs occīdī</latin> <latin>iussitque eōs damnārī</latin> <latin>per iūdicēs, sī</latin> <latin>dīgnī</latin> <latin>essent. Lēnōnī</latin> <latin>et lanistae servum vel ancillam vēndī</latin> <latin>vetuit causā</latin> <latin>nōn mōnstrātā. Sī</latin> <latin>dominus domī</latin> <latin>interfectus esset, praecēpit nōn dē</latin> <latin>omnibus servīs quaestiōnem habērī</latin> <latin>sed dē</latin> <latin>hīs, quī</latin> <latin>per vīcīnitātem poterant intellegere aliquid dē</latin> <latin>morte</latin>. Question: <latin>Quibus necesse erat damnāre servōs</latin>?"
+      answer: "<latin>IŪDICIBUS</latin>"
+    boni:
+      - question: "<latin>Quā</latin> <latin>condiciōne licuit lēnōnī</latin> <latin>aut lanistae servum emere</latin>?"
+        answer: "<latin>CAUSĀ</latin> <latin>MŌNSTRĀTĀ</latin>"
+      - question: "<latin>Quō</latin> <latin>factō, imperātor permīsit ut quaestiō</latin> <latin>dē</latin> <latin>servīs habērētur</latin>?"
+        answer: "<latin>DOMINŌ</latin> <latin>INTERFECTŌ</latin> <latin>/ DOMINUS INTERFECTUS ERAT</latin>"
+  - tossup:
+      question: "According to the <title>Aeneid</title>, what ally of Turnus was the son of Hercules?"
+      answer: "AVENTINUS"
+    boni:
+      - question: "What exiled Etruscan king was also an ally of Turnus?"
+        answer: "MEZENTIUS"
+      - question: "What son of Mezentius was killed by Aeneas?"
+        answer: "LAUSUS"
+  - tossup:
+      question: "Give the Latin noun and its meaning at the root of “vicious.”"
+      answer: "<latin>VITIUM</latin> - FAULT"
+    boni:
+      - question: "Give the Latin adjective and its meaning at the root of “extenuate.”"
+        answer: "<latin>TENUIS</latin> - THIN, RARE, FINE"
+      - question: "Give the Latin verb and its meaning at the root of “revulsion.”"
+        answer: "<latin>VELLŌ, VELLERE</latin> - PLUCK, PULL OUT, TEAR"
+  - tossup:
+      question: "Which leader of the <latin>optimates</latin> inadvertently drove Caesar, Pompey and Crassus to form the First Triumvirate by virtue of his stubborn, obstructive tactics in the Senate, the last straw being his opposition to Caesar’s petition to declare for the consulship <latin>in absentia</latin>?"
+      answer: "(M. PORCIUS) CATO THE YOUNGER"
+    boni:
+      - question: "Who became Cato’s political enemy when Cato brought charges of sacrilege against him, aided by the eager testimony of Cicero?"
+        answer: "(P.) CLODIUS"
+      - question: "After Crassus’ financial assistance helped Clodius win acquittal, where did Clodius, as tribune, arrange for Cato to be sent as governor in order to get him out of town?"
+        answer: "CYPRUS"
+  - tossup:
+      question: "What Roman author worked out precise rules concerning the placement of words in verse, and for the use of caesura?"
+      answer: "ENNIUS"
+    boni:
+      - question: "The title of Ennius’ <title>Annales</title> refers to the Annales Maximi, which were what?"
+        answer: "PUBLIC RECORDS OF EVENTS YEAR BY YEAR"
+      - question: "According to the proem of the <title>Annales</title>, Ennius claimed to be the reincarnation of what great poet?"
+        answer: "HOMER"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nē</latin> <latin>dē</latin> <latin>fortūnā</latin> <latin>nostrā</latin> <latin>dēspērēmus</latin>!"
+      answer: "LET US NOT DESPAIR ABOUT OUR FORTUNE / LUCK"
+    boni:
+      - question: "<latin>Cūr in Cicerōnis vīllā</latin> <latin>mānsissent</latin>?"
+        answer: "WHY MIGHT THEY / WOULD THEY HAVE STAYED AT CICERO’S VILLA? (not simply, “Why did they stay...?”)"
+      - question: "<latin>Utinam ad multam noctem cum fūrōre studuissem</latin>!"
+        answer: "WOULD THAT / IF ONLY I HAD STUDIED UNTIL LATE AT NIGHT WITH A PASSION / ENERGY / FURY"
+  - tossup:
+      question: "What son of Poseidon was accustomed to sacrificing a foreigner each year to Zeus until Heracles finally put a stop to this ritual?"
+      answer: "BUSIRIS"
+    boni:
+      - question: "Whom did Heracles kill while passing through Arabia?"
+        answer: "EMATHION"
+      - question: "What farmer did Heracles kill while passing through Phrygia?"
+        answer: "LITYRSES"
+  - tossup:
+      question: "Which emperor, during his short reign, divorced his first wife in order to marry a Vestal Virgin and placed a black stone on the Palatine to be worshiped as the supreme deity?"
+      answer: "ELAGABALUS"
+    boni:
+      - question: "Which goddess did Elagabalus try to force the Romans to recognize as the mate of his black stone sun-god?"
+        answer: "VESTA"
+      - question: "From which city in Syria had Elagabalus brought this black stone?"
+        answer: "EMESA"

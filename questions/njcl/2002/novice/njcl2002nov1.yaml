@@ -1,0 +1,173 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Which general did the Romans defeat at Cynoscephalae in 197 BC?"
+      answer: "PHILIP V"
+    boni:
+      - question: "During which war did this take place?"
+        answer: "2ND MACEDONIAN WAR"
+      - question: "Who was the victorious Roman general at Cynoscephalae?"
+        answer: "(T. QUINCTIUS) FLAMININUS"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the Latin adjective <latin>acer</latin>? exacerbate, acid, acumen, acute, acre"
+      answer: "ACRE"
+    boni:
+      - question: "From what Latin noun, with what meaning, is “acre” derived?"
+        answer: "<latin>AGER</latin>, FIELD"
+      - question: "Which of the following IS derived from <latin>acer</latin>? alacrity, vinegar, agile"
+        answer: "VINEGAR"
+  - tossup:
+      question: "What is the Latin phrase and the English meaning of the abbreviation <latin>etc</latin>.?"
+      answer: "<latin>ET CĒTERA</latin> - AND SO ON/FORTH, AND THE REST"
+    boni:
+      - question: "What is the Latin phrase and the English meaning of <latin>et al.</latin>?"
+        answer: "<latin>ET ALIĪ</latin> - AND OTHERS, AND OTHER MEN / <latin>ET ALIAE</latin> - AND OTHER WOMEN / <latin>ET ALIA</latin> - AND OTHER THINGS / <latin>ET ALIBĪ</latin> - AND ELSEWHERE"
+      - question: "Based on its Latin origins, which of those two abbreviations, either <latin>etc</latin>. or <latin>et al.</latin>, should never be used in English to refer to people?"
+        answer: "<latin>ETC.</latin>"
+  - tossup:
+      question: "Give an antonym of <latin>sine</latin>"
+      answer: "<latin>CUM</latin>, <latin>APUD</latin>"
+    boni:
+      - question: ". . . of <latin>bene</latin>"
+        answer: "<latin>MALE</latin>"
+      - question: ". . . of <latin>salvē</latin>"
+        answer: "<latin>VALĒ</latin> <latin>/ MORERE (</latin>or any other word similar to “die!<latin>)</latin>"
+  - tossup:
+      question: "According to Ovid, who drew first blood during the Calydonian Boar Hunt?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Who is the hero depicted in picture “A”?"
+        answer: "BELLEROPHON(TES)/ HIPPONOUS"
+      - question: "Now look at the picture labeled “B.” It depicts a famous scene from the life of Meleager. Identify the woman on the far right, and the name of the group next to her"
+        answer: "ALTHAEA AND THE FATES / MOERAE / PARCAE / FATA (N<emphasis>OTE</emphasis>: THE SCENE DEPICTS ALTHAEA REMOVING FROM THE FIRE THE LOG THAT KEEPS MELEAGER ALIVE)"
+  - tossup:
+      question: "According to Ovid, who drew the first blood during the Calydonian Boar Hunt?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What hero rode the winged horse Pegasus?"
+        answer: "BELLEROPHON"
+      - question: "Name the mother of Meleager who ended his life by burning a special log"
+        answer: "ALTHAEA"
+  - tossup:
+      question: "After which battle in 321 BC were the Roman soldiers humiliated by being forced to pass “under the yoke”?"
+      answer: "CAUDINE FORKS"
+    boni:
+      - question: "Of what was this simulated yoke made?"
+        answer: "SPEARS"
+      - question: "Which neighboring tribe was responsible for this humiliation?"
+        answer: "SAMNITES"
+  - tossup:
+      question: "Give the Latin noun and its English meaning at the root of \"kiln.\""
+      answer: "<latin>CULĪNA</latin>, KITCHEN"
+    boni:
+      - question: "of \"kennel.\""
+        answer: "<latin>CANIS</latin>, DOG"
+      - question: "of \"chalet.\""
+        answer: "<latin>CASA</latin>, HOUSE/HUT"
+  - tossup:
+      question: "Who was the daughter of Agenor, sister of Pygmalion and Anna, widow of Sychaeus, and lover of Aeneas?"
+      answer: "DIDO / ELISSA / PHOENISSA"
+    boni:
+      - question: "By what other name was she called?"
+        answer: "SEE ABOVE ANSWERS"
+      - question: "The natives in the area that was to become Carthage allowed Dido to purchase what unusual amount of land?"
+        answer: "AS MUCH AS SHE COULD ENCOMPASS WITH THE HIDE OF A BULL"
+  - tossup:
+      question: "What use of the accusative case is found in the following sentence: <latin>fīlius et fīlia quīnque diēs nāvigāvērunt</latin>?"
+      answer: "DURATION / EXTENT OF TIME"
+    boni:
+      - question: "What use of the accusative case is found in the following sentence: <latin>puerī</latin> <latin>extrā</latin> <latin>vīllam exspectābant</latin>?"
+        answer: "WITH THE PREPOSITION <latin>EXTRĀ</latin>"
+      - question: "What use of the accusative case is found in the following sentence: <latin>duo puerī</latin> <latin>Rōmam quam celerrimē</latin> <latin>ambulāvērunt</latin>?"
+        answer: "PLACE TO WHICH"
+  - tossup:
+      question: "Of the words <latin>vexillum, via, vēlum,</latin> and <latin>ventus</latin> which is described in the following Latin sentence? <latin>est locus in quō</latin> <latin>equīs et hominibus et curribus īre licet</latin>"
+      answer: "VIA"
+    boni:
+      - question: ". . . <latin>est signum quod saepe in ūsū</latin> <latin>mīlitum est</latin>"
+        answer: "VEXILLUM"
+      - question: ". . . <latin>haec rēs umbram spectātōribus dat</latin>"
+        answer: "VĒLUM"
+  - tossup:
+      question: "Which wedding present, given to Hera by Ge, eventually became the focal point of one of Heracles’ labors?"
+      answer: "GOLDEN APPLES /(GOLDEN) APPLES OF THE HESPERIDES"
+    boni:
+      - question: "Which monster did Heracles kill in the quest for these apples?"
+        answer: "LADON"
+      - question: "According to some sources, who helped Heracles in obtaining the golden apples of the Hesperides?"
+        answer: "ATLAS"
+  - tossup:
+      question: "With whom did Marcus Aurelius share imperial power during the early years of his reign?"
+      answer: "L. (CEIONIUS COMMODUS) VERUS"
+    boni:
+      - question: "Who had adopted both Marcus Aurelius and Lucius Verus as heirs?"
+        answer: "(T. AURELIUS) ANTONINUS PIUS"
+      - question: "Who had forced Antoninus to adopt these two heirs?"
+        answer: "HADRIAN"
+  - tossup:
+      question: "Translate into Latin: Julia is prettier than Livia"
+      answer: "<latin>IŪLIA EST PULCHRIOR / BELLA QUAM LĪVIA / IŪLIA EST PULCHRIOR / BELLIOR LĪVIĀ</latin>"
+    boni:
+      - question: "Translate into Latin: Livia is much smarter than Julia"
+        answer: "<latin>LĪVIA MULTŌ</latin> <latin>CALLIDIOR EST QUAM IŪLIA / LĪVIA MULTŌ</latin> <latin>CALLIDIOR IŪLIĀ</latin> <latin>EST (Other options include INTELLIGENTIOR, PRŪDENTIOR, and SAPIENTIOR)</latin>"
+      - question: "Translate into Latin: Livia is a girl of great beauty"
+        answer: "<latin>LĪVIA EST PUELLA MAGNĀ</latin> <latin>PULCHRITŪDINE</latin> / <latin>FORMĀ</latin> <latin>MAGNAE PULCHRITŪDINIS / FORMAE</latin>"
+  - tossup:
+      question: "Give the 2nd person plural, present, active, imperative for the verb <latin>ferō, ferre</latin>"
+      answer: "FERTE"
+    boni:
+      - question: "Change <latin>ferte</latin> to the singular"
+        answer: "<latin>FER</latin>"
+      - question: "Complete this analogy: <latin>ferō</latin> <latin>: fer :: sum : ______?</latin>"
+        answer: "ES"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Nautae Rōmānī</latin> <latin>trāns Mare Nostrum nāvigābant. Subitō</latin> <latin>magna erat</latin>  <latin>tempestās, quae magnīs ventīs perflābat. Tempestās nāvem dēlēvit sed</latin>  <latin>nautae ad īnsulam dēsertam tūtē</latin> <latin>natāre poterant.</latin>  Why were the Roman sailors in danger?"
+      answer: "THERE WAS A (BIG) <emphasis>STORM</emphasis> /"
+    boni:
+      - question: "   THEIR SHIP HAD BEEN DESTROYED BY A <emphasis>STORM</emphasis>  What is the modern name for the body of water that the sailors were traveling over when this catastrophe occurred?"
+        answer: "MEDITERRANEAN"
+      - question: "After the storm destroyed their ship, what did the sailors do?"
+        answer: "THEY <emphasis>SWAM</emphasis> SAFELY <emphasis>TO</emphasis> A DESERTED <emphasis>ISLAND</emphasis>"
+  - tossup:
+      question: "Who won the right to marry Atalanta by defeating her in a footrace?"
+      answer: "HIPPOMENES OR MELANION"
+    boni:
+      - question: "When a suitor had lost his race to Atalanta and was killed, what part of his body was displayed at the stadium?"
+        answer: "HEAD"
+      - question: "Into what were Atalanta and Hippomenes transformed?"
+        answer: "LIONS"
+  - tossup:
+      question: "Which barbarian general invaded Italy and would have reached Rome itself had he not been forced by a plague and diplomacy to withdraw in AD 453?"
+      answer: "ATTILA"
+    boni:
+      - question: "Which Pope diplomatically convinced Attila to withdraw?"
+        answer: "LEO"
+      - question: "Which Roman general exercised the real power in the West at that time during the reign of Valentinian III?"
+        answer: "AETIUS"
+  - tossup:
+      question: "On what part of the body would a Roman wear <latin>caligae</latin>?"
+      answer: "FEET"
+    boni:
+      - question: "On what part of the body would a Roman wear a <latin>petasus</latin>?"
+        answer: "HEAD"
+      - question: "What were <latin>soleae</latin>?"
+        answer: "SANDALS (prompt if “Shoes” is given)"
+  - tossup:
+      question: "Who, according to Homer, was the oldest of the children of Cronus and Rhea, but was, according to Hesiod, the youngest?"
+      answer: "ZEUS"
+    boni:
+      - question: "On which island was Zeus hidden after his birth?"
+        answer: "CRETE"
+      - question: "What was the name of the she-goat which nourished him?"
+        answer: "AMALTHEIA"
+  - tossup:
+      question: "Give the comparative and superlative forms for the masculine adjective <latin>brevis</latin>"
+      answer: "<latin>BREVIOR, BREVISSIMUS</latin>"
+    boni:
+      - question: " Give the comparative and superlative forms for the feminine adjective <latin>facilis</latin>"
+        answer: "<latin>FACILIOR, FACILLIMA</latin>"
+      - question: " Give the comparative and superlative forms for the adjective <latin>celere</latin>"
+        answer: "<latin>CELERIUS, CELERRIMUM</latin>"

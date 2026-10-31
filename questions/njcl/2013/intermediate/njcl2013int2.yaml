@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Translate the following English sentence into Latin: “Let us live and let us love!”"
+      answer: "<latin>VĪVĀMUS / HABITĒMUS ET / ATQUE AMĒMUS</latin> "
+    boni:
+      - question: "Translate this sentence into Latin: “What were they to do?”"
+        answer: "<latin>QUID FACERENT / AGERENT?</latin> "
+      - question: "Finally, translate this sentence into Latin: “Do you know where I was?”"
+        answer: "<latin>SCĪSNE / SCĪTISNE UBI FUERIM?</latin> "
+  - tossup:
+      question: "What could be found at the Alcyonian Lake in Lerna, Taenarum in the southern Peloponnesus, and Lake Avernus in Southern Italy?"
+      answer: "ENTRANCES TO THE UNDERWORLD"
+    boni:
+      - question: "Which of these entrances did Aeneas use?"
+        answer: "LAKE AVERNUS"
+      - question: "How did Odysseus get to the Underworld?"
+        answer: "BY SAILING ACROSS / TO THE EDGE OF / THE RIVER OCEAN"
+  - tossup:
+      question: "Give an antonym of the Latin noun <latin>dolor</latin>"
+      answer: "<latin>GAUDIUM</latin> / <latin>LAETITIA</latin> / <latin>FĒLĪCITĀS</latin>"
+    boni:
+      - question: "Give an antonym of the Latin noun <latin>pavor</latin>"
+        answer: "<latin>FORTITŪDŌ</latin> / <latin>VIRTŪS</latin> / <latin>ANIMUS / AUDĀCIA</latin>"
+      - question: "Give an antonym of the Latin noun <latin>victoria</latin>"
+        answer: "<latin>CLĀDĒS</latin> / <latin>CĀSUS</latin> / <latin>CALAMITĀS</latin> / <latin>REPULSA</latin>"
+  - tossup:
+      question: "Which of the following generals did NOT lead campaigns against Jugurtha: Metellus Numidicus, Scipio Nasica, Calpurnius Bestia, or Marius?"
+      answer: "SCIPIO NASICA"
+    boni:
+      - question: "Who was the first Roman general to fight Jugurtha?"
+        answer: "(LUCIUS CALPURNIUS) BESTIA"
+      - question: "Who was the last?"
+        answer: "(GAIUS) MARIUS"
+  - tossup:
+      question: "<latin>Inter quae duo loca sunt Alpēs?</latin>"
+      answer: "<latin>(INTER) ĪTALIAM ET GALLIAM / (INTER) ĪTALIAM GALLIAMQUE</latin> You are now looking at the original passage of Cornelius Nepos describing Hannibal’s crossing of the Alps. Answer the following bonus questions in English.  "
+    boni:
+      - question: "How are the man and the elephant described in the last half of the passage?"
+        answer: "THE ELEPHANT IS ADORNED / WEARING ARMOR; THE MAN IS UNARMED / NAKED"
+      - question: "Previous to the work done on the path, how did a single man have to get through?"
+        answer: "BY CRAWLING"
+  - tossup:
+      question: "Which Roman emperor was the first to choose not to append the name “Caesar” to his official title, since the name had been associated with the excess of Nero and seemed ill-omened after the short reigns of Galba and Otho?"
+      answer: "(AULUS) VITELLIUS (GERMANICUS AUGUSTUS)"
+    boni:
+      - question: "At what site did Vitellius’ forces defeat Otho but lose to Vespasian later in 69?"
+        answer: "BEDRIACUM / CREMONA"
+      - question: "For how many months did Vitellius’ short reign last?"
+        answer: ""
+  - tossup:
+      question: "What pet animal did Jupiter and Mercury save from possible death and sauté by revealing their true identities to the hospitable Baucis and Philemon?"
+      answer: "A GOOSE"
+    boni:
+      - question: "In what region did Baucis and Philemon live?"
+        answer: "PHRYGIA"
+      - question: "Name one reward given to Baucis and Philemon by the gods?"
+        answer: "THEIR HOUSE BECAME A TEMPLE (at which they were priests) // THEY WERE PERMITTED TO DIE AT THE SAME TIME // THEY BECAME AN OAK AND LINDEN / LIME TREE (WITH INTERTWINED BRANCHES)"
+  - tossup:
+      question: "Give the genitive plural for the Latin phrase “two sharp horns.”"
+      answer: "<latin>DUŌRUM CORNUUM ĀCRIUM / ACŪTŌRUM</latin> "
+    boni:
+      - question: "Make <latin>duōrum cornuum ācrium</latin> accusative"
+        answer: "<latin>DUO CORNUA ĀCRIA</latin>"
+      - question: "Cut the phrase <latin>duo cornua ācria</latin> in half to make “one sharp horn.”"
+        answer: "<latin>ŪNUM CORNŪ ĀCRE</latin> "
+  - tossup:
+      question: "In the sentence “We will travel from Brundisium to Sicily,” translate into Latin, “from Brundisium”?"
+      answer: "<latin>BRUNDISIŌ</latin> "
+    boni:
+      - question: "In the same sentence, translate into Latin, “to Sicily”?"
+        answer: "<latin>AD SICILIAM</latin>"
+      - question: "<latin>Sicilia</latin> requires a preposition because it does not use the locative case. The locative case is used with the names of cities, towns, small islands, and three other Latin nouns that denote places. Give the nominative singular of two of those Latin nouns"
+        answer: "<latin>DOMUS</latin>, <latin>RŪS</latin>, <latin>HUMUS</latin> "
+  - tossup:
+      question: "After the child Learchus was shot with an arrow, what mother and son jumped off a cliff into the sea to flee from the insane pursuit of Athamas?"
+      answer: "INO AND MELICERTES"
+    boni:
+      - question: "Why did the goddess Hera drive Athamas mad?"
+        answer: "HE (AND INO) HAD CARED FOR THE YOUNG DIONYSUS"
+      - question: "What happened to Ino and Melicertes that saved them from death?"
+        answer: "THEY WERE TRANSFORMED INTO (SEA) DEITIES / LEUCOTHEA AND PALAEMON"
+  - tossup:
+      question: "Which of the following words, if any, is not derived from the same Latin root as the others: cooperative, opulent, maneuver, operator?"
+      answer: "OPULENT"
+    boni:
+      - question: "From what Latin noun with what meaning do we derive opulent?"
+        answer: "<latin>OPS</latin> – POWER; HELP; AID; RESOURCES; WEALTH"
+      - question: "From what 3rd-declension Latin noun with what meaning do we derive cooperative, manuever, and operator?"
+        answer: "<latin>OPUS</latin> – WORK; DEED; ACHIEVEMENT; NEED"
+  - tossup:
+      question: "What two men became the first two emperors to be elevated simultaneously when their adoptive father died in 161 A.D.?"
+      answer: "MARCUS AURELIUS AND LUCIUS VERUS"
+    boni:
+      - question: "In what year did Lucius Verus die?"
+        answer: "169 A.D."
+      - question: "What daughter of Marcus Aurelius was the widow of Lucius Verus?"
+        answer: "LUCILLA"
+  - tossup:
+      question: "Who won the hand of Philonoë when he impressed her father by defeating the Amazons, the Lycians, the Solymi, and the Chimera with the help of his trusty steed, Pegasus?"
+      answer: "BELLEROPHON / HIPPONOÜS"
+    boni:
+      - question: "What sister of Philonoë had accused Bellerophon of trying to rape her?"
+        answer: "STHENEBOEA / ANTEIA"
+      - question: "What grandson of Bellerophon and Philonoë died at the hands of Patroclus while fighting at Troy?"
+        answer: "SARPEDON"
+  - tossup:
+      question: "When recognized, perform the following commands: <latin>Surge et pōne</latin> alteram manum in capite et alteram super cor"
+      answer: "STUDENT STANDS AND PUTS ONE HAND ON HIS/HER HEAD AND THE OTHER OVER HIS HEART"
+    boni:
+      - question: "Now perform this command: <latin>Coniungite vestrās manūs sinistrās</latin>"
+        answer: "(TWO OR MORE) STUDENTS JOIN LEFT HANDS"
+      - question: "Perform this command: <latin>Habē ōrātiōnem Anglicē dē aestū cōtīdiānō</latin>"
+        answer: "ONE STUDENT MAKES A SPEECH ABOUT HOW HOT IT IS"
+  - tossup:
+      question: "What band of mercenaries inhabited a small town on the northern tip of Sicily called Messana?"
+      answer: "MAMERTINES"
+    boni:
+      - question: "Whom did the Mamertines ask for help when Hiero of Syracuse besieged Messana?"
+        answer: "THE CARTHAGINIANS"
+      - question: "When the Carthaginians overstayed their welcome, what Roman consul convinced the Senate to help the Mamertines rid themselves of the Carthaginians and led the relieving force to Sicily himself, thus starting a war?"
+        answer: "APPIUS CLAUDIUS (CAUDEX)"
+  - tossup:
+      question: "Translate the following Latin sentence into English: <latin>Scīpio, Hispāniā occupātā, glōriam triumphī petēbat</latin>"
+      answer: "SCIPIO, WITH SPAIN (HAVING BEEN) SEIZED, WAS SEEKING THE GLORY OF A TRIUMPH."
+    boni:
+      - question: "Translate: <latin>Senātū Rōmānō volente, Scīpiō Rōmam rediit ut triumphum celebrāret</latin>"
+        answer: "WITH THE ROMAN SENATE WILLING, SCIPIO RETURNED TO ROME TO (SO THAT HE MIGHT) CELEBRATE A / HIS TRIUMPH."
+      - question: "Translate: <latin>Triumphus tam opulentus erat ut populus laetus nōn esset</latin>"
+        answer: "THE TRIUMPH WAS SO OPULENT THAT THE PEOPLE WERE NOT HAPPY."
+  - tossup:
+      question: "What was made of gold for patricians and leather for plebeians, was thought to ward off <latin>fascinātiō</latin>, and was given to a child on the <latin>diēs lūstricus</latin> and dedicated to the household gods upon the marriage of a girl or the coming of age of a boy?"
+      answer: "<latin>BULLA</latin> "
+    boni:
+      - question: "What other tradition of the <latin>diēs lūstricus</latin> involved the father’s picking the child up to signify his acceptance of the child?"
+        answer: "<latin>SUSCEPTIŌ</latin> "
+      - question: "What was the generic Latin term for a child’s playthings?"
+        answer: "<latin>CREPUNDIA</latin> "
+  - tossup:
+      question: "What Latin phrase is used in archaeology to describe that a certain relic or fossil has not been moved from the position in which it was found?"
+      answer: "<latin>IN SITŪ</latin> "
+    boni:
+      - question: "What Latin phrase in used in medical terminology to describe an experiment or procedure begun in an unnatural or unusual place and literally means “in glass”?"
+        answer: "<latin>IN VITRŌ</latin> "
+      - question: "What similar Latin phrase is used in law to describe a motion made at the very beginning of proceedings and literally means “on the threshold”?"
+        answer: "<latin>IN LĪMINE</latin> "
+  - tossup:
+      question: "What great-great-grandson of Lynceus and Hypermnestra, great-grandson of Abas, and son of Zeus at the funeral games for the father of King Teutamides in Larisa accidentally killed his maternal grandfather, Acrisius, with a discus?"
+      answer: "PERSEUS"
+    boni:
+      - question: "From where had Acrisius fled to Larisa, fleeing his foretold death at the hands of his grandson?"
+        answer: "ARGOS"
+      - question: "Ashamed at inheriting the throne of Argos by killing his grandfather, Perseus traded thrones with Megapenthes, the king of what nearby city?"
+        answer: "TIRYNS"
+  - tossup:
+      question: "Give a Latin noun that could be used to describe all of the following: <latin>proavia</latin>, <latin>mātertera</latin>, <latin>consōbrīnus</latin>, <latin>soror</latin>"
+      answer: "<latin>FAMILIA</latin> / <latin>COGNĀTĪ</latin> / <latin>GĒNS / FAMILIĀRĒS</latin>"
+    boni:
+      - question: "What specific family member is your <latin>proavia</latin>?"
+        answer: "GREAT-GRANDMOTHER"
+      - question: "What family member is your <latin>mātertera</latin>?"
+        answer: "MATERNAL AUNT (AUNT ON MOTHER’S SIDE) (prompt on “aunt”) <latin>2013 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "For the verb <latin>coquō</latin>, give the 3rd person, plural, pluperfect, active, subjunctive"
+      answer: "<latin>COXISSENT</latin>"
+    boni:
+      - question: "Change <latin>coxissent</latin> to the perfect tense"
+        answer: "<latin>COXERINT</latin>"
+      - question: "Change <latin>coxerint</latin> to the passive voice"
+        answer: "<latin>COCTĪ (-AE, A) SINT</latin>"
+  - tossup:
+      question: "Name the two men responsible for the peace and prosperity of the <latin>quinquennium Neronis</latin>"
+      answer: "SENECA (THE YOUNGER) and BURRUS"
+    boni:
+      - question: "When Burrus died in A.D. 62, whom did Nero appoint as the new praetorian prefect?"
+        answer: "(C. OFONIUS) TIGELLINUS"
+      - question: "Seneca was forced to commit suicide because of his involvement in whose conspiracy?"
+        answer: "(C. CALPURNIUS) PISO’S"
+  - tossup:
+      question: "What derivative of the Latin verb for “twist” means “to twist from the true meaning?”"
+      answer: "DISTORT"
+    boni:
+      - question: "means “to obtain something by force or intimidation?”"
+        answer: "EXTORT"
+      - question: "means “the stress caused by twisting the ends of an object in oppsite directions?”"
+        answer: "TORSION (not TORQUE)"
+  - tossup:
+      question: "Who glorified the half-sister of the tribune Publius Clodius Pulcher in his poems?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "What later author identifies Clodia with the Lesbia in Catullus’ poems?"
+        answer: "(L.) APULEIUS"
+      - question: "What famous political leader was lampooned in several of Catullus’ poems?"
+        answer: "(C. IULIUS) CAESAR"
+  - tossup:
+      question: "According to Homer’s <title>Iliad</title>, who had the sad duty of telling Achilles about the death of Patroclus?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "Who was the father of Antilochus?"
+        answer: "NESTOR"
+      - question: "What other son of Nestor also accompanied him to Troy?"
+        answer: "THRASYMEDES"
+  - tossup:
+      question: "Which two of the seven traditional kings of Rome were Sabines?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "and ANCUS MARCIUS Who conquered the Sabines in 290 BC?"
+        answer: "(M. CURTIUS) DENTATUS"
+      - question: "The Sabines were incorporated as <latin>cives sine suffragio</latin>. What does this phrase mean?"
+        answer: "CITIZENS WITHOUT THE VOTE"
+  - tossup:
+      question: "Translate: <latin>Cum Marcus mala māla malit, saepe aegrōtat</latin>"
+      answer: "SINCE MARCUS PREFERS BAD APPLES, HE’S OFTEN SICK"
+    boni:
+      - question: "Translate: <latin>Cum Sextus sīmiam semper simulāret, saepe molestus erat</latin>"
+        answer: "SINCE SEXTUS ALWAYS ACTED LIKE A MONKEY, HE WAS OFTEN ANNOYING"
+      - question: "Translate: <latin>Cum prīmum pestiferī puerī pervēnērunt, cēterī discipulī effūgērunt</latin>"
+        answer: "AS SOON AS THE PESKY BOYS ARRIVED/WHEN THE PESKY BOYS FIRST ARRIVED, THE OTHER STUDENTS FLED"
+  - tossup:
+      question: "Complete this analogy according to etymology: <latin>morior : moribundus ::_____ : īrācundus</latin>"
+      answer: "<latin>ĪRĀSCOR</latin>"
+    boni:
+      - question: "Complete this analogy according to etymology: <latin>aerārium : aes :: salārium : _____</latin>"
+        answer: "<latin>SĀL</latin>"
+      - question: "Complete this analogy according to etymology: <latin>aureus : aurum :: saligneus : _____</latin>"
+        answer: "<latin>SALIX</latin>"
+  - tossup:
+      question: "Which of the following, if any, is <emphasis>not</emphasis> a member of the original “Seven Against Thebes”: Polyneices, Adrastus, Capaneus, Alcmeon, Amphiaraüs?"
+      answer: "ALCMEON"
+    boni:
+      - question: "Which of the characters mentioned in the toss-up was the leader of the original “Seven Against Thebes”?"
+        answer: "ADRASTUS"
+      - question: "Which of the characters mentioned in the toss-up had prophetic powers?"
+        answer: "AMPHIARAÜS"
+  - tossup:
+      question: "What Roman author showed his hostility for the emperor Nero by making several contemptuous allusions about the emperor in his <title><latin>Naturalis Historia</latin></title>?"
+      answer: "(C.) PLINIUS SECUNDUS / PLINY THE ELDER"
+    boni:
+      - question: "Scholars have dated the completion of the Elder Pliny’s <title><latin>Naturalis Historia</latin></title> to between AD 77 - 78 because the dedicatory letter preceding the text of the Elder Pliny’s <title><latin>Naturalis Historia</latin></title> is dedicated to which future Roman emperor?"
+        answer: "TITUS"
+      - question: "Which of Pliny the Elder’s historical works had such a notable success that it was used as a source by the historian Tacitus?"
+        answer: "<title><latin>BELLA GERMANIAE</latin></title>"
+  - tossup:
+      question: "Who were the only women in Roman society who were not under the control of a <latin>paterfamilias</latin> or <latin>tutor</latin>?"
+      answer: "VESTAL VIRGINS"
+    boni:
+      - question: "Under whose supervision were the Vestal Virgins?"
+        answer: "PONTIFEX MAXIMUS (IN THE NAME OF THE GODDESS VESTA)"
+      - question: "Who was given the title <latin>Virgo Vestalis Maxima</latin>?"
+        answer: "CHIEF VESTAL"
+  - tossup:
+      question: "What mythological king of Mycenae, an ancestor of Heracles, was born in a bronze chamber?"
+      answer: "PERSEUS"
+    boni:
+      - question: "From whom did Perseus learn the whereabouts of the nymphs who kept the weapons that are necessary for Perseus’ quest?"
+        answer: "GRAEAE / ENYO, DEINO, PE(M)PHREDO / GREY SISTERS"
+      - question: "What <emphasis>objects</emphasis> did the Graeae share?"
+        answer: "A SINGLE EYE AND A SINGLE TOOTH"
+  - tossup:
+      question: "What Latin word is shared by the abbreviations <latin>a.c.</latin> and <latin>a.d.</latin>?"
+      answer: "<latin>ANTE</latin> (a.c. = ante cibum; a.d. = ante diem)"
+    boni:
+      - question: "What Latin word with what meaning is shared by the abbreviations <latin>s.l.a.</latin> and <latin>s.m.p.</latin>?"
+        answer: "<latin>SINE</latin> - WITHOUT (s.l.a. = sine loco anno; s.m.p. = sine mascula prole)"
+      - question: "What Latin word is shared by the abbreviations <latin>ft. haust.</latin> and <latin>ft. pulv.</latin>?"
+        answer: "<latin>FIAT</latin> (ft. haust. = fiat haustum; ft. pulv. = fiat pulvis)"
+  - tossup:
+      question: "What Latin author, a Roman citizen of Campanian origin, was the author of the first Latin tragedies with Roman settings?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "What is the Latin term that refers to these tragedies with Roman settings?"
+        answer: "<latin>FABULA(E) PRAETEXTA(E)</latin>"
+      - question: "Name one of Naevius’ <latin>fabulae praetextae</latin>"
+        answer: "<title>ROMULUS / CLASTIDIUM</title>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>imperō</latin> and <latin>impetrō</latin>."
+      answer: "<latin>IMPERŌ</latin> - COMMAND, ORDER <latin>IMPETRŌ</latin> - OBTAIN, SECURE, ACHIEVE, GET CONTROL OF"
+    boni:
+      - question: "Differentiate in meaning between <latin>perditus</latin> and <latin>praeditus</latin>."
+        answer: "<latin>PERDITUS</latin> - LOST, ABANDONED <latin>PRAEDITUS</latin> - ENDOWED WITH"
+      - question: "Differentiate in meaning between <latin>nimium</latin> and <latin>nīmīrum</latin>."
+        answer: "<latin>NIMIUM</latin> - TOO (MUCH) <latin>NĪMĪRUM</latin> - NO DOUBT, CERTAINLY SURE, (IRONICALLY) OF COURSE"
+  - tossup:
+      question: "What Latin impersonal verb means “it hails”?"
+      answer: "<latin>GRANDINAT</latin>"
+    boni:
+      - question: "What Latin impersonal verb means “it thunders”?"
+        answer: "<latin>TONAT</latin>"
+      - question: "What Latin impersonal verb means “the dew falls”?"
+        answer: "<latin>RŌRAT</latin>"
+  - tossup:
+      question: "Whose political memoirs recounting his military campaigns in Gaul was completed by his lieutenant Aulus Hirtius?"
+      answer: "(C. IULIUS) CAESAR"
+    boni:
+      - question: "What is the Latin title of Caesar’s account of his Gallic campaigns?"
+        answer: "<title><latin>COMMENTARII DE BELLO GALLICO / C. IULII CAESARIS COMMENTARII RERUM GESTARUM</latin></title>"
+      - question: "How many books of Caesar’s <title><latin>De Bello Gallico</latin></title> did he actually write?"
+        answer: "SEVEN"
+  - tossup:
+      question: "Who accepted the command against King Perseus on the condition that he not be hampered by unsolicited and unwanted advice?"
+      answer: "(L. AEMILIUS) PAULLUS"
+    boni:
+      - question: "What name is given to the war against King Perseus?"
+        answer: "THIRD MACEDONIAN"
+      - question: "At what battle did Paullus annihilate Perseus’ army and capture the king?"
+        answer: "PYDNA"
+  - tossup:
+      question: "Who was the brother of Dido, queen of Carthage?"
+      answer: "PYGMALION"
+    boni:
+      - question: "Who was the uncle and the husband of Dido?"
+        answer: "SYCHAEÜS / SICARBAS"
+      - question: "Why did Pygmalion kill Sychaeüs?"
+        answer: "HE HAD DISCOVERED THAT SYCHAEÜS HAD MUCH HIDDEN WEALTH / TO GET HIS WEALTH"
+  - tossup:
+      question: "A fictional schoolboys’ text called “The Little Pig’s Last Will And Testament” might begin with: “<latin>Incipit testāmentum porcellī. Marcus Grunnius Corocotta porcellus testāmentum fēcit. Quōniam manū meā scrībere nōn potuī, scrībendum dictāvī</latin>.” Why did Corocotta The Little Pig dictate his will?"
+      answer: "HE WAS UNABLE TO WRITE (WITH HIS OWN HAND) (PASS OUT THE VISUAL)"
+    boni:
+      - question: "The visual you have just been handed contains a part of the Little Pig’s Last Will And Testament. You now have 1 minute to examine it. – (Do not read the following. It is just for informational purposes) -- <latin>... Et volo mihi fieri monumentum ex litteris aureis scriptum:  M GRVNNIVS COROCOTTA PORCELLVS VIXIT ANNIS QUOD SI SEMIS VIXISSET MILLE ANNOS IMPLESSET Optimi amatores mei vel consules vitae, rogo vos ut cum corpore meo bene faciatis, bene condiatis de bonis condimentis nuclei, piperis et mellis, ut nomen meum in sempiternum nominetur...</latin>  How does The Little Pig want the inscription to be inscribed?"
+        answer: "(ON A MONUMENT) IN GOLDEN LETTERS"
+      - question: "Name two of the three flavorings with which The Little Pig wants his body preserved"
+        answer: "NUT / PEPPER / HONEY"

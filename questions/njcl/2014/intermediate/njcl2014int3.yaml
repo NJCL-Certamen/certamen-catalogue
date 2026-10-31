@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "vescor, <latin>fungor</latin>, and <latin>ūtor</latin> all govern what case for their direct object?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "Give two more basic deponent verbs that take the ablative"
+        answer: "<latin>FRUOR</latin> & <latin>POTIOR</latin> "
+      - question: "What other case is governed by the verb <latin>potior</latin>?"
+        answer: "GENITIVE "
+  - tossup:
+      question: "Because his friend had helped him kidnap Helen from Sparta, who accompanied that friend to the underworld to kidnap Persephone?"
+      answer: "THESEUS"
+    boni:
+      - question: "Who is this friend?"
+        answer: "P(E)IRITHOUS"
+      - question: "During Theseus’ time in the Underworld, who led the expedition to recover Helen from Athens?"
+        answer: "CASTOR AND POLLUX"
+  - tossup:
+      question: "In the sentence “I like books that are easy to read,” use a supine to translate “to read”"
+      answer: "<latin>LECTŪ</latin>"
+    boni:
+      - question: "Now please use the correct form of <latin>legō</latin> to complete the following sentence: You all read (read as past tense “red”) for a large part of the day"
+        answer: "<latin>LĒGISTIS</latin>"
+      - question: "Now please translate “for a large part of the day” from the same sentence"
+        answer: "<latin>MAGNAM PARTEM DIĒĪ</latin> "
+  - tossup:
+      question: "Which Roman emperor married Plotina?"
+      answer: "(MARCUS ULPIUS) TRAJAN(US)"
+    boni:
+      - question: "Which Roman emperor married Faustina the Elder?"
+        answer: "ANTONINUS PIUS"
+      - question: "Which Roman emperor married Julia Domna?"
+        answer: "SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "Which of the following words, if any, does not derive from the same Latin root as the others:  circumference, interference, preferable, suffer?"
+      answer: "INTERFERENCE"
+    boni:
+      - question: "From what Latin verb with what meaning does interference come?"
+        answer: "<latin>FERIŌ</latin> – TO STRIKE"
+      - question: "Give the principal parts and meaning of the Latin verb at the root of the other words in the tossup"
+        answer: "<latin>FERŌ, FERRE, TULĪ, LĀTUM</latin> – TO BEAR, CARRY"
+  - tossup:
+      question: "Complete the following analogy: <latin>amurca</latin> : olives :: <latin>mustum</latin> : ______"
+      answer: "GRAPES"
+    boni:
+      - question: "Out of what two ingredients was the drink <latin>mulsum</latin> made?"
+        answer: "WINE AND HONEY"
+      - question: "What was the title given to the guest at a dinner party whose job it was to determine the proportion of water added to the wine?"
+        answer: "<latin>RĒX / ARBITER / MAGISTER BIBENDĪ</latin>"
+  - tossup:
+      question: "When you are recognized by the spotter, perform the following command: <latin>in pavīmentō sedēns, lacrimā</latin> velut <latin>īnfāns</latin>."
+      answer: "STUDENT SHOULD SIT ON FLOOR AND CRY LIKE A BABY"
+    boni:
+      - question: "<latin>omnēs, amplectiminī</latin> vestrum socium <latin>quī in pavīmentō</latin> velut <latin>īnfāns</latin> lacrimat."
+        answer: "REST OF THE TEAM SHOULD EMBRACE STUDENT"
+      - question: "<latin>nunc, duo ē vōbīs, surgite et caput īnfantis lēniter terite.</latin>"
+        answer: "TWO STUDENTS RISE AND RUB THE HEAD OF THE BABY GENTLY"
+  - tossup:
+      question: "According to Ovid, what Phrygian couple were the only ones to welcome Jupiter and Mercury into  their home as the gods were travelling through Phrygia?"
+      answer: "BAUCIS AND PHILEMON"
+    boni:
+      - question: "What animal did Baucis and Philemon fail to catch and feed to their guests?"
+        answer: "A GOOSE"
+      - question: "What did Baucis and Philemon become on their deaths?"
+        answer: "AN OAK AND LINDEN/LIME/BASSWOOD"
+  - tossup:
+      question: "What Latin word is common to the state mottoes of Idaho and Missouri?"
+      answer: "<latin>ESTŌ</latin>"
+    boni:
+      - question: "Give the full Latin AND its English meaning for Idaho’s state motto"
+        answer: "<latin>ESTŌ</latin> PERPETUA - LET IT BE FOREVER"
+      - question: "What tense is <latin>estō</latin>?"
+        answer: "FUTURE"
+  - tossup:
+      question: "To what nearby tribe did Romulus turn when he sought to bring women to the newly founded city of  Rome?"
+      answer: "SABINES"
+    boni:
+      - question: "Which Sabine woman did Romulus himself take as his wife?"
+        answer: "HERSILIA / -E"
+      - question: "Name the king of the Sabines who joined Romulus as co-ruler of Rome"
+        answer: "(TITUS) TATIUS"
+  - tossup:
+      question: "What type of conditional is found in the following sentence: <latin>“Sī argentum invēniat, aurum quoque dēsīderet”?</latin>"
+      answer: "FUTURE-LESS-VIVID / SHOULD-WOULD"
+    boni:
+      - question: "Change that sentence such that it uses a past contrary-to-fact conditional"
+        answer: "<latin>SĪ ARGENTUM INVĒNISSET, AURUM QUOQUE DĒSĪDERAVISSET</latin> "
+      - question: "What is the grammatical term for the dependent clause in a conditional?"
+        answer: "APODOSIS"
+  - tossup:
+      question: "What child of Thoas and ruler of Lemnos welcomed the visiting Argonauts?"
+      answer: "HYPSIPYLE"
+    boni:
+      - question: "What was unique about the population of Lemnos?"
+        answer: "THEY WERE ALL WOMEN"
+      - question: "Why was Hypsipyle later exiled from Lemnos?"
+        answer: "THEY DISCOVERED SHE HAD SAVED HER FATHER THOAS FROM THE SLAUGHTER OF MEN ON LEMNOS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “tundō”?</latin>"
+      answer: "(TO) BEAT; POUND"
+    boni:
+      - question: "<latin>Quid Anglicē significat “tendō”?</latin>"
+        answer: "(TO) STRETCH; STRIVE"
+      - question: "<latin>Quid Anglicē significat “tondeō”?</latin>"
+        answer: "(TO) CUT; CLIP; SHAVE"
+  - tossup:
+      question: "What figure from Roman history is described in this excerpt from Suetonius? “He broke his  engagement with Cossutia … and married Cornelia, daughter of that Cinna who was four times consul, by whom he afterwards had a daughter Julia.”"
+      answer: "(GAIUS JULIUS) CAESAR"
+    boni:
+      - question: "Shortly after this passage, Suetonius mentions rumors of Caesar’s improper relations with what king of Bithynia?"
+        answer: "NICOMEDES (IV)"
+      - question: "Name Caesar’s second wife, whom he married after Cornelia’s death in childbirth"
+        answer: "POMPEIA"
+  - tossup:
+      question: "What consort of Thea was a Titan who had dominion over the sun?"
+      answer: "HYPERION "
+    boni:
+      - question: "Name the daughters of Hyperion and Thea"
+        answer: "EOS & SELENE"
+      - question: "What mortal, loved by Eos, was given the gift of immortality but not eternal youth?"
+        answer: "TITHONUS"
+  - tossup:
+      question: "How did the dragon react to the hero’s attack?"
+      answer: "IT WAS MOVING QUICKLY / TRIED TO BITE HIM"
+    boni:
+      - question: "According to the goddess, under what circumstance will the hero fail in his task?"
+        answer: "IF HE ONLY ATTACKS THE HEAD (WITH THE SPEAR)"
+      - question: "What additional, helpful advice did the goddess give to this hero?"
+        answer: "HE MUST MAKE AN ATTACK AGAINST THE STOMACH / MUST STAB THE STOMACH"
+  - tossup:
+      question: "For the verb “<latin>cernō</latin>”, give the 1st person plural future perfect active indicative"
+      answer: "<latin>CRĒVERIMUS</latin> "
+    boni:
+      - question: "Change “<latin>crēverimus</latin>” to the 3rd person"
+        answer: "<latin>CRĒVERINT</latin> "
+      - question: "Change “<latin>crēverint</latin>” to the passive"
+        answer: "<latin>CRĒTĪ ERUNT</latin>"
+  - tossup:
+      question: "In book six of the <title>Iliad</title>, after Hector reminds Paris to return to battle, what two people does he search  for and find on the battlements of Troy?"
+      answer: "ANDROMACHE & SCAMANDRIUS / ASTYANAX"
+    boni:
+      - question: "What made Astyanax afraid of his father?"
+        answer: "HIS HIGH PLUMED HELMET"
+      - question: "Who was Andromache’s father, whose death she mentions in this scene?"
+        answer: "EËTION"
+  - tossup:
+      question: "Where in ancient Rome would you find the Shrine of Venus Cloacina, the Regia, the Temple of Castor and Pollux, and the Rostra?"
+      answer: "THE <latin>FORUM (RŌMĀNUM)</latin>  "
+    boni:
+      - question: "The remains of what <latin>basilica</latin> can be seen in Figure #1?"
+        answer: "<latin>BASILICA AEMILIA</latin>"
+      - question: "What <latin>basilica</latin> can be seen in Figure #2?"
+        answer: "<latin>BASILICA</latin> OF MAXENTIUS AND/OR CONSTANTINE / <latin>BASILICA</latin> <latin>NOVA</latin>"
+  - tossup:
+      question: "Translate the following sentence into Latin, using a subjunctive clause and the verb <latin>imperō</latin>: “Father ordered my brother to find the money.”"
+      answer: "<latin>PATER FRĀTRĪ MEŌ IMPERĀVIT/IMPERĀBAT UT PECŪNIAM INVENĪRET/REPERĪRET</latin> "
+    boni:
+      - question: "Consider the sentence: “Father ordered my brother to find the money which he had lost.” Say in Latin, “which he had lost,” using a relative clause"
+        answer: "<latin>QUAM ĀMĪSISSET / PERDIDISSET</latin>"
+      - question: "Now say in Latin “which he had lost,” using only a perfect participle"
+        answer: "<latin>ĀMISSAM / PERDITAM</latin> <latin>2014 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

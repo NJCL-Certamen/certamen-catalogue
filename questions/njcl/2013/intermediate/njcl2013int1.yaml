@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What is the Latin term for a full race at the Circus?"
+      answer: "<latin>MISSUS</latin> "
+    boni:
+      - question: "What is the Latin term for the part of the Circus labeled “A”?"
+        answer: "<latin>MĒTA(E)</latin> "
+      - question: "What is the Latin term for the part of the Circus labeled “B”?"
+        answer: "<latin>CARCER(ĒS)</latin> "
+  - tossup:
+      question: "Translate the following Latin sentence into good English: <latin>Dux quattuor mīlia cīvium interficī iussit</latin>"
+      answer: "THE LEADER / GENERAL ORDERED 4000 (OF THE) CITIZENS TO BE KILLED"
+    boni:
+      - question: "Translate: <latin>Dux autem audiēbat cīvēs nōn interfectōs esse</latin>"
+        answer: "HOWEVER, THE LEADER HEARD THAT THE CITIZENS HAD NOT BEEN KILLED"
+      - question: "Translate: <latin>Dux īrātus clāmāvit sē ipsum cīvēs interfectūrum esse</latin>"
+        answer: "THE ANGRY LEADER / GENERAL SHOUTED THAT HE WOULD KILL THE CITIZENS HIMSELF"
+  - tossup:
+      question: "Who wore sandals of brushwood to cover up the prints of the cattle that he had stolen on the same day he was born on Mt. Cyllene?"
+      answer: "HERMES / MERCURY"
+    boni:
+      - question: "Whose cattle had Hermes stolen?"
+        answer: "APOLLO’S"
+      - question: "What invention of Hermes did Apollo take in return for the cattle?"
+        answer: "THE LYRE"
+  - tossup:
+      question: "Which state’s Latin motto contains an imperative formed from a compound of the verb <latin>spectō</latin>?"
+      answer: "MICHIGAN’S"
+    boni:
+      - question: "Which state’s Latin motto contains an imperative form of <latin>sum</latin>?"
+        answer: "IDAHO’S / MISSOURI’S"
+      - question: "Idaho’s Latin motto, <latin>estō perpetua</latin>, is also the Latin motto of what European city?"
+        answer: "VENICE"
+  - tossup:
+      question: "From what Latin word with what meaning do we derive the words cost, stay, exist, and circumstantial?"
+      answer: "<latin>STŌ</latin> – TO STAND"
+    boni:
+      - question: "From what Latin word with what meaning do we derive the words contrast, stage, and arrest?"
+        answer: "<latin>STŌ</latin> – TO STAND"
+      - question: "From what Latin word with what meaning do we derive the words secret, decree, and concerted?"
+        answer: "<latin>CERNŌ</latin> – TO SEE; DISTINGUISH; UNDERSTAND"
+  - tossup:
+      question: "What city was inhabited by Arcadians led by Evander, was visited by Aeneas, and was the future site of Rome?"
+      answer: "PALLANTEUM"
+    boni:
+      - question: "What hero had slain a fire-breathing monster not far from Pallanteum?"
+        answer: "HERAKLES / HERCULES"
+      - question: "Who was the monster that Hercules killed for stealing some of the Cattle of Geryon?"
+        answer: "CACUS"
+  - tossup:
+      question: "What Roman emperor wrote histories of the Etruscans and Carthaginians, was tutored by the historian Livy, and was never considered a serious option as emperor because of his odd appearance and stutter?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "Claudius was elevated to the throne after the assassination of which of his relatives?"
+        answer: "CALIGULA / GAIUS"
+      - question: "How many wives did Claudius have over the course of his life?"
+        answer: ""
+  - tossup:
+      question: "Say in Latin: “Soldiers, will you listen to the words of the enemy?”"
+      answer: "<latin>AUDIĒTISNE, MĪLITĒS, HOSTIS / HOSTIUM / INIMĪCĪ / INIMĪCŌRUM VERBA?</latin>"
+    boni:
+      - question: "Now say in Latin, “Julius Caesar, you are not being listened to.”"
+        answer: "<latin>NŌN AUDĪRIS, IŪLĪ CAESAR.</latin> "
+      - question: "Finally, say in Latin: “My friend, carry this letter to Caesar.”"
+        answer: "<latin>PORTĀ / FER, MĪ AMĪCE / MEA AMICA HANC EPISTULAM / HĀS LITTERĀS AD CAESAREM.</latin> "
+  - tossup:
+      question: "For the verb <latin>excēdō</latin>, give the perfect active infinitive"
+      answer: "<latin>EXCESSISSE</latin> "
+    boni:
+      - question: "Give the future active participle for the same Latin verb"
+        answer: "<latin>EXCESSŪRUS / A / UM</latin> "
+      - question: "Give the masculine nominative plural of the present active participle for the same verb"
+        answer: "<latin>EXCĒDENTĒS</latin> "
+  - tossup:
+      question: "Against what nation did the Romans declare war at the behest of Eumenes of Pergamum, claiming that it had attacked allies of Rome in the Balkans in 171 B.C.?"
+      answer: "MACEDON(IA)"
+    boni:
+      - question: "Where did Rome defeat Perseus conclusively in 168 B.C.?"
+        answer: "PYDNA"
+      - question: "What Greek city-state offended the Romans by sending envoys to Rome in an attempt to mediate peace between Perseus and Rome before Pydna, but since the envoys didn’t reach Rome until after Pydna, it looked as if it was trying to protect Perseus?"
+        answer: "RHODES"
+  - tossup:
+      question: "If your ancient Roman friend remarked that a nearby tree was “<latin>foliāta</latin>,” what is he saying about the tree?"
+      answer: "IT IS COVERED WITH LEAVES / LEAFY"
+    boni:
+      - question: "If, as you and your Roman friend continue your walk, he points to a flower and describes it as “<latin>varius</latin>,” what is he telling you about the flower?"
+        answer: "IT IS OF DIFFERENT <emphasis>COLORS</emphasis> / VARIEGATED"
+      - question: "You and your Roman friend end your walk at yet another tree, at which point he shakes his head, points to the tree, and describes it as “<latin>moribunda</latin>.” What has he said about this tree?"
+        answer: "IT IS DYING / ABOUT TO DIE"
+  - tossup:
+      question: "What use of the ablative case can be seen in the following Latin sentence: “<latin>Scelus improbum ā fēminā vetustiōre admissum est</latin>.”"
+      answer: "AGENT"
+    boni:
+      - question: "What use of the ablative case can be seen in the following Latin sentence: “<latin>Statua immānis ex aere facta erat</latin>.”"
+        answer: "SOURCE / MATERIAL"
+      - question: "What use of the ablative case can be seen in the following Latin sentence: “<latin>Omnium deārum, Venus pulcherrima formā est</latin>.”"
+        answer: "SPECIFICATION / RESPECT"
+  - tossup:
+      question: "From atop the Scaean Gate, who in the <title>Iliad</title> named and described the Greek leaders to King Priam and the other Trojan elders?"
+      answer: "HELEN"
+    boni:
+      - question: "Though she was able to identify many, what two men did she specifically tell Priam that she did not see there?"
+        answer: "CASTOR AND POLLUX / POLYDEUCES (prompt on “her brothers”)"
+      - question: "Her two brothers were not there because Castor had died in their fight with what other pair of brothers?"
+        answer: "IDAS AND LYNCEUS"
+  - tossup:
+      question: "Which of the following words, if any, IS derived from the Latin noun meaning “head”: salad, lettuce, cabbage, celery?"
+      answer: "CABBAGE"
+    boni:
+      - question: "Which of the following words, if any, is also derived from the noun <latin>caput</latin>: carburetor, casket, accusative, cadet?"
+        answer: "CADET"
+      - question: "Which of the following words, if any, is also derived from the noun <latin>caput</latin>: mischievous, chain, candid, challenger?"
+        answer: "MISCHIEVOUS"
+  - tossup:
+      question: "What Roman governor of Britain circumnavigated Britain and invaded Caledonia?"
+      answer: "(CN. IULIUS) AGRICOLA"
+    boni:
+      - question: "At what decisive battle in 84 A.D. did Agricola finally defeat the Caledonians?"
+        answer: "<latin>MŌNS GRAUPIUS</latin> / MOUNT GRAUPIUS"
+      - question: "What emperor recalled Agricola from his command in Britain?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "What does Medea say the gods understand?"
+      answer: "WHOM (IT IS NECESSARY) TO BLAME"
+    boni:
+      - question: "How does Medea claim Jason treated their sons before their death?"
+        answer: "HE REJECTED (IGNORED) THEM"
+      - question: "What two reasons does Medea give for being more suited to take care of the burial of their sons?"
+        answer: "SHE GAVE BIRTH TO / BORE THEM & SHE LOVES THEM"
+  - tossup:
+      question: "Canthus, Polyphemus, Euphemus, Zetes, Lynceus, Herakles, Calaïs, and Jason were all members of which expedition?"
+      answer: "VOYAGE OF THE ARGO / QUEST FOR THE GOLDEN FLEECE / THE ARGONAUTS"
+    boni:
+      - question: "What super-power did Euphemus possess?"
+        answer: "SUPER-SPEED / HE COULD RUN ON WATER"
+      - question: "Which of the two Argonauts listed above were twin sons of Boreas?"
+        answer: "ZETES AND CALAÏS"
+  - tossup:
+      question: "If an uncomfortable-looking Latin student asks his teacher “<latin>Licetne mihi ad lātrīnam īre</latin>?”, what is he asking?"
+      answer: "IF HE MAY GO TO THE BATHROOM"
+    boni:
+      - question: "If the teacher responds “<latin>Licet dummodo manūs lavēs,</latin>” what condition is being imposed?"
+        answer: "THE STUDENT MUST WASH HIS HANDS"
+      - question: "If another student asks to go to the bathroom and the teacher responds, “<latin>Mē paenitet; licet modo singulātim īre</latin>,” what has the teacher told the second student?"
+        answer: "STUDENTS ARE ALLOWED TO GO ONLY ONE AT A TIME"
+  - tossup:
+      question: "What child of Iasus, or perhaps Schoeneus, caused the deaths of many men when she defeated each of them in a high-stakes footrace?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What was the reward for the man that defeated Atalanta in the footrace?"
+        answer: "HE COULD MARRY HER"
+      - question: "Who finally defeated Atalanta?"
+        answer: "HIPPOMENES / MELANION"
+  - tossup:
+      question: "What herdsman became a guerilla leader, achieving sweeping successes against the Romans with his Lusitanian rebels that rallied other tribes in Spain to the fight?"
+      answer: "VIRIATHUS"
+    boni:
+      - question: "What Roman general, outmaneuvered by Viriathus in the field, paid Lusitanian agents to murder Viriathus?"
+        answer: "(Q. SERVILIUS) CAEPIO"
+      - question: "What Spanish city held out for years before it was captured in 133 B.C.?"
+        answer: "NUMANTIA <latin>2013 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

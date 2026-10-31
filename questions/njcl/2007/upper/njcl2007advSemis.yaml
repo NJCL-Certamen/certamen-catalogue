@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who killed Neleus, king of Pylos?"
+      answer: "HERAKLES/HERCULES"
+    boni:
+      - question: "What slight was Herakles avenging by attacking Pylos?"
+        answer: "NELEUS HAD REFUSED TO PURIFY HIM (FOR THE MURDER OF IPHITUS)"
+      - question: "Which son of Neleus was traveling in Gerenia at the time of Herakles’ massacre and therefore was the sole survivor?"
+        answer: "NESTOR"
+  - tossup:
+      question: "What use of the Accusative case is found in the following sentence<latin>?</latin>"
+      answer: "Ō <latin>fortūnātam nātam mē</latin> <latin>cōnsule Rōmam.</latin> EXCLAMATION"
+    boni:
+      - question: "<latin>flāvāque caput nectentur olīvā</latin>?"
+        answer: "SYNECDOCHICAL / GREEK ACCUSATIVE / SPECIFICATION"
+      - question: "What Latin phrase using the Adverbial Accusative means “at that time”?"
+        answer: "<latin>ID TEMPORIS</latin>"
+  - tossup:
+      question: "Give the Latin title of Tacitus’ work in which you would find the words “<latin>Ad voluptātem ōrātōriae ēloquentiae trānse</latin><latin>ō”</latin>?"
+      answer: "(<title><latin>DIALOGUS) D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
+    boni:
+      - question: "What is the other title applied to Tacitus’ <title><latin>Annālēs</latin></title>?"
+        answer: "<title><latin>AB EXCESSŪ</latin></title> <title><latin>DĪVĪ</latin></title> <title><latin>AUGUST</latin></title>Ī"
+      - question: "What late historian wrote a history that was intended to be a continuation of Tacitus’ <title><latin>Historiae</latin></title> and covered Roman history from the accession of Nerva to the death of Valens?"
+        answer: "AMMIANUS MARCELLINUS"
+  - tossup:
+      question: "When an attorney enters a plea of nol. pros., what does he mean?"
+      answer: "<latin>(NŌLŌ</latin> <latin>PROSEQUĪ</latin>) I DON’T WANT TO PROCEED / HE DOESN’T WANT TO PROSECUTE"
+    boni:
+      - question: "Imagine that you are surrounded by the <latin>posse cōmitatūs</latin> with guns pointed in your direction and a contract set before you. As you unwillingly sign your name on the line, you discretely add the Latin abbreviation V.C. below your signature, indicating that your signature has been “compelled by force”. What Latin phrase, containing a word that is a compound of <latin>agō</latin>, is abbreviated V.C.?"
+        answer: "<latin>VĪ</latin> <latin>COĀCTUS</latin>"
+      - question: "The abbreviation S.O.S. stands for “<latin>sī</latin> <latin>opus sit</latin>”. What does this mean?"
+        answer: "IF THERE IS / SHOULD BE NEED / IF NECESSARY"
+  - tossup:
+      question: "Using a subjunctive clause of purpose, say in Latin, “We went to Rome to see the temples.”"
+      answer: "<latin>RŌMAM Ī(V)IMUS / ĪBĀMUS UT TEMPLA / FĀNA / DĒLŪBRA / AEDĒS VIDĒRĒMUS</latin>"
+    boni:
+      - question: "Rewrite that same sentence using a future active participle instead of a purpose clause"
+        answer: "<latin>RŌMAM ĪVIMUS TEMPLA VĪSŪRĪ</latin> <latin>(-AE)</latin>"
+      - question: "Using the verb <latin>reor</latin> and the Ablative supine of the verb <latin>faciō</latin>, say in Latin, ēHaving thought it best to do’"
+        answer: "<latin>(ID ESSE) OPTIMUM FACTŪ</latin> <latin>RĀTUS (-A, -Ī, -AE)</latin>"
+  - tossup:
+      question: "Please do not open your visuals until you are instructed to do so.   You may open your visuals.  Examine these pictures of Roman siege weapons.  Give the Latin name for the stone throwing device labeled “C” which came into general use in the fourth century AD"
+      answer: "<latin>ONAGER</latin>"
+    boni:
+      - question: "The machine labeled “A” had more than one name depending on its size. What was the Latin name for the smaller version of this device?"
+        answer: "<latin>SCORPIŌ</latin>"
+      - question: "<latin>Catapulta</latin> was the original name for the larger version of the device labeled “A”. What was the term later given by the Romans to this machine, a name that was also shared by the device labeled “B”, which the <latin>onager</latin> made obsolete in the fourth century AD?"
+        answer: "<latin>BALLISTA</latin>"
+  - tossup:
+      question: "What English verb derived from the Latin verb meaning “to wash” means “to thin down or weaken by mixing with something else”?"
+      answer: "DILUTE"
+    boni:
+      - question: "What derivative of the Latin verb <latin>dēlectō</latin> is an English noun meaning “dabbler or person who follows an art or science only for amusement and in a superficial way”?"
+        answer: "DILETTANTE"
+      - question: "What English verb derived from the Latin verb <latin>fingō</latin> means “to invent, fabricate, or pretend”?"
+        answer: "FEIGN / FICTIONALIZE"
+  - tossup:
+      question: "Of Odysseus’ three herders, name the one who betrayed him to the suitors"
+      answer: "MELANTHIUS / MELANTHEUS (PROMPT FOR “GOATHERD”)"
+    boni:
+      - question: "What gardener of Odysseus was the father of Melanthius and his sister Melantho, plus six sons who remained faithful to Odysseus?"
+        answer: "DOLIUS"
+      - question: "Name the relative of Odysseus whose care was Dolius’ responsibility while Odysseus was away at Troy"
+        answer: "LAERTES"
+  - tossup:
+      question: "What Roman satirist was influenced by stoicism and claimed his <latin>venter</latin> as his muse?"
+      answer: "(AULUS) PERSIUS (FLACCUS)"
+    boni:
+      - question: "What Stoic was Persius’ teacher and cherished friend?"
+        answer: "(LUCIUS ANNAEUS) CORNUTUS"
+      - question: "What later satirist was exiled to Egypt?"
+        answer: "(DECIUS JUNIUS) JUVENAL(IS)"
+  - tossup:
+      question: "Immediately after Sulla’s death, which patrician proposed the recall of all those whom Sulla had exiled?"
+      answer: "(M. AEMILIUS) LEPIDUS"
+    boni:
+      - question: "Lepidus’ proposal was begrudgingly accepted by Sulla’s heirs. However, Lepidus was later sent by the senate, who wanted to get him out of the way, to put down an armed rebellion in what region of Italy?"
+        answer: "ETRURIA / TUSCANY / NEAR FLORENCE"
+      - question: "Once Lepidus arrived there, what did he do instead of suppressing the rebels?"
+        answer: "JOINED THEM AND MARCHED ON ROME"
+  - tossup:
+      question: "Why might a Roman have added the enclitic <latin>-met</latin> to a form of <latin>t</latin><latin>ū?</latin>"
+      answer: "EMPHASIS"
+    boni:
+      - question: "For the pronoun <latin>tū</latin>, what is the archaic form of the Accusative and Ablative cases?"
+        answer: "<latin>TĒD</latin>"
+      - question: "What is the archaic Genitive of <latin>tū?</latin>"
+        answer: "TĪS"
+  - tossup:
+      question: "What poet of the Augustan age expresses pride in the originality of one of his earlier works with the lines “<latin>Vel tibi compositā</latin> <latin>cantētur Epistula voce: / Ignōtum hoc aliīs ille novāvit opus</latin>', which refer to his innovation of composing letters in verse form?"
+      answer: "(PUBLIUS) OVID(IUS) NASO"
+    boni:
+      - question: "Which of Ovid’s works contains the line <latin>“flēbilis ut noster status est, ita flēbile carmen</latin>”?"
+        answer: "<title><latin>TRĪSTIA</latin></title>"
+      - question: "Due to the amorous nature of much of Ovid’s poetry, he suffered the wrath and condemnation of many notable Romans. What author born in Spain eighteen years after the Ovid’s death accuses him of being “<latin>nimium amātor ingeniī</latin> <latin>suī</latin>”?"
+        answer: "QUINTILIAN"
+  - tossup:
+      question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis erat secundus rēx Thēbārum?</latin>"
+      answer: "PENTHEUS"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>Anglicē: Quem deum Pentheus offēnsit?</latin>"
+        answer: "BACCHUS / DIONYSUS"
+      - question: "<latin>Respondē</latin> <latin>Latīnē: Quā</latin> <latin>cognātiōne attigit Pentheus ad Cadmum?</latin>"
+        answer: "NEPŌTE / <latin>PENTHEUS ERAT NEPŌS CADMĪ</latin> or <latin>CADMUS ERAT AVUS PENTHEĪ</latin> <latin>or ERANT NEPŌS ET AVUS</latin>"
+  - tossup:
+      question: "You and your ancient Roman friends are walking out of the Colosseum in the mid-second century A.D. and want to go to the nearest <latin>thermae</latin> to freshen up; name one of the two baths that you could visit just across the street"
+      answer: "TITUS’ or TRAJAN’S"
+    boni:
+      - question: "After your bath, you go to Trajan’s forum and markets and marvel at the amount of earth that had to be removed from the side of one of Rome’s famed Seven Hills in order to construct this marketplace. Which hill’s excavation are you admiring?"
+        answer: "QUIRINAL’S"
+      - question: "You later find yourself at Trajan’s column, and you want to check out the <latin>Forma Urbis</latin>, the marble map of Rome in the Forum of Peace. After leaving Trajan’s Forum, which two other fora would you walk straight through in order to get to the Forum of Peace?"
+        answer: "AUGUSTUS’& NERVA’S / <latin>FORUM TRĀNSITŌRIUM</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage about <latin>dōna mīlitāria</latin>, or military decorations, which I will read twice, and answer IN LATIN, the question about it that follows: <latin>Multa genera dōnōrum mīlitārium in exercitū</latin> <latin>Rōmānō</latin> <latin>fuērunt, quōrum ūna erat corōna cīvica, quae dabātur mīlitī</latin> <latin>quī</latin> <latin>in proeliō</latin> <latin>cīvem servāverat. Alia corōna erat mūrālis quae ab imperātōre dabātur mīlitī</latin> <latin>quī</latin> <latin>tam fortis erat ut prīmus mūrum hostium scanderet atque oppidum intrāret. Magnō</latin> <latin>pretiō</latin> <latin>haec dōna mīlitāria Rōmānī</latin> <latin>habēbant.</latin>  Question: <latin>Quid mīlitī</latin> <latin>necesse erat facere ut corōnā</latin> <latin>cīvicā</latin> <latin>dōnārētur?</latin>"
+      answer: "<latin>CĪVEM SERVĀRE</latin>"
+    boni:
+      - question: "<latin>Quantī</latin> <latin>dōna mīlitāria ā</latin> <latin>Rōmānīs habita sunt?</latin>"
+        answer: "<latin>MAGNĪ</latin> <latin>(PRETIĪ) / MAGNŌ</latin> <latin>PRETIŌ</latin>"
+      - question: "<latin>Quō</latin> <latin>factō</latin> <latin>mīles oppidum intrāvit, unde corōnā</latin> <latin>mūrālī</latin> <latin>dōnātus est?</latin>"
+        answer: "MŪRŌ <latin>(HOSTIUM) SCĀNSŌ</latin> or <latin>MOENIBUS SCĀNSĪS / ASCENSĪS</latin> or <latin>POSTQUAM MŪRUM / MOENIA ASCENDIT / SCANDIT</latin>"
+  - tossup:
+      question: "What early Christian writer wrote a dialogue called <latin>Octāvius</latin> where two friends argue for and against Christianity, while the author himself acts as umpire?"
+      answer: "MINUCIUS FELIX"
+    boni:
+      - question: "What pupil of Arnobius and tutor of Constantine’s children was the most prolific Christian writer?"
+        answer: "LACTANTIUS"
+      - question: "Jerome is best known for his translation of the Bible, but which of his other works was a work on great Christians from Simon Peter to Jerome himself?"
+        answer: "<title><latin>DĒ</latin></title> <title><latin>VIRĪS ILLUSTRIBUS</latin></title>"
+  - tossup:
+      question: "According to Ovid, what Athenian princess was transformed into a statue for trying to prevent a god from lying with her sister?"
+      answer: "AGLAUROS"
+    boni:
+      - question: "Who was Aglauros’ sister, who earned Aglauros’ envy when she attracted the love of a god?"
+        answer: "HERSE"
+      - question: "The goal of any mortal was to avoid offending any of the gods. According to Ovid, what two separate deities did Aglauros offend?"
+        answer: "MERCURY AND MINERVA (DO NOT ACCEPT HERMES AND ATHENA [OVID])"
+  - tossup:
+      question: "The noun <latin>rōbur</latin> is often used in Roman literature as a metaphor for what physical trait?"
+      answer: "STRENGTH / POWER / VIRILITY"
+    boni:
+      - question: "<latin>Rōbur</latin> is one of a handful of names for trees and shrubs that is neuter in gender. What Latin word for “poppy” also fits this classification?"
+        answer: "<latin>PAPĀVER</latin>"
+      - question: "Though not a tree, what Latin noun for “marble” has the same declensional endings as <latin>rōbur</latin>?"
+        answer: "<latin>MARMOR</latin>"
+  - tossup:
+      question: "Which coastal city near the heel of the boot of Italy did Hannibal capture by treachery in 212 BC, although he failed to capture the citadel itself?"
+      answer: "TARENTUM"
+    boni:
+      - question: "While Hannibal’s forces were occupied near Tarentum, his allies in Capua were besieged and starved into surrendering between 212 and 211 BC. Which Roman commander retook Capua from Hannibal?"
+        answer: "(QUINTUS) FULVIUS FLACCUS"
+      - question: "Which general recaptured Tarentum for the Romans?"
+        answer: "(QUINTUS) FABIUS MAXIMUS (VERRUCOSUS CUNCTATOR)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quamvīs magna sit expectātiō, tamen eam vincam</latin>"
+      answer: "ALTHOUGH THE EXPECTATION IS GREAT, NEVERTHELESS I SHALL CONQUER IT / HER"
+    boni:
+      - question: "<latin>Timeō</latin> <latin>nē</latin> <latin>omnēs errōrēs meī</latin> <latin>inventī</latin> <latin>sint</latin>"
+        answer: "I FEAR THAT ALL MY ERRORS HAVE BEEN FOUND"
+      - question: "<latin>Sī</latin> <latin>domī</latin> <latin>sum, forīs est animus; sīn forīs sum, animus est domī</latin>"
+        answer: "IF I AM AT HOME, MY MIND IS OUTSIDE; BUT IF I AM OUTSIDE, MY MIND IS AT HOME   <latin>2007 NJCL CERTAMEN</latin>  <latin>ADVANCED DIVISION</latin>  <latin>FINALS</latin>"
+  - tossup:
+      question: "What island in the Tyrrhenian Sea was the destination of many women who were exiled by emperors, beginning with the daughter of Augustus in 2 BC?"
+      answer: "PANDATERIA"
+    boni:
+      - question: "Caligula went to Pandateria to collect and bring to Rome the ashes of which woman who had died there in A.D. 33 after being exiled by her nemesis Tiberius?"
+        answer: "AGRIPPINA THE ELDER"
+      - question: "Which woman did Nero banish to Pandateria and later execute in A.D. 62 at the insistence of his second wife?"
+        answer: "(CLAUDIA) OCTAVIA"
+  - tossup:
+      question: "Put the following events in Aeneas’ journey in the correct order: the storm that forced Aeneas to Carthage, the prophecy of Celaeno, the plague at Crete, and the death of Anchises?"
+      answer: "THE PLAGUE AT CRETE, THE PROPHECY OF CELAENO, THE DEATH OF ANCHISES, THE STORM THAT FORCED AENEAS TO CARTHAGE"
+    boni:
+      - question: "Who commanded the only ship of Aeneas that was sunk in the storm that brought Aeneas to Carthage?"
+        answer: "ORONTES"
+      - question: "On what island did Anchises die?"
+        answer: "SICILY"
+  - tossup:
+      question: "The sentence “<latin>Cūrā</latin> <latin>ut valeās</latin>” was sometimes used at the end of letters. What type of subjunctive clause it contains"
+      answer: "SUBSTANTIVE (CLAUSE OF) RESULT"
+    boni:
+      - question: "Give the Latin for the abbreviation s.p.d., which is used in Roman epistles"
+        answer: "<latin>SALŪTEM PLŪRIMAM DĪCIT</latin>"
+      - question: "Give the Latin for the abbreviation s.v.b"
+        answer: "<latin>SI VALĒS BENE (EST)</latin>"
+  - tossup:
+      question: "What use of the Dative case is found in the following sentence? <latin>Cicerō</latin> <latin>scrīpsit turpe esse habēre quaestuī</latin> <latin>rem pūblicam</latin>"
+      answer: "REFERENCE"
+    boni:
+      - question: "Using the Dative case, say in Latin: I have been persuaded to a little give money to the moderator"
+        answer: "<latin>MIHI PERSUĀSUM EST UT PAULUM PECŪNIAE MODERĀTŌRĪ</latin> <latin>DAREM</latin>"
+      - question: "Using <latin>fore ut</latin> and the Dative case, say in Latin: I hope that I will be of help to my teammates"
+        answer: "<latin>SPĒRŌ</latin> <latin>FORE UT AUXILIŌ</latin> <latin>MEĪS SODĀLIBUS SIM</latin>"
+  - tossup:
+      question: "Who began his otherwise prose work with a line of hexameter and went on to write the first prose work of history in Latin?"
+      answer: "(MARCUS PORCIUS) CATO MAIOR / CATO THE ELDER"
+    boni:
+      - question: "What other important Roman author did Cato help to come to Rome?"
+        answer: "(QUINTUS) ENNIUS"
+      - question: "What did Cato call the set of practical handbooks on all subjects of the curriculum except philosophy, which he hoped would become an alternative to Greek education?"
+        answer: "<title><latin>AD FĪLIUM</latin></title>"
+  - tossup:
+      question: "For the verb <latin>prōsum</latin>, give the 2nd person, singular, future imperative"
+      answer: "<latin>PRŌDESTŌ</latin>"
+    boni:
+      - question: "What is the contracted form of the future active infinitive of <latin>prōsum</latin>?"
+        answer: "<latin>PRŌFORE</latin>"
+      - question: "Using the verb <latin>prōsum</latin>, say in Latin, “Julius, would that you had helped all the citizens.”"
+        answer: "<latin>IŪLĪ, UTINAM OMNIBUS CĪVIBUS PRŌFUISSĒS</latin>"
+  - tossup:
+      question: "What English adjective meaning “prefatory” is derived from a Latin noun meaning “threshold”?"
+      answer: "PRELIMINARY"
+    boni:
+      - question: "Give the Latin noun and its meaning from which “limit” is derived?"
+        answer: "<latin>LĪMES</latin> - BOUNDARY, BORDER"
+      - question: "What English verb, derived from <latin>līmen</latin>, means “to divert the energy associated with an unacceptable impulse into a personally and socially acceptable activity”?"
+        answer: "SUBLIMATE"
+  - tossup:
+      question: "What nickname do we normally use when referring to the Egyptian king whose official title was Ptolemy XV Philopator Philometor Caesar, whom Octavian executed in 30 BC after his capture of Alexandria?"
+      answer: "CAESARION"
+    boni:
+      - question: "Although Octavian killed Cleopatra’s child by Caesar in Alexandria in 30 B.C., he spared her children by Marc Antony, named Alexander Helios and Cleopatra Selene. To whom did Octavian give these children so that they would be raised in Rome?"
+        answer: "(TO HIS SISTER) OCTAVIA"
+      - question: "While Marc Antony’s Egyptian children survived Octavian’s wrath, Antony’s Roman sons met with mixed success. Marcus Antonius Antyllus was executed, but Iullus Antonius was spared and later rose to the consulship. Which of Antony’s previous wives was their mother?"
+        answer: "FULVIA"
+  - tossup:
+      question: "What Roman author wrote philosophical treatises called <title><latin>Dē</latin></title> <latin>Deō</latin> <latin>Socratis</latin> and <title><latin>Dē</latin></title> <title><latin>Platōne et Eius Dogmate</latin></title> but is better known for a work whose main character becomes a devotee of Isis?"
+      answer: "(LUCIUS) APULEIUS"
+    boni:
+      - question: "Against what charge did Apuleius defend himself with the speech Apologia?"
+        answer: "(SEDUCING THE WEALTHY WIDOW AEMLIA PUDENTILLA BY WAY OF) WITCHCRAFT"
+      - question: "Apuleius identifies a certain woman as Hostia, but we know her by a different name thanks to the poems of what Roman author?"
+        answer: "(SEXTUS) PROPERTIUS"
+  - tossup:
+      question: "Listen carefully to the following passage from Cicero’s <title><latin>Dē</latin></title> <latin>Dīvīnātiōne</latin>, and answer in ENGLISH the question about it: <latin>“Nec ūnum genus est dīvīnātiōnis pūblicē</latin> <latin>prīvātimque celebrātum. Nam, ut omittam cēterōs populōs, noster quam multa genera complexus est!</latin>  <latin>Prīncipiō</latin> <latin>huius urbis parēns Rōmulus nōn sōlum auspicātō</latin> <latin>urbem</latin>  <latin>condidisse, sed ipse etiam optumus augur fuisse trāditur. Deinde auguribus et reliquī</latin> <latin>rēgēs ūsī, et exactīs rēgibus nihil pūblicē</latin> <latin>sine auspiciīs nec domī</latin> <latin>nec mīlitiae gerēbātur.</latin>”  Question: With regard to auspices what two facts do we learn about Romulus in this passage?"
+      answer: "THAT HE FOUNDED THE CITY <emphasis>WITH AUSPICES /</emphasis> <emphasis>AUSPICIOUSLY</emphasis> HE IS CONSIDERED TO HAVE BEEN THE <emphasis>BEST / VERY GOOD AUGUR</emphasis>"
+    boni:
+      - question: "In this passage we find the adverb <latin>auspicātō</latin>. Give the principal parts and definition of the deponent verb from which <latin>auspicātō</latin> is derived"
+        answer: "<latin>AUSPICOR, AUSPICĀRĪ, AUSPICĀTUS (SUM)</latin>  TAKE / BEGIN WITH THE AUSPICES / PORTEND / INAUGURATE"
+      - question: "What do we learn about auspices during the Republic in the last sentence of this passage?"
+        answer: "NOTHING WAS DONE, EITHER IN DOMESTIC OR IN MILITARY AFFAIRS, WITHOUT THE AUSPICES (BEING TAKEN)"
+  - tossup:
+      question: "What old woman housed Theseus during his hunt of the Marathonian bull?"
+      answer: "HECALE"
+    boni:
+      - question: "What king had already lost a son to the Marathonian bull?"
+        answer: "MINOS"
+      - question: "Who had let the bull free at Marathon?"
+        answer: "HERAKLES/HERCULES"
+  - tossup:
+      question: "When recognized by the spotter, follow this Latin command: <latin>Prōclāmā</latin> <latin>audientibus omnēs līneās eundem cibum habēre.</latin>"
+      answer: "STUDENT SHOULD SAY THAT ALL LINES HAVE THE SAME FOOD"
+    boni:
+      - question: "<latin>Nunc, spectāculō</latin> <latin>inceptō, plaudite et prōclāmāte audientibus lūcēs extinguendās esse</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD SHOUT THAT THE LIGHTS MUST BE TURNED OUT AND CLAP"
+      - question: "<latin>Nunc necesse est ūnī</latin> ē <latin>vōbīs, ad mediam scaenam prōgressō, monēre studentibus nē</latin> <latin>saltent velut bestiae</latin>"
+        answer: "ONE STUDENT SHOULD WALK TO THE CENTER OF THE STAGE AND WARN THE STUDENTS NOT TO DANCE LIKE ANIMALS (AKA “NO FREAKING”)"
+  - tossup:
+      question: "A public banquet called the <latin>cēna lībera</latin> traditionally took place the day before what sort of public event?"
+      answer: "GLADIATORIAL SHOWS / <latin>MŪNERA</latin>"
+    boni:
+      - question: "On the day of the gladiatorial games, the show commonly began with fights called <latin>prōlūsiōnēs</latin>. What was special about this type of gladiator fight?"
+        answer: "THEY WERE STAGED / SHAM FIGHTS / BLOODLESS? / THEY USED BLUNT WEAPONS"
+      - question: "What did a gladiator called a <latin>laqueātōr</latin> use against his opponent?"
+        answer: "LASSO / NOOSE / ROPE (DO NOT ACCEPT “NET”)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quid sit faciendum, tē</latin> <latin>scīre oportet</latin>"
+      answer: "YOU OUGHT / SHOULD KNOW WHAT MUST BE DONE / WHAT YOU SHOULD DO"
+    boni:
+      - question: "<latin>Ad urbem itūrus sum quō</latin> <latin>tranquillius vīvam</latin>"
+        answer: "I AM ABOUT TO GO TO THE CITY SO THAT I CAN / MIGHT BE ABLE TO LIVE MORE PEACEFULLY"
+      - question: "<latin>reus negat sē</latin> <latin>hoc umquam factūrum fuisse</latin>"
+        answer: "THE DEFENDANT DENIES THAT HE WOULD HAVE EVER DONE THIS / THE DEFENDANT SAYS THAT HE WOULD NEVER HAVE DONE THIS"
+  - tossup:
+      question: "What victim of Achilles earned so much respect from him that Achilles had him cremated in his cunningly wrought armor?"
+      answer: "EETION (<title>Iliad</title> 6.413-425)"
+    boni:
+      - question: "What Trojan hero was Eetion’s son-in-law?"
+        answer: "HECTOR"
+      - question: "What nearby city did Eetion rule?"
+        answer: "HYPOPLACIAN THEBES, THEBE-UNDER-PLACUS, THEBES, THEBES NEAR TROY, THEBES IN THE TROAD"
+  - tossup:
+      question: "Please do not open your visuals until you are instructed to do so.   You may open your visuals.  How did the use of a spear precipitate the event shown in this visual?"
+      answer: "(LAOCOON) THREW A SPEAR AT THE SIDE OF THE (TROJAN) HORSE (TO SHOW THAT HE DID NOT RECOMMEND THAT IT BE BROUGHT INTO TROY)"
+    boni:
+      - question: "The second half of the passage contains one of the most famous examples of tmesis in all of extant Latin literature. Identify the tmesis"
+        answer: "<latin>CIRCUM</latin> (<latin>TERGA</latin>) <latin>DATĪ</latin> = <latin>CIRCUMDATĪ</latin>"
+      - question: "You now have 15 seconds to examine this passage.  To what does Vergil compare the shouts of the dying Laocoon?"
+        answer: "A BELLOWING OF A <emphasis>WOUNDED BULL</emphasis> THAT HAS SHAKEN OFF THE EXECUTIONER’S SACRIFICIAL AXE FROM ITS NECK AND IS TRYING TO FLEE THE ALTAR"
+  - tossup:
+      question: "Who was the first person to be buried in the Mausoleum of Augustus after his death in 23 BC, which created the first of many obstacles to Augustus’ dynastic plans?"
+      answer: "(MARCUS CLAUDIUS) MARCELLUS"
+    boni:
+      - question: "Who, in A.D. 55, was the last member of the Julio-Claudian family to be buried in the Mausoleum of Augustus, just four months after his father’s burial there?"
+        answer: "(TIBERIUS CLAUDIUS CAESAR) BRITANNICUS"
+      - question: "Which of the Five Good Emperors was the last emperor interred in the Mausoleum of Augustus?"
+        answer: "NERVA"
+  - tossup:
+      question: "What son of Amythaon, through his gift of prophecy, earned a wife for himself and two for his brother?"
+      answer: "MELAMPUS"
+    boni:
+      - question: "Who was the father of Pero, whom Melampus won as a wife for his brother Bias?"
+        answer: "NELEUS"
+      - question: "Who was the father of the sisters Lysippe and Iphianassa, whom the brothers married after the death of Bias’ wife Pero?"
+        answer: "PROËTUS"
+  - tossup:
+      question: "Using your knowledge of Descartes’ famous quotation, say in Latin, “If I should think, I would therefore exist.”"
+      answer: "<latin>SĪ</latin> <latin>CŌGITEM, (ERGŌ) SIM</latin>"
+    boni:
+      - question: "Using your knowledge of this year’s NJCL theme, say in Latin, “If I had studied more diligently, I would have seized the day.”"
+        answer: "<latin>SĪ</latin> <latin>DĪLIGENTIUS STUDUISSEM, DIEM CARPSISSEM</latin>"
+      - question: "Using your knowledge of a famous quotation from Horace, say in Latin, “I do not doubt that the joke’s on you.”"
+        answer: "<latin>NŌN DUBITŌ</latin> <latin>QUĪN DĒ</latin> <latin>TĒ</latin> <latin>FĀBULA NARRĒTUR</latin>"
+  - tossup:
+      question: "What late Roman author dedicated his Saturnalia to his son Eustachius?"
+      answer: "MACROBIUS (THEODOSIUS)"
+    boni:
+      - question: "Who is the only other Roman author before Ammianus Marcellinus that acknowledges Tacitus’ existence?"
+        answer: "(GAIUS) PLINIUS (CAECILIUS SECUNDUS) MINOR / PLINY THE YOUNGER"
+      - question: "What late Roman author’s works consist mainly of letters advocating a return to paganism and Roman traditions, including a plea to the emperor Valentinian II to restore a statue of the goddess Victory to its place in the senate house?"
+        answer: "(QUINTUS AURELIUS) SYMMACHUS"

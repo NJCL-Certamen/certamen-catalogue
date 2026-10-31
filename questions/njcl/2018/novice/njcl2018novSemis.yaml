@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What Latin phrase is used to refer to the period of American history before the Civil War?"
+      answer: "<latin>ANTE BELLUM</latin> \t\t\t(accept English pronunciation for this set)"
+    boni:
+      - question: "What Latin phrase is used for a particularly disastrous year?"
+        answer: "<latin>ANNUS HORRIBILIS</latin>"
+      - question: "Translate the Latin phrase, “<latin>dē diē in diem</latin>.”"
+        answer: "FROM DAY TO DAY / A literal translation is also acceptable - e.g. “From day into day.”"
+  - tossup:
+      question: "Landing at Kent with an army of 50,000 men, what commander defeated Caratacus, the son of Cunobelinus, on the Medway in 43 AD, and awaited the arrival of Claudius to complete the conquest of Roman Britain?"
+      answer: "AULUS PLAUTIUS"
+    boni:
+      - question: "What Brigantian queen surrendered Caratacus to the Romans?"
+        answer: "CARTI(S)MANDUA"
+      - question: "Who succeeded Aulus Plautius as governor of Roman Britain in 47 AD?"
+        answer: "(P.) OSTORIUS SCAPULA"
+  - tossup:
+      question: "Using an infinitive form of the verb <latin>pūniō,</latin> say in Latin: “to be punished”."
+      answer: "<latin>PŪNĪRĪ / PŪNĪTUM ĪRĪ</latin>"
+    boni:
+      - question: "Now say in Latin: “having been punished.”"
+        answer: "<latin>PŪNĪTUS / - A / -UM</latin>"
+      - question: "Now say in Latin:  “about to punish.”"
+        answer: "<latin>PŪNĪTŪRUS / PŪNĪTŪRA / PŪNĪTŪRUM</latin>"
+  - tossup:
+      question: "The cypress tree, the hyacinth flower, and the laurel tree are all reminders of what god’s failures in love?"
+      answer: "APOLLO"
+    boni:
+      - question: "Apollo’s friend Cyparissus was transformed into a cypress tree because of the accidental killing of what animal?"
+        answer: "A (PET) STAG / DEER"
+      - question: "What virgin goddess did both Apollo and Poseidon pursue, but fail to attract?"
+        answer: "HESTIA"
+  - tossup:
+      question: "What emperor won key battles at Antioch and Emesa in a campaign against an ambitious queen of Palmyra?"
+      answer: "AURELIAN"
+    boni:
+      - question: "Who was this ambitious queen of Palmyra?"
+        answer: "ZENOBIA"
+      - question: "Zenobia ruled in the name of what infant son until her defeat and capture by Aurelian?"
+        answer: "VABALLATHUS"
+  - tossup:
+      question: "What Latin verb, with what meaning, is the ultimate root of the English word “residual”?"
+      answer: "<latin>SEDEŌ / SEDĒRE</latin> - TO SIT"
+    boni:
+      - question: "What Latin verb, with what meaning, is the ultimate root of the English word “cultivate”?"
+        answer: "<latin>COLŌ / COLERE</latin> - TO TILL / TEND TO / WORSHIP"
+      - question: "What Latin verb, with what meaning, is the ultimate root of the English word “joint”?"
+        answer: "<latin>IUNGŌ / IUNGERE -</latin> TO JOIN"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quō, domine, mē īre iubēs</latin>?"
+      answer: "WHERE / BY WHAT MEANS ARE YOU ORDERING ME TO GO, MASTER?"
+    boni:
+      - question: "Translate this sentence: <latin>Quot ōva mē ē forō referre vīs</latin>?"
+        answer: "HOW MANY EGGS DO YOU WANT ME TO BRING BACK FROM THE FORUM?"
+      - question: "Translate this sentence: <latin>Nōnne coquus noster ientāculum optimum parāre potest</latin>?"
+        answer: "OUR COOK CAN PREPARE THE BEST BREAKFAST, CAN’T HE? / SURELY OUR COOK IS ABLE TO PREPARE THE BEST BREAKFAST"
+  - tossup:
+      question: "Before Aeneas met Dido, he was married to which daughter of Priam, whom he lost while fleeing burning Troy?"
+      answer: "CREÜSA"
+    boni:
+      - question: "Name Aeneas’ son by Creüsa, who escaped Troy with his father and grandfather."
+        answer: "ASCANIUS / IÜLUS"
+      - question: "In the <title>Aeneid</title>, what god disguised himself as Iülus to make Dido fall in love with Aeneas?"
+        answer: "CUPID"
+  - tossup:
+      question: "After his expulsion, Tarquinius Superbus enlisted the help of what king of Clusium who likely  \t\tcaptured and occupied Rome for a brief period of time?"
+      answer: "(LARS) PORSENNA"
+    boni:
+      - question: "Where did the Latins defeat forces led by Arruns, the son of Lars Porsenna?"
+        answer: "ARICIA"
+      - question: "What king of Cumae provided strong assistance to the Latins at Aricia?"
+        answer: "ARISTODEMUS"
+  - tossup:
+      question: "Listen to the following passage about the adventures of Aurelia, which I will read twice; then  \t\tanswer the question that follows in LATIN: \t\t<latin>Longum erat iter ad urbem Rōmam. Tandem iter cōnfectum est. Ecce! Aurēlia tabernam  \t\ttrāns pontem vīdit.  Postquam ad tabernam advēnit, iterum iterumque iānuam pulsābat  \t\tet clāmāvit, “Salvē! Magnam fāmem habeō.”  Nūllum tamen fuit respōnsum. Aurēlia  \t\tigitur paulisper manēre et magistrum tabernae exspectāre cōnstituit.</latin>  (repeat) \tThe question : <latin>Quod aedificium trāns pontem ab Aurēliā vīsum est</latin>?"
+      answer: "<latin>TABERNA</latin>"
+    boni:
+      - question: "<latin>Quālis fuit fāmēs, quam Aurēlia habēbat</latin> ?"
+        answer: "<latin>MAGNA / INGĒNS / IMMĀNIS</latin>"
+      - question: "<latin>Quamdiū Aurēlia in eō loco manēbat</latin>?"
+        answer: "<latin>PAULISPER</latin>"
+  - tossup:
+      question: "Give the person, number, tense, and voice of the verb in this inscription."
+      answer: "3RD PERSON, SINGULAR, PRESENT, PASSIVE"
+    boni:
+      - question: "According to the inscription, what kind of peace is provided here?"
+        answer: "OF MIND / SPIRIT AND BODY"
+      - question: "Translate the inscription."
+        answer: "NOT / NEITHER SPLENDOR, NOT / NOR RICHES BUT PEACE / TRANQUILITY OF MIND / SPIRIT AND BODY IS PROVIDED / GIVEN HERE"
+  - tossup:
+      question: "After fighting in a duel that resulted in a draw, what warrior received Ajax’s belt, but was later lashed by the same belt to Achilles’ chariot and dragged three times around the walls of Troy?"
+      answer: "HECTOR"
+    boni:
+      - question: "What gift had Hector given to Ajax in return?"
+        answer: "(HIS SILVER-STUDDED) SWORD"
+      - question: "Following the Trojan War, what son of Hector was thrown off the walls of Troy by Odysseus, who wanted to ensure that no descendant of Priam lived?"
+        answer: "ASTYANAX / SCAMANDRIUS"
+  - tossup:
+      question: "What man’s grandchildren included Melicertes, Actaeon, Dionysus, and Pentheus?"
+      answer: "CADMUS"
+    boni:
+      - question: "Who were the parents of Actaeon?"
+        answer: "AUTONOË & ARISTAEÜS"
+      - question: "What mother of Melicertes went mad and jumped into the sea with him?"
+        answer: "INO / LEUCOTHEA / MATER MATUTA"
+  - tossup:
+      question: "Which of the following cities is furthest east: Agrigentum, Lilybaeum, Messana, Syracuse?"
+      answer: "MESSANA"
+    boni:
+      - question: "Which of the following cities is furthest north: Asculum, Beneventum, Cannae, Capua?"
+        answer: "ASCULUM"
+      - question: "Which of these cities is furthest west: Ancyra, Antioch, Carrhae, Pergamum?"
+        answer: "PERGAMUM"
+  - tossup:
+      question: "Using <latin>prope,</latin> say in Latin “near the dangerous guest.”"
+      answer: "<latin>PROPE PERĪCULŌSUM / PERĪCULŌSAM HOSPITEM</latin>"
+    boni:
+      - question: "Using <latin>persuādeō,</latin> say in Latin “he persuades the dangerous guest.”"
+        answer: "<latin>PERĪCULŌSŌ/PERĪCULŌSAE HOSPITĪ PERSUĀDET</latin>"
+      - question: "Using <latin>prō,</latin> say in Latin “in front of the dangerous guest.”"
+        answer: "<latin>PRŌ PERĪCULŌSŌ/PERĪCULŌSĀ HOSPITE</latin>"
+  - tossup:
+      question: "Of <latin>cunīculus, delphīnus, piscis, elephantus,</latin> and <latin>avis</latin>, which is being described in the following Latin sentence:  <latin>hoc animal saepe salit et longās aurēs habet.</latin>"
+      answer: "<latin>CUNĪCULUS</latin>"
+    boni:
+      - question: "Of <latin>cunīculus, delphīnus, piscis, elephantus,</latin> and <latin>avis</latin>, which is being described:  <latin>hoc animal semper in aquā habitat, sed nōn est piscis.</latin>"
+        answer: "<latin>DELPHĪNUS</latin>"
+      - question: "Of <latin>cunīculus, delphīnus, piscis, elephantus,</latin> and <latin>avis</latin>, which is being described:  <latin>hoc animal per caelum volat et pīpit.</latin>"
+        answer: "<latin>AVIS</latin>"
+  - tossup:
+      question: "<latin>Mē sententiam rogat</latin> and <latin>mē linguam docuit</latin> both contain examples of what use of the accusative case?"
+      answer: "DOUBLE ACCUSATIVE / ACCUSATIVE WITH SECONDARY OBJECT"
+    boni:
+      - question: "<latin>Fossa trium pedum</latin> and <latin>magnī formīca labōris</latin> both contain examples of what use of the genitive case?"
+        answer: "QUALITY / DESCRIPTION"
+      - question: "<latin>Praesum mīlitibus</latin> and <latin>sī sibi ipse cōnsentit</latin> both contain examples of what use of the dative case?"
+        answer: "WITH COMPOUND VERBS"
+  - tossup:
+      question: "Ignoring Poseidon’s warnings that they saved too many ship-wrecked sailors, what seafaring people returned Odysseus to Ithaca, causing Poseidon to turn their ship to stone?"
+      answer: "PHAEACIANS / SCHERIANS / PEOPLE OF SCHERIA"
+    boni:
+      - question: "What island did the Phaeacians call their home?"
+        answer: "SCHERIË/-IA / DREPANE / CORCYRA / CORFU"
+      - question: "Name the king and queen of the Phaeacians who provided Odysseus hospitality."
+        answer: "ALCINOÜS & ARETE"
+  - tossup:
+      question: "In ancient Rome, who would say “<latin>tē, amāta, capiō”</latin> when selecting a candidate to maintain the hearth at the Temple of Vesta?"
+      answer: "<latin>PONTIFEX MAXIMUS</latin>"
+    boni:
+      - question: "Who was the chief priest of Jupiter at Rome?"
+        answer: "<latin>FLĀMEN DIĀLIS</latin>"
+      - question: "Members of what priestly college were present in dealings with foreign nations and would throw a  \t\tspear into enemy soil in a ritual to declare war?"
+        answer: "<latin>FĒTIĀLĒS</latin>"
+  - tossup:
+      question: "What English noun from the Latin meaning “to give” means “ruin or damnation”?"
+      answer: "PERDITION"
+    boni:
+      - question: "What English verb meaning “to travel through in a leisurely way” is derived from a first conjugation verb meaning “to walk”?"
+        answer: "PERAMBULATE / AMBLE"
+      - question: "What English verb meaning “to state formally” is derived from a first conjugation verb meaning “to set free”?"
+        answer: "DELIVER"

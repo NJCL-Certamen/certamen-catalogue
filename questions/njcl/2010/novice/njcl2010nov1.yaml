@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What effect did the flower of the lotus have upon the men of Odysseus?"
+      answer: "STOPPED CARING ABOUT HOME / DID NOT WANT TO GO BACK HOME / WANTED TO STAY IN LOTUS-EATER LAND / WEEP BITTERLY AS ODYSSEUS FORCED THEM BACK TO SHIPS"
+    boni:
+      - question: "Who ate six of Odysseus' crewmen at another stop?"
+        answer: "POLYPHEMUS"
+      - question: "What race of giant man-eaters crushed all but one of Odysseus' ships at another stop?"
+        answer: "LAESTRYGONIANS"
+  - tossup:
+      question: "From what Latin verb do we derive “adroit,” “dress,” “escort,” and “director”?"
+      answer: "<latin>REGŌ</latin>"
+    boni:
+      - question: "Which one of these English words is also derived from <latin>regō</latin>: reciprocal, ruler, unrequited, rigidity?"
+        answer: "RULER"
+      - question: "What English derivative of <latin>regō</latin> is a noun meaning “the denotation of a place where a person is located”?"
+        answer: "ADDRESS/REGION"
+  - tossup:
+      question: "Whose arrow was the first to strike the Calydonian boar?"
+      answer: "ATALANTA’S"
+    boni:
+      - question: "What son of Oeneus, the king of Calydon, subsequently killed the boar?"
+        answer: "MELEAGER"
+      - question: "What deity inflicted the monstrous boar upon Calydon after being offended by Oeneus?"
+        answer: "ARTEMIS"
+  - tossup:
+      question: "Give the vocative singular of the Latin noun meaning “son.”"
+      answer: "<latin>FĪLĪ</latin>"
+    boni:
+      - question: "Give the vocative singular of the Latin noun meaning “poet.”"
+        answer: "<latin>POĒTA</latin>"
+      - question: "Give the vocative of the phrase “my good friend.”"
+        answer: "<latin>MĪ AMĪCE BONE</latin>"
+  - tossup:
+      question: "What emperor lived a life of leisure while his father ruled the empire, and continued to do so in Campania after he was deposed by Odoacer?"
+      answer: "ROMULUS AUGUST(UL)US"
+    boni:
+      - question: "What year was that overthrow of Romulus Augustulus?"
+        answer: "476 AD"
+      - question: "Who was Romulus Augustulus’ father, a name shared with a matricide in Greek tragedy?"
+        answer: "ORESTES"
+  - tossup:
+      question: "Complete the following analogy: <latin>spectō</latin> : <latin>spectātor</latin> :: <latin>dīcō</latin> : _______?"
+      answer: "<latin>DICTĀTOR</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>līberō</latin> : <latin>lībertās</latin> :: <latin>possum</latin> : _______?"
+        answer: "<latin>POTESTĀS</latin>"
+      - question: "Complete the following analogy: <latin>praesidium</latin> : <latin>sedeō</latin> :: <latin>praemium</latin> : _______?"
+        answer: "<latin>EMŌ</latin>"
+  - tossup:
+      question: "World Cup fever has struck the NJCL. Translate the following sentence: “<latin>Spectātōrēs laetē carmina canēbant</latin>.”"
+      answer: "THE SPECTATORS WERE HAPPILY SINGING SONGS"
+    boni:
+      - question: "Now translate, “<latin>Reliquī spectātōrēs Americānī miserē lacrimābant</latin>.”"
+        answer: "THE REMAINING / REST OF THE AMERICAN SPECTATORS WERE MISERABLY WEEPING"
+      - question: "Finally, translate this sentence: “<latin>Spectātōrēs Germānī Hispānīque erant</latin> <latin>fēlīcissimī</latin>.”"
+        answer: "THE GERMAN AND SPANISH SPECTATORS WERE VERY HAPPY / LUCKY"
+  - tossup:
+      question: "What is the Latin term for the bride's veil?"
+      answer: "<latin>FLAMMEUM</latin>"
+    boni:
+      - question: "Give the Latin phrase pronounced by the bride that signaled the completion of a Roman wedding"
+        answer: "<latin>UBI/QUANDŌ TŪ GĀIUS, EGO GĀIA</latin>"
+      - question: "If the wedding were a <latin>coemptiō</latin>, what symbolic token would be given to the bride’s father by the groom?"
+        answer: "A COIN"
+  - tossup:
+      question: "What king of Thebes forbade the worship of Dionysus?"
+      answer: "PENTHEUS"
+    boni:
+      - question: "Who had tricked Pentheus into spying on the crazed Theban women?"
+        answer: "DIONYSUS"
+      - question: "How did Pentheus die?"
+        answer: "TORN APART / BEHEADED BY THE BACCHANTS/BACCHAE/MAENADS / HIS AUNTS AND (RAVING) MOTHER (AGAVE)"
+  - tossup:
+      question: "What use of the ablative case is illustrated by the following sentence: “<latin>Tigris cervum magnā cum celeritāte interfēcit</latin>”?"
+      answer: "MANNER"
+    boni:
+      - question: "Translate that sentence"
+        answer: "THE TIGER KILLED THE DEER/STAG WITH GREAT SPEED / VERY QUICKLY"
+      - question: "What use of the ablative, other than an ablative of manner, regularly uses the preposition <latin>cum</latin>?"
+        answer: "ABLATIVE OF ACCOMPANIMENT"
+  - tossup:
+      question: "In what war were the following battles: Metaurus River, Trebia, Lake Trasimene, Zama, and Cannae?"
+      answer: "SECOND PUNIC"
+    boni:
+      - question: "At how many of the above battles were the Romans victorious?"
+        answer: "TWO"
+      - question: "How many of the above battles occurred in Italy?"
+        answer: "FOUR"
+  - tossup:
+      question: "What English derivative of the Latin verb meaning “to know” means “all-knowing”?"
+      answer: "OMNISCIENT"
+    boni:
+      - question: "What other derivative of the Latin verb meaning “to know” means “scrupulous, meticulous, or careful”?"
+        answer: "CONSCIENTIOUS"
+      - question: "What other derivative of the Latin verb meaning “to know” means “pleasant”?"
+        answer: "NICE"
+  - tossup:
+      question: "Identify by name the two immediate family members with whom Aeneas escaped the burning Troy"
+      answer: "ANCHISES (FATHER) & ASCANIUS/IULUS (SON)"
+    boni:
+      - question: "Identify by name Aeneas’ first wife, who did not escape from the city"
+        answer: "CREUSA"
+      - question: "On what island did Aeneas’ father Anchises eventually die?"
+        answer: "SICILY"
+  - tossup:
+      question: "Translate the Latin verb form “<latin>cadam</latin>”"
+      answer: "I WILL FALL / LET ME FALL"
+    boni:
+      - question: "Translate the Latin verb form “<latin>captus</latin>”"
+        answer: "(HAVING BEEN) CAPTURED / SEIZED"
+      - question: "Translate the Latin verb form “<latin>ībant</latin>”"
+        answer: "THEY WERE GOING / THEY WENT / THEY USED TO GO / THEY DID GO"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Herī gladiātōrēs in arēnā pugnābant, et quīnque interfectī sunt. Hodiē centum cīvēs fābulam spectant. Crās autem omnibus multus labor erit.</latin>  Question: <latin>Quot cīvēs hodiē fābulam spectant?</latin>"
+      answer: "CENTUM"
+    boni:
+      - question: "<latin>Quī interfectī sunt?</latin>"
+        answer: "<latin>(QUĪNQUE) GLADIĀTŌRĒS</latin>"
+      - question: "<latin>Quibus labor crās erit?</latin>"
+        answer: "<latin>OMNIBUS / (CENTUM) CĪVIBUS</latin>"
+  - tossup:
+      question: "What Roman road, eventually running to the <latin>Castrum Truentinum</latin> on the Adriatic coast, owes its name to the Latin word for “salt” since it was the route by which the Sabines came to fetch salt from the marches at the mouth of the Tiber?"
+      answer: "(VIA) SALARIA"
+    boni:
+      - question: "Identify by color the road known as the <latin>Via Appia</latin>"
+        answer: "RED"
+      - question: "Name the city that is the ultimate easternmost point on this road"
+        answer: "<latin>BRUNDISIUM</latin> / BRINDISI <latin>DON’T NEED THE VISUAL FOR THIS QUESTION!</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “quōmodo”?</latin>"
+      answer: "HOW / IN WHAT WAY"
+    boni:
+      - question: "<latin>Quid Anglicē significat “quoque”?</latin>"
+        answer: "ALSO, TOO"
+      - question: "<latin>Quid Anglicē significat “quōcum”?</latin>"
+        answer: "WITH WHOM"
+  - tossup:
+      question: "Listen to the following Latin sentence and identify, by number, the labor of Hercules described therein: <latin>Herculēs interfēcit magnum leōnem</latin>"
+      answer: "ONE/FIRST"
+    boni:
+      - question: "Identify, by number, the labor of Hercules described in this Latin sentence: <latin>Herculēs interfēcit magnum serpentem multīs capitibus</latin>"
+        answer: "TWO/SECOND"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē. Quem canem Herculēs ā Tartarō portāvit</latin>?"
+        answer: "<latin>CERBERUM /</latin> CERBERUS"
+  - tossup:
+      question: "Give the correct Latin for the relative pronoun in this English sentence: “We all wanted to meet the boys who won the costume contest.”"
+      answer: "<latin>QUĪ</latin>"
+    boni:
+      - question: "Give the correct Latin for the pronoun “them” in this English sentence: “I know where the boys went after the costume contest - I saw them going to the dance.”"
+        answer: "<latin>EŌS / HŌS / ILLŌS / ISTŌS</latin>"
+      - question: "Give the correct Latin for the pronoun “you” in this English sentence: “Boys, let me show you how to boogey.”"
+        answer: "<latin>VŌBĪS</latin>"
+  - tossup:
+      question: "What two men were co-consuls in 70 BC and again in 55 BC?"
+      answer: "(CNAEUS POMPEIUS MAGNUS) POMPEY & (MARCUS LICINIUS) CRASSUS"
+    boni:
+      - question: "Against what renegade general in Spain was Pompey fighting prior to his first consulship?"
+        answer: "(QUINTUS) SERTORIUS"
+      - question: "Against what renegade was Crassus fighting around the same time?"
+        answer: "SPARTACUS <latin>2010 NJCL CERTAMEN NOVICE DIVISION</latin>"

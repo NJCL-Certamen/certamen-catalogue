@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "For the Latin verb “<latin>stō</latin>,” give the second person plural, pluperfect active indicative"
+      answer: "<latin>STETERĀTIS</latin>"
+    boni:
+      - question: "Make “<latin>steterātis</latin>” perfect"
+        answer: "<latin>STETISTIS</latin>"
+      - question: "Make “<latin>stetistis</latin>” third person plural"
+        answer: "<latin>STETĒRUNT</latin>"
+  - tossup:
+      question: "What Roman led his troops to the rescue of soldiers who were surrounded on Mt. Algidus?"
+      answer: "CINCINNATUS"
+    boni:
+      - question: "In 387 BC, what Roman attacked the Gauls who had sacked Rome in order to retrieve the gold they took as ransom?"
+        answer: "(MARCUS FURIUS) CAMILLUS"
+      - question: "Who came to the rescue when Coriolanus was marching on Rome?"
+        answer: "HIS MOTHER (VETURIA) AND HIS WIFE (VOLUMNIA)"
+  - tossup:
+      question: "What U.S. coin derives its name from the Latin word for “ten”?"
+      answer: "DIME"
+    boni:
+      - question: "What English word, derived from the Latin words for “two” and “ten,” is a word used to describe a group of twelve?"
+        answer: "DOZEN"
+      - question: "What English verb, also a derivative of the Latin word for “ten,” literally means “reduce by one tenth” but is used in common English to mean “utterly destroy”?"
+        answer: "DECIMATE"
+  - tossup:
+      question: "Who fell from a great height when the wax that had been holding his wings together melted?"
+      answer: "ICARUS"
+    boni:
+      - question: "What king of Crete had imprisoned Icarus and his father Daedalus?"
+        answer: "MINOS"
+      - question: "What did Daedalus advise Ariadne to do?"
+        answer: "HE TOLD ARIADNE THAT <emphasis>THESEUS</emphasis> COULD USE <emphasis>BALL OF STRING</emphasis> TO RETRACE HIS STEPS AND FIND HIS WAY <emphasis>OUT</emphasis> OF THE <emphasis>LABYRINTH</emphasis>"
+  - tossup:
+      question: "Translate the following sentence from Latin into English: “<latin>Mīlitēs Rōmānī contrā multōs hostēs pugnābant</latin>.”"
+      answer: "THE ROMAN SOLDIERS WERE FIGHTING (AGAINST) MANY ENEMIES"
+    boni:
+      - question: "Now translate, “<latin>Proelium inter mīlitēs hostēsque prope flūmen pugnābātur</latin>.”"
+        answer: "THE BATTLE BETWEEN THE SOLDIERS AND (THEIR) ENEMIES WAS (BEING) FOUGHT NEAR A RIVER"
+      - question: "Finally, translate this sentence: “<latin>Victī hostēs fugiunt ex Italiā</latin>”"
+        answer: "THE CONQUERED ENEMIES FLEE / ARE FLEEING OUT OF / FROM ITALY"
+  - tossup:
+      question: "What Latin phrase is used in English to denote that a legal matter or crime appears to be self-evident from the facts at first glance?"
+      answer: "<latin>PRĪMĀ FACIĒ / IPSŌ FACTŌ / RĒS IPSA</latin>"
+    boni:
+      - question: "What Latin phrase is used in English to describe the complete facts of a crime?"
+        answer: "<latin>CORPUS DĒLICTĪ</latin>"
+      - question: "Finally, what phrase is used in Latin to describe that a suspect was caught red-handed in the commission of a crime?"
+        answer: "(<latin>IN) FLAGRANTE DĒLICTŌ</latin>"
+  - tossup:
+      question: "Who saw a vision of his brother Deiphobus, only to have his hopes dashed when he turned to face Achilles with his brother nowhere to be found?"
+      answer: "HECTOR"
+    boni:
+      - question: "Who, according to Homer, was impersonating Deiphobus?"
+        answer: "ATHENA"
+      - question: "What did Hector ask of Achilles before they finally faced off?"
+        answer: "THAT THE WINNER SHOULD SEND BACK THE LOSER'S BODY TO HIS FAMILY (FOR BURIAL) (prompt on “that his body be buried / receive proper funereal rites”)"
+  - tossup:
+      question: "What emperor committed suicide on June 9, 68 AD?"
+      answer: "NERO"
+    boni:
+      - question: "Whom did Nero name “<latin>optima</latin> <latin>māter</latin>”?"
+        answer: "AGRIPPINA THE YOUNGER / <latin>MINOR</latin>"
+      - question: "What was Nero’s original full name?"
+        answer: "LUCIUS DOMITIUS AHENOBARBUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Iūlia semper togam praetextam gerit. “Volō senātor Rōmānus esse” dīxit patrī. Pater respondit, “Fīlia mea, puellae populum nōn regunt. Necesse est tibi domum et līberōs regere. Nunc ī ad cubiculum tuum et pallam stolamque indue!”</latin> Question: Which of the following would best describe Julia: senator, tomboy, eunuch, barbarian, princess, slave?"
+      answer: "TOMBOY"
+    boni:
+      - question: "According to her father, what is it necessary for Julia to do?"
+        answer: "RULE THE HOME AND CHILDREN"
+      - question: "What does Julia’s father order her to do?"
+        answer: "GO TO THE BEDROOM AND PUT ON A PALLA AND STOLA"
+  - tossup:
+      question: "Give the collective name for the creatures that guarded the Titans in Tartarus"
+      answer: "HECATONCHEIRES / HUNDRED-HANDED (GIANTS)"
+    boni:
+      - question: "What divine fare did Zeus give the Hecatoncheires while they helped him to fight Cronos and the other Titans?"
+        answer: "NECTAR AND AMBROSIA"
+      - question: "What primordial entities were the parents of the Hecatoncheires as well as the Cyclopes?"
+        answer: "GAEA/GE AND URANUS"
+  - tossup:
+      question: "Which of the following words, if any, IS derived from the Latin verb “<latin>putō</latin>”: fragile, prescient, reputation, squat, recur, benefactor?"
+      answer: "REPUTATION"
+    boni:
+      - question: "Which of those same words, if any, is derived from the Latin verb “<latin>bibō</latin>”?"
+        answer: "NONE OF THEM"
+      - question: "Which of those same words, if any, is derived from the Latin verb meaning “to run”?"
+        answer: "RECUR"
+  - tossup:
+      question: "Of <latin>prandium</latin>, <latin>ientāculum</latin>, <latin>secunda mēnsa</latin>, <latin>vesperna</latin>, and <latin>gustus</latin>, which would you exclusively consume early in the morning?"
+      answer: "<latin>IENTĀCULUM</latin>"
+    boni:
+      - question: "What was a <latin>gustus</latin>?"
+        answer: "APPETIZER"
+      - question: "Of <latin>sal</latin>, <latin>amurca</latin>, <latin>garum</latin>, <latin>oleum olīvum</latin>, <latin>puls</latin>, which two are extracted from olives?"
+        answer: "<latin>AMURCA</latin>, <latin>OLEUM OLĪVUM</latin>"
+  - tossup:
+      question: "How many syllables is the fourth principal part of <latin>faciō</latin>?"
+      answer: "TWO"
+    boni:
+      - question: "You may now examine the visual for five seconds.  Of the ten words contained on that list, how many are third declension nouns?"
+        answer: "THREE"
+      - question: "Of the ten words, how many are accented on the penult?"
+        answer: "TWO"
+  - tossup:
+      question: "In deference to what hero did Heracles decline the offer to become the captain of the Argonauts?"
+      answer: "JASON"
+    boni:
+      - question: "What city on the shores of the Black Sea was the destination of the good ship <emphasis>Argo</emphasis>?"
+        answer: "COLCHIS"
+      - question: "At whose behest did Jason undertake this seemingly impossible voyage?"
+        answer: "PELIAS"
+  - tossup:
+      question: "Which of the following is NOT a preposition: <latin>post</latin>, <latin>pēs</latin>, <latin>prope</latin>, <latin>prō</latin>, <latin>per</latin>?"
+      answer: "<latin>PĒS</latin>"
+    boni:
+      - question: "Which of the following is NOT a standard interjection: <latin>ecce</latin>, <latin>ēheu</latin>, <latin>euge</latin>, <latin>pōl</latin>, <latin>ubi</latin>?"
+        answer: "<latin>UBI</latin>"
+      - question: "Which of the following is NOT an adverb: <latin>celere</latin>, <latin>valdē</latin>, <latin>deinde</latin>, <latin>frūstrā</latin>, <latin>mox</latin>?"
+        answer: "<latin>CELERE</latin>"
+  - tossup:
+      question: "New secondary roads in Italy, a colony named Junonia, and a low fixed price for grain were all reforms of what tribune who would soon become the object of a <latin>senātūs</latin> <latin>cōnsultum</latin> <latin>ultimum</latin>?"
+      answer: "GAIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "The colony Junonia was to be built on the site of what city, which had been demolished in 146 BC?"
+        answer: "CARTHAGE"
+      - question: "In what two years did Gaius Gracchus serve consecutive terms as tribune of the plebeians?"
+        answer: "123 and 122 BC"
+  - tossup:
+      question: "Which of the following adjectives has the same nominative singular form in the masculine, feminine, and neuter: <latin>immortālis</latin>, <latin>vīvus</latin>, <latin>fortis</latin>, <latin>prūdēns</latin>, <latin>āter</latin>?"
+      answer: "<latin>PRŪDĒNS</latin>"
+    boni:
+      - question: "Which of those adjectives are NOT third declension?"
+        answer: "<latin>VĪVUS & ĀTER</latin>"
+      - question: "Give an antonym of <latin>āter</latin>."
+        answer: "ALBUS/CANDIDUS/LŪCIDUS"
+  - tossup:
+      question: "Say in Latin, “How many cows are eating the grass?”"
+      answer: "<latin>QUOT VACCAE/BOVĒS (DĒ)VORANT/EDUNT/ CŌNSŪMUNT HERBAM/GRAMEN?</latin>"
+    boni:
+      - question: "Now, say in Latin, “A ferocious lion is approaching the cows.”"
+        answer: "<latin>LEŌ FERŌX/FERUS/SAEVUS/ĀCER VACCĪS/BŌBUS / AD VACCĀS/BOVĒS APPROPINQUAT/ACCĒDIT/ADIT</latin>"
+      - question: "Finally, say in Latin, “There used to be four cows. Now there are three.”"
+        answer: "<latin>ERANT QUATTUOR VACCAE/BOVĒS. NUNC/IAM TRĒS SUNT.</latin>"
+  - tossup:
+      question: "What god flayed Marsyas alive and gave Midas donkey's ears?"
+      answer: "APOLLO"
+    boni:
+      - question: "Why did Midas receive his donkey ears?"
+        answer: "<emphasis>PREFERRED</emphasis> <emphasis>PAN’S</emphasis> MUSIC TO APOLLO’S IN A <emphasis>CONTEST</emphasis>"
+      - question: "What instrument, discarded by Athena, did Marsyas play in a music contest against Apollo?"
+        answer: "(DOUBLE)FLUTE"
+  - tossup:
+      question: "What battle of the Second Samnite War saw the Samnite general Gavius Pontius trap a Roman army in a mountain pass and force them to capitulate?"
+      answer: "(<latin>FURCULAE CAUDĪNAE)</latin>CAUDINE FORKS"
+    boni:
+      - question: "What humiliation did Pontius force the conquered soldiers to undergo?"
+        answer: "WALKING UNDER THE YOKE (OF SPEARS IN ONLY THEIR TUNICS) / SUBJUGATION"
+      - question: "In what year did this catastrophic battle occur?"
+        answer: "321 BC FREGELLAE <latin>2010 NJCL CERTAMEN NOVICE DIVISION</latin>"

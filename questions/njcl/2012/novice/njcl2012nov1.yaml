@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2012
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give the case and use of the Latin word for “son” in the following English sentence: <latin>Māter ad templum cum fīliō currēbat</latin>"
+      answer: "ABLATIVE OF ACCOMPANIMENT"
+    boni:
+      - question: "What are the case and use of the word <latin>templum</latin> in the same sentence?"
+        answer: "ACCUSATIVE OF PLACE TO WHICH (prompt on “object of preposition”)"
+      - question: "What three distinct Latin prepositions are commonly used to express the ablative of place from which?"
+        answer: "<latin>AB / Ā; EX / Ē; DĒ</latin>"
+  - tossup:
+      question: "Which of the Greeks at Troy convinced Agamemnon to abandon Philoctetes and also convinced Clytemnestra to send Iphigeneia to Aulis by telling her that she would be the bride of Achilles?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "What enemy did Odysseus convince the Greeks to execute as vengeance for his role in revealing Odysseus’ scheme to stay out of the war?"
+        answer: "PALAMEDES"
+      - question: "Odysseus was also adamant that no descendant of Priam should survive the war, and thus insisted that whose infant son Astyanax be thrown from the walls?"
+        answer: "HECTOR’S"
+  - tossup:
+      question: "What two-word Latin phrase might be found in a document denying a lawyer’s motion because the conclusion did not logically follow from the arguments?"
+      answer: "<latin>NŌN SEQUITUR</latin>"
+    boni:
+      - question: "What three-word Latin phrase might be found on a power-of-attorney document enabling another person to make decisions for a child in place of a parent?"
+        answer: "<latin>IN LOCŌ</latin> PARENTIS"
+      - question: "What two-word Latin phrase is found on legal documents in which the accused does not wish to contest the charges brought against him?"
+        answer: "<latin>NŌLŌ CONTENDERE</latin> "
+  - tossup:
+      question: "What famous Roman patrician first distinguished himself while serving as <latin>quaestor</latin> under Marius, when he succeeded in negotiating the surrender of Jugurtha?"
+      answer: "(LUCIUS CORNELIUS) SULLA (FELIX)"
+    boni:
+      - question: "In what year did Sulla hold his first consulship?"
+        answer: "88 BC"
+      - question: "The tribune Sulpicius Rufus stripped Sulla of his command in the war against what Eastern king?"
+        answer: "MITHRIDATES (IV EUPATOR)"
+  - tossup:
+      question: "Translate this sentence from Latin to English: <latin>Aurēlia lentē ad vīllam ambulāvit</latin>"
+      answer: "AURELIA SLOWLY WALKED / HAS WALKED TO THE (COUNTRY) HOUSE"
+    boni:
+      - question: "In the sentence <latin>Aurēlia Rōmam ambulāvit</latin>, what is the best translation for the word <latin>Rōmam</latin>?"
+        answer: "TO ROME"
+      - question: "Now translate this sentence: <latin>Familia magna domum ambulābit</latin>"
+        answer: "THE LARGE FAMILY WILL WALK TO THE HOUSE / HOME"
+  - tossup:
+      question: "What Roman emperor summoned the famous physician Galen to Italy in the middle of a plague brought back from the East by Roman legions around 168 AD?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What patron of the young Marcus Aurelius gave him the nickname <latin>Vērissimus</latin>?"
+        answer: "(PUBLIUS AELIUS) HADRIAN(US)"
+      - question: "To what cousin of his, and daughter of the previous emperor, was Marcus Aurelius married?"
+        answer: "FAUSTINA (THE YOUNGER)"
+  - tossup:
+      question: "The Eridanus river became the final resting place of what mythological figure after he fell from the sky when struck by a lightning bolt by Zeus?"
+      answer: "PHAETHON"
+    boni:
+      - question: "Who were the parents of Phaethon?"
+        answer: "CLYMENE & HELIOS / APOLLO"
+      - question: "The taunting of what son of Zeus and Io prompted Phaethon to attempt to prove his divine heritage?"
+        answer: "EPAPHUS"
+  - tossup:
+      question: "What is the meaning of <latin>potestās</latin>?"
+      answer: "POWER"
+    boni:
+      - question: "Match the eight verbs on the left with the letter that gives their correct definition."
+        answer: "1-G, 2-C, 3-D, 4-E, 5-H, 6-A, 7-B, 8-F"
+      - question: "Match the eight animals on the left with the letter that gives their correct definition."
+        answer: "1-F, 2-A, 3-H, 4-E, 5-D, 6-C, 7-G, 8-B"
+  - tossup:
+      question: "What building in the Forum was burned down by a mob in 52 BC, rebuilt by Julius Caesar in 44 BC, and served as the meeting place for the Roman Senate?"
+      answer: "<latin>CURIA</latin>"
+    boni:
+      - question: "What king is thought to have built the original Curia in the mid-7th century BC?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "Who had the Curia demolished in 80 BC in order to construct a larger building where he could accommodate the growing number of senators?"
+        answer: "(LUCIUS CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "Horrors! Mathematics invades certamen! Give the Latin noun and its English meaning from which we derive “denominator.”"
+      answer: "<latin>NŌMEN</latin>, NAME"
+    boni:
+      - question: "From what Latin verb does the word “fraction” derive?"
+        answer: "<latin>FRANGŌ</latin> / <latin>FRANGERE</latin>"
+      - question: "Denominators and fractions can be found in equations. Give the Latin adjective and its meaning from which we derive “equations.”"
+        answer: "<latin>AEQUUS</latin>, EQUAL"
+  - tossup:
+      question: "Where was Aeschylus sitting when the events of this passage take place?"
+      answer: "IN A FIELD / FARM"
+    boni:
+      - question: "What was the eagle’s goal in dropping the turtle?"
+        answer: "HE WAS TRYING TO BREAK ITS SHELL (ON A ROCK)"
+      - question: "Why did the eagle think that Aeschylus’ head was a rock?"
+        answer: "IT LOOKED WHITE / AESCHYLUS WAS BALD"
+  - tossup:
+      question: "What man, the first over the walls of Carthage in 146 BC, was a cousin and brother-in- law of Scipio Aemilianus as well as the ill-fated tribune in 133 BC?"
+      answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "During Tiberius’ tribunate, where was his younger brother Gaius fighting with Scipio Aemilianus?"
+        answer: "NUMANTIA / SPAIN"
+      - question: "Who led the mob that surprised and killed Tiberius Gracchus on the Capitol?"
+        answer: "(PUBLIUS CORNELIUS) SCIPIO NASICA (SERAPIO)"
+  - tossup:
+      question: "Who were said to be in the employ of Poseidon, rescuing ships in distress, although they could do so only every other day as they spent half their time as shades in the Underworld?"
+      answer: "CASTOR & POLLUX"
+    boni:
+      - question: "Explain their odd situation of half-immortality"
+        answer: "CASTOR DIED (HE WAS MORTAL), AND POLLUX WAS SO UPSET THAT HE OFFERED HALF OF HIS IMMORTALITY SO THAT HE COULD SPEND ALL HIS TIME WITH HIS BROTHER"
+      - question: "Although Pollux is the son of Zeus, Castor and Pollux were often called the Tyndaridae, indicating them to be the sons of what man?"
+        answer: "TYNDAREUS"
+  - tossup:
+      question: "When recognized by the spotter, perform the following Latin commands: <latin>Surge et pōne digitōs in aurēs</latin>"
+      answer: "STUDENT SHOULD STAND AND PLACE FINGERS ONTO / INTO EARS"
+    boni:
+      - question: "Now follow these commands: <latin>Surgite, duo comitēs, et rīdēte</latin>"
+        answer: "TWO (AND TWO ONLY) OF THE TEAM SHOULD STAND AND SMILE / LAUGH"
+      - question: "Now follow these commands: <latin>Dīc mihi Anglicē, “Rēspondēre nōn possumus; nōs terrēs!”</latin>"
+        answer: "THE CAPTAIN SHOULD SAY, “WE CANNOT ANSWER; YOU FRIGHTEN US!”"
+  - tossup:
+      question: "Using the Latin verb <latin>habitō</latin>, say in Latin, “They live.”"
+      answer: "<latin>HABITANT</latin>"
+    boni:
+      - question: "Give the corresponding form of the Latin verb <latin>vīvō</latin>"
+        answer: "<latin>VĪVUNT</latin>"
+      - question: "Change <latin>vīvunt</latin> to the imperfect tense, keeping everything else the same"
+        answer: "<latin>VĪVĒBANT</latin>"
+  - tossup:
+      question: "What emperor of Rome, a native Dalmatian of low birth, unprecedentedly left the throne alive when he abdicated in 305 AD?"
+      answer: "(GAIUS AURELIUS VALERIUS) DIOCLETIAN(US)"
+    boni:
+      - question: "What term is given to Diocletian’s division of power into an Eastern and a Western Augustus and an Eastern and a Western Caesar?"
+        answer: "TETRARCHY"
+      - question: "Who was Diocletian’s Caesar?"
+        answer: "(GAIUS) GALERIUS (VALERIUS MAXIMIANUS)"
+  - tossup:
+      question: "The name of what Roman god indicated the vast wealth that he controlled buried underneath the Earth?"
+      answer: "PLUTO / DIS"
+    boni:
+      - question: "Although Pluto was known as the god of the dead, he was not the personification of death itself. What was the Greek name for this personification?"
+        answer: "THANATOS"
+      - question: "Thanatos was the brother of the god of sleep. Name him"
+        answer: "HYPNOS"
+  - tossup:
+      question: "In the sentence \"We showed the gold to the famous sailor,\" translate \"famous sailor.\""
+      answer: "<latin>(PRAE)CLĀRŌ / NŌTŌ NAUTAE</latin> "
+    boni:
+      - question: "Make that same phrase plural"
+        answer: "<latin>(PRAE)CLĀRĪS / NŌTĪS NAUTĪS</latin>"
+      - question: "Now translate this sentence: \"The famous sailor was carrying the gold to the ship.\""
+        answer: "<latin>(PRAE)CLĀRUS / NŌTUS NAUTA AURUM AD NĀVEM PORTĀBAT / FERĒBAT</latin> "
+  - tossup:
+      question: "Who was able to trick the daughters of Pelias into killing their own father by rejuvenating an old ram before their very eyes?"
+      answer: "MEDEA"
+    boni:
+      - question: "What son of Pelias drove Jason and Medea out of the city after his father’s murder?"
+        answer: "ACASTUS"
+      - question: "After leaving Iolcus, to what city did Jason and Medea flee, where they were welcomed by its king Creon?"
+        answer: "CORINTH"
+  - tossup:
+      question: "Which of the five basic cases is lacking from all Latin reflexive pronouns?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "Give the forms of the 3rd person reflexive pronouns"
+        answer: "<latin>SUĪ, SIBI, SĒ (SĒSĒ), SĒ (SĒSĒ)</latin>"
+      - question: "What reflexive adjective means “his, her, or its own”?"
+        answer: "<latin>SUUS (SUA, SUUM) 2012 NJCL CERTAMEN NOVICE DIVISION</latin>"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the following words, if any, does <emphasis>not</emphasis> have the same Latin root as the others? decease, secession, ancestor, concede, session SESSION Give the Latin root and its meaning of “session.”"
+      answer: "<latin>SEDEŌ/SEDĒRE</latin> - SIT, STAY, BE INACTIVE, HOLD FAST, SINK, SUBSIDE"
+    boni:
+      - question: "What is the Latin root of the other words in the toss-up?"
+        answer: "<latin>CĒDŌ/CĒDERE</latin>"
+  - tossup:
+      question: "Which minor goddess, the sister of Helios and Selene, was the mother of the winds and the goddess of the dawn?"
+      answer: "EOS"
+    boni:
+      - question: "Who was Eos' lover who received immortality without eternal youth?"
+        answer: "TITHONUS"
+      - question: "Name the son of Eos and Tithonus who was the leader of the Ethiopian forces in the Trojan War"
+        answer: "MEMNON"
+  - tossup:
+      question: "Who refused to be named dictator for life and to have his statue erected in the Curia and Capitol but did accept the <latin>agnomen</latin> of <latin>Africanus</latin>?"
+      answer: "P. CORNELIUS SCIPIO"
+    boni:
+      - question: "What victory earned Scipio this immense popularity with the Roman people?"
+        answer: "ZAMA/DEFEAT OF HANNIBAL (202 BC)"
+      - question: "Many senators were jealous of Scipio’s success and popularity. Who, fearing Scipio’s philhellenism, led a fierce attack on Scipio?"
+        answer: "CATO THE ELDER/CENSOR"
+  - tossup:
+      question: "What form of the adjective <latin>sacer</latin> agrees with the noun form <latin>urbem</latin>?"
+      answer: "<latin>SACRAM</latin>"
+    boni:
+      - question: "What form of the adjective <latin>sacer</latin> agrees with the noun form <latin>iter</latin>?"
+        answer: "<latin>SACRUM</latin>"
+      - question: "What form of the adjective <latin>sacer</latin> agrees with the pronoun form <latin>nobīs</latin>?"
+        answer: "<latin>SACRĪS</latin>"
+  - tossup:
+      question: "Who was proclaimed emperor on 1 July, AD 69, but did not actually reach Rome until the next year?"
+      answer: "(T. FLAVIUS) VESPASIAN(US)"
+    boni:
+      - question: "What war was he fighting when he was proclaimed emperor?"
+        answer: "JEWISH WAR/REBELLION"
+      - question: "Whom did Vespasian leave in charge to complete the wars against the Jews?"
+        answer: "TITUS (HIS SON)"
+  - tossup:
+      question: "The Garden of the Hesperides provided apples for Hercules and what other young man who was desperate to win a footrace?"
+      answer: "HIPPOMENES / MELANION"
+    boni:
+      - question: "What would have happened to Hippomenes if he had lost the race?"
+        answer: "HE WOULD HAVE BEEN KILLED (& HIS HEAD WOULD HAVE BEEN STUCK ON A POLE AT THE RACECOURSE)"
+      - question: "Whose hand did Hippomenes win in marriage?"
+        answer: "ATALANTA'S"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Caesar erat clārior quam inimīcī</latin> <latin>quī</latin> <latin>eum necāvērunt.</latin> "
+      answer: "CAESAR WAS MORE FAMOUS THAN THE ENEMIES WHO KILLED HIM."
+    boni:
+      - question: "<latin>. . . Aestāte diēs sunt longiorēs quam hieme.</latin> "
+        answer: "IN SUMMER THE DAYS ARE LONGER THAN IN WINTER."
+      - question: "<latin>. . . Salūs reī</latin> <latin>pūblicae erat Rōmānō</latin> <latin>cārior quam vīta sua.</latin> "
+        answer: "THE SAFETY OF THE REPUBLIC WAS DEARER TO A ROMAN THEN HIS OWN LIFE."
+  - tossup:
+      question: "Many Roman inscriptions contain the phrase “<latin>hīc iacet</latin>.” On what type of object would one find this inscription?"
+      answer: "TOMBSTONE"
+    boni:
+      - question: " Here lies Artemia, A child sweet and bright Fair of visage, and most charming in her speech, having lived four years, in her fifth year she departed To Christ, an innocent who passed over without warning into the heavenly kingdom -Paul Shore <latin>HĪC IACET ARTEMIA DULCIS APTISSIMUS ĪNFĀNS ET VĪSŪ</latin> <latin>GRĀTA ET VERBĪS DULCISSIMA CUNCTĪS QUATTUOR IN QUĪNTŌ</latin> <latin>AD CHRISTUM DĒTULIT ANNŌS</latin>  <latin>INNOCĒNS SUBITŌ</latin> <latin>AD CAELESTIA</latin>  <latin>RĒGNA TRĀNSĪVIT</latin>  What word in the inscription indicates that Artemia died without warning?"
+        answer: "<latin>SUBITŌ</latin>"
+      - question: "Other than being an infant and her specific age, give two characteristics of Artemia listed in this inscription"
+        answer: "SWEET / VERY CAPABLE / PLEASING (IN APPEARANCE) / BRIGHT COULD TALK WELL FOR A CHILD / COULD FORM COMPLETE SENTENCES INNOCENCE / SHE WAS A CHRISTIAN / COULD USE WHOLE WORDS"
+  - tossup:
+      question: "In what ways does an adjective agree with the noun it modifies?"
+      answer: "GENDER, NUMBER & CASE"
+    boni:
+      - question: "In what ways does a relative pronoun agree with its antecedent?"
+        answer: "GENDER & NUMBER"
+      - question: "Translate the relative pronoun into Latin for this sentence: The swords with which the men had slain the enemy were large"
+        answer: "<latin>QUIBUS</latin>"
+  - tossup:
+      question: "Against what reformer was a <latin>senatūs consultum ultimum</latin> first issued in 121 B. C.?"
+      answer: "GAIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "In general, what did a <latin>senatūs consultum ultimum</latin> authorize the consuls to do?"
+        answer: "ANYTHING NECESSARY TO SAVE THE STATE"
+      - question: "What happened to Gracchus after the <latin>senatūs consultum ultimum</latin> was issued?"
+        answer: "KILLED IN FIGHTING/RIOT"
+  - tossup:
+      question: "What was the occupation of Eumaeus, who was loyal to Odysseus when the king returned to Ithaca?"
+      answer: "SWINEHERD"
+    boni:
+      - question: "What was the occupation of Melantheus, who sided with the suitors?"
+        answer: "GOATHERD"
+      - question: "What was the occupation of Philoetius, who aided Odysseus on Ithaca?"
+        answer: "COWHERD / NEATHERD"
+  - tossup:
+      question: "As part of what social event in Rome were the Fescennine verses sung?"
+      answer: "WEDDING / MARRIAGE / <latin>CONFARREATIO</latin>"
+    boni:
+      - question: " During what part of the celebration of a marriage were these verses sung?"
+        answer: "THE <emphasis>PROCESSION</emphasis> (TO BRIDE’S NEW HOME) / <latin>DĒDUCTIŌ</latin>"
+      - question: "What cry was interjected into the singing of the verses?"
+        answer: "<latin>TALAS(S)IO</latin> / <latin>TALLAS(S)IUS / TALAS(S)US / TALASSE</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>hodiē</latin>”?"
+      answer: "TODAY"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>mox</latin>”?"
+        answer: "SOON, LATER, THEN"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat</latin> “<latin>statim</latin>”?"
+        answer: "IMMEDIATELY, RIGHT AWAY, AT ONCE"
+  - tossup:
+      question: "Give the second person singular, perfect active indicative of the verb <latin>capiō</latin>"
+      answer: "<latin>CĒPISTĪ</latin>"
+    boni:
+      - question: "Give the same form of <latin>videō</latin>"
+        answer: "<latin>VĪDISTĪ</latin>"
+      - question: "Give the same form of <latin>mittō</latin>"
+        answer: "<latin>MĪSISTĪ</latin>"
+  - tossup:
+      question: "What Theban buried her brother against her uncle's decree?"
+      answer: "ANTIGONE"
+    boni:
+      - question: "Who was her uncle?"
+        answer: "CREON"
+      - question: "Who was the brother whom she buried?"
+        answer: "POLYNEICES"
+  - tossup:
+      question: "You are walking down a street in classical Rome when you meet someone on the street who asks you the question “<latin>Quot annos habēs</latin>?”. What do they want to know?"
+      answer: "HOW OLD YOU ARE"
+    boni:
+      - question: "The person then asks you “<latin>Habēsne frātrēs an sorōrēs</latin>?” What do they want to know now?"
+        answer: "IF YOU HAVE BROTHERS OR SISTERS"
+      - question: "Finally, the person asks you “<latin>Quō</latin> <latin>vadis</latin>?” What do they want to know?"
+        answer: "WHERE YOU ARE GOING"
+  - tossup:
+      question: "Name the leader of the Visigoths who sacked Rome on August 24, 410 A. D.?"
+      answer: "ALARIC"
+    boni:
+      - question: "What foreigner had last threatened the walls of Rome in 211 BC?"
+        answer: "HANNIBAL"
+      - question: "Name the emperor of the West who cowered in Ravenna while Rome was being sacked"
+        answer: "HONORIUS"
+  - tossup:
+      question: "What use of the genitive case is illustrated in this sentence: <latin>est fēmina magnae sapientiae</latin>"
+      answer: "QUALITY / DESCRIPTION"
+    boni:
+      - question: "in this sentence: <latin>Marcus est amīcus fratris mei</latin>"
+        answer: "POSSESSION"
+      - question: "Translate this sentence into correct Latin: The fear of the citizens was great"
+        answer: "<latin>TIMOR / METUS / PAVOR / TERROR CĪVIUM ERAT MAGNUS</latin>."
+  - tossup:
+      question: "Which of Heracles’ labors was the first to take him away from the mainland of Greece?"
+      answer: "FETCHING THE CRETAN BULL"
+    boni:
+      - question: "The Cretan bull was obviously from Crete, but where did it die?"
+        answer: "(PLAIN OF) MARATHON"
+      - question: "In what country did Diomedes keep his man-eating horses?"
+        answer: "THRACE"
+  - tossup:
+      question: "Give the Latin verb root with its meaning for “present,” “entity,” and “essence.”"
+      answer: "<latin>SUM/ESSE</latin> - BE"
+    boni:
+      - question: "Give the Latin adjective root with its meaning for “grief,” “aggravate,” and “gravity.”"
+        answer: "<latin>GRAVIS</latin> - HEAVY, WEIGHTY, BURDENSOME, HARD, SEVERE, HARSH, IMPORTANT, PREGNANT"
+      - question: "Give the Latin noun root with its meaning for “penitent,” “impunity,” and “penalty.”"
+        answer: "<latin>POENA</latin>"

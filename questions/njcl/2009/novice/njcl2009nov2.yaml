@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Of the words <latin>gēns, aurum, pānis,</latin> and <latin>carmen</latin>, which is being described by the following sentence: <latin>Id est quod ā poētīs compositum est</latin>"
+      answer: "CARMEN"
+    boni:
+      - question: "…: <latin>Significat hominēs quī ē complūribus familiīs idem nōmen habent</latin>"
+        answer: "GĒNS"
+      - question: "…: <latin>Multī cīvēs eum emunt ā pistōribus</latin>"
+        answer: "PĀNIS"
+  - tossup:
+      question: "What English word meaning “stout” or “portly” is derived from the Latin word meaning “body”?"
+      answer: "CORPULENT"
+    boni:
+      - question: "What English word meaning “narrow-minded” is derived from the Latin word meaning “province”?"
+        answer: "PROVINCIAL"
+      - question: "What English word, synonymous with “reverence,” is derived from a third declension Latin word meaning “man”?"
+        answer: "HOMAGE"
+  - tossup:
+      question: "What was built for the first time in Roman history after the Battle of Agrigentum in 261 BC?"
+      answer: "NAVY / MAJOR FLEET"
+    boni:
+      - question: "The invention of what device allowed the Romans to turn naval battles into virtual land battles?"
+        answer: "<latin>CORVUS / HARPAGŌ</latin>"
+      - question: "At what battle did the <latin>corvus</latin> make its first debut?"
+        answer: "MYLAE"
+  - tossup:
+      question: "The myth of what two lovers explains why the fruits of the mulberry ripen to a dark hue?"
+      answer: "PYRAMUS & THISBE"
+    boni:
+      - question: "The myth of what arrogant girl explains why spiders make webs?"
+        answer: "ARACHNE"
+      - question: "The myth of whose unrequited love explains why the heliotrope always faces the sun?"
+        answer: "CLYTIE"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice; then answer IN ENGLISH the question about it: <latin>Ōlim erat dux benignus, nōmine Optimus Prīmus. Puer timidus, quī pugnāre nōlēbat, Optimō Prīmō dīxit, “Id nōn est meum bellum,” et discessit. Puerō discēdente, Optimus Prīmus sibi susurrāvit, “Nōndum, sed mox bellum erit tuum.”</latin> The question: Why did the boy say to Optimus Prime, “This isn’t my war”?"
+      answer: "HE DIDN’T WANT TO FIGHT / HE WAS SCARED"
+    boni:
+      - question: "When did Optimus Prime whisper to himself?"
+        answer: "AS THE BOY WAS LEAVING"
+      - question: "What did Optimus Prime whisper to himself?"
+        answer: "“NOT YET, BUT SOON THE WAR WILL BE YOURS / IT WILL BE YOUR WAR”"
+  - tossup:
+      question: "Give an antonym of <latin>vīvus</latin>"
+      answer: "MORTUUS, DĒFUNCTUS, EXSANGUIS, INANIMUS, EXAMINIS, QUIĒTUS"
+    boni:
+      - question: "Give an antonym of <latin>scelestus</latin>"
+        answer: "PROBUS, BONUS, OPTIMUS, PIUS, BENIGNUS, HONESTUS"
+      - question: "Give an antonym of <latin>vacuus</latin>"
+        answer: "PLĒNUS, COMPLĒTUS, IMPLĒTUS, ŪTILIS, OCCUPĀTUS"
+  - tossup:
+      question: "What Greek mercenary did the Romans face in 280 BC?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What was the name of that battle of 280 BC?"
+        answer: "HERACLEA"
+      - question: "What city in southern Italy “hired” the service of Pyrrhus?"
+        answer: "TARENTUM"
+  - tossup:
+      question: "Using one word, say in Latin “at Ostia.”"
+      answer: "<latin>OSTIAE</latin>"
+    boni:
+      - question: "… “at Lugdunum.”"
+        answer: "<latin>LUGDUNĪ</latin>"
+      - question: "… “at Pompeii.”"
+        answer: "<latin>POMPĒIĪS</latin>"
+  - tossup:
+      question: "What emperor was so popular with the Roman Senate that he was the first to have a coin minted with the phrase “<latin>SPQR optimō prīncipī</latin>”?"
+      answer: "(MARCUS ULPIUS) TRAIANUS / TRAJAN"
+    boni:
+      - question: "Name one of the two women whose good reputation and modest behavior helped Trajan secure the title of <latin>optimus prīnceps</latin>"
+        answer: "(HIS SISTER) MARCIANA / (HIS WIFE) PLOTINA"
+      - question: "Against what king of Dacia did Trajan wage war?"
+        answer: "DECEBALUS"
+  - tossup:
+      question: "Who incurred the wrath of his uncles by giving the tusks and hide of the Calydonian Boar to a woman?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Name the woman to whom Meleager gave the spoils of the Calydonian Boar <emphasis>and</emphasis> the reason why she had a claim to the prize"
+        answer: "ATALANTA – BECAUSE SHE WAS THE FIRST TO WOUND THE BOAR"
+      - question: "Name one of the uncles of Meleager"
+        answer: "TOXEUS / PLEXIPPUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>mercātor erat candidātus pessimus</latin>"
+      answer: "THE MERCHANT WAS THE WORST CANDIDATE"
+    boni:
+      - question: "…: <latin>senātōribus facile persuādēre nōn poterāmus</latin>"
+        answer: "WE WEREN’T ABLE TO / COULDN’T PERSUADE THE SENATORS EASILY"
+      - question: "…: <latin>medicō, quem in forō vīdimus, crēdere volēbāmus</latin>"
+        answer: "WE WANTED / WERE WANTING TO BELIEVE / TRUST THE DOCTOR (WHOM) WE SAW IN THE FORUM"
+  - tossup:
+      question: "Who led his horde of barbarians into Rome and sacked the city in 410 AD?"
+      answer: "ALARIC"
+    boni:
+      - question: "Of which barbarian tribe was Alaric the leader?"
+        answer: "VISIGOTHS"
+      - question: "Which Roman general had twice defeated Alaric in 402 and 403 AD?"
+        answer: "STILICHO"
+  - tossup:
+      question: "UC Davis’s chapter of Phi Delta Epsilon, the International Medical Fraternity, has the motto “<latin>facta, nōn verba.”</latin> Translate this motto"
+      answer: "DEEDS, NOT WORDS"
+    boni:
+      - question: "Translate the Latin motto for St. Mary’s College of California, “<latin>signum fidēī</latin>.”"
+        answer: "STANDARD / SIGN / SIGNAL OF FAITH / LOYALTY / TRUST"
+      - question: "Translate the Latin motto for the campuses of the California State University system, “<latin>vōx, vēritās, vīta</latin>.”"
+        answer: "VOICE, TRUTH, LIFE"
+  - tossup:
+      question: "Who rescued a city by answering the riddle of the Sphinx correctly?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "What does the name “Oedipus” mean?"
+        answer: "SWOLLEN-FOOT"
+      - question: "Why did Oedipus receive this name?"
+        answer: "HIS ANKLES WERE PIERCED / PINNED TOGETHER WHEN HE WAS A BABY"
+  - tossup:
+      question: "Give the Latin noun and its meaning from which we derive “mister.”"
+      answer: "<latin>MAGISTER</latin> – TEACHER, FOREMAN, MASTER"
+    boni:
+      - question: "Give the Latin noun and its meaning from which we derive “coordinate.”"
+        answer: "<latin>ŌRDŌ</latin> – ROW, ORDER, RANK"
+      - question: "Give the Latin adjective and its meaning from which we ultimately derive “senator.”"
+        answer: "<latin>SENEX</latin> – OLD"
+  - tossup:
+      question: "What use of the ablative case can be found in the following sentence? <latin>Hostem manū suā interfēcit</latin>"
+      answer: "MEANS / INSTRUMENT"
+    boni:
+      - question: "…: <latin>Pater cum līberīs interfectus est</latin>?"
+        answer: "ACCOMPANIMENT"
+      - question: "…: <latin>Cum studiō labōrat?</latin>"
+        answer: "MANNER"
+  - tossup:
+      question: "Who rashly promised King Polydectes that he could bring him the head of Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Of what island was Polydectes king?"
+        answer: "SERIPHUS"
+      - question: "Polydectes sent Perseus to get Medusa’s head as a ruse so that he could marry whom?"
+        answer: "DANAË"
+  - tossup:
+      question: "With which of the following Latin terms are <latin>russāta, prasina, veneta,</latin> and <latin>albāta</latin> often associated? <latin>arborēs</latin>, <latin>animālia</latin>, <latin>factiōnēs</latin>, <latin>nāvēs</latin>, <latin>cibī</latin>"
+      answer: "<latin>FACTIŌNĒS</latin>"
+    boni:
+      - question: "Give the Latin term for the type of chariot driven by the driver of the <latin>factiō prasina</latin>"
+        answer: "<latin>QUADRĪGA</latin>"
+      - question: "Give the Latin terms for “These Things” <emphasis>and</emphasis> explain their use"
+        answer: "<latin>ŌVA ET DELPHĪNĪ / DELPHĪNĒS</latin> – USED TO COUNT LAPS"
+  - tossup:
+      question: "For the verb <latin>dō</latin>, <latin>dare</latin>, give the third person plural, perfect active indicative"
+      answer: "DEDĒRUNT"
+    boni:
+      - question: "Change <latin>dedērunt</latin> to the passive"
+        answer: "<latin>DATĪ SUNT</latin>"
+      - question: "Change <latin>datī sunt</latin> to the future"
+        answer: "<latin>DABUNTUR</latin>"
+  - tossup:
+      question: "According to Homer, which region of the Underworld was ruled by Rhadamanthys and never sees snow, harsh winter, or rain?"
+      answer: "ELYSIUM / ELYSIAN FIELDS / ISLAND OF THE BLESSED"
+    boni:
+      - question: "Surrounded by a bronze fence with iron gates, which area of the Underworld was the prison of Cronus and the other Titans?"
+        answer: "TARTARUS"
+      - question: "Which of the rivers in the Underworld was the River of Wailing?"
+        answer: "COCYTUS 2009 NJCL CERTAMEN NOVICE DIVISION"

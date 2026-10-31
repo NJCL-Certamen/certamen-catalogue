@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Complete the following analogy: <latin>laudō : laudāvistī :: dūcō : _____</latin>"
+      answer: "DŪXISTĪ"
+    boni:
+      - question: "Change <latin>dūxistī</latin> to the present tense"
+        answer: "<latin>DŪCIS</latin>"
+      - question: "Change <latin>dūcis</latin> to the imperfect tense"
+        answer: "<latin>DŪCĒBĀS</latin>"
+  - tossup:
+      question: "Which king of Rome was a wise legislator because he supposedly received some sound advice from the water nymph Egeria?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "To what tribe did Numa belong?"
+        answer: "SABINES"
+      - question: "Which future king of Rome was the grandson of Numa?"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "Who, while trying to escape from the burning city of Troy, lost his wife Creusa?"
+      answer: "AENEAS"
+    boni:
+      - question: "Name the elderly man Aeneas carried on his back while escaping from burning Troy?"
+        answer: "ANCHISES"
+      - question: "Who was the son of Aeneas and Creusa?"
+        answer: "ASCANIUS / IULUS"
+  - tossup:
+      question: "Give the correct form of the adjective <latin>is</latin>, <latin>ea</latin>, <latin>id</latin> to agree with the noun form <latin>flūminis</latin>"
+      answer: "<latin>EIUS</latin>"
+    boni:
+      - question: "Give the correct form of <latin>is</latin>, <latin>ea</latin>, <latin>id</latin> to agree with <latin>noctī</latin>"
+        answer: "<latin>EĪ</latin>"
+      - question: "Give the correct form of <latin>is</latin>, <latin>ea</latin>, <latin>id</latin> to agree with <latin>servōs</latin>"
+        answer: "<latin>EŌS</latin>"
+  - tossup:
+      question: "For a Latin lover, the aisles of any store provide countless opportunities to indulge oneself in the finest of advertising slogans. For example, did you know that Preparation H Ointment guarantees to “prevent further irritation”? From what base Latin verb with what meaning does “prevent” derive?"
+      answer: "<latin>VENIŌ</latin>, <latin>VENĪRE</latin> – COME"
+    boni:
+      - question: "Not far from Preparation H, one might find a certain product by Fleet, which claims to have a “soft, flexible comfortip.” From what Latin adjective with what meaning did the makers of this product derive the word “comfort”?"
+        answer: "<latin>FORTIS</latin> – STRONG"
+      - question: "Also not far from the Preparation H, it would certainly not be odd to find Pepto Bismol, which claims to provide “soothing relief for heartburn, indigestion, upset stomach, nausea, and diarrhea.” From what Latin verb with what meaning does “indigestion” derive?"
+        answer: "<latin>GERŌ</latin>, <latin>GERERE</latin> – BEAR, CARRY, WEAR"
+  - tossup:
+      question: "Which of the Julio-Claudian emperors was responsible for the construction of the <latin>Domus Aurea?</latin>"
+      answer: "NERO"
+    boni:
+      - question: "After what monumental event in Rome was Nero able to build his <latin>Domus Aurea?</latin>"
+        answer: "THE GREAT FIRE (OF 64 AD)"
+      - question: "How did Nero die?"
+        answer: "SUICIDE / STABBED HIMSELF"
+  - tossup:
+      question: "Which of the following does NOT belong because of grammar: <latin>circum, trāns, ad, per, sine, contrā</latin>?"
+      answer: "<latin>SINE</latin>"
+    boni:
+      - question: "Which of the following does NOT belong because of gender: <latin>ager, servus, Aegyptus, dominus, aper?</latin>"
+        answer: "AEGYPTUS (f.)"
+      - question: "Which of the following is NOT a use of the genitive case? Objective, Subjective, Partitive, Means, Possession"
+        answer: "MEANS"
+  - tossup:
+      question: "Who invited the bravest heroes in Greece to accompany him on his perilous journey to retrieve the Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "To what place must Jason and his Argonauts sail in order to obtain the Golden Fleece?"
+        answer: "COLCHIS"
+      - question: "According to most versions of the story, Jason went on this quest because of what mortal’s evil schemes?"
+        answer: "PELIAS’ (PROMPT ON “UNCLE”)"
+  - tossup:
+      question: "Boxing, wrestling, fencing, and weight-lifting were all activities that took place in what area of a Roman <latin>thermae</latin>?"
+      answer: "<latin>PALAESTRA</latin>"
+    boni:
+      - question: "In a Roman <latin>thermae</latin>, what was the <latin>caldārium</latin>?"
+        answer: "HOT ROOM"
+      - question: "In a Roman <latin>thermae</latin>, what was the <latin>lacōnicum</latin>?"
+        answer: "HOT & DRY ROOM / SAUNA / SPARTAN BATHS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>trēs leōnēs in arēnā sunt</latin>"
+      answer: "THERE ARE THREE LIONS IN THE ARENA / THREE LIONS ARE IN THE ARENA"
+    boni:
+      - question: "Now translate: <latin>sex ursae in silvā erant</latin>"
+        answer: "THERE WERE SIX (FEMALE) BEARS IN THE FOREST / SIX (FEMALE) BEARS WERE IN THE FOREST"
+      - question: "Now translate: <latin>duae avēs erunt in arbore</latin>"
+        answer: "TWO BIRDS WILL BE IN THE TREE / THERE WILL BE TWO BIRDS IN THE TREE"
+  - tossup:
+      question: "What is the meaning of the motto of the U.S. Coast Guard, “<latin>Semper Parātus”</latin>?"
+      answer: "ALWAYS READY/ ALWAYS PREPARED"
+    boni:
+      - question: "Translate the motto of the state of Alabama, “<latin>Audēmus iūra nostra dēfendere</latin>.”"
+        answer: "WE DARE TO DEFEND OUR RIGHTS"
+      - question: "Translate the motto of the state of South Carolina, “<latin>Dum spīrō, sperō</latin>.”"
+        answer: "WHILE I BREATHE, I HOPE"
+  - tossup:
+      question: "In 107 BC, who served the first of his eventual seven consulships?"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "How many consulships did Marius serve consecutively?"
+        answer: "FIVE"
+      - question: "Marius focused his attention during his five consecutive consulships on two migrating Germanic tribes. Name them"
+        answer: "CIMBRI & TEUTONES"
+  - tossup:
+      question: "Of the words <latin>unda, templum, lectus, silva,</latin> and <latin>vōx</latin>, select the one which is being described in the following: <latin>necesse est tibi recumbere in hōc ubi fessus es</latin>"
+      answer: "LECTUS"
+    boni:
+      - question: "…: <latin>est locus ubi cervōs et lupōs invenīre possumus</latin>"
+        answer: "SILVA"
+      - question: "…: <latin>sacerdōtēs deōs hīc adōrant</latin>"
+        answer: "TEMPLUM"
+  - tossup:
+      question: "During the Trojan War, which of the Greek chieftains accompanied Odysseus on the nighttime expedition to kill Rhesus and steal his horses?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Diomedes was also given the ability to recognize and wound immortals. Who gave Diomedes this special power?"
+        answer: "ATHENA"
+      - question: "Name the two immortals wounded by Diomedes"
+        answer: "ARES & APHRODITE"
+  - tossup:
+      question: "During what war did the Romans first showcase the <latin>corvus</latin>, a type of boarding bridge?"
+      answer: "FIRST PUNIC WAR"
+    boni:
+      - question: "Please look at Picture #1. Which letter correctly identifies the location where the <latin>corvus</latin> made its first appearance?"
+        answer: "“A”"
+      - question: "Please look at Picture #2. This is a replica of the <latin>columna rostrāta</latin>, which was erected in the <latin>Forum Rōmānum</latin> after the Battle of Mylae in whose honor?"
+        answer: "(C.) DUILIUS’"
+  - tossup:
+      question: "Aurelia really likes Greek and Roman mythology. Listen carefully to the following passage about the gods, which I will read twice, and answer IN LATIN the question that follows: <latin>Iuppiter et Iūnō habent fīlium, nōmine Martem. Mārs, quod pugnās valdē amat, bellum semper parat. Mārs autem vītam virōrum nōn cūrat.</latin> Question: <latin>Quid parat Mārs?</latin>"
+      answer: "BELLUM"
+    boni:
+      - question: "<latin>Quī sunt parentēs Martis?</latin>"
+        answer: "IUPPITER ET IŪNŌ / IŪNŌQUE"
+      - question: "<latin>Quōrum vītam Martī nōn cūrat?</latin>"
+        answer: "HOMINUM / VIRŌRUM"
+  - tossup:
+      question: "Who, with his amazing skills at throwing the javelin, killed the Calydonian Boar?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Despite his amazing javelin skills, the task of killing the Calydonian Boar was made easier for Meleager by the fact that it was already wounded by whom?"
+        answer: "ATALANTA"
+      - question: "Upon what object was Meleager’s life dependent?"
+        answer: "A LOG / BRAND / WOOD"
+  - tossup:
+      question: "Which goddess is regularly depicted as fully armed with a shield, a helmet, and a spear?"
+      answer: "(PALLAS) ATHENA / ATHENE / MINERVA"
+    boni:
+      - question: "What is the name of the breastplate worn by Athena?"
+        answer: "AEGIS"
+      - question: "What monster’s head is often depicted in the middle of Athena’s aegis?"
+        answer: "MEDUSA’S"
+  - tossup:
+      question: "From what Latin adjective with what meaning do we derive the English noun “paucity”?"
+      answer: "<latin>PAUCĪ, -AE, -A</latin> – FEW, A FEW"
+    boni:
+      - question: "From what Latin noun with what meaning do we derive the English noun “ire”?"
+        answer: "<latin>ĪRA, -AE</latin> – ANGER"
+      - question: "From what base Latin verb with what meaning do we derive the English noun “premonition”?"
+        answer: "<latin>MONEŌ, -ĒRE, MONUĪ, MONITUS</latin> – WARN, ADVISE"
+  - tossup:
+      question: "Translate the following sentence into Latin: Romulus was the first king of the Romans"
+      answer: "<latin>RŌMULUS ERAT / FUIT PRĪMUS RĒX RŌMĀNŌRUM</latin>"
+    boni:
+      - question: "Now translate: Remus was Romulus’ brother"
+        answer: "<latin>REMUS ERAT FRĀTER RŌMULĪ / ROMULŌ</latin>"
+      - question: "Now translate: Romulus killed Remus by his own hand"
+        answer: "<latin>RŌMULUS REMUM MANŪ SUĀ INTERFĒCIT / CECĪDIT / OCCĪDIT / NECĀVIT or RŌMULUS IPSE MANŪ (SUĀ) REMUM INTERFĒCIT, etc. 2008 NJCL CERTAMEN NOVICE DIVISION</latin>"

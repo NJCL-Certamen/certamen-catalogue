@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What is the Latin motto for the state of Alabama?"
+      answer: "<latin>AUDĒMUS IŪRA NOSTRA DĒFENDERE</latin>"
+    boni:
+      - question: "What does this motto mean?"
+        answer: "WE DARE TO DEFEND OUR RIGHTS"
+      - question: "What nearby state has the motto <latin>Virtūte et armīs</latin>?"
+        answer: "MISSISSIPPI"
+  - tossup:
+      question: "Who journeyed to Themiscyra in order to retrieve the girdle of Hippolyta for king Eurystheus?"
+      answer: "HERACLES"
+    boni:
+      - question: "For whom did Eurystheus want the girdle?"
+        answer: "(HIS DAUGHTER) ADMETE"
+      - question: "What king of Troy did Heracles assist on the way back from Themiscyra?"
+        answer: "LAOMEDON"
+  - tossup:
+      question: "What peace-loving emperor ironically spent the majority of his reign waging war against the Quadi, Marcomanni, and other Germanic tribes all the way up to his death in 180 AD?"
+      answer: "MARCUS AURELIUS (ANTONINUS) / MARCUS ANNIUS VERUS"
+    boni:
+      - question: "What co-emperor with Marcus Aurelius fought against the Parthians in the eastern empire?"
+        answer: "LUCIUS VERUS"
+      - question: "Where did Marcus Aurelius die, potentially as a result of the plague?"
+        answer: "VINDOBONA / VIENNA"
+  - tossup:
+      question: "What is the case and use of the Latin word for king in the following sentence: <latin>Cīvēs</latin> <latin>multa dōna rēgī dedērunt.</latin>"
+      answer: "DATIVE, INDIRECT OBJECT"
+    boni:
+      - question: "What is the case and use of the Latin word for king in this sentence: <latin>Pūblius rēx appellātus est.</latin>"
+        answer: "NOMINATIVE, PREDICATE"
+      - question: "What is the case and use of the Latin word for king in this sentence: <latin>In casā rēgis magna familia habitat.</latin>"
+        answer: "GENITIVE, POSSESSION"
+  - tossup:
+      question: "Seeking gold armbands as a reward, what woman supposedly betrayed the Capitol to the Sabines?"
+      answer: "TARPEIA"
+    boni:
+      - question: "Who was the king of the Sabines who led their attack on Rome?"
+        answer: "TITUS TATIUS"
+      - question: "How did the Sabines reward Tarpeia for her treachery?"
+        answer: "SHE WAS CRUSHED TO DEATH BY THE SOLDIERS’ SHIELDS"
+  - tossup:
+      question: "Using the verb <latin>iaciō, iacere</latin>, say in Latin “we were throwing”"
+      answer: "<latin>IACIĒBĀMUS</latin>"
+    boni:
+      - question: "Make the form <latin>iaciēbāmus</latin> Perfect."
+        answer: "<latin>IĒCIMUS</latin>"
+      - question: "Make the form <latin>iēcimus</latin> second person plural."
+        answer: "<latin>IĒCISTIS</latin>"
+  - tossup:
+      question: "What Latin noun, with what meaning, is the ultimate root of the English grammatical term \"nominative\"?"
+      answer: "<latin>NŌMEN</latin> - NAME"
+    boni:
+      - question: "What Latin verb, with what meaning, is the ultimate root of the English grammatical term \"dative\"?"
+        answer: "<latin>DŌ</latin> / <latin>DARE</latin> - GIVE"
+      - question: "What Latin preposition, with what meaning, is part of the ultimate root of the English grammatical term \"accusative\"?"
+        answer: "<latin>AD</latin> – TO / TOWARD / FOR / AT"
+  - tossup:
+      question: "Who was mocked by his friend Epaphus for claiming that his father was not the king of Egypt, but rather the sun himself?"
+      answer: "PHAETHON"
+    boni:
+      - question: "How did the poor boy die after he lost control of his father's chariot, causing extreme global warming?"
+        answer: "ZEUS STRUCK HIM WITH A THUNDERBOLT"
+      - question: "Into what river did Phaethon plummet?"
+        answer: "ERIDANUS / PO"
+  - tossup:
+      question: "Where did the Romans, under the command of Mallius Maximus and Servilius Caepio, suffer a disastrous defeat at the hands of two migrating Germanic tribes, the Cimbri and Teutones, in 105 BC?"
+      answer: "ARAUSIO"
+    boni:
+      - question: "What man was given an unprecedented five straight consulships from the years 104 to 100 BC to deal with the Cimbri and Teutones?"
+        answer: "(C.) MARIUS"
+      - question: "After defeating the Teutones the year prior, at what battle did Marius annihilate the Cimbri in 101 BC?"
+        answer: "VERCELLAE"
+  - tossup:
+      question: "Listen carefully to the following passage about a boy and his dog, which I will read twice; then answer the question that follows in ENGLISH <latin>Ōlim erat puer, quī canem parvum habēbat. Puerō erat magnus amor huius canis. Cotīdiē lūdēbant cum aliīs līberīs quī prope habitābant. Quōdam diē, autem, magna tempestās advēnit. Puer perterritus canem invenīre nōn potuit. Ēheu!</latin> Question: How often did the boy and the dog play?"
+      answer: "EVERY DAY"
+    boni:
+      - question: "With whom did the boy and the dog play?"
+        answer: "THE OTHER <emphasis>CHILDREN</emphasis> WHO LIVED <emphasis>NEARBY</emphasis>"
+      - question: "Why couldn’t the boy find the dog?"
+        answer: "BECAUSE A LARGE <emphasis>STORM</emphasis> CAME / HE WAS TERRIFIED"
+  - tossup:
+      question: "Whom did Hera, disguised as an old woman named Beroë, trick into asking Zeus to reveal himself to her in his full glory?"
+      answer: "SEMELE"
+    boni:
+      - question: "What baby was a result of the union of Zeus and Semele?"
+        answer: "DIONYSUS / BACCHUS"
+      - question: "Who were the parents of Semele?"
+        answer: "CADMUS AND HARMONIA"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same Latin word as the others? venture, ventilate, souvenir, convention, invention"
+      answer: "VENTILATE"
+    boni:
+      - question: "...promise, mess, admit, mitigate"
+        answer: "MITIGATE"
+      - question: "...bounty, beautify, abundance, benevolence"
+        answer: "ABUNDANCE"
+  - tossup:
+      question: "What modern city did the Romans call <latin>Lutetia</latin>?"
+      answer: "PARIS"
+    boni:
+      - question: "Identify the letter on the map that signifies the modern country in which you would find the ancient city of <latin>Lugdūnum</latin>?"
+        answer: "B"
+      - question: "Identify the letter on the map that signifies the modern country in which you would find the ancient city of <latin>Eborācum</latin>?"
+        answer: "F"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Quīntus et Iūlius parvīs saxīs lūdēbant.</latin>"
+      answer: "QUINTUS AND JULIUS WERE PLAYING WITH SMALL ROCKS"
+    boni:
+      - question: "Translate: <latin>Pater Quīntī cēnam dīligenter coquet.</latin>"
+        answer: "QUINTUS’ FATHER WILL CAREFULLY / DILIGENTLY COOKING DINNER."
+      - question: "Translate: <latin>Iūlius subitō domum cucurrit quod nox appropinquābat.</latin>"
+        answer: "JULIUS SUDDENLY /  IMMEDIATELY / UNEXPECTEDLY RAN HOME BECAUSE NIGHT WAS APPROACHING."
+  - tossup:
+      question: "Who lost his wife Creusa when he was attempting to escape the besieged city of Troy?"
+      answer: "AENEAS"
+    boni:
+      - question: "Who were the parents of Aeneas?"
+        answer: "APHRODITE / VENUS AND ANCHISES"
+      - question: "Who were the parents of the unfortunate Creusa?"
+        answer: "PRIAM AND HECUBA"
+  - tossup:
+      question: "What is the meaning of the interrogative adverb <latin>cūr</latin>?"
+      answer: "WHY"
+    boni:
+      - question: "What is the meaning of the interrogative adverb <latin>ubi</latin>?"
+        answer: "WHERE (<emphasis>not</emphasis> WHEN)"
+      - question: "What is the meaning of the interrogative adverb <latin>quandō</latin>?"
+        answer: "WHEN"
+  - tossup:
+      question: "For the phrase <latin>bonus nauta,</latin> give the Dative singular."
+      answer: "<latin>BONŌ NAUTAE</latin>"
+    boni:
+      - question: "Change <latin>bonō nautae</latin> to the plural."
+        answer: "<latin>BONĪS NAUTĪS</latin>"
+      - question: "Change <latin>bonīs nautīs</latin> to the Ablative."
+        answer: "<latin>BONĪS NAUTĪS</latin>"
+  - tossup:
+      question: "What fruit did the Romans call <latin>mālum Persicum</latin>?"
+      answer: "PEACH"
+    boni:
+      - question: "What fruit did the Romans call <latin>mālum Armeniacum</latin>?"
+        answer: "APRICOT"
+      - question: "What fruit did the Romans call <latin>mālum Pūnicum</latin>?"
+        answer: "POMEGRANATE"
+  - tossup:
+      question: "Give the Latin word for “Winter.”"
+      answer: "<latin>HIEMS / BRŪMA</latin>"
+    boni:
+      - question: "Give the Latin noun for the season of Spring."
+        answer: "<latin>VĒR</latin>"
+      - question: "Now give the Latin noun for “Summer.”"
+        answer: "<latin>AESTĀS</latin>"
+  - tossup:
+      question: "What king of Thebes forbade anyone to bury the body of his predecessor, Polynices?"
+      answer: "CREON"
+    boni:
+      - question: "Who disobeyed Creon’s order and ceremonially buried her brother’s body?"
+        answer: "ANTIGONE"
+      - question: "What sister of Antigone refused to help her in her act of protest?"
+        answer: "ISMENE"

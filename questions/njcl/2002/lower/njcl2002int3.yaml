@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What giant lost his eyesight during a drunken stupor caused by King Oenopion?"
+      answer: "ORION"
+    boni:
+      - question: "Why did Oenopion blind Orion?"
+        answer: "BECAUSE HE DIDN’T WANT HIM TO MARRY HIS DAUGHTER (MEROPE) / ORION HAD RAPED HIS DAUGHTER (MEROPE)"
+      - question: "Who was able to restore Orion’s eyesight?"
+        answer: "HELIUS / APOLLO / SUN / HYPERION"
+  - tossup:
+      question: "Translate into English: <latin>urbe captā, cīvēs quam celerrimē</latin> <latin>effūgere temptābant</latin>"
+      answer: "AFTER / BECAUSE / WHEN THE CITY HAD BEEN / WAS CAPTURED, THE CITIZENS TRIED / WERE TRYING TO ESCAPE AS QUICKLY AS POSSIBLE"
+    boni:
+      - question: "Translate into English: <latin>vīllīs ardentibus, omnēs cīvēs erant perterrit</latin><latin>ī.</latin> "
+        answer: "WHILE THE HOUSES WERE BURNING, ALL THE CITIZENS WERE TERRIFIED / VERY FRIGHTENED / THOROUGHLY FRIGHTENED / SCARED"
+      - question: "Translate into English: <latin>rēge ad aulam regressō, omnēs senātōrēs ad forum</latin>  <latin>ambulāvērunt</latin>"
+        answer: "AFTER / BECAUSE / WHEN / SINCE AS THE KING (HAD) RETURNEDTO THE PALACE / HALL / COURT (or WITH THE KING HAVING RETURNED TO THE PALACE), ALL THE SENATORS WALKED TO THE FORUM"
+  - tossup:
+      question: "You are on an ancient Roman galley sailing the Mediterranean. You have just left from the Balearic Islands and are sailing due west. Toward which modern country are you headed?"
+      answer: "SPAIN"
+    boni:
+      - question: "You have landed at Saguntum. Which of these destinations would require the longest journey: <latin>Emporiae</latin>, <latin>Carthāgō</latin> <latin>Nova</latin>, <latin>Forum Iūliī</latin>, <latin>Pīsae</latin>?"
+        answer: "<latin>PĪSAE</latin>"
+      - question: "You have set sail from Pisae and are headed for Rhegium. Which of these cities would you NOT pass near if you sailed along the coast the entire way: <latin>Rōma</latin>, <latin>Neāpolis</latin>, <latin>Tarentum</latin>, <latin>Paestum</latin>?"
+        answer: "<latin>TARENTUM</latin>"
+  - tossup:
+      question: "Change <latin>collis altus</latin> to the genitive plural"
+      answer: "<latin>COLLIUM ALTŌRUM</latin>"
+    boni:
+      - question: "Change <latin>collium altōrum</latin> to the nominative"
+        answer: "<latin>COLLĒS ALTĪ</latin>"
+      - question: "Change <latin>collēs altī</latin> to the ablative singular"
+        answer: "<latin>COLLE ALTŌ</latin>"
+  - tossup:
+      question: "Give the comparative form for the adjective <latin>dubius</latin>"
+      answer: "<latin>MAGIS DUBIUS</latin>"
+    boni:
+      - question: "Change <latin>magis dubius</latin> to the superlative"
+        answer: "<latin>MAXIMĒ</latin> <latin>DUBIUS</latin>"
+      - question: "Change <latin>maximē</latin> <latin>dubius</latin> to the plural"
+        answer: "<latin>MAXIMĒ</latin> <latin>DUBIĪ</latin>"
+  - tossup:
+      question: "In Roman building construction, what was the difference between <latin>laterēs crūdī</latin> and <latin>laterēs coctī</latin>?"
+      answer: "UNBAKED BRICKS AND BAKED (KILN-BURNED) BRICKS"
+    boni:
+      - question: "You are looking at five styles of Roman wall constructions. Which picture represents the wall construction style known as <latin>opus incertum</latin>?"
+        answer: "A"
+      - question: "What is the Latin term for the construction style depicted in picture “E”?"
+        answer: "<latin>OPUS QUADRĀTUM</latin>"
+  - tossup:
+      question: "In Roman building construction, what was the difference between <latin>laterēs crūdī</latin> and <latin>laterēs coctī</latin>?"
+      answer: "UNBAKED BRICKS AND BAKED (KILN-BURNED) BRICKS"
+    boni:
+      - question: "What type of wall construction featured a face of irregularly shaped stones?"
+        answer: "OPUS INCERTUM"
+      - question: "What type of wall construction featured a face of squared stones?"
+        answer: "OPUS QUADRATUM"
+  - tossup:
+      question: "Whom did Heracles rescue from eternal oblivion in the Underworld?"
+      answer: "THESEUS"
+    boni:
+      - question: "Why had Theseus gone to the Underworld?"
+        answer: "TO KIDNAP PERSEPHONE"
+      - question: "What comrade of Theseus did Heracles leave behind on the chair of forgetfulness?"
+        answer: "P(E)IRITHOUS"
+  - tossup:
+      question: "What use of the dative case can be found in the following sentence: <latin>Caesarī</latin> <latin>omnia ūnō</latin> <latin>tempore erant agenda</latin>?"
+      answer: "AGENT"
+    boni:
+      - question: "What use of the dative case can be found in the following sentence: <latin>Germānī</latin> <latin>fīnitimīs bellum īnferre voluērunt</latin>?"
+        answer: "WITH COMPOUND VERB (<latin>ĪNFERRE</latin>)"
+      - question: "What use of the dative case can be found in the following sentence: <latin>Dominus hunc mihi timōrem ēripuit</latin>?"
+        answer: "SEPARATION"
+  - tossup:
+      question: "Which Roman emperor fought against Iazyges, the Quadi, and the Marcomanni?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What type of monument on the <latin>Campus Martius</latin> commemorates Aurelius’ Marcomannic victories?"
+        answer: "COLUMN (OF MARCUS AURELIUS)"
+      - question: "Who proclaimed himself emperor and later lost his head in AD 175 when he heard a false rumor of Marcus Aurelius’ death?"
+        answer: "AVIDIUS CASSIUS"
+  - tossup:
+      question: "Listen carefully to the following sentences, which I will read twice, then answer IN ENGLISH the question that follows: <latin>Discipulī</latin> <latin>linguae Latīnae saepe auxilium ex librīs recipere volunt ut verba</latin>  <latin>ignōta discant, sed, necesse nōn est. Nam in sententiā</latin> <latin>magistrōrum, sī</latin> <latin>discipulī</latin> <latin>dīligentius labōrāverint, verba ignōta fient verba nōta.</latin>  What do Latin students often want to do?"
+      answer: "TO LOOK IN THE DICTIONARY / OPEN BOOKS TO GET HELP"
+    boni:
+      - question: "Who says that this is not necessary?"
+        answer: "THE TEACHERS"
+      - question: "Why is it not necessary?"
+        answer: "IF THE STUDENTS WORK HARDER, THE UNKNOWN WORDS WILL BECOME FAMILIAR WORDS"
+  - tossup:
+      question: "Who paved the way to his own grave when he exposed the fact that Odysseus was not insane?"
+      answer: "PALAMEDES"
+    boni:
+      - question: "How did Palamedes expose Odysseus?"
+        answer: "HE PUT <emphasis>TELEMACHUS</emphasis> / <emphasis>HIS SON</emphasis> IN FRONT OF THE PLOW OF ODYSSEUS <emphasis>AS HE WAS PLOWING THE FIELD</emphasis> / HE THREATENED TELEMACHUS WITH HIS SWORD"
+      - question: "How did Palamedes die?"
+        answer: "HE WAS STONED TO DEATH (AS A TRAITOR / SET-UP BY ODYSSEUS)"
+  - tossup:
+      question: "With respect to sequence of tenses, which two tenses of the subjunctive may be used if the main verb of the sentence is in the future tense?"
+      answer: "PRESENT & PERFECT"
+    boni:
+      - question: "Which three tenses require the use of the primary sequence for the subjunctive clause?"
+        answer: "PRESENT, FUTURE, FUTURE PERFECT (if “perfect” is given, student must explain that it is aoristic / present perfect)"
+      - question: "Which three tenses require the use of the secondary sequence?"
+        answer: "IMPERFECT, PERFECT, PLUPERFECT"
+  - tossup:
+      question: "Change <latin>fricāmus</latin> to the subjunctive"
+      answer: "<latin>FRICĒMUS</latin>"
+    boni:
+      - question: "Change <latin>fricēmus</latin> to the imperfect"
+        answer: "<latin>FRICĀRĒMUS</latin>"
+      - question: "Change <latin>fricārēmus</latin> to the pluperfect"
+        answer: "<latin>FRICUISSĒMUS</latin>"
+  - tossup:
+      question: "Give an antonym of <latin>melius</latin>"
+      answer: "<latin>PĒIUS</latin>"
+    boni:
+      - question: ". . . of <latin>magis</latin>"
+        answer: "<latin>MINUS</latin>"
+      - question: ". . . of <latin>summus</latin>"
+        answer: "<latin>ĪMUS</latin>, <latin>ĪNFIMUS</latin>"
+  - tossup:
+      question: "What Theban prince killed himself because his fiancé was buried alive in a tomb?"
+      answer: "HAEMON"
+    boni:
+      - question: "Who was the fiancé of Haemon?"
+        answer: "ANTIGONE"
+      - question: "Who immediately killed herself upon hearing the news of Haemon’s death?"
+        answer: "EURYDICE"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Multī</latin> <latin>hominēs in agrō</latin> <latin>labōrābant.” Cuius numerī</latin> <latin>est “agrō”?</latin>"
+      answer: "SINGULĀRIS / IN NUMERŌ <latin>SINGULĀRĪ</latin>"
+    boni:
+      - question: "<latin>“Multī,” quae pars ōrātiōnis est?</latin>"
+        answer: "ADIECTĪVUM"
+      - question: "“Hominēs,” quō <latin>cāsū</latin> <latin>est?</latin>"
+        answer: "NŌMINĀTĪVŌ"
+  - tossup:
+      question: "Which of the Argonauts lost his life when he was attacked by a wild boar?"
+      answer: "IDMON"
+    boni:
+      - question: "What power did Idmon have?"
+        answer: "PROPHECY"
+      - question: "Who had taught Idmon the arts of prophecy, augury, and the divining of omens from burnt offerings?"
+        answer: "APOLLO"
+  - tossup:
+      question: "Where were Caesar, Pompey, and Crassus when they agreed that Crassus and Pompey would be the consuls for 55 BC?"
+      answer: "LUCA"
+    boni:
+      - question: "Who was Caesar’s chief lieutenant at the siege of Alesia?"
+        answer: "LABIENUS"
+      - question: "Caesar cut off the hands of Gallic prisoners after he took which final Gallic stronghold?"
+        answer: "UXELLODUNUM"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from <latin>crēscō</latin>? increment, miscreant, crescent, decrease, recruit MISCREANT What Latin verb is at the root of “miscreant”?"
+      answer: "<latin>CRĒDŌ</latin>"
+    boni:
+      - question: "What derivative of <latin>crēscō</latin>, often used with respect to finances, means \"to accumulate or increase natural growth or advantage\"?"
+        answer: "ACCRUE"
+  - tossup:
+      question: "Which Greek god did Marc Antony declare himself to be?"
+      answer: "DIONYSUS"
+    boni:
+      - question: "For 5 points each, what new names did Antony give in 37 BC to the twins Cleopatra had borne him?"
+        answer: "ALEXANDER HELIOS & CLEOPATRA SELENE / ALEXANDER SUN & CLEOPATRA MOON"

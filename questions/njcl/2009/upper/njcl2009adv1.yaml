@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "<latin>Quid Anglicē significat “spūma”?</latin>"
+      answer: "FOAM, FROTH, SALIVA"
+    boni:
+      - question: "<latin>Quid Anglicē significat “sitis”?</latin>"
+        answer: "THIRST"
+      - question: "<latin>Quid Anglicē significat “porrigere”?</latin>"
+        answer: "(I / TO) REACH, STRETCH"
+  - tossup:
+      question: "Who, in an attempt to recover his throne, sought refuge with his son-in-law Mamilius Octavius of Tusculum around 506 BC?"
+      answer: "(TARQUINIUS) SUPERBUS"
+    boni:
+      - question: "At whose court did Tarquinius Superbus die?"
+        answer: "ARISTODEMUS"
+      - question: "Of what city in <latin>Magna Graecia</latin> was Aristodemus the <latin>strategos</latin>?"
+        answer: "CUMAE"
+  - tossup:
+      question: "What author, in a parody of Plato’s <title>Symposium</title>, wrote <latin>“tamen, inquit Trimalchiō, quid habuistis in cēnā”</latin>?"
+      answer: "(GAIUS’/TITUS) PETRONIUS (ARBITER)"
+    boni:
+      - question: "The <title><latin>Satyricon</latin></title> is classified as a Menippean satire. What does this mean?"
+        answer: "A SATIRE CONTAINING (A MIXTURE OF) BOTH PROSE & POETRY"
+      - question: "What other man, with whom Trimalchio discusses the Sibyl of Cumae, werewolves, and witches, accompanies Encolpius and Giton on their journey?"
+        answer: "AGAMEMNON"
+  - tossup:
+      question: "What Latin abbreviation is often used to refer to a person’s résumé?"
+      answer: "<latin>C.V.</latin>"
+    boni:
+      - question: "What Latin abbreviation is used to instruct the reader to look at something that has been mentioned previously?"
+        answer: "<latin>V.S.</latin>"
+      - question: "What Latin abbreviation is used to instruct the reader to look at something that is about to be mentioned?"
+        answer: "<latin>V.I.</latin>"
+  - tossup:
+      question: "What derivative of the Latin word meaning “goat” is a type of public transportation very common in cities such as New York and Los Angeles?"
+      answer: "(TAXI)CAB"
+    boni:
+      - question: "What derivative of the Latin word meaning “joint” means “to utter or pronounce clearly and distinctly”?"
+        answer: "ARTICULATE"
+      - question: "What derivative of the Latin word meaning “footprint” means “to observe or study by close examination and systematic inquiry”?"
+        answer: "INVESTIGATE"
+  - tossup:
+      question: "Who was shocked when the cuckoo she sheltered became Zeus and seduced her?"
+      answer: "HERA"
+    boni:
+      - question: "Name three of the four children she had with Zeus"
+        answer: "(ANY THREE OF) ARES, HEBE, EILEITHYIA, HEPHAESTUS"
+      - question: "Intending to test the behavior of men, Hera disguised herself as an old woman and sat helplessly on the bank of what river until she was eventually aided by Jason?"
+        answer: "ANAURUS"
+  - tossup:
+      question: "Where did Scipio outflank the troops of Hasdrubal Barca in 208 BC?"
+      answer: "BAECULA"
+    boni:
+      - question: "Where did Scipio, having refined the strategy used at Baecula, carry out a highly complicated double-outflanking maneuver with his light troops and horsemen in 206 BC?"
+        answer: "ILIPA"
+      - question: "What brother of Hannibal was one of the Carthaginian commanders defeated by Scipio at Ilipa?"
+        answer: "MAGO"
+  - tossup:
+      question: "What Roman author’s works include a translation of a poem about the lock of Berenice, an epyllion about the marriage of Peleus and Thetis, and a number of poems addressed to a woman named Lesbia?"
+      answer: "(GAIUS VALERIUS) CATULLUS"
+    boni:
+      - question: "What Greek author, who greatly influenced Catullus, was the original author of the story of the lock of Berenice?"
+        answer: "CALLIMACHUS"
+      - question: "What Roman politician does Catullus lampoon with the words <latin>“nīl nimium studeō[…]tibi velle placēre, nec scīre utrum sīs albus an āter homō”</latin>?"
+        answer: "(GAIUS IULIUS) CAESAR"
+  - tossup:
+      question: "What is the meaning of the Latin idiom “<latin>potius quam</latin>”?"
+      answer: "RATHER THAN"
+    boni:
+      - question: "What is the meaning of the Latin idiom “<latin>iam prīdem</latin>”?"
+        answer: "LONG SINCE, LONG AGO, FOR A LONG TIME NOW"
+      - question: "What two-word Latin idiom means “all the way up to”?"
+        answer: "<latin>USQUE AD</latin>"
+  - tossup:
+      question: "Listen to the following passage, which I shall read twice, then answer IN ENGLISH the question that follows: <latin>Cīvis Rōmānus in exilium compulsus cōnābātur effugere. Cum identidem vēla dedisset, tamen adversīs ventīs repulsus est. Tandem ad vīllam redīre coactus est. Nōlēns ab inimīcīs necārī, imperāvit fīliīs suīs ut eum interficerent.</latin> The question: Why was the citizen forced to return to his house?"
+      answer: "HE COULDN’T SUCCESSFULLY SAIL / DRIVEN BACK BY ADVERSE WINDS"
+    boni:
+      - question: "What did the citizen wish to avoid?"
+        answer: "BEING KILLED BY HIS ENEMIES"
+      - question: "What did the citizen do after returning home?"
+        answer: "HE ORDERED HIS SONS TO KILL HIM"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, who identified the Greek chieftains for King Priam as they sat on top of the walls above the Scaean gates?"
+      answer: "HELEN"
+    boni:
+      - question: "Which of the Greek chieftains did Helen compare to a ram because of his appearance?"
+        answer: "ODYSSEUS"
+      - question: "The absence of what two Greek chieftains did Helen mention specifically?"
+        answer: "(THE ABSENCE OF) CASTOR & POLLUX / POLYDEUCES"
+  - tossup:
+      question: "What form of the verb <latin>sedeō</latin> is found in the following sentence: <latin>Sessum it praetor</latin>"
+      answer: "(ACCUSATIVE) SUPINE"
+    boni:
+      - question: "Translate that sentence"
+        answer: "THE PRAETOR IS GOING TO SIT (DOWN)"
+      - question: "Using a supine AND a passive periphrastic, say in Latin, “We must go to sleep.”"
+        answer: "EUNDUM EST NŌBĪS DORMĪTUM"
+  - tossup:
+      question: "Who, upon ascending the throne, showed his <latin>pietās</latin> by calling his mother <latin>optima māter</latin> and consecrating Claudius?"
+      answer: "NERO (CLAUDIUS CAESAR) (PLEASE PASS OUT THE VISUAL)"
+    boni:
+      - question: "This visual depicts an event that occurred soon after Nero became emperor. Who is “This Dude”?"
+        answer: "BRITANNICUS"
+      - question: "What future emperor is said to have been reclining at the same table as “This Dude”?"
+        answer: "TITUS"
+  - tossup:
+      question: "Complete the following analogy: <latin>sum : sītis :: volō : _____</latin>"
+      answer: "VELĪTIS"
+    boni:
+      - question: "…: <latin>volō : voluissēmus :: gaudeō : _____</latin>"
+        answer: "GĀVĪSĪ (-AE, -A) ESSĒMUS"
+      - question: "…: <latin>volō : vellēmus :: ōdī : _____</latin>"
+        answer: "ŌDISSĒMUS/DOES NOT EXIST"
+  - tossup:
+      question: "What Latin author, after converting first to Manichaeism and then to Christianity, opens his autobiography with “<latin>Magnus es, domine, et laudābilis valdē,</latin>” a work that he later entitled <title><latin>Cōnfessiōnēs</latin></title>?"
+      answer: "(AURELIUS) AUGUSTINUS / (ST.) AUGUSTINE"
+    boni:
+      - question: "Which of Augustine’s works was written to restore the confidence of his fellow Christians after the sack of Rome in 410 AD?"
+        answer: "<title><latin>DĒ CĪVITĀTE DEĪ</latin></title> / (<title>CONCERNING) THE CITY OF GOD</title>"
+      - question: "Where did Augustine serve as bishop?"
+        answer: "HIPPO"
+  - tossup:
+      question: "In Homer’s <title>Odyssey,</title> what son of Nestor accompanied Telemachus on his trip to Sparta?"
+      answer: "P(E)ISISTRATUS"
+    boni:
+      - question: "When Telemachus and Peisistratus arrived at the palace of Menelaüs, they discovered that the king was in the midst of a great feast given to celebrate the marriage of his daughter. Name her"
+        answer: "HERMIONE"
+      - question: "Who was the groom?"
+        answer: "NEOPTOLEMUS / PYRRHUS"
+  - tossup:
+      question: "What play of Plautus involves the seemingly unlikely marriage between Phaedria and Lyconides, made possible in part by a small pot of gold?"
+      answer: "<title><latin>AULULĀRIA</latin></title>"
+    boni:
+      - question: "What narrator, who is also a household deity, remarks at the beginning of the play, “<latin>Nē quis mīrētur quī sim, paucīs ēloquar</latin>”?"
+        answer: "<latin>LAR (FAMILIĀRIS)</latin>"
+      - question: "Give the Latin title of the shortest of Plautus’ surviving plays"
+        answer: "<title><latin>CURCULIŌ</latin></title>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Quīntus mendācem rogāvit cūr illud dīxisset</latin>"
+      answer: "QUINTUS ASKED THE LIAR WHY HE (HAD) SAID THAT(THING)"
+    boni:
+      - question: "Translate: <latin>Imperātor profitētur provinciam mox victum īrī</latin>"
+        answer: "THE EMPEROR / GENERAL ADMITS / SAYS THAT THE PROVINCE WILL BE CONQUERED SOON"
+      - question: "Translate: <latin>Utinam plūs aurī mihi esset</latin>!"
+        answer: "WOULD THAT / IF ONLY I HAD MORE GOLD! / WOULD THAT / IF ONLY THERE WERE MORE GOLD FOR ME"
+  - tossup:
+      question: "While the men were away celebrating the funeral games of Anchises, what were the Trojan women compelled to do?"
+      answer: "TO (TRY TO) BURN (SOME OF) THEIR SHIPS"
+    boni:
+      - question: "What goddess, sent by Juno, incited the Trojan women to do this?"
+        answer: "IRIS"
+      - question: "In the form of what mortal woman did Iris do this?"
+        answer: "BEROË"
+  - tossup:
+      question: "Give the Latin term for the boy who carries the utensils necessary for making the sacrificial offering during the <latin>cōnfārreātiō</latin>"
+      answer: "<latin>CAMILLUS</latin>"
+    boni:
+      - question: "In order to be a <latin>camillus</latin>, the boy must fulfill the condition of <latin>patrīmus et mātrīmus</latin>. What does this mean?"
+        answer: "BOTH PARENTS ARE ALIVE AT THE TIME OF THE CEREMONY"
+      - question: "What Latin term refers to the covered basket in which the utensils are carried?"
+        answer: "<latin>CUMERA  2009 NJCL CERTAMEN ADVANCED DIVISION</latin>"

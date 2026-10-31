@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Puer patrem sub arbore trēs hōrās exspectāverat</latin>"
+      answer: "THE BOY HAD WAITED FOR / EXPECTED [HIS] FATHER UNDER THE TREE FOR THREE HOURS."
+    boni:
+      - question: "Translate: <latin>Dum puer dormit, lupus in somniīs appāruit</latin>. "
+        answer: "WHILE THE BOY WAS SLEEPING, A WOLF APPEARED IN HIS DREAMS"
+      - question: "Translate: <latin>Puer ex somnō excitātus ad vīllam cum celeritāte fūgit</latin>"
+        answer: "THE BOY, AWAKENED FROM SLEEP, FLED / FLEES WITH SPEED / QUICKLY TO THE (FARM)HOUSE / VILLA "
+  - tossup:
+      question: "The Theban princess Ino saw her husband driven mad and one of her children killed before she could escape off a cliff with the other. What angry goddess was punishing her?"
+      answer: "HERA/JUNO"
+    boni:
+      - question: "Hera was so angry with Ino because of Ino’s role in the raising of what god?"
+        answer: "DIONYSUS / BACCHUS"
+      - question: "What relationship was Ino to Dionysus?"
+        answer: "AUNT (SISTER OF HIS MOTHER SEMELE)"
+  - tossup:
+      question: "Tell me the Latin phrase and the English meaning of the abbreviation <latin>e.g.</latin>"
+      answer: "<latin>EXEMPLĪ GRĀTIĀ</latin>, FOR (THE SAKE OF) EXAMPLE "
+    boni:
+      - question: "From what Latin author is the quotation “<latin>Timeō Danaōs et dōna ferentēs”</latin> taken?"
+        answer: "VERGIL "
+      - question: "What does it mean?"
+        answer: "I FEAR THE GREEKS EVEN (WHEN THEY ARE) BEARING / BRINGING GIFTS"
+  - tossup:
+      question: "What Latin term was given to the slave who was responsible, along with his wife, for overseeing the work of the other slaves on an estate?"
+      answer: "<latin>VĪLICUS</latin>"
+    boni:
+      - question: "What is the Latin term for a wedding between slaves?"
+        answer: "<latin>CONTUBERNIUM</latin>"
+      - question: "What Latin term could refer to the possessions of anyone who was not a <latin>paterfamiliās</latin>, but was used especially to mean the possessions of slaves?"
+        answer: "<latin>PECULIUM</latin>"
+  - tossup:
+      question: "Hic : <latin>hūc</latin> :: <latin>ille</latin> : ____?"
+      answer: "<latin>ILLŪC</latin>"
+    boni:
+      - question: "Define “<latin>illūc</latin>.”"
+        answer: "THITHER / TO THAT PLACE"
+      - question: "Define “<latin>illinc</latin>.”"
+        answer: "THENCE / FROM THAT PLACE"
+  - tossup:
+      question: "From what verb are all of the following derived? Preside, residue, sedimentary, session"
+      answer: "<latin>SEDEŌ</latin>"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from <latin>sedeō</latin>? Subside, siege, unconscious, size, possess"
+        answer: "UNCONSCIOUS"
+      - question: "From what Latin verb is “unconscious” ultimately derived?"
+        answer: "<latin>SCIŌ</latin>"
+  - tossup:
+      question: "What modern country’s coastline was encompassed by the Roman provinces of Africa and Cyrenaica?"
+      answer: "LIBYA’S"
+    boni:
+      - question: "What is the modern name for Oea, a port town in the province of Africa?"
+        answer: "TRIPOLI"
+      - question: "With what island was Cyrenaica joined to form one province?"
+        answer: "CRETE"
+  - tossup:
+      question: "Using a fourth declension noun, say in Latin “the more powerful army.”"
+      answer: "<latin>POTENTIOR EXERCITUS</latin> "
+    boni:
+      - question: "Change that phrase to the dative singular"
+        answer: "<latin>POTENTIŌRĪ EXERCITUĪ</latin> "
+      - question: "Change the adjective to the superlative form and both words to the dative plural. "
+        answer: "<latin>POTENTISSIMĪS EXERCITIBUS</latin>"
+  - tossup:
+      question: "Who killed Periclymenus, Hippocoon, Neleus, Iphitus, and Megara?"
+      answer: "HERACLES/HERCULES"
+    boni:
+      - question: "Why did Heracles kill Megara?"
+        answer: "(HERA STRUCK HIM WITH TEMPORARY) MADNESS"
+      - question: "Whom did Heracles have to serve to atone for the murder of Iphitus?"
+        answer: "OMPHALE"
+  - tossup:
+      question: "Listen to the following Latin passage, which I will read twice, then answer in LATIN the question that follows: <latin>Antōnius</latin> comes Caesaris in omnibus <latin>bellīs et</latin> tum <latin>cōnsulātūs collēga</latin> fuit. Cum Caesar <latin>in sellā aureā prō rōstrīs sedēret, capitī</latin> Caesaris <latin>corōnam</latin>, signum <latin>rēgum</latin>, imposuit, quae ita <latin>ā</latin> Caesare repulsa est <latin>ut nōn offēnsus vidērētur</latin>. The question: <latin>Ubi erat Caesar?</latin>"
+      answer: "<latin>IN SELLĀ (AUREĀ) / PRŌ RŌSTRĪS</latin>"
+    boni:
+      - question: "<latin>Ā quō corōna Caesarī data est?</latin>"
+        answer: "<latin>AB ANTŌNIŌ</latin>"
+      - question: "<latin>Cūr Caesar offendī dēbuit?</latin>"
+        answer: "<latin>CORŌNA EST / ERAT SIGNUM RĒGUM / CORŌNA SIGNIFICAT RĒGEM / RĒGĒS</latin>"
+  - tossup:
+      question: "The second plebeian secession reportedly occurred to protest the abuses of what group that was ruling Rome in 449 B.C.?"
+      answer: "(SECOND) DECEMVIRATE / DECEMVIRS / <latin>DECEMVIRĪ</latin> (<latin>LĒGIBUS SCRĪBENDĪS / SCRIBUNDĪS</latin>)"
+    boni:
+      - question: "The two consuls of 449, Valerius and Horatius, passed laws that fixed problems left unsolved by what law code?"
+        answer: "TWELVE TABLES"
+      - question: "It is likely that the patricians retained the right to veto any legislation passed by the <latin>Concilium</latin> <latin>Plebis</latin>. What law passed in 287 B.C. finally made these resolutions binding upon all citizens?"
+        answer: "LEX HORTENSIA"
+  - tossup:
+      question: "Give a third declension synonym for “<latin>saxum</latin>.”"
+      answer: "<latin>LAPIS / RŪPES / CALX</latin>"
+    boni:
+      - question: "Now give a fourth declension noun meaning “approach.”"
+        answer: "<latin>ADITUS / ADVENTUS / ACCESSUS</latin>"
+      - question: "J. K. Rowling obviously read her Caesar! Give the 4th declension noun meaning “<emphasis>torture</emphasis>.”"
+        answer: "<latin>CRUCIĀTUS</latin>"
+  - tossup:
+      question: "In the <title>Aeneid</title>, who is abandoned in burning Troy by the rest of her family, including her son Ascanius and her husband Aeneas?"
+      answer: "CREUSA (prompt on “Aeneas’ wife”)"
+    boni:
+      - question: "When Aeneas goes back to look for Creusa, who tells him that he is mandated by fate to continue on without her?"
+        answer: "<emphasis>GHOST</emphasis> OF CREUSA"
+      - question: "Who was the father of Creusa?"
+        answer: "PRIAM"
+  - tossup:
+      question: "For the verb <latin>redūcō</latin>, give the accusative singular feminine form of the present participle. "
+      answer: "<latin>REDŪCENTEM</latin> "
+    boni:
+      - question: "Keeping the same gender and case, change <latin>redūcentem</latin> to the perfect passive participle"
+        answer: "<latin>REDUCTAM</latin> "
+      - question: "Keeping the same gender and case, change <latin>reductam</latin> to the future passive participle, also known as the gerundive"
+        answer: "<latin>REDŪCENDAM</latin> "
+  - tossup:
+      question: "Voldemort was not the first man to outsource his life into an inanimate object. What Greek hero could be killed from any distance simply by burning a log that was linked to his life?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Who eventually burned the log and killed Meleager?"
+        answer: "ALTHAEA (prompt on “his mother”)"
+      - question: "Meleager angered Althaea by killing her brothers. Whose honor was he defending when he killed his uncles?"
+        answer: "ATALANTA’S"
+  - tossup:
+      question: "At such battles as Cynoscephalae and Pydna, the Romans showed the superiority of the maniple over what Greek battle formation?"
+      answer: "PHALANX"
+    boni:
+      - question: "What Hellenistic power did the Romans soundly defeat at Cynoscephalae and Pydna?"
+        answer: "MACEDON(IA) / THE ANTIGONIDS / PHILIP V & PERSEUS"
+      - question: "After what catastrophic loss to the Gauls in 390 B.C. had the Romans abandoned the phalanx?"
+        answer: "ALLIA (RIVER)"
+  - tossup:
+      question: "What man, commander of the Roman fleet in 249 B.C., lost the Battle of Drepana reportedly because he had ignored a bad omen in which sacred chickens had refused to eat?"
+      answer: "(PUBLIUS) CLAUDIUS PULCHER"
+    boni:
+      - question: "What wealthy Carthaginian led the faction that opposed a naval war with Rome, despite the Carthaginian supremacy before Rome rebuilt its fleet in 244 B.C.?"
+        answer: "HANNO (II / THE GREAT)"
+      - question: "With this new fleet, where did Lutatius Catulus crush the undermanned Carthaginians in 241 B.C.?"
+        answer: "LILYBAEUM / AEGATES ISLANDS"
+  - tossup:
+      question: "Which of the following, if any, does not belong by etymology:  tenant, tenure, plantain, contain, retentive?"
+      answer: "PLANTAIN"
+    boni:
+      - question: "Give the first three principal parts and the meaning for the verb at the root of the others"
+        answer: "<latin>TENEŌ, TENĒRE, TENUĪ, TENTUS /-UM -</latin> TO HOLD"
+      - question: "From what Latin noun is “amount” derived?"
+        answer: "<latin>MŌNS</latin> "
+  - tossup:
+      question: "What forest god, the son of Hermes and Penelope, had the legs and horns of a goat?"
+      answer: "PAN"
+    boni:
+      - question: "According to Vergil, what Roman equivalent to Pan was the father of Latinus?"
+        answer: "FAUNUS"
+      - question: "According to Ovid, what nymph was turned into reeds to avoid the advances of Pan, a story apparently so boring that Mercury used it to put Argus to sleep?"
+        answer: "SYRINX"
+  - tossup:
+      question: "Harry Potter mania powers forward, though ardent fans deeply weep at the loss of their childhood innocence as the franchise comes to a close. Translate the following sentence about <title><latin>Harrius Potter</latin></title>: <latin>Hōc tempore tū nōn potes effugere potestātem Harriī.</latin>"
+      answer: "AT THIS TIME / NOW YOU CANNOT ESCAPE / FLEE THE POWER OF HARRY"
+    boni:
+      - question: "(PASS OUT THE VISUAL) You are looking at an unmodified passage from <title><latin>Harrius Potter et Camera Sēcrētōrum</latin></title>. What use of the dependent subjunctive is found in lines 5–6?"
+        answer: "INDIRECT COMMAND / SUBSTANTIVE CLAUSE OF PURPOSE / JUSSIVE NOUN CLAUSE"
+      - question: "As the Gryffindors take the field, what were the Ravenclaws and Hufflepuffs hoping?"
+        answer: "THAT THEY WOULD SEE THE SLYTHERINS CONQUERED / THAT THE GRYFFINDORS WOULD WIN"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What son of Leiriope and Cephissus was turned into a flower?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What goddess of retribution made Narcissus fall in love with his own reflection?"
+        answer: "NEMESIS"
+      - question: "Where does Narcissus still gaze upon his own reflection?"
+        answer: "WATERS OF THE STYX"
+  - tossup:
+      question: "Name one common Latin verb whose first person singular, present tense, indicative ends in <latin>-m</latin>, not -ō?"
+      answer: "<latin>SUM</latin>"
+    boni:
+      - question: "(and compounds) / <latin>INQUAM</latin> What is the passive ending for the first person singular in the present, imperfect, and future tenses?"
+        answer: "-<latin>OR</latin> / -<latin>R</latin>"
+      - question: "What is the passive of <latin>sum</latin>?"
+        answer: "IT HAS NO PASSIVE"
+  - tossup:
+      question: "In spite of the fact that they lost over 600 ships and their sailors, what war in 3rd century BC were the Romans able to win?"
+      answer: "FIRST PUNIC"
+    boni:
+      - question: "What Carthaginian commander, undefeated by the Romans, negotiated the terms of the peace for the 1st Punic War?"
+        answer: "HAMILCAR (BARCA)"
+      - question: "Where did Hamilcar conquer a new territory for Carthage?"
+        answer: "<latin>SPAIN</latin>"
+  - tossup:
+      question: "Change the verb <latin>mūtābāmus</latin> to the singular"
+      answer: "<latin>MŪTĀBAM</latin>"
+    boni:
+      - question: "Change <latin>mūtābam</latin> to the future tense"
+        answer: "<latin>MŪTĀBŌ</latin>"
+      - question: "Change <latin>mūtābō</latin> to the plural"
+        answer: "<latin>MŪTĀBIMUS</latin>"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Ubi sunt rosae quās portābas</latin>?"
+      answer: "WHERE ARE THE ROSES WHICH / THAT YOU WERE CARRYING / CARRIED?"
+    boni:
+      - question: "<latin>. . . Num rosae sunt in cubiculō</latin> <latin>tuō</latin>?"
+        answer: "SURELY THE ROSES ARE NOT IN YOUR BEDROOM?"
+      - question: "<emphasis>or</emphasis> THE ROSES ARE NOT IN YOUR BEDROOM, ARE THEY? <latin>. . . Nōnne mihi rosās dare vīs</latin>?"
+        answer: "SURELY YOU WANT TO GIVE ME THE ROSES?"
+  - tossup:
+      question: "Give an antonym of <latin>longus</latin>?"
+      answer: "<latin>BREVIS</latin>, <latin>EXIGUUS</latin>"
+    boni:
+      - question: ". . . of <latin>multī</latin>?"
+        answer: "<latin>PAUCĪ</latin>, <latin>ALIQUOT</latin>, <latin>RĀRĪ</latin>, <latin>NŌNNULLĪ, SINGULĪ</latin>"
+      - question: "of the adjective <latin>foedus</latin>?"
+        answer: "<latin>PULCHER</latin>, <latin>BELLUS</latin>, <latin>LEPIDUS</latin>, <latin>VENUSTUS, GRĀTUS</latin>"
+  - tossup:
+      question: "What form of the adjective <latin>ille</latin> agrees with the noun <latin>hominis</latin>?"
+      answer: "<latin>ILLĪUS</latin>"
+    boni:
+      - question: "What form of the adjective <latin>ille</latin> agrees with the noun <latin>mātrī</latin>?"
+        answer: "<latin>ILLĪ</latin>"
+      - question: "What form of the adjective <latin>ille</latin> agrees with the noun <latin>caput</latin>?"
+        answer: "<latin>ILLUD</latin>"
+  - tossup:
+      question: "Which Oceanid, Zeus’ first wife, was swallowed by him while she was pregnant?"
+      answer: "METIS "
+    boni:
+      - question: "Who is labeled with the letter “B”?"
+        answer: "ATHENA"
+      - question: "Who is labeled with the letter “C”?"
+        answer: "HEPHAESTUS (OR PROMETHEUS)"
+  - tossup:
+      question: "Give the ultimate Latin verb root and its meaning from which “incision” is derived"
+      answer: "<latin>CAEDŌ/CAEDERE</latin> - CUT, STRIKE, BEAT, SLAY, MURDER, KILL"
+    boni:
+      - question: ". . . from which “incident” is derived"
+        answer: "<latin>CADŌ/CADERE</latin> - FALL, DESCEND, TO BE KILLED/CONQUERED, DECLINE, DECAY"
+      - question: ". . . from which “inclusion” is derived"
+        answer: "<latin>CLAUDŌ/CLAUDERE</latin>"
+  - tossup:
+      question: "Whose funeral was commemorated on Aeneas’ second visit to Sicily?"
+      answer: "ANCHISES'"
+    boni:
+      - question: "Who was the good king of Sicily who hosted the Trojans twice?"
+        answer: "ACESTES"
+      - question: "Name two of the four different types of competitions which the Trojans held in Anchises' memory"
+        answer: "BOAT RACE, FOOT RACE, ARCHERY CONTEST, AND BOXING MATCH"
+  - tossup:
+      question: "What is the Latin phrase commonly used in English to mean “for this purpose?”<latin>AD HOC</latin> What is the Latin phrase commonly used in English to mean “against the man?”"
+      answer: "<latin>AD HOMINEM / IN REM</latin>"
+    boni:
+      - question: " What Latin phrase, used in English, means “to the point of disgust”?"
+        answer: "<latin>AD NAUSEAM</latin>"
+  - tossup:
+      question: "What war was triggered when Rome refused to grant full citizenship to her Italian allies in 91 BC?"
+      answer: "SOCIAL / MARSIC / ITALIC WAR"
+    boni:
+      - question: "Name the tribune of 91 BC who had been assassinated because he had proposed legislation extending citizenship to the Italian allies"
+        answer: "(M.) LIVIUS DRUSUS (THE YOUNGER)"
+      - question: "Although the Italian allies lost the war, what had they gained by its end in 87 BC?"
+        answer: "FULL CITIZENSHIP / VOTING RIGHTS"
+  - tossup:
+      question: "Which of the hunters for the Calydonian boar was a woman?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What gift did Meleager give Atalanta after the hunt?"
+        answer: "THE BOAR'S HIDE"
+      - question: "Who had been the first person to wound the boar?"
+        answer: "ATALANTA"
+  - tossup:
+      question: "What Greek commander took ships to Troy from Cephallenia, Zacynthus, and Ithaca?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Before sailing from Aulis, how did Odysseus convince Clytemnestra to send Iphigenia to Aulis to be sacrificed?"
+        answer: "TOLD HER SHE WAS TO WED ACHILLES"
+      - question: "Whom did Odysseus urge the Greeks to abandon on the island of Lemnos?"
+        answer: "PHILOCTETES"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In Graeciā</latin> <latin>ōlim mōnstrum ferōcissimum agrōs vāstābat, atque multōs virōs dēvorābat. Rēx ānxius igitur ōrāculum cōnsuluit. Responsum est ita: “deī</latin> <latin>īrātī</latin> <latin>propter inopiam dōnōrum patriam tuam sīc pūniunt. Sī</latin> <latin>autem</latin>  <latin>monstrō</latin> <latin>tuam fīliam sōlam dederis, tum deī</latin> <latin>poenam fīnient.</latin>  <latin>Quis cōnsuluit ōrāculum?</latin>"
+      answer: "RĒX (ANXIUS)"
+    boni:
+      - question: "Cūr deī <latin>patriam pūniunt?</latin> "
+        answer: "<emphasis><latin>PROPTER INOPIAM D</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis><emphasis><latin>RUM</latin></emphasis> <latin>(QUOD ĪRĀTĪ</latin> <latin>ERANT)</latin>"
+      - question: " <latin>Cuius mors poenam fīniet?</latin>"
+        answer: "FĪLIAE (RĒGIS)"
+  - tossup:
+      question: "What priest acted in the position of a father to the Vestal Virgins?"
+      answer: "<latin>PONTIFEX MAXIMUS</latin>"
+    boni:
+      - question: " What was the minimum age at which a girl could be selected as a Vestal?"
+        answer: "SIX"
+      - question: "How many years did a young Vestal spend learning her duties?"
+        answer: "TEN"
+  - tossup:
+      question: "To what queen did Aurelian grant a pension after she marched in his triumphal parade?"
+      answer: "ZENOBIA"
+    boni:
+      - question: "Of what city was she queen?"
+        answer: "PALMYRA"
+      - question: "Why had Aurelian marched against her in A"
+        answer: "D."
+      - question: "271?"
+        answer: "ZENOBIA WAS TRYING TO TAKE POWER & TERRITORY FROM ROME"
+  - tossup:
+      question: "What use of the genitive case is illustrated in this sentence: <latin>Canis fīdēlissimum animal omnium est</latin>"
+      answer: "PARTITIVE / OF THE WHOLE"
+    boni:
+      - question: "<latin>Dominus plūs aquae bibit</latin>"
+        answer: "PARTITIVE / OF THE WHOLE"
+      - question: "Using your best Latin, translate: “Two of the slaves were sleeping.”"
+        answer: "<latin>DUO E(X) / DĒ</latin> <latin>SERVĪS DORMIĒBANT</latin>"
+  - tossup:
+      question: "What small stream, the boundary between Italy and Cisalpine Gaul, did Julius Caesar and one of his legions cross in 49 BC?"
+      answer: "RUBICON"
+    boni:
+      - question: "What much larger river had Julius Caesar crossed in 56 BC after his legions built a bridge over it?"
+        answer: "RHENUS / RHINE"
+      - question: "What name did the Romans give to the area immediately east of the Rhine?"
+        answer: "GERMANIA"
+  - tossup:
+      question: "When you are recognized by the spotter, follow this direction: <latin>Mōnstrā</latin> <latin>mihi sex digitōs</latin>"
+      answer: "STUDENT SHOULD HOLD UP SIX FINGERS"
+    boni:
+      - question: "<latin>Rīdēte et exhibēte dentēs vestrōs.</latin> "
+        answer: "MORE THAN ONE STUDENT SHOULD LAUGH AND SHOW THEIR TEETH"
+      - question: "<latin>Tollite manūs dextrās et ponite eās sub mentīs</latin>"
+        answer: "MORE THAN ONE STUDENT SHOULD LIFT THEIR RIGHT HANDS AND PLACE THEM UNDER THEIR CHINS"

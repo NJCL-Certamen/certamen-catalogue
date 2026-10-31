@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "According to legend, who was predicted to become king of Rome when flames were observed around his head as he slept in his crib?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who interpreted this omen?"
+        answer: "TANAQUIL (T. PRISCUS’ WIFE)"
+      - question: "How did Servius Tullius placate the sons of Tarquinius Priscus after he had made clear his intentions to succeed their father?"
+        answer: "HE MARRIED THEM TO HIS DAUGHTERS (THE TULLIAE)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Poētae Karthāginī</latin> <latin>fāme moriuntur</latin>."
+      answer: "THE POETS IN CARTHAGE ARE DYING FROM HUNGER"
+    boni:
+      - question: "<latin>Novum imperātōrem ōdērunt</latin>."
+        answer: "THEY HATE THE NEW EMPEROR"
+      - question: "<latin>Poētae dīvitibus adiuvandī</latin> <latin>sunt</latin>."
+        answer: "THE RICH MUST HELP THE POETS / THE POETS ARE TO BE HELPED BY THE RICH"
+  - tossup:
+      question: "Of what material were the curved legs of a <latin>sella curūlis</latin> made?"
+      answer: "IVORY"
+    boni:
+      - question: "Both a <latin>sella</latin> and a <latin>solium</latin> were types of chairs made for a single person. What was the major physical difference between them?"
+        answer: "<latin>SOLIUM</latin> HAD A (HIGH) BACK / THE <latin>SELLA</latin> HAD HANDLES SO THAT SOMEONE COULD BE CARRIED IN IT"
+      - question: "What was the latin term for a bench made to accommodate more than one person?"
+        answer: "<latin>SUBSELLIUM</latin> "
+  - tossup:
+      question: "Who was very unhappy when he discovered that his name had been mentioned in a lie to trick Clytemnestra into bringing her daughter to Aulis?"
+      answer: "ACHILLES"
+    boni:
+      - question: "Who was the daughter that Clytemnestra brought to Aulis to marry Achilles?"
+        answer: "IPHIGENIA / IPHIANASSA"
+      - question: "What fate actually awaited Iphigenia, and why?"
+        answer: "SACRIFICED (TO ARTEMIS) TO OBTAIN FAVORABLE WINDS TO SAIL TO TROY (& MAYBE SAVED BY ARTEMIS AT LAST MOMENT)"
+  - tossup:
+      question: "What eight month old son of Alcmene, upon finding two snakes in his cradle, screamed in terror?"
+      answer: "IPHICLES"
+    boni:
+      - question: "Name his more composed half-brother who killed the snakes?"
+        answer: "HERACLES"
+      - question: "What deity had placed the snakes in the cradle?"
+        answer: "HERA"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Itālia ā</latin> <latin>rēge ūna ē</latin> <latin>plūribus facta est</latin>."
+      answer: "ITALY WAS MADE ONE FROM MANY / MORE BY THE KING (If student says “... became one by the king...,” accept the answer but warn the student about the bad English) (PASS OUT THE VISUAL)"
+    boni:
+      - question: "The handout contains a picture of the Vittoriano, which is a monument in Rome built in the late 1800s to commemorate the unification of modern Italy by its first king, Victor Emmanuel II. Give the nominative singular form of each of the four inscribed words in the highlighted sections of the monument."
+        answer: "<latin>PATRIA ŪNITĀS CĪVIS LĪBERTĀS</latin> "
+      - question: "Translate those two dedications as literally as possible."
+        answer: "TO/FOR THE UNITY / UNIFICATION OF THE FATHERLAND / COUNTRY etc. & TO/FOR THE LIBERTY / FREEDOM OF THE CITIZENS"
+  - tossup:
+      question: "Who increased the number of provinces from about 40 to about 105?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "The provinces were grouped into twelve administrative districts called what?"
+        answer: "DIOCESES"
+      - question: "Give the Latin word for the official in charge of a dioceses."
+        answer: "<latin>VICARIUS</latin> "
+  - tossup:
+      question: "Translate the following sentence into Latin: Publius couldn’t be taught."
+      answer: "<latin>PUBLIUS NŌN POTERAT / POTUIT DOCĒRĪ</latin> <latin>PUBLIUS NEQUĪBAT / NEQUĪVIT DOCĒRĪ</latin>"
+    boni:
+      - question: "Publius says that he has been taught well."
+        answer: "<latin>PUBLIUS DĪCĪT SĒ</latin> <latin>BENE DOCTUM ESSE</latin> "
+      - question: "Publius’ mother said that she would teach him."
+        answer: "<latin>MĀTER PUBLIĪ</latin> <latin>DĪXIT SĒ</latin> <latin>EUM DOCTŪRAM ESSE</latin> "
+  - tossup:
+      question: "Give the Latin noun and its meaning at the root of “divulge.”"
+      answer: "<latin>VULGUS</latin> - COMMON PEOPLE"
+    boni:
+      - question: "Give the Latin verb and its meaning at the root of “protegé.”"
+        answer: "<latin>TEGŌ, TEGERE</latin> - COVER, CONCEAL"
+      - question: "Give the Latin verb and its meaning at the root of “indolent.”"
+        answer: "<latin>DOLEŌ, DOLĒRE</latin> - FEEL PAIN, GRIEVE"
+  - tossup:
+      question: "Give the genitive plural of the phrase <latin>fortis mīles</latin>."
+      answer: "<latin>FORTIUM MĪLITUM</latin> "
+    boni:
+      - question: "Give the genitive plural of the phrase <latin>corpus leve</latin>."
+        answer: "<latin>CORPORUM LEVIUM</latin> "
+      - question: "Give the genitive plural of the phrase <latin>īgnis clārior</latin>."
+        answer: "<latin>ĪGNIUM CLĀRIŌRUM</latin>"
+  - tossup:
+      question: "<latin>Audī</latin> <latin>dīligenter et respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Omnia quae tetigī</latin> <latin>aurea facta sunt. Posteā, ubi hanc potestātem āmīseram, Apollō</latin> <latin>mihi aurēs asinī</latin> <latin>dedit.</latin>"
+      answer: "<latin>MIDAS</latin> / <latin>MIDA</latin> / MIDAS"
+    boni:
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Fortasse audīvistī</latin> <latin>dē</latin> <latin>mē. Omnēs puerōs certāmine superāvī. Venere iuvante, Hippomenēs mē</latin> <latin>superāvit et in mātrimōnium dūxit.</latin>"
+        answer: "<latin>ATALANTA</latin> / ATALANTA"
+      - question: "<latin>Respondē</latin> <latin>aut Anglicē</latin> <latin>aut Latīnē: Quis sum? Apollō</latin> <latin>mē</latin> <latin>in mātrimōnium dūcere volēbat sed ego virgō</latin> <latin>in perpetuum esse volēbam. Pater meus mē</latin> <latin>in laurum mūtāvit. Nympha fuī.</latin>"
+        answer: "<latin>DAPHNĒ</latin> / DAPHNE"
+  - tossup:
+      question: "What Latin phrase is used in English to mean “another aspect of oneself”?"
+      answer: "<latin>ALTER EGO</latin> "
+    boni:
+      - question: "What Latin word is used in English to describe a person with his identity disguised?"
+        answer: "<latin>INCOGNITO</latin> "
+      - question: "What Latin phrase is used in English to mean “from a position of authority”?"
+        answer: "<latin>EX CATHEDRA</latin> "
+  - tossup:
+      question: "With whom did Poseidon fall in love after seeing her dance on the island of Naxos?"
+      answer: "AMPHITRITE"
+    boni:
+      - question: "Whom did Poseidon send to convince Amphitrite to marry him?"
+        answer: "DELPHINUS"
+      - question: "Who were the parents of Amphitrite?"
+        answer: "NEREUS & DORIS or OCEANUS & TETHYS"
+  - tossup:
+      question: "Listen carefully to the following short passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Augustus equitem Rōmānum in spectāculīs cēnantem vīdit, cui dīxit: “Ego sī</latin> <latin>cēnāre volō, domum eō.” Eques respondit, “Tu enim nōn timēs nē</latin> <latin>sedem amittās.”</latin>  Question: <latin>Cui hominī</latin> <latin>dīxit Augustus?</latin>"
+      answer: "<latin>EQUITĪ</latin> <latin>(RŌMAN</latin><latin>Ō)</latin> "
+    boni:
+      - question: "<latin>Quid faciēbat eques Rōmānus quod Augustum īrātum fēcit</latin>?"
+        answer: "<latin>CĒNĀBAT IN SPECTĀCULĪS</latin> "
+      - question: "<latin>Quō</latin> <latin>it Augustus, sī</latin> <latin>fāmem habet?</latin>"
+        answer: "<latin>DOMUM</latin> "
+  - tossup:
+      question: "Who convinced Tiberius of the ambitions of Sejanus?"
+      answer: "ANTONIA (THE YOUNGER)"
+    boni:
+      - question: "What was Antonia’s relationship to Tiberius?"
+        answer: "SISTER-IN-LAW"
+      - question: "Which of Antonia’s children eventually became emperor?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "Who, having been exposed by her father, was suckled by a bear and raised by hunters ?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Atalanta was reconciled with her father as a result of her fame resulting from what event?"
+        answer: "CALYDONIAN BOAR HUNT"
+      - question: "Atalanta agreed to her father’s request that she marry on what condition?"
+        answer: "POTENTIAL HUSBAND HAD TO BEAT HER IN A FOOTRACE (OR DIE)"
+  - tossup:
+      question: "What use of the dative case is found in the following sentence? <latin>Mare nōbīs transeundum est</latin>."
+      answer: "AGENCY / AGENT"
+    boni:
+      - question: "<latin>Bonō</latin> <latin>fuit Rōmānīs rēgēs expellere</latin>."
+        answer: "DOUBLE DATIVE / REFERENCE + PURPOSE (If only one use of the dative is given, prompt for more information)"
+      - question: "<latin>Nēmō</latin> <latin>est cui crēdere possim.</latin>"
+        answer: "<emphasis>OBJECT OF SPECIAL VERB</emphasis> (<latin>crēdō</latin>) (If “indirect object” is given as the answer, prompt for more information)"
+  - tossup:
+      question: "You are a doctor in ancient Rome. A patient tells you, “<latin>Caput meum dolet</latin>.” What is he saying?"
+      answer: "HIS HEAD HURTS / HE HAS A HEADACHE"
+    boni:
+      - question: "You ask the patient why his head hurts and he responds, “<latin>Dē</latin> <latin>fenestrā</latin> <latin>in terram dēsilu</latin><latin>ī.</latin>” What happened?"
+        answer: "<emphasis>HE JUMPED OUT OF A WINDOW</emphasis> ONTO THE GROUND"
+      - question: "You then tell the patient, <latin>“Fortūnātus es. Censeō</latin> <latin>tē</latin> <latin>bracchium sinistrum frēgisse</latin>.” What is your diagnosis?"
+        answer: "HE’S LUCKY. HE <emphasis>BROKE HIS LEFT ARM</emphasis> "
+  - tossup:
+      question: "Who united all the Huns under his rule in A.D. 443?"
+      answer: "ATTILA"
+    boni:
+      - question: "Who defeated Attila with the help of the Visigoths in A.D. 451?"
+        answer: "AETIUS"
+      - question: "Aetius was the actual power behind the throne of what emperor in the west?"
+        answer: "VALENTINIAN III"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “tacitus”?</latin>"
+      answer: "SILENT"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “tener”?</latin>"
+        answer: "TENDER"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “tenuis”?</latin>"
+        answer: "THIN"

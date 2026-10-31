@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Give the superlative form of the adverb <latin>fortiter</latin>."
+      answer: "<latin>FORTISSIMĒ</latin>"
+    boni:
+      - question: "What is the adverb form of <latin>miser</latin>?"
+        answer: "<latin>MISERĒ</latin> / <latin>MISERITER</latin>"
+      - question: "Make that adverb form comparative."
+        answer: "<latin>MISERIUS</latin>"
+  - tossup:
+      question: "What Greek god was sometimes called “Aïdoneus,” meaning “Unseen One,” and “Katachthonios,” meaning “He of the Underworld”?"
+      answer: "HADES"
+    boni:
+      - question: "What Greek god had the epithet “Enosichthon,” meaning “Earth-Shaker”?"
+        answer: "POSEIDON"
+      - question: "What Greek god had the epithets “Psychopompos” and “Argeïphontes”?"
+        answer: "HERMES"
+  - tossup:
+      question: "After attacking Roman ships bound for the nearby city of Thurii, what city in southern Italy recruited the aid of Pyrrhus of Epirus?"
+      answer: "TARENTUM"
+    boni:
+      - question: "At what battle during the War with Tarentum and Pyrrhus did the Romans first encounter elephants?"
+        answer: "HERACLEA"
+      - question: "What Roman commander defeated Pyrrhus in 275 BC at the Battle of Beneventum?"
+        answer: "(M. CURIUS) DENTATUS"
+  - tossup:
+      question: "The Latin verb forms <latin>voluī, portāveram,</latin> and <latin>ambulābō</latin> can all be used with what personal pronoun as the subject?"
+      answer: "<latin>EGO</latin>"
+    boni:
+      - question: "Which of the following verb forms does NOT agree with the pronoun <latin>tū</latin>:  <latin>sēdistī, poterās, ītis, monēris, dūcis?</latin>"
+        answer: "<latin>ĪTIS</latin>"
+      - question: "Which of the following verb forms does NOT agree with the pronoun <latin>nōs</latin>:  <latin>amāmur</latin>, <latin>vidēbimus, sumus, audītae erimus, docēbāminī</latin>?"
+        answer: "<latin>DOCĒBĀMINĪ</latin>"
+  - tossup:
+      question: "Which state has the Latin motto <latin>crēscit eundō</latin>?"
+      answer: "NEW MEXICO"
+    boni:
+      - question: "Which state has the Latin motto <latin>dīrigō</latin>?"
+        answer: "MAINE"
+      - question: "Which state has the Latin motto <latin>ālīs volat propriīs</latin>?"
+        answer: "OREGON"
+  - tossup:
+      question: "What 14-year-old boy was passed off as the son of Caracalla and set up as a rival emperor in Emesa to oppose Macrinus?"
+      answer: "ELAGABALUS / HELIOGABALUS /  \t\t\t(VARIUS AVITUS) BASSIANUS / M. AURELIUS ANTONINUS"
+    boni:
+      - question: "Where in Syria was Macrinus defeated in battle in 218 AD?"
+        answer: "ANTIOCH"
+      - question: "Who was the mother of Elagabalus who was involved in the coup and later killed along with her son by the Praetorian Guard?"
+        answer: "JULIA SOAEMIAS"
+  - tossup:
+      question: "Is a “provident” move “prosperous,” “injudicious,” “hurtful,” “prudent,” or “lucky”?"
+      answer: "PRUDENT"
+    boni:
+      - question: "Give the principal parts of the Latin verb at the ultimate root of both “provident” and “prudent.”"
+        answer: "<latin>VIDEŌ, VIDĒRE, VĪDĪ, VĪSUS</latin> (<latin>-UM</latin>)"
+      - question: "What English derivative of <latin>videō</latin> means “likely to arouse ill will or resentment”?"
+        answer: "INVIDIOUS (“ENVIOUS” IS WRONG)"
+  - tossup:
+      question: "Complete the following mythological analogy: Aeneas : Anchises :: Achilles : ________?"
+      answer: "PELEUS"
+    boni:
+      - question: "Complete this mythological analogy: Aeneas : Anchises :: Neoptolemus : ________?"
+        answer: "ACHILLES"
+      - question: "Complete this mythological analogy: Aeneas : Anchises :: Antilochus : ________?"
+        answer: "NESTOR"
+  - tossup:
+      question: "Just like chariot racing teams and teams in more interesting sports, World Cup soccer teams can be differentiated by the colors they wear.  What Latin word would describe the white color of many sports jerseys?"
+      answer: "<latin>ALBUS / CANDIDUS / PŪRUS</latin>"
+    boni:
+      - question: "What about a black jersey?"
+        answer: "<latin>ĀTER / NIGER</latin>"
+      - question: "World Cup soccer players are required to leave the game and change jerseys if they get blood on them.  What is the Latin word for blood?"
+        answer: "<latin>SANGUIS</latin>"
+  - tossup:
+      question: "Using the verb <latin>mittō,</latin> say in Latin “I will send a letter.”"
+      answer: "<latin>MITTAM EPISTULAM / LITTERĀS / LITTERAM</latin>"
+    boni:
+      - question: "Now say, “I had sent the noble crown.”"
+        answer: "<latin>MĪSERAM CORŌNAM NŌBILEM</latin>"
+      - question: "Finally, say “I lost two denarii,” using a compound of <latin>mittō.</latin>"
+        answer: "<latin>ĀMĪSĪ DUŌS DĒNĀRIŌS</latin>"
+  - tossup:
+      question: "What monster was tamed by Psyche with honey cakes, by Orpheus with singing, and by Heracles with his bare hands for his twelfth labor?"
+      answer: "CERBERUS"
+    boni:
+      - question: "Before he began his twelfth labor, Heracles was inducted into what set of rituals, which celebrated Demeter and Persephone?"
+        answer: "ELEUSINIAN MYSTERIES"
+      - question: "When he got to the Underworld, Heracles released which hero from the Chair of Forgetfulness, though he had to leave his comrade Pirithoüs behind?"
+        answer: "THESEUS"
+  - tossup:
+      question: "Give the correct form of the phrase <latin>facile iter</latin> to translate the following sentence:  “Sulpicia made the easy journey to Lanuvium.”"
+      answer: "<latin>FACILE ITER</latin>"
+    boni:
+      - question: "Give the correct form of the phrase <latin>facile iter</latin> to translate the following sentence:  “Sulpicia accomplished a great deal by means of that easy journey.”"
+        answer: "<latin>FACILĪ ITINERE</latin>"
+      - question: "Give the correct form of the phrase <latin>facile iter</latin> to translate the following sentence:  “Easy journeys are the best kind.”"
+        answer: "<latin>FACILIA ITINERA</latin>"
+  - tossup:
+      question: "According to the historian Livy, a very severe earthquake occurred, but was totally unfelt by the Roman and Carthaginian forces who were fighting so intensely at what battle of 217 BC?"
+      answer: "(LAKE) TRASIMENE"
+    boni:
+      - question: "During what military skirmish in the previous year did Scipio the future Africanus save his father  \t\tfrom Hannibal’s forces?"
+        answer: "(BATTLE OF) TICINUS (RIVER)"
+      - question: "At what battle of 208 BC did Scipio the future Africanus defeat Hasdrubal Barca in Spain?"
+        answer: "(BATTLE OF) BAECULA"
+  - tossup:
+      question: "Jupiter’s affair with Europa featured prominently on the tapestry of what woman from Colophon, who dared to challenge Minerva to a weaving contest?"
+      answer: "ARACHNE"
+    boni:
+      - question: "Who was the father of Arachne, according to Ovid?"
+        answer: "IDMON"
+      - question: "Minerva’s tapestry in this weaving contest depicted the transformation of mortals who dared to challenge the gods.  Into what were Haemus and Rhodope transformed for daring to ascribe to themselves the names of the highest gods?"
+        answer: "MOUNTAINS"
+  - tossup:
+      question: "Give both the Latin noun and the Latin preposition that have combined to form the English noun which denotes a vessel which operates underwater, “submarine.”"
+      answer: "<latin>SUB</latin> AND <latin>MARE</latin>"
+    boni:
+      - question: "What two Latin nouns have combined to form the English noun “piedmont”?"
+        answer: "<latin>PĒS</latin> AND <latin>MŌNS</latin>"
+      - question: "What Latin noun and Latin verb have combined to form the English verb “participate”?"
+        answer: "<latin>PARS</latin> AND <latin>CAPIŌ/CAPERE</latin>"
+  - tossup:
+      question: "What port city, founded by Ancus Marcius, served as Rome's primary port on the Tyrrhenian Sea during the Republic?"
+      answer: "OSTIA ("
+    boni:
+      - question: "This visual shows the regions of Italy as defined by Augustus.  What two regions were joined together to create Augustus' region labelled with the Roman numeral 1?"
+        answer: "LATIUM AND CAMPANIA"
+      - question: "What was the name of the region labelled with the Roman numeral 11, a name which indicated its location with respect to a certain northern Italian river?"
+        answer: "TRANSPADANA"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice; then answer the question that follows in  \t\tENGLISH: \t<latin>Aurēlia multās fābulās dē nōtīs fēminīs audīverat. Ūna ex hīs fābulīs dē Cloeliā erat.  \tHaec virgō ex castrīs hostium effūgit et trāns flūmen nātāvit. Rēx hostium, propter  \tmagnam fortitūdinem virginis, eī equum dedit. Et Cloelia et Aurēlia equōs habuērunt.</latin>   (repeat) \tThe question: How did Aurelia learn about Cloelia?"
+      answer: "(SHE HAD HEARD MANY) STORIES / A STORY"
+    boni:
+      - question: "According to the passage, what one animal do both Cloelia and Aurelia have in common?"
+        answer: "HORSE(S)"
+      - question: "Why did the king of the enemies give a horse to Cloelia?"
+        answer: "BECAUSE OF (HER GREAT) \t\t\tCOURAGE"
+  - tossup:
+      question: "What woman was abducted twice, once by Theseus and the second time by Paris?"
+      answer: "HELEN"
+    boni:
+      - question: "What brothers of Helen rescued her from the first abduction?"
+        answer: "DIOSCURI / CASTOR and POLYDEUCES / POLLUX"
+      - question: "What king had asked Helen’s suitors to swear an oath to defend her marriage?"
+        answer: "TYNDAREUS"
+  - tossup:
+      question: "What Latin term describes the absolute power that a <latin>pater familiās</latin> had over his descendants?"
+      answer: "<latin>PATRIA POTESTĀS / PATRIA MĀIESTĀS / PATRIUM IŪS /  \t\t\tIMPERIUM PATERNUM</latin>"
+    boni:
+      - question: "What Latin term denotes the power a Roman husband had over his wife?"
+        answer: "<latin>MANUS</latin>"
+      - question: "What Latin term denotes the power the <latin>pater familiās</latin> had over his possessions?"
+        answer: "<latin>DOMINICA POTESTĀS</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Puella in īnsulā pulchrā manēre voluit</latin>."
+      answer: "THE GIRL WANTED TO STAY ON THE BEAUTIFUL ISLAND"
+    boni:
+      - question: "Translate this sentence: <latin>Trēs sorōrēs mātrī semper pārēbant, sed quarta soror mandāta neglegēbat</latin>."
+        answer: "THREE SISTERS ALWAYS OBEYED THEIR MOTHER, BUT THE FOURTH IGNORED HER INSTRUCTIONS"
+      - question: "Translate this sentence: <latin>Mea soror aliquem latentem post arborem lātam vīdit</latin>."
+        answer: "MY SISTER SAW SOMEONE HIDING BEHIND A WIDE TREE"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Change <latin>momordērunt</latin> to the passive form"
+      answer: "<latin>MORSĪ / -AE / -A SUNT</latin>"
+    boni:
+      - question: "Make <latin>morsī sunt</latin> imperfect"
+        answer: "<latin>MORDĒBANTUR</latin>"
+      - question: "Make <latin>mordēbantur</latin> subjunctive"
+        answer: "<latin>MORDĒRENTUR</latin>"
+  - tossup:
+      question: "<latin>Sī duo et duo sunt quattuor, et quattuor et quattuor sunt octo, quot sunt octo et octo?</latin>"
+      answer: "SĒDECIM"
+    boni:
+      - question: "<latin>Quot sunt ter decem?</latin>"
+        answer: "TRĪGINTĀ"
+      - question: "<latin>Quot sunt bis mīlle?</latin>"
+        answer: "DUO MĪLIA"
+  - tossup:
+      question: "Why was Odysseus' last remaining ship destroyed by a lightning bolt?"
+      answer: "ODYSSEUS' CREW ATE THE CATTLE OF THE SUN / HELIOS"
+    boni:
+      - question: "On what island did this take place?"
+        answer: "THRINACIA / SICILY"
+      - question: "Which of Odysseus' crew members convinced the crew to eat the cattle against Odysseus' explicit orders?"
+        answer: "EURYLOCHUS"
+  - tossup:
+      question: "Which of the following prepositions does not belong with the others? <latin>Infrā</latin>, <latin>circum</latin>, <latin>ob</latin>, <latin>praeter</latin>, <latin>causā</latin>"
+      answer: "<latin>CAUSĀ</latin>"
+    boni:
+      - question: "What other word is used in the same way as <latin>causā</latin>, often with the genitive of gerunds and gerundives?"
+        answer: "<latin>GRĀTIĀ</latin>"
+      - question: "Which of the following adjectives does not take the genitive case? <latin>Cupidus</latin>, <latin>studiōsus</latin>, <latin>inimīcus</latin>, <latin>avidus</latin>, <latin>plēnus</latin>"
+        answer: "INIMĪCUS"
+  - tossup:
+      question: "What unique characteristic identified a gladiator as a <latin>murmillō</latin>?"
+      answer: "HELMET CROWNED WITH THE IMAGE OF A FISH / FISH-SHAPED HELMET"
+    boni:
+      - question: "What did the Romans call gladiators who used two swords?"
+        answer: "<latin>DIMACHAERUS /-Ī</latin>"
+      - question: "What kind of gladiator would usually depart the arena via the <latin>Porta Libitīnēnsis</latin>?"
+        answer: "A DEAD ONE"
+  - tossup:
+      question: "What goddess' epithets include “Ergane” and “Promachus”?"
+      answer: "ATHENA"
+    boni:
+      - question: "Which of Athena’s physical attributes is described by the epithet “Glaukopis?"
+        answer: "HER (GREY) EYES / FLASHING"
+      - question: "What characteristic of the same goddess is expressed by the epithet “Parthenos”?"
+        answer: "VIRGINITY / MAIDEN"
+  - tossup:
+      question: "“JCL is a wonderful organization, so I took Spanish”. What two-word Latin phrase can best be used to describe that nonsensical comment?"
+      answer: "<latin>NŌN SEQUITUR</latin>"
+    boni:
+      - question: "When someone has passed away and the bereaved hope that he no longer suffers, what three-word Latin phrase would be used on the tombstone?"
+        answer: "<latin>REQUIĒSCAT IN PĀCE</latin>"
+      - question: "This whole question is illegal, so don’t tell a soul. What two-word Latin phrase incorporating the name of a flower can best be used to describe that comment?"
+        answer: "<latin>SUB ROSĀ</latin>"
+  - tossup:
+      question: "For what son of Celeus did the disguised Demeter serve as a caretaker?"
+      answer: "DEMOPHOÖN"
+    boni:
+      - question: "Who was Demophoön's mother, who caught Demeter roasting him in the fire?"
+        answer: "METANEIRA"
+      - question: "Whom had Demeter previously turned into a lizard for ridiculing her while she imbibed her barley beverage?"
+        answer: "ASCALABUS / STELLIO"
+  - tossup:
+      question: "By what man’s orders was the Alban king, Mettius Fufetius, drawn and quartered?"
+      answer: "TULLUS / HOSTILIUS / TULLUS HOSTILIUS"
+    boni:
+      - question: "What three Roman brothers fought in a duel with three Alban brothers during the reign of Tullus to determine a winner in the war between Rome and Alba Longa?"
+        answer: "<latin>HORATII</latin> / HORATIANS"
+      - question: "How did Tullus Hostilius die?"
+        answer: "IN A FIRE (HIS HOUSE WAS STRUCK BY LIGHTNING AND BURNED DOWN WITH HIM INSIDE)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Erat ōlim in Italiā mōnstrum horrendum nōmine Cācus quī oculōs saevōs habēbat et flammās exspīrābat. Per agrōs saepe errābat et fīnitimōs crūdēliter vexābat.</latin> Question: <latin>Quālēs erant oculī huius mōnstrī?</latin>"
+      answer: "SAEVĪ"
+    boni:
+      - question: "<latin>Ā quō fīnitimī crūdēliter vexābantur?</latin>"
+        answer: "(Ā) CĀCŌ"
+      - question: "<latin>Quae per ōs huius mōnstrī effluēbant?</latin>"
+        answer: "FLAMMAE"
+  - tossup:
+      question: "What use of the ablative case is found in the following sentence? <latin>Mīlitēs Rōmānī maximā virtūte erant</latin>"
+      answer: "DESCRIPTION / QUALITY"
+    boni:
+      - question: "<latin>Maximā cum virtūte pugnābant hī mīlitēs</latin>"
+        answer: "MANNER"
+      - question: "<latin>Virtūte valdē meliōrēs fuērunt mīlitēs Rōmānī</latin>"
+        answer: "RESPECT / SPECIFICATION"
+  - tossup:
+      question: "Who, to escape his murderous step-mother, was carried from Orchomenos to Aea on the back of a golden ram?"
+      answer: "PHRIXUS"
+    boni:
+      - question: "Who later rescued Phrixus’ shipwrecked sons from the island of Ares?"
+        answer: "ARGONAUTS / JASON"
+      - question: "The eldest son was named Argus. How does another Argus figure into Jason’s quest for the Golden Fleece?"
+        answer: "THE BUILDER OF THE SHIP"
+  - tossup:
+      question: "Give all the principal parts of the Latin verb meaning “lose” that is a compound of a Latin verb meaning “send.”"
+      answer: "<latin>ĀMITTŌ, ĀMITTERE, ĀMĪSĪ, ĀMISSUS</latin> /-<latin>UM</latin> or <latin>DĪMITTŌ, DĪMITTERE, DĪMĪSĪ, DĪMISSUS</latin> /-<latin>UM</latin>"
+    boni:
+      - question: "What compound of <latin>dō</latin>, <latin>dare</latin> is a synonym of <latin>amittō</latin>"
+        answer: "<latin>PERDŌ</latin>"
+      - question: "What compound of <latin>mittō</latin> is commonly used with indirect commands?"
+        answer: "<latin>PERMITTŌ</latin>"
+  - tossup:
+      question: "Let's go on a trip from Rome to Byzantium. What road will we take from Rome to Brundisium to catch the boat?"
+      answer: "VIA APPIA"
+    boni:
+      - question: "The boat will likely take us to what Greek Adriatic port?"
+        answer: "DYRRACHIUM"
+      - question: "What road, built in 130 BC, will take us straight across northern Greece to Byzantium?"
+        answer: "VIA EGNATIA"
+  - tossup:
+      question: "Translate into English: <latin>Exīstimāmus hoc theātrum pulcherrimum esse</latin>"
+      answer: "WE THINK THAT THIS THEATER IS VERY BEAUTIFUL"
+    boni:
+      - question: "You are looking at an inscription that was originally located on the front of a theater stage in the villa of the Volusi Saturnini. What use of the ablative case is found in this inscription?"
+        answer: "CAUSE"
+      - question: "Three verb forms are found in this inscription. Give the first principal parts for those three verbs"
+        answer: "<latin>CORRUMPŌ</latin>, <latin>RESTITUŌ</latin>, <latin>EXCOLŌ</latin>"
+  - tossup:
+      question: "At what battle did the dissension of Maximus and Caepio lead to a disastrous Roman defeat at the hands of the Cimbri?"
+      answer: "ARAUSIO / ORANGE"
+    boni:
+      - question: "Name another tribe allied with the Cimbri at Arausio"
+        answer: "TEUTONES/TIGURINI"
+      - question: "Who took the disaster of Arausio as an opportunity to swoop in as savior of Rome?"
+        answer: "(GAIUS) MARIUS"
+  - tossup:
+      question: "What Latin impersonal verb means “be tired of”?"
+      answer: "(<latin>PER)TAEDET / (PER)TAEDĒRE / (PER)TAESUM EST</latin>"
+    boni:
+      - question: "“be embarrassed”?"
+        answer: "<latin>PUDET / PUDĒRE</latin>"
+      - question: "Using an impersonal verb, say in Latin, “We are not permitted to fight.”"
+        answer: "<latin>NŌBĪS PUGNĀRE NŌN LICET</latin> or <latin>NŌN LICET NŌS PUGNĀRE</latin> or <latin>NŌN LICET UT PUGNĒMUS</latin>"
+  - tossup:
+      question: "The UC-Davis campus has many locations with names that ultimately derive from Latin. One such place is the Arboretum. From what Latin noun with what meaning does Arboretum derive?"
+      answer: "<latin>ARBOR</latin> – TREE"
+    boni:
+      - question: "Another such place is the Aggie Village. From what two Latin nouns with what meanings does this location derive its name?"
+        answer: "<latin>AGER</latin> – FIELD, PLAIN <latin>VĪLLA</latin> – (FARM)HOUSE, VILLA"
+      - question: "Environmentalism and agricultural technologies are also part of the studies and research performed in UC-Davis’ viticulture department. From what Latin noun with what meaning does “viticulture” derive?"
+        answer: "<latin>VĪTIS</latin> – (GRAPE)VINE / (GRAPE/VINE)BRANCH"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē: Quod praemium Neptūnī Herculēs ab īnsulā Crētā rapuit?</latin>"
+      answer: "TAURUM (ALBUM / CRĒTICUM) or (WHITE / CRETAN) BULL"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Postquam Herculēs taurum in Atticā relīquit, quis taurum cēpit apud Marathōnem?</latin>"
+        answer: "THĒSEUS / THESEUS"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Taurus Crēticus, quem et Herculēs et Theseus cēpit, erat pater cuius mōnstrī?</latin>"
+        answer: "MĪNŌTAURĪ (If Latin given, it must be in the gen. case) / (OF THE) MINOTAUR"
+  - tossup:
+      question: "What emperor celebrated a double triumph in Rome for victories over the Dacians and Chatti in 89 AD?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "What commander in Upper Germany rebelled against Domitian in the same year?"
+        answer: "(LUCIUS ANTONIUS) SATURNINUS"
+      - question: "What natural event prevented Saturninus' German allies from joining him and doubling the severity of the revolt?"
+        answer: "THE RHINE THAWED (PREVENTING THE GERMANS FROM CROSSING OVER THE ICE)  <latin>2009 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

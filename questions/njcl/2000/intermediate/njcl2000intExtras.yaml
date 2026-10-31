@@ -1,0 +1,197 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Translate: <latin>eīs moriendum est</latin>"
+      answer: "THEY MUST/SHOULD DIE"
+    boni:
+      - question: "Translate: <latin>tibī cēna edenda est</latin>"
+        answer: "YOU MUST/SHOULD EAT DINNER"
+      - question: "Translate: <latin>sciō hanc epistulam mihi scrībendam esse.</latin>"
+        answer: "I KNOW THAT I MUST/SHOULD WRITE THIS LETTER"
+  - tossup:
+      question: "What derivative of the Latin verb for “run” means “one who runs with messages?”"
+      answer: "COURIER"
+    boni:
+      - question: "“a short journey?”"
+        answer: "EXCURSION"
+      - question: "turning to someone or something for help?”"
+        answer: "RECOURSE"
+  - tossup:
+      question: "From what Latin noun are the English words “pawn” and “quadruped” derived?"
+      answer: "<latin>PĒS, PEDIS</latin>"
+    boni:
+      - question: "From what Latin noun are the words “style” and “stylish” derived?"
+        answer: "<latin>STĪLUS, -Ī</latin>"
+      - question: "From what Latin noun are the words “bill” and “bullet” derived?"
+        answer: "<latin>BULLA, -AE</latin>"
+  - tossup:
+      question: "Etymologically speaking, what are you afraid of if you are suffering from “phobophobia”?"
+      answer: "FEAR ITSELF"
+    boni:
+      - question: "Etymologically speaking, what are you afraid of if you are suffering from “nyctophobia”?"
+        answer: "NIGHT"
+      - question: "Etymologically speaking, what are you afraid of if you are suffering from “thanatophobia”?"
+        answer: "DEATH"
+  - tossup:
+      question: "For what Latin adverb is <latin>sc.</latin> the abbreviation?"
+      answer: "<latin>SCILICET</latin>"
+    boni:
+      - question: "For what Latin verb is <latin>sc.</latin> the abbreviation?"
+        answer: "<latin>SCULPSIT</latin>"
+      - question: "What do <latin>scilicet</latin> and <latin>sculpsit</latin> mean, respectively?"
+        answer: "OBVIOUSLY / HE CARVED"
+  - tossup:
+      question: "Listen carefully to the following Latin sentences, which I will read twice, and answer in ENGLISH the question about them: <latin>Exercitus Rōmānus ūniversus cōnstat et legiōnibus duodētrīgintā, quae in dēnās cohortēs dīviduntur. Signum legiōnis est aquila argentea.</latin>  According to the sentences, how many legions comprised the Roman army?"
+      answer: "TWENTY-EIGHT"
+    boni:
+      - question: "According to the passage, how was the legion divided?"
+        answer: "INTO <emphasis>TWO</emphasis> COHORTS EACH"
+      - question: "Again, according to the passage, what is the standard of the legion?"
+        answer: "<emphasis>SILVER</emphasis> EAGLE"
+  - tossup:
+      question: "For the verb <latin>flectere</latin>, give the 2nd person, plural, present, passive, subjunctive"
+      answer: "<latin>FLECTĀMINĪ</latin>"
+    boni:
+      - question: "Change <latin>flectāminī</latin> to the imperfect"
+        answer: "<latin>FLECTERĒMINĪ</latin>"
+      - question: "Change <latin>flectrēminī</latin> to the pluperfect active"
+        answer: "<latin>FLEXISSĒTIS</latin>"
+  - tossup:
+      question: "Make the adjective <latin>longus</latin> agree with the noun form <latin>itinerum</latin>"
+      answer: "<latin>LONGŌRUM</latin>"
+    boni:
+      - question: "Change <latin>itinerum longōrum</latin> to the accusative"
+        answer: "<latin>ITINERA LONGA</latin>"
+      - question: "Change <latin>itinera longa</latin> to the singular"
+        answer: "<latin>ITER LONGUM</latin>"
+  - tossup:
+      question: "What use of the ablative can be found in the following sentence: <latin>rēī pūblicae causā omnia haec facienda sunt</latin>?"
+      answer: "CAUSE"
+    boni:
+      - question: "What use of the ablative can be found in the following sentence: <latin>sum lībera cūrīs</latin>?"
+        answer: "SEPARATION"
+      - question: "What use of the ablative can be found in the following sentence: <latin>summā celeritāte vēnit</latin>?"
+        answer: "MANNER"
+  - tossup:
+      question: "What tense of the infinitive would be required to translate “run” into Latin for this sentence: I knew that Julia was running around the pool?"
+      answer: "PRESENT"
+    boni:
+      - question: ": I knew that Julia had run around the pool?"
+        answer: "PERFECT"
+      - question: ": I know that Julia was running around the pool?"
+        answer: "PERFECT"
+  - tossup:
+      question: "Give the two Latin roots and their meanings from which we get “magnanimous.”"
+      answer: "<latin>MAGNUS</latin> - LARGE, GREAT & <latin>ANIMUS</latin> - SOUL, SPIRIT"
+    boni:
+      - question: "Give the two Latin roots and their meanings from which we get “ambidextrous.”"
+        answer: "<latin>AMBO</latin> - BOTH & <latin>DEXTER</latin> - RIGHT, ON THE RIGHT SIDE"
+      - question: "Give the two Latin roots and their meanings from which we get “sacrilege.”"
+        answer: "<latin>SACER</latin> - HOLY, SACRED & <latin>LEGO, LEGERE</latin> - GATHER, READ, CHOOSE"
+  - tossup:
+      question: "At what ceremony did the <latin>dextrārum iunctiō</latin> occur?"
+      answer: "MARRIAGE"
+    boni:
+      - question: "What was the <latin>dextrārum iunctiō</latin>?"
+        answer: "JOINING OF RIGHT HANDS"
+      - question: "What is the Latin term for the matron who joined the right hands of the bride and groom?"
+        answer: "<latin>PRONUBA</latin>"
+  - tossup:
+      question: "At a Roman dinner party, who reclined in the <latin>locus cōnsulāris</latin>?"
+      answer: "GUEST OF HONOR"
+    boni:
+      - question: "On which of the three dining couches was the <latin>locus cōnsulāris</latin> located?"
+        answer: "<latin>LECTUS MEDIUS</latin>"
+      - question: "On which of the couches did the host recline?"
+        answer: "<latin>LECTUS ĪMUS</latin>"
+  - tossup:
+      question: "Who organized the coup which overthrew his cousin Tarquinius Superbus and established the Roman Republic?"
+      answer: "(LUCIUS JUNIUS) BRUTUS"
+    boni:
+      - question: "Who was selected in 509 BC with Brutus as the first consuls?"
+        answer: "(TARQUINIUS) COLLATINUS"
+      - question: "Why did Brutus execute his own sons?"
+        answer: "PLOTTED TO REINSTATE TARQUIN"
+  - tossup:
+      question: "Who served as Rome’s first plebeian consul in 366 B.C.?"
+      answer: "(L.) SEXTIUS (SEXTINUS LATERANUS)"
+    boni:
+      - question: "With whom had served Sextius served as <latin>tribunus plebis</latin> and secured legislation allowing one of the consulships to be a plebeian?"
+        answer: "(C.) LICINIUS (STOLO)"
+      - question: "How many years of struggle did it take these two tribunes to secure their legislation?"
+        answer: "TEN"
+  - tossup:
+      question: "Who appointed L. Valerius Flaccus as consul to replace Marius in 86 B.C.?"
+      answer: "(L. CORNELIUS) CINNA"
+    boni:
+      - question: "Whom did Cinna appoint as his fellow consul in 85 and 84 B.C.?"
+        answer: "(CN. PAPIRIUS) CARBO"
+      - question: "What fate befell Cinna as he prepared for the return of Sulla from the East?"
+        answer: "KILLED BY MUTINOUS SOLDIERS"
+  - tossup:
+      question: "What native of the province of Baetica became emperor in A.D. 98?"
+      answer: "(MARCUS ULPIUS) TRAIANUS - TRAJAN"
+    boni:
+      - question: "What earlier emperor had given Latin rights to all the Spanish provinces?"
+        answer: "VESPASIAN"
+      - question: "What group of barbarians took over Spain in the 5th century A.D.?"
+        answer: "VISIGOTHS"
+  - tossup:
+      question: "Name the members of the imperial family who was involved in a conspiracy to assassinate Commodus in A.D. 182"
+      answer: "LUCILLA (HIS SISTER)"
+    boni:
+      - question: "After this plot, Commodus began a reign of terror under the influence of what Praetorian Prefect?"
+        answer: "PERENNIS"
+      - question: "In A.D. 185 Perennis was executed. Who replaced him as prefect?"
+        answer: "CLEANDER"
+  - tossup:
+      question: "In what modern country would you find Mt. Parnassus?"
+      answer: "GREECE"
+    boni:
+      - question: "In what modern country would you find Mt. Ida?"
+        answer: "CRETE"
+      - question: "or TURKEY In what modern country would you find Mt. Graupius?"
+        answer: "SCOTLAND/UK/GREAT BRITAIN"
+  - tossup:
+      question: "What Phaeacian queen received Odysseus hospitably?"
+      answer: "ARETE"
+    boni:
+      - question: "On what island was Arete queen?"
+        answer: "SCHERIA"
+      - question: "With what modern island do we associate Scheria?"
+        answer: "CORFU"
+  - tossup:
+      question: "According to Hesiod, who is the youngest son of Cronus and Rhea?"
+      answer: "ZEUS"
+    boni:
+      - question: "According to Apollodorus, on what mountain on Crete did Rhea hid the baby Zeus?"
+        answer: "MT. DICTE"
+      - question: "Who prevented Cronus from discovering the baby Zeus by dancing around the baby and clashing their spears and shields?"
+        answer: "CURETES"
+  - tossup:
+      question: "What Lesbian princess was transformed into an owl after she was raped?"
+      answer: "NYCTIMENE"
+    boni:
+      - question: "Who had raped Nyctimene?"
+        answer: "EPOPEUS (HER FATHER)"
+      - question: "Who took pity on Nyctimene and transformed her into an owl?"
+        answer: "ATHENA / MINERVA"
+  - tossup:
+      question: "According to Homer, Clymene and Aethra were the handmaidens of whom?"
+      answer: "HELEN"
+    boni:
+      - question: "Where did Helen go to see the deul between Paris and Menelaus?"
+        answer: "SCAEAN GATE"
+      - question: "Who called upon Helen to name the various heroes of the Greeks?"
+        answer: "PRIAM / PODARCES"
+  - tossup:
+      question: "Who incurred the wrath of Venus because of her beauty?"
+      answer: "PSYCHE"
+    boni:
+      - question: "Who fell in love with Psyche and married her?"
+        answer: "CUPID"
+      - question: "Who was the daughter of Cupid and Psyche?"
+        answer: "VOLUPTA(S)"

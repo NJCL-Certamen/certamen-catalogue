@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2013
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who interrupted the wedding of Perseus and Andromeda to claim the bride as his own?"
+      answer: "PHINEUS"
+    boni:
+      - question: "How were Phineus and Andromeda related by blood?"
+        answer: "HE WAS HER (PATERNAL) UNCLE"
+      - question: "What was Phineus’ fate?"
+        answer: "TURNED TO STONE (BY MEDUSA’S HEAD)"
+  - tossup:
+      question: "Using a dative of possession, say in Latin, “I have a black horse.”"
+      answer: "<latin>MIHI EST ĀTER / NIGER EQUUS</latin> / <latin>EQUA / CABALLUS</latin> "
+    boni:
+      - question: "Using a dative of possession, say in Latin, “You have an insane brother.”"
+        answer: "<latin>TIBI / VŌBĪS EST FRĀTER ĪNSĀNUS / DĒMĒNS</latin> "
+      - question: "Using a dative of possession, say in Latin, “We will have victory today.”"
+        answer: "<latin>HODIĒ / HŌC DIĒ NŌBĪS ERIT VICTŌRIA</latin> "
+  - tossup:
+      question: "What commander of the emperor Numerian’s bodyguard rose to the rank of emperor and pioneered a system of joint government of the empire often called “the Tetrarchy?”"
+      answer: "(C. AURELIUS VALERIUS) DIOCLETIAN"
+    boni:
+      - question: "Whom did Diocletian take on as his co-emperor?"
+        answer: "MAXIMIAN"
+      - question: "In the tetrarchy, there were two senior rulers, one for each half of the Empire, called <latin>Augustī</latin>. What were the two junior rulers called?"
+        answer: "<latin>CAESARĒS</latin> / CAESARS"
+  - tossup:
+      question: "Which of the following Latin nouns, if any, does not belong because of <emphasis>gender</emphasis>: <latin>cor</latin>, <latin>collum</latin>, <latin>ōs</latin>, <latin>pēs</latin>, <latin>genū</latin>?"
+      answer: "<latin>PĒS</latin> "
+    boni:
+      - question: "Which of the following Latin nouns, if any, does not belong because of <latin>declension</latin>: <latin>virgō</latin>, <latin>nāvis</latin>, <latin>rēs</latin>, <latin>rēx</latin>, <latin>mīles</latin>?"
+        answer: "<latin>RĒS</latin> "
+      - question: "Which of the following Latin noun forms, if any, does not belong because of <emphasis>case</emphasis>: <latin>vīllās</latin>, <latin>deās</latin>, <latin>lībertās</latin>, <latin>arēnās</latin>, <latin>flammās</latin>?"
+        answer: "<latin>LĪBERTĀS</latin> "
+  - tossup:
+      question: "<latin>Quae fēmina arma prope sē nōn cupiēbat?</latin> "
+      answer: "<latin>PAULA</latin>"
+    boni:
+      - question: "<latin>Quō fēminae ambulābant?</latin>"
+        answer: "<latin>DOMUM</latin>"
+      - question: "<latin>Dīc mihi Ānglicē ūnō verbō quid et “arma” et “bracchia” significāre possint.</latin>"
+        answer: "ARMS"
+  - tossup:
+      question: "At what battle did a young Cato the Elder find a hidden pass that allowed the Romans to surround and defeat the forces of Antiochus the Great in 191 B.C. in a similar manner to the Persian defeat of the Greeks at that same site?"
+      answer: "THERMOPYLAE"
+    boni:
+      - question: "At what battle in Asia the following year did the Romans bring the war against Antiochus to an end?"
+        answer: "MAGNESIA"
+      - question: "What other enemy of Rome had taken refuge at the court of Antiochus and served him in a minor way during the war?"
+        answer: "HANNIBAL"
+  - tossup:
+      question: "Who abducted Chrysippus, was the son of Labdacus, and was killed by his own son, who did not know at the time that he was killing his father and bringing down a plague on Thebes?"
+      answer: "LAIUS"
+    boni:
+      - question: "Who was Laius’ wife who also ended up being his daughter-in-law, albeit posthumously?"
+        answer: "JOCASTA / EPICASTA"
+      - question: "Oedipus later married his mother and fathered four children with her. Name them"
+        answer: "ETEOCLES / POLYN(E)ICES / ANTIGONE / ISMENE"
+  - tossup:
+      question: "Give in Latin the accusative singular for the phrase “bright sun.”"
+      answer: "<latin>CANDIDUM / CLĀRUM SŌLEM</latin>"
+    boni:
+      - question: "Give in Latin the nominative plural for the phrase “similar dreams.”"
+        answer: "<latin>SIMILIA SOMNIA</latin>"
+      - question: "Give in Latin the dative singular for the phrase “empty republic.”"
+        answer: "<latin>INĀNĪ / VACUAE REĪ PŪBLICAE</latin> "
+  - tossup:
+      question: "Give the Latin term for the meal, often consisting of only bread and cheese, that is most analogous to our modern-day breakfast"
+      answer: "<latin>IENTĀCULUM</latin> "
+    boni:
+      - question: "What was the Latin term for a light supper often eaten only in the country that was lighter than a normal <latin>cēna</latin>?"
+        answer: "<latin>VESPERNA</latin> "
+      - question: "What was a <latin>merenda</latin>?"
+        answer: "AN (AFTERNOON) SNACK"
+  - tossup:
+      question: "Identify the case of each of the following words: <latin>ūnīus</latin>, <latin>tōtīus</latin>, <latin>illīus</latin>, <latin>cuius</latin>, <latin>huius</latin>"
+      answer: "GENITIVE"
+    boni:
+      - question: "Give the dative singular forms of those five words: <latin>ūnīus</latin>, <latin>tōtīus</latin>, <latin>illīus</latin>, <latin>cuius</latin>, <latin>huius</latin>"
+        answer: "<latin>ŪNĪ, TŌTĪ, ILLĪ, CUI, HUIC</latin> "
+      - question: "Name another adjective and its antonym, both of which form their genitive and dative singular using the same pattern. "
+        answer: "<latin>NŪLLUS / ŪLLUS</latin> OR <latin>NEUTER / UTER</latin> "
+  - tossup:
+      question: "In the first book of the <title>Iliad</title>, whose beard does the priest Chryses grab as he begs for the return of his daughter?"
+      answer: "AGAMEMNON’S"
+    boni:
+      - question: "Whose beard does Thetis grab later in Book 1 to beg for Trojan success so long as Achilles stays out of the battle?"
+        answer: "ZEUS’"
+      - question: "In the final book of the <title>Iliad</title>, who grabs Achilles’ knees to beg for the body of his son?"
+        answer: "PRIAM"
+  - tossup:
+      question: "When should you take medication marked with the abbreviation “<latin>p.c.</latin>”?"
+      answer: "AFTER MEALS / AFTER DINNER"
+    boni:
+      - question: "What Latin abbreviation indicates that a medication should be taken four times a day?"
+        answer: "<latin>Q.I.D. (QUATER IN DIĒ)</latin>"
+      - question: "What Latin abbreviation indicates that a medication should be taken at bedtime?"
+        answer: "<latin>H.S. (HŌRĀ SOMNĪ)</latin> "
+  - tossup:
+      question: "Which of the following words, if any, is not derived from the same Latin root as the others: fraction, intact, tangent, tax, contiguous?"
+      answer: "FRACTION"
+    boni:
+      - question: "From what Latin verb with what meaning do we derive fraction?"
+        answer: "<latin>FRANGŌ</latin> – TO BREAK"
+      - question: "From what Latin verb with what meaning do we derive intact, tangent, tax, and contiguous?"
+        answer: "<latin>TANGŌ</latin> – TO TOUCH"
+  - tossup:
+      question: "Which Roman emperor tried to bring his Judaean lover Berenice to Rome with him when he ascended the throne in 79 A.D. only to find out that the Roman people were outraged that their emperor was consorting with a foreigner?"
+      answer: "TITUS (FLAVIUS VESPASIANUS)  "
+    boni:
+      - question: "You are looking at the three triumphal arches still standing today in Rome. Identify by name AND letter the arch that shows the evidence of its erector’s son having submitted his brother’s legacy to <latin>damnatiō memoriae</latin>"
+        answer: "B – THE ARCH OF SEPTIMIUS SEVERUS"
+      - question: "Identify by name AND letter the arch that shows the Menorah and other Jewish treasures being paraded through Rome"
+        answer: "A – THE ARCH OF TITUS"
+  - tossup:
+      question: "Translate the following sentence: <latin>Barbarī cum Rōmānīs prope pontem pugnāverint</latin>"
+      answer: "THE BARBARIANS WILL HAVE FOUGHT WITH THE ROMANS NEAR THE BRIDGE."
+    boni:
+      - question: "Translate this sentence: <latin>Propter altiōrēs mūrōs proelium vincēmus</latin>"
+        answer: "WE WILL WIN THE BATTLE BECAUSE OF THE / OUR HIGHER / RATHER HIGH WALLS"
+      - question: "Now translate this sentence: <latin>Hostium equitēs intrā urbis portās impetum fēcerant</latin>"
+        answer: "THE HORSEMEN / CAVALRY OF THE ENEMIES / ENEMY HAD MADE AN ATTACK WITHIN THE GATES OF THE CITY."
+  - tossup:
+      question: "What son of Antion and Perimela achieved perpetual motion in the Underworld when he was strapped to a flaming wheel?"
+      answer: "IXION"
+    boni:
+      - question: "Ixion’s attempt to rape which goddess led to his punishment?"
+        answer: "HERA"
+      - question: "What cloud doppelganger of Hera did Zeus send to Ixion, anticipating his intentions?"
+        answer: "NEPHELE"
+  - tossup:
+      question: "Give an antonym for the Latin word <latin>numquam</latin>"
+      answer: "<latin>SEMPER</latin> / <latin>COTĪDIĒ</latin> / <latin>UMQUAM</latin>"
+    boni:
+      - question: "What is the meaning of the Latin adverb <latin>clam</latin>?"
+        answer: "SECRETLY"
+      - question: "Give an antonym for the Latin word <latin>noctū</latin>, an adverb meaning “at night.”"
+        answer: "<latin>MĀNE</latin>"
+  - tossup:
+      question: "Which Roman king oversaw the addition of the Janiculum hill into the city, the building of the Mamertine prison, and the construction of the <latin>Pōns Sublicius</latin>?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "Ancus was also the first to extend Rome’s influence to the sea, establishing a port at what site?"
+        answer: "OSTIA"
+      - question: "Ancus, when he declared war on the Latins, was the first to do so using the rituals of what priesthood?"
+        answer: "<latin>FĒTIĀLĒS</latin>"
+  - tossup:
+      question: "<latin>Respondē Latīnē</latin>: Quot <latin>mēnsēs in ūnō annō</latin> sunt?"
+      answer: "DUODECIM"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quī mēnsis prō Mercuriī mātre appellātur?</latin>"
+        answer: "MAY / <latin>MAIA</latin> "
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quī mēnsēs prō prīmī imperātōris Rōmānī familiā appellantur?</latin>"
+        answer: "JULY & AUGUST / <latin>IŪLIUS ET AUGUSTUS</latin> / <latin>IŪLIUS AUGUSTUSQUE</latin> "
+  - tossup:
+      question: "Where did a goddess, neglected by the region’s king, send a fierce boar which ravaged the countryside until a band of heroes hunted it down?"
+      answer: "CALYDON / CALYDONIA / AETOLIA"
+    boni:
+      - question: "What king of Calydon had forgotten to include Artemis in his sacrifices?"
+        answer: "OENEUS"
+      - question: "Who killed the Calydonian Boar?"
+        answer: "MELEAGER <latin>2013 NJCL CERTAMEN NOVICE DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What type of marine animals did Proteus herd?"
+      answer: "SEALS"
+    boni:
+      - question: "Who captured Proteus in order to find out how to return home?"
+        answer: "MENELAUS"
+      - question: "What sea-nymph instructed Menelaus on how to capture and question Proteus?"
+        answer: "(E)IDOTHEA"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “refute,” “confound,” “profuse,” and “refund?”"
+      answer: "<latin>FUNDŌ, FUNDERE</latin> - POUR"
+    boni:
+      - question: "What English derivative of <latin>fundō, fundere</latin> means “to melt together?”"
+        answer: "FUSE"
+      - question: "What English derivative of <latin>fundō, fundere</latin> means “excessive or gushy?”"
+        answer: "EFFUSIVE"
+  - tossup:
+      question: "What Roman author speaks of Naples as a beloved place of retirement and literary activity in his <title>Georgics</title>?"
+      answer: "(P.) VERGIL(IUS MARO)"
+    boni:
+      - question: "The influence of what literary patron is evident in Vergil’s <title>Georgics</title>?"
+        answer: "MAECENAS"
+      - question: "Whose celebration of a triple triumph coincided with the publication of Vergil’s <title>Georgics</title>?"
+        answer: "OCTAVIAN’S / AUGUSTUS’"
+  - tossup:
+      question: "Complete this analogy: <latin>pōnō</latin> <latin>: posuisset :: sequor : _____</latin>"
+      answer: "<latin>SECŪTUS (-A, -UM) ESSET</latin>"
+    boni:
+      - question: ". . . : <latin>pōnō</latin> <latin>: posuissēs :: gaudeō</latin> <latin>: _____</latin>"
+        answer: "<latin>GAVĪSUS (-A, UM) ESSĒS</latin>"
+      - question: ". . . : <latin>pōnō</latin> <latin>: pōnātur :: faciō</latin> <latin>: _____</latin>"
+        answer: "<latin>FIAT</latin>"
+  - tossup:
+      question: "What governor of Upper Germany induced the Chatti to invade Roman territory in AD 89?"
+      answer: "(L. ANTONIUS) SATURNINUS"
+    boni:
+      - question: "What future emperor was commanded by Domitian to bring up a legion from Spain to help suppress the rebellion of Saturninus?"
+        answer: "TRAJAN"
+      - question: "The rebellion of Saturninus interrupted Domitian’s conquest of what foreign country?"
+        answer: "DACIA"
+  - tossup:
+      question: "The soul of what Thracian can be seen dressed in a long white robe in the Elysian Fields singing to other Blessed Ones?"
+      answer: "ORPHEUS"
+    boni:
+      - question: "According to the usual tradition, what group of women killed Orpheus by tearing him limb from limb?"
+        answer: "MAENADS / BACCHAE / BACCHANTES / THRACIAN WOMEN"
+      - question: "What happened to Orpheus’ lyre upon his death?"
+        answer: "IT BECAME A CONSTELLATION"
+  - tossup:
+      question: "According to tradition, which king of Rome, other than possibly Romulus, was the first to be assassinated?"
+      answer: "TARQUIN THE FIRST/ TARQUINIUS PRISCUS"
+    boni:
+      - question: "Who was responsible for that murder?"
+        answer: "(ASSASSINS HIRED BY) THE SONS OF ANCUS MARCIUS"
+      - question: "Who helped two Roman kings ascend to power by favorably interpreting portents?"
+        answer: "TANAQUIL"
+  - tossup:
+      question: "Of <latin>ictus, obses, lītus, liquāmen, hērēs</latin>, which is being described in the following Latin sentence: <latin>victōre Caesare, multī</latin> <latin>hōrum hominum ab hostibus datī</latin> <latin>sunt</latin>"
+      answer: "OBSES"
+    boni:
+      - question: ". . . <latin>Multī</latin> <latin>Rōmānī</latin> <latin>eō</latin> <latin>fruēbantur cum ederent</latin>"
+        answer: "LIQUĀMEN"
+      - question: ". . . <latin>Sī</latin> <latin>fīlium aut fīliam nōn habeās, ūnō</latin> <latin>ex hīs careās</latin>"
+        answer: "HĒRĒS"
+  - tossup:
+      question: "Whose constant reading, note-taking, and indexing resulted in a work entitled <title><latin>Historia Natūrālis</latin></title>?"
+      answer: "(C.) PLINIUS SECUNDUS / PLINY THE ELDER"
+    boni:
+      - question: "To what emperor did Pliny the Elder present his monumental <title><latin>Historia Natūrālis</latin></title>?"
+        answer: "TITUS"
+      - question: "Whose correspondence to the historian Tacitus gives us a detailed account of the unusual circumstances in which Pliny the Elder died?"
+        answer: "PLINY THE YOUNGER / (C.) PLINIUS CAECILIUS SECUNDUS"
+  - tossup:
+      question: "What use of the ablative case is found in the following Latin sentence: <latin>Nōs oportet dēlictō</latin> <latin>dolēre ac corrēctiōne gaudēre</latin>"
+      answer: "CAUSE"
+    boni:
+      - question: "<latin>imperātor exercitum subsequēbātur omnibus cōpiīs.</latin>"
+        answer: "ACCOMPANIMENT / MEANS"
+      - question: "<latin>līberāmur mortis met</latin><latin>ū</latin>"
+        answer: "SEPARATION"
+  - tossup:
+      question: "Listen carefully to the following Latin passage about the poet Vergil, which I will read twice, and answer in LATIN the question that follows: <latin>Vergilius fuit grandī</latin> <latin>corpore et faciē</latin> <latin>rūsticānā, sed valētūdine variā.</latin>  <latin>Nam plērumque ab stomachō, et faucibus, et dolōre capitis labōrābat. Quod mīrum est, quamquam multa verba dē</latin> <latin>cīvitāte Rōmānā</latin> <latin>compōsuit, rārissimē</latin> <latin>Rōmam vēnit.</latin>  <latin>Dē</latin> <latin>quā</latin> <latin>rē</latin> <latin>scrīpsit Vergilius multa verba?</latin>"
+      answer: "<latin>DĒ</latin> <latin>CĪVITĀTE RŌMĀNĀ</latin> <latin>/ DĒ</latin> <latin>RŌMĀ</latin>"
+    boni:
+      - question: "<latin>Vērum aut falsum: Vergilius erat pinguis nec habēbat corpus sānum</latin>"
+        answer: "VĒRUM"
+      - question: "Quid dē <latin>Vergiliō</latin> <latin>est mīrum?</latin>"
+        answer: "RĀRISSIMĒ <latin>RŌMAM VĒNIT</latin>"
+  - tossup:
+      question: "What Augustan author showed his reverence for the history of Rome when he described seven centuries worth of history in his <title><latin>Librī</latin></title> <title><latin>Ab Urbe Condit</latin></title>ā?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "Whose style of historical monographs did Livy reject with the publication of his <title><latin>Ab Urbe Condit</latin></title>ā?"
+        answer: "SALLUST’S"
+      - question: "How was Livy’s history distinguished from those of Sallust stylistically?"
+        answer: "HIS USE OF <emphasis>ANNALISTIC / YEAR BY YEAR STRUCTURES</emphasis>"
+  - tossup:
+      question: "During the Trojan War, who served as the squire of Achilles?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "What Lycian king did Patroclus kill?"
+        answer: "SARPEDON"
+      - question: "What Trojan wounded Patroclus before Hector killed him?"
+        answer: "EUPHORBUS"
+  - tossup:
+      question: "What was a Roman <latin>convīvium</latin>?"
+      answer: "BANQUET / FEAST / PARTY / “LIVING TOGETHER”"
+    boni:
+      - question: "Which of the places numbered 1-9 was reserved for the guest of honor?"
+        answer: "6"
+      - question: "Which place normally belonged to the host?"
+        answer: "7"
+  - tossup:
+      question: "Give the Latin motto and its meaning for the state of West Virginia"
+      answer: "<latin>MONTĀNĪ SEMPER LĪBERĪ</latin> - THE MOUNTAINEERS ARE ALWAYS FREE"
+    boni:
+      - question: "Give the Latin motto and its meaning for the state of Missouri"
+        answer: "<latin>SALŪS POPULĪ SUPRĒMA LĒX ESTŌ</latin> - LET THE WELFARE OF THE PEOPLE BE THE SUPREME LAW"
+      - question: "Give the Latin motto and its meaning for the state of Alabama"
+        answer: "<latin>AUDĒMUS IŪRA NOSTRA DĒFENDERE</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Coquō</latin> ā <latin>tē</latin> <latin>nōn crēdendum est</latin>"
+      answer: "YOU MUST NOT TRUST THE COOK"
+    boni:
+      - question: "Translate into English: <latin>Iuvenēs gaudium cēpērunt ē</latin> <latin>puellīs pulchrīs videndīs</latin>"
+        answer: "THE YOUNGMEN TOOK PLEASURE FROM SEEING THE PRETTY GIRLS"
+      - question: "Translate into English: <latin>Rōmā</latin> <latin>discessimus ad pulchrās fēminās inveniendās</latin>"
+        answer: "WE LEFT (FROM) ROME (IN ORDER) TO FIND PRETTY WOMEN"
+  - tossup:
+      question: "Who served as the consular colleague of Marius in 86 BC?"
+      answer: "(L. CORNELIUS) CINNA"
+    boni:
+      - question: "Whom did Cinna appoint as his co-consul in 85 and 84 BC?"
+        answer: "(CN. PAPIRIUS) CARBO"
+      - question: "Whom did Cinna appoint as <latin>consul suffectus</latin> to replace Marius after his sudden death in 86 BC?"
+        answer: "(L. VALERIUS) FLACCUS"
+  - tossup:
+      question: "What literary device can be seen in the following selection: <latin>paterīs lībāmus et aurō</latin>?"
+      answer: "HENDIADYS"
+    boni:
+      - question: "What literary device, other than alliteration, can be seen in the following selection: <latin>virginitās mīlle petīta procīs</latin>?"
+        answer: "HYPERBOLE"
+      - question: "What literary device, other than alliteration, can be seen in the following selection: <latin>fōrmaque nōn tacitī</latin> <latin>fūneris intus erat</latin>?"
+        answer: "LITOTES"
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, what creatures do Aeneas and his men encounter on the Strophades Islands?"
+      answer: "HARPIES"
+    boni:
+      - question: "According to Vergil, who was the queen of these Harpies?"
+        answer: "CELAENO"
+      - question: "Who had chased them from Thrace to the Strophades?"
+        answer: "ZETES & CALAIS / BOREADES"
+  - tossup:
+      question: "<latin>Quid Anglicē</latin> <latin>significat “reperi</latin><latin>ō?”</latin>"
+      answer: "(TO) FIND (OUT)"
+    boni:
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “praecipu</latin><latin>ē?”</latin>"
+        answer: "ESPECIALLY"
+      - question: "<latin>Quid Anglicē</latin> <latin>significat “octōgēn</latin><latin>ī?”</latin>"
+        answer: "EIGHTY AT A TIME / EIGHTY EACH"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What author born on July 12, 100 BC led an illustrious political and military life, the latter of which he documented in painstaking detail in his <title><latin>Commentāriī dē Bellō Gallicō</latin></title>?"
+      answer: "(C. JULIUS) CAESAR"
+    boni:
+      - question: "While there are eight books total in the <title><latin>Commentāriī dē Bellō Gallicō</latin></title>, Caesar only wrote the first seven. What lieutenant wrote the final book of his commentaries?"
+        answer: "(A.) HIRTIUS"
+      - question: "What work of Caesar covered his war against Pompey?"
+        answer: "<title>(</title><title><latin>COMMENTĀRIĪ</latin></title><title>)</title> <title><latin>DĒ BELLŌ CĪVĪLĪ / BELLUM CĪVĪLE</latin></title>"
+  - tossup:
+      question: "Using one word, say in Latin: “It’s getting late.”"
+      answer: "<latin>(AD)VESPERĀSCIT</latin>"
+    boni:
+      - question: "Now say in Latin using one word: “The dew will fall.”"
+        answer: "<latin>RŌRĀBIT</latin>"
+      - question: "Now say in Latin using two words: “It was raining for a rather long time.”"
+        answer: "<latin>DIŪTIUS PLUĒBAT</latin>"
+  - tossup:
+      question: "What son of Gaia and Tartarus terrorized the gods until he was buried under Mt. Aetna?"
+      answer: "TYPH(A)ON / TYPHOEUS"
+    boni:
+      - question: "After Typhon cut out Zeus’ sinews with a sickle, what two deities stole them back?"
+        answer: "HERMES AND AEGIPAN"
+      - question: "Typhon fathered a passel of other monsters with what snake lady?"
+        answer: "ECHIDNA"
+  - tossup:
+      question: "According to tradition, what two small groups fought a duel to determine the outcome of a war  \tbetween Rome and Alba Longa during the reign of Tullus Hostilius?"
+      answer: "HORĀTIĪ AND CŪRIĀTIĪ"
+    boni:
+      - question: "After the duel, what incited the one surviving Horatius to kill his sister?"
+        answer: "SHE <emphasis>WEPT FOR ONE OF THE CURIATII</emphasis> TO WHOM SHE HAD BEEN BETROTHED"
+      - question: "What was the name of the opposing ruler of Alba Longa?"
+        answer: "METTIUS FŪFETIUS"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā:   Nūllum est iam dictum quod nōn dictum sit prius.  Cuius modī est “dictum sit?”</latin>"
+      answer: "<latin>SUBIUNCTĪVĪ</latin>"
+    boni:
+      - question: "<latin>Cuius generis est “Nūllum?”</latin>"
+        answer: "<latin>NEUTRĪUS</latin>"
+      - question: "<latin>Quae pars ōrātiōnis est “prius”?</latin>"
+        answer: "<latin>ADVERBIUM</latin>"
+  - tossup:
+      question: "Perhaps notable for citing earlier writers verbatim and quoting liberally from various documents, what set of amusing imperial accounts aimed to collect and present material that realistically illustrated the lives of 12 men chronologically beginning with Julius Caesar?"
+      answer: "<title><latin>DĒ VĪTĀ CAESARUM</latin></title>"
+    boni:
+      - question: "To what praetorian prefect and patron did the Roman biographer Suetonius dedicate his <title><latin>Dē Vītā Caesarum</latin></title>?"
+        answer: "SEPTICIUS CLARUS"
+      - question: "As a biographer, Suetonius wrote not only about emperors, but also grammarians, philologists, and poets in what work subdivided by genres?"
+        answer: "<title><latin>DĒ VIRĪS ILLUSTRIBUS</latin></title>"
+  - tossup:
+      question: "What case is commonly used with the adjectives <latin>aptus, propitius,</latin> and <latin>amīcus</latin>?"
+      answer: "DATIVE"
+    boni:
+      - question: "<latin>Egēnus, plēnus,</latin> and <latin>imperītus</latin> are all adjectives that are often used with grammatical case?"
+        answer: "GENITIVE"
+      - question: "What verb is commonly used with the Genitive form <latin>rērum</latin> when meaning “to gain possession of things”?"
+        answer: "<latin>POTIOR / POTĪRĪ</latin>"
+  - tossup:
+      question: "What priest prayed to Apollo to send a plague upon the Greek soldiers at Troy because of his harsh treatment at the hands of Agamemnon?"
+      answer: "CHRYSES"
+    boni:
+      - question: "Who revealed to Agamemnon the cause of the plague and how he could stop it?"
+        answer: "CALCHAS"
+      - question: "What was required to stop the plague?"
+        answer: "(AGAMEMNON HAD TO) RETURN CHRYSEÏS (CHRYSES’ DAUGHTER)"
+  - tossup:
+      question: "Which emperor of Rome was said to be able to hit the neck of an ostrich at 50 paces, dressed up as  \tHercules, and participated in gladiatorial combat?"
+      answer: "COMMODUS"
+    boni:
+      - question: "Who was the praetorian prefect who participated in the conspiracy on Commodus’ life?"
+        answer: "(QUINTUS) AEMILIUS LAETUS"
+      - question: "On what month, day, and year did Commodus die?"
+        answer: "31 DECEMBER 192 AD"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Graecīs nōn ā nōbīs crēdendum est</latin>."
+      answer: "WE MUST NOT TRUST THE GREEKS"
+    boni:
+      - question: "Whom does the writer of the inscription want the reader to pray for?"
+        answer: "THE POPE / PONTIFEX MAXIMUS"
+      - question: "What is the tense and mood of <latin>sospitet</latin> in line 3?"
+        answer: "PRESENT SUBJUNCTIVE"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer the question that follows in ENGLISH. <latin>Imperātor ita apud suōs ōrātiōnem habuit: “vidētis, mīlitēs, quantae sint hostium cōpiae et quam inexpugnābilem locum teneant. Sī eōs statim adoriēmur, sine dubiō magnam clādem accipiēmus. Sīn autem illī, locō relictō, nōs aggrediantur, bonam spem victōriae habeāmus.</latin> Question: Name one of the two things of which, according to the commander, the soldiers should take notice?"
+      answer: "HOW LARGE / THE SIZE OF THE ENEMY (TROOPS)  \t\t\tor HOW IMPREGNABLE THE LOCATION THE ENEMY HOLD IS"
+    boni:
+      - question: "According to the commander, what will happen if they attack the enemy immediately?"
+        answer: "THEY WILL SUFFER A GREAT DEFEAT / THEY WILL LOSE"
+      - question: "According to the commander, what gives the soldiers the best chance of victory?"
+        answer: "WAIT FOR THE ENEMY TO ABANDON THEIR POSITION / ATTACK"
+  - tossup:
+      question: "Whose “savage indignation” provided entertainment for elite Romans and had a lasting effect on Renaissance and later satire, as his writings attack decadence, cheats and swindlers, legacy hunters, women, and nearly everyone in Roman society?"
+      answer: "(D. IUNIUS) JUVENAL(IS)"
+    boni:
+      - question: "What emperor did Juvenal offend in his satires, which led to his eventual banishment?"
+        answer: "DOMITIAN"
+      - question: "In what meter were Juvenal's satires written?"
+        answer: "DACTYLIC HEXAMETER"
+  - tossup:
+      question: "Differentiate in meaning between the nouns <latin>apis</latin> and <latin>lapis</latin>."
+      answer: "<latin>APIS</latin> – BEE; <latin>LAPIS</latin> – STONE, ROCK, GEM"
+    boni:
+      - question: "Differentiate in meaning between the noun <latin>umerus</latin> and the adjective <latin>ūmidus</latin>."
+        answer: "<latin>UMERUS</latin> – SHOULDER, UPPER ARM; <latin>ŪMIDUS</latin> - WET / MOIST"
+      - question: "Differentiate in meaning between the nouns <latin>fānum</latin> and <latin>faenum</latin>."
+        answer: "<latin>FĀNUM</latin> - TEMPLE / CONSECRATED PLACE / SANCTUARY; <latin>FAENUM</latin> - HAY"
+  - tossup:
+      question: "What deity was born on the island of Ortygia and shortly thereafter aided in the birth of Apollo, her twin brother?"
+      answer: "ARTEMIS / DIANA"
+    boni:
+      - question: "Who was the mother of Apollo and Artemis?"
+        answer: "LETO"
+      - question: "What monster did Hera cause to pursue Leto while she was passing through Delphi in search of a place to give birth?"
+        answer: "PYTHON"
+  - tossup:
+      question: "What tribune of the Praetorian Guard assassinated Caligula in 41 AD?"
+      answer: "(CASSIUS) CHAEREA"
+    boni:
+      - question: "What commander of the legions in the Upper Rhine had created a plot to assassinate Caligula two years earlier?"
+        answer: "(GNAEUS CORNELIUS) LENTULUS GAETULICUS"
+      - question: "The conspiracy involved elevation of what Roman to the throne in place of Caligula?"
+        answer: "(MARCUS) AEMILIUS LEPIDUS"
+  - tossup:
+      question: "Who flew past by his grandfather Atlas when traveling to Carthage in Book 4 of the <title>Aeneid</title>?"
+      answer: "MERCURY"
+    boni:
+      - question: "As Dido suffered in agony on her funeral pyre, whom does Juno send to shorten her painful death?"
+        answer: "IRIS"
+      - question: "Where does Aeneas next see Dido?"
+        answer: "IN THE UNDERWORLD"
+  - tossup:
+      question: "What English verb, derived from the Latin adjective <latin>tālis</latin>, means \"to return like for like\"?"
+      answer: "RETALIATE"
+    boni:
+      - question: "What English adjective, meaning \"lofty in thought\" is derived from the Latin noun <latin>līmen</latin>?"
+        answer: "SUBLIME"
+      - question: "What colloquial English noun, meaning \"something easy,\" is derived from the Latin verb <latin>cingō</latin>?"
+        answer: "CINCH"
+  - tossup:
+      question: "Notable for his inclusion of speeches and vivid narratives, what historian traveled to Rome with an initial interest in philosophy, but later devoted his time to writing a massive annalistic history called the <title><latin>Ab Urbe Conditā</latin></title>?"
+      answer: "(T.) LIVIUS / LIVY"
+    boni:
+      - question: "What emperor facetiously labeled Livy as “Pompeian” because of his Republican ideals, although he himself wished to restore ancient moral and religious values?"
+        answer: "AUGUSTUS"
+      - question: "What future emperor did Livy encourage to write history?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "For the verb <latin>faciō</latin>, give the 1st person singular pluperfect active subjunctive."
+      answer: "<latin>FĒCISSEM</latin>"
+    boni:
+      - question: "Make that form passive."
+        answer: "<latin>FACTUS, -A, -UM ESSEM</latin>"
+      - question: "Make that form imperfect."
+        answer: "<latin>FIEREM</latin>"
+  - tossup:
+      question: "What Latin term was used for the folding-chair with curved ivory legs used by senators?"
+      answer: "<latin>SELLA</latin> <latin>CŪRŪLIS</latin>"
+    boni:
+      - question: "What term describes a solid, straight, high-back chair with arms?"
+        answer: "<latin>SOLIUM</latin>"
+      - question: "What type of relatively comfortable chair lacked arms, possessed a curved back, and was originally only used by women?"
+        answer: "<latin>CATHEDRA</latin>"

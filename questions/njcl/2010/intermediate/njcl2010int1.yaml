@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "On a beach on the island of Scheria, who encountered the naked Odysseus?"
+      answer: "NAUSICAA"
+    boni:
+      - question: "From where had Odysseus left in a raft which was eventually destroyed by a storm?"
+        answer: "OGYGIA"
+      - question: "What sea goddess, once a Theban princess, helped Odysseus at sea by giving him her veil as protection?"
+        answer: "INO / LEUCOTHEA"
+  - tossup:
+      question: "Say in Latin “we will be sent.”"
+      answer: "<latin>MITTĒMUR</latin>"
+    boni:
+      - question: "Say in Latin “I will be captured.”"
+        answer: "<latin>CAPIAR</latin>"
+      - question: "Say in Latin “you (singular) are being heard.”"
+        answer: "<latin>AUDĪRIS</latin>"
+  - tossup:
+      question: "What derivative of the Latin adjective meaning “equal” means “clothing”?"
+      answer: "APPAREL"
+    boni:
+      - question: "What derivative of the Latin adjective meaning “full” means “to fill or build up again”?"
+        answer: "REPLENISH"
+      - question: "What derivative of the Latin adjective meaning “dutiful” means “to make amends for; to relieve a burden of guilt”?"
+        answer: "EXPIATE"
+  - tossup:
+      question: "What <latin>cognōmen</latin> is shared by two Romans who, though over four and a half centuries apart, are remembered as Rome’s greatest tyrannicides?"
+      answer: "BRUTUS"
+    boni:
+      - question: "Marcus Iunius Brutus’ mother Servilia had a long-standing affair with what famous Roman?"
+        answer: "(GAIUS IULIUS) CAESAR"
+      - question: "How did Marcus Iunius Brutus die?"
+        answer: "SUICIDE"
+  - tossup:
+      question: "In what case would the noun “Clodius” be in the following sentence: “I don’t think that anyone believes Clodius”?"
+      answer: "DATIVE"
+    boni:
+      - question: "What tense of the infinitive would be required to translate the verb “lie” into Latin for this sentence: “I knew that Clodius was lying”?"
+        answer: "PRESENT"
+      - question: "Translate the infinitive into Latin for this sentence: “We were told that Clodia and Metella had been discovered.”"
+        answer: "<latin>INVENTĀS/REPERTĀS ESSE</latin>"
+  - tossup:
+      question: "What hero, by walking from the Anaurus River to the city of Iolcus with only one sandal, fulfilled a prophecy told to his uncle Pelias?"
+      answer: "JASON"
+    boni:
+      - question: "What impossible assignment did Pelias give Jason?"
+        answer: "TO RETRIEVE GOLDEN FLEECE"
+      - question: "Jason assembled a crew to retrieve the Golden Fleece. Who built the boat for their journey across the Black Sea?"
+        answer: "ARGUS"
+  - tossup:
+      question: "How many forms in the present tense conjugation of the verb <latin>nōlō</latin>, <latin>nōlle</latin> consist of two separate words?"
+      answer: "3"
+    boni:
+      - question: "How many forms in the present tense conjugation of the verb <latin>mālō</latin>, <latin>mālle</latin> consist of two separate words?"
+        answer: "0"
+      - question: "Identify the only one-word participle that exists for the verb <latin>nōlō</latin>?"
+        answer: "<latin>NŌLĒNS</latin>"
+  - tossup:
+      question: "What emperor, who was first hailed as <latin>Augustus</latin> by his troops at Eboracum in 306 A.D., later signed a letter in Milan proclaiming religious toleration in the Roman empire?"
+      answer: "(FLAVIUS VALERIUS) CONSTANTINUS/CONSTANTINE (I/THE GREAT)"
+    boni:
+      - question: "What other son of a tetrarch proclaimed himself <latin>prīnceps</latin> in Rome shortly after Constantine was declared <latin>Augustus</latin> in Britain?"
+        answer: "(MARCUS AURELIUS VALERIUS) MAXENTIUS"
+      - question: "What battle in 312 A.D. saw Constantine and Maxentius in a final showdown?"
+        answer: "(THE BATTLE OF THE) MILVIAN / MULVIAN BRIDGE / SAXA RUBRA"
+  - tossup:
+      question: "Which of the following did not fight on the same side of the Trojan War as the others: Phoenix, Philoctetes, Glaucus, Antilochus, or Meriones?"
+      answer: "GLAUCUS"
+    boni:
+      - question: "What Greek captain did Phoenix accompany to Troy?"
+        answer: "ACHILLES"
+      - question: "With what Cretan king did Meriones sail to Troy?"
+        answer: "IDOMENEUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dum familia dormit, quattuor mīlitēs per iānuam fractam intrāvērunt. Maximā vī gladiōs suōs dēstrinxērunt et omnia cubicula irrūpērunt. Tantus erat terror, tanta audācia. Tandem dominus percussus multīs vulneribus periit.</latin>  Question: <latin>Quōmodo</latin> <latin>mīlitēs</latin> <latin>gladiōs</latin> <latin>suōs</latin> <latin>dēstrinxērunt</latin>?"
+      answer: "(<latin>MAXIMĀ)</latin> <latin>VĪ / VIOLENTER</latin>"
+    boni:
+      - question: "<latin>Quālis</latin> <latin>erat familia antequam mīlitēs iānuam frēgērunt</latin>?"
+        answer: "DORMIĒBAT/RECUMBĒBAT/CUBĀBAT/ SOMNIĀBAT"
+      - question: "<latin>Quem</latin> <latin>mīlitēs</latin> <latin>necāvērunt</latin>?"
+        answer: "<latin>DOMINUM/PATREM</latin>"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the Latin noun “<latin>caput</latin>”: chassis, biceps, capital, achievement?"
+      answer: "CHASSIS"
+    boni:
+      - question: "Which of these words is also derived from “<latin>caput</latin>”: carnage, capacity, recuperate, handkerchief?"
+        answer: "HANDKERCHIEF"
+      - question: "What Latin noun with what meaning is the root of the word “carnage”?"
+        answer: "<latin>CARŌ</latin> – FLESH; MEAT"
+  - tossup:
+      question: "With what are all of the following terms associated: <latin>olla, tumulus,</latin> <latin>rogus, imāginēs, cenotaphium,</latin> and <latin>columbārium</latin>?"
+      answer: "DEATH / BURIAL / FUNERALS"
+    boni:
+      - question: "What was a <latin>rogus</latin>?"
+        answer: "A (FUNERAL) PYRE"
+      - question: "Which of the words from the tossup is an urn?"
+        answer: "<latin>OLLA</latin>"
+  - tossup:
+      question: "Make the Latin phrase “<latin>ācris</latin> <latin>aciēs</latin>” ablative singular"
+      answer: "<latin>ĀCRĪ ACIĒ</latin>"
+    boni:
+      - question: "Keeping the same vocabulary as in the toss-up, give the Latin nominative for the phrase “two fierce battle-lines.”"
+        answer: "<latin>DUAE ACIĒS ĀCRĒS</latin>"
+      - question: "Make the phrase “<latin>duae aciēs ācrēs</latin>” ablative"
+        answer: "<latin>DUĀBUS ACIĒBUS ĀCRIBUS</latin>"
+  - tossup:
+      question: "What daughter of Schoeneus bore a son who later fought with the Seven against Thebes to a man she met during the Calydonian Boar Hunt?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Give the name of the man who sired Parthenopaeus, Atalanta’s son"
+        answer: "MELEAGER/MILANION/ARES/TALAUS/HIPPOMENES"
+      - question: "Whose chariot did Atalanta help pull after she was transformed into a lioness?"
+        answer: "CYBELE"
+  - tossup:
+      question: "What Greek colony in Italy hired Pyrrhus to fight against their enemy Rome?"
+      answer: "TARENTUM"
+    boni:
+      - question: "Identify by letter the city renamed after Pyrrhus’ defeat"
+        answer: "F (BENEVENTUM)"
+      - question: "Identify by letter the city outside of which the forces of Catiline suffered defeat in 62 B.C"
+        answer: "L (FLORENTIA)"
+  - tossup:
+      question: "Translate the motto of Sewanee University, “<latin>Ecce quam bonum</latin>.”"
+      answer: "BEHOLD HOW GOOD"
+    boni:
+      - question: "Translate the motto of Oregon, <latin>alīs volat propriīs</latin>"
+        answer: "HE/SHE FLIES BY HER OWN WINGS"
+      - question: "Give the one-word Latin motto of Maine"
+        answer: "<latin>DĪRIGŌ</latin> “ALL THE CITY DIVIDED AGAINST ITSELF WILL NOT REMAIN”"
+  - tossup:
+      question: "Give a one-word synonym of the Latin adverb <latin>repente</latin>"
+      answer: "<latin>SUBITŌ/STATIM/ CŌNFESTIM/EXTEMPLŌ CELERRIMĒ/VĒLŌCISSIMĒ/CITISSIMĒ/RAPIDISSIMĒ</latin>"
+    boni:
+      - question: "Give a one-word synonym of the Latin adverb <latin>tandem</latin>"
+        answer: "<latin>DĒNIQUE/POSTRĒMŌ/DĒMUM</latin>"
+      - question: "Give a one-word synonym of the synonymous Latin adverbs <latin>istīc</latin> and <latin>illīc</latin>"
+        answer: "<latin>IBI</latin>"
+  - tossup:
+      question: "Translate this sentence from Latin to English: “<latin>Hōc annō, bonam fortūnam habeāmus</latin>.”"
+      answer: "LET US (MAY WE) HAVE GOOD FORTUNE THIS YEAR"
+    boni:
+      - question: "Now translate, “<latin>Nē umquam oblīvīscāmur amīcōrum</latin>!”"
+        answer: "MAY WE NEVER (LET US NOT EVER) FORGET (OUR) FRIENDS"
+      - question: "Finally, translate, “<latin>Latīna est lingua cui plūrēs discipulī studēre dēbeant</latin>.”"
+        answer: "LATIN IS (THE KIND/SORT OF) LANGUAGE THAT MORE STUDENTS OUGHT TO STUDY/BE EAGER FOR/BE INTERESTED IN"
+  - tossup:
+      question: "Zelus, Nike, Kratos, and Bia are the spawn of what prominent river of the Underworld?"
+      answer: "STYX"
+    boni:
+      - question: "According to Aeschylus, which god did Kratos and Bia help in chaining Prometheus to the Caucasus mountain?"
+        answer: "HEPHAESTUS"
+      - question: "What did Styx do to earn the eternal respect of Zeus and the other gods, so much so that they swore their most solemn oaths upon her?"
+        answer: "SHE AND HER CHILDREN WERE THE FIRST TO JOIN THE SIDE OF THE GODS AGAINST THE TITANS"
+  - tossup:
+      question: "What right of the tribunes, previously recognized only in an oath of the plebeians, was confirmed by one of the Valerio-Horatian Laws of the fifth century B.C.?"
+      answer: "(<latin>SACROSANCTITĀS</latin> / SACROSANCTITY)"
+    boni:
+      - question: "What political benefit did the <title><latin>Lēx Licinia Sextia</latin></title>, enacted in 367 B.C., confer upon the plebeian order?"
+        answer: "<emphasis>REQUIRED</emphasis> THAT <emphasis>ONE CONSUL</emphasis> BE A <emphasis>PLEBEIAN</emphasis>"
+      - question: "What law of 287 B.C. abolished the Senate’s right of veto on <latin>plēbiscīta</latin>"
+        answer: "<latin>LĒX HORTĒNSIA</latin> <latin>/</latin> HORTENSIAN LAW <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

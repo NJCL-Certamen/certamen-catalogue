@@ -1,0 +1,159 @@
+tournament: "NJCL Certamen"
+year: 2000
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Marcus Annius Verus became what Roman emperor?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "Who had insisted that Marcus be adopted as the heir of Antoninus Puis?"
+        answer: "HADRIAN"
+      - question: "Who else had Hadrian required to be adopted by Antoninus?"
+        answer: "LUCIUS AURELIUS VERUS (LUCIUS CEIONIUS COMMODUS)"
+  - tossup:
+      question: "Listen carefully to the following sentence, which I will read twice, and answer IN LATIN the question about it: <latin>Relictī in īnsulā barbarā, nautae dīcēbant sē mūrēs ferōs edere coāctōs esse. Quālēs hominēs in īnsulā relictī erant?</latin>"
+      answer: "NAUTAE"
+    boni:
+      - question: "Quālēs mūrēs in īnsulā <latin>erant?</latin>"
+        answer: "FĒRĪ"
+      - question: "<latin>Quibus mūrēs edendī erant?</latin>"
+        answer: "NAUTĪS"
+  - tossup:
+      question: "According to Hesiod, who was the first-born daughter of Cronus and Rhea?"
+      answer: "HESTIA"
+    boni:
+      - question: "According to the <title>Homeric Hymn to Aphrodite</title>, two of the Olympians unsuccessfully sought to marry Hestia. For five points, name one of these two deities. <title>see below for answer</title>  For five more points, name the other"
+        answer: "(PHOEBUS) APOLLO / POSEIDON"
+  - tossup:
+      question: "Give the third person singular, imperfect active subjunctive for <latin>dīvidō</latin>"
+      answer: "<latin>DĪVIDERET</latin>"
+    boni:
+      - question: "Give the corresponding form for <latin>fugiō</latin>"
+        answer: "<latin>FUGERET</latin>"
+      - question: "Give the corresponding form for <latin>differō</latin>"
+        answer: "<latin>DIFFERRET</latin>"
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, who was reminded of his destiny in Italy by the messenger god Mercury?"
+      answer: "AENEAS"
+    boni:
+      - question: "According to Vergil, what curse did Dido make on Aeneas and his descendants?"
+        answer: "THAT AENEAS AND HIS DESCENDANTS SHOULD ALWAYS BE THE ENEMIES OF CARTHAGE"
+      - question: "What did Dido use to commit suicide after the departure of Aeneas?"
+        answer: "A SWORD THAT AENEAS HAD GIVEN HER"
+  - tossup:
+      question: "With what warlike people in the central southern Apennines did the Romans fight three wars?"
+      answer: "SAMNITES (PASS OUT THE VISUAL)"
+    boni:
+      - question: "Please study the visual. For five points each, in what war and after what battle did the incidence depicted in the visual occur?"
+        answer: "SECOND SAMNITE WAR"
+  - tossup:
+      question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: eloquent, ventriloquist, circumlocution, colloquial, loquacious?"
+      answer: "NONE"
+    boni:
+      - question: "What is the root of all these words?"
+        answer: "<latin>LOQUOR, LOQUĪ</latin> - SPEAK"
+      - question: "What derivative of <latin>loquor</latin> means “speaking out clearly”?"
+        answer: "ELOCUTION"
+  - tossup:
+      question: "What cunning mortal was said to have resisted and chained Death for a period of time?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "What happened as long as Death was bound by chains?"
+        answer: "NO MORTAL COULD DIE"
+      - question: "What deity finally freed Death and handed Sisyphus over to him?"
+        answer: "ARES / MARS"
+  - tossup:
+      question: "Give the future active participle of <latin>cēdō</latin>"
+      answer: "<latin>CESSŪRUS/-A/-UM</latin>"
+    boni:
+      - question: "Change <latin>cessūrus</latin> to the passive <latin>CĒDENDUS/-A/-UM</latin> Change <latin>cēdendus</latin> to the perfect"
+        answer: "<latin>CESSUS/-A/-UM</latin>"
+  - tossup:
+      question: "What city in northern Italy became the western Roman capital during the tetrarchy?"
+      answer: "MEDIOLANUM / MILAM"
+    boni:
+      - question: "To what city did the emperor Honorius later move the western capital?"
+        answer: "RAVENNA"
+      - question: "Ravenna is located in the marshes on the edge of the delta of what great river?"
+        answer: "PADUS / ERIDANUS / PO"
+  - tossup:
+      question: "Translate: <latin>Putāsne Cicerōnem ōrātōrem Rōmānum optimum fuisse?</latin>"
+      answer: "DO YOU THINK THAT CICERO WAS THE BEST ROMAN ORATOR?"
+    boni:
+      - question: "Translate: <latin>Cicerō putāvit sē virum ēloquentiae maximae esse</latin>"
+        answer: "CICERO THOUGHT THAT HE WAS A MAN OF THE GREATEST ELOQUENCE"
+      - question: "Translate: <latin>Multī inimīcī sentiēbant Cicerōnem interficī debēre.</latin>"
+        answer: "MANY ENEMIES FELT THAT CICERO SHOULD BE KILLED"
+  - tossup:
+      question: "Why would a slave be branded on the forehead with the letter “F”?"
+      answer: "TO INDICATE THAT THE SLAVE HAD RUN AWAY - <latin>FUGITĪVUS</latin>"
+    boni:
+      - question: "What was the penalty for an attempt on the master’s life by a slave?"
+        answer: "CRUCIFIXION"
+      - question: "How would a master deal with an incorrigible slave?"
+        answer: "SENT TO DO HARD LABOR (FARMS, QUARRIES, MINES, SHIP GALLEYS) OR SOLD AS GLADIATORS"
+  - tossup:
+      question: "What use of the Genitive case is found in the Ciceronean idiom <latin>parvī animī esse</latin>?"
+      answer: "QUALITY / DESCRIPTION"
+    boni:
+      - question: "Translate <latin>parvī animī esse</latin>"
+        answer: "TO BE OF SMALL MIND / TO BE SMALL MINDED"
+      - question: "What idiom, also utilizing <latin>parvī</latin> as a Genitive of quality, means “it matters little”?"
+        answer: "<latin>PARVĪ REFERT</latin>"
+  - tossup:
+      question: "What king of Thebes was the husband of Niobe?"
+      answer: "AMPHION"
+    boni:
+      - question: "In honor of whose wife was the city of Cadmeia renamed Thebes?"
+        answer: "ZETHUS’"
+      - question: "What ability did Amphion have that allowed him to build the walls of Thebes?"
+        answer: "HE WAS A GREAT MUSICIAN / PLAYED THE LYRE SO WELL THAT THE STONES WERE CHARMED INTO THEIR PROPER PLACE"
+  - tossup:
+      question: "Say in Latin: Let them drink water!"
+      answer: "<latin>AQUAM PŌTENT</latin>"
+    boni:
+      - question: "Say in Latin: Let’s live in the country!"
+        answer: "<latin>RŪRĪ HABITĒMUS</latin>"
+      - question: "Say in Latin: Let’s run home!"
+        answer: "<latin>CURRĒMUS DOMUM</latin>"
+  - tossup:
+      question: "From what Latin verb with what meaning is the English word “abort” derived?"
+      answer: "<latin>ORIOR</latin>"
+    boni:
+      - question: "– RISE From what Latin verb with what meaning is the English word “exhort” derived?"
+        answer: "<latin>HORTOR</latin>"
+      - question: "– ENCOURAGE From what Latin verb with what meaning is the English word “retort” derived?"
+        answer: "<latin>TORQUEŌ</latin>"
+  - tossup:
+      question: "Give a synonym for <latin>iūcundus</latin>"
+      answer: "<latin>GRĀTUS</latin>"
+    boni:
+      - question: "Give a synonym for <latin>opīniō</latin>"
+        answer: "<latin>SENTENTIA</latin>"
+      - question: "Give a synonym for <latin>dēlubrum</latin>"
+        answer: "<latin>TEMPLUM, FANUM, AEDĒS</latin>"
+  - tossup:
+      question: "Who returned from Africa, starved Rome into submission, and instituted a reign of terror in 87 B.C.?"
+      answer: "C. MARIUS"
+    boni:
+      - question: "Who finally forced Marius to stop his bloody rampage of revenge?"
+        answer: "(L. CORNELIUS) CINNA"
+      - question: "To how many consulships had Marcius been elected when he dies in 86 B.C.?"
+        answer: "SEVEN"
+  - tossup:
+      question: "<latin>Cum, sine</latin> and <latin>prō : praepositiōnēs :: equus, mare</latin> and <latin>mīlēs</latin> : ________?"
+      answer: "<latin>NŌMINA</latin>"
+    boni:
+      - question: "Cum : <latin>praepositiō :: sed</latin> : ________?"
+        answer: "<latin>CONIŪNCTIŌ</latin>"
+      - question: "<latin>Sed : coniūnctiō :: Heu</latin> : _______?"
+        answer: "<latin>INTERIECTIŌ</latin>"
+  - tossup:
+      question: "Who in mythology created the Hippocrene spring with a stamp of his hoof?"
+      answer: "PEGASUS"
+    boni:
+      - question: "On what mountain was the Hippocrene located?"
+        answer: "MT. HELICON"
+      - question: "Why did Pegasus create the Hippocrene?"
+        answer: "TO PLEASE THE MUSES"

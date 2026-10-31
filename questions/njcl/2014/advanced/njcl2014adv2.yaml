@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Which son of Aeetes was murdered by his own sister?"
+      answer: "APSYRTUS / ABSYRTUS"
+    boni:
+      - question: "Who had infected Medea with such longing for Jason?"
+        answer: "EROS / CUPID"
+      - question: "What bronze giant did Medea kill using her dark magic?"
+        answer: "TALOS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat: aestus?</latin>"
+      answer: "HEAT, FIRE, GLOW, BILLOWY MOTION, TIDE, FLOOD, SURGE"
+    boni:
+      - question: "<latin>Quid Anglicē significat: inānis?</latin>"
+        answer: "EMPTY, MEANINGLESS, USELESS, WORTHLESS, VAIN"
+      - question: "<latin>Quid Anglicē significat: stīpes?</latin>"
+        answer: "TRUNK, LOG, POST, STOCK, BRANCH"
+  - tossup:
+      question: "What author displayed a self-sacrificing loyalty to his friends when he abandoned his mistress Delia to accompany his friend Messala Corvinus to Asia?"
+      answer: "(ALBIUS) TIBULLUS"
+    boni:
+      - question: "According to the later author Apuleius, what was the real name of this Delia?"
+        answer: "PLANIA"
+      - question: "Who replaces Delia as the object of Tibullus’ affection in his second book of elegies?"
+        answer: "NEMESIS"
+  - tossup:
+      question: "Change the phrase <latin>hic āthlēta vēlōx</latin> to the dative case"
+      answer: "<latin>HUIC ĀTHLĒTAE VĒLŌCĪ</latin>"
+    boni:
+      - question: "Change <latin>huic āthlētae</latin> <latin>vēlōcī</latin> to the ablative"
+        answer: "<latin>HŌC ĀTHLĒTĀ VĒLŌCĪ/E</latin> "
+      - question: "Change <latin>hōc āthlētā</latin> <latin>vēlōcī</latin> to the genitive plural"
+        answer: "<latin>HŌRUM ĀTHLĒTĀRUM VĒLŌCIUM</latin>"
+  - tossup:
+      question: "Where in Rome can one visit the Temple of Aesculapius?"
+      answer: "TIBER ISLAND / <latin>ĪNSULA TIBERĪNA</latin>"
+    boni:
+      - question: "Name one of the two bridges on either side of the Tiber Island that connected the island to the city of Rome"
+        answer: "<latin>PŌNS FABRICIUS</latin> / <latin>PŌNS CESTIUS</latin> "
+      - question: "Give the Latin term for the ritual that took place on the steps of the Temple of Aesculapius, where the sick would spend the night on these steps and would either receive the cure for their ailment in their sleep or would be cured while they slept"
+        answer: "<latin>INCŪBĀTIŌ</latin>"
+  - tossup:
+      question: "Victories at Baecula and Ilipa proved the military brilliance of what Roman general who successfully closed the Second Punic War with a victory over Hannibal in 202 BC?"
+      answer: "(P. CORNELIUS) SCIPIO (THE FUTURE) AFRICANUS / MAIOR"
+    boni:
+      - question: "Whom did Scipio Africanus defeat at Baecula?"
+        answer: "HASDRUBAL (BARCA)"
+      - question: "Whom did he defeat at Ilipa?"
+        answer: "HASDRUBAL (GISGO)"
+  - tossup:
+      question: "Who in the <title>Aeneid</title> speaks the following lines, which I shall read as prose: “<latin>Mēne Īliacīs occumbere campīs nōn potuisse tuāque animam hanc effundere dextrā?”</latin>"
+      answer: "AENEAS"
+    boni:
+      - question: "…: <latin>“Ipse deum tibi mē clārō dēmittit Olympō rēgnātor, caelum ac terrās quī nūmine torquet”</latin>?"
+        answer: "MERCURY"
+      - question: "…: <latin>“Hauriat hunc oculīs ignem crūdēlis ab altō Dardanus, et nostrae sēcum ferat ōmina mortis”</latin>?"
+        answer: "DIDO"
+  - tossup:
+      question: "Please translate this sentence into Latin: I didn’t know that the farmers had enjoyed the food"
+      answer: "<latin>NESCĪVĪ / NESCIĒBAM AGRICOLĀS CIBŌ / VICTŪ FRŪCTŌS / ŪSŌS ESSE</latin> "
+    boni:
+      - question: "Please translate this sentence into Latin using a relative pronoun: The merchant thinks that the slave- girls, who visit the forum often, will buy many togas"
+        answer: "<latin>MERCĀTOR PUTAT ANCILLĀS / SERVĀS, QUAE SAEPE FORUM VĪSANT / VĪSITENT / FREQUENTENT, MULTĀS TOGĀS EMPTŪRĀS ESSE</latin> "
+      - question: "Please translate this sentence into Latin: We didn’t believe that the city would be captured by the soldiers"
+        answer: "<latin>NŌN CRĒDIDIMUS / CRĒDĒBĀMUS URBEM Ā MĪLITIBUS CAPTUM ĪRĪ</latin>"
+  - tossup:
+      question: "In Homer’s <title>Iliad</title>, which son of Nestor accompanies his father to Troy?"
+      answer: "ANTILOCHUS"
+    boni:
+      - question: "What unenviable task does Antilochus undertake in Book XVIII of the Iliad?"
+        answer: "REPORT <emphasis>PATROCLUS’DEATH</emphasis> TO <emphasis>ACHILLES</emphasis>"
+      - question: "Which son of Nestor accompanies Telemachus to Sparta?"
+        answer: "P(E)ISISTRATUS"
+  - tossup:
+      question: "Which of the following, if any, does NOT derive from the same Latin root as the others: jeopardy, jewel, juggle, jocose, jostle?"
+      answer: "JOSTLE"
+    boni:
+      - question: "Give the Latin verb and its meaning from which “jostle” is derived"
+        answer: "<latin>IŪNGŌ</latin> – TO JOIN"
+      - question: "Give the Latin noun and its meaning from which the other words in the toss-up are derived. "
+        answer: "IOCUS - JOKE"
+  - tossup:
+      question: "What historian favorably contrasts the liberty of the Britons with the tyranny and corruption of Rome in his <title><latin>Agricola</latin></title>?"
+      answer: "(P. or C. CORNELIUS) TACITUS"
+    boni:
+      - question: "Which of Tacitus’ works were often published together and examined the period of Roman history from the death of Augustus to the years of the First Jewish-Roman War in 70 AD?"
+        answer: "<title><latin>HISTORIAE</latin></title> <title>/ HISTORIES &</title> <title><latin>ANNĀLĒS</latin></title> <title>/ ANNALS</title> "
+      - question: "In which of his works does Tacitus discuss the proper training of an orator?"
+        answer: "<title><latin>DIALOGUS DĒ ŌRĀTŌRIBUS</latin></title> "
+  - tossup:
+      question: "<latin>quālis amor per hobbitum trānsībat?</latin>"
+      answer: "<latin>FERŌX / INVIDIŌSUS / AMOR RĒRUM PULCHRĀRUM</latin>"
+    boni:
+      - question: "<latin>quō modō rēs pulchrae factae erant?</latin>"
+        answer: "<latin>CALLIDITĀTE / MAGIĀ / MANIBUS</latin>"
+      - question: "<latin>quī cupiditātem in</latin> cordibus <latin>habēbant</latin>?"
+        answer: "<latin>(HOBBITUS ET) NĀNĪ</latin>"
+  - tossup:
+      question: "“During a journey on the Nile, he lost him, his favorite, and for this youth he wept like a woman.” Thus writes the <title>Historia Augusta</title> about what Bithynian youth to whom Hadrian dedicated cities after the youth drowned in the Nile?"
+      answer: "ANTINOUS"
+    boni:
+      - question: "Two years after Antinoöpolis was founded, Hadrian learned that what guerilla leader had rebelled in Judea and captured the city of Jerusalem?"
+        answer: "(SIMON) BAR KOKHBA/COSIBAR"
+      - question: "What Roman general, at Hadrian’s request, traveled from Britannia and succeeded in suppressing the revolt by 135 AD?"
+        answer: "(C. IULIUS) SEVERUS "
+  - tossup:
+      question: "Name the parents of Creontidas and Deicoon, whose father killed them in a fit of madness?"
+      answer: "HERACLES AND MEGARA."
+    boni:
+      - question: "Name the third child of Heracles and Megara"
+        answer: "THERSIMACHUS"
+      - question: "Which king of Thebes was the father of Megara?"
+        answer: "CREON"
+  - tossup:
+      question: "How often should a medication be taken if it is labeled with the abbreviation <latin>Q.H.</latin>?"
+      answer: "EVERY HOUR (<latin>QUĀQUE HŌRĀ</latin>)"
+    boni:
+      - question: "Where should a medication be applied if it is labeled <latin>o.u.</latin>?"
+        answer: "BOTH EYES (<latin>OCULUS UTERQUE</latin>)"
+      - question: "How much medication should be taken at a time if it is labeled <latin>coch.</latin>?"
+        answer: "A SPOONFUL (<latin>COCHLEĀRE</latin>)"
+  - tossup:
+      question: "The deaths of Lucius Caesar in 2 AD and Gaius Caesar two years later left what man as the sole heir  of Augustus for the last ten years of the emperor’s life?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Augustus adopted Tiberius after the death of what man in 12 BC?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "Whom had Augustus adopted in 25 BC as his first heir?"
+        answer: "(M. CLAUDIUS) MARCELLUS"
+  - tossup:
+      question: "Name the two tenses of the subjunctive that can be used in a dependent clause when the main verb is in the future tense"
+      answer: "PRESENT, PERFECT"
+    boni:
+      - question: "What tense of the indicative can be used in both the primary and secondary sequence?"
+        answer: "PERFECT"
+      - question: "Which two tenses of the subjunctive can be used in an adverbial purpose clause?"
+        answer: "PRESENT, IMPERFECT"
+  - tossup:
+      question: "Who, using the clay he found at Panopea in Boeotia, created the human race?"
+      answer: "PROMETHEUS  "
+    boni:
+      - question: "Name two of the beings who were responsible for putting “These Things” on Prometheus"
+        answer: "BIA, C/KRATOS, HEPHAESTUS / VULCAN"
+      - question: "Name “This Place”"
+        answer: "THE CAUCASUS (MOUNTAINS)"
+  - tossup:
+      question: "When you are recognized, please perform the following commands: <latin>Surge et, ūnō pede sublātō et oculīs clausīs, tange tuum nāsum</latin>"
+      answer: "A STUDENT GETS UP AND, AFTER EYES ARE CLOSED AND A FOOT IS RAISED UP, TOUCHES HIS/HER NOSE"
+    boni:
+      - question: "…: <latin>Surgite et cantāte Anglicē carmen nōmine “relinquātur”.</latin>"
+        answer: "STUDENTS RISE AND SING “LET IT GO”"
+      - question: "…: <latin>Imperā duōbus ē sociīs ut tē tamquam deum adōrent.</latin>"
+        answer: "A STUDENT ORDERS TWO TEAMMATES TO WORSHIP HIM/HER LIKE A GOD"
+  - tossup:
+      question: "What Christian writer’s most important works include an expanded translation of Eusebius’ <title>Chronicle</title> and his revision of the Latin Bible called the <title>Vulgate</title>?"
+      answer: "(ST.) JEROME / (EUSEBIUS SOPHRONIUS) HIERONYMUS"
+    boni:
+      - question: "Which of Jerome’s works is a biographical dictionary of 135 Christian writers?"
+        answer: "<title><latin>DĒ VIRĪS ILLUSTRIBUS</latin></title> "
+      - question: "Under whose tutelage did Jerome study in Rome?"
+        answer: "(AELIUS) DONATUS’ <latin>2014 NJCL CERTAMEN ADVANCED DIVISION</latin>"

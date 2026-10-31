@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "With whom do we associate the battles of Ilerda, Munda, Thapsus, Zela, and Pharsalus?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "Which of those battles occurred LAST?"
+        answer: "MUNDA"
+      - question: "At which of those battles was the leader of the enemy NOT a Roman?"
+        answer: "ZELA"
+  - tossup:
+      question: "What use of the ablative case is illustrated in the following sentence: <latin>Magnā</latin> <latin>difficultāte dormīvī</latin>"
+      answer: "MANNER"
+    boni:
+      - question: "... in this sentence: <latin>Mercurius pedibus celer est</latin>"
+        answer: "RESPECT, SPECIFICATION"
+      - question: "Using an ablative, say in Latin \"One of the boys.\""
+        answer: "<latin>ŪNUS Ē/EX PUERĪS</latin>"
+  - tossup:
+      question: "What name was given to Diocletian's rule of the Roman Empire by two Augustuses and two Caesars?"
+      answer: "TETRARCHY"
+    boni:
+      - question: "When the emperor Diocletian abdicated his power in A.D. 305, what two men, the sons of Maximian and Constantius, ended up contesting for supreme power until A.D. 312?"
+        answer: "CONSTANTINE AND MAXENTIUS"
+      - question: "Constantine and Maxentius fought it out at Saxa Rubra. By what other name is that battle known?"
+        answer: "THE BATTLE OF THE MULVIAN / MILVIAN BRIDGE"
+  - tossup:
+      question: "Which of the following Latin nouns, if any, does not belong because of gender: <latin>domus</latin>, <latin>patrōnus</latin>, <latin>aquaeductus</latin>, <latin>pānis</latin>?"
+      answer: "<latin>DOMUS</latin>"
+    boni:
+      - question: ". . . <latin>epistula</latin>, <latin>lectīca</latin>, <latin>mappa</latin>, <latin>aurīga</latin>?"
+        answer: "<latin>AURĪGA</latin>"
+      - question: ". . . <latin>mōns</latin>, <latin>mōlēs</latin>, <latin>hospes</latin>, <latin>custōs</latin>?"
+        answer: "<latin>MŌLĒS</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Spartānī, Graecī</latin> <latin>antīquī, vītam patriae et cīvitātī</latin> <latin>dēdicābant. In scholīs Spartānōrum magistrī</latin> <latin>docēbant puerōs sapientiam et fortitūdinem per disciplīnam. Mīlitēs fortissimī</latin> <latin>factī</latin> <latin>sunt.</latin>  <latin>Quōs magistrī</latin> <latin>Spartānī</latin> <latin>sapientiam et fortitūdinem docēbant?</latin>"
+      answer: "<latin>DISCIPULŌS / PUERŌS / FĪLIŌS</latin>"
+    boni:
+      - question: "<latin>Quibus Spartānī</latin> <latin>vītam suam dēdicābant?</latin>"
+        answer: "PATRIAE ET CĪVITĀTĪ"
+      - question: "<latin>Quālēs mīlitēs factī</latin> <latin>sunt Spartānī</latin> <latin>per disciplīnam?</latin>"
+        answer: "FORTISSIMĪ"
+  - tossup:
+      question: "You are waiting for a triumphal procession on a street in ancient Rome, and a fellow asks you \"<latin>Quota hōra est?</latin>\" What does he want to know?"
+      answer: "WHAT <emphasis>TIME</emphasis> IS IT?"
+    boni:
+      - question: "This person then asks \"<latin>Quandō</latin> <latin>imperātor veniet?\"</latin> What does he want to know?"
+        answer: "<emphasis>WHEN</emphasis> THE GENERAL / <emphasis>EMPEROR</emphasis> WILL <emphasis>COME</emphasis> / <emphasis>COMES</emphasis>"
+      - question: "Your reply to the question is “<latin>trīgintā</latin> <latin>minūtīs</latin>.\" When will the general be arriving?"
+        answer: "IN / WITHIN THIRTY MINUTES"
+  - tossup:
+      question: "Who sacrificed a white bull to Poseidon, the Tamer of Horses, so that he could tame Pegasus?"
+      answer: "BELLEROPHON(TES) / HIPPONOUS"
+    boni:
+      - question: "Who had instructed Bellerophon to do this?"
+        answer: "ATHENA (VIA A DREAM)"
+      - question: "What did Athena give Bellerophon to help his quest to tame Pegasus?"
+        answer: "SHE GAVE HIM A <emphasis>GOLDEN</emphasis> BRIDLE"
+  - tossup:
+      question: "Corynetes, Sinis, Procrustes, and the Minotaur were all killed by what Athenian prince?"
+      answer: "THESEUS"
+    boni:
+      - question: "Name one of the scoundrels whom Theseus killed in picture “A”"
+        answer: "SC(E)IRON / CERCYON"
+      - question: "Name one of the adversaries whom Theseus killed in picture “B”"
+        answer: "PHAEA / SINIS (PITYOCAMPTES) / CROMMYONIAN SOW"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean \"and elsewhere\"?"
+      answer: "<latin>ET ALIBĪ</latin>"
+    boni:
+      - question: "\"With God willing\"?"
+        answer: "<latin>DEŌ</latin> <latin>VOLENTE</latin>"
+      - question: "... \"from the beginning\"?"
+        answer: "<latin>AB OVŌ</latin> <latin>/</latin> Ā <latin>PRĪNCIPIŌ</latin> <latin>/ AB INITIŌ</latin> / Ā <latin>PRĪMŌ</latin>"
+  - tossup:
+      question: "All Roman girls except Vestal Virgins were said to be <latin>in manū</latin> to some man in their family. What do we mean by the term <latin>in manū</latin>?"
+      answer: "UNDER THE CONTROL OF"
+    boni:
+      - question: "Augustus exempted women from <latin>manus</latin> after they had borne how many children?"
+        answer: "THREE"
+      - question: "The first of March was the Roman Mother's Day. What did the Romans call this festival?"
+        answer: "<latin>MATRONALIA</latin>"
+  - tossup:
+      question: "What crippled old man was the father of Aeneas?"
+      answer: "ANCHISES"
+    boni:
+      - question: "Who was Aeneas’ first wife and mother of Ascanius?"
+        answer: "CREUSA"
+      - question: "Who was Aeneas’ last wife?"
+        answer: "LAVINIA"
+  - tossup:
+      question: "Give the Latin verb and its meaning from which \"closure\" is derived"
+      answer: "<latin>CLAUDŌ, CLAUDERE</latin> - CLOSE"
+    boni:
+      - question: "... from which \"pleasure\" is derived"
+        answer: "<latin>PLACEŌ/PLACĒRE</latin> - PLEASE, BE AGREEABLE TO"
+      - question: "... from which \"culture\" is derived"
+        answer: "<latin>COLŌ, COLERE</latin> - TEND, TILL, WORSHIP, FOSTER"
+  - tossup:
+      question: "Which Roman general, while watching the destruction of Carthage, quoted the lines from the Iliad in which Hector bemoans the fall of Troy?"
+      answer: "(P. CORNELIUS) SCIPIO AEMILIANUS / SCIPIO AFRICANUS (MINOR)"
+    boni:
+      - question: "What city in Spain did Scipio destroy in 133 BC?"
+        answer: "NUMANTIA"
+      - question: "Name Scipio’s nephew who was killed about this same time as a result of his reform efforts?"
+        answer: "TIBERIUS GRACCHUS"
+  - tossup:
+      question: "What form of the pronoun <latin>hic</latin> agrees with the noun <latin>cīvitātis</latin>?"
+      answer: "<latin>HUIUS</latin>"
+    boni:
+      - question: "... with the noun <latin>arma</latin>?"
+        answer: "<latin>HAEC</latin>"
+      - question: "... with the noun <latin>flūmen</latin>?"
+        answer: "<latin>HOC</latin>"
+  - tossup:
+      question: "Who got sick and tired of his music lessons and cracked open the head of his music teacher?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Who was this unfortunate music teacher?"
+        answer: "LINUS"
+      - question: "What brother of Linus was also musically inclined?"
+        answer: "ORPHEUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Servōs quōs vēndis emere volō</latin>"
+      answer: "I WANT TO BUY THE SLAVES WHOM/ WHICH/ THAT YOU ARE SELLING"
+    boni:
+      - question: "<latin>Vīsne eōs mihi vēndere</latin>?"
+        answer: "DO YOU WANT TO SELL THEM TO ME?"
+      - question: "<latin>Quot servōs māvīs habēre?</latin>"
+        answer: "HOW MANY SLAVES DO YOU PREFER TO HAVE"
+  - tossup:
+      question: "Change the verb <latin>faciēbātis</latin> to the singular"
+      answer: "<latin>FACIĒBĀS</latin>"
+    boni:
+      - question: "Change <latin>faciēbās</latin> to the present tense"
+        answer: "<latin>FACIS</latin>"
+      - question: "Change <latin>facis</latin> to perfect tense"
+        answer: "<latin>FĒCISTĪ</latin>"
+  - tossup:
+      question: "Who wagged his tail and died a happy death after seeing the return of his master Odysseus?"
+      answer: "ARGOS / ARGUS"
+    boni:
+      - question: "Who was with Odysseus when this happened?"
+        answer: "EUMAEUS (SWINEHERD)"
+      - question: "How did Odysseus react to this?"
+        answer: "HE WEPT (SECRETLY)"
+  - tossup:
+      question: "Who first fought the Romans with elephants?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "Who was the first foreign general hired to lead an army against Rome?"
+        answer: "PYRRHUS"
+      - question: "Where was Pyrrhus king?"
+        answer: "EPIRUS"
+  - tossup:
+      question: "What English adjective meaning “nimble” or “lively” derives from a Latin verb meaning “do”?"
+      answer: "AGILE"
+    boni:
+      - question: "What English noun meaning “a list of things to be done” derives from the future passive participle of a Latin verb meaning “do”?"
+        answer: "AGENDA"
+      - question: "What English noun meaning “an exact copy” is written exactly like a Latin imperative phrase meaning “Make similar!”"
+        answer: "FACSIMILE (not FAX since it is not spelled like the imperative)"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Which king of Rome added two months to the calendar, built a temple to Janus, and established many of the foundations of Roman religion?"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "What king of Rome was the grandson of Numa Pompilius?"
+        answer: "ANCUS MARCIUS"
+      - question: "Numa Pompilius and Ancus Marcius both belong to what Italian tribe?"
+        answer: "SABINE"
+  - tossup:
+      question: "What do we mean when we call an action “risible”?"
+      answer: "LAUGHABLE / FUNNY"
+    boni:
+      - question: "What do we mean when we “impugn” someone’s reputation?"
+        answer: "ATTACK / CAST DOUBT UPON"
+      - question: "What do we mean when we say our nostrils are “occluded”?"
+        answer: "CLOSED OFF / STOPPED UP"
+  - tossup:
+      question: "What group of mythological creatures were notorious for their predilection for wine and disrupted Pholus’ meeting with Heracles?"
+      answer: "CENTAURS / CENTAUROI"
+    boni:
+      - question: "Pholus accidentally perished when he dropped an arrow coated with the blood of what creature on his foot?"
+        answer: "(LERNAEAN) HYDRA"
+      - question: "According to most sources, Heracles came to the cave of Pholus while on his way of returning from, capturing what animal?"
+        answer: "ERYMANTHIAN BOAR"
+  - tossup:
+      question: "Make the phrase <latin>noster nauta</latin> accusative singular."
+      answer: "<latin>NOSTRUM NAUTAM</latin>"
+    boni:
+      - question: "Now make <latin>nostrum nautam</latin> genitive plural."
+        answer: "<latin>NOSTRŌRUM NAUTĀRUM</latin>"
+      - question: "Now make <latin>nostrōrum nautārum</latin> ablative."
+        answer: "<latin>NOSTRĪS NAUTĪS</latin>"
+  - tossup:
+      question: "What woman was Tiberius forced to divorce in order to marry Julia, the daughter of Augustus?"
+      answer: "VIPSANIA (AGRIPPINA)"
+    boni:
+      - question: "To whom had Julia been married immediately prior to Tiberius?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "What son of Julia from this previous marriage did Tiberius kill upon ascension to the throne?"
+        answer: "AGRIPPA POSTUMUS / AGRIPPA IULIUS CAESAR"
+  - tossup:
+      question: "Please translate this sentence into Latin:  We will not walk to the city tomorrow."
+      answer: "<latin>(NŌS) AD URBEM CRĀS NŌN AMBULĀBIMUS</latin>"
+    boni:
+      - question: "…:  The law had been praised by the brave soldier."
+        answer: "<latin>LĒX Ā/AB FORTĪ MĪLITE LAUDĀTA ERAT</latin>"
+      - question: "…:  The guard saw the thief hiding the gold."
+        answer: "<latin>CUSTŌS / PRAESIDIUM FŪREM / LĀTRŌNEM CĒLANTEM / VĒLANTEM /</latin> <latin>TEGENTEM / OCCULTANTEM AURUM VĪDIT // CUSTŌDĒS … VĪDĒRUNT</latin>"
+  - tossup:
+      question: "Although it was a victory against Antony, at what battle did the consuls Hirtius and Pansa sustain fatal wounds, leaving Octavian with full control of three armies?"
+      answer: "MUTINA"
+    boni:
+      - question: "Although the Battle of Mutina pitted Octavian against Antony, where in 43 BC did the two, along with Lepidus, meet to form an alliance known as the Second Triumvirate?"
+        answer: "BONONIA"
+      - question: "Unlike the so-called First Triumvirate, the Second Triumvirate was made legal by what law?"
+        answer: "<latin>LĒX TITIA</latin>"
+  - tossup:
+      question: "Of gender, number, case, and declension, in which does an adjective NOT have to agree with the  \t\tnoun it modifies in Latin?"
+      answer: "DECLENSION"
+    boni:
+      - question: "Of gender, number, case, and declension, in which does a relative pronoun NOT have to agree with its antecedent in Latin?"
+        answer: "CASE & DECLENSION (prompt if only one of the two is given)"
+      - question: "Of gender, number, and person, in which does an active verb have to agree with its subject in Latin?"
+        answer: "NUMBER & PERSON (prompt if only one of the two is given)"
+  - tossup:
+      question: "What youth traveled to Pylos and Sparta on his quest to learn why his father had been gone for twenty years?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "During this journey, Telemachus was helped by what goddess, who disguised herself as Odysseus’ old friend Mentor?"
+        answer: "ATHENA"
+      - question: "Name Odysseus’ loyal swineherd, at whose house Telemachus stopped on his return to Ithaca."
+        answer: "EUMAEÜS"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same Latin word as the others?   mandate, reprimand, demand, command, recommendation?"
+      answer: "REPRIMAND"
+    boni:
+      - question: "Which of the following words, IF ANY, is NOT derived from the same Latin word as the others?   remain, maintain, permafrost, menagerie?"
+        answer: "MAINTAIN"
+      - question: "Which of the following words, IF ANY, is NOT derived from the same Latin word as the others?  eminent, administer, the noun “minute,” the adjective “minute” (<title>my newt</title>)?"
+        answer: "EMINENT"
+  - tossup:
+      question: "What use of the ablative is in the following sentence:  <latin>Senātor ad forum mēcum contendēbat?</latin>"
+      answer: "ACCOMPANIMENT"
+    boni:
+      - question: "…:  <latin>Senātor ōrātiōnem stilō compōnēbat?</latin>"
+        answer: "INSTRUMENT / MEANS"
+      - question: "…:  <latin>Senātor ōrātiōnem cum cūrā audiēbat?</latin>"
+        answer: "MANNER"
+  - tossup:
+      question: "Listen to the following passage about our friend Aurelia, which I will read twice; then answer the  \t\tquestion that follows in LATIN: \t<latin>Ōlim habitābat puella, nōmine Aurēlia, in oppidō minimō cum familiā suā ingentī. Equus  \teius etiam cum familiā suā habitābat, quamquam prope vīllam sōlus dormiēbat.</latin>  (repeat) \tThe question: <latin>Quālis erat familia Aurēliae</latin>?"
+      answer: "<latin>INGĒNS / MAGNA / MAXIMA</latin>"
+    boni:
+      - question: "<latin>Ubi dormiēbat equus?</latin>"
+        answer: "<latin>PROPE VĪLLAM</latin>"
+      - question: "<latin>Quāle erat oppidum ubi familia habitābat?</latin>"
+        answer: "<latin>MINIMUM / PARVUM</latin>"
+  - tossup:
+      question: "What god quarreled with his new-born brother, Hermes, over some cattle, but ended up receiving the lyre, which Hermes invented?"
+      answer: "APOLLO ("
+    boni:
+      - question: "Identify by letter the picture that does NOT represent something of which Apollo was the god."
+        answer: "A"
+      - question: "The creature in letter A fell into what god's domain?"
+        answer: "POSEIDON'S"
+  - tossup:
+      question: "<latin>Quid Anglicē significat:  piscis?</latin>"
+      answer: "FISH"
+    boni:
+      - question: "<latin>Quid Anglicē significat:  vulgus?</latin>"
+        answer: "CROWD, (COMMON) PEOPLE"
+      - question: "<latin>Quid Anglicē significat:  tandem?</latin>"
+        answer: "FINALLY, AT LAST"
+  - tossup:
+      question: "What Latin term refers to the beverage that consisted of wine mixed with honey?"
+      answer: "<latin>MULSUM</latin>"
+    boni:
+      - question: "What was the proportion of wine to honey in <latin>mulsum</latin>?"
+        answer: "FOUR PARTS WINE, ONE PART HONEY"
+      - question: "What Roman beverage was a mixture of water and honey fermented together?"
+        answer: "<latin>MULSA</latin>"
+  - tossup:
+      question: "What man served three times as regent of Thebes, including after the deaths of Polyneices and  \t\tEteocles, following the murder of Laïus, and upon exiling Oedipus?"
+      answer: "CREON"
+    boni:
+      - question: "For Creon, however, ruling did not come without cost. According to Apollodorus, during his first regency, what son of his was killed by the Sphinx as her final victim?"
+        answer: "HAEMON"
+      - question: "That’s only one account of Haemon’s death, however. According to Sophocles, Haemon committed suicide in solidarity with what daughter of Oedipus?"
+        answer: "ANTIGONE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Ūnus dē nautīs portum cōnspexit</latin>."
+      answer: "ONE OF THE SAILORS SPOTTED / NOTICED / SAW / CAUGHT SIGHT OF THE HARBOR"
+    boni:
+      - question: "Translate this sentence: <latin>Necesse est nāvī circum saxa nāvigāre</latin>."
+        answer: "IT IS NECESSARY FOR THE SHIP TO SAIL AROUND THE ROCKS"
+      - question: "Translate this sentence: <latin>Nōs omnēs tūtī ad lītus pervēnimus</latin>."
+        answer: "WE ALL REACHED / ARRIVED AT THE SHORE SAFE(LY)"
+  - tossup:
+      question: "Called “the tamer of horses” by Homer, who was the commander-in-chief of the Trojan army and the city’s greatest fighter?"
+      answer: "HECTOR"
+    boni:
+      - question: "Name the first Greek victim of the Trojan War, whom Hector killed during the first skirmish against the foreign invaders?"
+        answer: "PROTESILAUS"
+      - question: "Protesilaus’ death fulfilled the prophecy that the first Greek to jump onto the shores of Troy would be the first to die.  Who avoided the prophecy by throwing his shield onto the shores of Troy and landing on it instead of the shores?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What Latin student doesn’t love pharmaceutical abbreviations? What are the contents of the bottle, if <latin>aq</latin>. is listed on the label?"
+      answer: "WATER (PROMPT ON <latin>AQUA</latin>)"
+    boni:
+      - question: "When should a medicine be taken if the label states <latin>a.c.</latin>?"
+        answer: "BEFORE MEALS / FOOD (PROMPT ON <latin>ANTE</latin> <latin>CIBUM / CIBŌS</latin>) \t\t\t(<latin>ANTE CENAM</latin> IS NOT ATTESTED, SO DON’T TAKE DINNER OR PROMPT ON IT)"
+      - question: "Where should a medicine be applied if the label states <latin>a.u.</latin>, which stands for <latin>auris utraque</latin>?"
+        answer: "BOTH EARS / EACH EAR"
+  - tossup:
+      question: "What road would an ancient Roman take to go from Rome to Brundisium?"
+      answer: "<latin>VIA APPIA</latin>"
+    boni:
+      - question: "What city was the original terminus of the <latin>Via Appia</latin>?"
+        answer: "CAPUA"
+      - question: "The construction of the <latin>Via Appia</latin> was pivotal in helping the Romans win the Second Samnite War.  In what year was it built?"
+        answer: "312 BC"

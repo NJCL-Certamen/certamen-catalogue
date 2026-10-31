@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What <latin>praenōmen</latin> was abbreviated <latin>M</latin>?"
+      answer: "MARCUS"
+    boni:
+      - question: "What <latin>praenōmen</latin> was abbreviated <latin>C</latin>?"
+        answer: "GAIUS"
+      - question: "What <latin>praenōmen</latin> was abbreviated <latin>M’</latin>?"
+        answer: "MANIUS"
+  - tossup:
+      question: "Pallas, Narcissus, and Polybius were all notorious freedmen of what emperor, who ruled from 41 to 54 A.D.?"
+      answer: "(TIBERIUS) CLAUDIUS (NERO GERMANICUS)"
+    boni:
+      - question: "Claudius is said to have been too influenced by his freedmen and his wives. How many wives did Claudius have in total?"
+        answer: "FOUR"
+      - question: "Which wife of Claudius was the father of his children Britannicus and Octavia?"
+        answer: "(VALERIA) MESSALINA"
+  - tossup:
+      question: "For the Latin verb meaning “to be able,” give the third person singular, present indicative form"
+      answer: "<latin>POTEST</latin>  "
+    boni:
+      - question: "Change <latin>potest</latin> to the imperfect indicative"
+        answer: "<latin>POTERAT</latin>"
+      - question: "Change <latin>poterat</latin> to the pluperfect indicative"
+        answer: "<latin>POTUERAT</latin> "
+  - tossup:
+      question: "Some abbreviations can stand for more than one set of words. Give one of the common sets of Latin words for which <latin>I.H.S.</latin> is an abbreviation"
+      answer: "<latin>IN HŌC SIGNŌ / IĒSUS</latin> HOMINUM <latin>SALVĀTOR</latin>"
+    boni:
+      - question: "Give the other"
+        answer: "SEE ABOVE"
+      - question: "Give the meanings of both"
+        answer: "IN THIS SIGN / JESUS, SAVIOR OF MEN"
+  - tossup:
+      question: "Name the two Atridae"
+      answer: "AGAMEMNON AND MENELAUS"
+    boni:
+      - question: "Why were Agamemnon and Menelaus referred to by this name?"
+        answer: "THEIR <emphasis>FATHER</emphasis> WAS <emphasis>ATREUS</emphasis> / THEY ARE THE <emphasis>SONS</emphasis> OF <emphasis>ATREUS</emphasis>"
+      - question: "What twin giants, eventually killed by Apollo, were the sons of Aloeus and thus known as the Aloidae?"
+        answer: "OTUS AND EPHIALTES"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Aurēlia multōs cīvēs in templō vīdit</latin>"
+      answer: "AURELIA SAW MANY CITIZENS IN THE TEMPLE"
+    boni:
+      - question: "Translate: <latin>Deum in illō aedificiō vidēre</latin> voluerat. "
+        answer: "(S)HE/IT HAD WANTED TO SEE (A) GOD IN THAT BUILDING"
+      - question: "Translate: <latin>Nūllī deī, tamen, ē caelō dēscendērunt, tantum statuae.</latin>"
+        answer: "NO GODS, HOWEVER/NONETHELESS, DESCENDED FROM HEAVEN / THE SKY, ONLY STATUES"
+  - tossup:
+      question: "What neighboring Etruscan city did the Romans sack after a ten-year siege in 396 B.C.?"
+      answer: "VEII"
+    boni:
+      - question: "What legendary Roman commander was responsible for the sack?"
+        answer: "(MARCUS FURIUS) CAMILLUS"
+      - question: "Whose sack of Rome only six years later caused some Romans to consider a move to the then-vacant site of Veii?"
+        answer: "BRENNUS’ / SENONES’ / THE GAULS’"
+  - tossup:
+      question: "To what root Latin verb can all the following English words trace their origins: identify, certificate, affection, putrefaction, confectionary?"
+      answer: "<latin>FACIŌ / FACERE</latin>"
+    boni:
+      - question: "What English adjective derived from <latin>faciō</latin> means “defective or incomplete”? It is also the name of a tense in Latin"
+        answer: "IMPERFECT"
+      - question: "What English verb derived from <latin>faciō</latin> literally means “to make by hand”? "
+        answer: "MANUFACTURE"
+  - tossup:
+      question: "Whose fourteen children were killed by Apollo and Artemis?"
+      answer: "NIOBE’S"
+    boni:
+      - question: "Into what did Niobe turn because of grief for her stricken children?"
+        answer: "A (WEEPING) ROCK"
+      - question: "Why did Apollo and Artemis kill the children of Niobe?"
+        answer: "SHE HAD <emphasis>BRAGGED THAT SHE WAS SUPERIOR TO LETO</emphasis> DUE TO HER GREATER AMOUNT OF CHILLUNS / CHICKLETS"
+  - tossup:
+      question: "<latin>Ubi habitābat pauper?</latin>"
+      answer: "<latin>IN OPPIDŌ GRAECŌ / IN GRAECIĀ</latin> "
+    boni:
+      - question: "<latin>Cui pecūniam dīves dedit?</latin>"
+        answer: "<latin>PAUPERĪ</latin>  "
+      - question: "<latin>Cūr lacrimābat pauper?</latin>"
+        answer: "<latin>(QUOD/QUIA) PĀNEM NŌN HABĒBAT /</latin> <latin>FAMEM HABĒBAT</latin> / <latin>ĒSURIĒBAT</latin>"
+  - tossup:
+      question: "Who, in 312 A.D., supposedly saw a cross and a sign in a dream and used his newfound faith to slaughter the troops of his opponent?"
+      answer: "(FLAVIUS VALERIUS CONSTANTINUS) / CONSTANTINE (I / THE GREAT)"
+    boni:
+      - question: "Where did this battle take place?"
+        answer: "MILVIAN/MULVIAN BRIDGE / SAXA RUBRA (prompt on “Rome” or “outside Rome”)"
+      - question: "Who was Constantine’s opponent in this battle?"
+        answer: "(MARCUS AURELIUS VALERIUS) MAXENTIUS"
+  - tossup:
+      question: "Count backwards from ten to six in Latin using cardinal numbers"
+      answer: "<latin>DECEM, NOVEM, OCTŌ, SEPTEM, SEX</latin> "
+    boni:
+      - question: "Now count backwards using ordinal numbers from ninth to fifth"
+        answer: "<latin>NŌNUS, OCTĀVUS, SEPTIMUS, SEXTUS, QUINTUS</latin> "
+      - question: "Count by fives to twenty-five"
+        answer: "<latin>QUĪNQUE, DECEM, QUĪNDECIM, VĪGINTĪ, VĪGINTĪ (ET) QUĪNQUE / QUĪNQUE ET VĪGINTĪ</latin> "
+  - tossup:
+      question: "Which of the following English words is NOT derived from the Latin adjective <latin>līber</latin>: livery, liberal, lever, deliver, or liberty?"
+      answer: "LEVER"
+    boni:
+      - question: "From which Latin adjective is “lever” derived?"
+        answer: "<latin>LEVIS</latin> "
+      - question: "What English noun derived from <latin>levis</latin> means “any substance used to produce fermentation, especially in bread dough”?"
+        answer: "LEAVEN(ING)"
+  - tossup:
+      question: "What Thessalian mountain tribe is best known for its battle against the centaurs?"
+      answer: "LAPITHS"
+    boni:
+      - question: "At the wedding of what couple did that battle take place?"
+        answer: "PIRITHOUS AND HIPPODAMEIA"
+      - question: "What best friend of Pirithous helped him to drive the centaurs from Thessaly?"
+        answer: "THESEUS"
+  - tossup:
+      question: "When recognized, perform this command: <latin>Mōnstrā mihi manum sinistram</latin>"
+      answer: "PLAYER DEMONSTRATES/LIFTS LEFT HAND"
+    boni:
+      - question: "<latin>Nunc surge et pōne duōs digitōs in</latin> fronte <latin>tuā</latin>"
+        answer: "ONE PERSON PUTS TWO FINGERS ON HIS/HER FOREHEAD"
+      - question: "<latin>Nunc surgite vōs omnēs et tangite genua.</latin>  "
+        answer: "WHOLE TEAM STANDS AND TOUCHES THEIR KNEES"
+  - tossup:
+      question: "Using the dative case, say in Latin “for one sailor.”"
+      answer: "<latin>ŪNĪ NAUTAE</latin>"
+    boni:
+      - question: "Now use the dative case to say in Latin “for two sailors.”"
+        answer: "<latin>DUŌBUS NAUTĪS</latin>"
+      - question: "Now use the genitive case to say in Latin “of five sailors.”"
+        answer: "<latin>QUĪNQUE NAUTĀRUM</latin>"
+  - tossup:
+      question: "In what modern-day country is Mount Olympus located?"
+      answer: "GREECE (DISTRIBUTE VISUAL)"
+    boni:
+      - question: "What god is illustrated in picture A?"
+        answer: "DIONYSUS / BACCHUS"
+      - question: "What sea animals are shown in picture B, which were originally men, but transformed by Dionysus for kidnapping him?"
+        answer: "DOLPHINS"
+  - tossup:
+      question: "In ancient Rome, who would play with <latin>lūnulae</latin> and <latin>crepundia</latin> and perhaps even his <latin>bulla</latin> after being fed by a <latin>nūtrīx</latin>?"
+      answer: "A BABY"
+    boni:
+      - question: "What were a baby’s <latin>lūnulae</latin> shaped like?"
+        answer: "(HALF/CRESCENT) MOONS"
+      - question: "What was a Roman baby boy called until his name was chosen on the <latin>diēs lūstricus</latin>?"
+        answer: "<latin>PŪPUS</latin>"
+  - tossup:
+      question: "What Ithacan is usually said to be Odysseus’ father?"
+      answer: "LAERTES"
+    boni:
+      - question: "Who is the mother of Odysseus?"
+        answer: "ANTICLEA"
+      - question: "Some stories, however, say that what cunning mythological thief seduced Anticlea and was the actual father of Odysseus?"
+        answer: "AUTOLYCUS"
+  - tossup:
+      question: "Translate into Latin: The leader was showing the ship to the sailors"
+      answer: "<latin>DUX/IMPERĀTOR NĀVEM NAUTĪS OSTENDĒBAT / (DĒ)MŌNSTRĀBAT</latin> "
+    boni:
+      - question: "What case and use is “<latin>nautīs</latin>” in that sentence?"
+        answer: "DATIVE, INDIRECT OBJECT "
+      - question: "Translate into Latin: The sailors have brought food to the ship. "
+        answer: "<latin>NAUTAE CIBUM AD NĀVEM TULĒRUNT/PORTĀVĒRUNT</latin>  <latin>2011 NJCL CERTAMEN NOVICE DIVISION</latin>"

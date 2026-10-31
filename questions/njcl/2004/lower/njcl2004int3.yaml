@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "After he defeated his father and the Titans, whom did Zeus battle next?"
+      answer: "GIANTS"
+    boni:
+      - question: "Name the Titaness and former consort of Zeus who advised him to wear the aegis as a breastplate when fighting the Giants?"
+        answer: "THEMIS"
+      - question: "What hero helped Zeus defeat the Giants?"
+        answer: "HERACLES"
+  - tossup:
+      question: "Using a deponent verb, say in Latin, “Men, Follow the leader!”"
+      answer: "<latin>SEQUIMINĪ</latin> <latin>DUCEM, VIRĪ/ HOMINĒS</latin>"
+    boni:
+      - question: "Using a deponent verb, say in Latin, “Aulus, follow me!”"
+        answer: "<latin>AULE, SEQUERE MĒ</latin>"
+      - question: "Using a deponent verb, say in Latin, “Tiberius, use this!”"
+        answer: "<latin>TIBER</latin><latin>Ī,</latin> <latin>ŪTERE HŌC / HĀC</latin>"
+  - tossup:
+      question: "Of the verb <latin>exspectō</latin>, give the first person singular imperfect active subjunctive"
+      answer: "<latin>EXSPECTĀREM</latin>"
+    boni:
+      - question: "Change <latin>exspectārem</latin> to the perfect tense"
+        answer: "<latin>EXSPECTĀVERIM</latin>"
+      - question: "Change <latin>exspectāverim</latin> to the pluperfect tense"
+        answer: "<latin>EXSPECTĀVISSEM</latin>"
+  - tossup:
+      question: "At what battle did Decius Mus sacrifice his own life in order to ensure victory against the Samnites?"
+      answer: "SENTINUM"
+    boni:
+      - question: "What is the Latin term for this giving of one’s life to ensure victory?"
+        answer: "DEVOTIO"
+      - question: "Name the other commander who was probably responsible for the victory"
+        answer: "(FABIUS) RULLIANUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in Latin the question about it: <latin>Dux exercituī ait, “Iam septimus annus est, mīlitēs, ex quō tempore virtūte vestrā atque fidē, Britannōs vīcistis. Ēgressī igitur ē prōvinciā nunc ad fīnēs Britanniae pervēnimus.”</latin> The question: <latin>Quot annōs pugnāvērunt mīlitēs?</latin>"
+      answer: "SEPTEM OR SEX"
+    boni:
+      - question: "<latin>Ubi sunt mīlitēs nunc?</latin>"
+        answer: "<latin>AD FĪNĒS BRITANNIAE</latin> / IN BRITANNIĀ"
+      - question: "<latin>Quōmodo mīlitēs hostēs vīcērunt?</latin>"
+        answer: "<latin>VIRTŪTE (SUĀ) ET FIDE</latin>"
+  - tossup:
+      question: "What derivative of the Latin verb <latin>iaciō</latin> means \"to interrupt or insert\" a comment?"
+      answer: "INTERJECT"
+    boni:
+      - question: "\"a stream of liquid or gas which gushes out suddenly.\""
+        answer: "JET"
+      - question: "\"a guess or inference.\""
+        answer: "CONJECTURE"
+  - tossup:
+      question: "What city’s walls did Amphion build by moving the stones into place with the music of his lyre?"
+      answer: "THEBES"
+    boni:
+      - question: "Whom did Amphion marry?"
+        answer: "NIOBE"
+      - question: "What foolish boast cost Niobe the lives of her children?"
+        answer: "MORE CHILDREN THAN LETO (MOTHER OF APOLLO & ARTEMIS)"
+  - tossup:
+      question: "An inscription on a bronze statue in the Archeological Museum of Florence reads <latin>“Hūc vēnī</latin> <latin>Delphīs et frātre relictō</latin>.” What use of the Ablative case is <latin>frātre relictō</latin>?"
+      answer: "ABSOLUTE"
+    boni:
+      - question: "According to this inscription, from where had the speaker traveled?"
+        answer: "DELPHI"
+      - question: "Say in Latin, “at Delphi”"
+        answer: "<latin>DELPHĪS</latin>"
+  - tossup:
+      question: "Though he allowed several gladiatorial shows to be given, which emperor issued an edict abolishing gladiatorial games in AD 323?"
+      answer: "CONSTANTINE (I or GREAT)"
+    boni:
+      - question: "Which emperor in AD 367 stopped the practice of condemning Christians to the gladiatorial schools?"
+        answer: "VALENTINIAN I"
+      - question: "Which emperor in AD 404 permanently banned all gladiatorial combats?"
+        answer: "HONORIUS"
+  - tossup:
+      question: "Who was condemned to suffer everlasting thirst and hunger in the underworld?"
+      answer: "TANTALUS"
+    boni:
+      - question: "What crime had Tantalus committed?"
+        answer: "(TESTED OMNISCIENCE OF GODS BY) (KILLING, COOKING AND) <emphasis>FED</emphasis> HIS <emphasis>SON</emphasis> (IN A STEW) TO THE <emphasis>GODS</emphasis>"
+      - question: "Name Tantalus’ son whom the gods restored to life"
+        answer: "PELOPS"
+  - tossup:
+      question: "Which of the following, if any, does NOT come from the same Latin root? cordial record courage EXCORIATE discord"
+      answer: "EXCORIATE <emphasis>(Moderators: respond to a correct answer with: “Correct. The others come from ēcor’ meaning ēheart’ while ēexcoriate’ comes from ēcorium’ meaning ēskin’.”)</emphasis>"
+    boni:
+      - question: "Study these Latin proverbs for 15 seconds. (Wait 15 seconds) Which of these Latin proverbs is closest in meaning to the English saying, “You can’t teach an old dog new tricks.”?"
+        answer: "D"
+      - question: "Which of these proverbs is closest in meaning to our phrase, “To hit the nail on the head”?"
+        answer: "E"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Nōn dēbēs timēre in senātū</latin> <latin>dīcere</latin>"
+      answer: "YOU OUGHT NOT FEAR TO SPEAK IN THE SENATE"
+    boni:
+      - question: "Translate the following sentence into English: <latin>plērīque metuunt morī</latin>"
+        answer: "VERY MANY / MOST FEAR DYING / ARE AFRAID TO DIE (Do not accept “several” for “<latin>plērīque”</latin>)"
+      - question: "Translate the following sentence into English: <latin>Veritī</latin> <latin>sumus nē</latin> <latin>urbs capta esset</latin>"
+        answer: "WE FEARED THAT THE CITY HAD BEEN CAPTURED"
+  - tossup:
+      question: "What 37- mile long structure was Lollius Urbicus in charge of building?"
+      answer: "ANTONINE WALL"
+    boni:
+      - question: "Only the foundation of the wall was built of stone. Of what was the top portion constructed?"
+        answer: "TURF / DIRT / SOD"
+      - question: "In whose reign was the Antonine Wall abandoned?"
+        answer: "COMMODUS’"
+  - tossup:
+      question: "Give the perfect participle of the verb <latin>proficīscor</latin>"
+      answer: "<latin>PROFECTUS (-A-UM)</latin>"
+    boni:
+      - question: "Translate that participle"
+        answer: "HAVING LEFT/ STARTED OUT"
+      - question: "Use the present participle of <latin>proficīscor</latin> to translate the participle in the following sentence: \"Everyone lined the highway to watch Caesar as he was setting out for Gaul.\""
+        answer: "<latin>PROFICĪSCENTEM</latin>"
+  - tossup:
+      question: "In preparation for which of his labors was Heracles initiated into the Eleusinian Mysteries?"
+      answer: "FETCHING OF CERBERUS FROM THE UNDERWORLD"
+    boni:
+      - question: "What three other monsters already encountered by Heracles were also the offspring of Typhon and Echidna?"
+        answer: "HYDRA, ORTH(R)US, & NEMEAN LION"
+      - question: "Under what condition did Hades allow Heracles to take Cerberus?"
+        answer: "COULD NOT USE WEAPONS TO SUBDUE THE DOG"
+  - tossup:
+      question: "If you were the Speaker of the House, what Latin phrase would you use to adjourn without a specifIc day to reconvene?"
+      answer: "<latin>SINE DIĒ</latin>"
+    boni:
+      - question: "What is the Latin word for the number of House members needed to be present to legally transact business?"
+        answer: "<latin>QUŌRUM</latin>"
+      - question: "What Latin phrase might a House member use in a speech questioning who would benefit from a proposed law?"
+        answer: "<latin>CUI BONŌ</latin>"
+  - tossup:
+      question: "What military disaster forced Augustus to move the frontier of the Empire back to the Rhine river?"
+      answer: "TEUTO(N)BURG(ER) FOREST"
+    boni:
+      - question: "What river had Augustus hoped to maintain as the frontier boundary before the disaster?"
+        answer: "ELBE"
+      - question: "What city on the Rhine served as Roman fleet headquarters in this part of the empire?"
+        answer: "COLONIA AGRIPPINENSIS/COLOGNE"
+  - tossup:
+      question: "Using a defective verb, say in Latin, “He says.”"
+      answer: "<latin>INQUIT / AIT</latin>"
+    boni:
+      - question: "Using that same defective verb, say in Latin, “They say.”"
+        answer: "<latin>INQUIUNT / AIUNT</latin>"
+      - question: "Using a defective verb, say in Latin, “I was remembering.”"
+        answer: "<latin>MEMINERAM</latin>"
+  - tossup:
+      question: "Who told Odysseus that before he could go home he must visit the Underworld?"
+      answer: "CIRCE"
+    boni:
+      - question: "With whom was it necessary for Odysseus to talk in the Underworld?"
+        answer: "TIRESIAS"
+      - question: "According to Homer, what body of water was it necessary for Odysseus to cross to reach the grove of Persephone and the entrance to the Underworld?"
+        answer: "(RIVER/STREAM OF ) OCEANUS"
+  - tossup:
+      question: "What is the Latin term for the wax masks of deceased ancestors?"
+      answer: "<latin>IMĀGINĒS</latin>"
+    boni:
+      - question: "In what area off of the atrium were the <latin>imāginēs</latin> kept and displayed on certain holidays?"
+        answer: "<latin>ALAE</latin>"
+      - question: "When were the <latin>imāginēs</latin> taken out of the house?"
+        answer: "FOR FUNERAL PROCESSIONS"

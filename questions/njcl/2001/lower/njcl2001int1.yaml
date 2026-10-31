@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "You are sitting in an ancient Roman restaurant"
+      answer: "A"
+    boni:
+      - question: "waiter comes up to you and asks “<latin>Quid</latin>  <latin>vīs potāre</latin>?” What does the waiter want to know?"
+        answer: "WHAT YOU <emphasis>WANT TO DRINK</emphasis>"
+      - question: " After bringing you something to drink, you tell the waiter “<latin>Fer ad me aliquid pānis</latin>!” What are you telling the waiter?"
+        answer: "TO <emphasis>BRING</emphasis> YOU (SOME) <emphasis>BREAD</emphasis>"
+      - question: "The waiter then responds, “<latin>Feram cibum quam celerrimē</latin>.” What is he telling you?"
+        answer: "THAT HE’S <emphasis>BRINGING</emphasis> / WILL BRING THE <emphasis>FOOD</emphasis>"
+  - tossup:
+      question: "What Latin phrase is commonly used in English to mean “in secret” or “secretly?”"
+      answer: "<latin>SUB ROSĀ</latin>"
+    boni:
+      - question: "What Latin phrase is commonly used in English to mean “an indispensable/necessary condition?"
+        answer: "<latin>(CAUSA) SINE QUĀ</latin> <latin>NŌN</latin>"
+      - question: "What Latin phrase and state motto is commonly used in English to mean “let military power yield to civilian authority?”"
+        answer: "<latin>CĒDANT ARMA TOGAE</latin>"
+  - tossup:
+      question: "Who produced Gaea, Tartarus, Eros, Erebus, and Nyx?"
+      answer: "CHAOS"
+    boni:
+      - question: "Which of those offspring in later literature was NOT Chaos' child?"
+        answer: "EROS"
+      - question: "Who was the mother of Eros in later myths?"
+        answer: "APHRODITE OR EILEITHYIA"
+  - tossup:
+      question: "Who took refuge at Caere in Etruria after he and his sons were banished from Rome in 510 BC?"
+      answer: "(L.) TARQUINIUS SUPERBUS"
+    boni:
+      - question: "With what king of Clusium did Superbus next seek refuge?"
+        answer: "(LARS) PORSENA"
+      - question: "Whose courage supposedly convinced Porsena to stop his siege of Rome and make peace?"
+        answer: "(C.) MUCIUS SCAEVOLA’S / MUCIUS’ / SCAEVOLA’S"
+  - tossup:
+      question: "Change the phrase <latin>fēmina celeris</latin> to the genitive singular"
+      answer: "<latin>FĒMINAE CELERIS</latin>"
+    boni:
+      - question: "Change <latin>fēminae celeris</latin> to the genitive plural"
+        answer: "<latin>FĒMINĀRUM CELERIUM</latin>"
+      - question: "Change <latin>fēminārum celerium</latin> to the nominative plural"
+        answer: "<latin>FĒMINAE CELERĒS</latin>"
+  - tossup:
+      question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>urbs</latin>, <latin>imāgō</latin>, <latin>plēbs</latin>, <latin>pēs</latin>, <latin>pietās</latin>?"
+      answer: "<latin>PĒS</latin>"
+    boni:
+      - question: ". . . <latin>mare</latin>, <latin>serpēns</latin>, <latin>nihil</latin>, <latin>lītus</latin>, <latin>cōr</latin>?"
+        answer: "<latin>SERPĒNS</latin>"
+      - question: "What is the name for nouns such as <latin>locus</latin> and <latin>balneum</latin> that vary in gender?"
+        answer: "HETEROGENEOUS"
+  - tossup:
+      question: "Which of the Julio-Claudian emperors was the youngest son of Drusus and Antonia the Younger?"
+      answer: "(TIBERIUS) CLAUDIUS (DRUSUS NERO)"
+    boni:
+      - question: "What group first proclaimed Claudius emperor in January, AD 41?"
+        answer: "PRAETORIAN GUARD"
+      - question: "Name Claudius’ nephew who had just been assassinated by a member of the Guard"
+        answer: "GAIUS (CALIGULA) / CALIGULA"
+  - tossup:
+      question: "Whose flesh melted off her bones when she put on a cloak sent to her by Medea?"
+      answer: "GLAUCE / CREUSA"
+    boni:
+      - question: "Who was Glauce's father?"
+        answer: "CREON"
+      - question: "In which city did they live?"
+        answer: "CORINTH"
+  - tossup:
+      question: "Whose army, composed mostly of slaves, preferred to continue to plunder Italy rather than seek freedom beyond its borders?"
+      answer: "SPARTACUS’"
+    boni:
+      - question: "From what general did Pompey try to steal the credit for the defeat of Spartacus in 71 B. C.?"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "Along what road did Crassus crucify 6,000 captured slaves to demonstrate that he, not Pompey, was responsible for Spartacus’ defeat?"
+        answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō</latin> <latin>tectō</latin> <latin>huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit.</latin>  <latin>Quod nōmen datum est prīmae partī</latin> <latin>domūs Rōmānae?</latin>"
+      answer: "ĀTRIUM"
+    boni:
+      - question: "Ubi apertum spatium situm est? "
+        answer: "<latin>IN (MEDIŌ) TECTŌ</latin> <latin>(HUIUS PARTIS / ĀTRIĪ)</latin>"
+      - question: "  <latin>SUPER (or SUPRĀ) IMPLUVIUM</latin>  <latin>Quid in impluvium dēscendit?</latin>"
+        answer: "PLUVIA /AQUA / IMBER / NIMBUS"
+  - tossup:
+      question: "What use of the dative case is found in the following Latin sentence: <latin>Urbs mihi regnanda est</latin>?"
+      answer: "AGENCY"
+    boni:
+      - question: "<latin>canis mihi nōn est</latin>?"
+        answer: "POSSESSION"
+      - question: "Using the dative, say in Latin “This dog is a great help to me.”"
+        answer: "<latin>IS</latin> / <latin>EA</latin>"
+  - tossup:
+      question: "What Amazon queen aided the Trojans?"
+      answer: "PENTHESILEA"
+    boni:
+      - question: "Penthesilea helped the Trojans because King Priam had purified her for the murder of which other Amazon?"
+        answer: "HIPPOLYTA/MELANIPPE/GLAUCE"
+      - question: "What Greek fell in love with Penthesilea’s corpse?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "Give a Latin synonym of the verb <latin>vereor</latin>"
+      answer: "<latin>TIMEŌ</latin>, <latin>METUŌ</latin>, (<latin>EX</latin>- <latin>PER</latin>-)-<latin>TIMESCŌ</latin>"
+    boni:
+      - question: "of the verb <latin>arbitror</latin>?"
+        answer: "<latin>PUTŌ</latin>, <latin>EXISTIMŌ</latin>, <latin>REOR</latin>, <latin>OPĪNOR</latin>, <latin>CENSEŌ</latin>, <latin>COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō</latin> / <latin>crēdō</latin> and <latin>arbitror</latin>)"
+      - question: "of the verb <latin>ēgredior</latin>?"
+        answer: "<latin>EXEŌ</latin>, (<latin>DIS</latin>- <latin>EX</latin>-)-<latin>CĒDŌ</latin>, <latin>ĒMIGRŌ</latin>, <latin>ĒVĀDŌ</latin>"
+  - tossup:
+      question: "What emperor said “Go to the rising sun; my sun is setting.” as he was dying in A"
+      answer: "D."
+    boni:
+      - question: "180?"
+        answer: "MARCUS AURELIUS"
+      - question: "What Germanic tribe was Aurelius about to defeat after a long series of wars when he died in 180?"
+        answer: "MARCO(M)MANNI"
+      - question: "Who was Aurelius’ heir who bought peace from the Marcomanni so that he could return to the pleasures of Rome?"
+        answer: "(HIS SON) COMMODUS"
+  - tossup:
+      question: "What do we call the daughters of Atlas and Pleione?"
+      answer: "PLEIADES (OR HYADES)"
+    boni:
+      - question: "How many Pleiades were there?"
+        answer: "SEVEN"
+      - question: "They were turned into stars to escape what hunter, who still pursues them in the heavens?"
+        answer: "ORION"
+  - tossup:
+      question: "Of the Labors of Heracles, which is usually listed as the last?"
+      answer: "FETCHING CERBERUS "
+    boni:
+      - question: "Which letter or letters indicate labors which involved Heracles’ bringing back an animal alive?"
+        answer: "C & D"
+      - question: "In the picture labeled “D”, who is the gentleman at the bottom of the picture with his hands outstretched?"
+        answer: "EURYSTHEUS"
+  - tossup:
+      question: "Change the verb <latin>mittēbāmur</latin> to the singular"
+      answer: "<latin>MITTĒBAR</latin>"
+    boni:
+      - question: "Change <latin>mittēbar</latin> to the future"
+        answer: "<latin>MITTAR</latin>"
+      - question: "Change <latin>mittar</latin> to future plural"
+        answer: "<latin>MITTĒMUR</latin>"
+  - tossup:
+      question: "Translate the following sentence into English as literally as possible: <latin>Dominus, postquam cibum gustāvit, coquum laudāvit.</latin> "
+      answer: "AFTER HE TASTED THE FOOD, THE MASTER PRAISED THE COOK (accept variations of placement of “he” and “master”)"
+    boni:
+      - question: "<latin>Dum canis dormit, fēlēs avem cōnsūmpsit.</latin> "
+        answer: "WHILE THE DOG WAS SLEEPING / SLEPT, THE CAT ATE THE BIRD."
+      - question: "<latin>Cum patrem meum vīderō, eum pecūniam rogāb</latin><latin>ō.</latin> "
+        answer: "WHEN I SEE / WILL HAVE SEEN / SHALL HAVE SEEN MY FATHER, I WILL ASK HIM FOR MONEY."
+  - tossup:
+      question: "What derivative of the Latin noun <latin>modus</latin> means “an article of commerce?”"
+      answer: "COMMODITY"
+    boni:
+      - question: "means “a small alteration?”"
+        answer: "MODIFICATION, ACCOMMODATION"
+      - question: "means “chamber pot?”"
+        answer: "COMMODE"
+  - tossup:
+      question: "At what temple did a triumphal procession end?"
+      answer: "TEMPLE OF JUPITER CAPITOLINUS / CAPITOLINE JUPITER / JUPITER OPTIMUS MAXIMUS"
+    boni:
+      - question: "What did the triumphant general sacrifice to Jupiter?"
+        answer: "WHITE BULL(S)/OX(EN)/COW(S) (WITH GILDED HORNS) (“Cow” is acceptable in English as a gender-neutral word)"
+      - question: "What was usually the last activity of a triumph?"
+        answer: "BANQUET/FEAST"

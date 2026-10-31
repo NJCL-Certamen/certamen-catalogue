@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who, after Cinna’s death, became sole consul in 84 BC?"
+      answer: "(CN. PAPIRIUS) CARBO"
+    boni:
+      - question: "At the onset of Sulla’s homecoming, who was consul with Carbo in 82 BC?"
+        answer: "MARIUS THE YOUNGER"
+      - question: "Where in 82 BC did Sulla wipe out the last Marian army as well as conduct a massacre of  the Samnites?"
+        answer: "(BATTLE OF THE) COLLINE GATE"
+  - tossup:
+      question: "Jokingly referred to by Augustus as a “Pompeian” for his Republican sympathies, which author supposedly wrote favorably about Pompey the Great, though we cannot know for sure as this section of his 142 book history of Rome is lost to us?"
+      answer: "(TITUS) LIVY(/LIVIUS)"
+    boni:
+      - question: "What is the Latin term for the designation assigned to Livy by a contemporary academic, which describes traces of Livy’s provincial style?"
+        answer: "<latin>PATAVINITĀS</latin>"
+      - question: "What contemporary, according to Quintilian, drew this attention to Livy’s <latin>Patavinitās</latin>?"
+        answer: "ASINIUS POLLIO"
+  - tossup:
+      question: "When applying for a job in academia, it is customary to submit a list of one's relevant education and  job experiences. This listing is often called a CV. For what Latin phrase does that abbreviation  stand?"
+      answer: "<latin>CURRICULUM VĪTAE</latin>"
+    boni:
+      - question: "What Latin phrase is used nowadays to indicate that a meeting is adjourned and the date of the next  meeting has not yet been determined?"
+        answer: "<latin>SINE DIĒ</latin>"
+      - question: "Translate into English the Latin phrase <latin>'Fideī Dēfensor'</latin>, found among the titles of the queen of  England."
+        answer: "DEFENDER OF THE FAITH"
+  - tossup:
+      question: "From what Latin preposition and what Latin verb does the Latin noun <latin>comes</latin> derive?"
+      answer: "<latin>CUM</latin> AND <latin>EŌ/ ĪRE</latin>"
+    boni:
+      - question: "I am certain that you can answer this bonus if you know that “certain” comes from what basic Latin  verb, meaning “decide, see”?"
+        answer: "<latin>CERNŌ</latin>/ <latin>CERNERE</latin>"
+      - question: "What English word, derived from <latin>caput</latin>, means a piece of cloth under which you can hide your head  if you miss this bonus?"
+        answer: "(HAND)KERCHIEF [NOT “CAPE”]"
+  - tossup:
+      question: "Who in his younger days took all three lives of Erulus, king of Praeneste, but was too old to fight  against the Rutulians and sent his son Pallas in his place?"
+      answer: "EVANDER"
+    boni:
+      - question: "According to Virgil, which wicked Etruscan king was driven out by his people for his cruelty,  including putting people to death by chaining them to rotting corpses?"
+        answer: "MEZENTIUS"
+      - question: "According to an earlier tradition, which hero, whose body was never found, was either swept up in the  river or taken up to heaven after he fell in battle along with Mezentius and the Rutulians?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Please listen to the following sentences from Caesar’s <title><latin>Dē Bellō Gallicō</latin></title>, which I will read  twice, and answer the question that follows in English:  <latin>Agrī cultūrae nōn student, maiorque pars eōrum victūs in lacte, cāseō, carne cōnsistit.  Neque quisquam agrī modum certum aut fīnēs habet propriōs; sed magistrātūs ac prīncipēs  in annōs singulōs gentibus cōgnātiōnibusque hominum quantum agrī attribuunt.</latin> (repeat)  The question: What consisted the greater part of the natives’ diet?"
+      answer: "MILK, CHEESE, & MEAT"
+    boni:
+      - question: "What did the natives not have?"
+        answer: "A DEFINITE AMOUNT OF LAND / HIS OWN ESTATE / HIS  OWN TERRITORY"
+      - question: "What do the magistrates and the chieftains do each and every year?"
+        answer: "ASSIGN TO TRIBES (AND CLANS AS MUCH) LAND (AS IS PROPER)"
+  - tossup:
+      question: "What 13 year old boy, after the Praetorian Guard murdered Pupienus and Balbinus, became emperor  in the tumultuous year of"
+      answer: "238 BC GORDIAN III"
+    boni:
+      - question: "What capable praetorian prefect acted as an advisor to Gordian III during the beginning of his reign?"
+        answer: "TIMESITHEUS"
+      - question: "What replacement of Timesitheus later deposed Gordian III, taking the throne for himself?"
+        answer: "PHILIP THE ARAB / MARCUS JULIUS PHILIPPUS"
+  - tossup:
+      question: "Identify the speaker of the following lines from Vergil’s <title>Aeneid</title><title><latin>,</latin></title> which I shall read as prose<latin>:  exstinxtī tē mēque, soror, populumque patrēsque/  Sīdoniōs urbemque tuam. date, vulnera lymphīs/  abluam et, extrēmus sī quis super halitus errat/  ōre legam</latin>."
+      answer: "DIDO"
+    boni:
+      - question: "To whom is Dido speaking?"
+        answer: "ANNA"
+      - question: "Under what circumstances is this line being spoken?"
+        answer: "DIDO IS PREPARING TO KILL HERSELF"
+  - tossup:
+      question: "Which conflict, by some accounts, was instigated by the plan of Zeus who wished to end the age of  heroes, though other accounts attribute its roots to imperialist greed or the judgment of Paris?"
+      answer: "TROJAN WAR"
+    boni:
+      - question: "Which mortal did the gods make Aphrodite fall in love with as punishment for all the mortals she  caused them to sleep with over the years?"
+        answer: "ANCHISES"
+      - question: "Supposedly, the dalliance of Aphrodite and Anchises was the last time gods and men mixed to  produce semi-divine heroic offspring. What happened to Anchises after he bragged about his  affair with Aphrodite?"
+        answer: "HE WAS CRIPPLED BY ZEUS’ THUNDERBOLT"
+  - tossup:
+      question: "Give the present passive imperatives for the verb <latin>premō.</latin>"
+      answer: "<latin>PREMERE, PREMIMINĪ</latin>"
+    boni:
+      - question: "Give the archaic present passive infinitive for the same verb."
+        answer: "<latin>PREMIER</latin>"
+      - question: "Please supply the correct perfect tense form of <latin>premō</latin> that is needed to complete the following line of  dactylic hexameter from Vergil: <latin>et trepidae mātrēs _____ ad pectora nātōs.</latin>"
+        answer: "<latin>PRESSĒRE</latin>"
+  - tossup:
+      question: "The Samnite Linen Legion were defeated by the Romans at what battle in 293 BC?"
+      answer: "AQUILONIA"
+    boni:
+      - question: "Who was the Roman commander at this battle?"
+        answer: "(L.) PAPIRIUS CURSOR"
+      - question: "At what battle of 295 BC was Scipio Barbatus defeated by the Samnites?"
+        answer: "CAMERINUM"
+  - tossup:
+      question: "“<latin>Semper ego auditor tantum?”</latin> begins an indignant rant against contemporary artifice and frivolity at the beginning of the first of sixteen satires from what native of Aquinum in southern Latium?"
+      answer: "(DECIMUS JUNIUS) JUVENAL"
+    boni:
+      - question: "What emperor was the target of several of Juvenal’s invectives?"
+        answer: "DOMITIAN"
+      - question: "Juvenal’s sixth satire is a lengthy tirade against women, directed at a man foolish enough to desire  marriage. What does Juvenal suggest the man do instead of getting married?"
+        answer: "COMMIT SUICIDE"
+  - tossup:
+      question: "Please translate into English: <latin>Veritus sum nē hoc facerēs</latin>."
+      answer: "I FEARED THAT YOU WOULD / MIGHT DO / WERE DOING THIS"
+    boni:
+      - question: "Please translate into English: <latin>Quamvīs ad castra vēnissent, imperātōrem tamen nōn vidērunt.</latin>"
+        answer: "ALTHOUGH THEY HAD COME TO THE CAMP, YET / STILL / NEVERTHELESS THEY DID NOT SEE THE EMPEROR / COMMANDER / LEADER"
+      - question: "Please translate into English: <latin>Dīxit eum, sī illud faceret, peccāre.</latin>"
+        answer: "HE SAID THAT IF HE WAS DOING THAT, HE WAS DOING WRONG / SINNING"
+  - tossup:
+      question: "What man received a magical potion of immortality from Zeus so he could never die while spinning  on a burning wheel for trying to seduce Hera?"
+      answer: "IXION ("
+    boni:
+      - question: "Who is “This Guy”, another one of the sinners in the Underworld?"
+        answer: "OCNUS"
+      - question: "Who are the parents of “That Dude”?"
+        answer: "AEOLUS & ENARETE"
+  - tossup:
+      question: "Say in Latin using <latin>ūsus est</latin>: I need money."
+      answer: "<latin>PECŪNIĀ MIHI ŪSUS EST</latin>"
+    boni:
+      - question: "Say in Latin using <latin>fore</latin> and the verb <latin>petō</latin>: He says that peace will be sought."
+        answer: "<latin>DĪCIT FORE UT PĀX PETĀTUR</latin>"
+      - question: "Say in Latin using only three words: Let them play, provided that they work."
+        answer: "<latin>LŪDANT, DUM / DUMMODO / MODO / LABŌRENT</latin>"
+  - tossup:
+      question: "Which Assembly in Rome was responsible for electing censors, praetors, and consuls?"
+      answer: "<latin>COMITIA CENTURIĀTA</latin>"
+    boni:
+      - question: "What was the oldest assembly in Rome?"
+        answer: "<latin>COMITIA CŪRIĀTA</latin>"
+      - question: "Into how many <latin>Cūriae</latin> were the Roman people originally organized?"
+        answer: "30"
+  - tossup:
+      question: "How often should a medication taken if it is labeled with the abbreviation <latin>o.h.</latin> (read “O” period “H”  period), which stands for <latin>omnī hōrā</latin>?"
+      answer: "EVERY HOUR"
+    boni:
+      - question: "Where should you apply a medication that is labeled <latin>p.a.a.</latin>?"
+        answer: "TO THE AFFECTED PART (<latin>PARTĪ AFFECTAE APPLICANDUS</latin>)"
+      - question: "If the doctor writes <latin>qt. dx.</latin> on his prescription for you to take back to the pharmacist, what is she  instructing your pharmacist to do with the prescription?"
+        answer: "TO DOUBLE THE QUANTITY (<latin>QUANTITĀS DUPLEX</latin>)"
+  - tossup:
+      question: "Which Roman poet relies heavily on Thucydides for his own description of the plague of Athens and frequently employs archaic forms throughout his six books of Epicurean poetry."
+      answer: "(TITUS) LUCRETIUS (CARUS)"
+    boni:
+      - question: "Besides the archaic language, name another way Lucretius pays homage to Ennius’ influence on Latin poetry."
+        answer: "USE OF HEXAMETER"
+      - question: "The use of didactic poetry did not have a model in Latin literature at the time Lucretius wrote his <title><latin>Dē  Rērum Nātūrā</latin></title>; thus, he looked to Greek models for his format as well as his philosophy. What  Greek philosopher does Lucretius himself credit as a major influence?"
+        answer: "<latin>EPICURUS</latin>"
+  - tossup:
+      question: "Quid significat Anglicē “praesertim”?"
+      answer: "ESPECIALLY"
+    boni:
+      - question: "<latin>Quid significat Anglicē “iūs iūrandum”</latin>?"
+        answer: "OATH"
+      - question: "<latin>Quid significat Anglicē “stīpō”?</latin>"
+        answer: "PACK / CROWD AROUND"
+  - tossup:
+      question: "What daughter of Cinyras was overcome by an unnatural lust for her father and, after tricking him  into sleeping with her, was turned into a tree that bears her name, giving birth to Adonis from her  bark?"
+      answer: "MYRRHA / SMYRNA"
+    boni:
+      - question: "What young girl was changed into a tree after picking some bleeding branches from another tree,  which turned out to be the transformed nymph Lotis?"
+        answer: "DRYOPE"
+      - question: "What fertility god would have surprised Lotis in the middle of the night if the braying of Silenus’  donkey had not woken her and her Bacchic comrades?"
+        answer: "PRIAPUS"

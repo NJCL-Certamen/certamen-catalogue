@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "During which festival would a Roman boy put away his <latin>īnsignia puerītiae</latin>, including his <latin>bulla</latin> and <latin>toga praetexta</latin>?"
+      answer: "<latin>LĪBERĀLIA</latin> "
+    boni:
+      - question: "Where would the boy ceremonially lay these items down?"
+        answer: "<latin>LARARIUM</latin> / (IN FRONT OF HIS HOUSE’S) <latin>LARĒS</latin> / IN FRONT OF THE FAMILY ALTAR / SHRINE"
+      - question: "What was the Latin term for the type of tunic he would put on before donning his first <latin>toga virīlis</latin>?"
+        answer: "<latin>(TUNICA) RĒCTA</latin> "
+  - tossup:
+      question: "What Roman general was captured by the Carthaginians and then sent back to Rome to ask the Senate for peace terms favorable to Carthage?"
+      answer: "(M. ATTILIUS) REGULUS"
+    boni:
+      - question: "What did Regulus actually ask the Senate to do?"
+        answer: "REFUSE THE PEACE / INCREASE THE WAR EFFORT"
+      - question: "What mercenary hired by the Carthaginians later defeated and captured Regulus?"
+        answer: "XANTHIPPUS"
+  - tossup:
+      question: "What two goddesses became implacable enemies of Troy and the whole Trojan race when they lost a beauty contest?"
+      answer: "HERA / JUNO & ATHENA / MINERVA"
+    boni:
+      - question: "Who judged the beauty contest?"
+        answer: "PARIS / ALEXANDER"
+      - question: "What dire prediction had been made at Paris’ birth?"
+        answer: "WOULD DESTROY TROY"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “portray,” “trait,” “train,” and “traction.”"
+      answer: "<latin>TRĀHŌ</latin>, <latin>TRĀHERE</latin> - PULL. DRAG, DRAW"
+    boni:
+      - question: "What English derivative of <latin>trāhō</latin> means “a formal agreement between two or more nations”?"
+        answer: "TREATY"
+      - question: "What English derivative of the perfect participle of <latin>trāhō</latin> means “drawn out in time or space”?"
+        answer: "PROTRACTED"
+  - tossup:
+      question: "Harry Potter mania mercilessly rages on. In the Latin translation of Harry Potter, what is the literal translation of the character called “<latin>Magister Potiōnum</latin>?”"
+      answer: "THE TEACHER OF POTIONS / MASTER OF POTIONS / PROFESSOR OF POTIONS"
+    boni:
+      - question: "What is the literal translation of the character called “<latin>Petasus Distribuēns</latin>?”"
+        answer: "THE SORTING HAT / THE DISTRIBUTING HAT"
+      - question: "On his school supply list, Harry is instructed to purchase “<latin>baculum ūnum.”</latin> What is that?"
+        answer: "A / ONE WAND / STICK / STAFF"
+  - tossup:
+      question: "What creature did Heracles capture by chasing it into a snowbank?"
+      answer: "ERYMANTHIAN BOAR"
+    boni:
+      - question: "What expedition did Heracles join after taking the boar to Eurystheus?"
+        answer: "ARGONAUTS / ARGONAUTICA / QUEST FOR THE GOLDEN FLEECE"
+      - question: "Why did Heracles leave the expedition early?"
+        answer: "TO SEARCH FOR THE MISSING HYLAS (WHO HAD BEEN KIDNAPPED BY WATER NYMPHS)"
+  - tossup:
+      question: "Using <latin>habeō</latin>, translate the following sentence into Latin: I have two good friends."
+      answer: "<latin>DUŌ(S) BONŌS AMĪCŌS / DUĀS BONĀS AMĪCĀS HABEŌ</latin>"
+    boni:
+      - question: "Translate that same sentence again using <latin>sum</latin>, <latin>esse</latin>."
+        answer: "<latin>DUO BONĪ</latin> <latin>AMĪCĪ</latin> <latin>/ DUAE BONAE AMĪCAE MIHI SUNT</latin> "
+      - question: "Translate into Latin: My friends are braver than I."
+        answer: "<latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS QUAM EGO</latin> / <latin>MEĪ</latin> <latin>AMĪCĪ</latin> <latin>/ MEAE AMĪCAE SUNT FORTIŌRĒS MĒ</latin>"
+  - tossup:
+      question: "What is the Latin phrase used in English to mean “tit for tat”?"
+      answer: "<latin>QUID PRŌ</latin> <latin>QUŌ</latin>"
+    boni:
+      - question: "What is the Latin phrase used in English to mean “yearly”?"
+        answer: "<latin>PER ANNUM</latin> "
+      - question: "What is the Latin phrase used in English to mean “forever”?"
+        answer: "<latin>AD INFĪNĪTUM / AD NAUSEAM / IN PERPETUUM / IN AETERNUM</latin> "
+  - tossup:
+      question: "When recognized by the spotter, follow this Latin instruction: <latin>Fac sōnum fēlis</latin>."
+      answer: "STUDENT SHOULD SOUND LIKE A CAT / PURR / MEOW"
+    boni:
+      - question: "<latin>Omnēs, facite sōnum porcōrum</latin>."
+        answer: "ALL STUDENTS ON THE TEAM SHOULD MAKE PIG SOUNDS / OINK"
+      - question: "<latin>Duo ex vōbīs, facite sōnum lupōrum</latin>."
+        answer: "TWO STUDENTS ON THE TEAM SHOULD MAKE WOLF SOUNDS / GROWL / HOWL"
+  - tossup:
+      question: "Which relative of Scipio Africanus was the mother of two of Rome’s most famous tribunes?"
+      answer: "CORNELIA"
+    boni:
+      - question: "What is the Latin term for the large estates owned by the wealthy that the tribune Tiberius Gracchus wanted to redistribute to small farmers?"
+        answer: "<latin>LATIFUNDIA</latin> "
+      - question: "Which of Tiberius’ fellow tribunes blocked his land-reform legislation until Tiberius got him voted out of office?"
+        answer: "(M.) OCTAVIUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Illō</latin> <latin>diē, duo ex fīliīs rēgis domum reveniēbant</latin>."
+      answer: "(ON) THAT DAY, TWO OF THE KING’S SONS WERE RETURNING / RETURNED HOME"
+    boni:
+      - question: "<latin>Tandem, mediā</latin> <latin>nocte, fīliī</latin> <latin>ad urbem pervēnērunt</latin>."
+        answer: "FINALLY, IN THE MIDDLE OF THE NIGHT, THE SONS ARRIVED AT THE CITY"
+      - question: "<latin>Nūntiī</latin> <latin>quam celerrimē</latin> <latin>appropinquāvērunt.</latin> "
+        answer: "MESSENGERS APPROACHED AS QUICKLY AS POSSIBLE"
+  - tossup:
+      question: "Without using a compound verb, give a synonym of the verb <latin>vehō</latin>."
+      answer: "<latin>PORTŌ, FERŌ</latin>"
+    boni:
+      - question: "<latin>occīdō</latin>."
+        answer: "<latin>NECŌ</latin>, <latin>TRUCĪDŌ</latin>, <latin>IUGULŌ</latin>, <latin>NECŌ</latin>, <latin>INTERFICIŌ</latin>"
+      - question: "<latin>dēmōnstrō</latin>."
+        answer: "<latin>OSTENDŌ</latin>, <latin>OSTENTŌ</latin>, <latin>EXHIBEŌ</latin>, <latin>PRAESTŌ</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Initiō, deī</latin> <latin>in Monte Olympō</latin> <latin>habitābant, et Titānī</latin> <latin>in terrā</latin> <latin>habitābant. Titānī</latin> <latin>Mōntem Olympum ipsum occupāre cupiēbant, et diū</latin> <latin>cum deīs Olympiīs pugnābant. Dēnique deī</latin> <latin>Olympiī</latin> <latin>Titānōs superāvērunt.</latin>  Question: <latin>Initiō, ubi habitābant Titānī</latin>?"
+      answer: "<latin>IN TERRĀ</latin>"
+    boni:
+      - question: "<latin>Cūr Titānī</latin> <latin>cum Ōlympiīs pugnābant</latin>?"
+        answer: "<latin>(QUOD) CUPIĒBANT OCCUPĀRE MŌNTEM OLYMPUM</latin> "
+      - question: "<latin>Quī</latin> <latin>denique victī</latin> <latin>sunt</latin>?"
+        answer: "<latin>TITĀNĪ</latin>"
+  - tossup:
+      question: "What did Hermes invent on the day he was born?"
+      answer: "LYRE"
+    boni:
+      - question: "From whom did Hermes steal 50 head of cattle on that same day?"
+        answer: "APOLLO"
+      - question: "Why did Apollo forgive Hermes for the theft?"
+        answer: "HERMES GAVE APOLLO THE LYRE"
+  - tossup:
+      question: "Which of the following, if any, is not a form of the verb <latin>possum</latin>: <latin>potest</latin>, <latin>potuerant</latin>, <latin>pōsuistī</latin>, <latin>possumus</latin>, <latin>potuērunt</latin>?"
+      answer: "<latin>PŌSUISTĪ</latin>"
+    boni:
+      - question: "of the verb <latin>volō, velle</latin>: <latin>vult</latin>, <latin>vōlābam</latin>, <latin>voluērunt</latin>, <latin>volēs</latin>, <latin>vīs</latin>?"
+        answer: "<latin>VŌLĀBAM</latin> "
+      - question: "of the verb <latin>cadō</latin>: <latin>cecīdit</latin>, <latin>cadet</latin>, <latin>cadunt</latin>, <latin>cadēbam</latin>, <latin>cadēns</latin>?"
+        answer: "<latin>CECĪDIT</latin> "
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Iuvenis pugnāns bracchium frēgit</latin>."
+      answer: "THE YOUTH, FIGHTING, BROKE HIS ARM"
+    boni:
+      - question: "<latin>Miser puer canem mortuum sepelīvit.</latin> "
+        answer: "THE POOR BOY BURIED HIS DEAD DOG"
+      - question: "<latin>Post rēgēs, cōnsulēs Rōmam tenēbant</latin>."
+        answer: "AFTER THE KINGS, CONSULS HELD / WERE HOLDING ROME"
+  - tossup:
+      question: "Who sent a huge boar to ravage the countryside of Calydonia?"
+      answer: "ARTEMIS / DIANA (HAND OUT THE VISUAL)"
+    boni:
+      - question: "You now have 15 seconds to study the visual. (WAIT 15 SECONDS) Identify by letter and name the first person to wound the boar seriously."
+        answer: "C - ATALANTA"
+      - question: "Identify by letter and name the person who finally kills the boar."
+        answer: "B - MELEAGER"
+  - tossup:
+      question: "Whose deaths in 2 and 4 AD left Augustus no choice but to adopt Tiberius as his heir?"
+      answer: "(HIS GRANDSONS) GAIUS AND LUCIUS (CAESAR)"
+    boni:
+      - question: "Which grandson did Augustus also adopt at this time, although he was later exiled to one of the islands of Planasia?"
+        answer: "(AGRIPPA) POSTUMUS"
+      - question: "Which great-nephew did Augustus force Tiberius to adopt?"
+        answer: "GERMANICUS"
+  - tossup:
+      question: "Who offered to make Odysseus immortal and ageless if he would remain with her?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Calypso’s father?"
+        answer: "ATLAS"
+      - question: "How long did Odysseus remain with Calypso?"
+        answer: "SEVEN YEARS"
+  - tossup:
+      question: "In which modern country would you find the sites of ancient Eboracum, Aquae Sulis and Londinium?"
+      answer: "U.K. / ENGLAND"
+    boni:
+      - question: "In which modern country would you find the sites of ancient Alesia, Bibracte and Aquae Sextiae?"
+        answer: "FRANCE"
+      - question: "In which modern country would you find the sites of ancient Numantia, Segovia and Baecula?"
+        answer: "SPAIN"

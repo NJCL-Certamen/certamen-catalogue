@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2006
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Translate the following sentence into English using the modern Calendar system: <latin>Kalendīs Augustīs nātus est Claudius</latin>."
+      answer: "CLAUDIUS WAS BORN ON AUGUST 1ST"
+    boni:
+      - question: "<latin>Nōnō</latin> <latin>diē</latin> <latin>ante Kalendās Octōbrēs nātus est Augustus</latin>  ."
+        answer: "AUGUSTUS WAS BORN ON THE 23rd OF SEPTEMBER"
+      - question: "Say in Latin, “On the Ides of March, Caesar was killed.”"
+        answer: "<latin>ĪDIBUS MĀRTIĪS CAESAR NECĀTUS / INTERFECTUS EST</latin> "
+  - tossup:
+      question: "What father was given divine horses by Zeus to compensate him for the loss of his son Ganymede?"
+      answer: "TROS"
+    boni:
+      - question: "Name the eldest son and successor of Tros who founded the city, later called Troy."
+        answer: "ILUS"
+      - question: "What happened when Ilus prayed to Zeus for a sign that he had founded his city in the right place?"
+        answer: "PALLADIUM DROPPED FROM THE HEAVENS"
+  - tossup:
+      question: "Give the two supine forms of <latin>scrībere</latin>."
+      answer: "<latin>SCRĪPTUM</latin> & <latin>SCRĪPTŪ</latin>"
+    boni:
+      - question: "Give the singular and plural present imperatives of <latin>sequor</latin>."
+        answer: "<latin>SEQUERE</latin>, <latin>SEQUIMINĪ</latin>"
+      - question: "Give the alternate form of <latin>abūtēris</latin>."
+        answer: "<latin>ABŪTĒRE</latin> "
+  - tossup:
+      question: "According to Roman tradition, which Roman general so impressed the citizens of Falerii by refusing to take their city with the help of a traitor that the citizens gladly surrendered to him without putting up a fight?"
+      answer: "(M. FURIUS) CAMILLUS"
+    boni:
+      - question: "What was the treacherous offer he refused?"
+        answer: "A FALERIAN SCHOOL TEACHER TRIED TO GIVE HIM (THREE) FALERIAN BOYS (SONS OF NOBLES) AS HOSTAGES"
+      - question: "Camillus’ attack of Falerii was supposedly in response to that city’s earlier support of which Etruscan city?"
+        answer: "VEII"
+  - tossup:
+      question: "Name the goatherd who insults the disguised Odysseus on his way to his palace on Ithaca."
+      answer: "MELANTHEUS"
+    boni:
+      - question: "Name the only suitor who refuses to give anything to Odysseus when he is disguised as a beggar."
+        answer: "ANTINOUS"
+      - question: "Name the younger beggar whom Odysseus easily defeats in a boxing match."
+        answer: "IRUS"
+  - tossup:
+      question: "Please do not open your visuals until instructed to do so. (PASS OUT THE VISUALS) Open your visuals. For 15 seconds study this drawing of a portion of the Campus Martius just behind the Capitoline Hill, which can be seen at the top of the picture. (WAIT 15 SECONDS) Letter “D” marks the approximate location where which republican politician was killed?"
+      answer: "(C.) JULIUS CAESAR"
+    boni:
+      - question: "Which deity’s temple was built into the back of the theater labeled “E”?"
+        answer: "VENUS (VICTRIX)"
+      - question: "Which letter labels the building that was dedicated in 13 BC and was built by a Spanish-born proconsul to commemorate his victory over the Garamantes in North Africa?"
+        answer: "LETTER C (THEATER OF BALBUS)"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Priusquam nōx advēnit, castra capta sunt.</latin>"
+      answer: "BEFORE NIGHT CAME, THE CAMP WAS CAPTURED"
+    boni:
+      - question: "<latin>Dux suīs imperāvit nē</latin> <latin>pontem trānsīrent.</latin> "
+        answer: "THE COMMANDER / LEADER ORDERED HIS (OWN) MEN NOT TO CROSS THE BRIDGE"
+      - question: "<latin>Posterō</latin> <latin>diē</latin> <latin>explōrātōrēs missī</latin> <latin>sunt quī</latin> <latin>auxilium peterent</latin>."
+        answer: "THE NEXT / FOLLOWING DAY, SCOUTS WERE SENT TO FIND / SEEK HELP"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “suite,” “ensue,” “execute,” and “sequence”."
+      answer: "<latin>SEQUOR</latin> - FOLLOW"
+    boni:
+      - question: "What derivative of <latin>sequor</latin> means “to harass constantly”?"
+        answer: "PERSECUTE"
+      - question: "What derivative of <latin>sequor</latin> means “excessively willing to obey”?"
+        answer: "OBSEQUIOUS"
+  - tossup:
+      question: "Who volunteered to be on the Argo but was declined because Jason feared dissension would arise among his crew?"
+      answer: "ATALANTA"
+    boni:
+      - question: "Given that there are at least two Atalantas in mythology, name the father of the Atalanta who participated in the Calydonian Boar Hunt."
+        answer: "IASUS"
+      - question: "Name the father of the Atalanta who ran footraces against her suitors?"
+        answer: "SCHOENEUS / MAENALUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH, the question that follows: <latin>Duo hominēs, alter philosophus Graecus, alter homō</latin> <latin>nōtus quī</latin> <latin>magnus dux in bellō</latin> <latin>fuerat, nūdī</latin> <latin>et paene ēbriī</latin> <latin>inter sē</latin> <latin>colloquēbantur. “Quid,” inquit philosophus, “est melius - pecūnia aut scientia?” “Fortasse scientia.”</latin>  <latin>respondit dux. “Quod in proeliō</latin> <latin>cecidī</latin> <latin>cum equum meum cōnscenderem. Nunc tergum fractum habeō. Mihi autem sunt pecūnia et praeda.” Respondit philosophus, “Sed quam pulchra est praeda tua!”</latin>  Question: What was the topic of conversation between the philosopher and the famous general?"
+      answer: "WHETHER MONEY OR KNOWLEDGE IS BETTER"
+    boni:
+      - question: "Why does the general say that knowledge is better?"
+        answer: "HE FELL DOWN WHILE MOUNTING HIS HORSE / HE GOT A “BROKE BACK MOUNTIN’” /"
+      - question: "What was the retort of the philosopher?"
+        answer: "“BUT WHAT A FINE BOO-TAY YOU HAVE!”"
+  - tossup:
+      question: "Who angered the Senate when he paid the Praetorian Guard 15,000 sesterces each for their proclamation and support for him as emperor in A.D. 41?"
+      answer: "CLAUDIUS (I) / <latin>TIBERIUS CLAUDIUS DRUSUS</latin> "
+    boni:
+      - question: "What is the Latin term for the money paid by “prospective” emperors to secure the loyalty of the Praetorians and/or the legions?"
+        answer: "<latin>DŌNĀTĪVUM</latin> "
+      - question: "What senator paid 25,000 sesterces to each Praetorian for his support only to be murdered in the palace on June 2, AD 193?"
+        answer: "<latin>(MARCUS) DIDIUS IULIANUS</latin> "
+  - tossup:
+      question: "Who escaped from the Underworld by claiming that his wife had not performed the proper funeral rites?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "How had Sisyphus earlier delayed his descent to the Underworld?"
+        answer: "CHAINED / TIED UP THANATOS / DEATH"
+      - question: "Who rescued Thanatos and handed Sisyphus over to him?"
+        answer: "ARES"
+  - tossup:
+      question: "Differentiate in meaning between the verbs <latin>ēdō</latin> and <latin>edō</latin>."
+      answer: "<latin>ĒDŌ</latin> - GIVE OUT, PRODUCE, UTTER, BEGET <latin>EDŌ</latin> - EAT, CONSUME"
+    boni:
+      - question: "Give the 3rd principal parts for both of those verbs."
+        answer: "<latin>ĒDĪ</latin> from <latin>EDŌ</latin> <latin>ĒDIDĪ</latin> from <latin>ĒDŌ</latin>"
+      - question: "Using those two verbs, say in Latin, “I gave out food for the sake of eating."
+        answer: "<latin>CIBUM ĒDIDĪ</latin> <latin>EDENDĪ</latin> <latin>CAUSĀ</latin> <latin>/ GRĀTIĀ</latin>"
+  - tossup:
+      question: "What derivative of a Latin verb meaning “pour” is an English noun used in the medical profession that literally means “a pouring across”?"
+      answer: "TRANSFUSION"
+    boni:
+      - question: "What English verb derived from <latin>fundō</latin> means “to perplex”?"
+        answer: "CONFOUND / CONFUSE"
+      - question: "What English adjective derived from <latin>fundō</latin> means “having no useful result”?"
+        answer: "FUTILE"
+  - tossup:
+      question: "Say in Latin “She thought that she had been praised.”"
+      answer: "<latin>(EA/HAEC/ILLA) PUTĀVIT / PUTĀBAT SĒ</latin> <latin>LAUDĀTAM ESSE</latin> "
+    boni:
+      - question: "“She hoped that she would be famous.”"
+        answer: "<latin>(EA/HAEC/ILLA) SPĒRĀBAT / SPĒRĀVIT SĒ</latin> <latin>CLĀRAM FUTŪRAM ESSE (CELEBREM/ CLĀRAM INCLITAM / NŌBILEM/ NŌTAM)</latin> "
+      - question: "“We saw that she was beautiful.”"
+        answer: "<latin>(NŌS) VĪDIMUS EAM (HANC/ ILLAM) PULCHRAM / BELLAM / FŌRMŌSAM ESSE</latin> "
+  - tossup:
+      question: "Who told Menelaus that he was destined not to die but to dwell as an immortal in Elysium?"
+      answer: "PROTEUS"
+    boni:
+      - question: "Why was this privilege being given to Menelaus?"
+        answer: "SON-IN-LAW OF ZEUS (MARRIED TO HELEN)"
+      - question: "Who reigned in Elysium, as opposed to Tartarus?"
+        answer: "RHADAMANTHYS or CRONUS"
+  - tossup:
+      question: "Which of the following are NOT correlative pairs? <latin>neque. . . neque</latin>, <latin>et. . . et</latin>, <latin>non sōlum. . . sed enim</latin>, or <latin>aut. . . aut</latin>, <latin>tantum . . . quantum</latin>  <latin>NŌN SŌLUM. . .</latin>"
+      answer: "<latin>SED ENIM</latin> "
+    boni:
+      - question: "What pair of correlative adjectives mean “not only . . . But also”?"
+        answer: "<latin>NŌN SŌLUM. . . SED ETIAM</latin> "
+      - question: "What is the meaning of the correlatives <latin>sive. . . sive</latin>?"
+        answer: "EITHER/WHETHER. . . OR"
+  - tossup:
+      question: "Attached to the north side of <latin>Basilica Ulpia</latin> were two wings which flanked a beautiful colonnade. What facility was contained in those two wings?"
+      answer: "(TRAJAN’S) BOOKS / LIBRARY / (GREEK AND LATIN) LIBRARIES / (GREEK AND LATIN) LITERATURE"
+    boni:
+      - question: "Which first century BC political figure, literary patron and writer established Rome’s first public library with the booty from his Illyrian triumph?"
+        answer: "(GAIUS) ASINIUS POLLIO"
+      - question: "Before Asinius Pollio’s public library, the only <latin>bibliothēcae</latin> in Rome were in the homes of wealthy citizens. Which Republican general’s private collection included the entire Macedonian royal library which he brought back as spoils of his triumph after the Third Macedonian War?"
+        answer: "(L.) AEMILIUS PAULLUS’"
+  - tossup:
+      question: "What do your doctor’s directions before surgery mean if they contain the Latin abbreviation <latin>n.p.o.</latin>?"
+      answer: "NOTHING BY MOUTH / NO FOOD OR DRINK (<latin>nihil per ōs</latin>)"
+    boni:
+      - question: "After the operation, when will your bandages be changed if the directions include the abbreviation <latin>n. et m</latin>.?"
+        answer: "AT NIGHT & IN THE MORNING (<latin>nocte et māne</latin>)"
+      - question: "How much pain medication do you get if the doctor’s direction include the abbreviation <latin>q.v.</latin>?"
+        answer: "AS MUCH AS YOU WANT (<latin>quantum vīs</latin>)"
+  - tossup:
+      question: "What future emperor was told to polish his Latin because his rustic accent was not befitting someone who was Trajan’s <latin>quaestor</latin> and nephew-in-law?"
+      answer: "HADRIAN or (P. AELIUS HADRIANUS)"
+    boni:
+      - question: "Hadrian also twice served Trajan as a provincial governor. Name either province that he governed."
+        answer: "SYRIA or LOWER PANNONIA / <latin>PANNONIA INFERIOR</latin> "
+      - question: "Upon assuming the imperial throne, Hadrian immediately faced a crisis in the East. What three new provinces was he forced to abandon?"
+        answer: "ARMENIA, MESOPOTAMIA, & ASSYRIA"

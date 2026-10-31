@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2005
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Say in Latin, “on the seventh day.”"
+      answer: "<latin>SEPTIMŌ</latin> <latin>DIĒ</latin>"
+    boni:
+      - question: "Say in Latin, “of one poor woman.”"
+        answer: "<latin>ŪNĪUS MISERAE / PAUPERIS FĒMINAE</latin> "
+      - question: "Say in Latin, “for eight fast goddesses.”"
+        answer: "<latin>OCTŌ</latin> <latin>CELERIBUS DEĀBUS</latin> "
+  - tossup:
+      question: "Listen carefully to the following passage about Aulus Plautius, which I will read twice, and answer IN LATIN, the question that follows: <latin>Claudius, imperātor Rōmānus, Aulum Plautium in Britanniam cum quattuor legiōnibus mīsit propter trēs causās: quod Galliam dēfendere volēbat, quod Britannia multum aurum et argentum continēbat, atque quod magna erat discordia inter gentēs Britanniae.</latin>  Question: <latin>Quot causās Claudius habēbat</latin>?"
+      answer: "<latin>TRĒS</latin>"
+    boni:
+      - question: "<latin>Quae provincia pretiōsās rēs tenēbat</latin>?"
+        answer: "<latin>BRITANNIA</latin>"
+      - question: "<latin>Quālis erat discordia inter gentēs Britanniae</latin>?"
+        answer: "<latin>MAGNA</latin> "
+  - tossup:
+      question: "Who, believing he had a prior claim to Andromeda and the throne of Joppa, objected to her marriage to Perseus?"
+      answer: "PHINEUS (HER UNCLE) OR AGENOR"
+    boni:
+      - question: "With what weapon did Perseus win the resulting fight?"
+        answer: "MEDUSA’S HEAD"
+      - question: "Name the son of Andromeda and Perseus who inherits the throne of Joppa?"
+        answer: "PERSES"
+  - tossup:
+      question: "With what enemy of Rome did Hannibal seek refuge in 195 B.C.?"
+      answer: "ANTIOCHUS <emphasis>III / THE GREAT</emphasis> "
+    boni:
+      - question: "Hannibal fled to Crete after Antiochus was defeated by the Romans in 190 B.C. Where did Hannibal go after Crete?"
+        answer: "BITHYNIA (TO COURT OF PRUSIAS I)"
+      - question: "Which Roman general demanded that king Prusias of Bithynia surrender Hannibal to him?"
+        answer: "(TITUS QUINCTIUS) FLAMININUS"
+  - tossup:
+      question: "Wait until you are instructed to open your visuals. (PASS OUT THE VISUALS) Open your visuals. (WAIT A MOMENT FOR THE STUDENTS TO OPEN THEM) Name the parents of the Greek deity depicted on this vase."
+      answer: "ZEUS & SEMELE / PERSEPHONE (or all three of the above!!!)"
+    boni:
+      - question: "Name two of the attributes that allowed the ancient Greeks to identify this red figure as that of Dionysus."
+        answer: "SEE BELOW"
+      - question: "Name two more."
+        answer: "GRAPE VINE, DRINKING CUP, IVY (CROWN), PANTHER/TIGER SKIN, WEARING A (LONG) CHITON / DRESS LIKE A WOMAN, MAENAD, THYRSUS, SNAKE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Fūr ipse mīlitem gladiō</latin> <latin>necāvit</latin>."
+      answer: "THE THIEF HIMSELF KILLED THE SOLDIER WITH A SWORD"
+    boni:
+      - question: "<latin>Huic fūrī</latin> <latin>erat multa fortitūdō</latin>."
+        answer: "THIS THIEF HAD MUCH / A LOT OF BRAVERY"
+      - question: "<latin>Ille mīles magnō</latin> <latin>honōrī</latin> <latin>urbī</latin> <latin>Rōmae erat</latin>."
+        answer: "THAT SOLDIER WAS A GREAT HONOR TO THE CITY (OF) ROME"
+  - tossup:
+      question: "What Latin phrase is the medical terminology for “the stiffness of death”?"
+      answer: "<latin>RIGOR MORTIS</latin> "
+    boni:
+      - question: "What Latin word is the medical terminology for “impaired mental function”?"
+        answer: "<latin>DEMENTIA</latin> "
+      - question: "What Latin phrase is the medical terminology for “the largest muscle of the buttock”?"
+        answer: "<latin>GLUTEUS MAXIMUS</latin> "
+  - tossup:
+      question: "Give an antonym of the noun <latin>vīta</latin>."
+      answer: "<latin>MORS</latin>, <latin>LĒTUM</latin>"
+    boni:
+      - question: "<latin>vēritās</latin>."
+        answer: "<latin>FRAUS</latin>, <latin>DOLUS</latin>, <latin>FALSITĀS</latin>, <latin>FALSUM</latin>"
+      - question: "<latin>aurōra</latin>"
+        answer: "<latin>VESPER, CREPUSCULUM, (SOLIS) OCCĀSUS</latin> (Do not take “<latin>nox</latin>”)"
+  - tossup:
+      question: "What arrogant Germanic leader did Caesar rout in 58 BC at the request of many Gallic tribes?"
+      answer: "ARIOVISTUS"
+    boni:
+      - question: "What chieftain had come to Rome in 60 BC seeking protection for the Aedui from Ariovistus?"
+        answer: "DIVITIACUS / DIVICIACUS"
+      - question: "Of what confederation of German tribes was Ariovistus the leader?"
+        answer: "THE SUEBI"
+  - tossup:
+      question: "Translate the following sentence into Latin: Cornelius, we have seen the three Roman armies."
+      answer: "<latin>VĪDIMUS, CORNĒLĪ, TRĒS EXERCITŪS RŌMĀNŌS?</latin> "
+    boni:
+      - question: "Didn’t you boys find those two things?"
+        answer: "<latin>NŌNNE INVĒNISTIS (VŌS) PUERĪ</latin> <latin>ILLĀS DUĀS RĒS / ILLA DUO?</latin> "
+      - question: "The name is being written in the book by my hand."
+        answer: "<latin>NŌMEN IN LIBRŌ</latin> <latin>MANŪ</latin> <latin>MEĀ</latin> <latin>SCRĪBITUR</latin> "
+  - tossup:
+      question: "<latin>Ambulās in urbe Rōmā</latin> <latin>antīquā. Stās in Forō</latin> <latin>Rōmānō</latin> <latin>in viā</latin> <latin>famōsā</latin> <latin>ubi imperātōrēs triumphālēs ībant. Quid Rōmānī</latin> <latin>nōminābant hanc viam?</latin> "
+      answer: "<latin>VIAM SACRAM / CLĪVUM CAPITOLĪNUM</latin> "
+    boni:
+      - question: "<latin>Vidēs aedificium ubi senātōrēs dē</latin> <latin>lēgibus dīcunt. Iuxtā</latin> <latin>hoc aedificium sunt rostra. Quod aedificium vidēs?</latin>"
+        answer: "<latin>CŪRIAM</latin>"
+      - question: "<latin>Vidēs rem altam quam Rōmānī</latin> <latin>aedificāvērunt quod Imperātor Trāiānus Daciam vīcit. Quid vidēs?</latin>"
+        answer: "<latin>COLUMNAM (TRĀIĀN</latin><latin>Ī)</latin> "
+  - tossup:
+      question: "What name is given to this group of men: Chthonius, Echion, Hyperenor, Pelorus and Udaeus?"
+      answer: "SPART(O)I / SOWN MEN"
+    boni:
+      - question: "Which of the Spartoi married Cadmus’ daughter Agave?"
+        answer: "ECHION"
+      - question: "Name the son of Echion and Agave, who succeeded Cadmus as king of Thebes."
+        answer: "PENTHEUS"
+  - tossup:
+      question: "You are in ancient Pompeii and you see an inscription on a wall which reads, “<latin>Claudius, Marcī</latin> <latin>Fīlius, Cōnsul iterum</latin>.” Who is the father of Claudius?"
+      answer: "MARCUS"
+    boni:
+      - question: "What occasion does this commemorate?"
+        answer: "HE BECAME <emphasis>CONSUL AGAIN</emphasis> / HIS <emphasis>REELECTION</emphasis> TO THE <emphasis>CONSULSHIP</emphasis> "
+      - question: "Say in Latin, “Lucius Cornelius, son of Lucius, is Aedile again.”"
+        answer: "<latin>LŪCIUS CORNELIUS, LŪC(I)Ī</latin> <latin>FĪLIUS, (EST) AEDĪLIS ITERUM</latin> "
+  - tossup:
+      question: "Who became the sole emperor in A.D. 392 after defeating Eugenius and Arbogast?"
+      answer: "THEODOSIUS <emphasis>I or THE GREAT</emphasis> "
+    boni:
+      - question: "Theodosius died 56 months after his victory. Name his 10 year old son to whom he left the Western empire."
+        answer: "HONORIUS"
+      - question: "Name his older son who inherited the East."
+        answer: "ARCADIUS"
+  - tossup:
+      question: "Which of the following words, if any, is <emphasis>not</emphasis> derived from the same Latin word as the others: vertebra, inverse, aver, vortex, controversy"
+      answer: "AVER"
+    boni:
+      - question: "Give the Latin adjective root and its meaning at the root of “aver.”"
+        answer: "<latin>VĒRUS</latin> - TRUE"
+      - question: "Give all four principal parts of the verb at the root of the other words in the toss up."
+        answer: "<latin>VERTŌ, VERTERE, VERTĪ, VERSUS (-UM)</latin>"
+  - tossup:
+      question: "Who tells Hades that Persephone ate part of a pomegranate in the underworld?"
+      answer: "ASCALAPHUS / ASCALABUS"
+    boni:
+      - question: "Into what did the angry Demeter transform Ascalaphus?"
+        answer: "AN OWL"
+      - question: "What river of the underworld was the father of Ascalaphus?"
+        answer: "ACHERON"
+  - tossup:
+      question: "What military victory over the Latins was commemorated every July 15 by a parade of horsemen called the <latin>Transvectiō</latin> <latin>Equōrum</latin>?"
+      answer: "LAKE REGILLUS"
+    boni:
+      - question: "Who died at Lake Regillus leading the Latins?"
+        answer: "(OCTAV[I]US) MAMILIUS"
+      - question: "Which Roman dictator promised to build a temple of Castor and Pollux in the Forum in celebration of his victory at Lake Regillus?"
+        answer: "(A.) POSTUMIUS (ALBUS)"
+  - tossup:
+      question: "Give the Latin for the number expressed by the Roman numerals XVI."
+      answer: "<latin>SĒDECIM</latin>"
+    boni:
+      - question: "Give the Latin for the number expressed by the Roman numerals XXXIV."
+        answer: "<latin>TRĪGINTĀ</latin> <latin>(ET) QUATTUOR</latin>"
+      - question: "Using one word, give the Latin number expressed by the Roman numerals XLIX."
+        answer: "<latin>ŪNDĒQUĪNQUĀGINTĀ</latin>"
+  - tossup:
+      question: "In the tenth year of the Trojan war, it is decided that possession of Helen will be determined by a duel between what two warriors?"
+      answer: "PARIS & MENELAUS"
+    boni:
+      - question: "Who intervenes when it is clear that Paris is losing?"
+        answer: "APHRODITE / VENUS"
+      - question: "Who then breaks the truce by firing an arrow at Menelaus?"
+        answer: "PANDARUS"
+  - tossup:
+      question: "Before 153 BC, what was the first day of the Roman year?"
+      answer: "MARCH 1 / <latin>KALENDĪS MARTIĪS / KALENDAE MARTIAE</latin> "
+    boni:
+      - question: "Between 153 BC and 44 BC, what was the Latin name for the seventh month of the Roman calendar?"
+        answer: "<latin>QUIN(C)TĪLIS</latin> "
+      - question: "Julius Caesar’s calendar reforms introduced the leap year. What day in February was counted twice in a leap year, using a modern date for your answer?"
+        answer: "24th / 23rd (at least one source says that it was the 23rd)"

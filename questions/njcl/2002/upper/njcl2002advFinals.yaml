@@ -1,0 +1,175 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Which two works of Tacitus were often published in a combined edition, narrating Roman history from the death of Augustus to the death of Domitian?"
+      answer: "<title>ANNALS</title> / <title><latin>ANNĀLĒS</latin></title> / <title><latin>AB EXCESSŪ</latin></title> <title><latin>DĪVĪ</latin></title> <title><latin>AUGUST</latin></title>Ī <emphasis>&</emphasis> <title>HISTORIES /</title> <title><latin>HISTORIAE</latin></title>"
+    boni:
+      - question: "In which of his early works does Tacitus discuss the causes of the decline of oratory?"
+        answer: "<title><latin>DIALOGUS D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
+      - question: " What two works did Tacitus publish in AD 98?"
+        answer: "<title><latin>GERMĀNIA</latin></title> (<title><latin>D</latin></title>Ē Ō<title><latin>RĪGINE ET SITŪ</latin></title> <title><latin>GERMĀNŌRUM</latin></title>) & <title>AGRICOLA</title> (<title><latin>DĒ</latin></title> <title><latin>VĪTĀ</latin></title> <title><latin>IŪLIĪ</latin></title> <title><latin>AGRICOLAE</latin></title>)"
+  - tossup:
+      question: "What Greek goddess was the equivalent of the Roman goddess Fortuna?"
+      answer: "TYCHE"
+    boni:
+      - question: "What goddess of vengeance was often regarded as the one who provided a check on extravagant favors conferred by Tyche?"
+        answer: "NEMESIS"
+      - question: "What son of Nauplius supposedly dedicated the first set of dice that he invented to Tyche?"
+        answer: "PALAMEDES"
+  - tossup:
+      question: "Who, in his first speech to the senate, renounced the abuses of the previous regime and promised to curtail the influence of the palace minions and the monopolization of the courts by the <latin>prīnceps</latin>?"
+      answer: "NERO (CLAUDIUS CAESAR)"
+    boni:
+      - question: "Who wrote this speech for the young Nero?"
+        answer: "SENECA (THE YOUNGER)"
+      - question: "What event in AD 59 marked the end of the so-called <latin>Quīnquennium Nerōnis?</latin> "
+        answer: "THE DEATH/MURDER OF AGRIPPINA THE YOUNGER"
+  - tossup:
+      question: "What grammatical term is used for nouns such as <latin>lepus</latin> and <latin>vulpēs</latin> where the words have a grammatical gender independent of sex, thus <latin>lepus</latin> is always masculine and <latin>vulpēs</latin> is always feminine?"
+      answer: "EPICENE"
+    boni:
+      - question: "If you want to be very precise with your animals, what word must you add to <latin>pāvō</latin> to identify it as a peahen?"
+        answer: "<latin>FĒMINA</latin>"
+      - question: "What word should you add to <latin>pāvō</latin> to stress that it is a male?"
+        answer: "<latin>MĀS / MASCULUS</latin>"
+  - tossup:
+      question: "Who, in an attempt to secure the <latin>pax deōrum,</latin> commanded all Christians to renounce their faith and worship only pagan gods in A"
+      answer: "D."
+    boni:
+      - question: "250?"
+        answer: "DECIUS"
+      - question: "Which emperor made a deathbed repentance for his persecution of the Christians from A"
+        answer: "D."
+      - question: "303-311, and granted them legal recognition?"
+        answer: "GALERIUS"
+      - question: "Whom did Constantine order to cease the persecution of the Christians in the eastern portion of the empire in A"
+        answer: "D."
+      - question: "313?"
+        answer: "MAXIMINUS DAIA"
+  - tossup:
+      question: "According to Vergil’s <title>Aeneid</title>, what Titan was the ultimate source of the bloodline of King Latinus?"
+      answer: "SATURN(US)"
+    boni:
+      - question: "Who was the father of King Latinus, according to Vergil?"
+        answer: "FAUNUS"
+      - question: "According to Vergil, what nymph of Laurentum was the mother of King Latinus?"
+        answer: "MARICA"
+  - tossup:
+      question: "What poet’s tendency to wallow in emotion caused many Romans to be uncomfortable with his work and to dismiss his lyric poetry as valueless?"
+      answer: "(C. VALERIUS) CATULLUS"
+    boni:
+      - question: "  Aware that his poetry seemed frivolous, what word did Catullus use in the dedication of his <latin>libellus</latin> to describe his poetry?"
+        answer: "<latin>NŪGAE</latin>"
+      - question: "What name is given by scholars to the young poets who, like Catullus, rejected traditional forms and poetic content and searched for new styles?"
+        answer: "NEOTERICS"
+  - tossup:
+      question: "What Latin expression is the equivalent of “you can’t get blood from a stone?”"
+      answer: "<latin>AB ASINŌ</latin> <latin>LĀNAM/EX NIHILŌ</latin> <latin>NIHIL FIT/DĒ</latin> <latin>NIHILŌ</latin> <latin>NIHIL</latin>"
+    boni:
+      - question: " What is the literal meaning of <latin>ab asinō</latin> <latin>lānam</latin>?"
+        answer: "WOOL FROM AN ASS/DONKEY"
+      - question: "What Latin expression is the equivalent of “to take a bull by the horns?”"
+        answer: "<latin>TENĒRE LUPUM AURIBUS</latin> (TO HOLD A WOLF BY THE EARS)"
+  - tossup:
+      question: "Of the words <latin>candēlābrum, gemma, plaustrum, flagellum</latin> and <latin>portus</latin>, which does the following Latin sentence describe: <latin>Est rēs quae ōleum continet ad illūminanda cubicula</latin>"
+      answer: "CANDĒLĀBRUM"
+    boni:
+      - question: ". . . <latin>Praesertim apud rūsticōs</latin>, <latin>hoc est aptum magnīs oneribus ferendīs</latin>"
+        answer: "PLAUSTRUM"
+      - question: ". . . <latin>Ut dīcitur, “adamās est puellae amīcissimus.”</latin>"
+        answer: "GEMMA"
+  - tossup:
+      question: "Listen carefully to the following passage about Camillus, which I will read twice, and answer IN LATIN the question that follows: <latin>Triumphus Camillī, captīs Veiīs, Rōmānīs displicēbat quod Camillus nimis</latin>  <latin>superbiae praestāret. Nam scrīptum est Camillum accūsārī</latin> <latin>quod parem sē</latin> <latin>deīs facere vellet. Etiam scrīptum est Camillum suōs mīlitēs vexāre quia</latin>  <latin>partem spoliōrum, quam Apollinī</latin> <latin>dēdicāret, iubēret reddī. Postrēmō</latin> <latin>scrīptum est Camillum furtī</latin> <latin>accūsārī</latin> <latin>quod pecūniās quāsdam , quae plēbī</latin> <latin>essent dōnandae, cēlāvisset.</latin>  <latin>Quid dē</latin> <latin>sē</latin> <latin>putāvit Camillus?</latin>"
+      answer: "PAREM DEĪS ESSE"
+    boni:
+      - question: "Quā <latin>dē</latin> <latin>causā</latin> <latin>Camillus partem spoliōrum reddī</latin> <latin>iussit?</latin> "
+        answer: "<latin>(QUOD) EAM APOLLINĪ</latin> <latin>DĒDICĀRET / DĒDICĀBAT / DĒDICĀRE VOLUIT</latin>"
+      - question: "Cūius dē <latin>pecūniīs Plēbis accūsātus est Camillus?</latin>"
+        answer: "FURTĪ"
+  - tossup:
+      question: "Examine this picture of a model of ancient Rome for 10 seconds. Which letter denotes the area where you would find a monument of the Roman victory over the Dacians?"
+      answer: "D"
+    boni:
+      - question: "For five points each, identify any two of the three bridges labeled A, B and C. Include the letter with each of your answers"
+        answer: "A"
+  - tossup:
+      question: "In which area of ancient Rome was there a monument to the Roman victory over the Dacians?"
+      answer: "FORUM OF TRAJAN"
+    boni:
+      - question: "Which bridge over the Tiber is the oldest surviving bridge that is still in use?"
+        answer: "PONS FABRICIUS (PONTE FABRICIO)"
+      - question: "Which ancient bridge now exists only as a single arch and is called the Ponte Rotto?"
+        answer: "PONS AEMILIUS"
+  - tossup:
+      question: "Give all the possible future active imperative forms for the verb <latin>emō</latin>"
+      answer: "<latin>EMITŌ, EMITŌTE, EMUNTŌ</latin>"
+    boni:
+      - question: "  Change <latin>emitō</latin> to the passive"
+        answer: "<latin>EMITOR</latin>"
+      - question: "Assuming <latin>emitor</latin> is in the 2nd person, give the corresponding present tense form"
+        answer: "<latin>EMERE</latin>"
+  - tossup:
+      question: "What use of the accusative case can be found in the following sentence: <latin>Ēn quattuor ārās</latin>!"
+      answer: "EXCLAMATION"
+    boni:
+      - question: "What use of the accusative case can be found in the following sentence: <latin>Mentem pressus, rēx in aulā</latin> <latin>cum difficultāte ambulābat</latin>?"
+        answer: "SPECIFICATION / RESPECT / SYNEDOCHICAL"
+      - question: "Using <latin>poēma</latin> for “poem”, translate the following sentence into Latin: “Poems teach us many things.”"
+        answer: "<latin>POĒMATA NŌS MULTA</latin>"
+  - tossup:
+      question: "What author distinguished himself with his constant, systematic commitment in giving the fable a standard and a recognizable voice in the world of Latin literature?"
+      answer: "PHAEDRUS"
+    boni:
+      - question: "In whose literary tradition did Phaedrus model his fables?"
+        answer: "AESOP(US)"
+      - question: "What Julio-Claudian emperor appears as the chief character in one of Phaedrus’ amusing tales?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "What Corinthian warrior, just like Achilles, was given the opportunity to choose between death and glory at Troy or a long yet uneventful life at home?"
+      answer: "EUCHENOR"
+    boni:
+      - question: "What great seer was the father of Euchenor?"
+        answer: "POLY(E)IDUS"
+      - question: "What Trojan killed Euchenor with one of his arrows?"
+        answer: "PARIS / ALEXANDER"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “esculent,” “esurient,” “comestible,” “obese,” and “edacious.”"
+      answer: "<latin>EDŌ, EDERE</latin> - EAT"
+    boni:
+      - question: "Which two words in the toss-up means “edible”?"
+        answer: "ESCULENT & COMESTIBLE"
+      - question: "What is the meaning of “esurient”?"
+        answer: "HUNGRY, GREEDY"
+  - tossup:
+      question: "Which of Terence’s comedies was so unpopular that the audience preferred a show of tightrope walkers to it at its first performance in 165 BC?"
+      answer: "<title><latin>HECYRA</latin></title>"
+    boni:
+      - question: "For five points each, name the two authors whose works were “contaminated” in the <title><latin>Hecyra</latin></title>"
+        answer: "MENANDER / APOLLODORUS"
+  - tossup:
+      question: "According to Ovid’s <title>Metamorphoses</title>, with what daughter of Cecrops did Mercury fall in love?"
+      answer: "HERSE"
+    boni:
+      - question: "Which of Herse’s sisters tried to prevent Mercury from seeing Herse?"
+        answer: "AGLAUROS / AGRAULOS"
+      - question: "Into what did Mercury transform Aglauros?"
+        answer: "A (MARBLE) STATUE"
+  - tossup:
+      question: "What Roman general is said to have told his troops that Neptune had appeared to him in a dream and promised to help with the capture of Carthago Nova?"
+      answer: "(P. CORNELIUS) SCIPIO (THE FUTURE) AFRICANUS"
+    boni:
+      - question: "After what battle was Scipio acclaimed as <latin>imperātor</latin> by his troops, thus becoming the first general to receive this honor?"
+        answer: "BAECULA/BAILEN"
+      - question: "What two Carthaginian generals did Scipio defeat at Ilipa?"
+        answer: "MAGO AND HASDRUBAL, SON OF GISCO/N<emphasis>OT</emphasis> THE BROTHER OF HANNIBAL"
+  - tossup:
+      question: "Translate the following sentence into Latin: If you should sing sweetly, we would listen"
+      answer: "<latin>SĪ</latin> <latin>SUĀVITER CANTĒS / CANTĒTIS, AUDIĀMUS</latin>"
+    boni:
+      - question: "  Translate the following sentence into Latin: If you had sung sweetly, we would have listened"
+        answer: "<latin>SĪ</latin> <latin>SUĀVITER CANTĀ(VI)SSĒS / CANTĀ(VI)SSĒTIS, AUDĪ(VI)SSĒMUS</latin>"
+      - question: "For the sentence, “Mary said that she would have sung sweetly, if we had listened.”, translate “would have sung” into Latin"
+        answer: "<latin>CANTĀTŪRAM FUISSE</latin>"

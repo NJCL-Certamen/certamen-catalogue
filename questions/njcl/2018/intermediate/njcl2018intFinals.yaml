@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2018
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What body of water was known to the Romans as <latin>Mare Internum</latin>?"
+      answer: "MEDITERRANEAN SEA"
+    boni:
+      - question: "What body of water was known to the Romans as <latin>Lacus Bēnācus</latin>?"
+        answer: "LAGO DI GARDA / LAKE GARDA"
+      - question: "What body of water was known to the Romans as <latin>Mare Erythraeum</latin>?"
+        answer: "RED SEA / PERSIAN GULF"
+  - tossup:
+      question: "What use of the genitive case can be found in the following sentence:  <latin>Proxima ēlectiō spēs hominum erit</latin>?"
+      answer: "OBJECTIVE"
+    boni:
+      - question: "…:  <latin>Videō nōn tē absolūtum esse improbitātis</latin>?"
+        answer: "CHARGE / PENALTY / WITH VERBS OF \t\t\tACCUSING, ACQUITTING, & CONDEMNING"
+      - question: "…:  <latin>Floccī nōn faciō?</latin>"
+        answer: "`\t<emphasis>INDEFINITE</emphasis> VALUE or PRICE (Prompt on “Quality” or “Description”)"
+  - tossup:
+      question: "What king of Mysia received the advice “he that wounded shall heal” when he sought to cure the wound Achilles had inflicted upon him?"
+      answer: "TELEPHUS"
+    boni:
+      - question: "To get Achilles’ attention, since the prophecy suggested he needed his help, Telephus abducted what infant son of Agamemnon?"
+        answer: "ORESTES"
+      - question: "How did Achilles, who had no medical training, end up healing Telephus of his wound?"
+        answer: "SCRAPED <emphasis>RUST FROM HIS</emphasis> (ACHILLES’) <emphasis>SPEAR</emphasis> ONTO THE WOUND"
+  - tossup:
+      question: "What king of the Marcomanni was saved from an attack by the Roman forces under Tiberius when a timely outbreak of revolt in Pannonia and Illyricum distracted Tiberius’ attention from the Marcomanni in 6 AD?"
+      answer: "MAROBODUUS"
+    boni:
+      - question: "What name was shared by the Dalmatian and Pannonian chieftains who led the revolt mentioned in the toss-up?"
+        answer: "BATO"
+      - question: "What Roman eventually defeated and forced the Dalmatian Bato to surrender in 9 AD?"
+        answer: "GERMANICUS"
+  - tossup:
+      question: "Distinguish in meaning between <latin>vallēs</latin> and <latin>vallum</latin>."
+      answer: "<latin>VALLĒS</latin> – VALLEY, <latin>VALLUM</latin> – (EARTHEN) WALL / RAMPART / FORTIFICATION"
+    boni:
+      - question: "Distinguish in meaning between <latin>pāreō</latin> and <latin>pariō</latin>."
+        answer: "<latin>PĀREŌ</latin> – OBEY, <latin>PARIŌ</latin> – BRING FORTH / BEAR / GIVE BIRTH TO"
+      - question: "Distinguish in meaning between <latin>nāscor</latin> and <latin>nancīscor</latin>."
+        answer: "<latin>NĀSCOR</latin> – BE BORN, <latin>NANCĪSCOR</latin> – GET / OBTAIN / COME UPON"
+  - tossup:
+      question: "What Latin preposition with what Latin noun combine to form the roots of the English word for “a wide-brimmed felt or straw hat,” sombrero."
+      answer: "<latin>SUB</latin> AND <latin>UMBRA</latin>"
+    boni:
+      - question: "What English word, also derived from <latin>sub</latin> and <latin>umbra</latin>, means “gloomy?"
+        answer: "SOMBER"
+      - question: "What English word, also derived from <latin>umbra</latin>, means “offense” or “annoyance”?"
+        answer: "UMBRAGE"
+  - tossup:
+      question: "When Thebes fell to the Epigoni, what priestess of Ismenian Apollo was dedicated as “the fairest of the spoils,” perhaps because she was the equal in prophecy of her father Tiresias?"
+      answer: "MANTO"
+    boni:
+      - question: "Manto luckily avoided being sacrificed, but some were not so fortunate. For instance, following the fall of Troy, what daughter of Priam was sacrificed to Achilles on his grave?"
+        answer: "POLYXENA"
+      - question: "What woman voluntarily sacrificed herself to save Athens when the oracle said “a highborn young woman” had to be dedicated to ward off an attack by the sons of Eurystheus?"
+        answer: "MACARIA"
+  - tossup:
+      question: "From this list of Latin nouns, <latin>ancora, classis, nauta, puppis,</latin> and <latin>stīpendium</latin>, which am I describing? <latin>saepe in marī nāvigat vel in portū manet. multitūdō nāvium est. multitūdinem armātōrum quoque significat.</latin>"
+      answer: "<latin>CLASSIS</latin>"
+    boni:
+      - question: "From that same list of Latin nouns, <latin>ancora, classis, nauta, puppis,</latin> and <latin>stīpendium</latin>, which am I describing now? <latin>pars nāvis est. saepe in aquā sedet et nāvem tenet nē erret. ferrō vel metallō aliō facta est.</latin>"
+        answer: "<latin>ANCORA</latin>"
+      - question: "From that same list of Latin nouns, <latin>ancora, classis, nauta, puppis,</latin> and <latin>stīpendium</latin>, which am I describing now? <latin>quī mīlitārent id accipiēbant ut rēs emere possent.</latin>"
+        answer: "<latin>STĪPENDIUM</latin>"
+  - tossup:
+      question: "Using the port city of Athens, Piraeus, as a base, what general conquered most of southern Greece on behalf of Mithridates VI?"
+      answer: "ARCHELAÜS"
+    boni:
+      - question: "Two pro-Mithridates philosophers that are often confused for one another led a rebellion in Athens, overthrowing the pro-Roman oligarchy. Name one of them."
+        answer: "ARISTION / ATHENION"
+      - question: "After successfully seizing Athens, Sulla defeated Archelaus in two pitched battles in 86 BC. Where did the first of these battles occur?"
+        answer: "CHAERONEIA"
+  - tossup:
+      question: "What three-word Latin prepositional phrase meaning “never” literally means “On the Greek Kalends”?"
+      answer: "<latin>AD KALENDĀS GRAECĀS</latin>"
+    boni:
+      - question: "Complete this Latin phrase, which means “between a rock and a hard place”: <latin>Ā fronte praecipitum</latin>…"
+        answer: "<latin>Ā TERGŌ LUPĪ</latin>"
+      - question: "Now complete this Latin phrase, which means “a bird in the hand is worth two in the bush”: <latin>Ad praesēns ōva</latin>…"
+        answer: "<latin>CRĀS PULLĪS SUNT MELIŌRA</latin>"
+  - tossup:
+      question: "In Ovid’s <title>Metamorphoses</title>, what fate was shared by Aconteus, Aglaurus, Anaxarete, Battus, and Niobe?"
+      answer: "TURNED TO STONE / ROCK // PETRIFICATION"
+    boni:
+      - question: "Aconteus was accidentally turned to stone by the head of what monstrous woman?"
+        answer: "MEDUSA"
+      - question: "Upon what mountain was Niobe transformed into a weeping rock?"
+        answer: "MT. SIPYLUS"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice; then answer the questions that follow in ENGLISH \t\t<latin>Pantomīmus quīdam nōmine Sextus epistulam ad Augustam, uxōrem imperātōris, scrīpserat, in quā erant multa verba amōris. Augusta igitur, epistulā lēctā, ērubuit atque epistulam cōnfestim complicātam sub mēnsā cēlāvit, nam imperātōrem et lībertum eius intrantēs cōnspexerat.</latin> Question: Why did Augusta blush?"
+      answer: "SEXTUS/A PANTOMIME \t\tHAD <emphasis>PROFESSED LOVE IN A LETTER</emphasis> / SHE READ THE LETTER"
+    boni:
+      - question: "Why did she hide the letter?"
+        answer: "HER HUSBAND / THE EMPEROR / THE GENERAL \t\tWAS ENTERING (WITH HIS FREEDMAN)"
+      - question: "In what condition was the letter when Augusta hid it?"
+        answer: "FOLDED UP"
+  - tossup:
+      question: "Using the Latin noun <latin>calcar</latin>, give the nominative singular for the phrase “a bigger spur.”"
+      answer: "<latin>MĀIUS CALCAR</latin>"
+    boni:
+      - question: "Change <latin>māius calcar</latin> to the ablative singular."
+        answer: "<latin>MĀIŌRE CALCĀRĪ</latin>"
+      - question: "Change <latin>māiōre calcārī</latin> to the accusative plural."
+        answer: "<latin>MĀIŌRA CALCĀRIA</latin>"
+  - tossup:
+      question: "During what public festival in February would a Roman honor the memory of the dead?"
+      answer: "<latin>PARENTĀLIA</latin> OR <latin>DIĒS PARENTĀLĒS</latin>"
+    boni:
+      - question: "What is the Latin term for a co-operative association or guild that served many purposes including  \t\tgathering funds to pay for funeral proceedings?"
+        answer: "<latin>COLLĒGIA</latin> (<latin>FŪNERĀTĪCIA</latin>)"
+      - question: "What is the Latin term for an empty tomb, used when the body was either lost or unrecovered?"
+        answer: "<latin>CENOTAPHIUM</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Paucī sēnsērunt explōrātōrem castra mediā nocte intrāvisse</latin>."
+      answer: "FEW REALIZED / FELT THAT A SPY/ EXPLORER HAD ENTERED THE CAMP IN THE MIDDLE OF THE NIGHT"
+    boni:
+      - question: "Translate this sentence: <latin>Centuriō mīlitēs callidissimōs ēlēgit ad vestīgia hostium invenienda</latin>."
+        answer: "THE CENTURION CHOSE THE CLEVEREST / SMARTEST SOLDIERS TO FIND THE TRACKS OF THE ENEMY"
+      - question: "Translate this sentence: <latin>Nēmō scīvit utrum vir manēret an iam effūgisset</latin>."
+        answer: "NO ONE KNEW WHETHER THE MAN REMAINED OR HAD ALREADY ESCAPED"
+  - tossup:
+      question: "What hero of the Trojan War is depicted in the images marked A and D?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Give the letter of the image in which Chryses appears."
+        answer: "B"
+      - question: "Identify the hero of the Trojan War depicted in the image marked C, who has returned home and sacrificed his son to fulfill a vow he made during a storm."
+        answer: "IDOMENEUS"
+  - tossup:
+      question: "Which of the following words, IF ANY, is NOT derived from the same Latin word as the others:  pace, spawn, passionate, expand, trespass?"
+      answer: "PASSIONATE"
+    boni:
+      - question: "From what Latin verb, with what meaning, is “passionate” derived?"
+        answer: "<latin>PATIOR/PATĪ</latin> - TO ENDURE / SUFFER / ALLOW"
+      - question: "From what other Latin verb are “pace, spawn, expand,” and “trespass” derived?"
+        answer: "<latin>PANDŌ / PANDERE</latin>"
+  - tossup:
+      question: "What type of cum-clause is illustrated by Cicero’s standard phrase “<latin>quae cum ita sint</latin>”?"
+      answer: "CAUSAL"
+    boni:
+      - question: "Translate the following sentence into Latin using a cum-clause: Although the wall had been built, nevertheless the soldiers were frightened."
+        answer: "<latin>CUM MŪRUS AEDIFICĀTUS ESSET, TAMEN MĪLITĒS TERRITĪ ERANT</latin>"
+      - question: "Same instructions: Since Romulus is king, let’s stay in Rome."
+        answer: "<latin>CUM RŌMULUS RĒX SIT, RŌMAE MANEĀMUS</latin>"
+  - tossup:
+      question: "Along the banks of what river in 477 BC was the Fabii clan nearly wiped out?"
+      answer: "CREMERA"
+    boni:
+      - question: "What city, the last Etruscan stronghold in Latium, were the Romans attempting to seize when they suffered the defeat at the Cremera?"
+        answer: "FIDENAE"
+      - question: "According to Livy, how many Fabii died in that battle?"
+        answer: "306"
+  - tossup:
+      question: "In mythology, what monsters, who included Aello and Ocypetes according to Hesiod, Podarge according to Homer, and Celaeno according to Vergil, were known as “the snatchers” and punished Phineus by continually stealing away his food?"
+      answer: "HARPIES"
+    boni:
+      - question: "What goddess was the sister of the Harpies?"
+        answer: "IRIS"
+      - question: "In the <title>Aeneid</title>, the harpy Celaeno tells the Trojans that they will found their new colony only when they perform what action?"
+        answer: "EAT THEIR TABLES"

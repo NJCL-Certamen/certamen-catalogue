@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "About what victory, in which 30,000 <latin>optimātēs</latin> under Labienus died, is Caesar reported to have said, “On other occasions I have fought for victory, but here I fought for life”?"
+      answer: "MUNDA"
+    boni:
+      - question: "Who escaped to Sicily and was the only major general from the losing side to survive the battle of Munda?"
+        answer: "SEXTUS POMPEIUS"
+      - question: "What Pontifex Maximus was instrumental in Agrippa’s victory over Sextus Pompeius at Naulochus in 36 BC, though he rarely seems to receive credit?"
+        answer: "(MARCUS AEMILIUS) LEPIDUS"
+  - tossup:
+      question: "Of the verbs <latin>saepiō</latin>, <latin>cingō</latin>, <latin>dīvellō</latin>, and <latin>abdō</latin>, which is being described in the following sentence? <latin>mīlitī balteum circumdō</latin>"
+      answer: "<latin>CINGŌ</latin>"
+    boni:
+      - question: "Of the verbs <latin>saepiō</latin>, <latin>cingō</latin>, <latin>dīvellō</latin>, and <latin>abdō</latin>, give the principal parts of the verb that means “to pluck out, to extirpate.”"
+        answer: "<latin>DĪVELLŌ, DĪVELLERE, DĪVELLĪ / DĪVULSĪ, DĪVULSUS –A –UM</latin> or <latin>DĪVOLSUS –A –UM</latin>"
+      - question: "What Latin noun, related to one of the above verbs, refers to a hedge?"
+        answer: "<latin>SAEPĒS / SAEPS / SAEPICULA</latin> (<latin>saeptiō</latin> and <latin>saeptum</latin> are hedged-in places, but not hedges)"
+  - tossup:
+      question: "What descendant of Melampus married Adrastus’ sister Eriphyle and agreed to abide by her decisions in any instance in which he and Adrastus disagreed?"
+      answer: "AMPHIARAUS"
+    boni:
+      - question: "Why did Eriphyle insist upon Amphiaraus’ participation in the attack on Thebes?"
+        answer: "<emphasis>POLYNEICES</emphasis> <emphasis>BRIBED</emphasis> HER WITH THE <emphasis>NECKLACE OF HARMONIA</emphasis>"
+      - question: "Name the two sons of Amphiaraus and Eriphyle whom Amphiaraus charged with avenging his impending death"
+        answer: "ALCM(A)EON, AMPHILOCHUS"
+  - tossup:
+      question: "What author, whom Quintilian called “<latin>vir Rōmānōrum ērudītissimus</latin>,” published some seventy-four books on topics such as grammar, history, philosophy, geography, and law?"
+      answer: "(MARCUS TERENTIUS) VARRO"
+    boni:
+      - question: "Among Varro’s surviving works are some 600 fragments of what specific genre, consisting of sketches in either dialogue or dramatic form criticizing the negative values of his own time?"
+        answer: "<latin>SATURAE MENIPPEAE</latin> / MENIPPEAN SATIRE (prompt on “satire”)"
+      - question: "Why is so much of Varro’s voluminous writing now lost to us?"
+        answer: "HIS <emphasis>LIBRARY</emphasis> (AT REATE) WAS <emphasis>DESTROYED</emphasis> (BY 2ND TRIUMVIRATE / MARK ANTONY)"
+  - tossup:
+      question: "Translate the following sentence into idiomatic English: <latin>Sī Aeneās quam nāvem solvisset, Dīdō sine dubiō animadvertisset</latin>"
+      answer: "IF AENEAS HAD LAUNCHED <emphasis>ANY</emphasis> SHIP, DIDO WITHOUT DOUBT / INDUBITABLY/SURELY/CERTAINLY / FO’ SHO’ WOULD HAVE NOTICED / BLAMED (HIM / IT)"
+    boni:
+      - question: "Now translate this sentence into English: <latin>Sī Pygmaliōn nāvem Dīdōnis intercipiat, multum aurī inveniat</latin>"
+        answer: "IF PYGMALION SHOULD INTERCEPT DIDO’S SHIP, HE WOULD FIND MUCH GOLD"
+      - question: "Finally, translate this sentence: <latin>Sī ductōrēs Africānī paulō sapientiōrēs essent, rēgīna fīnēs nōn habēret.</latin>"
+        answer: "IF THE AFRICAN CHIEFTAINS/LEADERS WERE A LITTLE WISER, THE QUEEN WOULD HAVE NOT HAVE TERRITORY/LAND/BORDERS/ENDS"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine the inscription for ten seconds.  Tossup: As found in this inscription, give the gender and case of <latin>trīs</latin>?"
+      answer: "ACCUSATIVE, MASCULINE (PLURAL)"
+    boni:
+      - question: "Give the first principal parts of the four verbs in the first part of the inscription, above the missing section"
+        answer: "<latin>CAPIŌ, (SUPER)SUM, ADDŪCŌ, SUSCIPIŌ</latin>"
+      - question: "List two events of Aeneas’ life described in the second half of the passage"
+        answer: "FOUNDED THE TOWN/CITY (LAVINIUM), RULED (THERE) FOR THREE YEARS, (SUDDENLY) WAS NOT APPARENT (IN THE WAR AT LAURENTIUM) / FOUGHT A WAR, WAS DEIFIED / JOINED THE NUMBER OF THE GODS / ASSUMED A NEW NAME (INDIGES)"
+  - tossup:
+      question: "Give the Latin term for the eight-day period of a child’s life that ended with the <latin>nōminālia</latin> or the <latin>diēs lūstricus</latin>"
+      answer: "<latin>PRĪMORDIA</latin>"
+    boni:
+      - question: "What was a baby called during these first eight days?"
+        answer: "<latin>PŪPUS/PŪPA</latin>"
+      - question: "In addition to the <latin>bulla</latin>, what other device was placed around a child’s neck to ward off evil spirits, as well as to provide amusement?"
+        answer: "<latin>CREPUNDIA</latin>"
+  - tossup:
+      question: "What early tragedian borrowed greatly from Greek poetic vocabulary and was the nephew of Ennius?"
+      answer: "(MARCUS) PACUVIUS"
+    boni:
+      - question: "What <latin>fābula praetexta</latin> did Pacuvius write in honor of his friend and successful general of the time?"
+        answer: "<title><latin>PAULLUS</latin></title>"
+      - question: "Where did Pacuvius die in 130 BC?"
+        answer: "TARENTUM"
+  - tossup:
+      question: "Who was murdered because he had won every event at the Panathenaic Games?"
+      answer: "ANDROGEUS"
+    boni:
+      - question: "What son of Minos was revived by the seer Polyidus and temporarily taught the art of divining?"
+        answer: "GLAUCUS"
+      - question: "What son of Minos was warned that one of his own children would kill him, a prophecy that his son Althaemenes inadvertently fulfilled when he mistook his father and his crew for pirates?"
+        answer: "CATREUS"
+  - tossup:
+      question: "Listen carefully to the following passage based on Martial about the Argo, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Hoc fragmentum quod inūtile lignum putās, ōlim fuit prīma nāvis maris. Quam nec undae frangere potuēre nec īra maris, saecula vīcērunt: sed quamvīs cesserit annīs, sanctior est haec parva tabella quam nāvis salva.</latin> Question: What happened to the ship over time?"
+      answer: "AGE(S) OVERCAME IT / IT YIELDED TO YEARS / IT DETERIORATED (INTO A SMALL FRAGMENT OF WOOD)"
+    boni:
+      - question: "According to the passage, what two things were unable to destroy the ship?"
+        answer: "WAVES AND THE RAGE OF THE SEA"
+      - question: "What does the author say about the remnants of the ship in the last sentence?"
+        answer: "THAT THE SMALL PIECE (OF THE SHIP) IS HOLIER / MORE VALUABLE THAN THE WHOLE SHIP (WAS WHEN IT WAS SAFE/WHOLE)"
+  - tossup:
+      question: "What man sent Audax, Ditaclus, and Minurus to negotiate peace with Servilius Caepio in 138 BC after leading a successful revolt against the Romans?"
+      answer: "VIRIATHUS"
+    boni:
+      - question: "How did Viriathus die?"
+        answer: "CAEPIO BRIBED HIS SERVANTS TO MURDER HIM (SLIT HIS THROAT IN HIS SLEEP)"
+      - question: "What Roman general and brother of Caepio had been defeated by Viriathus in 141 BC and was forced to sign a treaty, which Caepio broke three years later?"
+        answer: "(QUINTUS FABIUS MAXIMUS) SERVILIANUS"
+  - tossup:
+      question: "The titles “prince” and “princess” ultimately derive from what Latin verb?"
+      answer: "<latin>CAPIO / CAPERE</latin> (TAKE<latin>)</latin>"
+    boni:
+      - question: "When “count” refers to a nobleman such as Dracula, from what Latin verb does it ultimately derive?"
+        answer: "<latin>EŌ/ĪRE (</latin>GO<latin>)</latin>"
+      - question: "The English noun “peerage” refers to the rank of nobility. What Latin adjective is at the root of “peerage,”?"
+        answer: "<latin>PĀR (PARIS -</latin> EQUAL<latin>)</latin>"
+  - tossup:
+      question: "What mortal was thrown into the sea by his mother Ino in an attempt to hide him from the rage of his father Athamas?"
+      answer: "MELICERTES"
+    boni:
+      - question: "What was Melicertes’ subsequent name as a sea deity?"
+        answer: "PALAEMON"
+      - question: "Upon his arrival on shore on the back of a dolphin, what games were instituted in his honor?"
+        answer: "ISTHMIAN GAMES"
+  - tossup:
+      question: "What Silver Age author, born at Neapolis, wrote an epic poem involving the feud between Polyneices and Eteocles entitled <title><latin>Thebaid</latin></title>?"
+      answer: "(PUBLIUS PAPINIUS) STATIUS"
+    boni:
+      - question: "What other epic poem did Statius begin but never finish?"
+        answer: "<title><latin>ACHILLEID</latin></title>"
+      - question: "What lost libretto for a pantomime, centering on the life of Pentheus, did Statius write shortly before his death in 96 AD?"
+        answer: "<title><latin>AGAVE</latin></title>"
+  - tossup:
+      question: "Give a pair of correlative conjunctions that has the same meaning as <latin>cum</latin>…<latin>tum</latin>"
+      answer: "<latin>NŌN SŌLUM/MODO/VĒRUM…SED (ETIAM)</latin>, <latin>ET…ET</latin>"
+    boni:
+      - question: "What two linguistically distinct pairs of correlative conjunctions can be translated into English as “whether…or”?"
+        answer: "<latin>SĪVE/SEU…SĪVE/SEU</latin>, <latin>UTRUM…AN</latin> (if students say <latin>sīve…sīve</latin> and <latin>seu…seu</latin>, prompt for another one)"
+      - question: "What meaning does the correlative pair “<latin>quā. . .quā</latin>” have?"
+        answer: "ON THE ONE HAND. . .ON THE OTHER HAND / AS…SO / AS MUCH…AS / NOW…NOW / BOTH…AND / ALIKE (THIS) AND (THAT)"
+  - tossup:
+      question: "Onto which giant was Zeus or Athena said to have thrown the island Sicily in the Gigantomachy?"
+      answer: "ENCELADUS (<emphasis>not</emphasis> Typhon)"
+    boni:
+      - question: "Who, considered one of the strongest of the giants, was mortal only within the confines of Pallene, his native land?"
+        answer: "ALCYONEUS"
+      - question: "Which Giant was killed by Hephaestus’ red-hot missiles?"
+        answer: "MIMAS"
+  - tossup:
+      question: "About what author was it said <latin>scrīptitāvit et rārō et tardē</latin>, an unfortunate fact given that he died at the young age of 28 with only a prologue and six satires to his name?"
+      answer: "(AULUS) PERSIUS (FLACCUS)"
+    boni:
+      - question: "What Stoic philosopher is eulogized in Persius’ sixth satire?"
+        answer: "CORNUTUS"
+      - question: "What lyric poet edited Persius’ satires after his death and was the addressee of his final satire?"
+        answer: "CAESIUS BASSUS"
+  - tossup:
+      question: "What literary device, excluding any forms of alliteration, can be found in the following lines, which I shall read as prose, spoken by Sinon in the <title>Aeneid</title>? <latin>nec requiēvit enim, donec Calchante ministrō -</latin> [<emphasis>emphasize break</emphasis>!] <latin>sed quid ego haec autem nēquīquam ingrāta revolvō?</latin>"
+      answer: "APOSIOPOESIS"
+    boni:
+      - question: "What literary device, excluding any forms of alliteration, is illustrated by the <emphasis>entire</emphasis> structure of these lines from the <title>Aeneid</title>, which I shall read as prose? <latin>occiderit ferrō Priamus? Trōia arserit ignī? Dardanium totiēns sūdārit sanguine lītus?</latin>"
+        answer: "TRIAD / TRICOLON (CRESCENS/CRESCENDO)"
+      - question: "For the same lines, name another specific literary device and identify to which Latin word or words it belongs"
+        answer: "<latin>FERRŌ</latin> - METONYMY;  <latin>SŪDĀRIT</latin> - SYNCOPE;  <latin>FERRŌ PRIAMUS…TRŌIA IGNĪ -</latin> CHIASMUS;  <latin>OCCIDERIT FERRŌ…ARSERIT IGNĪ</latin> – SYNCHYSIS   / INTERLOCKING WORD ORDER;  <latin>DARDANIUM LĪTUS</latin> - FRAMING/ENCLOSURE/CAVE/HYPERBATON"
+  - tossup:
+      question: "Using two defective verbs, say in Latin, “I began to be able.”"
+      answer: "<latin>COEPĪ QUĪRE</latin>"
+    boni:
+      - question: "Now using two defective verbs, say in Latin, “Let them hate provided they are able.”"
+        answer: "<latin>ŌDERINT DUM/MODO/TANTUM UT/DUMMODO QUEANT</latin>"
+      - question: "Using just one Latin word, translate the subordinate clause into Latin for this sentence: “Since they were unable, they did not capture the goat.”"
+        answer: "<latin>NEQUEUNTĒS / NEQUEUNTIBUS / IMPOTENTĒS / IMPOTENTIBUS</latin>"
+  - tossup:
+      question: "According to the <title><latin>Historia Augusta</latin></title>, what man was told that he would become emperor when he had killed a boar, a prophecy that he fulfilled by killing the prefect of Numerian on November 20, 284 AD?"
+      answer: "(GAIUS VALERIUS AURELIUS) DIOCLETIAN(US)"
+    boni:
+      - question: "What other claimant to the throne, the son of the previous emperor, did Diocletian have to defeat before taking the throne?"
+        answer: "CARINUS"
+      - question: "At what battle in 285 AD did Diocletian finally defeat Carinus?"
+        answer: "MARGUS / <latin>MORAVA</latin> <latin>2010 NJCL CERTAMEN ADVANCED DIVISION FINALS</latin>"
+  - tossup:
+      question: "Complete the following analogy: <latin>singulī</latin> : <latin>simplex</latin> :: <latin>bīnī</latin> : _______"
+      answer: "<latin>DUPLEX</latin>"
+    boni:
+      - question: "Using the verb <latin>struere</latin>, say in Latin, “The general planned three ambushes.”"
+        answer: "<latin>IMPERĀTOR/DUX TRĪNĀS (not TERNĀS) ĪNSIDIĀS STRUXIT/STRUĒBAT</latin>"
+      - question: "What number is expressed by the following Latin phrase: <latin>deciēns centēna mīlia</latin>?"
+        answer: "1,000,000 (ONE MILLION)"
+  - tossup:
+      question: "Who appealed to Pompey for the Judean throne in 64 BC and, after being denied in favor of his older brother, went on to lead revolts against Rome until captured by Gabinius seven years later?"
+      answer: "ARISTOBULUS (II)"
+    boni:
+      - question: "Name the weaker brother of Aristobulus whom Pompey had favored because he deemed him to be a more malleable ally of Rome"
+        answer: "(JOHN) HYRCANUS (II)"
+      - question: "After Hyrcanus was removed in 40 BC by the invading Parthians, which of his ministers, who had befriended both Antony and Octavian in Rome, was named king of Judea by the Senate?"
+        answer: "HEROD (I / THE GREAT)"
+  - tossup:
+      question: "What play of Plautus, in which a slave swindles Periphanes out of money to obtain a slave girl for his master Stratippocles, is said to be Plautus’ favorite play?"
+      answer: "<title><latin>EPIDICUS</latin></title>"
+    boni:
+      - question: "What play of Plautus contains the only extant passages of Carthaginian language?"
+        answer: "<title><latin>POENULUS</latin></title>"
+      - question: "What name is given to the brief statement in a comedy’s prologue that sets forth background to the plot?"
+        answer: "<latin>ARGŪMENTUM</latin>"
+  - tossup:
+      question: "Distinguish in meaning between <latin>rādō</latin> and <latin>rōdō</latin>"
+      answer: "<latin>RĀDŌ</latin> - SCRAPE <latin>RŌDŌ</latin> - GNAW"
+    boni:
+      - question: "Differentiate in meaning between <latin>turgeō</latin> and <latin>torreō</latin>"
+        answer: "<latin>TURGEŌ</latin> – TO BE SWOLLEN, TO BE POMPOUS  <latin>TORREŌ</latin> – TO BURN / PARCH / DRY UP / ROAST / TOAST"
+      - question: "Distinguish in meaning between <latin>anceps</latin> and <latin>praeceps</latin>"
+        answer: "<latin>ANCEPS</latin> - TWO-HEADED/UNCERTAIN/ UNTRUSTWORTHY/INDECISIVE/HAZARDOUS <latin>PRAECEPS</latin> - HEADFIRST/DOWNHILL/ PRECIPITOUS/HASTY/DANGEROUS"
+  - tossup:
+      question: "What son of Heracles and Auge became king of Mysia and, despite his allegiance to Priam, was eventually forced to show the Greeks the way to Troy?"
+      answer: "TELEPHUS"
+    boni:
+      - question: "Telephus was compelled to show the Greeks the way to Troy because an oracle stated that his wound must be healed by its inflictor. What, specifically, did Achilles use to heal this wound?"
+        answer: "<emphasis>RUST</emphasis> FROM HIS <emphasis>SPEAR</emphasis>HEAD (prompt on “spear”)"
+      - question: "Despite this help to the Greeks, Telephus and his kingdom fought on the side of the Trojans. Which son of Telephus was killed by Neoptolemus in battle?"
+        answer: "EURYPYLUS"
+  - tossup:
+      question: "What edifice in Rome was planned by Julius Caesar, dedicated by Augustus, and hosted part of the <latin>lūdī saeculārēs</latin> in 17 BC?"
+      answer: "THEATER OF MARCELLUS / <latin>THEĀTRUM MARCELLĪ</latin>"
+    boni:
+      - question: "Although building B was famously rebuilt in the early second-century AD, what earlier emperor reconstructed it the first time it was destroyed by a great fire at Rome?"
+        answer: "(TITUS FLAVIUS) DOMITIAN(US)"
+      - question: "Examine picture C and tell me the site"
+        answer: "TIBUR / TIVOLI / HADRIAN’S VILLA / CANOPUS"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Quī fruiminī lūdīs, semper geritōte galeās</latin>"
+      answer: "YOU WHO ENJOY GAMES / SPORTS, (MAY YOU) ALWAYS WEAR (YOUR) HELMETS"
+    boni:
+      - question: "Translate into English: <latin>Cūnctī piscēs mortuī sunt cum tantum oleum effūsum sit.</latin>"
+        answer: "ALL THE FISH ARE DEAD / HAVE DIED SINCE   SO MUCH / SUCH GREAT/LARGE (OLIVE) OIL HAS BEEN SPILLED/POURED (FORTH)"
+      - question: "Finally, translate this sentence: <latin>Pingāmus unguēs digitōrum mediōrum verbīs īnfandīs, dum omnēs iūdicēs irritēmus.</latin>"
+        answer: "LET’S PAINT THE NAILS OF OUR MIDDLE FINGERS WITH BAD/UNSPEAKABLE WORDS, UNTIL WE TICK OFF/IRRITATE ALL THE JUDGES."
+  - tossup:
+      question: "What author wrote a thirty-one-book history covering the years 96 to 378 AD in an attempt to continue where Tacitus ended his <title><latin>Historiae</latin></title>?"
+      answer: "AMMIANUS MARCELLINUS / AMMIANUS / MARCELLINUS"
+    boni:
+      - question: "Where was Ammianus born?"
+        answer: "ANTIOCH"
+      - question: "Of the eighteen surviving books covering the period from Constantius to Valens, eleven focus on the reign of what emperor, in whose campaign against the Persians Ammianus himself had served?"
+        answer: "(FLAVIUS CLAUDIUS) JULIAN(US THE APOSTATE)"
+  - tossup:
+      question: "In Book XI of the <title>Aeneid</title>, who blames the war on Turnus’ arrogance and urges Latinus to offer Lavinia’s hand to Aeneas and make peace with the Trojans?"
+      answer: "DRANCES"
+    boni:
+      - question: "While Drances and Turnus debate, with what Tuscan chief does Aeneas cross the Tiber and march on the city?"
+        answer: "TARCHON"
+      - question: "Who had earlier brought the news that the Latins would receive no support from Diomedes?"
+        answer: "VENULUS"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Quīdam pūblicānus, cum ad caupōnam pervēnisset, pretium cubiculī quaesīvit. Cui respondit caupō, “Cēterī decem dēnāriōs dare dēbent, sed tū quīndecim. Quā dē causā? Tū dīves es quod pecūniam ab aliīs rapere solēs, sed ego dītior fīam tuam pecūniam rapiendō.”</latin>  Question: If another customer came directly after the tax collector and asked the price of the room, how would the innkeeper respond?"
+      answer: "(IT WOULD BE) TEN DENARII (unless he was another tax collector)"
+    boni:
+      - question: "According to the last sentence of the passage, why did the innkeeper change the price of the tax collector’s room?"
+        answer: "SINCE THE TAX COLLECTOR BECAME RICH BECAUSE HE SEIZED MONEY FROM OTHERS, THE INNKEEPER WILL BECOME RICH(ER) BY SEIZING HIS MONEY"
+      - question: "Now listen to the tax collector’s angry response, which I will read twice: <latin>“Prīmum tū suspendere; tum quīndecim dēnāriōs in tuīs oculīs relinquam!</latin>”  Under what condition will the tax collector agree to remit the requested fee?"
+        answer: "IF THE INNKEEPER HANGS/KILLS HIMSELF / OVER THE DEAD BODY OF THE INNKEEPER / IF HE CAN PUT THE COINS ON THE EYES OF THE DEAD/HANGED INNKEEPER (etc.)"
+  - tossup:
+      question: "Give the Latin term for the political power fully utilized by Augustus only after he resigned the consulship on July 1, 23 BC, a power that he considered so important that he numbered the years of his reign from this date"
+      answer: "<latin>TRIBŪNICIA POTESTĀS</latin>"
+    boni:
+      - question: "Thanks to this power, Augustus was able to reform grain transport and distribution. What man did he appoint as <latin>praefectus annōnae</latin> to oversee this work?"
+        answer: "(GAIUS) TURRIANUS"
+      - question: "In 19 BC, the Senate tweaked the so-called constitution again to make Augustus a de facto third consul. Give the Latin term for one of the two symbols of consular power conferred upon Augustus by the Senate at that time"
+        answer: "<latin>LĪCTŌRĒS</latin>, <latin>FASCĒS</latin>, <latin>SELLA CŪRŪLIS</latin>"
+  - tossup:
+      question: "The words <latin>damnās</latin>, <latin>frūgī</latin>, and <latin>nēquam</latin> all share what grammatical peculiarity?"
+      answer: "INDECLINABLE (ADJECTIVES)"
+    boni:
+      - question: "Name one other indeclinable adjective"
+        answer: "<latin>NECESSE, TOT, QUOT, ALIQUOT, TOTIDEM</latin>"
+      - question: "Give the comparative and superlative forms of <latin>frūgī</latin>"
+        answer: "<latin>FRŪGĀLIOR, FRŪGĀLISSIMUS</latin>"
+  - tossup:
+      question: "Hippothoon succeeded to the throne of Eleusis because what man had been killed by Theseus in self-defense on his famous journey to Athens?"
+      answer: "CERCYON"
+    boni:
+      - question: "What type of animal suckled Hippothoon both times he was exposed as a child?"
+        answer: "MARES/HORSES"
+      - question: "What daughter of Cercyon was Hippothoon’s mother?"
+        answer: "ALOPE"
+  - tossup:
+      question: "Please do not open the visual until you are instructed to do so.  Now, please open your visuals and examine passages A and B for fifteen seconds.  Who is the author of passage A?"
+      answer: "APICIUS"
+    boni:
+      - question: "Give the author and the work from which passage B is excerpted"
+        answer: "(PUBLIUS) VERGIL(IUS MARO), <title>GEORGICS /</title> <title><latin>GEORGICA</latin></title>"
+      - question: "Now examine passages C, D, and E. Which of these passages was written by a Silver Age author?"
+        answer: "D (JUVENAL, SATIRE I)"
+  - tossup:
+      question: "Say in Latin, “Who is there who does not know that another storm will come?”"
+      answer: "<latin>QUIS EST QUĪ NESCIAT ALIAM TEMPESTĀTEM/PROCELLAM/HIEMEM VENTŪRAM (ESSE)?</latin>  <latin>or (...ALIUM TURBINEM VENTŪRUM...)</latin>"
+    boni:
+      - question: "Now, using the conjunction <latin>quasi</latin>, say in Latin, “Some slept as if they had no ears.”"
+        answer: "<latin>NŌNNŪLLĪ/QUĪDAM/ALIQUĪ DORMIĒBANT/DORMĪVĒRUNT</latin> <latin>QUASI NŪLLĀS AURĒS HABĒRENT / NŪLLAE AURĒS EĪS ESSENT</latin>"
+      - question: "Now, using a passive periphrastic and the word <latin>subligāculum</latin> for “pajamas,” say in Latin, “We will survive so long as we don’t have to see our teacher’s pajamas again.”"
+        answer: "<latin>SUPERERIMUS/VĪVĒMUS DUM/MODO/DUMMODO SUBLIGĀCULUM/-A MAGISTRĪ/-ŌRUM/-AE/-ĀRUM NOSTRĪ/-ŌRUM/-AE/-ĀRUM NŌBĪS ITERUM/RŪRSUS VIDENDUM/-A SINT</latin>"
+  - tossup:
+      question: "What emperor was successfully able to quell foreign revolts from the Alamanni, Franks, and Goths, all while fending off at least nine claimants to the throne in the chaos following the reign of Valerian?"
+      answer: "(PUBLIUS LICINIUS) GALLIENUS"
+    boni:
+      - question: "Which of these claimants to the throne set up the <latin>imperium Galliārum</latin>, killed Gallienus’ son, and proclaimed himself emperor in 260 AD but was defeated by Gallienus several years later?"
+        answer: "(GAIUS LATINIUS) POSTUMUS"
+      - question: "What cavalry general of Gallienus had helped him defeat Postumus but later himself challenged the emperor’s power in 268 AD?"
+        answer: "(MARCUS ACILIUS) AUREOLUS"
+  - tossup:
+      question: "Taking the Latin noun <latin>sententia</latin> to mean “motto,” follow these commands when recognized by the spotter: <latin>Surge et dīc Anglicē tē crēdere nōn posse sententiam Latīnam huic cīvitātī nōn esse.”</latin>"
+      answer: "STUDENT STANDS AND SAYS ‘I CAN’T BELIEVE THAT THIS STATE DOESN’T HAVE A LATIN MOTTO’ (OR LITERAL EQUIVALENT)"
+    boni:
+      - question: "Listen to the following sentence then answer the question that follows: <latin>Scīs tē Septentriōnālī Dacōtae ortum esse, sī tibi liceat ā scholā abesse ad cervōs vēnandōs.”</latin> How do you know you’re from North Dakota?"
+        answer: "‘IF YOU CAN MISS SCHOOL FOR DEER SEASON’ (OR LITERAL EQUIVALENT)"
+      - question: "Now follow this command: <latin>Dīc Anglicē, velut īncola Septentriōnālis Dacōtae, “Sine dubiō vērē loqueris.”</latin>"
+        answer: "ONE STUDENT SAY IN FARGO ACCENT, “YOU BETCHA” / “(OH) YAAAH” / “(OH) SURE” (MUST MAKE SOME EFFORT TO SPEAK FARGOESQUELY AND SAY SOMETHING ALONG THE LINES OF “WITHOUT A DOUBT YOU SPEAK TRULY” OR EVEN JUST “YES”)"
+  - tossup:
+      question: "According to Ovid, who, after Demophoon’s failure to return from Athens, committed suicide and was transformed into an almond tree?"
+      answer: "PHYLLIS"
+    boni:
+      - question: "In versions of this myth by Apollodorus and Hyginus, what brother of Demophoon is the husband of Phyllis?"
+        answer: "ACAMAS"
+      - question: "After whose death at Troy was Demophoon given the rule of Athens?"
+        answer: "MENESTHEUS’"
+  - tossup:
+      question: "What historical work is described as “learned and laborious” by Catullus in his first poem?"
+      answer: "(CORNELIUS NEPOS’) <title><latin>CHRONICA</latin></title>"
+    boni:
+      - question: "What orator and fellow neoteric poet does Catullus affectionately call a “clever dwarf” and threaten with the poisonous poetry of Caesius, Aquinus, and Suffenus?"
+        answer: "(GAIUS) LICINIUS CALVUS / LICINIUS / CALVUS"
+      - question: "What influential poet does Catullus name by the patronymic Battiades in reference to his birthplace?"
+        answer: "CALLIMACHUS"
+  - tossup:
+      question: "What English adjective, derived from a Latin verb meaning “to beat” that has the reduplicative 3rd principal part <latin>tutudī</latin>, means “dull-witted” or “blunt,” especially with reference to an angle?"
+      answer: "OBTUSE"
+    boni:
+      - question: "What English word, borrowed from Spanish and derived from a Latin verb meaning “to sin,” is a noun meaning “a minor offense or faux pas”?"
+        answer: "PECCADILLO"
+      - question: "Identify the two Latin words found in the French phrase “faux pas.”"
+        answer: "<latin>FALLŌ/FALLERE</latin> (DECEIVE), <latin>PASSUS</latin> (STEP/PACE) or <latin>PANDŌ/PANDERE</latin> - SPREAD OUT / OPEN / REVEAL / DEPLOY"

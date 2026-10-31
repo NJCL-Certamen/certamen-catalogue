@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2020
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What man was proclaimed <latin>dictātor perpetuus</latin> approximately one month before his former officers, led by Gaius Cassius and Marcus Brutus, assassinated him on March 15, 44 B.C.?"
+      answer: "(GAIUS JULIUS) CAESAR"
+    boni:
+      - question: "Who was co-consul with Caesar at the time of his death?"
+        answer: "MARCUS ANTONIUS / MARK ANTONY"
+      - question: "This was the first consulship for Marc Antony and obviously the last for Caesar.  How many consulships did Caesar hold in his life?"
+        answer: "5 (CONSULSHIPS)"
+  - tossup:
+      question: "Using two words, translate the following sentence into Latin: “I have remained for a long time.”"
+      answer: "<latin>MANSĪ DIŪ</latin>"
+    boni:
+      - question: "Now translate this sentence into Latin: “I’m eating now.”"
+        answer: "<latin>CONSUMŌ / EDŌ NUNC / IAM</latin>"
+      - question: "Translate this sentence into Latin: “My friends laugh easily.”"
+        answer: "<latin>MEĪ AMĪCĪ</latin> / <latin>MEAE AMĪCAE / MEA AMĪCA FACILE / FACILITER RIDENT</latin> (<latin>mea amīca</latin> = neut. plural)"
+  - tossup:
+      question: "Disregarding advice not to go too high or too low, who flew too close to the sun and brought his father, Daedalus, to grief?"
+      answer: "ICARUS"
+    boni:
+      - question: "When Icarus fell into the sea, he and his father were attempting to escape from what island, ruled by Minos?"
+        answer: "CRETE"
+      - question: "Who ultimately found Icarus’ body and buried it on the island of Doliche, in the Aegean Sea?"
+        answer: "HERACLES / HERCULES"
+  - tossup:
+      question: "Translate the following question into English: <latin>Quālis est vir?</latin> \tWHAT KIND / SORT OF MAN IS HE? // WHAT IS THE MAN LIKE?  (Prompt on “how is the man” with “What do you mean by ‘how’?"
+      answer: "”)"
+    boni:
+      - question: "Translate the following question into English: <latin>Quot avēs rēgīna habet?</latin>"
+        answer: "HOW MANY BIRDS DOES THE QUEEN HAVE?"
+      - question: "Translate this question into English: <latin>Ubi est lātrīna?</latin>"
+        answer: "WHERE IS THE BATHROOM?"
+  - tossup:
+      question: "What emperor, after executing his wife Fausta and eldest son Crispus in 326 A.D., left the empire to be divided among his three surviving sons and converted to Christianity on his deathbed in 337 A.D.?"
+      answer: "(FLAVIUS VALERIUS) CONSTANTINUS / CONSTANTINE THE GREAT / I"
+    boni:
+      - question: "Where had Constantine been declared emperor by his father’s troops in 306 AD?"
+        answer: "EBORĀCUM / YORK"
+      - question: "Name one of Constantine’s sons who succeeded him."
+        answer: "CONSTANTINE / CONSTANTINUS II // CONSTANTIUS II // CONSTANS"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions which follow. \t<latin>Aurēlia et sorōrēs equum ad viam dūcēbant, maximē dēfessae.  Ūna soror, quae maximōs annōs sorōrum habēbat, celeriter equum ascendit.  Equus quoque dēfessus erat, itaque stetit in crūribus posteriōribus, et sorōrem ad terram iēcit.</latin>  REREAD \t The question: <latin>Quō Aurēlia et sorōrēs equum dūcēbant?</latin>"
+      answer: "<emphasis><latin>AD</latin></emphasis> <latin>VIAM (DUCEBANT)</latin>"
+    boni:
+      - question: "<latin>Cūr equus stetit in crūribus posteriōribus?</latin>"
+        answer: "<latin>ERAT (DĒ)FESSUS / NŌLĒBAT SORŌREM PORTĀRE /  SOROR ASCENDIT EQUUM</latin>"
+      - question: "<latin>Ubi illa puella nunc iacet?</latin>"
+        answer: "<latin>IN TERRĀ / HUMĪ</latin>   (<latin>AD TERRAM</latin> is NOT correct)"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē:</latin> <latin>In Phrygiā, quī marītus et uxor sōlī hospītium dedērunt Iovī et Mercuriō?</latin>"
+      answer: "<latin>BAUCIS ET PHILĒMON</latin>"
+    boni:
+      - question: "<latin>In quale aedificium mūtāta est casa Baucidis et Philēmonis?</latin>"
+        answer: "<latin>(IN) TEMPLUM</latin>"
+      - question: "<latin>In quās Philēmon et Baucis mūtātī sunt?</latin>"
+        answer: "<latin>(IN) ARBORĒS // QUERCUM ET TILIAM</latin>"
+  - tossup:
+      question: "What is the meaning of the Latin verb at the root of “exclamation”?"
+      answer: "SHOUT (OUT) / SAY / DECLAIM / ANNOUNCE / CALL (UPON)"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of “capture”?"
+        answer: "<latin>CAPIŌ -</latin> SEIZE / TAKE (<latin>CAPTŌ</latin> is not correct)"
+      - question: "What Latin noun with what meaning is the ultimate root of “civilian”?"
+        answer: "<latin>CĪVIS -</latin> CITIZEN"
+  - tossup:
+      question: "In criminal proceedings, there are a number of pleas a defendant may make. What Latin phrase expresses the defendant’s wish to not contest the charges?"
+      answer: "<latin>NŌLŌ CONTENDERE</latin>"
+    boni:
+      - question: "Sometimes a defendant may try to argue that they were not of a sound mind during the course of their alleged actions. What Latin phrase would they use to describe this unsound state?"
+        answer: "<latin>NŌN COMPOS MENTIS</latin>"
+      - question: "A judge may dismiss a case outright if the prosecutors cannot present a reasonable theory of the crime committed. What two-word Latin phrase describes how the case looks at first glance?"
+        answer: "<latin>PRĪMĀ FACIĒ</latin> (“fay-shuh” is acceptable pronunciation)"
+  - tossup:
+      question: "Translate the following sentence into Latin: “Marcus, go!”"
+      answer: "<latin>MARCE, Ī / VĀDE!</latin>"
+    boni:
+      - question: "Now translate: “Children, play!”"
+        answer: "<latin>LĪBERĪ / PUERĪ, LUDITE!</latin>"
+      - question: "Now translate into alliterative Latin: “The wolves are playing the game.”"
+        answer: "<latin>LUPĪ / LUPAE LŪDUNT LŪDUM</latin>"
+  - tossup:
+      question: "What group of goddesses, traditionally worshipped on Mount Parnassus and Mount Helicon, included the personifications of tragedy, history, epic poetry, and dance?"
+      answer: "MUSES / <latin>MOUSAI</latin> (don’t take <latin>CAMENA</latin>, not worshipped on Parnassus)"
+    boni:
+      - question: "Which of the Muses was typically considered the patron of epic poetry?"
+        answer: "CALLIOPE"
+      - question: "Which of the Muses was typically considered the patron of comedy?"
+        answer: "THALIA"
+  - tossup:
+      question: "Which of the following words does not belong because of meaning: <latin>arbor, flōs, agnus, herba?</latin>"
+      answer: "<latin>AGNUS</latin>"
+    boni:
+      - question: "Which of the following words does not belong because of meaning: <latin>cōnsīdō, contendō, festīnō, currō</latin>?"
+        answer: "<latin>CŌNSĪDŌ</latin>"
+      - question: "Which of the following words does not belong because of meaning: <latin>aeger, sollicitus, ānxius, dulcis</latin>?"
+        answer: "<latin>DULCIS</latin>"
+  - tossup:
+      question: "Complete the following analogy: <latin>Lutetia</latin> : Paris :: <latin>Vindóbona</latin> : <emphasis>[blank]</emphasis>."
+      answer: "VIENNA"
+    boni:
+      - question: "What modern Italian city was once called <latin>Mediolānum</latin>?"
+        answer: "MILAN"
+      - question: "What modern Spanish city was once called <latin>Ēmerita Augusta</latin>?"
+        answer: "MÉRIDA"
+  - tossup:
+      question: "What Latin verb is the root of the English words “clarify”, “affect”, and “fact”?"
+      answer: "<latin>FACIŌ</latin>"
+    boni:
+      - question: "What derivative of <latin>faciō</latin> means “a group of people usually having the same opinion contained within a larger group”?"
+        answer: "FACTION"
+      - question: "What derivative of <latin>faciō</latin> means “without flaw or complete”?"
+        answer: "PERFECT"
+  - tossup:
+      question: "What youth is central to the first four books of the <title>Odyssey</title>, since they describe his journey from his native Ithaca in search of his father?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "In Book 3 of the <title>Odyssey</title>, Telemachus visits what coastal city, where he encounters nine groups of men each sacrificing nine bulls?"
+        answer: "PYLOS"
+      - question: "In Book 4 of the <title>Odyssey</title>, Telemachus visits Sparta, where he is hosted by Menelaus and what woman?"
+        answer: "HELEN"
+  - tossup:
+      question: "Translate the relative pronoun in this sentence: “The emperor’s guests, whose money had been accepted, were led to the banquet.”"
+      answer: "<latin>QUŌRUM / QUĀRUM / QUIBUS</latin>"
+    boni:
+      - question: "Translate the relative pronoun in this sentence: “One of the emperor’s attendants dropped a table which was laden with food.”"
+        answer: "<latin>QUAE</latin>"
+      - question: "Translate the relative pronoun in this sentence: “The adviser to whom the emperor gave a large pension enjoyed a long and happy life.”"
+        answer: "<latin>CUI</latin>"
+  - tossup:
+      question: "What future emperor, the nephew of Faustina the Elder, was originally named Marcus Annius Verus and is commonly known as Rome’s “philosopher emperor” due to his book on Stoic philosophy called <title>Meditations</title>?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What elder statesman was the first emperor to be elected by the Senate?"
+        answer: "NERVA"
+      - question: "What other emperor, who was nicknamed <latin>Graeculus</latin> for being an admirer of Greek culture, is famous for building a wall in Britain that stretched from the River Tyne to the Solway Firth?"
+        answer: "HADRIAN"
+  - tossup:
+      question: "At the beginning of Book 6 of Ovid’s <title><latin>Metamorphōsēs</latin></title>, Minerva turns her mind to the fate of what Maeonian girl, “whom she had heard would not yield due praise in the art of spinning wool?"
+      answer: "” ARACHNE"
+    boni:
+      - question: "Name Arachne’s father, who dyed the wool for her, according to the <title><latin>Metamorphōsēs</latin></title>."
+        answer: "IDMON (OF COLOPHON)"
+      - question: "Ovid’s <title><latin>Metamorphōsēs</latin></title> describes the nymphs of the River Pactolus deserting their waves to see Arachne’s handiwork. What Phrygian king is also associated with the River Pactolus, having rid himself of a curse by washing his hands in it?"
+        answer: "MIDAS"
+  - tossup:
+      question: "For the sentence, “The lion had dragged Thisbe’s shawl to the spring,” give the form of the verb <latin>trahō</latin> that would be needed to translate “had dragged.”"
+      answer: "<latin>TRAXERAT</latin>"
+    boni:
+      - question: "Which of the following verbs is in the present tense:  <latin>dūcet, manēs, dormiam, habēbō?</latin>"
+        answer: "<latin>MANĒS</latin>"
+      - question: "Which of these participles is future tense: <latin>dictūra, intrātōs, vincentis, sensī?</latin>"
+        answer: "<latin>DICTŪRA</latin>"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē: Pūblius Cornēlius Scīpiō Africānus est nōmen nōtum. Quod est praenōmen in illō nōmine?</latin>"
+      answer: "<latin>PŪBLIUS</latin>"
+    boni:
+      - question: "What is the Latin term for the name <latin>Africānus</latin>?"
+        answer: "<latin>AGNŌMEN // COGNŌMEN EX VIRTŪTE</latin>"
+      - question: "What are the Latin terms for the names <latin>Cornēlius</latin> and <latin>Scīpiō</latin>?"
+        answer: "<latin>NŌMEN, COGNŌMEN</latin> (respectively)"

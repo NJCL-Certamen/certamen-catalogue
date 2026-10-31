@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2004
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dīvitibus aufert, datque pauperibus</latin>"
+      answer: "HE STEALS FROM THE RICH AND GIVES TO THE POOR"
+    boni:
+      - question: "What case and use is <latin>dīvitibus</latin> in that sentence?"
+        answer: "DATIVE OF DISADVANTAGE / SEPARATION"
+      - question: "What literary device, other than alliteration, appears in the toss-up?"
+        answer: "CHIASMUS"
+  - tossup:
+      question: "What Roman emperor wrote histories of the Etruscans and the Carthaginians?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "What Roman emperor wrote a philosophic treatise called <title>Meditations</title>?"
+        answer: "MARCUS AURELIUS"
+      - question: "What Roman emperor wrote <title><latin>Res Gestae</latin></title>?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "What emperor built his mausoleum on the Campus Martius?"
+      answer: "<latin>AUGUSTUS</latin>"
+    boni:
+      - question: "Who built the first of Rome’s great <latin>thermae</latin> on the Campus Martius?"
+        answer: "(<latin>M.VIPSANIUS.) AGRIPPA</latin>"
+      - question: "What emperor built a stadium and an <latin>odeum</latin> on the Campus Martius?"
+        answer: "<latin>DOMITIAN</latin>"
+  - tossup:
+      question: "What bowlegged and lame soldier incurred the wrath of Odysseus by accusing Agamemnon of greed and Achilles of cowardice?"
+      answer: "THERSITES"
+    boni:
+      - question: "Who killed Thersites, the ugliest Greek at Troy?"
+        answer: "ACHILLES"
+      - question: "Why did Achilles kill Thersites?"
+        answer: "BECAUSE THERSITES MADE FUN OF ACHILLES FOR GRIEVING OVER THE BODY OF PENTHESILEA"
+  - tossup:
+      question: "Listen to the following passage which I will read twice and answer in Latin the question that follows: <latin>Leō</latin> <latin>et duo amīcī</latin> <latin>in silvīs animālia agitābant. Ingentī</latin> <latin>cervō</latin> <latin>captō, leō</latin> <latin>praedam hīs verbīs dīvīsit: “Ego prīmam partem accipiō</latin> <latin>quod rēx appellor. Secundam partem et tertiam mihi dabitis quia sum fortior vōbīs. Placetne vōbīs?” Amīcī</latin> <latin>maestē</latin> <latin>consēnsērunt et ēsūriēntēs domum rediērunt.</latin>  The question: <latin>Quid erat praeda?</latin>"
+      answer: "(INGENS/MAGNUS) CERVUS"
+    boni:
+      - question: "Quantum cibī <latin>datum est rēgī?</latin>"
+        answer: "TOTUS (CIBUS) / OMNIS"
+      - question: "Quibus nihil oblātum est?"
+        answer: "AMĪCĪS / SOCIĪS / COMITIBUS / SODĀLIBUS"
+  - tossup:
+      question: "Translate the following sentence into idiomatic English: <latin>Rōmam ībimus prīdiē Kalendās Septembrēs</latin>."
+      answer: "WE WILL GO TO ROME ON AUGUST 31ST"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Nōnīs Iānuāriīs Karthāginī manēbimus</latin>."
+        answer: "WE WILL STAY AT CARTHAGE ON JANUARY 5TH"
+      - question: "Translate the following sentence into English: <latin>ante diem tertium Īdūs Quīntīlēs domī erimus</latin>."
+        answer: "WE WILL BE AT HOME ON JULY 13TH"
+  - tossup:
+      question: "Who defends himself against the accusation of plagiarism in the prologue of his <title><latin>Eunuchus</latin></title>?"
+      answer: "TERENCE / (PUBLIUS TERENTIUS AFER)"
+    boni:
+      - question: "In the prologue to which of his works does Terence argue that the technique of combining two Greek sources into one Latin comedy was employed also by Naevius, Plautus, and Ennius?"
+        answer: "<title><latin>ANDRIA</latin></title>"
+      - question: "What Latin term refers to this practice of combining two Greek sources into one Latin comedy?"
+        answer: "<latin>CONTAMINĀTIŌ</latin>"
+  - tossup:
+      question: "Which of the kings of Rome was raised by a shepherd and his wife?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Name the shepherd and his wife"
+        answer: "FAUSTULUS AND (ACCA) LARENTIA"
+      - question: "On what hill was their home?"
+        answer: "PALATINE"
+  - tossup:
+      question: "Who wanted to kill their only pet goose in order to provide a proper meal for a pair of disguised gods?"
+      answer: "BAUCIS & PHILEMON"
+    boni:
+      - question: "Who were the disguised gods, according to Ovid?"
+        answer: "JOVE / JUPITER & MERCURY"
+      - question: "Into what were the pious couple transformed at the end of their life?"
+        answer: "AN OAK AND A LINDEN (or WILLOW)"
+  - tossup:
+      question: "Give the Latin noun and its meaning from which “profane” is derived"
+      answer: "<latin>FĀNUM</latin> - TEMPLE, SANCTUARY"
+    boni:
+      - question: "What derivative of <latin>fānum</latin> means “one who is possessed with extreme zeal?”"
+        answer: "FANATIC"
+      - question: "What Latin word, etymologically related to <latin>fānum</latin>, means, “a religious festival or holiday”?"
+        answer: "<latin>FĒRIAE (</latin>not <latin>FĒRIA)</latin>"
+  - tossup:
+      question: "Translate into English the phrase “<latin>sive hominēs sive animālia</latin>”"
+      answer: "WHETHER MEN OR ANIMALS"
+    boni:
+      - question: "“<latin>modo currunt, modo circumspectant</latin>.”"
+        answer: "NOW THEY ARE RUNNING, NOW THEY ARE LOOKING AROUND"
+      - question: "“<latin>quā</latin> <latin>marēs quā</latin> <latin>fēminae</latin>”"
+        answer: "BOTH MEN AND WOMEN"
+  - tossup:
+      question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“quantās aciēs strāgemque ciēbunt!”</latin>?"
+      answer: "HENDIADYS"
+    boni:
+      - question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“quōs inter medius vēnit furor.”</latin>?"
+        answer: "ANASTROPHE / PERSONIFICATION"
+      - question: "What literary device, other than alliteration, is demonstrated in the following line: <latin>“post mihi nōn similī</latin> <latin>poenā</latin> <latin>commissa luētis.”</latin>?"
+        answer: "LITOTES"
+  - tossup:
+      question: "What use of the ablative case is found in the following Latin sentence: <latin>Gnaeō</latin> <latin>Pompeiō</latin> <latin>Marcō</latin> <latin>Crassō</latin> <latin>cōnsulibus, Caesar in Galliā</latin> <latin>pugnābat</latin>"
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: "<latin>Nūllā</latin> <latin>laude dignus est puer improbus</latin>"
+        answer: "RESPECT / SPECIFICATION"
+      - question: "<latin>Senex fāme moriēbātur</latin>"
+        answer: "CAUSE"
+  - tossup:
+      question: "Who signed a treaty with Mithridates at Dardanus in 85 B.C.?"
+      answer: "(L. CORNELIUS) SULLA"
+    boni:
+      - question: "When Sulla returned to Italy, who were the consuls whom he proceeded to defeat in 82 B.C.?"
+        answer: "(CN. PAPIRIUS) CARBO and (C.) MARIUS THE YOUNGER"
+      - question: "What future triumvir helped Sulla win his final battle at Colline Gate against the Samnites?"
+        answer: "(M. LICINIUS) CRASSUS"
+  - tossup:
+      question: "Of <latin>saltātricēs, imāginēs, pistōrēs, fugitīvī</latin> and <latin>nōmenclātōrēs</latin>, which is being described here: <latin>Eī quī quaerunt lībertātem, carcere relictō</latin>?"
+      answer: "<latin>FUGITĪVĪ</latin>"
+    boni:
+      - question: "Of <latin>saltātricēs, imāginēs, pistōrēs, fugitīvī</latin> and <latin>nōmenclātōrēs</latin>, which is being described here: <latin>... capita cērāta maiōrum</latin>?"
+        answer: "<latin>IMĀGINĒS</latin>"
+      - question: "Of <latin>saltātricēs, imāginēs, pistōrēs, fugitīvī</latin> and <latin>nōmenclātōrēs</latin>, which is being described here: <latin>Eī quī dominōs certiōrēs faciunt dē salūtātōribus</latin>?"
+        answer: "<latin>NŌMENCLĀTŌRĒS</latin>"
+  - tossup:
+      question: "Which sinner in the Underworld was punished because he told Asopus that Zeus was the one who carried off his daughter Aegina?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Identify the letter of the sinner depicted here who was the son of Zeus and Pluto?"
+        answer: "“D”"
+      - question: "Identify the letter of the sinner depicted here who was the son of Aeolus and Enarete?"
+        answer: "“C”"
+  - tossup:
+      question: "Change the phrase <latin>bōs vetus</latin> to the genitive plural"
+      answer: "<latin>BO(V)UM VETERUM</latin>"
+    boni:
+      - question: "Change the phrase <latin>animal pauper</latin> to the ablative singular"
+        answer: "<latin>ANIMĀLĪ</latin> <latin>PAUPERE</latin>"
+      - question: "Change the phrase <latin>uterque obses</latin> to genitive singular"
+        answer: "<latin>UTRĪUSQUE OBSIDIS</latin>"
+  - tossup:
+      question: "Which emperor enshrined a conical black stone on the Palatine as the cult symbol of his god?"
+      answer: "ELAGABALUS (VARIUS AVITUS) /BASSIANUS"
+    boni:
+      - question: "Who decided that Elagabalus had to be eliminated before he destroyed the reputation of the Severan dynasty?"
+        answer: "JULIA MAESA (and MAMAEA her daughter)"
+      - question: "Who killed Elagabalus?"
+        answer: "PRAETORIAN GUARDS"
+  - tossup:
+      question: "What Roman author held various public positions under the emperors Vespasian, Titus, and Domitian, and married the daughter of Cn. Iulius Agricola?"
+      answer: "(CORNELIUS) TACITUS"
+    boni:
+      - question: "As consul in AD 97 under the emperor Nerva, Tacitus delivered the funeral address for what famous and admirable Roman general?"
+        answer: "VERGINIUS RUFUS"
+      - question: "What is the Latin title of Tacitus’ earliest work?"
+        answer: "(<title><latin>DIALOGUS) D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
+  - tossup:
+      question: "Which king of Thebes was the father of Laius?"
+      answer: "LABDACUS"
+    boni:
+      - question: "After Labdacus died, who ruled as regent in the infant Laius’ place?"
+        answer: "LYCUS"
+      - question: "To whom was the baby Laius sent when Amphion and Zethus took over the throne of Thebes?"
+        answer: "PELOPS"

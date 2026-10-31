@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2009
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What deity, while living in a cave by the ocean, spent nine years fine-tuning his smith’s craft by making jewelry for the Oceanids who rescued him?"
+      answer: "HEPHAESTUS / VULCAN(US) / MULCIBER"
+    boni:
+      - question: "Who had necessitated the Oceanids’ rescue by flinging Hephaestus from Olympus?"
+        answer: "HERA / JUNO"
+      - question: "How did Hephaestus “repay” Hera for this act of cruelty?"
+        answer: "MADE A (GOLDEN) <emphasis>THRONE</emphasis> AND <emphasis>TRAPPED</emphasis> HER ON IT"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “invītus”?</latin>"
+      answer: "UNWILLING, RELUCTANT"
+    boni:
+      - question: "<latin>Quid Anglicē significat “lentus”?</latin>"
+        answer: "SLOW"
+      - question: "<latin>Quid Anglicē significat “sollicitus”?</latin>"
+        answer: "WORRIED, ANXIOUS, CONCERNED, STIRRED UP"
+  - tossup:
+      question: "During whose reign was the <latin>Pōns Sublicius</latin> constructed?"
+      answer: "ANCUS (MARCIUS)"
+    boni:
+      - question: "Ancus Marcius was said to be the grandson of which king of Rome?"
+        answer: "NUMA (POMPILIUS)"
+      - question: "Near what town did Ancus Marcius gain control of the salt-pans?"
+        answer: "OSTIA"
+  - tossup:
+      question: "How many declensions are there in Latin?"
+      answer: "FIVE"
+    boni:
+      - question: "How many cases can be used to show possession?"
+        answer: "TWO"
+      - question: "How many cases can be used to show place where?"
+        answer: "TWO"
+  - tossup:
+      question: "The Roman Senate was forced to take action against what foreign leader after he sacked and massacred many Italian residents of Cirta in 112 BC?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "What Roman consul of 109 BC, with the help of his lieutenant Marius, led a campaign against Jugurtha?"
+        answer: "(QUINTUS CAECILIUS) METELLUS (NUMIDICUS)"
+      - question: "What relative of Jugurtha eventually betrayed Jugurtha to the Romans?"
+        answer: "(HIS FATHER-IN-LAW) BOCCHUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Erant multa animālia in silvā</latin>"
+      answer: "MANY ANIMALS WERE / THERE WERE MANY ANIMALS IN THE FOREST / WOODS"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Iūlia est pulchra fīlia dictātōris</latin>"
+        answer: "JULIA IS THE PRETTY / BEAUTIFUL DAUGHTER OF THE DICTATOR"
+      - question: "Translate the following sentence into English: <latin>Lūcius erat coquus nōtissimus</latin>"
+        answer: "LUCIUS WAS A VERY FAMOUS / THE MOST FAMOUS COOK"
+  - tossup:
+      question: "Who dazzled the widowed queen of Carthage with stories of his adventures?"
+      answer: "AENEAS"
+    boni:
+      - question: "Name this queen of Carthage who was enchanted by the stories and the looks of Aeneas"
+        answer: "DIDO / ELISSA"
+      - question: "What half-sibling of Aeneas made him irresistible to Dido?"
+        answer: "CUPID"
+  - tossup:
+      question: "What organization has the Latin motto <latin>semper fidēlis</latin>?"
+      answer: "(U.S.) MARINE CORPS / MARINES"
+    boni:
+      - question: "What Hollywood studio had the Latin motto <latin>ars grātiā artis?</latin>"
+        answer: "MGM / METRO GOLDWYN MAYER"
+      - question: "What adult organization has the Latin motto <latin>semper parātus</latin>?"
+        answer: "(U.S.) COAST GUARD"
+  - tossup:
+      question: "Whose longing for his first wife and loathing for Julia, the daughter of Augustus, may have spurred his retirement in 6 BC to the island of Rhodes?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who was the first wife of Tiberius whom he was forced to divorce in order to marry Julia?"
+        answer: "VIPSANIA"
+      - question: "Another reason for Tiberius’ retirement to Rhodes may have been Augustus’ adoption of what two young men?"
+        answer: "GAIUS & LUCIUS (CAESAR) (THE SONS OF JULIA AND AGRIPPA)"
+  - tossup:
+      question: "Who brought the largest single contingent to Troy, a hundred ships full of soldiers from Mycenae, after helping Menelaus organize a large army to rescue Helen?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Assuming “This Guy” in Picture #1 is Agamemnon, who is “This Lady”?"
+        answer: "CLYTEMNESTRA"
+      - question: "“This Lady” in Picture #2 is Clytemnestra. Who is “This Dude”?"
+        answer: "ORESTES"
+  - tossup:
+      question: "Give the Latin verb and its meaning from which we derive “preamble.”"
+      answer: "<latin>AMBULŌ</latin> / <latin>AMBULĀRE</latin>– TO WALK"
+    boni:
+      - question: "Give the Latin verb and its meaning from which we derive “vista.”"
+        answer: "<latin>VIDEŌ</latin> / <latin>VIDĒRE</latin>– TO SEE"
+      - question: "Give the Latin verb and its meaning from which we derive “impugn.”"
+        answer: "<latin>PUGNŌ</latin> / <latin>PUGNĀRE</latin> – TO FIGHT"
+  - tossup:
+      question: "Which of the following is furthest east? <latin>Britannia, Dācia, Gallia, Hispānia, Mauretānia</latin>"
+      answer: "DĀCIA/DACIA"
+    boni:
+      - question: "Which of those is furthest south?"
+        answer: "<latin>MAURETĀNIA</latin>/MAURETANIA"
+      - question: "Which of those is furthest north?"
+        answer: "<latin>BRITANNIA</latin>/BRITANNIA"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others? maternity, matriculate, matrix, material, marital"
+      answer: "MARITAL"
+    boni:
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others? lieutenant, location, allocate, locomotive"
+        answer: "NONE"
+      - question: "Which of the following, if any, is NOT derived from the same Latin root as the others? privilege, obligate, loyal, legislate, illegitimate?"
+        answer: "OBLIGATE"
+  - tossup:
+      question: "Who had to travel to the Far West to bring back Golden Apples from the garden of the Hesperides?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "According to some sources, what Titan helped Heracles obtain the golden apples?"
+        answer: "ATLAS"
+      - question: "According to other sources, Heracles himself obtained the apples after killing what monstrous guardian of the garden?"
+        answer: "LADON"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Cerēs in terrīs ambulat. Quod Proserpinam fīliam vidēre nōn potest, Cerēs Proserpinam quaerit. Proserpina tamen ā deō Plutōne sub terrā tenētur. Animus deae Cereris valdē dolet.</latin> The Question: <latin>Ubī tenētur Proserpina?</latin>"
+      answer: "SUB TERRĀ / TERRĪS / IN TARTARŌ"
+    boni:
+      - question: "<latin>Quem vidēre nōn potest Cerēs?</latin>"
+        answer: "PROSERPINAM / FĪLIAM (SUAM)"
+      - question: "<latin>Vērum aut falsum: fīliā raptā, animus Cereris miserrimus erat?</latin>"
+        answer: "VĒRUM"
+  - tossup:
+      question: "What Roman <latin>praenōmen</latin> is abbreviated <latin>L.?</latin>"
+      answer: "LŪCIUS"
+    boni:
+      - question: "What Roman <latin>praenōmen</latin> is abbreviated <latin>D.</latin>?"
+        answer: "<latin>DECIMUS</latin>"
+      - question: "What Roman <latin>praenōmen</latin> is abbreviated <latin>Ti.</latin>?"
+        answer: "<latin>TIBERIUS</latin>"
+  - tossup:
+      question: "Say in Latin: He was sleeping in the bedroom"
+      answer: "<latin>IN CUBICULŌ / CAMERĀ DORMIĒBAT</latin>"
+    boni:
+      - question: "…: We will have read the books.”"
+        answer: "<latin>LIBRŌS LĒGERIMUS</latin>"
+      - question: "…: They had written many letters"
+        answer: "<latin>MULTĀS EPISTULĀS / LITTERĀS SCRĪPSERANT</latin>"
+  - tossup:
+      question: "Give an antonym of <latin>clāmō</latin>"
+      answer: "TACEŌ, SILEŌ, SUSURRŌ, <latin>SILĒSCŌ, MUSSŌ</latin>"
+    boni:
+      - question: "Give an antonym of <latin>dēscendō</latin>"
+        answer: "ASCENDŌ, SALIŌ, CŌNSCENDŌ, SURGŌ, SUBEŌ"
+      - question: "Give an antonym of <latin>vituperō</latin>"
+        answer: "LAUDŌ, HONŌRŌ, ADŌRŌ, COLŌ, BLANDIOR"
+  - tossup:
+      question: "Who was in a deep slumber when his men, thinking their captain was hiding treasure from them, opened a leather bag that contained all but one of the winds?"
+      answer: "ODYSSEUS / ULYSSES / ULIXES"
+    boni:
+      - question: "Who had given this bag of winds to Odysseus?"
+        answer: "AEOLUS"
+      - question: "What was the result of Odysseus’ foolish action?"
+        answer: "THE SHIP WAS BLOWN (AWAY FROM ITHACA AND) BACK TO AEOLUS’ ISLAND (AEOLIA)"
+  - tossup:
+      question: "Complete the following analogy: <latin>portō : portābunt :: scrībō : _____</latin>"
+      answer: "SCRĪBENT"
+    boni:
+      - question: "…: <latin>portō : portābunt :: eō : _____</latin>"
+        answer: "ĪBUNT"
+      - question: "…: <latin>portō : portābunt :: nōlō : _____</latin>"
+        answer: "NŌLENT 2009 NJCL CERTAMEN NOVICE DIVISION"

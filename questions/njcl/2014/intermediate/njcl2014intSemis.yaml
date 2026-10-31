@@ -1,0 +1,325 @@
+tournament: "NJCL Certamen"
+year: 2014
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Which of the following Latin nouns does not belong because of meaning: <latin>genū, mentum, rāna, cubitus, cervix?</latin>"
+      answer: "<latin>RĀNA</latin>"
+    boni:
+      - question: "What does <latin>rāna</latin> mean?"
+        answer: "FROG"
+      - question: "<latin>Rāna</latin> sounds like <latin>rēnēs</latin>, which is the Latin noun for which part of the body?"
+        answer: "KIDNEYS"
+  - tossup:
+      question: "Translate into Latin: “Do you think the girls are beautiful?"
+      answer: "<latin>PUTĀS-NE</latin>  <latin>PUELLĀS PULCHRĀS ESSE?</latin> "
+    boni:
+      - question: "Translate into Latin: “Do you think the girls have been defeated?”"
+        answer: "<latin>PUTĀS-NE PUELLĀS VICTĀS ESSE?</latin> "
+      - question: "Translate into Latin: “Do you think the girls will be defeated?"
+        answer: "<latin>PUTĀS-NE PUELLĀS VICTUM IRI?</latin> "
+  - tossup:
+      question: "Which of the following cities was NOT in the province of Britannia: Noviomagus, Aquincum, Glevum, or Eboracum?"
+      answer: "AQUINCUM"
+    boni:
+      - question: "Which of the following cities was not in one of the three provinces collectively known as Hispania: Augusta Emerita, Carthago Nova, Gades, or Narbo?"
+        answer: "NARBO"
+      - question: "Which of the following cities was not in the province of Gallia: Salona, Lugdunum, Massilia, or Augusta Treverorum?"
+        answer: "SALONA"
+  - tossup:
+      question: "Following a debt crisis and the subsequent secession of the plebs to the Janiculum Hill, what plebeian dictator of 287 BC passed a law making plebiscites legally binding on all Roman citizens?"
+      answer: "(QUINTUS) HORTENSIUS"
+    boni:
+      - question: "Marriage between the patricians and the plebeians was forbidden by the Twelve Tables and remained so until what tribune of 455 BC issued a plebiscite revoking this ban?"
+        answer: "(GAIUS) CANULEIUS"
+      - question: "In what year did Lucius Julius Caesar pass a law conferring franchise on those Italians who had remained loyal to Rome during the Social War?"
+        answer: "90 BC"
+  - tossup:
+      question: "What use of the subjunctive is found in the following sentence? “<latin>Adeo fortiter Pontem Sublicium dēfendit et tot mīlitēs Etruscōs interfēcit ut Romam servaret</latin>.”"
+      answer: "RESULT"
+    boni:
+      - question: "What use of the subjunctive is found in the following sentence? “<latin>Vereor ut veniat</latin>.”"
+        answer: "FEAR CLAUSE"
+      - question: "What use of the subjunctive is found in the following sentence? “<latin>Utinam dī deaeque simus</latin>!”"
+        answer: "OPTATIVE"
+  - tossup:
+      question: "Please listen to the following, which I will read twice, and answer in ENGLISH the question that follows: <latin>prīnceps, per</latin> quattuor <latin>annōs in</latin> quibus imperium <latin>tenēbat</latin>, tot <latin>hominēs occīdit ut cīvēs valdē timērent, nē īra prīncipis contrā sē verterētur. prīnceps multōs necāvit ut pecūniam eōrum</latin> raperet, <latin>aliōs quod</latin> eum <latin>nōn</latin> satis <latin>laudāverant, cēterōs nūllā aliā causā quam quod optimī virī</latin> erant. (repeat) The question: How did the emperor scare the citizens?"
+      answer: "HE KILLED (SO/TOO) MANY MEN"
+    boni:
+      - question: "Give a reason why the emperor killed people?"
+        answer: "TO SEIZE THEIR MONEY / BECAUSE THEY DIDN’T PRAISE HIM ENOUGH / (FOR NO OTHER REASON THAN) BECAUSE THEY WERE THE BEST (MEN)"
+      - question: "Give another."
+        answer: "TO SEIZE THEIR MONEY / BECAUSE THEY DIDN’T PRAISE HIM ENOUGH / (FOR NO OTHER REASON THAN) BECAUSE THEY WERE THE BEST (MEN)"
+  - tossup:
+      question: "What man, who went mad and tried to kill his family like deer, was the husband of Ino?"
+      answer: "ATHAMAS"
+    boni:
+      - question: "Who were the two sons of Athamas and Ino?"
+        answer: "MELICERTES AND LEARCHUS"
+      - question: "Into what sea gods were Melicertes and Ino transformed when she jumped into the sea holding Melicertes’ dead body?"
+        answer: "PALAEMON AND LEUCOTHEA"
+  - tossup:
+      question: "Give the 3rd person plural perfect indicative of <latin>“loquor”</latin>"
+      answer: "<latin>LOCŪTĪ / -AE / -A SUNT</latin>"
+    boni:
+      - question: "Please make <latin>locūtī sunt</latin> subjunctive."
+        answer: "<latin>LOCŪTĪ / -AE / -A SINT</latin>"
+      - question: "Please make <latin>locūtī sint</latin> present tense."
+        answer: "LOQUANTUR"
+  - tossup:
+      question: "Consider the chemical abbreviations Sn, Pb, Ag, Hg, and Cu. Which element’s name is not derived from Latin but instead from Greek?"
+      answer: "HG"
+    boni:
+      - question: "Give the full Latin word from which Ag is derived"
+        answer: "<latin>ARGENTUM</latin>"
+      - question: "Give the full Latin word from which Pb is derived"
+        answer: "<latin>PLUMBUM</latin>"
+  - tossup:
+      question: "Who earned the wrath of Zeus both by telling Asopus about one of Zeus’ affairs and by preventing many deaths by shackling Thanatos?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Name the woman in that affair"
+        answer: "AEGINA"
+      - question: "Though Sisyphus was from Greece, two great-great grandsons of Sisyphus led what land’s contingent to defend Troy from the Greeks?"
+        answer: "LYCIA’S"
+  - tossup:
+      question: "Which general reached the Visurgis River and two years later in a campaign against the Marcomanni reached the Elbe River in 9 BC, where he, according to Livy, fell off his horse and died?"
+      answer: "(NERO CLAUDIUS) DRUSUS I / ELDER (GERMANICUS) / (DRUSUS CLAUDIUS NERO)"
+    boni:
+      - question: "Drusus II, called Castor for his fist fights with Sejanus, was the father of which imperial heir?"
+        answer: "TIBERIUS GEMELLUS"
+      - question: "Drusus III fathered no children before his untimely death in 33 AD, though he did have the dubious distinction of being uncle to which emperor?"
+        answer: "NERO  "
+  - tossup:
+      question: "Give the specific Latin term for the piece of military equipment labeled “A.”"
+      answer: "<latin>LORICA SEGMENTATA</latin> "
+    boni:
+      - question: "What is the Latin term for the kind of shield labeled “Shield #2”?"
+        answer: "<latin>PARMA</latin> / <latin>CLIPEUS</latin> "
+      - question: "What is the Latin term for the part of the shield labeled “B”?"
+        answer: "<latin>UMBO</latin>"
+  - tossup:
+      question: "Although it is a chamber of the heart, the word “ventricle” derives from the Latin word for what other body part?"
+      answer: "STOMACH (VENTER)"
+    boni:
+      - question: "What do we mean when we describe animals as either “oviparous” or “viviparous”?"
+        answer: "THEY BEAR LIVE CHILDREN OR EGGS"
+      - question: "Finally, a fish’s tail fin is called its caudal fin from the Latin noun cauda meaning “tail.” What derivative of that Latin noun probably comes to us because a person described as this tends to turn tail and run away?"
+        answer: "COWARD"
+  - tossup:
+      question: "What labor of Herakles did Menoetes try to hamper by sounding the alarm?"
+      answer: "10TH / CATTLE OF GERYON"
+    boni:
+      - question: "Whose shepherd was Menoetes?"
+        answer: "HADES’"
+      - question: "What shepherd of Geryon did Herakles kill?"
+        answer: "EURYTION"
+  - tossup:
+      question: "Perhaps you remember reading Winnie The Pooh when you were younger. When Pu-bear is trying to steal honey from a bees’ nest, the Latin translation quotes him as saying <latin>Dē</latin> apibus <latin>nōn</latin> dubitandum. Translate that"
+      answer: "YOU NEVER KNOW ABOUT BEES // ONE MUST NOT HAVE DOUBTS / HESITATIONS ABOUT BEES"
+    boni:
+      - question: "So Pu floats up, hanging from a balloon, to the level of the beehive, then whispers down to Christopher Robin, <latin>Crēdō apēs suspiciōnem habēre</latin>! Translate"
+        answer: "I THINK / BELIEVE THE BEES ARE SUSPICIOUS / HAVE A SUSPICION."
+      - question: "To that question Christopher Robin replies: Fortasse suspiciunt <latin>tē</latin> mel <latin>eōrum</latin> petere. Translate Christopher Robin’s very intelligent reply"
+        answer: "MAYBE THEY SUSPECT THAT YOU ARE SEEKING / AFTER / ATTACKING / LOOKING FOR THEIR HONEY"
+  - tossup:
+      question: "What two uses of the accusative case are found in the following sentence? “Augustus Agrippam <latin>cōnsulem creāvit</latin>.”"
+      answer: "(DIRECT) OBJECT and PREDICATE"
+    boni:
+      - question: "Using a compound of sum, say in Latin, “It doesn’t concern Claudius.”"
+        answer: "<latin>NŌN CLAUDI(</latin><latin>Ī</latin>) INTEREST"
+      - question: "Using three words, say in Latin, “I am ashamed of you.”"
+        answer: "<latin>TUI MĒ PUDET</latin>"
+  - tossup:
+      question: "On Hermes’ first day of life, whom did he turn into a touchstone?"
+      answer: "BATTUS"
+    boni:
+      - question: "For what was Hermes punishing Battus?"
+        answer: "TELLING APOLLO WHERE HERMES HAD TAKEN HIS CATTLE"
+      - question: "What woman did Hermes turn to stone for interfering in his love life?"
+        answer: "AGLAURUS / AGRAULUS"
+  - tossup:
+      question: "The failure of Cestius Gallus to calm the revolt in Judea prompted Nero to give command in 66 AD in the east to what general and future emperor?"
+      answer: "VESPASIAN"
+    boni:
+      - question: "What were Vespasian’s famous last words?"
+        answer: "<latin>(VAE) PUTO DEUS FIO</latin> / (ALAS) I THINK I AM BECOMING A GOD"
+      - question: "For what were <latin>fullones</latin> forced to pay a tax during the reign of Vespasian from which the Italians derive their word <latin>i vespasiani</latin>?"
+        answer: "URINE (FROM URINALS)"
+  - tossup:
+      question: "Please complete this analogy: <latin>acer : acrior :: acre</latin> : <emphasis>_________</emphasis>"
+      answer: "<latin>ACRIUS</latin>"
+    boni:
+      - question: "Please complete this analogy: <latin>acrius : acerrimum :: humilius</latin> :  <emphasis>_________</emphasis>"
+        answer: "<latin>HUMILLIMUM</latin> "
+      - question: "Please list five other adjectives that form their superlative in the same was as <latin>humilis</latin>"
+        answer: "<latin>GRACILIS, SIMILIS, DISSIMILIS, FACILIS, DIFFICILIS</latin> "
+  - tossup:
+      question: "According to Book XI (11) of the <title>Odyssey</title>, what Greek warrior, from whose blood had sprung a hyacinth flower, was seen by Odysseus in the Underworld?"
+      answer: "AJAX TELAMON"
+    boni:
+      - question: "Upon meeting Ajax, Odysseus told him, “Even in death can you not forget your anger with me, over those fatal weapons.” To whose weapons was he referring?"
+        answer: "ACHILLES’"
+      - question: "Also in the Underworld, whose shade does Odysseus unsuccessfully attempt to embrace three times?"
+        answer: "ANTICLEIA <latin>2014 NJCL CERTAMEN INTERMEDIATE DIVISION FINALS (2.0)</latin> "
+  - tossup:
+      question: "What two goddesses conspired to trap Aeneas in a storm, leading him to take refuge by sharing a cave with the Carthaginian queen Dido?"
+      answer: "JUNO / HERA AND VENUS / APHRODITE "
+    boni:
+      - question: " According to the <title>Aeneid</title>, what minor deity watched over the ensuing festivities in the cave?"
+        answer: "HYMEN"
+      - question: " Who ululated from the top of the mountain while the festivities pounded like thunder?"
+        answer: "NYMPHS"
+  - tossup:
+      question: "Give the Latin verb and its English meaning at the root of “essay” and “prodigal.”"
+      answer: "<latin>AGŌ</latin> – TO DO; DRIVE"
+    boni:
+      - question: "Give the Latin verb and its English meaning at the root of “meddle” and “melee.”"
+        answer: "<latin>MISCEŌ</latin> – TO MIX"
+      - question: "Give the Latin verb and its English meaning at the root of “sever.”"
+        answer: "<latin>PARŌ</latin> – TO PREPARE"
+  - tossup:
+      question: "Passalus and Acmon were warned in vain by their mother to stay away from whom?"
+      answer: "HERACLES / HERCULES / BLACKBOTTOM"
+    boni:
+      - question: "When did Passalus and Acmon realize that Heracles was the “blackbottom” they had been warned about?"
+        answer: "WHEN HE WAS CARRYING THEM OVER HIS SHOULDER"
+      - question: "What punishment did Heracles ultimately give them?"
+        answer: "NONE (HE WAS AMUSED BY THEIR JOKES ABOUT HIS HAIRINESS)"
+  - tossup:
+      question: "For the verb <latin>nōlo</latin>, give the third person plural, present subjunctive"
+      answer: "<latin>NŌLINT</latin>"
+    boni:
+      - question: "Now make <latin>nōlint</latin> second person singular, imperfect subjunctive"
+        answer: "<latin>NŌLLĒS</latin>"
+      - question: "Now make <latin>nōllēs</latin> pluperfect"
+        answer: "<latin>NŌLUISSĒS</latin>"
+  - tossup:
+      question: "Which of the following ancient cities was NOT located in modern day Turkey: Sestos, Cyzicus, Berenice, Smyrna?"
+      answer: "BERENICE"
+    boni:
+      - question: "Which of the following is furthest west: <latin>Brundisium, Ephesus, Corduba, Gādēs, Aleria</latin>?"
+        answer: "<latin>GĀDĒS</latin>"
+      - question: "Which of the following was NOT located on the Peloponnesus: Amphipolis, Megalopolis, Sicyon, Troezen?"
+        answer: "AMPHIPOLIS"
+  - tossup:
+      question: "What use of the dative case can be seen in the following sentence: “<latin>illum mihi amōrem nōlī ēripere</latin>”?"
+      answer: "SEPARATION"
+    boni:
+      - question: "What use of the ablative case can be seen in this sentence: “<latin>Senātor trēcentīs dēnāriīs ancillam</latin>  <latin>ēmit</latin>”?"
+        answer: "(DEFINITE) VALUE / PRICE"
+      - question: "What use of the genitive is found in the sentence “<latin>amīcōs suōs parvī aestīmāvit</latin>”?"
+        answer: "(INDEFINITE) VALUE"
+  - tossup:
+      question: "The sudden death of Marius in the early part of 86 BC led Cinna to appoint what man as his new consular colleague?"
+      answer: "(LUCIUS) VALERIUS FLACCUS"
+    boni:
+      - question: "Flaccus was given command against Mithridates and set out in the wake of Sulla only to have his campaign cut short when he was murdered in a munity led by which of his legates?"
+        answer: "(GAIUS FLAVIUS) FIMBRIA"
+      - question: "Fimbria took up arms in defense of the public good during the revolt of what tribune in 100 BC?"
+        answer: "(L. APPULEIUS) SATURNINUS"
+  - tossup:
+      question: "What use of the dependent subjunctive is found in the following sentence? “<latin>Rēx mīlitēs mittēbat quī hostēs superārent.</latin>”"
+      answer: "<emphasis>RELATIVE</emphasis> CLAUSE OF <emphasis>PURPOSE</emphasis>"
+    boni:
+      - question: "Translate that sentence"
+        answer: "THE KING SENT THE SOLDIERS TO DEFEAT THE ENEMIES"
+      - question: "Translate the expression of purpose from that sentence using a gerundive"
+        answer: "<latin>AD HOSTĒS</latin>  <latin>SUPERANDŌS // HOSTIUM SUPERANDŌRUM CAUSĀ/GRATIĀ</latin>"
+  - tossup:
+      question: "A group of Thebans led by Maeon and Polyphontes ambushed which member of the Seven Against Thebes?"
+      answer: "TYDEUS"
+    boni:
+      - question: "How many men did Tydeus kill in the ensuing skirmish?"
+        answer: "51 / 49 (IT’S UNCLEAR FROM SOURCES WHETHER MAEON AND POLYPHONTES COUNT AS TWO OF THE FIFTY MEN SENT TO AMBUSH TYDEUS)"
+      - question: "Who was the only Theban left alive after the skirmish?"
+        answer: "MAEON"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Dominus meminerit servōs pūniendōs esse.</latin>"
+      answer: "THE MASTER <emphasis>WILL</emphasis> REMEMBER THAT THE SLAVES MUST BE PUNISHED"
+    boni:
+      - question: "…: <latin>Ancillae, ā dominō vituperātae, explicāvērunt cūr lacrimārent.</latin>"
+        answer: "THE SLAVE-GIRLS, (HAVING BEEN) CURSED BY THE MASTER, EXPLAINED WHY THEY WERE CRYING/WEEPING, etc."
+      - question: "…: <latin>Cum dominus servōs pūnīvisset, eī tamen nōn paruērunt</latin>"
+        answer: "ALTHOUGH THE MASTER HAD PUNISHED THE SLAVES, THEY STILL DIDN’T OBEY HIM / NEVERTHELESS THEY DIDN’T OBEY HIM"
+  - tossup:
+      question: "Under what circumstance did the king become extremely distraught?"
+      answer: "WHEN HE SAW THAT HE COULDN’T LESSEN THE ANGER OF THE GODS (IN ANY WAY)"
+    boni:
+      - question: "Why did the king order the maiden to be chained and exposed on the shore?"
+        answer: "TO BE EATEN BY A SEA MONSTER"
+      - question: "How did the citizens react to this?"
+        answer: "THEY WERE SO SAD THAT THEY COULD BARELY HOLD THEIR TEARS"
+  - tossup:
+      question: "During the sack of Troy, the earth opened up and swallowed what most beautiful daughter of Priam?"
+      answer: "LAODICE"
+    boni:
+      - question: "With what Greek did Laodice fall in love when he came to demand Helen’s return?"
+        answer: "ACAMAS"
+      - question: "What was the name of her son by Acamas?"
+        answer: "MUNITUS"
+  - tossup:
+      question: "Change the phrase <latin>dīves iuvenis</latin> to the ablative singular"
+      answer: "<latin>DĪVITE / DĪVITĪ IUVENE</latin>"
+    boni:
+      - question: "Now make <latin>dīvite iuvene</latin> genitive plural"
+        answer: "<latin>DĪVITUM IUVENUM</latin> "
+      - question: "Now make the form <latin>dīvitum</latin> comparative"
+        answer: "<latin>DĪVITIŌRUM</latin>"
+  - tossup:
+      question: "Which two of the five pictures occurred in the First Century AD?"
+      answer: "A & E"
+    boni:
+      - question: "Which picture represents the earliest event depicted here?"
+        answer: "B"
+      - question: "Name the three people visible in Picture “C”"
+        answer: "SEPTIMIUS SEVERUS / JULIA DOMNA / (MARCUS AURELIUS ANTONINUS) CARACALLA"
+  - tossup:
+      question: "Give the Latin and the English meaning for the abbreviation <latin>S.T.T.L.</latin>"
+      answer: "<latin>SIT TIBI TERRA LEVIS</latin> – MAY THE EARTH BE LIGHT UPON YOU"
+    boni:
+      - question: "Give the Latin and the English meaning for the abbreviation <latin>f.v.</latin>"
+        answer: "<latin>FŌLIŌ VERSŌ</latin> – WITH THE PAGE TURNED"
+      - question: "Give the Latin and the English meaning for the abbreviation <latin>s.o.s.</latin>"
+        answer: "<latin>SĪ OPUS SIT</latin> – IF THERE’S NEED; IF NECESSARY"
+  - tossup:
+      question: "What numbers were marked on <latin>talī</latin> in a game of knucklebones?"
+      answer: "1, 3, 4, 6"
+    boni:
+      - question: "How many different throws were possible in a game of <latin>talī</latin>?"
+        answer: "35"
+      - question: "What was the highest possible throw in <latin>talī</latin> called, and explain how it would occur?"
+        answer: "<latin>VĒNUS</latin> THROW & ALL 4 <emphasis>DIFFERENT</emphasis> NUMBERS APPEARED"
+  - tossup:
+      question: "What son of Aegeus became the king of Colchis with the help of his mother, Medea?"
+      answer: "MEDUS / MEDEIUS"
+    boni:
+      - question: "What usurper did Medus kill and replace as king of Colchis?"
+        answer: "PERSES"
+      - question: "What Asian tribe is reportedly named after Medus?"
+        answer: "THE MEDES"
+  - tossup:
+      question: "Give the correct form of the infinitive needed to translate the following sentence into Latin: “He understands that faith of his subjects will remain firm”"
+      answer: "<latin>(RE)MĀNSŪRAM ESSE</latin>"
+    boni:
+      - question: "Translate into Latin using a deponent verb: “Let us urge our friends to work as diligently as possible”"
+        answer: "<latin>HORTĒMUR AMĪCŌS UT QUAM DĪLIGENTISSIMĒ LABŌRENT</latin> "
+      - question: "Translate into Latin, using a dative of possession: “He had no hope of living.” "
+        answer: "<latin>EĪ/ ILLĪ/ HUIC ERAT/FUIT NŪLLA SPĒS VĪVENDĪ / HABITANDĪ</latin> "
+  - tossup:
+      question: "Which of these Latin adjectives is the closest synonym to <latin>trīstis</latin>: <latin>meritus, maestus, muliebris, madidus, mūtābilis</latin>?"
+      answer: "<latin>MAESTUS</latin>"
+    boni:
+      - question: "Which of the adjectives in the tossup means “effeminate” or “womanly”?"
+        answer: "<latin>MULIEBRIS</latin>"
+      - question: "What is the meaning of <latin>mūtābilis</latin>?"
+        answer: "CHANGEABLE; FICKLE"
+  - tossup:
+      question: "What emperor met his demise at the battle of Abrittus in 251 AD, which paved the way for the ascension of Trebonianus Gallus to the throne?"
+      answer: "DECIUS"
+    boni:
+      - question: "With which earlier did Decius associate himself in order to legitimize his rule?"
+        answer: "TRAJAN"
+      - question: "What king led the Goths to victory over Decius?"
+        answer: "CNIVA/KNIWA"

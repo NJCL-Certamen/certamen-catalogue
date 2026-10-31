@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2007
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What poet composed elegies in his villa between Praeneste and Tibur and never mentioned Augustus though he lived through Augustus’ rise to power?"
+      answer: "(ALBIUS) TIBULLUS"
+    boni:
+      - question: "What patron, who fought at the battle of Phillipi, may have influenced Tibullus’ neglect of Augustus?"
+        answer: "(MARCUS VALERIUS) MESSALLA (CORVINUS)"
+      - question: "What other author died in the same year as Tibullus?"
+        answer: "(PUBLIUS) VERGIL(IUS) (MARO)"
+  - tossup:
+      question: "What two uses of the Ablative case are found in the following sentence? <latin>Publilius Augustum multō</latin> <latin>meliōrem Tiberiō</latin> <latin>fuisse putat.</latin>"
+      answer: "COMPARISON & DEGREE OF DIFFERENCE"
+    boni:
+      - question: "<latin>Nēmō</latin> <latin>tibi virtūte praestat</latin>"
+        answer: "RESPECT / SPECIFICATION"
+      - question: "<latin>Multō</latin> <latin>sanguine victōria nōbis cōnstitit</latin>"
+        answer: "(SPECIFIC) PRICE"
+  - tossup:
+      question: "Where did Constantine summon an ecumenical council to solve the religious differences in the Christian church?"
+      answer: "NICEA"
+    boni:
+      - question: "During what year did that council meet?"
+        answer: "AD 325"
+      - question: "In which province was Nicea located?"
+        answer: "BITHYNIA"
+  - tossup:
+      question: "For the verb <latin>īnferō</latin>, give the 3rd person singular, imperfect, active, subjunctive form"
+      answer: "<latin>ĪNFERRET</latin>"
+    boni:
+      - question: "Change <latin>īnferret</latin> to the pluperfect tense"
+        answer: "<latin>INTULISSET</latin>"
+      - question: "Change <latin>intulisset</latin> to the passive voice"
+        answer: "<latin>INLĀTUS (-A, -UM) ESSET</latin> / <latin>ILLĀTUS (-A, -UM) ESSET</latin>"
+  - tossup:
+      question: "What king fathered a child who was eaten by horses, was the grandfather of Bellerophon, may have been an ancestor of Odysseus, and told the river Asopus that Zeus had abducted his daughter?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Of what city was Sisyphus king?"
+        answer: "CORINTH"
+      - question: "What lesser deity was the father of Sisyphus, Salmoneus and Cretheus?"
+        answer: "AEOLUS"
+  - tossup:
+      question: "What do the nouns <latin>opera</latin>, <latin>sal</latin>, <latin>comitium</latin>, <latin>carcer</latin>, <latin>aqua</latin> and <latin>auxilium</latin> have in common?"
+      answer: "THEY HAVE DIFFERENT MEANINGS IN THE SINGULAR AND PLURAL"
+    boni:
+      - question: "What are the different meanings for <latin>carcer</latin> in the singular and plural?"
+        answer: "<latin>CARCER</latin> - PRISON / <latin>CARCERĒS</latin> - STARTING GATES (FOR RACING)"
+      - question: "What are the different meanings for <latin>sal</latin> in the singular and plural?"
+        answer: "<latin>SAL</latin> - SALT / <latin>SALĒS</latin> - WITTICISMS, WIT"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Multa discēmus librīs legendīs</latin>"
+      answer: "WE WILL LEARN MANY THINGS / MUCH BY/FROM READING BOOKS"
+    boni:
+      - question: "<latin>Vēnimus multa discendī</latin> <latin>caus</latin><latin>ā.</latin>"
+        answer: "WE CAME FOR THE SAKE OF LEARNING MANY THINGS"
+      - question: "<latin>Marcus dīcitur hūc vēnisse ad pugnandum.</latin>"
+        answer: "MARCUS IS SAID TO HAVE COME HERE TO FIGHT / FOR FIGHTING"
+  - tossup:
+      question: "In the <title>Aeneid</title>, Anchises claims that what early king at Troy came from the isle of Crete?"
+      answer: "TEUCER"
+    boni:
+      - question: "Later in the <title>Aeneid</title>, Anchises also remembers that what early Trojan king had come from Italy?"
+        answer: "DARDANUS"
+      - question: "Tros, the man for whom Troy was actually named, had a son who became one of the foremost causes for Juno’s hatred of Troy. Who was this son?"
+        answer: "GANYMEDE"
+  - tossup:
+      question: "What food, known in Latin as <latin>puls</latin>, was considered the national dish of the Romans?"
+      answer: "PORRIDGE / GRUEL (MADE FROM GRAIN / <latin>FAR</latin>) (Accept “oatmeal”, but explain that, though it is similar to oatmeal, it is not made of oats.)"
+    boni:
+      - question: "The origin of many Latin names lie in food and farm produce. For five points each, what are thought to be the two earliest vegetables cultivated by the Romans since two major families, the <latin>Caepiōnēs</latin> and the <latin>Fabiī</latin>, were named after them?"
+        answer: "ONIONS AND BEANS, RESPECTIVELY"
+  - tossup:
+      question: "What Roman author wrote poems about Juventius, Arrius, Suffenus, and Lesbia?"
+      answer: "(GAIUS VALERIUS) CATULLUS"
+    boni:
+      - question: "Under whom did Catullus serve in the provincial administration of Bithynia?"
+        answer: "(GAIUS) MEMMIUS"
+      - question: "Whose grave did Catullus visit in the Troad during his trip to Asia?"
+        answer: "HIS BROTHER’S (there is no official name for him)"
+  - tossup:
+      question: "Give a synonym of “recede” and “revert” that is derived from a Latin deponent verb"
+      answer: "REGRESS/RETROGRESS"
+    boni:
+      - question: "What noun used in English to mean “introductory remarks” is derived from a 1st conjugation deponent Latin verb meaning “speak”?"
+        answer: "PREFACE"
+      - question: "From what Latin deponent verb with what meaning do we derive the English word “pact”?"
+        answer: "<latin>PACĪSCOR</latin> - (MAKE A) BARGAIN / CONTRACT"
+  - tossup:
+      question: "The most eminent <latin>grammāticus</latin> of the early empire was a man named Remmius Palaemon. Listen to the following passage written about him in Suetonius’ <title><latin>De Grammāticīs</latin></title> and answer IN ENGLISH the question that follows: <latin>“Capiēbat hominēs cum memoriā</latin> <latin>rērum, tum facilitāte sermōnis; nec nōn etiam poēmata faciēbat ex tempore. Scrīpsit vērō</latin> <latin>variīs, nec vulgāribus mētrīs. Arrogantiā</latin> <latin>fuit tantā</latin> <latin>ut Mārcum Varrōnem porcum appellāret.”</latin>  Question: What most amazing skill could Remmius summon extemporaneously?"
+      answer: "HE COULD COMPOSE POEMS"
+    boni:
+      - question: "According to Suetonius, in what two general ways did Remmius impress people?"
+        answer: "HIS MEMORY & HIS SMOOTHNESS / EASE OF SPEECH"
+      - question: "Remmius, though a genius, did have more than a few personality issues. Keeping in mind that <latin>arrogantiā</latin> and <latin>tantā</latin> are in the Ablative case, translate the last sentence of this passage"
+        answer: "HE WAS (A MAN) OF SUCH GREAT ARROGANCE / CONCEIT THAT HE CALLED (MARCUS) VARRO A ēPIG’."
+  - tossup:
+      question: "To whom were all of the following items helpful: Bronze castanets, an enormous golden cup, a smoldering stick, and a pair of rivers?"
+      answer: "HERAKLES/HERCULES"
+    boni:
+      - question: "Which of the above helped Herakles destroy the Stymphalian birds?"
+        answer: "BRONZE CASTANETS"
+      - question: "Which of the above helped Herakles steal the cattle of Geryon?"
+        answer: "GOLDEN CUP"
+  - tossup:
+      question: "Which fourth-century Christian emperor succeeded an apostate who had tried to restore paganism to the empire?"
+      answer: "JOVIAN"
+    boni:
+      - question: "Which fourth-century emperor, born at Cibalae in Pannonia in 321, is often called “the last great western emperor”?"
+        answer: "VALENTINIAN I"
+      - question: "Near what city was Valentinian’s co-emperor killed in 378 A.D.?"
+        answer: "ADRIANOPLE / (H)ADRIANOPOLIS"
+  - tossup:
+      question: "Identify the word in the following sentence from Cicero’s first Catilinarian that represents a use of synecdoche: <latin>Nunc iam apertē</latin> <latin>rem pūblicam ūniversam petis, templa deōrum inmortālium, tēcta urbis, vītam omnium cīvium, Italiam [dēnique] tōtam ad exitium et vastitātem vocās</latin>"
+      answer: "<latin>TĒCTA</latin>"
+    boni:
+      - question: "The first passage you see comes from Cicero’s first Catilinarian. Identify the words that represent a use of hendiadys"
+        answer: "<latin>ŌRA VULTŪSQUE</latin>"
+      - question: "The second passage comes from Book I of Vergil’s <title>Aeneid</title>. Identify the word that is a transferred epithet"
+        answer: "<latin>VĒLIVOLUM</latin>"
+  - tossup:
+      question: "Harry Potter mania, like Harry himself, refuses to die. In a passage from <title><latin>Harrius Potter Et Camera Sēcrētōrum</latin></title>, Hermione summons Harry and Ronald with the sentence, “<latin>Venīte hoc īnspectum!</latin>” What type of word is <latin>īnspectum</latin>?"
+      answer: "SUPINE"
+    boni:
+      - question: "One could make the argument that all the grammar that you ever need to know is contained in the recent Harry Potter translations. Change the following sentence from page 76 to the passive voice, while keeping its meaning the same: “<latin>Omnēs mē</latin> <latin>certiōrem fēcērunt</latin>.”"
+        answer: "<latin>AB OMNIBUS CERTIOR FACTUS SUM</latin>"
+      - question: "What use of the Genitive case is found in the following quotation from page 123? “<latin>Id crēditur esse portentum nesciocuius generis</latin>.”"
+        answer: "DESCRIPTION / QUALITY"
+  - tossup:
+      question: "When Oedipus fled Thebes in disgrace he found refuge at what suburb of Athens?"
+      answer: "COLONUS"
+    boni:
+      - question: "Oedipus’ uncle and brother-in-law, Creon, came to visit him in Colonus. What did Creon want from Oedipus?"
+        answer: "HE WANTED TO BRING OEDIPUS BACK TO THEBES (BECAUSE OF AN ORACLE THAT THE CITY WHERE OEDIPUS WAS BURIED WOULD PROSPER)"
+      - question: "According to Sophocles, what hero actually witnessed the death of Oedipus?"
+        answer: "THESEUS"
+  - tossup:
+      question: "What work of Latin literature begins with the words “<latin>Quid faciat laetās segetēs, quō</latin> <latin>sīdere terram vertere, Maecēnās, ulmīsque adiungere vītis conveniat</latin>?”"
+      answer: "<title>GEORGICS</title> / <title><latin>GEORGICA</latin></title>"
+    boni:
+      - question: "Give the Latin title of the work of literature that begins with the words <latin>“Iam omnium satis cōnstat Trōia capta in cēterōs saevītum esseTrōiānōs</latin>?”"
+        answer: "<title><latin>AB URBE CONDIT</latin></title>Ā"
+      - question: "Give the Latin title of the work of literature that begins with the words <latin>“Arma gravī</latin> <latin>numerō</latin> <latin>violentaque bella parābam</latin>?"
+        answer: "<title><latin>AMŌRĒS</latin></title>"
+  - tossup:
+      question: "Who joined the coalition known as the First Triumvirate in order to secure or ratify his settlement of the East?"
+      answer: "(CN.) POMPEY/ POMPEIUS MAGNUS"
+    boni:
+      - question: "Which Pontic king had Pompey beaten in the East?"
+        answer: "MITHRIDATES"
+      - question: "Who had helped to block the ratification of the settlement of the East because Pompey had supplanted him in the command against Mithridates?"
+        answer: "(L. LICINIUS) LUCULLUS"
+  - tossup:
+      question: "Using your knowledge of the abbreviation b.i.d., what abbreviation would instruct a patient to take his medicine once a day? <latin>s.i.d</latin>"
+      answer: "(SEMEL IN DI<latin>Ē)</latin>"
+    boni:
+      - question: "What standard Latin phrase, used in English to refer to ēa group of gunmen hired by the local sheriff’, contains a word derived from the 3rd principal part of the verb <latin>cōmitor</latin>?"
+        answer: "<latin>POSSE CŌMITĀTŪS</latin>"
+      - question: "Which of the following Latin phrases would NOT be equivalent in meaning to the phrase <latin>mē</latin> <latin>iūdice</latin>, which can be found in English editorial writing? <latin>Sententiā</latin> <latin>meā</latin>, <latin>satis cōnstat</latin>, <latin>secundum mē</latin>, <latin>ut exīstimō</latin>, <latin>opīniōne meā.</latin>"
+        answer: "<latin>SATIS CŌNSTAT</latin>   <latin>2007 NJCL CERTAMEN</latin>  <latin>ADVANCED DIVISION</latin>"

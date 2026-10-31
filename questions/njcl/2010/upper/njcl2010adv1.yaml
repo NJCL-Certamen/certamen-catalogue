@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What is the Latin verb and its meaning at the root of “chanteuse,” “enchantment,” “recant,” and “cantata”?"
+      answer: "<latin>CANŌ</latin> / <latin>CANTŌ</latin> - SING"
+    boni:
+      - question: "What English noun, derived from a Latin verb meaning “bind,” can refer to “a coordinator or go-between” or “an unmarried love affair”?"
+        answer: "LIAISON"
+      - question: "What English adjective, derived from the adverb <latin>nōn</latin> and a Latin verb meaning “be warm,” means “coolly unconcerned” or “indifferent”?"
+        answer: "NONCHALANT"
+  - tossup:
+      question: "The inhabitants of Cios, re-enacting the anguished search of a grief-stricken Heracles, would call out the name of what Argonaut in an annual ritual?"
+      answer: "HYLAS"
+    boni:
+      - question: "On the voyage home from Colchis, how specifically were the Argonauts forced to make their way from the shoals of the Syrtes to Lake Tritonis?"
+        answer: "CARRIED <emphasis>ARGO</emphasis> (ON SHOULDERS ACROSS DRY LAND) (prompt on “they walked”)"
+      - question: "On what condition did Alcinous and Arete of Phaeacia agree to harbor Jason and Medea?"
+        answer: "THAT THEY BE <emphasis>MARRIED</emphasis>"
+  - tossup:
+      question: "For the verb <latin>eō, īre</latin>, give the 1st person plural, imperfect subjunctive"
+      answer: "<latin>ĪRĒMUS</latin>"
+    boni:
+      - question: "Make <latin>īrēmus</latin> perfect and second person plural"
+        answer: "<latin>Ī(V)ERĪTIS</latin>"
+      - question: "Make <latin>īverītis</latin> pluperfect"
+        answer: "<latin>ĪVISSĒTIS/ĪISSĒTIS</latin>/<latin>ISSĒTIS</latin>"
+  - tossup:
+      question: "“<latin>Adventus Aenēae in Italiam et rēs gestae</latin>” are the words that begin the first <latin>periocha</latin> of whose monumental history?"
+      answer: "(TITUS) LIVIUS’ / LIVY’S"
+    boni:
+      - question: "What is a <latin>periocha</latin>?"
+        answer: "COMPENDIUM / SHORTENED VERSION / SUMMARY (OF A CHAPTER OF HISTORY)"
+      - question: "The title found in manuscripts, <title><latin>Ab Excessū Dīvī Augustī</latin></title>, suggests that whose history was meant to continue Livy’s <title><latin>Ab Urbe Conditā</latin></title>?"
+        answer: "(PUBLIUS/GAIUS CORNELIUS) TACITUS"
+  - tossup:
+      question: "What man allied himself with Epirus, Illyria, and Thrace in an attempt to carry out reforms in Greece, actions that eventually led to the Third Macedonian War?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What Roman general was defeated in Rome’s first encounter with Perseus in 171 BC?"
+        answer: "(PUBLIUS LICINIUS) CRASSUS"
+      - question: "What famous Greek historian was taken prisoner following the Roman victory at Pydna in 168 BC?"
+        answer: "POLYBIUS"
+  - tossup:
+      question: "What pair’s death was brought about when Messapus’ helmet reflected the light of the moon and betrayed their presence to a company of three hundred Latin horsemen?"
+      answer: "NISUS AND EURYALUS"
+    boni:
+      - question: "Who was the commander of this Latin cavalry?"
+        answer: "VOLCENS"
+      - question: "In what earlier event had Nisus and Euryalus shown their teamwork and devotion at the expense of their fellow Trojan Salius?"
+        answer: "FOOTRACE AT FUNERAL GAMES OF ANCHISES"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “antrum”?</latin>"
+      answer: "CAVE/CAVERN"
+    boni:
+      - question: "<latin>Quid Anglicē significat “lūcus”?</latin>"
+        answer: "(SACRED) GROVE/WOODS"
+      - question: "<latin>Quid Anglicē significat “scopulus”?</latin>"
+        answer: "ROCK/CLIFF/LEDGE/PROMONTORY/CRAG/ARCHERY TARGET"
+  - tossup:
+      question: "What early author turned conventional Latin literature on its head by invoking the Muses and employing dactylic hexameter in his epic poem <title><latin>Annālēs</latin></title>?"
+      answer: "(QUINTUS) ENNIUS"
+    boni:
+      - question: "The <title><latin>Annālēs</latin></title> concludes with the censorship of what political figure who brought Ennius to Rome around 204 BC?"
+        answer: "(MARCUS PORCIUS) CATO MAIOR / THE ELDER"
+      - question: "What did Ennius receive in 189 BC after he returned from the Aetolian campaign of his patron Marcus Fulvius Nobilior?"
+        answer: "(ROMAN) CITIZENSHIP"
+  - tossup:
+      question: "Which of the following terms is most closely associated with the duties of a <latin>rēx bibendī</latin>: <latin>alveus</latin>, <latin>dēductiō</latin>, <latin>fritillus</latin>, <latin>pōcula</latin>, <latin>titulus</latin>?"
+      answer: "<latin>PŌCULA</latin>"
+    boni:
+      - question: "Which of the above terms is most closely associated with a statement like <latin>alea iācta est</latin>?"
+        answer: "<latin>FRITILLUS</latin>"
+      - question: "Which of the above terms is most closely associated with vendors known as <latin>mangōnēs</latin>?"
+        answer: "<latin>TITULUS</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I shall read twice, and answer IN LATIN the question that follows: <latin>Rōmānī, cum aedificium ubi deum colere possent cōnstruere vellent, augur in locō aedificandī dēsignātō sacra verba dīxit. Quō factō locus ipse templum fīēbat.</latin>  Question: <latin>Verbīs ab augure dictīs, quid fīēbat hic locus</latin>?"
+      answer: "<latin>TEMPLUM / SACER</latin>"
+    boni:
+      - question: "<latin>Quō in locō augurēs sacra verba loquī solēbant</latin>?"
+        answer: "<latin>IN LOCŌ (AEDIFICANDĪ) DĒSIGNĀTŌ / IN LOCŌ TEMPLĪ</latin>"
+      - question: "<latin>Quid Rōmānī in hōc aedificiō cōnstruendō facere volēbant?</latin>"
+        answer: "DEUM COLERE/VENERĀRĪ/PRECĀRĪ / SACRA (DEŌ) FACERE / SACRIFICĀRE / ANY OTHER TEMPLE-LIKE ACTIVITIES, PROVIDED THAT THEY ARE CONSTRUED WITH AN INFINITIVE AND SEMI-DECENT LATIN"
+  - tossup:
+      question: "Using only one Latin word, translate the purpose clause in this sentence into Latin: Catullus went to Bithynia to mourn"
+      answer: "<latin>LŪCTUM</latin> / <latin>MAESTUM</latin> / <latin>DOLITUM</latin>"
+    boni:
+      - question: "Now using only five Latin words, translate this sentence into Latin: Horace sailed to Athens to write poems"
+        answer: "<latin>HORĀTIUS ATHĒNĀS NĀVIGĀVIT</latin>   <latin>SCRĪPTUM / COMPOSITUM CARMINA / POĒMĀTA</latin>"
+      - question: "Now using the verb <latin>cōgō</latin> and only four Latin words, translate this sentence into Latin: Horace forced Vergil to finish the work"
+        answer: "<latin>HORĀTIUS VERGILIUM PERFICERE/ CŌNFICERE OPUS/LABOREM COĒGIT or</latin>  <latin>HORĀTIUS COĒGIT PERFICERET/ CŌNFICERET OPUS/LABŌREM VERGILIUS</latin> (may use subjunctive without <latin>ut</latin>)"
+  - tossup:
+      question: "What Athenian hero was born when Hephaestus attempted to rape Athena?"
+      answer: "ERICHTHONIUS"
+    boni:
+      - question: "Where did Athena hide Erichthonius after he was born?"
+        answer: "IN A CHEST"
+      - question: "According to Ovid, what daughter of Cecrops opened the chest against Minerva’s express behest?"
+        answer: "AGLAUROS"
+  - tossup:
+      question: "What emperor, after subduing the other two claimants to the throne, made one of his sons Augustus and the other Caesar, captured Ctesiphon, and received the title <latin>Parthicus Maximus</latin> in 198 AD?"
+      answer: "(LUCIUS) SEPTIMIUS SEVERUS"
+    boni:
+      - question: "What author and jurist did Septimius appoint as praetorian prefect in 205 AD, ushering in an era of notable jurisprudence in Rome?"
+        answer: "(AEMILIUS) PAPINIAN(US)"
+      - question: "On his deathbed, Severus gave his sons three pieces of advice. Name two of these"
+        answer: "DON’T DISAGREE GIVE MONEY TO SOLDIERS IGNORE THE REST"
+  - tossup:
+      question: "Give the two genitive singular forms of the noun <latin>pecus</latin>"
+      answer: "<latin>PECUDIS, PECORIS</latin>"
+    boni:
+      - question: "Identify the genders of those two genitive forms"
+        answer: "<latin>PECUDIS</latin> IS FEMININE, <latin>PECORIS</latin> IS NEUTER"
+      - question: "<latin>Feminis</latin> is an alternative genitive form for what Latin noun that is a part of the body?"
+        answer: "<latin>FEMUR (FEMORIS, N)</latin>"
+  - tossup:
+      question: "When Ovid writes that Mantua will rejoice in Vergil, Verona in Catullus, and the Paelignian tribe in him, he is claiming that the indigenous people of what town will reap his glory?"
+      answer: "<latin>SULMŌ</latin>/SULMONA"
+    boni:
+      - question: "Identify by letter the town that was the destination of a trip satirized by Horace as well as the place where his friend Vergil later died"
+        answer: "G (<latin>BRUNDISIUM</latin>)"
+      - question: "Listen to the following lines from Propertius, from which the name of a city on the map has been omitted, and identify by letter the city whose name should be placed in the line. <latin>Hoc, quodcumque vidēs, hospes, quā maxima</latin> [blank] <latin>est, ante Phrygem Aenēan collis et herba fuit</latin>."
+        answer: "K (<latin>RŌMA</latin>)"
+  - tossup:
+      question: "Complete the following quotation from Book I of the <title>Aeneid</title>: <latin>Forsan et haec ōlim</latin> _______"
+      answer: "<latin>MEMINISSE IUVĀBIT</latin>"
+    boni:
+      - question: "Complete the following quotation from Book III of the <title>Odes</title>: <latin>Dulce et decōrum est</latin> _____"
+        answer: "<latin>PRŌ PATRIĀ MORĪ</latin>"
+      - question: "Complete the following quotation from Catullus: <latin>Atque in perpetuum, frāter,</latin> _______"
+        answer: "<latin>AVĒ ATQUE VALĒ</latin>"
+  - tossup:
+      question: "In Book XXI of Homer’s <title>Iliad</title>, what god scorched the banks of the Scamander and forced its waters to recede?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "With the help of what goddess’ winds was Hephaestus able to quell the river?"
+        answer: "HERA’S"
+      - question: "What Trojan forefather was born of the river Scamander and a nymph named Idaea?"
+        answer: "TEUCER"
+  - tossup:
+      question: "For what war did the Samnites temporarily ally themselves with Rome from 340-338 BC?"
+      answer: "(GREAT) LATIN WAR"
+    boni:
+      - question: "Name one of the two Roman consuls who led the Samnite-Roman army against the Latins"
+        answer: "(MARCUS MANLIUS) TORQUATUS (IMPERIOSUS), (PUBLIUS) DECIUS MUS"
+      - question: "What action did Decius Mus take in order to ensure a victory by Torquatus over the Latin contingent in 340 BC?"
+        answer: "<latin>DĒVŌTIŌ</latin> / SACRIFICED HIMSELF"
+  - tossup:
+      question: "Translate into English: <latin>Verēmur ut Mārcus duōbus diēbus redeat.</latin>"
+      answer: "WE FEAR THAT MARCUS MAY/WILL NOT RETURN / IS NOT RETURNING WITHIN TWO DAYS (LEST MARCUS MAY RETURN…)"
+    boni:
+      - question: "Now translate: <latin>Utinam Mārcus numquam discessisset!</latin>"
+        answer: "WOULD THAT / IF ONLY MARCUS HAD NEVER LEFT!"
+      - question: "Now translate the subordinate clause into Latin for the following sentence: “Let him hurry so that we may forget more quickly.”"
+        answer: "<latin>QUŌ CELERIUS/CITIUS OBLĪVĪSCĀMUR / UT EŌ CELERIUS…</latin>"
+  - tossup:
+      question: "What poet transferred into epic form the subject of Caesar’s <title><latin>Dē Bellō Cīvīlī</latin></title>?"
+      answer: "(MARCUS ANNAEUS) LUCAN(US)"
+    boni:
+      - question: "Lucan states that he cannot truly complain of the civil war since it eventually led to the reign of what emperor, to whom the work is dedicated?"
+        answer: "NERO (CLAUDIUS CAESAR)"
+      - question: "Why, in a twist of irony, did Nero become the reason for the incomplete state of the <title><latin>Bellum Cīvīle</latin></title>?"
+        answer: "LUCAN WAS <emphasis>FORCED</emphasis> BY NERO <emphasis>TO COMMIT SUICIDE</emphasis> AS A PART OF THE PISONIAN CONSPIRACY IN 65 AD <latin>2010 NJCL CERTAMEN ADVANCED DIVISION</latin>"

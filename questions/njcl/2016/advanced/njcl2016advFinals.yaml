@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Born in Tingentera and active during the reign of the emperor Claudius, what author’s only  known work was frequently cited by Pliny the Elder for its authority on the subject of geography?"
+      answer: "(POMPONIUS) MELA"
+    boni:
+      - question: "What is the title of Mela’s work?"
+        answer: "<title><latin>DĒ CHŌROGRAPHIA/ DĒ SĪTŪ ORBIS</latin></title>"
+      - question: "Strange for a work on geography, what information was NOT included in Pomponius Mela’s  work?"
+        answer: "DISTANCES (MATHEMATICAL DETAILS)"
+  - tossup:
+      question: "Who inherited the kingdom of Sicyon from the childless king Polybus after fleeing there when his  father Talaüs was killed by Amphiaraüs in a riot in Argos?"
+      answer: "ADRASTUS"
+    boni:
+      - question: "Adrastus married his eldest daughter Argia to Polynices from Thebes. Who was the son she bore to  Polynices?"
+        answer: "THERSANDER / THERSANDRUS"
+      - question: "Polynices sought advice from what son of Alector on how to make Amphiaraüs join the expedition  against Thebes?"
+        answer: "IPHIS"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “nemus”?</latin>"
+      answer: "GROVE / WOOD / HEATH / MEADOW"
+    boni:
+      - question: "<latin>Quid Anglicē significat “cieō”?</latin>"
+        answer: "STIR UP / AROUSE / CAUSE / BEGIN"
+      - question: "<latin>Quid Anglicē significat “cōnfertus”?</latin>"
+        answer: "DENSE / THICK / COMPACT"
+  - tossup:
+      question: "What law of the late fourth century BC increased the number of <latin>pontificēs</latin> from five to nine and  opened the Roman priesthood to plebeians?"
+      answer: "<latin>LĒX OGULNIA</latin>"
+    boni:
+      - question: "Which law of 215 BC, championed by Cato the Elder, forbade Roman women to wear  multicolored garments or possess more than half an ounce of gold?"
+        answer: "<latin>LĒX OPPIA</latin>"
+      - question: "Which law, passed in either 326 BC or 313 BC, abolished the contractual form of debt-bondage  known as <latin>nexum</latin>?"
+        answer: "<latin>LĒX POETELIA / PAPĪRIA</latin>"
+  - tossup:
+      question: "Using a present subjunctive, say in Latin: On the Ides of March, Quintus, do not go to the Forum."
+      answer: "<latin>ĪDIBUS MĀRTIĪS, QUĪNTE, CAVĒ (NĒ)/VIDĒ (NĒ)/NĒ AD FORUM EĀS</latin>"
+    boni:
+      - question: "Translate into Latin the negative command in the prior example using a future imperative."
+        answer: "<latin>NĒ ĪTŌ</latin>"
+      - question: "Now translate the following into Latin: There is no doubt that Augustus will be named emperor on  March 13th."
+        answer: "<latin>NŌN/HAUD DUBIUM EST QUĪN AUGUSTUS APPELLĒTUR IMPERĀTOR?</latin>"
+  - tossup:
+      question: "What daughter of Bisaltes, King of Thrace, was carried off to the island of Crumissa and turned  into a sheep by Poseidon, who then fathered the ram with the golden fleece with her?"
+      answer: "THEOPHANE"
+    boni:
+      - question: "What woman forgot to attend the wedding of Zeus and Hera and was consequently cast into the  river by Hermes, house and all, and became a tortoise?"
+        answer: "CHELONE"
+      - question: "What group of nine sisters challenged the Muses to a singing contest and were transformed into  magpies upon losing?"
+        answer: "PIERIDES (daughters of Pierus)"
+  - tossup:
+      question: "What mime, an exact contemporary of Cicero, innovatively alluded to contemporary events instead  of historical subjects?"
+      answer: "LABERIUS"
+    boni:
+      - question: "Because of this interest in portraying contemporary politics, what prominent Roman patrician did  Laberius anger with one of his works?"
+        answer: "JULIUS CAESAR"
+      - question: "What slightly younger rival of Laberius gained fame for his ability to produce <title>sententiae,</title> pithy  statements of morality?"
+        answer: "PUBLILIUS SYRUS"
+  - tossup:
+      question: "Please listen to the following verses, which I will read twice as prose, and answer the question that follows in  Latin:  <latin>Vōs mē ex versiculīs meīs putāstis,  quod sunt molliculī, parum pudicum.  nam castum esse decet pium poētam  ipsum, versiculōs nihil necesse est.</latin>  The question: <latin>Quī sunt molliculī?</latin>"
+      answer: "<latin>VERSICULĪ (SUNT MOLLICULĪ)</latin>"
+    boni:
+      - question: "<latin>Quid nōn est necesse versiculōs esse?</latin>"
+        answer: "<latin>CASTŌS</latin>"
+      - question: "<latin>Quae est forma plēna verbī quod est “putāstis”?</latin>"
+        answer: "<latin>PUTĀVISTIS</latin>"
+  - tossup:
+      question: "What is the Latin term for the grave-pits into which the bodies of the friendless poor were  unceremoniously dumped?"
+      answer: "<latin>PUTICULĪ</latin>"
+    boni:
+      - question: "On what hill were the <latin>puticulī</latin>?"
+        answer: "ESQUILINE"
+      - question: "During the reign of Augustus, who converted this area into a garden?"
+        answer: "(C. CILNIUS) MAECENAS"
+  - tossup:
+      question: "(WHEN ALL OF THE VISUALS HAVE BEEN PASSED OUT SAY...)  Now open your visuals you have 20 seconds to examine each passage, paying close attention to  uses of the subjunctive in each one. (WAIT 20 SECONDS)  Give the letter of the passage that contains an independent use of the subjunctive."
+      answer: "C"
+    boni:
+      - question: "Which two passages in the visual contain the same use of the subjunctive?"
+        answer: "B AND D"
+      - question: "Identify the use of the subjunctive that can be found in the passage that is excerpted from Sallust."
+        answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "What Menapian admiral commanded a fleet at Gesoriacum to crush the pirates in the English  Channel and later declared himself as the third Augustus around 290 AD?"
+      answer: "(M. AURELIUS MAUSAEUS) CARAUSIUS"
+    boni:
+      - question: "Carausius was murdered and supplanted by which of his subordinates in 293 AD?"
+        answer: "ALLECTUS"
+      - question: "What Praetorian prefect defeated Allectus’s forces near Silchester in 296 AD?"
+        answer: "ASCLEPIODOTUS"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Utinam ambōbus bōbus potītus essem!</latin>"
+      answer: "WOULD THAT I HAD ACQUIRED BOTH COWS!"
+    boni:
+      - question: "Translate this sentence into English: <latin>Quaestiō erat difficillima, tamen trēs discipulī nesciō quō modō rēctē responderent.</latin>"
+        answer: "THE QUESTION WAS MOST DIFFICULT, YET/NEVERTHELESS SOMEHOW/  I DO NOT KNOW HOW THREE STUDENTS RESPONDED CORRECTLY."
+      - question: "Translate this sentence into English: <latin>Crās octō hōrās labōrēmus dum hāc nocte dormīre  possīmus.</latin>"
+        answer: "LET US WORK/WE MAY WORK FOR EIGHT HOURS TOMORROW, PROVIDED THAT TONIGHT WE CAN SLEEP"
+  - tossup:
+      question: "Which of the following English words, if any, is NOT derived from the same Latin root as the  others: pace, pact, compass, expand, pass?"
+      answer: "PACT"
+    boni:
+      - question: "Which of the following English words, if any, is NOT derived from the same Latin root as the  others: quaint, annotate, ignore, noble, recognition?"
+        answer: "NONE"
+      - question: "Which of the following English words, if any, is NOT derived from the same Latin root as the  others: common, municipal, excommunicate, mundane?"
+        answer: "MUNDANE"
+  - tossup:
+      question: "Who am I?"
+      answer: "I served as a <latin>quīndecimvir sacrīs faciundīs</latin> in 88 AD, as <latin>cōnsul suffectus</latin> in 97 AD,  and as a governor in Asia Minor under Trajan. In 98 AD, I published a <latin>laudātiō fūnebris</latin> to  honor the memory of my father-in-law Agricola. (PUBLIUS/GAIUS CORNELIUS) TACITUS"
+    boni:
+      - question: "Stylistic differences between Tacitus’s <title><latin>Dialogus dē Ōrātōribus</latin></title> and the rest of his <latin>corpus</latin> led  some scholars to believe the <title>Dialogue</title> to be the product of a young Tacitus holding on to his  teacher’s preferred style. Who was this teacher of Tacitus whose influence can be seen in the  <title>Dialogue</title>?"
+        answer: "(MARCUS FABIUS) QUINTILIAN(US)"
+      - question: "What is the topic of Tacitus’ <title><latin>Dialogus dē Ōrātōribus</latin></title>?"
+        answer: "THE DECLINE OF ORATORY (DURING THE EMPIRE/ AFTER CICERO)"
+  - tossup:
+      question: "What seer from Argos had to flee after a murder, but took refuge in Pylos and later predicted for  Telemachus that his father was already in Ithaca?"
+      answer: "THEOCLYMENUS"
+    boni:
+      - question: "What son of Ctesius and supporter of Odysseus was kidnapped as a child by a Phoenician slave girl and sold to Laertes by pirates?"
+        answer: "EUMAEUS"
+      - question: "To what Epirote king did the suitors threaten to send the loser of the bout between Odysseus and  Irus?"
+        answer: "ECHETUS"
+  - tossup:
+      question: "What is the term for Latin nouns such as <latin>pūbes, vās, famēs, Mulciber, requiēs,</latin> and <latin>penus</latin>, which  vary between declensions among their forms?"
+      answer: "HETEROCLITES"
+    boni:
+      - question: "What do the following words have in common grammatically: <latin>calx, cor, crūs, fax, lūx, ōs, os,  pāx</latin>?"
+        answer: "THEY DO NOT EXIST IN THE GENITIVE PLURAL"
+      - question: "What do the following words have in common grammatically: <latin>fors, spontis, dicam, forās</latin>?"
+        answer: "THEY ARE DIPTOTES / ONLY EXIST IN TWO FORMS"
+  - tossup:
+      question: "What freedman of Claudius revealed Gaius Silius' secret marriage with Valeria Messalina to  the emperor?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What freedman of Claudius pushed for the emperor’s remarriage to his previous wife Aelia  Paetina after Messalina’s death?"
+        answer: "NARCISSUS"
+      - question: "Name the adoptive brother of Aelia Paetina whose death led to her divorce from Claudius?"
+        answer: "(L. AELIUS) SEJANUS"
+  - tossup:
+      question: "What African author staged a three-way conversation between the pagan Caecilius Natalis, the  Christian Octavius Januarius, and himself in order to rebut Cornelius Fronto’s attack on the  faith around the year 150 AD?"
+      answer: "MINUCIUS FELIX"
+    boni:
+      - question: "Of the three interlocutors, which one gives the dialogue its title?"
+        answer: "OCTAVIUS"
+      - question: "What work of Cicero does this work heavily rely on?"
+        answer: "<title><latin>DĒ NĀTŪRĀ DEŌRUM</latin></title>"
+  - tossup:
+      question: "What son of Coeranus properly identified the mulberry color of a magical cow of Minos, earning  him the opportunity to revive the king’s dead son Glaucus?"
+      answer: "POLYEIDUS"
+    boni:
+      - question: "What man from Chios attended the festivals at Delos and won the hand of the beautiful Cydippe by  writing an oath to marry him on a quince, which she of course read out loud?"
+        answer: "ACONTIUS"
+      - question: "What man, while looking for his son in Rhodes, was stoned when he was mistaken for a pirate, and  was later killed by his own son Althaemenes?"
+        answer: "CATREUS"
+  - tossup:
+      question: "Of the verbs <latin>rogō, quaerō, lateō, doceō,</latin> and <latin>cēlō,</latin> which does NOT take a double accusative?"
+      answer: "<latin>QUAERŌ</latin>"
+    boni:
+      - question: "What use of the accusative is found in the phrase “<latin>nūbe humerōs amictus</latin>”?"
+        answer: "SPECIFICATION"
+      - question: "What use of the accusative is found in the phrase “<latin>flōrēs redolēns</latin>”?"
+        answer: "COGNATE"

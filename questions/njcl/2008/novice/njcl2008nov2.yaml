@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Which of the following, if any, IS NOT derived from the same Latin root as the others? Auditorium, obey, audacious, inaudible"
+      answer: "AUDACIOUS"
+    boni:
+      - question: "antler, ante, anticipate, antithesis, ancestor"
+        answer: "ANTITHESIS"
+      - question: "sacrament, secretary, desecrate, sacerdotal, sacrilegious"
+        answer: "SECRETARY"
+  - tossup:
+      question: "For the verb <latin>frangō</latin>, give the 2nd person, singular, present, active imperative"
+      answer: "<latin>FRANGE</latin>"
+    boni:
+      - question: "Change <latin>frange</latin> to the plural"
+        answer: "<latin>FRANGITE</latin>"
+      - question: "Change <latin>frangite</latin> to its negative form"
+        answer: "<latin>NŌLĪTE FRANGERE</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “ecce”?</latin>"
+      answer: "LOOK (HERE)!, BEHOLD"
+    boni:
+      - question: "<latin>Quid Anglicē significat “diū”?</latin>"
+        answer: "FOR A LONG TIME"
+      - question: "<latin>Quid Anglicē significat “noctū”?</latin>"
+        answer: "AT NIGHT"
+  - tossup:
+      question: "Megara and Deianeira were both wives of what great hero?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What is “This animal”?"
+        answer: "ERYMANTHIAN BOAR / BOAR OF MT. ERYMANTHUS"
+      - question: "Who is “This dude”?"
+        answer: "EURYSTHEUS"
+  - tossup:
+      question: "In the <latin>Forum Rōmānum</latin>, what was the <latin>Cūria</latin>?"
+      answer: "SENATE-HOUSE"
+    boni:
+      - question: "Whose triumphal arch stands near the <latin>Cūria</latin> today?"
+        answer: "SEPTIMIUS SEVERUS’"
+      - question: "The remains of which two <latin>basilicae</latin> can be seen near the <latin>Cūria</latin>?"
+        answer: "<latin>BASILICA IŪLIA</latin> & <latin>BASILICA AEMILIA</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Mercurius erat deōrum nūntius. Iuppiter erat pater Mercuriī, et Maia erat māter. Ubi Iuppiter signum ad hominēs mittere volēbat, saepe Mercurium dīmīsit.</latin> Question: <latin>Quis erat pater Mercuriī?</latin>"
+      answer: "IUPPITER"
+    boni:
+      - question: "<latin>Quōrum nūntius erat Mercurius?</latin>"
+        answer: "DEŌRUM"
+      - question: "<latin>Quid fēcit Iuppiter, ubi signum ad hominēs mittere volēbat?</latin>"
+        answer: "(SAEPE) MERCURIUM (DĪ)MĪSIT"
+  - tossup:
+      question: "During what occasion would a Roman wear the <latin>toga candida?</latin>"
+      answer: "SEEKING / RUNNING FOR (POLITICAL) OFFICE"
+    boni:
+      - question: "During what occasion would a Roman wear the <latin>toga picta?</latin>"
+        answer: "TRIUMPHAL PROCESSION / BEING AN EMPEROR"
+      - question: "During what occasion would a Roman wear the <latin>toga pulla?</latin>"
+        answer: "WHILE IN MOURNING / FUNERAL"
+  - tossup:
+      question: "<latin>Respondē Anglicē: Quot diēs in ūnō annō sunt?</latin>"
+      answer: "365 / 366 (LEAP YEAR)"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot annī tibi sunt?</latin>"
+        answer: "ONE STUDENT SHOULD GIVE AN ANSWER IN LATIN FOR HOW OLD (S)HE IS (e.g. <latin>quattuordecim</latin>, <latin>quīndecim</latin>, <latin>sēdecim</latin>, etc.)"
+      - question: "<latin>Respondē Latīnē: Quot sunt centum et centum?</latin>"
+        answer: "DUCENTĪ /-AE / -A"
+  - tossup:
+      question: "In what region of the Underworld are the Titans and mortal sinners confined?"
+      answer: "TARTARUS"
+    boni:
+      - question: "Which of the sinners of Tartarus, because he was the first mortal to murder a relative, spends his time getting dizzy on a wheel of fire?"
+        answer: "IXION"
+      - question: "Which of the sinners of Tartarus, because he fed the flesh of his own son to the gods, spends his time trying to get food and water for himself?"
+        answer: "TANTALUS"
+  - tossup:
+      question: "An oak tree intertwined with a linden tree in Phrygia serves as a memento of the transformation of which two hospitable mortals?"
+      answer: "BAUCIS & PHILEMON"
+    boni:
+      - question: "To whom did Baucis and Philemon offer hospitality to earn this “reward”?"
+        answer: "ZEUS & HERMES / JUPITER & MERCURY"
+      - question: "Into what was the hut of Baucis and Philemon transformed, according to Ovid?"
+        answer: "A TEMPLE (OF JUPITER)"
+  - tossup:
+      question: "The statement “whatever happens to you has been waiting to happen since the beginning of time” appears in the <title>Meditations</title> written by which Roman emperor?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "Who was co-emperor with Marcus Aurelius for the first eight years of his reign?"
+        answer: "LUCIUS VERUS"
+      - question: "What neurotic and egotistical young man became the heir of Marcus Aurelius?"
+        answer: "COMMODUS"
+  - tossup:
+      question: "As you continue down the aisles of the store, your mind begins to wander into Latin land, a happy place where all of the slogans are written in Latin. What is the meaning of Pop Tarts’ slogan “<latin>Īnsānē bona</latin>”?"
+      answer: "CRAZY GOOD / CRAZILY GOOD (The actual advertisement is just “Crazy Good”, which is why we need to accept this)"
+    boni:
+      - question: "Multi-Grain Chips’ slogan, on the other hand, is “<latin>Cōnsūmisne bene</latin>?” What would they like to know?"
+        answer: "ARE YOU EATING SENSIBLY? ARE YOU EATING / CONSUMING WELL?"
+      - question: "Ferrero Chocolate Candies boldly proclaims, “<latin>Nēmō nōbīs resistere potest</latin>.” Translate this slogan"
+        answer: "NO ONE CAN / IS ABLE TO RESIST US / WE ARE IRRESISTIBLE (Note: The actual motto is “Irresistible”)"
+  - tossup:
+      question: "Who missed the opportunity to watch his child grow into a young man when he was forced to lead ships from Ithaca to join the Greeks in their war against Troy?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Name the wife of Odysseus who waited patiently for his return for twenty years"
+        answer: "PENELOPE"
+      - question: "Name the son of Odysseus and Penelope who had to grow up without his father’s presence"
+        answer: "TELEMACHUS"
+  - tossup:
+      question: "Which pro-Christian emperor abolished the ancient Olympic Games in 393 AD?"
+      answer: "THEODOSIUS I / THE GREAT"
+    boni:
+      - question: "Whom did Theodosius appoint as his co-Augustus in the East in 383 AD?"
+        answer: "ARCADIUS"
+      - question: "Whom did Theodosius appoint as his co-Augustus in the West in 393 AD?"
+        answer: "HONORIUS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Mārcus et Iūlius inimīcōs nōn timēbant</latin>"
+      answer: "MARCUS AND JULIUS WERE NOT FEARING / DIDN’T FEAR (THEIR) ENEMIES / (THE) UNFRIENDLY ONES"
+    boni:
+      - question: "Now translate: <latin>Cornēlia et Iūlia cōnsulibus placēbunt</latin>"
+        answer: "CORNELIA AND JULIA WILL PLEASE / BE PLEASING TO THE CONSULS"
+      - question: "Now translate: <latin>Quis Lūcium, senātōrem Rōmānum, in Cūriā sedentem vīdit</latin>?"
+        answer: "WHO SAW /HAS SEEN LUCIUS, A ROMAN SENATOR, SITTING IN THE SENATE HOUSE / CURIA?"
+  - tossup:
+      question: "What royal family was expelled from Rome in 510 BC?"
+      answer: "TARQUINS / <latin>TARQUINIĪ</latin>"
+    boni:
+      - question: "The rape of which woman led to the expulsion of the Tarquins?"
+        answer: "LUCRĒTIA"
+      - question: "Which member of the <latin>Tarquiniī</latin> was responsible for this crime?"
+        answer: "SEXTUS"
+  - tossup:
+      question: "Who deprived himself of his eyesight when he discovered that he had married his mother and killed his father?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Who were the father and mother of Oedipus?"
+        answer: "LAIUS & JOCASTA / EPICASTA"
+      - question: "With what did Oedipus blind himself?"
+        answer: "THE BROOCH / PIN OF JOCASTA"
+  - tossup:
+      question: "From what Latin adjective with what meaning do we derive the English noun “misery”?"
+      answer: "<latin>MISER (-A/ -UM)</latin> – POOR / WRETCHED / SAD"
+    boni:
+      - question: "From what base Latin verb with what meaning do we derive the English noun “attraction”?"
+        answer: "<latin>TRAHŌ / TRAHERE</latin> – DRAW / DRAG"
+      - question: "From what base Latin verb with what meaning do we derive the English noun “referee”?"
+        answer: "<latin>FERŌ</latin> / <latin>FERRE</latin> – BEAR / CARRY"
+  - tossup:
+      question: "The symbol “a” with a circle around it, which is used in e-mail addresses, comes from the medieval abbreviation of the Latin word <latin>apud,</latin> which means what?"
+      answer: "AT / AT THE HOME OF / AMONG / NEAR / BESIDE / WITH / IN THE WORKS OF / ACCORDING TO"
+    boni:
+      - question: "Give the Latin and the English for the abbreviation e-t-c"
+        answer: "<latin>ET CETERA</latin>, AND (ALL THE) OTHER / REST OF THE THINGS or <latin>ET CETERĪ</latin>, AND (ALL THE) OTHERS / REST"
+      - question: "Give the Latin and the English for the abbreviation p-s"
+        answer: "<latin>POST SCRĪPTUM</latin>, WRITTEN AFTERWARDS / WRITTEN BELOW"
+  - tossup:
+      question: "Give the comparative and superlative forms for the adjective <latin>cārus</latin>"
+      answer: "<latin>CĀRIOR</latin>, <latin>CĀRISSIMUS</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms for <latin>parvus</latin>"
+        answer: "<latin>MINOR</latin>, <latin>MINIMUS</latin>"
+      - question: "Give the comparative and superlative forms for the adjective <latin>crūdēlis</latin>"
+        answer: "<latin>CRŪDĒLIOR</latin>, <latin>CRŪDĒLISSIMUS 2008 NJCL CERTAMEN NOVICE DIVISION</latin>"

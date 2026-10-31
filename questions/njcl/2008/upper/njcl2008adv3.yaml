@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2008
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the following plural noun forms commonly has a singular? <latin>Penātēs, arma, scālae, Athēnae, aedēs, moenia</latin>"
+      answer: "<latin>AEDĒS</latin>"
+    boni:
+      - question: "What is the difference in meaning between the singular form <latin>carcer</latin> and the plural form <latin>carcerēs</latin>?"
+        answer: "<latin>CARCER</latin> – DUNGEON / PRISON / JAIL <latin>CARCERĒS</latin> – BARRIERS / STARTING GATES (OF RACE-COURSE)"
+      - question: "What Latin noun with a different meaning in the singular and plural is found in the plural to mean “boundary, territory”?"
+        answer: "<latin>FĪNIS / FĪNĒS</latin>"
+  - tossup:
+      question: "Who was the emperor of the Eastern Roman Empire at the time Rome fell to Odoacer?"
+      answer: "ZENO"
+    boni:
+      - question: "Who defeated Odoacer after a three-year siege of Ravenna?"
+        answer: "THEODORIC"
+      - question: "How did Odoacer die?"
+        answer: "THEODORIC KILLED HIM (AT A BANQUET TO WHICH HE HAD INVITED ODOACER)"
+  - tossup:
+      question: "After they “left” the land of the Laestrygonians, Odysseus and his men landed on what island, home to the sorceress Circe?"
+      answer: "AEAEA"
+    boni:
+      - question: "After Odysseus left Ogygia, he had been sailing for many days when Poseidon destroyed his raft and nearly drowned him. Who provided Odysseus with a veil that protected him from the dangers at sea?"
+        answer: "LEUCOTHEA / INO"
+      - question: "What leader of the insurgent Ithacans, also the father of Alcinous, was killed by a spear thrown by Laertes and guided by Athena?"
+        answer: "EUPEITHES"
+  - tossup:
+      question: "What Roman scholar wrote 150 books of Menippean satires in the first century B.C., along with other works including <title><latin>Antīquitātēs Rērum Hūmānārum et Dīvīnārum</latin></title>?"
+      answer: "(M. TERENTIUS) VARRO (REATINUS)"
+    boni:
+      - question: "What work of Varro, of which six books survive, deals with etymology and grammar?"
+        answer: "<title><latin>DĒ LINGUĀ LATĪNĀ</latin></title>"
+      - question: "What Greek epic did Varro’s contemporary and namesake, Varro of Atax, translate into Latin?"
+        answer: "<title><latin>ARGONAUTICA</latin></title>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Nēmō potest dīcere utrum iūre an iniūriā Caesar ā Brūtō et Cassiō occīsus sit: sed hoc tantum scīmus, eum tantum cīvem fuisse ut nēmō eī pār esse posset. Nam tanta erat eius potestās ut locum rēgis habēret.</latin> Question: According to the passage, what was the result of Caesar’s such great power?"
+      answer: "HE HELD THE POWER / POSITION/ PLACE OF KING (If student says, “He was killed,” the passage does not state that this is the result of his power)"
+    boni:
+      - question: "According to the passage, what is the only thing that we know?"
+        answer: "(HE WAS SUCH A POWERFUL/GREAT CITIZEN THAT) NO ONE WAS ABLE TO BE EQUAL TO HIM / NO ONE WAS CAESAR’S EQUAL"
+      - question: "What is no one able to say?"
+        answer: "WHETHER OR NOT HE WAS KILLED (BY BRUTUS AND CASSIUS) JUSTLY (OR UNJUSTLY)"
+  - tossup:
+      question: "What author, a friend of Scipio Aemilianus and ancestor of Pompey, wrote a satire about a trip to Tarentum?"
+      answer: "(C.) LUCILIUS"
+    boni:
+      - question: "What later satirist paid homage to Lucilius by writing a satire of his trip to Brundisium?"
+        answer: "(Q.) HORATIUS (FLACCUS) / HORACE"
+      - question: "Though Lucilius is known as the father of satire, what earlier writer wrote works called satires along with several more famous works?"
+        answer: "(Q.) ENNIUS"
+  - tossup:
+      question: "Using a passive periphrastic, say in Latin, “The sailors had to sail to Greece.”"
+      answer: "<latin>NAUTĪS AD / IN GRAECIAM NĀVIGANDUM ERAT</latin>"
+    boni:
+      - question: "Using a future active participle, translate the verb in the dependent clause into Latin for the following sentence: “I did not know when the sailors would sail.”"
+        answer: "<latin>NĀVIGĀTŪRĪ ESSENT</latin>"
+      - question: "Now, say in Latin: “The ship was very suitable for sailing.”"
+        answer: "<latin>NĀVIS APTISSIMA / MAXIMĒ IDONEA ERAT / FUIT NĀVIGANDŌ / AD NĀVIGANDUM</latin>"
+  - tossup:
+      question: "Who were the foster parents of the child exposed on Mt. Cithaeron and named Oedipus because of his swollen feet?"
+      answer: "MEROPE (or PERIBOEA) and POLYBUS (PLEASE PASS OUT THE VISUAL)"
+    boni:
+      - question: "Who is depicted in picture “A” cutting down the baby Oedipus?"
+        answer: "PHORBAS"
+      - question: "What unfortunate spy from an earlier generation in Thebes is depicted in picture “B”?"
+        answer: "PENTHEUS"
+  - tossup:
+      question: "What <latin>gēns</latin> was nearly annihilated at the battle of Cremera in 479 B.C.?"
+      answer: "FABIAN / <latin>FABIĪ</latin> / <latin>FABIA</latin> / FABIUS"
+    boni:
+      - question: "In the final conflict over Fidenae, what Roman slew the enemy king Tolumnius?"
+        answer: "(AULUS CORNELIUS) COSSUS"
+      - question: "What was significant about the trophy set up on the Capitoline by Cornelius Cossus?"
+        answer: "IT WAS THE ARMOR OF THE ENEMY LEADER / KING (TOLUMNIUS) / SECOND <latin>SPOLIA OPIMA</latin>"
+  - tossup:
+      question: "For the verb <latin>eō</latin>, give the neuter form of the future passive participle"
+      answer: "<latin>EUNDUM</latin>"
+    boni:
+      - question: "Give the future active participle of <latin>ferō</latin>"
+        answer: "<latin>LATŪRUS</latin>"
+      - question: "Give the present participle of <latin>tueor</latin>"
+        answer: "<latin>TUĒNS</latin>"
+  - tossup:
+      question: "What is the only state which has a Greek motto?"
+      answer: "CALIFORNIA"
+    boni:
+      - question: "What is that Greek motto?"
+        answer: "EUREKA"
+      - question: "What does that mean?"
+        answer: "I (HAVE) FOUND (IT)"
+  - tossup:
+      question: "Name the deities of the three major foreign cults that thrived in the Roman world: one from Egypt, another from Phrygia, and a third from Persia"
+      answer: "ISIS, CYBELE / <latin>MAGNA MĀTER</latin>, MITHRAS"
+    boni:
+      - question: "At the same time, what was happening to the gods of most indigenous cultures on the European continent?"
+        answer: "THEY WERE BEING ASSIMILATED WITH ROMAN GODS"
+      - question: "What Greek philosophy was promoted by Seneca the Younger and Marcus Aurelius?"
+        answer: "STOICISM"
+  - tossup:
+      question: "Give a literal translation of the following sentence: <latin>Cupidī sumus superandī</latin>"
+      answer: "WE ARE DESIROUS / FOND OF WINNING"
+    boni:
+      - question: "Translate this sentence: <latin>Hūc vēnimus victum</latin>"
+        answer: "WE HAVE COME / CAME HERE TO WIN"
+      - question: "Translate this sentence: <latin>Velīmus hoc rēctē respondēre</latin>"
+        answer: "WE WOULD / SHOULD / MIGHT LIKE TO ANSWER THIS (QUESTION) CORRECTLY"
+  - tossup:
+      question: "One of the first stops for Aeneas after fleeing Troy was Thrace, where he intended to found a city. What ghost warned him against staying there?"
+      answer: "POLYDORUS"
+    boni:
+      - question: "Later, the expedition landed in Buthrotum. Which son of Priam was the ruler there?"
+        answer: "HELENUS"
+      - question: "Where did Aeneas bury his father and then return later to celebrate his funeral games?"
+        answer: "SICILY / DREPANUM"
+  - tossup:
+      question: "Although Hasdrubal rendered their <latin>corvus</latin> innefective, he was still defeated by the Roman consuls Marcus Atilius Regulus and Manlius Volso in what battle of 256 B.C.?"
+      answer: "CAPE ECNOMUS"
+    boni:
+      - question: "The victory at Cape Ecnomus enabled Regulus to make a landing in Africa, only to be captured in 255 B.C. by the Spartan mercenary Xanthippus in what battle?"
+        answer: "BAGRADAS VALLEY"
+      - question: "The remnants of Regulus' army were evacuated by a Roman fleet coming from what victory in 255 B.C., only to be lost in a fierce storm off Sicily?"
+        answer: "CAPE HERMAEUM"
+  - tossup:
+      question: "What word normally introduces a purpose clause containing a comparative adjective or adverb?"
+      answer: "<latin>QUŌ</latin>"
+    boni:
+      - question: "What word can introduce a clause of hindering?"
+        answer: "<latin>QUŌMINUS</latin> or <latin>NĒ</latin>"
+      - question: "Which of the following, if any, could NOT introduce a substantive clause of result? <latin>Mōs est</latin>, <latin>effēcit</latin>, <latin>tantum abest</latin>, <latin>accidit</latin>"
+        answer: "ALL OF THESE INTRODUCE SUBSTANTIVE CLAUSES OF RESULT"
+  - tossup:
+      question: "Identify the work and the author of the following quotation: “<latin>Mīlitat omnis amāns, et habet sua castra Cupīdō</latin>”?"
+      answer: "<title><latin>AMŌRĒS</latin></title> (I.9) BY (P.) OVID(IUS) (NASO)"
+    boni:
+      - question: "…“<latin>Gitōn est, Gitōn; inhibēte crūdēlissimās manūs; Gitōn est, domina, succurre</latin>”?"
+        answer: "<title>SATYRICA</title> <title><latin>/ SATYRICON</latin></title> (<title><latin>LIBRĪ</latin></title>) BY (C.) PETRONIUS (ARBITER)"
+      - question: "…“<latin>Suāve, marī magnō turbantibus aequora ventīs ē terrā magnum alterius spectāre labōrem; nōn quia vexārī quemquam est iucunda voluptās, sed quibus ipse malīs careās quia cernere suāve est</latin>”?"
+        answer: "<title><latin>DĒ RĒRUM NĀTŪRĀ</latin></title> BY (T.) LUCRETIUS (CARUS)"
+  - tossup:
+      question: "Who killed herself when her love was not reciprocated by her step-son Hippolytus?"
+      answer: "PHAEDRA"
+    boni:
+      - question: "Of what false charge did Phaedra accuse Hippolytus in her suicide note?"
+        answer: "(ATTEMPTED) RAPE"
+      - question: "Whom did Theseus ask to help him exact revenge on his son, thereby resulting in Hippolytus’ death when a bull rushed out from the sea and frightened his horses?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "Identify the author described here: Martial calls him <latin>facundus</latin> and sent him nuts along with an epigram at Saturnalia"
+      answer: "(DECIMUS JUNIUS) JUVENAL(IS)"
+    boni:
+      - question: "What greedy group does Juvenal attack in his twelfth satire?"
+        answer: "LEGACY-HUNTERS"
+      - question: "In what town was Juvenal born?"
+        answer: "AQUINUM"
+  - tossup:
+      question: "Give all the principal parts for the verb from which “querulous” is derived"
+      answer: "<latin>QUEROR, QUERĪ, QUESTUS /-A /-UM (SUM)</latin>"
+    boni:
+      - question: "Give all the principal parts for the verb from which “lapse” is derived"
+        answer: "<latin>LABOR, LABĪ, LAPSUS /-A /-UM (SUM)</latin>"
+      - question: "Give all the principal parts for the Latin verb from which “confess” is derived"
+        answer: "<latin>FATEOR, FATĒRĪ, FASSUS /-A /-UM (SUM) / CŌNFITEOR, CŌNFITĒRĪ, CŌNFESSUS /-A /-UM (SUM) (</latin><emphasis><latin>NOT</latin></emphasis> <latin>fōr, fārī)  2008 NJCL CERTAMEN ADVANCED DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of these body parts would be highest on a standing human: <latin>genū</latin>, <latin>lingua</latin>, <latin>supercilium</latin>, <latin>nāsus</latin>?"
+      answer: "<latin>SUPERCILIUM</latin>"
+    boni:
+      - question: "What second declension noun names the body part on which a Roman would wear an <latin>ānulus</latin>?"
+        answer: "<latin>DIGITUS</latin>"
+      - question: "The eyebrow or <latin>supercilium</latin> can be found on the forehead. What is the Latin noun that means “forehead”?"
+        answer: "<latin>FRŌNS</latin>"
+  - tossup:
+      question: "What was the ancient Roman equivalent of our Secret Service?"
+      answer: "PRAETORIAN GUARD"
+    boni:
+      - question: "What did the Praetorian Guard sell to the highest bidder in 193 AD?"
+        answer: "THE EMPIRE / EMPERORSHIP / PRINCIPATE / THRONE"
+      - question: "Who was the highest bidder in that auction?"
+        answer: "(MARCUS) DIDIUS JULIANUS"
+  - tossup:
+      question: "What tragic hero entered into a regrettable marriage because he had killed the man who had fathered him?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "Name both the woman he married and the man he killed"
+        answer: "JOCASTA(EPICASTA), LAIUS"
+      - question: "His upbringing in what city was the reason that Oedipus did not recognize his father Laius when he encountered him on the road?"
+        answer: "CORINTH"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the Latin noun <latin>vir</latin>, meaning “man”: virile, virtuoso, avert, triumvirate?"
+      answer: "AVERT"
+    boni:
+      - question: "From what Latin noun is the word “peril” derived?"
+        answer: "<latin>PERĪC(U)LUM</latin>"
+      - question: "From what Latin noun is the word “nocturnal” derived?"
+        answer: "<latin>NOX</latin>"
+  - tossup:
+      question: "What <latin>praenōmen</latin> was abbreviated T?"
+      answer: "TITUS"
+    boni:
+      - question: "What <latin>praenōmen</latin> is abbreviated M' (<emphasis>M-apostrophe</emphasis>)?"
+        answer: "MANIUS"
+      - question: "What <latin>praenōmen</latin> was abbreviated K?"
+        answer: "KAESO"
+  - tossup:
+      question: "For the verb <latin>possum</latin>, give the present active infinitive"
+      answer: "<latin>POSSE</latin>"
+    boni:
+      - question: "Give the present passive infinitive for the verb <latin>commoveō</latin>"
+        answer: "<latin>COMMOVĒRĪ</latin>"
+      - question: "Give the present passive infinitive for the verb <latin>pōnō</latin>"
+        answer: "<latin>PŌNĪ</latin>"
+  - tossup:
+      question: "Who was loved by Vertumnus, a Roman god of fertility?"
+      answer: "POMONA"
+    boni:
+      - question: "What unusual ability did Vertumnus possess?"
+        answer: "TO CHANGE SHAPE"
+      - question: "What shape did Vertumnus assume in order to be able to talk with the maiden?"
+        answer: "AN OLD WOMAN"
+  - tossup:
+      question: "Translate this sentence into English: “<latin>Animālia aquam bibere nōlunt</latin>.”"
+      answer: "THE ANIMALS DO NOT WANT/WISH TO DRINK (THE) WATER"
+    boni:
+      - question: "Give the letter of the picture that illustrates the following Latin sentence<latin>: In marī piscēs fēlīciter natant</latin>"
+        answer: "LETTER “E”"
+      - question: "Give the letter of the picture that illustrates this sentence<latin>: Homō celerrimē currit</latin>"
+        answer: "LETTER “A”"
+  - tossup:
+      question: "Who crossed a small stream in northern Italy with a Roman army and thus precipitated a Roman civil war that would end with autocratic rule in Rome for the next five years?"
+      answer: "(GAIUS IULIUS) CAESAR"
+    boni:
+      - question: "What was this small stream crossed by Caesar in 49 BC?"
+        answer: "THE RUBICON"
+      - question: "What Latin phrase was Caesar reported to have said as his army crossed the Rubicon, and what does it mean?"
+        answer: "<latin>ALEA</latin> <latin>IACTA</latin> <latin>EST</latin>, THE DIE HAS BEEN / IS CAST (since question does not expect translation, accept approximations)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Pūblius cum Iūliō in vīllā prope montēs cēnābat. Subitō clāmōrēs audīvērunt. “Currite! Currite!” clāmābant incolae oppidī. “Mōnstrum horribile adest nōmine Cācus.” Pūblius et Iūlius rīsērunt, nam Cācus rē vērē nōn vīxit.</latin>  Question: <latin>Ubi erat vīlla in quā Pūblius Iūliusque cēnābant?</latin>"
+      answer: "PROPE/AD MONTĒS/ SUB MONTIBUS"
+    boni:
+      - question: "<latin>Ā quibus clāmōrēs incolārum audītī sunt?</latin>"
+        answer: "(Ā) PŪBLIŌ ET IŪLIŌ"
+      - question: "<latin>Cācusne in montibus verē vīxit?</latin>"
+        answer: "VĒRUM"
+  - tossup:
+      question: "Who, in a traumatic episode of his infancy, watched in fear and awe as his half-brother strangled a snake that had been placed by Hera in their crib?"
+      answer: "IPHICLES"
+    boni:
+      - question: "In other versions of the story, who placed the snakes in the cribs to ascertain which boy was his own son and which was Zeus’?"
+        answer: "AMPHITRYON"
+      - question: "What son of Iphicles by his wife Automedusa aided Heracles and his sons?"
+        answer: "IOLAUS"
+  - tossup:
+      question: "Which of the first two consuls of Rome shared his <latin>nōmen</latin> with the recently ousted seventh king?"
+      answer: "(TARQUINIUS) COLLATINUS"
+    boni:
+      - question: "What specific effect did this shared <latin>nōmen</latin> have on Collatinus’ political career?"
+        answer: "REMOVED FROM CONSULSHIP (prompt on “hindered it”)"
+      - question: "Who replaced Collatinus, thus becoming the first <latin>cōnsul</latin> <latin>suffectus</latin>?"
+        answer: "(VALERIUS) POPLICOLA / PUBLICOLA"
+  - tossup:
+      question: "Give two distinct meanings for the Latin word “<latin>quam</latin>”"
+      answer: "WHICH / WHOM / HOW / THAN / SO / AS / WHAT / IT / HER / THAT"
+    boni:
+      - question: "<latin>Quam</latin> can be used as an adverb. What Latin adverb means “on the next day”?"
+        answer: "<latin>POSTRĪDIĒ</latin>"
+      - question: "Finally, what Latin adverb means “in the morning”?"
+        answer: "<latin>MĀNE</latin>"
+  - tossup:
+      question: "For the adjective <latin>longus</latin>, give the comparative and superlative forms"
+      answer: "<latin>LONGIOR</latin>, <latin>LONGISSIMUS</latin>"
+    boni:
+      - question: "Now give the corresponding adverbial forms of <latin>longus</latin>, <latin>longior</latin>, and <latin>longissimus</latin>"
+        answer: "<latin>LONGĒ</latin>, <latin>LONGIUS</latin>, <latin>LONGISSIMĒ</latin>"
+      - question: "Give the comparative and superlative forms of the adjective <latin>misera</latin>"
+        answer: "<latin>MISERIOR</latin>, <latin>MISERRIMA</latin>"
+  - tossup:
+      question: "What river of fire surrounded Tartarus?"
+      answer: "(PERI)PHLEGETHON"
+    boni:
+      - question: "From what river would every soul who entered the Underworld have to drink?"
+        answer: "LETHE"
+      - question: "What creatures in Tartarus eternally fed on Tityus’ liver?"
+        answer: "VULTURES / SNAKES"
+  - tossup:
+      question: "What Julio-Claudian <latin>prīnceps</latin> killed Gemellus and Macro, fought with Gaetulicus, and was eventually killed by Cassius Chaerea?"
+      answer: "GAIUS / CALIGULA"
+    boni:
+      - question: "Both the young Caligula and his father earned nicknames during the father’s campaign in Germany. By what honorary <latin>agnōmen</latin> is his father now commonly known?"
+        answer: "GERMANICUS"
+      - question: "Caligula’s sister Agrippina the Younger married and may have poisoned what later emperor?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "Give the Latin motto of the University of North Dakota"
+      answer: "<latin>LŪX ET LĒX</latin>"
+    boni:
+      - question: "Now make that motto ablative"
+        answer: "<latin>LŪCE ET LĒGE</latin>"
+      - question: "Translate the motto of Johns Hopkins University, <latin>Vēritās vōs līberābit</latin>"
+        answer: "THE TRUTH WILL FREE YOU"
+  - tossup:
+      question: "Who outwrestled Cercyon, took the club of Corynetes, and stretched out Procrustes?"
+      answer: "THESEUS"
+    boni:
+      - question: "What young princess and daughter of Zeus did Theseus abduct to be his wife?"
+        answer: "HELEN"
+      - question: "When Helen’s brothers rescued her from Athens, they decided to take some women of their own. What mother of Theseus did they abduct to be a servant for Helen?"
+        answer: "AETHRA"
+  - tossup:
+      question: "What English verb, a derivative of <latin>dō</latin>, <latin>dare</latin>, means “to deliver a criminal or fugitive to the country of his or her citizenship”?"
+      answer: "EXTRADITE"
+    boni:
+      - question: "What derivative of a compound of <latin>dō</latin> that literally means “to give through” is an English noun meaning “a state of spiritual ruin, damnation”?"
+        answer: "PERDITION"
+      - question: "What Latin verb, a compound of a prefix meaning “away from“ and <latin>dō</latin>, <latin>dare</latin>” means “hide”?"
+        answer: "<latin>ABDŌ</latin>"
+  - tossup:
+      question: "Give the term for the usage of the verb form of <latin>salūtō</latin> in this sentence: <latin>Meus frāter magistrōs salūtāre dēbet</latin>"
+      answer: "COMPLEMENTARY INFINITIVE"
+    boni:
+      - question: "Translate this sentence: <latin>Poterāmus laudārī</latin>."
+        answer: "WE WERE ABLE TO / COULD BE PRAISED"
+      - question: "Translate this sentence: <latin>Saepe malum est sedēre in igne</latin>"
+        answer: "IT IS OFTEN BAD/EVIL TO SIT IN FIRE  <latin>2010 NJCL CERTAMEN NOVICE DIVISION</latin>"

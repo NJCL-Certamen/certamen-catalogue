@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2016
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Distinguish in meaning between nōtus and tōtus."
+      answer: "KNOWN / FAMILIAR // WHOLE / ALL / ENTIRE"
+    boni:
+      - question: "Distinguish in meaning between laetus and lātus."
+        answer: "HAPPY / JOYFUL // WIDE / CARRIED"
+      - question: "Distinguish in meaning between moveō and monēo."
+        answer: "MOVE / DRIVE // WARN / ADVISE / REMIND"
+  - tossup:
+      question: "Who at the Battle of Sentinum sacrificed himself to rally his forces against the Samnites in the Third   Samnite War?"
+      answer: "DECIUS MUS"
+    boni:
+      - question: "Which consul led the Romans to victory after Decius Mus’ sacrifice?"
+        answer: "RULLIANUS"
+      - question: "In what year was this battle?"
+        answer: "295 BC"
+  - tossup:
+      question: "Translate the pronoun in the following sentence into Latin: “Marcus said that he was tired.”"
+      answer: "SĒ"
+    boni:
+      - question: "Translate the pronoun in the following sentence into Latin: “Anna decided to make dinner herself.”"
+        answer: "IPSA"
+      - question: "Translate the pronoun in the following sentence into Latin: “Julius said she was happy.”"
+        answer: "EAM"
+  - tossup:
+      question: "Where would you find a load of asphodels, the rivers Acheron, Cocytus, and Phlegethon, and the seat  of forgetfulness where    Pirithoüs sits because he tried to abduct Persephone?"
+      answer: "HADES / ORCUS / THE UNDERWORLD"
+    boni:
+      - question: "Which river of the Underworld made souls forget their past lives when they drank from it?"
+        answer: "LETHE"
+      - question: "Who tried to rescue Pirithoüs from the seat of forgetfulness but was deterred from doing so by Hades?"
+        answer: "HERAKLES"
+  - tossup:
+      question: "What animal gets its English name from the Latin verb meaning “to twist”?"
+      answer: "TORTOISE"
+    boni:
+      - question: "What flower’s name is derived from the same verb?"
+        answer: "NASTURTIUM"
+      - question: "What source of light is derived from the same verb?"
+        answer: "TORCH"
+  - tossup:
+      question: "The Latin verb mālō is a contraction of what two Latin words?"
+      answer: "MAGIS + VOLŌ"
+    boni:
+      - question: "The Latin word necesse is a contraction of what two Latin words?"
+        answer: "NĒ/ NEC/ NŌN + CESSŌ"
+      - question: "The Latin verb sūmō, sūmere is a contraction of what other two Latin words?"
+        answer: "SUB + EMŌ"
+  - tossup:
+      question: "In ancient Rome, what was the name of the covered, two-wheeled, luxury carriage?"
+      answer: "CARPENTUM"
+    boni:
+      - question: "What was the name of the carriage used in triumphal processions to carry the spoils of war?"
+        answer: "PETORĪTUM"
+      - question: "What traveling vehicle was typically used for people with baggage as it was large and heavy, covered,   had four wheels, and was drawn by two or four horses?"
+        answer: "RAEDA"
+  - tossup:
+      question: "Translate this sentence into English: Mihi labōrandum est."
+      answer: "I MUST WORK"
+    boni:
+      - question: "…; Fābula poētae nārrada erat."
+        answer: "THE POET HAD TO TELL THE STORY /   THE STORY HAD TO BE TOLD BY THE POET"
+      - question: "…: Nōbīs audācius pugnandum erit."
+        answer: "WE WILL HAVE TO FIGHT MORE BOLDLY"
+  - tossup:
+      question: "Who was denied a seat on the Argo but distinguished herself by being the first to wound the   Calydonian boar and later was awarded the boar's pelt?"
+      answer: "ATALANTA"
+    boni:
+      - question: "What son of Atalanta was one of the Seven Against Thebes?"
+        answer: "PARTHENOPAEUS"
+      - question: "Into what was Atalanta transformed along with Melanion?"
+        answer: "LION(ESS)"
+  - tossup:
+      question: "Who was the last emperor to hold the title of Pontifex Maximus?"
+      answer: "THEODOSIUS I"
+    boni:
+      - question: "Who were the two sons of Theodosius who ruled different halves of the empire after their father’s   death?"
+        answer: "HONORIUS AND ARCADIUS"
+      - question: "What bishop of Milan made Theodosius perform a penance after the emperor’s massacre at   Thessalonica?"
+        answer: "AMBROSE"
+  - tossup:
+      question: "Please listen to the following sentences, which I will read twice, and answer the question that follows   in English:    In pluribus locīs simul circum forum incendium ortum est. Eōdem tempore septem   tabernae arsērunt. Tum prīvāta aedificia et forum piscātōrium arsērunt. Templum   Vestae vix servātum est ā trēdecim servīs quī posteā līberātī sunt. (repeat)   The question: What buildings caught on fire after seven shops burnt to the ground?"
+      answer: "PRIVATE BUILDINGS AND THE FISH(ERMAN’S) MARKET"
+    boni:
+      - question: "Why were thirteen slaves set free?"
+        answer: "BECAUSE THEY SAVED THE TEMPLE OF VESTA"
+      - question: "The story continues: Fāma erat dominum scelestum et quīnque iuvenēs nōbilēs incendium   fēcisse. What was the rumor?"
+        answer: "THAT A WICKED MASTER & FIVE YOUTHS HAD SET THE FIRE"
+  - tossup:
+      question: "Assuming it is in the indicative mood, translate the verb form parcam."
+      answer: "I WILL SPARE"
+    boni:
+      - question: "Now translate parcam, assuming it is subjunctive."
+        answer: "I MAY / MAY I SPARE"
+      - question: "Now make parcam perfect subjunctive."
+        answer: "PEPERCERIM"
+  - tossup:
+      question: "Which road connected Rome to Umbria?"
+      answer: "VIA FLAMINIA"
+    boni:
+      - question: "Which road connected Rome to Capua and later to Brundisium?"
+        answer: "VIA APPIA"
+      - question: "Which road was primarily used by Romans traveling east to Greece?"
+        answer: "VIA EGNATIA"
+  - tossup:
+      question: "Give the comparative and superlative forms of fortiter."
+      answer: "FORTIUS, FORTISSIMĒ"
+    boni:
+      - question: "…: bene."
+        answer: "MELIUS, OPTIMĒ"
+      - question: "…: parum."
+        answer: "MINUS, MINIMĒ"
+  - tossup:
+      question: "Who corralled the Cercopes, left Lityerses lying dead in his fields, slaughtered Syleus with his own   hoe, beheaded the Hydra several times, and murdered Megara?"
+      answer: "HERACLES / HERCULES   ("
+    boni:
+      - question: "Who sent “This Thing” to hinder Heracles?"
+        answer: "HERA"
+      - question: "Who is “That Dude”?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "Give the present infinitives for the verb cōnsūmō."
+      answer: "CŌNSŪMERE, CŌNSŪMĪ"
+    boni:
+      - question: "Give the perfect infinitives for the verb dō."
+        answer: "DEDISSE, DĀTUS (-A, -UM) ESSE"
+      - question: "Give the future infinitives for the verb fundō."
+        answer: "FŪSŪRUS (-A, -UM) ESSE, FŪSUM ĪRĪ"
+  - tossup:
+      question: "On what type of ancient item would you have most likely seen the Latin abbreviation STTL, standing   for the phrase “sit tibi terra levis”?"
+      answer: "TOMBSTONE / FUNERARY INSCRIPTION"
+    boni:
+      - question: "Translate this phrase."
+        answer: "MAY THE EARTH/DIRT BE LIGHT UPON YOU"
+      - question: "To whom was a funeral dedication being given if the abbreviation DM was used?"
+        answer: "DEIFIED SPIRITS OF THE DEAD"
+  - tossup:
+      question: "In Book 10 of the Aeneid a battle takes place in front of the Trojans’ settlement in Italy in which   several heroes die. Which of the following, if any, does not die in that battle in Book 10:   Lausus, Pallas, Camilla, or Mezentius?"
+      answer: "CAMILLA"
+    boni:
+      - question: "Who killed two out of the four heroes mentioned in the tossup?"
+        answer: "AENEAS"
+      - question: "Name the two killed by Aeneas and their relationship, if any, to each other?"
+        answer: "MEZENTIUS AND LAUSUS, FATHER AND SON"
+  - tossup:
+      question: "Although originally declaring for Vespasian, what Batavian chieftain later revolted, wanting to create   a separate Gallic Empire?"
+      answer: "IULIUS CIVILIS"
+    boni:
+      - question: "What two chiefs of the Treviri came to terms with Civilis and aided him in the rebellion?"
+        answer: "IULIUS CLASSICUS AND IULIUS TUTOR"
+      - question: "What kinsman of Vespasian put down this rebellion?"
+        answer: "(Q. PETILLIUS) CERIALIS"
+  - tossup:
+      question: "Who conspired with Odysseus to frame Palamedes and angered Agamemnon twice, first when he told   him he would have to sacrifice Iphigeneia to placate Artemis, then again when he told him he   would have to return Chryseïs to halt a plague?"
+      answer: "CALCHAS"
+    boni:
+      - question: "What god had struck the Greek army with plague because of Agamemnon's refusal to take ransom for   Chryseïs?"
+        answer: "APOLLO"
+      - question: "Calchas died of shame after losing a “seer-off” to what other seer at Colophon?"
+        answer: "MOPSUS"

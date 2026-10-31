@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 2001
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What adventurer called himself \"Outis\" (OOH-tis), which means \"nobody\"?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "After Odysseus told Polyphemus his real name, whose prophecy that a man by that name would kill him did the cyclops then remember?"
+        answer: "TELEMUS'"
+      - question: "What did Odysseus do with the ram under which he had escaped from Polyphemus' cave?"
+        answer: "SACRIFICED IT (TO ZEUS)"
+  - tossup:
+      question: "What group of Roman citizens withdrew to the Mons Sacer in a civil strike in 494 BC?"
+      answer: "PLEBS/PLEBIANS/PLEBES"
+    boni:
+      - question: "Who convinced the plebeians to end their strike?"
+        answer: "MENENIUS (AGRIPPA)"
+      - question: "What position was created to defend the lives and property of the plebeians?"
+        answer: "TRIBUNE <latin>/ TRIBUNUS (PLEBIS</latin> or <latin>PLEBI)</latin>"
+  - tossup:
+      question: "Give the Latin and English for the abbreviation <latin>ca</latin>"
+      answer: "CIRCĀ - ABOUT"
+    boni:
+      - question: ". . . <latin>cf</latin>"
+        answer: "CONFER - COMPARE"
+      - question: ". . . <latin>c.v</latin>"
+        answer: "CURRICULUM VĪTAE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Senex cuius domus ārdēbat erat anxius</latin>"
+      answer: "THE OLD MAN WHOSE HOUSE WAS BURNING WAS WORRIED / ANXIOUS"
+    boni:
+      - question: "<latin>Discipulīs quī</latin> <latin>cum dīligentiā</latin> <latin>labōrābunt praemia dabō</latin>"
+        answer: "I SHALL GIVE REWARDS TO THE STUDENTS WHO WILL WORK WITH DILIGENCE/DILIGENTLY."
+      - question: "<latin>Dominus agricolās ā</latin> <latin>quibus agrī</latin> <latin>colēbantur laudāvit.</latin> "
+        answer: "THE MASTER PRAISED THE FARMERS BY WHOM THE FIELDS WERE CARED FOR/ CULTIVATED/TILLED/TENDED/PLOWED"
+  - tossup:
+      question: "Which of the following words, if any, does <emphasis>not</emphasis> have the same ultimate Latin root as the others? redemption, preempt, redeem, exempt NONE OF THEM Give the Latin verb and its meaning at the root of the words in the toss-up"
+      answer: "<latin>EMŌ/EMERE</latin> - BUY, OBTAIN, PURCHASE, PAY, BRIBE, GAIN"
+    boni:
+      - question: "What derivative of <latin>emō, emere</latin> is an adjective meaning “initiated to gain the advantage before an anticipated enemy attack?”"
+        answer: "PREEMPTIVE (do not accept “peremptory”)"
+  - tossup:
+      question: "What was the relationship of Agave, Autonoe, Ino, and Semele?"
+      answer: "SISTERS / DAUGHTERS OF CADMUS"
+    boni:
+      - question: "What nymph did Autonoe's husband Aristaeus chase, causing her death?"
+        answer: "EURYDICE"
+      - question: "Whom did Autonoe and some of her sisters chase, causing his death?"
+        answer: "PENTHEUS"
+  - tossup:
+      question: "Give a Latin synonym for the verb <latin>spectō</latin>"
+      answer: "<latin>ASPICIŌ</latin>, <latin>VIDEŌ</latin>, <latin>ASPECTŌ</latin>, <latin>INTUEOR</latin>"
+    boni:
+      - question: " For the verb <latin>cantō</latin>"
+        answer: "<latin>CANŌ</latin>, <latin>CANTITŌ</latin>"
+      - question: "For the verb <latin>rogō</latin>"
+        answer: "<latin>INTERROGŌ</latin>, <latin>QUAERŌ</latin>, <latin>REQUĪROR</latin>, <latin>PETŌ, POSCŌ, (AD)ŌRŌ, OBSEQUOR</latin>"
+  - tossup:
+      question: "What foreign ruler’s bribes did the tribune C. Memmius accuse many senators of taking in 111 B. C.?"
+      answer: "JUGURTHA’S"
+    boni:
+      - question: "Of what kingdom was Jugurtha ruthlessly trying to gain control?"
+        answer: "NUMIDIA"
+      - question: "Name the consul of 107 B"
+        answer: "C."
+      - question: "who won the war against Jugurtha?"
+        answer: "(C.) MARIUS"
+  - tossup:
+      question: "What use of the dative case is illustrated in this sentence: <latin>Mihi nōmen est Scipi</latin><latin>ō</latin>"
+      answer: "POSSESSION"
+    boni:
+      - question: "in this sentence: <latin>Fīlius patrī</latin> <latin>est similis</latin>"
+        answer: "WITH CERTAIN / SPECIAL ADJECTIVES (SIMILIS)"
+      - question: "in this sentence: <latin>Poēta amīcō</latin> <latin>librum dedit</latin>"
+        answer: "INDIRECT OBJECT"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Fortūna favet fortibus”.</latin>  <latin>Quae pars ōrātiōnis est “fortibus”?</latin>"
+      answer: "NŌMEN"
+    boni:
+      - question: "“Fortibus”, quō <latin>cāsū</latin> <latin>est?</latin>"
+        answer: "(CASŪ) DATĪVŌ"
+      - question: "<latin>“Fortibus”, cuius numerī</latin> <latin>est?</latin>"
+        answer: "PLŪRĀLIS"
+  - tossup:
+      question: "Please open your visual and study it for 5 seconds. What is the name for the type of gladiator shown in illustration “E”?"
+      answer: "THRACIAN / <latin>THRAX</latin>"
+    boni:
+      - question: " What is the Latin name for the type of gladiator shown in illustration “C”?"
+        answer: "<latin>RETIARIUS</latin>"
+      - question: " What is the Latin name for the type of gladiator shown in illustration “B”?"
+        answer: "<latin>MURMILLO / MIRMILLO / MYRMILLO</latin>"
+  - tossup:
+      question: "Who killed Orpheus' brother Linus in a fit of rage during a music lesson?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What was Heracles' murder weapon?"
+        answer: "A LYRE / ROCK, STONE / <latin>PLECTRUM</latin>, PLUCK, PICK (<emphasis>not</emphasis> a “harp”)"
+      - question: "How was Heracles punished for this murder?"
+        answer: "(AMPHITRYON) <emphasis>SENT</emphasis> (HIM) TO A <emphasis>CATTLE FARM</emphasis> (IN THE COUNTRY)"
+  - tossup:
+      question: "Change the verb <latin>dūcō</latin> to the imperative plural"
+      answer: "<latin>DŪCITE</latin>"
+    boni:
+      - question: "Change <latin>dūcite</latin> to the singular"
+        answer: "<latin>DŪC</latin>"
+      - question: "Give two other examples of Latin imperative singulars that do NOT end in a vowel"
+        answer: "<latin>FAC</latin>, <latin>ES</latin>, <latin>DĪC</latin>, <latin>FER</latin>"
+  - tossup:
+      question: "Who presided over the trial of Orestes for the murder of his mother?"
+      answer: "ATHENA"
+    boni:
+      - question: "Where in Athens was that trial conducted?"
+        answer: "AREOPAGUS"
+      - question: "Since the Furies continued to pursue Orestes, what object did Apollo instruct him to bring to Athens in order to regain his sanity?"
+        answer: "A (WOODEN) STATUE OF ARTEMIA (IN TAURIS)"
+  - tossup:
+      question: "What was the Latin name of the oldest and most famous street in Rome?"
+      answer: "<latin>VIA SACRA</latin> / <latin>SACRA VIA</latin>"
+    boni:
+      - question: " What arch did the Via Sacra pass through on the eastern end of the Forum Romanum?"
+        answer: "ARCH OF TITUS / <latin>FORNĪX FABIANUS</latin> / GATEWAY OF FABIAN"
+      - question: "Where did the Via Sacra end on the western end of the Forum Romanum?"
+        answer: "AT THE FOOT OF THE CAPITOLINE HILL / ARCH OF SEPTIMIUS SEVERUS / AT THE TEMPLE OF SATURN / VESPASIAN / CONCORD AT THE CLIVUS CAPITOLINUS /"
+  - tossup:
+      question: "Using the noun <latin>homō</latin>, give the dative plural of “ many people.”"
+      answer: "<latin>MULTĪS / COMPLŪRIBUS HOMINIBUS</latin>"
+    boni:
+      - question: " Give the accusative singular of “a marvelous sword.”"
+        answer: "<latin>GLADIUM</latin> / <latin>ĒNSEM MĪRĀBILEM / MĪRUM</latin>"
+      - question: " Change <latin>gladium mīrābilem</latin> to the nominative plural"
+        answer: "<latin>GLADIĪ</latin> <latin>MĪRĀBILĒS</latin>"
+  - tossup:
+      question: "Which of the following nouns does NOT belong because of gender: <latin>ōvum</latin>, <latin>occāsiō</latin>, <latin>auris</latin>, <latin>ornātrīx</latin>, <latin>officīna</latin>?"
+      answer: "<latin>ŌVUM</latin>"
+    boni:
+      - question: ". . . <latin>animal</latin>, <latin>silentium</latin>, <latin>signum</latin>, <latin>leō</latin>, <latin>ōpus</latin>?"
+        answer: "<latin>LEŌ</latin>"
+      - question: "<latin>puer</latin>, <latin>cōr</latin>, <latin>victor</latin>, <latin>timor</latin>, <latin>terror</latin>?"
+        answer: "<latin>CŌR</latin>"
+  - tossup:
+      question: "Which of the following did NOT sail on the Argo: Jason, Orpheus, Castor, Theseus, Perseus, or Pollux?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who were the winged Argonauts?"
+        answer: "ZETES AND CALAIS"
+      - question: "Why did Jason decline to take Atalanta as an Argonaut?"
+        answer: "HE THOUGHT THERE WOULD BE TOO MUCH DISSENSION ALREADY WITHOUT A WOMAN ON BOARD"
+  - tossup:
+      question: "What 47 year old future emperor did the fifteen year old Messalina marry?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "Name the two children of Claudius and Messalina"
+        answer: "BRITANNICUS"
+      - question: "and OCTAVIA Why was Messalina executed in A"
+        answer: "D."
+      - question: "48?"
+        answer: "TREASON (PLOTTED WITH LOVER C. SILIUS TO SEIZE THRONE)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Mīles pauper mūlum dūcēbat. Mūlus aurum portābat quod ad Alexandrum Magnum missum erat. Mūlus aurum gravissimum diū</latin> <latin>portābat, sed fessus prōcēdere nōn poterat. Tum mīles ipse aurum portāre incēpit. Alexander, quī</latin> <latin>tōtam rem vīderat, dīxit, “Temptā, mī</latin> <latin>amīce, tuam domum aurum portāre quod omne tibi d</latin><latin>ō.”</latin>  What was being transported for Alexander the Great?"
+      answer: "GOLD"
+    boni:
+      - question: "Why did the soldier start carrying the gold?"
+        answer: "THE MULE WAS TIRED"
+      - question: "What eventually happens to the gold after the poor soldier begins to carry it?"
+        answer: "ALEXANDER (SEES THE EVENT) AND <emphasis>GIVES THE SOLDIER THE GOLD</emphasis>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2003
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "In Vergil’s <title>Aeneid</title>, what valiant prince kills Rhoetus and Halaesus before falling to the sword of Turnus?"
+      answer: "PALLAS"
+    boni:
+      - question: "What item did Turnus take from the body of Pallas, much to his regret?"
+        answer: "A BELT"
+      - question: "Who was the father of Pallas?"
+        answer: "EVANDER"
+  - tossup:
+      question: "What group of Romans possessed <latin>sacrosancta potestās</latin>?"
+      answer: "TRIBUNES OF THE PLEBS"
+    boni:
+      - question: "What tribune forbade another tribune to intervene against the annual resolution of the Senate by which provinces were selected for the consuls?"
+        answer: "GAIUS GRACCHUS"
+      - question: "What did Romans mean by the phrase <latin>mōs māiōrum</latin>?"
+        answer: "ANCESTRAL CUSTOM/ FAMILY TRADITION / STATUS QUO (If just “customs” is given as an answer, prompt for more information)"
+  - tossup:
+      question: "Of the words <latin>plūma, mendācium, mentum, fulgur</latin>, and <latin>olla</latin>, which is described in the following Latin sentence? <latin>Tibi cavendum est cum hoc orītur in caelō</latin>"
+      answer: "FULGUR"
+    boni:
+      - question: ". . . <latin>Est pars faciēī īma</latin>"
+        answer: "MENTUM"
+      - question: ". . . <latin>Hoc receptāculum potest invenīrī</latin> <latin>in columbariīs</latin>"
+        answer: "<latin>ŌLLA</latin>"
+  - tossup:
+      question: "What Roman author states that he borrowed the meters and inspiration from the Greek poet Archilochus, but that the contents of his <title>Epodes</title> are original?"
+      answer: "(Q.) HORATIUS (FLACCUS) / HORACE"
+    boni:
+      - question: "What Latin title does Horace use to refer to the <title>Epodes</title>?"
+        answer: "<title><latin>IAMB</latin></title>Ī"
+      - question: "Whom does Horace address in the introductory poem of his <title>Epodes</title>?"
+        answer: "MAECENAS"
+  - tossup:
+      question: "Which of the following nouns, if any, is NOT of the same gender as the others? <latin>tībīcen, agmen, tūs, scelus</latin>?"
+      answer: "<latin>TĪBĪCEN</latin>"
+    boni:
+      - question: "Which of the following nouns, if any, is NOT of the same gender as the others? <latin>tūber, holus, diāria, pulvīnar, ver</latin>?"
+        answer: "ALL ARE NEUTER"
+      - question: "What is the gender of the following nouns: <latin>pugiō, ūniō, papiliō, homunciō</latin>?"
+        answer: "MASCULINE"
+  - tossup:
+      question: "Using a supine, say in Latin \"He is younger than I.\""
+      answer: "(<latin>ILLE/ IS/ HIC) EST MINOR NĀTŪ</latin> <latin>MĒ/ QUAM EGO</latin>"
+    boni:
+      - question: "<latin>Minor nātū</latin> is an idiom. Translate that phrase literally?"
+        answer: "SMALLER/LESS(ER) BY BIRTH"
+      - question: "What use of the ablative is seen in that supine?"
+        answer: "RESPECT/ SPECIFICATION"
+  - tossup:
+      question: "What conjunction would be required to introduce the dependent subjunctive clause in the following sentence in Latin? \"Do you doubt that this is an easy question?\""
+      answer: "<latin>QUĪN</latin>"
+    boni:
+      - question: "... \"I am making an effort to do better.\""
+        answer: "<latin>QUŌ</latin>"
+      - question: "\"We must prevent ourselves from making a mistake.\""
+        answer: "<latin>NĒ/ QUŌMINUS</latin>"
+  - tossup:
+      question: "Who expresses his intentions to narrate the years of Domitian’s tyranny in one of the early chapters of his <title><latin>Dē</latin></title> <title><latin>Vītā</latin></title> <title><latin>Iūliī</latin></title> <title><latin>Agricolae</latin></title>?"
+      answer: "(P. / C. CORNELIUS) TACITUS"
+    boni:
+      - question: "In which of Tacitus’ works do we find his famous judgment about Galba, “In the judgment of all worthy to rule, if only he had not ruled.”?"
+        answer: "<title><latin>HISTORIAE</latin></title> / <title>HISTORIES</title>"
+      - question: "Intending for his work to be a continuation of Livy’s <title><latin>Ab Urbe Condit</latin></title>ā, Tacitus starts his <title><latin>Annālēs</latin></title> with events from the death of what emperor?"
+        answer: "AUGUSTUS’"
+  - tossup:
+      question: "What husband and wife in mythology named their only daughter Gorgophone in honor of the husband’s bravery?"
+      answer: "PERSEUS & ANDROMEDA"
+    boni:
+      - question: "To whom did Perseus give the Gorgon’s head?"
+        answer: "ATHENA / MINERVA"
+      - question: "To whom had Andromeda been engaged before she married Perseus?"
+        answer: "(HER UNCLE) PHINEUS"
+  - tossup:
+      question: "Give a one-word Latin antonym for the adverb <latin>sērō</latin>"
+      answer: "<latin>MĀNE / DILŪCULŌ / (PRAE)MĀTŪRĒ / CITŌ / TEMPESTĪVĒ / TEMPERĪ / TEMPORĪ</latin> (not “tempore”)"
+    boni:
+      - question: "... for the adjective <latin>armātus</latin>."
+        answer: "<latin>INERMIS/ INERMUS/ NŪDUS</latin>"
+      - question: "... for the noun <latin>sēgnitia</latin>"
+        answer: "<latin>STUDIUM</latin> / <latin>RAPIDITAS</latin> / <latin>CELERITĀS</latin> / <latin>NEGOTIUM</latin> / <latin>LABOR</latin> / <latin>INDUSTRIA</latin> / <latin>DĪLIGENTIA</latin>"
+  - tossup:
+      question: "What woman, the daughter of Theodosius I, was first married to a Visigothic chieftain named Athaulf, then later to Constantius?"
+      answer: "(GALLA) PLACIDIA"
+    boni:
+      - question: "What emperor was the son of Placidia and Constantius?"
+        answer: "VALENTINIAN III"
+      - question: "Although she died in Rome, where was Placidia buried?"
+        answer: "RAVENNA"
+  - tossup:
+      question: "Who scorned and derided Roman annals written in Greek and ventured into writing the first Roman historiography in Latin?"
+      answer: "(M. PORCIUS) CATO THE ELDER / CENSOR"
+    boni:
+      - question: "What is the Latin title of this work?"
+        answer: "<title><latin>ORIGINĒS</latin></title>"
+      - question: "In addition to being a collection of general precepts on how the landowners should behave, what is the literary significance of Cato’s <title><latin>Dē</latin></title> <title><latin>Agrī</latin></title> <title><latin>Cultūr</latin></title>ā?"
+        answer: "EARLIEST LATIN PROSE PRESERVED IN ITS ENTIRETY"
+  - tossup:
+      question: "What kind of dependent subjunctive clause can be seen in following line of Cicero's <title><latin>Prō</latin></title> <title><latin>Caeli</latin></title>ō: \"<latin>Sī</latin> <latin>quis, iūdicēs, forte nunc adsit ignārus lēgum, iūdiciōrum,</latin>  <latin>consuētūdinis nostrae, mīrētur profectō, quae sit tanta atrōcitās huiusce causae”</latin>?"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "What kind of conditional clause is found in that quotation?"
+        answer: "FUTURE LESS VIVID / \"SHOULD-WOULD\" CONDITION"
+      - question: "Translate the Latin word <latin>quis</latin> into English for that quotation?"
+        answer: "ANYONE / ANYBODY"
+  - tossup:
+      question: "Which third century emperor, after a brief and unsuccessful attempt to rule jointly with his imperial colleague, murdered this rival and brother?"
+      answer: "CARACALLA / MARCUS AURELIUS ANTONINUS"
+    boni:
+      - question: "What was the major effect of Caracalla’s edict in A.D. 212 known as the <title><latin>Constitūtiō</latin></title> <title><latin>Antōniniāna</latin></title>?"
+        answer: "ROMAN <emphasis>CITIZENSHIP</emphasis> WAS OFFICIALLY GIVEN TO <emphasis>ALL FREE MEN</emphasis> IN THE EMPIRE"
+      - question: "Which Parthian king refused Caracalla’s diplomatic proposal of marriage to his daughter in A.D. 216?"
+        answer: "ARTABANUS (V)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it. <latin>Tantus est innātus in nōbīs amor scientiae, ut nēmō</latin> <latin>dubitāre possit, quin nātūra hominum rapiātur ad eam rem. Nōnne vidēmus ut puerī</latin> <latin>nē</latin> <latin>verberibus quidem ā</latin> <latin>contemplandīs rēbus dēterreantur?</latin>  <latin>Quid habēmus in nōbīs innātum?</latin>"
+      answer: "(TANTUM) AMŌREM SCIENTIAE"
+    boni:
+      - question: "<latin>Ad quam rem nostra nātūra rapitur?</latin>"
+        answer: "<latin>(AD) SCIENTIAM</latin>"
+      - question: "<latin>Quid nōn dēterret puerōs ā rēbus contemplandīs?</latin>"
+        answer: "<latin>VERBERA / VERBER</latin>"
+  - tossup:
+      question: "In which of these pictures can the son of Oileus be seen?"
+      answer: "B"
+    boni:
+      - question: "In which picture can Orytheia be seen?"
+        answer: "A"
+      - question: "In which picture can the sons of Nyx be seen?"
+        answer: "C"
+  - tossup:
+      question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid,</title> which I will read in prose? <latin>“Heu, miserande puer, sī</latin> <latin>quā</latin> <latin>fāta aspera rumpās,</latin>  <latin>tū</latin> <latin>Mārcellus eris.”</latin>"
+      answer: "ANCHISES"
+    boni:
+      - question: ": <latin>“. . . facilis dēscēnsus Avernō:</latin>  <latin>noctēs atque diēs patet ātrī</latin> <latin>iānua Dītis.</latin>”"
+        answer: "SIBYL (OF CUMAE)"
+      - question: ": <latin>“Hunc ego Dītī</latin> <latin>sacrum iussa ferō</latin> <latin>tēque istō</latin> <latin>corpore solv</latin><latin>ō.</latin>”"
+        answer: "IRIS"
+  - tossup:
+      question: "Whom did Eurytus of Oechalia promise as a prize to the person who could beat him in an archery contest?"
+      answer: "(HIS DAUGHTER) IOLE"
+    boni:
+      - question: "Who won this prize, which Eurytus refused to honor?"
+        answer: "HERACLES / HERCULES"
+      - question: "What brother of Iole died when he was thrown from the walls of Tiryns by Heracles?"
+        answer: "IPHITUS"
+  - tossup:
+      question: "What woman gained a supporter for the Carthaginian cause by marrying Syphax in 204 B.C?"
+      answer: "SOPHONISBA"
+    boni:
+      - question: "Who overthrew Syphax in 203 B.C.?"
+        answer: "MASINISSA (AND LAELIUS)"
+      - question: "How did Sophonisba die?"
+        answer: "BY POISON (SENT BY MASINISSA)"
+  - tossup:
+      question: "Which of the following words, if any, is NOT derived from the same Latin root as the others? joist, joint, injunction, rejoinder, conjugate?"
+      answer: "JOIST"
+    boni:
+      - question: "What verb, with what meaning, is the root of “joist”?"
+        answer: "<latin>IACEŌ / IACĒRE</latin>, TO LIE / RECLINE"
+      - question: "What derivative of the root of the other four words means “a Spanish or Latin American assembly or faction”?"
+        answer: "JUNTA / JUNTO"

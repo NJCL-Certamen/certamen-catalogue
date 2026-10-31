@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2017
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What literary device other than assonance, consonance, and alliteration can be found in the following lines adapted from Vergil’s <title>Aeneid</title>? <latin>Semper nōmen tuum et laudēs manēbunt,/ quae mē cumque vocant terrae.</latin> (Book I.609-610)"
+      answer: "TMESIS"
+    boni:
+      - question: "What literary device other than assonance, consonance, and alliteration can be found in the following line from Vergil’s <title>Aeneid</title>? <latin>cum mihi sē, nōn ante oculīs tam clāra, videndam obtulit et pūrā per noctem in lūce refulsit alma parēns</latin>. (Book II.589-590)"
+        answer: "HYPERBATON"
+      - question: "What two literary devices other than assonance, consonance, and alliteration can be found in the following line from Vergil’s <title>Aeneid</title>? <latin>Nōn Simoīs tibi nec Xanthus nec Dōrica castra/ dēfuerint</latin>? (Book VI.88-89)"
+        answer: "ANAPHORA, TRICOLON (CRESCENS)"
+  - tossup:
+      question: "What elderly man was appointed emperor against his will by the Senate in 275 AD following the death of Aurelian?"
+      answer: "(M. CLAUDIUS) TACITUS"
+    boni:
+      - question: "In 276 AD, what half-brother of Tacitus proclaimed himself emperor after the troops mutinied against Tacitus?"
+        answer: "(M. ANNIUS) FLORIANUS"
+      - question: "Florianus was quickly cast aside in that very year when troops in the East declared what former lieutenant of Aurelian as the next emperor?"
+        answer: "(M. AURELIUS) PROBUS"
+  - tossup:
+      question: "Who was transformed into a diver-bird after he accidentally caused the death of Hesperia by pursuing her through the woods until she was bitten by a snake?"
+      answer: "AESACUS"
+    boni:
+      - question: "Who transformed Aesacus into a diver-bird when he attempted suicide?"
+        answer: "TETHYS"
+      - question: "What river god was Hesperia’s father?"
+        answer: "CEBREN"
+  - tossup:
+      question: "Which of the following nouns, if any, does not belong because of gender: <latin>animal, acer, rōbur, tribūnal, compitum.</latin>"
+      answer: "THEY ALL BELONG / ARE NEUTER"
+    boni:
+      - question: "Which of the following words, if any, does not belong because of gender: <latin>tībīcen, mōs, mūnus, pugiō.</latin>"
+        answer: "<latin>MŪNUS</latin>"
+      - question: "Which of the following words, if any, does not belong because of gender: <latin>vās, pūgiō, cucumis, cardō.</latin>"
+        answer: "<latin>VĀS</latin>"
+  - tossup:
+      question: "Give the comparative for the phrase <latin>ille idōneus lepus.</latin>"
+      answer: "<latin>ILLE MAGIS IDŌNEUS LEPUS</latin>"
+    boni:
+      - question: "Make that phrase Genitive singular."
+        answer: "<latin>ILLĪUS MAGIS IDŌNEĪ LEPORIS</latin>"
+      - question: "Give the corresponding form of <latin>hic vafer ariēs.</latin>"
+        answer: "<latin>HUIUS VAFRIŌRIS ARIĒTIS</latin>"
+  - tossup:
+      question: "\"Hoosegow,\" a slang term for \"jail\" as well as the word “injustice” are derived from what Latin noun with what meaning?"
+      answer: "<latin>IŪS</latin> – LAW / RIGHT"
+    boni:
+      - question: "What Latin noun lies at the root of the Spanish-English noun \"hidalgo,\" meaning \"one of lower nobility\"?"
+        answer: "<latin>FĪLIUS</latin>"
+      - question: "What Latin pronoun also lies at the root of “hidalgo”?"
+        answer: "(<latin>ALI</latin>)<latin>QUIS</latin>"
+  - tossup:
+      question: "What father of a future triumvir was invested with a special proconsular <latin>imperium īnfīnītum</latin> to deal with the pirates?"
+      answer: "(MARCUS) ANTONIUS CRETICUS"
+    boni:
+      - question: "After the failure of Antonius Creticus, what tribune conferred supreme command against the  \tpirates on Pompey in 67 BC?"
+        answer: "(AULUS) GABINIUS"
+      - question: "What ex-consul, an enemy of Pompey, had defeated the pirates on Crete and subdued the entire island into a Roman province?"
+        answer: "(QUINTUS CAECILIUS) METELLUS CRETICUS"
+  - tossup:
+      question: "What Silver Age poet, the son of a professional poet in the Greek festival circuit and later a school teacher, demonstrated the privilege of having a parent go before him in a profession through his versatile use of meter and deep allusions in his epics like the <title>Thebaid</title> and <title>Silvae</title>?"
+      answer: "(P. PAPINIUS) STATIUS"
+    boni:
+      - question: "What other anticipated epic was meant to tell the whole life of a polarizing Greek hero, but breaks off 160 lines into the second book due to Statius’ death?"
+        answer: "<title>ACHILLEID</title>"
+      - question: "What emperor took a particular liking to Statius’ works and was his patron?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "Who impersonated Metiscus in order to give Turnus back his sword, which he had lost in a duel with Aeneas?"
+      answer: "JUTURNA"
+    boni:
+      - question: "Who were the parents of Turnus and Juturna?"
+        answer: "DAUNUS AND VENILIA"
+      - question: "From what Greek hero did Turnus claim descent?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "What author, whose name we've replaced in the passage with forms of <latin>hic vir</latin>, is Quintilian describing in this passage?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "Identify the work of Cicero that Passage 1 comes from."
+        answer: "<title><latin>CATŌ MĀIOR / DĒ SENECTŪTE</latin></title>"
+      - question: "Identify the work of Cicero that Passage 2 comes from."
+        answer: "<title><latin>DĒ DOMŌ SUĀ</latin></title>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Spērō fore ut anima certāminis semper vīvat.</latin>"
+      answer: "I HOPE THAT THE SPIRIT OF CERTAMEN / COMPETITION LIVES ON FOREVER / MAY / WILL ALWAYS LIVE"
+    boni:
+      - question: "Translate this sentence: <latin>Animōs mūtāre nequībimus nisi voluerint mūtārī.</latin>"
+        answer: "WE WILL NOT CHANGE MINDS UNLESS THEY WANT/HAVE WANTED TO BE CHANGED"
+      - question: "Finally, translate: <latin>Cum multōs diēs iter fēcissēmus, nōnnūllī inter nōs omnia ōdisse coepērunt.</latin>"
+        answer: "SINCE/WHEN WE HAD BEEN MARCHING / HAD MARCHED FOR MANY DAYS, SOME OF / AMONG US BEGAN TO HATE EVERYTHING."
+  - tossup:
+      question: "Using one word, say in Latin: one-half."
+      answer: "<latin>DĪMIDIUM / SĒMIS Also accept</latin> <emphasis><latin>dīmidius</latin></emphasis><latin>(-a-um)</latin>"
+    boni:
+      - question: "What fraction is translated into Latin as <latin>dōdrāns</latin>?"
+        answer: "Three-fourths / three quarters"
+      - question: "What fraction is translated into Latin as <latin>bēs</latin>?"
+        answer: "Two-thirds"
+  - tossup:
+      question: "Who doubled the number of equestrian centuries, added 100 members to the senate, and began draining the marsh where the Forum would eventually stand during his reign as king of Rome?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "What was the name of the 100 new senators Priscus added?"
+        answer: "(<latin>PATRĒS</latin>) <latin>MINŌRUM</latin> <latin>GENTIUM / MINŌRĒS GENTĒS</latin>"
+      - question: "Priscus divided the equestrians into how many centuries?"
+        answer: "6"
+  - tossup:
+      question: "Differentiate in meaning between the nouns <latin>līs</latin> and <latin>glis</latin>."
+      answer: "<latin>LĪS</latin> – LAWSUIT; <latin>GLIS</latin> - DORMOUSE"
+    boni:
+      - question: "Differentiate in meaning between <latin>cōs</latin> and <latin>rōs</latin>."
+        answer: "<latin>CŌS –</latin> WHETSTONE; <latin>RŌS -</latin> DEW"
+      - question: "Differentiate in meaning between <latin>tūs</latin> and <latin>sūs</latin>."
+        answer: "<latin>TŪS -</latin> (FRANK)INCENSE; <latin>SŪS -</latin> SOW/PIG/HOG/BOAR"
+  - tossup:
+      question: "The Romans had a different system of reckoning dates than we do today. Express today’s date, July 27, as the Romans would, in Latin."
+      answer: "(<latin>ANTE DIEM) SEXTUM KALENDĀS AUGUSTĀS</latin>"
+    boni:
+      - question: "Now express the traditional date without the year of the foundation of Rome as the Romans might have."
+        answer: "<latin>(ANTE DIEM) ŪNDECIMUM KALENDĀS MĀIĀS</latin> (April 21)"
+      - question: "Finally, express the date without the year of US Independence Day as the Romans might have."
+        answer: "<latin>(ANTE DIEM) QUĀRTUM NŌNĀS IŪLIĀS</latin> (July 4)"
+  - tossup:
+      question: "What daughter of Priam was swallowed up by the earth after the capture of Troy?"
+      answer: "LAODICE"
+    boni:
+      - question: "Laodice, the most beautiful of Priam’s daughters, fell in love with what Greek warrior?"
+        answer: "ACAMAS"
+      - question: "What son of Acamas and Laodice was born during the war?"
+        answer: "MUNYCHUS/ MUNITUS"
+  - tossup:
+      question: "The journey of a protagonist, his accidental transformation, and his eventual conversion to the Cult of Isis, are all featured in what ancient Roman novel?"
+      answer: "<title><latin>METAMORPHOSES</latin></title> / <title>GOLDEN ASS</title>"
+    boni:
+      - question: "Apuleius wrote the <title>Golden Ass</title> perhaps as a self-portrait for his own life as he faced accusations over involvement in witchcraft. What speech of Apuleius was a defense against the charges of magic?"
+        answer: "<title><latin>APOLOGIA / DĒ MAGĪĀ</latin></title>"
+      - question: "What work by Apuleius discusses the existence and nature of demons as the intermediaries of gods and humans, and also contains the first use of the proverb “familiarity breeds contempt”?"
+        answer: "<title><latin>DĒ DEŌ SOCRĀTIS</latin></title>"
+  - tossup:
+      question: "Considering that the <latin>Cūria</latin> is at the north end of the <latin>Forum Rōmānum</latin>, which of the following buildings in the <latin>Forum Rōmānum</latin> is farthest East: <latin>Tabulārium</latin>, <latin>Rēgia</latin>, <latin>Templum Concordiae</latin>, <latin>Basilica Iūlia</latin>?"
+      answer: "REGIA"
+    boni:
+      - question: "Which of the following buildings in the <latin>Campus Mārtius</latin> was originally farthest North: Stadium of Domitian, <latin>Āra Pācis</latin>, Mausoleum of Augustus, Pantheon?"
+        answer: "MAUSOLEUM OF AUGUSTUS"
+      - question: "Which imperial forum is farthest West?"
+        answer: "FORUM OF TRAJAN"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice; then answer the question that follows in LATIN. <latin>Cicerō ab amīcīs certior factus sē ab Antoniō prōscrīptum esse, cum ad vīllam quae haud procul ā marī erat cōnfūgisset, in nāvem cōnscendit eō consiliō ut in Macedoniam trānsīret. Sed aliquotiēs in altum ēvectus tantīs ventīs repulsus est ut ad vīllam regressus sit.</latin> \tQuestion<latin>: Quō cōnsiliō Cicerō in nāvem cōnscendit ?</latin>"
+      answer: "<latin>UT IN MACEDONIAM TRĀNSĪRET / UT (CŌN)FUGERET</latin>"
+    boni:
+      - question: "<latin>Cūr ad vīllam regressus est?</latin>"
+        answer: "<latin>(TANTĪS) VENTĪS REPULSUS EST</latin>"
+      - question: "<latin>Quid fēcērunt amīcī Cicerōnis?</latin>"
+        answer: "<latin>EUM / CICERŌNEM CERTIŌREM FĒCĒRUNT (DĒ PRŌSCRĪPTIŌNE)</latin>"
+  - tossup:
+      question: "What herdsman gave Geryon the news that Heracles had stolen his cattle?"
+      answer: "MENOETES"
+    boni:
+      - question: "Of whose cattle was Menoetes the shepherd?"
+        answer: "HADES’"
+      - question: "Who was Geryon’s herdsman, whom Heracles clubbed to death before he could deliver any news at all?"
+        answer: "EURYTION"

@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 2011
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What island in the Bay of Naples was home for eleven years to the emperor Tiberius?"
+      answer: "<latin>CAPREAE</latin> / CAPRI"
+    boni:
+      - question: "What praetorian prefect encouraged Tiberius to retire to Capri and leave him in charge in Rome?"
+        answer: "(LUCIUS AELIUS) SEJANUS"
+      - question: "To what island had Tiberius retired for eight years during the reign of Augustus, after it was clear that Augustus favored his grandsons Gaius and Lucius to succeed him?"
+        answer: "RHODES"
+  - tossup:
+      question: "Make the phrase “<latin>mare lātum</latin>” genitive plural"
+      answer: "<latin>MARIUM LĀTŌRUM</latin> "
+    boni:
+      - question: "Change “<latin>marium lātōrum</latin>” to the ablative singular"
+        answer: "<latin>MARĪ LĀTŌ</latin> "
+      - question: "Now put the phrase “these broad seas” into the accusative plural"
+        answer: "<latin>HAEC MARIA LĀTA</latin> "
+  - tossup:
+      question: "Which of the following, if any, IS derived from the Latin adjective meaning “golden”? auspicious, auricular, oriole, auriform, aura"
+      answer: "ORIOLE"
+    boni:
+      - question: "From what noun with what meaning are <latin>auricular</latin> and <latin>auriform</latin> derived?"
+        answer: "<latin>AURIS</latin>, EAR"
+      - question: "The English word “<latin>aura</latin>” is also a Latin word. What does that Latin word mean?"
+        answer: "BREEZE, WIND, BREATH, VAPOR, FRAGRANCE, ATMOSPHERE, PUFF OF AIR"
+  - tossup:
+      question: "What Greek hero wrestled such characters as a river god, Death, and a giant who gained strength whenever he touched the ground?"
+      answer: "HERACLES"
+    boni:
+      - question: "Whose life did Heracles save by wrestling Death?"
+        answer: "ALCESTIS’"
+      - question: "Why did Heracles wrestle the river Achelous?"
+        answer: "FOR THE HAND OF DEIANEIRA"
+  - tossup:
+      question: "Use a participle to express the subordinate clause for the sentence, “While she was listening to the poet, Aurelia saw her friend Flavia.”"
+      answer: "<latin>AUDIĒNS POĒTAM</latin> "
+    boni:
+      - question: "Use a participle to express the subordinate clause in this sentence: After the messengers were sent, Sulla returned to the dinner party"
+        answer: "<latin>NŪNTIĪS MISSĪS</latin> "
+      - question: "Again, use a participle to express the subordinate clause in this sentence:  The hunter captured the bird that was about to fly. "
+        answer: "<latin>(AVEM) VOLĀTŪRAM</latin>"
+  - tossup:
+      question: "Who, ransomed by his sister at a young age, fathered children including Ilione, Troilus, Deiphobus, Cassandra, and Hector?"
+      answer: "PRIAM/PODARCES"
+    boni:
+      - question: "What son of Priam, who had gained the gift of prophecy when snakes licked his ears, was captured by the Greeks during the sack of Troy?"
+        answer: "HELENUS"
+      - question: "What son of Priam was murdered before the eyes of his father right before Priam’s own death at the hands of the same man?"
+        answer: "POLITES"
+  - tossup:
+      question: "Give the nominative, genitive, and gender for the Latin noun meaning “hope.”"
+      answer: "<latin>SPĒS, SPEĪ,</latin> FEMININE "
+    boni:
+      - question: "For five points each, give the nominative, genitive, and genders for two Latin nouns that mean “wall” or “fortification.”"
+        answer: "<latin>MŪRUS, MŪRĪ,</latin> MASCULINE <latin>VALLUM, VALLĪ,</latin> NEUTER <latin>MOENIA, MOENIUM,</latin> NEUTER <latin>PARIĒS, PARIETIS,</latin> MASCULINE <latin>MUNITIŌ, MUNITIŌNIS,</latin> FEMININE  <latin>MUNĪMENTUM, MUNĪMENTĪ,</latin> NEUTER "
+  - tossup:
+      question: "What Arvernian chieftain, still considered a national hero in France, led a revolt in Gaul against Caesar that culminated in Caesar’s sack of Alesia?"
+      answer: "VERCINGETORIX"
+    boni:
+      - question: "In what year did Caesar sack Alesia?"
+        answer: "52 B.C."
+      - question: "What Roman politician had been murdered on the Appian Way that same year?"
+        answer: "(PUBLIUS) CLODIUS"
+  - tossup:
+      question: "What is the meaning of the well-known Latin phrase “<latin>dē gustibus nōn disputandum</latin>”? "
+      answer: "YOU SHOULD NOT / ONE OUGHT NOT ARGUE ABOUT TASTE"
+    boni:
+      - question: "What Latin phrase encourages a person to exercise both mind and body?"
+        answer: "<latin>MĒNS SĀNA IN</latin> CORPORE <latin>SĀNŌ</latin> or ANIMUS /-<latin>A SĀNUS /-A IN</latin> CORPORE <latin>SĀNŌ</latin> "
+      - question: "What Latin phrase indicates that something is indispensable?"
+        answer: "<latin>SINE QUĀ NŌN</latin> "
+  - tossup:
+      question: "What do all of the following prepositions have in common? <latin>Circiter</latin>, <latin>iūxtā</latin>, <latin>ob</latin>, <latin>ante</latin>"
+      answer: "THEY ALL TAKE / ARE FOLLOWED BY THE ACCUSATIVE CASE"
+    boni:
+      - question: "Which of the following prepositions is NOT used with the accusative? <latin>Praeter</latin>, <latin>prope</latin>, <latin>prae</latin>, <latin>propter</latin>, <latin>post</latin>"
+        answer: "<latin>PRAE</latin> "
+      - question: "What is the meaning of the preposition <latin>ergā</latin>?"
+        answer: "TOWARDS"
+  - tossup:
+      question: "What was the distinction between <latin>arma</latin> and <latin>tēla</latin> in the weapons carried by Roman soldiers?"
+      answer: "<latin>ARMA</latin> WERE DEFENSIVE WEAPONS; <latin>TĒLA</latin> WERE THE OFFENSIVE WEAPONS"
+    boni:
+      - question: "(PASS OUT THE VISUAL) What is the Latin word for the military defense system seen in picture A?"
+        answer: "<latin>TESTŪDŌ</latin>"
+      - question: "What is the Latin word for the military offense system seen in picture B?"
+        answer: "<latin>ARIĒS</latin>"
+  - tossup:
+      question: "Translate into Latin: The swords have been carried to the commander by the prisoners"
+      answer: "<latin>GLADIĪ / ĒNSĒS PORTĀTĪ / LĀTĪ SUNT AD</latin>  <latin>IMPERĀTŌREM / DUCEM Ā CAPTĪVĪS</latin> "
+    boni:
+      - question: "What case and use is <latin>captīvīs</latin>?"
+        answer: "ABLATIVE OF (PERSONAL) AGENT "
+      - question: "Keeping the meaning the same, change that Latin sentence to the active voice. "
+        answer: "<latin>CAPTĪVĪ GLADIŌS / ĒNSĒS AD IMPERĀTŌREM / DUCEM PORTĀVĒRUNT / TULĒRUNT</latin>"
+  - tossup:
+      question: "What is the Latin verb at the ultimate root of “constant”?"
+      answer: "<latin>STŌ</latin> "
+    boni:
+      - question: "What English verb, a derivative of <latin>stō</latin>, means “to cease or stop”?"
+        answer: "DESIST / ARREST / REST / STAY"
+      - question: "What English derivative of <latin>stō</latin> means “expensive”?"
+        answer: "COSTLY"
+  - tossup:
+      question: "Because he threatened the succession of her son Medus to the throne of Athens, whom did Medea attempt to poison as he dined with his father Aegeus?"
+      answer: "THESEUS"
+    boni:
+      - question: "Aegeus had not yet recognized his son. What item proved Theseus’ identity just in time to save him from the poisoned glass?"
+        answer: "SWORD (which Aegeus had left for Theseus in Troezen) (Do NOT accept “sandals” as answer)"
+      - question: "Before this banquet, Medea had convinced Aegeus to send Theseus to capture what animal?"
+        answer: "MARATHONIAN/CRETAN BULL"
+  - tossup:
+      question: "<latin>Quālem iuvenem tumulus continet?</latin>"
+      answer: "<latin>ĒGREGIUM / HONESTUM / EXTĪNCTUM / MORTUUM / ŌRĀTŌREM</latin>  "
+    boni:
+      - question: "<latin>Dīc</latin> mihi <latin>nōmen</latin> iuvenis cuius corpus <latin>in tumulō</latin> positum est."
+        answer: "<latin>HELVIDIUS</latin>  "
+      - question: "<latin>Quō modō Helvidius causās agēbat?</latin>"
+        answer: "<latin>HONESTĒ / BENE</latin> "
+  - tossup:
+      question: "Where in the Underworld would you find Anchises, Menelaus, and the other blessed dead?"
+      answer: "ELYSIUM / ELYSIAN FIELDS / CHAMPS D’ÉLYSÉES / ISLES OF THE BLESSED"
+    boni:
+      - question: "Where in the Underworld would you see villains like Tityus, Ixion, and Tantalus?"
+        answer: "TARTARUS"
+      - question: "In the <title>Odyssey</title>, what river, who is also a Titan, does Odysseus have to cross to get to the Underworld?"
+        answer: "OCEAN(US)"
+  - tossup:
+      question: "What feuding brothers could not manage to rule the empire jointly, which resulted in the death of one of these sons of Septimius Severus at the order of the other?"
+      answer: "(MARCUS AURELIUS ANTONINUS) CARACALLA and (LUCIUS SEPTIMIUS) GETA"
+    boni:
+      - question: "Give the Latin term for the punishment enacted by Caracalla upon the memory of Geta"
+        answer: "<latin>DAMNĀTIŌ MEMORIAE</latin>"
+      - question: "On what monument in the <latin>Forum Rōmānum</latin> were the words “<latin>et Publiō Septimiō Luciī fīliī Getae</latin>” replaced with the words “<latin>optimīs fortissimīsque prīncipibus</latin>” to blot out the memory of Geta?"
+        answer: "ARCH OF SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "What girl was sent to a mountaintop by her father at the behest of the oracle of Apollo in order to marry an evil spirit, but ended up marrying the god of love instead?"
+      answer: "PSYCHE"
+    boni:
+      - question: "Who told Psyche that she had probably married a terrible serpent and that she should ignore her husband’s commands and light a lamp to see him while he slept?"
+        answer: "HER (TWO) SISTERS"
+      - question: "When Psyche followed this advice, what woke the sleeping Cupid?"
+        answer: "DROP OF OIL FROM HER LAMP"
+  - tossup:
+      question: "What king of Rome was born to the slave woman Ocrisia, who was a servant in the house of Tarquinius Priscus?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "What sign showed that Servius was destined for great things, causing Tarquinius to raise him as his own son?"
+        answer: "A <emphasis>FIRE</emphasis> STARTED AROUND <emphasis>HIS HEAD</emphasis> WHILE HE WAS SLEEPING BUT <emphasis>DID NOT BURN/HARM HIM</emphasis> "
+      - question: "Who interpreted this sign?"
+        answer: "(QUEEN) TANAQUIL"
+  - tossup:
+      question: "Give the present passive infinitive of the verb <latin>iubeō</latin>"
+      answer: "<latin>IUBĒRĪ</latin> "
+    boni:
+      - question: "Change <latin>iubērī</latin> to the perfect active infinitive, and translate that form"
+        answer: "<latin>IUSSISSE,</latin> TO HAVE ORDERED "
+      - question: "Now change <latin>iussisse</latin> to the future active infinitive"
+        answer: "<latin>IUSSŪRUS /-UM ESSE</latin> (take any form of “<latin>iussūrus</latin>”) <latin>2011 NJCL CERTAMEN INTERMEDIATE DIVISION</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What 1st century BC grammarian, considered a member of the neo-Pythagorean school of philosophy,  is thought to have received his <latin>cognōmen</latin> from a comment he made about the world turning on its  axis as if on a potter’s wheel?"
+      answer: "(PUBLIUS) NIGIDIUS FIGULUS"
+    boni:
+      - question: "What is the title of Nigidius’ work on grammar?"
+        answer: "<title><latin>COMMENTĀRIĪ GRAMMATICĪ</latin></title>"
+      - question: "In addition to being a philosopher and grammarian, Nigidius was active in politics in the years prior  to the fall of the Republic. To what other powerful individual from this period was Nigidius  opposed?"
+        answer: "JULIUS CAESAR"
+  - tossup:
+      question: "In Book II of the <title>Aeneid</title>, the ghost of Hector appears to Aeneas described as, “<latin>exuviās indūtus  Achillī</latin>.” In that description, “<latin>exuviās</latin>” is an example of what use of the accusative case?"
+      answer: "RESPECT / SPECIFICATION / GREEK / SYNECDOCHICAL"
+    boni:
+      - question: "In Book I of the <title>Aeneid</title>, Venus comments to Aeneas, “<latin>haud equidem tālī mē dignor honōre</latin>.” In  that excerpt, “<latin>honōre</latin>” is an example of what use of the ablative case?"
+        answer: "RESPECT / SPECIFICATION / SPECIAL VERBS"
+      - question: "In the Latin sentence <latin>plērīque īnfantēs id aetātis ambulāre discunt</latin>, explain the case and use of <latin>id</latin>."
+        answer: "ADVERBIAL ACCUSATIVE"
+  - tossup:
+      question: "When a dragon began to ravage the Boeotian city of Thespiae, what Thespian youth offered himself  as a sacrifice in place of his lover?"
+      answer: "MENESTRATUS"
+    boni:
+      - question: "Who was the lover of Menestratus, originally chosen by lot to be sacrificed to the dragon?"
+        answer: "CLEOSTRATUS"
+      - question: "How did Menestratus end the sacrifice?"
+        answer: "HE DRESSED IN ARMOR COVERED WITH SPIKES (AND OFFERED HIMSELF TO THE  DRAGON, WHO REFUSED)"
+  - tossup:
+      question: "What was the free-standing ornamental façade and nymphaeum that blocked the view of the <latin>Via  Appia</latin>, spanning the southeast corner of the Palatine hill, and was dedicated in 203 AD by  Septimius Severus?"
+      answer: ""
+    boni:
+      - question: "The <latin>Septizodium</latin> appeared on what plan showing the city of Rome after 203 AD at a scale of roughly  1:240, engraved on 151 slabs of marble?"
+        answer: "<latin>FORMA URBIS</latin>"
+      - question: "The <latin>Forma Urbis</latin> decorated the walls of what temple?"
+        answer: "TEMPLE OF PEACE"
+  - tossup:
+      question: "What term refers to nouns such as <latin>forās</latin> and <latin>dicam</latin> where they have forms in two cases only?"
+      answer: "DIPTOTES"
+    boni:
+      - question: "What term refers to nouns such as <latin>lepus</latin> and <latin>vulpēs</latin> where they have a grammatical gender  independent of sex?"
+        answer: "EPICENE"
+      - question: "What Latin term refers to nouns that are commonly or exclusively found in the plural?"
+        answer: "<latin>PLŪRĀLIA TANTUM</latin>"
+  - tossup:
+      question: "Translate the following sentence into Latin: “Winning is of great importance to me.”"
+      answer: "<latin>MAGNĪ INTEREST MEĀ VINCERE</latin>"
+    boni:
+      - question: "Translate the following sentence into Latin: “It is in everyone’s interest to defend the citadel.”"
+        answer: "<latin>INTEREST OMNIUM ARCEM DEFENDERE</latin>"
+      - question: "Translate the following sentence into Latin: “Caesar wanted to invade Britain because he thought it  was worthwhile."
+        answer: "<latin>CAESAR VOLUIT / VOLĒBAT INVĀDERE BRITTANIAM, QUOD / QUIA / QUONIAM PUTĀVIT (ID) TANTĪ ESSE</latin>"
+  - tossup:
+      question: "What freedman rose to the powerful rank of palace chamberlain after Publius Taruttenius Paternus  and Sextus Tigidius Perennis conspired with him to murder the previous chamberlain Saoterus in  the early years of the reign of Commodus?"
+      answer: "(M. AURELIUS) CLEANDER"
+    boni:
+      - question: "What key position did Perennis hold until 185 AD when Cleander executed him on a charge of  treason and subsumed the position for himself?"
+        answer: "PRAETORIAN PREFECT"
+      - question: "What Praetorian prefect would later conspire with subsequent palace chamberlain Eclectus to finally  achieve the murder of the Commodus?"
+        answer: "(Q. AEMILIUS) LAETUS"
+  - tossup:
+      question: "What writer, considered a creator of Christian lyric poetry, was born in Spain in 348 AD and wrote an  apologetic work titled <title>Contrā Symmachum</title> in addition to his lyric works?"
+      answer: "(AURELIUS) PRUDENTIUS (CLEMENS)"
+    boni:
+      - question: "The <title>Contrā Symmachum</title> revives a dispute between Christians and pagans concerning the removal of  the Altar of Victory. What Church father, famous for his hymns and sermons, was instrumental in  the original debate and removal of this altar?"
+        answer: "(ST.) AMBROSE / AMBROSIUS"
+      - question: "What scholar, a contemporary of Ambrose, wrote a Latin translation of the Bible?"
+        answer: "JEROME (SOPHRONIUS EUSEBIUS HIERONYMUS)"
+  - tossup:
+      question: "Listen to the following sentences, which I shall read twice, then answer the question that follows in  English:  <latin>Hoc prīmum philosophia prōmittit, sēnsum commūnem, hūmānitātem et congregātiōnem.  Ā quā professiōne dissimilitūdō nōs sēparābit. Videāmus nē ista, per quae admīrātiōnem  petere volumus, rīdicula et odiōsa sint.</latin> (repeat)  The question: What should be avoided in a quest for admiration?"
+      answer: "RIDICULOUS & HATEFUL THINGS  The passage continues: <latin>Nempe prōpositum nostrum est secundum nātūram vīvere; hoc contrā  nātūram est, torquēre corpus suum et facilēs ōdisse munditiās et squālōrem adpetere et cibīs  nōn tantum vīlibus ūtī sed taetrīs et horridīs.</latin>"
+    boni:
+      - question: "According to the passage, what must our intention be?"
+        answer: "TO LIVE ACCORDING TO NATURE"
+      - question: "Name two things that are contrary to nature according to the passage."
+        answer: "ANY TWO OF: TO DISTORT / TORTURE YOUR BODY,   TO HATE EASY ELEGANCE(S) / MANNERS,   TO SEEK OUT SQUALOR,   TO USE CHEAP / FOUL FOOD"
+  - tossup:
+      question: "What <emphasis><latin>two</latin></emphasis> men, responsible for killing Phlegyas, king of Orchomenus, were granted citizenship in  Thebes by king Pentheus and eventually ruled as regents there?"
+      answer: "NYCTEUS AND LYCUS"
+    boni:
+      - question: "After discovering she was pregnant by Zeus, to whom did Antiope, Nycteus’ daughter, flee in  Sicyon?"
+        answer: "(KING) EPOPEUS"
+      - question: "Antiope’s twin sons, Amphion and Zethus, were forbidden from killing Lycus by which deity?"
+        answer: "HERMES"
+  - tossup:
+      question: "What diminutive Latin noun, derived from a Latin verb meaning “to veil,” is defined as “a flag or  military banner?"
+      answer: "” <latin>VEXILLUM</latin>"
+    boni:
+      - question: "What is the meaning of the Latin noun <latin>sūdārium</latin>, which is derived from a Latin verb meaning “to  sweat?"
+        answer: "” HANDKERCHIEF / NAPKIN"
+      - question: "What Latin adjective is defined as “pertaining to the forum?"
+        answer: "” <latin>FORĒNSIS</latin>"
+  - tossup:
+      question: "Considered by Cicero as the greatest Latin tragic poet, this man wrote <latin>cothurnātae</latin> on such  mythological subjects as Hermione, Teucer, and Antiope; that is, when he wasn’t painting or  visiting his uncle Ennius."
+      answer: "(MARCUS) PACUVIUS"
+    boni:
+      - question: "Other than his <title>Hermiona, Teucer,</title> and <title>Antiope</title>, name a <latin>cothurnāta</latin> of Pacuvius."
+        answer: "<title>ARMORUM IUDICIUM/CHRYSES/DULORESTES/ILIONA/  NIPTRA/ATALANTA/MEDUS/PENTHEUS/PERIBOEA</title>"
+      - question: "Name Pacuvius’ only <latin>fābula praetexta</latin>, which celebrated a Roman victor from 168 BC."
+        answer: "<title>PAULLUS</title>"
+  - tossup:
+      question: "Translate into English, “<latin>Fīerī potest ut peior ōrātiōnem meliōrem habeat</latin>.”"
+      answer: "IT IS POSSIBLE / IT CAN HAPPEN THAT THE WORSE MAN  WILL / MAY / SHOULD DELIVER THE BETTER SPEECH"
+    boni:
+      - question: "Translate into English, “<latin>Efficiam posthāc nē quemquam sumere arma lacessās</latin>.”"
+        answer: "I WILL BRING IT ABOUT THAT HENCEFORTH YOU   PROVOKE NO ONE TO TAKE UP ARMS"
+      - question: "Translate into English, “<latin>Persaepe ēvenit ut calidius sit quam ut dormiam</latin>.”"
+        answer: "IT VERY OFTEN HAPPENS / TURNS OUT / COMES ABOUT THAT IT IS TOO HOT FOR  ME TO SLEEP / THAT IT IS MORE HOT THAN THAT I MAY SLEEP"
+  - tossup:
+      question: "In what year did the cavalry of Mauretanian king Bogud play a crucial role in allowing Caesar to  decisively defeat and kill the former African governor Publius Varus, the former Caesarian  general Titus Labienus, the elder son of Pompey, and the majority of the Pompeian generals on  the southern coast of Spain?"
+      answer: "45 BC"
+    boni:
+      - question: "Name the father of Bogud who valued an alliance with Rome so strongly that he delivered his son-in law Jugurtha to Sulla in 108 BC."
+        answer: "BOCCHUS (I)"
+      - question: "What Numidian king and husband of Cleopatra Selene was placed on the throne of Mauretania by  Augustus after the death of Bogud’s brother Bocchus II?"
+        answer: "JUBA II (prompt if “Juba” is given)"
+  - tossup:
+      question: "What half-brother of Aegeus, king of Athens, broke into open rebellion for the throne along with his  fifty sons when Aegeus acknowledged Theseus as his heir?"
+      answer: "PALLAS"
+    boni:
+      - question: "Theseus learned of Pallas’ plot and killed the mutinous forces and forced Pallas to flee. Name the  informer who helped Theseus."
+        answer: "LEOS"
+      - question: "When he finally killed Pallas for attempting to take the throne again, to what city, ruled by his  grandfather Pittheus, did Theseus go into exile?"
+        answer: "TROEZEN"
+  - tossup:
+      question: "The number one tourist destination in San Antonio is the Alamo. During the battle that made the  Alamo famous, the primary weapon of the victorious Mexican army was the musket. What Latin  word with what meaning is at the root of “musket”?"
+      answer: "<latin>MUSCA</latin>, FLY"
+    boni:
+      - question: "The Alamo Mission’s chapel has been named an official Texas State shrine. What Latin word for a  cylindrical container for papyrus scrolls is at the root of “shrine”?"
+        answer: "<latin>SCRINIUM</latin>"
+      - question: "Located between the Alamo and Trinity University is the Historic Pearl Brewery District. What Latin  word with what meaning is at the root of “pearl”?"
+        answer: "<latin>PERNA</latin>, HAM"
+  - tossup:
+      question: "Known in his own day for a standout political career, including an appointment in 98 AD to the  position of <latin>prafectus aerāriī Sāturnī</latin> and an appointment as <latin>cōnsul suffectus</latin> in 100 AD, we  know this man today because of his letters about Christians and the eruption of Mt. Vesuvius."
+      answer: "(GAIUS PLINIUS CAECILIUS SECUNDUS)/PLINY THE YOUNGER"
+    boni:
+      - question: "What emperor does Pliny praise in his speech that we now call <title>Panegyricus</title>?"
+        answer: "TRAJAN"
+      - question: "What educated Roman was Pliny’s teacher?"
+        answer: "QUINTILIAN"
+  - tossup:
+      question: "Using the verb <latin>audeō</latin>, say in Latin, “they would have been about to dare.”"
+      answer: "<latin>AUSŪRĪ FUISSENT</latin>"
+    boni:
+      - question: "In the sentence, “If they had heard you, they might have dared,” translate, “they might have dared”  into Latin."
+        answer: "<latin>AUSĪ ESSENT</latin>"
+      - question: "Now translate into Latin, “Would that they had dared to try!”"
+        answer: "<latin>(UTINAM) CONĀRĪ / (AT)TEMPTĀRE / EXPERĪRĪ AUSĪ ESSENT</latin>"
+  - tossup:
+      question: "Say: “Please do not open your visual until instructed to do so”.  Say: “Please open your visual now and examine it for 10 seconds”  (WAIT 10 SECONDS)  The question: What daughter of Elatus is depicted in all four of the pictures?"
+      answer: "CAENIS / CAENEUS"
+    boni:
+      - question: "Identify “This Dude.”"
+        answer: "POSEIDON / NEPTUNE"
+      - question: "At what event did the battle depicted in pictures C and D take place?"
+        answer: "WEDDING OF PIRITHOÜS AND HIPPODAMEIA"
+  - tossup:
+      question: "What veteran of the Social War and former governor of Africa brought relief to his co-consul Marcus  Aurelius Cotta by lifting the siege of Cyzicus in 74 BC and went on to achieve victories at  Lemnos and Cabira in a decisive campaign against Mithridates?"
+      answer: "(L. LICINIUS) LUCULLUS"
+    boni:
+      - question: "Where had Marcus Aurelius Cotta faced a crippling defeat at the hands of Mithridates in 74 BC?"
+        answer: "CHALCEDON"
+      - question: "Name the tetrarch of Galatia who assisted Lucullus at Cabira and was later crowned by both Pompey  and Caesar, as well as legally defended by Cicero."
+        answer: "DEIOTARUS"

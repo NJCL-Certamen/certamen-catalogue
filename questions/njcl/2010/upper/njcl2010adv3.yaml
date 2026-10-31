@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2010
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Domitian was jealous enough of what man to recall him from his governorship in 84 AD, as recounted by his son-in-law, the historian Tacitus?"
+      answer: "(GNAEUS IULIUS) AGRICOLA"
+    boni:
+      - question: "At what battle in 83 AD was Agricola successfully able to draw the Caledonians out into open battle and win convincingly?"
+        answer: "MONS / MOUNT GRAUPIUS"
+      - question: "Under what previous governor of Britain had Agricola gained experience from 71-73 AD?"
+        answer: "(QUINTUS PETILIUS) CERIALIS"
+  - tossup:
+      question: "Give an antonym of <latin>gracilis</latin>"
+      answer: "<latin>DĒNSUS, CRASSUS, CRĒBER,</latin>  <latin>FREQUĒNS, MAGNUS, GRAVIS, DĪVES, PINGUIS, OBĒSUS</latin>"
+    boni:
+      - question: "Give an antonym of <latin>pleō</latin>"
+        answer: "<latin>VACUŌ, INĀNIŌ, (EF)FUNDŌ, HAURIŌ, VACUĒFACIŌ, EXONERĀRE</latin>"
+      - question: "Give an antonym of <latin>fossa</latin>"
+        answer: "<latin>TUMULUS, AGGER, COLLIS, ACERVUS, MŌNS, PRŌMONTŌRIUM, ROGUS, RŪPĒS</latin>"
+  - tossup:
+      question: "What is the first use of the dative case in this quotation from Cicero: “<latin>quem spērō fore magnō ūsuī et amīcīs et reī pūblicae</latin>”?"
+      answer: "PURPOSE"
+    boni:
+      - question: "What use of the dative case is illustrated in this quotation from Plautus: “<latin>aurum eī adēmit hospitī eumque hīc dēfōdit</latin>”?"
+        answer: "SEPARATION / DISADVANTAGE"
+      - question: "What use of the dative case is illustrated in such phrases as “<latin>vae capitī tuō</latin>” and “<latin>heu mihi</latin>”?"
+        answer: "REFERENCE / DISADVANTAGE (not “ethical”)"
+  - tossup:
+      question: "In Book IX of Homer’s <title>Iliad</title>, who suggests to Agamemnon that an embassy be sent to the tent of Achilles?"
+      answer: "NESTOR"
+    boni:
+      - question: "Which of Nestor’s sons delivered the difficult news to Achilles that Patroclus had been killed?"
+        answer: "ANTILOCHUS"
+      - question: "Which other member of the embassy repeated Agamemnon’s words verbatim, omitting only Agamemnon’s command that Achilles submit to him as the greater king and man?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What early author, by successfully dramatizing the reign of Romulus and Marcellus’ victory at Clastidium, created the genre of <latin>fābulae praetextae</latin>?"
+      answer: "(GNAEUS) NAEVIUS"
+    boni:
+      - question: "As well as experimenting with <latin>fābulae praetextae</latin>, Naevius wrote several other plays such as <title><latin>Equus Trōiānus</latin></title> and <title><latin>Danaë</latin></title> as what other type of <latin>fābulae</latin>?"
+        answer: "<latin>PALLIĀTA(E)</latin>"
+      - question: "What other author, the first to write Roman history though he did so in Greek, may Naevius have used as a cross-reference for his <title><latin>Bellum Pūnicum</latin></title>?"
+        answer: "(QUINTUS) FABIUS PICTOR"
+  - tossup:
+      question: "Complete the following analogy: <latin>malus : peior :: pius :_______.</latin>"
+      answer: "<latin>MAGIS PIUS</latin>"
+    boni:
+      - question: "Complete this analogy: <latin>male : peius :: saepe : ______.</latin>"
+        answer: "<latin>SAEPIUS</latin>"
+      - question: "Complete this analogy: <latin>magis : maximē :: ______ : potissimum.</latin>"
+        answer: "<latin>POTIUS</latin>"
+  - tossup:
+      question: "Give the Latin title for the work of Horace written at the request of Augustus"
+      answer: "<title><latin>CARMEN SAECULĀRE</latin></title>"
+    boni:
+      - question: "Which of Horace’s works shows strong influence from Lucilius?"
+        answer: "<title><latin>SERMŌNĒS / SATURAE /</latin></title> <title>SATIRES</title>"
+      - question: "What didactic work of Horace ends with a portrait of a bad poet forcing the reader to listen to his poems, causing the victim’s death?"
+        answer: "<title><latin>EPISTULAE AD PĪSŌNĒS / ARS POĒTICA</latin></title>"
+  - tossup:
+      question: "Using an impersonal verb, say in Latin, “We are tired of war.”"
+      answer: "<latin>NŌS TAEDET BELLĪ</latin> (<latin>pertaesum est</latin> is unacceptable, as it is perfect tense)"
+    boni:
+      - question: "Translate from Latin to English, <latin>Herī mē paenituit culpārum.</latin>"
+        answer: "YESTERDAY I REPENTED OF / WAS SORRY FOR (MY) SINS/FAULTS"
+      - question: "Translate from Latin to English, “<latin>Urbem condere interest Aenēae.</latin>”"
+        answer: "TO FOUND / FOUNDING A CITY IS OF INTEREST / IMPORTANCE / CONSEQUENCE / CONCERN / MATTERS TO AENEAS"
+  - tossup:
+      question: "What hero purchased a cow from king Pelagon with markings like full moons on its sides en route to founding the city later known as Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "When Cadmus’ successor Pentheus perished at the hands of his relatives, who succeeded him?"
+        answer: "POLYDORUS"
+      - question: "Assuming that the figures labeled “A” and “C” are Zethus and Amphion, respectively, identify the figure labeled “B”"
+        answer: "DIRCE"
+  - tossup:
+      question: "<latin>Audī dīligenter et respondē Anglicē. Quis sum? Meō digitō missiōnem petō ab ēditōre ludōrum. Meum corpus per portam Libitīnēnsem trahētur.” Quis sum?</latin>"
+      answer: "(SEVERELY WOUNDED) GLADIATOR (or any specific type of gladiator, though <emphasis>not</emphasis> a dead one)"
+    boni:
+      - question: "Who exits through the <latin>Porta Libitīnēnsem</latin>?"
+        answer: "DEAD GLADIATORS"
+      - question: "What was the significance of the death of Brutus Pera to the history of gladiatorial games?"
+        answer: "<emphasis>FIRST</emphasis> EXHIBITIONS TOOK PLACE AT HIS <emphasis>FUNERAL</emphasis> (IN 264 BC)"
+  - tossup:
+      question: "What Latin verb, an inceptive meaning “to wane, lose strength, or age,” is related to the adjective <latin>senex</latin>?"
+      answer: "<latin>SENĒSCŌ</latin>"
+    boni:
+      - question: "What Latin verb, an iterative form of a verb meaning “shake,” means “to rattle”?"
+        answer: "<latin>QUASSŌ</latin>"
+      - question: "Using your knowledge of desiderative verbs, give a Latin adjective describing a person <latin>quī cēnātūrit</latin>"
+        answer: "<latin>ĒSURIĒNS / AVIDUS / VORĀX / CUPIDUS</latin>"
+  - tossup:
+      question: "What derivative of two Latin prefixes and the verb <latin>vertō</latin> means “heedless” or “unintentional”?"
+      answer: "INADVERTENT"
+    boni:
+      - question: "What derivative of the Latin verb for “deny” means “a deserter from one faith, cause, or allegiance to another”?"
+        answer: "RENEGADE"
+      - question: "What derivative of the Latin noun for “ghost” means “a feeling of resentment at some often fancied slight or insult”?"
+        answer: "UMBRAGE"
+  - tossup:
+      question: "What Silver Age author received the titles <latin>ā studiīs</latin>, <latin>ā bibliothēcīs</latin>, and <latin>ab epistulīs</latin> under Hadrian for the success of his biographies?"
+      answer: "(GAIUS) SUETONIUS (TRANQUILLUS)"
+    boni:
+      - question: "What earliest known work of Suetonius depicts the lives and deeds of famous authors such as Terence, Horace, and Lucan?"
+        answer: "<title><latin>DĒ VIRĪS ILLŪSTRIBUS</latin></title>"
+      - question: "What work did Suetonius dedicate to the prefect Septicius Clarus, whose friendship later caused Suetonius’ dismissal from office in 122 AD?"
+        answer: "<title><latin>DĒ VĪTĀ CAESARUM</latin></title>"
+  - tossup:
+      question: "To what mortal man does Venus relate this tale as a warning in Book X of the <title>Metamorphoses</title>?"
+      answer: "ADONIS"
+    boni:
+      - question: "What man was both Adonis’ father and grandfather?"
+        answer: "CINYRAS"
+      - question: "How was Adonis born?"
+        answer: "A <emphasis>BOAR</emphasis> GORED A MYRRH <emphasis>TREE</emphasis>, WHICH SPLIT OPEN AND PRODUCED ADONIS"
+  - tossup:
+      question: "Listen carefully to the following passage about a wedding ceremony, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Cornēliam, fēminam inērudītam, in mātrimōnium dūcere Gāius optāvit. Cum, ut mōs est, sacerdōs vōta administrāret, Cornēlia dēclāmāvit, “Quandō tū Gāius, ego --</latin> <title><latin>CORNĒLIA</latin></title><latin>!” Gāiō cōnfūsō, sacerdōs putāvit stultitiam Cornēliae mōrem vincere.</latin>  Question: Why was Gaius confused?"
+      answer: "CORNELIA SAID HER OWN NAME / “WHEN YOU ARE GAIUS, I AM CORNELIA” (INSTEAD OF FOLLOWING THE “<latin>EGO GĀIA</latin>” RITUAL LANGUAGE)"
+    boni:
+      - question: "What did the priest think after hearing this faux pas?"
+        answer: "(CORNELIA’S) STUPIDITY HAS CONQUERED CUSTOM / TRADITION"
+      - question: "The title of this passage might be “Cornelia Marries Gaius.” What Latin verb must be used, instead of the idiom <latin>in mātrimōnium dūcere</latin>, when the subject is the bride?"
+        answer: "<latin>NŪBŌ / NŪBERE</latin>"
+  - tossup:
+      question: "Who assumed the throne of Tiryns rather than his ancestral home Argos because of an athletic mishap involving a discus?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who became king of Argos instead of Perseus?"
+        answer: "MEGAPENTHES"
+      - question: "What kingdom of great subsequent importance did Perseus found?"
+        answer: "MYCENAE"
+  - tossup:
+      question: "What tribune, having been assured relief from his debts, passed legislation in 88 BC transferring command of the East from Sulla to Marius?"
+      answer: "(PUBLIUS) SULPICIUS RUFUS"
+    boni:
+      - question: "Where did Sulla join six legions which he had commanded in the Social War, whose loyalty he could count on to undertake a march on Rome itself?"
+        answer: "CAMPANIA"
+      - question: "What consul of 88 BC was an ally of Sulla and joined him in his march on Rome?"
+        answer: "(QUINTUS) POMPEIUS RUFUS"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Nēmō suā vītā contentus vīvit, sed laudat dīversa sequentīs.”</latin> <latin>Quō cāsū est “vītā”?</latin>"
+      answer: "<latin>(IN) (CĀSŪ) ABLĀTĪVŌ</latin>"
+    boni:
+      - question: "<latin>Nēmō: dā mihi accūsātīvum.</latin>"
+        answer: "<latin>NĒMINEM</latin>"
+      - question: "<latin>Quō cāsū sunt et “dīversa” et “sequentīs”?</latin>"
+        answer: "<latin>(IN) (CĀSŪ) ACCŪSĀTĪVŌ</latin>"
+  - tossup:
+      question: "What work, the only extant complete <latin>fābula praetexta</latin>, is attributed, perhaps erroneously, to Seneca the Younger?"
+      answer: "<title><latin>OCTĀVIA</latin></title>"
+    boni:
+      - question: "What collection of letters on philosophy, 124 in all, did Seneca address to his friend Lucilius?"
+        answer: "<title><latin>EPISTULAE MŌRĀLĒS</latin></title>"
+      - question: "What play, based on one of the same title by Euripides, did Seneca write in an attempt to sympathize more with the character of Jason?"
+        answer: "<title><latin>MEDEA</latin></title>"
+  - tossup:
+      question: "Who, in the first century BC, proposed legislation, first to effect a reform of the court <latin>dē rēbus repetundīs</latin>, and then to extend the <latin>iūs suffrāgium</latin> to all Italians?"
+      answer: "(MARCUS) LIVIUS DRUSUS"
+    boni:
+      - question: "What consul of 91 BC and enemy of the tribune Drusus vehemently opposed his legislation?"
+        answer: "(LUCIUS MARCIUS) PHILIPPUS"
+      - question: "What consul of 90 BC was finally asked to bring forward legislation granting enfranchisement to all Italians who laid down their arms?"
+        answer: "LUCIUS (IULIUS) CAESAR  <latin>2010 NJCL CERTAMEN ADVANCED DIVISION</latin>"

@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 2002
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Whose blood was the cause of Heracles’ death?"
+      answer: "(THE CENTAUR) NESSUS / THE HYDRAS"
+    boni:
+      - question: "Who had spread this blood on a tunic for Heracles?"
+        answer: "DEIAN(E)IRA"
+      - question: "Whom had Heracles taken as a concubine, thus causing Deianeira’s lethal jealousy?"
+        answer: "IOLE"
+  - tossup:
+      question: "Where in ancient Rome would you go to visit all these places: Temple of Veiovis, Asylum, Arx, Temple of Juno Moneta?"
+      answer: "CAPITOLINE HILL"
+    boni:
+      - question: "Where in ancient Rome would you go to visit all these places: Temple of Magna Mater, Temple of Apollo, Domus Augustana & the house of Livia?"
+        answer: "PALATINE HILL"
+      - question: "Where would you go to visit Pompey’s theater, the Saepta Julia and the Pantheon?"
+        answer: "CAMPUS MARTIUS"
+  - tossup:
+      question: "What use of the ablative case can be found in the following sentence: <latin>Līberī</latin> <latin>cum celeritāte ad lūdum īvērunt</latin>?"
+      answer: "MANNER"
+    boni:
+      - question: "What use of the ablative case can be found in the following sentence: <latin>Hostēs erant</latin>  <latin>mīlibus passuum duōbus ultrā</latin> <latin>castra</latin>?"
+        answer: "DEGREE OF DIFFERENCE"
+      - question: "What use of the ablative case can be found in the following sentence: <latin>Catilīna patriam aurō</latin> <latin>vēndidit</latin>?"
+        answer: "(INDEFINITE) PRICE / VALUE"
+  - tossup:
+      question: "What Latin expression, meaning “with one mind,” is the root of “unanimously”?"
+      answer: "<latin>ŪNŌ</latin> <latin>ANIMŌ</latin>"
+    boni:
+      - question: "What Latin expression, meaning “within the walls,” is the root of the English word “intramural”?"
+        answer: "<latin>INTRĀ</latin> <latin>MURŌS</latin>"
+      - question: "What Latin expression, meaning “calmly,” is the root of “equanimity”?"
+        answer: "<latin>AEQUŌ</latin> <latin>ANIMŌ</latin>"
+  - tossup:
+      question: "The battles of Cynoscephalae, Magnesia and Pydna proved the obsolescence of what battle formation?"
+      answer: "PHALANX"
+    boni:
+      - question: "Which king did the Romans defeat at Magnesia in 190 BC?"
+        answer: "ANTIOCHUS (III / THE GREAT)"
+      - question: "Which Roman general defeated Perseus at Pydna in 168 BC?"
+        answer: "(LUCIUS AEMILIUS) PAULLUS"
+  - tossup:
+      question: "Give an antonym of the adjective <latin>fortis</latin>. (afraid): <latin>TIMIDUS</latin>, <latin>PAVIDUS, IGNĀVUS</latin>; (weak): <latin>INFIRMUS</latin>, <latin>DĒBILIS</latin>, <latin>INVALIDUS</latin>, <latin>LANGUIDUS</latin>, <latin>CONFECTUS</latin>, <latin>AEGER</latin>  . . . of <latin>tardus</latin>"
+      answer: "<latin>CELER</latin>, <latin>RAPIDUS</latin>, <latin>AGILIS</latin>, <latin>ALACER</latin>, <latin>PROMPTUS</latin>, <latin>VĒLOX</latin>, <latin>CITUS, MATŪRUS, CALLIDUS, INTELLIGENS, PRŪDENS</latin>"
+    boni:
+      - question: " . . . of <latin>nūllus</latin>"
+        answer: "<latin>ŪLLUS, OMNIS/ OMNĒS, NŌNNŪLLUS, ALIQUĪ/ ALIQUIS, ALIUS, ALIQUOT, MULTUS / MULTĪ</latin>"
+  - tossup:
+      question: "Into what was Daphne transformed?"
+      answer: "A LAUREL TREE"
+    boni:
+      - question: "Into what were Alcyone and her husband Ceyx transformed?"
+        answer: "KINGFISHERS / HALCYONS (If “seabirds” or “birds” is given, prompt for more information)"
+      - question: "Into what did Zeus transform Lycaon because of his savagery?"
+        answer: "A WOLF"
+  - tossup:
+      question: "Complete this analogy: <latin>pōtō</latin> <latin>: pōtāvimus :: iuvō</latin> <latin>: _______</latin>"
+      answer: "<latin>IŪVIMUS</latin>"
+    boni:
+      - question: "Change <latin>iūvimus</latin> to the passive"
+        answer: "<latin>IŪTĪ</latin> <latin>/ -AE / -A SUMUS</latin>"
+      - question: "Change <latin>iūtī</latin> <latin>sumus</latin> to the imperfect"
+        answer: "<latin>IUVĀBĀMUR</latin>"
+  - tossup:
+      question: "Give the Latin verb and its meaning at the root of “oust,” “obstetrician,” “arrest,” “extant,” and “stage.”"
+      answer: "<latin>STŌ, STĀRE</latin> - STAND"
+    boni:
+      - question: "What derivative of <latin>stō, stare</latin> means “characterized by a fixed condition”?"
+        answer: "STATIC, STANDING, CONSISTENT, STABLE, CONSTANT"
+      - question: "What derivative of <latin>stō, stare</latin> means “an upright prop or support”?"
+        answer: "STANCHION, STAND, STABILIZER"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Ecce! imperātor adest.” Cuius generis est “imperātor”?</latin>"
+      answer: "MASCULĪNĪ"
+    boni:
+      - question: "<latin>Quae pars ōrātiōnis est “ecce”?</latin>"
+        answer: "INTERIĒCTIŌ"
+      - question: "<latin>“Adest”, dīc persōnam tertiam plūrālem</latin>"
+        answer: "ADSUNT"
+  - tossup:
+      question: "Who is represented on this family tree by the letter “D”?"
+      answer: "CREUSA"
+    boni:
+      - question: "The letter “F” represents, according to Vergil, the ancestor of the rulers of Alba Longa. Who was he?"
+        answer: "SILVIUS"
+      - question: "Which letter represents Ganymede?"
+        answer: "A"
+  - tossup:
+      question: "Who was the first wife of Aeneas?"
+      answer: "CREUSA"
+    boni:
+      - question: "What son of Aeneas and Lavinia was the ancestor of the rulers of Alba Longa?"
+        answer: "SILVIUS"
+      - question: "What Trojan boy was taken to Olympus by Jupiter to become his cupbearer?"
+        answer: "GANYMEDE"
+  - tossup:
+      question: "Who was appointed to a dictatorship which he could retain until his death, or until he wished to resign, with the specific goal of redrafting the constitution in 82 BC?"
+      answer: "(L. CORNELIUS) SULLA"
+    boni:
+      - question: "Part of Sulla’s reform program was a revision of the court system. What sort of criminal cases would a <latin>quaestiō</latin> <latin>dē</latin> <latin>maiestāte</latin> judge?"
+        answer: "TREASON"
+      - question: "What sort of criminal cases would a <latin>quaestiō</latin> <latin>dē</latin> <latin>repentundīs</latin> judge?"
+        answer: "EXTORTION"
+  - tossup:
+      question: "Translate into English: <latin>Num omnēs servī</latin> <latin>dormiēbant?</latin>"
+      answer: "SURELY ALL THE SLAVES WERE NOT SLEEPING? / THE SLAVES WERE NOT SLEEPING, WERE THEY?"
+    boni:
+      - question: "Translate into English: <latin>Nōnne gladiātōrēs fortiōrēs leōnibus sunt?</latin>"
+        answer: "SURELY THE GLADIATORS ARE BRAVER/STRONGER THAN THE LIONS? / THE GLADIATORS ARE BRAVER / STRONGER THAN THE LIONS, AREN’T THEY?"
+      - question: "Translate into English: <latin>Marce, cūr fortiter pugnāre nōn potes?</latin> "
+        answer: "MARCUS, WHY ARE YOU NOT ABLE TO FIGHT BRAVELY?"
+  - tossup:
+      question: "Who were the parents of Astyanax?"
+      answer: "HECTOR AND ANDROMACHE"
+    boni:
+      - question: "By what other name was Astyanax known?"
+        answer: "SCAMANDRIUS"
+      - question: "Whose concubine did Andromache become immediately after the Trojan War?"
+        answer: "NEOPTOLEMUS’/PYRRHUS’"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dux mīlitēs suōs convocāvit et clamāvit, “Septem annōs bellum contrā</latin> <latin>hostēs</latin>   <latin>gerēbāmus. Hodiē</latin> <latin>et victōria et glōria nōbīscum in pugnā</latin> <latin>erunt.” Rōmānī</latin> <latin>hostēs facillimē</latin> <latin>superāvērunt atque nox fuit fīnis proeliī.</latin>  <latin>Quam diū</latin> <latin>mīlitēs contrā</latin> <latin>hostēs in bellō</latin> <latin>gerēbant?</latin>"
+      answer: "SEPTEM ANNŌS"
+    boni:
+      - question: "In sententiā <latin>ducis, quae rēs cum mīlitibus hodiē</latin> <latin>erunt?</latin> "
+        answer: "<latin>(ET) VICTŌRIA ET GLŌRIA</latin>"
+      - question: " <latin>Quō</latin> <latin>modō</latin> <latin>Rōmānī</latin> <latin>hostēs superāvērunt?</latin>"
+        answer: "FACILLIMĒ <latin>/ FACILE</latin>"
+  - tossup:
+      question: "At a slave auction what was the term for the scroll or sign hanging from the slave’s neck describing his skills or deficiencies?"
+      answer: "<latin>TITULUS</latin>"
+    boni:
+      - question: "At a slave auction, what did it mean if a slave for sale wore a <latin>pilleus</latin>?"
+        answer: "THE SELLER MADE NO GUARANTEES/THE PURCHASER ASSUMED ALL RISKS"
+      - question: "For what other ceremony would a slave wear a <latin>pilleus</latin>?"
+        answer: "<latin>MANŪMISSI</latin><latin>Ō/</latin>MANUMISSION/FREEDOM CEREMONY"
+  - tossup:
+      question: "Change the verb form <latin>rapit</latin> to the future tense"
+      answer: "<latin>RAPIET</latin>"
+    boni:
+      - question: "Change <latin>rapiet</latin> to the 2nd person singular, future passive"
+        answer: "<latin>RAPIĒRIS (-RE)</latin>"
+      - question: "Change <latin>rapiēris</latin> to the present tense"
+        answer: "<latin>RAPERIS (-RE)</latin>"
+  - tossup:
+      question: "How is the case of a relative pronoun determined?"
+      answer: "BY ITS OWN USE IN THE CLAUSE"
+    boni:
+      - question: "How must a relative pronoun agree with its antecedent?"
+        answer: "IN GENDER AND NUMBER"
+      - question: "How must an adjective agree with the noun it modifies?"
+        answer: "GENDER, NUMBER, & CASE"
+  - tossup:
+      question: "Complete this triad: Lachesis, Atropos, _________ ?"
+      answer: "CLOTHO"
+    boni:
+      - question: "According to Apollodorus, what did the Fates persuade Typhon to do which led to his downfall?"
+        answer: "EAT (EPHEMERAL) <emphasis>FRUIT</emphasis> THAT MADE HIM WEAK"
+      - question: "What is another name for the group known as the Erinyes?"
+        answer: "THE FURIES / EUMENIDES / SEMNAI(THEAI)"
+  - tossup:
+      question: "One of Julius Caesar’s many reforms concerned currency. What new gold coin did he issue with a value of 25 <latin>dēnāriī</latin>?"
+      answer: "<latin>AUREUS</latin>"
+    boni:
+      - question: "Caesar’s solar calendar was devised by which Alexandrian astronomer?"
+        answer: "SOSIGENES"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2015
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What use of the ablative is found in the following sentence?"
+      answer: "<latin>Habitō in illā vīllā</latin>. PLACE WHERE"
+    boni:
+      - question: "What use of the ablative is found in the following sentence?"
+        answer: "<latin>Perveniam septem diēbus</latin>.  TIME WHEN / WITHIN WHICH"
+      - question: "What use of the ablative is found in the following sentence?"
+        answer: "<latin>Hōc modō id facere potes</latin>.  MANNER"
+  - tossup:
+      question: "What emperor ordered the assassination of his young step-brother Britannicus in 55 AD, only one year  after he succeeded the boy’s father Claudius?"
+      answer: "NERO"
+    boni:
+      - question: "Name the mother of Nero whom he tried to drown in 59 AD?"
+        answer: "AGRIPPINA <emphasis>THE YOUNGER</emphasis>"
+      - question: "Name Nero’s wife, the former spouse of the future emperor Otho, whom he is said to have murdered  with a swift kick to the stomach."
+        answer: "POPPAEA (SABINA)"
+  - tossup:
+      question: "Who regularly wore the pelt of an animal invulnerable to weapons, which he had killed as the first of twelve labors?"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "What animal’s pelt did Heracles routinely wear?"
+        answer: "NEMEAN LION’S"
+      - question: "What creature’s blood did Heracles use on the tips of his arrows?"
+        answer: "THE (LERNAEAN) HYDRA’S"
+  - tossup:
+      question: "On which of Rome’s seven hills is the temple of Jupiter Optimus Maximus found?"
+      answer: "CAPITOLINE"
+    boni:
+      - question: "Between which of two of Rome’s seven hills is the Circus Maximus located?"
+        answer: "PALATINE & AVENTINE"
+      - question: "Which of Rome’s seven hills is northernmost?"
+        answer: "QUIRINAL"
+  - tossup:
+      question: "Listen to the following passage, which I will read twice, and answer IN LATIN the question that  follows:  <latin>Pater Rōmānus in casā epistulam scrībit. Māter cēnam parat et fīlia aquam portat. Postquam  pater epistulam scrībit, eam ad frātrem mittet. Frāter est nauta, quī multās terrās vīsitat,  itaque nēmō hunc diū cōnspexit.</latin>  The question: <latin>Quid māter agit?</latin>"
+      answer: "<latin>CĒNAM PARAT</latin>"
+    boni:
+      - question: "<latin>Cūr nēmō frātrem diū cōnspēxit?</latin>"
+        answer: "<latin>(QUOD ILLE) MULTĀS TERRĀS VĪSITAT // EST NAUTA</latin>"
+      - question: "<latin>Cuius negōtium portāre aquam est?</latin>"
+        answer: "<latin>FĪLIAE</latin>"
+  - tossup:
+      question: "What case in Latin is used to express all of the following: material, quality, quantity, and possession?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What case in Latin is used to express all of the following: advantage, purpose, agent, and reference?"
+        answer: "DATIVE"
+      - question: "What other case in Latin usually expresses agent?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "What son of Zeus was transported from Argos to Seriphos with his mother in a floating chest because he  was destined to kill his grandfather Acrisius?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who was Perseus’ mother?"
+        answer: "DANAË"
+      - question: "What fisherman found Perseus and Danaë on the beach?"
+        answer: "DICTYS"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Magister discipulōs dēfessōs incitābat.</latin>"
+      answer: "THE TEACHER WAS ENCOURAGING HIS / THE TIRED STUDENTS."
+    boni:
+      - question: "Translate the following sentence into English: <latin>In ōrātiōne, senātor omnibus servīs lībertātem  prōmīsit.</latin>"
+        answer: "IN THE SPEECH, THE SENATOR PROMISED FREEDOM  TO / FOR ALL THE SLAVES."
+      - question: "Translate the following sentence into English: <latin>Cīvēs ōrātiōnī senātōris fāvērunt</latin>."
+        answer: "THE CITIZENS SUPPORTED / FAVORED THE SPEECH OF THE SENATOR."
+  - tossup:
+      question: "What is the meaning of the Latin word <latin>bōs</latin>?"
+      answer: "OX / BULL / COW ("
+    boni:
+      - question: "Give the Latin word for the animal labeled “A”."
+        answer: "<latin>CERVUS</latin>"
+      - question: "Give the Latin word for the animal labeled “D”."
+        answer: "<latin>ARIĒS</latin>"
+  - tossup:
+      question: "What emperor, never recognized as legitimate by the Eastern empire, succeeded Julius Nepos with the  support of his father Orestes and reigned for a year until his overthrow in 476 AD, an event which  marked the end of the western empire?"
+      answer: "ROMULUS AUGUSTULUS"
+    boni:
+      - question: "Zeno, Augustulus’s imperial counterpart in the east, would go on to serve until 491 AD, when he died  in what city that long served as the capital of the eastern empire?"
+        answer: "CONSTANTINOPLE"
+      - question: "The emperor Constantine completed the construction of Constantinople in 330 AD at the site of what  former ancient Greek city?"
+        answer: "BYZANTIUM"
+  - tossup:
+      question: "What son of Agenor fought a dragon and the men that grew from the dragon’s teeth in the process of  founding the city of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "To what deity was the dragon that Cadmus killed sacred?"
+        answer: "ARES / MARS"
+      - question: "After paying penance to Ares, what daughter of Ares did Cadmus marry?"
+        answer: "HARMONIA"
+  - tossup:
+      question: "For the noun <latin>diēs</latin>, give the dative plural."
+      answer: "<latin>DIĒBUS</latin>"
+    boni:
+      - question: "Now, give the genitive singular of the noun <latin>manus</latin>."
+        answer: "<latin>MANŪS</latin>"
+      - question: "Finally, give the accusative plural of the noun <latin>genū</latin>."
+        answer: "<latin>GENUA</latin>"
+  - tossup:
+      question: "At what type of event in Rome would the cry of “<latin>Talassio</latin>” most likely be heard?"
+      answer: "A WEDDING"
+    boni:
+      - question: "What marriage ceremony involved the participation of a <latin>lībripēns</latin>, who held the scales on which a  coin was placed to signify the sale of the bride to the groom?"
+        answer: "<latin>COĒMPTIŌ</latin>"
+      - question: "What marriage ceremony involved the following: <latin>cumerus</latin>, <latin>camillus</latin>, and <latin>farreum lībum</latin>."
+        answer: "<latin>CŌNFARREĀTIŌ</latin>"
+  - tossup:
+      question: "What influential political union of the late first century BC lasted for a decade until the crossing of the  Rubicon?"
+      answer: "FIRST TRIUMVIRATE"
+    boni:
+      - question: "How many years after the formation of the first triumvirate was the second triumvirate legalized?"
+        answer: "17"
+      - question: "How many of the original members of the first triumvirate were alive at the formation of the second  triumvirate?"
+        answer: "ZERO"
+  - tossup:
+      question: "What river deity, because she had sided with Zeus during the Titanomachy, was the river most often  said to encircle the Underworld and was also given the honor of being the river on which the gods  swore unbreakable oaths?"
+      answer: "STYX"
+    boni:
+      - question: "From what river did the dead drink to forget their past lives?"
+        answer: "LETHE"
+      - question: "Name two of the three remaining rivers of the Underworld."
+        answer: "(ANY 2 OF) ACHERON, COCYTUS, (PYRI-)PHLEGETHON"
+  - tossup:
+      question: "What is wrong with you if a judge declares you <latin>nōn compos mentis</latin>?"
+      answer: "YOU ARE NOT OF SOUND MIND / INSANE / MENTALLY ILL"
+    boni:
+      - question: "What is the two word Latin phrase for a writ that a detainee can request in order to seek relief from  unlawful imprisonment?"
+        answer: "<latin>HABEĀS CORPUS</latin>"
+      - question: "If you are charged with a crime and you tell the judge you wish to enter a plea of <latin>nōlō contendere</latin>,  what are you doing?"
+        answer: "PLEADING NO CONTEST / SAYING  THAT YOU DO NOT WISH TO MOUNT A DEFENSE AGAINST A CHARGE"
+  - tossup:
+      question: "Translate into Latin: I am lying down under a dead tree."
+      answer: "<latin>SUB ARBORE MORTUĀ IACEŌ</latin>"
+    boni:
+      - question: "Translate into Latin: Near the broken bridge, a river was flowing."
+        answer: "<latin>PROPE PONTEM FRĀCTUM FLŪMEN / RĪVUS / AMNIS FLUĒBAT</latin>"
+      - question: "Translate into Latin: The enemies found the place where we were pitching camp."
+        answer: "<latin>INIMĪCĪ / HOSTĒS INVĒNĒRUNT / REPPERĒRUNT LOCUM UBI / IN QUŌ CASTRA  PŌNĒBĀMUS</latin>"
+  - tossup:
+      question: "From what Latin noun with what meaning are “biennial” and “anniversary” derived?"
+      answer: "<latin>ANNUS</latin> - YEAR"
+    boni:
+      - question: "From what Latin noun with what meaning are “voyage” and “impervious” derived?"
+        answer: "<latin>VIA</latin> – ROAD; STREET"
+      - question: "From what Latin noun with what meaning are “insomnia” and “somnambulism” derived?"
+        answer: "<latin>SOMNUS</latin> – SLEEP / DREAM / <latin>SOMNIUM</latin> - DREAM"
+  - tossup:
+      question: "What son of Oeneus and prince of Calydon died as the result of the burning of a log that was linked to  his life?"
+      answer: "MELEAGER"
+    boni:
+      - question: "Who was Meleager’s mother who received a visit from the Fates when he was an infant?"
+        answer: "ALTHAEA"
+      - question: "What did Meleager do to cause Althaea to burn his log?"
+        answer: "KILLED HER BROTHERS / HIS UNCLES (TOXEUS AND PLEXIPPUS)"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē. Quid ego dēscrībō?</latin>"
+      answer: "<latin>Est vir, quī saepe sceptrum tenet, et corōnam gerit, et  terrās regnat. RĒX</latin>"
+    boni:
+      - question: "<latin>Rēspondē Latīnē. Quid ego dēscrībō?</latin>"
+        answer: "<latin>Est pars vīllae in quā familia dormit.  CUBICULUM / CELLA</latin>"
+      - question: "<latin>Rēspondē Latīnē. Quid ego dēscrībō?</latin>"
+        answer: "<latin>Est animal quod Eurydicēn mordet. SERPĒNS / ANGUIS / DRACŌ</latin>"

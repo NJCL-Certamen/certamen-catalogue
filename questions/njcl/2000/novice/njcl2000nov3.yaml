@@ -21,9 +21,9 @@ questions:
         answer: "TULLUS HOSTILIUS"
   - tossup:
       question: "For the verb <latin>faciō</latin>, give the present, active, singular, imperative"
-      answer: "<latin>FAC (FACE</latin>"
+      answer: "<latin>FAC (FACE</latin> is ACCEPTABLE ONLY if the student designates it as occurring in early Latin)"
     boni:
-      - question: "is ACCEPTABLE ONLY if the student designates it as occurring in early Latin) Give the corresponding imperative for the verb <latin>perficiō</latin>"
+      - question: "Give the corresponding imperative for the verb <latin>perficiō</latin>"
         answer: "<latin>PERFICE</latin>"
       - question: "Give the corresponding imperative for the verb <latin>cōnferō</latin>"
         answer: "<latin>CŌNFER</latin>"
@@ -31,9 +31,9 @@ questions:
       question: "What derivative of the Latin word for “street or road” means “to turn away from an established way”?"
       answer: "DEVIATE"
     boni:
-      - question: "“incapable of being passed through”?"
+      - question: "What derivative of the Latin word for “incapable of being passed through”?"
         answer: "IMPERVIOUS"
-      - question: "“to prevent”?"
+      - question: "What derivative of the Latin word for “to prevent”?"
         answer: "OBVIATE"
   - tossup:
       question: "According to Homer, who was the keeper of the winds?"
@@ -93,11 +93,11 @@ questions:
         answer: "<latin>AMOR OMNIA VINCIT</latin>"
   - tossup:
       question: "Complete this analogy: <latin>tertius : trēs :: _____ : quattuor</latin>"
-      answer: "QUĀRTUS"
+      answer: "<latin>QUĀRTUS</latin>"
     boni:
-      - question: ". . . : <latin>trēs : tertius :: novem : _____</latin>"
+      - question: "Complete this analogy: <latin>trēs : tertius :: novem : _____</latin>"
         answer: "<latin>NŌNUS</latin>"
-      - question: ". . . : <latin>trēs : tertius :: duodecim : _____</latin>"
+      - question: "Complete this analogy: <latin>trēs : tertius :: duodecim : _____</latin>"
         answer: "<latin>DUODECIMUS</latin>"
   - tossup:
       question: "Under what emperor was the real power held by the praetorian prefect Ulpian and Julia Mamaea?"
@@ -119,9 +119,7 @@ questions:
       question: "Please listen while I read this inscription from a roadside tomb. After I have read the inscription twice, please answer IN ENGLISH the question about it. <latin>Hīc est sepulcrum nōn pulchrum pulchrae fēminae. Nōmen eius erat Claudia. Suum marītum amāvit. Fīliōs duōs habuit.</latin>  Who were the other members of Claudia’s family?"
       answer: "HUSBAND AND TWO SONS (PASS OUT THE VISUAL)"
     boni:
-      - question: "You now have 10 seconds to examine the inscription"
-        answer: "(WAIT 10 SECONDS)"
-      - question: "Which member of the family does this inscription state was still alive at the time of Claudia’s death?"
+      - question: "You now have 10 seconds to examine the inscription (WAIT 10 SECONDS): Which member of the family does this inscription state was still alive at the time of Claudia’s death?"
         answer: "ONE SON"
       - question: "What two things does the inscription reveal about Claudia as a homemaker?"
         answer: "SHE TOOK CARE OF THEIR COTTAGE AND WORKED WITH WOOL (ACCEPT ANYTHING FROM SPINNING & WEAVING TO MAKING WOOL CLOTHES)"
@@ -134,18 +132,20 @@ questions:
       - question: "Give the corresponding form for the adjective <latin>bonus</latin>"
         answer: "<latin>MELIOR</latin>"
   - tossup:
-      question: "Name two of the modern Romance languages that are descended from spoken Latin. <title>see below for answers</title>  Name two more"
-      answer: "ITALIAN, FRENCH, SPANISH, PORTUGUESE, ROMANIAN,"
+      question: "Name two of the modern Romance languages that are descended from spoken Latin."
+      answer: "SEE BELOW"
     boni:
-      - question: "PROVENōAL, ROMANSCH, CATALAN To what prehistoric language family does Latin belong?"
+      - question: "Name two more"
+        answer: "ITALIAN, FRENCH, SPANISH, PORTUGUESE, ROMANIAN,"
+      - question: "PROVENÇAL, ROMANSCH, CATALAN To what prehistoric language family does Latin belong?"
         answer: "INDO-EUROPEAN / INDO-GERMANIC"
   - tossup:
       question: "Who was elected consul five consecutive times to meet the threat of the invading Cimbri and Teutones?"
       answer: "(C.) MARIUS"
     boni:
-      - question: "At what battle had these Germanic tribes destroyed a Roman army in 105 B.C.?"
+      - question: "At what battle had these Germanic tribes destroyed a Roman army in 105 BC?"
         answer: "ARAUSIO"
-      - question: "At what battle did Marius defeat the Teutones in 102 B.C.?"
+      - question: "At what battle did Marius defeat the Teutones in 102 BC?"
         answer: "AQUAE SEXTIAE"
   - tossup:
       question: "Which king of Thebes, the father of Oedipus, grew up at the court of Pelops, the king of Pisa?"

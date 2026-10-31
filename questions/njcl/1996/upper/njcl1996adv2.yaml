@@ -143,7 +143,7 @@ questions:
       question: "The original title of Julius Caesar’s account of his conquest of Gaul was <title><latin>Gaiī Iulii Caesaris Commentarii Rerum Gestarum</latin></title>. By what Latin title is this work known today?"
       answer: "<title><latin>(COMMENTARII) DE BELLO GALLICO</latin></title>"
     boni:
-      - question: "Caesar also wrote a three book account of the events of 49 and 48 B.C. What is the Latin title of this work?"
+      - question: "Caesar also wrote a three book account of the events of 49 and 48 BC What is the Latin title of this work?"
         answer: "<title><latin>(COMMENTARII) DE BELLO CIVILI</latin></title>"
       - question: "Cicero wrote that Caesar’s writings corrected and purified the Latin language. Name Caesar’s lost work on Latin grammar."
         answer: "<title><latin>DE ANALOGIA</latin></title>"

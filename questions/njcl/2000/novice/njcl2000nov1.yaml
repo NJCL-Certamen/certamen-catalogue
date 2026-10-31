@@ -79,15 +79,17 @@ questions:
       question: "When you are recognized by the spotter, follow this direction: <latin>Dīc mihī Ānglicē nōmen schōlae tuae.</latin>"
       answer: "STUDENT TELLS MODERATOR THE NAME OF HIS/HER SCHOOL"
     boni:
-      - question: "<latin>Dīc mihī praenōmina sociōrum omnium sedentium tēcum</latin>  STUDENT TELLS MODERATOR THE <emphasis>FIRST-NAMES</emphasis> OF ALL THE TEAMMATES <latin>Monstrāte mihī titulōs vestrōs.</latin>"
+      - question: "<latin>Dīc mihī praenōmina sociōrum omnium sedentium tēcum</latin>"
+        answer: "STUDENT TELLS MODERATOR THE <emphasis>FIRST-NAMES</emphasis> OF ALL THE TEAMMATES"
+      - question: "<latin>Monstrāte mihī titulōs vestrōs.</latin>"
         answer: "STUDENTS SHOW MODERATOR THEIR NAMETAGS"
   - tossup:
-      question: "In 57 B.C., the Senate declared a public thanksgiving 15 days after whose triumphs in Gaul?"
+      question: "In 57 BC, the Senate declared a public thanksgiving 15 days after whose triumphs in Gaul?"
       answer: "(C. JULIUS) CAESAR"
     boni:
-      - question: "The Senate decreed another public thanksgiving in 55 B.C. after Caesar invaded what island?"
+      - question: "The Senate decreed another public thanksgiving in 55 BC after Caesar invaded what island?"
         answer: "BRITAIN"
-      - question: "What British war-king did Caesar defeat in 54 B.C.?"
+      - question: "What British war-king did Caesar defeat in 54 BC?"
         answer: "CASSIVELLAUNUS"
   - tossup:
       question: "Translate into Latin: on the ninth hour"
@@ -99,12 +101,12 @@ questions:
         answer: "<latin>SEX DIĒBUS</latin>"
   - tossup:
       question: "Give a synonym of <latin>mūrus</latin>"
-      answer: "<latin>MOENIA, PARIĒS, MĀCERIA</latin>"
+      answer: "<latin>MOENIA / PARIĒS / MĀCERIA</latin>"
     boni:
       - question: "Give a synonym of <latin>cūstōdia</latin>"
-        answer: "<latin>VIGILIA, PRAESIDIUM</latin>"
+        answer: "<latin>VIGILIA / PRAESIDIUM</latin>"
       - question: "Give a synonym of <latin>clāmor</latin>"
-        answer: "<latin>STREPITUS, CREPITUS, TUMULTUS, MAGNA VOX</latin>"
+        answer: "<latin>STREPITUS / CREPITUS / TUMULTUS / MAGNA VOX</latin>"
   - tossup:
       question: "According to Homer, who detained Odysseus and his crew on her island for a full year?"
       answer: "CIRCE"
@@ -122,7 +124,7 @@ questions:
       - question: "How does this situation affect the son?"
         answer: "UNABLE TO STUDY/BE EAGER/ BE EXCITED OR EAT"
   - tossup:
-      question: "What emperor was strangled in his bath on the last day of A.D. 192?"
+      question: "What emperor was strangled in his bath on the last day of AD 192?"
       answer: "COMMODUS"
     boni:
       - question: "What action was taken posthumously against Commodus by the Senate?"
@@ -134,9 +136,9 @@ questions:
       answer: "<latin>NŌLŌ CONTENDERE</latin>"
     boni:
       - question: "What might a district attorney say to a judge if he does not want to prosecute a case?"
-        answer: "<latin>NŌLŌ/NŌLLE PROSEQUĪ / NOL. PROS.</latin>"
+        answer: "<latin>NŌLŌ / NŌLLE PROSEQUĪ / NOL. PROS.</latin>"
       - question: "What Latin phrase might be used in our legal system to mean “there is no objection”?"
-        answer: "<latin>NIHIL/NĪL OBSTAT</latin>"
+        answer: "<latin>NIHIL / NĪL OBSTAT</latin>"
   - tossup:
       question: "Give the 1st person, plural, perfect, active, indicative for the verb <latin>possum</latin>"
       answer: "<latin>POTUIMUS</latin>"
@@ -158,6 +160,6 @@ questions:
       answer: "<latin>VESTIBULUM</latin>"
     boni:
       - question: "What is the Latin term for the entry way or hall behind the main door?"
-        answer: "<latin>FAUCE</latin>S"
+        answer: "<latin>FAUCES</latin>"
       - question: "What is the Latin term for the entire main door?"
         answer: "<latin>IANUA</latin>"

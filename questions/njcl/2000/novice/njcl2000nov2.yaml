@@ -4,7 +4,7 @@ division: "Novice"
 round: "Round 2"
 questions:
   - tossup:
-      question: "Who was named dictator by the <title>lex Valeria</title> in 82 B.C. to “draft laws and reconstitute the state”?"
+      question: "Who was named dictator by the <title>lex Valeria</title> in 82 BC to “draft laws and reconstitute the state”?"
       answer: "(L. CORNELIUS) SULLA"
     boni:
       - question: "Before Sulla, who was the last person to hold a Roman dictatorship?"
@@ -37,7 +37,7 @@ questions:
         answer: "ACTAEON"
   - tossup:
       question: "What Greek warrior was so vain that he attempted to ride to Mt. Olympus on the back of Pegasus?"
-      answer: "BELLEROPHON(TES) / HIPPONOUS"
+      answer: "BELLEROPHON(TES) / HIPPONOÜS"
     boni:
       - question: "Who was outraged by this act and caused Bellerophon to fall back down to earth?"
         answer: "ZEUS"
@@ -55,7 +55,7 @@ questions:
       question: "Which emperor traveled three times to the outskirts of Rome but always returned to Capri without entering?"
       answer: "TIBERIUS"
     boni:
-      - question: "Who had convinced Tiberius to retire to the isle of Capri in A.D. 26?"
+      - question: "Who had convinced Tiberius to retire to the isle of Capri in AD 26?"
         answer: "SEJANUS"
       - question: "For how many years did Tiberius rule the empire from Capri?"
         answer: "10"
@@ -85,7 +85,7 @@ questions:
         answer: "SILVIUS (or ASCANIUS / IÜLUS)"
   - tossup:
       question: "For what purpose did the Romans use <latin>facēs, candēlae</latin>, and <latin>lucernae</latin>?"
-      answer: "LIGHT/ILLUMINATION"
+      answer: "LIGHT / ILLUMINATION"
     boni:
       - question: "Which of the terms in the toss-up is the Latin for “oil lamps?”"
         answer: "<latin>LUCERNAE</latin>"
@@ -103,7 +103,7 @@ questions:
       question: "What pasture, originally belonging to the Tarquins, was used for military musters, exercising, and meetings of the <title>comitia centuriata</title>?"
       answer: "CAMPUS MARTIUS / FIELD OF MARS"
     boni:
-      - question: "What circus was built there in 221 B.C.?"
+      - question: "What circus was built there in 221 BC?"
         answer: "CIRCUS FLAMINIUS"
       - question: "Who built Rome’s first permanent theater in the Campus Martius?"
         answer: "POMPEY (THE GREAT)"
@@ -128,9 +128,9 @@ questions:
       answer: "<latin>MARĪTUS, VIR, CONIUNX</latin>"
     boni:
       - question: "Give an antonym of <latin>adulēscentia</latin>."
-        answer: "<latin>SENECTĀS, AETĀS, EXTRĒMA</latin>"
+        answer: "<latin>SENECTĀS / AETĀS / EXTRĒMA</latin>"
       - question: "Give an antonym of <latin>negōtium</latin>."
-        answer: "<latin>ŌTIUM, LŪDUS</latin>"
+        answer: "<latin>ŌTIUM / LŪDUS</latin>"
   - tossup:
       question: "What abbreviation would your Latin teacher use to give you an example of a grammatical structure that you have just discussed?"
       answer: "<latin>e.g.</latin>"
@@ -146,7 +146,7 @@ questions:
       - question: "Name Marius’ quaestor who was procured Jugurtha’s capture"
         answer: "(L. CORNELIUS) SULLA"
       - question: "What ally of Jugurtha betrayed him to the Romans?"
-        answer: "(KING) BOCCHUS (OF MAURETINA)"
+        answer: "(KING) BOCCHUS (OF MAURETANIA)"
   - tossup:
       question: "Into what kinds of trees were Baucis and Philemon transformed?"
       answer: "LIME / LINDEN & OAK"

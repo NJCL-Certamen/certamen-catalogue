@@ -93,39 +93,39 @@ questions:
         answer: "<latin>SPURIUS</latin>"
   - tossup:
       question: "Give the Latin term for the object on which Romans would usually write a short letter, a list, or some other informal note?"
-      answer: "<latin>CERA, TABELLA,</latin>"
+      answer: "<latin>CERA / TABELLA / TABULA</latin>"
     boni:
-      - question: "or <latin>TABULA</latin> What was the Latin term for two or more wax tablets bound together?"
-        answer: "<latin>CAUDEX</latin>"
-      - question: "or <latin>CODEX</latin>  What was the Latin term for the instrument used to write on a wax tablet?"
+      - question: "What was the Latin term for two or more wax tablets bound together?"
+        answer: "<latin>CAUDEX / CODEX</latin>"
+      - question: "What was the Latin term for the instrument used to write on a wax tablet?"
         answer: "<latin>STILUS</latin>"
   - tossup:
       question: "Under what king was the forum drained to become the center of commercial, social, and political life?"
-      answer: "TARQUINIUS PRISCUS"
+      answer: "(L.) TARQUINIUS PRISCUS"
     boni:
       - question: "What name was given to the sewer that drained the forum?"
         answer: "CLOACA MAXIMA"
       - question: "For what purpose had much of the forum been used prior to the draining?"
         answer: "BURIAL GROUND"
   - tossup:
-      question: "What invaders did the Romans meet at the Allia River in 390 B.C.?"
-      answer: "GAULS"
+      question: "What invaders did the Romans meet at the Allia River in 390 BC?"
+      answer: "GAULS / SENONES"
     boni:
-      - question: "or SENONES Who was the leader of the Senonian Gauls?"
+      - question: "Who was the leader of the Senonian Gauls?"
         answer: "BRENNUS"
       - question: "What part of Rome did the Gauls besiege for seven months before they accepted a ransom of 1000 pounds of gold and left?"
         answer: "CAPITOL(INE) / <latin>ARX / CAPITOLIUM</latin>"
   - tossup:
       question: "After what battle did Julius Caesar proclaim “<title><latin>vēnī, vīdī, vīc</latin></title>ī”?"
-      answer: "ZELA ( 47 B.C.)"
+      answer: "ZELA (47 BC)"
     boni:
       - question: "Who was Caesar’s opponent at Zela?"
         answer: "PHARNACES (II)"
       - question: "Of what kingdom in Asia Minor was Pharnaces the ruler?"
         answer: "PONTUS"
   - tossup:
-      question: "Who in A.D. 65 organized conspiracy against the emperor Nero?"
-      answer: "(GAIUS CALPURNIUS) PISO"
+      question: "Who in AD 65 organized conspiracy against the emperor Nero?"
+      answer: "(C. CALPURNIUS) PISO"
     boni:
       - question: "What former tutor and mentor of Nero was implicated in the conspiracy?"
         answer: "SENECA THE YOUNGER"
@@ -133,11 +133,11 @@ questions:
         answer: "FORCED TO COMMIT SUICIDE"
   - tossup:
       question: "What emperor in the last year of his reign rebuilt Hadrian’s Wall across Britain?"
-      answer: "SEPTIMIUS SEVERUS"
+      answer: "(L.) SEPTIMIUS SEVERUS"
     boni:
-      - question: "Where in Britain did Severus die in A.D. 211?"
-        answer: "EBORACUM"
-      - question: "or YORK Who were his joint heirs?"
+      - question: "Where in Britain did Severus die in AD 211?"
+        answer: "EBORACUM / YORK"
+      - question: "Who were his joint heirs?"
         answer: "CARACALLA"
   - tossup:
       question: "The Roman provinces of Baetica and Tarraconensis are in what modern country?"
@@ -146,7 +146,7 @@ questions:
       - question: "The Roman provinces of Aquintania and Lugdunensis are in what modern country?"
         answer: "FRANCE"
       - question: "The Roman provinces of Macedonia and Achaea are in what modern country?"
-        answer: "GREECE <latin>MYTHOLOGY</latin>"
+        answer: "GREECE"
   - tossup:
       question: "Who was the Greek god of sleep?"
       answer: "HYPNOS"

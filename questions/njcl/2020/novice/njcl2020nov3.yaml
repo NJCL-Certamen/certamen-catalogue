@@ -4,7 +4,7 @@ division: "Novice"
 round: "Round 3"
 questions:
   - tossup:
-      question: "What man was proclaimed <latin>dictātor perpetuus</latin> approximately one month before his former officers, led by Gaius Cassius and Marcus Brutus, assassinated him on March 15, 44 B.C.?"
+      question: "What man was proclaimed <latin>dictātor perpetuus</latin> approximately one month before his former officers, led by Gaius Cassius and Marcus Brutus, assassinated him on March 15, 44 BC?"
       answer: "(GAIUS JULIUS) CAESAR"
     boni:
       - question: "Who was co-consul with Caesar at the time of his death?"
@@ -36,7 +36,7 @@ questions:
       - question: "Translate this question into English: <latin>Ubi est lātrīna?</latin>"
         answer: "WHERE IS THE BATHROOM?"
   - tossup:
-      question: "What emperor, after executing his wife Fausta and eldest son Crispus in 326 A.D., left the empire to be divided among his three surviving sons and converted to Christianity on his deathbed in 337 A.D.?"
+      question: "What emperor, after executing his wife Fausta and eldest son Crispus in 326 AD, left the empire to be divided among his three surviving sons and converted to Christianity on his deathbed in 337 AD?"
       answer: "(FLAVIUS VALERIUS) CONSTANTINUS / CONSTANTINE THE GREAT / I"
     boni:
       - question: "Where had Constantine been declared emperor by his father’s troops in 306 AD?"

@@ -71,7 +71,7 @@ questions:
       question: "What pasture, originally belonging to the Tarquins, was used for military musters, exercising, and meetings of the <latin>comitia centuriata</latin>?"
       answer: "CAMPUS MARTIUS"
     boni:
-      - question: "What circus was built there in 221 B.C.?"
+      - question: "What circus was built there in 221 BC?"
         answer: "CIRCUS FLAMINIUS"
       - question: "Who built Rome’s first permanent theater in the <latin>Campus Martius</latin>?"
         answer: "GN. POMPEIUS MAGNUS / POMPEY (THE GREAT)"
@@ -124,7 +124,7 @@ questions:
       - question: "Give all of the active infinitives"
         answer: "<latin>SEDĒRE, SĒDISSE, SESSŪRUS (-A/-UM) ESSE</latin>"
   - tossup:
-      question: "Against whom did the <latin>praefectus urbi</latin> Sulpicianus bid for the imperial throne in A.D. 193?"
+      question: "Against whom did the <latin>praefectus urbi</latin> Sulpicianus bid for the imperial throne in AD 193?"
       answer: "DIDIUS IULIANUS"
     boni:
       - question: "Who was holding this imperial auction?"

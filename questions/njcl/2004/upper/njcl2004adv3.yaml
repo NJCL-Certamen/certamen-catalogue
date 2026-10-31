@@ -4,7 +4,7 @@ division: "Advanced"
 round: "Round 3"
 questions:
   - tossup:
-      question: "Who died as the result of a fall from his horse while campaigning against the Germans in 9 B.C.?"
+      question: "Who died as the result of a fall from his horse while campaigning against the Germans in 9 BC?"
       answer: "(NERO CLAUDIUS) DRUSUS"
     boni:
       - question: "To whom had Drusus been married?"
@@ -60,7 +60,7 @@ questions:
       - question: "Which of the brigands encountered by Theseus was the son of Polypemon and Sylea?"
         answer: "SIN(N)IS / PITYOCAMPTES"
   - tossup:
-      question: "Who led the Roman army which drove the Samnites out of Lucania in 298 B.C.?"
+      question: "Who led the Roman army which drove the Samnites out of Lucania in 298 BC?"
       answer: "(L. CORNELIUS) SCIPIO <emphasis>BARBATUS</emphasis>"
     boni:
       - question: "Of what war was this the beginning?"

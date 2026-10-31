@@ -79,7 +79,7 @@ questions:
       question: "Who became the sole Augustus of the Roman Empire in AD 324?"
       answer: "CONSTANTINE I / GREAT"
     boni:
-      - question: "What rival did Constantine defeat in A.D. 324?"
+      - question: "What rival did Constantine defeat in AD 324?"
         answer: "LICINIUS"
       - question: "What rival had Constantine defeated twelve years earlier at the Battle of the Milvian Bridge?"
         answer: "MAXENTIUS"
@@ -148,7 +148,7 @@ questions:
       - question: "What does the abbreviation <latin>M.A.</latin> mean when it stands for <latin>magister artium</latin>?"
         answer: "MASTER OF ARTS"
   - tossup:
-      question: "In the 2nd century A.D., what city was the capital of the province of <latin>Britannia</latin>?"
+      question: "In the 2nd century AD, what city was the capital of the province of <latin>Britannia</latin>?"
       answer: "<latin>LONDINIUM</latin> / LONDON"
     boni:
       - question: "What city was the capital of the province of <latin>Sicilia</latin>?"

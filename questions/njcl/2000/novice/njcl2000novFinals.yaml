@@ -13,7 +13,7 @@ questions:
         answer: "CAUSE / SOURCE-ORIGIN / SEPARATION (if “object of preposition is given”, ask for a specific usage of the Ablative)"
   - tossup:
       question: "Which Roman king was the son of Demaratus, a Corinthian aristocrat who had migrated to Tarquinia?"
-      answer: "TARQUINIUS PRISCUS"
+      answer: "(L.) TARQUINIUS PRISCUS"
     boni:
       - question: "Who were responsible for the assassination of Tarquinius Priscus?"
         answer: "SONS OF ANCUS MARTIUS"
@@ -36,7 +36,7 @@ questions:
       - question: "What did Poseidon do after the river gods rewarded the patronage of Argos to Hera?"
         answer: "DRIED UP THE SPRINGS/RIVERS IN ARGOS / FLOODED THE REGION OFARGOS"
   - tossup:
-      question: "Who in 72 B.C. won a series of victories forcing Mithridates to flee into exile in Armenia?"
+      question: "Who in 72 BC won a series of victories forcing Mithridates to flee into exile in Armenia?"
       answer: "(L. LICINIUS) LUCULLUS"
     boni:
       - question: "Who led the mutiny in Lucullus’ army that allowed Mithridates to regain most of the territory that he had lost?"
@@ -45,20 +45,20 @@ questions:
         answer: "PHARNACES (II)"
   - tossup:
       question: "Using the standard construction used with the verb <latin>iubeō</latin>, say in Latin: The master ordered the slaves to carry the wine"
-      answer: "<latin>DOMINUS SERVŌS IUSSIT/IUBĒBAT VĪNUM/VĪNA PORTĀRE</latin>"
+      answer: "<latin>DOMINUS SERVŌS IUSSIT / IUBĒBAT VĪNUM / VĪNA PORTĀRE</latin>"
     boni:
       - question: "Translate into Latin: The slaves will not be able to drink the wine"
-        answer: "<latin>SERVĪ NŌN POTERUNT VĪNUM/VĪNA BIBERE/POTĀRE/HAURĪRE</latin>"
+        answer: "<latin>SERVĪ NŌN POTERUNT VĪNUM / VĪNA BIBERE / POTĀRE / HAURĪRE</latin>"
       - question: "Translate into Latin: The wine did not please the master’s daughters"
-        answer: "<latin>VĪNUM NŌN PLĀCĒBAT/PLACUIT FĪLIĀBUS DOMINĪ</latin>"
+        answer: "<latin>VĪNUM NŌN PLĀCĒBAT / PLACUIT FĪLIĀBUS DOMINĪ</latin>"
   - tossup:
-      question: "Which Roman emperor attacked the Parthian capital of Ctesiphon in A.D. 115?"
-      answer: "TRAJAN"
+      question: "Which Roman emperor attacked the Parthian capital of Ctesiphon in AD 115?"
+      answer: "(M. ULPIUS) TRAJAN(US)"
     boni:
       - question: "What two new provinces did Trajan create out of Parthian territory?"
         answer: "ASSYRIA & MESOPOTAMIA (NOT ARMENIA)"
       - question: "The province of Mesopotamia was abandoned by the emperor Hadrian. Who was the next emperor to re-annex Mesopotamia as a province of Rome?"
-        answer: "SEPTIMIUS SEVERUS"
+        answer: "(L.) SEPTIMIUS SEVERUS"
   - tossup:
       question: "In Book XXIII of Homer’s <title>Odyssey</title>, who awakened Penelope and joyously announced the return of Odysseus?"
       answer: "EURYCLEIA"
@@ -71,7 +71,9 @@ questions:
       question: "For the verb <latin>moneō</latin>, give the present participle"
       answer: "<latin>MONĒNS</latin>"
     boni:
-      - question: "Give the present participle of the verb <latin>eō.IĒNS</latin> Using a participle, translate “listening” into Latin for this sentence: Catullus read his love poems to the women listening in the theater"
+      - question: "Give the present participle of the verb <latin>eō</latin>."
+        answer: "<latin>IĒNS</latin>
+      - question: "Using a participle, translate “listening” into Latin for this sentence: Catullus read his love poems to the women listening in the theater"
         answer: "<latin>AUDIENTIBUS</latin>"
   - tossup:
       question: "What derivative of the Latin verb of “say or speak” means “a decree?”"
@@ -109,17 +111,17 @@ questions:
       question: "Based upon its etymology, what does the latin word <latin>trāditiō</latin> mean?"
       answer: "A GIVING/HANDING ACROSS"
     boni:
-      - question: "<latin>ēlocūtiō</latin>?"
+      - question: "Based upon its etymology, what does the latin word <latin>ēlocūtiō</latin> mean?"
         answer: "A SPEAKING OUT"
-      - question: "<latin>collātiō</latin>?"
+      - question: "Based upon its etymology, what does the latin word <latin>collātiō</latin> mean?"
         answer: "A BRINGING/CARRYING TOGETHER"
   - tossup:
       question: "What was the Latin term for a teacher of reading, writing, and arithmetic to 7 to 11 year old children?"
-      answer: "<latin>LITTERATOR</latin>"
+      answer: "<latin>LITTERATOR / LUDI MAGISTER</latin>"
     boni:
-      - question: "or <latin>LUDI MAGISTER</latin> What was the school of a <latin>litterator</latin> called?"
-        answer: "<latin>SCHOLA</latin>"
-      - question: "or <latin>LUDUS</latin> What was the teacher of grammar and literature called?"
+      - question: "What was the school of a <latin>litterator</latin> called?"
+        answer: "<latin>SCHOLA / LUDUS</latin>"
+      - question: "What was the teacher of grammar and literature called?"
         answer: "<latin>GRAMMATICUS</latin>"
   - tossup:
       question: "(VISUAL QUESTION) -- PASS OUT VISUALS TO EACH PLAYER; DO NOT OPEN THE VISUAL UNTIL PROMPTED. YOU WILL THEN BE GIVEN 15 SECONDS TO EXAMINE IT. (WAIT FOR ALL STUDENTS TO BE READY FOR THE QUESTION) NOW OPEN YOUR VISUAL. YOU HAVE 15 SECONDS TO EXAMINE IT. I WILL NOW ASK YOU A QUESTION IN LATIN ABOUT THE VISUAL. THEN I WILL READ FOUR POSSIBLE ANSWER CHOICES. REPEAT THE STATEMENT THAT ANSWERS THE QUESTION. <latin>In quartā pictūrā, quid facit medicus?</latin> HERE ARE YOUR CHOICES: <latin>salūtat mīlitem, parat medicīnam, inspicit oculōs, ōscula dat.</latin>"
@@ -139,19 +141,19 @@ questions:
         answer: "TEUMESSIAN VIXEN / FOX"
   - tossup:
       question: "It’s 10 p.m. on a Tuesday evening and you’re watching a rerun of NYPD Blue. The first thing you see is the body of the victim of the crime. What Latin phrase may be used to describe this “body of the crime”?"
-      answer: "CORPUS DELICTI"
+      answer: "<latin>CORPUS DELICTI</latin>"
     boni:
       - question: "The corpse can be described as <latin>in locō crīminis</latin>. What does this mean?"
         answer: "IT HAS BEEN FOUND “IN THE SCENE OF THE CRIME”"
       - question: "Luckily, the body has been covered to mask the stiffness that has already set in from death. What Latin phrase would be used to describe this stiffness?"
-        answer: "RIGOR MORTIS"
+        answer: "<latin>RIGOR MORTIS</latin>"
   - tossup:
-      question: "Who sabotaged Diocletian’s rule by tetrarchy when he declared himself an Augustus in A.D. 306?"
+      question: "Who sabotaged Diocletian’s rule by tetrarchy when he declared himself an Augustus in AD 306?"
       answer: "MAXENTIUS"
     boni:
       - question: "Name Maxentius’ father who at first supported his son"
         answer: "MAXIMIAN"
-      - question: "Name the legitimate Augustus whom Maxentius murdered at Ravenna in A.D. 307"
+      - question: "Name the legitimate Augustus whom Maxentius murdered at Ravenna in AD 307"
         answer: "(FLAVIUS VALERIUS) SEVERUS"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Surge et dā ōsculum ūnī ex tuīs sociīs</latin>"

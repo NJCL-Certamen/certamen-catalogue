@@ -53,12 +53,12 @@ questions:
         answer: "<latin>ŪNĪ EXERCITUĪ</latin>"
   - tossup:
       question: "The noun <latin>capitī</latin> does NOT agree with which of the following adjectives?"
-      answer: "<emphasis>Ū</emphasis><emphasis><latin>N</latin></emphasis><emphasis>Ō</emphasis>, <latin>MAGNŌ, ŪNĪ</latin>"
+      answer: "<emphasis>Ū<latin>N</latin>Ō</emphasis>, <latin>MAGNŌ, ŪNĪ</latin>"
     boni:
       - question: "The noun <latin>sanguinis</latin> CAN agree with which of the following adjectives?"
-        answer: "<latin>RUBER</latin>, <emphasis><latin>RUBR</latin></emphasis><emphasis>Ī</emphasis>, <latin>RUBRIS</latin>"
+        answer: "<latin>RUBER</latin>, <emphasis><latin>RUBR</latin>Ī</emphasis>, <latin>RUBRIS</latin>"
       - question: " The noun <latin>nūbēs</latin> CAN agree with which of the following adjectives?"
-        answer: "<latin>ĀTRĪ</latin>, <emphasis>Ā</emphasis><emphasis><latin>TRA</latin></emphasis>, <latin>ĀTRUM</latin>"
+        answer: "<latin>ĀTRĪ</latin>, <emphasis>Ā<latin>TRA</latin></emphasis>, <latin>ĀTRUM</latin>"
   - tossup:
       question: "Give the third person singular, future perfect active indicative of the verb <latin>capiō</latin>"
       answer: "<latin>CĒPERINT</latin>"

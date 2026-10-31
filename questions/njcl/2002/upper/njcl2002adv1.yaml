@@ -83,7 +83,7 @@ questions:
         answer: "MEANS / INSTRUMENT"
   - tossup:
       question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō discere multa carmina scripta ā poētīs Rōmānīs</latin>  <latin>quia magistrī semper prōfitentur, ut discipulī in exāmīnātiōne bene agant,</latin>  <latin>carmina poētārum, praesertim Catullī, in memōriā tenenda esse.</latin>  <latin>Quī multa carmina composuerant?</latin>"
-      answer: "<emphasis><latin>PO</latin></emphasis><emphasis>Ē</emphasis><emphasis><latin>TAE</latin></emphasis> <latin>RŌMĀNĪ</latin>"
+      answer: "<emphasis><latin>PO</latin>Ē<latin>TAE</latin></emphasis> <latin>RŌMĀNĪ</latin>"
     boni:
       - question: "<latin>Cūr necesse est discipulīs carmina discere?</latin> "
         answer: "<latin>UT BENE IN EXĀMĪNĀTIŌNE AGANT / BENE AGERE NECESSE EST</latin>"

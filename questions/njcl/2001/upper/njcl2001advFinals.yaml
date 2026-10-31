@@ -39,7 +39,7 @@ questions:
       question: "Using a gerundive, translate the following sentence into Latin: “Cicero must write his own speeches.”"
       answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ SCRĪBENDAE SUNT</latin>"
     boni:
-      - question: " Using <emphasis>the verb</emphasis> <emphasis><latin>pare</latin></emphasis><emphasis>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
+      - question: " Using <emphasis>the verb <latin>pare</latin>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
         answer: "<latin>OMNIBUS LĒGIBUS BONĪS PARENDUM EST</latin>"
       - question: " Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
         answer: "Ā <latin>PIŌ DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"

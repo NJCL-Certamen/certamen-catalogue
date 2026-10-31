@@ -48,7 +48,7 @@ questions:
       answer: "WHAT <emphasis>TIME</emphasis> IS IT?"
     boni:
       - question: "This person then asks \"<latin>Quandō imperātor veniet?\"</latin> What does he want to know?"
-        answer: "<emphasis>WHEN</emphasis> THE GENERAL / <emphasis>EMPEROR</emphasis> WILL <emphasis>COME</emphasis> / <emphasis>COMES</emphasis>"
+        answer: "<emphasis>WHEN</emphasis> THE GENERAL / <emphasis>EMPEROR</emphasis> WILL <emphasis>COME / COMES</emphasis>"
       - question: "Your reply to the question is “<latin>trīgintā minūtīs</latin>.\" When will the general be arriving?"
         answer: "IN / WITHIN THIRTY MINUTES"
   - tossup:

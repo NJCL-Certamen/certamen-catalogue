@@ -16,13 +16,15 @@ questions:
       answer: "<latin>DŪCŌ</latin>"
     boni:
       - question: "Give an antonym of <latin>prōcēdō</latin>"
-        answer: "<latin>RĒCĒDŌ, REVERTŌ, REVERTOR, REVENIŌ</latin>"
+        answer: "<latin>RĒCĒDŌ / REVERTŌ / REVERTOR / REVENIŌ</latin>"
       - question: "Give an antonym of <latin>dōnō</latin>"
-        answer: "<latin>RĒCIPIŌ, CAPIŌ, RAPIŌ</latin>"
+        answer: "<latin>RĒCIPIŌ / CAPIŌ / RAPIŌ</latin>"
   - tossup:
-      question: "Give the Latin term for the kind of structures built in Rome by Agrippa, Titus, Trajan, Caracalla, and Diocletain, <latin>THERMAE</latin> (PASS OUT THE VISUALS) What is the Latin term for the room of a bath complex as illustrated at the top of the page?"
-      answer: "<latin>APODYTERIUM</latin>"
+      question: "Give the Latin term for the kind of structures built in Rome by Agrippa, Titus, Trajan, Caracalla, and Diocletain.
+      answer: <latin>THERMAE</latin>"
     boni:
+      - question: "(PASS OUT THE VISUALS) What is the Latin term for the room of a bath complex as illustrated at the top of the page?"
+        answer: "<latin>APODYTERIUM</latin>"
       - question: "What is the Latin term for the four item on the middle of the ring at the bottom of the page?"
         answer: "<latin>STRIGILES</latin>"
   - tossup:
@@ -35,12 +37,12 @@ questions:
         answer: "(PALLAS) ATHENA"
   - tossup:
       question: "Differentiate in meaning between <latin>salvus</latin> and <latin>salūs</latin>."
-      answer: "<latin>SALVUS</latin> – SAVE, WELL, SOUND, UNHARMED <latin>SALŪS</latin> – SAFETY, HEALTH, GREETING"
+      answer: "<latin>SALVUS</latin> – SAVE / WELL / SOUND / UNHARMED <latin>SALŪS</latin> – SAFETY / HEALTH / GREETING"
     boni:
       - question: "Differentiate in meaning between <latin>perīre</latin> and <latin>parīre</latin>."
-        answer: "<latin>PERĪRE</latin> – PERISH, DIE, BE DESTROYED <latin>PARĪRE</latin> – BRING FORTH, BEAR, GIVE BIRTH TO, PRODUCE, PROCURE, GAIN"
+        answer: "<latin>PERĪRE</latin> – PERISH / DIE / BE DESTROYED <latin>PARĪRE</latin> – BRING FORTH / BEAR / GIVE BIRTH TO / PRODUCE / PROCURE / GAIN"
       - question: "Differentiate in meaning between <latin>digitus</latin> and <latin>dignitās</latin>."
-        answer: "<latin>DIGITUS</latin> – FINGER, TOE <latin>DIGNITĀS</latin> – WORTH, MERIT, DIGNITY, RANK, HONOR, PRESTIGE"
+        answer: "<latin>DIGITUS</latin> – FINGER / TOE <latin>DIGNITĀS</latin> – WORTH / MERIT / DIGNITY / RANK / HONOR / PRESTIGE"
   - tossup:
       question: "Who tricked Sempronius Longus and P. Cornelius Scipio into attacking him across a swollen and icy-cold river in 218 BC?"
       answer: "HANNIBAL"
@@ -82,7 +84,7 @@ questions:
       - question: "<latin>Stantēs, prōclāmāte Anglicē nōmen statūs in quō habitātis</latin>"
         answer: "WHILE STANDING, STUDENTS SHOUT OUT THE NAME OF THE STATE IN WHICH THEY LIVE"
   - tossup:
-      question: "What newly proclaimed emperor’s first act was the kill the treacherous Praetorian Prefect Aper?"
+      question: "What newly proclaimed emperor’s first act was to kill the treacherous Praetorian Prefect Aper?"
       answer: "DIOCLETIAN"
     boni:
       - question: "What emperor (and his son) did Aper probably kill but claimed had been struck by lightning?"
@@ -98,12 +100,12 @@ questions:
       - question: "The nouns <latin>māteria</latin> and <latin>saevitia</latin> are also heteroclites. In which two declensions do they varying forms?"
         answer: "FIRST & FIFTH"
   - tossup:
-      question: "What is the case and use of <latin>urbs</latin> in the sentence: <latin>Multae rēs ōrnāmentō urbī sunt</latin>"
+      question: "What is the case and use of <latin>urbs</latin> in the sentence: <latin>Multae rēs ōrnāmentō urbī sunt</latin>?"
       answer: "DATIVE OF REFERENCE"
     boni:
-      - question: ": <latin>Meministi Urbis pulchritūdinis hieme?</latin>"
+      - question: "What is the case and use of <latin>urbs</latin> in the sentence: <latin>Meministi Urbis pulchritūdinis hieme?</latin>"
         answer: "GENITIVE OF POSSESSION"
-      - question: ": <latin>Rōma antīquior nostrā urbe est</latin>"
+      - question: "What is the case and use of <latin>urbs</latin> in the sentence: <latin>Rōma antīquior nostrā urbe est</latin>?"
         answer: "ABLATIVE OF COMPARISON"
   - tossup:
       question: "Which of the Olympians was the inventor of the flute?"
@@ -112,7 +114,7 @@ questions:
       - question: "Under what circumstances did Athena invent the flute?"
         answer: "SHE HEARD THE LAMENTATIONS (AND THE HISSING OF THE SERPENT HAIR) OF THE TWO SURVIVING GORGONS AND MADE THE FLUTE TO IMITATE THE SOUND"
       - question: "Why did she throw away this newly invented musical instrument?"
-        answer: "BECAUSE THE FLUTE DISTORTED HER CHEEKS/FACE (WHEN SHE BLEW INTO THE FLUTE)"
+        answer: "BECAUSE THE FLUTE DISTORTED HER CHEEKS / FACE (WHEN SHE BLEW INTO THE FLUTE)"
   - tossup:
       question: "Against what triplets did the Horatii brothers fight?"
       answer: "CURIATII"
@@ -128,14 +130,14 @@ questions:
       - question: "What Roman commander did Sertotius defeat in hand-to-hand combat?"
         answer: "POMPEY (CN. POMPEIUS MAGNUS)"
       - question: "Who assassinated Sertorius and usurped his command only to be defeated and executed by Pompey?"
-        answer: "(M.) PERPERNA (VEIENTO"
+        answer: "(M.) PERPERNA (VEIENTO)"
   - tossup:
-      question: "What derivative of the Latin noun for “year” means “lastin thorugh the year or through many years?”"
+      question: "What derivative of the Latin noun for “year” means “lasting thorugh the year or through many years?”"
       answer: "PERENNIAL"
     boni:
-      - question: "“occurring two times a year?”"
-        answer: "BIANNUAL"
-      - question: "or SEMIANNUAL . . . “occurring every two years?”"
+      - question: "What derivative of the Latin noun for “year” means “occurring two times a year?”"
+        answer: "BIANNUAL / SEMIANNUAL"
+      - question: "What derivative of the Latin noun for “year” means “occurring every two years?”"
         answer: "BIENNIAL"
   - tossup:
       question: "What king of Ethiopia was the father-in-law of Perseus?"

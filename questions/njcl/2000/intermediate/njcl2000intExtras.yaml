@@ -79,9 +79,9 @@ questions:
       question: "What tense of the infinitive would be required to translate “run” into Latin for this sentence: I knew that Julia was running around the pool?"
       answer: "PRESENT"
     boni:
-      - question: ": I knew that Julia had run around the pool?"
+      - question: "What tense of the infinitive would be required to translate “run” into Latin for this sentence: I knew that Julia had run around the pool?"
         answer: "PERFECT"
-      - question: ": I know that Julia was running around the pool?"
+      - question: "What tense of the infinitive would be required to translate “run” into Latin for this sentence: I know that Julia was running around the pool?"
         answer: "PERFECT"
   - tossup:
       question: "Give the two Latin roots and their meanings from which we get “magnanimous.”"
@@ -109,17 +109,17 @@ questions:
         answer: "<latin>LECTUS ĪMUS</latin>"
   - tossup:
       question: "Who organized the coup which overthrew his cousin Tarquinius Superbus and established the Roman Republic?"
-      answer: "(LUCIUS JUNIUS) BRUTUS"
+      answer: "(L. IUNIUS) BRUTUS"
     boni:
       - question: "Who was selected in 509 BC with Brutus as the first consuls?"
-        answer: "(TARQUINIUS) COLLATINUS"
+        answer: "(L. TARQUINIUS) COLLATINUS"
       - question: "Why did Brutus execute his own sons?"
         answer: "PLOTTED TO REINSTATE TARQUIN"
   - tossup:
       question: "Who served as Rome’s first plebeian consul in 366 BC?"
       answer: "(L.) SEXTIUS (SEXTINUS LATERANUS)"
     boni:
-      - question: "With whom had served Sextius served as <latin>tribunus plebis</latin> and secured legislation allowing one of the consulships to be a plebeian?"
+      - question: "With whom had Sextius served as <latin>tribunus plebis</latin> and secured legislation allowing one of the consulships to be a plebeian?"
         answer: "(C.) LICINIUS (STOLO)"
       - question: "How many years of struggle did it take these two tribunes to secure their legislation?"
         answer: "TEN"
@@ -133,10 +133,10 @@ questions:
         answer: "KILLED BY MUTINOUS SOLDIERS"
   - tossup:
       question: "What native of the province of Baetica became emperor in AD 98?"
-      answer: "(MARCUS ULPIUS) TRAIANUS - TRAJAN"
+      answer: "(M. ULPIUS) TRAJAN(US)"
     boni:
       - question: "What earlier emperor had given Latin rights to all the Spanish provinces?"
-        answer: "VESPASIAN"
+        answer: "(T. FLAVIUS) VESPASIAN(US)"
       - question: "What group of barbarians took over Spain in the 5th century AD?"
         answer: "VISIGOTHS"
   - tossup:
@@ -152,9 +152,9 @@ questions:
       answer: "GREECE"
     boni:
       - question: "In what modern country would you find Mt. Ida?"
-        answer: "CRETE"
-      - question: "or TURKEY In what modern country would you find Mt. Graupius?"
-        answer: "SCOTLAND/UK/GREAT BRITAIN"
+        answer: "CRETE / TURKEY"
+      - question: "In what modern country would you find Mt. Graupius?"
+        answer: "SCOTLAND / UK / GREAT BRITAIN"
   - tossup:
       question: "What Phaeacian queen received Odysseus hospitably?"
       answer: "ARETE"

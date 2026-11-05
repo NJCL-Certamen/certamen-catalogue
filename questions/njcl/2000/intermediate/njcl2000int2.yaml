@@ -8,22 +8,24 @@ questions:
       answer: "MARCUS AURELIUS"
     boni:
       - question: "Who had insisted that Marcus be adopted as the heir of Antoninus Puis?"
-        answer: "HADRIAN"
+        answer: "(P. AELIUS) HADRIAN(US)"
       - question: "Who else had Hadrian required to be adopted by Antoninus?"
-        answer: "LUCIUS AURELIUS VERUS (LUCIUS CEIONIUS COMMODUS)"
+        answer: "LUCIUS (AURELIUS) VERUS (L. CEIONIUS COMMODUS)"
   - tossup:
       question: "Listen carefully to the following sentence, which I will read twice, and answer IN LATIN the question about it: <latin>Relictī in īnsulā barbarā, nautae dīcēbant sē mūrēs ferōs edere coāctōs esse. Quālēs hominēs in īnsulā relictī erant?</latin>"
-      answer: "NAUTAE"
+      answer: "<latin>NAUTAE</latin>"
     boni:
-      - question: "Quālēs mūrēs in īnsulā <latin>erant?</latin>"
-        answer: "FĒRĪ"
+      - question: "<latin>Quālēs mūrēs in īnsulā erant?</latin>"
+        answer: "<latin>FĒRĪ</latin>"
       - question: "<latin>Quibus mūrēs edendī erant?</latin>"
-        answer: "NAUTĪS"
+        answer: "<latin>NAUTĪS</latin>"
   - tossup:
       question: "According to Hesiod, who was the first-born daughter of Cronus and Rhea?"
       answer: "HESTIA"
     boni:
-      - question: "According to the <title>Homeric Hymn to Aphrodite</title>, two of the Olympians unsuccessfully sought to marry Hestia. For five points, name one of these two deities. <title>see below for answer</title>  For five more points, name the other"
+      - question: "According to the <title>Homeric Hymn to Aphrodite</title>, two of the Olympians unsuccessfully sought to marry Hestia. For five points, name one of these two deities."
+        answer: "SEE BELOW"
+      - question: "For five more points, name the other"
         answer: "(PHOEBUS) APOLLO / POSEIDON"
   - tossup:
       question: "Give the third person singular, imperfect active subjunctive for <latin>dīvidō</latin>"
@@ -46,7 +48,7 @@ questions:
       answer: "SAMNITES (PASS OUT THE VISUAL)"
     boni:
       - question: "Please study the visual. For five points each, in what war and after what battle did the incidence depicted in the visual occur?"
-        answer: "SECOND SAMNITE WAR"
+        answer: "SECOND SAMNITE WAR, CAUDINE FORKS"
   - tossup:
       question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: eloquent, ventriloquist, circumlocution, colloquial, loquacious?"
       answer: "NONE"
@@ -119,12 +121,12 @@ questions:
         answer: "<latin>CURRĒMUS DOMUM</latin>"
   - tossup:
       question: "From what Latin verb with what meaning is the English word “abort” derived?"
-      answer: "<latin>ORIOR</latin>"
+      answer: "<latin>ORIOR</latin> – RISE"
     boni:
-      - question: "– RISE From what Latin verb with what meaning is the English word “exhort” derived?"
-        answer: "<latin>HORTOR</latin>"
-      - question: "– ENCOURAGE From what Latin verb with what meaning is the English word “retort” derived?"
-        answer: "<latin>TORQUEŌ</latin>"
+      - question: "From what Latin verb with what meaning is the English word “exhort” derived?"
+        answer: "<latin>HORTOR</latin> – ENCOURAGE"
+      - question: "From what Latin verb with what meaning is the English word “retort” derived?"
+        answer: "<latin>TORQUEŌ</latin> – TWIST"
   - tossup:
       question: "Give a synonym for <latin>iūcundus</latin>"
       answer: "<latin>GRĀTUS</latin>"
@@ -135,17 +137,17 @@ questions:
         answer: "<latin>TEMPLUM, FANUM, AEDĒS</latin>"
   - tossup:
       question: "Who returned from Africa, starved Rome into submission, and instituted a reign of terror in 87 BC?"
-      answer: "C. MARIUS"
+      answer: "(C.) MARIUS"
     boni:
       - question: "Who finally forced Marius to stop his bloody rampage of revenge?"
         answer: "(L. CORNELIUS) CINNA"
-      - question: "To how many consulships had Marcius been elected when he dies in 86 BC?"
+      - question: "To how many consulships had Marius been elected when he died in 86 BC?"
         answer: "SEVEN"
   - tossup:
       question: "<latin>Cum, sine</latin> and <latin>prō : praepositiōnēs :: equus, mare</latin> and <latin>mīlēs</latin> : ________?"
       answer: "<latin>NŌMINA</latin>"
     boni:
-      - question: "Cum : <latin>praepositiō :: sed</latin> : ________?"
+      - question: "<latin>Cum : praepositiō :: sed</latin> : ________?"
         answer: "<latin>CONIŪNCTIŌ</latin>"
       - question: "<latin>Sed : coniūnctiō :: Heu</latin> : _______?"
         answer: "<latin>INTERIECTIŌ</latin>"

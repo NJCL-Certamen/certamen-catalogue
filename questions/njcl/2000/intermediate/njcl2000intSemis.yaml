@@ -69,9 +69,9 @@ questions:
       question: "What word or words would best be used to introduce the dependent subjunctive clause if the following sentence were translated into Latin: “Marcus ran into the house so that he would not be beaten by the soldiers.”"
       answer: "<latin>NĒ</latin>"
     boni:
-      - question: "“So great was the slaughter that very few escaped.”"
+      - question: "What word or words would best be used to introduce the dependent subjunctive clause if the following sentence were translated into Latin: “So great was the slaughter that very few escaped.”"
         answer: "<latin>UT</latin>"
-      - question: "... “There is no doubt that few citizens will survive the slaughter.”"
+      - question: "What word or words would best be used to introduce the dependent subjunctive clause if the following sentence were translated into Latin: “There is no doubt that few citizens will survive the slaughter.”"
         answer: "<latin>QUĪN</latin>"
   - tossup:
       question: "What giant is eternally punished in the Underworld by having his body streched to cover nine acres while two vultures ate his heart?"
@@ -82,19 +82,15 @@ questions:
       - question: "Who was the father of Tityus?"
         answer: "ZEUS / JUPITER"
   - tossup:
-      question: "11"
-      answer: "(PASS OUT THE VISUALS)"
+      question: "(PASS OUT THE VISUALS) You now have 30 seconds to examine the inscription (WAIT 30 SECONDS): The visual you see is from a tombstone that was found in a Roman burial area in Colchester, England. According to the inscription, who had the inscription placed there?"
+      answer: "THE <emphasis>FREEDMEN</emphasis> OF MARCUS FAVONIUS POLLIA FACILIS / VERECUNDUS AND NOVICIUS"
     boni:
-      - question: "You now have 30 seconds to examine the inscription"
-        answer: "(WAIT 30 SECONDS)."
-      - question: "The visual you see is from a tombstone that was found in a Roman burial area in Colchester, England. According to the inscription, who had the inscription placed there?"
-        answer: "THE <emphasis>FREEDMEN</emphasis> OF MARCUS FAVONIUS POLLIA FACILIS / VERECUNDUS AND NOVICIUS"
       - question: "According to the inscription, what was Marcus Favonius Pollia Facilis’specific job when he was alive?"
-        answer: "HE WAS A <emphasis>CENTURION</emphasis> OF <emphasis>LEGION</emphasis>"
-      - question: "20 What is the Latin and English for the standard abbreviation found at the end of the inscription, H.S.E.?"
+        answer: "HE WAS A <emphasis>CENTURION</emphasis> OF A <emphasis>LEGION</emphasis>"
+      - question: "What is the Latin and English for the standard abbreviation found at the end of the inscription, H.S.E.?"
         answer: "<latin>HĪC SITUS EST / HĪC SEPULTUS EST</latin>"
   - tossup:
-      question: "Who was married to Clodius, then Curio, and finally Mark Anthony?"
+      question: "Who was married to Clodius, then Curio, and finally Mark Antony?"
       answer: "FULVIA"
     boni:
       - question: "During the Second Triumvirate how did she become very rich?"
@@ -123,15 +119,15 @@ questions:
     boni:
       - question: "According to Homer’s <title>Iliad</title>, who was the wife of Hephaestus?"
         answer: "CHARIS"
-      - question: "In Homer’s <title>Odyssey,</title> who tells the story of how Aphrodite made a fool of her husband Hephaestus?"
+      - question: "In Homer’s <title>Odyssey</title>, who tells the story of how Aphrodite made a fool of her husband Hephaestus?"
         answer: "DEMODOCUS"
   - tossup:
       question: "Which of the following does not belong because of gender: <latin>Īdūs, cāsus, dominus, incola, amātor?</latin>"
-      answer: "ĪDŪS"
+      answer: "<latin>ĪDŪS</latin>"
     boni:
-      - question: "... <latin>sermō, legiō, virtūs, arbor, puella</latin>?"
+      - question: "Which of the following does not belong because of gender: <latin>sermō, legiō, virtūs, arbor, puella</latin>?"
         answer: "<latin>SERMŌ</latin>"
-      - question: "<latin>cor, ōs, rōbur, ōrdō, vērū</latin>?"
+      - question: "Which of the following does not belong because of gender: <latin>cor, ōs, rōbur, ōrdō, vērū</latin>?"
         answer: "<latin>ŌRDŌ</latin>"
   - tossup:
       question: "The Oppius and the Cispius are projections of which of the hills of Rome?"
@@ -140,14 +136,14 @@ questions:
       - question: "In early times the Esquiline was used as a cemetery for whom?"
         answer: "PAUPERS"
       - question: "Which emperor built a huge palace complex, of which a major part was on the Esquiline?"
-        answer: "NERO (<title>DOMUS AUREA</title>)"
+        answer: "NERO (<latin>DOMUS AUREA</latin>)"
   - tossup:
       question: "What use of the subjunctive is found in the following sentence: <latin>Eī ostendit unde vēnisset et quis esset?</latin>"
       answer: "INDIRECT QUESTION"
     boni:
-      - question: ": <latin>Castra mūnīvērunt quō facilius hostium impetūs sustinērent.</latin>"
+      - question: "What use of the subjunctive is found in the following sentence: <latin>Castra mūnīvērunt quō facilius hostium impetūs sustinērent.</latin>"
         answer: "PURPOSE / FINAL"
-      - question: ": <latin>Vereor nē hoc facilius sit.</latin>"
+      - question: "What use of the subjunctive is found in the following sentence: <latin>Vereor nē hoc facilius sit.</latin>"
         answer: "FEARING / SUBSTANTIVE CLAUSE OF PURPOSE"
   - tossup:
       question: "What title was given to the highest ranking centurion of a legion?"

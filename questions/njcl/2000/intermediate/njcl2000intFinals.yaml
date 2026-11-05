@@ -5,12 +5,12 @@ round: "Finals"
 questions:
   - tossup:
       question: "Name the two individuals who pursued Artemis and annoyed her so much that she caused them to kill each other with arrows?"
-      answer: "CRETE"
+      answer: "OTUS AND EPHIALTES"
     boni:
       - question: "Who was their mother?"
         answer: "IPHIMEDIA"
       - question: "Who was their father and their foster-father?"
-        answer: ""
+        answer: "POSEIDON / NEPTUNE AND ALOEUS"
   - tossup:
       question: "What garment, originally a military cloak, was worn extensively by the middle class during the Empire in the place of the toga?"
       answer: "<latin>LACERNA</latin>"
@@ -37,7 +37,7 @@ questions:
         answer: "<latin>VIREŌ, VIRĒRE</latin> - BE GREEN, STRONG, ALIVE"
   - tossup:
       question: "What Roman general showed his love of Greek art by looting every painting, sculpture, and monument he could ship home, after he captured Athens in 86 BC?"
-      answer: "L. CORNELIUS SULLA"
+      answer: "(L. CORNELIUS) SULLA (FELIX)"
     boni:
       - question: "From what enemy of Rome was Sulla retaking Athens?"
         answer: "MITHRIDATES (VI OF PONTUS)"
@@ -96,8 +96,8 @@ questions:
       answer: "ALBA LONGA"
     boni:
       - question: "Name the son of Aeneas who was the founder of Alba Longa"
-        answer: "ASCANIUS"
-      - question: "or ILUS or IULUS Which Roman king supposedly destroyed Alba Longa and transferred its population to Rome?"
+        answer: "ASCANIUS / ILUS / IULUS"
+      - question: "Which Roman king supposedly destroyed Alba Longa and transferred its population to Rome?"
         answer: "TULLUS HOSTILIUS"
   - tossup:
       question: "For what Latin phrase does the abbreviation <latin>ad init.</latin> stand and what does the phrase mean?"
@@ -111,7 +111,7 @@ questions:
       question: "Translate the word <latin>cum</latin> into English for the following sentence: <latin>cum Marcus Rōmam eat, tam fēlīx est ut dormīre nōn possit.</latin>"
       answer: "SINCE / BECAUSE / WHEN"
     boni:
-      - question: ": <latin>cum Marcus in Fōrum Rōmānum īvisset, arcum Titī tamen nōn vīdit</latin>"
+      - question: "Translate the word <latin>cum</latin> into English for the following sentence: <latin>cum Marcus in Fōrum Rōmānum īvisset, arcum Titī tamen nōn vīdit</latin>"
         answer: "ALTHOUGH / EVEN THOUGH"
       - question: "What is the standard translation for the correlative <latin>cum...tum</latin>?"
         answer: "BOTH...AND / NOT ONLY... BUT ALSO"
@@ -124,28 +124,26 @@ questions:
       - question: "What son of Evander was sent to help Aeneas in his war against Turnus?"
         answer: "PALLAS"
   - tossup:
-      question: "16"
-      answer: "(PASS OUT THE VISUALS) DO NOT OPEN THE VISUALS UNTIL YOU ARE INSTRUCTED TO DO SO. YOU MAY OPEN THEM <emphasis>NOW</emphasis>."
+      question: "(PASS OUT THE VISUALS) DO NOT OPEN THE VISUALS UNTIL YOU ARE INSTRUCTED TO DO SO. YOU MAY OPEN THEM <emphasis>NOW</emphasis>: The picture you see is from an illustrated edition of <title>Metamorphoses</title> that was published in 1683 in Amsterdam and depicts various episodes of Heracles’ life. Look very carefully at the picture and identify the character labeled “E”"
+      answer: "NESSUS"
     boni:
-      - question: "The picture you see is from an illustrated edition of <title>Metamorphoses</title> that was published in 1683 in Amsterdam and depicts various episodes of Heracles’ life. Look very carefully at the picture and identify the character labeled “E”"
-        answer: "NESSUS"
       - question: "In the picture, please identify Antaeus, the son of Gaia, and explain your answer"
-        answer: "“A”"
-      - question: "or “C” / BECAUSE HE REGAINED HIS STRENGTH EVERY TIME HE TOUCHED THE GROUND Please identify the character labeled “D”"
+        answer: "“A” / “C” BECAUSE HE REGAINED HIS STRENGTH EVERY TIME HE TOUCHED THE GROUND"
+      - question: "Please identify the character labeled “D”"
         answer: "DEIANEIRA"
   - tossup:
       question: "Using the most standard grammatical construction with the verb <latin>iubeō</latin>, translate the following sentence into Latin: he ordered the soldiers to march for ten miles"
       answer: "<latin>IUSSIT MĪLITĒS DECEM MĪLIA PASSUUM ITER FACERE</latin>"
     boni:
       - question: "Now, translate that sentence using the most common grammatical construction with the verb <latin>mandō</latin>"
-        answer: "<latin>MANDĀVIT MĪLITIBUS UT</latin>"
-      - question: "(or <latin>UT MĪLITĒS) DECEM MĪLIA  PASSUUM ITER FACERENT</latin>  Now, using the most common grammatical construction with the verb <latin>mittō</latin>, translate the following sentence into Latin: he sent the soldiers to pitch camp"
+        answer: "<latin>MANDĀVIT {MĪLITIBUS UT / UT MĪLITĒS} DECEM MĪLIA  PASSUUM ITER FACERENT</latin>"
+      - question: "Now, using the most common grammatical construction with the verb <latin>mittō</latin>, translate the following sentence into Latin: he sent the soldiers to pitch camp"
         answer: "<latin>MĪSIT MĪLITĒS QUĪ CASTRA PONERENT</latin>"
   - tossup:
       question: "Let’s play “Who Wants To Be A Millionaire.” Listen carefully to the following passage, which I will read twice, then answer in LATIN the question that follows: <latin>Aliquā rē difficillimā interrogātā, certātōrī licet ūnam es hīs actiōnibus ēligere: amīcum vocāre, duō respona amovērī, aut sententiam ex audītōribus poscere.  Post quod factum auxilium certātōrī poscendum est?</latin>"
       answer: "<latin>ALIQUĀ RĒ DIFFICILLIMĀ INTERROGĀTĀ / POST REM DIFFICILLIMAM</latin>"
     boni:
-      - question: "Aliquā <latin>rē difficillimā interrogātā, quid certātor facere dēbet?</latin>"
+      - question: "<latin>Aliquā rē difficillimā interrogātā, quid certātor facere dēbet?</latin>"
         answer: "<latin>ĒLIGERE (ŪNAM) ACTIŌNEM</latin>"
       - question: "<latin>Dīc mihi quae sint duae ex actiōnibus certātōris?</latin>"
         answer: "STUDENT SHOULD NAME TWO OF THE FOLLOWING: <latin>VOCĀRE AMĪCUM</latin>"

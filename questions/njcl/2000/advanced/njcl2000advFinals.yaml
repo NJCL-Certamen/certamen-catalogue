@@ -26,7 +26,7 @@ questions:
       - question: "What extremely moralistic Greek historian did Sallust aspire to emulate?"
         answer: "THUCYDIDES"
       - question: "What is the title of Sallust’s greatest work, which was incomplete because Sallust died before he completed it?"
-        answer: "<title><latin>HISTORIAE</latin></title> / HISTORIES"
+        answer: "<title><latin>HISTORIAE</latin> / HISTORIES</title>"
   - tossup:
       question: "Using the adverb <latin>abhinc</latin>, say in Latin “Would that the gladiator had come five years ago”"
       answer: "<latin>UTINAM GLADIĀTOR QUĪNQUE ANNŌS/ANNĪS ABHINC VĒNISSET</latin>"
@@ -45,7 +45,7 @@ questions:
         answer: "DAEDALION"
   - tossup:
       question: "What Jewish rebel leader captured Jerusalem and slaughtered an entire Roman legion in AD 132?"
-      answer: "(SIMON) BAR-COSIBAR/COCHBAR/KOKHBA"
+      answer: "(SIMON) BAR-COSIBA(R) / COCHBAR / KOKHBA"
     boni:
       - question: "What commander did the emperor Hadrian send against the rebels?"
         answer: "JULIUS SEVERUS"
@@ -58,7 +58,7 @@ questions:
       - question: "Translate the verb form <latin>dīxtī</latin>?"
         answer: "YOU HAVE SAID"
       - question: "Translate the verb form <latin>faxō</latin>?"
-        answer: "I SHALL HAVE DONE/MADE"
+        answer: "I SHALL HAVE DONE / MADE"
   - tossup:
       question: "What Roman author’s collection of biographies of writers was subdivided by genres – poets, orators, historians, philosophers, and grammarians?"
       answer: "(C.) SUETONIUS (TRANQUILLUS)"
@@ -72,33 +72,31 @@ questions:
       answer: "LYCAON"
     boni:
       - question: "What was Lycaon doing when he was captured by Achilles?"
-        answer: "HE WAS CUTTING FIG SHOOTS (or GATHERING MATERIAL) TO MAKE RIMS/WHEELS FOR HIS CHARIOT"
+        answer: "HE WAS CUTTING FIG SHOOTS (or GATHERING MATERIAL) TO MAKE RIMS / WHEELS FOR HIS CHARIOT"
       - question: "To what king of Lemnos was Lycaon sold as a slave?"
         answer: "EUNEÜS"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, then answer in LATIN the question about it: <latin>Caesar urbem ingressus dictātōrem sē fēcit. Inde cum Hispāniās petīvisset, prope Mundam Pompēiī exercitūs validissimōs et fortissimōs cum tribus ducibus, Lūciō Afrāniō, Marcō Petrēiō, Marcō Varrōne, superāvit. Inde in Graeciam trānsiit et adversum Pompēium dīmicāvit.  Quis Caesarem dictātōrem creāvit?</latin>"
-      answer: "CAESAR (IPSE)"
+      answer: "<latin>CAESAR (IPSE)</latin>"
     boni:
-      - question: "In quō <latin>locō erat Caesar ubi validissimōs exercitūs Pompēiī superāvit?</latin>"
-        answer: "PROPE/AD/APUD MUNDAM / IN HISPĀNIĀ (do not accept MUNDAE since he was “near” Munda in the passage, not “at” Munda)"
+      - question: "<latin>In quō locō erat Caesar ubi validissimōs exercitūs Pompēiī superāvit?</latin>"
+        answer: "<latin>PROPE / AD / APUD MUNDAM / IN HISPĀNIĀ</latin> (do not accept <latin>MUNDAE</latin> since he was “near” Munda in the passage, not “at” Munda)"
   - tossup:
-      question: "11"
-      answer: "(PASS OUT THE VISUALS) DO NOT OPEN THE VISUALS BEFORE YOU ARE PROMPTED TO DO SO. (wait for all the visuals to be ready and in place) YOU MAY NOW OPEN YOUR VISUAL. YOU NOW HAVE"
+      question: "(PASS OUT THE VISUALS) DO NOT OPEN THE VISUALS BEFORE YOU ARE PROMPTED TO DO SO. (wait for all the visuals to be ready and in place) YOU MAY NOW OPEN YOUR VISUAL. YOU NOW HAVE 15 SECONDS TO EXAMINE IT. (wait 15 seconds) Where was the author of passage “D” born?"
+      answer: "ROME"
     boni:
-      - question: "15 SECONDS TO EXAMINE IT. (wait 15 seconds) Where was the author of passage “D” born?"
-        answer: "ROME"
       - question: "How many of the remaining passages were written by authors who were born in Italy?"
         answer: "FOUR"
       - question: "In what literary work did the author of passage “F” praise the eloquence of the author of passage “D”?"
         answer: "<title>BRUTUS</title> (BY CICERO)"
   - tossup:
       question: "Who was the first foreign born man to be elected consul?"
-      answer: "(LUCIUS CORNELIUS) BALBUS"
+      answer: "(L. CORNELIUS) BALBUS"
     boni:
       - question: "Who had secured citizenship for Balbus, a native of Gades?"
         answer: "POMPEY (CN. POMPEIUS MAGNUS)"
       - question: "Who defended Balbus when Balbus’ enemies contested the validity of his citizenship?"
-        answer: "(MARCUS TULLIUS) CICERO"
+        answer: "(M. TULLIUS) CICERO"
   - tossup:
       question: "What use of the infinitive is found in the following sentence: <latin>pars cēdere, aliī insequī; neque sīgna neque ōrdinēs observāre</latin>?"
       answer: "HISTORICAL"
@@ -128,7 +126,7 @@ questions:
       answer: "PESCENNIUS NIGER"
     boni:
       - question: "What commander on Danube was proclaimed emperor by his troops?"
-        answer: "SEPTIMIUS SEVERUS"
+        answer: "(L.) SEPTIMIUS SEVERUS"
       - question: "Having been defeated by Severus, to what enemy of Rome did Niger attempt to flee?"
         answer: "PARTHIA"
   - tossup:
@@ -152,7 +150,7 @@ questions:
       answer: "POLYBIUS / POLYBIOS"
     boni:
       - question: "With what Roman did he develop an enduring friendship allowing him a unique insight into Rome’s rise to power?"
-        answer: "SCIPIO AEMILIANUS"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS / NUMANTIUS / AFRICANUS MINOR"
       - question: "With what war does Polybius’ history begin?"
         answer: "SECOND PUNIC"
   - tossup:

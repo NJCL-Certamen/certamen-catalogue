@@ -21,7 +21,7 @@ questions:
         answer: "FLOWER"
   - tossup:
       question: "Differentiate in meaning between <latin>tamen</latin> and <latin>tamquam</latin>."
-      answer: "<latin>TAMEN -</latin> NEVERTHELESS, YET, STILL, JUST THE SAME <latin>TAMQUAM</latin> -AS THOUGH, JUST AS"
+      answer: "<latin>TAMEN -</latin> NEVERTHELESS, YET, STILL, JUST THE SAME <latin>TAMQUAM</latin> - AS THOUGH, JUST AS"
     boni:
       - question: "Differentiate in meaning between <latin>uncus</latin> and <latin>unctus</latin>."
         answer: "<latin>UNCUS</latin> - HOOK(ED), BARBED, CROOKED, CLAMP <latin>UNCTUS</latin> - GREASY, RESINOUS, SUMPTUOUS, PERFUMED"
@@ -61,9 +61,9 @@ questions:
         answer: "<latin>NŌMEN PROPRIUM</latin> - PROPER NAME"
   - tossup:
       question: "<latin>Quid significat: torvus?</latin>"
-      answer: "FIERCE, GRIM<latin>, STERN</latin>"
+      answer: "FIERCE, GRIM, STERN"
     boni:
-      - question: "Quid significat: raucus?"
+      - question: "<latin>Quid significat: raucus<latin>?"
         answer: "HOARSE, HARSH, RAUCOUS"
       - question: "<latin>Quid significat: pronus?</latin>"
         answer: "SLOPING FORWARD, EASY, FACING DOWN"
@@ -84,9 +84,11 @@ questions:
       - question: "Which of the following, if any, is not derived from the same Latin root as the others: feisty, feign, fiction, figment, effigy?"
         answer: "FEISTY"
   - tossup:
-      question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others? decrepit, crevice, crest, discrepancy, crevasse CREST What is the Latin root of “crest?”"
-      answer: "<latin>CRISTA</latin>"
+      question: "Which of the following, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: decrepit, crevice, crest, discrepancy, crevasse, crest?"
+      answer: "CREST"
     boni:
+      - question: "What is the Latin root of “crest?”"
+        answer: "<latin>CRISTA</latin>"
       - question: "What is the Latin root of the other words in the toss-up?"
         answer: "<latin>CREPŌ, CREPĀRE</latin>"
   - tossup:
@@ -96,7 +98,7 @@ questions:
       - question: "What poisonous element belonging to the same chemical family derives its name from its violet color?"
         answer: "IODINE"
       - question: "What radioactive element from the same chemical family derives its name from a Greek adjective that means “unstable”?"
-        answer: "ASTATINE <latin>HISTORY / GEOGRAPHY / LIFE</latin>"
+        answer: "ASTATINE"
   - tossup:
       question: "What is the name of the huge jars in which grape juice was fermented?"
       answer: "<latin>DOLIUM, DOLIA</latin>"
@@ -122,7 +124,7 @@ questions:
       - question: "Who doubled the height of the wall in AD 306-312?"
         answer: "MAXENTIUS"
   - tossup:
-      question: "Who, after his victory at Baecula, was probably the first Roman commander to be hailed by his troops as <emphasis>imperator</emphasis>?"
+      question: "Who, after his victory at Baecula, was probably the first Roman commander to be hailed by his troops as <latin>imperator</latin>?"
       answer: "P. CORNELIUS SCIPIO ( LATER AFRICANUS)"
     boni:
       - question: "What Carthaginian general had Scipio defeated at Baecula?"
@@ -142,7 +144,7 @@ questions:
       answer: "HADRIAN"
     boni:
       - question: "Hadrian wanted Lucius Ceionius Commodus to succeed him as emperor. Who was Hadrian’s next choice after Lucius Ceionius Commodus?"
-        answer: "(TITUS AURELIUS) ANTONINUS (PIUS)"
+        answer: "(T. AURELIUS) ANTONINUS (PIUS)"
       - question: "Who was Antoninus Pius’ wife?"
         answer: "(ANNIA GALERIA) FAUSTINA"
   - tossup:
@@ -150,9 +152,7 @@ questions:
       answer: "MAXIMINUS THRAX"
     boni:
       - question: "For five points each: When the two Gordians died opposing Maximinus, which two of it’s own members did the Senate proclaim as the new emperors?"
-        answer: "(M.) PUPIENUS (MAXIMUS)"
-      - question: "and (D"
-        answer: "CALVINUS) BALBINUS"
+        answer: "(M.) PUPIENUS (MAXIMUS) and (D. CALVINUS) BALBINUS"
   - tossup:
       question: "Which of these is <emphasis>not</emphasis> a region of southern Italy: Lucania, Apulia, Ligura, or Calabria?"
       answer: "LIGURA"
@@ -160,7 +160,7 @@ questions:
       - question: "Which of these is <emphasis>not</emphasis> a region in Asia Minor: Pannonia, Paphlagonia, Pontus, or Pisidia?"
         answer: "PANNONIA"
       - question: "Which of these is <emphasis>not</emphasis> a region in Greece: Achaea, Aeolis, Arcadia, or Attica?"
-        answer: "AEOLIS <latin>LITERATURE</latin>"
+        answer: "AEOLIS"
   - tossup:
       question: "What former Greek slave founded the first poetic guild in Rome?"
       answer: "LIVIUS ANDRONICUS"
@@ -173,7 +173,7 @@ questions:
       question: "Which of Cicero’s Catilinarian Orations was delivered at the Temple of Concord?"
       answer: "THE FOURTH CATILINARIAN"
     boni:
-      - question: "Which of Cicero’s Catilinarian Orations were delivered from the <title>rostra</title> in the Forum?"
+      - question: "Which of Cicero’s Catilinarian Orations were delivered from the <latin>rostra</latin> in the Forum?"
         answer: "SECOND AND THIRD CATILIANRIAN"
       - question: "Where and when did Cicero deliver his First Catilinarian Oration?"
         answer: "TEMPLE OF JUPITER STATOR ON NOVEMBER"
@@ -185,7 +185,7 @@ questions:
         answer: "DELIA / PLANIA"
   - tossup:
       question: "Who wrote a bitter denunciation of women in Book 2 of his satires?"
-      answer: "(DECIMUS IUNIUS) <emphasis>JUVENALIS</emphasis>"
+      answer: "(D. IUNIUS) JUVENAL(IS)"
     boni:
       - question: "In which of his satires does Juvenal compliment Hadrian as a friend of literature?"
         answer: "#7"

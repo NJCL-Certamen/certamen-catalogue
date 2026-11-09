@@ -13,7 +13,7 @@ questions:
         answer: "PLATO"
   - tossup:
       question: "Make the noun <latin>moenia</latin> singular"
-      answer: "IT DOES NOT EXIST (or MOENE)"
+      answer: "IT DOES NOT EXIST (or <latin>MOENE</latin>)"
     boni:
       - question: "Make the noun <latin>epulum</latin> plural"
         answer: "<latin>EPULAE</latin>"
@@ -32,12 +32,12 @@ questions:
       answer: "FROM (MELTED) SNOW"
     boni:
       - question: "What does the abbreviation <latin>aq. bull.</latin>, which stands for <latin>aqua bulliēns</latin>, caution you about the water?"
-        answer: "THE WATER IS <emphasis>BOILING/BUBBLING</emphasis>"
+        answer: "THE WATER IS <emphasis>BOILING / BUBBLING</emphasis>"
       - question: "What does the abbreviation <latin>aq. plu.</latin>, which stands for <latin>aqua pluviālis</latin>, tell you about the water?"
         answer: "THAT IT IS RAINWATER"
   - tossup:
       question: "In what war did M. Tullius Cicero and L. Sergius Catiline serve on the staff of Pompeius Strabo?"
-      answer: "SOCIAL/ITALIC/MARSIC WAR"
+      answer: "SOCIAL / ITALIC / MARSIC WAR"
     boni:
       - question: "For what were the Italian allies fighting?"
         answer: "RIGHTS OF CITIZENSHIP"
@@ -117,12 +117,12 @@ questions:
         answer: "E"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Ōdī et Amō”. Quae pars ōrātiōnis est “ōdī”?</latin>"
-      answer: "VERBUM"
+      answer: "<latin>VERBUM</latin>"
     boni:
-      - question: "“Ōdī”, cūius numerī <latin>est?</latin>"
-        answer: "SINGULĀRIS"
+      - question: "<latin>“Ōdī”, cūius numerī est?</latin>"
+        answer: "<latin>SINGULĀRIS</latin>"
       - question: "“Amō”, dīc passīvum"
-        answer: "AMOR"
+        answer: "<latin>AMOR</latin>"
   - tossup:
       question: "After what defeat was Mark Antony declared a public enemy in 43 BC?"
       answer: "MUTINA"
@@ -130,9 +130,7 @@ questions:
       - question: "Which assassin of Caesar had Antony besieged at Mutina?"
         answer: "<emphasis>DECIMUS</emphasis> (JUNIUS) BRUTUS"
       - question: "Name the two consuls whom the Senate sent along with Octavian against Antony"
-        answer: "(A.) HIRTIUS"
-      - question: "and (C"
-        answer: "VIBIUS) PANSA"
+        answer: "(A.) HIRTIUS and (C. VIBIUS) PANSA"
   - tossup:
       question: "In Vergil’s <title>Aeneid</title>, who, upon seeing that Aeneas is alive and armed, angrily demands to know what right Aeneas has to be in the land of the dead?"
       answer: "CHARON"
@@ -145,9 +143,9 @@ questions:
       question: "When you are recognized, perform the following command: <latin>tolle ambās manūs suprā caput et dīc mihī Anglicē tē vēnisse, vīdisse, vīcisse</latin>"
       answer: "PLAYER RAISES BOTH HANDS ABOVE THE HEAD AND SAYS “I CAME, I SAW, I CONQUERED” (IN ENGLISH)"
     boni:
-      - question: ": <latin>iacēns humī, tende sinistram manum et dīc mihī Anglicē “et tū Brūte”</latin>"
+      - question: "When you are recognized, perform the following command: <latin>iacēns humī, tende sinistram manum et dīc mihī Anglicē “et tū Brūte”</latin>"
         answer: "PLAYER LIES ON THE GROUND AND STRECHES OUT THE LEFT HAND AND SAYS “AND YOU BRUTUS” (<latin>MUST BE IN ENGLISH</latin>)"
-      - question: ": <latin>tolle dextrum pugnum et dīc mihī Anglicē id quod ā Caesare dictum est, Rūbicōne transitō.</latin>"
+      - question: "When you are recognized, perform the following command: <latin>tolle dextrum pugnum et dīc mihī Anglicē id quod ā Caesare dictum est, Rūbicōne transitō.</latin>"
         answer: "ONE PLAYER RAISES HIS/HER RIGHT <emphasis>FIST</emphasis> AND SAYS <emphasis>IN ENGLISH</emphasis> “THE DIE IS CAST”"
   - tossup:
       question: "According to Ovid, who was transformed into a horse because she revealed too much about the future?"

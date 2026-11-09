@@ -10,7 +10,7 @@ questions:
       - question: "Change <latin>coxissent</latin> to the perfect tense"
         answer: "<latin>COXERINT</latin>"
       - question: "Change <latin>coxerint</latin> to the passive voice"
-        answer: "<latin>COCTĪ (-AE, A) SINT</latin>"
+        answer: "<latin>COCTĪ/-AE/-A SINT</latin>"
   - tossup:
       question: "Name the two men responsible for the peace and prosperity of the <latin>quinquennium Neronis</latin>"
       answer: "SENECA (THE YOUNGER) and BURRUS"
@@ -101,12 +101,12 @@ questions:
         answer: "A SINGLE EYE AND A SINGLE TOOTH"
   - tossup:
       question: "What Latin word is shared by the abbreviations <latin>a.c.</latin> and <latin>a.d.</latin>?"
-      answer: "<latin>ANTE</latin> (a.c. = ante cibum; a.d. = ante diem)"
+      answer: "<latin>ANTE (a.c. = ante cibum; a.d. = ante diem)</latin>"
     boni:
       - question: "What Latin word with what meaning is shared by the abbreviations <latin>s.l.a.</latin> and <latin>s.m.p.</latin>?"
-        answer: "<latin>SINE</latin> - WITHOUT (s.l.a. = sine loco anno; s.m.p. = sine mascula prole)"
+        answer: "<latin>SINE</latin> - WITHOUT (<latin>s.l.a. = sine loco anno; s.m.p. = sine mascula prole</latin>)"
       - question: "What Latin word is shared by the abbreviations <latin>ft. haust.</latin> and <latin>ft. pulv.</latin>?"
-        answer: "<latin>FIAT</latin> (ft. haust. = fiat haustum; ft. pulv. = fiat pulvis)"
+        answer: "<latin>FIAT (ft. haust. = fiat haustum; ft. pulv. = fiat pulvis)</latin>"
   - tossup:
       question: "What Latin author, a Roman citizen of Campanian origin, was the author of the first Latin tragedies with Roman settings?"
       answer: "(CN.) NAEVIUS"

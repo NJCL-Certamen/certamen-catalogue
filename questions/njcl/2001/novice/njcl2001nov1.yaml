@@ -39,15 +39,15 @@ questions:
       question: "Of <latin>ōvum, ōs, fōns, mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est locus unde aqua semper ērumpit</latin>"
       answer: "<latin>FŌNS</latin>"
     boni:
-      - question: ". . . <latin>Est inferior pars facieī</latin>"
+      - question: "Of <latin>ōvum, ōs, fōns, mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est inferior pars facieī</latin>"
         answer: "<latin>ŌS</latin>"
-      - question: ". . . <latin>Est id quod avēs, piscēs, et multa animalia ferunt</latin>"
+      - question: "Of <latin>ōvum, ōs, fōns, mīles</latin>, and <latin>lūna</latin>, which is described in this Latin sentence: <latin>Est id quod avēs, piscēs, et multa animalia ferunt</latin>"
         answer: "<latin>ŌVUM</latin>"
   - tossup:
       question: "What is the Latin name for a wax writing tablet?"
       answer: "<latin>TABULA / TABELLA / PUGILLĀRĒS / CĒRA</latin>"
     boni:
-      - question: "  Name the instrument being held by the lady and its use"
+      - question: "Name the instrument being held by the lady and its use"
         answer: "STYLUS / <latin>STILUS / GRAPHIUM</latin> - TO WRITE (ON THE WAX TABLET)"
       - question: "Of what material would the object being held by the man have been made?"
         answer: "PAPYRUS (prompt if “<latin>charta</latin>” or “<latin>chartula</latin>” is given)"
@@ -63,7 +63,7 @@ questions:
       question: "What use of the accusative case is illustrated in this sentence: <latin>Multōs diēs dormīre volō</latin>"
       answer: "DURATION / EXTENT OF TIME"
     boni:
-      - question: "in this sentence: <latin>Domum aedificat</latin>"
+      - question: "What use of the accusative case is illustrated in this sentence: <latin>Domum aedificat</latin>"
         answer: "DIRECT OBJECT"
       - question: "Translate this sentence: <latin>Puer in casam ambulāvit.</latin> "
         answer: "THE BOY WALKED INTO THE HOUSE / HUT / LITTLE HOUSE"
@@ -74,7 +74,7 @@ questions:
       - question: "Who was her son?"
         answer: "NERO"
       - question: "The young Nero did not want to be controlled by his mother. Name one of the two men upon whom he relied during the first fifteen years of his rule?"
-        answer: "SENECA (HIS TUTOR)"
+        answer: "SENECA (THE YOUNGER, HIS TUTOR) / (SEX. AFRANIUS) BURRUS (HIS PRAETORIAN PREFECT)"
   - tossup:
       question: "Who was the uninvited troublemaker at the wedding of Peleus and Thetis?"
       answer: "ERIS/DISCORD(IA)"
@@ -84,16 +84,16 @@ questions:
       - question: "What was inscribed on the apple?"
         answer: "TO / FOR THE FAIREST / MOST BEAUTIFUL"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>vīgintī</latin>”?"
+      question: "<latin>Quid Anglicē significat “vīgintī</latin>”?"
       answer: "TWENTY"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>septuāgintā</latin>”?"
+      - question: "<latin>Quid Anglicē significat “septuāgintā</latin>”?"
         answer: "SEVENTY"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>sēdecim</latin>”?"
+      - question: "<latin>Quid Anglicē significat “sēdecim</latin>”?"
         answer: "SIXTEEN"
   - tossup:
       question: "Translate the following sentence into English: <latin>Puerī per urbem celeriter cucurrērunt</latin>"
-      answer: "THE BOYS QUICKLY RAN THROUGH THE CITY."
+      answer: "THE BOYS QUICKLY RAN THROUGH THE CITY"
     boni:
       - question: "<latin>Dominus servīs cibum dabit</latin>"
         answer: "THE MASTER WILL GIVE THE SLAVES FOOD / WILL GIVE FOOD TO THE SLAVES"
@@ -117,9 +117,9 @@ questions:
         answer: "PINE-NEEDLES"
   - tossup:
       question: "What two men were the leaders of the conspiracy to kill Julius Caesar?"
-      answer: "(MARCUS JUNIUS) BRUTUS & CASSIUS (LONGINUS)"
+      answer: "(M. JUNIUS) BRUTUS & CASSIUS (LONGINUS)"
     boni:
-      - question: "Where did the defeated Brutus and Cassius commit suicide in 42 B. C.?"
+      - question: "Where did the defeated Brutus and Cassius commit suicide in 42 BC?"
         answer: "PHILIPPI"
       - question: "Who were the commanders of the armies which defeated Brutus & Cassius in the two battles at Philippi?"
         answer: "OCTAVIAN / OCTAVIANUS & M. ANTONIUS / MARK ANTONY"
@@ -156,10 +156,10 @@ questions:
       - question: "Name the Praetorian Prefect who assassinated Caracalla after a six year rule"
         answer: "MACRINUS"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In trīclīniō domūs Rōmānae semper erat mēnsa. Haec mēnsa erat pulchra et pretiōsa. Hospitēs circum mēnsam in sellīs nōn sedēbant, sed in lectīs recumbēbant. In hīs lectīs novem hospitēs recumbēbant, trēs in quōque lectō.</latin>  <latin>Quālis erat mēnsa?</latin>"
-      answer: "PULCHRA"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>In trīclīniō domūs Rōmānae semper erat mēnsa. Haec mēnsa erat pulchra et pretiōsa. Hospitēs circum mēnsam in sellīs nōn sedēbant, sed in lectīs recumbēbant. In hīs lectīs novem hospitēs recumbēbant, trēs in quōque lectō. Quālis erat mēnsa?</latin>"
+      answer: "<latin>PULCHRA / PRETIŌSA</latin>"
     boni:
-      - question: "and/or PRETIŌSA Ubi hospitēs recumbēbant? "
+      - question: "<latin>Ubi hospitēs recumbēbant</latin>?"
         answer: "<latin>IN TRICLINIŌ / IN LECTĪS / IN LECTŌ / CIRCUM MĒNSAM</latin>"
-      - question: " <latin>In quibus hospitēs nōn sedēbant?</latin>"
-        answer: "(IN) SELLĪS"
+      - question: "<latin>In quibus hospitēs nōn sedēbant</latin>?"
+        answer: "<latin>(IN) SELLĪS</latin>"

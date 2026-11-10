@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "When Tantalus served his son Pelops to the gods as a stew, who bit into the flesh and realized it was human?"
+      answer: "CERES / DEMETER"
+    boni:
+      - question: "When Pelops was brought back to life, how was his bitten shoulder replaced?"
+        answer: "WITH ONE OF IVORY"
+      - question: "Who served her son to her husband because her husband had seduced and cut out the tongue of her sister?"
+        answer: "PROCNE"
+  - tossup:
+      question: "We know about Sisyphus and his rock in Hades. Where had he been king while alive?"
+      answer: "CORINTH"
+    boni:
+      - question: "What games is he credited with starting there?"
+        answer: "ISTHMIAN"
+      - question: "Who reinstituted the games after a lapse?"
+        answer: "THESEUS"
+  - tossup:
+      question: "August 2 was a battle day in both 49 and 47 BC. What two battles took place on that date?"
+      answer: "ILERDA (49) AND ZELA (47)"
+    boni:
+      - question: "Whom did Caesar defeat at Ilerda?"
+        answer: "POMPEIAN FORCES (LED BY AFRANIUS AND PETREIUS)"
+      - question: "In what modern country is Ilerda?"
+        answer: "SPAIN"
+  - tossup:
+      question: "In the consulship of Publius Nasica and Lucius Calpurnius Bestia, Rome waged war with a famous Numidian king. Name him."
+      answer: "JUGURTHA"
+    boni:
+      - question: "Who superseded his commander and defeated Jugurtha?"
+        answer: "(C.) MARIUS"
+      - question: "Who was the commander whom Marius superseded?"
+        answer: "(Q. CAECILIUS) METELLUS (NUMIDICUS)"
+  - tossup:
+      question: "In what year did Titus sack Jerusalem?"
+      answer: "70 AD"
+    boni:
+      - question: "In what year did Mummius sack and destroy Corinth?"
+        answer: "146 BC"
+      - question: "In what year did Alaric sack Rome?"
+        answer: "410 AD"
+  - tossup:
+      question: "What Italian deity fell in love with Pomona?"
+      answer: "VERTUMNUS"
+    boni:
+      - question: "Who had to undergo a sex change to marry Ianthe?"
+        answer: "IPHIS"
+      - question: "What boy was loved by his twin sister Byblis?"
+        answer: "CAUNUS"
+  - tossup:
+      question: "Who refused a place in the first triumvirate?"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "When was the second triumvirate founded?"
+        answer: "43 BC"
+      - question: "When was it renewed?"
+        answer: "37 BC"
+  - tossup:
+      question: "In the sentence, “Let us resist evil men,” give one Latin word for “evil men.”"
+      answer: "<latin>MALIS</latin>"
+    boni:
+      - question: "In the same sentence, translate “let us resist.”"
+        answer: "<latin>RESISTAMUS</latin>"
+      - question: "What is the perfect active infinitive of <latin>resisto</latin>?"
+        answer: "<latin>RESTITISSE</latin>"
+  - tossup:
+      question: "In the contest between Athena and Poseidon for the naming of the city of Athens, the first king of Attica is usually credited with the decision for Athena. Who was he?"
+      answer: "CECROPS"
+    boni:
+      - question: "Cecrops is sometimes described with what physical oddity?"
+        answer: "AS A SNAKE FROM THE WAIST DOWN"
+      - question: "What deity was sometimes named as Cecrops' father?"
+        answer: "HEPHAESTUS"
+  - tossup:
+      question: "Supply and translate the Latin noun at the root of the English adjective “lachrymose.”"
+      answer: "<latin>LACRIMA</latin> — TEAR"
+    boni:
+      - question: "Supply and translate the Latin verb at the root of the English noun “lavatory.”"
+        answer: "<latin>LAVO</latin> — WASH"
+      - question: "Supply and translate the Latin verb at the root of the English noun “laboratory.”"
+        answer: "<latin>LABORO</latin> — WORK"
+  - tossup:
+      question: "What case is used with <latin>causa</latin> and <latin>gratia</latin>?"
+      answer: "GENITIVE"
+    boni:
+      - question: "But using one of them, how do you say “for my sake”?"
+        answer: "<latin>MEA GRATIA</latin> or <latin>MEA CAUSA</latin>"
+      - question: "The infrequent preposition <latin>secundum</latin>, meaning “according to,” takes what case?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>spondeo</latin>?"
+      answer: "<latin>SPOPONDISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>fallo</latin>?"
+        answer: "<latin>FEFELLISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>ballo</latin>?"
+        answer: "<latin>BALLAVISSE</latin>"
+  - tossup:
+      question: "How would a Roman say, “I forbid”?"
+      answer: "<latin>VETO</latin>"
+    boni:
+      - question: "How would he say, “I have forbidden”?"
+        answer: "<latin>VETUI</latin>"
+      - question: "How would he say, “It has been forbidden”?"
+        answer: "<latin>VETITUM EST</latin>"
+  - tossup:
+      question: "What is the name given to a husband's power over his wife?"
+      answer: "<latin>MANUS</latin>"
+    boni:
+      - question: "What is the Latin term for his control over his slaves?"
+        answer: "<latin>DOMINICA POTESTAS</latin>"
+      - question: "Distinguish in meaning between the Latin nouns <latin>amita</latin> and <latin>matertera</latin>."
+        answer: "<latin>AMITA</latin> = PATERNAL AUNT; <latin>MATERTERA</latin> = MATERNAL AUNT"
+  - tossup:
+      question: "Name an English word derived from the Latin verb meaning “to drink.”"
+      answer: "IMBIBE, BIBULOUS, BEVERAGE, ETC."
+    boni:
+      - question: "What is the perfect active infinitive of this verb?"
+        answer: "<latin>BIBISSE</latin>"
+      - question: "What Latin verb means “to breathe”?"
+        answer: "<latin>SPIRARE</latin> / <latin>HALARE</latin>"
+  - tossup:
+      question: "Which of the following English words is not derived from a compound of <latin>do, dare</latin>: condition, rendition, edition, tradition, vendor, predator?"
+      answer: "PREDATOR (from <latin>praedari</latin>, from <latin>praeda</latin>)"
+    boni:
+      - question: "What is the Latin verb at the root of the noun <latin>praeda</latin>?"
+        answer: "<latin>PRAEHENDO</latin>"
+      - question: "What Latin verb has the root meaning of “give into one's hands”?"
+        answer: "<latin>MANDO, MANDARE</latin>"
+  - tossup:
+      question: "Distinguish in meaning between the nouns <latin>valles</latin> and <latin>vallum</latin>."
+      answer: "<latin>VALLES</latin> = VALLEY, DEPRESSION; <latin>VALLUM</latin> = RAMPART"
+    boni:
+      - question: "Distinguish in meaning between the verbs <latin>pareo</latin> and <latin>pario</latin>."
+        answer: "<latin>PAREO</latin> = OBEY; <latin>PARIO</latin> = PRODUCE, GIVE BIRTH"
+      - question: "Distinguish in meaning between the adjectives <latin>levis</latin> and <latin>levis</latin>."
+        answer: "<latin>LEVIS</latin> = SMOOTH; <latin>LEVIS</latin> = LIGHT, INSIGNIFICANT"
+  - tossup:
+      question: "Who was forced by his wife Eriphyle to take part in the expedition of the Seven against Thebes?"
+      answer: "AMPHIARAÜS"
+    boni:
+      - question: "What son of Oedipus led the defense of Thebes against the attack of the Seven?"
+        answer: "ETEOCLES"
+      - question: "Which of the Seven was struck down by a thunderbolt from Zeus?"
+        answer: "CAPANEUS"
+  - tossup:
+      question: "Who taunted the defeated Romans with the sarcastic phrase <latin>vae victis</latin>?"
+      answer: "BRENNUS"
+    boni:
+      - question: "When did he capture Rome?"
+        answer: "390 BC (or 387)"
+      - question: "What battle a few miles away had preceded the capture of the city?"
+        answer: "THE BATTLE OF THE RIVER ALLIA"
+  - tossup:
+      question: "Which of the following is not related to <latin>genus</latin>: gender, genocide, genuine, genuflect?"
+      answer: "GENUFLECT"
+    boni:
+      - question: "Identify the gender, declension, and meaning of the noun at the root of “genuflect.”"
+        answer: "FOURTH, NEUTER, KNEE (<latin>GENU</latin>)"
+      - question: "“Knee” is not a derivative of <latin>genu</latin>, but the two words have a common root in Indo-European. What do we call such word relatives?"
+        answer: "COGNATES"

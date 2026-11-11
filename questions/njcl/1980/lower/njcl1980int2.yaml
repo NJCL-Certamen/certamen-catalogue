@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What is the third-person singular perfect active indicative of <latin>mitto</latin>?"
+      answer: "<latin>MISIT</latin>"
+    boni:
+      - question: "Change <latin>misit</latin> to the pluperfect."
+        answer: "<latin>MISERAT</latin>"
+      - question: "Change <latin>miserat</latin> to the future perfect passive."
+        answer: "<latin>MISSUS ERIT</latin>"
+  - tossup:
+      question: "Who was the goddess of witchcraft?"
+      answer: "HECATE OR HECUBA"
+    boni:
+      - question: "Who slew the monster Python?"
+        answer: "APOLLO"
+      - question: "Who was the god of thieves?"
+        answer: "MERCURY"
+  - tossup:
+      question: "What case is used for nouns of direct address?"
+      answer: "VOCATIVE"
+    boni:
+      - question: "Give the vocative singular of <latin>filius</latin>."
+        answer: "<latin>FILI</latin>"
+      - question: "Give the vocative plural of <latin>filia</latin>."
+        answer: "<latin>FILIAE</latin>"
+  - tossup:
+      question: "Who was the founder of the city of Rome?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Who was his brother?"
+        answer: "REMUS"
+      - question: "How did Remus die?"
+        answer: "ROMULUS KILLED HIM"
+  - tossup:
+      question: "What bird was sacred to Venus?"
+      answer: "THE DOVE"
+    boni:
+      - question: "What bird was sacred to Juno?"
+        answer: "THE PEACOCK"
+      - question: "What bird was sacred to Jupiter?"
+        answer: "THE EAGLE"
+  - tossup:
+      question: "What was the name given to the crashing rocks encountered by Jason and the Argonauts?"
+      answer: "THE SYMPLEGADES (OR PLANCTAE OR CYANEAE)"
+    boni:
+      - question: "What wicked king sent Perseus to retrieve the Gorgon's head?"
+        answer: "POLYDECTES"
+      - question: "What tyrant sent Hercules on his twelve labors?"
+        answer: "EURYSTHEUS"
+  - tossup:
+      question: "Give the Latin adverb formed from <latin>bonus</latin>."
+      answer: "<latin>BENE</latin>"
+    boni:
+      - question: "Give the comparative and superlative forms of <latin>bene</latin>."
+        answer: "<latin>MELIUS AND OPTIME</latin>"
+      - question: "Give the comparative and superlative forms of <latin>multum</latin>."
+        answer: "<latin>PLUS AND PLURIMUM</latin>"
+  - tossup:
+      question: "What is the genitive plural of <latin>flumen</latin>?"
+      answer: "<latin>FLUMINUM</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>vulnus</latin>?"
+        answer: "<latin>VULNERUM</latin>"
+      - question: "What is the genitive plural of <latin>impetus</latin>?"
+        answer: "<latin>IMPETUUM</latin>"
+  - tossup:
+      question: "What is the English for <latin>arbor</latin>?"
+      answer: "TREE"
+    boni:
+      - question: "What is the English for <latin>radix</latin>?"
+        answer: "ROOT"
+      - question: "What is the English for <latin>saxum</latin>?"
+        answer: "STONE, ROCK, BOULDER"
+  - tossup:
+      question: "What did the following all have in common: the Stymphalian birds, Scylla, Polyphemus, and the mares of Diomedes?"
+      answer: "THEY ALL ATE HUMAN FLESH"
+    boni:
+      - question: "Who killed the birds and captured the mares?"
+        answer: "HERCULES"
+      - question: "Who blinded Polyphemus and lost men to Scylla?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What was the year of the four emperors?"
+      answer: "69 AD"
+    boni:
+      - question: "Who was the first of them?"
+        answer: "GALBA"
+      - question: "What dynasty was begun with the last of them?"
+        answer: "THE FLAVIANS"
+  - tossup:
+      question: "What were Caesar's words as he crossed the Rubicon?"
+      answer: "<latin>ALEA IACTA EST</latin> - THE DIE IS CAST"
+    boni:
+      - question: "What was the year?"
+        answer: "49 BC"
+      - question: "What general led the opposition to Caesar in the war that followed?"
+        answer: "(CN.) POMPEIUS / POMPEY (MAGNUS)"
+  - tossup:
+      question: "Give in Latin the verb in this sentence: “They will fight many years.”"
+      answer: "<latin>PUGNABUNT</latin>"
+    boni:
+      - question: "Now say “many years” in Latin."
+        answer: "<latin>MULTOS ANNOS</latin>"
+      - question: "Why is it accusative?"
+        answer: "ACCUSATIVE OF DURATION OF TIME"
+  - tossup:
+      question: "What war did Rome fight against her Italian allies in the first century BC?"
+      answer: "THE SOCIAL / ITALIAN / MARSIC WAR"
+    boni:
+      - question: "What major concession did Rome, even though victorious, make to her allies after this war?"
+        answer: "THEY WERE GRANTED ROMAN CITIZENSHIP"
+      - question: "What leader of the conservative forces in Roman politics fought successfully during the Social War and later received the command against Mithridates?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+  - tossup:
+      question: "How many tenses are there?"
+      answer: "SIX"
+    boni:
+      - question: "How many moods?"
+        answer: "FOUR"
+      - question: "How many voices?"
+        answer: "TWO"
+  - tossup:
+      question: "Who could meet his father only after he had lifted a great rock?"
+      answer: "THESEUS"
+    boni:
+      - question: "What lay underneath?"
+        answer: "A SWORD AND SANDALS"
+      - question: "Who were his parents?"
+        answer: "AEGEUS AND AETHRA"
+  - tossup:
+      question: "Give the fourth principal part of <latin>augeo</latin>."
+      answer: "<latin>AUCTUS</latin>"
+    boni:
+      - question: "Give the fourth principal part of <latin>iubeo</latin>."
+        answer: "<latin>IUSSUS</latin>"
+      - question: "Give the fourth principal part of <latin>caveo</latin>."
+        answer: "<latin>CAUTUS</latin>"
+  - tossup:
+      question: "Who left his plow to become dictator of Rome?"
+      answer: "(T. QUINCTIUS) CINCINNATUS"
+    boni:
+      - question: "What crisis threatened Rome?"
+        answer: "THE WAR WITH THE AEQUI"
+      - question: "What was the century?"
+        answer: "FIFTH BC (458 BC)"
+  - tossup:
+      question: "What English noun comes from the Latin verb <latin>scindo</latin>?"
+      answer: "SCISSORS"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>pendo</latin>?"
+        answer: "<latin>PEPENDISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>parco</latin>?"
+        answer: "<latin>PEPERCISSE</latin>"
+  - tossup:
+      question: "Give the locative form of <latin>domus</latin>."
+      answer: "<latin>DOMI</latin>"
+    boni:
+      - question: "What is the locative form of <latin>Roma</latin>?"
+        answer: "<latin>ROMAE</latin>"
+      - question: "What is the locative form of <latin>rus</latin>?"
+        answer: "<latin>RURI</latin>"

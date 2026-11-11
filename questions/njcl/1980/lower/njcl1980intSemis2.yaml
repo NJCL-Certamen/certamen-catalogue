@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Intermediate"
+round: "Semifinals 2"
+questions:
+  - tossup:
+      question: "Say in Latin: “near Faesulae.”"
+      answer: "<latin>AD (PROPE) FAESULAS</latin>"
+    boni:
+      - question: "Say in Latin: “at Delphi.”"
+        answer: "<latin>DELPHIS</latin>"
+      - question: "Using <latin>humus</latin>, say in Latin: “on the ground.”"
+        answer: "<latin>HUMI</latin>"
+  - tossup:
+      question: "Why is <latin>vulgus</latin>, meaning “common crowd” or “mob,” an unusual second-declension noun?"
+      answer: "IT IS NEUTER WITH -US (USUALLY)"
+    boni:
+      - question: "Fourth-declension neuter nouns are few in number. What does <latin>genu</latin> mean?"
+        answer: "KNEE"
+      - question: "Translate <latin>veru</latin>."
+        answer: "COOKING SPIT"
+  - tossup:
+      question: "Give the comparative adverb formed from the adjective <latin>fortis</latin>."
+      answer: "<latin>FORTIUS</latin>"
+    boni:
+      - question: "Give the superlative adjective formed from <latin>nobilis</latin>."
+        answer: "<latin>NOBILISSIMUS</latin>"
+      - question: "Translate the phrase <latin>paulo tardius</latin> into English."
+        answer: "A LITTLE MORE SLOWLY"
+  - tossup:
+      question: "Bellerophon's name indicates that he had dealings with a man named Bellerus. What was Bellerophon to Bellerus?"
+      answer: "HIS KILLER"
+    boni:
+      - question: "What was Bellerophon's name before he killed Bellerus?"
+        answer: "HIPPONOÜS"
+      - question: "Who falsely accused Bellerophon of trying to seduce her?"
+        answer: "ANTEIA OR STHENEBOEA"
+  - tossup:
+      question: "What is the first-person plural imperfect active subjunctive of <latin>fero</latin>?"
+      answer: "<latin>FERREMUS</latin>"
+    boni:
+      - question: "Change <latin>ferremus</latin> to the perfect."
+        answer: "<latin>TULERIMUS</latin>"
+      - question: "Change <latin>tulerimus</latin> to the passive."
+        answer: "<latin>LATI SIMUS</latin>"
+  - tossup:
+      question: "What Latin noun is at the root of the English military rank colonel?"
+      answer: "<latin>COLUMNA</latin>"
+    boni:
+      - question: "What Latin verb is at the root of sergeant?"
+        answer: "<latin>SERVIO</latin>"
+      - question: "Does admiral have a classical Latin root?"
+        answer: "NO"
+  - tossup:
+      question: "Name the four Tyndaridae."
+      answer: "HELEN, CLYTEMNESTRA, CASTOR, POLLUX"
+    boni:
+      - question: "Who was their mother?"
+        answer: "LEDA"
+      - question: "In what form did Zeus come to Leda?"
+        answer: "AS A SWAN"
+  - tossup:
+      question: "What vowel change occurs in <latin>cum</latin> whenever it is used as a verb prefix?"
+      answer: "THE U BECOMES O"
+    boni:
+      - question: "By what process does the last letter of a prefix change to match better with the first letter of the word to which it is attached?"
+        answer: "ASSIMILATION"
+      - question: "What change is undergone by <latin>ab</latin> when it combines with <latin>teneo</latin> or <latin>traho</latin>?"
+        answer: "S IS INSERTED: <latin>ABSTINEO, ABSTRAHO</latin>"
+  - tossup:
+      question: "Which Roman emperor conquered the province of Dacia?"
+      answer: "TRAJAN"
+    boni:
+      - question: "To what landmark in Rome would you look for an artistic representation of the conquest?"
+        answer: "TRAJAN'S COLUMN"
+      - question: "In what Italian city, site of a major battle three centuries earlier, was an arch built to celebrate Trajan's victories in Dacia that still stands?"
+        answer: "BENEVENTUM"
+  - tossup:
+      question: "What two men led the assassins of Caesar?"
+      answer: "CASSIUS AND BRUTUS"
+    boni:
+      - question: "What protege of Caesar's opposed them?"
+        answer: "MARC ANTONY"
+      - question: "What battleground was the site of their deaths?"
+        answer: "PHILIPPI"
+  - tossup:
+      question: "Who prevented Menelaus from killing Paris?"
+      answer: "APHRODITE"
+    boni:
+      - question: "How did she do it?"
+        answer: "SHE SPIRITED PARIS OFF TO HELEN'S BEDROOM IN A CLOUD"
+      - question: "When Paris was eventually killed, who became Helen's husband?"
+        answer: "DEIPHOBUS"
+  - tossup:
+      question: "<latin>Quot fiunt ter quattuor</latin>?"
+      answer: "<latin>DUODECIM</latin>"
+    boni:
+      - question: "What Latin noun means “one half”?"
+        answer: "<latin>DIMIDIUM</latin>"
+      - question: "How would a Roman say “three fifths”?"
+        answer: "<latin>TRES QUINTAE (PARTES)</latin>"
+  - tossup:
+      question: "Give the genitive singular of the phrase <latin>tota urbs</latin>."
+      answer: "<latin>URBIS TOTIUS</latin>"
+    boni:
+      - question: "Give the ablative singular of <latin>lac</latin>."
+        answer: "<latin>LACTE</latin>"
+      - question: "Give the ablative singular of <latin>mel</latin>."
+        answer: "<latin>MELLE</latin>"
+  - tossup:
+      question: "What Roman woman swam the Tiber to freedom?"
+      answer: "CLOELIA"
+    boni:
+      - question: "Who was the Etruscan king holding her captive?"
+        answer: "LARS PORSENA"
+      - question: "Who burned off his hand in a show of bravado to Porsena?"
+        answer: "(C. MUCIUS) SCAEVOLA"
+  - tossup:
+      question: "Where in Colchis was the palace of Aeetes?"
+      answer: "AEA"
+    boni:
+      - question: "Who had brought the Fleece to Colchis?"
+        answer: "PHRIXUS"
+      - question: "Who was the father of Phrixus?"
+        answer: "ATHAMAS"
+  - tossup:
+      question: "Change <latin>possit</latin> to the imperfect."
+      answer: "<latin>POSSET</latin>"
+    boni:
+      - question: "Change <latin>possit</latin> to the pluperfect."
+        answer: "<latin>POTUISSET</latin>"
+      - question: "Change <latin>possit</latin> to the indicative."
+        answer: "<latin>POTEST</latin>"
+  - tossup:
+      question: "By what other name do we know the Semnae?"
+      answer: "THE FURIES OR ERINYES OR EUMENIDES"
+    boni:
+      - question: "Who was pursued by the Furies for matricide?"
+        answer: "ORESTES OR ALCMAEON"
+      - question: "Who was Orestes' sister and co-conspirator?"
+        answer: "ELECTRA"
+  - tossup:
+      question: "What was the name of the Roman grain supply?"
+      answer: "<latin>ANNONA</latin>"
+    boni:
+      - question: "Until the Empire, what officials were in charge of it?"
+        answer: "<latin>AEDILES</latin>"
+      - question: "Who was in charge of it after the reforms of Augustus?"
+        answer: "<latin>THE PRAEFECTUS ANNONAE</latin>"
+  - tossup:
+      question: "What is the gender of all indeclinable nouns?"
+      answer: "NEUTER"
+    boni:
+      - question: "What is the gender of <latin>Aegyptus</latin>, meaning Egypt?"
+        answer: "FEMININE"
+      - question: "Name two feminine fourth-declension nouns."
+        answer: "<latin>ACUS, ANUS, COLUS, DOMUS, IDUS, MANUS, NURUS, PORTICUS, SOCRUS, TRIBUS</latin>"
+  - tossup:
+      question: "What Roman circus dates from 221 BC?"
+      answer: "THE CIRCUS FLAMINIUS"
+    boni:
+      - question: "What Roman circus, dating from the fourth century AD, stood on the Appian Way outside Rome?"
+        answer: "THE CIRCUS MAXENTIUS"
+      - question: "What Roman circus stood on the present site of Vatican City?"
+        answer: "THE CIRCUS OF GAIUS AND NERO OR THE CIRCUS VATICANUS"

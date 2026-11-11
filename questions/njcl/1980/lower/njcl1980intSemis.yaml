@@ -1,0 +1,161 @@
+tournament: "NJCL Certamen"
+year: 1980
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What Latin noun is the root of the English word ignition?"
+      answer: "<latin>IGNIS</latin>"
+    boni:
+      - question: "What Latin pronoun is the root of identical?"
+        answer: "<latin>IDEM</latin>"
+      - question: "What Latin adjective is the root of integrity?"
+        answer: "<latin>INTEGER</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>surgo</latin>?"
+      answer: "<latin>SURREXISSE</latin>"
+    boni:
+      - question: "Give the perfect active infinitive of <latin>sepelio</latin>."
+        answer: "<latin>SEPELIVISSE</latin>"
+      - question: "Give the perfect active infinitive of <latin>pingo</latin>."
+        answer: "<latin>PINXISSE</latin>"
+  - tossup:
+      question: "With whom did Odysseus spend the longest time on his return from Troy?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Odysseus' son by Penelope?"
+        answer: "TELEMACHUS"
+      - question: "Who was Odysseus' dog, who died when he saw that his master had finally returned?"
+        answer: "ARGUS"
+  - tossup:
+      question: "Give the singular command to use in Latin."
+      answer: "<latin>UTERE</latin>"
+    boni:
+      - question: "Make that command plural."
+        answer: "<latin>UTIMINI</latin>"
+      - question: "Say in Latin: “I will use an animal.”"
+        answer: "<latin>ANIMALI UTAR</latin>"
+  - tossup:
+      question: "Where did the judgment of Paris take place?"
+      answer: "MT. IDA"
+    boni:
+      - question: "What was Paris doing there?"
+        answer: "TENDING SHEEP"
+      - question: "Who was the wife Paris deserted?"
+        answer: "OENONE"
+  - tossup:
+      question: "Uranus was overthrown by his son, who was in turn overthrown by his son Zeus. Who was this middle generation?"
+      answer: "CRONUS"
+    boni:
+      - question: "Uranus and Gaia were the original gods. What do their names mean?"
+        answer: "HEAVEN AND EARTH"
+  - tossup:
+      question: "On what hill was Romulus' house?"
+      answer: "THE PALATINE"
+    boni:
+      - question: "What are the other six hills of Rome?"
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "Name the unlucky young man who almost killed his mother after she had been turned into a bear."
+      answer: "ARCAS"
+    boni:
+      - question: "Who threw a spear at a bush and accidentally killed his wife?"
+        answer: "CEPHALUS"
+      - question: "According to some stories, who turned aside a discus thrown by Apollo so that it hit Hyacinthus?"
+        answer: "ZEPHYRUS"
+  - tossup:
+      question: "What did the Romans call a man whose forebears had never held public office?"
+      answer: "<latin>NOVUS HOMO</latin>"
+    boni:
+      - question: "What Roman officials supervised the leasing of public buildings and guarded public morals?"
+        answer: "<latin>CENSORES</latin>"
+      - question: "What Roman officials were originally appointed as assistants of the tribunes to tend the cult and temple of Ceres?"
+        answer: "<latin>AEDILES</latin>"
+  - tossup:
+      question: "What is the dative singular of the phrase <latin>novus homo</latin>?"
+      answer: "<latin>NOVO HOMINI</latin>"
+    boni:
+      - question: "What is the ablative singular of <latin>nemo</latin>?"
+        answer: "<latin>NULLO</latin>"
+      - question: "What is the dative singular of <latin>nemo</latin>?"
+        answer: "<latin>NEMINI</latin>"
+  - tossup:
+      question: "Give the use of the ablative case in this sentence: <latin>Officio facto, dux discessit</latin>."
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: "Give the use of the ablative in this sentence: <latin>Puer cum servo venit</latin>."
+        answer: "ABLATIVE OF ACCOMPANIMENT"
+      - question: "Give the use of the ablative in this sentence: <latin>Aqua a puellis portatur</latin>."
+        answer: "ABLATIVE OF AGENT"
+  - tossup:
+      question: "What <latin>praenomen</latin> was used only by the <latin>gens Claudia</latin>?"
+      answer: "APPIUS"
+    boni:
+      - question: "What <latin>praenomen</latin> was abbreviated A.?"
+        answer: "AULUS"
+      - question: "What <latin>praenomen</latin> was abbreviated P.?"
+        answer: "PUBLIUS"
+  - tossup:
+      question: "What is the ablative plural of <latin>spes</latin>?"
+      answer: "<latin>SPEBUS</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>spes</latin>?"
+        answer: "<latin>SPERUM</latin>"
+      - question: "What Latin verb comes from <latin>spes</latin>?"
+        answer: "<latin>SPERO</latin> (from the archaic form <latin>spes, speris</latin>)"
+  - tossup:
+      question: "Change <latin>duxero</latin> to the plural."
+      answer: "<latin>DUXERIMUS</latin>"
+    boni:
+      - question: "Change <latin>duceris</latin> to the plural."
+        answer: "<latin>DUCIMINI</latin>"
+      - question: "Change <latin>capiar</latin> to the plural."
+        answer: "<latin>CAPIEMUR</latin>"
+  - tossup:
+      question: "What is the genitive plural of <latin>manus</latin>?"
+      answer: "<latin>MANUUM</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>dies</latin>?"
+        answer: "<latin>DIERUM</latin>"
+      - question: "What is the genitive plural of <latin>lacus</latin>?"
+        answer: "<latin>LOCORUM</latin>"
+  - tossup:
+      question: "Say in Latin: “He will be warned.”"
+      answer: "<latin>MONEBITUR</latin>"
+    boni:
+      - question: "Say in Latin: “I was going.”"
+        answer: "<latin>IBAM</latin>"
+      - question: "Say in Latin: “We have been driven.”"
+        answer: "<latin>ACTI SUMUS</latin>"
+  - tossup:
+      question: "From what battle site did Caesar send a famous three-word message?"
+      answer: "ZELA"
+    boni:
+      - question: "What was the message?"
+        answer: "<latin>VENI, VIDI, VICI</latin>"
+      - question: "Where is Zela?"
+        answer: "PONTUS (ASIA MINOR)"
+  - tossup:
+      question: "What oath did Hannibal make to his father?"
+      answer: "TO FIGHT ROME ALL HIS LIFE"
+    boni:
+      - question: "What king did Hannibal incite against Rome after the Second Punic War was over?"
+        answer: "ANTIOCHUS"
+      - question: "Where did Hannibal take poison and die?"
+        answer: "BITHYNIA (ASIA MINOR)"
+  - tossup:
+      question: "<latin>Quot fiunt duo et tres</latin>?"
+      answer: "<latin>QUINQUE</latin>"
+    boni:
+      - question: "<latin>Quot fiunt decem minus quattuor</latin>?"
+        answer: "<latin>SEX</latin>"
+      - question: "<latin>Quot fiunt duo et septem</latin>?"
+        answer: "<latin>NOVEM</latin>"
+  - tossup:
+      question: "From what were sprung a race of men called the Myrmidons?"
+      answer: "ANTS"
+    boni:
+      - question: "Who was their first king?"
+        answer: "AEACUS"
+      - question: "Who commanded them at Troy?"
+        answer: "ACHILLES"

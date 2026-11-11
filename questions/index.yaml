@@ -1589,6 +1589,30 @@ links:
   year: 2019
   division: Novice
   round: Semifinals
+- rel: 1981 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Finals
+- rel: 1981 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981adv1.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Round 1
+- rel: 1981 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Semifinals
+- rel: 1981 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981adv2.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Round 2
 - rel: 2010 NJCL Certamen Intermediate Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2010/intermediate/njcl2010int1.yaml
   tournament: NJCL Certamen

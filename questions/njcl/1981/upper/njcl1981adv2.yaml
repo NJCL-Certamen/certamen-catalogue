@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What do these verbs have in common: <latin>facio, duco, dico, fero</latin>?"
+      answer: "MONOSYLLABIC SINGULAR IMPERATIVES"
+    boni:
+      - question: "What Latin imperative is an English noun meaning \"keepsake?\""
+        answer: "<latin>MEMENTO</latin>"
+      - question: "Using a deponent verb, give the order, \"Be in awe.\""
+        answer: "<latin>VERERE</latin>"
+  - tossup:
+      question: "What Roman author in the first century BC wrote the <latin><title>Bellum Iugurthinum</title></latin>?"
+      answer: "SALLUST"
+    boni:
+      - question: "About what other bellum did he write?"
+        answer: "THE <latin><title>BELLUM CATILINAE</title></latin>"
+      - question: "Sallust's complete name is Gaius Sallustius Crispus. What was the meaning of <latin>crispus</latin>?"
+        answer: "CURLY-HAIRED"
+  - tossup:
+      question: "What hero was treated kindly by Alcinoüs, Arete and Nausicaä?"
+      answer: "ODYSSEUS / ULYSSES / ULIXES"
+    boni:
+      - question: "Who, a sea goddess, gave Odysseus a veil to prevent him from drowning?"
+        answer: "LEUCOTHEA / INO"
+      - question: "Who detained him on the island of Ogygia?"
+        answer: "CALYPSO"
+  - tossup:
+      question: "Who was the literary patron of Propertius, Horace and Vergil?"
+      answer: "MAECENAS"
+    boni:
+      - question: "Horace and Maecenas died in the same year. What was it?"
+        answer: "8 BC"
+      - question: "For what type of poetry is Propertius known?"
+        answer: "ELEGY (LOVE)"
+  - tossup:
+      question: "Translate into the genitive the phrase \"one whole day.\""
+      answer: "<latin>UNIUS DIEI TOTIUS</latin>"
+    boni:
+      - question: "Translate into Latin: \"We will remain for three days.\""
+        answer: "<latin>(PER) TRES DIES MANEBIMUS</latin>"
+      - question: "Translate into Latin: \"We will leave within three days.\""
+        answer: "<latin>TRIBUS DIEBUS EXCEDEMUS (EGREDIEMUR, etc.)</latin>"
+  - tossup:
+      question: "Who fell in love with his own reflection?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What nymph fell in love with him?"
+        answer: "ECHO"
+      - question: "Who had cursed her with her inability to speak except to repeat what was said to her?"
+        answer: "JUNO/HERA"
+  - tossup:
+      question: "Where was Catiline's First Oration against Catiline delivered?"
+      answer: "THE TEMPLE OF JUPITER STATOR"
+    boni:
+      - question: "What was the year of Cicero's consulship?"
+        answer: "63 BC"
+      - question: "Into what prison were Catiline's fellow conspirators thrown?"
+        answer: "THE MAMERTINE (TULLIANUM)"
+  - tossup:
+      question: "From what work is the cena Trimalchionis?"
+      answer: "THE SATYRICON OF PETRONIUS"
+    boni:
+      - question: "Who is the hero of Apuleius' Metamorphoses, also known as The Golden Ass?"
+        answer: "LUCIUS"
+      - question: "What love story of mythology takes up almost three of the eleven books of Apuleius' work?"
+        answer: "CUPID AND PSYCHE"
+  - tossup:
+      question: "What kind of ablative does this sentence use: <latin>Discipulus a magistro vocatur</latin>?"
+      answer: "ABLATIVE OF AGENT"
+    boni:
+      - question: "These sentences: <latin>Puer amicum celeritate superat</latin>."
+        answer: "ABLATIVE OF RESPECT"
+      - question: "<latin>Puer domum cum celeritate curret</latin>."
+        answer: "ABLATIVE OF MANNER"
+  - tossup:
+      question: "With what curse did a jealous Pasiphaë afflict Minos?"
+      answer: "ANY WOMAN HE SLEPT WITH WAS POISONED"
+    boni:
+      - question: "How did Pasiphaë come by her powers of witchcraft?"
+        answer: "SHE WAS DAUGHTER OF HELIOS, SISTER OF CIRCE, AUNT OF MEDEA"
+      - question: "Who cured Minos of this social problem?"
+        answer: "PROCRIS"
+  - tossup:
+      question: "Who was the father of Anchises?"
+      answer: "CAPYS"
+    boni:
+      - question: "Who was Anchises' mother?"
+        answer: "THEMISTE"
+      - question: "Who was Themiste's father?"
+        answer: "ILUS"
+  - tossup:
+      question: "What noble family was thrown out of Rome at the end of the early kingdom?"
+      answer: "THE TARQUINS"
+    boni:
+      - question: "From what Italian people did they come?"
+        answer: "THE ETRUSCANS"
+      - question: "What was the year of their expulsion from Rome?"
+        answer: "510 BC"
+  - tossup:
+      question: "What is the meaning of the adjective <latin>latus</latin>?"
+      answer: "WIDE"
+    boni:
+      - question: "What is the meaning of the noun <latin>latus</latin>?"
+        answer: "SIDE"
+      - question: "What verb used <latin>latus</latin> as its perfect passive participle?"
+        answer: "<latin>FERO</latin>"
+  - tossup:
+      question: "In 56 BC Caesar, Crassus and Pompey met for a summit conference to divide the imperium. Where did they meet?"
+      answer: "LUCA"
+    boni:
+      - question: "What was the Gallic seafaring tribe fought by Decimus Brutus that same year?"
+        answer: "THE VENETI"
+      - question: "Of what tribe was Vercingetorix a member?"
+        answer: "THE ARVERNI"
+  - tossup:
+      question: "What Roman emperor fought the Marcomannic Wars?"
+      answer: "M. AURELIUS"
+    boni:
+      - question: "Where did Marcus Aurelius die?"
+        answer: "VINDOBONA (modern VIENNA)"
+      - question: "Who was Marcus Aurelius' successor?"
+        answer: "COMMODUS"
+  - tossup:
+      question: "Which of these figures from early Roman legend does not belong in the group: Sextus Tarquinius, Horatius, Scaevola and Cincinnatus?"
+      answer: "SEXTUS TARQUINIUS (a bad guy)"
+    boni:
+      - question: "What early Roman hero captured Veii in 396 BC?"
+        answer: "CAMILLUS"
+      - question: "At what battle did the Romans beat the Latins in 496 BC?"
+        answer: "THE BATTLE OF LAKE REGILLUS"
+  - tossup:
+      question: "What is the usage in English of the Latin phrase <latin>sine qua non</latin>?"
+      answer: "A NECESSITY, SOMETHING INDISPENSABLE"
+    boni:
+      - question: "Give the meanings of these phrases as they are used in English: <latin>ne plus ultra</latin>."
+        answer: "PERFECTION, THE ULTIMATE, THE UTMOST"
+      - question: "Give the meaning of this phrase as it is used in English: <latin>mutatis mutandis</latin>."
+        answer: "WITH THE NECESSARY OR APPROPRIATE CHANGES HAVING BEEN MADE"
+  - tossup:
+      question: "What introductory conjunction would be needed to translate the subordinate clause of this sentence into Latin: \"I fear that you will be late?\""
+      answer: "NE"
+    boni:
+      - question: "What would be needed for these: \"I see that you are late?\""
+        answer: "NONE"
+      - question: "\"I see what you are doing?\""
+        answer: "QUID"
+  - tossup:
+      question: "What is unusual about the nouns <latin>domus</latin> or <latin>manus</latin>?"
+      answer: "THEY ARE FEMININE IN THE FOURTH DECLENSION"
+    boni:
+      - question: "What is unusual about <latin>locus</latin>?"
+        answer: "IT IS MASCULINE IN THE SINGULAR AND NEUTER IN THE PLURAL"
+      - question: "Name four first-declension masculine <emphasis>nouns</emphasis>."
+        answer: "<latin>AGRICOLA, NAUTA, POETA, PIRATA, INCOLA, AURIGA</latin>"
+  - tossup:
+      question: "Translate into Latin, using the supine, the <emphasis>sentence</emphasis>: \"I have come to fight.\""
+      answer: "<latin>VENI PUGNATUM</latin>"
+    boni:
+      - question: "Translate: <latin>mirabile dictu</latin>."
+        answer: "REMARKABLE TO SAY"
+      - question: "Translate: <latin>horribile visu</latin>."
+        answer: "HORRIBLE TO SEE"

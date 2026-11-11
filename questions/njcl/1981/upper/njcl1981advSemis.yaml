@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Using deponent verbs, say, \"I am afraid to follow.\""
+      answer: "<latin>VEREOR SEQUI</latin>"
+    boni:
+      - question: "Say in Latin: \"Let us follow.\""
+        answer: "<latin>SEQUAMUR</latin>"
+      - question: "Using sequor, say: \"I have been followed.\""
+        answer: "NO WAY!!!"
+  - tossup:
+      question: "What even more alliterative Latin proverb has been translated into the alliterative English saying, \"Forewarned is forearmed?\""
+      answer: "<latin>PRAEMONITUS, PRAEMUNITUS</latin>"
+    boni:
+      - question: "What is the translation of the formulaic saying, <latin>Di duint?</latin>"
+        answer: "MAY THE GODS GRANT IT"
+      - question: "What is the classical Latin form for <latin>duint?</latin>"
+        answer: "<latin>DENT</latin>"
+  - tossup:
+      question: "What English noun meaning \"a sworn statement\" is an unchanged Latin verb meaning, \"He has stated on faith?\""
+      answer: "AFFIDAVIT"
+    boni:
+      - question: "What English noun meaning \"doctrine\" is a Latin verb meaning \"he holds?\""
+        answer: "TENET"
+      - question: "What English noun meaning \"environment\" is a Latin verb meaning \"he dwells?\""
+        answer: "HABITAT"
+  - tossup:
+      question: "Give the Latin and the English for R.I.P."
+      answer: "<latin>REQUIESCAT IN PACE</latin> - MAY HE REST IN PEACE"
+    boni:
+      - question: "Give the Latin and the English for Q.E.D."
+        answer: "<latin>QUOD ERAT DEMONSTRANDUM</latin> - THAT WHICH HAD TO BE PROVEN"
+      - question: "Give the Latin and the English for cf."
+        answer: "<latin>CONFER</latin> - COMPARE"
+  - tossup:
+      question: "Complete this analogy: <latin>monebis</latin> is to <latin>moneberis</latin> as <latin>faciebam</latin> is to"
+      answer: "<latin>FIEBAM</latin>"
+    boni:
+      - question: "Make <latin>iacis</latin> passive."
+        answer: "<latin>IACERIS</latin>"
+      - question: "Make <latin>sentis</latin> passive."
+        answer: "<latin>SENTIRIS</latin>"
+  - tossup:
+      question: "What Roman in the first century BC wrote a didactic poem which in part discussed an atomic theory?"
+      answer: "LUCRETIUS"
+    boni:
+      - question: "What is the title of Lucretius' work?"
+        answer: "<latin><title>DE RERUM NATURA</title></latin>"
+      - question: "What philosophy does it espouse?"
+        answer: "EPICUREANISM"
+  - tossup:
+      question: "Spell Euboea."
+      answer: "E U B O E A"
+    boni:
+      - question: "Spell Boeotia."
+        answer: "B O E O T I A"
+      - question: "Spell Peloponnesus."
+        answer: "P E L O P O N N E S U S"
+  - tossup:
+      question: "Who was Cassandra's twin brother?"
+      answer: "HELENUS"
+    boni:
+      - question: "In the non-Homeric version, how had Cassandra and Helenus received their powers of prophecy?"
+        answer: "SNAKES HAD LICKED THEIR EARS AND MOUTHS AS THEY SLEPT IN APOLLO'S TEMPLE"
+      - question: "According to one account, Helenus defected to the Greeks in anger at the Trojans. Why?"
+        answer: "DEIPHOBUS, NOT HE, HAD RECEIVED HELEN AFTER THE DEATH OF PARIS"
+  - tossup:
+      question: "The fall of what city brought the Spanish Wars to a close in 133 BC?"
+      answer: "NUMANTIA"
+    boni:
+      - question: "Who was the Roman commander?"
+        answer: "SCIPIO AEMILIANUS"
+      - question: "What city had Scipio Aemilianus destroyed in 146 BC?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "What king of Thebes renamed the city in honor of his wife Thebe?"
+      answer: "ZETHUS"
+    boni:
+      - question: "What had the name been?"
+        answer: "CADMEIA"
+      - question: "Who was Zephus' brother?"
+        answer: "AMPHION"
+  - tossup:
+      question: "Identify the figure of speech in this line: <latin>pulcher corpore oculis maestus</latin>."
+      answer: "CHIASMUS"
+    boni:
+      - question: "What figure of speech is Neptune's abrupt Quos ego-?"
+        answer: "APOSIOPESIS"
+      - question: "What is a half-line of meter, such as <latin>Italiam non sponte sequor</latin>?"
+        answer: "HEMISTICH"
+  - tossup:
+      question: "Whom did Hercules have to lift in the air to kill?"
+      answer: "ANTAEUS"
+    boni:
+      - question: "Who was beaten in a reaping contest and killed by Hercules?"
+        answer: "LITYERSES"
+      - question: "Whom did Hercules, with Zeus' help, defeat by throwing stones at them?"
+        answer: "THE LIGURIANS"
+  - tossup:
+      question: "What is commonly odd about the rare prepositions <latin>tenus</latin> and <latin>versus</latin>?"
+      answer: "THEY FOLLOW THEIR OBJECTS"
+    boni:
+      - question: "What case does <latin>tenus</latin> take?"
+        answer: "THE ABLATIVE (or GENITIVE)"
+      - question: "What case does <latin>versus</latin> take?"
+        answer: "THE ACCUSATIVE"
+  - tossup:
+      question: "What ablative construction is used in this sentence: <latin>Omnes milites erant fortiores duce</latin>?"
+      answer: "ABLATIVE OF COMPARISON"
+    boni:
+      - question: "What ablative construction is used in this sentence: <latin>Orationem magno studio habuit</latin>."
+        answer: "ABLATIVE OF MANNER"
+      - question: "What ablative construction is used in this sentence: <latin>Miles gladio usus est</latin>."
+        answer: "ABLATIVE WITH SPECIAL VERB (<latin>UTOR</latin>)"
+  - tossup:
+      question: "Who wrote a lost oratorical work called the <latin><title>Anticatones</title></latin> and a lost verse tribute to Terence?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "Who wrote the eighth book of Caesar's <title>Gallic War</title>?"
+        answer: "A. HIRTIUS"
+      - question: "How many books are there in Caesar's <title><latin>De Bello Civili</latin></title>?"
+        answer: "THREE"
+  - tossup:
+      question: "What is the locative of <latin>Carthago</latin>?"
+      answer: "<latin>CARTHAGINE</latin>"
+    boni:
+      - question: "What is the locative of <latin>Delphi</latin>?"
+        answer: "<latin>DELPHIS</latin>"
+      - question: "What locative phrase means \"at my home?\""
+        answer: "<latin>MEAE DOMI</latin>"
+  - tossup:
+      question: "Who in 23 BC led a conspiracy against the life of Augustus?"
+      answer: "FANNIUS CAEPIO"
+    boni:
+      - question: "Who was the consul implicated in the plot?"
+        answer: "VARRO MURENA"
+      - question: "To whom had Augustus entrusted his signet ring during a serious illness in 23 BC?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "Who were the sons of Theseus and Phaedra?"
+      answer: "ACAMAS AND DEMOPHON"
+    boni:
+      - question: "Who was the son of Theseus and Perigune, daughter of Sinis?"
+        answer: "MELANIPPUS"
+      - question: "Who besides Hippolyta is by some sources said to be the mother of Theseus' son Hippolytus?"
+        answer: "HIPPOLYTA'S SISTER ANTIOPE"
+  - tossup:
+      question: "Although it is usually thought of as a Christian concept, the Golden Age Latin authors seemed to think that the <latin>gens togata</latin> suffered from an original sin as well. What was Rome's original sin?"
+      answer: "ROMULUS' MURDER OF REMUS"
+    boni:
+      - question: "It was sometimes implied that Rome's original sin went back to the early days of Troy. What did some authors imply was Troy's original sin?"
+        answer: "THE FRAUD OF LAOMEDON"
+      - question: "Since slander of Romulus was slander of Augustus, what variant story of the death of Remus was sometimes used?"
+        answer: "THAT CELER, ROMULUS' LIEUTENANT, HAD KILLED REMUS"
+  - tossup:
+      question: "How many men should have been in a full-strength legion?"
+      answer: "6000"
+    boni:
+      - question: "How many centuries were in a cohort?"
+        answer: "SIX"
+      - question: "How many men should have been in a century?"
+        answer: "100"

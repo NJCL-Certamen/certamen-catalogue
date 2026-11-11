@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Roman letter or letters transliterate the Greek upsilon?"
+      answer: "Y"
+    boni:
+      - question: "The Greek eta?"
+        answer: "E"
+      - question: "The Greek chi?"
+        answer: "CH"
+  - tossup:
+      question: "What ancient institution was abolished by the emperor Theodosius I in 393 AD?"
+      answer: "THE OLYMPIC GAMES"
+    boni:
+      - question: "When had they been initiated?"
+        answer: "776 BC"
+      - question: "When were they revived after Theodosius' abolition?"
+        answer: "1892"
+  - tossup:
+      question: "Who was the mother of the twins Phobos and Deimos?"
+      answer: "APHRODITE / VENUS"
+    boni:
+      - question: "Who was their sister?"
+        answer: "HARMONIA"
+      - question: "Who was Ares' daughter by the mortal Aglaurus?"
+        answer: "ALCIPPE"
+  - tossup:
+      question: "What determines the case of an appositive?"
+      answer: "ITS PRECEDENT NOUN"
+    boni:
+      - question: "What is the normal case for exclamations?"
+        answer: "ACCUSATIVE"
+      - question: "In what case is the subject of an infinitive?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "Who wrote a work called the <latin><title>Carmen Saeculare</title></latin>?"
+      answer: "HORACE"
+    boni:
+      - question: "What work by Horace is a treatise in verse on the writing of verse?"
+        answer: "THE <latin><title>ARS POETICA</title></latin>"
+      - question: "What Greek philosopher wrote a prose work on the same subject entitled <title>The Poetics</title>?"
+        answer: "ARISTOTLE"
+  - tossup:
+      question: "Which of the following does not have the same root as the others: <latin>benevolentia, volucris, voluntas, voluptas</latin>?"
+      answer: "<latin>VOLUCRIS</latin>"
+    boni:
+      - question: "What is the infinitive of the verb at its root?"
+        answer: "<latin>VOLARE</latin>"
+      - question: "What is the infinitive of the verb at the root of the others?"
+        answer: "<latin>VELLE</latin>"
+  - tossup:
+      question: "Who was Cadmus' divine grandson?"
+      answer: "BACCHUS / DIONYSUS"
+    boni:
+      - question: "Who were Bacchus' maternal aunts?"
+        answer: "AGAVE, AUTONOË, INO"
+      - question: "What first cousin of Bacchus was torn apart by the god's followers?"
+        answer: "PENTHEUS"
+  - tossup:
+      question: "What Roman author wrote a biography of his father-in-law, a provincial governor?"
+      answer: "TACITUS"
+    boni:
+      - question: "What was the name of the work?"
+        answer: "AGRICOLA"
+      - question: "What historian, almost contemporary with Tacitus, was the author of <title>The Lives of The Twelve Caesars</title>?"
+        answer: "SUETONIUS"
+  - tossup:
+      question: "What deity rescued the abandoned Ariadne?"
+      answer: "BACCHUS / DIONYSUS"
+    boni:
+      - question: "Who rescued Andromeda?"
+        answer: "PERSEUS"
+      - question: "Who, according to some versions of the myth, is said to have rescued Iphigenia from being sacrificed by the Greeks?"
+        answer: "ARTEMIS / DIANA"
+  - tossup:
+      question: "What is another name for the partitive genitive?"
+      answer: "THE GENITIVE OF THE WHOLE?"
+    boni:
+      - question: "What limitation is there in good prose on the use of the dative of possession?"
+        answer: "IT MUST BE WITH THE VERB <latin>SUM</latin>"
+      - question: "What case besides the genitive can show description?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Who was the father of Pompey the Great?"
+      answer: "POMPEIUS STRABO"
+    boni:
+      - question: "Who was Pompey's second wife, whom he divorced for alleged adultery with Julius Caesar?"
+        answer: "MUCIA"
+      - question: "Who was Pompey's third wife?"
+        answer: "JULIA, CAESAR'S DAUGHTER"
+  - tossup:
+      question: "When the action of the Aeneid begins, where are the Trojans?"
+      answer: "OFF THE COAST OF SICILY"
+    boni:
+      - question: "What Trojan ally welcomed them on Sicily?"
+        answer: "ACESTES"
+      - question: "What important character dies on Sicily?"
+        answer: "ANCHISES"
+  - tossup:
+      question: "Who was the first adversary faced by Achilles after disembarking at Troy?"
+      answer: "CYCNUS"
+    boni:
+      - question: "Who was Cycnus' father?"
+        answer: "POSEIDON"
+      - question: "Poseidon had given Cycnus invulnerability to weapons. How did Achilles kill him?"
+        answer: "STRANGLED HIM WITH HIS HELMET-STRAP"
+  - tossup:
+      question: "In the sentence, \"They waged war for many years,\" translate \"for many years\" into Latin."
+      answer: "<latin>(PER) MULTOS ANNOS</latin>"
+    boni:
+      - question: "In \"They attacked at first light.\""
+        answer: "<latin>PRIMA LUCE</latin>"
+      - question: "Say \"on the Ides of March\" in Latin."
+        answer: "<latin>IDIBUS MARTIIS</latin>"
+  - tossup:
+      question: "Make this form plural: <latin>scribe</latin>."
+      answer: "<latin>SCRIBITE</latin>"
+    boni:
+      - question: "Make this form singular: <latin>venite</latin>."
+        answer: "<latin>VENI</latin>"
+      - question: "Make this form singular: <latin>ferte</latin>."
+        answer: "<latin>FER</latin>"
+  - tossup:
+      question: "Who was Tiberius' first wife?"
+      answer: "VIPSANIA"
+    boni:
+      - question: "Who was Vipsania's father?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "Who was the son of Tiberius and Vipsania?"
+        answer: "DRUSUS"
+  - tossup:
+      question: "<latin>Quot pollices tibi sunt?</latin>"
+      answer: "<latin>DUO</latin>"
+    boni:
+      - question: "<latin>Quot tali tibi sunt?</latin>"
+        answer: "<latin>DUO</latin>"
+      - question: "<latin>Quot cubita tibi sunt?</latin>"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "Who wrote a history of Rome in 142 books?"
+      answer: "LIVY"
+    boni:
+      - question: "What was his birthplace?"
+        answer: "PATAVIUM"
+      - question: "Of his 142 books, how many are extant and complete?"
+        answer: "35"
+  - tossup:
+      question: "In what city is the Parthenon found?"
+      answer: "ATHENS"
+    boni:
+      - question: "In what city is the Pantheon found?"
+        answer: "ROME"
+      - question: "Where is Hadrian's Wall?"
+        answer: "BRITAIN"
+  - tossup:
+      question: "Distinguish in meaning between the verbs <latin>paro</latin> and <latin>pareo</latin>."
+      answer: "<latin>PARO</latin> - PREPARE, <latin>PAREO</latin> - OBEY"
+    boni:
+      - question: "Distinguish between the nouns <latin>libri</latin> and <latin>liberi</latin>."
+        answer: "<latin>LIBRI</latin> - BOOKS; <latin>LIBERI</latin> - CHILDREN (FREE ONES)"
+      - question: "Distinguish between <latin>mille</latin> and <latin>miles</latin>."
+        answer: "<latin>MILLE</latin> - 1000; <latin>MILES</latin> - SOLDIER"

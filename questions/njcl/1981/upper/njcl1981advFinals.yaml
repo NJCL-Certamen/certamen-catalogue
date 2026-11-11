@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What was the year of the four emperors in the second century AD?"
+      answer: "193 AD"
+    boni:
+      - question: "Who were the four emperors in 193 AD?"
+        answer: "COMMODUS, PERTINAX, DIDIUS JULIANUS, SEPTIMIUS SEVERUS"
+      - question: "Which of them became emperor by buying the empire at an auction staged by the Pretorian Guard?"
+        answer: "D. JULIANUS"
+  - tossup:
+      question: "From the following sentence: \"If we had arrived first, we would have been able to see,\" translate to Latin: \"we would have been able.\""
+      answer: "<latin>POTUISSEMUS</latin>"
+    boni:
+      - question: "What type of conditional clause is that?"
+        answer: "(PAST) CONTRARY-TO-FACT"
+      - question: "What tense would be used in the condition of this sentence: \"If I were emperor, I would still be unhappy?\""
+        answer: "IMPERFECT"
+  - tossup:
+      question: "What Latin word is the basis for the British penny's being abbreviated d.?"
+      answer: "<latin>DENARIUS</latin>"
+    boni:
+      - question: "In a prescription, what does a c with a superscript hyphen mean?"
+        answer: "<latin>CUM</latin>"
+      - question: "What does f.m. mean in a prescription?"
+        answer: "MIX, MAKE A MIXTURE (<latin>FIAT MISTURA</latin>)"
+  - tossup:
+      question: "What was the year of Hannibal's birth?"
+      answer: "247 BC"
+    boni:
+      - question: "In what year did his father take him to Spain?"
+        answer: "237 BC"
+      - question: "In what year did he, upon the death of his brother-in-law Hasdrubal, assume command in Spain?"
+        answer: "221 BC"
+  - tossup:
+      question: "<latin>Esurio</latin>, to be hungry, is an example of what class of verbs?"
+      answer: "DESIDERATIVES"
+    boni:
+      - question: "Of what verb is esurio the desiderative?"
+        answer: "<latin>EDO</latin> - EAT"
+      - question: "What class of verbs has as its signal the ending <latin>-sco</latin>?"
+        answer: "INCHOATIVES (or INCEPTIVES)"
+  - tossup:
+      question: "What is the term for such perfect forms as <latin>cecini, pepuli</latin> and <latin>peperi</latin>?"
+      answer: "REDUPLICATED"
+    boni:
+      - question: "Name a second-conjugation verb with a reduplicated perfect."
+        answer: "<latin>MORDEO, PENDEO, SPONDEO, TONDEO</latin>"
+      - question: "Name a first-conjugation verb with a reduplicated perfect."
+        answer: "<latin>DO, STO</latin>"
+  - tossup:
+      question: "510 BC seems to have been a good year for expelling despots; where besides Rome was monocracy ended that year?"
+      answer: "ATHENS"
+    boni:
+      - question: "Who was the tyrant driven out?"
+        answer: "HIPPIAS"
+      - question: "Who was Hippias' father, who had established the tyranny after the rule of Solon?"
+        answer: "PISISTRATUS"
+  - tossup:
+      question: "Who, although accused as a partisan of Catiline, was defended in court by both Cicero and Hortensius and acquitted?"
+      answer: "P. CORNELIUS SULLA (not Sulla Felix)"
+    boni:
+      - question: "Sulla's case is one of three known instances in which Cicero and Hortensius were on the same side of the case; orations by Cicero survive in all three cases. Name one of the other two."
+        answer: "<latin><title>PRO SESTIO</title></latin> and <latin><title>PRO C. RABIRIO PERDUELLIONIS REO</title></latin>"
+      - question: "What was the year of Hortensius' consulship?"
+        answer: "69 BC"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>lambo</latin>?"
+      answer: "<latin>LAMBISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>pungo</latin>?"
+        answer: "<latin>PUPUGISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>sterno</latin>?"
+        answer: "<latin>STRAVISSE</latin>"
+  - tossup:
+      question: "Which of these is not a derivative of the verb lavo: lotion, laundry, lavish, lavender?"
+      answer: "LAVENDER"
+    boni:
+      - question: "Which of these is not from claudo: close (the adjective), closet, cluster, cloister?"
+        answer: "CLUSTER"
+      - question: "Which of these is not from mitto: mass (the Catholic service), mess, message, miss (the verb)?"
+        answer: "MISS"
+  - tossup:
+      question: "What son of Eos is the personification of the morning star?"
+      answer: "PHOSPHORUS"
+    boni:
+      - question: "What Titan do some sources make Eos' mate and Phosphorus' father?"
+        answer: "ASTRAEUS"
+      - question: "What mortal beloved of Eos is sometimes substituted as Phosphorus' father?"
+        answer: "CEPHALUS"
+  - tossup:
+      question: "Which poem by Vergil is sometimes called “messianic” and predicts the birth of a child whose rule will lead mankind into a new Golden Age?"
+      answer: "THE FOURTH <title>ECLOGUE</title>"
+    boni:
+      - question: "What Greek poet was Vergil’s model for most of the <title>Eclogues</title>, but not the fourth or sixth?"
+        answer: "THEOCRITUS"
+      - question: "Vergil in the first line of the fourth <title>Eclogue</title> addresses Muses which he describes with Theocritus’ birthplace. He separates himself from his Greek forebear by telling these Muses he wants now to sing “greater” themes than he has been versifying. What was Theocritus’ birthplace?"
+        answer: "SICILY (<latin>Sicelides Musae, paulo maiora canamus</latin>)"
+  - tossup:
+      question: "What genre of Roman literature was pioneered by men named C. Acilius, Cincius Alimentus, Postumius Albinus and Fabius Pictor?"
+      answer: "HISTORY"
+    boni:
+      - question: "Which of them wrote in Greek?"
+        answer: "THEY ALL DID"
+      - question: "Who was the first Roman historian to write in Latin?"
+        answer: "CATO THE CENSOR"
+  - tossup:
+      question: "Where did Achilles and Aeneas first meet each other in battle?"
+      answer: "LYRNESSUS, NEAR TROY"
+    boni:
+      - question: "What other important character is first encountered at Lyrnessus by Achilles?"
+        answer: "BRISEÏS"
+      - question: "What concubine had Agamemnon lost to make him claim Briseis from Achilles?"
+        answer: "CHRYSEÏS"
+  - tossup:
+      question: "Of what classical pronoun is <latin>tis</latin> an archaic form?"
+      answer: "<latin>TUI</latin> (GENITIVE SINGULAR)"
+    boni:
+      - question: "What is the archaic form of the ablative <latin>te</latin>?"
+        answer: "<latin>TED</latin>"
+      - question: "What is the archaic form of the conjunction <latin>cum</latin>?"
+        answer: "<latin>QUOM</latin>"
+  - tossup:
+      question: "Who was the first mortal homosexual in mythology?"
+      answer: "THAMYRIS"
+    boni:
+      - question: "Who was his beloved?"
+        answer: "HYACINTHUS"
+      - question: "What was his crime of arrogance?"
+        answer: "HE CHALLENGED THE MUSES TO A SINGING CONTEST"
+  - tossup:
+      question: "What seer, brought to Ithaca by Telemachus, foretold the suitors' deaths but was ignored by them?"
+      answer: "THEOCLYMENUS"
+    boni:
+      - question: "What famous seer was Theoclymenus' ancestor?"
+        answer: "MELAMPUS"
+      - question: "Where had Telemachus brought Theoclymenus from?"
+        answer: "PYLOS"
+  - tossup:
+      question: "What Silver Age epicist wrote a poem entitled the <latin><title>Argonautica</title></latin>?"
+      answer: "VALERIUS FLACCUS"
+    boni:
+      - question: "Who wrote a Greek epic of the same title, of which Flaccus' work is not a translation?"
+        answer: "APOLLONIUS OF RHODES"
+      - question: "What early and extremely productive Roman author did make a Latin translation of Apollonius' epic?"
+        answer: "VARRO ATACINUS"
+  - tossup:
+      question: "Give in Latin the date for the celebration of Halloween."
+      answer: "<latin>PRIDIE KALENDAS NOVEMBRES</latin>"
+    boni:
+      - question: "Give in Latin the date of our Independence Day."
+        answer: "<latin>A.D. IV NONAS IULIAS</latin>"
+      - question: "Give in Latin the date of Columbus Day."
+        answer: "<latin>A.D. IV IDUS OCTOBRES</latin>"
+  - tossup:
+      question: "The vague terms Asia and Asia Minor notwithstanding, what is now Turkey was never in ancient times thought of as a whole. Name at least five ancient regions which lay wholly or partially in modern-day Turkey."
+      answer: "SEE BELOW"
+    boni:
+      - question: "Name four more."
+        answer: "SEE BELOW"
+      - question: "Name four more."
+        answer: "AEOLIS, GALATIA, PHRYGIA; ANATOLIA, IONIA, PISIDIA; ARMENIA (MINOR), LYCAONIA, PONTUS; BITHYNIA, LYCIA, SOPHENE; CAPPADOCIA, LYDIA, SYRIA; CARIA, MESOPOTAMIA, TEUTHRANIA; CILICIA, MYSIA, THRACE; COMMAGENE, PAMPHYLIA, TROAS (THE TROAD); PERGAMUM, TROIA (TROY)"

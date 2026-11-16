@@ -103,7 +103,7 @@ questions:
       question: "What use of the genitive case is found in the following sentence: <latin>cuius canem spectātis?</latin> "
       answer: "POSSESSIVE / (SHOWING) POSSESSION"
     boni:
-      - question: "What use of the genitive case is found in the following sentence: <latin>Graecī magnam partem urbis</latin>  <latin>cēpērunt</latin>? "
+      - question: "What use of the genitive case is found in the following sentence: <latin>Graecī magnam partem urbis cēpērunt</latin>? "
         answer: "PARTITIVE / GENITIVE OF THE WHOLE"
       - question: "What use of the genitive case is found in the following sentence: <latin>magnum timōrem meae vītae habēbam?</latin>"
         answer: "OBJECTIVE"

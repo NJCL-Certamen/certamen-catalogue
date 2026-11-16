@@ -55,7 +55,7 @@ questions:
       question: "Which of these objects - <latin>pōns, stilus, arbor, carpentum</latin>, or <latin>hortus</latin> - is describing itself here: <latin>Hominēs mē mūniunt super flūmina.</latin>"
       answer: "<latin>PŌNS</latin> "
     boni:
-      - question: "Which of those objects is describing itself here: <latin>Sum vehiculum in quō hominēs</latin>  <latin>sedēre possunt</latin>."
+      - question: "Which of those objects is describing itself here: <latin>Sum vehiculum in quō hominēs sedēre possunt</latin>."
         answer: "<latin>CARPENTUM</latin> "
       - question: "Which of those objects is describing itself here: <latin>Saepe contineō fontēs et flōrēs</latin>."
         answer: "<latin>HORTUS</latin> "

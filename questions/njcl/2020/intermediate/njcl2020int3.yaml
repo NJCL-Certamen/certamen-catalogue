@@ -82,7 +82,7 @@ questions:
       - question: "Give a Latin antonym for <latin>perīculum</latin>."
         answer: "<latin>SALŪS / TŪTUM / INCOLUMITAS / SALVĀTIO / SĀNITAS / VALĒTŪDO</latin>"
       - question: "Give a Latin antonym for <latin>laetitia.</latin>"
-        answer: "<latin>TRISTITIA / MAESTITIA / DOLOR / TRISTITŪDO</latin>  <latin>---</latin>"
+        answer: "<latin>TRISTITIA / MAESTITIA / DOLOR / TRISTITŪDO ---</latin>"
   - tossup:
       question: "What brother of Demetrius brought about Demetrius’ execution by playing on the suspicions of their father Philip, ultimately leading to his succession to the throne of Macedon?"
       answer: "PERSEUS"
@@ -122,7 +122,7 @@ questions:
       - question: "Complete the following analogy: <latin>conor : conātum esse :: frangō :</latin> <emphasis>[blank]</emphasis>"
         answer: "<latin>FREGISSE</latin>"
       - question: "Complete the following analogy: <latin>conor : conāre :: ducō :</latin> <emphasis>[blank]</emphasis>"
-        answer: "<latin>DUC</latin>  <latin>---</latin>"
+        answer: "<latin>DUC ---</latin>"
   - tossup:
       question: "<latin>Respondē Latīnē: Cuius oculī in caudā pavōnis positī sunt ā Iūnōne?</latin>"
       answer: "<latin>(OCULĪ) ARGĪ (PANOPTIS)</latin>"
@@ -148,7 +148,7 @@ questions:
       - question: "Castor was originally mortal like what sister of his, the mother of Erigone and Chrysothemis?"
         answer: "CLYTEMNESTRA"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lacerta sibi putāvit: “Etiam plus cibī mē exspectat in domō illīus ursae!” Maximā cum difficultāte lacerta sē levāvit ē flūmine et ursam secūta est, avida magnam cēnam edere.</latin>  <latin>Nescīvit autem ursulōs ā patre ursō servārī, et patrem in animō habēre aliquid edere tantum quam lacertam.</latin>     <title>REPEAT</title>  The question:  <latin>Quōmodo lacerta ē flūmine sē levāvit?</latin>"
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Lacerta sibi putāvit: “Etiam plus cibī mē exspectat in domō illīus ursae!” Maximā cum difficultāte lacerta sē levāvit ē flūmine et ursam secūta est, avida magnam cēnam edere. Nescīvit autem ursulōs ā patre ursō servārī, et patrem in animō habēre aliquid edere tantum quam lacertam.</latin>     <title>REPEAT</title>  The question:  <latin>Quōmodo lacerta ē flūmine sē levāvit?</latin>"
       answer: "<latin>MAXIMĀ (CUM) DIFFICULTĀTE // \t\tCUM DIFFICULTĀTE// DIFFICILE // NON FACILE</latin>"
     boni:
       - question: "<latin>Cūr lacerta ursam secūta est?</latin>"

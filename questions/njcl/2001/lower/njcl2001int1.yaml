@@ -7,7 +7,7 @@ questions:
       question: "You are sitting in an ancient Roman restaurant"
       answer: "A"
     boni:
-      - question: "waiter comes up to you and asks “<latin>Quid</latin>  <latin>vīs potāre</latin>?” What does the waiter want to know?"
+      - question: "waiter comes up to you and asks “<latin>Quid vīs potāre</latin>?” What does the waiter want to know?"
         answer: "WHAT YOU <emphasis>WANT TO DRINK</emphasis>"
       - question: " After bringing you something to drink, you tell the waiter “<latin>Fer ad me aliquid pānis</latin>!” What are you telling the waiter?"
         answer: "TO <emphasis>BRING</emphasis> YOU (SOME) <emphasis>BREAD</emphasis>"
@@ -78,12 +78,12 @@ questions:
       - question: "Along what road did Crassus crucify 6,000 captured slaves to demonstrate that he, not Pompey, was responsible for Spartacus’ defeat?"
         answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō tectō huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit.</latin>  <latin>Quod nōmen datum est prīmae partī domūs Rōmānae?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō tectō huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit. Quod nōmen datum est prīmae partī domūs Rōmānae?</latin>"
       answer: "ĀTRIUM"
     boni:
       - question: "Ubi apertum spatium situm est? "
         answer: "<latin>IN (MEDIŌ) TECTŌ (HUIUS PARTIS / ĀTRIĪ)</latin>"
-      - question: "  <latin>SUPER (or SUPRĀ) IMPLUVIUM</latin>  <latin>Quid in impluvium dēscendit?</latin>"
+      - question: "  <latin>SUPER (or SUPRĀ) IMPLUVIUM Quid in impluvium dēscendit?</latin>"
         answer: "PLUVIA /AQUA / IMBER / NIMBUS"
   - tossup:
       question: "What use of the dative case is found in the following Latin sentence: <latin>Urbs mihi regnanda est</latin>?"

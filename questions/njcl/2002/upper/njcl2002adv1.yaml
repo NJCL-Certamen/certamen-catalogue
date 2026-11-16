@@ -82,7 +82,7 @@ questions:
       - question: "What use of the ablative case can be found in the following sentence: <latin>tōtum montem hominibus complēvit</latin>?"
         answer: "MEANS / INSTRUMENT"
   - tossup:
-      question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō discere multa carmina scripta ā poētīs Rōmānīs</latin>  <latin>quia magistrī semper prōfitentur, ut discipulī in exāmīnātiōne bene agant,</latin>  <latin>carmina poētārum, praesertim Catullī, in memōriā tenenda esse.</latin>  <latin>Quī multa carmina composuerant?</latin>"
+      question: "Listen carefully to the following sentence, which I will read twice, then answer IN LATIN the question that follows: <latin>necesse est discipulīs in lūdō discere multa carmina scripta ā poētīs Rōmānīs quia magistrī semper prōfitentur, ut discipulī in exāmīnātiōne bene agant, carmina poētārum, praesertim Catullī, in memōriā tenenda esse. Quī multa carmina composuerant?</latin>"
       answer: "<emphasis><latin>PO</latin>Ē<latin>TAE</latin></emphasis> <latin>RŌMĀNĪ</latin>"
     boni:
       - question: "<latin>Cūr necesse est discipulīs carmina discere?</latin> "
@@ -106,7 +106,7 @@ questions:
       - question: "Which of his works won Martial the appreciation of the emperor Titus?"
         answer: "(<title><latin>LIBER</latin></title>) <title><latin>DĒ</latin> <latin>SPECTĀCULĪS</latin> / <latin>LIBER SPECTĀCULŌRUM</latin></title>"
   - tossup:
-      question: "Who in the <title>Aeneid</title> speaks these lines, which I will read as prose: <latin>“Iūnōnis gravis īra neque exsaturābile pectus</latin>  <latin>cōgunt mē, Neptūne, precēs dēscendere in omnīs”</latin> VENUS Who in the <title>Aeneid</title> speaks these lines: <latin>“nāte, mihi vītā quondam,dum vīta manēbat,</latin>  <latin>cāre magis, nāte, Īliacīs exercite fātīs,</latin>  <latin>imperiō Iovis hūc veniō, quī classibus ignem</latin>  <latin>dēpulit, et caelō tandem miserātus ab altō est.”</latin>"
+      question: "Who in the <title>Aeneid</title> speaks these lines, which I will read as prose: <latin>“Iūnōnis gravis īra neque exsaturābile pectus cōgunt mē, Neptūne, precēs dēscendere in omnīs”</latin> VENUS Who in the <title>Aeneid</title> speaks these lines: <latin>“nāte, mihi vītā quondam,dum vīta manēbat, cāre magis, nāte, Īliacīs exercite fātīs, imperiō Iovis hūc veniō, quī classibus ignem dēpulit, et caelō tandem miserātus ab altō est.”</latin>"
       answer: "ANCHISES"
     boni:
       - question: "Whom was Anchises addressing in the previous quote?"

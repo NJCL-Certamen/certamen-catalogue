@@ -90,7 +90,7 @@ questions:
       - question: "Now using only five Latin words, translate this sentence into Latin: Horace sailed to Athens to write poems"
         answer: "<latin>HORĀTIUS ATHĒNĀS NĀVIGĀVIT</latin>   <latin>SCRĪPTUM / COMPOSITUM CARMINA / POĒMĀTA</latin>"
       - question: "Now using the verb <latin>cōgō</latin> and only four Latin words, translate this sentence into Latin: Horace forced Vergil to finish the work"
-        answer: "<latin>HORĀTIUS VERGILIUM PERFICERE/ CŌNFICERE OPUS/LABOREM COĒGIT or</latin>  <latin>HORĀTIUS COĒGIT PERFICERET/ CŌNFICERET OPUS/LABŌREM VERGILIUS</latin> (may use subjunctive without <latin>ut</latin>)"
+        answer: "<latin>HORĀTIUS VERGILIUM PERFICERE/ CŌNFICERE OPUS/LABOREM COĒGIT or HORĀTIUS COĒGIT PERFICERET/ CŌNFICERET OPUS/LABŌREM VERGILIUS</latin> (may use subjunctive without <latin>ut</latin>)"
   - tossup:
       question: "What Athenian hero was born when Hephaestus attempted to rape Athena?"
       answer: "ERICHTHONIUS"

@@ -34,7 +34,7 @@ questions:
       - question: "Who was Porsenna’s son who led the Etruscan force which was defeated at Aricia?"
         answer: "ARRUNS"
   - tossup:
-      question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā multōs hostēs pōntem dēfendit. Dum magnā virtūte</latin>  <latin>impetum sustinet, Aliī mīlitēs Rōmānī pōntem dēlēvērunt. Tum Horātius,</latin>  <latin>quī multa vulnera habēbat, deum flūminis invocāvit et dē pōnte in aquam</latin>  <latin>saluit.</latin>  <latin>Quō modō sustinēbat Horātius impetum?</latin>"
+      question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā multōs hostēs pōntem dēfendit. Dum magnā virtūte impetum sustinet, Aliī mīlitēs Rōmānī pōntem dēlēvērunt. Tum Horātius, quī multa vulnera habēbat, deum flūminis invocāvit et dē pōnte in aquam saluit. Quō modō sustinēbat Horātius impetum?</latin>"
       answer: "MAGNĀ <latin>VIRTŪTE / FORTITER</latin>"
     boni:
       - question: "Quī <latin>pontem dēlēvērunt?</latin>"
@@ -131,7 +131,7 @@ questions:
       question: "What use of the ablative case is found in the following sentence: <latin>mīlitēs tribus diēbus revenient</latin>?"
       answer: "TIME WITHIN WHICH / TIME WHEN"
     boni:
-      - question: "What use of the ablative case is found in the following sentence: <latin>Quīntus fābulam</latin>  <latin>narrābat dē amīcīs</latin>?"
+      - question: "What use of the ablative case is found in the following sentence: <latin>Quīntus fābulam narrābat dē amīcīs</latin>?"
         answer: "WITH THE <emphasis>PREPOSITION</emphasis> <latin>DĒ</latin>"
       - question: "What use of the ablative case is found in the following sentence: <latin>necesse est āthlētae cum celeritāte currere</latin>?"
         answer: "MANNER (prompt if “use with preposition or <latin>cum</latin>” is given)"

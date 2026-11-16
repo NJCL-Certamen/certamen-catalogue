@@ -56,7 +56,7 @@ questions:
       - question: "Of the following words, which, if any, derive from Latin: never, going, to, give, you, up?"
         answer: "NONE"
   - tossup:
-      question: "<latin>RESPONDĒ LATĪNĒ:</latin>  <latin>In quō signō caelī nocturnī inveniuntur stellae monstrī ingentis positae ā Iunōne postquam Hercūlēs in palūde Lernaeae pugnāns necāvit. (IN) CANCERE / CANCRŌ / (IN) SIGNŌ CANCERIS  // (IN) HYDRĀ / (IN) SIGNŌ</latin>"
+      question: "<latin>RESPONDĒ LATĪNĒ: In quō signō caelī nocturnī inveniuntur stellae monstrī ingentis positae ā Iunōne postquam Hercūlēs in palūde Lernaeae pugnāns necāvit. (IN) CANCERE / CANCRŌ / (IN) SIGNŌ CANCERIS  // (IN) HYDRĀ / (IN) SIGNŌ</latin>"
       answer: "<latin>HYDRAE</latin>"
     boni:
       - question: "<latin>In quō signō caelī nocturnī sunt stellae nymphae Callistūs aut filiī Arcadis?</latin>"
@@ -80,13 +80,13 @@ questions:
       - question: "The people of which island rose in a sympathetic revolt due to Rome’s Ligurian wars, \trequiring Tiberius Sempronius Gracchus to occupy it with a consular army for two years?"
         answer: "SARDINIA"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Ursulus, maximē cūriōsus, lacertam vīdit et in dorsō eius saluit.</latin>  <latin>Lacerta, nesciēns quid accideret, versa est ut nōsceret.</latin>  <latin>Eō temporis momentō pater ursus guttur hostis momordit, et ferōciter pede celerī ursulum in cavernam reppulit</latin>. <title>REPEAT</title>\t  The question:  <latin>Cūr lacerta versa est?</latin>"
+      question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions that follow. \t<latin>Ursulus, maximē cūriōsus, lacertam vīdit et in dorsō eius saluit. Lacerta, nesciēns quid accideret, versa est ut nōsceret. Eō temporis momentō pater ursus guttur hostis momordit, et ferōciter pede celerī ursulum in cavernam reppulit</latin>. <title>REPEAT</title>\t  The question:  <latin>Cūr lacerta versa est?</latin>"
       answer: "<latin>UT NŌSCERET (QUID ACCIDERET) // (QUOD) URSULUS IN DORSŌ EIUS SALUIT</latin>"
     boni:
       - question: "<latin>Quandō pater ursus guttur lacertae momordit?</latin>"
         answer: "<latin>CUM / UBI LACERTA VERSA EST</latin> (prompt on <latin>eō temporis momentō</latin> <title><latin>vel sim.</latin></title>)"
       - question: "<latin>Quōmodo pulsus est ursulus ā patre?</latin>"
-        answer: "<latin>FERŌCITER / PEDE (CELERĪ PATRIS URSĪ)</latin>  <latin>---</latin>"
+        answer: "<latin>FERŌCITER / PEDE (CELERĪ PATRIS URSĪ) ---</latin>"
   - tossup:
       question: "This question is a visual question. You will have 10 seconds to examine the visual once it is shared via Zoom. Please examine your visual now [WAIT 10 seconds].  \tConsider the following images labeled A through D. Which of these images depicts a scene from the story told by a native Arcadian to Aeneas in Book 8 of the <title>Aeneid</title>, when the hero reaches Pallanteum?"
       answer: "A"
@@ -126,7 +126,7 @@ questions:
       - question: "Supply the correct form of <latin>doceo</latin> for this sentence: “Our parents asked us what we were being taught.”"
         answer: "<latin>DOCĒRĒMUR</latin>"
       - question: "Supply the correct form of <latin>doceo</latin> for this sentence: “If we had taught the men to fish, they would have never been hungry again.”"
-        answer: "<latin>DOCUISSĒMUS</latin>  <latin>---</latin>"
+        answer: "<latin>DOCUISSĒMUS ---</latin>"
       - question: "Using a deponent verb, say “you are fearing.”"
         answer: "<latin>VERERIS</latin>"
       - question: "Change the deponent verb <latin>verēris</latin> to the pluperfect subjunctive."

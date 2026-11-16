@@ -90,7 +90,7 @@ questions:
       - question: "Now translate the full sentence into Latin still using <latin>sunt</latin>, “How many cats do you have?”"
         answer: "<latin>QUOT FĒLĒS TIBI / VŌBĪS SUNT?</latin>"
       - question: "Now say in Latin, “I hear that you have many cats.”"
-        answer: "<latin>AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE // AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE</latin>  <latin>---</latin>"
+        answer: "<latin>AUDIŌ TĒ / VŌS MULTĀS FĒLĒS HABĒRE // AUDIŌ TIBI / VŌBĪS MULTĀS FĒLĒS ESSE ---</latin>"
   - tossup:
       question: "Who, at a banquet thrown by Tantalus, obliviously ate a piece of Pelops’ shoulder, because she was still grieving the death of her daughter Persephone?"
       answer: "DEMETER"

@@ -91,7 +91,7 @@ questions:
         answer: "<latin>ARIĒS</latin>"
   - tossup:
       question: "Translate into Latin: The swords have been carried to the commander by the prisoners"
-      answer: "<latin>GLADIĪ / ĒNSĒS PORTĀTĪ / LĀTĪ SUNT AD</latin>  <latin>IMPERĀTŌREM / DUCEM Ā CAPTĪVĪS</latin> "
+      answer: "<latin>GLADIĪ / ĒNSĒS PORTĀTĪ / LĀTĪ SUNT AD IMPERĀTŌREM / DUCEM Ā CAPTĪVĪS</latin> "
     boni:
       - question: "What case and use is <latin>captīvīs</latin>?"
         answer: "ABLATIVE OF (PERSONAL) AGENT "

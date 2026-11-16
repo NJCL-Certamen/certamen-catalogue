@@ -4,7 +4,7 @@ division: "Intermediate"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim Publius Claudius, vir magnae superbiae, dux classis Rōmānae factus est. Cum impetum in classem hostium parāret, ab haruspicibus monēbātur, “Hodiē pullī sacrī cibum nōn edunt.” “Bibant tamen,” respondit īrātus dux et pullōs sacrōs in mare dēmīsit.</latin>  <latin>Quid parābat Claudius?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Ōlim Publius Claudius, vir magnae superbiae, dux classis Rōmānae factus est. Cum impetum in classem hostium parāret, ab haruspicibus monēbātur, “Hodiē pullī sacrī cibum nōn edunt.” “Bibant tamen,” respondit īrātus dux et pullōs sacrōs in mare dēmīsit. Quid parābat Claudius?</latin>"
       answer: "IMPETUM (IN CLASSEM HOSTIUM)"
     boni:
       - question: "Quī <latin>dīxērunt pullōs sacrōs cibum nōn edere?</latin>"
@@ -74,7 +74,7 @@ questions:
       - question: "Do the same for <latin>possēs</latin>"
         answer: "IMPERF, INDIC., ACT., 2ND PER. SING.. OF <latin>POSSUM</latin> /<latin>POSSE</latin>"
       - question: " Do the same for <latin>vōluerim</latin>"
-        answer: "PERF, SUBJV., ACT., 1ST PER. SING. OF <latin>VŌLŌ</latin>/ <latin>VELLE</latin>"
+        answer: "PERF, SUBJV., ACT., 1ST PER. SING. OF <latin>VŌLŌ / VELLE</latin>"
   - tossup:
       question: "Change the verb <latin>nōlō</latin> to the plural"
       answer: "<latin>NŌLUMUS</latin>"
@@ -100,28 +100,28 @@ questions:
       - question: ". . . for the conjunction <latin>numquam</latin>"
         answer: "<latin>SEMPER, ASSIDUĒ, PERPETUŌ</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>auris</latin>”?"
+      question: "<latin>Quid Anglicē significat “auris</latin>”?"
       answer: "EAR"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>crūs</latin>”?"
+      - question: "<latin>Quid Anglicē significat “crūs</latin>”?"
         answer: "LEG, SHANK, SHIN, FOOT"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>mentum</latin>”?"
+      - question: "<latin>Quid Anglicē significat “mentum</latin>”?"
         answer: "CHIN, BEARD"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>Fēlīciter</latin>”?"
+      question: "<latin>Quid Anglicē significat “Fēlīciter</latin>”?"
       answer: "GOOD LUCK! SUCCESSFULLY, FAVORABLY"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>euge</latin>”?"
+      - question: "<latin>Quid Anglicē significat “euge</latin>”?"
         answer: "HURRAH!, WELL DONE!, BRAVO!"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>vae</latin>”?"
+      - question: "<latin>Quid Anglicē significat “vae</latin>”?"
         answer: "ALAS!, WOE!"
   - tossup:
-      question: "<latin>Quid Anglicē significat verbum</latin> “<latin>scindō</latin>”?"
+      question: "<latin>Quid Anglicē significat verbum “scindō</latin>”?"
       answer: "TEAR, RIP, CUT, DIVIDE, DISTURB"
     boni:
-      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>soleō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum “soleō</latin>”?"
         answer: "BE ACCUSTOMED, USUALLY"
-      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>spargō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum “spargō</latin>”?"
         answer: "SPREAD, SCATTER, SPRINKLE"
   - tossup:
       question: "Translate the following sentence into English: <latin>Marcum rogābō quid crās faciat</latin>"
@@ -224,7 +224,7 @@ questions:
       answer: "HYLAS"
     boni:
       - question: "Who insisted that the Argonauts leave Hylas & Heracles there?"
-        answer: "ZETES & CALAIS"
+        answer: "ZETES & CALAÏS"
       - question: "or GLAUCUS (THE SEA GOD) Who was the father of Zetes and Calais?"
         answer: "BOREAS"
   - tossup:

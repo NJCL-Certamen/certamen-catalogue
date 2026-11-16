@@ -45,7 +45,7 @@ questions:
         answer: "SPOLIA OPIMA"
   - tossup:
       question: "Translate the following sentence into Latin using a <emphasis>deponent</emphasis> verb: We promised that tomorrow we would come"
-      answer: "<latin>POLLICĒBĀMUR NŌS CRĀS VENTŪRŌS (-ĀS) ESSE</latin>  <latin>POLLICITĪ (-AE) SUMUS NŌS CRĀS VENTŪRŌS (-ĀS) ESSE</latin>"
+      answer: "<latin>POLLICĒBĀMUR NŌS CRĀS VENTŪRŌS (-ĀS) ESSE POLLICITĪ (-AE) SUMUS NŌS CRĀS VENTŪRŌS (-ĀS) ESSE</latin>"
     boni:
       - question: "Translate the following sentence using a relative clause: I can see that the man who is sitting under the tree is sleeping"
         answer: "<latin>VIDĒRE POSSUM HOMINEM / VIRUM QUĪ SUB ARBORE SEDEAT DORMĪRE</latin>"
@@ -103,7 +103,7 @@ questions:
       question: "Which of these terms is not related to the others? <latin>stirps, vīcus, pagus, mūnicipium, colōnia</latin>, or <latin>cīvitās</latin>?"
       answer: "<latin>STIRPS</latin>"
     boni:
-      - question: "Which of these terms is not related to the others? <latin>dupondius, āër, sestertius,</latin>  <latin>aureus, solidī, denarius</latin>?"
+      - question: "Which of these terms is not related to the others? <latin>dupondius, āër, sestertius, aureus, solidī, denarius</latin>?"
         answer: "<latin>ĀËR</latin>"
       - question: "Which of the following items does NOT belong with the others because of how an ancient Roman would use it? <latin>triptych, vellum, ātrāmentum, volūmen, codex</latin>?"
         answer: "<latin>ĀTRĀMENTUM</latin>"
@@ -162,4 +162,4 @@ questions:
       - question: "Who had set Odysseus on this inland journey?"
         answer: "TEIRESIAS"
       - question: "Teiresias told Odysseus that if he performed this task death would come from the sea. Who unwittingly fulfilled this prophecy by killing Odysseus with a spear tipped with the sting of a stingray?"
-        answer: "TELEGONUS   <latin>2007 NJCL CERTAMEN</latin>  <latin>ADVANCED DIVISION</latin>"
+        answer: "TELEGONUS   <latin>2007 NJCL CERTAMEN ADVANCED DIVISION</latin>"

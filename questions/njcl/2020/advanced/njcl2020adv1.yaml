@@ -42,7 +42,7 @@ questions:
       - question: "<latin>Quot ōrātiōnēs scripsit Cicero in Antōnium</latin>?"
         answer: "<latin>QUATTUORDECIM</latin>"
       - question: "<latin>Quot ōrātiōnēs habuit Cicero Prō virīs, Rosciīs nōmine</latin>?"
-        answer: "<latin>DUĀS</latin>  <latin>--</latin>"
+        answer: "<latin>DUĀS --</latin>"
   - tossup:
       question: "That the power of the emperor resided in his command of the armies had been true since the time of Augustus, but there was always a formality of having the Senate authorize actions, such as the formal acceptance of an emperor.  This changed when what emperor had his army in Mesopotamia declare Clodius Albinus a public enemy in order to legitimize the war against him?"
       answer: "(L.) SEPTIMIUS SEVERUS"

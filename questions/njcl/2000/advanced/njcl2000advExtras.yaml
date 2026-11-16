@@ -63,7 +63,7 @@ questions:
       question: "<latin>Quid significat: torvus?</latin>"
       answer: "FIERCE, GRIM, STERN"
     boni:
-      - question: "<latin>Quid significat: raucus<latin>?"
+      - question: "<latin>Quid significat: raucus</latin>?"
         answer: "HOARSE, HARSH, RAUCOUS"
       - question: "<latin>Quid significat: pronus?</latin>"
         answer: "SLOPING FORWARD, EASY, FACING DOWN"

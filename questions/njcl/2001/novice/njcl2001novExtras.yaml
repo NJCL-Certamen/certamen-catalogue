@@ -4,28 +4,28 @@ division: "Novice"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenēās ex urbe Trōiae cum patre et fīliō et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē accēpit quod prūdentissimus erat.</latin>  <latin>Ubi periit pater Aenēae?</latin>"
-      answer: "IN SICILIĀ"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Aenēās ex urbe Trōiae cum patre et fīliō et sociīs fūgit. Multōs annōs ad patriam novam nāvigābant. post iter longum pater Aenēae in Siciliā periit. Tandem in Ītaliam prope flūmen Tiberim advēnērunt. rēx ibi Aenēam et Trōiānōs benignē accēpit quod prūdentissimus erat. Ubi periit pater Aenēae?</latin>"
+      answer: "<latin>IN SICILIĀ</latin>"
     boni:
       - question: "<latin>Quamdiū nāvigābat Aenēās cum famīliā et sociīs?</latin>"
-        answer: "MULTŌS ANNŌS"
-      - question: "Cūr rēx in Ītaliā <latin>Trōiānōs benignē accēpit?</latin>"
-        answer: "(QUOD) PRŪDENTISSIMUS ERAT"
+        answer: "<latin>MULTŌS ANNŌS</latin>"
+      - question: "<latin>Cūr rēx in Ītaliā Trōiānōs benignē accēpit?</latin>"
+        answer: "<latin>(QUOD) PRŪDENTISSIMUS ERAT</latin>"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Pōne ūnum calceum aut ūnam soleam in mēnsā.</latin> "
       answer: "STUDENT SHOULD PUT ONE SHOE OR SANDAL ON THE TABLE"
     boni:
-      - question: "<latin>Pōnite capita in bracchis et dormīte.</latin> "
+      - question: "<latin>Pōnite capita in bracchis et dormīte.</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD PLACE THEIR HEADS IN THEIR ARMS AND (PRETEND) TO SLEEP"
-      - question: "<latin>Pōne duōs digitōs in genā sociī.</latin> "
+      - question: "<latin>Pōne duōs digitōs in genā sociī.</latin>"
         answer: "ONE STUDENT SHOULD PLACE TWO OF HIS FINGERS ON THE CHEEK OF A TEAMMATE"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>ergō</latin>”?"
+      question: "<latin>Quid Anglicē significat “ergō”</latin>?"
       answer: "THEREFORE, CONSEQUENTLY, AS A RESULT"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>ita</latin>”?"
+      - question: "<latin>Quid Anglicē significat “ita”</latin>?"
         answer: "SO, THUS, IN THIS WAY, YES"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>ecce</latin>!”?"
+      - question: "<latin>Quid Anglicē significat “ecce”!</latin>?"
         answer: "LO!, LOOK HERE!"
   - tossup:
       question: "Which of the following words, if any, is <emphasis>not</emphasis> derived from the same Latin root as the others: hostile(adj), hostess, hostel (noun), hospital, hospice?"
@@ -45,7 +45,7 @@ questions:
         answer: "<latin>BONŌRUM PATRUM</latin>"
   - tossup:
       question: "Translate the direct object and its modifiers into Latin for the sentence: “I have washed my whole body.”"
-      answer: "<latin>TŌTUM CORPUS</latin> (<latin>MEUM</latin>)"
+      answer: "<latin>TŌTUM CORPUS (MEUM)</latin>"
     boni:
       - question: "Translate the direct object and its modifiers into Latin for the sentence: “We visited two towns.”"
         answer: "<latin>DUO OPPIDA / DUĀS URBĒS</latin>"
@@ -66,7 +66,7 @@ questions:
       - question: "Do the same for <latin>potuerātis</latin>"
         answer: "PLUPERF, ACTIVE, 2ND PERSON PL. OF <latin>POSSUM / POSSE</latin>"
       - question: " Do the same for <latin>vīs</latin>"
-        answer: "PRES, ACTIVE, 2ND PERSON SING. OF <latin>VOLŌ</latin>/ <latin>VELLE</latin>"
+        answer: "PRES, ACTIVE, 2ND PERSON SING. OF <latin>VOLŌ / VELLE</latin>"
   - tossup:
       question: "What Latin phrase is commonly used in English to mean “spoken” or “orally?”"
       answer: "<latin>VĪVĀ VŌCE</latin>"
@@ -76,64 +76,68 @@ questions:
       - question: " What Latin phrase is commonly used in English to mean “with authority?”"
         answer: "<latin>EX CATHEDRĀ</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>mercātor</latin>”?"
+      question: "<latin>Quid Anglicē significat “mercātor</latin>”?"
       answer: "MERCHANT, TRADER, DEALER, PURCHASER"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>mendāx</latin>”?"
+      - question: "<latin>Quid Anglicē significat “mendāx”</latin>?"
         answer: "LIAR; LYING, DECEPTIVE, FALSE"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>mendum</latin>”?"
+      - question: "<latin>Quid Anglicē significat “mendum”</latin>?"
         answer: "ERROR, MISTAKE, BLEMISH, FAULT"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>fugiō</latin>”?"
+      question: "<latin>Quid Anglicē significat “fugiō”</latin>?"
       answer: "FLEE, RUN AWAY, ESCAPE, FLY, HURRY"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>bibō</latin>”?"
+      - question: "<latin>Quid Anglicē significat “bibō”</latin>?"
         answer: "DRINK"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>redeō</latin>”?"
+      - question: "<latin>Quid Anglicē significat “redeō”</latin>?"
         answer: "RETURN, GO/ COME BACK"
   - tossup:
       question: "What Latin word is a synonym of the adjective <latin>vastus</latin>?"
       answer: "<latin>MAGNUS, INGENS, IMMĀNIS, IMMENSUS</latin>"
     boni:
-      - question: " . . . of the preposition <latin>sub</latin>?"
+      - question: "What Latin word is a synonym of the preposition <latin>sub</latin>?"
         answer: "<latin>INFRĀ, SUBTER</latin>"
-      - question: ". . . of the adverb <latin>tardē</latin>?"
+      - question: "What Latin word is a synonym of the adverb <latin>tardē</latin>?"
         answer: "<latin>LENTĒ, PIGRĒ, SENTIM, SEGNITER</latin>"
   - tossup:
       question: "Give a suitable Latin synonym for the conjunction -<latin>que</latin>"
       answer: "<latin>ET, ATQUE, AC</latin>"
     boni:
-      - question: ". . . for the conjunction <latin>quod</latin>"
+      - question: Give a suitable Latin synonym for the conjunction <latin>quod</latin>"
         answer: "<latin>QUIA, QUONIAM, CUM, NAM, ENIM</latin>"
-      - question: ". . . for the conjunction <latin>aut</latin>"
-        answer: "<latin>VEL</latin>, -<latin>VE, AN</latin>"
+      - question: Give a suitable Latin synonym for the conjunction <latin>aut</latin>"
+        answer: "<latin>VEL / -VE / AN</latin>"
   - tossup:
       question: "What is the Latin antonym of the preposition <latin>in</latin> plus the accusative?"
-      answer: "<latin>EX</latin>, Ē"
+      answer: "<latin>EX / Ē</latin>"
     boni:
-      - question: "of the preposition <latin>ab?</latin>"
-        answer: "AD, <latin>ADVERSUS</latin>"
-      - question: ". . . of the preposition <latin>extrā</latin>?"
-        answer: "<latin>INTRĀ, INTER, IN, CIS, CITRĀ</latin>"
+      - question: "What is the Latin antonym of the preposition <latin>ab</latin>?"
+        answer: "<latin>AD / ADVERSUS</latin>"
+      - question: "What is the Latin antonym of the preposition <latin>extrā</latin>?"
+        answer: "<latin>INTRĀ / INTER / IN / CIS / CITRĀ</latin>"
   - tossup:
       question: "Translate this sentence into English: <latin>Multī equī in Circō Māximō magnā celeritāte currēbant.</latin> "
-      answer: "MANY HORSES WERE RUNNING WITH GREAT SPEED IN THE CIRCUS MAXIMUS."
+      answer: "MANY HORSES WERE RUNNING WITH GREAT SPEED IN THE CIRCUS MAXIMUS"
     boni:
       - question: "<latin>In Circum Māximum ambulāverāmus et in sēdibus sedēbāmus.</latin> "
-        answer: "WE HAD WALKED INTO THE CIRCUS MAXIMUS AND WERE SITTING IN THE SEATS."
+        answer: "WE HAD WALKED INTO THE CIRCUS MAXIMUS AND WERE SITTING IN THE SEATS"
       - question: "<latin>Omnēs līberī magnam pompam equōrum spectābant et aurīgās plaudēbant</latin>"
-        answer: "ALL OF THE CHILDREN WERE WATCHING THE GREAT/LARGE PARADE AND WERE APPLAUDING THE CHARIOTEEERS."
+        answer: "ALL OF THE CHILDREN WERE WATCHING THE GREAT/LARGE PARADE AND WERE APPLAUDING THE CHARIOTEEERS"
   - tossup:
-      question: "Which prepositions does not belong in this group: <latin>per, post, prope, prō, propter PRŌ</latin> Translate into Latin the prepositional phrase in this sentence: He was lying under the table"
-      answer: "<latin>SUB MĒNSĀ</latin>"
+      question: "Which prepositions does not belong in this group: <latin>per, post, prope, prō, propter</latin>"
+      answer: "<latin>PRŌ</latin>"
     boni:
+      - question: "Translate into Latin the prepositional phrase in this sentence: He was lying under the table"
+        answer: "<latin>SUB MĒNSĀ</latin>"
       - question: "Translate this sentence into English: <latin>in forum ruit.</latin> "
-        answer: "(S)HE RUSHED INTO THE FORUM. <latin>HISTORY / GEOGRAPHY / LIFE</latin>"
+        answer: "(S)HE RUSHED INTO THE FORUM."
   - tossup:
       question: "Which of a Roman’s three names was usually abbreviated when written?"
       answer: "<latin>PRAENOMEN</latin>"
     boni:
-      - question: "What was the standard abbreviation for Tiberius? <latin>Ti.</latin>. What was the standard abbreviation for Gaius?"
+      - question: "What was the standard abbreviation for Tiberius?"
+        answer: "<latin>Ti.</latin>"
+      - question: "What was the standard abbreviation for Gaius?"
         answer: "<latin>C.</latin>"
   - tossup:
       question: "What was the most common way of lighting a Roman dwelling?"
@@ -152,44 +156,36 @@ questions:
       - question: "Who had convinced Superbus to seize the throne?"
         answer: "<latin>(HIS SECOND WIFE) TULLIA</latin>"
   - tossup:
-      question: "Who was given the title <latin>Asiaticus</latin> (or <latin>Asiagenes)</latin> for his victory at the battle of Magnesia in 190 B. C.?"
-      answer: "LUCIUS CORNELIUS SCIPIO"
+      question: "Who was given the title <latin>Asiaticus</latin> (or <latin>Asiagenes</latin>) for his victory at the battle of Magnesia in 190 BC?"
+      answer: "LUCIUS (CORNELIUS) SCIPIO"
     boni:
       - question: "Whom did Asiaticus defeat at Magnesia?"
         answer: "ANTIOCHUS (III or GREAT)"
       - question: "Who was Lucius’ second-in-command?"
         answer: "HIS BROTHER AFRICANUS"
   - tossup:
-      question: "Who marched on Rome in 88 and 82 B"
-      answer: "C."
+      question: "Who marched on Rome in 88 and 82 BC with his army?"
+      answer: "(L. CORNELIUS) SULLA (FELIX)"
     boni:
-      - question: "with his army?"
-        answer: "(L. CORNELIUS) SULLA"
       - question: "Where did Sulla defeat the last Marian army?"
         answer: "BATTLE OF COLLINE GATE"
       - question: "How did Sulla get rid of his remaining political opponents?"
         answer: "PROSCRIPTIONS"
   - tossup:
-      question: "Whom did the Praetorian Prefect Macro nominate as the new emperor in a meeting of the Senate in A"
-      answer: "D."
+      question: "Whom did the Praetorian Prefect Macro nominate as the new emperor in a meeting of the Senate in AD 37?"
+      answer: "GAIUS / CALIGULA"
     boni:
-      - question: "37?"
-        answer: "GAIUS-CALIGULA"
       - question: "Whom had Tiberius also named as his heir?"
         answer: "TIBERIUS GEMELLUS"
       - question: "What was the fate of both Macro and Gemellus?"
         answer: "EXECUTED"
   - tossup:
-      question: "What emperor invaded Dacia in A"
-      answer: "D."
+      question: "What emperor invaded Dacia in AD 101?"
+      answer: "TRAJAN"
     boni:
-      - question: "101?"
-        answer: "TRAJAN"
-      - question: "Name the king of Dacia who agreed to become a Roman client after his capital was captured in A"
-        answer: "D."
-      - question: "In A"
-        answer: "D."
-      - question: "105 Decebalus broke the peace agreement. What happened to Dacia after the Dacians were conquered?"
+      - question: "Name the king of Dacia who agreed to become a Roman client after his capital was captured in AD 105"
+        answer: "DECEBALUS"
+      - question: "Decebalus broke the peace agreement. What happened to Dacia after the Dacians were conquered?"
         answer: "BECAME A PROVINCE"
   - tossup:
       question: "Where in a Roman house would the mistress sit with her maids, spinning, weaving, and generally supervising the household?"
@@ -198,21 +194,21 @@ questions:
       - question: "Whom would the master of the house receive every morning in the atrium?"
         answer: "CLIENTS / <latin>CLIENTĒS</latin>"
       - question: " What was the <latin>lectus genialis</latin> which was usually kept in the atrium?"
-        answer: "MARRIAGE COUCH/BED"
+        answer: "MARRIAGE COUCH / BED"
   - tossup:
-      question: "What is the modern name of the ancient city of Mediolanum?"
+      question: "What is the modern name of the ancient city of <latin>Mediolanum</latin>?"
       answer: "MILAN"
     boni:
-      - question: "of the ancient city of Patavium?"
+      - question: "What is the modern name of the ancient city of <latin>Patavium</latin>?"
         answer: "PADUA"
-      - question: "of the ancient Italian city of Bononia?"
-        answer: "BOLOGNA <latin>MYTHOLOGY</latin>"
+      - question: "What is the modern name of the ancient Italian city of <latin>Bononia</latin>?"
+        answer: "BOLOGNA"
   - tossup:
       question: "Who led the souls of the dead to the underworld?"
-      answer: "HERMES/MERCURY"
+      answer: "HERMES / MERCURY"
     boni:
       - question: "Hermes is sometimes called Psychopompus. What does that name mean?"
-        answer: "LEADER/ GUIDE OF SOULS"
+        answer: "LEADER / GUIDE OF SOULS"
       - question: "Hermes is also sometimes called Argeiphontes. What does that name mean?"
         answer: "SLAYER OF ARGUS"
   - tossup:

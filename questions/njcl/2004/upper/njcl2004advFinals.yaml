@@ -15,7 +15,7 @@ questions:
       question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... flammās cum rēgia puppis extulerat.”</latin>"
       answer: "SYNECDOCHE (“When the royal ship had bore up the signal flames”)"
     boni:
-      - question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... bis collō squāmea circum</latin>  <latin>terga datī superant capite et cervīcibus altīs.”</latin>"
+      - question: "What literary device, other than alliteration, is illustrated in the following lines: <latin>“... bis collō squāmea circum terga datī superant capite et cervīcibus altīs.”</latin>"
         answer: "TMESIS (“twice winding their scaly backs around his throat, they tower above with head and lofty necks”)"
       - question: "What literary device, other than alliteration, is illustrated in the following line: <latin>“manūs ac supplicēs vōcēs ad Tiberium tendēns.</latin>”"
         answer: "ZEUGMA (“Stretching out their hands and suppliant voices to Tiberius”)"
@@ -159,5 +159,5 @@ questions:
     boni:
       - question: "<latin>Gerēns galeam, lucernā ūtere quasī tū in tenebrīs errēs.</latin>"
         answer: "WEARING THE HELMET, A PLAYER USES THE LAMP AS IF SEARCHING IN THE DARKNESS"
-      - question: "<latin>Gerēns galeam, Anglicē imperā ūnī sociō ut appropinquet et galeam</latin>  <latin>tuam capiat.</latin>"
+      - question: "<latin>Gerēns galeam, Anglicē imperā ūnī sociō ut appropinquet et galeam tuam capiat.</latin>"
         answer: "WEARING THE HELMET, A PLAYER IN ENGLISH LOUDLY ORDERS APPROACH AND TAKE HIS HELMET"

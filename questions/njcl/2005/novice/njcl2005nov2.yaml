@@ -141,7 +141,7 @@ questions:
         answer: "<latin>POST PARTUM</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN, the question that follows: <latin>Dux Rōmānus, quī hostem vīcit, urbem intrat cum exercitū suō per portam triumphālem. Dux, nunc triumphātor, stat in currū aureō, quem quattuor equī trahunt; super caput ēius aurea corōna est, quam tenet servus pūblicus, quī post ducem in currū ascendit.</latin>  Question: <latin>Quōcum intrat dux per portam triumphālem</latin>?"
-      answer: "<latin>CUM EXERCITŪ</latin> (<latin>SUŌ</latin>)"
+      answer: "<latin>CUM EXERCITŪ (SUŌ</latin>)"
     boni:
       - question: "<latin>Quid tenet servus pūblicus</latin>?"
         answer: "<latin>(AUREAM) CORŌNAM (SUPER CAPUT TRIUMPHĀTŌRIS)</latin> "

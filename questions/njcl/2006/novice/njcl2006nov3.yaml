@@ -64,7 +64,7 @@ questions:
       answer: "I SEE THE WOMAN WHO IS SELLING FISH / I SEE THE WOMAN SELLING FISH"
     boni:
       - question: "Say in Latin, “The woman who is selling the fish sees me.”"
-        answer: "<latin>FĒMINA QUAE PISCĒS VĒNDIT MĒ VIDET /</latin>  <latin>FĒMINA PISCĒS VĒNDĒNS MĒ VIDET</latin> "
+        answer: "<latin>FĒMINA QUAE PISCĒS VĒNDIT MĒ VIDET / FĒMINA PISCĒS VĒNDĒNS MĒ VIDET</latin> "
       - question: "Translate into English: <latin>Librōs quōs legere volēbam in bibliothēcā invēnī.</latin>"
         answer: "THE BOOKS WHICH I WANTED TO READ I FOUND IN THE LIBRARY"
   - tossup:
@@ -108,7 +108,7 @@ questions:
       - question: "What is the ablative plural of <latin>Quis</latin>?"
         answer: "<latin>QUIBUS / QUĪS</latin> "
   - tossup:
-      question: "Listen carefully to the following passage about the Etruscans, which I will read twice, and answer IN LATIN the question that follows: <latin>Etruscī Rōmam multōs annōs rēgnābant. Ultimus rēx Etruscus erat</latin>  <latin>Tarquinius Superbus, quī</latin> ā <latin>Rōmānīs expulsus est. Rōmānī tamen multa retinēbant quae ab Etruscīs accepta erant, inter quae erant haruspicēs et augurēs, quī erant auxiliō Rōmānīs ubi rēs pūblica in perīculō erat.</latin>  Question: <latin>Quī Tarquinium Superbum expulērunt?</latin>"
+      question: "Listen carefully to the following passage about the Etruscans, which I will read twice, and answer IN LATIN the question that follows: <latin>Etruscī Rōmam multōs annōs rēgnābant. Ultimus rēx Etruscus erat Tarquinius Superbus, quī</latin> ā <latin>Rōmānīs expulsus est. Rōmānī tamen multa retinēbant quae ab Etruscīs accepta erant, inter quae erant haruspicēs et augurēs, quī erant auxiliō Rōmānīs ubi rēs pūblica in perīculō erat.</latin>  Question: <latin>Quī Tarquinium Superbum expulērunt?</latin>"
       answer: "<latin>RŌMĀNĪ</latin>"
     boni:
       - question: "<latin>Nōminā duās rēs Etruscōrum quās Rōmānī retinēbant.</latin> "

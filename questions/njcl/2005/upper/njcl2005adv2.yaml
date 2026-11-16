@@ -88,7 +88,7 @@ questions:
       answer: "(FUTURE) IMPERATIVE"
     boni:
       - question: "Change that form of <latin>estō</latin> to the plural."
-        answer: "<latin>SUNTŌ</latin> (<latin>estōte</latin> is NOT correct)"
+        answer: "<latin>SUNTŌ (estōte</latin> is NOT correct)"
       - question: "Change <latin>suntō</latin> to the 2nd person."
         answer: "<latin>ESTŌTE</latin> "
   - tossup:

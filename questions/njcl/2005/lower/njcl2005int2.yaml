@@ -31,7 +31,7 @@ questions:
       question: "Of the words <latin>stabulum, arcus, antrum, theātrum</latin>, and <latin>balneum</latin>, which is described here: <latin>Rōmānī mē aedificāvērunt ut imperātōrēs honōrārent</latin>."
       answer: "<latin>ARCUS</latin> "
     boni:
-      - question: "Which of those words is described here: <latin>Saepe sacrum deō aut deae fuī. In</latin>  <latin>silvīs invenior</latin>."
+      - question: "Which of those words is described here: <latin>Saepe sacrum deō aut deae fuī. In silvīs invenior</latin>."
         answer: "<latin>ANTRUM</latin> "
       - question: "Which of those words is described here: <latin>Iumenta et pecora in mē invenīrī possunt</latin>."
         answer: "<latin>STABULUM</latin> "

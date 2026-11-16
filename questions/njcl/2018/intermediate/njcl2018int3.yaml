@@ -4,7 +4,7 @@ division: "Intermediate"
 round: "Round 3"
 questions:
   - tossup:
-      question: "<latin>Respondē Latīnē:</latin>  <latin>In quā parte corporis sunt mentum, aurēs, crīnēsque?</latin>"
+      question: "<latin>Respondē Latīnē: In quā parte corporis sunt mentum, aurēs, crīnēsque?</latin>"
       answer: "<latin>(IN) CAPITE</latin>"
     boni:
       - question: "<latin>In quā parte corporis est unguis?</latin>"

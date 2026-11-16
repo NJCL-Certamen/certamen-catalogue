@@ -84,7 +84,7 @@ questions:
       - question: "<latin>līberāmur mortis metū</latin>"
         answer: "SEPARATION"
   - tossup:
-      question: "Listen carefully to the following Latin passage about the poet Vergil, which I will read twice, and answer in LATIN the question that follows: <latin>Vergilius fuit grandī corpore et faciē rūsticānā, sed valētūdine variā.</latin>  <latin>Nam plērumque ab stomachō, et faucibus, et dolōre capitis labōrābat. Quod mīrum est, quamquam multa verba dē cīvitāte Rōmānā compōsuit, rārissimē Rōmam vēnit.</latin>  <latin>Dē quā rē scrīpsit Vergilius multa verba?</latin>"
+      question: "Listen carefully to the following Latin passage about the poet Vergil, which I will read twice, and answer in LATIN the question that follows: <latin>Vergilius fuit grandī corpore et faciē rūsticānā, sed valētūdine variā. Nam plērumque ab stomachō, et faucibus, et dolōre capitis labōrābat. Quod mīrum est, quamquam multa verba dē cīvitāte Rōmānā compōsuit, rārissimē Rōmam vēnit. Dē quā rē scrīpsit Vergilius multa verba?</latin>"
       answer: "<latin>DĒ CĪVITĀTE RŌMĀNĀ / DĒ RŌMĀ</latin>"
     boni:
       - question: "<latin>Vērum aut falsum: Vergilius erat pinguis nec habēbat corpus sānum</latin>"
@@ -154,7 +154,7 @@ questions:
       - question: "According to Vergil, who was the queen of these Harpies?"
         answer: "CELAENO"
       - question: "Who had chased them from Thrace to the Strophades?"
-        answer: "ZETES & CALAIS / BOREADES"
+        answer: "ZETES & CALAÏS / BOREADES"
   - tossup:
       question: "<latin>Quid Anglicē significat “reperiō?”</latin>"
       answer: "(TO) FIND (OUT)"

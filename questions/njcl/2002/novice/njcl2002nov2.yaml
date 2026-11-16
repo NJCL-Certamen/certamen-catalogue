@@ -55,7 +55,7 @@ questions:
       question: "What use of the dative case is found in the following sentence: <latin>sunt dominō multī servī et ancillae</latin>?"
       answer: "POSSESSION"
     boni:
-      - question: "What use of the dative case is found in the following sentence: <latin>dominus multīs</latin>  <latin>servīs praeest</latin>?"
+      - question: "What use of the dative case is found in the following sentence: <latin>dominus multīs servīs praeest</latin>?"
         answer: "WITH COMPOUND / SPECIAL VERB <latin>PRAESUM</latin>"
       - question: "What two uses of the dative case are found in the following sentence: <latin>servus magnō auxiliō dominō fuit</latin>?"
         answer: "REFERENCE & PURPOSE (prompt if “double dative” is given as an answer)"
@@ -76,7 +76,7 @@ questions:
       - question: "Which athletic games did Apollo establish there after killing the Python?"
         answer: "PYTHIAN GAMES"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū regēbant. Ultimus rēx, quem Rōmānī appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī Superbum ex urbe expulērunt.</latin>  <latin>Quem Rōmānī ex urbe expulērunt?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū regēbant. Ultimus rēx, quem Rōmānī appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī Superbum ex urbe expulērunt. Quem Rōmānī ex urbe expulērunt?</latin>"
       answer: "SUPERBUM / RĒGEM (ULTIMUM)"
     boni:
       - question: "Vērum aut falsum: Superbus ab omnibus amābātur"
@@ -119,7 +119,7 @@ questions:
       question: "A tombstone for a certain Scaterius Celer begins “<latin>Nihil sumus et fuimus</latin>”. Translate that into English"
       answer: "WE ARE NOTHING, AND WE HAVE BEEN / WERE (NOTHING) (Posted here as a reference. Do not read)"
     boni:
-      - question: "<latin>Scaterius Celer</latin>  <latin>Nihil sumus et fuimus. Mortales respice, lector.</latin>  <latin>In nihil ab nihilo quam cito recidimus.</latin> "
+      - question: "<latin>Scaterius Celer Nihil sumus et fuimus. Mortales respice, lector. In nihil ab nihilo quam cito recidimus.</latin> "
         answer: "<latin>L.</latin>"
       - question: "Scaterius Amethystus ex testamento fecit  What does this inscription urge the reader to do?"
         answer: "THINK ABOUT THOSE WHO ARE MORTAL - “LOOK BACK AT THE MORTALS”"

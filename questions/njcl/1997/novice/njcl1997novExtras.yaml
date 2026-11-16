@@ -68,7 +68,7 @@ questions:
       - question: "<latin>Nōn mihi placet</latin>"
         answer: "SPECIAL VERBS"
   - tossup:
-      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Marcus, puer magnā stultitiā, sedēbat in agrō, spectāns formīcās. Nōn vīdit autem anguem in herbā, quī ad eum crepābat. Subitō anguis prōsiluit et Marcum momordit.</latin>  <latin>Quālis puer est Marcus?</latin> "
+      question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Marcus, puer magnā stultitiā, sedēbat in agrō, spectāns formīcās. Nōn vīdit autem anguem in herbā, quī ad eum crepābat. Subitō anguis prōsiluit et Marcum momordit. Quālis puer est Marcus?</latin> "
       answer: "<latin>MAGNĀ STULTITIĀ</latin>"
     boni:
       - question: "Quid faciēbat anguis in herbā?"

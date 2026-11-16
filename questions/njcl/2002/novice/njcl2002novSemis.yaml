@@ -23,7 +23,7 @@ questions:
       question: "What use of the ablative case can be found in the following sentence: <latin>Līberī cum celeritāte ad lūdum īvērunt</latin>?"
       answer: "MANNER"
     boni:
-      - question: "What use of the ablative case can be found in the following sentence: <latin>Hostēs erant</latin>  <latin>mīlibus passuum duōbus ultrā castra</latin>?"
+      - question: "What use of the ablative case can be found in the following sentence: <latin>Hostēs erant mīlibus passuum duōbus ultrā castra</latin>?"
         answer: "DEGREE OF DIFFERENCE"
       - question: "What use of the ablative case can be found in the following sentence: <latin>Catilīna patriam aurō vēndidit</latin>?"
         answer: "(INDEFINITE) PRICE / VALUE"
@@ -122,7 +122,7 @@ questions:
       - question: "Whose concubine did Andromache become immediately after the Trojan War?"
         answer: "NEOPTOLEMUS’/PYRRHUS’"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dux mīlitēs suōs convocāvit et clamāvit, “Septem annōs bellum contrā hostēs</latin>   <latin>gerēbāmus. Hodiē et victōria et glōria nōbīscum in pugnā erunt.” Rōmānī hostēs facillimē superāvērunt atque nox fuit fīnis proeliī.</latin>  <latin>Quam diū mīlitēs contrā hostēs in bellō gerēbant?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dux mīlitēs suōs convocāvit et clamāvit, “Septem annōs bellum contrā hostēs</latin>   <latin>gerēbāmus. Hodiē et victōria et glōria nōbīscum in pugnā erunt.” Rōmānī hostēs facillimē superāvērunt atque nox fuit fīnis proeliī. Quam diū mīlitēs contrā hostēs in bellō gerēbant?</latin>"
       answer: "SEPTEM ANNŌS"
     boni:
       - question: "In sententiā <latin>ducis, quae rēs cum mīlitibus hodiē erunt?</latin> "

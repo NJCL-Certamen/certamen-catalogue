@@ -40,7 +40,7 @@ questions:
       answer: "<latin>EIUS / ILLĪUS</latin> /<latin>ISTĪUS PRĪNCIPIS</latin>"
     boni:
       - question: "Translate the entire prepositional phrase in the sentence “Icarus flew in the highest air.”"
-        answer: "<latin>IN SUMMŌ</latin>/ <latin>ALTISSIMŌ ĀERE</latin>/ <latin>AETHERE</latin>/ <latin>IN AURĀ</latin> (<latin>SUMMĀ</latin>/ <latin>ALTISSIMĀ</latin>)"
+        answer: "<latin>IN SUMMŌ / ALTISSIMŌ ĀERE / AETHERE / IN AURĀ (SUMMĀ / ALTISSIMĀ</latin>)"
       - question: "Translate the entire prepositional phrase in the sentence “I am lost in the middle of the sea.”"
         answer: "<latin>IN MEDIŌ MARĪ / AEQUORE / PONTŌ / ŌCEANŌ / ALTŌ / PELAGŌ</latin>"
   - tossup:
@@ -79,9 +79,9 @@ questions:
       question: "<latin>In hāc sententiā, “Cibus, cuius partem maximam cōnsumpsimus, tepidus est.”, quid Anglicē significat “cuius”?</latin>"
       answer: "OF WHICH"
     boni:
-      - question: "<latin>In hāc sententiā, quid Anglicē significat</latin> “<latin>Quī</latin>”? <latin>Quī errōrēs faciunt, pūnientur</latin>"
+      - question: "<latin>In hāc sententiā, quid Anglicē significat “Quī</latin>”? <latin>Quī errōrēs faciunt, pūnientur</latin>"
         answer: "THOSE WHO / THE ONES WHO / THEY WHO / WHO / PEOPLE WHO / WHOEVER"
-      - question: "<latin>In hāc sententiā, quid Anglicē significat</latin> “<latin>Quam</latin>”? <latin>Quam stultus es!</latin>"
+      - question: "<latin>In hāc sententiā, quid Anglicē significat “Quam</latin>”? <latin>Quam stultus es!</latin>"
         answer: "HOW"
   - tossup:
       question: "Who instructed Heracles to perform labors for Eurystheus?"
@@ -116,7 +116,7 @@ questions:
       - question: ". . . <latin>ad lib</latin>"
         answer: "<latin>AD LIBITUM</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Cum eandem fēminam pulchram amārent, Herculēs et deus flūminis</latin>  <latin>cōnstituērunt inter sē pugnātūrōs esse. Quod deus flūminis Herculem potentissimum vincere nōn poterat, in serpentem sē mūtāvit. Statim</latin>  <latin>Herculēs collum serpentis rapuit et vehementer pressit. Deō superātō, Herculēs fēminam pulchram in mātrimōnium dūxit.</latin>  <latin>Quis ā duōbus deīs amābātur?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Cum eandem fēminam pulchram amārent, Herculēs et deus flūminis cōnstituērunt inter sē pugnātūrōs esse. Quod deus flūminis Herculem potentissimum vincere nōn poterat, in serpentem sē mūtāvit. Statim Herculēs collum serpentis rapuit et vehementer pressit. Deō superātō, Herculēs fēminam pulchram in mātrimōnium dūxit. Quis ā duōbus deīs amābātur?</latin>"
       answer: "FĒMINA (PULCHRA)"
     boni:
       - question: "In quāle animal deus flūminis sē <latin>mūtāvit?</latin>"

@@ -36,7 +36,7 @@ questions:
       - question: ". . . <latin>mōns, mōlēs, hospes, custōs</latin>?"
         answer: "<latin>MŌLĒS</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Spartānī, Graecī antīquī, vītam patriae et cīvitātī dēdicābant. In scholīs Spartānōrum magistrī docēbant puerōs sapientiam et fortitūdinem per disciplīnam. Mīlitēs fortissimī factī sunt.</latin>  <latin>Quōs magistrī Spartānī sapientiam et fortitūdinem docēbant?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Spartānī, Graecī antīquī, vītam patriae et cīvitātī dēdicābant. In scholīs Spartānōrum magistrī docēbant puerōs sapientiam et fortitūdinem per disciplīnam. Mīlitēs fortissimī factī sunt. Quōs magistrī Spartānī sapientiam et fortitūdinem docēbant?</latin>"
       answer: "<latin>DISCIPULŌS / PUERŌS / FĪLIŌS</latin>"
     boni:
       - question: "<latin>Quibus Spartānī vītam suam dēdicābant?</latin>"

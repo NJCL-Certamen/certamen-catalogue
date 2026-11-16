@@ -4,7 +4,7 @@ division: "Advanced"
 round: "Extra Questions"
 questions:
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Novō bellō cum Gallīs exortō, ingens Gallus prōvōcāvit ūnum ex Rōmānīs ut sēcum armīs pugnāret. Marcus Valerius, tribūnus mīlitum, sē obtulit. Cum Valerius armātus prōcēderet, corvus suprā dextrum bracchium sēdit. Mox, pugnā commissā, corvus ex bracchiīs volāvit et oculōs Gallī oppugnāvit. Ita accidit ut Gallus facile ā Valeriō interficēretur.</latin>  <latin>Quis constituit pugnāre cum Gallō ingentī?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Novō bellō cum Gallīs exortō, ingens Gallus prōvōcāvit ūnum ex Rōmānīs ut sēcum armīs pugnāret. Marcus Valerius, tribūnus mīlitum, sē obtulit. Cum Valerius armātus prōcēderet, corvus suprā dextrum bracchium sēdit. Mox, pugnā commissā, corvus ex bracchiīs volāvit et oculōs Gallī oppugnāvit. Ita accidit ut Gallus facile ā Valeriō interficēretur. Quis constituit pugnāre cum Gallō ingentī?</latin>"
       answer: "(MARCUS) VALERIUS"
     boni:
       - question: "Quid erat mīrābile dē <latin>Valeriō prōgrediente?</latin> "
@@ -108,20 +108,20 @@ questions:
       - question: "Do the same for <latin>prōderit</latin>"
         answer: "<latin>PRŌSUM</latin>"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>macula</latin>”?"
+      question: "<latin>Quid Anglicē significat “macula</latin>”?"
       answer: "SPOT, MARK, STAIN, BLEMISH, (DISGRACE??)"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>marmor</latin>”?"
+      - question: "<latin>Quid Anglicē significat “marmor</latin>”?"
         answer: "MARBLE, SEA SURFACE"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>mānsuētūdō</latin>”?"
+      - question: "<latin>Quid Anglicē significat “mānsuētūdō</latin>”?"
         answer: "MILDNESS, GENTLENESS, CLEMENCY"
   - tossup:
-      question: "<latin>Quid Anglicē significat verbum</latin> “<latin>taedet</latin>”?"
+      question: "<latin>Quid Anglicē significat verbum “taedet</latin>”?"
       answer: "IT’S BORING, IT WEARIES ONE, ONE IS TIRED OF"
     boni:
-      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>mōlior</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum “mōlior</latin>”?"
         answer: "EXERT ONESELF, STRUGGLE, TOIL, ROUSE, TRY"
-      - question: "<latin>Quid Anglicē significat verbum</latin> “<latin>beō</latin>”?"
+      - question: "<latin>Quid Anglicē significat verbum “beō</latin>”?"
         answer: "BLESS, GLADDEN, REFRESH, DELIGHT"
   - tossup:
       question: "Give a Latin antonym for the adjective <latin>nefārius</latin>"

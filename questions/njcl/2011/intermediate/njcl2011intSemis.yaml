@@ -210,7 +210,7 @@ questions:
       - question: "Using a gerundive, translate this sentence: Pompey must defend Rome"
         answer: "<latin>RŌMA POMPĒIŌ DĒFENDENDA EST</latin> "
       - question: "Translate into Latin the subordinate clause for the following sentence: All feared that the soldiers were not defending Rome"
-        answer: "<latin>UT MĪLITĒS RŌMAM DĒFENDERENT /</latin>  <latin>NĒ NŌN MĪLITĒS RŌMAM DĒFENDERENT</latin> "
+        answer: "<latin>UT MĪLITĒS RŌMAM DĒFENDERENT / NĒ NŌN MĪLITĒS RŌMAM DĒFENDERENT</latin> "
   - tossup:
       question: "A Roman man’s original <latin>nōmen gentīle</latin> was given what four-letter suffix after he went through the process of <latin>adoptiō</latin>?"
       answer: "-<latin>ĀNUS</latin>"

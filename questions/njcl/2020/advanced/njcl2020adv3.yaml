@@ -45,7 +45,7 @@ questions:
         answer: "(Q.) ENNIUS  <latin>--</latin>"
   - tossup:
       question: "Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow.   \t<latin>Bōs in Sabīnīs nāta cuidam patrī familiae dīcitur mīranda magnitūdine ac speciē; fīxa per multās aetātēs cornua in vestībulō templī Diānae mōnumentum eī fuēre mīrāculō.</latin>   REREAD   \tThe question: <latin>Cur haec bōs mīranda est?</latin>"
-      answer: "<latin>MAGNITŪDINE (AC) SPECIĒ //</latin>  <latin>OB / PROPTER MAGNITŪDINEM (AC) SPECIEM</latin>"
+      answer: "<latin>MAGNITŪDINE (AC) SPECIĒ // OB / PROPTER MAGNITŪDINEM (AC) SPECIEM</latin>"
     boni:
       - question: "<latin>Ubi erant cornua huius bovis multās aetātēs?</latin>"
         answer: "<latin>IN VESTĪBULŌ TEMPLĪ / IN TEMPLŌ (DIĀNAE)</latin>"
@@ -82,7 +82,7 @@ questions:
       - question: "<latin>Respondē Latīnē: In quā prōvinciā habitāvit Dioclētiānus postquam abdicāvit?</latin>"
         answer: "<latin>(IN) DALMATIĀ</latin>"
       - question: "<latin>Respondē Latīnē: Quāle aedificium maximum Cōnstantīnus fīnīvit inter arcum Titī et forum?</latin>"
-        answer: "<latin>BASILICAM</latin>  <latin>--</latin>"
+        answer: "<latin>BASILICAM --</latin>"
   - tossup:
       question: "What author of the Silver Age, who was given the epithet <latin>Rhētor</latin>, gives us insight into the types of exercises practiced in schools of rhetoric in his <title><latin>Oratōrum et Rhētorum Sententiae Divisiōnēs Colorēs</latin></title>?"
       answer: "SENECA THE ELDER / (LUCIUS ANNAEUS) SENECA MAIOR"
@@ -154,7 +154,7 @@ questions:
       - question: "Give the form of <latin>prōsum</latin> that would appear in a Latin translation of this sentence: “He ate so much pie that it benefitted him to lie down.”"
         answer: "<latin>PRŌDESSET</latin>"
       - question: "Give the form of <latin>prōsum</latin> that would appear in a Latin translation of this sentence: “I’m asking how this benefitted us.”"
-        answer: "<latin>PRŌFUERIT</latin>  <latin>--</latin>"
+        answer: "<latin>PRŌFUERIT --</latin>"
   - tossup:
       question: "Political life moves in mysterious ways. Name the wealthy man of a famous family who, although he was exiled in the reign of Caligula, became consul during the reign of Claudius and the figurehead of a conspiracy against Nero in 65 AD that cost him his life."
       answer: "(C. CALPURNIUS) PISO"

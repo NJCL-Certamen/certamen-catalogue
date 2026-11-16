@@ -41,7 +41,7 @@ questions:
     boni:
       - question: "What use of the genitive case can be found in the following sentence: <latin>sacerdōs est homō minimae virtūtis</latin>?"
         answer: "DESCRIPTION / QUALITY / CHARACTERISTIC"
-      - question: "What use of the genitive case can be found in the following sentence: <latin>sacerdōs</latin>  <latin>dēsīderium ōtī semper ostendit</latin>?"
+      - question: "What use of the genitive case can be found in the following sentence: <latin>sacerdōs dēsīderium ōtī semper ostendit</latin>?"
         answer: "OBJECTIVE"
   - tossup:
       question: "According to Ovid’s <title>Metamorphoses</title>, what punishment was given to King Erysichthon?"
@@ -132,7 +132,7 @@ questions:
       - question: "Name the next two emperors and the years of their reigns"
         answer: "ANTONINUS PIUS (138 - 161) MARCUS AURELIUS (161 - 180)"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the question that follows: <latin>Herculis templum est apud Agrigentōs nōn longē</latin> ā <latin>forō. Ibi est ex aere statua ipsīus Herculis quā numquam cīvēs vīdērunt pulchriōrem. Quādam nocte cum duo latrōnēs ad hoc templum vēnissent auferendae stātuae grātiā, stātua subitō magnum strepitum tollit tamquam vīva. Duo itaque fūgērunt, nescientēs callidissimum custōdem quī sē post stātuam cēlāvisset clāmōrem sustulisse.</latin>  <latin>Ex quō statua facta est?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the question that follows: <latin>Herculis templum est apud Agrigentōs nōn longē</latin> ā <latin>forō. Ibi est ex aere statua ipsīus Herculis quā numquam cīvēs vīdērunt pulchriōrem. Quādam nocte cum duo latrōnēs ad hoc templum vēnissent auferendae stātuae grātiā, stātua subitō magnum strepitum tollit tamquam vīva. Duo itaque fūgērunt, nescientēs callidissimum custōdem quī sē post stātuam cēlāvisset clāmōrem sustulisse. Ex quō statua facta est?</latin>"
       answer: "(EX) AERE"
     boni:
       - question: "Cūr latrōnēs ad templum vēnerant?"

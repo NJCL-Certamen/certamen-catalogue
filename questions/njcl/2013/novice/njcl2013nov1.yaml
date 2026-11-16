@@ -157,7 +157,7 @@ questions:
         answer: "DOLPHIN"
   - tossup:
       question: "Answering the call of Terentilius Harsa, what board was created in 451 BC in order to codify Roman law?"
-      answer: "<latin>DECEMVIRĪ</latin> (<latin>LĒGIBUS SCRIBUNDĪS</latin>)"
+      answer: "<latin>DECEMVIRĪ (LĒGIBUS SCRIBUNDĪS</latin>)"
     boni:
       - question: "What code of laws was the result of the work of the <latin>decemvirī</latin>?"
         answer: "THE TWELVE TABLES"

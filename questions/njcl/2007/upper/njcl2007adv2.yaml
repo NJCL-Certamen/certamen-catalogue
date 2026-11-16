@@ -33,7 +33,7 @@ questions:
     boni:
       - question: "<latin>Quot sunt sescentī et ducentī?</latin>"
         answer: "OCTINGENTĪ"
-      - question: "<latin>Audī dīligenter et respondē Anglicē: Titus Pullō et Lūcius Vorēnus sunt</latin>  <latin>gallīnāriī maximā industriā. Nam quinque hortōs prope Rōmam tenent. Quisque hortus trīgintā gallīnās habet quae trīna ōva cōtīdiē pariunt. Pullōnī Vorēnōque, quot ōva quōque diē sunt?</latin>"
+      - question: "<latin>Audī dīligenter et respondē Anglicē: Titus Pullō et Lūcius Vorēnus sunt gallīnāriī maximā industriā. Nam quinque hortōs prope Rōmam tenent. Quisque hortus trīgintā gallīnās habet quae trīna ōva cōtīdiē pariunt. Pullōnī Vorēnōque, quot ōva quōque diē sunt?</latin>"
         answer: "FOUR HUNDRED AND FIFTY"
   - tossup:
       question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>Modo memineram illīus commeātūs Italiam ad cum Aemiliā</latin>"
@@ -44,7 +44,7 @@ questions:
       - question: "Name the figure of speech, besides alliteration, assonance, and consonance, in the following sentence: <latin>sīc togā amictus, tunicam induit</latin>"
         answer: "HYSTERON PROTERON"
   - tossup:
-      question: "Listen carefully to the following advice from Ovid, which I will read twice as prose, and answer IN ENGLISH the question that follows: <latin>discite, quae faciem commendet cūra, puellae:</latin>  <latin>et quō sit vōbīs fōrma tuenda modō.</latin>  <latin>nec tamen indignum: sit vōbīs cūra placendī,</latin>  <latin>cum comptōs habeant saecula nostra virōs</latin>. Question: What is the subject matter of this didactic poem?"
+      question: "Listen carefully to the following advice from Ovid, which I will read twice as prose, and answer IN ENGLISH the question that follows: <latin>discite, quae faciem commendet cūra, puellae: et quō sit vōbīs fōrma tuenda modō. nec tamen indignum: sit vōbīs cūra placendī, cum comptōs habeant saecula nostra virōs</latin>. Question: What is the subject matter of this didactic poem?"
       answer: "THE CARE <emphasis>GIRLS</emphasis> OUGHT TO HAVE FOR THEIR <emphasis>LOOKS</emphasis> (BOTH FACE AND FORM), AND IN WHAT WAY THEY OUT TO GO ABOUT IT"
     boni:
       - question: "Why should girls see to it that they are pleasing?"
@@ -122,7 +122,7 @@ questions:
       - question: "The noun <latin>nūbēs</latin> is a mixed i-stem and has a Genitive plural of nūbium. Change the phrase <latin>magna nūbēs</latin> to the Ablative singular"
         answer: "<latin>MAGNĀ NŪBE</latin>"
       - question: "Give two possible forms for the Accusative plural of <latin>nox</latin>"
-        answer: "<latin>NOCTĒS, NOCTĪS</latin> (<latin>NOCTEIS</latin>)"
+        answer: "<latin>NOCTĒS, NOCTĪS (NOCTEIS</latin>)"
   - tossup:
       question: "<latin>Quid Anglicē significat ēclipeus’</latin>?"
       answer: "(ROUND/BRONZE/ORNAMENTAL) SHEILD / DISC OF THE SUN"
@@ -162,4 +162,4 @@ questions:
       - question: "On what hill across the Tiber did Ancus Marcius build a fortress as a protection against the Etruscans?"
         answer: "JANICULUM"
       - question: "Name the bridge Ancus built to join the city with the Janiculum"
-        answer: "SUBLICIAN BRIDGE <latin>/ PONS SUBLICIUS</latin>   <latin>2007 NJCL CERTAMEN</latin>  <latin>ADVANCED DIVISION</latin>"
+        answer: "SUBLICIAN BRIDGE <latin>/ PONS SUBLICIUS</latin>   <latin>2007 NJCL CERTAMEN ADVANCED DIVISION</latin>"

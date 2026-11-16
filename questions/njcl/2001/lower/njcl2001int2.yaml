@@ -60,12 +60,12 @@ questions:
       - question: "What emperor rebuilt the wall 85 years later?"
         answer: "SEPTIMIUS SEVERUS"
   - tossup:
-      question: "<latin>Quid Anglicē significat</latin> “<latin>aliquandō</latin>”?"
+      question: "<latin>Quid Anglicē significat “aliquandō</latin>”?"
       answer: "SOMETIMES / AT ANY TIME / EVER"
     boni:
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>aliquid</latin>”?"
+      - question: "<latin>Quid Anglicē significat “aliquid</latin>”?"
         answer: "SOMETHING / SOME / A LITTLE BIT"
-      - question: "<latin>Quid Anglicē significat</latin> “<latin>aliter</latin>”?"
+      - question: "<latin>Quid Anglicē significat “aliter</latin>”?"
         answer: "OTHERWISE / ANY OTHER WAY / ELSE"
   - tossup:
       question: "What English derivative of the Latin verb <latin>bibō, bibere</latin> means “to drink in or absorb?”"
@@ -118,7 +118,7 @@ questions:
       - question: "<latin>Puer statuam magnā pulchritūdine decem sestertiīs vēndidit</latin>?"
         answer: "QUALITY / DESCRIPTION & (SPECIFIC / DEFINITE) PRICE"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī sexāgintā quīnque diēs per annum essent et, haud necessāriō mēnse remōtō, ūnus diēs quārtō quōque annō adderētur.</latin>  <latin>Quid Caesar accomodāvit ad cursum sōlis?</latin> "
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Bellīs cīvīlibus cōnfectīs, sine morā Caesar rem pūblicam ōrdināre incēpit. Fastōs corrēxit atque annum ad cursum sōlis accommodāvit, ut trecentī sexāgintā quīnque diēs per annum essent et, haud necessāriō mēnse remōtō, ūnus diēs quārtō quōque annō adderētur. Quid Caesar accomodāvit ad cursum sōlis?</latin> "
       answer: "<latin>ANNUM / FASTŌS / KALENDĀRIUM</latin>"
     boni:
       - question: " <latin>Quid Caesar cōnfēcit antequam rem pūblicam ōrdināre inciperet?</latin> "

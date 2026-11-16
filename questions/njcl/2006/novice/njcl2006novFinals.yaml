@@ -104,7 +104,7 @@ questions:
       - question: "Say in Latin, “Every day, Marcus runs with swiftness.”"
         answer: "<latin>CŌTĪDIĒ MARCUS (CUM) CELERITĀTE / ALACRITĀTE / CELERITER CURRIT</latin> "
       - question: "Say in Latin, “Yesterday, Marcus killed ten enemies with one sword.”"
-        answer: "<latin>HERI, MARCUS DECEM HOSTĒS / INIMĪCŌS</latin>  <latin>ŪNŌ GLADIŌ NECĀVIT / INTERFĒCIT</latin>  (Forms of the imperfect are also acceptable)"
+        answer: "<latin>HERI, MARCUS DECEM HOSTĒS / INIMĪCŌS ŪNŌ GLADIŌ NECĀVIT / INTERFĒCIT</latin>  (Forms of the imperfect are also acceptable)"
   - tossup:
       question: "Who used special effects to create thunder and lightning while pretending to be Zeus driving his chariot?"
       answer: "SALMONEUS"

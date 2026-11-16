@@ -13,7 +13,7 @@ questions:
         answer: "KIDNEYS"
   - tossup:
       question: "Translate into Latin: “Do you think the girls are beautiful?"
-      answer: "<latin>PUTĀS-NE</latin>  <latin>PUELLĀS PULCHRĀS ESSE?</latin> "
+      answer: "<latin>PUTĀS-NE PUELLĀS PULCHRĀS ESSE?</latin> "
     boni:
       - question: "Translate into Latin: “Do you think the girls have been defeated?”"
         answer: "<latin>PUTĀS-NE PUELLĀS VICTĀS ESSE?</latin> "
@@ -207,7 +207,7 @@ questions:
       question: "What use of the dative case can be seen in the following sentence: “<latin>illum mihi amōrem nōlī ēripere</latin>”?"
       answer: "SEPARATION"
     boni:
-      - question: "What use of the ablative case can be seen in this sentence: “<latin>Senātor trēcentīs dēnāriīs ancillam</latin>  <latin>ēmit</latin>”?"
+      - question: "What use of the ablative case can be seen in this sentence: “<latin>Senātor trēcentīs dēnāriīs ancillam ēmit</latin>”?"
         answer: "(DEFINITE) VALUE / PRICE"
       - question: "What use of the genitive is found in the sentence “<latin>amīcōs suōs parvī aestīmāvit</latin>”?"
         answer: "(INDEFINITE) VALUE"
@@ -226,7 +226,7 @@ questions:
       - question: "Translate that sentence"
         answer: "THE KING SENT THE SOLDIERS TO DEFEAT THE ENEMIES"
       - question: "Translate the expression of purpose from that sentence using a gerundive"
-        answer: "<latin>AD HOSTĒS</latin>  <latin>SUPERANDŌS // HOSTIUM SUPERANDŌRUM CAUSĀ/GRATIĀ</latin>"
+        answer: "<latin>AD HOSTĒS SUPERANDŌS // HOSTIUM SUPERANDŌRUM CAUSĀ/GRATIĀ</latin>"
   - tossup:
       question: "A group of Thebans led by Maeon and Polyphontes ambushed which member of the Seven Against Thebes?"
       answer: "TYDEUS"

@@ -55,7 +55,7 @@ questions:
       question: "What two uses of the ablative case are found in the following sentence? “<latin>Cīcerō omnibus aliīs Rōmānīs virtūte maior est.</latin>”"
       answer: "COMPARISON and RESPECT/SPECIFICATION"
     boni:
-      - question: "What two uses of the dative case are found in this sentence? “<latin>Amīce, mihi maximō gaudiō semper</latin>  <latin>fuistī</latin>.”"
+      - question: "What two uses of the dative case are found in this sentence? “<latin>Amīce, mihi maximō gaudiō semper fuistī</latin>.”"
         answer: "REFERENCE and PURPOSE (prompt on double dative)"
       - question: "What two uses of the accusative case are found in this sentence? “<latin>Caesar multa mīlia</latin> passuum in Africam iter <latin>fēcit</latin>.”"
         answer: "PLACE TO WHICH and EXTENT OF SPACE"

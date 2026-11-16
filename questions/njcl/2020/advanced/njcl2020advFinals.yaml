@@ -122,7 +122,7 @@ questions:
       - question: "Say in Latin, “I promise that even if the wounds had been more severe, I would not have fallen.”"
         answer: "<latin>PRŌMITTŌ / POLLICEOR, ETIAMSĪ VULNERA GRAVIŌRA FUISSENT, MĒ NŌN (OC)CASŪRUM FUISSE</latin>  (Conditionals in Indirect Discourse (A&G 589.3.b) If the verb in the apodosis is ACTIVE then the construction is [future ptcpl.] + fuisse. If the apodosis is PASSIVE or lacks a supine form then the periphrasis [future ptcpl.] + futurum fuisse ut + imperf. subjunctive)"
       - question: "Using a gerund, say in Latin, “While sleeping, the mother was woken suddenly by a sound.”"
-        answer: "<latin>MĀTER INTER DORMIENDUM SUBITŌ Ā SONŌ EXCITĀTA EST</latin>  <latin>--</latin>"
+        answer: "<latin>MĀTER INTER DORMIENDUM SUBITŌ Ā SONŌ EXCITĀTA EST --</latin>"
   - tossup:
       question: "<latin>Dīc numerīs Rōmānīs septuaginta.</latin>"
       answer: "<latin>LXX</latin>"

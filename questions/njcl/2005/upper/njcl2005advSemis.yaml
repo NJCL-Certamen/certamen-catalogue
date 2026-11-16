@@ -64,7 +64,7 @@ questions:
       answer: "<latin>PATRIA OMNIBUS CĪVIBUS DĒFENDENDA EST</latin> "
     boni:
       - question: "Teachers have a great love of teaching."
-        answer: "<latin>MAGISTRĪ MAGNUM AMŌREM HABENT DOCENDĪ /</latin>  <latin>MAGISTRĪS MAGNUS AMOR DOCENDĪ EST</latin> "
+        answer: "<latin>MAGISTRĪ MAGNUM AMŌREM HABENT DOCENDĪ / MAGISTRĪS MAGNUS AMOR DOCENDĪ EST</latin> "
       - question: "Did you hear what your teacher was saying about writing well?"
         answer: "<latin>AUDĪVISTĪ(S)NE QUID MAGISTER TUUS DĒ BENE SCRĪBENDŌ DĪCERET?</latin>"
   - tossup:
@@ -85,7 +85,7 @@ questions:
         answer: "<latin>TRIA</latin> "
   - tossup:
       question: "Name two of the Argonauts who were sent to find Heracles after getting news of their former comrade from the Hesperides."
-      answer: "ZETES, CALAIS, EUPHEMUS, LYNCEUS, CANTHUS"
+      answer: "ZETES, CALAÏS, EUPHEMUS, LYNCEUS, CANTHUS"
     boni:
       - question: "Which of the five did NOT return safely to the Argonauts?"
         answer: "CANTHUS"
@@ -132,7 +132,7 @@ questions:
       - question: "Whom did Ixion kill, thus making him the first mortal to commit murder of a kin?"
         answer: "(HIS FATHER-IN-LAW) EIONEUS"
   - tossup:
-      question: "Listen to the following short poem which concerns the daily grooming habits of a woman named Sertoria and answer IN ENGLISH the question that follows. I will read this twice, and as prose. <latin>Cum crētam sūmit, faciem Sertōria sūmit.</latin>  <latin>Perdidit ut crētam, perdidit et faciem.</latin>  Question: What does Sertoria use for makeup?"
+      question: "Listen to the following short poem which concerns the daily grooming habits of a woman named Sertoria and answer IN ENGLISH the question that follows. I will read this twice, and as prose. <latin>Cum crētam sūmit, faciem Sertōria sūmit. Perdidit ut crētam, perdidit et faciem.</latin>  Question: What does Sertoria use for makeup?"
       answer: "CHALK/POWDER"
     boni:
       - question: "What does the author say happens as Sertoria put on the chalk?"
@@ -146,7 +146,7 @@ questions:
       - question: "Say in Latin, “For the sake of complaining."
         answer: "<latin>QUERENDĪ CAUSĀ / GRĀTIĀ</latin>"
       - question: "Say in Latin, “Suitable for building roads.”"
-        answer: "<latin>APTUS / IDONEUS VIĪS MŪNIENDĪS / AD VIĀS MŪNIENDĀS /</latin>  <latin>APTUS / IDONEUS VIĀS MŪNIENDŌ / AD VIĀS MŪNIENDUM</latin>  <latin>(+ other alternate verbs meaning “build.”)</latin> "
+        answer: "<latin>APTUS / IDONEUS VIĪS MŪNIENDĪS / AD VIĀS MŪNIENDĀS / APTUS / IDONEUS VIĀS MŪNIENDŌ / AD VIĀS MŪNIENDUM (+ other alternate verbs meaning “build.”)</latin> "
   - tossup:
       question: "What is the Latin term for the military prize which, according to ancient Roman coins, was awarded, “<latin>ob cīvīs servātōs</latin>”?"
       answer: "<latin>CORŌNA CĪVICA</latin> "

@@ -104,7 +104,7 @@ questions:
       answer: "GENITIVE OF MEASURE/QUALITY/DESCRIPTION"
     boni:
       - question: "Give that sentence in Latin"
-        answer: "<latin>AEDIFICĀBAM STATUAM/SIGNUM</latin>  <latin>TRĪGINTĀ (ET) ŪNĪUS PEDUM</latin> or <latin>ŪNĪUS ET TRĪGINTĀ</latin>"
+        answer: "<latin>AEDIFICĀBAM STATUAM/SIGNUM TRĪGINTĀ (ET) ŪNĪUS PEDUM</latin> or <latin>ŪNĪUS ET TRĪGINTĀ</latin>"
       - question: "If the sentence had been “I built a thirty-one-foot high statue,” the word “high” would be expressed with the Latin noun <latin>altitūdō.</latin> What case and use would be used for <latin>altitūdō</latin>?"
         answer: "ABLATIVE OF SPECIFICATION/RESPECT"
   - tossup:
@@ -162,7 +162,7 @@ questions:
       - question: "What Latin phrase, literally meaning “remember to die,” describes any reminder of mortality, such as skulls or timepieces featured in paintings?"
         answer: "<latin>MEMENTŌ MORĪ</latin>"
       - question: "The Latin phrase <latin>in caudā venēnum</latin> reminds one to stay alert through the entirety of a situation, whether one is engaging in a policy debate or dodging the sting of a scorpion. Translate this Latin phrase"
-        answer: "<latin>VENOM/POISON/RUIN (IS) IN/AT THE TAIL/END</latin>  <latin>2010 NJCL CERTAMEN INTERMEDIATE DIVISION FINALS</latin>"
+        answer: "<latin>VENOM/POISON/RUIN (IS) IN/AT THE TAIL/END 2010 NJCL CERTAMEN INTERMEDIATE DIVISION FINALS</latin>"
   - tossup:
       question: "The 2012 NJCL Convention will be held in North Carolina. Give both the Latin and the English for the motto of North Carolina"
       answer: "<latin>ESSE QUAM VIDĒRĪ</latin> – TO BE RATHER THAN TO SEEM/BE SEEN"
@@ -235,10 +235,10 @@ questions:
         answer: "CARTHAGO NOVA / CARTAGENA / ILORCA / ILOURGEIA / ILORCI"
   - tossup:
       question: "Listen carefully to the following passage, which I shall read twice, and answer IN LATIN the question that follows: <latin>Ubi potentia Catilīnae crēscēbat, aliquot mulierēs eī sē coniūnxērunt, quibus aes aliēnum magnum erat. Per eās Catilīna spērābat sē servōs urbānōs sollicitātūrum esse, urbem incēnsūrum, et virōs interfectūrum.</latin>  Question: <latin>Quae aes aliēnum habēbant?</latin>"
-      answer: "(<latin>ALIQUOT/MULTAE</latin>) <latin>MULIERĒS / FĒMINĀE</latin> (<latin>CATILĪNAE</latin>)"
+      answer: "(<latin>ALIQUOT/MULTAE</latin>) <latin>MULIERĒS / FĒMINĀE (CATILĪNAE</latin>)"
     boni:
       - question: "<latin>Quō auctō mulierēs Catilīnae sē coniūnxērunt?</latin>"
-        answer: "<latin>POTENTIĀ / AERE ALIĒNĀ</latin> (<latin>FĒMINĀRUM</latin>)"
+        answer: "<latin>POTENTIĀ / AERE ALIĒNĀ (FĒMINĀRUM</latin>)"
       - question: "<latin>Respondē Anglicē. Dīc mihi trēs rēs quās Catilīna auxiliō fēminārum facere volēbat?</latin>"
         answer: "ROUSE URBAN SLAVES, BURN THE CITY, KILL MEN"
   - tossup:

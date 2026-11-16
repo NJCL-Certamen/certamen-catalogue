@@ -84,7 +84,7 @@ questions:
       - question: "Using the ablative, say in Latin \"He was a boy of very little wisdom.\""
         answer: "<latin>ERAT / FUIT PUER MINIMĀ SAPIENTIĀ / PRŪDENTIĀ</latin> or <latin>MINIMŌ CONSILIŌ</latin>"
   - tossup:
-      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tōtā Galliā superātā, senātōrēs iussērunt Caesarem ē prōvinciā discēdere; nam eīs iam diū cum Caesare dissensiō erat. Nōn placēbat Caesarī tantam potestātem dēpōnere quod nōn ignōrābat vitia senātūs.</latin>  <latin>Quandō senātus Caesarem ē Galliā discēdere iussit?</latin>"
+      question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Tōtā Galliā superātā, senātōrēs iussērunt Caesarem ē prōvinciā discēdere; nam eīs iam diū cum Caesare dissensiō erat. Nōn placēbat Caesarī tantam potestātem dēpōnere quod nōn ignōrābat vitia senātūs. Quandō senātus Caesarem ē Galliā discēdere iussit?</latin>"
       answer: "<latin>TŌTĀ GALLIĀ SUPERĀTĀ</latin> or <latin>POST BELLUM GALLICUM / IN GALLIĀ</latin>"
     boni:
       - question: "<latin>Cūr senātus hoc iussit?</latin>"

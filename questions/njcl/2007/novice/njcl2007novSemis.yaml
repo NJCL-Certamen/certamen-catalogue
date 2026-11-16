@@ -162,7 +162,7 @@ questions:
       - question: "This contest is more difficult than that one, isn’t it?"
         answer: "<latin>NŌNNE HOC CERTĀMEN DIFFICILIUS EST ILLŌ / QUAM ILLUD</latin>"
       - question: "Why are you sparing us students?"
-        answer: "<latin>CŪR NŌBĪS DISCIPULĪS / STUDENTIBUS PARCIS / PARCITIS? 2007 NJCL CERTAMEN</latin>  <latin>NOVICE DIVISION</latin>  <latin>FINALS</latin>"
+        answer: "<latin>CŪR NŌBĪS DISCIPULĪS / STUDENTIBUS PARCIS / PARCITIS? 2007 NJCL CERTAMEN NOVICE DIVISION FINALS</latin>"
   - tossup:
       question: "In order, name the first three labors of Herakles"
       answer: "NEMEAN LION, (LERNAEAN) HYDRA, ERYMANTHIAN BOAR"
@@ -178,7 +178,7 @@ questions:
       - question: "Into which public building did a mob, egged on by Clodius’ widow Fulvia, carry his body for cremation?"
         answer: "THE SENATE HOUSE/ CURIA"
       - question: "Who was elected as sole consul in 52 BC to restore order in the city?"
-        answer: "POMPEY / (<latin>GNAEUS</latin>) <latin>POMPĒIUS</latin> (<latin>MAGNUS</latin> / THE GREAT)"
+        answer: "POMPEY / (<latin>GNAEUS</latin>) <latin>POMPĒIUS (MAGNUS</latin> / THE GREAT)"
   - tossup:
       question: "Complete this analogy: <latin>nōmen : nōminum :: ignis : _____</latin>"
       answer: "IGNIUM"
@@ -228,7 +228,7 @@ questions:
       - question: "What contest did Meriones win at the funeral games of Patroclus?"
         answer: "ARCHERY"
   - tossup:
-      question: "When recognized by the spotter, perform the following Latin command: <latin>Dīc Anglicē,</latin> “<latin>Vōs omnēs posterō annō vidēbō</latin>.”"
+      question: "When recognized by the spotter, perform the following Latin command: <latin>Dīc Anglicē, “Vōs omnēs posterō annō vidēbō</latin>.”"
       answer: "ONE STUDENT SHOULD SAY IN ENGLISH THAT HE WILL SEE EVERYONE NEXT YEAR"
     boni:
       - question: "<latin>Dīc Anglicē, “Quinque annīs Certāmen Tōtīus Mundī lūdam.”</latin>"
@@ -293,7 +293,7 @@ questions:
         answer: "D - DOMITIAN"
   - tossup:
       question: "What are the singular and plural present active imperatives for the following four verbs? <latin>ferō, faciō, dīcō, dūcō</latin>"
-      answer: "FER / <latin>FERTE FAC / FACITE</latin>  <latin>DĪC / DĪCITE</latin>  <latin>DŪC / DŪCITE</latin>"
+      answer: "FER / <latin>FERTE FAC / FACITE DĪC / DĪCITE DŪC / DŪCITE</latin>"
     boni:
       - question: "Give the singular and plural present active imperatives for the verb <latin>cōnficiō</latin>"
         answer: "<latin>CŌNFICE</latin> & <latin>CŌNFICITE</latin>"

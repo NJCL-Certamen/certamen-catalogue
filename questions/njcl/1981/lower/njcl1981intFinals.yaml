@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What is the Latin term for a sacrifice which includes pigs, sheep and bulls?"
+      answer: "<latin>SUOVETAURILIA</latin>"
+    boni:
+      - question: "What arrangement of clothing must be assumed by a priest to perform a sacrifice?"
+        answer: "TOGA PULLED OVER THE HEAD"
+      - question: "What internal organ of a sacrificial animal was especially significant?"
+        answer: "THE LIVER"
+  - tossup:
+      question: "What do the words <latin>nihil, fas</latin> and <latin>mane</latin> have in common?"
+      answer: "THEY ARE INDECLINABLE NOUNS"
+    boni:
+      - question: "What two forms of the noun <latin>vis</latin> are not found?"
+        answer: "GENTIVE AND DATIVE SINGULAR"
+      - question: "What two forms of the pronoun <latin>nemo</latin> are not found?"
+        answer: "GENITIVE AND ABLATIVE SINGULAR"
+  - tossup:
+      question: "What is the genitive of the phrase \"one bull?\""
+      answer: "<latin>UNIUS TAURI</latin>"
+    boni:
+      - question: "Change <latin>unius tauri</latin> to dative."
+        answer: "<latin>UNI TAURŌ</latin>"
+      - question: "Double <latin>uni tauro</latin>."
+        answer: "<latin>DUOBUS TAURIS</latin>"
+  - tossup:
+      question: "Using <latin>discō</latin>, translate: \"I have learned.\""
+      answer: "<latin>DIDICĪ</latin>"
+    boni:
+      - question: "Using <latin>poscō</latin>, translate: \"I have demanded.\""
+        answer: "<latin>POPOSCĪ</latin>"
+      - question: "Using <latin>reperiō</latin>, translate: \"I have found.\""
+        answer: "<latin>REPPERĪ</latin>"
+  - tossup:
+      question: "Before Aeneas arrives in Carthage, who was the spokesman for the Trojans who are already there?"
+      answer: "ILIONEUS"
+    boni:
+      - question: "Where was Aeneas when he saw Ilioneus addressing Dido?"
+        answer: "HIDDEN IN A CLOUD"
+      - question: "Who is with Aeneas in the cloud?"
+        answer: "ACHATES"
+  - tossup:
+      question: "What is the number, long since archaic by the classical period, that lies between singular and plural?"
+      answer: "DUAL"
+    boni:
+      - question: "What two Latin adjectives preserve the dual endings?"
+        answer: "<latin>AMBO</latin> AND <latin>DUO</latin>"
+      - question: "Name a first-declension noun which uses the old dual ending -abus instead of -is in the dative and ablative."
+        answer: "<latin>DEA, FILIA, EQUA, LIBERTA, MULA</latin> (not <latin>lupa</latin> or <latin>serva</latin>)"
+  - tossup:
+      question: "When Cicero was one year old, what tribes destroyed the Roman armies at Arausio in Gaul?"
+      answer: "CIMBRI AND TEUTŌNES"
+    boni:
+      - question: "Where did Marius defeat the Teutons in 102 BC?"
+        answer: "AQUAE SEXTIAE"
+      - question: "Where did he defeat the Cimbri in 101?"
+        answer: "NEAR VERCELLAE"
+  - tossup:
+      question: "What was the old name of Constantinople?"
+      answer: "BYZANTIUM"
+    boni:
+      - question: "In what year was Constantinople founded?"
+        answer: "330 AD (OFFICIALLY INAUGURATED) or 324 AD (ACTUALLY FOUNDED)"
+      - question: "What was the year of the Battle of the Mulvian Bridge?"
+        answer: "312 AD"
+  - tossup:
+      question: "Which of the following is not from the adjective spelled 1-i-b-e-r: livery, delivery, deliberate, liberal?"
+      answer: "DELIBERATE"
+    boni:
+      - question: "What familiar English abbreviation is related to the root of \"deliberate?\""
+        answer: "LB = POUND"
+      - question: "When 1-i-b-e-r means \"book,\" is the -i- long or short?"
+        answer: "SHORT"
+  - tossup:
+      question: "AUC is sometimes taken to stand for something other than ab urbe condita. What?"
+      answer: "<latin>ANNO URBIS CONDITAE</latin>"
+    boni:
+      - question: "How would I ask the date in Latin?"
+        answer: "<latin>QUOTUS DIES EST</latin>?"
+      - question: "<latin>Quotus dies est</latin>?"
+        answer: "<latin>NONAE AUGUSTAE</latin>"
+  - tossup:
+      question: "Which Fury sits at the gate of Tartarus?"
+      answer: "TISIPHONE"
+    boni:
+      - question: "Name the other two Furies."
+        answer: "ALECTO AND MEGAERA"
+      - question: "Which Fury does Juno use to stir up hatred between the Trojans add the Latins?"
+        answer: "ALECTO"
+  - tossup:
+      question: "What posthumous penalty was exacted on Domitian?"
+      answer: "<latin>DAMNATIO MEMORIAE</latin>"
+    boni:
+      - question: "Who succeeded Domitian?"
+        answer: "NERVA"
+      - question: "Who was adopted by Nerva as his successor?"
+        answer: "TRAJAN"
+  - tossup:
+      question: "Who were Ocypete, Aello, Podarge and Celaeno?"
+      answer: "THE HARPIES"
+    boni:
+      - question: "What old king and prophet was troubled by the Harpies until he was visited by the Argonauts?"
+        answer: "PHINEUS"
+      - question: "Zetes and Calais drove the Harpies away from Phineus. Whose sons were they?"
+        answer: "BOREAS'"
+  - tossup:
+      question: "Which of the following does not belong: <latin>serpens, anguis, cucumis, draco</latin>?"
+      answer: "<latin>CUCUMIS</latin>"
+    boni:
+      - question: "Which of the following is not synonymous with the others: <latin>parco, metuo, formido, vereor</latin>?"
+        answer: "<latin>PARCO</latin>"
+      - question: "Which two of the following are synonymous: <latin>ensis, imber, gladius</latin>?"
+        answer: "<latin>ENSIS</latin> AND <latin>GLADIUS</latin>"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>spondeo</latin>?"
+      answer: "<latin>SPOPONDISSE</latin>"
+    boni:
+      - question: "What is the perfect active infinitive of <latin>suadeo</latin>?"
+        answer: "<latin>SUASISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>mereo</latin>?"
+        answer: "<latin>MERUISSE</latin>"
+  - tossup:
+      question: "At what battle did a Greek fleet crush the navy of Xerxes and the Persians in 480 BC?"
+      answer: "SALAMIS"
+    boni:
+      - question: "At what battle had a Greek army led by Miltiades defeated the Persians ten years earlier?"
+        answer: "MARATHON"
+      - question: "What Greek historian is our best source for accounts of the Persian Wars?"
+        answer: "HERODOTUS"
+  - tossup:
+      question: "Wait to be spotted and then follow the instructions. <latin>Tange naso mensam</latin>."
+      answer: "STUDENT SHOULD TOUCH TABLE WITH HIS NOSE"
+    boni:
+      - question: "<latin>Tene manu sinistra mentum</latin>."
+        answer: "HE SHOULD HOLD HIS CHIN WITH LEFT HAND"
+      - question: "<latin>Morde pollicem dextrum</latin>."
+        answer: "HE SHOULD BITE HIS RIGHT THUMB"
+  - tossup:
+      question: "Who besides Orestes was pursued by the Furies for matricide?"
+      answer: "ALCMAEON"
+    boni:
+      - question: "Who were Alcmaeon's parents?"
+        answer: "AMPHIARAÜS AND ERIPHYLE"
+      - question: "What miracle did Zeus grant to Alcmaeon's widow Callirhoë?"
+        answer: "HE ALLOWED HER SONS, ACARNAN AND AMPHOTERUS, TO GROW TO MANHOOD IN A SINGLE DAY TO AVENGE ALCMAEON'S MURDER"
+  - tossup:
+      question: "According to its root meaning, what do you share with a comrade?"
+      answer: "A ROOM (<latin>CAMERA</latin>)"
+    boni:
+      - question: "What do you share with a companion?"
+        answer: "BREAD - <latin>PANIS</latin>"
+      - question: "By what principle has \"comrade\" come to be spelled with com-, even though there is no <latin>cum</latin> in its root?"
+        answer: "BY ANALOGY WITH THE UBIQUITOUS DERIVATIVES OF <latin>CUM</latin>"
+  - tossup:
+      question: "In mythology, what is the later and more familiar name of Podarces?"
+      answer: "PRIAM"
+    boni:
+      - question: "Who killed Priam before the altar of Jupiter?"
+        answer: "PYRRHUS / NEOPTOLEMUS"
+      - question: "Who was Priam's famous brother, the husband of Aurora?"
+        answer: "TITHONUS"

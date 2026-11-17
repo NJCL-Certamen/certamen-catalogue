@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Intermediate"
+round: "Semifinals 2"
+questions:
+  - tossup:
+      question: "What Latin preposition means \"on this side of?\""
+      answer: "<latin>CIS / CITRA</latin>"
+    boni:
+      - question: "What case is taken by the rare preposition <latin>coram</latin>, meaning \"in the presence of?\""
+        answer: "ABLATIVE"
+      - question: "What two cases may be used with the even rarer preposition <latin>tenus</latin>, which means \"as far as?\""
+        answer: "ABLATIVE AND GENITIVE"
+  - tossup:
+      question: "Who was Caesar's co-consul for 46 BC and his successor as Pontifex Maximus?"
+      answer: "LEPIDUS"
+    boni:
+      - question: "Who was his co-consul for 45 BC?"
+        answer: "NO ONE"
+      - question: "Who assumed the vacant consulship after Caesar's death?"
+        answer: "(P. CORNELIUS) DOLABELLA (CICERO'S SON-IN-LAW)"
+  - tossup:
+      question: "What identical nouns in Latin mean \"heel\" and \"pebble?\""
+      answer: "<latin>CALX</latin> AND <latin>CALX</latin>"
+    boni:
+      - question: "What other Latin word can mean either \"sheep\" or \"May you rejoice?\""
+        answer: "<latin>OVES</latin>"
+      - question: "What word means either \"step\" or \"having suffered?\""
+        answer: "<latin>PASSUS</latin>"
+  - tossup:
+      question: "A formal decree of the Senate is called a <latin>senatus consultum</latin>. What type of genitive is <latin>senatus</latin>?"
+      answer: "SUBJECTIVE"
+    boni:
+      - question: "What case does the verb memini govern when the object is a person's name?"
+        answer: "ACCUSATIVE"
+      - question: "What case does it govern when the object is a personal pronoun?"
+        answer: "GENITIVE (when object is a thing, case can be acc. or gen.)"
+  - tossup:
+      question: "What word is used to introduce questions expecting the answer \"no?\""
+      answer: "<latin>NUM</latin>"
+    boni:
+      - question: "What word is used to introduce questions expecting the answer \"yes?\""
+        answer: "<latin>NONNE</latin>"
+      - question: "What is the meaning of the Latin interrogative <latin>quo modo</latin>?"
+        answer: "HOW? IN WHAT MANNER?"
+  - tossup:
+      question: "Which of the following did not enter the Underworld while still living: Odysseus, Psyche, Perseus, Theseus?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who were the two immortal Gorgons?"
+        answer: "STHENO AND EURYALE"
+      - question: "Which divinity punished Medusa with her unique appearance?"
+        answer: "ATHENA / MINERVA"
+  - tossup:
+      question: "What direction does a pharmacist give with the initials a.c.?"
+      answer: "TAKE BEFORE MEALS (<latin>ANTE CIBUM</latin>)"
+    boni:
+      - question: "With the initials q.i.d.?"
+        answer: "TAKE FOUR TIMES DAILY (<latin>QUATER IN DIE</latin>)"
+      - question: "With the initials p.o.?"
+        answer: "TAKE ORALLY (<latin>PER OS</latin>)"
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>do</latin>?"
+      answer: "<latin>DEDISSE</latin>"
+    boni:
+      - question: "What is the future active infinitive of <latin>sto</latin>?"
+        answer: "<latin>STATURUS ESSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>ago</latin>?"
+        answer: "<latin>EGISSE</latin>"
+  - tossup:
+      question: "What Roman princess desecrated her father's body by running over it with a chariot?"
+      answer: "TULLIA"
+    boni:
+      - question: "Tullia had earlier murdered her first husband in order to marry his brother, who had murdered his wife, Tullia's sister. Who were the first and second husbands of the ill-behaved Tullia?"
+        answer: "ARRUNS TARQUINIUS AND LUCIUS TARQUINIUS (later SUPERBUS)"
+  - tossup:
+      question: "Why did Zeus not father a child by Thetis?"
+      answer: "HER SON WAS DESTINED TO BE GREATER THAN HIS FATHER"
+    boni:
+      - question: "Where did Thetis hide her son to keep him out of the Trojan War?"
+        answer: "THE COURT OF KING LYCOMEDES IN SCYROS"
+      - question: "Who was destined to die at his grandson's hands and, despite his machinations to avoid it, was so slain many years later by wayward discus?"
+        answer: "ACRISIUS"
+  - tossup:
+      question: "What is the nominative plural of the phrase <latin>senatus consultum</latin>?"
+      answer: "<latin>SENATUS CONSULTA</latin>"
+    boni:
+      - question: "What is the genitive plural of <latin>senex</latin>?"
+        answer: "<latin>SENUM</latin>"
+      - question: "What is the genitive plural of <latin>iuvenis</latin>?"
+        answer: "<latin>IUVENUM</latin>"
+  - tossup:
+      question: "Where would you be if you were visiting the House of the Golden Cupids, the House of the Gladiators and the House of the Faun?"
+      answer: "POMPEII"
+    boni:
+      - question: "Many of the public buildings in Pompeii were destroyed in 62 AD, seventeen years before the eruption of Vesuvius, by another disaster. What happened in 62?"
+        answer: "EARTHQUAKE"
+      - question: "The only temple in Pompeii completely rebuilt and redecorated after the 62 earthquake was dedicated to what foreign goddess?"
+        answer: "ISIS"
+  - tossup:
+      question: "Give the correct form of <latin>facio</latin> for this sentence: \"I don't know what he's doing.\""
+      answer: "<latin>FACIAT</latin>"
+    boni:
+      - question: "For these sentences: \"I didn't know what he was doing.\""
+        answer: "<latin>FACERET</latin>"
+      - question: "\"I didn't know what he had done.\""
+        answer: "<latin>FECISSET</latin>"
+  - tossup:
+      question: "What flower sprang from the blood of Adonis?"
+      answer: "ANEMONE"
+    boni:
+      - question: "Who was his mother?"
+        answer: "MYRRHA / SMYRNA"
+      - question: "How did Adonis die?"
+        answer: "GORED BY A WILD BOAR"
+  - tossup:
+      question: "Translate the military idiom <latin>agmen novissimum</latin>."
+      answer: "REAR GUARD"
+    boni:
+      - question: "How many miles a day were covered on an <latin>iter magnum</latin>?"
+        answer: "C. 25 MILES"
+      - question: "What was the <latin>praetorium</latin> in a Roman camp?"
+        answer: "COMMAND CENTER, HEADQUARTERS"
+  - tossup:
+      question: "At what battle did the Roman general Flamininus defeat King Philip V of Macedon in 197 BC?"
+      answer: "CYNOSCEPHALAE"
+    boni:
+      - question: "Which took place first: the Third Macedonian War, the Third Punic War, or the Third Samnite War?"
+        answer: "THE THIRD SAMNITE WAR"
+      - question: "What Macedonian leader was defeated by the Romans in the Third Macedonian War?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "What is the meaning of the Latin noun at the root of, the English adjective \"preliminary?\""
+      answer: "THRESHOLD / DOORSTEP"
+    boni:
+      - question: "What English verb comes from that noun?"
+        answer: "ELIMINATE"
+      - question: "What English adjective meaning \"subtle\" or \"too slight to notice\" comes from <latin>limen</latin>?"
+        answer: "SUBLIMINAL"
+  - tossup:
+      question: "What Sorceress' jealous love for her husband drove her to murder?"
+      answer: "MEDEA'S"
+    boni:
+      - question: "Who was Medea's father?"
+        answer: "AEËTES"
+      - question: "Who was her brother?"
+        answer: "ABSYRTUS"
+  - tossup:
+      question: "Who was the man who provided Odysseus with the ship in which he was finally taken back to Ithaca?"
+      answer: "ALCINOÜS"
+    boni:
+      - question: "How did Poseidon punish Alcinoüs for this?"
+        answer: "THE SHIP WAS TURNED TO STONE, BLOCKING THE HARBOR FOREVER"
+      - question: "What was the name of Alcinoüs' island kingdom?"
+        answer: "SCHERIA"
+  - tossup:
+      question: "Translate with one Latin word: \"I had been present.\""
+      answer: "<latin>ADFUERAM</latin>"
+    boni:
+      - question: "Translate into Latin: \"Marcus said that I had been present.\""
+        answer: "<latin>MARCUS DIXIT ME ADFUISSE</latin>"
+      - question: "Translate into Latin: \"Marcus said that I would be present.\""
+        answer: "<latin>MARCUS DIXIT ME ADFUTURUM ESSE / ADFORE</latin>"

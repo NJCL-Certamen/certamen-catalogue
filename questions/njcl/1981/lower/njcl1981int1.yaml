@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Say in Latin, \"Don't talk!\""
+      answer: "<latin>NOLI DICERE</latin>"
+    boni:
+      - question: "Give the first person singular present active subjunctive of <latin>volo</latin> wish."
+        answer: "<latin>VELIM</latin>"
+      - question: "What is the present infinitive of <latin>malo</latin>?"
+        answer: "<latin>MALLE</latin>"
+  - tossup:
+      question: "What English noun meaning a dunce is a Latin verb which means, \"We don't know?\""
+      answer: "IGNORAMUS"
+    boni:
+      - question: "What English noun for a direction in cooking is an imperative in Latin meaning \"take?\""
+        answer: "RECIPE"
+      - question: "What English noun for a souvenir is a Latin imperative meaning \"remember?\""
+        answer: "MEMENTO"
+  - tossup:
+      question: "What type of ablative appears in the following sentence: <latin>His auditis, dux in urbem recessit</latin>?"
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: "Using an ablative absolute, say: \"After Caesar had been killed...\""
+        answer: "<latin>CAESARE INTERFECTO (CAESO, NECATO</latin>, etc)"
+      - question: "What type of ablative appears here: <latin>vir summa virtute</latin>?"
+        answer: "ABLATIVE OF DESCRIPTION or CHARACTERISTIC"
+  - tossup:
+      question: "How would a Roman say, \"I have touched?\""
+      answer: "<latin>TETIGI</latin>"
+    boni:
+      - question: "How would he say, \"I had been touched?\""
+        answer: "<latin>TACTUS ERAM</latin>"
+      - question: "How would he say, \"I shall be touched?\""
+        answer: "<latin>TANGAR</latin>"
+  - tossup:
+      question: "Who was the mother of Agrippina the Younger?"
+      answer: "AGRIPPINA THE ELDER"
+    boni:
+      - question: "Who was the mother of Agrippina the Elder?"
+        answer: "JULIA, DAUGHTER OF AUGUSTUS"
+      - question: "Who was the mother of Julia, daughter of Augustus?"
+        answer: "SCRIBONIA"
+  - tossup:
+      question: "Whom did Hercules kill with a lyre?"
+      answer: "LINUS"
+    boni:
+      - question: "Who was Hercules' mortal half-brother?"
+        answer: "IPHICLES"
+      - question: "Who was Iphicles' son?"
+        answer: "IOLAÜS"
+  - tossup:
+      question: "What military disaster befell the Romans in 321 BC?"
+      answer: "THE BATTLE OF THE CAUDINE FORKS"
+    boni:
+      - question: "What war was in progress?"
+        answer: "THE SECOND SAMNITE WAR"
+      - question: "How many Samnite Wars were there?"
+        answer: "THREE"
+  - tossup:
+      question: "What did the Romans call the Mare Nostrum?"
+      answer: "THE MEDITERRANEAN SEA"
+    boni:
+      - question: "Rome's first province was an island in the Mediterranean. What was it?"
+        answer: "SICILY"
+      - question: "From what other nation did Rome get control of Sicily?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "What is the vocative of <latin>Quintus</latin>?"
+      answer: "<latin>QUINTE</latin>"
+    boni:
+      - question: "What is the vocative of <latin>Publius</latin>?"
+        answer: "<latin>PUBLI</latin>"
+      - question: "What is the masculine vocative singular of the adjective <latin>pius</latin>?"
+        answer: "<latin>PIE</latin>"
+  - tossup:
+      question: "Who was the mother of Perseus?"
+      answer: "DANAË"
+    boni:
+      - question: "Who was Danae's father?"
+        answer: "ACRISIUS"
+      - question: "How did Zeus appear to Danae?"
+        answer: "AS A SHOWER OF GOLD"
+  - tossup:
+      question: "Change <latin>ducam</latin> to passive."
+      answer: "<latin>DUCAR</latin>"
+    boni:
+      - question: "Change <latin>ducebam</latin> to subjunctive."
+        answer: "<latin>DUCEREM</latin>"
+      - question: "Change <latin>ducerem</latin> to the perfect."
+        answer: "<latin>DUXERIM</latin>"
+  - tossup:
+      question: "What centaur instructed many heroes?"
+      answer: "CHEIRON"
+    boni:
+      - question: "What city did Cadmus found?"
+        answer: "THEBES"
+      - question: "Who correctly answered the riddle of the Sphinx at Thebes?"
+        answer: "OEDIPUS"
+  - tossup:
+      question: "What Greek god was tricked into swallowing a stone instead of his youngest child?"
+      answer: "CRONUS"
+    boni:
+      - question: "To what group of deities did Cronus belong?"
+        answer: "TITANS"
+      - question: "Who were the parents of Cronus?"
+        answer: "URANUS AND GAIA"
+  - tossup:
+      question: "In the sentence, <latin>Milites erant auxilio urbi</latin>, what is the construction of <latin>urbi</latin>?"
+      answer: "DATIVE OF REFERENCE"
+    boni:
+      - question: "What is the construction of <latin>auxilio</latin>?"
+        answer: "DATIVE OF PURPOSE"
+      - question: "What do we call the use of these two together?"
+        answer: "DOUBLE DATIVE"
+  - tossup:
+      question: "What was the combination market place and public square of a Roman city?"
+      answer: "<latin>FORUM</latin>"
+    boni:
+      - question: "What was its Greek counterpart?"
+        answer: "<latin>AGORA</latin>"
+      - question: "One possible root of the Latin word forum is the adverb <latin>foris</latin>. What does <latin>foris</latin> mean?"
+        answer: "OUTDOORS"
+  - tossup:
+      question: "What Roman commander died at Carrhae in 53 BC?"
+      answer: "CRASSUS"
+    boni:
+      - question: "What symbolic objects were captured by the enemy?"
+        answer: "THE STANDARDS (EAGLES)"
+      - question: "What was Crassus' political office at the time?"
+        answer: "<latin>TRIUMVIR</latin>"
+  - tossup:
+      question: "What are the principal parts of <latin>caedo</latin>?"
+      answer: "<latin>CAEDO, CAEDERE, CECIDI, CAESUS</latin>"
+    boni:
+      - question: "What are the principal parts of <latin>cado</latin>?"
+        answer: "<latin>CADO, CADERE, CECIDI, CASUS (CASURUS)</latin>"
+      - question: "What are the principal parts of <latin>audeo</latin>?"
+        answer: "<latin>AUDEO, AUDERE, AUSUS SUM</latin>"
+  - tossup:
+      question: "What Latin noun is the basis of the English verb \"ignite?\""
+      answer: "<latin>IGNIS</latin>"
+    boni:
+      - question: "What is its ablative plural?"
+        answer: "<latin>IGNIBUS</latin>"
+      - question: "What is its genitive plural?"
+        answer: "<latin>IGNIUM</latin>"
+  - tossup:
+      question: "What king of Rome succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "How many kings of early Rome were there?"
+        answer: "SEVEN"
+      - question: "Who was the last of them?"
+        answer: "TARQUINIUS SUPERBUS"
+  - tossup:
+      question: "Who was pursued by Apollo and turned into a tree?"
+      answer: "DAPHNE"
+    boni:
+      - question: "What kind of tree?"
+        answer: "LAUREL"
+      - question: "Whose tree was the olive?"
+        answer: "ATHENA'S (MINERVA'S)"

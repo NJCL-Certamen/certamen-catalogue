@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Semifinals 2"
+questions:
+  - tossup:
+      question: "Which of the following is not from the verb flo: souffle, flatulent, persiflage, flute?"
+      answer: "PERSIFLAGE"
+    boni:
+      - question: "\"Persiflage\" means idle chatter or banter. What Latin verb is its root?"
+        answer: "SIBILO - HISS OR WHISTLE"
+      - question: "How is a vehicle for those who can't walk derived from the Latin verb for walk?"
+        answer: "AMBULANCE IS FROM A FRENCH TERM MEANING, LITERALLY, \"WALKING HOSPITAL.\""
+  - tossup:
+      question: "Into what creatures did an angry Dionysus transform the sisters Alcithoë, Arsippe and Leucippe?"
+      answer: "BATS"
+    boni:
+      - question: "Who was their father?"
+        answer: "MINYAS"
+      - question: "By another account, Dionysus drove them mad and they killed Leucippe's son, and were in turn killed by the Maenads. Who was the ill-fated son of Leucippe?"
+        answer: "HIPPASUS"
+  - tossup:
+      question: "In the sentence, \"Cicero was elected consul,\" translate \"consul\" into Latin."
+      answer: "<latin>CONSUL</latin>"
+    boni:
+      - question: "In the sentence, \"Caesar put Labienus in charge of the city,\" translate \"city.\""
+        answer: "<latin>URBI</latin>"
+      - question: "In the sentence, \"He thinks his son is worthy of praise,\" translate \"worthy of praise.\""
+        answer: "<latin>DIGNUM LAUDE</latin>"
+  - tossup:
+      question: "Where was Sextus Pompeius defeated by Octavian's forces?"
+      answer: "(THE BATTLE OF) NAULOCHUS"
+    boni:
+      - question: "Whom had Octavian married earlier in an attempt to conciliate Sextus Pompeius?"
+        answer: "SCRIBONIA"
+      - question: "Who commanded Octavian's fleet at Naulochus?"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+  - tossup:
+      question: "Who was the author of Italy's first national epic?"
+      answer: "(CN.) NAEVIUS"
+    boni:
+      - question: "What was the subject of Naevius' epic?"
+        answer: "THE FIRST PUNIC WAR"
+      - question: "What term is applied to plays containing purely Roman elements?"
+        answer: "<latin>FABULA PRAETEXTA</latin>"
+  - tossup:
+      question: "What king, encountered by the Argonauts, challenged one of them to a boxing match?"
+      answer: "AMYCUS"
+    boni:
+      - question: "Who took him on and beat him?"
+        answer: "POLLUX"
+      - question: "Who was Amycus' father?"
+        answer: "POSEIDON / NEPTUNE"
+  - tossup:
+      question: "Say in Latin: \"Marcus, where are you going?\""
+      answer: "<latin>MARCE, QUO IS?</latin>"
+    boni:
+      - question: "Say: \"Marcus, where were you?\""
+        answer: "<latin>MARCE, UBI ERAS / FUISTI</latin>?"
+      - question: "Say: \"Marcus, where are you coming from?\""
+        answer: "<latin>MARCE, UNDE VENIS?</latin>"
+  - tossup:
+      question: "What battle did the Romans win in 168 BC?"
+      answer: "PYDNA"
+    boni:
+      - question: "Who were the enemy?"
+        answer: "THE MACEDONIANS"
+      - question: "The Roman commander at Pydna to some degree avenged the death in battle of his father some 48 years before. What was the name of both men?"
+        answer: "(L. AEMILIUS) PAULUS"
+  - tossup:
+      question: "What was the site of Philip's great victory over the Greeks in 338 BC?"
+      answer: "CHAERONEA"
+    boni:
+      - question: "What other city-state fought alongside Athens in this battle?"
+        answer: "THEBES"
+      - question: "When was Philip assassinated?"
+        answer: "336 BC"
+  - tossup:
+      question: "\"<latin>Video, patres conscripti, in me omnium vestrum ora atque oculos esse conversos</latin>.\" What speech of Cicero, delivered in December, 63 BC, begins with this statement?"
+      answer: "THE FOURTH CATILINARIAN"
+    boni:
+      - question: "What rhetorical device is illustrated by the following quotation from the First Catilinarian: \"<latin>Cum tacent, clamant.</latin>\""
+        answer: "OXYMORON"
+      - question: "What rhetorical device is illustrated in the following quote from the First Catilinarian: \"<latin>Nihil agis, nihil moliris, nihil cogitas, quod ego non...audiam?</latin>\""
+        answer: "ANAPHORA"
+  - tossup:
+      question: "What genre of literature is represented by the authors Persius, Lucilius, Juvenal and Horace?"
+      answer: "SATIRE"
+    boni:
+      - question: "By the authors Terence and Plautus?"
+        answer: "COMEDY (<latin>PALLIATAE</latin>)"
+      - question: "By the authors Claudius Quadrigarius, Ennius and Sallust?"
+        answer: "HISTORY"
+  - tossup:
+      question: "Who described the pumpkinification of Claudius?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "Spell the Latin (i.e. ripped off from Greek) title of the work."
+        answer: "A P O C O L O C Y N T O S I S"
+      - question: "What vice did Claudius write a book on?"
+        answer: "DICING"
+  - tossup:
+      question: "What praenomen was abbreviated K.?"
+      answer: "KAESO"
+    boni:
+      - question: "What name was abbreviated M'?"
+        answer: "MANIUS"
+      - question: "What name was abbreviated App?"
+        answer: "APPIUS"
+  - tossup:
+      question: "For whom was the term nationes braccatae a contemptuous expression?"
+      answer: "BARBARIANS, ESPECIALLY GAULS"
+    boni:
+      - question: "In contrast to a <latin>natio braccata</latin>, what would the Romans call themselves?"
+        answer: "THE <latin>GENS TOGATA</latin>"
+      - question: "To what article of clothing does <latin>braccata</latin> refer?"
+        answer: "TROUSERS"
+  - tossup:
+      question: "Give the dative of the pronoun <latin>nemo</latin>."
+      answer: "<latin>NEMINI</latin>"
+    boni:
+      - question: "Give the feminine ablative singular of the interrogative pronoun <latin>quis, quid</latin>."
+        answer: "<latin>QUO</latin>"
+      - question: "Give the feminine ablative singular of the interrogative adjective <latin>qui, quae, quod</latin>."
+        answer: "<latin>QUA</latin>"
+  - tossup:
+      question: "Which of the following is not a derivative of <latin>vix</latin>: vicarious, vicissitude, vicious, vice versa?"
+      answer: "VICIOUS"
+    boni:
+      - question: "Which of the following is not a derivative of <latin>vinco</latin>: evict, victuals, victim, Vincent?"
+        answer: "VICTUALS"
+      - question: "Which of the following is not a derivative of <latin>cado</latin>: cadence, cadet, occasion, casualty?"
+        answer: "CADET"
+  - tossup:
+      question: "Listen to this Latin sentence and identify the reason for one verb's being subjunctive: <latin>Caesar dixit se milites qui non pugnavissent puniturum esse.</latin>"
+      answer: "RELATIVE (SUBORDINATE) CLAUSE WITHIN INDIRECT STATEMENT"
+    boni:
+      - question: "If the sentence meant, \"Caesar said that he would not punish...\" how would the Latin change?"
+        answer: "<latin>DIXIT</latin> WOULD BECOME <latin>NEGAVIT</latin>"
+      - question: "What Latin idiom shares with the verb punio the meaning \"punish?\""
+        answer: "<latin>POENAM SUMO</latin>"
+  - tossup:
+      question: "Who was the craftsman of Achilles' new armor?"
+      answer: "HEPHAESTUS / VULCAN"
+    boni:
+      - question: "Who had died wearing Achilles' old armor?"
+        answer: "PATROCLUS"
+      - question: "What did Hephaestus later make for Achilles?"
+        answer: "A GOLDEN CINERARY URN"
+  - tossup:
+      question: "What twins piled Mount Pelion on top of Mount Ossa on top of Mount Olympus?"
+      answer: "OTUS AND EPHIALTES (THE ALOADAE)"
+    boni:
+      - question: "Whom did they confine in a bronze pot?"
+        answer: "ARES"
+      - question: "How did they die?"
+        answer: "THEY WERE SHOT BY ACHILLES AND ARTEMIS / THEY WERE TRICKED INTO SHOOTING EACH OTHER"
+  - tossup:
+      question: "Who was the first non-Senatorial emperor?"
+      answer: "MACRINUS"
+    boni:
+      - question: "Who supplanted Macrinus as emperor?"
+        answer: "ELAGABALUS"
+      - question: "Who was Elagabalus' maternal grandmother?"
+        answer: "JULIA MAESA"

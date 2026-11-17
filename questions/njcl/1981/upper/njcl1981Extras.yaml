@@ -1,0 +1,71 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Advanced"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "What Latin noun is the most basic root of the English words \"domain\" and \"dominion?\""
+      answer: "<latin>DOMUS</latin>"
+  - tossup:
+      question: "What is the perfect passive infinitive of frango?"
+      answer: "<latin>FRACTUS ESSE</latin>"
+  - tossup:
+      question: "What kind of subjunctive clause is likely to follow tam?"
+      answer: "RESULT"
+  - tossup:
+      question: "What Latin words are abbreviated e.g.?"
+      answer: "<latin>EXEMPLI GRATIA</latin>"
+  - tossup:
+      question: "Translate the command: \"Listen to my words, slave!\""
+      answer: "<latin>AUDI, SERVE, MEA VERBA!</latin>"
+  - tossup:
+      question: "What does <latin>codex</latin> mean?"
+      answer: "BOOK"
+  - tossup:
+      question: "What is the ablative plural of <latin>bos</latin>?"
+      answer: "<latin>BOBUS</latin>"
+  - tossup:
+      question: "Who was the muse of dance?"
+      answer: "TERPSICHORE"
+  - tossup:
+      question: "Who were the fathers of the 2 Ajaxes?"
+      answer: "TELAMON AND OILEUS"
+  - tossup:
+      question: "Who was Daedalus' son?"
+      answer: "ICARUS"
+  - tossup:
+      question: "Who were the sons of Asclepius?"
+      answer: "MACHAON AND PODALEIRIUS"
+  - tossup:
+      question: "Where was an oak tree the oracle of Zeus?"
+      answer: "DODONA"
+  - tossup:
+      question: "Who refused a place in the First Triumvirate?"
+      answer: "(M. TULLIUS) CICERO"
+  - tossup:
+      question: "Who killed Caligula?"
+      answer: "CASSIUS CHAEREA"
+  - tossup:
+      question: "What was the year of the disaster at the Teutoberg Forest?"
+      answer: "9 AD"
+  - tossup:
+      question: "What was the year of Claudius' birth?"
+      answer: "10 BC"
+  - tossup:
+      question: "Who was awakened by the sacred geese?"
+      answer: "MANLIUS CAPITOLINUS"
+  - tossup:
+      question: "Where was Catullus born?"
+      answer: "VERONA"
+  - tossup:
+      question: "What two eminent Greek poets were from Lesbos?"
+      answer: "ALCAEUS AND SAPPHO"
+  - tossup:
+      question: "What author was an eyewitness to the eruption of Vesuvius?"
+      answer: "PLINY MINOR"
+  - tossup:
+      question: "Who brought Ennius to Rome?"
+      answer: "CATO THE ELDER"
+  - tossup:
+      question: "What was Ovid's work on the calendar?"
+      answer: "THE <latin><title>FASTI</title></latin>"

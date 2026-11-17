@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What nymph was almost killed by her own son, who mistook her for a wild bear?"
+      answer: "CALLISTO"
+    boni:
+      - question: "Who accidentally killed his wife Procris by hurling a spear into a clump of bushes?"
+        answer: "CEPHALUS"
+      - question: "What lover of Jupiter foolishly asked to see him in his full glory, thus causing her own destruction?"
+        answer: "SEMELE"
+  - tossup:
+      question: "In Seneca's phrase <latin>Docendo discitur</latin>, what form of the verb is <latin>docendo</latin>, and in what construction is it used?"
+      answer: "GERUND - ABLATIVE OF MEANS"
+    boni:
+      - question: "In Horace's phrase <latin>Non omnis moriar</latin>, what tense is <latin>moriar</latin>?"
+        answer: "FUTURE"
+      - question: "In Augustus' phrase <latin>Festina lente</latin>, as quoted by Suetonius, what form of the verb is <latin>festina</latin>?"
+        answer: "SINGULAR IMPERATIVE"
+  - tossup:
+      question: "Without using an infinitive, say in Latin: \"I had to come.\""
+      answer: "<latin>MIHI VENIENDUM ERAT</latin>"
+    boni:
+      - question: "What construction is <latin>veniendum erat</latin>?"
+        answer: "FUTURE PASSIVE PARTICIPLE + <latin>SUM</latin> or PASSIVE PERIPHRASTIC"
+      - question: "What construction is <latin>mihi</latin>?"
+        answer: "DATIVE OF AGENT"
+  - tossup:
+      question: "What Latin word is the root of the English verb \"reiterate?\""
+      answer: "<latin>ITERUM</latin>"
+    boni:
+      - question: "What Latin word is the root of the English word \"juncture?\""
+        answer: "<latin>IUNGO</latin>"
+      - question: "What Latin word is the root of the English word \"urbane?\""
+        answer: "<latin>URBS</latin>"
+  - tossup:
+      question: "What Roman king died when struck by a thunderbolt?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "According to Livy, what king of Rome reigned longest?"
+        answer: "SERVIUS TULLIUS (44 years)"
+      - question: "According to Livy, what king of Rome reigned shortest?"
+        answer: "ANCUS MARCIUS (24 years)"
+  - tossup:
+      question: "What is the second person plural present passive subjunctive of the verb <latin>porto</latin>?"
+      answer: "<latin>PORTEMINI</latin>"
+    boni:
+      - question: "What is the same form of <latin>duco</latin>?"
+        answer: "<latin>DUCAMINI</latin>"
+      - question: "What is the second person plural future passive indicative of <latin>duco</latin>?"
+        answer: "<latin>DUCEMINI</latin>"
+  - tossup:
+      question: "What nephew of Priam, slain by Achilles, was made immortal by Zeus?"
+      answer: "MEMNON"
+    boni:
+      - question: "Where had he been king?"
+        answer: "ETHIOPIA"
+      - question: "Who was his mother?"
+        answer: "EOS (AURORA)"
+  - tossup:
+      question: "<latin>Quot pulmones tibi sunt</latin>?"
+      answer: "<latin>DUO</latin>"
+    boni:
+      - question: "<latin>Quot iecora tibi sunt</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot supercilia tibi sunt</latin>?"
+        answer: "<latin>DUO</latin>"
+  - tossup:
+      question: "What case is usually found after the passive voice of <latin>appello</latin>?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What is the nominative plural of <latin>deus</latin>?"
+        answer: "<latin>DI / DEI</latin>"
+      - question: "What is the nominative plural of <latin>genu</latin>?"
+        answer: "<latin>GENUA</latin>"
+  - tossup:
+      question: "By what other name is Damastes known?"
+      answer: "PROCRUSTES / PROCOPTAS / POLYPEMON"
+    boni:
+      - question: "What victim of Theseus was called the Pinebender?"
+        answer: "SINIS / PITYOCAMPTES"
+      - question: "Which villain killed by Theseus compelled strangers to wrestle with him?"
+        answer: "CERCYON"
+  - tossup:
+      question: "Who was the mortal punished by Demeter with insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "What had he done to offend her?"
+        answer: "CUT DOWN AN OAK (OR AN OAK GROVE) SACRED TO HER"
+      - question: "Who was his daughter, an innocent victim of his cruelty?"
+        answer: "MESTRA"
+  - tossup:
+      question: "What bird was a <latin>columba</latin>?"
+      answer: "DOVE, PIGEON"
+    boni:
+      - question: "With that noun as its base, what was the literal meaning of a <latin>columbarium</latin>?"
+        answer: "DOVE-COTE, PIGEON-COOP"
+      - question: "What metaphorical meaning did <latin>columbarium</latin> have?"
+        answer: "A MULTI-NICHED STRUCTURE FOR BURIAL URNS"
+  - tossup:
+      question: "Many Romans had appropriate nicknames or cognomina. Whose nickname is appropriate because of the clothes he wore to the Bona Dea ceremony for women only?"
+      answer: "(P.) CLODIUS PULCHER'S"
+    boni:
+      - question: "This sacrilege was directly responsible for the divorce of what couple in 61 BC?"
+        answer: "CAESAR AND POMPEIA"
+      - question: "What Roman poet had an affair with Clodius' sister?"
+        answer: "CATULLUS"
+  - tossup:
+      question: "What Latin present active participle contracts to form the Latin adjective <latin>prudens</latin>?"
+      answer: "<latin>PROVIDENS</latin>"
+    boni:
+      - question: "What Latin adjective contracts to the noun <latin>bruma</latin>?"
+        answer: "<latin>BREVISSIMA</latin>"
+      - question: "What infinitive contracts to <latin>fore</latin>?"
+        answer: "<latin>FUTURUM ESSE</latin>"
+  - tossup:
+      question: "Who was the sister of Helios and Selene?"
+      answer: "EOS"
+    boni:
+      - question: "Who was the sister of Aeetes and Pasiphaë?"
+        answer: "CIRCE"
+      - question: "Who was the sister of Agave, Ino and Autonoë?"
+        answer: "SEMELE"
+  - tossup:
+      question: "What is the superlative degree of <latin>carus</latin>?"
+      answer: "<latin>CARISSIMUS</latin>"
+    boni:
+      - question: "What is its comparative degree?"
+        answer: "<latin>CARIOR</latin>"
+      - question: "What is its positive adverb?"
+        answer: "<latin>CARE</latin>"
+  - tossup:
+      question: "For what would a Roman matron use a <latin>flabellum</latin>?"
+      answer: "TO FAN HERSELF"
+    boni:
+      - question: "If a Roman called for a <latin>calamus</latin>, what was he about to do?"
+        answer: "WRITE"
+      - question: "A wealthy Roman often presented certain acquaintances with a <latin>sportula</latin>. What type of person received a <latin>sportula</latin>?"
+        answer: "A CLIENT - IT IS A GIFT OF FOOD"
+  - tossup:
+      question: "Where in Rome was the Temple of Aesculapius located?"
+      answer: "ON AN ISLAND IN THE TIBER"
+    boni:
+      - question: "Where did Augustus build the Temple of the Deified Caesar?"
+        answer: "IN THE FORUM ROMANUM"
+      - question: "In which imperial forum was the Temple of Mars Ultor located?"
+        answer: "THE FORUM AUGUSTUM"
+  - tossup:
+      question: "Who was the Roman admiral who won the Battle of Ecnomus and captured Tunis?"
+      answer: "(M. ATILIUS) REGULUS"
+    boni:
+      - question: "Who defeated the Aequi and freed Minucius and then resigned his dictatorship after sixteen days?"
+        answer: "CINCINNATUS"
+      - question: "What was the nickname of Fabius Maximus?"
+        answer: "<latin>CUNCTATOR</latin> - DELAYER"
+  - tossup:
+      question: "Britain was one of several provinces added to the Empire during the reign of Claudius. Which of these was not among them: Mauretania, Bithynia, Thrace, Lycia?"
+      answer: "BITHYNIA"
+    boni:
+      - question: "What emperor added Mesopotamia and Armenia to the Empire?"
+        answer: "TRAJAN"
+      - question: "Rome's first province was Sicily. What was its second?"
+        answer: "SARDINIA AND CORSICA (They only became separate provinces under the Empire)"

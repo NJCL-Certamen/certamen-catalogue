@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1981
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "At the wedding of Pirithous and Hippodamia, what rival groups staged a battle?"
+      answer: "THE LAPITHS AND THE CENTAURS"
+    boni:
+      - question: "At the wedding feast of Perseus and Andromeda, Andromeda's uncle attacked. What was his name?"
+        answer: "PHINEUS"
+      - question: "At whose wedding did Eris hurl her famous apple?"
+        answer: "THAT OF PELEUS AND THETIS"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "IN GENDER AND NUMBER"
+    boni:
+      - question: "What determines its case?"
+        answer: "ITS USE WITHIN ITS OWN CLAUSE"
+      - question: "What is the neuter accusative plural of the relative pronoun?"
+        answer: "<latin>QUAE</latin>"
+  - tossup:
+      question: "Whose conspiracy threatened Rome during Cicero's consulship?"
+      answer: "(L. SERGIUS) CATILINA'S / CATILINE'S"
+    boni:
+      - question: "Who opposed Marius in the Civil War?"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+      - question: "What general triumphed over Hannibal?"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (MAIOR)"
+  - tossup:
+      question: "Who stole fire for men?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "Who was his brother?"
+        answer: "EPIMETHEUS"
+      - question: "Who was the bride of Epimetheus?"
+        answer: "PANDORA"
+  - tossup:
+      question: "Which of these words is not an adverb: <latin>diu, nunc, non, tum, sine</latin>?"
+      answer: "<latin>SINE</latin>"
+    boni:
+      - question: "Which of these is not a preposition: <latin>ad, cum, bis, ex, ab</latin>?"
+        answer: "<latin>BIS</latin>"
+      - question: "Which of these is not a conjunction: <latin>sed, saepe, et, quod, ubi</latin>?"
+        answer: "<latin>SAEPE</latin>"
+  - tossup:
+      question: "What is the Latin noun for \"table?\""
+      answer: "<latin>MENSA</latin>"
+    boni:
+      - question: "What is the Latin noun for \"month?\""
+        answer: "<latin>MENSIS</latin>"
+      - question: "What is the Latin verb for \"tell a lie?\""
+        answer: "<latin>MENTIOR, MENTIRI</latin>"
+  - tossup:
+      question: "Who was saved from death by the selflessness of his wife Alcestis?"
+      answer: "ADMETUS"
+    boni:
+      - question: "Who wrestled Death for Alcestis?"
+        answer: "HERCULES"
+      - question: "Where was Admetus king?"
+        answer: "PHERAE (THESSALY)"
+  - tossup:
+      question: "What is the second person plural future passive indicative of <latin>audio</latin>?"
+      answer: "<latin>AUDIEMINI</latin>"
+    boni:
+      - question: "What is the same form in the present?"
+        answer: "<latin>AUDIMINI</latin>"
+      - question: "Change <latin>audimini</latin> to the singular."
+        answer: "<latin>AUDIRIS</latin>"
+  - tossup:
+      question: "What Latin adverb is at the root of the English verb \"procrastinate?\""
+      answer: "<latin>CRAS</latin>"
+    boni:
+      - question: "What does <latin>cras</latin> mean?"
+        answer: "TOMORROW"
+      - question: "What means \"yesterday?\""
+        answer: "<latin>HERI</latin>"
+  - tossup:
+      question: "What is the nominative plural of <latin>os</latin>, \"mouth?\""
+      answer: "<latin>ORA</latin>"
+    boni:
+      - question: "What does the feminine singular noun <latin>ora</latin> mean?"
+        answer: "SHORE"
+      - question: "What is the nominative plural of <latin>os</latin>, \"bone?\""
+        answer: "<latin>OSSA</latin>"
+  - tossup:
+      question: "What road originally ran from Rome to Capua?"
+      answer: "THE <latin>VIA APPIA</latin>"
+    boni:
+      - question: "What was the great northern highway of Italy going from Rome to Ariminum?"
+        answer: "THE <latin>VIA FLAMINIA</latin>"
+      - question: "What highway was built in prehistoric times to facilitate the salt trade from the Tiber mouth?"
+        answer: "THE <latin>VIA SALARIA</latin>"
+  - tossup:
+      question: "How would a Roman say, \"She has seen me?\""
+      answer: "<latin>ME VIDIT</latin>"
+    boni:
+      - question: "How would he say, \"She will see herself?\""
+        answer: "<latin>SE VIDEBIT</latin>"
+      - question: "How would he say, \"She must see me?\""
+        answer: "<latin>EI VIDENDUS SUM</latin>"
+  - tossup:
+      question: "What was the name of the guard dog of Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "Who was the boatman of the Styx?"
+        answer: "CHARON"
+      - question: "Who conducted souls to Charon?"
+        answer: "HERMES / MERCURY"
+  - tossup:
+      question: "Which of these is not a Romance language: Italian, Greek, Portuguese, Spanish?"
+      answer: "GREEK"
+    boni:
+      - question: "Romance languages grew out of Latin in areas which the Romans controlled. In what Roman province did French develop?"
+        answer: "GAUL"
+      - question: "In what Roman province did the language now called Romanian develop?"
+        answer: "DACIA"
+  - tossup:
+      question: "How many Punic Wars were there?"
+      answer: "THREE"
+    boni:
+      - question: "In which did Hannibal take part?"
+        answer: "THE SECOND"
+      - question: "From which did Rome gain control of Sicily?"
+        answer: "THE FIRST"
+  - tossup:
+      question: "Who was the father of Astyanax?"
+      answer: "HECTOR"
+    boni:
+      - question: "Who was the sister of Clytemnestra?"
+        answer: "HELEN"
+      - question: "Who was the mother of Paris?"
+        answer: "HECUBA"
+  - tossup:
+      question: "The years 96 to 180 AD saw the reigns of how many so-called \"good emperors?\""
+      answer: "FIVE"
+    boni:
+      - question: "Who were the first and last?"
+        answer: "NERVA AND MARCUS AURELIUS"
+      - question: "Who were the three in between?"
+        answer: "TRAJAN, HADRIAN, ANTONINUS PIUS"
+  - tossup:
+      question: "What single English verb translates the Latin idiom <latin>in animo habere</latin>?"
+      answer: "PLAN, INTEND"
+    boni:
+      - question: "What single verb translates the idiom <latin>pedem referre</latin>?"
+        answer: "RETREAT"
+      - question: "What single noun translates the idiom <latin>res novae</latin>?"
+        answer: "REVOLUTION"
+  - tossup:
+      question: "What year marked the first Olympic Games?"
+      answer: "776 BC"
+    boni:
+      - question: "How many years were in an Olympiad?"
+        answer: "FOUR"
+      - question: "How many events were in a pentathlon?"
+        answer: "FIVE"
+  - tossup:
+      question: "Say in Latin: \"We put Marcus in charge of the cavalry.\""
+      answer: "<latin>EQUITIBUS / EQUITATUI MARCUM PRAEFECIMUS</latin>"
+    boni:
+      - question: "Say: \"The boy obeyed his father.\""
+        answer: "<latin>PUER PATRI PARUIT</latin>"
+      - question: "Say: \"The slave was harming the horses.\""
+        answer: "<latin>SERVUS EQUIS NOCEBAT</latin>"

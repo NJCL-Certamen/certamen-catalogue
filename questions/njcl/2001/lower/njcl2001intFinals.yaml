@@ -5,17 +5,17 @@ round: "Finals"
 questions:
   - tossup:
       question: "What two brothers deprived Hannibal of reinforcements and supplies from Spain?"
-      answer: "GNAEUS"
+      answer: "GNAEUS and PUBLIUS (CORNELIUS) SCIPIO"
     boni:
-      - question: "and PUBLIUS (CORNELIUS) SCIPIO After those commanders were killed, to whom did the Senate give the command in Spain?"
-        answer: "(PUBLIUS CORNELIUS) SCIPIO"
-      - question: "<emphasis>and</emphasis> one of the following: AFRICANUS / <emphasis>THE FUTURE</emphasis> AFRICANUS / THE SON OF PUBLIUS CORNELIUS SCIPIO IN THE TOSS-UP After what battle was the younger Scipio in control of Spain?"
+      - question: "After those commanders were killed, to whom did the Senate give the command in Spain?"
+        answer: "(PUBLIUS CORNELIUS) SCIPIO <emphasis>and</emphasis> one of the following: AFRICANUS / <emphasis>THE FUTURE</emphasis> AFRICANUS / THE SON OF PUBLIUS CORNELIUS SCIPIO IN THE TOSS-UP"
+      - question: "After what battle was the younger Scipio in control of Spain?"
         answer: "BATTLE OF ILIPA"
   - tossup:
       question: "Which centaur dropped one of Hercules' poisoned arrows on his foot and died from its venom?"
-      answer: "PHOLUS"
+      answer: "PHOLUS / CHEIRON"
     boni:
-      - question: "or CHEIRON What had Pholus offered to Hercules in an act of hospitality?"
+      - question: "What had Pholus offered to Hercules in an act of hospitality?"
         answer: "WINE"
       - question: "During which of the labors did Pholus offer Hercules his hospitality?"
         answer: "(HUNTING THE) ERYMANTHIAN BOAR"
@@ -31,9 +31,9 @@ questions:
       question: "What use of the genitive case is illustrated in this sentence: <latin>Catullus cupidus amōris erat</latin>"
       answer: "WITH CERTAIN SPECIAL / ADJECTIVES / <latin>CUPIDUS</latin> / OBJECTIVE"
     boni:
-      - question: "in this sentence: <latin>Fīlius oblīvīscēbātur patris patriaeque</latin>"
+      - question: "What use of the genitive case is illustrated in this sentence: <latin>Fīlius oblīvīscēbātur patris patriaeque</latin>"
         answer: "AFTER VERBS OF REMEMBERING / FORGETTING"
-      - question: "in this sentence: <latin>Eum capitis damnāvērunt</latin>"
+      - question: "What use of the genitive case is illustrated in this sentence: <latin>Eum capitis damnāvērunt</latin>"
         answer: "AFTER VERBS OF CONDEMNING / ACQUITTING"
   - tossup:
       question: "What derivative of the Latin verb <latin>errō, errāre</latin> means “a deviation from the proper or expected course?”"
@@ -52,13 +52,13 @@ questions:
       - question: "Again, for that sentence, translate “I had defeated.”"
         answer: "<latin>SUPERĀVISSEM / VĪCISSEM</latin>"
   - tossup:
-      question: "Name the governor of Gallia Lugdunensis who rebelled against Nero in March, A"
-      answer: "D."
+      question: "Name the governor of Gallia Lugdunensis who rebelled against Nero in March, AD 68."
+      answer: "(C. IULIUS) VINDEX"
     boni:
       - question: "What other governor did Vindex pledge to support as emperor?"
         answer: "(SERVIUS SULPICIUS) GALBA"
       - question: "By whom was Vindex defeated?"
-        answer: "(L.)VERGINIUS RUFUS"
+        answer: "(L.) VERGINIUS RUFUS"
   - tossup:
       question: "How did Prometheus foil Zeus's plan to destroy the human race?"
       answer: "HE WARNED (HIS SON) DEUCALION TO BUILD A BOAT"
@@ -68,9 +68,11 @@ questions:
       - question: "According to Ovid, what fire precipitated Zeus' flood to drown the earth?"
         answer: "PHAETHON'S SUN CHARIOT BURNING THE EARTH"
   - tossup:
-      question: "What type of cum-clause is illustrated by the following Latin sentence: <latin>Cum Rōma plēna hominum esset, nōs tamen facile ambulāre poteramus</latin> CONCESSIVE . . . <latin>Quae cum ita sint, fūr damnandus est</latin>"
-      answer: "CAUSAL"
+      question: "What type of <latin>cum</latin>-clause is illustrated by the following Latin sentence: <latin>Cum Rōma plēna hominum esset, nōs tamen facile ambulāre poteramus</latin>"
+      answer: "CONCESSIVE"
     boni:
+      - question: "What type of <latin>cum</latin>-clause is illustrated by the following Latin sentence: <latin>Quae cum ita sint, fūr damnandus est</latin>"
+        answer: "CAUSAL"
       - question: "Translate the cum clause into Latin for the following sentence: “When I go to Rome next summer, I will visit the Colosseum.”"
         answer: "<latin>CUM RŌMAM PROXIMĀ AESTĀTE EŌ / ĪBŌ / Ī(V)ERŌ</latin>"
   - tossup:
@@ -90,14 +92,16 @@ questions:
       - question: "With what woman was Aegeus living when Theseus first came to Athens?"
         answer: "MEDEA"
   - tossup:
-      question: "Translate the following sentence into English: <latin>Hostēs audīvērunt magnum numerum Rōmānōrum appropinquāre</latin>  THE ENEMY HEARD THAT A GREAT NUMBER OF ROMANS WERE APPROACHING . . . <latin>Rōmānī scīvērunt sē superātūrōs esse</latin>"
-      answer: "THE ROMANS KNEW THAT THEY WOULD WIN"
+      question: "Translate the following sentence into English: <latin>Hostēs audīvērunt magnum numerum Rōmānōrum appropinquāre</latin>"
+      answer: "THE ENEMY HEARD THAT A GREAT NUMBER OF ROMANS WERE APPROACHING"
     boni:
-      - question: "<latin>nūntiātum est equitēs appropinquāvisse</latin>"
-        answer: "IT WAS REPORTED/ANNOUNCED THAT THE HORSEMEN HAD APPROACHED"
+      - question: "Translate the following sentence into English: <latin>Rōmānī scīvērunt sē superātūrōs esse</latin>"
+        answer: "THE ROMANS KNEW THAT THEY WOULD WIN"
+      - question: "Translate the following sentence into English: <latin>nūntiātum est equitēs appropinquāvisse</latin>"
+        answer: "IT WAS REPORTED / ANNOUNCED THAT THE HORSEMEN HAD APPROACHED"
   - tossup:
       question: "When you are recognized by the spotter, follow this direction: <latin>Susurrā Latīnē verba tria.</latin> "
-      answer: "STUDENT SHOULD WHISPER THREE WORDS IN LATIN / OR SAY “VERBA TRIA”"
+      answer: "STUDENT SHOULD WHISPER THREE WORDS IN LATIN / OR SAY “<latin>VERBA TRIA</latin>”"
     boni:
       - question: "<latin>Clāmāte Anglicē nōmen cīvitātis vestrae</latin>"
         answer: "MORE THAN ONE STUDENT SHOULD SHOUT OUT THE NAMES OF THEIR STATE"
@@ -113,19 +117,19 @@ questions:
         answer: "APHRODITE"
   - tossup:
       question: "A group of Romans are crowded around a table in a taberna. One man shouts “<latin>Venus</latin>!”. Why do the other men owe him money?"
-      answer: "HE HAS <emphasis>BEATEN</emphasis> THEM AT <latin>TALI</latin> / KNUCKLEBONES"
+      answer: "HE HAS <emphasis>BEATEN</emphasis> THEM AT <latin>TALI</latin> / KNUCKLEBONES or <latin>TESSERAE</latin> / DICE HAS ROLLED THE <emphasis>HIGHEST</emphasis> COMBINATION OF DICE / THE MAN HAS ROLLED DOUBLE SIXES"
     boni:
-      - question: "or <latin>TESSERAE</latin> / DICE HAS ROLLED THE <emphasis>HIGHEST</emphasis> COMBINATION OF DICE / THE MAN HAS ROLLED DOUBLE SIXES What is the Latin term for the lowest roll in <latin>tali</latin> or <latin>tesserae</latin>?"
-        answer: "<latin>CANIS</latin> / DOG"
-      - question: "or <latin>VULTUR</latin> / VULTURE How many <latin>tali</latin> were thrown with a <latin>fritillus</latin>?"
+      - question: "What is the Latin term for the lowest roll in <latin>tali</latin> or <latin>tesserae</latin>?"
+        answer: "<latin>CANIS</latin> / DOG / <latin>VULTUR</latin> / VULTURE"
+      - question: "How many <latin>tali</latin> were thrown with a <latin>fritillus</latin>?"
         answer: "FOUR"
   - tossup:
       question: "Please open your visual and study it for 10 seconds. The perspective of the visual is northwest across the <latin>Forum Rōmānum</latin>. Identify the temple visible between the Temple of Saturn and the Temple of Concord"
-      answer: "TEMPLE OF (THE DIVINE) VESPASIAN (& TITUS) / <latin>TEMPLUM VESPĀSIĀNĪ(ET TITĪ</latin>)"
+      answer: "TEMPLE OF (THE DIVINE) VESPASIAN (& TITUS) / <latin>TEMPLUM VESPĀSIĀNĪ(ET TITĪ)</latin>"
     boni:
       - question: "Identify either of the small shrines in front of the Basilica Aemilia"
-        answer: "TEMPLE/SHRINE OF JANUS (GEMINUS or QUIRINUS) / <latin>SACELLUM</latin>"
-      - question: "<emphasis>or</emphasis> SHRINE OF (VENUS) CLOACINA / <latin>SACRUM (CLOACINAE</latin>) Identify the temple, whose porch was often used as a second rostrum, where the viewer of this picture is standing"
+        answer: "TEMPLE / SHRINE OF JANUS (GEMINUS or QUIRINUS) / <latin>SACELLUM</latin> / SHRINE OF (VENUS) CLOACINA / <latin>SACRUM (CLOACINAE</latin>)"
+      - question: "Identify the temple, whose porch was often used as a second rostrum, where the viewer of this picture is standing"
         answer: "TEMPLE OF (DIVINE) JULIUS CAESAR / <latin>TEMPLUM DĪVĪ AUGUSTĪ</latin>"
   - tossup:
       question: "In an effort to regain the city from Eteocles, how many men led the attack against Thebes?"
@@ -139,12 +143,12 @@ questions:
       question: "What Latin word is a synonym of the noun <latin>pluvia</latin>?"
       answer: "<latin>IMBER, NIMBUS, AQUA</latin>"
     boni:
-      - question: ". . . of the adjective <latin>tūtus</latin>?"
+      - question: "What Latin word is a synonym of the adjective <latin>tūtus</latin>?"
         answer: "<latin>SALVUS, MŪNĪTUS, SOSPES</latin>"
-      - question: ". . . of the adverb <latin>ibi</latin>?"
+      - question: "What Latin word is a synonym of the adverb <latin>ibi</latin>?"
         answer: "<latin>ILLĪC, ISTĪC, EŌ</latin>"
   - tossup:
-      question: "Against whom did Cato the Younger bring a charge of sacrilege in 62 B. C.?"
+      question: "Against whom did Cato the Younger bring a charge of sacrilege in 62 BC?"
       answer: "(P.) CLODIUS (PULCHER)"
     boni:
       - question: "What act of sacrilege was Clodius accused of committing?"
@@ -155,7 +159,7 @@ questions:
       question: "Translate the following sentence into Latin: “I told Marcus what I was doing.”"
       answer: "<latin>MARCŌ DĪXĪ QUID FACEREM</latin>"
     boni:
-      - question: " . . . “Everyone knows how brave Caesar is.”"
+      - question: "Translate the following sentence into Latin: “Everyone knows how brave Caesar is.”"
         answer: "<latin>OMNĒS SCIUNT QUAM FORTIS CAESAR SIT</latin>"
-      - question: " . . . “Who is there who loves Carthage?”"
+      - question: "Translate the following sentence into Latin: “Who is there who loves Carthage?”"
         answer: "<latin>QUIS EST QUĪ CARTHĀGINEM AMET / DĪLIGAT</latin>"

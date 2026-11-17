@@ -1589,6 +1589,12 @@ links:
   year: 2019
   division: Novice
   round: Semifinals
+- rel: 1981 NJCL Certamen Advanced Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981Extras.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Extra Questions
 - rel: 1981 NJCL Certamen Advanced Finals
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981advFinals.yaml
   tournament: NJCL Certamen
@@ -1613,6 +1619,42 @@ links:
   year: 1981
   division: Advanced
   round: Round 2
+- rel: 1981 NJCL Certamen Advanced Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/upper/njcl1981advSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Advanced
+  round: Semifinals 2
+- rel: 1981 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/lower/njcl1981int2.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Intermediate
+  round: Round 2
+- rel: 1981 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/lower/njcl1981int1.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Intermediate
+  round: Round 1
+- rel: 1981 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/lower/njcl1981intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Intermediate
+  round: Finals
+- rel: 1981 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/lower/njcl1981intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Intermediate
+  round: Semifinals
+- rel: 1981 NJCL Certamen Intermediate Semifinals 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1981/lower/njcl1981intSemis2.yaml
+  tournament: NJCL Certamen
+  year: 1981
+  division: Intermediate
+  round: Semifinals 2
 - rel: 2010 NJCL Certamen Intermediate Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2010/intermediate/njcl2010int1.yaml
   tournament: NJCL Certamen

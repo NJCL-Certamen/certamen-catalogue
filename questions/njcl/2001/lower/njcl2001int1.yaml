@@ -4,12 +4,10 @@ division: "Intermediate"
 round: "Round 1"
 questions:
   - tossup:
-      question: "You are sitting in an ancient Roman restaurant"
-      answer: "A"
+      question: "You are sitting in an ancient Roman restaurant. A waiter comes up to you and asks “<latin>Quid vīs potāre</latin>?” What does the waiter want to know?"
+      answer: "WHAT YOU <emphasis>WANT TO DRINK</emphasis>"
     boni:
-      - question: "waiter comes up to you and asks “<latin>Quid vīs potāre</latin>?” What does the waiter want to know?"
-        answer: "WHAT YOU <emphasis>WANT TO DRINK</emphasis>"
-      - question: " After bringing you something to drink, you tell the waiter “<latin>Fer ad me aliquid pānis</latin>!” What are you telling the waiter?"
+      - question: "After the waiter brings you something to drink, you tell the waiter “<latin>Fer ad me aliquid pānis</latin>!” What are you telling the waiter?"
         answer: "TO <emphasis>BRING</emphasis> YOU (SOME) <emphasis>BREAD</emphasis>"
       - question: "The waiter then responds, “<latin>Feram cibum quam celerrimē</latin>.” What is he telling you?"
         answer: "THAT HE’S <emphasis>BRINGING</emphasis> / WILL BRING THE <emphasis>FOOD</emphasis>"
@@ -17,7 +15,7 @@ questions:
       question: "What Latin phrase is commonly used in English to mean “in secret” or “secretly?”"
       answer: "<latin>SUB ROSĀ</latin>"
     boni:
-      - question: "What Latin phrase is commonly used in English to mean “an indispensable/necessary condition?"
+      - question: "What Latin phrase is commonly used in English to mean “an indispensable / necessary condition?"
         answer: "<latin>(CAUSA) SINE QUĀ NŌN</latin>"
       - question: "What Latin phrase and state motto is commonly used in English to mean “let military power yield to civilian authority?”"
         answer: "<latin>CĒDANT ARMA TOGAE</latin>"
@@ -49,18 +47,18 @@ questions:
       question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>urbs, imāgō, plēbs, pēs, pietās</latin>?"
       answer: "<latin>PĒS</latin>"
     boni:
-      - question: ". . . <latin>mare, serpēns, nihil, lītus, cōr</latin>?"
+      - question: "Which of the following nouns, if any, does NOT belong because of gender: <latin>mare, serpēns, nihil, lītus, cōr</latin>?"
         answer: "<latin>SERPĒNS</latin>"
       - question: "What is the name for nouns such as <latin>locus</latin> and <latin>balneum</latin> that vary in gender?"
         answer: "HETEROGENEOUS"
   - tossup:
       question: "Which of the Julio-Claudian emperors was the youngest son of Drusus and Antonia the Younger?"
-      answer: "(TIBERIUS) CLAUDIUS (DRUSUS NERO)"
+      answer: "(TI.) CLAUDIUS (DRUSUS NERO)"
     boni:
       - question: "What group first proclaimed Claudius emperor in January, AD 41?"
         answer: "PRAETORIAN GUARD"
       - question: "Name Claudius’ nephew who had just been assassinated by a member of the Guard"
-        answer: "GAIUS (CALIGULA) / CALIGULA"
+        answer: "GAIUS / CALIGULA"
   - tossup:
       question: "Whose flesh melted off her bones when she put on a cloak sent to her by Medea?"
       answer: "GLAUCE / CREUSA"
@@ -73,18 +71,18 @@ questions:
       question: "Whose army, composed mostly of slaves, preferred to continue to plunder Italy rather than seek freedom beyond its borders?"
       answer: "SPARTACUS’"
     boni:
-      - question: "From what general did Pompey try to steal the credit for the defeat of Spartacus in 71 B. C.?"
+      - question: "From what general did Pompey try to steal the credit for the defeat of Spartacus in 71 BC?"
         answer: "(M. LICINIUS) CRASSUS"
       - question: "Along what road did Crassus crucify 6,000 captured slaves to demonstrate that he, not Pompey, was responsible for Spartacus’ defeat?"
         answer: "<latin>VIA APPIA</latin> / APPIAN WAY"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Domus Rōmāna est omnis dīvīsa in partēs trēs. Quārum prīma appellātur ātrium. In mediō tectō huius partis, lūcis et āeris causā, apertum spatium situm est. Pluvia per eum spatium in impluvium dēscendit. Quod nōmen datum est prīmae partī domūs Rōmānae?</latin>"
-      answer: "ĀTRIUM"
+      answer: "<latin>ĀTRIUM</latin>"
     boni:
-      - question: "Ubi apertum spatium situm est? "
-        answer: "<latin>IN (MEDIŌ) TECTŌ (HUIUS PARTIS / ĀTRIĪ)</latin>"
-      - question: "  <latin>SUPER (or SUPRĀ) IMPLUVIUM Quid in impluvium dēscendit?</latin>"
-        answer: "PLUVIA /AQUA / IMBER / NIMBUS"
+      - question: "<latin>Ubi apertum spatium situm est</latin>?"
+        answer: "<latin>IN (MEDIŌ) TECTŌ (HUIUS PARTIS / ĀTRIĪ) // SUPER (or SUPRĀ) IMPLUVIUM</latin>"
+      - question: "<latin>Quid in impluvium dēscendit</latin>?"
+        answer: "<latin>PLUVIA / AQUA / IMBER / NIMBUS</latin>"
   - tossup:
       question: "What use of the dative case is found in the following Latin sentence: <latin>Urbs mihi regnanda est</latin>?"
       answer: "AGENCY"
@@ -98,23 +96,21 @@ questions:
       answer: "PENTHESILEA"
     boni:
       - question: "Penthesilea helped the Trojans because King Priam had purified her for the murder of which other Amazon?"
-        answer: "HIPPOLYTA/MELANIPPE/GLAUCE"
+        answer: "HIPPOLYTA / MELANIPPE / GLAUCE"
       - question: "What Greek fell in love with Penthesilea’s corpse?"
         answer: "ACHILLES"
   - tossup:
       question: "Give a Latin synonym of the verb <latin>vereor</latin>"
-      answer: "<latin>TIMEŌ, METUŌ</latin>, (<latin>EX</latin>- <latin>PER</latin>-)-<latin>TIMESCŌ</latin>"
+      answer: "<latin>TIMEŌ / METUŌ / (EX/PER)TIMESCŌ</latin>"
     boni:
-      - question: "of the verb <latin>arbitror</latin>?"
+      - question: "Give a Latin synonym of the verb <latin>arbitror</latin>?"
         answer: "<latin>PUTŌ, EXISTIMŌ, REOR, OPĪNOR, CENSEŌ, COGITŌ, CRĒDŌ</latin> (If given, explain to students semantic difference between <latin>cogitō / crēdō</latin> and <latin>arbitror</latin>)"
-      - question: "of the verb <latin>ēgredior</latin>?"
-        answer: "<latin>EXEŌ</latin>, (<latin>DIS</latin>- <latin>EX</latin>-)-<latin>CĒDŌ, ĒMIGRŌ, ĒVĀDŌ</latin>"
+      - question: "Give a Latin synonym of the verb <latin>ēgredior</latin>?"
+        answer: "<latin>EXEŌ, (DIS/EX)CĒDŌ, ĒMIGRŌ, ĒVĀDŌ</latin>"
   - tossup:
-      question: "What emperor said “Go to the rising sun; my sun is setting.” as he was dying in A"
-      answer: "D."
+      question: "What emperor said “Go to the rising sun; my sun is setting.” as he was dying in AD 180?"
+      answer: "MARCUS AURELIUS"
     boni:
-      - question: "180?"
-        answer: "MARCUS AURELIUS"
       - question: "What Germanic tribe was Aurelius about to defeat after a long series of wars when he died in 180?"
         answer: "MARCO(M)MANNI"
       - question: "Who was Aurelius’ heir who bought peace from the Marcomanni so that he could return to the pleasures of Rome?"
@@ -129,7 +125,7 @@ questions:
         answer: "ORION"
   - tossup:
       question: "Of the Labors of Heracles, which is usually listed as the last?"
-      answer: "FETCHING CERBERUS "
+      answer: "FETCHING CERBERUS"
     boni:
       - question: "Which letter or letters indicate labors which involved Heracles’ bringing back an animal alive?"
         answer: "C & D"
@@ -147,17 +143,17 @@ questions:
       question: "Translate the following sentence into English as literally as possible: <latin>Dominus, postquam cibum gustāvit, coquum laudāvit.</latin> "
       answer: "AFTER HE TASTED THE FOOD, THE MASTER PRAISED THE COOK (accept variations of placement of “he” and “master”)"
     boni:
-      - question: "<latin>Dum canis dormit, fēlēs avem cōnsūmpsit.</latin> "
+      - question: "Translate the following sentence into English as literally as possible: <latin>Dum canis dormit, fēlēs avem cōnsūmpsit.</latin> "
         answer: "WHILE THE DOG WAS SLEEPING / SLEPT, THE CAT ATE THE BIRD."
-      - question: "<latin>Cum patrem meum vīderō, eum pecūniam rogābō.</latin> "
+      - question: "Translate the following sentence into English as literally as possible: <latin>Cum patrem meum vīderō, eum pecūniam rogābō.</latin> "
         answer: "WHEN I SEE / WILL HAVE SEEN / SHALL HAVE SEEN MY FATHER, I WILL ASK HIM FOR MONEY."
   - tossup:
       question: "What derivative of the Latin noun <latin>modus</latin> means “an article of commerce?”"
       answer: "COMMODITY"
     boni:
-      - question: "means “a small alteration?”"
+      - question: "What derivative of the Latin noun <latin>modus</latin> means “a small alteration?”"
         answer: "MODIFICATION, ACCOMMODATION"
-      - question: "means “chamber pot?”"
+      - question: "What derivative of the Latin noun <latin>modus</latin> means “chamber pot?”"
         answer: "COMMODE"
   - tossup:
       question: "At what temple did a triumphal procession end?"
@@ -166,4 +162,4 @@ questions:
       - question: "What did the triumphant general sacrifice to Jupiter?"
         answer: "WHITE BULL(S)/OX(EN)/COW(S) (WITH GILDED HORNS) (“Cow” is acceptable in English as a gender-neutral word)"
       - question: "What was usually the last activity of a triumph?"
-        answer: "BANQUET/FEAST"
+        answer: "BANQUET / FEAST"

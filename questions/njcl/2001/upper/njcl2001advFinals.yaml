@@ -29,9 +29,9 @@ questions:
         answer: "<latin>FOR/FĀRĪ</latin>"
   - tossup:
       question: "Which of Ovid’s works did he consider to be the first of a new literary genre?"
-      answer: "<title><latin>HEROIDES</latin> / <latin>HEROIDUM EPISTULAE</latin> / LETTERS OF HEROINES</title>"
+      answer: "<title><latin>HEROIDES / HEROIDUM EPISTULAE</latin> / LETTERS OF HEROINES</title>"
     boni:
-      - question: " In what meter are these “letters from heroines” written?"
+      - question: "In what meter are these “letters from heroines” written?"
         answer: "ELEGIACS"
       - question: "Which of Ovid’s friends, an elegiac poet in his own right, may have inspired him with the idea of letters in verse?"
         answer: "PROPERTIUS"
@@ -39,9 +39,9 @@ questions:
       question: "Using a gerundive, translate the following sentence into Latin: “Cicero must write his own speeches.”"
       answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ SCRĪBENDAE SUNT</latin>"
     boni:
-      - question: " Using <emphasis>the verb <latin>pare</latin>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
+      - question: "Using <emphasis>the verb <latin>pare</latin>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
         answer: "<latin>OMNIBUS LĒGIBUS BONĪS PARENDUM EST</latin>"
-      - question: " Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
+      - question: "Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
         answer: "Ā <latin>PIŌ DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
   - tossup:
       question: "What type of independent subjunctive clause is found in the following Latin sentence: <latin>Utī sōl per tōtum annum lūcēret</latin>!"
@@ -61,12 +61,12 @@ questions:
         answer: "CTESIPPUS"
   - tossup:
       question: "What Dalmatian peasant was chosen by the army of the east to replace Numerian as Augustus?"
-      answer: "(GAIUS AURELIUS VALERIUS) DIOCLETIANUS / DIOCLETIAN"
+      answer: "(C. AURELIUS VALERIUS) DIOCLETIANUS / DIOCLETIAN"
     boni:
       - question: "After whose assassination did Diocletian become the sole ruler of the empire?"
         answer: "CARINUS’"
       - question: "What previous emperor was the father of Numerian and Carinus?"
-        answer: "(MARCUS AURELIUS) CARUS"
+        answer: "(M. AURELIUS) CARUS"
   - tossup:
       question: "Change the phrase <latin>carō vīvēns</latin> to the ablative"
       answer: "<latin>CARNE VĪVENTE</latin>"
@@ -77,7 +77,7 @@ questions:
         answer: "<latin>BOVEM VĪVENTEM</latin>"
   - tossup:
       question: "Who, angered that Marius received most of the credit for their victory over the Cimbri, became one of Marius’ chief opponents?"
-      answer: "(QUINTUS LUTATIUS) CATULUS"
+      answer: "(Q. LUTATIUS) CATULUS"
     boni:
       - question: "Where and when did Marius & Catulus defeat the Cimbri?"
         answer: "VERCELLAE - 101 BC"
@@ -97,7 +97,7 @@ questions:
     boni:
       - question: "Quid pater fīliīs imperāvit? "
         answer: "<latin>UT (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRENT</latin>"
-      - question: " or <latin>IUSSIT EŌS (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRE Quae rēs fīliīs inveniendae sunt?</latin>"
+      - question: "or <latin>IUSSIT EŌS (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRE Quae rēs fīliīs inveniendae sunt?</latin>"
         answer: "DĪVITIAE (MAGNAE) (ET FĒLĪCITĀS)"
   - tossup:
       question: "What is the name of the folding chair which was used by higher magistrates and then emperors?"
@@ -111,7 +111,7 @@ questions:
       question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā imposita cadāvera cremābantur</latin>"
       answer: "<latin>ROGUS</latin>"
     boni:
-      - question: " . . . <latin>Est lōrum frēnō alligātum, quō equī reguntur</latin>"
+      - question: ". . . <latin>Est lōrum frēnō alligātum, quō equī reguntur</latin>"
         answer: "<latin>HABĒNA</latin>"
       - question: ". . . <latin>Est turricula rotunda, per quam tālī mittuntur</latin>"
         answer: "<latin>FRITILLUS</latin>"
@@ -135,7 +135,7 @@ questions:
       question: "The invention of what type of <title><latin>fabulae</latin></title> was attributed to Gnaeus Naevius?"
       answer: "<title><latin>FABULAE P</latin></title><emphasis><title><latin>RAETEXTAE</latin></title></emphasis>"
     boni:
-      - question: " Describe a <title><latin>fabula praetexta</latin></title>"
+      - question: "Describe a <title><latin>fabula praetexta</latin></title>"
         answer: "PLAY / DRAMA / TRAGEDY BASED ON A ROMAN HISTORICAL SUBJECT"
       - question: "<emphasis>or</emphasis> WITH A ROMAN SETTING Give the Latin titles of Naevius’ <title><latin>fabulae praetextae</latin></title>"
         answer: "<title><latin>ROMULUS</latin></title> AND <title><latin>CLASTIDIUM</latin></title>"

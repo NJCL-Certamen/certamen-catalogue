@@ -23,7 +23,7 @@ questions:
       question: "Translate “fought” in the sentence, “Would that my father hadn’t fought in that war!”"
       answer: "<latin>PUGNĀVISSET / CERTĀVISSET / CONTENDISSET</latin>"
     boni:
-      - question: " Translate “do” in the sentence, “What was I to do?”"
+      - question: "Translate “do” in the sentence, “What was I to do?”"
         answer: "<latin>FACEREM, AGEREM</latin>"
       - question: "Translate “be able” in the sentence, “I might be able to win the contest.”"
         answer: "<latin>POSSIM, POTUERIM</latin>"
@@ -155,7 +155,7 @@ questions:
     boni:
       - question: "In which of his works does Tacitus deal with the reigns of Vespasian, Titus, and Domitian?"
         answer: "<title>HISTORIES / <latin>HISTORIAE</latin></title>"
-      - question: " What other author of the same time peroid often gave tacitus material for his historical works?"
+      - question: "What other author of the same time peroid often gave tacitus material for his historical works?"
         answer: "PLINY THE YOUNGER"
   - tossup:
       question: "Listen carefully to the following Latin passage, which I will read twice, and answer in Latin the question that follows: <latin>Duo agricolae constituērunt ut Rōmam īrent spectātum lūdōs quī ab imperātōre victoriōsō dābantur. Prīmā lūce equīs iter coepērunt. Sed quīnque mīlia passuum ab villīs eōrum, crūs unīus equī fractum est.  Agricola cui ille equus infēlīx erat gladium strinxit et eum occīdit.  Cur agricolae Rōmam īre volebant?</latin>"

@@ -103,7 +103,7 @@ questions:
       question: "There is a small town on the west coast of Italy named Sperlonga, so called because it is the place, still seen today, where the emperor Tiberius had a residence built in a grotto next to the sea. If you take a close look at the word Sperlonga, you will notice that it is derived from what Latin word for “cave”?"
       answer: "<latin>SPĒLUNCA</latin>"
     boni:
-      - question: " Give a synonym for <latin>spēlunca</latin>"
+      - question: "Give a synonym for <latin>spēlunca</latin>"
         answer: "<latin>ANTRUM, CAVEA, CAVERNA, SPĒLAEUM</latin>"
       - question: "What derivative of <latin>spēlunca</latin> is an English adjective used to describe a person who explores caves?"
         answer: "SPELUNKER"

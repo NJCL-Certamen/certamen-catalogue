@@ -161,7 +161,7 @@ questions:
       question: "<latin>Audī et rēspondē Latīnē. Cōtīdiē prīmā lūce surgō. Tum coepī meōs agrōs colere. Rūrī in fundō habitō cum meā familiā. Quae occupātiō mihi est?</latin>"
       answer: "<latin>COLONUS, RUSTICUS, AGRICOLA (ES)</latin>"
     boni:
-      - question: " <latin>Cōtīdiē prīmā lūce surgō. Nōn agrōs, sed discipulōs in lūdō colō. Docendō discō. Quae occupātiō mihi est?</latin>"
+      - question: "<latin>Cōtīdiē prīmā lūce surgō. Nōn agrōs, sed discipulōs in lūdō colō. Docendō discō. Quae occupātiō mihi est?</latin>"
         answer: "<latin>MAGISTER (-TRA) / LITTERĀTOR (ES) / DOCTOR, RHETOR</latin>"
-      - question: " <latin>Cōtīdiē prīmā lūce surgō. Nec agrōs nec discipulōs sed pānem colō eīs quī edere volunt. Sine mē nōn est pānis circensibus. Quae occupātiō mihi est?</latin>"
+      - question: "<latin>Cōtīdiē prīmā lūce surgō. Nec agrōs nec discipulōs sed pānem colō eīs quī edere volunt. Sine mē nōn est pānis circensibus. Quae occupātiō mihi est?</latin>"
         answer: "<latin>PISTOR (-TRIX) (ES)</latin>"

@@ -5,12 +5,12 @@ round: "Finals"
 questions:
   - tossup:
       question: "Which two works of Tacitus were often published in a combined edition, narrating Roman history from the death of Augustus to the death of Domitian?"
-      answer: "<title>ANNALS / <latin>ANNĀLĒS</latin> / <latin>AB EXCESSŪ</latin> <latin>DĪVĪ</latin> <latin>AUGUST</latin></title>Ī <emphasis>&</emphasis> <title>HISTORIES / <latin>HISTORIAE</latin></title>"
+      answer: "<title>ANNALS / <latin>ANNĀLĒS / AB EXCESSŪ DĪVĪ AUGUST</latin></title>Ī <emphasis>&</emphasis> <title>HISTORIES / <latin>HISTORIAE</latin></title>"
     boni:
       - question: "In which of his early works does Tacitus discuss the causes of the decline of oratory?"
         answer: "<title><latin>DIALOGUS D</latin></title>Ē Ō<title><latin>RĀTŌRIBUS</latin></title>"
-      - question: " What two works did Tacitus publish in AD 98?"
-        answer: "<title><latin>GERMĀNIA</latin></title> (<title><latin>D</latin></title>Ē Ō<title><latin>RĪGINE ET SITŪ</latin> <latin>GERMĀNŌRUM</latin></title>) & <title>AGRICOLA</title> (<title><latin>DĒ</latin> <latin>VĪTĀ</latin> <latin>IŪLIĪ</latin> <latin>AGRICOLAE</latin></title>)"
+      - question: "What two works did Tacitus publish in AD 98?"
+        answer: "<title><latin>GERMĀNIA</latin></title> (<title><latin>D</latin></title>Ē Ō<title><latin>RĪGINE ET SITŪ GERMĀNŌRUM</latin></title>) & <title>AGRICOLA</title> (<title><latin>DĒ VĪTĀ IŪLIĪ AGRICOLAE</latin></title>)"
   - tossup:
       question: "What Greek goddess was the equivalent of the Roman goddess Fortuna?"
       answer: "TYCHE"
@@ -61,7 +61,7 @@ questions:
       question: "What poet’s tendency to wallow in emotion caused many Romans to be uncomfortable with his work and to dismiss his lyric poetry as valueless?"
       answer: "(C. VALERIUS) CATULLUS"
     boni:
-      - question: "  Aware that his poetry seemed frivolous, what word did Catullus use in the dedication of his <latin>libellus</latin> to describe his poetry?"
+      - question: "Aware that his poetry seemed frivolous, what word did Catullus use in the dedication of his <latin>libellus</latin> to describe his poetry?"
         answer: "<latin>NŪGAE</latin>"
       - question: "What name is given by scholars to the young poets who, like Catullus, rejected traditional forms and poetic content and searched for new styles?"
         answer: "NEOTERICS"
@@ -69,7 +69,7 @@ questions:
       question: "What Latin expression is the equivalent of “you can’t get blood from a stone?”"
       answer: "<latin>AB ASINŌ LĀNAM/EX NIHILŌ NIHIL FIT/DĒ NIHILŌ NIHIL</latin>"
     boni:
-      - question: " What is the literal meaning of <latin>ab asinō lānam</latin>?"
+      - question: "What is the literal meaning of <latin>ab asinō lānam</latin>?"
         answer: "WOOL FROM AN ASS/DONKEY"
       - question: "What Latin expression is the equivalent of “to take a bull by the horns?”"
         answer: "<latin>TENĒRE LUPUM AURIBUS</latin> (TO HOLD A WOLF BY THE EARS)"
@@ -107,7 +107,7 @@ questions:
       question: "Give all the possible future active imperative forms for the verb <latin>emō</latin>"
       answer: "<latin>EMITŌ, EMITŌTE, EMUNTŌ</latin>"
     boni:
-      - question: "  Change <latin>emitō</latin> to the passive"
+      - question: "Change <latin>emitō</latin> to the passive"
         answer: "<latin>EMITOR</latin>"
       - question: "Assuming <latin>emitor</latin> is in the 2nd person, give the corresponding present tense form"
         answer: "<latin>EMERE</latin>"
@@ -169,7 +169,7 @@ questions:
       question: "Translate the following sentence into Latin: If you should sing sweetly, we would listen"
       answer: "<latin>SĪ SUĀVITER CANTĒS / CANTĒTIS, AUDIĀMUS</latin>"
     boni:
-      - question: "  Translate the following sentence into Latin: If you had sung sweetly, we would have listened"
+      - question: "Translate the following sentence into Latin: If you had sung sweetly, we would have listened"
         answer: "<latin>SĪ SUĀVITER CANTĀ(VI)SSĒS / CANTĀ(VI)SSĒTIS, AUDĪ(VI)SSĒMUS</latin>"
       - question: "For the sentence, “Mary said that she would have sung sweetly, if we had listened.”, translate “would have sung” into Latin"
         answer: "<latin>CANTĀTŪRAM FUISSE</latin>"

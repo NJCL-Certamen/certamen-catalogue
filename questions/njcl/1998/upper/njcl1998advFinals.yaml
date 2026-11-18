@@ -57,7 +57,7 @@ questions:
     boni:
       - question: "What is the Latin title of Josephus’ account of the Jewish War against the Romans?"
         answer: "<title><latin>BELLUM JUDAICUM</latin></title>"
-      - question: " In what language was his work written before being translated into Greek?"
+      - question: "In what language was his work written before being translated into Greek?"
         answer: "ARAMAIC"
   - tossup:
       question: "Say in Latin: three-fifths"

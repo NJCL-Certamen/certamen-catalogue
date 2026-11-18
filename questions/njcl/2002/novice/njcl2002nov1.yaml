@@ -127,7 +127,7 @@ questions:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows: <latin>Nautae Rōmānī trāns Mare Nostrum nāvigābant. Subitō magna erat tempestās, quae magnīs ventīs perflābat. Tempestās nāvem dēlēvit sed nautae ad īnsulam dēsertam tūtē natāre poterant.</latin>  Why were the Roman sailors in danger?"
       answer: "THERE WAS A (BIG) <emphasis>STORM</emphasis> /"
     boni:
-      - question: "   THEIR SHIP HAD BEEN DESTROYED BY A <emphasis>STORM</emphasis>  What is the modern name for the body of water that the sailors were traveling over when this catastrophe occurred?"
+      - question: "THEIR SHIP HAD BEEN DESTROYED BY A <emphasis>STORM</emphasis>  What is the modern name for the body of water that the sailors were traveling over when this catastrophe occurred?"
         answer: "MEDITERRANEAN"
       - question: "After the storm destroyed their ship, what did the sailors do?"
         answer: "THEY <emphasis>SWAM</emphasis> SAFELY <emphasis>TO</emphasis> A DESERTED <emphasis>ISLAND</emphasis>"
@@ -167,7 +167,7 @@ questions:
       question: "Give the comparative and superlative forms for the masculine adjective <latin>brevis</latin>"
       answer: "<latin>BREVIOR, BREVISSIMUS</latin>"
     boni:
-      - question: " Give the comparative and superlative forms for the feminine adjective <latin>facilis</latin>"
+      - question: "Give the comparative and superlative forms for the feminine adjective <latin>facilis</latin>"
         answer: "<latin>FACILIOR, FACILLIMA</latin>"
-      - question: " Give the comparative and superlative forms for the adjective <latin>celere</latin>"
+      - question: "Give the comparative and superlative forms for the adjective <latin>celere</latin>"
         answer: "<latin>CELERIUS, CELERRIMUM</latin>"

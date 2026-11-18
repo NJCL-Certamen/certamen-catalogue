@@ -61,7 +61,7 @@ questions:
       question: "Give the correct form of the adjective <latin>pauper</latin> to agree with the noun form <latin>agricolārum</latin>"
       answer: "<latin>PAUPERUM</latin>"
     boni:
-      - question: " Change the phrase <latin>agricolārum pauperum</latin> to the ablative case"
+      - question: "Change the phrase <latin>agricolārum pauperum</latin> to the ablative case"
         answer: "<latin>AGRICOLĪS PAUPERIBUS</latin>"
       - question: "Change that ablative form <latin>agricolīs pauperibus</latin> to the singular"
         answer: "<latin>AGRICOLĀ PAUPERĪ</latin>"
@@ -69,7 +69,7 @@ questions:
       question: "Give a synonym of <latin>quiētus</latin>"
       answer: "<latin>TRANQUILLUS, ŌTIŌSUS, PĀCĀTUS, PLĀCĀTUS, PLACIDUS, TACITUS, TACITURNUS</latin>"
     boni:
-      - question: " . . . of <latin>sānus</latin>"
+      - question: ". . . of <latin>sānus</latin>"
         answer: "<latin>VALIDUS, FIRMUS, SALVUS</latin>"
       - question: ". . . of <latin>pecūniōsus</latin>"
         answer: "<latin>DĪVES, LOCUPLĒS, OPULĒNS, ABUNDĀNS, BEĀTUS, FORTŪNĀTUS</latin>"
@@ -133,9 +133,9 @@ questions:
       question: "Translate this sentence into Latin: A brave leader was in charge of the soldiers"
       answer: "<latin>DUX / IMPERĀTOR FORTIS MĪLITIBUS PRAEERAT/ PRAEFUIT</latin>"
     boni:
-      - question: " Translate this sentence into Latin: The consul was put in command of the legion"
+      - question: "Translate this sentence into Latin: The consul was put in command of the legion"
         answer: "<latin>CŌNSUL LEGIŌNĪ PRAEFECTUS EST / PRAEPOSITUS EST</latin>"
-      - question: " Translate this sentence into Latin: Caesar placed Labienus in command of the tenth legion"
+      - question: "Translate this sentence into Latin: Caesar placed Labienus in command of the tenth legion"
         answer: "<latin>CAESAR LABIĒNUM DECIMAE LEGIŌNĪ PRAEFĒCIT / PRAEPOSUIT</latin>"
   - tossup:
       question: "How many of the following English words, if any, ARE derived from the noun <latin>bellum</latin>? bellicose, belligerent, duel, rebel ALL ARE FROM <latin>BELLUM</latin> / FOUR (4) According to its derivation, how many people fight a “duel”?"

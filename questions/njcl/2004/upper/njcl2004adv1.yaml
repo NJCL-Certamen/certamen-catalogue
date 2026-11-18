@@ -5,10 +5,10 @@ round: "Round 1"
 questions:
   - tossup:
       question: "What Roman poet displayed his unusual ability to see things from a woman’s point of view through a series of fictitious poetic letters from deserted heroines to their faithless lovers?"
-      answer: "(PUBLIUS) OVID(IUS) NASO"
+      answer: "(P.) OVID(IUS) NASO"
     boni:
       - question: "What is the Latin title for this work?"
-        answer: "<title><latin>HĒRŌIDĒS</latin> / <latin>EPISTULAE HĒRŌIDUM</latin></title>"
+        answer: "<title><latin>HĒRŌIDĒS / EPISTULAE HĒRŌIDUM</latin></title>"
       - question: "In his <title><latin>Ars Amātōria</latin></title>, Ovid used the line <latin>“ignōtum hoc aliīs ille novāvit opus</latin>” in reference to his <title><latin>Hērōidēs</latin></title>. What claim was he making about his literary legacy?"
         answer: "HE CLAIMED THAT IT WAS AN ORIGINAL LITERARY CREATION (Note to moderator: quotation translates as “He (Ovid)"
   - tossup:
@@ -53,7 +53,7 @@ questions:
         answer: "<latin>FAMILIĀRIS / AMĀTOR / HOSPES / COMES / SOCIUS / SODĀLIS</latin>"
   - tossup:
       question: "The story of Romulus and Remus and the events of the Punic Wars can be found in the writings of what Augustan historian?"
-      answer: "(TITUS) LIVIUS / LIVY"
+      answer: "(T.) LIVIUS / LIVY"
     boni:
       - question: "Livy’s history was different from those of some of his contemporaries in that his work was annalistic. What does this mean?"
         answer: "HE TREATED EACH YEAR AS A UNIT (AS OPPOSED TO BY EPISODES / EVENTS IN HISTORY)"
@@ -99,7 +99,7 @@ questions:
         answer: "USURP"
   - tossup:
       question: "What Roman author describes and praises Trajan’s virtues as emperor in his <title><latin>Panegyricus</latin></title>?"
-      answer: "PLINY THE YOUNGER / (GAIUS PLINIUS CAECILIUS SECUNDUS)"
+      answer: "PLINY THE YOUNGER / (C. PLINIUS CAECILIUS SECUNDUS)"
     boni:
       - question: "What earlier emperor does Pliny the Younger use to contrast the virtues of Trajan?"
         answer: "DOMITIAN"
@@ -115,7 +115,7 @@ questions:
         answer: "<latin>QUĀ</latin> (e.g. “The president qua head of the party mediated the dispute.”)"
   - tossup:
       question: "Who was the first co-Augustus in Roman history because he ruled jointly with Marcus Aurelius?"
-      answer: "(LUCIUS AURELIUS COMMODUS) VERUS"
+      answer: "(L. AURELIUS COMMODUS) VERUS"
     boni:
       - question: "Verus was the equal of Aurelius in all respects except for what position?"
         answer: "PONTIFEX MAXIMUS"

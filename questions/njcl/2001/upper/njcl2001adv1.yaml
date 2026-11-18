@@ -15,18 +15,18 @@ questions:
       question: "You are in ancient Rome talking to a friend about the December weather when you comment <latin>“Hīc Rōmae numquam ningit</latin>.” What are you telling your friend?"
       answer: "THAT IT <emphasis>NEVER SNOWS</emphasis> IN <emphasis>ROME / HERE</emphasis>"
     boni:
-      - question: " Your friend, who is from Gaul, then says to you “<latin>Illīc nihil habēmus praeter nivem et glaciem</latin>.” What is he telling you?"
+      - question: "Your friend, who is from Gaul, then says to you “<latin>Illīc nihil habēmus praeter nivem et glaciem</latin>.” What is he telling you?"
         answer: "THAT WE / THEY <emphasis>HAVE NOTHING</emphasis> BUT <emphasis>SNOW</emphasis> AND <emphasis>ICE</emphasis> IN <emphasis>GAUL / THERE</emphasis>"
       - question: "After asking your friend what they do in Gaul with all the snow and ice, he says “<latin>Pilās niveās inter nōs conicimus</latin>.” What does this tell you they do during the winter?"
         answer: "WE / THEY <emphasis>THROW SNOWBALLS AT EACH OTHER</emphasis> / HAVE SNOWBALL FIGHTS"
   - tossup:
       question: "Which of the emperors of AD 69 adopted L. Calpurnius Piso Licinianus as his heir and co-regent?"
-      answer: "(SERVIUS SULPICIUS) GALBA"
+      answer: "(SER. SULPICIUS) GALBA"
     boni:
       - question: "What governor of Lusitania, angered because he was not Galba’s choice, bribed the Praetorians to murder Galba and Piso and proclaim him emperor?"
         answer: "(M. SALVIUS) OTHO"
       - question: "Whom had the legions on the Rhine already declared as emperor?"
-        answer: "(AULUS) VITELLIUS"
+        answer: "(A.) VITELLIUS"
   - tossup:
       question: "Change the verb <latin>mitterēminī</latin> to the singular"
       answer: "<latin>MITTERĒRIS / -RE</latin>"
@@ -47,18 +47,18 @@ questions:
       question: "When Orpheus went to the Underworld to retrieve his wife Eurydice, what physical response did he elicit from the Furies with his music?"
       answer: "CRY / WEEP / <emphasis>TEARS</emphasis>"
     boni:
-      - question: " Who had amorously pursued Eurydice, causing her death?"
+      - question: "Who had amorously pursued Eurydice, causing her death?"
         answer: "ARISTAEUS"
       - question: "Orpheus was eventually killed by the Maenads and his body was torn apart. What river carried the severed head of Orpheus to the island of Lesbos?"
         answer: "HEBRUS"
   - tossup:
       question: "To whom had the Senate voted the sacrosanctity of a tribune, but murdered in a meeting on the Ides of March, 44 BC?"
-      answer: "(C.) IULIUS CAESAR / JULIUS CAESAR "
+      answer: "(C. JULIUS) CAESAR"
     boni:
       - question: "Whose statue is immediately behind Caesar?"
         answer: "POMPEY (THE GREAT) / POMPEIUS MAGNUS"
       - question: "In what part of the Theater of Pompey did this scene occur?"
-        answer: "<latin>PORTICO/ EXEDRA / CURIA / PORTICUS / PORCH</latin>"
+        answer: "PORTICO / <latin>EXEDRA / CURIA / PORTICUS / PORCH</latin>"
   - tossup:
       question: "<latin>Quid Anglicē significat adverbium “forte</latin>”?"
       answer: "BY CHANCE, ACCIDENTALLY, CASUALLY"
@@ -67,14 +67,16 @@ questions:
         answer: "OPENLY, PUBLICLY, IN PRESENCE OF"
       - question: "<latin>Quid Anglicē significat “sponte meā</latin>”?"
         answer: "OF MY OWN WILL, AS I WISH, ON MY OWN ACCORD"
+    communityNotes:
+      - "This tossup is phrased appallingly and should not be imitated. My understanding is that multiple rooms all buzzed and said \"adverb\""
   - tossup:
-      question: "Whose first historical work depicts Britain as the “theater of operations” in which the <title><latin>virtus</latin></title> of his father-in-law Agricola is revealed?"
-      answer: "(P. or C. CORNELIUS) TACITUS’"
+      question: "Whose first historical work depicts Britain as the “theater of operations” in which the <latin>virtus</latin> of his father-in-law Agricola is revealed?"
+      answer: "(P. / C. CORNELIUS) TACITUS’"
     boni:
       - question: "Give the Latin title for the work of Tacitus which contains various descriptions of foreign tribes along the Rhine"
-        answer: "<title><latin>GERMANIA</latin> / <latin>DE ORIGINE ET SITU GERMANORUM</latin></title> A"
-      - question: "large part of Tacitus’ <title><latin>Germania</latin></title> was probably based on what author’s <title><latin>Bella Germaniae</latin></title>?"
-        answer: "PLINY THE ELDER"
+        answer: "<title><latin>GERMANIA / DE ORIGINE ET SITU GERMANORUM</latin></title>"
+      - question: "A large part of Tacitus’ <title><latin>Germania</latin></title> was probably based on what author’s <title><latin>Bella Germaniae</latin></title>?"
+        answer: "PLINY THE ELDER'S"
   - tossup:
       question: "What derivative of the Latin verb <latin>patior, patī</latin> means “able to exist together in harmony?”"
       answer: "COMPATIBLE"
@@ -87,9 +89,9 @@ questions:
       question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Annō urbis conditae sescentēsimō sexāgēsimō sextō bellum cīvīle Rōmae exortum est; eōdem annō etiam bellum Mithridāticum. Nam cum Sullae bellum adversus Mithridātem, rēgem Pontī, dēcrētum esset, Marius eī hunc honōrem ēripere cōnātus est.</latin>  What war arose in the same year as the civil war at Rome?"
       answer: "MITHRIDATIC / WAR WITH MITHRIDATES"
     boni:
-      - question: "In what year A"
-        answer: "U. C."
-      - question: "did the civil war arise? 666 What did Marius try to do?"
+      - question: "In what year AUC did the civil war arise?"
+        answer: "666"
+      - question: "What did Marius try to do?"
         answer: "HE TRIED TO DEPRIVE SULLA OF THE HONOR (OF FIGHTING THE MITHRIDATIC WAR)"
   - tossup:
       question: "What Athenian hero captured the Marathonian Bull?"
@@ -101,12 +103,12 @@ questions:
         answer: "APOLLO"
   - tossup:
       question: "What son of Ocrisia, a captive of war, became the sixth king of Rome?"
-      answer: "<latin>SERVIUS TULLIUS</latin>"
+      answer: "SERVIUS TULLIUS"
     boni:
-      - question: " Whose powers of divination had enabled her to foresee his greatness and raise Servius as the king’s son?"
-        answer: "<latin>TANAQUIL (WIFE OF TARQUINIUS PRISCUS)</latin>"
+      - question: "Whose powers of divination had enabled her to foresee his greatness and raise Servius as the king’s son?"
+        answer: "TANAQUIL (WIFE OF TARQUINIUS PRISCUS)"
       - question: "Who, fearful of Servius’ popularity in the royal household, assassinated Tarquinius Priscus?"
-        answer: "<latin>SONS OF ANCUS MARTIUS/MARCIUS</latin>"
+        answer: "SONS OF ANCUS MARTIUS / MARCIUS"
   - tossup:
       question: "According to Ovid, what couple was transformed into a pair of lions?"
       answer: "ATALANTA & HIPPOMENES (<emphasis>MELANION is not acceptable because of author specification</emphasis>)"
@@ -117,17 +119,17 @@ questions:
         answer: "PARTHENOPAEUS"
   - tossup:
       question: "Who is the author of the earliest Latin prose text that has come down to us in its entirety?"
-      answer: "(M. PORCIUS) CATO MAIOR / THE ELDER / CENSOR"
+      answer: "(M. PORCIUS) CATO MAIOR / THE ELDER / THE CENSOR"
     boni:
       - question: "What is the Latin title of this work?"
-        answer: "<title><latin>DĒ</latin> <latin>AGRĪ</latin> <latin>CULTŪR</latin></title>Ā <latin>/ DĒ RĒ RŪSTICĀ</latin>"
+        answer: "<title><latin>DĒ AGRĪ CULTŪRĀ / DĒ RĒ RŪSTICĀ</latin></title>"
       - question: "Which of Cato’s works was the beginning of historiography in Latin?"
-        answer: "Ō<title><latin>RĪGINĒS</latin> / ORIGINS</title>"
+        answer: "<title><latin>ŌRĪGINĒS</latin> / ORIGINS</title>"
   - tossup:
       question: "What form of the proper noun <latin>Iuppiter</latin> agrees with <latin>magnō</latin>?"
-      answer: "<latin>IOVĪ</latin>"
+      answer: "<latin>IOVĪ / IOVE</latin>"
     boni:
-      - question: "or <latin>IOVE</latin> What form of the proper noun <latin>Venus</latin> agrees with <latin>pulchram</latin>?"
+      - question: "What form of the proper noun <latin>Venus</latin> agrees with <latin>pulchram</latin>?"
         answer: "<latin>VENEREM</latin>"
       - question: "What form of the proper noun <latin>Cupīdō</latin> agrees with <latin>bellī</latin>?"
         answer: "<latin>CUPĪDINIS / CUPĪDINĒS</latin>"
@@ -143,13 +145,13 @@ questions:
       question: "What use of the ablative case is found in the following Latin sentence: <latin>Plūrēs fāme quam vulneribus mortuī sunt</latin>"
       answer: "CAUSE"
     boni:
-      - question: "<latin>Hoc opus maximā difficiltāte perfectum est</latin>"
+      - question: "What use of the ablative case is found in the following Latin sentence: <latin>Hoc opus maximā difficiltāte perfectum est</latin>"
         answer: "MANNER"
-      - question: "<latin>Imperātor rēgna pecūniā vēndidit</latin>"
+      - question: "What use of the ablative case is found in the following Latin sentence: <latin>Imperātor rēgna pecūniā vēndidit</latin>"
         answer: "(SPECIFIC / DEFINITE) PRICE"
   - tossup:
       question: "What shy, young man attracted the attention of Maecenas with the publication of his <title><latin>Būcolica</latin></title>?"
-      answer: "(P.) <emphasis>VERGIL</emphasis>IUS (MARO)"
+      answer: "(P.) VERGIL(IUS MARO)"
     boni:
       - question: "What Greek poet was Vergil imitating when he composed the <title><latin>Būcolica</latin></title>?"
         answer: "THEOCRITUS"
@@ -159,7 +161,7 @@ questions:
       question: "Translate the following sentence into English: <latin>Frūmentum semper magnō auxiliō cīvibus est</latin>"
       answer: "GRAIN IS ALWAYS A GREAT HELP TO THE CITIZENS"
     boni:
-      - question: "<latin>Cum cīvēs multum frūmentī edant, tamen plūs cibī semper rogant</latin>"
+      - question: "Translate the following sentence into English: <latin>Cum cīvēs multum frūmentī edant, tamen plūs cibī semper rogant</latin>"
         answer: "ALTHOUGH THE CITIZENS EAT MUCH GRAIN, NEVERTHELESS THEY ALWAYS ASK FOR MORE FOOD"
-      - question: "<latin>Imperātor spērāvit frūmentum magnō ūsuī fuisse</latin>"
+      - question: "Translate the following sentence into English: <latin>Imperātor spērāvit frūmentum magnō ūsuī fuisse</latin>"
         answer: "THE EMPEROR HOPED THAT THE GRAIN HAD BEEN OF GREAT USE"

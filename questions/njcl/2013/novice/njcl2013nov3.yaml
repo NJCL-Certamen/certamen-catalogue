@@ -39,9 +39,9 @@ questions:
       question: "<latin>Quid Mārcus maximē timēbat?</latin>"
       answer: "<latin>ĪRAM (MĀTRIS) / MĀTREM</latin>"
     boni:
-      - question: " <latin>Cūr Mārcus īre ad Circum nōn vult?</latin>"
+      - question: "<latin>Cūr Mārcus īre ad Circum nōn vult?</latin>"
         answer: "<latin>EQUŌS TIMET / TIMŌREM EQUŌRUM HABET</latin> "
-      - question: " <latin>Quid amīcus Mārcī ad flumēn facere volēbat?</latin>"
+      - question: "<latin>Quid amīcus Mārcī ad flumēn facere volēbat?</latin>"
         answer: "<latin>NATĀRE (AMĪCUS VOLĒBAT)</latin> "
   - tossup:
       question: "In what region of ancient Italy would you find Rome?"
@@ -149,7 +149,7 @@ questions:
         answer: "APHRODITE"
   - tossup:
       question: "Who became emperor of Rome after the previous emperor was strangled by his wrestling partner Narcissus on December 31, 192 AD?"
-      answer: "(MARCUS HELVIUS) PERTINAX"
+      answer: "(M. HELVIUS) PERTINAX"
     boni:
       - question: "Pertinax was the only contender in 193 AD whose reign was legitimized by what eventual sole emperor who ruled from 193 AD until his death in 211 AD?"
         answer: "SEPTIMIUS SEVERUS"

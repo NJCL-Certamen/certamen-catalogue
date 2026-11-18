@@ -107,7 +107,7 @@ questions:
         answer: "CHARICLO"
   - tossup:
       question: "What elegiac poet was obsessively devoted to a lady whom he called Cynthia?"
-      answer: "(SEXTUS) PROPERTIUS"
+      answer: "(SEX.) PROPERTIUS"
     boni:
       - question: "According to Apuleius, what was the real name of Cynthia?"
         answer: "HOSTIA"
@@ -125,7 +125,7 @@ questions:
       question: "<latin>Quibus partibus suī corporis ūtitur avis ut volet?</latin> "
       answer: "<latin>ALĪS (AXILLĪS) / PENNĪS (PINNĪS)</latin>"
     boni:
-      - question: " <latin>Quā parte suī corporis ūtitur avis ut edat?</latin>"
+      - question: "<latin>Quā parte suī corporis ūtitur avis ut edat?</latin>"
         answer: "<latin>RŌSTRŌ / LINGUĀ</latin>"
       - question: "<latin>Quid struit avis ubi vīvat?</latin>"
         answer: "<latin>NĪDUM</latin>"
@@ -159,5 +159,5 @@ questions:
     boni:
       - question: "Examine the following line of verse and tell me where the caesura occurs: <latin>“Vēnimus aut raptās ad lītora vertere praedās”</latin>"
         answer: "BETWEEN <latin>RAPTĀS</latin> AND <latin>AD</latin>"
-      - question: " Disregarding the last foot, how many spondees do you find in this line: <latin>“Crīmine quō meruī iuvenis placidissime dīvum”</latin>?"
+      - question: "Disregarding the last foot, how many spondees do you find in this line: <latin>“Crīmine quō meruī iuvenis placidissime dīvum”</latin>?"
         answer: "NONE"

@@ -5,7 +5,7 @@ round: "Round 2"
 questions:
   - tossup:
       question: "What Roman historian added twenty-two books to his history of Rome in the last three years of his life?"
-      answer: "LIVY (TITUS LIVIUS)"
+      answer: "LIVY (T. LIVIUS)"
     boni:
       - question: "How many books were there in Livy’s <title><latin>Ab Urbe Conditā</latin></title>?"
         answer: "142"
@@ -32,7 +32,7 @@ questions:
       answer: "CONSTANTIUS I / CHLORUS"
     boni:
       - question: "What traitorous admiral had taken control of Britain and part of northern Gaul?"
-        answer: "(MARCUS AURELIUS) CARAUSIUS"
+        answer: "(M. AURELIUS) CARAUSIUS"
       - question: "Who assassinated Carausius only to be defeated by Constantius Chlorus?"
         answer: "ALLECTUS"
   - tossup:
@@ -141,7 +141,7 @@ questions:
         answer: "<latin>DâCENDUS / -A / -UM</latin> "
   - tossup:
       question: "With whom did Augustus share the <latin>tribūnicia potestās</latin> and thereby indicate as his successor in 18 BC?"
-      answer: "(MARCUS VIPSANIUS) AGRIPPA"
+      answer: "(M. VIPSANIUS) AGRIPPA"
     boni:
       - question: "Whom had Agrippa married in 21 BC?"
         answer: "(AUGUSTUS’ DAUGHTER) JULIA (MAIOR / ELDER)"

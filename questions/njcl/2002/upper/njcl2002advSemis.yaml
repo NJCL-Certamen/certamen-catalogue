@@ -15,7 +15,7 @@ questions:
       question: "Translate the verb in this sentence into Latin: If only I hadn’t spoken those words"
       answer: "<latin>DĪXISSEM / LOCŪTUS (-A) ESSEM</latin>"
     boni:
-      - question: " Translate the verb in this sentence into Latin: Would that you were king"
+      - question: "Translate the verb in this sentence into Latin: Would that you were king"
         answer: "<latin>ESSĒS</latin>"
       - question: "Translate the verb in this sentence into Latin: If only we hadn’t sneezed"
         answer: "<latin>STERNUISSĒMUS</latin>"
@@ -83,12 +83,12 @@ questions:
         answer: "PHILLIP V"
   - tossup:
       question: "You now have 15 seconds to examine the passages on your own. Please identify the author of passage B"
-      answer: "(PUBLIUS) OVID(IUS NASO)"
+      answer: "(P.) OVID(IUS NASO)"
     boni:
       - question: "passage D"
         answer: "VITRUVIUS (POLLIO)"
       - question: "passage E"
-        answer: "(LUCIUS ANNAEUS) SENECA THE <emphasis>YOUNGER</emphasis>"
+        answer: "(L. ANNAEUS) SENECA THE <emphasis>YOUNGER</emphasis>"
   - tossup:
       question: "What use of the dative case can be found in the following sentence: <latin>mihi hunc errōrem extorquērī volō</latin>?"
       answer: "SEPARATION"
@@ -107,7 +107,7 @@ questions:
         answer: "SYCHAEUS / SICARBAS"
   - tossup:
       question: "Who was Tiberius’ grandson whom Caligula adopted early in his reign and later beheaded?"
-      answer: "(TIBERIUS) GEMELLUS"
+      answer: "(TI.) GEMELLUS"
     boni:
       - question: "Which of his praetorian prefects did Caligula execute in A"
         answer: "D."
@@ -127,11 +127,11 @@ questions:
         answer: "BECAUSE CAESAR WANTED TO BE THE ONLY PERSON TO HAVE A CUP OF THIS KIND"
   - tossup:
       question: "Whose 6-book work was the first serious work of didactic poetry in the world of Latin literature?"
-      answer: "(TITUS) LUCRETIUS (CARUS)"
+      answer: "(T.) LUCRETIUS (CARUS)"
     boni:
-      - question: "To whom was Lucretius’ <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā dedicated?"
+      - question: "To whom was Lucretius’ <title><latin>Dē Rērum Natūr</latin></title>ā dedicated?"
         answer: "(C.) MEMMIUS"
-      - question: "Who mentions in a biography that Lucretius’ <title><latin>Dē</latin> <latin>Rērum Natūr</latin></title>ā was edited, after his death, by Cicero?"
+      - question: "Who mentions in a biography that Lucretius’ <title><latin>Dē Rērum Natūr</latin></title>ā was edited, after his death, by Cicero?"
         answer: "JEROME"
   - tossup:
       question: "Of what great exploit were the following members: Castor, Pollux, Jason, Theseus, Peleus, and Atalanta?"
@@ -157,9 +157,9 @@ questions:
         answer: "GAPE, SPLIT, CRACK, FALL APART"
   - tossup:
       question: "What is the Latin title of Cicero’s earliest extant speech?"
-      answer: "<title><latin>PRŌ</latin> <latin>QUĪNCTI</latin></title>Ō"
+      answer: "<title><latin>PRŌ QUĪNCTI</latin></title>Ō"
     boni:
       - question: "In which of his speeches did Cicero offend Chrysogonus, a powerful freedman of Sulla?"
-        answer: "<title><latin>PRŌ</latin> <latin>(SEXTŌ) ROSCIŌ</latin> <latin>AMERĪN</latin></title>Ō"
-      - question: "<emphasis>or</emphasis> <title><latin>PRŌ</latin> <latin>SEXTŌ</latin> <latin>ROSCI</latin></title>Ō (OR any English translation of those answers) In which of his speeches did Cicero attack Clodia, the sister of his bitter enemy Clodius?"
-        answer: "<title><latin>PRŌ</latin> <latin>CAELI</latin></title>Ō"
+        answer: "<title><latin>PRŌ (SEXTŌ) ROSCIŌ AMERĪN</latin></title>Ō"
+      - question: "<emphasis>or</emphasis> <title><latin>PRŌ SEXTŌ ROSCI</latin></title>Ō (OR any English translation of those answers) In which of his speeches did Cicero attack Clodia, the sister of his bitter enemy Clodius?"
+        answer: "<title><latin>PRŌ CAELI</latin></title>Ō"

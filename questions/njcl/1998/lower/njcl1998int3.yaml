@@ -143,9 +143,9 @@ questions:
       question: "Give a synonym of <latin>dīvēs</latin>"
       answer: "<latin>LOCUPLĒS, CŌPIŌSUS, OPULENS, OPULENTUS ABUNDĀNS, SUMPTUŌSUS, PRETIŌSUS, PECUNIŌSUS</latin>"
     boni:
-      - question: " Give a synonym of <latin>tenuis</latin>"
+      - question: "Give a synonym of <latin>tenuis</latin>"
         answer: "<latin>GRACILIS, MACER, BREVIS, VADŌSUS, PUSILLUS, ANGUSTUS</latin>"
-      - question: " Give a synonym of <latin>ēloquens</latin>"
+      - question: "Give a synonym of <latin>ēloquens</latin>"
         answer: "<latin>FĀCUNDUS, DISERTUS</latin>"
   - tossup:
       question: "Into what kind of birds were the daughters of Pierus transformed?"

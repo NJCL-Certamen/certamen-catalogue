@@ -5,7 +5,7 @@ round: "Round 1"
 questions:
   - tossup:
       question: "What author in the sixth book of his masterpiece made an allusion to the death of Marcellus, the nephew of Augustus?"
-      answer: "(PUBLIUS) VERGIL(IUS MARO)"
+      answer: "(P.) VERGIL(IUS MARO)"
     boni:
       - question: "Who fainted when Vergil read this passage from the <title>Aeneid</title> to members of the imperial family?"
         answer: "(MARCELLUS’ MOTHER) OCTAVIA"
@@ -79,9 +79,9 @@ questions:
       question: "Which of Julius Caesar’s literary works covers the years 49 and 48 BC?"
       answer: "<title><latin>COMMENTARII DĒ BELLŌ CIVILĪ</latin></title>"
     boni:
-      - question: " In which of Caesar’s works does he discuss his military campaigns from 58 to 52 BC?"
+      - question: "In which of Caesar’s works does he discuss his military campaigns from 58 to 52 BC?"
         answer: "<title><latin>COMMENTARII DĒ BELLŌ GALLICŌ</latin></title>"
-      - question: " Who wrote an eighth book as a continuation of Caesar’s <title><latin>Dē</latin> <latin>Bellō</latin> <latin>Gallic</latin></title>ō?"
+      - question: "Who wrote an eighth book as a continuation of Caesar’s <title><latin>Dē Bellō Gallic</latin></title>ō?"
         answer: "(A.) HIRTIUS"
   - tossup:
       question: "According to one account, what deity was the owner of the <title>caduceus</title> before he gave it to Hermes?"
@@ -129,7 +129,7 @@ questions:
     boni:
       - question: "<latin>Quod nōmen est domuī apium?</latin>"
         answer: "<latin>ALVUS (-Ō) / ALVEUS (-Ō) / ALVEĀRIUM (-Ō) PRAESAEPE (-Ī) / PRAESIPIA (-AE)</latin>"
-      - question: " <latin>Quam māteriam faciunt apēs in quā mel pōsitum est?</latin>"
+      - question: "<latin>Quam māteriam faciunt apēs in quā mel pōsitum est?</latin>"
         answer: "<latin>CĒRAM / CĒRĀS</latin>"
   - tossup:
       question: "Which of the first century AD Roman emperors halted territorial expansion and expressly directed his successors to keep the empire within the borders which he had set?"

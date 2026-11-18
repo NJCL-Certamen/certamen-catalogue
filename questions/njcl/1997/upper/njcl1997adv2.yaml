@@ -13,7 +13,7 @@ questions:
         answer: "POSEIDON"
   - tossup:
       question: "What Latin poet served as <latin>tribūnus mīlitum</latin> under Brutus and was the author of a work entitled <title><latin>Ars Poetica</latin></title>?"
-      answer: "HORACE (QUINTUS HORATIUS FLACCUS)"
+      answer: "HORACE (Q. HORATIUS FLACCUS)"
     boni:
       - question: "For five points each, name the two Latin poets who introduced Horace to Octavian’s adviser Maecenas"
         answer: "(P.) VERGIL(IUS MARO) / VARIUS RUFUS"
@@ -157,7 +157,7 @@ questions:
       question: "For the verb <latin>amplector</latin>, give the second person plural, pluperfect, subjunctive"
       answer: "<latin>AMPLEXĪ/-AE/-A ESSĒTIS</latin>"
     boni:
-      - question: " Change <latin>amplexī essētis</latin> to perfect"
+      - question: "Change <latin>amplexī essētis</latin> to perfect"
         answer: "<latin>AMPLEXĪ/-AE/-A SĪTIS</latin>"
       - question: "Change <latin>amplexī sītis</latin> to imperfect"
         answer: "<latin>AMPLECTERĒMINĪ</latin>"

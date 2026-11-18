@@ -31,9 +31,9 @@ questions:
       question: "Give a synonym of <latin>miser</latin>"
       answer: "<latin>INFĒLĪX, AEGER, DOLORŌSUS, TRĪSTIS, MAESTUS, PULLUS</latin>"
     boni:
-      - question: " Give a synonym of <latin>fortis</latin>"
+      - question: "Give a synonym of <latin>fortis</latin>"
         answer: "<latin>FIRMUS, VALIDUS, RŌBUSTUS DŪRUS, POTENS, AUDĀX</latin>"
-      - question: " Give an antonym of <latin>albus</latin>"
+      - question: "Give an antonym of <latin>albus</latin>"
         answer: "<latin>ĀTER, NIGER, PULLUS, FUSCUS, OBSCŪRUS</latin>"
   - tossup:
       question: "According to its Latin root, who are the primary members of a “senate”?"

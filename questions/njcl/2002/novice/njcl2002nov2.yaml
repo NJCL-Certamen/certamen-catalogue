@@ -39,7 +39,7 @@ questions:
       question: "For what occasion would a Roman father hang a <latin>bulla</latin> around his child’s neck?"
       answer: "<latin>SUSCEPTIŌ / DIĒS LŪSTRICUS / DIĒS NŌMINUM /</latin>"
     boni:
-      - question: "  <latin>NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
+      - question: "<latin>NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
         answer: "<latin>FASCINĀTIŌ</latin>"
       - question: "What is the Latin term for the toys and ornaments strung together worn by infants?"
         answer: "<latin>CREPUNDIA</latin>"
@@ -98,7 +98,7 @@ questions:
       - question: "At what battle did Scipio, later named Africanus, save his father’s life?"
         answer: "TICINUS RIVER"
       - question: "Who was the elder Scipio’s consular colleague and co-commander at the loss of Trebia in 218 BC?"
-        answer: "(TIBERIUS) SEMPRONIUS LONGUS"
+        answer: "(TI.) SEMPRONIUS LONGUS"
   - tossup:
       question: "What was the name of the fiery river in the Underworld?"
       answer: "(PYRO) PHLEGETHON"
@@ -113,7 +113,7 @@ questions:
     boni:
       - question: "Translate into Latin: We will arrive in three days"
         answer: "<latin>TRIBUS DIĒBUS ADVENIĒMUS / PERVENIĒMUS</latin>"
-      - question: " Translate into Latin: They arrived on the fourth day"
+      - question: "Translate into Latin: They arrived on the fourth day"
         answer: "<latin>QUARTŌ DIĒ ADVĒNĒRUNT / PERVĒNĒRUNT</latin>"
   - tossup:
       question: "A tombstone for a certain Scaterius Celer begins “<latin>Nihil sumus et fuimus</latin>”. Translate that into English"

@@ -5,7 +5,7 @@ round: "Round 2"
 questions:
   - tossup:
       question: "Who innovated the genre of historical epic poetry by conceiving each book of his <title><latin>Annālēs</latin></title> as a single unit within an overall narrative?"
-      answer: "(QUINTUS) ENNIUS"
+      answer: "(Q.) ENNIUS"
     boni:
       - question: "What other innovation did Ennius make to the genre of Roman historical epic poetry?"
         answer: "USING DACTYLIC HEXAMETER / CONTINOUS NARRATIVE"
@@ -121,7 +121,7 @@ questions:
     boni:
       - question: "What literary device, excluding any forms of alliteration, is demonstrated in the following line: <latin>clāmōrēs simul horrendōs ad sīdera tollit</latin>?"
         answer: "HYPERBOLE"
-      - question: "  What literary device, excluding any forms of alliteration, is demonstrated in the following lines: <latin>sub pedibusque deae clipeīque sub orbe</latin>?"
+      - question: "What literary device, excluding any forms of alliteration, is demonstrated in the following lines: <latin>sub pedibusque deae clipeīque sub orbe</latin>?"
         answer: "CHIASMUS"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “vīvāmus, mea Lesbia, atque amēmus.” Cuius coniugātiōnis est “amēmus”?</latin>"
@@ -133,7 +133,7 @@ questions:
         answer: "PRAESENTIS"
   - tossup:
       question: "Whose poetic genius and his affinity for expressions of intense emotions can be found in his poems addressed to a certain lady named Cynthia?"
-      answer: "(SEXTUS) PROPERTIUS"
+      answer: "(SEX.) PROPERTIUS"
     boni:
       - question: "With what member of Messalla Corvinus’ literary circle did Propertius have close ties?"
         answer: "(P.) OVID(IUS NASO) A"
@@ -145,7 +145,7 @@ questions:
     boni:
       - question: ". . . Say in Latin “Would that I had gone to sleep yesterday!” using a supine"
         answer: "<latin>UTINAM HERĪ DORMĪTUM Ī(V)ISSEM / ĪSSEM</latin>"
-      - question: " . . . Say in Latin “Would that I were not saying these things!”"
+      - question: ". . . Say in Latin “Would that I were not saying these things!”"
         answer: "<latin>UTINAM NĒ / NŌN HAEC DĪCEREM</latin>"
   - tossup:
       question: "What king of Thebes was such a fantastic musician that rocks were charmed to move on their own accord?"

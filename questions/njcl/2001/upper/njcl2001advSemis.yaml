@@ -21,12 +21,12 @@ questions:
         answer: "NECKLACE OF HARMONIA"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Quis fallere possit amantem”. Cuius numerī est “amantem”?</latin>"
-      answer: "SINGULĀRIS"
+      answer: "<latin>SINGULĀRIS</latin>"
     boni:
-      - question: "“Possit”, cuius modī <latin>est?</latin>"
-        answer: "SUBIUNCTĪVĪ <latin>/ CONIUNCTĪVĪ</latin>"
+      - question: "<latin>“Possit”, cuius modī est?</latin>"
+        answer: "<latin>SUBIUNCTĪVĪ / CONIUNCTĪVĪ</latin>"
       - question: "<latin>“Quis”, dīc cāsum datīvum plūrālem</latin>"
-        answer: "QUIBUS"
+        answer: "<latin>QUIBUS</latin>"
   - tossup:
       question: "What late-Latin author was called the “Christian Juvenal” because of his satirical presentations of both Christian and pagan daily life?"
       answer: "TERTULLIAN"
@@ -39,9 +39,9 @@ questions:
       question: "What is the diminutive form of the noun <latin>fīlia</latin>?"
       answer: "<latin>FĪLIOLA</latin>"
     boni:
-      - question: ". . . of <latin>mūnus</latin>?"
+      - question: "What is the diminutive form of <latin>mūnus</latin>?"
         answer: "<latin>MŪNUSCULUM</latin>"
-      - question: ". . . of <latin>auris</latin>?"
+      - question: "What is the diminutive form of <latin>auris</latin>?"
         answer: "<latin>AURĪCULA</latin>"
   - tossup:
       question: "Please open your visual and study it for 10 seconds. What deity is being worshiped in this scene?"
@@ -84,26 +84,24 @@ questions:
       - question: "Give one of the other reasons Cicero gives as to why old age seems wretched"
         answer: "IT PREVENTS AN OLD MAN FROM DOING THINGS IT SNATCHES AN OLD MAN FROM NEARLY ALL DESIRES"
   - tossup:
-      question: "Who was the half-sister of the emperor Honorius who was taken hostage by Alaric after his sack of Rome in A"
-      answer: "D."
+      question: "Who was the half-sister of the emperor Honorius who was taken hostage by Alaric after his sack of Rome in AD 410?"
+      answer: "(GALLA) PLACIDIA"
     boni:
-      - question: "Name her son who became the western emperor in A"
-        answer: "D."
-      - question: "425?"
+      - question: "Name her son who became the western emperor in AD 425?"
         answer: "VALENTINIAN III"
       - question: "Placidia ruled in her son’s name until she was forced to the sidelines by whom?"
-        answer: "AETIUS"
+        answer: "(FLAVIUS) AETIUS"
   - tossup:
       question: "Give a Latin antonym for the verb <latin>profiteor</latin>?"
       answer: "<latin>NEGŌ, ABNUŌ, INFITEOR</latin>"
     boni:
       - question: "Give a Latin antonym for the verb <latin>noceō</latin>?"
-        answer: "(<latin>AD</latin>-)<latin>IUVŌ, SUBVENIŌ, SUCCURRŌ</latin>"
-      - question: "Give a Latin antonym for the verb <latin>sin ō</latin>?"
+        answer: "<latin>(AD)IUVŌ, SUBVENIŌ, SUCCURRŌ</latin>"
+      - question: "Give a Latin antonym for the verb <latin>sinō</latin>?"
         answer: "<latin>VETŌ, INTERDĪCŌ, PROHIBEŌ, NEGŌ</latin>"
   - tossup:
       question: "Which of the comedies of Terence was his biggest hit with the public and his greatest commercial success?"
-      answer: "<title><latin>EUNYCHUS</latin> / “THE EUNUCH</title><emphasis><title>”</title></emphasis>"
+      answer: "<title><latin>EUNYCHUS</latin> / “THE EUNUCH</title>”"
     boni:
       - question: "Which of Terence’s comedies was produced successfully only after two failures?"
         answer: "<title><latin>HECYRA</latin> / “MOTHER IN LAW</title>”"
@@ -111,7 +109,7 @@ questions:
         answer: "<title><latin>ANDRIA</latin> / “WOMAN OF ANDROS”</title>"
   - tossup:
       question: "Translate the following sentence into English: <latin>fruor legendō</latin>"
-      answer: "I ENJOY/ DELIGHT IN READING / COLLECTING / GATHERING / CHOOSING"
+      answer: "I ENJOY / DELIGHT IN READING / COLLECTING / GATHERING / CHOOSING"
     boni:
       - question: "<latin>Aqua illa idōnea bibendō est</latin>"
         answer: "THAT WATER IS SUITABLE FOR DRINKING"
@@ -126,7 +124,7 @@ questions:
       - question: "What had Aeneas instructed his men to do in case the camp was attacked?"
         answer: "NOT TO ENGAGE IN BATTLE / TO STAY BEHIND THE WALLS TO HOLD THE CAMP"
   - tossup:
-      question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid</title>: <latin>“Iuppiter omnipotēns, precibus sī flecteris ūllīs, aspice nōs, hoc tantum, et sī pietāte merēmur, dā deinde augurium, pater, atque haec ōmina firmā.”</latin> "
+      question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid</title>: <latin>“Iuppiter omnipotēns, precibus sī flecteris ūllīs, aspice nōs, hoc tantum, et sī pietāte merēmur, dā deinde augurium, pater, atque haec ōmina firmā.”</latin>"
       answer: "ANCHISES (Book II, 689-691)"
     boni:
       - question: "Who is the speaker of the following lines from Vergil’s <title>Aeneid</title>: <latin>“. . . tuus, Ō rēgīna, quid optēs explōrāre labor; mihi iussa capessere fās est.”</latin>"
@@ -164,4 +162,4 @@ questions:
       - question: ". . . of “estuary.”"
         answer: "<latin>AESTUS</latin> - TIDE, HEAT, FIRE, SURGE, PASSION"
       - question: "Give the Latin verb and its meaning which is at the root of “esteem.”"
-        answer: "<latin>AESTIMŌ/AESTIMĀRE</latin>"
+        answer: "<latin>AESTIMŌ / AESTIMĀRE</latin>"

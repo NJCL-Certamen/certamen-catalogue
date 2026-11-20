@@ -24,9 +24,9 @@ questions:
       answer: "<latin>DIGNUS</latin> - WORTHY OF, DESERVING, FITTING, SUITABLE, BECOMING, PROPER"
     boni:
       - question: "Give the Latin verb and its meaning which is at the root of “discrete,” “secretary,” and “discern.”"
-        answer: "<latin>CERNŌ/ CERNERE</latin> - PERCEIVE, DECIDE, SIFT, SEPARATE, UNDERSTAND, DETERMINE, DISCERN"
+        answer: "<latin>CERNŌ / CERNERE</latin> - PERCEIVE, DECIDE, SIFT, SEPARATE, UNDERSTAND, DETERMINE, DISCERN"
       - question: "Give the Latin verb and its meaning which is at the root of “fairy,” “nefarious,” and “affable.”"
-        answer: "<latin>FOR/FĀRĪ</latin>"
+        answer: "<latin>FOR / FĀRĪ</latin>"
   - tossup:
       question: "Which of Ovid’s works did he consider to be the first of a new literary genre?"
       answer: "<title><latin>HEROIDES / HEROIDUM EPISTULAE</latin> / LETTERS OF HEROINES</title>"
@@ -34,15 +34,15 @@ questions:
       - question: "In what meter are these “letters from heroines” written?"
         answer: "ELEGIACS"
       - question: "Which of Ovid’s friends, an elegiac poet in his own right, may have inspired him with the idea of letters in verse?"
-        answer: "PROPERTIUS"
+        answer: "(SEX.) PROPERTIUS"
   - tossup:
       question: "Using a gerundive, translate the following sentence into Latin: “Cicero must write his own speeches.”"
       answer: "<latin>ŌRĀTIŌNĒS CICERŌNĪ SCRĪBENDAE SUNT</latin>"
     boni:
-      - question: "Using <emphasis>the verb <latin>pare</latin>ō and a gerund</emphasis>, translate the following sentence into Latin: “All good laws must be obeyed.”"
+      - question: "Using the verb <latin>pareō</latin> and a gerund, translate the following sentence into Latin: “All good laws must be obeyed.”"
         answer: "<latin>OMNIBUS LĒGIBUS BONĪS PARENDUM EST</latin>"
-      - question: "Using <emphasis>the verb parcō and a gerund</emphasis>, translate the following sentence into Latin: “The pious general must spare the captives.”"
-        answer: "Ā <latin>PIŌ DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
+      - question: "Using the verb <latin>parcō</latin> and a gerund, translate the following sentence into Latin: “The pious general must spare the captives.”"
+        answer: "<latin>Ā PIŌ DUCE / IMPERĀTŌRE CAPTĪVĪS PARCENDUM EST</latin>"
   - tossup:
       question: "What type of independent subjunctive clause is found in the following Latin sentence: <latin>Utī sōl per tōtum annum lūcēret</latin>!"
       answer: "OPTATIVE / VOLITIVE"
@@ -69,9 +69,9 @@ questions:
         answer: "(M. AURELIUS) CARUS"
   - tossup:
       question: "Change the phrase <latin>carō vīvēns</latin> to the ablative"
-      answer: "<latin>CARNE VĪVENTE</latin>"
+      answer: "<latin>CARNE VĪVENTE/-Ī</latin>"
     boni:
-      - question: "(-Ī) Change <latin>senex vīvēns</latin> to the genitive plural"
+      - question: "Change <latin>senex vīvēns</latin> to the genitive plural"
         answer: "<latin>SENUM VĪVENTIUM</latin>"
       - question: "Change <latin>bōs vīvēns</latin> to the accusative singular"
         answer: "<latin>BOVEM VĪVENTEM</latin>"
@@ -82,7 +82,7 @@ questions:
       - question: "Where and when did Marius & Catulus defeat the Cimbri?"
         answer: "VERCELLAE - 101 BC"
       - question: "Who was Catulus’ legate at the battle of Vercellae?"
-        answer: "(L. CORNELIUS) SULLA"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
   - tossup:
       question: "pass out the visuals – as soon as all the visuals have been handed out, say: “YOU MAY OPEN YOUR VISUALS NOW!” You will now have 15 seconds to examine the following lines of verse carefully. (<emphasis>wait 15 seconds</emphasis>) What is the meter of this poem?"
       answer: "HENDECASYLLABIC"
@@ -93,12 +93,12 @@ questions:
         answer: "HE’S AFRAID THAT HE WILL GET THEODORUS’ BOOKS IN RETURN"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Agricola quīdam moritūrus fīliīs arcessītīs dīxit fīnem vītae adesse. “Fīliī,” inquit, “nōn metuō nē iussa mea neglegātis nec meī mortuī oblīvīscāminī. Itaque vōs iubeō dīligenter in meīs vīneīs labōrāre, quō factō magnās dīvitiās et fēlīcitātem reperiētis.” Cuius meminisse fīliīs necesse erat?</latin>"
-      answer: "AGRICOLAE / PATRIS (MORTUĪ)"
+      answer: "<latin>AGRICOLAE / PATRIS (MORTUĪ)</latin>"
     boni:
-      - question: "Quid pater fīliīs imperāvit? "
-        answer: "<latin>UT (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRENT</latin>"
-      - question: "or <latin>IUSSIT EŌS (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRE Quae rēs fīliīs inveniendae sunt?</latin>"
-        answer: "DĪVITIAE (MAGNAE) (ET FĒLĪCITĀS)"
+      - question: "<latin>Quid pater fīliīs imperāvit</latin>?"
+        answer: "<latin>UT (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRENT / IUSSIT EŌS (DĪLIGENTER) IN (SUĪS) VĪNEĪS LABORĀRE</latin>"
+      - question: "<latin>Quae rēs fīliīs inveniendae sunt?</latin>"
+        answer: "<latin>DĪVITIAE (MAGNAE) (ET FĒLĪCITĀS)</latin>"
   - tossup:
       question: "What is the name of the folding chair which was used by higher magistrates and then emperors?"
       answer: "<latin>SELLA CURULIS</latin>"
@@ -111,13 +111,13 @@ questions:
       question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est struēs lignōrum, in quā imposita cadāvera cremābantur</latin>"
       answer: "<latin>ROGUS</latin>"
     boni:
-      - question: ". . . <latin>Est lōrum frēnō alligātum, quō equī reguntur</latin>"
+      - question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est lōrum frēnō alligātum, quō equī reguntur</latin>"
         answer: "<latin>HABĒNA</latin>"
-      - question: ". . . <latin>Est turricula rotunda, per quam tālī mittuntur</latin>"
+      - question: "Of <latin>fritillus, flagellum, cohors, habēna</latin> and <latin>rogus</latin>, which is described in this Latin sentence: <latin>Est turricula rotunda, per quam tālī mittuntur</latin>"
         answer: "<latin>FRITILLUS</latin>"
   - tossup:
       question: "What Roman author followed the traditions set forth by the historian Thucydides and produced two important historical monographs in the first century BC?"
-      answer: "(C.) <emphasis>SALLUST</emphasis>IUS (CRISPUS)"
+      answer: "(C.) SALLUST(IUS CRISPUS)"
     boni:
       - question: "In what post was Sallust able to gain access to Punic documents that he used in the composition of the <title><latin>Bellum Iugurthīnum</latin></title>?"
         answer: "GOVERNOR OF AFRICA (NOVA)"
@@ -132,23 +132,23 @@ questions:
       - question: "To what other Nereid was Galatea, the lover of Acis, telling the story of his transformation?"
         answer: "CHARYBDIS"
   - tossup:
-      question: "The invention of what type of <title><latin>fabulae</latin></title> was attributed to Gnaeus Naevius?"
-      answer: "<title><latin>FABULAE P</latin></title><emphasis><title><latin>RAETEXTAE</latin></title></emphasis>"
+      question: "The invention of what type of <latin>fabulae</latin> was attributed to Gnaeus Naevius?"
+      answer: "<latin>FABULAE PRAETEXTAE</latin>"
     boni:
-      - question: "Describe a <title><latin>fabula praetexta</latin></title>"
-        answer: "PLAY / DRAMA / TRAGEDY BASED ON A ROMAN HISTORICAL SUBJECT"
-      - question: "<emphasis>or</emphasis> WITH A ROMAN SETTING Give the Latin titles of Naevius’ <title><latin>fabulae praetextae</latin></title>"
+      - question: "Describe a <latin>fabula praetexta</latin>"
+        answer: "PLAY / DRAMA / TRAGEDY BASED ON A ROMAN HISTORICAL SUBJECT / WITH A ROMAN SETTING"
+      - question: "Give the Latin titles of Naevius’ <latin>fabulae praetextae</latin>"
         answer: "<title><latin>ROMULUS</latin></title> AND <title><latin>CLASTIDIUM</latin></title>"
   - tossup:
       question: "Which of the following nouns, if any, is NOT heterogeneous: <latin>balneum, castrum, epulum, locus, dēlicium</latin>?"
       answer: "<latin>CASTRUM</latin>"
     boni:
       - question: "Which of the following nouns, if any, is NOT a heteroclite: <latin>domus, pecus, colus, penus, iecur</latin>?"
-        answer: "THEY ALL ARE HETEROCLITES / NONE OF THEM"
-      - question: "- “none of them” is correct and is fine as is, BUT if student says “all of them”, then prompt to let them explain their answer Which of the following nouns, if any, is NOT of the same gender as the others: <latin>vēr, gelū, marmor, dōs, vās</latin>?"
+        answer: "THEY ALL ARE HETEROCLITES / NONE OF THEM (“none of them” is correct and is fine as is, BUT if student says “all of them”, then prompt to let them explain their answer)"
+      - question: "Which of the following nouns, if any, is NOT of the same gender as the others: <latin>vēr, gelū, marmor, dōs, vās</latin>?"
         answer: "<latin>DŌS</latin>"
   - tossup:
-      question: "What daughter of Chiron the centaur was a chaste companion of Artemis until she was violated by King Aeolus?"
+      question: "What daughter of Cheiron the centaur was a chaste companion of Artemis until she was violated by King Aeolus?"
       answer: "THEA / THEIA / THIA / TITAEA"
     boni:
       - question: "Who transformed Thea into a mare named Euippe until after her child was born so that she could avoid the wrath of her father Chiron?"
@@ -159,7 +159,7 @@ questions:
       question: "Translate the following sentence into idiomatic English: <latin>Sī Cicerō in forum vēnisset, ōrātiōnem habuisset</latin>"
       answer: "IF CICERO HAD COME INTO THE FORUM, HE WOULD HAVE GIVEN A SPEECH / DELIVERED AN ORATION"
     boni:
-      - question: "<latin>Nisī Cicerō ōrātor bonus esset, iūdex eī nōn crēderet</latin>"
+      - question: "Translate the following sentence into idiomatic English: <latin>Nisī Cicerō ōrātor bonus esset, iūdex eī nōn crēderet</latin>"
         answer: "IF CICERO WEREN’T A GOOD ORATOR, THE JUDGE WOULDN’T BELIEVE HIM"
-      - question: "<latin>Sī Cicerō in exilium mittātur, miserrimus sit</latin>"
+      - question: "Translate the following sentence into idiomatic English: <latin>Sī Cicerō in exilium mittātur, miserrimus sit</latin>"
         answer: "IF CICERO SHOULD BE SENT INTO EXILE, HE WOULD BE VERY UNHAPPY"

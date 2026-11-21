@@ -49,8 +49,8 @@ questions:
     boni:
       - question: "Make the phrase <latin>nix liquescens</latin> genitive singular"
         answer: "<latin>NIVIS LIQUESCENTIS</latin>"
-      - question: "Make the phrase <latin>vās |ēnum</latin> genitive singular"
-        answer: "<latin>VĀSIS {ĒNĪ</latin> (SPELL)"
+      - question: "Make the phrase <latin>vās aēnum</latin> genitive singular"
+        answer: "<latin>VĀSIS AĒNĪ</latin> (SPELL)"
   - tossup:
       question: "Differentiate in meaning between the adjectives <latin>angustus</latin> and <latin>augustus</latin>."
       answer: "<latin>ANGUSTUS</latin> - NARROW, CONFINED, CLOSE, RESTRICTED, SHORT; <latin>AUGUSTUS</latin> - MAJESTIC, REVEREND, HONORABLE, VENERABLE, AUGUST, IMPERIAL, ROYAL, AUGUSTAN"

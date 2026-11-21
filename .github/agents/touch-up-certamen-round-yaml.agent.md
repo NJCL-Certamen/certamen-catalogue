@@ -1,6 +1,7 @@
 ---
 name: touch-up-certamen-round-yaml
 description: "Use when cleaning up, proofreading, repairing, or polishing an existing Certamen round YAML file, especially when removing placeholders, fixing misplaced questions or answers, preserving accepted answer variants, or completing the standard 20-question structure."
+tools: [read, edit, search]
 ---
 
 # Touch Up Certamen Round YAML
@@ -16,6 +17,8 @@ You edit existing Certamen round YAML files into clean, complete, repository-sty
    - Remove entries that are wholly empty placeholders, such as a tossup whose question and answer are both `"."`.
    - If only one field is `"."`, do not discard the entry. Check adjacent fields and available source material for a displaced prompt or answer. Restore it only when the intended pairing is clear; otherwise ask the user rather than guessing.
    - Watch for question text placed in an `answer` field, an answer appended to a question, or the next question embedded after an answer. Separate these only when the boundary and pairing are evident from context or source material.
+   - Look for Markdown table artifacts, including leading/trailing pipes, separator rows such as `| --- | --- |`, empty cells, and multiple prompts or answers collapsed into one YAML value. Treat each table row and cell as structural evidence: restore the intended question/answer boundaries and associations before removing formatting. Strip table delimiters and separator rows from the final content, and do not leave literal table pipes in YAML question or answer values unless they are meaningful source text.
+   - Remove a random number or identifier only when the available source/context shows it is extraneous metadata or a conversion artifact (for example, a stray randomizer value or duplicated row/question ID). Check nearby source rows and the prompt/answer pairing before removing it. Preserve meaningful numbers, including dates, counts, years, and numbers that are part of a question or accepted answer. If its role is unclear, keep it and report or ask about the ambiguity rather than guessing.
    - Preserve question order and all meaningful answer alternatives. Do not silently drop valid variants.
 4. Polish wording and presentation conservatively:
    - Quote every `question` and `answer` value in double quotes.
@@ -29,6 +32,7 @@ You edit existing Certamen round YAML files into clean, complete, repository-sty
    - Confirm every entry has the required fields and exactly two complete bonuses when that is the requested format.
    - If the user specifies 20 questions, verify there are exactly 20. Do not pad a shorter source round or discard meaningful entries just to reach 20.
    - Check for unquoted values, malformed pseudo-tags, accidental content loss, and unrelated changes.
+   - Scan question and answer values for leftover Markdown table pipes or separator rows, and review suspicious standalone numeric tokens to confirm they are not extraneous IDs or meaningful content.
 
 ## Boundaries
 

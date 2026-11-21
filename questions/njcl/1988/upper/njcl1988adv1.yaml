@@ -1,0 +1,185 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What <emphasis>two</emphasis> <emphasis>three</emphasis> parts of speech can the word quod be?"
+      answer: "<emphasis>ADJ &</emphasis> PRONOUN AND CONJUNCTION <emphasis>ADJ</emphasis>"
+    boni:
+      - question: "779 What two parts of speech can ferri be?"
+        answer: "NOUN AND VERB"
+      - question: "What does it mean as a verb?"
+        answer: "TO BE BORNE"
+  - tossup:
+      question: "Who was invincible as long as he was in touch with his mother, the earth goddess?"
+      answer: "ANTAEUS"
+    boni:
+      - question: "2829 How had Achilles acquired his invulnerability?"
+        answer: "THETIS HAD DIPPED HIM IN THE STYX"
+      - question: "Who was the mortal baby Demeter had tried to make immortal?"
+        answer: "DEMOPHOON (TRIPTOLEMUS)"
+  - tossup:
+      question: "What was the name for the day when a Roman child was named?"
+      answer: "DIES <latin>LUSTRICUS</latin>"
+    boni:
+      - question: "5148 On what day did a father name his son?"
+        answer: "NINTH DAY AFTER BIRTH"
+      - question: "On what day did he name his daughter?"
+        answer: "EIGHTH DAY AFTER"
+  - tossup:
+      question: "Who in the Aeneid speaks the line: Equo ne credite, Teucri?"
+      answer: "LAOCOON"
+    boni:
+      - question: "7610 Whose death is described in this, one of the most metrically striking in the poem: Avulsumque umeris caput, et sine nomine corpus?"
+        answer: "PRIAM'S"
+      - question: "Who says Hoc opus, hic labor est?"
+        answer: "THE SIBYL"
+  - tossup:
+      question: ""
+      answer: "What is the grammatical use of me in the following sentence:"
+    boni:
+      - question: "Me pulchrum esse puto?"
+        answer: "ACC. SUBJECT OF INDIRECT STATEMENT"
+      - question: "228 What is me here: Meus frater me minor est?"
+        answer: "ABL. OF COMPARISON"
+      - question: ""
+        answer: "Me magistro, discipuli bene discunt. ABLATIVE ABSOLUTE"
+  - tossup:
+      question: ""
+      answer: "Who was the oldest daughter of Germanicus and mother of"
+    boni:
+      - question: "Nero?"
+        answer: "AGRIPPINA (MINOR)"
+      - question: "5389 Who married Agrippina in 49 AD?"
+        answer: "CLAUDIUS"
+      - question: "What relationship was he to her?"
+        answer: "UNCLE"
+  - tossup:
+      question: ""
+      answer: "Who was the early leader of Rome who put to death his own"
+    boni:
+      - question: "two sons for plotting against his government?"
+        answer: "L. JUNIUS BRUTUS"
+      - question: "5870 What tribe did he defeat at Silva Arsia?"
+        answer: "THE ETRUSCANS"
+      - question: "Who was consul with him?"
+        answer: "L. TARQUINIUS COLLATINUS"
+  - tossup:
+      question: ""
+      answer: "In 56 BC Caesar, Crassus and Pompey met for a summit conference"
+    boni:
+      - question: "to divide the imperium. Where did they meet?"
+        answer: "LUCA"
+      - question: ""
+        answer: "5464 What was the Gallic seafaring tribe fought by D. Brutus"
+      - question: "that same year?"
+        answer: "THE VENETI"
+      - question: "Of what tribe was Vercingetorix a member?"
+        answer: "THE ARVERNI"
+  - tossup:
+      question: "What character in mythology invented the shepherd's pipes?"
+      answer: "PAN"
+    boni:
+      - question: "3128 The instrument was named for a nymph whom Pan loved. Who?"
+        answer: "SYRINX"
+      - question: "Why did she give her name to the pipes?"
+        answer: "SHE HAD BEEN TURNED"
+      - question: ""
+        answer: "INTO A THICKET OF REEDS, FROM WHICH THE PIPES WERE FASHIONED."
+  - tossup:
+      question: "In Cicero, what mood normally follows the conjunction <latin>quamvis</latin>, meaning “although”?"
+      answer: "SUBJUNCTIVE"
+    boni:
+      - question: "330 What type of subjunctive clause is introduced by the conjunction <latin>tamquam</latin>, meaning “as if” or “as though”?"
+        answer: "SUBJUNCTIVE CLAUSE OF COMPARISON"
+      - question: "What type of subjunctive clause is introduced by <latin>dum</latin>, <latin>modo</latin> and <latin>dummodo</latin>?"
+        answer: "SUBJUNCTIVE CLAUSE OF PROVISO"
+  - tossup:
+      question: "What Roman orator was Cicero's principal rival?"
+      answer: "HORTENSIUS"
+    boni:
+      - question: "7541 Under what great Roman lawyer did Cicero study law?"
+        answer: "QUINTUS MUCIUS SCAEVOLA"
+      - question: "WHere in Greece besides Athens did Cicero go as a student of rhetoric?"
+        answer: "RHODES"
+  - tossup:
+      question: "What relative of yours is your <latin>avia</latin>?"
+      answer: "GRANDMOTHER"
+    boni:
+      - question: "643 Who is your <latin>patruus</latin>?"
+        answer: "UNCLE (FATHER'S BROTHER)"
+      - question: "Who is your <latin>patruelis</latin>?"
+        answer: "COUSIN (PATERNAL)"
+  - tossup:
+      question: ""
+      answer: "Change to singular the verb <latin>fertis</latin>. FERS"
+    boni:
+      - question: ""
+        answer: "300 Change <latin>volo</latin> “wish” to subjunctive. VELIM"
+      - question: ""
+        answer: "Make <latin>facit</latin> passive. FIT"
+  - tossup:
+      question: "Without regard to long marks, how many times does the fourth declension use the ending -us?"
+      answer: "FOUR"
+    boni:
+      - question: "940 In how many declensions do you find the dative plural ending -ibus?"
+        answer: "TWO"
+      - question: "In how many declensions are dative and ablative plural endings identical?"
+        answer: "ALL FIVE"
+  - tossup:
+      question: "What was the land Odysseus visited last?"
+      answer: "SCHERIA (THE PHAEACIANS)"
+    boni:
+      - question: "2606 Who was the princess there?"
+        answer: "NAUSICAA"
+      - question: "Who was the bard who sang to Odysseus at the Phaeacian court about the Trojan War?"
+        answer: "DEMODOCUS"
+  - tossup:
+      question: "To what god did Roman merchants pray for protection?"
+      answer: "MERCURY"
+    boni:
+      - question: "2982 To what god did Roman thieves pray?"
+        answer: "MERCURY"
+      - question: "Who was the Roman goddess of the dawn?"
+        answer: "AURORA"
+  - tossup:
+      question: ""
+      answer: "In the sentence, “Let us resist evil men,” give one Latin word for “evil men.” MALIS"
+    boni:
+      - question: ""
+        answer: "662 Translate “let us resist.” RESISTAMUS"
+      - question: "What is the perfect active infinitive of that verb?"
+        answer: "RESTITISSE"
+      - question: ""
+        answer: "&&&"
+  - tossup:
+      question: "Vergil describes certain men in Book II as <latin>fracti bello fatisque repulsi</latin>. What literary device is this a good example of?"
+      answer: "CHIASMUS"
+    boni:
+      - question: "7628 Who are so described?"
+        answer: "THE LEADERS OF THE GREEKS (DANAI)"
+      - question: "Who does Aeneas address as O lux Dardaniae, spes O fidissima Teucrum?"
+        answer: "HECTOR'S GHOST"
+  - tossup:
+      question: "Which word is not a derivative of <latin>alius</latin>: alien, alibi, alive, alias?"
+      answer: "ALIVE"
+    boni:
+      - question: "153 Which is not from <latin>locus</latin>: locate, local, elocution, dislocate?"
+        answer: "ELOCUTION"
+      - question: "Which is not from <latin>sequor</latin>: sequence, consequently, consecutive, section?"
+        answer: "SECTION"
+      - question: ""
+        answer: "67"
+      - question: ""
+        answer: "<th></th><th></th><th></th>"
+  - tossup:
+      question: "Who wrote the Pharsalia?"
+      answer: "LUCAN"
+    boni:
+      - question: "7591What is the more proper title?"
+        answer: "BELLUM CIVILE or DE BELLO CIVILI"
+      - question: "What is the meter?"
+        answer: "DACTYLIC HEXAMETER"
+      - question: ""
+        answer: "#"

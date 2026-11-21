@@ -1,0 +1,178 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Advanced"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "What was the birthplace of Apollo and Artemis?"
+      answer: "DELOS"
+    boni:
+      - question: "2953 Who was their mother?"
+        answer: "LETO"
+      - question: "Where was Apollo's most important oracle?"
+        answer: "DELPHI"
+  - tossup:
+      question: "Who is a <u>noverca</u>?"
+      answer: "STEPMOTHER"
+    boni:
+      - question: "963 Who is a <u>proavus</u>?"
+        answer: "GREAT-GRANDFATHER"
+      - question: "Through which parent are you related to your <u>agnati</u>?"
+        answer: "FATHER"
+  - tossup:
+      question: "Who was the daughter of Helen and Menelaus?"
+      answer: "HERMIONE"
+    boni:
+      - question: "2546 What captive Trojan woman did Pyrrhus cast off because he fell in love with Hermione?"
+        answer: "ANDROMACHE"
+      - question: "Who also planned to marry Hermione and did kill Pyrrhus?"
+        answer: "ORESTES"
+  - tossup:
+      question: "What early first-century BC conflict pitted Rome against some of her Italian allies?"
+      answer: "SOCIAL WAR (or MARSIC or ITALIC)"
+    boni:
+      - question: "5330 What tribe was chief among the rebellious allies?"
+        answer: "MARSI"
+      - question: "What reform was the result of the Social War?"
+        answer: "CITIZENSHIP FOR THE ITALIAN SUBJECT TRIBES"
+  - tossup:
+      question: "In what city were Pyramus and Thisbe neighbors?"
+      answer: "BABYLON"
+    boni:
+      - question: "2882 What animal is in their story?"
+        answer: "LIONESS"
+      - question: "What change of color takes place at the end?"
+        answer: "WHITE MULBERRIES BECOME RED"
+  - tossup:
+      question: "Who was the author of a biography entitled <u>Agricola</u>?"
+      answer: "TACITUS"
+    boni:
+      - question: "7695 What relation was Agricola to Tacitus?"
+        answer: "FATHER-IN-LAW"
+      - question: "On what distant land was it a treatise?"
+        answer: "BRITAIN"
+  - tossup:
+      question: "What character in the <u>Iliad</u> is called “tamer of horses”?"
+      answer: "HECTOR"
+    boni:
+      - question: "7640 Who has the epithet “white-armed”?"
+        answer: "HERA"
+      - question: "Who is called “the earthshaker”?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What case is called for after the preposition <u>ultra</u>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "."
+        answer: "215 Distinguish in meaning between inter and intra."
+      - question: "."
+        answer: "INTER=BETWEEN, AMONG INTRA=WITHIN"
+      - question: "."
+        answer: "Give two prepositions which may govern either accusative or ablative. IN, SUB, SUPER, SUBTER"
+  - tossup:
+      question: "What device would be employed if the cliche were: “Me Tarzan, Jane you”?"
+      answer: "CHIASMUS"
+    boni:
+      - question: "7693 What device is the repetition of copulative conjunctions?"
+        answer: "POLYSYNDETON"
+      - question: "What is the repetition of a word at the beginning of several successive clauses?"
+        answer: "ANAPHORA"
+  - tossup:
+      question: "Where was Cepheus king?"
+      answer: "ETHIOPIA (JOPPA)"
+    boni:
+      - question: "2688 Who was Cepheus' son-in-law?"
+        answer: "PERSEUS"
+      - question: "After returning with Andromeda first to Seriphus and then going to Argos, where did Perseus finally become king?"
+        answer: "TIRYNS"
+      - question: "."
+        answer: "-7"
+  - tossup:
+      question: "Who were the volones in the Roman army?"
+      answer: "SLAVES WHO WERE SERVING AS VOLUNTEERS"
+    boni:
+      - question: "5407 Where was the army of VArus destroyed in 9 AD?"
+        answer: "THE TEUTOBERG FOREST IN GERMANY"
+      - question: "."
+        answer: "Three legions were destroyed in that battle, and the superstitious Romans never used their numbers again."
+      - question: "What were those numbers?"
+        answer: "XVII, XVIII AND XIX"
+  - tossup:
+      question: "Britain was added to the empire as a province with Claudius on the throne, as were several other territories. Which of these was not added under Claudius: Mauretania, Bithynia, Thrace, Lycia?"
+      answer: "BITHYNIA"
+    boni:
+      - question: "5375 What emperor added Mesopotamia and Armenia to the empire?"
+        answer: "TRAJAN"
+      - question: "Rome's first province was Sicily. What was her second?"
+        answer: "SARDINIA AND CORSICA (they became separate provinces later)"
+  - tossup:
+      question: "Quot umeri tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "94 Quot menta tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot calces tibi sunt?"
+        answer: "DUAE"
+  - tossup:
+      question: "What is the first person plural imperfect active subjunctive of fero?"
+      answer: "FERREMUS"
+    boni:
+      - question: "."
+        answer: "669 Change ferremus to perfect. TULERIMUS"
+      - question: "."
+        answer: "Change tulerimus to passive. LATI SIMUS"
+  - tossup:
+      question: "According to tradition, what was the year of the first Olympic Games?"
+      answer: "776 BC"
+    boni:
+      - question: "5013 Who abolished the games in 393 AD?"
+        answer: "EMPEROR THEODOSIUS I"
+      - question: "How many days did the games last when first established?"
+        answer: "ONE"
+  - tossup:
+      question: "Who in Rome was a lanius?"
+      answer: "BUTCHER (or EXECUTIONER)"
+    boni:
+      - question: "570 Who was a pistor?"
+        answer: "BAKER"
+      - question: "Who was an argentarius?"
+        answer: "BANKER (SILVERSMITH)"
+  - tossup:
+      question: "."
+      answer: "Most verbs have their direct objects in the accusative."
+    boni:
+      - question: "What case does potior govern?"
+        answer: "ABLATIVE or genitive GEN"
+      - question: "904 What case goes with placeo?"
+        answer: "DATIVE"
+      - question: "What caseis used with obliviscor?"
+        answer: "GENITIVE or accusative ACC"
+  - tossup:
+      question: "What is the perfect passive participle of sancio?"
+      answer: "SANCTUS"
+    boni:
+      - question: "444 Of fodio?"
+        answer: "FOSSUS"
+      - question: "Of cerno?"
+        answer: "CRETUS"
+  - tossup:
+      question: "."
+      answer: "Give in the nominative the phrase “this night.” HAEC NOX"
+    boni:
+      - question: "."
+        answer: "Make that phrase genitive plural. HARUM NOCTIUM"
+      - question: "."
+        answer: "What is the ablative of “those days.” ILLIS DIEBUS"
+  - tossup:
+      question: "Who was the author of Italy's first national epic?"
+      answer: "CN. NAEVIUS"
+    boni:
+      - question: "7503 What term is applied to an historical Roman drama?"
+        answer: "FABULA PRAETEXTA"
+      - question: "What was the subject of the epic which Naevius wrote?"
+        answer: "THE FIRST PUNIC WAR"
+      - question: "."
+        answer: "-8"
+      - question: "."
+        answer: "#"

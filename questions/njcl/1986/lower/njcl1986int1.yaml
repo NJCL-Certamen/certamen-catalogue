@@ -1,0 +1,188 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "Quot aures tibi sunt?"
+      answer: "DUAE"
+    boni:
+      - question: "* Quot linguae tibi sunt?"
+        answer: "UNA"
+      - question: "* Quot labia tibi sunt?"
+        answer: "DUO"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What is the vocative of Caesar?"
+      answer: "CAESAR"
+    boni:
+      - question: "* What is the vocative of Septimus?"
+        answer: "SEPTIME"
+      - question: "* What is the vocative of Lucius?"
+        answer: "LUCI"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What change in the pronoun aliquid would be required if the clause began with nisi?"
+      answer: "THE ALI- DROPS OFF"
+    boni:
+      - question: "* What Latin adverb indicates that the expected answer to the question is “No”?"
+        answer: "NUM"
+      - question: "* What indicates the answer is “yes”?"
+        answer: "NONNE"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What Latin infinitive means “to sell”?"
+      answer: "VENDERE"
+    boni:
+      - question: "* Of what words is vendere a contraction?"
+        answer: "VENUM and DARE"
+      - question: "* What words contract to a verb meaning “to be for sale”?"
+        answer: "VENUM & IRE"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "Who am I?"
+      answer: "Cupid's lead arrow wounded me, but then his gold arrow struck Apollo who fell in love with me. DAPHNE"
+    boni:
+      - question: "* What was Daphne changed into?"
+        answer: "LAUREL"
+      - question: "* What gift did Apollo give those who won his favor?"
+        answer: "LAUREL WREATH"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "Who slew the Chimaera?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "."
+        answer: "* Spell C H I M A E R A."
+      - question: "."
+        answer: "* Spell B E L L E R P H O N."
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "Who made new armor for Achilles?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "* Who had died wearing Achilles' old armor?"
+        answer: "PATROCLUS"
+      - question: "* What did Hephaestus later make for Achilles?"
+        answer: "A GOLDEN FUNERARY URN"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What disastrous defeat did the Romans suffer in 321 BC?"
+      answer: "THE BATTLE OF THE CAUDINE FORKS"
+    boni:
+      - question: "* What war was in progress?"
+        answer: "THE SECOND SAMNITE WAR"
+      - question: "* How many Samnite Wars were there?"
+        answer: "THREE"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "Who was the father of Zeus?"
+      answer: "CRONUS"
+    boni:
+      - question: "* Who was the mother of Zeus?"
+        answer: "RHEA"
+      - question: "* What Relation to Zeus was Rhea besides mother?"
+        answer: "MOTHER-IN-LAW/AUNT"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What baby did Hera try to kill by sending two serpents to attack him in his crib?"
+      answer: "HERACLES"
+    boni:
+      - question: "* Who was Heracles' mortal half-brother?"
+        answer: "IPHICLES"
+      - question: "* Who instructed Heracles in music?"
+        answer: "LINUS"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What Latin verb is the root of the English noun “verdict”?"
+      answer: "DICO"
+    boni:
+      - question: "* What Latin noun lies at the root of “perjury”?"
+        answer: "IUS"
+      - question: "* What is the Latin noun which means “judge”?"
+        answer: "IUDEX"
+      - question: "."
+        answer: "-12"
+  - tossup:
+      question: "Who was Rome's first king?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Who was her last king?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "How many kings were there?"
+        answer: "SEVEN"
+  - tossup:
+      question: "What leader of the pretorian guard usurped the power of the emperor Tiberius?"
+      answer: "SEJANUS"
+    boni:
+      - question: "Where had Tiberius retreated?"
+        answer: "CAPRI"
+      - question: "During Tiberius' reign, what practice caused the execution of many prominent and wealthy Romans?"
+        answer: "INFORMING - INFORMERS WERE REWARDED WITH PART OF THE ACCUSED'S ESTATE (also MAIESTAS)"
+  - tossup:
+      question: "What is the accusative singular of vis?"
+      answer: "VIM"
+    boni:
+      - question: "What is the ablative singular?"
+        answer: "VI"
+      - question: "What is the accusative singular of prex?"
+        answer: "PRECEM"
+  - tossup:
+      question: "What is the Latin word for “today”?"
+      answer: "HODIE"
+    boni:
+      - question: "For “tomorrow”?"
+        answer: "CRAS"
+      - question: "What English verb comes from cras?"
+        answer: "PROCRASTINATE"
+  - tossup:
+      question: "."
+      answer: "Name a first declension masculine noun. POETA, PIRATA, AGRICOLA, NAUTA, AURIGA, INCOLA, etc."
+    boni:
+      - question: "."
+        answer: "Give the dative singular of the phrase “good sailor.” NAUTAE BONO"
+      - question: "."
+        answer: "Give the dative plural of the phrase “beatiful goddess.” DEABUS PULCHRIS"
+  - tossup:
+      question: "In the late Republic, what party represented the interests of the wealthy?"
+      answer: "THE OPTIMATES"
+    boni:
+      - question: "What was the opposition party?"
+        answer: "POPULARES"
+      - question: "To which did Julius Caesar belong?"
+        answer: "POPULARES"
+  - tossup:
+      question: "."
+      answer: "Say in Latin: “I have touched.” TETIGI"
+    boni:
+      - question: "."
+        answer: "Say: “I had been touched.” TACTUS ERAM"
+      - question: "."
+        answer: "Say: “I shall be touched.” TANGAR"
+  - tossup:
+      question: "What was the Roman army's largest unit?"
+      answer: "THE LEGION"
+    boni:
+      - question: "Into how many cohorts was a legion divided?"
+        answer: "TEN"
+      - question: "How many men was a legion supposed to contain?"
+        answer: "6000"
+  - tossup:
+      question: "What English verb meaning “improve” comes from the comparative of bonus?"
+      answer: "MELIORATE (or AMELIORATE)"
+    boni:
+      - question: "What is the superlative of acer?"
+        answer: "ACERRIMUS"
+      - question: "What is the superlative of agilis?"
+        answer: "AGILISSIMUS"

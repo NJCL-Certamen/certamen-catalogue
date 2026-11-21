@@ -1,0 +1,175 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who was the first emperor of Rome?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "5630 Who was the fifth emperor?"
+        answer: "NERO"
+      - question: "What son of Vespasian followed him on the throne?"
+        answer: "TITUS"
+  - tossup:
+      question: "In the quotation Festina lente, what form of the verb is festina?"
+      answer: "SINGULA IMPERATIVE"
+    boni:
+      - question: "906 In a famous prophecy, In hoc signo vinces, what tense is vinces?"
+        answer: "FUTURE"
+      - question: "In the blessing Pax vobiscum, what construction is vobiscum?"
+        answer: "ABLATIVE OF ACCOMPANIMENT"
+  - tossup:
+      question: "What Greek hero at first was dressed as a girl to keep him from going to war?"
+      answer: "ACHILLES"
+    boni:
+      - question: "2530 What Greek hero pretended insanity to avoid going?"
+        answer: "ODYSSEUS"
+      - question: "Where did Odysseus live?"
+        answer: "ITHACA"
+  - tossup:
+      question: ""
+      answer: "Say in Latin: ”We have led.“ DUXIMUS"
+    boni:
+      - question: ""
+        answer: "796 Change duximus to passive. DUCTI SUMUS"
+      - question: ""
+        answer: "Change ducti sumus to future. DUCEMUR"
+  - tossup:
+      question: "Who was the first-born son of Odysseus?"
+      answer: "TELEMACHUS"
+    boni:
+      - question: "3245 Who was Odysseus' wife?"
+        answer: "PENELOPE"
+      - question: "Who was his father?"
+        answer: "LAERTES"
+  - tossup:
+      question: "What maiden was visited by Jupiter in the form of a golden shower?"
+      answer: "DANAE"
+    boni:
+      - question: "2689 Who was the child of this union?"
+        answer: "PERSEUS"
+      - question: ""
+        answer: "Name Danae's suitor who tried to get rid of Perseus by sending him to slay Medusa. POLYDECTES"
+  - tossup:
+      question: "In what city is the Parthenon found?"
+      answer: "ATHENS"
+    boni:
+      - question: "5465 In what city is the Pantheon found?"
+        answer: "ROME"
+      - question: "Where is Hadrian's Wall?"
+        answer: "BRITAIN/SCOTLAND"
+  - tossup:
+      question: "What is the name of verbs with active meanings but only passive forms?"
+      answer: "DEPONENT"
+    boni:
+      - question: ""
+        answer: "246 Give an example of a semi-deponent verb."
+      - question: ""
+        answer: "AUDEO, GAUDEO, SOLEO, FIDO"
+      - question: "How would a Roman say, ”We have dared“?"
+        answer: "AUSI SUMUS"
+  - tossup:
+      question: "Who was the beloved of Pyramus?"
+      answer: "THISBE"
+    boni:
+      - question: "2832 Where did they live?"
+        answer: "BABYLON"
+      - question: "Which of them died first?"
+        answer: "PYRAMUS"
+  - tossup:
+      question: "What noble family was thrown out of Rome at the end of the monarchy?"
+      answer: "THE TARQUINS"
+    boni:
+      - question: "5023 From what Italian tribe did they arise?"
+        answer: "ETRUSCANS"
+      - question: "What was the year of their expulsion from Rome?"
+        answer: "510 BC"
+  - tossup:
+      question: ""
+      answer: "Give the fourth principal part of augeo. AUCTUS"
+    boni:
+      - question: ""
+        answer: "684 Of iubeo. IUSSUS"
+      - question: ""
+        answer: "Of caveo. CAUTUS"
+  - tossup:
+      question: "What is the Latin verb whose perfect active infinitive is posuisse?"
+      answer: "PONO, PONERE"
+    boni:
+      - question: "423 What Latin verb's perfect infinitive is potuisse?"
+        answer: "POSSUM, POSSE"
+      - question: "What verb's perfect infinitive is afuisse?"
+        answer: "ABSUM, ABESSE"
+  - tossup:
+      question: "Who stole fire for man?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "2892 Who was the Greek god of fire?"
+        answer: "HEPHAESTUS"
+      - question: "Who was the Roman goddess whose symbol was the hearth fire?"
+        answer: "VESTA"
+  - tossup:
+      question: "Which of the three orders of ancient columns has a capital with the most ornate decoration?"
+      answer: "CORINTHIAN"
+    boni:
+      - question: "5197 What are the other two types?"
+        answer: "DORIC, IONIC"
+      - question: "What plant was used as the basis for the floral motif on a Corinthian column?"
+        answer: "ACANTHUS"
+  - tossup:
+      question: "What is the Latin verb form meaning ”to touch“?"
+      answer: "TANGERE"
+    boni:
+      - question: "489 What are its perfect and future active infinitives?"
+        answer: "TETIGISSE AND TACTURUS ESSE"
+  - tossup:
+      question: "How would you translate the verb form porto?"
+      answer: "I CARRY"
+    boni:
+      - question: "413 The form portabit?"
+        answer: "HE WILL CARRY"
+      - question: "The form portabant?"
+        answer: "THEY WERE CARRYING"
+  - tossup:
+      question: "What is 1999 in Roman numerals?"
+      answer: "MIM (MDCCCCLXXXXVIIII, MCMXCIX)"
+    boni:
+      - question: "169 What is LXXIX?"
+        answer: "79"
+      - question: "What is MDI?"
+        answer: "1501"
+  - tossup:
+      question: "In the nominative, what is the phrase ”my wife“?"
+      answer: "MEA UXOR (or CONIUNX)"
+    boni:
+      - question: "35 What English adjective comes from uxor and means ”dominated by one's wife“?"
+        answer: "UXORIOUS"
+      - question: "What English adjective comes from coniunx and means ”marital“?"
+        answer: "CONJUGAL"
+  - tossup:
+      question: "What Latin adjective gives us the English verb ”abbreviate“?"
+      answer: "BREVIS=SHORT"
+    boni:
+      - question: "1098 What Latin verb gives us ”interrogate“?"
+        answer: "ROGO=ASK"
+      - question: "What Latin noun gives us ”senile“?"
+        answer: "SENEX=OLD MAN"
+      - question: ""
+        answer: "~~"
+  - tossup:
+      question: "What enemy of Rome was defeated at the Battle of Zama?"
+      answer: "HANNIBAL~~"
+    boni:
+      - question: "~~5040 What was the year?"
+        answer: "202 BC~~"
+      - question: "~~Where is Zama?"
+        answer: "NORTH AFRICA~~"
+  - tossup:
+      question: "To what modern country would you go to visit the ruins of Troy?"
+      answer: "TURKEY"
+    boni:
+      - question: "5819 The ruins of Carthage?"
+        answer: "TUNISIA"
+      - question: "The ruins of Alexandria?"
+        answer: "EGYPT"

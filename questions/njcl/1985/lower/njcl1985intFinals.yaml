@@ -1,0 +1,170 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Finals"
+questions:
+
+  - tossup:
+      question: "Who was the father of Pompey the Great?"
+      answer: "POMPEIUS STRABO"
+    boni:
+      - question: "Who was Pompey's second wife, whom he divorced for adultery with Julius Caesar?"
+        answer: "MUCIA"
+      - question: "Who was his father-in-law in his next marriage?"
+        answer: "JULIUS CAESAR"
+  - tossup:
+      question: "After the Greeks left Aulis, where in Asia Minor did they in error land first?"
+      answer: "MYSIA (TEUTHRANIA)"
+    boni:
+      - question: "What king of Teuthrania, a son of Heracles, repulsed them there?"
+        answer: "TELEPHUS"
+      - question: "Who wounded Telephus?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "If Romae means “in Rome,” what means “in Carthage”?"
+      answer: "CARTHAGINI or CARTHAGINE"
+    boni:
+      - question: "How do you say “from Athens”?"
+        answer: "ATHENIS"
+      - question: "How do you say “in Syracuse”?"
+        answer: "SYRACUSIS"
+  - tossup:
+      question: "Quot digiti in utraque manu sunt?"
+      answer: "QUINQUE"
+    boni:
+      - question: "Quot crura tibi sunt?"
+        answer: "DUO"
+      - question: "Quot culi tibi sunt?"
+        answer: "UNUS"
+  - tossup:
+      question: "What English word for something implied but not stated is a Latin gerund meaning “by nodding”?"
+      answer: "INNUENDO"
+    boni:
+      - question: "What English noun, roughly synonymoous with “innuendo,” comes from a Latin word meaning “curve”?"
+        answer: "INSINUATION"
+      - question: "If your math teacher gives you the problem 5-3, what technical term derived from a Latin gerundive names 5 in that problem?"
+        answer: "MINUEND"
+  - tossup:
+      question: "What verbs share the participle profectus?"
+      answer: "PROFICISCOR AND PROFICIO"
+    boni:
+      - question: "What two verbs share the fourth principal part cretus?"
+        answer: "CERNO AND CRESCO"
+      - question: "Two different verbs begin their principal parts sero, serere. What are their two different fourth parts?"
+        answer: "SATUS AND SERTUS"
+  - tossup:
+      question: "In the sentence: Tanta cum arte locutus est ut ab omnibus laudaretur, what is the construction of omnibus?"
+      answer: "ABLATIVE OF AGENT"
+    boni:
+      - question: "What is the construction of arte?"
+        answer: "ABLATIVE OF MANNER"
+      - question: "Why is the subjunctive necessary?"
+        answer: "RESULT CLAUSE"
+  - tossup:
+      question: "What was a lectus genialis?"
+      answer: "MARRIAGE (DOUBLE) BED"
+    boni:
+      - question: "What was a torus?"
+        answer: "BANQUET COUCH (or SOFA or BED)"
+      - question: "What was a sigma?"
+        answer: "SEMI-CIRCULAR BANQUET COUCH"
+  - tossup:
+      question: "By what name is Trivia better known?"
+      answer: "HECATE or ARTEMIS/DIANA"
+    boni:
+      - question: "By what name is Tritogeneia better known?"
+        answer: "ATHENA/MINERVA"
+      - question: "By what name is Cassandra also known?"
+        answer: "ALEXANDRA"
+  - tossup:
+      question: "."
+      answer: "Wait to be recognized and follow the Latin directions."
+    boni:
+      - question: "."
+        answer: "Fac mihi sonum canis. BARK, AFR, WOOF, WHATEVER."
+      - question: "."
+        answer: "Fac mihi sonum suis. OINK"
+      - question: "."
+        answer: "Fac mihi sonum anatis. QUACK"
+  - tossup:
+      question: "What son of a god was armor-bearer for Heracles?"
+      answer: "ABDERUS"
+    boni:
+      - question: "Who was Abderus' father?"
+        answer: "HERMES"
+      - question: "How did Abderus die?"
+        answer: "HE WAS LEFT IN CHARGE OF THE MARES OF DIOMEDES AND THEY ATE HIM"
+  - tossup:
+      question: "Who was recognized by a woman named Eurycleia?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "How exactly did she recognize him?"
+        answer: "BY A SCAR (ON HIS THIGH)"
+      - question: "Who was the cruelest and most insolent of Penelope's suitors?"
+        answer: "ANTINOUS"
+  - tossup:
+      question: "In what form did Zeus appear to Alcmene?"
+      answer: "AS HER OWN HUSBAND, AMPHITRYON"
+    boni:
+      - question: "What wife did Zeus swallow so that he could be their child's only parent?"
+        answer: "METIS"
+      - question: "Which son of Zeus was born from Zeus' thigh?"
+        answer: "BACCHUS/DIONYSUS"
+  - tossup:
+      question: "."
+      answer: "Translate the noun sagitta. ARROW"
+    boni:
+      - question: "ith what would you shoot a sagitta?"
+        answer: "ARCUS"
+      - question: "What verb would mean “shoot”?"
+        answer: "MITTERE"
+  - tossup:
+      question: "."
+      answer: "Name the modern-day countries which lie in the same territory as ancient Illyricum. ALBANIA AND YUGOSLAVIA"
+    boni:
+      - question: "If Paris was Lutetia, where did we get the name Paris?"
+        answer: "FROM THE PARISII TRIBE"
+      - question: "Through Paris flows the Seine. What was it in Latin?"
+        answer: "SEQUANA"
+  - tossup:
+      question: "What military rank in English comes from servire?"
+      answer: "SERGEANT"
+    boni:
+      - question: "What military rank comes from columna?"
+        answer: "COLONEL"
+      - question: "What Latin verb is the root of adjutant?"
+        answer: "(AD)IUVARE"
+  - tossup:
+      question: "What system of shared rule did Diocletian introduce?"
+      answer: "TETRARCHY"
+    boni:
+      - question: "Who was Diocletian's co-Augustus?"
+        answer: "MAXIMIAN"
+      - question: "Who were their two Caesars?"
+        answer: "GALERIUS AND CONSTANTIUS (I) CHLORUS"
+  - tossup:
+      question: "."
+      answer: "Name a neuter nominative plural which does not end with -a. QUAE, HAEC, DUO, AMBO"
+    boni:
+      - question: "."
+        answer: "Name another."
+      - question: "."
+        answer: "Name another."
+  - tossup:
+      question: "What battle did the Romans win in 168 BC?"
+      answer: "PYDNA"
+    boni:
+      - question: "ho were the enemy?"
+        answer: "MACEDONIANS"
+      - question: "The Roman commander at Pydna perhaps avenged the death of his father in battle some 48 years before. What was the full name of both father and son?"
+        answer: "L. AEMILIUS PAULLUS"
+  - tossup:
+      question: "What emperor before his reign married his ex-wife's widowed stepmother, who was his own stepsister?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Whom did Nero divorce to marry Poppaea?"
+        answer: "OCTAVIA"
+      - question: "To whom else had Poppaea been married?"
+        answer: "OTHO"
+      - question: "."
+        answer: "#"

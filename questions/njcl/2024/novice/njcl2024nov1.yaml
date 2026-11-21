@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2024
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Cūr ad forum ambulās?</latin>\t\t"
+      answer: "WHY ARE YOU WALKING TO THE FORUM? /  \t\tWHY DO YOU WALK TO THE FORUM?"
+    boni:
+      - question: "Translate the following sentence from Latin to English: <latin>Quis fēlēs nōn amat?</latin>\t\t"
+        answer: "WHO DOES NOT LOVE (THE) CATS?"
+      - question: "Translate the following sentence from Latin to English: <latin>Quot hominēs lūdōs spectābant?</latin>\t"
+        answer: "HOW MANY PEOPLE WERE WATCHING / WATCHED (THE) GAMES?"
+  - tossup:
+      question: "While traveling to Rome from the West, a traveler would most likely sail to what Italian port city located 16 miles from Rome at the mouth of the Tiber?\t"
+      answer: "OSTIA [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "This map depicts several port cities of ancient Italy. Which letter represents Brundisium, a high-traffic port connecting the <latin>Via Appia</latin> with sea travel from Greece?"
+        answer: "F"
+      - question: "Which letter represents Rhegium, a major city in Calabria overseeing the movement of goods and people to nearby Messana?"
+        answer: "D"
+  - tossup:
+      question: "What is a synonym for the most common Latin enclitic <latin>-que</latin> which means “and”?"
+      answer: "SEE BELOW"
+    boni:
+      - question: "Now provide another Latin synonym for <latin>-que</latin>.\t"
+        answer: "<latin>ET / ATQUE / AC / AUTEM</latin>"
+      - question: "What enclitic is added to the first word of the sentence to indicate that a question is being asked?\t"
+        answer: "<latin>-NE</latin>"
+  - tossup:
+      question: "Cerberus may be the most famous mythological dog, but there are a lot of good dogs out there. What two-headed brother of Cerberus was known for guarding Geryon’s cattle? \t\t"
+      answer: "ORTH(R)US"
+    boni:
+      - question: "What loyal dog was the first to recognize his master, Odysseus, upon his return to Ithaca? \t"
+        answer: "ARGOS / ARGUS"
+      - question: "What skilled hunting dog was famous for always being able to catch his prey? \t"
+        answer: "LAELAPS"
+  - tossup:
+      question: "What early Roman emperor came to the throne when he was 50 years old, was the uncle of his predecessor, and ruled from 41 to 54 AD? \t\t"
+      answer: "(TI.) CLAUDIUS (CAESAR AUGUSTUS GERMANICUS)"
+    boni:
+      - question: "Name Claudius’ predecessor, who famously tried to make his horse Incitatus a senator"
+        answer: "CALIGULA / GAIUS (CAESAR AUGUSTUS GERMANICUS)"
+      - question: "By what method was Claudius killed, the blame of which fell on his wife Agrippina the Younger?\t"
+        answer: "POISONED (POISON MUSHROOMS, POISONED AT DINNER, ETC.)  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Differentiate in meaning between the Latin nouns <latin>nāvis</latin> and <latin>nauta</latin>.\t\t"
+      answer: "<latin>NĀVIS</latin> - SHIP / BOAT ; <latin>NAUTA</latin> - SAILOR"
+    boni:
+      - question: "Differentiate in meaning between the Latin nouns <latin>nōmen</latin> and <latin>nēmō</latin>."
+        answer: "<latin>NŌMEN</latin> - NAME / NOUN ; <latin>NĒMŌ</latin> - NO ONE"
+      - question: "Differentiate in meaning between the Latin nouns <latin>vulnus</latin> and <latin>somnus</latin>."
+        answer: "<latin>VULNUS</latin> - WOUND ; <latin>SOMNUS</latin> - SLEEP / SLUMBER / DREAM"
+  - tossup:
+      question: "What Phoenician woman, although never officially married to Aeneas, felt that she was his wife after their tryst in a cave? \t"
+      answer: "DIDO / ELISSA / PHOENISSA"
+    boni:
+      - question: "Which wife of Aeneas was lost in the chaos at Troy and then appeared to him as a ghost to tell him he would one day marry someone else? \t"
+        answer: "CREÜSA"
+      - question: "Which wife of Aeneas was originally supposed to marry Turnus?\t"
+        answer: "LAVINIA"
+  - tossup:
+      question: "Listen carefully to the following fable about a dog, which I will read twice, then respond in English to the questions that follow: \t<latin>ōlim canis cibum in ōre tenēbat. dum prope flūmen ambulābat, subitō piscem in aquā vīdit. canis piscem cupīvit et ōs aperuit, sed cibus statim in aquam cecidit. quam īnfēlix!</latin>   "
+      answer: "REREAD"
+    boni:
+      - question: "Why did the dog open its mouth?"
+        answer: "BECAUSE IT WANTED (TO EAT) THE FISH (THAT IT SAW IN THE WATER)"
+      - question: "What happened after the dog opened its mouth?"
+        answer: "(ITS) FOOD FELL (INTO THE WATER)"
+  - tossup:
+      question: "What early Roman figure never saw the city flourish because he leapt over the walls built by his brother Romulus on the Palatine Hill? \t"
+      answer: "REMUS"
+    boni:
+      - question: "On which of Rome’s seven hills did Remus plan to settle?\t"
+        answer: "AVENTINE"
+      - question: "What shepherd was said to have raised both Romulus and Remus?\t"
+        answer: "FAUSTULUS"
+  - tossup:
+      question: "From what Latin word with what meaning do we derive “trinity,” “triumvirate,” and “triple”?\t"
+      answer: "<latin>TRĒS</latin> - THREE"
+    boni:
+      - question: "From what Latin word with what meaning do we derive the English words “inch,” “unit,” and “unicorn”?"
+        answer: "<latin>ŪNUS</latin> - ONE"
+      - question: "From what Latin word with what meaning do we derive the words “squadron,” “quadratic,” and “quartet”?"
+        answer: "<latin>QUATTUOR</latin> - FOUR"
+  - tossup:
+      question: "Using the Latin verb <latin>amō, amāre</latin>, give the third person singular imperfect active indicative, a form translated as “she used to love”.\t"
+      answer: "<latin>AMĀBAT</latin>"
+    boni:
+      - question: "Give the corresponding form of the Latin verb <latin>sum, esse</latin>, a form that would be translated as “he was.”\t"
+        answer: "<latin>ERAT</latin>"
+      - question: "Give the same form of the Latin verb <latin>capiō, capere</latin>, a form that would be translated as “it was taking.”\t"
+        answer: "<latin>CAPIĒBAT</latin>"
+  - tossup:
+      question: "What son of Poseidon and Thoösa herded sheep, ate humans, and was eventually blinded by Odysseus and his men?\t"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "How many of Odysseus’ men did Polyphemus eat?\t"
+        answer: "SIX"
+      - question: "After blinding Polyphemus, how did Odysseus and his men escape the cave?  \t\t"
+        answer: "TIED THEMSELVES UNDERNEATH SHEEP"
+  - tossup:
+      question: "What Latin phrase denotes the portion of the day after noon and is abbreviated <latin>P.M.</latin>?\t\t"
+      answer: "<latin>POST MERĪDIEM</latin>"
+    boni:
+      - question: "Similarly, what Latin phrase is abbreviated <latin>A.M.</latin> and denotes the portion of the day up until noon?\t"
+        answer: "<latin>ANTE MERĪDIEM</latin>"
+      - question: "What Latin word, which can be abbreviated to its first four letters, tells someone to do something at once?\t"
+        answer: "<latin>STATIM</latin>"
+  - tossup:
+      question: "What creature’s hide did Hercules wear after he completed his first labor?\t \t\t"
+      answer: "NEMEAN LION(’S)"
+    boni:
+      - question: "During which labor did Hercules have to divert a river to clean out an area that hadn’t been cleaned for 30 years? \t"
+        answer: "AUGE(I)AN STABLES / 5TH (LABOR)"
+      - question: "Which other of Hercules’ labors ultimately did not count because he received outside assistance?  \t"
+        answer: "(LERNEAN) HYDRA / 2ND (LABOR)"
+  - tossup:
+      question: "Give a Latin word that is not a compound <latin>putō, putāre</latin>, but is a synonym of <latin>putō, putāre,</latin> meaning to think?\t \t\t"
+      answer: "CŌGITŌ / <latin>ARBITROR</latin> / <latin>OPINOR</latin> / <latin>REOR</latin> / <latin>SENTIŌ / CRĒDŌ</latin>"
+    boni:
+      - question: "What is a Latin synonym of <latin>cōnsūmō, cōnsūmere</latin>?\t"
+        answer: "<latin>CĒNŌ</latin> / <latin>EDŌ</latin> / <latin>VĒSCOR</latin>"
+      - question: "What is a Latin ANTONYM of <latin>silentium</latin>?\t"
+        answer: "<latin>CLĀMOR</latin> / <latin>SONUS</latin> / <latin>FRAGOR</latin>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "<latin>Respondē aut Latīnē aut Anglicē:</latin>  <latin>Ubī pugnābant glādiātōrēs?</latin>\t \t\t"
+      answer: "(IN) AMPHITHEĀTRŌ / COLOSSEŌ / CIRCŌ / FORŌ // \t(IN THE) AMPHITHEATER / COLOSSEUM / CIRCUS / RACE-COURSE/FORUM"
+    boni:
+      - question: "<latin>Respondē aut Latīnē aut Anglicē: Ubī currēbant currūs circum spīnam?</latin>\t\t\t"
+        answer: "(IN) CIRCŌ // (IN THE) CIRCUS / RACE-COURSE"
+      - question: "<latin>Respondē aut Latīnē aut Anglicē: Quid dīxērunt omnēs glādiātōrēs ante pugnam?</latin>\t"
+        answer: "(AVĒ IMPERĀTOR / CAESAR) (NŌS) MORITŪRĪ TĒ SALŪTĀMUS / SALŪTANT // \t(HAIL EMPEROR / CAESAR), WE / THEY (WHO ARE) ABOUT TO DIE SALUTE YOU"
+  - tossup:
+      question: "According to the <latin>Lexicon Recentis Latīnitātis</latin>, what modern term would the Romans \t\thave called <latin>dentārius medicus</latin>?\t"
+      answer: "DENTIST / DOCTOR OF TEETH"
+    boni:
+      - question: "According to the <latin>Lexicon Recentis Latīnitātis</latin>, what modern professional would the Romans have called <latin>doctor machinārius</latin>?\t\t"
+        answer: "ENGINEER / MECHANIC / DOCTOR OF MACHINES"
+      - question: "According to the <latin>Lexicon Recentis Latīnitātis</latin>, what modern adventure would the Romans have called <latin>Āfricāna vēnātiō</latin>?\t"
+        answer: "SAFARI / AFRICAN HUNT"
+  - tossup:
+      question: "The gods would never knowingly eat human flesh, but accidents happen. Which part of Pelops’ body did a distracted Demeter eat during a dinner hosted by Tantalus? \t\t"
+      answer: "(LEFT) SHOULDER"
+    boni:
+      - question: "Why was Demeter so distracted that she ate Pelops’ shoulder?\t\t"
+        answer: "SHE WAS GRIEVING THE ABDUCTION OF HER DAUGHTER PERSEPHONE"
+      - question: "Which member of the House of Atreus ate his own children, who had been murdered and served to him by his vengeful brother? \t"
+        answer: "THYESTES"
+  - tossup:
+      question: "At what momentous battle did Octavian’s navy defeat the combined forces of Antony and Cleopatra?\t"
+      answer: "ACTIUM"
+    boni:
+      - question: "Who served as admiral of Octavian’s fleet at Actium?\t"
+        answer: "(M. VIPSANIUS) AGRIPPA"
+      - question: "Another such momentous event was Quinctilius Varus’ loss of three legions to the Germans while trying to secure the northern frontier. Where did this defeat occur? \t\t"
+        answer: "TEUTOBURG FOREST / WALD // <latin>SALTUS TEUTOBURGIENSIS</latin> \t\t(prompt on “Germany” or “Germania”)  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Differentiate in meaning between <latin>dīcō</latin> and <latin>doceō</latin>.\t\t"
+      answer: "DĪCŌ - SAY, <latin>DOCEŌ -</latin> TEACH / INSTRUCT"
+    boni:
+      - question: "Now differentiate in meaning between <latin>iaciō</latin> and <latin>iaceō</latin>."
+        answer: "<latin>IACIŌ</latin> - THROW, <latin>IACEŌ</latin> - LIE"
+      - question: "Now differentiate in meaning between <latin>laudō</latin> and <latin>lūdō</latin>."
+        answer: "LAUDŌ - PRAISE, <latin>LŪDŌ -</latin> PLAY"

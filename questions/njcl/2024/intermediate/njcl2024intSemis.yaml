@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2024
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "<title>(Note to moderator: do not prompt on the toss-up)</title> \tWhen recognized, perform or describe the following commands: <latin>claude oculōs et Anglicē ab ūnō ad decem numerā.</latin>\t"
+      answer: "PLAYER SHOULD CLOSE THEIR EYES \t\tAND COUNT FROM ONE TO TEN IN ENGLISH"
+    boni:
+      - question: "Perform or describe the following commands: <latin>cēlāte vōs et susurrāte Anglicē “nōn possunt invenīre nōs!”</latin>\t"
+        answer: "PLAYERS SHOULD HIDE THEMSELVES AND \t\tWHISPER “THEY CAN’T FIND US!”"
+      - question: "Perform or describe the following commands: <latin>surgite et clāmāte Anglicē “sperāmus vōs parātōs esse, quod venīmus!”</latin>\t"
+        answer: "PLAYERS SHOULD GET UP AND SHOUT \t\t“WE HOPE (THAT) YOU’RE READY / PREPARED, \t\tBECAUSE WE ARE COMING!”"
+  - tossup:
+      question: "Following the death of Severus II, who made himself <latin>Augustus</latin> in the western part of the empire in 307 AD, like his father Maximian before him, and was eventually defeated by Constantine at the Milvian Bridge in 312 AD?\t"
+      answer: "MAXENTIUS"
+    boni:
+      - question: "Prior to the Battle of the Milvian Bridge, who was appointed <latin>Augustus</latin> in the west by Galerius to oppose Maxentius and later became <latin>Augustus</latin> of the east, jointly ruling with Constantine until 324 AD?\t"
+        answer: "LICINIUS"
+      - question: "At what battle, also the site of a disastrous defeat to the Goths later in the century, did Constantine nearly defeat Licinius completely before taking final action at Chrysopolis?\t \t\t"
+        answer: "ADRIANOPLE / EDIRNE"
+  - tossup:
+      question: "Listen carefully to the following passage about Cyrus the Great’s invasion of Scythia, which I will read twice, then respond in English to the questions that follow: \t<latin>ubi Cȳrus erat rēx Persicus, impetum contrā Scythiam fēcit. Cȳrus, audāciae suae fīdēns, crēdidit sē vīcturum esse. sed Tomyris, rēgīna Scythica, deō Sōlī fīsa est et mīlitēs callidius dūxit. post proelium, rēgīna victrix Cȳrum mortuum invēnit et rīsit, “nunc tū bibās quam plūrimum sanguinem.”</latin>    "
+      answer: "REREAD"
+    boni:
+      - question: "How did Queen Tomyris lead her soldiers against Cyrus?"
+        answer: "RATHER / TOO / MORE CLEVERLY (THAN CYRUS) // \t\tTRUSTING IN THE SUN (GOD) / GOD ALONE"
+      - question: "With what drink does the triumphant queen taunt the defeated Cyrus?"
+        answer: "(AS MUCH) BLOOD (AS POSSIBLE / OODLES THEREOF)"
+  - tossup:
+      question: "What English word, derived from a Latin word meaning “to wash”, means “the introduction of harmful substances or materials to the environment”?\t"
+      answer: "POLLUTION"
+    boni:
+      - question: "What English word, derived from a Latin noun for “sea”, is an herb that has various applications in cooking and perfumery, and supposedly helps with memory? \t\t"
+        answer: "ROSEMARY"
+      - question: "What English word, derived from a Latin word for “house”, means “a building or complex of buildings containing a number of individually owned apartments or houses”? \t\t"
+        answer: "CONDO(MINIUM) / CONDO(S)"
+  - tossup:
+      question: "Provide the Latin and English for one of the mottoes of South Carolina.\t"
+      answer: "SEE BELOW"
+    boni:
+      - question: "Provide the Latin and English for the other motto of South Carolina. \t\t"
+        answer: "DUM SPĪRŌ SPĒRŌ, WHILE I BREATHE I HOPE / \t\t<latin>ANIMĪS OPIBUSQUE PARĀTĪ</latin>, PREPARED IN MIND(S) AND RESOURCES"
+      - question: "Provide the Latin and English for one of the mottoes of Maryland.\t \t\t"
+        answer: "CRĒSCITE ET MULTIPLICĀMINĪ"
+  - tossup:
+      question: "Which man, shocked by the fact that the young man he had sent to kill a bull returned triumphant, almost let his new wife, Medea, poison the young hero, but stopped her when he recognized his own sword in Theseus’ hands? \t"
+      answer: "AEGEUS"
+    boni:
+      - question: "What poison did Medea intend to use on Theseus?\t"
+        answer: "ACONITE / WOLFSBANE"
+      - question: "Medea hoped that what son of hers with Aegeus would rule Athens, leading her to attempt to poison Theseus?\t"
+        answer: "MEDUS"
+  - tossup:
+      question: "What structure in the Campus Martius measured almost 300 Roman feet in diameter, featured a bronze statue of Rome’s first emperor at its top, and contained the ashes of several Julio-Claudian figures?\t"
+      answer: "MAUSOLEUM OF AUGUSTUS"
+    boni:
+      - question: "What is the Latin term for the net-like pattern, which was made of small rectangles of brick, used on the face of concrete as the structural basis for this Mausoleum before it was finished with marble?\t"
+        answer: "<latin>OPUS RĒTICULĀTUM</latin>"
+      - question: "Who were the first and last figures to be buried in the Mausoleum, dying in 23 BC and 98 AD, respectively?\t"
+        answer: "(M. CLAUDIUS) MARCELLUS AND NERVA"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Cōnsulibus maximā dīligentiā scrībendum est.</latin>\t"
+      answer: "THE CONSULS MUST WRITE WITH GREATEST DILIGENCE // \t\tIT MUST BE WRITTEN BY THE CONSULS WITH THE GREATEST DILIGENCE"
+    boni:
+      - question: "Translate the following sentence from Latin to English: <latin>Festīnāvimus ad rēgīnam videndam.</latin>\t"
+        answer: "WE HURRIED (IN ORDER) TO SEE THE QUEEN"
+      - question: "Translate the following sentence from Latin to English: <latin>Sī mē amāvissēs, gāvīsa essem.</latin>\t\t"
+        answer: "IF YOU HAD LOVED ME, I WOULD HAVE REJOICED"
+  - tossup:
+      question: "What city’s royal house included Porthaon, Gorge, Deianira, Althaea, and Meleager?\t\t"
+      answer: "CALYDON"
+    boni:
+      - question: "Into what type of birds were Meleager’s grieving sisters transformed after his death? \t\t"
+        answer: "GUINEA-HENS / GUINEA-FOWL"
+      - question: "Which goddess changed Meleager’s sisters into guinea-fowl?\t"
+        answer: "ARTEMIS / DIANA"
+  - tossup:
+      question: "How many words in the following sentence are derived from Latin? The rate of infectious transmission of an illness in a population is called morbidity.\t"
+      answer: "FIVE"
+    boni:
+      - question: "From what Latin verb with what meaning is “rate” derived?\t "
+        answer: "REOR (RĒRĪ) - THINK / RECKON"
+      - question: "From what Latin noun with what meaning is “morbidity” derived?"
+        answer: "<latin>MORBUS</latin> - DISEASE / ILLNESS / DISTRESS / VICE"
+  - tossup:
+      question: "These memes represent scenes from the life of Heracles. Provide the numbers for the two scenes that did not take place in Greece, the region of Heracles’ birth and death.\t1 AND 5 B1:\tIdentify the character represented by the letter G, who did not survive his encounter with Heracles, who used an unconventional wrestling style.\t"
+      answer: "ANTAEÜS"
+    boni:
+      - question: "Identify the person who delivered the “worst gift ever” to character E, Heracles, before being blamed for the result."
+        answer: "LICHAS"
+      - question: "Identify the person who delivered the “worst gift ever” to character E, Heracles, before being blamed for the result."
+        answer: "LICHAS"
+  - tossup:
+      question: "For the verb <latin>frangō</latin>, give the nominative singular of the future active participle that means “about to break.”\t"
+      answer: "<latin>FRĀCTŪRUS/A/UM</latin>"
+    boni:
+      - question: "Still using <latin>frangō</latin>, give the infinitive that means “to be broken.”\t"
+        answer: "<latin>FRANGĪ</latin>"
+      - question: "Now change <latin>frangī</latin> to the future, so that it means “to be about to be broken.” \t\t"
+        answer: "FRĀCTUM ĪRĪ"
+  - tossup:
+      question: "Established during the reign of Numa Pompilius and finally renounced by Gratian as part of the move away from paganism, what was the chief religious position in Rome?\t\t"
+      answer: "<latin>PONTIFEX MAXIMUS</latin>"
+    boni:
+      - question: "What other relic of old Rome did Gratian remove from the senate house in 382 AD at the urging of St. Ambrose?\t"
+        answer: "ALTAR OF VICTORY // <latin>ĀRA VICTŌRIAE</latin>"
+      - question: "What commander in Britain defeated Gratian in 382 AD, leading to the sole reign of  Valentinian II?\t"
+        answer: "MAGNUS MAXIMUS"
+  - tossup:
+      question: "Let’s imagine you’re competing in Ludi Netflix and need to search for your favorite show! What Latin noun do you use to look up the show “Arrow”? \t\t"
+      answer: "<latin>SAGITTA / SPĪCULUM / HARUNDŌ / TĒLUM</latin>"
+    boni:
+      - question: "After you watch that show, you want to switch to the kids’ show “PAW Patrol.” What is a Latin noun for “patrol” you would use to find this show? \t\t"
+        answer: "<latin>VIGILIA / VIGIL(ĒS) / CUSTODIA / CUSTOS / CUSTODES / PRAESIDIUM</latin>"
+      - question: "Once you’re done with that, you move on to “Is It Cake?”. What is a Latin word for “cake” you would use to find this show?\t \t\t"
+        answer: "PLACENTA / FARREUM / MUSTACEUS/M / LĪBUM"
+  - tossup:
+      question: "According to Ovid, what woman ignored the urging of Manto to worship Latona, boasting that she was the daughter of a Pleiad and had 14 children, causing Apollo and Diana to kill many of them?\t"
+      answer: "NIOBE"
+    boni:
+      - question: "Who was Niobe’s husband, a king of Thebes?\t"
+        answer: "AMPHION"
+      - question: "Who was Niobe’s father, a son of Jupiter?\t"
+        answer: "TANTALUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Shortly after he arranged the execution of Flavius Clemens, what emperor was betrayed by Petronius Secundus and his own wife, leading to his death and <latin>damnātiō memoriae</latin> in 96 AD? \t"
+      answer: "DOMITIAN"
+    boni:
+      - question: "What butler, with the help of Petronius Secundus and Domitia, murdered Domitian with a knife hidden in an arm bandage?\t"
+        answer: "STEPHANUS"
+      - question: "What commander of two legions at Moguntiacum attempted to proclaim himself emperor against Domitian years prior to his assassination, but was defeated by another Rhine commander, Lappius Maximus?\t"
+        answer: "(L. ANTONIUS) SATURNINUS"
+  - tossup:
+      question: "Using the Latin noun <latin>spēs</latin>, give the form of “hope” in the sentence “They have nothing similar to hope.”\t"
+      answer: "<latin>SPĒĪ</latin>"
+    boni:
+      - question: "Using the Latin words <latin>glaciēs</latin> and <latin>fruor</latin>, say in Latin “We enjoy the ice.” \t\t"
+        answer: "<latin>GLACIĒ FRUIMUR</latin>"
+      - question: "Using the Latin words <latin>dīēs</latin> and <latin>memor</latin>, say in Latin “We are mindful of good days.”\t\t"
+        answer: "(NŌS) SUMUS MEMORĒS DĪĒRUM BONŌRUM"
+  - tossup:
+      question: "Who, after receiving a warning from her husband’s ghost, gathered some of her fellow Tyrians and fled to North Africa, where she bargained with the locals for enough land to found the city of Carthage?\t"
+      answer: "DIDO / ELISSA / PHOENISSA"
+    boni:
+      - question: "Explain the terms of this bargain that Dido made for her land. \t\t"
+        answer: "SHE COULD HAVE AS MUCH LAND AS \t\tCOULD BE ENCOMPASSED / COVERED / SURROUNDED BY A BULL’S HIDE"
+      - question: "Who was Dido’s husband, who warned her about her treacherous brother from the afterlife?\t"
+        answer: "SYCHAEÜS / SYCHARBAS / ACERBAS"
+  - tossup:
+      question: "What use of the subjunctive is found in this sentence: <latin>consumpsī tantum cibī ut vix ambulāre possem</latin>!\t"
+      answer: "RESULT / CONSECUTIVE"
+    boni:
+      - question: "What use of the subjunctive is found in this sentence: <latin>parēmus nōs ad splendidam cēnam!</latin>\t"
+        answer: "HORTATORY / JUSSIVE / OPTATIVE"
+      - question: "What use of the subjunctive is found in this sentence: <latin>servī tōtum diēm labōrāvērunt nē cēnā carērēmus</latin>?\t"
+        answer: "(ADVERBIAL) PURPOSE / FINAL  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What foreign king helped to start the Third Mithridatic War when he bequeathed the kingdom of Bithynia to Rome in 74 BC?\t"
+      answer: "NICOMEDES (IV PHILOPATOR)"
+    boni:
+      - question: "At what opening battle of this war did Mithridates VI defeat Aurelius Cotta?"
+        answer: "CHALCEDON"
+      - question: "What foreign king gave the territory of Cyrene to Rome in 96 BC?\t"
+        answer: "(PTOLEMY) APION"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: ""
+      answer: "In the sentence ”Cicero was elected consul,“ translate ”consul“ into Latin. CONSUL"
+    boni:
+      - question: ""
+        answer: "24 In the sentence ”Caesar put Labienus in charge of the city,“ translate ”city.“ URBI"
+      - question: ""
+        answer: "In the sentence He thinks his son is worthy of praise,” translate “worthy of praise.” DIGNUM LAUDE (LAUDIS)"
+  - tossup:
+      question: ""
+      answer: "Give the nominative plural of the phrase <latin>vulnus grave</latin>. VULNERA GRAVIA"
+    boni:
+      - question: ""
+        answer: "602 Make the adjective comparative. GRAVIORA"
+      - question: ""
+        answer: "Make it superlative. GRAVISSIMA"
+  - tossup:
+      question: "Who killed the Calydonian Boar?"
+      answer: "MELEAGER"
+    boni:
+      - question: "2828 What object, safeguarded by his mother, represented Meleager's lifespan?"
+        answer: "A PIECE OF FIREWOOD"
+      - question: "Who was his mother?"
+        answer: "ALTHAEA"
+  - tossup:
+      question: "Rome was once saved from her enemies by the noises of what animals?"
+      answer: "THE GEESE"
+    boni:
+      - question: "5857 What enemy was attacking the citadel?"
+        answer: "GAULS"
+      - question: "What was the year?"
+        answer: "387 BC (OCD, but take 390)"
+  - tossup:
+      question: "In what room of a Roman house would the family's records be kept?"
+      answer: "TABLINUM"
+    boni:
+      - question: "5707 What was the name of the colonnaded garden?"
+        answer: "PERISTYLIUM"
+      - question: "What was the name of the slave who guarded the door?"
+        answer: "IANITOR/OSTIARIUS"
+  - tossup:
+      question: "What is the Latin verb that means “to learn”?"
+      answer: "DISCERE/COGNOSCERE"
+    boni:
+      - question: "494 What is the perfect active infinitive of <latin>discere</latin>?"
+        answer: "DIDICISSE"
+      - question: ""
+        answer: "Translate the sentence “We must learn these things.” HAEC NOBIS DISCENDA SUNT/HAEC NOS DISCERE OPORTET/ etc."
+  - tossup:
+      question: "What centaur insulted Deianeira and was killed by Heracles?"
+      answer: "NESSUS"
+    boni:
+      - question: "3025 What kindly centaur tutored Asclepius, Achilles and others?"
+        answer: "CHIRON"
+      - question: "At whose wedding did the Centaurs attack the guests and try to carry off the bride?"
+        answer: "THAT OF PIRITHOUS AND HIPPODAMIA"
+  - tossup:
+      question: "What foreign enemy referred to Rome as a “city for sale”?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "5476 What Roman commander led a successful campaign against Jugurtha but couldn't force him to surrender?"
+        answer: "Q. CAECILIUS METELLUS"
+      - question: "Who took over the command from him?"
+        answer: "MARIUS"
+  - tossup:
+      question: ""
+      answer: "Give the Latin noun with its meaning from which the English word “umbrella” is derived. UMBRA=SHADE"
+    boni:
+      - question: "110 From what Latin verb does “usury” come?"
+        answer: "UTOR, UTI"
+      - question: "What derivative of <latin>umbra</latin> means “resentment”?"
+        answer: "UMBRAGE"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between <latin>viri</latin> and <latin>vires</latin>. VIRI=MEN, VIRES=STRENGTH"
+    boni:
+      - question: ""
+        answer: "559 BEtween <latin>ara</latin> and <latin>ala</latin>. ARA=ALTAR ALA=WING"
+      - question: ""
+        answer: "Between <latin>dolus</latin> and <latin>dolor</latin>. DOLUS=TRICK, DOLOR=PAIN, GRIEF"
+  - tossup:
+      question: "Who was Augustus' gifted nephew, praised by Vergil?"
+      answer: "MARCELLUS"
+    boni:
+      - question: "5845 When did he die?"
+        answer: "23 BC"
+      - question: "To whom was he married?"
+        answer: "JULIA"
+  - tossup:
+      question: "Who defeated Maxentius in 312 AD at the Battle of the Mulvian Bridge?"
+      answer: "CONSTANTINE"
+    boni:
+      - question: "5014 When Roman emperor gained renown by conquering Zenobia, Queen of Palmyra?"
+        answer: "AURELIAN"
+      - question: "For what structure is Aurelian remembered?"
+        answer: "WALL AROUND ROME"
+  - tossup:
+      question: "In what declension is the present active participle declined?"
+      answer: "THIRD"
+    boni:
+      - question: "230 What is the only tense in which both voices OF the participle exist?"
+        answer: "FUTURE"
+      - question: "A participle is half verb and half what other part of speech?"
+        answer: "ADJECTIVE"
+  - tossup:
+      question: ""
+      answer: "Name a neuter nominative plural which does not end with -a. QUAE, HAEC, DUO, AMBO"
+    boni:
+      - question: "755 What two kinds of pronoun can quae be?"
+        answer: "RELATIVE AND INTERROGATIVE"
+      - question: "What is it called when a relative pronoun takes its case from its antecedent rather than from its function in its own clause?"
+        answer: "CASE BY ATTRACTION"
+  - tossup:
+      question: "In mythology, what is the later and more familiar name of Podarces?"
+      answer: "PRIAM"
+    boni:
+      - question: "2504 Who killed Priam before the altar of Zeus?"
+        answer: "PYRRHUS (NEOPTOLEMUS)"
+      - question: "Who was Priam's brother, husband of Eos?"
+        answer: "TITHONUS"
+  - tossup:
+      question: "What deity did Cassiopeia anger by boasting of her daughter's beauty?"
+      answer: "POSEIDON (or the NEREIDS)"
+    boni:
+      - question: "2733 What deity did Medusa offend?"
+        answer: "ATHENA"
+      - question: "Who out of jealousy turned Scylla into a horrible monster?"
+        answer: "CIRCE"
+  - tossup:
+      question: "What Latin noun is contained in “maintain” and “maneuver”?"
+      answer: "MANUS"
+    boni:
+      - question: "1071 What other noun is also in “maneuver”?"
+        answer: "OPUS"
+      - question: "What verb combines with manus to form a verb meaning “set free”?"
+        answer: "MITTO (CAPIO)"
+  - tossup:
+      question: "What Latin noun is the root of the adjectve “cordial”?"
+      answer: "COR"
+    boni:
+      - question: "127 What is the nominative plural?"
+        answer: "CORDA"
+      - question: "What is the meaning of the noun misericordia?"
+        answer: "PITY, COMPASSION"
+  - tossup:
+      question: "How did Odysseus' men escape the call of the Sirens?"
+      answer: "WAX IN THEIR EARS"
+    boni:
+      - question: "2622 What cannibals did they encounter?"
+        answer: "LAESTRYGONIANS"
+      - question: "What was the name of Circe's island?"
+        answer: "AEAEA"
+  - tossup:
+      question: ""
+      answer: "Translate the verb form cepisse. TO HAVE CAPTURED"
+    boni:
+      - question: ""
+        answer: "1019 Translate capiebamini. Y'ALL WERE BEING CAPTURED."
+      - question: ""
+        answer: "Translate capieris. YOU WILL BE CAPTURED."

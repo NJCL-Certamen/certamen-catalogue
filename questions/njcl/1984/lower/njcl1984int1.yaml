@@ -1,0 +1,208 @@
+tournament: "NJCL Certamen"
+year: 1984
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "Who was Cicero's first wife?"
+      answer: "TERENTIA"
+    boni:
+      - question: "5296 Did she die before or after Cicero?"
+        answer: "AFTER"
+      - question: "."
+        answer: "Name their two children. MARCUS AND TULLIA"
+  - tossup:
+      question: "."
+      answer: "What previously great power did the Romans defeat decisively"
+    boni:
+      - question: "5421 at the Battle of Pydna?"
+        answer: "MACEDONIA"
+      - question: "What was the year?"
+        answer: "168 BC"
+      - question: "."
+        answer: "What son and namesake of a famous general was commander"
+      - question: "there?"
+        answer: "LUCIUS AEMILIUS PAULLUS"
+  - tossup:
+      question: "Who was Crete's most famous king?"
+      answer: "MINOS"
+    boni:
+      - question: "Who was his queen?"
+        answer: "PASIPHAE"
+      - question: "What monster did she bear?"
+        answer: "THE MINOTAUR"
+  - tossup:
+      question: "."
+      answer: "What is the third person plural active pluperfect subjunctive"
+    boni:
+      - question: "261 of struo?"
+        answer: "STRUXISSENT"
+      - question: "."
+        answer: "What is the first person plural imperfect active subjunctive"
+      - question: "of careo?"
+        answer: "CAREREMUS"
+      - question: "."
+        answer: "What is the third person singular imperfect passive subjunctive"
+      - question: "of laudo?"
+        answer: "LAUDARETUR"
+  - tossup:
+      question: "What marked a Roman boy's transition to manhood?"
+      answer: "DONNING THE TOGA VIRILIS"
+    boni:
+      - question: "5503 What kind had he worn before?"
+        answer: "TOGA PRAETEXTA"
+      - question: "What kind of apparel was a cucullus?"
+        answer: "A HOOD"
+  - tossup:
+      question: "What does the verb parcere mean?"
+      answer: "SPARE, BE MERCIFUL"
+    boni:
+      - question: "492 What is its third person plural future active indicative?"
+        answer: "PARCENT"
+      - question: "."
+        answer: "Translate: “They will be merciful to their daughters.”"
+      - question: "."
+        answer: "SUIS FILIABUS PARCENT."
+  - tossup:
+      question: "In Latin, ask your neighbor, “Why are you sitting?” CUR SEDES? 55 Ask him what he is doing. QUID AGIS? QUID FACIS?"
+      answer: ""
+    boni:
+      - question: "Ask him where the slaves are. UBI SUNT SERVI?"
+        answer: "undefined"
+  - tossup:
+      question: "How many declensions are there?"
+      answer: "FIVE"
+    boni:
+      - question: "925 How many conjugations?"
+        answer: "FOUR"
+      - question: "What two groups is the third conjugation generally subdivided into?"
+        answer: "THIRD AND THIRD -IO"
+  - tossup:
+      question: "Quod nomen est animali quod volat?"
+      answer: "AVIS"
+    boni:
+      - question: "747 Quod nomen est animali quod mel facit?"
+        answer: "APIS"
+      - question: "Quod nomen est animali quod regem silvae vocamus?"
+        answer: "LEO"
+      - question: "."
+        answer: "bestiarum"
+  - tossup:
+      question: "."
+      answer: "Who was the British queen who led a revolt during the reign"
+    boni:
+      - question: "5521 of Nero?"
+        answer: "BOUDICCA (BOADICEA)"
+      - question: "."
+        answer: "What was the title or name of the queen of the Ethiopians"
+      - question: "who attacked the Roman forces during the reign of Augustus?"
+        answer: "CANDACE"
+      - question: "."
+        answer: "Who was the queen of Palmyra who revolted against the Romans"
+      - question: "during the reign of Aurelian?"
+        answer: "ZENOBIA"
+  - tossup:
+      question: "Whom did Pluto kidnap and make his queen?"
+      answer: "PROSERPINA"
+    boni:
+      - question: "3157 Who was Proserpina's grieving mother?"
+        answer: "CERES"
+      - question: "Who was Proserpina's father?"
+        answer: "JUPITER"
+  - tossup:
+      question: "."
+      answer: "What fabulous herb was used to counteract the spells of"
+    boni:
+      - question: "2630 Circe?"
+        answer: "MOLY"
+      - question: "What hero used the herb?"
+        answer: "ODYSSEUS"
+      - question: "Who gave it to him?"
+        answer: "HERMES"
+  - tossup:
+      question: "What is the antonym of <u>magnus</u>?"
+      answer: "PARVUS"
+    boni:
+      - question: "594 What is the adverb of <u>parvus</u>?"
+        answer: "PARUM"
+      - question: "What is the superlative of <u>parum</u>?"
+        answer: "MINIME"
+  - tossup:
+      question: "."
+      answer: "What is the meaning in English of the Latin phrase <u>sine</u>"
+    boni:
+      - question: "111 <u>qua non</u>?"
+        answer: "A NECESSITY, SOMETHING INDISPENSABLE"
+      - question: "."
+        answer: "Give the meaning of these phrases as they are used in English:"
+      - question: "."
+        answer: "<u>mutatis mutandis</u> THE NECESSARY CHANGES HAVING BEEN MADE"
+      - question: "."
+        answer: "<u>ne plus ultra</u> PERFECTION, THE UTMOST"
+  - tossup:
+      question: "Who killed the villain Procrustes?"
+      answer: "THESEUS"
+    boni:
+      - question: "2671 What was the name of the Pine-Bender?"
+        answer: "SINIS"
+      - question: "."
+        answer: "What villain killed by Theseus compelled passersby to wash"
+      - question: "his feet and kicked them over a cliff as they did so?"
+        answer: "SCIRON"
+  - tossup:
+      question: "."
+      answer: "Who was chained to the Caucasus Mountains for bringing fire"
+    boni:
+      - question: "2893 to men?"
+        answer: "PROMETHEUS"
+      - question: "Who released him?"
+        answer: "HERCULES"
+      - question: "Who was Prometheus' brother?"
+        answer: "EPIMETHEUS"
+  - tossup:
+      question: "."
+      answer: "What Latin noun is at the root of the English adjective"
+    boni:
+      - question: "160 “nominative”?"
+        answer: "NOMEN"
+      - question: "What English noun is derived from <u>honestas</u>?"
+        answer: "HONESTY"
+      - question: "."
+        answer: "What Latin verb is the root of a noun in English which is"
+      - question: "commonly shortened to TV?"
+        answer: "VIDERE"
+  - tossup:
+      question: "."
+      answer: "What is the exact date in Roman dating of the death of Julius"
+    boni:
+      - question: "167 Caesar?"
+        answer: "IDIBUS MARTIIS (IDUS MARTIAE)"
+      - question: "What is the date of Cicero's death?"
+        answer: "A.D. VII IDUS DECEMBRES"
+      - question: "."
+        answer: "(ANTE DIEM SEPTIMUM...)"
+      - question: "What is the date of the eruption of Vesuvius?"
+        answer: "A.D. IX KALENDAS"
+      - question: "."
+        answer: "SEPTEMBRES (ANTE DIEM NONUM...)"
+  - tossup:
+      question: "In what year was Rome founded?"
+      answer: "753 BC"
+    boni:
+      - question: "5026 What year marked the beginning of the Republic?"
+        answer: "509 BC"
+      - question: "In what year did Caesar die?"
+        answer: "44BC"
+  - tossup:
+      question: "."
+      answer: "Give the second person plural imperfect active indicative"
+    boni:
+      - question: "."
+        answer: "877 of <u>capio</u>. CAPIEBATIS"
+      - question: "."
+        answer: "Make that form passive. CAPIEBAMINI"
+      - question: "."
+        answer: "Make <u>capiebamini</u> subjunctive. CAPEREMINI"
+      - question: "."
+        answer: "#"

@@ -1,0 +1,168 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Semifinals"
+questions:
+
+  - tossup:
+      question: "Which of these is not from the Latin verb lavo: lavish, lavender, laundry, lotion?"
+      answer: "LAVENDER"
+    boni:
+      - question: "Which is not from claudo: close (adj), closet, cluster, cloister?"
+        answer: "CLUSTER"
+      - question: "Which of these is not from mitto: mass (the Catholic service), mess, message, miss (verb)?"
+        answer: "MISS"
+  - tossup:
+      question: "What do we call a dependent clause introduced by si or nisi?"
+      answer: "CONDITIONAL"
+    boni:
+      - question: "If the sentence is a “should-would,” what tense of the subjunctive is used in both clauses?"
+        answer: "PRESENT"
+      - question: "If it is present contrary-to-fact, what tense of the subjunctive is used in both clasues?"
+        answer: "IMPERFECT"
+  - tossup:
+      question: "What is the perfect active infinitive of fero?"
+      answer: "TULISSE 398"
+    boni:
+      - question: "Of aufero?"
+        answer: "ABSTULISSE"
+      - question: "Of suffero?"
+        answer: "SUSTULISSE"
+  - tossup:
+      question: "What were pillei, causiae and petasi?"
+      answer: "TYPES OF HATS"
+    boni:
+      - question: "What were mullei, soleae and calcei?"
+        answer: "TYPES OF SHOES"
+      - question: "What were carrucae, cisia, carpenta and raedae?"
+        answer: "CARTS, VEHICLES"
+  - tossup:
+      question: "What is the meaning of clam?"
+      answer: "SECRETLY 533"
+    boni:
+      - question: "What is an English derivative?"
+        answer: "CLANDESTINE"
+      - question: "What is the Latin antonym?"
+        answer: "CORAM"
+  - tossup:
+      question: "Who was Circe's niece?"
+      answer: "MEDEA"
+    boni:
+      - question: "What was Medea's father?"
+        answer: "AEETES"
+      - question: "Who was her brother?"
+        answer: "ABSYRTUS"
+  - tossup:
+      question: "."
+      answer: "Translate into idiomatic English the Latin phrase ex tempore. SPONTANEOUS, -LY, ON THE SPUR OF THE MOMENT"
+    boni:
+      - question: "."
+        answer: "Pro tempore. FOR NOW, FOR THE TIME BEING, TEMPORARY, -LY"
+      - question: "."
+        answer: "Sine die. INDEFINITELY, WITH NO NEW TIME SET"
+  - tossup:
+      question: "What case is the person addressed in after hortor, oro, moneo and rogo?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Mando, impero and persuadeo all put the person addressed in what case?"
+        answer: "DATIVE"
+      - question: "What case after peto and postulo?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Where was Sextus Pompeius defeated by Octavian's forces?"
+      answer: "THE BATTLE OF NAULOCHUS 5457"
+    boni:
+      - question: "Whom had Octavian married earlier in an attempt to conciliate Sextus Pompeius?"
+        answer: "SCRIBONIA"
+      - question: "Who commanded Octavian's fleet at Naulochus?"
+        answer: "M. VIPSANIUS AGRIPPA"
+  - tossup:
+      question: "What was the job of a publicanus?"
+      answer: "TAX COLLECTOR"
+    boni:
+      - question: "5524 Which magistrates were inspectors of markets?"
+        answer: "EDILES"
+      - question: "What was a censor's term of office?"
+        answer: "18 MONTHS"
+  - tossup:
+      question: "What deity was torn from his dead mother's body and sewn into Jupiter's thigh?"
+      answer: "BACCHUS/DIONYSUS"
+    boni:
+      - question: "What unfortunate king of Thebes opposed the introduction of the worship of his kinsman Bacchus?"
+        answer: "PENTHEUS"
+      - question: "Into what did Bacchus transform a band of unruly pirates?"
+        answer: "DOLPHINS"
+  - tossup:
+      question: "Who was the paternal grandfather of Achilles?"
+      answer: "AEACUS"
+    boni:
+      - question: "Wher was Achilles hidden by his mother to keep him out of the Trojan War?"
+        answer: "THE COURT OF KING LYCOMEDES ON SCYROS"
+      - question: "What hero did Lycomedes kill, in some versions?"
+        answer: "THESEUS"
+  - tossup:
+      question: "What Latin prepositional phrase describes legislation directed for or against an individual?"
+      answer: "AD HOMINEM"
+    boni:
+      - question: "What phrase describes a tax levied on the actual value of an item?"
+        answer: "AD VALOREM"
+      - question: "What phrase in English is a truncated Latin prepositional phrase meaning “at will” or “at whim”?"
+        answer: "AD LIB"
+  - tossup:
+      question: "By way of French, what Latin compound verb gives us our verb “pursue”?"
+      answer: "PROSEQUOR"
+    boni:
+      - question: "What Latin adjective is a contraction of the present active participle of provideo?"
+        answer: "PRUDENS"
+      - question: "Do “survey” and “convey” have the same root verb?"
+        answer: "NO"
+      - question: "."
+        answer: "SURVEY = SUPER + VIDEO; CONVEY = CUM + VIARE"
+  - tossup:
+      question: "What is the imperative singular active of the verb facio?"
+      answer: "FAC"
+    boni:
+      - question: "What is the imperative plural of esse?"
+        answer: "ESTE"
+      - question: "What is the singular imperative active of capio?"
+        answer: "CAPE"
+  - tossup:
+      question: "What was Rome's annona?"
+      answer: "THE GRAIN SUPPLY"
+    boni:
+      - question: "What was Rome's nearest port?"
+        answer: "OSTIA"
+      - question: "Claudius made improvements to Ostia's harbor to make it competitive with a port about 140 miles to the south, which up to then had been more important in the grain trade. What was this other port?"
+        answer: "PUTEOLI"
+  - tossup:
+      question: "Cato the Younger, a conservative opponent to Caesar, was what kin to Cato the Elder?"
+      answer: "GREAT-GRANDSON"
+    boni:
+      - question: "Scipio Aemilianus destroyed Carthage. What kin was he to Scipio Africanus?"
+        answer: "ADOPTED GRANDSON"
+      - question: "What kin was Seneca the Younger, Nero's tutor, to Seneca the Elder?"
+        answer: "SON"
+  - tossup:
+      question: "What spurned admirer of Apollo turned into a sunflower?"
+      answer: "CLYTIE"
+    boni:
+      - question: "Daphne spurned him; what did she turn into?"
+        answer: "THE LAUREL"
+      - question: "Whom did Marpessa prefer to Apollo?"
+        answer: "IDAS"
+  - tossup:
+      question: "Who was the Roman consul who won the Battle of Cape Ecnomus and invaded Africa?"
+      answer: "ATILIUS REGULUS"
+    boni:
+      - question: "What commander defeated Regulus in the Valley of Bagradas?"
+        answer: "XANTHIPPUS, A SPARTAN MERCENARY WORKING FOR CARTHAGE"
+      - question: "What happened to Regulus?"
+        answer: "ALLOWED TO RETURN TO ROME TO SEEK PEACE, HE TOLD THE ROMANS TO KEEP FIGHTING; HE RETURNED TO CARTHAGE AND WAS EXECUTED."
+  - tossup:
+      question: "What was striking about the two sons of Molione?"
+      answer: "THEY WERE SIAMESE TWINS"
+    boni:
+      - question: "What were their names?"
+        answer: "EURYTUS AND CTEATUS"
+      - question: "Whom did they kill?"
+        answer: "IPHICLES (and DAMEON)"

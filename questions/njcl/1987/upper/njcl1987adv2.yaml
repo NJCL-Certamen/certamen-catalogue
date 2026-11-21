@@ -1,0 +1,178 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Advanced"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "Distinguish in meaning between lateo and pateo."
+    boni:
+      - question: "."
+        answer: "LATEO = LIE HIDDEN, BE UNCLEAR"
+      - question: "."
+        answer: "PATIO = LIE OPEN, BE OBVIOUS"
+      - question: "."
+        answer: "Translate patior. SUFFER, ALLOW, PERMIT"
+      - question: "."
+        answer: "Translate potior. TAKE POSSESSION OF"
+  - tossup:
+      question: "."
+      answer: "Complete the analogy: Dido:Belus:: :Latinus. LAVINIA"
+    boni:
+      - question: "."
+        answer: "Memnon:Eos:: :Thetis. ACHILLES"
+      - question: "."
+        answer: "Polyxena:Hector:: :Turnus. JUTURNA"
+  - tossup:
+      question: "."
+      answer: "In poetry you often find shortened or compressed words."
+    boni:
+      - question: "What is the full form of amasti?"
+        answer: "AMAVISTI"
+      - question: "What is the technical term for the dropping of a final vowel?"
+        answer: "APOCOPE"
+      - question: "What is the term for the loss of a letter or syllable within a word?"
+        answer: "SYNCOPE"
+  - tossup:
+      question: "What figure of speech is the reversal of the natural or logical order of ideas?"
+      answer: "HYSTERON-PROTERON"
+    boni:
+      - question: "What figure of speech is the expression of an affirmative by the negation of its opposite?"
+        answer: "LITOTES"
+      - question: "What figure of speech is the adaptation of sound to sense in the usage of words?"
+        answer: "ONOMATOPOEIA"
+  - tossup:
+      question: "What Greek did Homer call “the wily one”?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Whom did Homer call “rosy-fingered”?"
+        answer: "DAWN (EOS, AURORA)"
+      - question: "Whom does Homer call “ox-eyed”?"
+        answer: "HERA"
+  - tossup:
+      question: "What event during Domitian's rule seems to mark his transition from firm but fair ruler to despot?"
+      answer: "THE REBELLION OF SATURNINUS"
+    boni:
+      - question: "Where was Saturninus provincial governor?"
+        answer: "UPPER GERMANY"
+      - question: "What governor of Lower Germany, remaining loyal to Domitian, crushed the revolt and killed Saturninus?"
+        answer: "LAPPIUS MAXIMUS"
+  - tossup:
+      question: "How would a Roman say “one hundred miles”?"
+      answer: "CENTUM MILIA PASSUUM"
+    boni:
+      - question: "Two hundred miles?"
+        answer: "DUCENTA MILIA PASSUUM"
+      - question: "One thousand miles?"
+        answer: "MILLE MILIA PASSUUM"
+  - tossup:
+      question: "What were the equine antagonists of Hercules?"
+      answer: "THE MARES OF DIOMEDES"
+    boni:
+      - question: "What was the porcine antagonist of Hercules?"
+        answer: "THE ERYMANTHIAN BOAR"
+      - question: "What were his avian antagonists?"
+        answer: "THE STYMPHALIAN BIRDS"
+  - tossup:
+      question: "Who was the mother of Neoptolemus?"
+      answer: "DEIDAMIA"
+    boni:
+      - question: "By what other name is he known?"
+        answer: "PYRRHUS"
+      - question: "Who had to be sacrificed on Achilles' team?"
+        answer: "POLYXENA"
+  - tossup:
+      question: "In Ovid's account, what mythical queen founded Babylon?"
+      answer: "semiramis"
+    boni:
+      - question: "What portent marked the site of Cadmus' future city?"
+        answer: "A COW LAY DOWN"
+      - question: "Who, according to legend, founded Alba Longa?"
+        answer: "ASCANIUS (IULUS)"
+  - tossup:
+      question: "Whose triumphal arch stands adjacent to the Colosseum?"
+      answer: "CONSTANTINE'S"
+    boni:
+      - question: "."
+        answer: "Name the two arches which stand at opposite ends of the Roman Forum. THE ARCHES OF TITUS AND SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "."
+      answer: "Make ferunt singular. FERT"
+    boni:
+      - question: "."
+        answer: "Make fert subjunctive. FERAT"
+      - question: "."
+        answer: "Make ferat imperfect. FERRET"
+  - tossup:
+      question: "."
+      answer: "Who wrote the famous line:"
+    boni:
+      - question: "O fortunatam natam me consule Romam?"
+        answer: "CICERO"
+      - question: "To what year is the reference?"
+        answer: "63 BC"
+      - question: "What is the meter?"
+        answer: "DACTYLIC HEXAMETER"
+  - tossup:
+      question: "."
+      answer: "Using a deponent, say: “I shall speak.” LOQUAR (FABOR)"
+    boni:
+      - question: "What other form, besides first person singular future indicative, is loquar?"
+        answer: "FIRST SING. PRESENT SUBJUNCTIVE"
+      - question: "."
+        answer: "Give the plural imperativ of loquor. LOQUIMINI"
+  - tossup:
+      question: "What omen did the Tyrians dig up in Carthage on the spot of Juno's temple?"
+      answer: "A HORSE HEAD"
+    boni:
+      - question: "How much land were Dido's followers given by the hostile Africans?"
+        answer: "ONLY WHAT THEY COULD COVER WITH A BULL'S HIDE"
+      - question: "What was the original name for the spot, from the Greek word for “hide”?"
+        answer: "BYRSA"
+  - tossup:
+      question: "What English adjective comes from the diminutive of pars?"
+      answer: "PARTICULAR"
+    boni:
+      - question: "What English word for snow or rain comes from the Latin for “head”?"
+        answer: "PRECIPITATION"
+      - question: "What English word for a part of the blood means literally “little body”?"
+        answer: "CORPUSCLE"
+  - tossup:
+      question: "What day in ancient Rome was leap day instead of February 29?"
+      answer: "FEBRUARY 24 WAS 48 HOURS LONG."
+    boni:
+      - question: "."
+        answer: "The addition of what two months to the Roman calendar explains why September is the ninth month, not the seventh as its name shows it used to be. JANUARY AND FEBRUARY"
+      - question: "By Roman reckoning, on what day is an American president inaugurated?"
+        answer: "a.d. XIII KAL. FEB. (January 20)"
+  - tossup:
+      question: "What was the shawl worn by many women over the stola?"
+      answer: "PALLA"
+    boni:
+      - question: "What was the hooded raincoat worn by many Roman travelers?"
+        answer: "PAENULA"
+      - question: "What was the light brightly-colored garment often worn by men at banquets?"
+        answer: "THE SYTHESIS"
+  - tossup:
+      question: "What enemy army captured Rome in 455 AD?"
+      answer: "THE VANDALS"
+    boni:
+      - question: "Who was their commander?"
+        answer: "GAISERIC"
+      - question: "What important city had the Vandals captured and held since 439?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "What case is the subject of a historical infinitive?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "."
+        answer: "What case would be needed for “I” in the sentence “I"
+      - question: "must go,” assuming a passive periphrastic is used?"
+        answer: "DATIVE"
+      - question: "."
+        answer: "In the sentence, “Caesar is said to have been a good"
+      - question: "general,” what case would “general” take?"
+        answer: "NOMINATIVE"
+      - question: "."
+        answer: "#"

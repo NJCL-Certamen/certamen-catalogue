@@ -1,0 +1,179 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Advanced"
+round: "Semifinals"
+questions:
+
+  - tossup:
+      question: "What groups got into a fierce battle at the wedding of Pirithous and Hippodamia?"
+      answer: "THE LAPITHS AND CENTAURS"
+    boni:
+      - question: "2660 At the wedding feast of Perseus and Andromeda, Andromeda's uncle, her former betrothed, attacked. What was his name?"
+        answer: "PHINEUS"
+      - question: "At whose wedding did Eris hurl her famous apple?"
+        answer: "THE WEDDING OF PELEUS AND THETIS"
+  - tossup:
+      question: "."
+      answer: "Give the Latin and the English for R."
+  - tossup:
+      question: "."
+      answer: "P."
+    boni:
+      - question: "."
+        answer: "REQUIESCAT IN PACE - MAY HE REST IN PEACE"
+      - question: "."
+        answer: "175 Give the Latin and the English for Q.E.D."
+      - question: "."
+        answer: "QUOD ERAT DEMONSTRANDUM - THAT WHICH HAD TO BE PROVED"
+      - question: "."
+        answer: "Give the Latin and the English for cf."
+      - question: "."
+        answer: "CONFER - COMPARE"
+  - tossup:
+      question: "Who wrote an epic poem on the Roman civil war?"
+      answer: "LUCAN"
+    boni:
+      - question: "7703 Although it is usually called the Pharsalia, what is its more proper title?"
+        answer: "BELLUM CIVILE"
+      - question: "What is its number of books?"
+        answer: "TEN"
+  - tossup:
+      question: "."
+      answer: "Translate this sentence: ne pugnemus. LET'S NOT FIGHT"
+    boni:
+      - question: "."
+        answer: "65 Translate: “I know why you're here.” SCIO CUR ADSIS/-TIS"
+      - question: "."
+        answer: "Translate: “I know why you have come.” SCIO CUR VENERIS/-TIS"
+  - tossup:
+      question: "What is the syntax of O tempora O mores?"
+      answer: "ACCUSATIVE OF EXCLAMATION"
+    boni:
+      - question: "320 What is the case of animis in Tantaene animis caelestibus irae?"
+        answer: "DATIVE"
+      - question: "What Latin verb is the root of the word “dative”?"
+        answer: "DO, DARE"
+  - tossup:
+      question: "What king's name has become an English adjective for a victory too costly to be worthwhile?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "5052 Where was Pyrrhus king?"
+        answer: "EPIRUS"
+      - question: "Where is Epirus?"
+        answer: "NW GREECE, WEST OF MACEDONIA"
+  - tossup:
+      question: "."
+      answer: "Say in Latin: “the same animals.” EADEM ANIMALIA"
+    boni:
+      - question: "."
+        answer: "890 Say “three thousand animals.” TRIA MILIA ANIMALIUM"
+      - question: "."
+        answer: "Say “one thousand animals.” MILLE ANIMALIA"
+  - tossup:
+      question: "What family relationship caused the Myrmidons to fight under Achilles in the Trojan War?"
+      answer: "AEACUS, THEIR KING, WAS ACHILLES' GRANDFATHER"
+    boni:
+      - question: "2524 What son of Aeacus was Achilles' father?"
+        answer: "PELEUS"
+      - question: "Who killed Achilles?"
+        answer: "PARIS (WITH APOLLO'S HELP)"
+  - tossup:
+      question: "How was the next emperor selected after the assassination of Domitian?"
+      answer: "BY THE SENATE"
+    boni:
+      - question: "5377 Whom did the Senate select?"
+        answer: "NERVA"
+      - question: "What are Nerva and his four successors collectively called?"
+        answer: "THE FIVE GOOD EMPERORS"
+  - tossup:
+      question: "What is the present passive infinitive of facio?"
+      answer: "FIERI"
+    boni:
+      - question: "782 What is the Latin for “It will be done”?"
+        answer: "FIET"
+      - question: "For “It has been done”?"
+        answer: "FACTUM EST"
+      - question: "."
+        answer: "-5"
+  - tossup:
+      question: "Which of the following is NOT a derivative of <u>caput</u>: chef, chapter, CHAPLAIN, captain? B1 Which two of the following have the same Latin root: rigid, DIRIGIBLE, and INDIRECT?"
+      answer: ""
+    boni:
+      - question: "B2 Which of the following does NOT have the same root as the others: PANIC, pantry, companion?"
+        answer: "undefined"
+  - tossup:
+      question: "Who in the Aeneid says: “Nascetur pulchra Troianus origine Caesar imperium Oceano, famam qui terminet astris”?"
+      answer: "JUPITER"
+    boni:
+      - question: "B1 Who says: “O fortunati, quorum iam moenia surgunt!”?"
+        answer: "AENEAS"
+      - question: "B2 Who is the first Trojan to address Dido?"
+        answer: "ILIONEUS"
+  - tossup:
+      question: "What Roman writer, speaking in awe of his contemporary Vergil, wrote: “Nescio quid maius nascitur Iliade”?"
+      answer: "PROPERTIUS"
+    boni:
+      - question: "B1 What was Propertius' name for his beloved?"
+        answer: "CYNTHIA"
+      - question: "B2 Where was Propertius born?"
+        answer: "ASSISI"
+  - tossup:
+      question: "What character in mythology was turned into a hoopoe?"
+      answer: "TEREUS"
+    boni:
+      - question: "B1 Who was turned into a woodpecker?"
+        answer: "PICUS"
+      - question: "B2 Who became kingfishers?"
+        answer: "CEYX AND (H) ALCYONE"
+  - tossup:
+      question: "Where could a Roman go to see a <u>bestiarius</u>?"
+      answer: "ARENA/AMPHITHEATER/COLOSSEUM"
+    boni:
+      - question: "B1 In what sort of combat would a <u>bestiarius</u> engage?"
+        answer: "WITH BEASTS"
+      - question: "B2 What elected officials were obliged to put on public games?"
+        answer: "AEDILES"
+  - tossup:
+      question: "Whom did Demeter punish with insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "B1 What god had Sisyphus offended?"
+        answer: "ZEUS"
+      - question: "B2 Who was the father of the centaurs?"
+        answer: "CENTAURUS / IXION"
+  - tossup:
+      question: "Where did Tarquinius Superbus' sons go to learn why a snake had appeared from the foundations of the temple of Jupiter?"
+      answer: "ORACLE AT DELPHI"
+    boni:
+      - question: "B1 Being ambitious men, what else did they ask?"
+        answer: "WHO WOULD RULE ROME NEXT"
+      - question: "B2 What answer did the oracle give?"
+        answer: "WHOEVER KISSED HIS MOTHER FIRST"
+  - tossup:
+      question: "What is the superlative degree of <u>bonus</u>?"
+      answer: "OPTIMUS"
+    boni:
+      - question: "B1 Of <u>malus</u>?"
+        answer: "PESSIMUS"
+      - question: "B2 What is the comparative of <u>bonus</u>?"
+        answer: "MELIOR"
+  - tossup:
+      question: "What was a Roman family's <u>carpentum</u>?"
+      answer: "WAGON"
+    boni:
+      - question: "B1 What Roman vehicle included bunks for its passengers?"
+        answer: "CARRUCA"
+      - question: "B2 What was a <u>lectica</u>?"
+        answer: "A SLAVE-CARRIED LITTER"
+  - tossup:
+      question: "In what speech, made a year after his return from exile, did Cicero make scathing comments on Clodius Pulcher and his sister?"
+      answer: "PRO CAELIO"
+    boni:
+      - question: "B1 This defendant, Caelius Rufus, had what in common with Catullus?"
+        answer: "HE WAS AN EX-LOVER OF CLODIA"
+      - question: "B2 Clodia's husband was consul of Rome in what year, the same year in which the First Triumvirate was formed?"
+        answer: "60 BC"
+      - question: "."
+        answer: "-6"
+      - question: "."
+        answer: "#"

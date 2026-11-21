@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "Translate into Latin the sentence: \"I am running.\""
+      answer: "<latin>CURRO</latin>"
+    boni:
+      - question: "Ask me, \"Why are you running?\""
+        answer: "<latin>CUR CURRIS?</latin>"
+      - question: "Tell me, \"I will also run.\""
+        answer: "<latin>QUOQUE CURRAM.</latin>"
+  - tossup:
+      question: "What is the second person singular perfect active indicative of <latin>capio</latin>?"
+      answer: "<latin>CEPISTI</latin>"
+    boni:
+      - question: "Change <latin>cepisti</latin> to the passive."
+        answer: "<latin>CAPTUS ES</latin>"
+      - question: "Change <latin>cepisti</latin> to the pluperfect."
+        answer: "<latin>CEPERAS</latin>"
+  - tossup:
+      question: "What modern nation corresponds to ancient Gaul?"
+      answer: "FRANCE"
+    boni:
+      - question: "What modern nation corresponds to ancient Helvetia?"
+        answer: "SWITZERLAND"
+      - question: "What modern nation corresponds to ancient Hibernia?"
+        answer: "IRELAND"
+  - tossup:
+      question: "What did the Romans call the relationship between a host and a guest?"
+      answer: "<latin>HOSPITIUM</latin>"
+    boni:
+      - question: "<latin>Clientela</latin> was the name of the relationship between a patron and his clients. By what name was the morning calling hour of clients known?"
+        answer: "SALUTATIO"
+      - question: "At the <latin>salutatio</latin>, a patron often gave his client a dole of food. What was this called?"
+        answer: "SPORTULA"
+  - tossup:
+      question: "Quot aures habes?"
+      answer: "DUAS"
+    boni:
+      - question: "Quot iecora habes?"
+        answer: "UNUM"
+      - question: "Quot pulmones habes?"
+        answer: "DUO (or DUOS)"
+  - tossup:
+      question: "What king succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "Who succeeded Numa?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "Who succeeded Tullus Hostilius?"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "What type of verbs are sequor and hortor?"
+      answer: "DEPONENT"
+    boni:
+      - question: "What is the first person singular perfect subjunctive of <latin>sequor</latin>?"
+        answer: "<latin>SECUTUS SIM</latin>"
+      - question: "What is the third person plural future indicative of hortor?"
+        answer: "<latin>HORTABUNTUR</latin>"
+  - tossup:
+      question: "What was the Latin noun for the Romans' main meal of the day?"
+      answer: "CENA"
+    boni:
+      - question: "What is the Latin noun for \"lunch\"?"
+        answer: "<latin>PRANDIUM</latin>"
+      - question: "What is the Latin noun for \"breakfast\"?"
+        answer: "<latin>IENTACULUM</latin>"
+  - tossup:
+      question: "Who was Julius Caesar's first wife?"
+      answer: "CORNELIA"
+    boni:
+      - question: "Who was his second?"
+        answer: "POMPEIA"
+      - question: "Who was his third?"
+        answer: "CALPURNIA"
+  - tossup:
+      question: "What is the nominative plural of locus?"
+      answer: "LOCA"
+    boni:
+      - question: "What is the genitive plural of mare?"
+        answer: "MARIUM"
+      - question: "What is the neuter nominative plural of vetus?"
+        answer: "VETERA"
+  - tossup:
+      question: "How many maniples composed a Roman legion?"
+      answer: "THIRTY"
+    boni:
+      - question: "What was the army division between a legion and a maniple?"
+        answer: "COHORT"
+      - question: "Roman cavalrymen were called equites; what were infantrymen called?"
+        answer: "PEDITES"
+  - tossup:
+      question: "On what island did Jason find the Golden Fleece?"
+      answer: "COLCHIS"
+    boni:
+      - question: "What was the name of Colchis' king?"
+        answer: "AEETES"
+      - question: "Who was his daughter?"
+        answer: "MEDEA"
+  - tossup:
+      question: "Who was the father of Hannibal?"
+      answer: "HAMILCAR BARCA"
+    boni:
+      - question: "Who was the great delayer against Hannibal?"
+        answer: "Q. FABIUS MAXIMUS CUNCTATOR"
+      - question: "What general received the name Africanus to commemorate his victory over Carthage?"
+        answer: "P. CORNELIUS SCIPIO"
+  - tossup:
+      question: "What Latin noun gives us the English verb \"aviate\"?"
+      answer: "<latin>AVIS</latin>"
+    boni:
+      - question: "What is the English noun for a place birds are kept?"
+        answer: "AVIARY"
+      - question: "What is an apiary?"
+        answer: "A PLACE FOR BEES"
+  - tossup:
+      question: "Who in mythology fell in love with his own reflection?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What nymph loved Narcissus?"
+        answer: "ECHO"
+      - question: "What deity had cursed Echo with the iniability to initiate speece?"
+        answer: "JUNO/HERA"
+  - tossup:
+      question: "What nine-headed monster was slain by Hercules as his second labor?"
+      answer: "HYDRA"
+    boni:
+      - question: "What three=headed monster did he slay on another labor?"
+        answer: "GERYON"
+      - question: "What monster did he kill for stealing his cattle?"
+        answer: "CACUS"
+  - tossup:
+      question: "What Trojan priest was strangled by two serpents?"
+      answer: "LAOCOON"
+    boni:
+      - question: "Why?"
+        answer: "HE HAD SPEARED THE WOODEN HORSE AND TOLD THE TROJANS NOT TO TRUST IT."
+      - question: "Whose priest was Laocoon?"
+        answer: "APOLLO'S OR NEPTUNE'S"
+  - tossup:
+      question: "What part of speech is the Latin word diu?"
+      answer: "ADVERB"
+    boni:
+      - question: "The word deus?"
+        answer: "NOUN"
+      - question: "The word dives?"
+        answer: "ADJECTIVE"
+  - tossup:
+      question: "Who was the boatman of the Styx?"
+      answer: "CHARON"
+    boni:
+      - question: "What was the river of forgetfulness?"
+        answer: "LETHE"
+      - question: "What was the river of fire?"
+        answer: "PHLEGETHON"
+  - tossup:
+      question: "Which of the following is not derived from <latin>vir</latin>: virile, virus, virtue, triumvirate?"
+      answer: "VIRUS"
+    boni:
+      - question: "What disease in English means “crab” in Latin?"
+        answer: "CANCER"
+      - question: "What disease in English means “rage” or “madness” in Latin?"
+        answer: "RABIES"

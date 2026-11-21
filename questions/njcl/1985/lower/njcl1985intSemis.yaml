@@ -1,0 +1,172 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Semifinals"
+questions:
+
+  - tossup:
+      question: "Who was Cadmus' divine grandson?"
+      answer: "BACCHUS"
+    boni:
+      - question: "3004 Who were Bacchus' maternal aunts?"
+        answer: "AGAVE, AUTONOE AND INO"
+      - question: "What first cousin of Bacchus was torn apart by the god's followers?"
+        answer: "PENTHEUS"
+  - tossup:
+      question: "Whom did the Romans defeat at the Battle of Lake Regillus?"
+      answer: "THE LATIN LEAGUE"
+    boni:
+      - question: "In what year did this battle occur?"
+        answer: "496 BC"
+      - question: "What temple was built in the Forum to celebrate the victory?"
+        answer: "THE TEMPLE OF CASTOR AND POLLUX"
+  - tossup:
+      question: "What is the Latin word for “silver”?"
+      answer: "ARGENTUM"
+    boni:
+      - question: "964 For gold?"
+        answer: "AURUM"
+      - question: "For iron?"
+        answer: "FERRUM"
+  - tossup:
+      question: "."
+      answer: "Wait to be recognized and then follow the Latin directions."
+    boni:
+      - question: "."
+        answer: "1025 Tange ambos umeros. STUDENT SHOULD TOUCH BOTH HIS SHOULDERS."
+      - question: "."
+        answer: "Complectere amicum. STUDENT SHOULD HUG A FRIEND."
+      - question: "."
+        answer: "Omnes, state in sellis et conamini volare. ALL SHOULD STAND IN CHAIRS AND TRY TO FLY."
+  - tossup:
+      question: "What Trojan priest was crushed to death by sea serpents as he tried to warn the Trojans about the true nature of the wooden horse?"
+      answer: "LAOCOON"
+    boni:
+      - question: "3179 Who died with him?"
+        answer: "HIS TWO SONS"
+      - question: "What Greek infiltrator was urging the Trojans to accept the horse at face value?"
+        answer: "SINON"
+  - tossup:
+      question: "What was the name of Circe's island?"
+      answer: "AEAEA"
+    boni:
+      - question: "2751 What son of Circe and Odysseus, in a post-Homeric version, later kills Odysseus in an accident?"
+        answer: "TELEGONUS"
+      - question: "What was the name of Calypso's island?"
+        answer: "OGYGIA"
+  - tossup:
+      question: "What is the meaning of the Latin noun at the root of the English adjective “preliminary”?"
+      answer: "DOORSTEP, THRESHOLD"
+    boni:
+      - question: "115α What English verb is from the same Latin root?"
+        answer: "ELIMINATE"
+      - question: "What Latin noun is at the root of the English verb “abominate”?"
+        answer: "OMEN"
+  - tossup:
+      question: "."
+      answer: "Identify the use of the subjunctive in this sentence: Scivimus cur liberi nos sequerentur. INDIRECT QUESTION"
+    boni:
+      - question: "."
+        answer: "237 In these sentences:"
+      - question: "."
+        answer: "Venerunt ut amicos viderent. PURPOSE"
+      - question: "."
+        answer: "Si de ludo scivissem, ivissem. (PAST) CONTRARY-TO-FACT CONDITION"
+  - tossup:
+      question: "."
+      answer: "Name the three Fates. CLOTHO, LACHESIS, ATROPOS"
+    boni:
+      - question: "2725 Which one measures life's thread?"
+        answer: "LACHESIS"
+      - question: "Which one cuts it?"
+        answer: "ATROPOS"
+  - tossup:
+      question: "Quot pulmones tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "18 Quot iecora tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot supercilia tibi sunt?"
+        answer: "DUO"
+  - tossup:
+      question: "By what other name is Damastes known?"
+      answer: "PROCRUSTES (or PROCOPTAS or POLYPEMON)"
+    boni:
+      - question: "What victim of Theseus was called the Pinebender?"
+        answer: "SINIS (or PITYOCAMPTES)"
+      - question: "Which villain killed by Theseus compelled strangers to wrestle with him?"
+        answer: "CERCYON"
+  - tossup:
+      question: "What is the term for such perfect forms as cecini, pepuli and peperi?"
+      answer: "REDUPLICATED"
+    boni:
+      - question: "."
+        answer: "Name a second-conjugation verb with a reduplicated perfect. MORDEO, SPONDEO, TONDEO, PENDEO"
+      - question: "."
+        answer: "Name a first-conjugation verb with a reduplicated perfect. DO, STO"
+  - tossup:
+      question: "Which office usually was the first in the cursus honorum?"
+      answer: "QUAESTOR"
+    boni:
+      - question: "What did the quaestor do?"
+        answer: "ACCOUNTING, TREASURER, paymaster, judge, prosecutor"
+      - question: "What did publicani do?"
+        answer: "COLLECTED TAXES"
+  - tossup:
+      question: "According to tradition (although the evidence proves otherwise), what king founded Ostia?"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "For what purpose did Ancus Marcius found Ostia?"
+        answer: "TO PROVIDE SALT"
+      - question: "As a result of what event did Ostia become Rome's first navy base?"
+        answer: "THE FIRST AND/OR SECOND PUNIC WAR"
+  - tossup:
+      question: "What Latin adverb is an English legal noun and means in Latin “somewhere else”?"
+      answer: "ALIBI"
+    boni:
+      - question: "What English phrase is an unchanged Latin ablative absolute and means “with the situation turned around”?"
+        answer: "VICE VERSA"
+      - question: "What is an English noun, unchanged from Latin, which means “judge” or “mediator”?"
+        answer: "ARBITER"
+  - tossup:
+      question: "What cases can show possession?"
+      answer: "GENITIVE AND DATIVE"
+    boni:
+      - question: "What cases can show agent?"
+        answer: "DATIVE AND ABLATIVE"
+      - question: "What two cases can be prepositional objects?"
+        answer: "ACCUSATIVE AND ABLATIVE"
+  - tossup:
+      question: "Who was the first prefect of the new province of Egypt?"
+      answer: "(C. CORNELIUS) GALLUS"
+    boni:
+      - question: "Why was he recalled in disgrace?"
+        answer: "HE HAD SET UP STATUES OF HIMSELF"
+      - question: "How did he react to the recall and the accusation of treason?"
+        answer: "HE COMMITTED SUICIDE"
+  - tossup:
+      question: "What is the perfect active infinitive of frango?"
+      answer: "FREGISSE"
+    boni:
+      - question: "Of tango?"
+        answer: "TETIGISSE"
+      - question: "Of iungo?"
+        answer: "IUNXISSE"
+  - tossup:
+      question: "Which pronoun - is, hic, ille or iste - emphasizes the nearness of the thing it modifies?"
+      answer: "HIC"
+    boni:
+      - question: "Which of the four has a derogatory tone?"
+        answer: "ISTE"
+      - question: "Which of them is the root of the definite article in all the Romance languages?"
+        answer: "ILLE"
+  - tossup:
+      question: "What was the purpose of the Lex Titia?"
+      answer: "IT LEGALIZED THE SECOND TRIUMVIRATE"
+    boni:
+      - question: "In what year was the law passed?"
+        answer: "43 BC"
+      - question: "Which member of the Second Tr. was Caesar's Master of the Horse in 44 B.C.?"
+        answer: "LEPIDUS"
+      - question: "."
+        answer: "#"

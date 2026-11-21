@@ -1,0 +1,113 @@
+tournament: "NJCL Certamen"
+year: 1983
+division: "Advanced"
+round: "Semifinals"
+questions:
+
+  - tossup:
+      question: "What Roman historian begins a work: Urbem Roman a principio reges habuere?"
+      answer: "TACITUS"
+    boni:
+      - question: "What is the work?"
+        answer: "THE ANNALS"
+      - question: "What was Tacitus' praenomen?"
+        answer: "WE DON'T KNOW"
+      - question: "."
+        answer: "7711"
+  - tossup:
+      question: "With what Roman writer would you associate these words: Bithynia, passer, Sirmio?"
+      answer: "CATULLUS"
+    boni:
+      - question: "."
+        answer: "Give Catullus' full name. GAIUS VALERIUS CATULLUS"
+      - question: "Where was his birthplace?"
+        answer: "VERONA"
+      - question: "."
+        answer: "5109"
+  - tossup:
+      question: "In what region of Greece do you find Thebes?"
+      answer: "BOEOTIA"
+    boni:
+      - question: "Sparta?"
+        answer: "LACEDEMONIA (or LACONICA)"
+      - question: "Mycenae?"
+        answer: "THE ARGOLID"
+      - question: "."
+        answer: "150"
+  - tossup:
+      question: "What Latin verb is at the root of the English verb “pardon?"
+      answer: "” DONO"
+    boni:
+      - question: "."
+        answer: "Using two different constructions with dono, put this sentence into Latin: “He gives the flower to his wife.”"
+      - question: "."
+        answer: "FLOREM UXORI SUAE DONAT."
+      - question: "."
+        answer: "FLORE UXOREM SUAM DONAT. (parallel with Eng. verb “present”)"
+      - question: "."
+        answer: "5641"
+  - tossup:
+      question: "."
+      answer: "Octavian delivered his grandmother's funeral oration at the age of"
+  - tossup:
+      question: "What was his grandmother's name?"
+      answer: "JULIA"
+    boni:
+      - question: "What kin was she to Julius Caesar?"
+        answer: "SISTER"
+      - question: "Augustus died on August 19, 14 AD. Where had he deposited his will for safekeeping?"
+        answer: "WITH THE VESTAL VIRGINS"
+      - question: "."
+        answer: "673"
+  - tossup:
+      question: "Quot fiunt duo et tres?"
+      answer: "QUINQUE"
+    boni:
+      - question: "Quot fiunt decem minus quattuor?"
+        answer: "SEX"
+      - question: "Quot fiunt duo et septem?"
+        answer: "NOVEM"
+      - question: "."
+        answer: "2885"
+  - tossup:
+      question: "Who loved Syrinx?"
+      answer: "PAN"
+    boni:
+      - question: "Who fell in love with a statue he was carving?"
+        answer: "PYGMALION"
+      - question: "Who fell in love with Adonis when Cupid's arrow scratched her?"
+        answer: "VENUS"
+      - question: "."
+        answer: "2552"
+  - tossup:
+      question: "What brothers are known as the Atridae?"
+      answer: "AGAMEMNON AND MENELAUS"
+    boni:
+      - question: "What was Menelaus' kingdom?"
+        answer: "SPARTA"
+      - question: "What was Agamemnon' kingdom?"
+        answer: "MYCENAE"
+      - question: "."
+        answer: "2592"
+  - tossup:
+      question: "What king sent Aeneas aid from Pallanteum?"
+      answer: "EVANDER"
+    boni:
+      - question: "What wife of King Latinus was a bitter enemy of Aeneas and his followers?"
+        answer: "AMATA"
+      - question: "Which of the following figures in the last six booksof the Aeneid dies first? Mezentius, Turnus, Amata, Camilla?"
+        answer: "MEZENTIUS"
+      - question: "."
+        answer: "326"
+  - tossup:
+      question: "What word would be used to translate “that” in this sentence: “There was no doubt that I was right?"
+      answer: "” QUIN"
+    boni:
+      - question: "."
+        answer: "What word would be used to translate “that” in each of these:"
+      - question: "."
+        answer: "“Cicero persuaded me that I should go.” UT"
+      - question: "."
+        answer: "“I fear that I am wrong.” NE"
+      - question: "."
+        answer: "#"

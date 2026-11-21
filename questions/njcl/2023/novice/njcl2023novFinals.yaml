@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Titus Aebutius Elva held what position, which the dictator Titus Lartius established in 501 BC by appointing a second-in-command to manage his cavalry?\t \t\t"
+      answer: "MAGISTER EQUITUM"
+    boni:
+      - question: "What man was the first to hold the position of <latin>magister equitum</latin> under Lartius, though he was later executed on charges of conspiring to become king?\t \t\t"
+        answer: "SPURIUS CASSIUS (VECELLINUS)"
+      - question: "What man held the position of <latin>magister equitum</latin> under Fabius Maximus Cunctator during the Second Punic War?\t"
+        answer: "(M. MINUCIUS) RUFUS"
+  - tossup:
+      question: "According to this inscription, what is the <latin>praenomen</latin> of the legionary named therein?\t\t"
+      answer: "MARCUS"
+    boni:
+      - question: "In what case are the names <latin>DIANAE</latin> and <latin>APOLLINI</latin>?\t"
+        answer: "DATIVE"
+      - question: "In which of Augustus’ legions did Marcus Firmus serve?\t \t\t"
+        answer: "TWO / SECOND // <latin>(LEGIŌ) II / SECUNDA (AUGUSTA)</latin>"
+  - tossup:
+      question: "For the verb <latin>iubeо̄</latin>, give the form which means in English, “we had ordered”?\t\t"
+      answer: "<latin>IUSSERĀMUS</latin>"
+    boni:
+      - question: "Now change the form of <latin>iusserāmus</latin> to mean in English, “we had been ordered”.\t\t"
+        answer: "<latin>IUSSĪ/AE/A ERĀMUS</latin>"
+      - question: "Now change the form of <latin>iussae erāmus</latin> to mean in English, “we will be ordered”.\t\t"
+        answer: "<latin>IUBĒBIMUR</latin>"
+  - tossup:
+      question: "At the age of nine, what pair of mythological brothers, sons of Poseidon and Iphimedeia, used Mt. Ossa, Mt. Pelion, and Mt. Olympus in their attempt to reach the sky?\t \t\t"
+      answer: "OTUS & EPHIALTES // ALOADAE"
+    boni:
+      - question: "Which two goddesses did the twin giants hope to marry?\t"
+        answer: "HERA & ARTEMIS"
+      - question: "What god did the giants capture in a giant cauldron for three months?\t"
+        answer: "ARES"
+  - tossup:
+      question: "From what Latin noun with what meaning do we derive “malady”, “sojourn” and “diurnal”?\t"
+      answer: "<latin>DIĒS</latin> - DAY"
+    boni:
+      - question: "From what Latin word with what meaning do we derive “precocious” and “dog-biscuit”?"
+        answer: "<latin>COQUŌ</latin> - COOK // <latin>COQUUS</latin> - COOK / CHEF"
+      - question: "From what Latin noun with what meaning do we derive “corset” and “corsage”?"
+        answer: "<latin>CORPUS</latin> - BODY / CORPSE"
+  - tossup:
+      question: "What three-word Latin phrase can be colloquially translated as a “necessity” but, when literally translated, means “without which not”?\t"
+      answer: "<latin>SINE QUĀ NŌN</latin>"
+    boni:
+      - question: "What three-word Latin phrase using that same adverb means “not of sound mind”? \t\t"
+        answer: "<latin>NŌN COMPOS MENTIS</latin>"
+      - question: "What three-word Latin phrase using a different negative word can be colloquially translated as “perfection” but, when literally translated, means “nothing more beyond”? \t\t"
+        answer: "<latin>NĒ PLŪS ULTRĀ</latin>"
+  - tossup:
+      question: "Because Cenchreis claimed that her daughter was more beautiful than Venus, who was cursed with incestuous feelings for her father Cinyras that led to the birth of Adonis?\t\t"
+      answer: "MYRRHA / SMYRNA"
+    boni:
+      - question: "When Adonis was born, he did not emerge from the womb but from what? \t\t"
+        answer: "(MYRRH) TREE"
+      - question: "After Adonis was killed by a boar, what plants sprang from his blood?\t"
+        answer: "ANEMONE(S)"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN ENGLISH the questions that follow:   \t<latin>Asīnus cum mercātōre ambulābat, gerēns multa gravia. Subitō, magnō cum clāmōre mīlitēs appropinquāvērunt. Mercātor clāmābat, “Festinā, ō asīne, aut mīlitēs mēque tēque capient!” Asīnus respondit: “Cōgentne mīlitēs mē portāre plūra?” Mercātor negāvit. Asīnus prōclāmāvit: “Cūr festīnābō? Quid meā refert cui serviam?”</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "What question did the donkey ask the merchant?"
+        answer: "WILL THE SOLDIERS FORCE ME TO CARRY MORE (THINGS THAN YOU DO)?"
+      - question: "What realization does the donkey make that he elaborates upon in his last statement?"
+        answer: "THAT IT DOESN’T MATTER WHOM HE SERVES"
+  - tossup:
+      question: "When recognized by the spotter, perform or describe the following commands: <latin>Pōne caput in mēnsam et lacrimā</latin>"
+      answer: "STUDENT PUTS THEIR HEAD ON THE TABLE AND CRIES"
+    boni:
+      - question: "Now perform or describe these commands: <latin>Cōnsīdite in terrā et ridēte</latin>"
+        answer: "TWO OR MORE STUDENTS SIT ON THE GROUND AND LAUGH"
+      - question: "Now perform or describe these commands: <latin>Cōnsīdite in sellīs et obdormīte</latin>"
+        answer: "TWO OR MORE STUDENTS SIT IN THEIR CHAIRS AND “(FALL A)SLEEP”."
+  - tossup:
+      question: "The calm seven days before and after the winter solstice were named for what woman, who was changed into a bird along with her husband after he died at sea?\t"
+      answer: "(H)ALCYONE"
+    boni:
+      - question: "What was the name of Alcyone’s husband? \t"
+        answer: "CEŸX"
+      - question: "To where was Ceyx sailing when his ship sank in a storm?\t"
+        answer: "(ORACLE OF) DELPHI"
+  - tossup:
+      question: "In which region of the ancient Mediterranean might a merchant have visited the cities Malaca, Valentia, Corduba, and Carthago Nova?\t"
+      answer: "SPAIN / HISPANIA"
+    boni:
+      - question: "In which region of the ancient Mediterranean might a merchant have visited the cities Ephesus, Halicarnassus, Pergamum, and Byzantium?\t"
+        answer: "ASIA (MINOR)"
+      - question: "In which region of the ancient Mediterranean might a merchant have visited the cities Camulodunum, Eboracum, and Aquae Sulis?\t"
+        answer: "BRITAIN / BRITANNIA"
+  - tossup:
+      question: "Which of the following is the closest synonym for <latin>dēleō</latin>: <latin>volō, soleō, līberō, frangō</latin>? \t\t"
+      answer: "<latin>FRANGŌ</latin>"
+    boni:
+      - question: "Which of the following is the closest synonym for <latin>volō, velle</latin>: <latin>capiō, dēsīderō, impellō, pereō</latin>?\t"
+        answer: "<latin>DĒSĪDERŌ</latin>"
+      - question: "Which of the following is the closest synonym for <latin>impellō</latin>: <latin>appellō, cōgō, interficiō, moneō</latin>?\t"
+        answer: "<latin>CŌGŌ</latin>"
+  - tossup:
+      question: "What emperor dealt with incursions by the Suebi, Alans, and Vandals and most notably the Visigoths, when their leader Alaric sacked Rome in 410 AD?\t"
+      answer: "HONORIUS"
+    boni:
+      - question: "To what city did Honorius move the western Roman capital in 408 AD for better protection against the barbarian invasions?"
+        answer: "RAVENNA"
+      - question: "How old was Honorius when he succeeded his father Theodosius I in 395 AD?"
+        answer: "10 (YEARS OLD / YOUNG)"
+  - tossup:
+      question: "After Ixion forced himself upon a cloud that Zeus had substituted for Hera, the cloud gave birth to the namesake of what race of creatures?\t"
+      answer: "CENTAUR(S)"
+    boni:
+      - question: "Which of the following heroes was not a pupil of Cheiron: Actaeon, Jason, Theseus, Achilles?\t"
+        answer: "THESEUS"
+      - question: "What woman, who became a linden tree out of shame, was the mother of Cheiron by Cronus?\t"
+        answer: "PHILYRA"
+  - tossup:
+      question: "For the verb <latin>faciō</latin>, provide the second person singular, perfect, active, indicative form that means “you made.”\t"
+      answer: "<latin>FĒCISTĪ</latin>"
+    boni:
+      - question: "Keeping everything else the same, change <latin>fēcistī</latin> to the passive so that it means “you have been made”"
+        answer: "<latin>FACTUS/A/UM ES</latin>"
+      - question: "For the verb <latin>faciō</latin>, provide the second person plural, present, active, imperative form that means “make” to multiple subjects."
+        answer: "<latin>FACITE</latin>"
+  - tossup:
+      question: "Who, in Book 10 of the <title>Iliad</title>, wears a wolf pelt to spy on the Greek encampment at Troy but is captured and killed by Diomedes and Odysseus during their night raid?\t"
+      answer: "DOLON"
+    boni:
+      - question: "Dolon tells the two Greeks the position of what newly arrived Thracian king, whom the pair track down and kill before dawn?\t"
+        answer: "RHESUS"
+      - question: "What did Dolon ask for as a prize for spying on the Greek camp?\t \t\t"
+        answer: "ACHILLE(U)S’ HORSES / CHARIOT // XANTHUS AND BALIUS"
+  - tossup:
+      question: "Using <latin>volō</latin>, translate the following sentence from English to Latin: Who has never wanted to be taught?\t"
+      answer: "<latin>QUIS NUMQUAM DOCĒRĪ VOLUIT? // \t\tQUĪ / QUAE NUMQUAM DOCĒRĪ VOLUĒRUNT?</latin>"
+    boni:
+      - question: "Translate the following sentence from English to Latin: Two of the lions cared for their mothers.\t"
+        answer: "<latin>DUO EX / DĒ LEŌNIBUS MATRĒS (SUĀS) / MĀTRIBUS (SUĪS) \tCŪRĀVĒRUNT</latin>"
+      - question: "Translate the following sentence from English to Latin: The wounds became worse because no one had washed them.\t"
+        answer: "<latin>VULNERA PEIŌRA FACTA SUNT QUOD / QUONIAM / QUIA NŪLLUS / NŪLLA / NĒMŌ (VULNERA / EA) LĀVĒRAT // \t\tCUM NŪLLUS / NŪLLA / NĒMŌ (VULNERA / EA) LĀVISSET</latin>"
+  - tossup:
+      question: "Change the phrase <latin>maxima celeritās</latin> to the ablative singular so that it fits the sentence “Aurelia won the race with the greatest speed.”\t"
+      answer: "<latin>MAXIMĀ CELERITĀTE</latin>"
+    boni:
+      - question: "Change the phrase <latin>maximā celeritāte</latin> to the accusative plural so that it fits the sentence “planes can achieve the greatest speeds.”\t"
+        answer: "<latin>MAXIMĀS CELERITĀTĒS</latin>"
+      - question: "Change the phrase <latin>maximās celeritātēs</latin> to the genitive plural so that it fits the sentence “Some people have a love for max speeds.”\t"
+        answer: "<latin>MAXIMĀRUM CELERITĀTUM</latin>"
+  - tossup:
+      question: "Which of the following words, if any, comes from a different Latin verb than the others: traitor, extradition, extraction, treacherous?\t"
+      answer: "EXTRACTION"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of “extraction”?"
+        answer: "<latin>TRAHERE</latin> - “TO DRAG / DRAW”"
+      - question: "What Latin verb with what meaning is at the root of “traitor”?"
+        answer: "<latin>TRĀDERE</latin> = “TO HAND OVER” / <latin>DARE</latin> = “TO GIVE”"
+  - tossup:
+      question: "What man helped foil the coup d’etat of Valeria Messalina and Gaius Silius in his position as Claudius’ <latin>praepositus ab epistulīs</latin>?\t"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What Latin title was given to the freedman Callistus, who examined petitions sent to the princeps from the provinces?\t"
+        answer: "<latin>PRAEPOSITUS Ā LIBELLĪS</latin>"
+      - question: "Which of the following provinces, if any, was not annexed by Claudius: Lycia, Noricum, Thrace, Mauretania?\t"
+        answer: "ALL WERE ANNEXED"

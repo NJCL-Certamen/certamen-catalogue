@@ -1,0 +1,387 @@
+tournament: "NJCL Certamen"
+year: 1990
+division: "Novice"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "3246 2,2 | Who was the wife of Hector? Who was his son? Who was his father?"
+      answer: "| ANDROMACHE ASTYANAX PRIAM |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "3468 3,1 | Who was the mother of Romulus and Remus? Who was Rhea Silvia's father? Who was Numitor's evil brother?"
+      answer: "| RHEA SILVIA NUMITOR AMULIUS |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "6258 2,2 | Whose warning saved the Romans from total disaster when the city was attacked by the Gauls in 390 BC? THE SACRED GEESE Who was the leader of the Gauls? Who was the Roman hero of the Capitoline?"
+      answer: "| BRENNUS MARCUS MANLIUS |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "."
+      answer: "969 1,2 | Translate the idiom iter facere. Translate orationem habere. Translate viam munire. | JOURNEY, TRAVEL, MARCH MAKE/GIVE/DELIVER A SPEECH BUILD A ROAD |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "."
+      answer: "33 4,1 | Translate the verb form audeo. Translate audio. Translate augeo. | I DARE I HEAR I ENLARGE, INCREASE |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "3326 1,1 | Neptune was the Roman god of what domain? What land animal was sacred to him? Who was his wife?"
+      answer: "| THE SEA THE HORSE AMPHITRITE |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "6215 4,2 | Who had the Ara Pacis built? What does Ara Pacis mean? In what section of the city was it built?"
+      answer: "| AUGUSTUS ALTAR OF PEACE CAMPUS MARTIUS |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "491 1,1 | What is the Latin word for ”time“? What is its gender? Its declension?"
+      answer: "| TEMPUS NEUTER THIRD |"
+    boni:
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "3306 7,1 | Who was transformed into a laurel? Who became an anemone? What couple became an oak and a linden?"
+      answer: "BAUCIS = LINDEN/LIME, PHILEMON = OAK | DAPHNE ADONIS |"
+  - tossup:
+      question: "What tense in Latin expresses time prior to another definite time in 1241 the past?"
+      answer: "PLUPERFECT"
+    boni:
+      - question: "."
+        answer: "2,1 Give the Latin for ”I had seen.“ VIDERAM"
+      - question: "."
+        answer: "Give the Latin for ”I had been seen.“ VISUS ERAM"
+  - tossup:
+      question: "."
+      answer: "Complete this analogy: The toga virilis was to a man as the ____ 5671 was to a boy. TOGA PRAETEXTA"
+    boni:
+      - question: "8,1 Who wore a toga candida?"
+        answer: "A CANDIDATE FOR OFFICE"
+      - question: "Who wore a tunica angusti clavi?"
+        answer: "A KNIGHT/EQUES"
+  - tossup:
+      question: "Who offered Death her own life in place of that of her husband?"
+      answer: "3416 ALCESTIS"
+    boni:
+      - question: "9,2 Who was her husband?"
+        answer: "ADMETUS"
+      - question: "Who wrestled Death and saved Alcestis?"
+        answer: "HERACLES/HERCULES"
+  - tossup:
+      question: "Which of these nouns does not have the ending -bus in the dative 1232 plural: corpus, filia, vis, liber, tempus?"
+      answer: "LIBER"
+    boni:
+      - question: "3,2 What is the dative plural of liber?"
+        answer: "LIBRIS"
+      - question: "Of filia?"
+        answer: "FILIABUS"
+  - tossup:
+      question: "Which of the following forms is not in the accusative case: quae, id, 1295 eas, illi, ipsa?"
+      answer: "ILLI"
+    boni:
+      - question: "3,1 What two cases can the form illi be?"
+        answer: "NOMINATIVE AND DATIVE"
+      - question: "What cases can the form quibus be?"
+        answer: "DATIVE AND ABLATIVE"
+  - tossup:
+      question: "From what Latin noun is the English adjective ”partial“ derived?"
+      answer: "1305 PARS"
+    boni:
+      - question: "5,1 The adjective ”facial“?"
+        answer: "FACIES"
+      - question: "The adjective ”cereal“?"
+        answer: "CERES"
+  - tossup:
+      question: "."
+      answer: "In the sentence, ”He lived in the city of Rome,“ say ”in the city.“ 1016 IN URBE"
+    boni:
+      - question: "."
+        answer: "4,1 In the sentence, ”He walked into the city of Rome,“ say ”into the city.“ IN URBEM"
+      - question: "."
+        answer: "In that same sentence, say ”of Rome.“ ROMAM"
+  - tossup:
+      question: "Caesar tells us he said Alea iacta est after crossing what river?"
+      answer: "6101 RUBICON"
+    boni:
+      - question: "3,1 What was the year?"
+        answer: "49 BC"
+      - question: "What action on January 1 had precipitated Caesar's boldness?"
+        answer: "THE SENATE ORDERED HIM TO RELINQUISH HIS COMMAND"
+  - tossup:
+      question: "In what year was the Battle of the Mulvian Bridge?"
+      answer: "312 AD"
+    boni:
+      - question: "."
+        answer: "6217"
+      - question: "5,1 Who was the victor?"
+        answer: "CONSTANTINE"
+      - question: "Over whose forces?"
+        answer: "MAXENTIUS'"
+      - question: "."
+        answer: "-180"
+      - question: "."
+        answer: "Round C2, page 3"
+  - tossup:
+      question: "What determines the number and gender of a relative pronoun?"
+      answer: "194 THE ANTECEDENT"
+    boni:
+      - question: "2,1 What determines the case?"
+        answer: "USE WITHIN ITS OWN CLAUSE"
+      - question: "."
+        answer: "Give the Latin words and their meanings from which we get the word"
+      - question: "."
+        answer: "”antecedent.“ ANTE = BEFORE, CEDO = GO"
+  - tossup:
+      question: "."
+      answer: "Give the Latin noun and its meaning from which is derived the English"
+    boni:
+      - question: "."
+        answer: "1348 adjective ”infinite.“ FINIS = END, LIMIT, BOUNDARY"
+      - question: "."
+        answer: "5,2 Do the same for ”feat.“ FACIO = DO, MAKE"
+      - question: "."
+        answer: "What Latin verb, with its meaning, is the root of the English"
+      - question: "adjective ”frail“?"
+        answer: "FRANGO = BREAK"
+      - question: "."
+        answer: "-181"
+      - question: "."
+        answer: "1990 NJCL CERTAMEN"
+      - question: "."
+        answer: "C LEVEL PRELIMINARIES"
+      - question: "."
+        answer: "ROUND C3"
+  - tossup:
+      question: "With what part of the body does one produce a manuscript?"
+      answer: "1275 THE HAND"
+    boni:
+      - question: "5,1 Based on its Latin root, with what part of the body does one impede an event?"
+        answer: "THE FOOT"
+      - question: "According to its Latin root, where in your body do you record information?"
+        answer: "THE HEART"
+  - tossup:
+      question: "What is the Latin word for ”today“?"
+      answer: "HODIE"
+    boni:
+      - question: "."
+        answer: "540"
+      - question: "1,1 What is the Latin word for ”yesterday“?"
+        answer: "HERI"
+      - question: "Of what two Latin words is hodie a contraction?"
+        answer: "HOC DIE"
+  - tossup:
+      question: "Odysseus returned to Ithaca after how many years of absence?"
+      answer: "TWENTY"
+    boni:
+      - question: "."
+        answer: "3318"
+      - question: "4,1 Who was his mother, dead before his return?"
+        answer: "ANTICLEA"
+      - question: "Who was the faithful farmhand who helped him to annihilate the suitors?"
+        answer: "EUMAEUS"
+  - tossup:
+      question: "How would a Roman say, ”She has seen me“?"
+      answer: "ME VIDIT"
+    boni:
+      - question: "."
+        answer: "8"
+      - question: "4,1 How would he say, ”I will see her“?"
+        answer: "EAM VIDEBO"
+      - question: "How would he say, ”The girls have been seen by the boys“?"
+        answer: "PUELLAE A PUERIS VISAE SUNT"
+  - tossup:
+      question: "Antigone defied the harsh edict of what king of Thebes?"
+      answer: "CREON"
+    boni:
+      - question: "."
+        answer: "3425"
+      - question: "9,2 What had Creon forbidden her to do?"
+        answer: "BURY THE BODY OF HER BROTHER"
+      - question: "Who had killed her brother Polynices?"
+        answer: "THEIR BROTHER ETEOCLES"
+  - tossup:
+      question: "What is the first person singular imperfect passive indicative of do?"
+      answer: "DABAR"
+    boni:
+      - question: "."
+        answer: "1347"
+      - question: "."
+        answer: "3,2 Make dabar perfect. DATUS SUM"
+      - question: "."
+        answer: "Make datus sum active. DEDI"
+  - tossup:
+      question: "What is the nominative singular of the genitive form hominis?"
+      answer: "HOMO"
+    boni:
+      - question: "."
+        answer: "1314"
+      - question: "3,1 Of the genitive form nominis?"
+        answer: "NOMEN"
+      - question: "Of the genitive form sanguinis?"
+        answer: "SANGUIS"
+  - tossup:
+      question: "."
+      answer: "Who was the queen whose boasts about her daughter's beauty almost caused"
+    boni:
+      - question: "3290 her daughter Andromeda to be sacrificed to a sea-monster?"
+        answer: "CASSIOPEIA"
+      - question: "6,1 Who rescued Andromeda?"
+        answer: "PERSEUS"
+      - question: "Who was Andromeda's father?"
+        answer: "CEPHEUS"
+      - question: "."
+        answer: "-182"
+      - question: "."
+        answer: "Round C3, page 2"
+  - tossup:
+      question: "How many years comprise a millennium?"
+      answer: "1000"
+    boni:
+      - question: "."
+        answer: "1281"
+      - question: "5,2 When did the United States celebrate its centennial?"
+        answer: "1876"
+      - question: "When did it celebrate its sesquicentennial?"
+        answer: "1926"
+  - tossup:
+      question: "Who was the ruler of the Titans?"
+      answer: "CRONUS/SATURN"
+    boni:
+      - question: "."
+        answer: "3271"
+      - question: "1,1 Who were his parents?"
+        answer: "URANUS AND GAIA"
+      - question: "Who was his wife?"
+        answer: "RHEA"
+  - tossup:
+      question: "."
+      answer: "In the consulship of C. Antonius and M. Tullius Cicero, who attempted"
+    boni:
+      - question: "5629 to overthrow the government?"
+        answer: "CATILINE"
+      - question: "."
+        answer: "3,1"
+      - question: "What was his full name?"
+        answer: "L. SERGIUS CATILINA"
+      - question: "In what year did these events take place?"
+        answer: "63 BC"
+  - tossup:
+      question: "."
+      answer: "What priest warned the Trojans against the wooden horse, but was killed"
+    boni:
+      - question: "3235 by giant sea serpents?"
+        answer: "LAOCOON"
+      - question: "."
+        answer: "2,2"
+      - question: "What god did Laocoon serve?"
+        answer: "POSEIDON/APOLLO (NEPTUNE/APOLLO)"
+      - question: "Who died with him?"
+        answer: "HIS TWO SONS"
+  - tossup:
+      question: "."
+      answer: "Translate into Latin the indicative verb in the sentence, ”I had been"
+    boni:
+      - question: "."
+        answer: "1304 able to fight.“ POTUERAM"
+      - question: "."
+        answer: "4,1"
+      - question: "."
+        answer: "Translate the verb form poteram. I WAS ABLE, I COULD"
+      - question: "."
+        answer: "Translate the verb form posueram. I HAD PLACED/PUT"
+  - tossup:
+      question: "To what declension does the noun latus belong?"
+      answer: "THIRD"
+    boni:
+      - question: "."
+        answer: "1226"
+      - question: "1,2 The noun vultus?"
+        answer: "FOURTH"
+      - question: "The noun gradus?"
+        answer: "FOURTH"
+  - tossup:
+      question: "."
+      answer: "Specify the case and case usage of the inanimate noun in this Latin"
+    boni:
+      - question: "."
+        answer: "1315 sentence: Magistri libris docent. ABLATIVE OF MEANS"
+      - question: "."
+        answer: "2,2"
+      - question: "."
+        answer: "Same instructions: A magistris bene docti sumus. ABLATIVE OF AGENT"
+      - question: "."
+        answer: "Magno cum studio didicimus. ABLATIVE OF MANNER"
+  - tossup:
+      question: "."
+      answer: "The capture of what town in Spain ended the Roman wars there in the"
+    boni:
+      - question: "6270 second century BC?"
+        answer: "NUMANTIA"
+      - question: "."
+        answer: "2,2"
+      - question: "What Roman general captured the town?"
+        answer: "SCIPIO AEMILIANUS"
+      - question: "."
+        answer: "(or AFRICANUS MINOR or NUMANTINUS)"
+      - question: "."
+        answer: "What cousin and brother-in-law of Scipio Aemilianus served under him"
+      - question: "at Carthage?"
+        answer: "TIBERIUS SEMPRONIUS GRACCHUS"
+  - tossup:
+      question: "What cases can show place at which or where?"
+      answer: "1316 ABLATIVE AND LOCATIVE"
+    boni:
+      - question: "."
+        answer: "2,1"
+      - question: "What shows place to which?"
+        answer: "ACCUSATIVE"
+      - question: "What shows place from which?"
+        answer: "ABLATIVE"
+      - question: "."
+        answer: "-183"
+      - question: "."
+        answer: "Round C3, page 3"
+  - tossup:
+      question: "What was the name of the series of Roman political offices?"
+      answer: "6190 THE CURSUS HONORUM"
+    boni:
+      - question: "8,1 What office began the official list?"
+        answer: "QUAESTORSHIP"
+      - question: "."
+        answer: "According to law, how many years had to elapse before an ex-consul"
+      - question: "could stand for that office again?"
+        answer: "TEN"
+  - tossup:
+      question: "What ancient city is now called Brindisi?"
+      answer: "BRUNDISIUM"
+    boni:
+      - question: "."
+        answer: "5650"
+      - question: "7,1 What modern city was called Lutetia?"
+        answer: "PARIS"
+      - question: "What modern city was called Lugdunum?"
+        answer: "LYONS"
+  - tossup:
+      question: "Who for a few months was co-regent with the emperor Nerva?"
+      answer: "TRAJAN"
+    boni:
+      - question: "."
+        answer: "6259"
+      - question: "4,2 What was Trajan's nomen gentilicum?"
+        answer: "ULPIUS"
+      - question: "What was Nerva's?"
+        answer: "COCCEIUS"
+      - question: "."
+        answer: "#"

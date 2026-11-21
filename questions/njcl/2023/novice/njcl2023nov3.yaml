@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What Roman figure held the positions of consul in 195 BC and censor in 184 BC and was known for his conservative anti-Greek mindset?\t \t\t"
+      answer: "CATO THE ELDER / MAIOR / CENSOR / MAIOR / CENSOR"
+    boni:
+      - question: "Cato is famous for saying <latin>“Carthāgō dēlenda est”</latin> which became a reality at the end of what war, a few years after he died in 149 BC?\t"
+        answer: "THIRD PUNIC (WAR)"
+      - question: "What political rival of Cato successfully led the siege of Carthage?"
+        answer: "(P. CORNELIUS) SCIPIO AEMILIANUS"
+  - tossup:
+      question: "What daughter of Nereus caught the wandering eyes of Zeus and Poseidon, but was prophesied to bear a son mightier than his father, meaning she was forced to marry the mortal Peleus and bore Achilles?\t"
+      answer: "THETIS [PASS OUT THE <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "Which goddess is represented by figure X in the left panel of the visual? \t\t"
+        answer: "ERIS / DISCORD(IA)"
+      - question: "What mortal is represented by figure Y in the right panel of the visual? \t\t"
+        answer: "PARIS / ALEXANDER"
+  - tossup:
+      question: "When recognized by the moderator, perform or describe the following command: <latin>Fac sonum vaccae</latin>. \t"
+      answer: "STUDENT MAKES COW SOUNDS"
+    boni:
+      - question: "Now perform or describe the following action: <latin>Facite sonum porcōrum</latin>.\t\t"
+        answer: "ALL STUDENTS SHOULD MAKE PIG SOUNDS"
+      - question: "Now perform or describe the following action: <latin>Facite sonum avium</latin>.\t\t"
+        answer: "ALL STUDENTS SHOULD MAKE BIRD SOUNDS"
+  - tossup:
+      question: "Made from ground <latin>frūmentum</latin> and often circular in shape with several segments, what staple food was baked in ovens and made its way onto Roman tables for most meals?\t\t"
+      answer: "BREAD / <latin>PĀNIS</latin>"
+    boni:
+      - question: "Originally referring to the act of milling grain, what Latin term came to refer to all Roman bread-bakers?\t"
+        answer: "<latin>PISTOR</latin> / <latin>PISTRIX</latin>"
+      - question: "Before wheat was widely used, Romans commonly ate a dish called <latin>puls</latin> made from spelt grain. What modern dish does <latin>puls</latin> resemble?\t \t\t"
+        answer: "PORRIDGE / OATMEAL / GRITS (ACCEPT DESCRIPTION)"
+  - tossup:
+      question: "What one Latin noun, which is common to the mottoes of the University of Michigan and Johns Hopkins University, comprises the entirety of the motto of Harvard University?\t\t"
+      answer: "<latin>VĒRITĀS</latin>"
+    boni:
+      - question: "Give the Latin and the English for the motto of the University of Michigan."
+        answer: "<latin>ARTĒS, SCIENTIA, VĒRITĀS</latin> - ARTS, KNOWLEDGE / SCIENCE, TRUTH"
+      - question: "Give the Latin and the English for the motto of the Johns Hopkins University."
+        answer: "<latin>VĒRITĀS VŌS LĪBERĀBIT</latin> - THE TRUTH WILL SET YOU FREE"
+  - tossup:
+      question: "Complete the following analogy: <latin>plaudō</latin> : <latin>manūs</latin> :: <latin>audiō</latin> : _____.\t"
+      answer: "<latin>AURIS / AURĒS</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>lacrimō</latin> : <latin>tristis</latin> :: <latin>dormiō</latin> : ______.\t \t\t"
+        answer: "(DĒ)FESSUS / A / UM // AEGER / AEGRA / UM //  \t\tFATIGĀTUS // LASSUS // LANGUIDUS"
+      - question: "Complete the following analogy: <latin>avis</latin> : <latin>caelum</latin> :: <latin>delphīnus</latin> : <latin>_____</latin>. \t\t"
+        answer: "<latin>AQUA / FLŪMEN / MARE</latin>"
+  - tossup:
+      question: "What Olympian — called “twice born” because both his mother, Semele, and his father, Zeus, carried him — was the god of wine-making?\t"
+      answer: "DIONYSUS / BACCHUS"
+    boni:
+      - question: "Who was Dionysus’s maternal grandfather, Semele’s father and the founder of Thebes? \t\t"
+        answer: "CADMUS"
+      - question: "Name the first queen of Thebes, Cadmus’s wife and the daughter of Aphrodite and Ares.\t\t"
+        answer: "HARMONIA"
+  - tossup:
+      question: "For the verb <latin>iaciō</latin>, provide the first person, plural, imperfect, active, indicative form that means “we were throwing.”\t"
+      answer: "<latin>IACIĒBĀMUS</latin>"
+    boni:
+      - question: "Keeping everything else the same, change <latin>iaciēbāmus</latin> to the passive so that it means “we were being thrown.”\t"
+        answer: "<latin>IACIĒBĀMUR</latin>"
+      - question: "Keeping everything else the same, change <latin>iaciēbāmur</latin> to the pluperfect so that it means “we had been thrown.”\t"
+        answer: "<latin>IACTĪ/AE/A ERĀMUS</latin>"
+  - tossup:
+      question: "The conflict between which two men, culminating in the battle of Pharsalus in 48 BC, resulted in the loser’s assassination in Egypt and the winner’s affair with Cleopatra?"
+      answer: "(C. JULIUS) CAESAR AND POMPEY (THE GREAT) / (CN.) POMPEIUS (MAGNUS)"
+    boni:
+      - question: "In what year had Julius Caesar crossed the Rubicon, igniting this civil war?"
+        answer: "49 BC"
+      - question: "What former officer of Caesar in Gaul was said to have commanded Pompey’s cavalry at Pharsalus?"
+        answer: "(TITUS) LABIENUS"
+  - tossup:
+      question: "What number would come fifth in the following sequence, if keeping to the pattern: <latin>trēs, sex, novem, duodecim, __________?</latin>\t"
+      answer: "QUĪNDECIM"
+    boni:
+      - question: "<latin>quot sunt quīndecim minus octo?</latin>\t"
+        answer: "SEPTEM"
+      - question: "How would one say in Latin, “seventh”?\t"
+        answer: "<latin>SEPTIMUS/A/UM</latin>"
+  - tossup:
+      question: "<latin>Respondē Anglicē. Quis sum? Meus marītus abiit vīgintī annōs ē nostrā īnsulā et multī iuvenēs voluērunt in mātrimōnium mē dūcere, sed semper eram fidēlis meō marītō, rēgī Ithacae, nōmine Ulixēs.</latin> \t"
+      answer: "PENELOPE"
+    boni:
+      - question: "<latin>Respondē Anglicē. Quis erat fīlius Pēnelopae et Ulixī, quī visitāvit Menelāüm et Nestōrem in Odysseā?</latin>\t"
+        answer: "TELEMACHUS"
+      - question: "<latin>Respondē Anglicē. Quis erat dux et pessimus iuvenum quī voluērunt in mātrimōnium Pēnelopam dūcere?</latin>\t"
+        answer: "ANTINOÜS"
+  - tossup:
+      question: "From what Latin noun with what meaning do we derive “sealant”, “resign”, and “signal”? \t\t"
+      answer: "<latin>SIGNUM</latin> – SIGN / SEAL"
+    boni:
+      - question: "What derivative of <latin>signum</latin> and <latin>ad</latin> is a synonym of the word “allocate”?"
+        answer: "ASSIGN"
+      - question: "What other verb, meaning “to appoint someone to a specified position,” also derives from <latin>signum</latin>?"
+        answer: "DESIGNATE "
+  - tossup:
+      question: "Translate the following Latin sentence into English: <latin>mī fīlī, domum venī</latin>.\t\t"
+      answer: "MY SON, COME (TO) HOME / THE HOUSE / HOMEWARD"
+    boni:
+      - question: "Now translate this sentence: <latin>fīlius gladiātōris vestēs domī reliquit</latin>.\t\t"
+        answer: "THE SON OF THE GLADIATOR LEFT (BEHIND) HIS CLOTHES AT HOME."
+      - question: "Now translate this sentence: <latin>ubi lupōs per agrōs currentēs vidēre potes?</latin>\t\t"
+        answer: "WHERE ARE YOU ABLE TO SEE WOLVES RUNNING THROUGH THE FIELDS?"
+  - tossup:
+      question: "Provide the form of the noun <latin>frūmentum</latin> needed to say the following sentence in Latin: “I like my cereal to contain a robust variety of grain.”\t"
+      answer: "<latin>FRŪMENTĪ / FRŪMENTŌRUM</latin>"
+    boni:
+      - question: "Provide the form of the noun <latin>frūmentum</latin> needed to say the following sentence in Latin: “Did you make this cake with grain?”\t"
+        answer: "<latin>FRŪMENTŌ / FRŪMENTĪS</latin>"
+      - question: "Provide the form of the noun <latin>frūmentum</latin> needed to say the following sentence in Latin: “It is time to harvest the grain.”\t"
+        answer: "<latin>FRŪMENTUM / FRŪMENTA</latin>"
+  - tossup:
+      question: "What name is shared by three very different characters in mythology: a shipbuilder aided by Athena, a faithful dog, and an “all-seeing” security guard who gave his eyes to the peacock’s feathers?\t"
+      answer: "ARGUS"
+    boni:
+      - question: "Whose dog was Argus?\t"
+        answer: "ODYSSEUS’"
+      - question: "Who was hundred-eyed Argus posted to watch over?\t"
+        answer: "IO  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "From what Latin verb with what meaning do we get the English words “translate”, “conifer”, and “infer”?\t"
+      answer: "<latin>FERŌ</latin> = TO BRING / BEAR / CARRY"
+    boni:
+      - question: "From what Latin verb with what meaning do we get the English words “retinue”, “maintain”, and “tenacious”?"
+        answer: "<latin>TENEŌ</latin> = HOLD / HAVE / GRASP"
+      - question: "From what Latin verb with what meaning do we get the English words “monitor”, “premonition”, and “admonish”?"
+        answer: "<latin>MONEŌ</latin> = TO WARN"
+  - tossup:
+      question: "At what institution, often located in a private room or public portico, would young Roman boys and girls under a <latin>litterātor</latin> or <latin>magister</latin> learn the basics of reading, writing, and arithmetic?\t"
+      answer: "<latin>LŪDUS</latin> / SCHOOL"
+    boni:
+      - question: "For students continuing their education under a <latin>grammaticus</latin>, what two languages were emphasized through study of their literature?\t"
+        answer: "LATIN AND GREEK"
+      - question: "A small number of primarily elite and wealthy families would send their sons for further education to prepare them for careers in law or politics. What was the Latin term for the teacher who would instruct them in public speaking?\t"
+        answer: "<latin>RHĒTOR</latin>"
+  - tossup:
+      question: "What emperor assumed undisputed control of the empire after defeating Carinus at the  \tRiver Margus but quickly appointed Maximian and later two Caesars to help  \trun the Mediterranean world in an arrangement known as the tetrarchy?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "In contrast to the title of Caesar, by what title were the senior emperors known during the \t\ttetrarchy?\t"
+        answer: "AUGUSTUS / AUGUSTI"
+      - question: "Beginning in 293 AD, what two men served as Caesars under Diocletian and \t\tMaximian?\t"
+        answer: "CONSTANTIUS CHLORUS / I AND GALERIUS"
+  - tossup:
+      question: "According to Hesiod, it took nine days for an anvil to fall from earth into what location, which was guarded by the Hecatoncheires and served as the prison of the Titans?\t\t"
+      answer: "TARTARUS"
+    boni:
+      - question: "Where in the underworld were the souls of heroes and those who lived nobly sent?\t\t"
+        answer: "ELYSIAN FIELDS / ELYSIUM // ISLAND / ISLE OF THE BLESSED //  \t\tWHITE ISLAND // LEUKE"
+      - question: "Where in the underworld were the souls of people who lived neither well nor poorly sent?\t\t"
+        answer: "(MEADOWS / PLAINS / FIELDS OF) ASPHODEL  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN LATIN the questions that follow:   \t<latin>Erat cervus quī magnifica cornua habuit. Hominēs in silvā capere cervum temptāvērunt. Cervus fugiēns celerrimē cucurrerat sed cornua in arbōribus capta erant. Hominēs cervum necāvērunt et cornua eius in vīllā ostendērunt</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "<latin>Cūr cervus effugere nōn poterat?</latin> "
+        answer: "(<latin>QUOD) CORNUA (IN ARBŌRIBUS) CAPTA ERANT / CAPIEBANTUR</latin>"
+      - question: "<latin>Ad fīnem fābulae, ubi erant cornua cervī?</latin>"
+        answer: "IN VĪLLĀ (HOMINIS / HOMINUM) "

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "<latin>Quod animal est? Hoc animal est signum zōdiacī. Hoc animal quoque in aquā habitat et semper natat. Fēlēs valdē volunt hoc animal consūmere.</latin> \t"
+      answer: "PISCIS / PISCĒS"
+    boni:
+      - question: "<latin>Quod animal est? Hoc animal in silvīs habitat, lūnam spectat, et ululat. Hoc animal saevior cane est.</latin> \t"
+        answer: "LUPUS / LUPA"
+      - question: "<latin>Quod animal est? Hoc animal maximum est. Pedēs maximōs, aurēs maximās, et nāsum longissimum habet.</latin> \t"
+        answer: "ELEPHANTUS / ELEPHANTA / ELEPHA(N)S"
+  - tossup:
+      question: "Which of the following Roman coins was worth the most: <latin>as, aureus, dēnārius, quādrans,</latin> or <latin>sestertius</latin>?\t"
+      answer: "<latin>AUREUS</latin>"
+    boni:
+      - question: "Of what metal was a <latin>dēnārius</latin> typically made? \t"
+        answer: "SILVER"
+      - question: "Given that the back side of a coin is called the “reverse” what is the front side, which often bore an image of the emperor’s head, called?\t"
+        answer: "OBVERSE"
+  - tossup:
+      question: "For the sentence “The farmers walked with their horses for a whole day,” provide the correct Latin form of the noun <latin>diēs</latin>.\t"
+      answer: "<latin>DIEM</latin>"
+    boni:
+      - question: "For the noun <latin>diēs</latin>, provide the form that fits the sentence “Within eight days, I shall sit down for a rest.”\t"
+        answer: "<latin>DIĒBUS</latin>"
+      - question: "For the noun <latin>diēs</latin>, provide the form that fits the sentence “No more corndogs? It’s the end of days!”\t"
+        answer: "<latin>DIĒRUM</latin>"
+  - tossup:
+      question: "What maiden was exposed on Mt. Parthenion because her father wanted a boy, but was saved by a she-bear and raised by hunters to become a swift-footed devotee of Artemis?\t \t\t"
+      answer: "ATALANTA"
+    boni:
+      - question: "At the funeral games for Pelias, what father of a much greater son did Atalanta defeat in wrestling?\t"
+        answer: "PELEUS"
+      - question: "To whom did Hippomenes turn for assistance in besting Atalanta in the footrace for her hand in marriage?\t"
+        answer: "APHRODITE"
+  - tossup:
+      question: "After winning <title>Roman Family Feud</title>, you might get a special prize. What Latin word can be used to say “prize”?\t"
+      answer: "<latin>PRETIUM / PRAEMIUM /</latin> <latin>PALMA / SPOLIUM</latin>"
+    boni:
+      - question: "With the game over, you are so glad you didn’t compete in vain. What is the Latin word you can use to say “in vain”? \t"
+        answer: "<latin>FRŪSTRĀ / NĒQUĪQUAM / INCASSUM</latin>"
+      - question: "Your team was made up of you, your father, your uncle, and your cousin. What Latin word is used to describe your cousin, who is the son of your father’s brother? \t\t"
+        answer: "<latin>PATRUĒLIS / CŌNSŌBRĪNUS</latin>  SCORE CHECK"
+  - tossup:
+      question: "What law of 445 BC legalized intermarriage between patricians and plebeians? \t\t"
+      answer: "<latin>LĒX CANULEIA</latin> / THE CANULEIAN LAW"
+    boni:
+      - question: "What plebeian was the first of his class appointed as dictator in 356 BC?\t\t\t"
+        answer: "(CN.) MARCIUS RUTILUS"
+      - question: "What plebeian was the first of his class appointed as praetor in 337 BC?\t\t\t"
+        answer: "(Q.) PUBLILIUS PHILO"
+  - tossup:
+      question: "From what Latin noun with what meaning are “voyage” and “trivia” derived? \t\t"
+      answer: "<latin>VIA</latin> - ROAD"
+    boni:
+      - question: "From what Latin noun with what meaning are “danger” and “condo” derived?"
+        answer: "<latin>DOMUS</latin> - HOME"
+      - question: "From what Latin noun with what meaning are “couch” and “lieutenant” derived?"
+        answer: "<latin>LOCUS</latin> - PLACE"
+  - tossup:
+      question: "What maiden was so beautiful that mortals neglected their worship of Venus in favor of her, making Venus so mad that Venus sent her son Cupid to make this maiden fall in love with a monster, only for Cupid to accidentally wound himself and fall in love with her? \t\t"
+      answer: "PSYCHE"
+    boni:
+      - question: "After a bit of a kerfuffle about mistaken identity, Psyche needed to atone for her mistakes with her mother-in-law Venus. Name one of the tasks Venus gave Psyche to complete. \t\t"
+        answer: "SORT GRAIN / COLLECT GOLDEN WOOL / \tCOLLECT WATER FROM RIVER STYX / OBTAIN PROSERPINA’S BEAUTY"
+      - question: "After Psyche completed these tasks and married Cupid, she became a goddess of what? \t\t"
+        answer: "THE SOUL"
+  - tossup:
+      question: "What Latin word completes the following Latin mottoes: “<latin>artēs</latin>, <latin>scientia</latin>, [blank]”, “[blank] <latin>vōs līberābit</latin>”, “<latin>lūx et</latin> [blank],” and “[blank]”?\t"
+      answer: "<latin>VĒRITĀS</latin>"
+    boni:
+      - question: "What university has a Latin motto that is simply the word “<latin>Vēritās</latin>”?\t"
+        answer: "HARVARD"
+      - question: "What university has the motto “<latin>vēritās vōs līberābit</latin>”?\t\t"
+        answer: "JOHNS HOPKINS (UNIVERSITY)"
+  - tossup:
+      question: "Translate the following sentence into Latin: We heard the songs in the garden.\t\t"
+      answer: "<latin>CARMINA / CANTIUNCULAS IN HORTŌ AUDIĒBĀMUS / AUDĪVIMUS</latin>"
+    boni:
+      - question: "Translate this sentence into Latin: The birds in the trees will sing sweetly.\t\t"
+        answer: "<latin>AVĒS(, QUAE) IN ARBORIBUS (SUNT, ) \t\tDULCITER / DULCE CANTĀBUNT / CANENT</latin>"
+      - question: "And this sentence: The poet tries to write beautiful words.\t\t"
+        answer: "<latin>POĒTA VERBA / VOCĀBULA PULCHRA SCRĪBERE  \t\tTEMPTAT / CONĀTUR / MŌLITUR</latin>"
+  - tossup:
+      question: "When Aeneas is advised by his father’s ghost to travel to the Underworld, to whom does he turn to guide him to the entrance?\t"
+      answer: "(CUMAEAN) SIBYL / DEIPHOBE"
+    boni:
+      - question: "Who was Aeneas’ father who gave him this advice and then met up with Aeneas and the Sibyl to guide them through the Underworld and point out the shades who would become future Romans?\t"
+        answer: "ANCHISES"
+      - question: "Before he could enter the Underworld, what specific item did Aeneas need to find? \t\t"
+        answer: "GOLDEN BOUGH"
+  - tossup:
+      question: "Another incident in the life of <latin>Flāvia</latin>. Listen carefully to the following passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>in Circō Maximō, puer dīves Flāviam vocāvit, “puella, vīsne plūs pecūniae habēre? tibi decem dēnāriōs dabō postquam aurīga albus vincet. sī tamen alius aurīga vincet, mihi vīgintī dēbēbis.” quamquam Flāviae nulla pecūnia erat, illa cōnsensit et signum imperātōris exspectāvit.</latin>     "
+      answer: "REREAD"
+    boni:
+      - question: "The story continues:  <latin>post signum, aurīgae statim equōs incitāvērunt. nunc aurīga ruber prīmum locum tenēbat, tum viridis, deinde caeruleus.</latin>  \tThe question: <latin>factiō alba Flāviae victōriam dabit. quot factiōnēs puerō victōriam dabunt?</latin>"
+        answer: "TRĒS / QUINQUE "
+      - question: "\tThe story continues to continue: <latin>omnēs equī celerrimē ad fīnem festīnāvērunt, et imperātor victōrem nuntiāvit. eā nocte, Flāvia mātrī decem dēnāriōs ostendit.</latin>  \tThe question:  <latin>cūr necesse erat puerō dēnāriōs trādere?</latin>"
+        answer: "(QUOD) {(FACTIŌ) ALBA / (AURĪGA) ALBUS} {VĪCIT / SUPERĀVIT} "
+  - tossup:
+      question: "Where would a Roman often go before <latin>cēna</latin>, handing a <latin>quadrans</latin> to the <latin>servus</latin> as a <latin>balneāticum</latin> before entering the <latin>apodȳtērium</latin> and undressing?\t \t\t"
+      answer: "BATHHOUSE / <latin>THERMAE / BAL(I)NEA(E)</latin>"
+    boni:
+      - question: "What was the primary use of the <latin>natātiō</latin> at the bathhouse?\t"
+        answer: "SWIMMING"
+      - question: "What was the particular purpose of a <latin>dēstrictārium</latin>, a specialized room in some bathhouses?\t"
+        answer: "USING A STRIGIL / SCRAPING OFF DIRT AND SWEAT"
+  - tossup:
+      question: "Who was credited with introducing the Phoenician alphabet to the Greeks, chasing after his sister after she was abducted by Zeus, founding the city of Thebes, and being the first Greek hero?\t"
+      answer: "CADMUS"
+    boni:
+      - question: "Who was his sister, whom Zeus, disguised as a bull, took away to Crete?\t"
+        answer: "EUROPA"
+      - question: "What god was Cadmus’ grandfather, putting him in the same family tree as Theseus? \t\t"
+        answer: "POSEIDON"
+  - tossup:
+      question: "From what Latin verb with what meaning is the name of the element fluorine derived?\t\t"
+      answer: "<latin>FLUŌ</latin> - FLOW"
+    boni:
+      - question: "Fluorine is an essential part of chlorofluorocarbons, otherwise known as CFCs, which were once used as aerosol propellants. From what Latin verb with what meaning is propellant derived?"
+        answer: "<latin>PELLŌ</latin> - PUSH / DRIVE OUT"
+      - question: "Since CFCs were contributing to ozone depletion, their use was phased out by the Montreal Protocol. Name one of the two Latin nouns and its meaning from which Montreal is derived."
+        answer: "<latin>MONS</latin> - MOUNTAIN / <latin>REX</latin> - KING  SCORE CHECK  [PASS OUT THE <emphasis>VISUAL</emphasis>] Please do not open the visual until instructed to do so, and remember there is no consultation on this visual toss up; You may now open the visual, you have 10 seconds to examine it."
+  - tossup:
+      question: "This map contains the locations where several Roman emperors were born. Identify by letter the city where both Caracalla and Claudius were born, known as Lugdunum in Gallia.\t"
+      answer: "B"
+    boni:
+      - question: "Identify by letter the birthplace of Diocletian, to which he later retired after abdicating the throne.\t"
+        answer: "E"
+      - question: "Out of the emperors Didius Julianus, Hadrian, Maximian, Septimius Severus, Theodosius I, and Trajan, two of them were born in the same region, likely the same city. Identify by letter that location.\t"
+        answer: "A"
+  - tossup:
+      question: "When recognized, perform or describe the following command: <latin>Sinistrā manū aurem dextram cape</latin>.\t \t\t"
+      answer: "STUDENT SHOULD GRAB THEIR RIGHT EAR WITH THEIR LEFT HAND"
+    boni:
+      - question: "Now perform or describe this command: <latin>Manibus tegite ōra, omnēs</latin>. \t\t"
+        answer: "ALL STUDENTS SHOULD COVER THEIR MOUTHS / FACES \t\tWITH THEIR HANDS"
+      - question: "Perform or describe the following commands: <latin>surgite et pōnite vōs in ordine ab altissimō ad humillimum.</latin>\t"
+        answer: "PLAYERS SHOULD STAND AND PUT \tTHEMSELVES IN ORDER FROM TALLEST TO SHORTEST"
+  - tossup:
+      question: "What primordial being was the mother of many other beings like Thanatos, Hypnos, the Hesperides, Nemesis, and Eris, while herself being the personification of Night?\t"
+      answer: "NYX"
+    boni:
+      - question: "Nyx mothered all those beings on her own, but with whom did she produce Aether and Hemera?\t"
+        answer: "EREBUS"
+      - question: "Nyx and Erebus were the offspring of whom, the original cosmological void, according to Hesiod?\t"
+        answer: "CHAOS"
+  - tossup:
+      question: "For the verb <latin>mālō</latin>, provide the first person singular, future active indicative, meaning “I will prefer”.\t"
+      answer: "<latin>MĀLAM</latin>"
+    boni:
+      - question: "Provide the same form for the verb <latin>fiō</latin>, meaning “I will become”.\t"
+        answer: "<latin>FĪAM</latin>"
+      - question: "Keeping everything else the same, change <latin>fīam</latin> to the pluperfect.\t\t"
+        answer: "<latin>FACTUS/-A/-UM ERAM</latin>"
+  - tossup:
+      question: "What emperor involved himself in the Donatist schism of the Christian church, despite \t\this rather un-Christian murders of Fausta and Crispus, before dying in 337 AD?\t \t\t"
+      answer: "CONSTANTINE I / THE GREAT"
+    boni:
+      - question: "What rival did Constantine crush at the Milvian bridge?\t"
+        answer: "MAXENTIUS"
+      - question: "At what battle of 324 AD did Constantine finally vanquish his friend-turned-rival, \t\tLicinius?\t"
+        answer: "CHRYSOPOLIS"

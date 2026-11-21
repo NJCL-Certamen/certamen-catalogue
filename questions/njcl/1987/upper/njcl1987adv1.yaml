@@ -1,0 +1,172 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Advanced"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "134 What English noun comes from scindo?"
+      answer: "SCISSORS"
+    boni:
+      - question: "What is the perfect active infinitive of pendo?"
+        answer: "PEPENDISSE"
+      - question: "Of parco?"
+        answer: "PEPERCISSE"
+  - tossup:
+      question: "5553 By whom did Germanicus think he had been poisoned?"
+      answer: "CN. CALPURNIUS PISO"
+    boni:
+      - question: "Who was Germanicus' widow?"
+        answer: "AGRIPPINA"
+      - question: "Who did Agrippina believe had poisoned Germanicus?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "2671 Who killed the villain Procrustes?"
+      answer: "THESEUS"
+    boni:
+      - question: "What was the name of the Pine-Bender?"
+        answer: "SINIS (PITYOCAMPTES)"
+      - question: "What villain killed by Theseus compelled passersby to wash his feet and kicked them over a cliff as they did so?"
+        answer: "SCIRON"
+  - tossup:
+      question: "7751 How besides 'senatores' does Cicero address the Senators in his speeches?"
+      answer: "PATRES, PATRES CONSCRIPTI, IUDICES"
+    boni:
+      - question: "Who was Cicero's best friend, to whom he wrote hundreds of letters?"
+        answer: "ATTICUS"
+      - question: "Who was the corrupt governor of Sicily whom Cicero prosecuted?"
+        answer: "VERRES"
+  - tossup:
+      question: "7746 Who wrote of the adventures of two friends named Giton and Encolpius?"
+      answer: "PETRONIUS"
+    boni:
+      - question: "What is the title of the work?"
+        answer: "THE SATYRICON"
+      - question: "What genre does it represent?"
+        answer: "NOVEL"
+      - question: "What is the title of the work?"
+        answer: "THE SATYRICON"
+      - question: "What genre does it represent?"
+        answer: "NOVEL"
+  - tossup:
+      question: "2602 To what group did the mother of Romulus and Remus belong?"
+      answer: "VESTAL VIRGINS"
+    boni:
+      - question: "Who was she?"
+        answer: "RHEA SILVIA"
+      - question: "Who was their father?"
+        answer: "MARS"
+  - tossup:
+      question: "5667 Which of the first triumvirate died a natural death?"
+      answer: "NONE"
+    boni:
+      - question: "Which died in battle?"
+        answer: "CRASSUS"
+      - question: "Which died first?"
+        answer: "CRASSUS"
+  - tossup:
+      question: "199 What kind of verbs are hortor and loquor?"
+      answer: "DEPONENT"
+    boni:
+      - question: "What is the singular imperative of hortor?"
+        answer: "HORTARE"
+      - question: "What is the present infinitive of loquor?"
+        answer: "LOQUI"
+  - tossup:
+      question: "."
+      answer: "712 Change sepeliunt to perfect subjunctive. SEPELIVERINT"
+    boni:
+      - question: "."
+        answer: "Change sepeliverint to passive. SEPULTI SINT"
+      - question: "."
+        answer: "Change sepeliverint to imperfect. SEPELIRENT"
+  - tossup:
+      question: "5096 What is the modern name for Nicaea?"
+      answer: "NICE"
+    boni:
+      - question: "What modern city was founded as Colonia Agrippina?"
+        answer: "COLOGNE"
+      - question: "What is the modern name for Tergeste?"
+        answer: "TRIESTE"
+  - tossup:
+      question: "3153 What character in the Aeneid says almost nothing but is Aeneas' constant companion?"
+      answer: "ACHATES"
+    boni:
+      - question: "Who is the only Trojan to drown in the great storm of Book I?"
+        answer: "ORONTES"
+      - question: "Which Trojan is the first to speak both to Dido and later to King Latinus?"
+        answer: "ILIONEUS"
+  - tossup:
+      question: "In its literal root meaning, what do you share with a companion?"
+      answer: "BREAD"
+    boni:
+      - question: "What do you share with a comrade?"
+        answer: "A ROOM (camera)"
+      - question: "By what principle has “comrade” come to be spelled with com-, even though there's no cum in its root?"
+        answer: "ON ANALOGY WITH CUM'S COMPOUNDS"
+  - tossup:
+      question: "."
+      answer: "Say “near Faesulae.” AD/PROPE FAESULAS"
+    boni:
+      - question: "."
+        answer: "Say “at Delphi.” DELPHIS"
+      - question: "."
+        answer: "Using humus, say “on the ground.” HUMI"
+  - tossup:
+      question: "Who was insulted by the decemvir Appius Claudius?"
+      answer: "VERGINIA"
+    boni:
+      - question: "What was her father's reaction?"
+        answer: "HE KILLED HER"
+      - question: "What political upheaval resulted?"
+        answer: "THE OVERTHROW OF THE DECEMVIRI"
+  - tossup:
+      question: "You know where to find Sisyphus in Tartarus. Where was he king on earth?"
+      answer: "CORINTH"
+    boni:
+      - question: "What games did he institute there?"
+        answer: "THE ISTHMIAN GAMES"
+      - question: "Who reinstituted them games after a lapse?"
+        answer: "THESEUS"
+  - tossup:
+      question: "Which of these works was published first: Ovid's Metamorphoses, Lucretius' De Rerum Natura, or Martial's Epigrams?"
+      answer: "LUCRETIUS' DE RERUM NATURA"
+    boni:
+      - question: "Whose philosophy is found in that poem?"
+        answer: "EPICURUS'"
+      - question: "Into how many books is it divided?"
+        answer: "SIX"
+  - tossup:
+      question: "Which of Dionysus' aunts cared for him?"
+      answer: "INO"
+    boni:
+      - question: "What stepchildren did Ino try to kill?"
+        answer: "PHRIXUS AND HELLE"
+      - question: "Who was Ino's husband, their father?"
+        answer: "ATHAMAS"
+  - tossup:
+      question: "."
+      answer: "Change mittitis to perfect. MISISTIS"
+    boni:
+      - question: "."
+        answer: "Change cedit to pluperfect subjunctive. CESSISSET"
+      - question: "."
+        answer: "Make cessisset indicative. CESSERAT"
+  - tossup:
+      question: "What name was abbreviated K.?"
+      answer: "KAESO"
+    boni:
+      - question: "M'?"
+        answer: "MANIUS"
+      - question: "App?"
+        answer: "APPIUS"
+  - tossup:
+      question: "What can you infer if your teammate offers you a mucinium?"
+      answer: "YOU NEED TO BLOW YOUR NOSE, WIPE YOUR BROW, etc."
+    boni:
+      - question: "What do you do with a pomum?"
+        answer: "EAT IT"
+      - question: "With a codex?"
+        answer: "READ IT"
+      - question: "."
+        answer: "#"

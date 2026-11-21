@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "While hanging out with your friend Marcus at the forum, he mentions that he witnessed a <latin>peccāmen</latin>. What did your friend witness, knowing that <latin>peccāmen</latin> comes from <latin>peccō, peccāre</latin>?\t"
+      answer: "A MISTAKE / FAULT / SIN"
+    boni:
+      - question: "You then invite Marcus to a <latin>convīvium</latin> you are hosting later that day. What did you invite Marcus to?\t"
+        answer: "A MEAL / SOCIAL FEAST / BANQUET / ENTERTAINMENT"
+      - question: "Upon hearing your invitation, <latin>Marcus rubēscit</latin>. What did Marcus do?\t \t\t"
+        answer: "TURNED RED / GREW RED / REDDENED / BLUSHED"
+  - tossup:
+      question: "Prior to fighting the Spartan king Nabis, what Roman gained fame for proclaiming the freedom of Greece at the Isthmian Games and defeating Philip V at Cynoscephalae?\t\t"
+      answer: "(T. QUINCTIUS) FLAMININUS"
+    boni:
+      - question: "During the 2nd Punic War, Flamininus served as the <latin>prōpraetor</latin> of what city, which previously summoned Pyrrhus to fight Rome?\t"
+        answer: "TARENTUM"
+      - question: "After the 2nd Macedonian War, which son of Philip V secured the throne by levying false treason charges against his brother Demetrius?\t"
+        answer: "PERSEUS"
+  - tossup:
+      question: "Care from the daughters of Melisseus, a deliberately-loud ritual dance of clashing spears and shields, and a nymph’s or goat’s milk ensured that what godly youth was raised free of Cronus? \t"
+      answer: "ZEUS"
+    boni:
+      - question: "Who conducted the deliberately-loud ritual dance to drown out Zeus’ cries?\t \t\t"
+        answer: "CURETES / CORYBANTES"
+      - question: "According to some sources, the daughters of Melisseus also fed the infant Zeus with what substance in addition to milk, as the Greek meaning of “Melisseus” indicates?\t"
+        answer: "HONEY"
+  - tossup:
+      question: "Using <latin>ut</latin>, translate into Latin: The girl walks to the forum to buy bread. \t\t"
+      answer: "<latin>PUELLA AMBULAT AD FORUM UT PĀNEM \t\tEMAT / COMPARET / MERCĒTUR / SŪMAT</latin>"
+    boni:
+      - question: "Now translate into Latin: The speech so moved the people that they wept"
+        answer: "<latin>ŌRĀTIŌ ADEŌ / SĪC / ITA / TAM POPULUM MŌVIT UT FLĒRE(N)T / LACRIMĀRE(N)T</latin>"
+      - question: "Now translate into Latin, using <latin>ut</latin> and a form of <latin>imperō</latin>: The teacher ordered the students to write that which he had said.\t"
+        answer: "<latin>MAGISTER DISCIPULĪS IMPERĀVIT UT \t\t{(ID) QUOD / (EA) QUAE DĪXERAT / DĪXISSET // DICTA/UM} SCRĪBERENT</latin>"
+  - tossup:
+      question: "What Roman author, in addition to leading armies in which Sallust and Vitruvius served, found time to write a <title><latin>Dē Analogiā</latin></title> about linguistic theory, a funeral <latin>ēlogium</latin> for his aunt Julia, and seven books on his military campaigns in Gaul?\t"
+      answer: "(C.) JULIUS CAESAR"
+    boni:
+      - question: "What is the Latin title of Caesar’s work on his Gallic campaigns? \t\t<title></title>"
+        answer: "(COMMENTĀRIĪ) <title><latin>DĒ BELLŌ GALLICŌ / BELLUM GALLICUM</latin></title>"
+      - question: "Who wrote the eighth book of Caesar’s <title><latin>Dē Bellō Gallicō</latin></title>?\t"
+        answer: "(A.) HIRTIUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What modern day country contains ancient cities such as <latin>Burdigala</latin>, <latin>Arausio</latin>, and <latin>Lugdunum</latin> and occupies the largest part of what the Romans called <latin>Gallia</latin>?\t"
+      answer: "FRANCE"
+    boni:
+      - question: "What modern day country occupies the largest part of what the Romans called <latin>Hibernia</latin>? \t\t"
+        answer: "IRELAND"
+      - question: "What modern day country occupies the largest part of what the Romans called <latin>Dacia</latin>? \t\t"
+        answer: "ROMANIA"
+  - tossup:
+      question: "According to Homer, what hero “ate his own heart” alone on the Aleian Plain, since his defeats of the Solymi and Amazons were overshadowed by his attempt to fly to Olympus on Pegasus?\t"
+      answer: "BELLEROPHON(TES) / HIPPONOÜS"
+    boni:
+      - question: "In the <title>Iliad</title>, Bellerophon’s sad story is related in a conversation between what two men, one of whom was a grandson of the fallen hero?\t"
+        answer: "GLAUCUS AND DIOMEDES"
+      - question: "In the story, Glaucus refers to Bellerophon’s descent from Sisyphus. In doing so, he refers to Corinth by what name, by which it was prehistorically known?\t"
+        answer: "EPHYRA"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: Omnēs pūniantur nisi librī reddantur. Cuius modī est reddantur?</latin>\t"
+      answer: "SUBIUNCTĪVĪ / CONIUNCTĪVĪ"
+    boni:
+      - question: "<latin>Quō cāsū est omnēs?</latin>\t"
+        answer: "NŌMINĀTĪVŌ"
+      - question: "<latin>Respondē Anglicē: Quālis condiciōnālis est haec sententia</latin>? \t\t"
+        answer: "FUTURE LESS VIVID / “SHOULD-WOULD” (accept description)"
+  - tossup:
+      question: "Decisions regarding war and peace, the enactment of laws, and the election of praetors, censors, and consuls were all carried out by what voting assembly, which was composed of both patricians and plebeians, who were assigned to classes and centuries? \t\t"
+      answer: "<latin>COMITIA CENTURIĀTA</latin> / CENTURIATE ASSEMBLY"
+    boni:
+      - question: "Because of its size, where in Rome did the <latin>Comitia Centuriāta</latin> meet? \t\t"
+        answer: "<latin>CAMPUS MARTIUS</latin> / FIELD OF MARS"
+      - question: "What voting assembly that dated from the time of the kings and was composed of patricians only, was originally the only legal representation of the Roman people but by the late Republic was relegated to overseeing wills, adoptions and the inaugurations of priests?   \t"
+        answer: "<latin>COMITIA CŪRIĀTA</latin> / CURIATE ASSEMBLY"
+  - tossup:
+      question: "Listen carefully to the following passage about the author Vergil, which I will read twice, then respond in English to the questions that follow: \t<latin>Vergilius certē cēterōs auctōrēs antīquōs ēloquentiā ac pulchritūdine praestat. carmen dē itinere Aenēae scrīpsit ut placeat nōn sōlum legentibus, sed etiam Augustō. in eō carmine, Vergilius docuit Rōmānōs initium dīvīnum habuisse, et fātum principem ipsum ēlēgisse.</latin>    "
+      answer: "REREAD"
+    boni:
+      - question: "In what two areas does Vergil surpass other ancient authors?"
+        answer: "ELOQUENCE AND BEAUTY"
+      - question: "What did Vergil’s poem claim about Augustus?"
+        answer: "(THAT) FATE HAD CHOSEN AUGUSTUS (HIMSELF)"
+  - tossup:
+      question: "What literary genre according to Quintilian was “entirely Roman”, was first written by Lucilius, and was “difficult not to write” according to Juvenal due to his disgust for Roman immorality?\t"
+      answer: "SATIRE / <latin>SATURA</latin>"
+    boni:
+      - question: "What meter did Lucilius introduce into Latin satire as the eventual dominant meter?\t\t"
+        answer: "DACTYLIC HEXAMETER"
+      - question: "What most ancient Roman meter, which is perhaps the only meter the Romans invented since many others have earlier equivalents in Greek, was used by authors such as Livius Andronicus and Naevius before mostly giving way to dactylic hexameter?\t\t"
+        answer: "SATURNIAN"
+  - tossup:
+      question: "For the verb <latin>secō</latin>, give the 3rd person singular present active subjunctive form, which would mean “Let it cut.”\t"
+      answer: "<latin>SECET</latin>"
+    boni:
+      - question: "Now give the form of <latin>secō</latin> that would mean “Let it cut” as a 3rd person singular future active imperative.\t"
+        answer: "<latin>SECĀTŌ</latin>"
+      - question: "For the same verb, give the 2nd person plural future active imperative form, which would mean \"Y’all shall cut!\"\t"
+        answer: "<latin>SECĀTŌTE</latin>"
+  - tossup:
+      question: "Consider the sentence <latin>Carthāgō dēlenda est.</latin> What one word must be added for that sentence to mean “We must destroy Carthage”?\t"
+      answer: "<latin>NŌBĪS</latin>"
+    boni:
+      - question: "Consider the sentence <latin>Rōmānī numquam invidēbunt</latin>. What one word must be added so that it means “The Romans will never envy the Greeks.” \t"
+        answer: "<latin>GRAECĪS</latin>"
+      - question: "Consider the sentence <latin>discipulus dignus quī laudētur est.</latin> What one word could be used to replace the subjunctive clause?\t"
+        answer: "<latin>LAUDE / LAUDIS / LAUDĀRĪ</latin>"
+  - tossup:
+      question: "What king of Salmydessus was given the gift of prophecy by Apollo but later made blind for revealing the future to mankind, resulting in his needing to be rescued from the Harpies’ torments by Jason and the Argonauts?\t"
+      answer: "PHINEUS [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "There’s a hundred and four days of summer vacation and Nats comes along just to end it. In honor of Phineas and Ferb’s revival this summer, let’s take a look at some screenshots that might be able to fill us in on some other Argonaut adventures. One picture shows characters that look an awful lot like two foes Jason faced. Identify the picture by letter and identify the types of foes he faced."
+        answer: "C: BRONZE GIANT / TALUS, DRAGON"
+      - question: "If we consider that Candace has some Big Medea Energy, what important element is missing from her chariot in picture A?"
+        answer: "PULLED BY DRAGONS / ABLE TO FLY"
+  - tossup:
+      question: "After what early battle was a man’s beard turned bronze, supposedly demonstrating that the Romans had defeated the forces of Octavius Mamilius and Tarquinius Superbus, a sign from Castor and Pollux?\t"
+      answer: "LAKE REGILLUS"
+    boni:
+      - question: "The man with the bronze beard was a member of what <latin>gēns</latin>, likely inspiring the <latin>cognōmen</latin> <latin>Ahēnobarbus</latin> that many of his descendents took?\t \t\t"
+        answer: "(<latin>GĒNS</latin>) <latin>DOMITIA</latin> // <latin>DOMITIĪ / DOMITIUS</latin>"
+      - question: "What Roman earned an oak leaf crown while fighting at Lake Regillus, though his reputation was later tarnished when he marched on Rome with an army of Volscians? \t\t"
+        answer: "(C. / CN. MARCIUS) CORIOLANUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What crime drove Aeolus to kill Canace, indirectly led to Smyrna’s transformation into a myrrh tree, and resulted in the births of Antigone and Ismene to Oedipus and Jocasta?"
+      answer: "INCEST"
+    boni:
+      - question: "Smyrna was also known as Myrrha. Name Smyrna’s or Myrrha’s father, who killed himself due to his unknowing incestuous union.\t"
+        answer: "CINYRAS / THEIAS"
+      - question: "What king committed incest by raping his daughter, Harpalyce?\t"
+        answer: "CLYMENUS"
+  - tossup:
+      question: "One day you might drive an SUV, or a Sport Utility Vehicle. Give the Latin verb root and its meaning for any of the words in the acronym SUV. \t\t"
+      answer: "SPORT - <latin>PORTŌ -</latin> TO CARRY // UTILITY - <latin>ŪTOR</latin> - TO USE // \t\tVEHICLE - <latin>VEHŌ</latin> - TO CARRY"
+    boni:
+      - question: "You might also drive a sedan. From what Latin noun with what meaning is “sedan” derived?"
+        answer: "<latin>SĒDES</latin> - SEAT"
+      - question: "Some souped-up coupes are considered muscle cars. From what Latin noun with what meaning is “muscle” derived?"
+        answer: "<latin>MŪS</latin> - MOUSE"
+  - tossup:
+      question: "What Roman author, who wrote <title><latin>Ambracia</latin></title> about Marcus Fulvius Nobilior’s military victory in Greece, introduced dactylic hexameter into Latin epic with his fifteen-book <title><latin>Annālēs</latin></title>?\t"
+      answer: "(Q.) ENNIUS"
+    boni:
+      - question: "Ennius was well-known for having “three hearts” because he spoke which three languages?\t"
+        answer: "LATIN, GREEK, OSCAN"
+      - question: "What Roman censor and author encountered Ennius on Sardinia and convinced him to move to Rome?\t"
+        answer: "(M. PORCIUS) CATO THE ELDER / CENSOR"
+  - tossup:
+      question: "After writing a letter to Memmius Regulus, what emperor raised the <latin>praefectus vigilum</latin> to fill Sejanus’ old position while simultaneously naming Caligula as his successor? \t\t"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who was this <latin>praefectus vigilum</latin>, whom Tiberius raised to commander of the praetorian guard?\t"
+        answer: "MACRO"
+      - question: "Accusations of <latin>māiestās</latin> were brought with increasing frequency after Sejanus’ execution. What Latin term was used for an informer who made accusations of <latin>māiestās</latin>? \t\t"
+        answer: "<latin>DĒLĀTŌR(ĒS)</latin>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Found in the motto of the University of Chicago, what literary device is exemplified in the phrase <latin>crēscat scientia vīta excolātur</latin> wherein one observes an A-B-B-A pattern either grammatically or syntactically?\t"
+      answer: "CHIASMUS"
+    boni:
+      - question: "What other literary device, sometimes called interlocking word order, is exemplified in the phrase <latin>vī</latin> <latin>superum saevae memorem Iūnōnis ob īram</latin> from Vergil’s <title>Aeneid</title> where the grammar is understood in an A-B-A-B pattern?\t"
+        answer: "SYNCHYSIS"
+      - question: "Synchysis may also be thought of as a repeated use of what other figure of speech where two words in semantic agreement are separated by a great distance? The name for this figure of speech literally means “thrown far.”\t"
+        answer: "HYPERBATON"

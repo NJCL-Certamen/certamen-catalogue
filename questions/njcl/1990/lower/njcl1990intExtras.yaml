@@ -1,0 +1,72 @@
+tournament: "NJCL Certamen"
+year: 1990
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+
+  - tossup:
+      question: "What is the noun of either feminine or masculine gender that means ”spouse“?"
+      answer: "CONIUNX, CONIUGIS"
+  - tossup:
+      question: "What ablative absolute would be best translated as ”under your leadership“?"
+      answer: "TE DUCE (VOBIS DUCIBUS)"
+  - tossup:
+      question: "."
+      answer: "The convention opened on July"
+  - tossup:
+      question: "What is that in Roman dating?"
+      answer: "A.D. IV KALENDAS AUGUSTAS"
+  - tossup:
+      question: "What is the Latin for ”we must resist“?"
+      answer: "NOBIS RESISTENDUM EST"
+  - tossup:
+      question: "What is the Latin noun and its meaning from which we derive ”culinary“?"
+      answer: "CULINA = KITCHEN"
+  - tossup:
+      question: "How must an appositive agree with its antecedent?"
+      answer: "CASE ONLY"
+  - tossup:
+      question: "What body part is being referred to when you call someone ”supercilious“?"
+      answer: "THE EYEBROW"
+  - tossup:
+      question: "”I am three inches taller than you.“ What case usage would ”inches“ be?"
+      answer: "ABLATIVE OF DEGREE OF DIFFERENCE"
+  - tossup:
+      question: "."
+      answer: "Make mavult subjunctive. MALIT"
+  - tossup:
+      question: "."
+      answer: "Make nobilis superlative. NOBILISSIMUS"
+  - tossup:
+      question: "Who was Achilles' son?"
+      answer: "PYRRHUS/NEOPTOLEMUS"
+  - tossup:
+      question: "Who was the ill-fated grandfather of Perseus?"
+      answer: "ACRISIUS"
+  - tossup:
+      question: "Why was one of the Hydra's nine heads more troublesome than the rest?"
+      answer: "IT WAS IMMORTAL"
+  - tossup:
+      question: "Where were ants turned to people?"
+      answer: "AEGINA"
+  - tossup:
+      question: "Who were the immortal Gorgons?"
+      answer: "STHENO AND EURYALE"
+  - tossup:
+      question: "What kingdom did Attalus III bequeath to Rome?"
+      answer: "PERGAMUM"
+  - tossup:
+      question: "What was a libertus?"
+      answer: "A FREEDMAN"
+  - tossup:
+      question: "What honor did a Roman soldier win by saving a fellow citizen's life in battle?"
+      answer: "THE CORONA CIVICA"
+  - tossup:
+      question: "Who was the only emperor in the first century to be succeeded by his own son?"
+      answer: "VESPASIAN"
+  - tossup:
+      question: "What was the year of Cicero's death?"
+      answer: "43 BC"
+    boni:
+      - question: "."
+        answer: "#"

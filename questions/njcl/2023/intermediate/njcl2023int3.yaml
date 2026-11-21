@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Marcus Furius Camillus received the title of <latin>Pater Patriae</latin> in 386 BC after rescuing \tRome from its capture by which Senonian leader? \t"
+      answer: "BRENNUS"
+    boni:
+      - question: "Camillus is perhaps most famous for his sack of what Etruscan city, which he finally  \tcaptured in 396 BC after a 10 year siege?\t"
+        answer: "VEII"
+      - question: "At what location 10 miles north of Rome had Brennus defeated the Roman line, paving  \tthe way to the city?\t"
+        answer: "ALLIA (RIVER)"
+  - tossup:
+      question: "Which of the following, if any, does not belong because of meaning: <latin>faciēs, rosa, speciēs, vultus</latin>?\t"
+      answer: "<latin>ROSA</latin>"
+    boni:
+      - question: "Which of the following, if any, does not belong because of meaning: <latin>caedēs, decus, dignitās, honor</latin>?\t"
+        answer: "CAEDĒS"
+      - question: "Which of the following, if any, does not belong because of meaning: <latin>aequor, mare, ōceanus, pondus</latin>?\t"
+        answer: "<latin>PONDUS</latin>"
+  - tossup:
+      question: "What grandson of Cadmus was torn apart on Mount Cithaeron and had his head displayed by his mother, who thought she had helped to kill a wild beast in her Bacchic frenzy? \t\t"
+      answer: "PENTHEUS"
+    boni:
+      - question: "Who was Pentheus’ mother who had gathered with many other Bacchantes on Mt. Cithaeron?\t"
+        answer: "AGAVE"
+      - question: "How was Pentheus related to the god Dionysus, who caused his gruesome death? \t\t"
+        answer: "(FIRST) COUSINS / THEIR MOTHERS WERE SISTERS"
+  - tossup:
+      question: "Consider the following Latin names for species within the genus <latin>homō</latin>: <latin>antecessor</latin>, <latin>ērectus, habilis</latin>, <latin>sapiēns</latin>. Which species did scientists name due to the theory that it was the first to walk fully upright like modern humans?\t"
+      answer: "<latin>ĒRECTUS</latin>"
+    boni:
+      - question: "Of the remaining species, <latin>antecessor</latin>, <latin>habilis</latin>, <latin>sapiēns</latin>, which did scientists name due to the theory that it was the first one able to easily hold and use tools, although tools have later been found that long predate this species?\t"
+        answer: "<latin>HABILIS</latin>"
+      - question: "Scientists believe that humans evolved from the genus <latin>austrālopithēcus</latin>, whose Latin name means an “ape” originating from one of the Earth’s hemispheres. What cardinal direction is denoted by the prefix <latin>austrālo</latin>-?\t"
+        answer: "SOUTH(ERN)"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā:</latin> “<latin>Cum pugnantium \tclāmōrem audīret, cucurrit domum.</latin>” <latin>Quō casū est “pugnantium”?</latin>\t"
+      answer: "GENITĪVŌ"
+    boni:
+      - question: "<latin>Cūius modī est</latin> “<latin>audīret</latin>”?\t"
+        answer: "<latin>SUBIŪNCTĪVĪ / CŌNIŪNCTĪVĪ</latin>"
+      - question: "<latin>Cūius temporis est</latin> “<latin>audīret</latin>”?\t"
+        answer: "<latin>IMPERFECTĪ</latin>"
+  - tossup:
+      question: "Distinguish in meaning between the Latin verbs <latin>moror</latin> and <latin>morior.</latin>\t\t"
+      answer: "<latin>MOROR</latin> - TO DELAY / WAIT / REMAIN / STAY / LINGER / LOITER  &  \t\t<latin>MORIOR</latin> - TO DIE"
+    boni:
+      - question: "Distinguish in meaning between the Latin verbs <latin>proficīscor</latin> and <latin>prōgredior</latin>."
+        answer: "<latin>PROFICĪSCOR</latin> - TO DEPART / SET OUT / MARCH / EMBARK / START / GO / \tTRAVEL & <latin>PRŌGREDIOR</latin> - TO ADVANCE / GO ON / PROCEED"
+      - question: "Distinguish in meaning between the Latin verbs <latin>reor</latin> and <latin>vereor</latin>."
+        answer: "<latin>REOR</latin>- TO THINK / BELIEVE / JUDGE / DEEM / IMAGINE &  \t\t<latin>VEREOR</latin>- TO FEAR / RESPECT / REVERE"
+  - tossup:
+      question: "Which successor of Constantius II was known for his desire to reinstate Rome’s pre-Christian religious traditions and is nicknamed “The Apostate”?\t"
+      answer: "JULIAN"
+    boni:
+      - question: "While Constantius II took the eastern provinces, which of the other sons of Constantine the Great assumed control of Italy, Africa, and Pannonia?"
+        answer: "CONSTANS (I)"
+      - question: "Constantius II had assumed control over the eastern provinces and outlived his brothers until his death in what year, after which Julian then assumed the throne?"
+        answer: "361 AD"
+  - tossup:
+      question: "Whom did Odius, Eurybates, Odysseus, Telamonian Ajax, and Phoenix visit on the shores of Troy to offer gifts from Agamemnon in order to assuage his anger and coax him back into the Trojan War?\t"
+      answer: "ACHILLE(U)S"
+    boni:
+      - question: "Which of those visitors remained with Achilles while the others returned to report Achilles’ refusal to Agamemnon?\t"
+        answer: "PHOENIX"
+      - question: "Phoenix’s argument to Achilles compared Achilles’ situation to that of which Calydonian prince who refused to take part in a war with the Curetes because he was angry with his mother, Althaea?\t"
+        answer: "MELEAGER"
+  - tossup:
+      question: "Aurelia’s story continues. Listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow<latin>:  \tIntereā pater Aurēliae nesciēbat quō fīlia īvisset. Ergō, sollicitus, amīcōs fidēlēs mīsit quī eam invenīrent. Per tōtam urbem Alexandrīae quaerēbant sed nihil indiciī Aurēliae invēnērunt. Ēheu! Quid facere dēbēbant?</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "\t<latin>Cur pater Aurēliae sollicitus est?</latin>"
+        answer: "NESCIĒBAT QUŌ FĪLIA ĪVISSET"
+      - question: "<latin>Quid pater ēgit ut Aurēliam invenīret?</latin>"
+        answer: "AMĪCŌS (FIDĒLĒS) MĪSIT  \t\t(QUĪ EAM / FĪLIAM / AURĒLIAM INVENĪRENT)"
+  - tossup:
+      question: "What was the primary material the Romans used to create a <latin>vāllum</latin> on top of an <latin>agger</latin>, to build <latin>īnsulae</latin> and <latin>nāvēs</latin>, and to burn for heat and fuel?\t"
+      answer: "WOOD / TIMBER / <latin>LIGNUM</latin>"
+    boni:
+      - question: "The Roman empire’s mass consumption of wood led to widespread deforestation. What type of tree, which produced Spain’s largest exported crop, was planted to replace native forests, causing lasting harm to the region’s biodiversity?\t"
+        answer: "OLIVE (TREES) / <latin>OLĪVA</latin>"
+      - question: "Rome’s military was also a major consumer of wood. What was a <latin>vāllum</latin>?\t\t"
+        answer: "(DEFENSIVE) FORTIFICATIONS (FOR A CAMP) //  \t\tFENCE / PALISADE (MOUNTED ON AN EARTHEN RAMPART) // WALL"
+  - tossup:
+      question: "Honored in various locations as the Semnai, Dirae, and Eumenides, what triad of goddesses was the personification of vengeance?\t"
+      answer: "FURIES / ERINYES"
+    boni:
+      - question: "Which Fury has a name similar to that of Heracles’ first wife?\t"
+        answer: "MEGAERA"
+      - question: "Name either of the two remaining Furies.\t"
+        answer: "ALLECTO OR TISIPHONE"
+  - tossup:
+      question: "What empire, which first rebuffed Roman invasion at a battle near modern-day Harran at the start of an on-and-off conflict lasting from 54 BC to 217 AD, primarily ruled from its capital of Ctesiphon?\t"
+      answer: "PARTHIAN(S) / ARSACID(S)"
+    boni:
+      - question: "This breastplate depicts the return of military standards lost to the Parthians when Crassus was defeated at Carrhae. Now housed at the Vatican, it can be found on a famous statue of which emperor?"
+        answer: "AUGUSTUS / OCTAVIAN / (C.) OCTAVIUS"
+      - question: "The figure with the dog, shown as accepting the standards, may have been a depiction of which emperor, who had a hand in retrieving the lost standards and commissioned this statue in honor of Augustus?"
+        answer: "TIBERIUS (CLAUDIUS NERO)"
+  - tossup:
+      question: "For the verb <latin>pellō</latin>, provide the second person singular, perfect, active, indicative form that means “you have pushed.”\t"
+      answer: "<latin>PEPULISTĪ</latin>"
+    boni:
+      - question: "Keeping everything else the same, change <latin>pepulistī</latin> to the passive so that it means “you have been pushed.”\t"
+        answer: "<latin>PULSUS/A/UM ES</latin>"
+      - question: "Keeping everything else the same, change <latin>pulsa es</latin> to the present subjunctive so that it means “you may be pushed.”\t"
+        answer: "<latin>PELLĀRIS / PELLĀRE</latin>"
+  - tossup:
+      question: "Translate the following sentence from English to Latin: The night was so long that the earth slept.\t"
+      answer: "<latin>NOX TAM LONGA ERAT UT \t\tTERRA / TELLŪS / ORBIS TERRĀRUM / MUNDUS DORMĪRET</latin>"
+    boni:
+      - question: "Using <latin>ūtor</latin> and a subjunctive, translate the following sentence from English to Latin: The soldiers used their hands to destroy the walls.\t \t\t"
+        answer: "MĪLITĒS MANIBUS (SUĪS / EŌRUM / EĀRUM) ŪSĪ SUNT / ŪTĒBANTUR \t\tUT / QUIBUS MŪRŌS / VĀLLA / MOENIA / PARIĒTĒS \t\tDĒLĒRENT / VĀSTĀRENT"
+      - question: "Translate the following sentence from English to Latin using <latin>nesciō</latin>: Caesar himself does not know how to conquer me.\t \t\t"
+        answer: "CAESAR IPSE NESCIT QUŌMODŌ MĒ VINCAT / SUPERET"
+  - tossup:
+      question: "What son of Penelope and Hermes invented the instrument called the syrinx after he harassed and chased a nymph of the same name until she was transformed into reeds? \t\t"
+      answer: "PAN"
+    boni:
+      - question: "What river prevented Syrinx from further fleeing Pan?\t"
+        answer: "LADON"
+      - question: "What other nymph was transformed into a pine tree while trying to escape Pan?\t"
+        answer: "PITYS"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Semper melius est temptāre \t\tquam cedere.</latin>\t"
+      answer: "IT’S ALWAYS BETTER TO TRY THAN (TO) YIELD / GIVE UP"
+    boni:
+      - question: "Translate this sentence into English: <latin>Iter quod fert tē ad scientiam est plēnum dolōris \t\tet difficultātis.</latin>\t"
+        answer: "THE ROAD / JOURNEY / TRIP / MARCH THAT / WHICH BRINGS /  \t\tCARRIES YOU TO KNOWLEDGE / SCIENCE IS FULL OF PAIN  \t\tAND DIFFICULTY"
+      - question: "Translate this sentence into English: <latin>Sī intellegere temptāverimus, nōs adiuvābimus.</latin>\t \t\t"
+        answer: "IF WE TRY / WILL HAVE TRIED  / WILL TRY TO UNDERSTAND,  (THEN) WE WILL HELP (OURSELVES)"
+  - tossup:
+      question: "Which emperor had his army in Mesopotamia declare Clodius Albinus a public enemy in order to legitimize his war against Albinus?\t"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "Septimius Severus also had the army ratify his adoption in 195 AD into what family?\t\t"
+        answer: "MARCUS AURELIUS’ / THE ANTONINES"
+      - question: "Where did Septimius Severus finally defeat and kill Clodius Albinus in 197 AD? \t\t"
+        answer: "LUGDUNUM / LYON(S)"
+  - tossup:
+      question: "Many colleges have Latin mottos with a form of <latin>lūx</latin> in them. Which of the following colleges does not have a form of <latin>lūx</latin> in its motto: Yale, Catholic University, Brown, or University of Washington?\t"
+      answer: "BROWN"
+    boni:
+      - question: "What is the Latin motto of Brown?\t"
+        answer: "<latin>IN DEŌ SPĒRĀMUS</latin>"
+      - question: "What word in various forms is shared by the mottos of Delaware College, the University of Chicago, and Emory?\t"
+        answer: "<latin>SCIENTIA</latin>"
+  - tossup:
+      question: "\tSay in English the type of person in ancient Rome who would be performing the actions  described in the following Latin sentences: <latin>Caelum spectō, et avēs aut fulmen videō. Tum, auspicia intellegō et cōnsilia deōrum explīcō.</latin> \t\t\t"
+      answer: "AUGUR / PRIEST / PONTIFEX / PONTIFF"
+    boni:
+      - question: "Say in English the type of person in ancient Rome who would be performing the actions  described in the following Latin sentence: <latin>Bīgam aut quādrīgam agō, et equī celerēs mē vehunt circum circum.</latin>\t"
+        answer: "CHARIOT RACER / DRIVER"
+      - question: "<latin>Dīc Anglicē id quod agō. In aquā calidā sedeō. Tum, ōleum olīvum in mē unguō. Mox, in aquā frīgidā nābō.</latin> \t"
+        answer: "TAKING A BATH // BATHE  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What type of animal, one of which was killed by Alcathoüs as it ravaged Cithaeron, was part of the Chimera together with a goat and a snake?\t"
+      answer: "LION"
+    boni:
+      - question: "According to another source, instead of Alcathoüs, which hero killed the Cithaeronian lion, because it had ravaged the flocks of his stepfather, Amphitryon?\t \t\t"
+        answer: "HERACLES / HERCULES"
+      - question: "Apollo fell in love with which woman when he saw her wrestling a lion on Mount Pelion?\t"
+        answer: "CYRENE"

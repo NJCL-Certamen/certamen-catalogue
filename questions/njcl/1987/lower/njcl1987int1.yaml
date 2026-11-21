@@ -1,0 +1,180 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "What case is used to express place to which?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What two cases can show place where?"
+        answer: "LOCATIVE AND ABLATIVE"
+      - question: "What two cases can show possession?"
+        answer: "GENITIVE AND DATIVE"
+  - tossup:
+      question: "."
+      answer: "Say in Latin: “across the river.” TRANS FLUMEN (FLUVIUM)"
+    boni:
+      - question: "."
+        answer: "Translate “between the towns.” INTER OPPIDA"
+      - question: "."
+        answer: "Translate “after the battle.” POST PROELIUM"
+  - tossup:
+      question: "What did the Romans call the divinities who had been human and who after death still watched over the home?"
+      answer: "LARES"
+    boni:
+      - question: "What did Lares Compitales protect?"
+        answer: "CROSSROADS"
+      - question: "What was the name for the shrine to the household gods?"
+        answer: "LARARIUM"
+  - tossup:
+      question: "."
+      answer: "Change <u>cognoscunt</u> to perfect. COGNOVERUNT"
+    boni:
+      - question: "."
+        answer: "Change <u>cognoverunt</u> to passive. COGNITI SUNT"
+      - question: "."
+        answer: "Change <u>cogniti sunt</u> to subjunctive. COGNITI SINT"
+  - tossup:
+      question: "What case is governed by <u>ad</u>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "By <u>cum</u>?"
+        answer: "ABLATIVE"
+      - question: "By <u>pro</u>?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "What kind of tree is an <u>ulmus</u>?"
+      answer: "ELM"
+    boni:
+      - question: "<u>Quercus</u>?"
+        answer: "OAK"
+      - question: "<u>Ficus</u>?"
+        answer: "FIG"
+  - tossup:
+      question: "Who was Julius Caesar's prominent uncle?"
+      answer: "MARIUS"
+    boni:
+      - question: "Who was Caesar's widow?"
+        answer: "CALPURNIA"
+      - question: "Which wife left him a widower in 68 BC?"
+        answer: "CORNELIA"
+  - tossup:
+      question: "."
+      answer: "Complete this analogy: <u>timere</u>:<u>terrere</u>::<u>accipere</u>:________. DARE"
+    boni:
+      - question: "What is the antonym of <u>nunc</u>?"
+        answer: "TUNC"
+      - question: "What is the antonym of <u>ibi</u>?"
+        answer: "HIC"
+  - tossup:
+      question: "What Latin noun is the root of “ignition”?"
+      answer: "IGNIS"
+    boni:
+      - question: "What pronoun is the root of “identical”?"
+        answer: "IDEM"
+      - question: "What adjective is the root of “integrate”?"
+        answer: "INTEGER"
+  - tossup:
+      question: "What Roman maiden swam the Tiber to freedom only to be returned to her Etruscan captors?"
+      answer: "CLOELIA"
+    boni:
+      - question: "What maiden betrayed Rome to the Sabines?"
+        answer: "TARPEIA"
+      - question: "Who was the commander of the attacking Sabines?"
+        answer: "TITUS TATIUS"
+  - tossup:
+      question: "Who was the son of Daunus and Venilia?"
+      answer: "TURNUS"
+    boni:
+      - question: "What was the city of Turnus and capital of Rutulia?"
+        answer: "ARDEA"
+      - question: "Who was Turnus' sister?"
+        answer: "JUTURNA"
+  - tossup:
+      question: "Who killed the hunters Orion and Actaeon?"
+      answer: "ARTEMIS"
+    boni:
+      - question: "2807 How did she kill Orion?"
+        answer: "SHE SENT A SCORPION TO STING HIM or SHE SHOT HIM THROUGH APOLLO'S TRICKERY"
+      - question: "How did she kill Actaeon?"
+        answer: "SHE TURNED HIM INTO A STAG AND HIS HOUNDS TORE HIM TO PIECES."
+  - tossup:
+      question: "To what place did Tiberius exile himself from 6 BC to 2 AD?"
+      answer: "RHODES"
+    boni:
+      - question: "."
+        answer: "5529"
+      - question: "Whom did Augustus adopt along with Tiberius?"
+        answer: "AGRIPPA POSTUMUS"
+      - question: "Whom did Augustus compel Tiberius to adopt?"
+        answer: "TIBERIUS' NEPHEW GERMANICUS"
+  - tossup:
+      question: "Who was the mother of Hercules?"
+      answer: "ALCMENA"
+    boni:
+      - question: "2632 Who was her mortal husband?"
+        answer: "AMPHITRYON"
+      - question: "Who was their mortal child?"
+        answer: "IPHICLES"
+  - tossup:
+      question: "In Latin, what is ter quinque?"
+      answer: "QUINDECIM"
+    boni:
+      - question: "40 What is the noun for “one half”?"
+        answer: "DIMIDIUM"
+      - question: "How do you say “three fifths”?"
+        answer: "TRES QUINTAE (sc. PARTES)"
+  - tossup:
+      question: "."
+      answer: "Change pereo to future. PERIBO"
+    boni:
+      - question: "."
+        answer: "391 Change peribo to imperfect. PERIBAM"
+      - question: "."
+        answer: "Change peribam to subjunctive. PERIREM"
+  - tossup:
+      question: "What is 73 in Roman numerals?"
+      answer: "LXXIII"
+    boni:
+      - question: "168 What is 199?"
+        answer: "CIC"
+      - question: "What is 499?"
+        answer: "ID"
+  - tossup:
+      question: "What creatures lured sailors to their destruction with their singing?"
+      answer: "THE SIRENS"
+    boni:
+      - question: "2614 What man heard the Sirens and was not destroyed?"
+        answer: "ODYSSEUS"
+      - question: "Who told Odysseus how to sail safely by them?"
+        answer: "CIRCE"
+  - tossup:
+      question: "Who were the parents of Cronus?"
+      answer: "URANUS AND GAIA"
+    boni:
+      - question: "2841 What was the Roman name for Cronus?"
+        answer: "SATURN"
+      - question: "Who was the first born of Cronus and Rhea?"
+        answer: "HESTIA"
+  - tossup:
+      question: "."
+      answer: "Complete this analogy:"
+  - tossup:
+      question: "."
+      answer: ":"
+  - tossup:
+      question: "."
+      answer: "Rome::"
+  - tossup:
+      question: "."
+      answer: ":"
+  - tossup:
+      question: "."
+      answer: ". CONSTANTINOPLE"
+    boni:
+      - question: "."
+        answer: "5613 Give two other names for Constantinople. BYZANTIUM, ISTANBUL"
+      - question: "."
+        answer: "#"

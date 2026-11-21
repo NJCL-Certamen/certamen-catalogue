@@ -1,0 +1,177 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who succeeded Numa Pomilius?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "5507 Who was supposedly Numa's divine consort?"
+        answer: "THE NYMPH EGERIA"
+      - question: "Who succeeded Tullus?"
+        answer: "ANCUS MARCIUS"
+  - tossup:
+      question: "What is the dative singular of the noun cornu?"
+      answer: "CORNU"
+    boni:
+      - question: "485 What is the dative singular of exercitus?"
+        answer: "EXERCITUI"
+      - question: "What is the dative plural of dies?"
+        answer: "DIEBUS"
+  - tossup:
+      question: "What is the antonym for mors?"
+      answer: "VITA / NATUS / GENUS"
+    boni:
+      - question: "556 What is the antonym of sedere?"
+        answer: "STARE, SURGERE"
+      - question: "What is the antonym of pauci?"
+        answer: "MULTI, PLURIMI"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between sumus and summus."
+    boni:
+      - question: ""
+        answer: "SUMUS=WE ARE SUMMUS=TOP OF, HIGHEST POINT"
+      - question: ""
+        answer: "961 Distinguish between hic and hic."
+      - question: ""
+        answer: "HIC=THIS HIC=HERE, IN THIS PLACE"
+      - question: ""
+        answer: "Distinguish between sol and solus."
+      - question: ""
+        answer: "SOL=SUN SOLUS=ALONE, ONLY"
+  - tossup:
+      question: ""
+      answer: "Give the locative form of domus. DOMI"
+    boni:
+      - question: ""
+        answer: "687 Give the locative of Roma. ROMAE"
+      - question: ""
+        answer: "Give the locative of rus. RURI"
+  - tossup:
+      question: "How many Muses were there?"
+      answer: "NINE"
+    boni:
+      - question: "2945 Who was their father?"
+        answer: "ZEUS / JUPITER"
+      - question: "Who was the god of music?"
+        answer: "APOLLO"
+  - tossup:
+      question: "Who was Heracles' half-brother?"
+      answer: "IPHICLES"
+    boni:
+      - question: "2644 Who was Heracles' first wife?"
+        answer: "MEGARA"
+      - question: "Why did Heracles have to enslave himself to Eurystheus?"
+        answer: "TO ATONE FOR KILLING MEGARA AND HIS CHILDREN"
+  - tossup:
+      question: "What is the crime of patricide?"
+      answer: "KILLING ONE'S FATHER"
+    boni:
+      - question: "1102 Regicide?"
+        answer: "KILLING A KING"
+      - question: "Suicide?"
+        answer: "KILLING ONESELF"
+  - tossup:
+      question: "What did the phrase Mare Nostrum mean?"
+      answer: "THE MEDITERRANEAN"
+    boni:
+      - question: "5851 What else did the Romans call it?"
+        answer: "MARE INTERNUM"
+      - question: ""
+        answer: "What port at Italy's heel was the port of departure to"
+      - question: "Greece?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "How many emperors made up the Flavian dynasty?"
+      answer: "THREE"
+    boni:
+      - question: "5648 Whose death ended it?"
+        answer: "DOMITIAN'S"
+      - question: "Whose death ended the Julio-Claudian dynasty?"
+        answer: "NERO'S"
+  - tossup:
+      question: "What Latin verb is the root of ”repel“?"
+      answer: "PELLO, PELLERE"
+    boni:
+      - question: "1097 Of ”excel“?"
+        answer: "CELLO, CELLERE"
+      - question: "What adjective is the root of ”accelerate“?"
+        answer: "CELER, CELERIS, CELERE"
+  - tossup:
+      question: ""
+      answer: "Translate videbar. I WAS BEING SEEN"
+    boni:
+      - question: ""
+        answer: "32 Videbitur. HE WILL BE SEEN"
+      - question: ""
+        answer: "Visa est. SHE HAS BEEN SEEN"
+      - question: "Handwritten note ”three his mother?"
+        answer: "THROUGH HIS MOTHER“ and ”I) Id,“"
+      - question: ""
+        answer: "<th></th><th></th><th></th>"
+  - tossup:
+      question: "What kind of ablative does htis sentence use: Liber a puero legitur?"
+      answer: "AGENT"
+    boni:
+      - question: ""
+        answer: "831Puer puellam celeritate superat.RESPECT"
+      - question: ""
+        answer: "Pueri cum celeritate cucurrerunt,MANNER"
+  - tossup:
+      question: "Who was the first man to fly?"
+      answer: "DAEDALUS"
+    boni:
+      - question: "3198Who was deprived of her voice by Juno?"
+        answer: "ECHO"
+      - question: "Who was given eternal sleep instead of death?"
+        answer: "ENDYMION"
+  - tossup:
+      question: "A nominative plural ending in -a is proof positive of waht gender?"
+      answer: "NEUTER"
+    boni:
+      - question: "694What is the gender of pons?"
+        answer: "MASCULINE"
+      - question: "Of tempus?"
+        answer: "NEUTER"
+  - tossup:
+      question: "Who ended all his speeches by saying Carthago delenda est?"
+      answer: "CATO THE ELDER (CENSORIUS)"
+    boni:
+      - question: "5062In what year was Carthage made into a Roman province?"
+        answer: "146 BC"
+      - question: "How did Hannibal die?"
+        answer: "SUICIDE"
+  - tossup:
+      question: "Who was Caesar's only legitimate child?"
+      answer: "JULIA"
+    boni:
+      - question: "5292Which of Caesar's wives was her mother?"
+        answer: "CORNELIA"
+      - question: ""
+        answer: "Name CAesar's last wife.CALPURNIA"
+  - tossup:
+      question: "Who was the king of Troy during the Trojan War?"
+      answer: "PRIAM"
+    boni:
+      - question: "2531Who was his wife and mother of 19 of his children?"
+        answer: "HECUBA"
+      - question: "Who was his oldest (some say 2nd oldest) son and Troy's greatest warrior?"
+        answer: "HECTOR"
+  - tossup:
+      question: "Who was the daughter of King Aeetes who helped Jason get the Golden Fleece?"
+      answer: "MEDEA"
+    boni:
+      - question: "2673How did Jason overcome the fifty armed warriors sprung from the sown dragon's teeth?"
+        answer: "THREW A STONE IN THEIR MIDST, CAUSING THEM TO TURN ON EACH OTHER"
+      - question: "Who was Jason's wicked uncle?"
+        answer: "PELIAS"
+  - tossup:
+      question: ""
+      answer: "Give the correct form of the adjective magnus to agree with the noun partis.MAGNAE"
+    boni:
+      - question: ""
+        answer: "695To agree with urbem.MAGNAM"
+      - question: ""
+        answer: "To agree with lauros.MAGNAS"

@@ -1,0 +1,208 @@
+tournament: "NJCL Certamen"
+year: 1983
+division: "Intermediate"
+round: "Semifinals"
+questions:
+
+  - tossup:
+      question: "What is the first person plural imperfect active subjunctive of fero?"
+      answer: "FERREMUS"
+    boni:
+      - question: "."
+        answer: "Change ferremus to perfect. TULERIMUS"
+      - question: "."
+        answer: "Change tulerimus to passive. LATI SIMUS"
+      - question: "."
+        answer: "5257"
+  - tossup:
+      question: "By whom was Cicero marked for death with a proscription list?"
+      answer: "MARC ANTONY"
+    boni:
+      - question: "Where and in what year was Cicero killed?"
+        answer: "FORMIAE, 43 BC"
+      - question: "What were the orations called which Cicero delivered against Antony?"
+        answer: "THE PHILIPPICS"
+      - question: "."
+        answer: "177"
+  - tossup:
+      question: "What does Q.E.D. stand for and what does it mean?"
+      answer: "QUOD ERAT DEMONSTRANDUM - THAT WHICH HAD TO BE PROVEN"
+    boni:
+      - question: "What does e.g. stand for?"
+        answer: "EXEMPLI GRATIA - FOR THE SAKE OF EXAMPLE"
+      - question: "What does PhD stand for?"
+        answer: "PHILOSOPHIAE DOCTOR - DOCTOR OF PHILOSOPHY"
+      - question: "."
+        answer: "358"
+  - tossup:
+      question: "."
+      answer: "Give the first person singular pluperfect active subjunctive of tollo. SUSTULISSEM"
+    boni:
+      - question: "."
+        answer: "Change sustulissem to passive. SUBLATUS ESSEM"
+      - question: "."
+        answer: "Change sustulissem to perfect. SUSTULERIM"
+      - question: "."
+        answer: "5131"
+  - tossup:
+      question: "What in Rome was the Aqua Appia?"
+      answer: "THE APPIAN AQUEDUCT"
+    boni:
+      - question: "This aqueduct was named for the Roman responsible for its construction. Who was he?"
+        answer: "APPIUS CLAUDIUS CAECUS"
+      - question: "What does the name Caecus tell us about him?"
+        answer: "HE WAS BLIND"
+      - question: "."
+        answer: "127"
+  - tossup:
+      question: "What Latin noun is the root of the English adjective “cordial?"
+      answer: "” COR"
+    boni:
+      - question: "What is its nominative plural?"
+        answer: "CORDA"
+      - question: "What is the meaning of the Latin noun at the root of the English adjective “coronary?"
+        answer: "” CROWN"
+      - question: "."
+        answer: "328"
+  - tossup:
+      question: "What case is used as the subject of the historical infinitive?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What case would be used to translate “I” in the sentence “I must go,” assuming a passive periphrastic is used?"
+        answer: "DATIVE"
+      - question: "In the sentence, “Caesar is said to have been a great general,” what case would be used to translate “general?"
+        answer: "” NOMINATIVE (SO-CALLED NOM. WITH INF.)"
+      - question: "."
+        answer: "888"
+  - tossup:
+      question: "What is the meaning of the idiom ius iurandum?"
+      answer: "OATH"
+    boni:
+      - question: "What is the genitive singular of the phrase?"
+        answer: "IURIS IURANDI"
+      - question: "What does the verb iuro mean?"
+        answer: "SWEAR"
+      - question: "."
+        answer: "5212"
+  - tossup:
+      question: "What type of siege machine was a turris ambulatoria?"
+      answer: "A SIEGE TOWER ON WHEELS"
+    boni:
+      - question: "In a Roman camp, what was the fossa?"
+        answer: "TRENCH AROUND THE PERIMETER"
+      - question: "What type of soldiers were organized into units called alae?"
+        answer: "CAVALRY"
+      - question: "."
+        answer: "2713"
+  - tossup:
+      question: "What mother was changed into a fountain?"
+      answer: "NIOBE"
+    boni:
+      - question: "What girl was changed into a laurel?"
+        answer: "DAPHNE"
+      - question: "What statue was changed into a girl?"
+        answer: "GALATEA"
+      - question: "."
+        answer: "653"
+  - tossup:
+      question: "Which of the following is not related to genus: gender, genocide, genuide, genuflect?"
+      answer: "GENUFLECT"
+    boni:
+      - question: "."
+        answer: "Identify the gender, declension and meaning of the root of “genuflect.” FOURTH NEUTER “KNEE”"
+      - question: "“Knee” is not a derivative of genu, but the two nouns have a common root in Indo-European. What do we call such word relatives?"
+        answer: "COGNATES"
+      - question: "."
+        answer: "3016"
+  - tossup:
+      question: "Who were the sons of Theseus and Phaedra?"
+      answer: "ACAMAS, DEMOPHON"
+    boni:
+      - question: "Who was the son of Theseus and Perigune, daughter of Sinis?"
+        answer: "MELANIPPUS"
+      - question: "Who besides Hippolyta is some sourses said to be the mother of Hippolytus?"
+        answer: "HIPPOLYTA'S SISTER ANTIOPE"
+      - question: "."
+        answer: "RESPONDE LATINE:"
+      - question: "."
+        answer: "81"
+  - tossup:
+      question: "Quot fiunt quattuor et novem?"
+      answer: "TREDECIM"
+    boni:
+      - question: "Quot fiunt triginta minus undecim?"
+        answer: "UNDEVIGINTI"
+      - question: "Quot fiunt ter sex?"
+        answer: "DUODEVIGINTI"
+      - question: "."
+        answer: "2757"
+  - tossup:
+      question: "When Tantalus served his son Pelops to the gods as a stew, who bit into the flesh and realized it was human?"
+      answer: "CERES (DEMETER)"
+    boni:
+      - question: "When Pelops was brought back to life, how was his ruined shoulder replaced?"
+        answer: "WITH ONE OF IVORY"
+      - question: "Who served her son to her husband because her husband had seduced and cut out the tongue of her sister?"
+        answer: "PROCNE"
+      - question: "."
+        answer: "2758"
+  - tossup:
+      question: "We know about Sisyphus and his rock in Hades. Where was he king when alive?"
+      answer: "CORINTH"
+    boni:
+      - question: "What games is he credited with starting there?"
+        answer: "ISTHMIAN"
+      - question: "Who reinstituted them after a lapse?"
+        answer: "THESEUS"
+      - question: "."
+        answer: "903"
+  - tossup:
+      question: "Impero, persuadeo, permitto and pareo all govern what case?"
+      answer: "DATIVE"
+    boni:
+      - question: "What case goes with rogo, moneo, hortor and imploro?"
+        answer: "ACCUSATIVE"
+      - question: "What case goes with peto and postulo?"
+        answer: "ABLATIVE (+ AB)"
+      - question: "."
+        answer: "852"
+  - tossup:
+      question: "In what building would you see a retiarius?"
+      answer: "THE COLOSSEUM"
+    boni:
+      - question: "Where would you see an auriga?"
+        answer: "THE CIRCUS"
+      - question: "Where would you see a flamen?"
+        answer: "THE TEMPLE"
+      - question: "."
+        answer: "5021"
+  - tossup:
+      question: "What wicked woman betrayed the Roman citadel to the Sabines for the objects they wore on their arms?"
+      answer: "TARPEIA"
+    boni:
+      - question: "How did they repay her?"
+        answer: "THEY CRUSHED HER WITH THEIR SHIELDS"
+      - question: "The Tarpeian rock, named for this traitoress, was used by the Romans as a place of execution. On what hill is it found?"
+        answer: "THE CAPITOLINE"
+      - question: "."
+        answer: "2952"
+  - tossup:
+      question: "Who was the son of Semele?"
+      answer: "BACCHUS (DIONYSUS)"
+    boni:
+      - question: "Who was his mortal foster father?"
+        answer: "SILENUS (or ATHAMAS)"
+      - question: "Who, to his regret, was rewarded by Bacchus for a kindness to Silenus?"
+        answer: "MIDAS"
+      - question: "."
+        answer: "5084"
+  - tossup:
+      question: "Between what two major wars did the Romans fight the Macedonian Wars?"
+      answer: "THE SECOND AND THIRD PUNIC WARS"
+    boni:
+      - question: "Against what Asian king did the Romans also fight during the second century BC?"
+        answer: "ANTIOCHUS"
+      - question: "To what defeated Roman foe did A. give temporary asylum?"
+        answer: "HANNIBAL"
+      - question: "."
+        answer: "#"

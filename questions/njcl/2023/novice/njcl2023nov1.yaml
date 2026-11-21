@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "As seen in many aqueducts, amphitheaters, and triumphal monuments, what type of architectural structure did Roman engineers use to distribute the weight of stone blocks into the ground along its curvature?\t"
+      answer: "ARCH / VAULT / <latin>ARCUS</latin>"
+    boni:
+      - question: "What architectural structure, used in the Pantheon, combines the principle of an arch with a circular base?\t"
+        answer: "DOME / <latin>THOLOS</latin>"
+      - question: "What material, made of a binding agent, aggregate, and water, which was cast in a mold, made the construction of arches and domes easier than using individual stones? \t\t"
+        answer: "CONCRETE / <latin>CONCRETUM / OPUS CAEMENTICIUM</latin>"
+  - tossup:
+      question: "What figure in Roman history was given <latin>imperium maius quam prōcōnsulāre</latin> and later received the title of <latin>Pater Patriae</latin> in 2 BC during his reign as Rome’s first emperor?"
+      answer: "AUGUSTUS / OCTAVIAN / (C.) OCTAVIUS"
+    boni:
+      - question: "According to Suetonius, what successor of Augustus refused the title of <latin>Pater Patriae</latin>?"
+        answer: "TIBERIUS"
+      - question: "What final member of the Julio-Claudian dynasty and fifth emperor of Rome initially rejected the title of <latin>Pater Patriae</latin> on account of his youth but later accepted it? \t"
+        answer: "NERO"
+  - tossup:
+      question: "Using the verb <latin>nārrō</latin>, give the verb form which you would need to say the following sentence in Latin: “Y’all were telling the story very well.”\t"
+      answer: "<latin>NĀRRĀBĀTIS</latin>"
+    boni:
+      - question: "Now give the form of <latin>nārrō</latin> you would need to say this sentence in Latin: “Will we tell the next story?”\t"
+        answer: "<latin>NĀRRĀBIMUS(NE)</latin>"
+      - question: "Now give the form of <latin>nārrō</latin> you would need to say this sentence in Latin: “When had they told that story before?”\t"
+        answer: "<latin>NĀRRĀVERAT / NĀRRĀVERANT</latin>"
+  - tossup:
+      question: "<latin>Quid Anglicē significat “nōmen”</latin>?\t"
+      answer: "NAME"
+    boni:
+      - question: "<latin>Quid Anglicē significat “canis”</latin>?"
+        answer: "DOG(GY / -O)"
+      - question: "<latin>Quid Anglicē significat “vōx”</latin>?"
+        answer: "VOICE"
+  - tossup:
+      question: "Who murdered Mermerus and Pheres, her own children, since her husband Jason planned to divorce her even though she helped him steal the golden fleece from her father, Aeëtes? \t"
+      answer: "MEDEA"
+    boni:
+      - question: "After she committed this crime, Aegeus offered Medea sanctuary in what Greek city?\t\t"
+        answer: "ATHENS"
+      - question: "What son of Aegeus did Medea attempt to poison during her time in Athens?\t"
+        answer: "THESEUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Get out your compass! What specific direction would you go if you were traveling from Achaea to Caledonia, or from Greece to Scotland?"
+      answer: "NORTHWEST (prompt on “north” or “west”)"
+    boni:
+      - question: "On the way to Caledonia you stop in the city of Lutetia. What modern country are you in?"
+        answer: "FRANCE"
+      - question: "What is the Latin name, attributed to Tacitus, most commonly used for Ireland, though it’s unlikely the Romans ever had any substantial presence there?\t"
+        answer: "HIBERNIA"
+  - tossup:
+      question: "What man, having been raised by Faustulus and Larentia, helped restore the rightful ruler of Alba Longa and was later the first king of Rome?\t"
+      answer: "ROMULUS [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "What Roman commander is the subject of Meme B, which describes his surprisingly poor experience in the Teutoburg Forest?"
+        answer: "(P. QUINCTILIUS / QUINTILIUS) VARUS"
+      - question: "What third-century emperor is bringing the uncomfortable vibes, and the black stone, in Meme A?"
+        answer: "ELAGABALUS / BASSIANUS / HELIOGABALUS "
+  - tossup:
+      question: "After Hephaestus split Zeus’s head with an ax, what goddess emerged fully formed as the master of wisdom and strategy in war?\t"
+      answer: "ATHENA"
+    boni:
+      - question: "Who was Athena’s mother, the Titaness of prudence and the first wife of Zeus?\t"
+        answer: "METIS"
+      - question: "In order to prevent Metis from giving birth to a son more powerful than himself, Zeus swallowed Metis while she was assuming the form of what creature?\t"
+        answer: "FLY / FLEA"
+  - tossup:
+      question: "For the sentence “The pirates are attacking,” say in Latin, “the pirates”.\t"
+      answer: "<latin>PĪRĀTAE</latin>"
+    boni:
+      - question: "For the sentence “I gave my money to the pirate,” say in Latin “to the pirate.”\t"
+        answer: "<latin>PĪRĀTAE</latin>"
+      - question: "For the sentence “We ran away from the pirates,” say the Latin prepositional phrase needed for “from the pirates”.\t"
+        answer: "<latin>Ā(B) / Ē(X) / DĒ PĪRĀTĪS</latin>"
+  - tossup:
+      question: "From what Latin noun do we derive the English word “amicable”?\t"
+      answer: "<latin>AMĪCUS / AMĪCA</latin>"
+    boni:
+      - question: "From what Latin verb with what meaning do we derive the English word “dictate”?"
+        answer: "<latin>DĪCŌ, DĪCERE</latin> - TO SAY / SPEAK / UTTER / TELL / DECLARE // \t\t<latin>DICTŌ, DICTĀRE</latin> - TO DICTATE / COMPOSE"
+      - question: "From what Latin adjective with what meaning do we derive the English word “liberate”?"
+        answer: "<latin>LĪBER</latin> - FREE / UNRESTRAINED / LOOSE"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN ENGLISH the questions that follow:   \t<latin>Ōlim lupus et agnus bibēbant ad idem flūmen. Lupus, quod erat scelestus, incipere \tpugnam valdē volēbat. Itaque, lupus inquit: “Cūr aquam sordidam mihi fēcistī?” Agnus innocēns respondit: “Aqua ā tē ad mē currit.” Lupus īrātus nihil dīxit</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "What specifically did the wolf accuse the lamb of doing?"
+        answer: "DIRTYING / MUDDYING THE WATER (THAT THE WOLF WAS DRINKING)"
+      - question: "What unassailable logic did the lamb use to refute the wolf’s accusation?"
+        answer: "THAT THE WATER WAS FLOWING / RUNNING FROM THE WOLF TO THE \tLAMB, I.E. THAT THE LAMB WAS DOWNRIVER FROM THE WOLF"
+  - tossup:
+      question: "In Book 1 of the <title>Aeneid</title>, to what god does Juno promise the beautiful nymph Deiopea while asking him to send storm winds against Aeneas and the Trojans?\t"
+      answer: "AEOLUS"
+    boni:
+      - question: "What god, enraged by Aeolus’ interference in his domain, puts an end to the storm?\t\t"
+        answer: "NEPTUNE (do not accept “Poseidon”)"
+      - question: "Despite being left with only seven ships after the storm, Aeneas soon finds other Trojan survivors. In what African city does he reunite with them?\t"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "Give the Latin and the English for the abbreviation <latin>A.U.C.</latin> \t\t"
+      answer: "<latin>AB URBE CONDĪTĀ</latin> - FROM THE FOUNDING OF THE CITY / FROM THE CITY \tHAVING BEEN FOUNDED // <latin>ANNŌ URBIS CONDĪTAE -</latin> IN THE YEAR OF THE FOUNDED CITY"
+    boni:
+      - question: "What Latin phrase penned by Horace literally means “from the egg all the way to the apples” and is used to describe something done in a very thorough manner?"
+        answer: "<latin>AB ŌVŌ USQUE AD MĀLA</latin> "
+      - question: "What Latin phrase that literally means “from the beginning” is used in literature to describe a story that is told in chronological order?"
+        answer: "<latin>AB INITIŌ / AB ORIGINE</latin>"
+  - tossup:
+      question: "The English noun “alibi” comes directly from Latin. What part of speech is it in Latin?\t\t"
+      answer: "ADVERB / <latin>ADVERBIUM</latin>"
+    boni:
+      - question: "The English word “veto” comes directly from Latin. What part of speech is it in Latin?\t\t"
+        answer: "VERB"
+      - question: "“Affidavit” is another Latin verb used as a noun in English. What tense is it in Latin?\t\t"
+        answer: "PERFECT"
+  - tossup:
+      question: "What hero left Seriphos to appease the king, Polydectes, by seizing the head of the gorgon Medusa?\t"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who was Perseus’s mother, whom her father Acrisius threw into the sea along with the infant Perseus?\t"
+        answer: "DANAË"
+      - question: "Who was Polydectes’s brother, who protected Perseus and Danaë from the tyrannical king?\t"
+        answer: "DICTYS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "When recognized by the moderator, perform or describe the following commands: <latin>Surge et vehementer mēnsam pulsā!</latin> \t\t"
+      answer: "STUDENT STANDS UP AND HITS THE TABLE ANGRILY"
+    boni:
+      - question: "<latin>Surgite et dīcite Anglicē: “Īrātī sumus quod cibum volumus.”</latin>  \t"
+        answer: "TWO OR MORE STUDENTS STAND UP AND SAY, “WE ARE ANGRY BECAUSE\tWE WANT FOOD.”"
+      - question: "<latin>Tangite stomachōs ter et dīcite Anglicē, “Dā nōbīs cibum!”</latin>  \t"
+        answer: "TWO OR MORE STUDENTS SHOULD TOUCH THEIR  STOMACHS THREE TIMES AND SAY, “GIVE US FOOD!”"
+  - tossup:
+      question: "What man ordered the inhabitants of Cirta to be massacred after outmaneuvering his step-brothers Hiempsal and Adherbal in 112 B.C. to gain the throne of Numidia?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "Though Marius was given more credit, what infamous Roman was responsible for ending the Jugurthine war due to his allyship with Bocchus I? \t\t"
+        answer: "(L. CORNELIUS) SULLA (FELIX)"
+      - question: "What later enemy of the Romans and king of Pontus massacred Romans in Asia Minor, prompting a war named for him in 85 B.C.?"
+        answer: "MITHRIDATES VI / EUPATOR / THE GREAT (OF PONTUS)"
+  - tossup:
+      question: "From what Latin noun does the English word “solstice” derive? \t"
+      answer: "<latin>SOL</latin>"
+    boni:
+      - question: "Give the Latin adverb and its meaning at the root of “beneficiary.”"
+        answer: "<latin>BENE</latin> - GOOD / WELL"
+      - question: "Give the Latin verb and its meaning that is also at the root of “beneficiary.”.\t "
+        answer: "FACIŌ, FACERE - TO MAKE / CONSTRUCT / BUILD"
+  - tossup:
+      question: "In mythology, what job did the following people share: Comaetho, Maron, Chryses, Laocoon, and Cassandra?\t"
+      answer: "PRIEST"
+    boni:
+      - question: "When Maron was captured by Odysseus, he gained his freedom by giving twelve jars of wine that Odysseus would later use to escape what monster?\t"
+        answer: "POLYPHEMUS"
+      - question: "Comaetho was the priestess of which Olympian, who had a famous temple near Ephesus?\t\t"
+        answer: "ARTEMIS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Translate the following sentence from English to Latin: I know you!\t \t\t"
+      answer: "TĒ / VŌS SCIŌ / (COG)NŌSCŌ"
+    boni:
+      - question: "Translate the following sentence from English to Latin: We love our friends. \t\t"
+        answer: "<latin>AMĪCŌS NOSTRŌS / AMĪCĀS NOSTRĀS / SOCIŌS NOSTRŌS \t/ SOCIĀS NOSTRĀS AMĀMUS</latin>"
+      - question: "Translate the following sentence from English to Latin: Marcia often sees cows. \t\t"
+        answer: "<latin>MARCIA SAEPE BOVĒS / VACCĀS VIDET</latin>"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Translate the verb in the following sentence into Latin: Certamen players will be amazing today!\t"
+      answer: "<latin>ERUNT</latin>"
+    boni:
+      - question: "Translate both verbs in the following sentence into Latin using <latin>nōlō</latin> and <latin>eō</latin>: You and I will not want to go home at the end of convention."
+        answer: "<latin>NŌLĒMUS</latin> and <latin>ĪRE</latin> "
+      - question: "Translate both verbs in the following sentence into Latin using <latin>nōlō</latin>: You do not want to play video games instead of Certamen."
+        answer: "<latin>NŌN VĪS / NŌN VULTIS</latin> and <latin>LŪDERE</latin> "
+  - tossup:
+      question: "How often should a medication be taken if the Latin abbreviation <latin>p.r.n.</latin> appears on the bottle?\t"
+      answer: "AS (OFTEN AS) NEEDED / WHEN NECESSARY"
+    boni:
+      - question: "Of medications labeled <latin>b.i.d.</latin>. <latin>q.i.d.</latin>. <latin>s.i.d.</latin>. and <latin>t.i.d.</latin>. which one should be taken the <emphasis>least</emphasis> often?\t"
+        answer: "<latin>S.I.D.</latin>"
+      - question: "The abbreviation <latin>s.i.d.</latin> Means “once a day”. What is the Latin adverb for “once” that appears in the abbreviation?\t"
+        answer: "<latin>SEMEL</latin>"
+  - tossup:
+      question: "What son of Thestor, skilled in interpreting dreams, revealed the cause of a plague that afflicted the Greek army at Troy, earning him the scorn of Agamemnon?\t"
+      answer: "CALCHAS"
+    boni:
+      - question: "Calchas died in a contest - or “seer off” - with what other seer at Colophon?\t"
+        answer: "MOPSUS"
+      - question: "What other seer gained his prophetic power by burning the bodies of a pair of snakes and raising their children, who licked his ears to allow him to hear the speech of birds?\t\t"
+        answer: "MELAMPUS"
+  - tossup:
+      question: "What city in Magna Graecia, captured in 212 BC by Hannibal but reclaimed by Rome in 209 BC, first came into conflict with Rome when it allied with King Pyrrhus?\t\t"
+      answer: "TARENTUM / TARANTO"
+    boni:
+      - question: "In the Second Punic War, what man known for his delaying tactics was responsible for recapturing Tarentum for the Romans in 209 BC?"
+        answer: "(Q.) FABIUS MAXIMUS (CUNCTATOR VERRUCOSUS) // (Q. FABIUS MAXIMUS) CUNCTATOR (VERRUCOSUS) //  (Q.) FABIUS (MAXIMUS CUNCTATOR) VERRUCOSUS"
+      - question: "In 38 BC, the Second Triumvirate signed a treaty at Tarentum which effectively extended their alliance first established by what law of 43 BC?\t"
+        answer: "<latin>LĒX TITIA</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN ENGLISH the questions that follow:   \t<latin>Serpēns avem in arbore altissimā spectābat. Avis mūrem dēvorātūra erat. Serpēns inquit: “Ō avis, es tam pulchra! Oculī tuī similēs gemmīs sunt! In caelō volāre potes! Num quoque dulciter cantāre potes?” Avis, dēlectāta verbīs serpentis, cantāre incipiēbat sed mūs ad terram cecidit. Serpēns mūrem dēvorābat et discēdēbat, dīcēns: “Nōn dēbēs nimis tē laudāre!”</latin>  The Question: What advice did the serpent give the bird upon his departure?  \t\t"
+      answer: "YOU OUGHT NOT TO / SHOULD NOT PRAISE YOURSELF EXCESSIVELY / TOO \tMUCH / SO MUCH"
+    boni:
+      - question: "Give the English for any two of the flatteries that the serpent lavished upon the bird."
+        answer: "(any two of) YOU ARE SO BEAUTIFUL, YOUR EYES ARE SIMILAR TO / LIKE GEMS, YOU ARE ABLE TO FLY (HIGH IN THE SKY)"
+      - question: "What do we learn about the bird in the sentence “<latin>avis mūrem dēvorātūra erat</latin>”?"
+        answer: "HE WAS ABOUT TO / GOING TO / FINNA / FIXIN’ TO EAT A MOUSE"
+  - tossup:
+      question: "What man was allowed to spend three more hours with his wife, Laodameia, after he was the first Greek to die in the Trojan War after hastily jumping ashore?\t"
+      answer: "PROTESILAÜS"
+    boni:
+      - question: "In other versions of the myth, Protesilaüs does not return to life and Laodameia creates what in her husband’s memory?\t"
+        answer: "(WAX) IMAGE / STATUE"
+      - question: "Another Laodameia in mythology was the mother of what son of Zeus who fought at Troy? His death led Zeus to rain down blood upon the battlefield.\t"
+        answer: "SARPEDON"
+  - tossup:
+      question: "Translate <emphasis>only</emphasis> the relative clause in the following English sentence into Latin: “The dog, which was washing itself with its tongue, was larger than a building.”\t\t"
+      answer: "<latin>QUĪ / QUAE SĒ LINGUĀ LAVĀBAT</latin> <latin>/ LAMBĒBAT</latin>"
+    boni:
+      - question: "How would you say in Latin, “larger than a building” as in the tossup?\t\t"
+        answer: "MAIOR / GRANDIOR / LARGIOR QUAM AEDIFICIUM //\tMAIOR / GRANDIOR / LARGIOR AEDIFICIŌ"
+      - question: "Now translate this English sentence into Latin: “That lion is similar to a very angry cat.”\t\t"
+        answer: "<latin>ILLE / ISTE / IS</latin> <latin>LEŌ EST SIMILIS FĒLĪ ĪRĀTISSIMAE / VALDĒ ĪRĀTAE</latin>"
+  - tossup:
+      question: "When you’re at a museum, you need to accurately curate the objects. What is the Latin verb and its meaning at the root of both words in the phrase “accurately curate”?\t \t\t"
+      answer: "<latin>CŪRŌ, CŪRĀRE</latin> - TO CARE FOR / TAKE PAINS WITH / ATTEND TO / LOOK TO"
+    boni:
+      - question: "At the new archaeological dig in Athens, they found a very fragile fragment of an amphora. What is the Latin verb and its meaning at the root of both words in the phrase “fragile fragment”?"
+        answer: "<latin>FRANGŌ, FRANGERE</latin> - TO BREAK/SHATTER/FRACTURE"
+      - question: "On April Fools’, I always have a high capacity for participation. What is the Latin verb and its meaning at the root of both nouns in the phrase “capacity for participation”?"
+        answer: "<latin>CAPIŌ</latin>, <latin>CAPERE</latin> - TO SEIZE / TAKE (HOLD OF) / GRASP / CAPTIVATE"
+  - tossup:
+      question: "When recognized by the moderator, perform or describe the following command: <latin>Pōne manum in ōs</latin>.\t"
+      answer: "STUDENT PUTS A HAND OVER / INTO THEIR MOUTH"
+    boni:
+      - question: "Now perform or describe the following command: <latin>Omnēs Anglicē clāmātē: “nōlīte manum comedere!”</latin> \t"
+        answer: "ALL THE STUDENTS SHOUT, “DON’T EAT YOUR HAND!”"
+      - question: "Now perform or describe the following command: <latin>Pōne digitum pro ōre et tacitē</latin> <latin>susurrā Anglicē “nōlīte infantem excitāre!”</latin>"
+        answer: "ONE STUDENT PUTS A FINGER IN FRONT OF ANY MOUTH AND QUIETLY WHISPERS, “DON’T WAKE / EXCITE THE BABY!”"
+  - tossup:
+      question: "What modern city, where a plague killed the emperor Marcus Aurelius, was called Vindobona? \t"
+      answer: "VIENNA / WIEN"
+    boni:
+      - question: "Give the modern name of <latin>Augusta Trēverōrum</latin>, which is located in modern Germany.\t\t"
+        answer: "TRIER"
+      - question: "Give the modern name of the <latin>Liger</latin> river, which is located in modern France.\t \t\t"
+        answer: "LOIRE (RIVER)"
+  - tossup:
+      question: "During his governorship from 78 to 85 AD, what man ordered the circumnavigation of Britain and conquered part of Scotland?\t"
+      answer: "(CN. JULIUS) AGRICOLA"
+    boni:
+      - question: "According to Tacitus, at what battle did Agricola defeat the Caledonians in 83 AD?"
+        answer: "MONS / MT. GRAUPIUS"
+      - question: "What chieftain of the Caledonians was Agricola’s opponent in this battle?"
+        answer: "CALGACUS / GALGACUS"
+  - tossup:
+      question: "For the noun <latin>senātus</latin>, provide the nominative plural form so that it fits the sentence “different senates can still get along.”\t"
+      answer: "<latin>SENĀTŪS</latin>"
+    boni:
+      - question: "For the noun <latin>senātus</latin>, provide the dative singular form so that it fits the sentence “They gave their testimony to the senate.”\t"
+        answer: "<latin>SENĀTUĪ</latin>"
+      - question: "For the noun <latin>senātus</latin>, provide the dative plural form so that it fits the sentence “Kings are threats to many senates.”\t"
+        answer: "<latin>SENĀTIBUS</latin>"
+  - tossup:
+      question: "After spending the night in Hecale’s hut, what hero captured the Marathonian bull and brought it back to his father Aegeus in Athens? \t"
+      answer: "THESEUS"
+    boni:
+      - question: "Who was Theseus’ mother, a princess of Troezen?\t"
+        answer: "AETHRA"
+      - question: "Aethra was first wooed by what hero, the Corinthian tamer of Pegasus?\t \t\t"
+        answer: "BELLEROPHON(TES) / HIPPONOÜS"
+  - tossup:
+      question: "Who was allowed to select half the hostages to go free when she greatly impressed Lars Porsenna with her bravery and honor in leading Roman captives to escape across the Tiber and later returning?\t"
+      answer: "CLOELIA"
+    boni:
+      - question: "Under the threat of being burned alive, what Roman thrust his right hand into a fire and later gained an <latin>agnōmen</latin> that means “lefty”?\t"
+        answer: "(C. MUCIUS) SCAEVOLA"
+      - question: "What structure in Rome was defended against invading Latin forces by Spurius Lartius, Titus Herminius, and a third man who ended up jumping into the Tiber?\t\t"
+        answer: "<latin>PONS SUBLICIUS</latin>"
+  - tossup:
+      question: "Using <latin>saxum</latin>, translate the following sentence from English to Latin: I found the rocks which were under the waves.\t \t\t"
+      answer: "INVĒNĪ SAXA QUAE SUB UNDĪS / FLUCTIBUS ERANT"
+    boni:
+      - question: "Translate the following sentence from English to Latin: Do you prefer to be full of food or wine?"
+        answer: "<latin>MĀVĪSNE PLĒNUS/A/UM/AM CIBĪ AN VĪNĪ (ESSE) // \t\tMĀVULTISNE PLĒNĪ/AE/A/ŌS/ĀS CIBĪ AN VĪNĪ (ESSE)</latin> "
+      - question: "Using <latin>flūmen</latin>, translate the following sentence from English to Latin: The flowing rivers ran with great force."
+        answer: "<latin>FLŪMINA FLUENTIA MAGNĀ (CUM) VĪ CURRĒBANT / CUCURRĒRUNT / \t\tFLUĒBANT / FLUXĒRUNT  SCORE CHECK (TELL INTERMEDIATE PLAYERS TO GET OUT!)</latin>  [PASS OUT THE <emphasis>VISUAL</emphasis>] Please do not open the visual until instructed to do so; You may now open the visual, you have 10 seconds to examine it."
+  - tossup:
+      question: "Pictured here are four statues featuring polychromy, or many colors, as they would have appeared to their original ancient audience. Which of these statues features an example of a <latin>lorica</latin>?\t"
+      answer: "A"
+    boni:
+      - question: "Which two of these statues feature an example of an <latin>arcus</latin>?"
+        answer: "B and C"
+      - question: "<latin>Responde Latinē: quī color est stola fēminae in figūrā D</latin>?\t "
+        answer: "RUBER / RUBRA // FLAMMEUS/A // SANGUINEUS // LŪTEUS // AURANTEUS "
+  - tossup:
+      question: "In Book 4 of Ovid’s <title>Metamorphoses</title>, what Babylonian woman communicates through a hole in a wall with her lover Pyramus because their parents forbid them to marry?\t\t"
+      answer: "THISBE"
+    boni:
+      - question: "Thisbe and Pyramus plan to secretly meet at the tomb of Ninus, but Thisbe is scared away when what animal appears?\t"
+        answer: "LION(ESS)"
+      - question: "When Thisbe rushes away, she leaves behind her scarf which leads Pyramus to think she has been killed. What does he do in response?\t\t"
+        answer: "(DIES BY) SUICIDE (WITH HIS SWORD)"
+  - tossup:
+      question: "From what Latin verb, with what meaning do we derive the English words “conduit”, \"seduction\" and \"duke\"?\t"
+      answer: "<latin>DŪCŌ</latin>, LEAD"
+    boni:
+      - question: "What Latin word with what meaning is the source of the English word \"reticent\"?  \t\t"
+        answer: "<latin>TACEŌ</latin>, BE SILENT"
+      - question: "What Latin word with what meaning is the source of the English word \"accountant\"? \t\t"
+        answer: "<latin>(COM)PUTŌ</latin>, THINK / RECKON / (AC)COUNT / COMPUTE"
+  - tossup:
+      question: "What father of Emathion and Memnon by Eos, after she abducted him from his native Troy, was turned into a cicada after he received immortality but not perpetual youth?\t\t"
+      answer: "TITHONUS"
+    boni:
+      - question: "Memnon fought at Troy and killed what son of Nestor, who sacrificed himself to save his father?\t"
+        answer: "ANTILOCHUS"
+      - question: "What Greek hero avenged Antilochus’s death by killing Memnon?\t"
+        answer: "ACHILLE(U)S  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Distinguish in meaning among the three Latin verbs <latin>spectō, spērō,</latin> and <latin>spīrō</latin>.\t\t"
+      answer: "<latin>SPECTŌ</latin> - TO WATCH ; <latin>SPĒRŌ</latin> - TO HOPE ; <latin>SPĪRŌ</latin> - TO BREATHE "
+    boni:
+      - question: "Now distinguish in meaning among the verbs <latin>moveō,</latin> <latin>moneō,</latin> and <latin>mandō</latin>."
+        answer: "<latin>MOVEŌ -</latin> TO MOVE ; <latin>MONEŌ</latin> - TO WARN ;  \t\t<latin>MANDŌ</latin> - TO ORDER / ENTRUST / COMMAND"
+      - question: "Now distinguish in meaning between the interrogatives <latin>quō</latin>, <latin>quōmodo</latin>, and <latin>quot</latin>."
+        answer: "<latin>QUŌ -</latin> TO WHERE / WHITHER (prompt on “where”);  \t\t<latin>QUŌMODO</latin> - HOW ; <latin>QUOT</latin> - HOW MANY"

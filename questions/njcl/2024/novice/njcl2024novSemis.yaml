@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2024
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Give a synonym of the Latin verb <latin>defendō</latin>, which means “protect” or “guard.” \t"
+      answer: "<latin>CUSTŌDIŌ / (CŌN)SERVŌ / TUEOR / (PRŌ)TEGŌ / PRAESIDEŌ / ARCEŌ / PROHIBEŌ / PRŌPUGNŌ / TŪTOR / VINDICŌ / CAVEŌ</latin>"
+    boni:
+      - question: "Now translate this line from Juvenal into English: “<latin>quis cūstōdiet ipsōs cūstōdēs?</latin>”"
+        answer: "WHO WILL GUARD THE GUARDS THEMSELVES?"
+      - question: "<latin>Custodiō</latin> can also mean “notice,” meaning it is a synonym of what compound of <latin>vertō</latin>? \t\t"
+        answer: "(<latin>ANIM)ADVERTŌ</latin>"
+  - tossup:
+      question: "Which English noun, derived from a Latin verb that means “to place,” means “something formed by the chemical union of two or more ingredients?”\t \t\t"
+      answer: "COMPOUND / COMPOSITE / COMPOSITION"
+    boni:
+      - question: "Which English noun, derived from the Latin verb “<latin>ligō</latin> - to bind,” means “a metal made by combining two or more metallic elements?”\t"
+        answer: "ALLOY"
+      - question: "Which English noun, derived from the Latin verb “<latin>haereō</latin> - to cling,” means “the sticking together of particles of the same substance?”\t"
+        answer: "COHESION / COHERENCE"
+  - tossup:
+      question: "<latin>Respondē Latīnē: quod animal in lapide sedēns piscem capere temptat?</latin>"
+      answer: "URSUS / URSA"
+    boni:
+      - question: "<latin>Respondē Latīnē: quod animal in bibliothēcā librum legit?</latin>"
+        answer: "LEPUS / CUNĪCULUS"
+      - question: "<latin>Respondē Latīnē: ubi fēlēs saltat?</latin>"
+        answer: "IN LĪTORE / IN ŌRĀ / IN RIPĀ / \t\tIN (H)ARĒNĀ / IN (H)ARENĪS / PROPE MARE"
+  - tossup:
+      question: "Ranging from a large ornamental courtyard to a narrow opening before the door, what is the Latin term for the part of a Roman house which separated the atrium from the street?\t\t"
+      answer: "<latin>VESTIBULUM / FAUCĒS</latin>"
+    boni:
+      - question: "What was the Latin term for the wax likenesses of ancestors which were displayed in the \t\t\tatrium?\t"
+        answer: "<latin>IMĀGINĒS</latin>"
+      - question: "What was architecturally distinctive about the style of atrium called <latin>testūdinātum</latin>? \t\t\t\t"
+        answer: "NO <latin>COMPLUVIUM</latin> / <latin>IMPLUVIUM</latin> / HOLE IN ROOF // FULLY ROOFED / \t\tHAD ANOTHER FLOOR ABOVE (prompt on “shaped like a tortoise/shell”)"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Ad patriam septem diēbus perveniēmus.</latin>\t"
+      answer: "WE WILL REACH / ARRIVE AT / TO THE / OUR HOMELAND /  \t\tCOUNTRY (WITH)IN SEVEN DAYS"
+    boni:
+      - question: "Translate the following sentence from Latin to English: <latin>Equus ā cliente ex urbe dūcitur.</latin>\t\t"
+        answer: "THE HORSE IS (BEING) LED OUT OF THE CITY BY THE CLIENT"
+      - question: "Translate the following sentence from Latin to English: <latin>aedificia paulō altiōra saxīs sunt.</latin>\t"
+        answer: "(THE) BUILDINGS ARE A LITTLE / WEE BIT TALLER THAN (THE) ROCKS"
+  - tossup:
+      question: "What Greek god, who had no father and married his mother, was described by Hesiod as the primordial god of the sky? \t"
+      answer: "(O)URANUS"
+    boni:
+      - question: "Uranus was not a very good father. What did he do to the Cyclopes and Hecatonchires, two groups of children he had with Gaia before he fathered the Titans? \t\t"
+        answer: "PUT THEM IN TARTARUS / BACK INSIDE GAIA"
+      - question: "Which son of the Greek god Uranus eventually overthrew him, with Gaia’s encouragement? \t"
+        answer: "CRONUS"
+  - tossup:
+      question: "The Pantheon, <latin>Aqua Virgō, Aqua Iūlia</latin>, and a bath complex were all originally attributed to what general of Augustus, who was chiefly responsible for defeating Cleopatra and Marc Antony at Actium in 31 BC?\t"
+      answer: "(M. VIPSANIUS) AGRIPPA"
+    boni:
+      - question: "To what god was the temple in the Forum of Augustus dedicated?\t"
+        answer: "MARS (ULTOR)"
+      - question: "What other former commander at Actium was responsible for Rome’s first permanent amphitheater?\t"
+        answer: "(T.) STATILIUS TAURUS"
+  - tossup:
+      question: "Your future employer might ask you to provide them with a résumé that contains a brief list of your past accomplishments. What Latin phrase, often abbreviated with the letters <latin>C.V.</latin>, can mean something similar to a résumé?\t"
+      answer: "<latin>CURRICULUM VĪTAE</latin>"
+    boni:
+      - question: "The Latin abbreviation <latin>ad lib.</latin> is also now commonly used in English to mean something done without previous preparation. What Latin phrase is abbreviated <latin>ad lib.</latin>?\t\t"
+        answer: "<latin>AD LIBITUM</latin>"
+      - question: "If someone tells you to <latin>v.s.</latin> in a document, what are they telling you to do in English? \t\t"
+        answer: "LOOK / SEE ABOVE (ON THE PAGE) / EARLIER (IN THE DOCUMENT / WORK)"
+  - tossup:
+      question: "Translate only the verb form in the following command into Latin: “Julia and Aurelia! Call the children into the house!” \t"
+      answer: "<latin>VOCĀTE / CLĀMĀTE / ARCESSITE</latin>"
+    boni:
+      - question: "Translate only the verb form in the following command into Latin using <latin>dūcō</latin>: “Marcus, lead the children out of the woods.” \t"
+        answer: "<latin>DŪC</latin>"
+      - question: "Translate only the verb form in the following command into Latin using <latin>ferō</latin>: “Children, bring the mushrooms you found inside.” \t"
+        answer: "<latin>FERTE</latin>"
+  - tossup:
+      question: "According to Polybius, what Roman commander wept at the destruction of Carthage because it made him think that Rome could one day suffer the same fate, even though he was the one responsible for sacking the city in 146 BC?\t\t"
+      answer: "(P. CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS MINOR"
+    boni:
+      - question: "The pretext for Rome to go back to war with Carthage was due to their alleged conflict with what elder Numidian ruler, an ally of Rome since the end of the Second Punic War?"
+        answer: "MASINISSA"
+      - question: "In the same year that Carthage was destroyed, what Roman commander was responsible for the sack of Corinth?\t"
+        answer: "(L.) MUMMIUS (ACHAICUS)"
+  - tossup:
+      question: "Listen carefully to the following fable adapted from Aesop about a young cow, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>ōlim vacca iuvenis taurum senem spectābat. taurus rēs gravēs in agrīs portābat.</latin> <latin>vacca rīdens inquit, “vīta tua est misera, serve, quod semper labōrās. ego tamen sum lībera, et possum sub arbore dormīre et aquam ex flūmine bibere.” sed postrīdiē homō vaccam cēpit, necāvit, et cōnsūmpsit. tunc taurus rīsit.</latin>     "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>quid facere potest vacca, sed nōn taurus?</latin>"
+        answer: "(SUB ARBORE) DORMĪRE /  \t\t(AQUAM EX FLŪMINE) BIBERE "
+      - question: "<latin>cūr tandem rīsit taurus?</latin>"
+        answer: "(QUOD) HOMŌ VACCAM CĒPIT / NECĀVIT / \t\tCŌNSŪMPSIT // (QUOD) VACCA EST MORTUA "
+  - tossup:
+      question: "In the world of mythology, even music can be deadly. What instrument was created from a turtle at the hands of baby Hermes? \t"
+      answer: "LYRE / (SEVEN-STRINGED) CHELYS"
+    boni:
+      - question: "What music teacher of Heracles was killed with his own lyre? \t"
+        answer: "LINUS"
+      - question: "How did Apollo kill the satyr Marsyas after defeating Marsyas in a music contest by playing his lyre upside-down — a feat that Marsyas could not match with his flute? \t\t"
+        answer: "FLAYED HIM (ALIVE)"
+  - tossup:
+      question: "Translate into Latin: “In the forum, the merchants are selling many things.” \t\t"
+      answer: "<latin>IN FORŌ, MERCĀTŌRĒS MULTA / MULTĀS RĒS VĒNDUNT</latin>"
+    boni:
+      - question: "Translate: “Two of the four merchants were selling wine.” \t\t"
+        answer: "DUO / DUAE (D)Ē / EX QUATTUOR MERCĀTŌRIBUS / MERCĀTRICIBUS \tVĪNUM VĒND̄EBANT"
+      - question: "Translate “This wine is better than that wine.” \t\t"
+        answer: "HOC VĪNUM MELIUS EST ILLŌ / ISTŌ VĪNŌ //  \t\tQUAM ILLUD / ISTUD VĪNUM"
+  - tossup:
+      question: "Which of Zeus’ sisters, who received the first offering at every sacrifice in the household and remained childless, was the first born of the Olympians? \t"
+      answer: "HESTIA"
+    boni:
+      - question: "Which two Olympian gods did Hestia reject as potential suitors? \t \t\t"
+        answer: "POSEIDON AND APOLLO"
+      - question: "When Poseidon and Apollo were hired to build the walls of Troy, they were aided by what mortal, who later became a judge in the Underworld?\t"
+        answer: "AEACUS"
+  - tossup:
+      question: "When recognized, perform or describe the following commands: <latin>surge et ad caelum lātrā similis canī.</latin>\t"
+      answer: "PLAYER SHOULD GET UP AND BARK LIKE A DOG \t\tAT THE HEAVENS / SKY / ROOF"
+    boni:
+      - question: "Perform or describe the following commands: <latin>ambulāte circum mensam et mūgīte  similēs bōvibus</latin>"
+        answer: "PLAYERS SHOULD WALK AROUND THEIR TABLE, MOOING LIKE COWS"
+      - question: "Perform or describe the following commands: <latin>sedēte in terrā et facite sonōs similēs \t\tmūribus.</latin>\t \t"
+        answer: "PLAYERS SHOULD SIT ON THE GROUND AND MAKE SOUNDS LIKE MICE"
+  - tossup:
+      question: "What king of Calydon so angered Artemis that she unleashed a boar on his land and people?\t"
+      answer: "OENEÜS"
+    boni:
+      - question: "Meleager killed his uncles when they attempted to claim the boar’s hide for themselves, ultimately leading to his own death. Name them. \t"
+        answer: "TOXEUS AND PLEXIPPUS"
+      - question: "What hunter accidentally killed Eurytion during the hunt but then succeeded him as king of Phthia?\t"
+        answer: "PELEUS"
+  - tossup:
+      question: "<latin>Secundum, praeter, apud</latin>, and <latin>ad</latin> are all prepositions governing what case? \t\t"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Which of the following prepositions cannot govern the same case as the others: <latin>cōram</latin>, <latin>tenus</latin>, <latin>prō, cis</latin>?\t"
+        answer: "CIS"
+      - question: "Some ablative words like <latin>causā</latin> and <latin>grātiā</latin> are used similarly to prepositions. When they are, what case usually accompanies them?\t"
+        answer: "GENITIVE"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quibus litterīs abbreviātur praenōmen “Titus”?</latin>\t"
+      answer: "T"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quibus litterīs abbreviātur praenōmen \t\t“Gnaeus”?</latin>"
+        answer: "CN <title>(Mod: accept “kay en” for Latin pronunciation of CN)</title> "
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quibus litterīs abbreviātur praenōmen \t\t“Servius”?</latin>"
+        answer: "SER"
+  - tossup:
+      question: "In Book 7 of Homer’s <title>Iliad</title>, which Greek warrior stands first to accept Hector’s challenge to single combat, but has his certain death prevented by Agamemnon’s intervention, who encourages his brother to make a wiser decision than trying to fight the mightiest Trojan? \t\t"
+      answer: "MENELAÜS"
+    boni:
+      - question: "Which Greek chieftain tells a story about his long-past defeat of Ereuthalion, goading the other chieftains into volunteering for the duel?\t"
+        answer: "NESTOR (OF [SANDY] PYLOS)"
+      - question: "How do the Greek chieftains decide which of them will duel Hector? \t\t"
+        answer: "THEY DRAW LOTS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Tigidius Perennis and the freedman Cleander served under what notorious emperor, who fought in gladiatorial games and renamed the city after himself during his reign from 180 to 192 AD?\t"
+      answer: "COMMODUS"
+    boni:
+      - question: "In 188 AD, Cleander appointed himself equal to the praetorian prefects, and by 190 AD, was replaced by what prefect who played a role in the assassination of Commodus two years later?\t"
+        answer: "(Q. AEMILIUS) LAETUS"
+      - question: "What successor of Commodus was accompanied to the praetorian camp by Laetus and proclaimed emperor, though he only ruled for 87 days? \t"
+        answer: "PERTINAX"

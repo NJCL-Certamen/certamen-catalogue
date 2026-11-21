@@ -1,0 +1,138 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Advanced"
+round: "Extra Questions"
+questions:
+
+  - tossup:
+      question: "Who came from Greece to help the people of Tarentum against the Romans?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What strategy did Pyrrhus have in common with Hannibal?"
+        answer: "WAR ELEPHANTS"
+      - question: "What later foes of Rome used blue war paint and fought from war chariots?"
+        answer: "THE BRITONS"
+  - tossup:
+      question: "What is the name of the epic of Lucretius?"
+      answer: "DE RERUM NATURA"
+    boni:
+      - question: "How many books does it contain?"
+        answer: "SIX"
+      - question: "What philosopher's tenets are explained and espoused by Lucretius?"
+        answer: "EPICURUS'"
+  - tossup:
+      question: "Who were the two sons of the Alban king Silvius Proca?"
+      answer: "NUMITOR AND AMULIUS"
+    boni:
+      - question: "."
+        answer: "In order to eliminate Numitor's heirs, Amulius ahd the son killed and the daughter nade a Vestal Virgin."
+      - question: "Who was the daughter?"
+        answer: "RHEA SILVIA"
+      - question: "Who were her two sons?"
+        answer: "ROMULUS AND REMUS"
+  - tossup:
+      question: "Which of these words is not an adverb: diu, nunc, non, tum, sine?"
+      answer: "SINE"
+    boni:
+      - question: "Which of these is not a preposition: ad, cum, bis, ex, ab?"
+        answer: "BIS"
+      - question: "Which of these is not a conjunction: sed, saepe, et quod, ubi?"
+        answer: "SAEPE"
+  - tossup:
+      question: "."
+      answer: "Say in Latin “enough gold.” SATIS AURI"
+    boni:
+      - question: "."
+        answer: "Say “one of the women.” UNA E/DE FEMINIS"
+      - question: "."
+        answer: "Say “the rest of the women.” RELIQUAE/CETERAE FEMINAE"
+  - tossup:
+      question: "What was the name of the first stone brdge over the Tiber, which Livy says was built in 179 BC?"
+      answer: "PONS AEMILIUS"
+    boni:
+      - question: "At what bridge did Horatius win a battle?"
+        answer: "PONS SUBLICIUS"
+      - question: "At what bridge did Constantine win a battle?"
+        answer: "PONS MULVIUS"
+  - tossup:
+      question: "What historian wrote an account of the CAtilinarian conspiracy?"
+      answer: "SALLUST"
+    boni:
+      - question: "What was his full name?"
+        answer: "GAIUS SALLUSTIUS CRISPUS"
+      - question: "Where was his birthplace?"
+        answer: "AMITERNUM (SABINE TERRITORY)"
+  - tossup:
+      question: "Whom did Hercules fight for the hand of Deianeira?"
+      answer: "THE RIVER GOD ACHELOUS"
+    boni:
+      - question: "What did Achelous lose in that fight?"
+        answer: "A HORN"
+      - question: "Who had a horn that flowed with nectar and ambrosia and fed the infant Zeus?"
+        answer: "THE GOAT AMALTHEA"
+  - tossup:
+      question: "What mood of the verb is normally introduced by quamquam, although?"
+      answer: "INDICATIVE"
+    boni:
+      - question: "What tense of the subjunctive would be used in the conclusion of this conditional sentence: “If you were here, I would be happy”?"
+        answer: "IMPERFECT"
+      - question: "."
+        answer: "What tense and mood are normally used in clauses introduced by dum to mean “while” PRESENT INDICATIVE"
+  - tossup:
+      question: "."
+      answer: "Translate into English: <u>Me paenitet.</u> I REGRET, I'M SORRY"
+    boni:
+      - question: "."
+        answer: "Translate: <u>Me taedet.</u> IT BORES ME, I'M BORED"
+      - question: "."
+        answer: "Translate: <u>Me miseret.</u> IT GRIEVES ME, I'M SORRY"
+  - tossup:
+      question: "In what region of Greece do you find Thebes?"
+      answer: "BOEOTIA"
+    boni:
+      - question: "Sparta?"
+        answer: "LACEDEMONIA (LACONICA, THE PELOPONNESUS)"
+      - question: "Mycenae?"
+        answer: "THE ARGOLID"
+  - tossup:
+      question: "What native Italian metre was used in epics by Naevius and Livius Andronicus?"
+      answer: "SATURNIAN"
+    boni:
+      - question: "."
+        answer: "T or F: Ennius revered the Saturnian. FALSE"
+      - question: "."
+        answer: "T or F: Horace and Vergil revered it. FALSE"
+      - question: "."
+        answer: "(Horace called it <u>horridus</u>; VErgil, <u>incomptus</u>)"
+  - tossup:
+      question: "Procne and Philomela were the daughters of what king?"
+      answer: "PANDION"
+    boni:
+      - question: "Which of them was married to Tereus?"
+        answer: "PROCNE"
+      - question: "Who was the son of Procne and Tereus?"
+        answer: "ITYS"
+  - tossup:
+      question: "."
+      answer: "Which of the following is not from a Latin root:"
+    boni:
+      - question: "relinquish, abolish, relish, polish?"
+        answer: "RELISH"
+      - question: "“Martial,” meaning pertaining to war, is of course a Latin derivative. Is its homophone “marshal” a Latin derivative?"
+        answer: "NO"
+      - question: "."
+        answer: "Which of the following is not a Latin derivative:"
+      - question: "paraffin, parapet, paragraph?"
+        answer: "PARAGRAPH"
+  - tossup:
+      question: "What are the two halves of a conditional sentence called?"
+      answer: "PROTASIS AND APODOSIS"
+    boni:
+      - question: "."
+        answer: "What tense of the subjunctive would be used in both clauses of this sentence: “If I should win today,"
+      - question: "."
+        answer: "I would be happy.” PRESENT"
+      - question: "."
+        answer: "In that sentence, translate the verb in the apodosis. SIM"
+      - question: "."
+        answer: "#"

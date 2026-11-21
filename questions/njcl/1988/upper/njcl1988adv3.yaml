@@ -1,0 +1,179 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What emotion does vae express?"
+      answer: "SORROW, REGRET"
+    boni:
+      - question: "524 What expresses joy?"
+        answer: "IO"
+      - question: "What does heu express?"
+        answer: "SORROW"
+  - tossup:
+      question: "What god was called Ennosigaeus, the Earth-Shaker?"
+      answer: "POSEIDON"
+    boni:
+      - question: "2741 What island was devastated with a plague sent by a jealous Hera because it was named for one of Zeus' Mortal lovers?"
+        answer: "AEGINA"
+      - question: "What goddess was called Tritogeneia?"
+        answer: "ATHENA"
+  - tossup:
+      question: "The Romans were by nature superstitious. Some placed words of good omen around the doors of their houses. What is the meaning of the phrase found on some Roman houses: Nihil intret mali?"
+      answer: "MAY NO EVIL ENTER"
+    boni:
+      - question: ""
+        answer: "609 Often a dog was chained inside the ostium, but in some homes a picture of a dog was painted on the wall or worked in mosaic on the floor. Give me in Latin and in English the warning with this picture. CAVE CANEM = BEWARE THE DOG"
+      - question: "What was the name for revered spirits of dead ancestors?"
+        answer: "DI MANES"
+  - tossup:
+      question: "Which of these is not synonymous with the others: malus, metus, improbus, nefarius?"
+      answer: "METUS"
+    boni:
+      - question: "902 Which of these is not a synonym of the others: stultus, egregius, insignis, praeclarus, singularis?"
+        answer: "STULTUS"
+      - question: "What does stultus mean?"
+        answer: "FOOLISH, STUPID"
+  - tossup:
+      question: "What Latin present active participle contracts to form the Latin adjective prudens?"
+      answer: "PROVIDENS"
+    boni:
+      []
+  - tossup:
+      question: "What Latin adjective contracts to the noun bruma?"
+      answer: "BREVISSIMA"
+    boni:
+      - question: "*TU*What infinitive contracts to fore?"
+        answer: "FUTURUM ESSE"
+  - tossup:
+      question: ""
+      answer: "Using only defective verbs, translate this sentence: ”I am beginning to remember.“ MEMINISSE COEP"
+    boni:
+      []
+  - tossup:
+      question: ""
+      answer: "You're a slave riding in a triumphant general's chariot. Your job is to whisper into his ear, Hominem te memento."
+    boni:
+      - question: "What does that mean?"
+        answer: "REMEMBER YOU'RE ONLY A MAN."
+      - question: "What is the imperative of memini?"
+        answer: "MEMENTO"
+  - tossup:
+      question: "What was the old name of Constantinople?"
+      answer: "BYZANTIUM"
+    boni:
+      - question: "5119 In what year was Constantinople founded?"
+        answer: "330 AD(INAUGURATED) or 324 AD(FOUNDED)"
+      - question: "What was the year of the Battle of the Mulvian Bridge?"
+        answer: "312 AD"
+  - tossup:
+      question: "After death he became a judge in the Lower Wprld, but living he had been king in Knossos. Who was he?"
+      answer: "MINOS"
+    boni:
+      - question: ""
+        answer: "3250 Who was his brother, also made a judge below. RHADAMANTHYS"
+      - question: "Who was their brother?"
+        answer: "SARPEDON"
+  - tossup:
+      question: ""
+      answer: "Give the full name of the author of the Aeneid. PUBLIUS VERGILIUS MARO"
+    boni:
+      - question: "7549 What was Vergil's birthplace?"
+        answer: "ANDES (MANTUA)"
+      - question: "In what province is that located?"
+        answer: "CISALPINE GAUL"
+  - tossup:
+      question: "Who is called the first national hero of France?"
+      answer: "VERCINGETORIX"
+    boni:
+      - question: ""
+        answer: "5234 Where and when was"
+  - tossup:
+      question: "defeated by Caesar?"
+      answer: "ALESIA 52 BC"
+    boni:
+      - question: "In what prison was he exected?"
+        answer: "TULLIANUM/MAMERTINE"
+  - tossup:
+      question: "Who wrote works subtitled *De origine et situ Germanorum* and *De vita Iulii Agricolae*?"
+      answer: "TACITUS"
+    boni:
+      - question: "7824 What office did Tacitus hold in 97 AD?"
+        answer: "CONSUL (SUFFECTUS)"
+      - question: "Where did Tacitus serve as governor under Trajan?"
+        answer: "ASIA BITHYNIA"
+  - tossup:
+      question: "Who was the father of Odysseus?"
+      answer: "LAERTES"
+    boni:
+      - question: "2538 Who was Odysseus' wife?"
+        answer: "PENELOPE"
+      - question: "What was the name of Odysseus' dog?"
+        answer: "ARGUS"
+  - tossup:
+      question: "What is the poetic variant of the 3rd plural perfect active indicative inflection -erunt?"
+      answer: "-ERE"
+    boni:
+      - question: "424 What is the archaic form of the present passive infinitive of the first conjugation?"
+        answer: "-ARIER"
+      - question: "What is this archaic form in the third conjugation?"
+        answer: "-IER"
+  - tossup:
+      question: "What Roman circus dates from 221 BC?"
+      answer: "THE CIRCUS FLAMINIUS"
+    boni:
+      - question: "5432 What circus, dating from the 4th century AD, stood on the Appian Way outside Rome?"
+        answer: "CIRCUS OF MAXENTIUS"
+      - question: "What Roman circus stood on the present site of Vatican City?"
+        answer: "THE CIRCUS OF GAIUS AND NERO or CIRCUS VATICANUS"
+  - tossup:
+      question: "Who besides Orestes was pursued by the Furies for matricide?"
+      answer: "ALCMAEON"
+    boni:
+      - question: "2778 Who were Alcmaeon's parents?"
+        answer: "AMPHIARAUS AND ERIPHYLE"
+      - question: "What miracle did Zeus grant Alcmaeon's widow Callirhoe?"
+        answer: "HER SONS GREW TO MANHOOD IN A SINGLE DAY TO AVENGE HIS MURDER. (ACARNAN & AMPHOTERUS)"
+  - tossup:
+      question: "What important author was born in Arpinum?"
+      answer: "CICERO"
+    boni:
+      - question: "7678 When was he born?"
+        answer: "106 BC"
+      - question: "When did he die?"
+        answer: "43 BC"
+  - tossup:
+      question: "What charm or amulet was hung around a child's neck?"
+      answer: "BULLA"
+    boni:
+      - question: "5670 From what country did the Romans get the custom?"
+        answer: "ETRURIA"
+      - question: "The bulla contained a token which guarded the wearer against the fascinatio. What was that?"
+        answer: "THE ”EVIL EYE“"
+  - tossup:
+      question: ""
+      answer: "Give the 2nd person singular present active indicative of fero. FERS"
+    boni:
+      - question: ""
+        answer: "470 Change fers to imperfect subjunctive. FERRES"
+      - question: ""
+        answer: "Change ferres to plural passive. FERREMINI"
+  - tossup:
+      question: "Which two of the following words have the same root: consensus, censorious, descend, senseless?"
+      answer: "CONSENSUS AND SENSELESS"
+    boni:
+      - question: "147 Which of the following does not come from cedo: antecedent, success, secession, supersede?"
+        answer: "SUPERSEDE"
+      - question: "What verb is the root of supersede?"
+        answer: "SEDEO"
+  - tossup:
+      question: "What four-word phrase in the first few lines of the Aeneid expresses Vergil's incredulity at the gods' vindictiveness? TANTAENE ANIMIS CAELESTIBUS IRAE? 7741 Line 33 of Book I begins with the same word and is a comment on the hardships Aeneas encountered in being the progenitor of the Roman race. What is the line?"
+      answer: ""
+    boni:
+      - question: ""
+        answer: "TANTAE MOLIS ERAT ROMANAM CONDERE GENTEM"
+      - question: "Still in Book I, how does Aeneas address those who died at Troy and whom he envies?"
+        answer: "O TERQUE QUATERQUE BEATI"
+      - question: ""
+        answer: "#"

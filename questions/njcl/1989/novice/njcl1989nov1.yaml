@@ -1,0 +1,182 @@
+tournament: "NJCL Certamen"
+year: 1989
+division: "Novice"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "What Latin verb is the root of “interrogation” and “derogatory”?"
+      answer: "1100 ROGO ROGARE = ASK"
+    boni:
+      - question: "Of prosper, despair and desperate?"
+        answer: "SPERO, SPERARE = HOPE"
+      - question: "Of recur, occur and excursion?"
+        answer: "CURRO, CURRERE = RUN"
+  - tossup:
+      question: "What Titan holds the world on his shoulders?"
+      answer: "ATLAS"
+    boni:
+      - question: "."
+        answer: "3332"
+      - question: "What hero gave him brief relief?"
+        answer: "HERACLES"
+      - question: "Where did Atlas go while Heracles held up the world?"
+        answer: "TO THE GARDEN OF (HIS DAUGHTERS) THE HESPERIDES, TO FETCH THE GOLDEN APPLES"
+  - tossup:
+      question: "."
+      answer: "What is the enclitic suffix which indicates an interrogative"
+    boni:
+      - question: "728 sentence?"
+        answer: "-NE"
+      - question: "What introduces a question expecting the answer yes?"
+        answer: "NONNE"
+      - question: "What introduces a question expecting the answer no?"
+        answer: "NUM"
+  - tossup:
+      question: "For what Latin words does the abbreviation NB stand?"
+      answer: "NOTA BENE"
+    boni:
+      - question: "."
+        answer: "171"
+      - question: "What does Rx stand for?"
+        answer: "RECIPE"
+      - question: "What does AD stand for?"
+        answer: "ANNO DOMINI"
+  - tossup:
+      question: "Who was the seventh king of Rome?"
+      answer: "TARQUINIUS SUPERBUS"
+    boni:
+      - question: "."
+        answer: "5831"
+      - question: "What was the year of his downfall?"
+        answer: "510 BC"
+      - question: "What tribe did he come from?"
+        answer: "ETRUSCANS"
+  - tossup:
+      question: "What was the name of the speaker's platform in the Forum?"
+      answer: "5589 ROSTRUM (ROSTRA)"
+    boni:
+      - question: "What was the Senate house?"
+        answer: "CURIA"
+      - question: "Between what two hills does the Forum lie?"
+        answer: "PALATINE AND CAPITOLINE"
+  - tossup:
+      question: "."
+      answer: "What did the Greeks leave at Troy when they left, supposedly as a"
+    boni:
+      - question: "3329 gift to Athena?"
+        answer: "THE WOODEN HORSE"
+      - question: "What was in the horse?"
+        answer: "GREEK SOLDIERS"
+      - question: "Who was Troy's king?"
+        answer: "PRIAM"
+  - tossup:
+      question: "Who was the faithful wife of Odysseus?"
+      answer: "PENELOPE"
+    boni:
+      - question: "."
+        answer: "3325"
+      - question: "."
+        answer: "-129"
+      - question: "Who was his son by her?"
+        answer: "TELEMACHUS"
+      - question: "Where was his kingdom?"
+        answer: "ITHACA"
+  - tossup:
+      question: "."
+      answer: "1112 Make flumen longum accusative plural. FLUMINA LONGA"
+    boni:
+      - question: "."
+        answer: "Make it genitive plural. FLUMINUM LONGORUM"
+      - question: "."
+        answer: "Now make the river short in the ablative singular. FLUMINE BREVI"
+  - tossup:
+      question: "."
+      answer: "973 Say in Latin, “You had seen.” VIDERAS"
+    boni:
+      - question: "."
+        answer: "“We will hear.” AUDIEMUS"
+      - question: "."
+        answer: "“I was sitting.” SEDEBAM"
+  - tossup:
+      question: "3323 Who was the god of thieves?"
+      answer: "HERMES/MERCURY"
+    boni:
+      - question: "."
+        answer: "Of storms and lightning ZEUS/JUPITER"
+      - question: "Of hunting?"
+        answer: "ARTEMIS/DIANA"
+  - tossup:
+      question: "5913 What river flows through Rome?"
+      answer: "TIBER"
+    boni:
+      - question: "What town is at its mouth?"
+        answer: "OSTIA"
+      - question: "How many hills are in Rome?"
+        answer: "SEVEN"
+  - tossup:
+      question: "5997 What was the praenomen of the man we know as Julius Caesar?"
+      answer: "GAIUS"
+    boni:
+      - question: "What was the year of his birth?"
+        answer: "100 (102) BC"
+      - question: "What was his mother's gens?"
+        answer: "AURELIA"
+  - tossup:
+      question: "."
+      answer: "877 Give the second person plural imperfect active of capio. CAPIEBATIS"
+    boni:
+      - question: "."
+        answer: "Make that form passive. CAPIEBAMINI"
+      - question: "."
+        answer: "Make capiebamini subjunctive. CAPEREMINI"
+  - tossup:
+      question: "."
+      answer: "871 Give the principal parts of the verb “send.” MITTO, MITTERE, MISI, MISSUS"
+    boni:
+      - question: "."
+        answer: "Say: “I will be sent.” MITTAR"
+      - question: "."
+        answer: "Say: “He will have sent.” MISERIT"
+  - tossup:
+      question: "800 What is the gender of pax?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of pons?"
+        answer: "MASCULINE"
+      - question: "What is the gender of dens?"
+        answer: "MASCULINE"
+  - tossup:
+      question: "What family built the amphitheatre we call the Colosseum?"
+      answer: "THE FLAVIANS"
+    boni:
+      - question: "How many of them were emperors?"
+        answer: "THREE"
+      - question: "Who was the last of them?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "3315 What hero did Hera try to kill in infancy by sending two serpents to attack him in his cradle?"
+      answer: "HERACLES"
+    boni:
+      - question: "Who was Heracles' real father?"
+        answer: "ZEUS"
+      - question: "Who was his mother?"
+        answer: "ALCMENE"
+  - tossup:
+      question: "."
+      answer: "809 Translate into English: Cibum parabas. “YOU WERE PREPARING THE FOOD.”"
+    boni:
+      - question: "."
+        answer: "Translate into Latin: “I was watching the children.” LIBEROS SPECTABAM."
+      - question: "."
+        answer: "“They have warned the girls.” PUELLAS MONUERUNT."
+  - tossup:
+      question: "808 What case is governed by trans?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "By cum?"
+        answer: "ABLATIVE"
+      - question: "By pro?"
+        answer: "ABLATIVE"
+      - question: "."
+        answer: "#"

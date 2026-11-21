@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Advanced"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "What meter is used by Vergil in the Aeneid?"
+      answer: "DACTYLIC HEXAMETER"
+    boni:
+      - question: "In the first line of the poem, what is the term for the pause between cano and Troiae?"
+        answer: "CAESURA"
+      - question: "What is the term for the accented part of a foot - that is, the initial long syllable?"
+        answer: "THESIS"
+  - tossup:
+      question: "What author was the son-in-law of the Roman general Agricola?"
+      answer: "TACITUS"
+    boni:
+      - question: "Which of the works of Tacitus chronicles the reigns of the last 4 Julio-Claudian emperors?"
+        answer: "THE ANNALS (AB EXCESSU DIVI AUGUSTI)"
+      - question: "What Silver Age author wrote two lettersto Tacitus on the eruption of Vesuvius?"
+        answer: "PLINY THE YOUNGER"
+  - tossup:
+      question: "Who were the first two consuls of the Roman Republic?"
+      answer: "L. TARQUINIUS COLLATINUS AND L. JUNIUS BRUTUS"
+    boni:
+      - question: "What was the year of their consulship?"
+        answer: "509 BC"
+      - question: "What was a consul suffectus?"
+        answer: "ONE APPOIHNTED TO FILL AN UNEXPIRED TERM"
+  - tossup:
+      question: "Change <latin>es</latin> to the perfect tense."
+      answer: "<latin>FUISTI</latin>"
+    boni:
+      - question: "Change <latin>fuisti</latin> to the subjunctive."
+        answer: "<latin>FUERIS</latin>"
+      - question: "Change <latin>fueris</latin> to the present tense."
+        answer: "<latin>SIS</latin>"
+  - tossup:
+      question: "Whom does Vergil sometimes call Elissa?"
+      answer: "DIDO"
+    boni:
+      - question: "What land does he call Trinacria?"
+        answer: "SICILY"
+      - question: "What island does he call Ortygia?"
+        answer: "DELOS (or a small island near Syracuse)"
+  - tossup:
+      question: "What occupation was a carnifex?"
+      answer: "EXECUTIONER"
+    boni:
+      - question: "What occupation was a tibicen?"
+        answer: "FLUTE-PLAYER"
+      - question: "What occupation was a caupo?"
+        answer: "INNKEEPER"
+  - tossup:
+      question: "Say in Latin, \"a six-foot wall.\""
+      answer: "<latin>MURUS SEX PEDUM</latin> (genitive of definition of measure)"
+    boni:
+      - question: "Say in Latin, \"for six miles.\""
+        answer: "<latin>SEX MILIA PASSUUM</latin>"
+      - question: "Say in Latin, \"in the sixth month.\""
+        answer: "<latin>MENSE SEXTO</latin>"
+  - tossup:
+      question: "Why did Poseidon give Odysseus grief throughout his voyage?"
+      answer: "ODYSSEUS HAD BLINDED POLYPHEMUS, POSEIDON'S SON."
+    boni:
+      - question: "Why had Poseidon sided with Greece during the Trojan War?"
+        answer: "LAOMEDON HAD NOT PAID HIM FOR BUILDING THE WALLS OF TROY."
+      - question: "What other god had participated in the building of Troy's walls?"
+        answer: "APOLLO"
+  - tossup:
+      question: "Responde Latine. Add the number of Hercules' labors to the number of Rome's hills. Subtract the number of consuls who served at one time and the number of Rome's kings. Add the number of Punic Wars and the number of Fates. Divide by the number of eyes Janus had."
+      answer: "QUATTUOR"
+    boni:
+      - question: "Multiply the number of Graiae by the number of Graces. Add the number of Muses. Responde Latine."
+        answer: "DUODEVIGINTI"
+      - question: "Add the number of declensions to the number of conjugations. Responde Latine."
+        answer: "NOVEM"
+  - tossup:
+      question: "How many books are there in the Commentarii de Bello Gallico?"
+      answer: "EIGHT"
+    boni:
+      - question: "How many are Caesar's work?"
+        answer: "SEVEN"
+      - question: "Who wrote the eighth?"
+        answer: "AULUS HIRTIUS"
+  - tossup:
+      question: "In Caesar's army, what were the exploratores?"
+      answer: "SCOUTS"
+    boni:
+      - question: "What were the speculatores?"
+        answer: "SPIES"
+      - question: "What were decuriones?"
+        answer: "OFFICERS IN CHARGE OF CAVALRY UNITS"
+  - tossup:
+      question: "Who was the father of Alcestis?"
+      answer: "PELIAS"
+    boni:
+      - question: "#a080 What supposedly impossible task had Pelias required of a suitor for his daughter?"
+        answer: "HARNESSING A LION AND A BOAR TO A CHARIOT"
+      - question: "Who helped Admetus to accomplish this?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What is the gender of pax?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of pons?"
+        answer: "MASCULINE"
+      - question: "What is the gender of dens?"
+        answer: "MASCULINE"
+  - tossup:
+      question: "What tense of the subjunctive would be needed to translate \"They will fight in order to capture the city\"?"
+      answer: "PRESENT"
+    boni:
+      - question: "What tense of the subjunctive would be needed for \"They fought so fiercely that they did capture the city\"?"
+        answer: "IMPERFECT"
+      - question: "What tense of the subjunctive would be needed for \"I fear that they won't capture the city\"?"
+        answer: "PRESENT"
+  - tossup:
+      question: "What two gods, mindful of a prophecy, arranged for Thetis to wed Peleus?"
+      answer: "ZEUS AND POSEIDON"
+    boni:
+      - question: "Who had prophesied that Thetis' son would be greater than his father?"
+        answer: "PROMETHEUS OR THEMIS"
+      - question: "Who was the father of Thetis?"
+        answer: "NEREUS"
+  - tossup:
+      question: "What was prophesied for the untier of the Gordian Knot?"
+      answer: "DOMINION OVER THE EARTH (or OVER ASIA)"
+    boni:
+      - question: "Who contemptuously cut through it with his sword?"
+        answer: "ALEXANDER THE GREAT"
+      - question: "Who was Alexander's father?"
+        answer: "PHILIP II"
+  - tossup:
+      question: "What case is required after suadeo?"
+      answer: "DATIVE"
+    boni:
+      - question: "What is the first person singular perfect active indiciative of persuadeo?"
+        answer: "PERSUASI"
+      - question: "What is the same form of respondeo?"
+        answer: "RESPONDI"
+  - tossup:
+      question: "Give the dative singular of <latin>opus</latin>."
+      answer: "<latin>OPERI</latin>"
+    boni:
+      - question: "Give the genitive plural of <latin>rex</latin>."
+        answer: "<latin>REGUM</latin>"
+      - question: "Give the genitive singular of <latin>coniunx</latin>."
+        answer: "<latin>CONIUGIS</latin>"
+  - tossup:
+      question: "Whose side was Cicero on in the Civil War Rome fought in 49-48 BC?"
+      answer: "POMPEY'S"
+    boni:
+      - question: "Who put Cicero's name on the proscription list?"
+        answer: "MARC ANTONY"
+      - question: "When did Cicero die?"
+        answer: "43 BC"
+  - tossup:
+      question: "What are the following: Phlegethon, Acheron, Cocytus, Lethe, Styx?"
+      answer: "RIVERS OF THE UNDERWORLD"
+    boni:
+      - question: "Who ferried the dead across the Styx?"
+        answer: "CHARON"
+      - question: "Who was the guard dog of Hades?"
+        answer: "CERBERUS"

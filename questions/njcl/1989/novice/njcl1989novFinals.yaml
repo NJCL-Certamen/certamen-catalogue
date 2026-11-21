@@ -1,0 +1,196 @@
+tournament: "NJCL Certamen"
+year: 1989
+division: "Novice"
+round: "Finals"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "What root verb gives us the English adjective and noun"
+    boni:
+      - question: "1163 “concrete”?"
+        answer: "CRESCO"
+      - question: "The adjective “discrete” (spell!)?"
+        answer: "CERNO"
+      - question: "The adjective “discreet” (spell!)?"
+        answer: "CERNO"
+  - tossup:
+      question: "What two gods built the walls of Troy?"
+      answer: "POSEIDON AND APOLLO"
+    boni:
+      - question: "."
+        answer: "3247"
+      - question: "Under what king?"
+        answer: "LAOMEDON"
+      - question: "Who killed Laomedon?"
+        answer: "HERACLES"
+  - tossup:
+      question: "Who was Aeneas' bitterest divine enemy throughout his travels?"
+      answer: "3257 HERA/JUNO"
+    boni:
+      - question: "Why?"
+        answer: "THE TROJANS' DESCENDANTS WOULD CONQUER HER BELOVED CARTHAGE"
+      - question: "How does she first seek to destroy the Trojan refugees?"
+        answer: "SHE HAS AEOLUS SEND A STORM AT SEA"
+  - tossup:
+      question: "How many participles does a regular, transitive Latin verb have?"
+      answer: "4"
+    boni:
+      - question: "."
+        answer: "724"
+      - question: "How many more could it have, but for which Latin has no form?"
+        answer: "2"
+      - question: "Which two participial possibilities do not exist?"
+        answer: "PRESENT PASSIVE AND PERFECT ACTIVE"
+  - tossup:
+      question: "What sprang from the blood of the Gorgon Medusa's severed head?"
+      answer: "3287 THE WINGED HORSE PEGASUS (and CHRYSAOR)"
+    boni:
+      - question: "By what god was Medusa pregnant at the time of her death?"
+        answer: "POSEIDON"
+      - question: "What deity gave Bellerophon the bridle with which to tame Pegasus?"
+        answer: "ATHENA"
+  - tossup:
+      question: "."
+      answer: "What minor goddess, a patroness of childbirth and of fountains, was"
+    boni:
+      - question: "5829 the consort of Rome's King Numa?"
+        answer: "EGERIA"
+      - question: "What important change did he supposedly make in the calendar?"
+        answer: "CHANGED IT FROM TEN MONTHS TO TWELVE"
+      - question: "What important building was supposedly his home?"
+        answer: "THE REGIA, IN LATER ERAS THE PONTIFEX MAXIMUS' HOME"
+  - tossup:
+      question: "."
+      answer: "Using alliterative words, give the nominative phrase for"
+    boni:
+      - question: "."
+        answer: "1116 “happy cat.” FELES (or FAELES or FELIS) FELIX"
+      - question: "."
+        answer: "For “reasonable horse.” EQUUS AEQUUS"
+      - question: "."
+        answer: "For “tall elm tree.” ULMUS ALTA"
+      - question: "."
+        answer: "-"
+  - tossup:
+      question: "Of the six indicative tenses, how many have no corresponding 805 subjunctive?"
+      answer: "TWO"
+    boni:
+      - question: "Which two?"
+        answer: "FUTURE AND FUTURE PERFECT"
+      - question: "What rule of syntax determines what tense of the subjunctive follows what tense of the main verb?"
+        answer: "SEQUENCE OF TENSES"
+  - tossup:
+      question: "Who was the father of the monster Cacus?"
+      answer: "HEPHAESTUS/VULCAN"
+    boni:
+      - question: "How did he try to cover his theft of Heracles' cattle?"
+        answer: "HE LED THEM BACKWARD"
+      - question: "On what hill of the future Rome did Cacus live?"
+        answer: "PALATINE"
+  - tossup:
+      question: "A meal was cooked in what room of the Roman house?"
+      answer: "CULINA"
+    boni:
+      - question: "Where was it served?"
+        answer: "IN THE TRICLINIUM"
+      - question: "What distinguished a summer triclinium from a winter one?"
+        answer: "SUMMER ONES FACED NORTH, WINTER ONES SOUTH"
+  - tossup:
+      question: "Who besieged and captured Saguntum in 219 BC?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "."
+        answer: "Hannibal intended to win the war against Rome with a bold invasion of Italy. Give the place and date of two of his victories over the Romans."
+      - question: "."
+        answer: "|  |  |"
+      - question: "."
+        answer: "| --- | --- |"
+      - question: "."
+        answer: "| TICINUS (218) | P. SCIPIO |"
+      - question: "."
+        answer: "| TREBIA (218) | SCIPIO AND SEMPRONIUS LONGUS |"
+      - question: "."
+        answer: "| TRASIMENE (217) | FLAMINIUS |"
+      - question: "."
+        answer: "| CANNAE (216) | PAULUS AND VARRO |"
+      - question: "."
+        answer: "Give the losing Roman generals in the battles you just named."
+  - tossup:
+      question: "Who was elected Pontifex Maximus in the same year Cicero was elected consul?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "Who was Caesar's last magister equitum?"
+        answer: "M. AEMILIUS LEPIDUS"
+      - question: "Who was Caesar's last co-consul?"
+        answer: "MARC ANTONY"
+  - tossup:
+      question: "."
+      answer: "Give one person the command to use. UTERE"
+    boni:
+      - question: "."
+        answer: "Make that command plural. UTIMINI"
+      - question: "."
+        answer: "Say “I will use an animal.” ANIMALI UTAR"
+  - tossup:
+      question: "."
+      answer: "Complete this analogy: feminis : viris :: ________ : filiis. FILIABUS"
+    boni:
+      - question: "."
+        answer: "Complete these analogies: bonus : malus :: latus : ________. ANGUSTUS"
+      - question: "."
+        answer: "Magnus : parvus :: ________ : cum. SINE"
+  - tossup:
+      question: "What natural pair is aves apesque?"
+      answer: "THE BIRDS AND THE BEES"
+    boni:
+      - question: "."
+        answer: "-142"
+      - question: "."
+        answer: "922"
+      - question: "Agentes et latrones?"
+        answer: "COPS AND ROBBERS"
+      - question: "Panis et mel?"
+        answer: "BREAD AND HONEY"
+  - tossup:
+      question: "."
+      answer: "1149 Fac sonum muris. SQUEAK"
+    boni:
+      - question: "."
+        answer: "Fac sonum anseris. HONK"
+      - question: "."
+        answer: "Fac sonum columbae. COO"
+  - tossup:
+      question: "5942 What fortified plateau on the shore of the Dead Sea is a symbol of Jews' resistance to oppression?"
+      answer: "MASADA"
+    boni:
+      - question: "."
+        answer: "During a revolt in 66 AD, Jewish zealots captured the fortress."
+      - question: "When did a Roman army retake it?"
+        answer: "73 AD"
+      - question: "After that six-month siege in 73, what Roman commander retook Masada?"
+        answer: "FLAVIUS SILVA (Peter O'Toole)"
+  - tossup:
+      question: "1211 What do you know from Latin when you read that someone was decapitated?"
+      answer: "THAT HE WAS BEHEADED"
+    boni:
+      - question: "What do you know when someone was defenestrated?"
+        answer: "THAT HE WAS THROWN OUT A WINDOW"
+      - question: "When something was regurgitated?"
+        answer: "SPEWED UP FROM/THROUGH THE THROAT"
+  - tossup:
+      question: "3430 Who was condemned to death for burying her brother's dead body?"
+      answer: "ANTIGONE"
+    boni:
+      - question: "What was the method of execution?"
+        answer: "SHE WAS BURIED ALIVE (ENTOMBED)"
+      - question: "How did she die?"
+        answer: "SHE HANGED HERSELF IN THE TOMB"
+  - tossup:
+      question: "."
+      answer: "984 Give the three active infinitives of tango. TANGERE, TETIGISSE, TACTURUS ESSE"
+    boni:
+      - question: "."
+        answer: "Do the same for fero. FERRE, TULISSE, LATURUS ESSE"
+      - question: "."
+        answer: "Do the same for volo wish. VELLE, VOLUISSE, ---"

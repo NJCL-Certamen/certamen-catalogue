@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Give a Latin antonym of the adjective <latin>lātus</latin>.\t"
+      answer: "<latin>ANGUSTUS / ARTUS / (-)TENUIS / BREVIS / EXĪLIS / EXIGUUS / GRACILIS / MACER / LEVIS /  \tRĀRUS / ALTUS / LONGUS</latin>"
+    boni:
+      - question: "Give a Latin antonym of the adjective <latin>aliēnus.</latin>\t\t"
+        answer: "<latin>SUUS / PROPINQUUS / APTUS / FAMILIĀRIS / NŌTUS / AMĪCUS / PRŌPRIUS</latin>"
+      - question: "Give a Latin antonym of the adjective <latin>integer</latin>.\t\t"
+        answer: "<latin>IMPERFECTUS / RŪDIS / MANCUS / VULNERĀTUS / INSĀNUS / (-)FRĀCTUS / (-)RUPTUS / PERDITUS / FRAGILIS / LAESUS / SAUCIUS</latin>"
+  - tossup:
+      question: "Which of the following battles occurred earliest during the Roman Republic: Caudine \t\tForks, Aegates Islands, Cannae, or Mylae?\t"
+      answer: "CAUDINE FORKS"
+    boni:
+      - question: "Who was the victorious Roman commander at the Battle of Mylae? \t\t"
+        answer: "(C.) DUIL(L)IUS"
+      - question: "Who was the victorious Roman admiral at the Battle of Aegates Islands?"
+        answer: "(C. LUTATIUS) CATULUS"
+  - tossup:
+      question: "What creature did Heracles defeat at Lerna with the help of his nephew Iolaüs, who used a torch to cauterize the stumps that Heracles made?\t"
+      answer: "(THE LERNAEAN) HYDRA"
+    boni:
+      - question: "Why did the stumps left from removing the Hydra’s heads need to be cauterized? \t\t"
+        answer: "OTHERWISE MULTIPLE / TWO HEADS GREW BACK FROM THE STUMP"
+      - question: "What other creature made the job of killing the Hydra more difficult by attacking Heracles’ foot?\t"
+        answer: "(GIANT) CRAB / <latin>CANCER</latin>"
+  - tossup:
+      question: "Using <latin>ambulō</latin>, translate the following sentence from English to Latin: We walked to the \t\tforum.\t"
+      answer: "<latin>(NŌS)</latin> <latin>AD / IN FORUM AMBULĀVIMUS / AMBULĀBĀMUS</latin>"
+    boni:
+      - question: "Translate the following sentence from English to Latin using a form of <latin>facilis</latin>: It is easy to see danger.\t"
+        answer: "<latin>FACILE EST VIDĒRE / VĪSŪ PERĪCULUM</latin>"
+      - question: "Translate the following sentence from English to Latin: Titus and Livia dared to visit Rome.\t"
+        answer: "<latin>TITUS ET LĪVIA / TITUS LĪVIAQUE VĪSITĀRE RŌMAM AUSĪ SUNT /  \t\tAUDĒBANT</latin>"
+  - tossup:
+      question: "According to the <title>Aeneid</title>, a rageful Aeneas kills which Rutulian chieftain who was leading the Italian resistance against the settlement of Aeneas and the Trojans?\t"
+      answer: "TURNUS"
+    boni:
+      - question: "Aeneas is about to accept Turnus’ surrender when he sees the belt that Turnus took from the corpse of which young man, an ally of Aeneas whom Turnus had killed?\t"
+        answer: "PALLAS"
+      - question: "What minor deity and sister of Turnus does everything she can to save her brother, including impersonating his charioteer and returning his dropped sword?\t"
+        answer: "JUTURNA  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Which two first-century emperors, one of whom was said to have fiddled as the city burned and the other of whom was commended for his reliability just months after Mt. Vesuvius’ eruption in 79 AD, had very different responses to fires in Rome? \t\t"
+      answer: "NERO AND TITUS"
+    boni:
+      - question: "Though it is unlikely that Nero actually set Rome on fire, the disaster conveniently cleared the way for what massive complex on the Oppian Hill?"
+        answer: "<latin>DOMUS AUREA</latin> / GOLDEN HOUSE / GOLDEN PALACE"
+      - question: "What previous emperor had divided the city into 14 regions, each patrolled by the aediles and a special corps of firemen? \t"
+        answer: "AUGUSTUS / OCTAVIAN / (C.) OCTAVIUS"
+  - tossup:
+      question: "Complete the following grammatical analogy: <latin>laeta : laetissima :: pulchra : _____.</latin> \t\t"
+      answer: "PULCHERRIMA"
+    boni:
+      - question: "Complete the following grammatical analogy: <latin>laeta : laetissima :: mala : _____.</latin> \t\t"
+        answer: "PESSIMA"
+      - question: "Complete the following grammatical analogy: <latin>laeta : laetissima :: multae : _____.</latin> \t\t"
+        answer: "PLŪRIMAE"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>Rēgīna mīlitēs auxiliō castrīs mīserat</latin>. \t\t"
+      answer: "THE QUEEN HAD SENT (THE) SOLDIERS AS A HELP TO / FOR THE CAMP /  \t\tTO HELP THE CAMP"
+    boni:
+      - question: "Translate the following sentence into English: <latin>Tē habēbō cordī mihi</latin>. \t\t"
+        answer: "I WILL HOLD / CONSIDER YOU (AS) DEAR / PLEASING / AGREEABLE TO ME /  \t\tIN MY HEART / AS HEART TO ME"
+      - question: "Translate the following sentence into Latin using <latin>praesidium</latin> and a double dative construction: General, send me to protect the town.\t\t"
+        answer: "DUX / IMPERĀTOR, MITTE MĒ PRAESIDIŌ OPPIDŌ / PĀGŌ / URBĪ"
+  - tossup:
+      question: "What English word, which comes from a Latin word for “rumor or reputation”, is a noun that means “the state of being very well known”?\t"
+      answer: "INFAMY / FAME / FAMOUSNESS"
+    boni:
+      - question: "What English noun, which comes from a Latin noun for “pain” or “grief,” is “an expression of sympathy for someone who is grieving”?\t"
+        answer: "CONDOLENCE(S)"
+      - question: "What English noun, which comes from a Latin word meaning “to despise”, is “the feeling that something is worthless or beneath consideration”?\t"
+        answer: "CONTEMPT"
+  - tossup:
+      question: "What Greek god, the father of Ate, Britomartis, Polyhymnia, Eileithyia, Persephone, and Artemis, among many others, ruled over the sky and was chief among the Olympians? \t\t"
+      answer: "ZEUS"
+    boni:
+      - question: "Polyhymnia was a member of what group, all daughters of Zeus and Mnemosyne? \t\t"
+        answer: "MUSES / MOUSAI"
+      - question: "What daughter of Zeus and Hera was supplanted as cupbearer to the gods by Ganymede? \t\t"
+        answer: "HEBE"
+  - tossup:
+      question: "On your way here to Emory, you may have traveled through what state whose Latin motto is <latin>esse quam vidērī?</latin>\t"
+      answer: "NORTH CAROLINA"
+    boni:
+      - question: "Assuming you came through North Carolina, you most likely also journeyed through South Carolina. Give the Latin motto of South Carolina, which translates to “While I breathe, I hope.”\t"
+        answer: "<latin>DUM SPĪRŌ SPĒRŌ</latin>"
+      - question: "South Carolina actually boasts two state mottoes in Latin. Give the Latin for the other official state motto of South Carolina, which is taken from Book 2 of Vergil’s <title>Aeneid</title>. \t\t"
+        answer: "<latin>ANIMĪS OPIBUSQUE</latin> <latin>PARĀTĪ</latin>"
+  - tossup:
+      question: "For the noun <latin>aegritūdō</latin>, provide the accusative singular form so that it fits the sentence \t\t“You can see the sickness.”\t"
+      answer: "<latin>AEGRITŪDINEM</latin>"
+    boni:
+      - question: "For the noun <latin>aegritūdō</latin>, provide the dative plural form so that it fits the sentence “are doctors in charge of sicknesses?”\t"
+        answer: "<latin>AEGRITŪDINIBUS</latin>"
+      - question: "For the noun <latin>aegritūdō</latin>, provide the ablative singular form so that it fits the sentence “Lucius is in bed because of a sickness.”\t"
+        answer: "<latin>AEGRITŪDINE</latin>"
+  - tossup:
+      question: "Octavia is a teenage girl in Rome. What Latin term would she use to describe the <latin>māter</latin> of her <latin>pater</latin>?\t"
+      answer: "<latin>AV(I)A</latin>"
+    boni:
+      - question: "What Latin term would her <latin>avia</latin> use to refer to Octavia?\t"
+        answer: "<latin>NEPŌS / NEPTIS</latin>"
+      - question: "What familial relation to Octavia is her <latin>cōnsōbrīna</latin>?\t \t\t"
+        answer: "<latin>(</latin>FEMALE FIRST) COUSIN // DAUGHTER / CHILD OF HER AUNT  \t\t(ON MOTHER’S SIDE)"
+  - tossup:
+      question: "What man, named for his swollen feet, poked out his eyes when he learned that he had fulfilled a prophecy that he would kill his father and marry his mother?\t"
+      answer: "OEDIPUS"
+    boni:
+      - question: "When Oedipus first heard about this prophecy, he immediately left what city, where he had grown up under the care of Polybus and Merope, whom he thought were his biological father and mother?\t"
+        answer: "CORINTH / EPHYRA"
+      - question: "Name two of Oedipus’ siblings who were also his children. \t\t"
+        answer: "(ANY TWO OF) ANTIGONE / ISMENE / POLYNEICES / ETEOCLES"
+  - tossup:
+      question: "What figure of early Roman history emulated a temple in faraway Ephesus when he constructed a temple of Diana during his reign as Rome’s sixth king?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "In order to accommodate a population of 80,000 recorded by his census, Servius Tullius incorporated the Quirinal, Viminal, and what other hill in the city — where he lived himself?\t"
+        answer: "ESQUILINE (HILL)"
+      - question: "What two individuals — his successor and his daughter — were responsible for Servius Tullius’ murder?"
+        answer: "TARQUINIUS SUPERBUS AND TULLIA MINOR / TULLIA THE YOUNGER   <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then \t<latin>RESPONDĒ LATĪNĒ</latin> to the question which follows:    \t<latin>Trēdecim lūdī Iovis Aurēliae nōn placēbant.  Māvult loca Aegyptī antīquae explōrāre.  Ergō equum suum cōnscendit ut īret ad tumulōs rēgum antīquōrum Aegyptī.  In valle rēgum, Aurēlia in tumulum rērum aureārum implētum intrāvit</latin>"
+      answer: "(REREAD)"
+    boni:
+      - question: "<latin>Quō equus puellam tulit</latin>?"
+        answer: "<latin>AD TUMULŌS (RĒGUM ANTĪQUŌRUM AEGYPTĪ) \t \t// AD AEGYPTUM // AD VALLEM RĒGUM</latin>"
+      - question: "<latin>Quālēs rēs implent hōs tumulōs</latin>?"
+        answer: "<latin>AUREAE (RĒS</latin>)"
+  - tossup:
+      question: "What modern country contains the ancient cities of Sinope, Nicomedia, Ancyra, and Constantinople?\t"
+      answer: "TURKEY"
+    boni:
+      - question: "Which of the following ancient provinces was NOT contained partially or completely in the modern area of Turkey:  Galatia, Moesia, Cappadocia, Bithynia?\t"
+        answer: "MOESIA"
+      - question: "Of Galatia, Bithynia, Cilicia, and Cappadocia, which is the landlocked province that includes Ancyra and was ruled by Deiotarus I?\t"
+        answer: "GALATIA"
+  - tossup:
+      question: "<latin>Respondē Anglicē</latin>: <latin>Quō dēbēs īre in Forō Rōmānō, sī vīs cōnsulem ōrātiōnem habentem ad populum audīre?</latin>\t \t\t"
+      answer: "(TO THE) SPEAKING PLATFORM / ROSTRUM / ROSTRA"
+    boni:
+      - question: "Give the letter of the Roman architectural marvel being described in this Latin sentence: <latin>hoc dēscendit dē montibus ad urbem ut cīvēs ad bibendum satis aquae habeant.</latin>"
+        answer: "C"
+      - question: "Give the letter of the Roman architectural marvel being described in this Latin sentence: <latin>Rōmānī hōc ūsī sunt in amphitheātrō Flaviō ut multum pondus sustinēret, sed nōn spectātōribus impedīret.</latin>"
+        answer: "A"
+  - tossup:
+      question: "Accounts of which man’s death include that he rashly boasted that he would kill all the  earth’s animals, leading Gaia to send a scorpion to sting him, or that Artemis mistook him for a random object in the sea and shot him with an arrow?\t"
+      answer: "ORION"
+    boni:
+      - question: "Another account says that Artemis killed Orion because he lay with which goddess, who was also Emathion’s mother by a lover who was transformed into a cicada?\t"
+        answer: "EOS"
+      - question: "Yet another account says that Artemis shot Orion after he raped the maiden Opis. Opis was a member of what northern people, with whom Apollo spent his winters?"
+        answer: "HYPERBOREANS / HYPERBOREOI  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "When recognized, perform the following commands: <latin>Dēmonstrā mihi digitōs et dīc  mihi Anglicē, “quattuor!”</latin>"
+      answer: "STUDENT SHOWS (TWO OR MORE) FINGERS AND SAYS “FOUR”"
+    boni:
+      - question: "<latin>Dēmōnstrāte mihi manūs, sed dīcite mihi Anglicē, “pedēs!”</latin>"
+        answer: "AT LEAST TWO STUDENTS SHOW THEIR HANDS BUT SAY, “FEET”"
+      - question: "<latin>Dēmōnstrāte mihi oculōs, sed dīcite mihi Anglice, “aurēs!”</latin>"
+        answer: "STUDENTS POINT TO EYES BUT SAY, “EARS”"

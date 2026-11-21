@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2024
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who oversaw lavish decorations in the Roman Forum and hired 320 pairs of gladiators with silver-tipped weapons as aedile in 65 BC, launching a political career that also included a consulship in 59 BC and an appointment as dictator for life in 44 BC that led to his eventual assassination?\t"
+      answer: "(C.) JULIUS CAESAR"
+    boni:
+      - question: "What position in the <latin>cursus honōrum</latin> did Caesar hold in 62 BC when he tried to deny the staunch <latin>Optimātēs</latin> supporter Lutatius Catulus the honor of restoring the temple of Capitoline Jupiter?\t"
+        answer: "PRAETOR(SHIP)"
+      - question: "What contemporary of Caesar served as censor in 65 BC, proposing full citizenship for the inhabitants of Cisalpine Gaul and later died fighting in the East in 53 BC?\t \t\t"
+        answer: "(M. LICINIUS) CRASSUS (TRIUMVIR)"
+  - tossup:
+      question: "<title>(Note to moderator: do not read the other answers to the toss-up)</title> \tGive an antonym of the Latin verb <latin>ascendō</latin>, which means “climb up.” \t\t"
+      answer: "<latin>CADŌ / DĒSCENDŌ / DĒGREDIOR / OCCIDŌ</latin>"
+    boni:
+      - question: "What compound of <latin>cadō</latin> means “to fall in battle”?\t"
+        answer: "<latin>OCCIDŌ / CONCIDŌ</latin>"
+      - question: "What Latin deponent verb means to “fall,” “slip,” or “slide”?\t"
+        answer: "(DĒ)LĀBOR / (DĒ)LĀBĪ"
+  - tossup:
+      question: "When recognized, perform or describe the following commands: <latin>salūtā comitēs et dīc Anglicē “hodiē est diēs optimus!”</latin>\t"
+      answer: "PLAYER SHOULD GREET / SALUTE THEIR \t\tFRIENDS / TEAMMATES AND SAY “TODAY (IT) IS (A) \t\tGREAT / VERY GOOD / THE BEST DAY!”"
+    boni:
+      - question: "Perform or describe the following commands: <latin>consentīte et dīcite Anglicē “ita vērō, sed crās erit melius!”</latin>\t"
+        answer: "PLAYERS SHOULD (AGREE AND) SAY \t\t“YES (INDEED), BUT TOMORROW WILL BE BETTER!”"
+      - question: "Perform or describe the following commands: <latin>iungite manūs et nārrāte comitibus Anglicē “bonum diem!”</latin>\t"
+        answer: "PLAYERS SHOULD JOIN HANDS \t\tAND TELL EACH OTHER “GOOD DAY!”"
+  - tossup:
+      question: "Which man, whose mother was also his grandmother, joined forces with heroes like Hippomedon and Amphiaraüs to take back the throne of Thebes from his brother Eteocles?\t"
+      answer: "POLYN(E)ICES"
+    boni:
+      - question: "Name a man who was grandfather to Polyneices and Eteocles.\t"
+        answer: "LAIUS / MENOECEÜS"
+      - question: "Which son of Polyneices later successfully took the throne of Thebes?\t"
+        answer: "THERSANDER"
+  - tossup:
+      question: "What Latin term was used to refer to buildings, such as the one constructed by Tullus Hostilius in the Roman Forum, where the senate met?\t \t\t"
+      answer: "CŪRIA (HOSTILIA) // CŪRIAE"
+    boni:
+      - question: "What road ran through the Roman Forum, followed the course of a stream, and led between the Regia and the Temple of Vesta?\t"
+        answer: "<latin>VIA SACRA / SACRA VIA</latin>"
+      - question: "What arch stood at the southeast end of the Forum and was completed around 81 AD?"
+        answer: "ARCH OF TITUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What English technological term, often counted in the thousands or millions, derives from a Latin verb for “to paint,” and refers to the smallest addressable element of a digital image?\t"
+      answer: "PIXEL(S)"
+    boni:
+      - question: "What other English term for a type of computer program is directly borrowed from a Latin word that means “poison” or “slime”?\t"
+        answer: "VIRUS"
+      - question: "What other English term, derived from a Latin word for “tree-trunk,” means “a systematic compilation of laws” or “instructions written for a program”?\t"
+        answer: "CODE"
+  - tossup:
+      question: "What emperor left behind a surplus of two billion sesterces, established five jurists as members of the imperial council, and built a wall in Britain north of his predecessor Hadrian’s?\t"
+      answer: "ANTONINUS PIUS"
+    boni:
+      - question: "What governor of Britain was commissioned with the building of the Antonine Wall from the Firth of Forth to the Firth of Clyde?\t"
+        answer: "(Q.) LOLLIUS URBICUS"
+      - question: "What wife of Antoninus Pius was the adopted mother of Marcus Aurelius and received a temple in the Roman Forum alongside her husband?\t"
+        answer: "FAUSTINA THE ELDER / <latin>MAIOR</latin>"
+  - tossup:
+      question: "Translate the following sentence into English: <latin>magistra rogat ubi discipulī sint.</latin> \t\t"
+      answer: "THE (FEMALE) TEACHER ASKS WHERE THE STUDENTS ARE"
+    boni:
+      - question: "Translate the following sentence into Latin: The students wanted to know why the teacher was asking.\t"
+        answer: "<latin>DISCIPULĪ/AE/A SCĪRE VOLĒBANT / VOLUĒRUNT \t\tCŪR MAGISTER/RA ROGĀRET</latin>"
+      - question: "Translate the following sentence into Latin: We didn’t know what the students were doing.\t"
+        answer: "<latin>NĒSCĪVIMUS / NŌN SCĪVIMUS / IGNŌRĀVIMUS / NĒSCIĒBĀMUS / \t\tNŌN SCIĒBĀMUS / IGNŌRĀBĀMUS QUID / QUAE / QUĀS RĒS \tDISCIPULĪ/AE/A FACERENT / AGERENT</latin>"
+  - tossup:
+      question: "<latin>Rēspondē Latīnē: sī patruus est frāter patris, quis est frāter mātris?</latin>\t"
+      answer: "<latin>AVUNCULUS</latin>"
+    boni:
+      - question: "<latin>Rēspondē Latīnē: quis est pater uxōris aut marītī?</latin>"
+        answer: "SOCER"
+      - question: "<latin>Rēspondē Latīnē: quis est fēmina, quam pater in mātrimōnium dūcit, postquam māter mortua est?</latin>"
+        answer: "NOVERCA"
+  - tossup:
+      question: "What woman, facing a similar problem to that of Penelope, established a high-stakes \t\tcompetition that led to the deaths of many of her suitors until the goddess Aphrodite \t\thelped one of them with a gift of golden apples?\t"
+      answer: "ATALANTA"
+    boni:
+      - question: "Who eventually beat Atalanta in this amazing race?\t"
+        answer: "HIPPOMENES / MELANION"
+      - question: "Which son of Atalanta became a member of the Seven Against Thebes? \t\t"
+        answer: "PARTHENOPAEÜS"
+  - tossup:
+      question: "Which Thessalian grandson of Autolycus survived the usurpation of Cretheüs’ throne, grew up on Mt. Pelion, and returned to his birth city of Iolcus conspicuously missing a sandal, much to the dismay of his uncle Pelias?\t"
+      answer: "JASON"
+    boni:
+      - question: "Name Jason’s father, the eldest son of Cretheüs.\t\t\t\t"
+        answer: "AESON"
+      - question: "Which two goddesses helped Jason before he set sail with the Argonauts? \t\t\t\t\t\t\t"
+        answer: "JUNO & MINERVA / HERA & ATHENA"
+  - tossup:
+      question: "<latin>Dēscrībāmus nunc prōprietātēs dictiōnum in hāc sententiā: Crēdō puellās ad forum festīnātūrās esse. Quō tempore est “crēdō”?</latin>\t \t\t"
+      answer: "PRAESENTE / PRAESENTĪ / (TEMPUS EST) PRAESENS"
+    boni:
+      - question: "<latin>Quō tempore est “festīnātūrās esse”?</latin>"
+        answer: "FUTŪRŌ / (TEMPUS EST) FUTŪRUM"
+      - question: "<latin>Cuius persōnae est “crēdō”?</latin>"
+        answer: "PRĪMAE / (PERSONA EST) PRĪMA"
+  - tossup:
+      question: "What man, preparing for battle holding Actor’s spear and a sword Vulcan had forged for his father Daunus, prayed that he would be able to win the upcoming battle so that Lavinia would marry him and not Aeneas?       \t"
+      answer: "TURNUS"
+    boni:
+      - question: "Which people, whose capital was Ardea, did Turnus lead?\t"
+        answer: "RUTULI(ANS)"
+      - question: "What sister of Turnus used her shapeshifting abilities to aid him in battle?      \t\t"
+        answer: "JUTURNA / DIUTURNA"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, as wealthy King Croesus and the wise Solon continue to discuss the happiest person in the world. Then respond in English to the questions that follow: \t<latin>tandem rēx Croesus, quī putāvit sē esse hominem fēlīcissimum, īrātus factus est et clāmāvit, “quōmodo istī hominēs sunt fēliciōrēs quam ego, rēx dīves et potēns? nōnne vidēs rēgnum et aurum meum?” Solōn rēspondit, “vīta semper mūtātur. pauperēs pecūniam inveniunt. rēgēs in servitūdinem cadunt. sōlum post mortem tuam sciēmus quam fēlīx sīs.”</latin>      "
+      answer: "REREAD"
+    boni:
+      - question: "What two things does Croesus point out to Solon as evidence of his happiness?"
+        answer: "HIS KINGDOM / POWER AND GOLD / MONEY"
+      - question: "When will Croesus be able to know how lucky he is?"
+        answer: "AFTER (HIS) DEATH"
+  - tossup:
+      question: "Which of the following words, if any, comes from a different Latin root than the others? comfy, forte, enforce, unfortunate, fortify.\t"
+      answer: "UNFORTUNATE"
+    boni:
+      - question: "Two answers required: For each of these two English words, give the Latin word and its meaning at its root: “collateral,” “latitude.”"
+        answer: "<latin>LATUS</latin> - SIDE, <latin>LĀTUS</latin> - WIDE"
+      - question: "Two answers required: For each of these two English words, give the Latin word and its meaning at its root: “collection,” “legitimate.”"
+        answer: "<latin>LEGŌ -</latin> TO READ / CHOOSE, <latin>LEX -</latin> LAW"
+  - tossup:
+      question: "For the noun <latin>cornū</latin>, give the genitive singular form, meaning “of the horn.”\t"
+      answer: "<latin>CORNŪS</latin>"
+    boni:
+      - question: "Now say in Latin “with the horn” in the ablative singular.\t"
+        answer: "<latin>CORNŪ</latin>"
+      - question: "And now say in Latin “horns” in the nominative plural.\t"
+        answer: "<latin>CORNUA</latin>"
+  - tossup:
+      question: "Using the verb <latin>ferō</latin>, say in Latin “he brings.”\t"
+      answer: "<latin>FERT</latin>"
+    boni:
+      - question: "Using <latin>ferō</latin> once again, say in Latin “you all have brought.”\t"
+        answer: "<latin>(VŌS OMNĒS) TULISTIS</latin>"
+      - question: "And continuing to use <latin>ferō,</latin> say “it had been brought.”\t"
+        answer: "<latin>LĀTUM ERAT</latin>"
+  - tossup:
+      question: "What king’s attacks on several Greek cities on the island of Rhodes led Attalus I of Pergamum to appeal for Roman aid, setting off the Second Macedonian War?\t \t\t"
+      answer: "PHILIP V (OF MACEDON)"
+    boni:
+      - question: "What consul of 200 BC, an ancestor of one of the emperors of 69 AD, proposed that the <latin>Comitia Centuriāta</latin> declare war on Philip?\t"
+        answer: "(P. SULPICIUS) GALBA (MAXIMUS)"
+      - question: "To gain support for Galba’s new declaration of war, the <latin>comitia</latin> declared that veterans of what contemporary general would be exempt from fighting against Philip? \t\t"
+        answer: "(P. CORNELIUS) SCIPIO AFRICANUS (<latin>MAIOR</latin>)"
+  - tossup:
+      question: "How should a patient take a medication with the abbreviation <latin>p.c.</latin> on the label? \t\t"
+      answer: "AFTER / WITH MEALS / FOOD / DINNER [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "You are looking at a sample prescription order for a hospital patient with medications numbered 1-4. Give the number of the medication that should be taken “as needed at bedtime.”"
+        answer: "3"
+      - question: "Give the Latin and the English for the abbreviation that indicates how often prescription 1 should be taken."
+        answer: "<latin>QUATER IN DIĒ</latin> - FOUR TIMES A DAY / EVERY SIX HOURS"
+  - tossup:
+      question: "Who gave Odysseus the advice to walk past the king and appeal directly to the queen when entering the court of her parents, the hospitable rulers of the Phaeacians? \t\t"
+      answer: "NAUSICAÄ"
+    boni:
+      - question: "Name her parents, the queen and king of the Phaeacians.\t"
+        answer: "ARETE AND ALCINOÜS"
+      - question: "After she heard Odysseus’ brief preamble, what question did Arete ask, having seen an inconsistency in his claim that he was a wanderer from the sea? \t\t"
+        answer: "WHERE HE GOT HIS CLOTHES / WHO GAVE HIM HIS CLOTHES"

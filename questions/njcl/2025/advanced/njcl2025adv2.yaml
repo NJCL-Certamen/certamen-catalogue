@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "According to the <title>Aeneid</title>, who had a son with the priestess Rhea after an encounter on the Aventine, when he bathed the Iberian cattle he had acquired by slaying the three-bodied Geryon?\t"
+      answer: "HERCULES / ALCIDES"
+    boni:
+      - question: "According to the <title>Aeneid</title>, Hercules also killed what monster inside a cave on the Aventine?\t"
+        answer: "CACUS"
+      - question: "According to the <title>Aeneid</title>, what was depicted on the shield of Rhea’s son Aventinus?"
+        answer: "(LERNAEAN) HYDRA"
+  - tossup:
+      question: "What Roman author earned his reputation as a translator when he wrote the <title><latin>Odusia</latin></title>, translating the <title>Odyssey</title> from Greek to Latin?\t"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "What was Livius Andronicus’s profession, which played a role in how he translated the <title><latin>Odusia</latin></title>?\t"
+        answer: "TEACHER / <latin>GRAMMATICUS</latin>"
+      - question: "Livius Andronicus wrote a number of plays as well. Give the Latin or Greek title for one of the eight tragedies attributed to Andronicus.\t\t"
+        answer: "<title><latin>ACHILLES</latin></title> <title>/</title> <title><latin>AEGISTHUS</latin></title> <title>/</title> <title><latin>AJAX MASTIGOPHORUS</latin></title> <title>/</title> <title><latin>EQUOS TROIANUS</latin></title> <title>/</title>"
+  - tossup:
+      question: "What architectural element came in varieties that include Tuscan, Composite, Corinthian, Doric, and Ionic?\t"
+      answer: "COLUMNS"
+    boni:
+      - question: "The Tuscan order was developed in Italy and shares a simple capital with what Greek order?\t"
+        answer: "DORIC"
+      - question: "The capital of a Corinthian column was meant to look like the leaves of what plant?\t \t\t"
+        answer: "ACANTHUS"
+  - tossup:
+      question: "While drawing water at the spring Artacia, a woman from what people directed envoys to Antiphates at Telepylus, where their king roused his men to spear and eat Odysseus’ crew?\t"
+      answer: "LAESTRYGONIAN(S)"
+    boni:
+      - question: "With how many ships did Odysseus enter the Laestrygonians’ harbor?\t"
+        answer: "TWELVE"
+      - question: "According to the <title>Odyssey</title>, Telepylus’ citadel was associated with what former Laestrygonian king?\t"
+        answer: "LAMUS"
+  - tossup:
+      question: "<latin>Respondē Latīnē: in sententiā sequente, quod verbum est exemplum prōnōminis relātīvī?</latin> <latin>illā diē</latin> <latin>quisque senātor crēdidit sē sessūrum esse in locō ipsō quem imperātor eō tempore tenēret.</latin>\t"
+      answer: "<latin>QUEM</latin>"
+    boni:
+      - question: "<latin>Respondē Latīnē: in eādem sententiā, quod verbum est exemplum prōnōminis reciprocī?</latin>"
+        answer: "SĒ "
+      - question: "<latin>Respondē Latīnē: in eādem sententiā, quod verbum est exemplum adiectīvī intentiōnis?</latin>"
+        answer: "IPSŌ"
+  - tossup:
+      question: "Which Roman author, also a politician and orator, was censor in 184 BC, wrote the earliest surviving Latin prose work, and ended many of his speeches with “<latin>Carthāgo dēlenda est</latin>?”\t"
+      answer: "(M. PORCIUS) CATO THE ELDER / CENSOR"
+    boni:
+      - question: "What is the name of Cato’s work on farming and property management, which is the earliest surviving Latin prose work?\t"
+        answer: "<title><latin>DĒ AGRĪ CULTŪRĀ / DĒ RĒ RŪSTICĀ</latin></title>"
+      - question: "What work of Cato is a historical work starting with the foundation of Rome?\t\t"
+        answer: "<title><latin>ORĪGINĒS</latin></title>"
+  - tossup:
+      question: "Which of the following Latin abbreviations can be replaced with <latin>i.e.</latin> in footnotes: <latin>cf.</latin>, <latin>ibid.</latin>, <latin>s.v.</latin>, <latin>viz.</latin>?           \t"
+      answer: "<latin>VIZ.</latin> [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "Give the title of the text referenced by the abbreviation in footnote 3."
+        answer: "<title>FEUDAL OBLIGATIONS OF THE CAROLINGIAN EMPIRE</title>"
+      - question: "How does the abbreviation in footnote 6 suggest the work by Peter Li be used?"
+        answer: "TO FIND DETAILS / MORE INFORMATION (ON FRANKISH LEGAL TRADITION)"
+  - tossup:
+      question: "Both the <latin>Calpurniī</latin> and the <latin>Aemiliī</latin> claimed to descend from which Roman king, who was summoned from Cures to satisfy calls for a Sabine king after Romulus’ death?\t\t"
+      answer: "NUMA (POMPILIUS)"
+    boni:
+      - question: "Numa was the son-in-law of what man, whose death at Lanuvium left Romulus alone in ruling the combined Roman and Sabine people?\t"
+        answer: "TITUS TATIUS"
+      - question: "What Latin term, which later referred to periods when an elected office was vacant, first referred to the 1 year gap between Romulus’ and Numa’s reigns?\t"
+        answer: "<latin>INTERRĒGNUM</latin>"
+  - tossup:
+      question: "Acheloüs’ lover Perimele and the quail-like Asteria were both changed into what geographical feature, to which other women gave their names, like Corcyra, Aegina, and Rhodes?\t"
+      answer: "ISLAND(S)"
+    boni:
+      - question: "Asteria’s island, later known as Delos, offered a haven to what woman, Asteria’s pregnant sister?\t"
+        answer: "LETO / LATONA"
+      - question: "According to another story, Acheloüs also washed away five nymphs, who became what islands?\t"
+        answer: "ECHINADES / ECHINADIAN (ISLANDS)"
+  - tossup:
+      question: "What English noun, derived from a Latin word meaning “to increase”, is an event where buyers compete with each other to win the right to purchase an item?\t"
+      answer: "AUCTION"
+    boni:
+      - question: "What English noun, derived from a Latin word meaning “to hide”, is a makeup product designed to cover blemishes on the face and dark circles under the eyes?\t"
+        answer: "CONCEALER"
+      - question: "What English noun, derived from a Latin word meaning “chalk” or “clay”, is a medium usually used to create rudimentary drawings?\t"
+        answer: "CRAYON \t <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Translate this sentence from Latin into English: <latin>antequam quiescere poterimus, multa perīcula nōbīs superanda sunt</latin>.\t"
+      answer: "BEFORE WE (CAN / WILL BE ABLE TO) REST,  \t\tWE MUST OVERCOME MANY DANGERS"
+    boni:
+      - question: "Now translate this sentence into English: <latin>fidē in amīcīs pōnendā omnia facere possumus</latin>.\t"
+        answer: "BY PUTTING FAITH IN (OUR) FRIENDS, WE CAN DO {ANYTHING / EVERYTHING // ALL (THINGS)}"
+      - question: "Now translate this sentence into English: <latin>hūc veniēbāmus ad glōriam cīvitātī nōbīsque obtinendam</latin>.\t"
+        answer: "WE CAME / WERE COMING HERE TO OBTAIN GLORY FOR \t\t(THE / OUR) STATE AND OURSELVES / US"
+  - tossup:
+      question: "On a journey to what town did the officer Martialis murder the emperor Caracalla, where previously Surenas had led the Parthians in the 53 BC battle that killed Crassus? \t\t"
+      answer: "CARRHAE / HARRAN"
+    boni:
+      - question: "Caracalla’s murder had been arranged by what praetorian prefect, the father of Diadumenianus?\t"
+        answer: "(M. OPELLIUS) MACRINUS"
+      - question: "While Crassus was fighting Surenas’ forces, what Parthian king was busy fighting the Armenian king Artavasdes?\t"
+        answer: "ORODES (II)"
+  - tossup:
+      question: "Differentiate in meaning between <latin>oppugnō</latin> and <latin>opīnor</latin>.\t"
+      answer: "<latin>OPPUGNŌ</latin> = TO FIGHT \tAGAINST / ATTACK / ASSAULT / BESIEGE; <latin>OPĪNOR</latin> = TO BE OF OPINION \t/ SUPPOSE / IMAGINE / DEEM / BELIEVE / THINK / JUDGE"
+    boni:
+      - question: "Differentiate in meaning between <latin>iamdūdum</latin> and <latin>dūdum</latin>."
+        answer: "<latin>IAMDŪDUM</latin> = LONG \tSINCE/LONG BEFORE/A LONG TIME AGO AND <latin>DŪDUM</latin> =  A SHORT TIME \tAGO/LITTLE WHILE AGO/NOT LONG SINCE/BUT NOW"
+      - question: "Differentiate in meaning between <latin>mulier</latin> and <latin>mōlior</latin>."
+        answer: "<latin>MULIER</latin> = WOMAN / \tFEMALE / WIFE; <latin>MŌLIOR -</latin> WORK / EXERT / ENDEAVOR / BUILD / PLAN"
+  - tossup:
+      question: "The most famous work of what author describes the development of human progress, investigates the cruelty of some mythological stories, translates its title from a work of Epicurus, and discusses atomic theory in the six-book <title><latin>Dē Rērum Nātūrā</latin></title>?\t"
+      answer: "LUCRETIUS"
+    boni:
+      - question: "According to Jerome, what drove Lucretius to madness?\t"
+        answer: "A LOVE POTION"
+      - question: "Again according to Jerome, which author and orator revised the <title><latin>Dē Rērum Nātūrā</latin></title> before its publication?\t"
+        answer: "CICERO"
+  - tossup:
+      question: "Which of the following cities was furthest west: <latin>Carthāgo, Gādes, Massilia, Ostia</latin>? \t\t"
+      answer: "<latin>GĀDES</latin>"
+    boni:
+      - question: "Which of the following cities was furthest north: <latin>Augusta Trēverōrum, Moguntiācum, Massilia, Verūlamium</latin>?\t"
+        answer: "<latin>VERŪLAMIUM</latin>"
+      - question: "Which of the following cities was furthest east: <latin>Adrianopolis, Arīminum, Italica, Oea</latin>? \t\t"
+        answer: "<latin>ADRIANOPOLIS</latin>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What case can be taken by all of the following Latin words: <latin>interest, tenus, causā, reminiscor</latin>?\t"
+      answer: "GENITIVE"
+    boni:
+      - question: "The preposition <latin>tenus</latin> can take an object in the genitive. In what other case can its object be?\t"
+        answer: "ABLATIVE"
+      - question: "The verb <latin>potior</latin> commonly takes its object in the ablative. In what other case can its object be?\t"
+        answer: "GENITIVE"
+  - tossup:
+      question: "For the verb <latin>fateor</latin>, give the 1st person singular imperfect subjunctive form, which \t\twould mean \"I would be admitting.\"\t"
+      answer: "<latin>FATĒRER</latin>"
+    boni:
+      - question: "For the same verb, give the future active participle, which would mean \"about to admit.\""
+        answer: "<latin>FASSŪRUS / -A / -UM</latin> "
+      - question: "For the same verb, give the archaic form of the present infinitive, which would mean \"to admit.\""
+        answer: "<latin>FATĒRIER</latin>"
+  - tossup:
+      question: "Zabdas’ loss at Emesa allowed for the capture of what queen, who was paraded with Tetricus and housed at Tivoli after Aurelian destroyed her native Palmyra? \t\t"
+      answer: "ZENOBIA"
+    boni:
+      - question: "Zenobia claimed she had revolted against Rome at the advice of what Athenian rhetorician, leading to his execution?\t"
+        answer: "CASSIUS LONGINUS"
+      - question: "What late husband of Zenobia had been entrusted with the protection of the eastern empire by Gallienus and won several victories against the Persians in defense of Rome? \t\t"
+        answer: "(SEPTIMIUS) OD(A)ENATHUS"
+  - tossup:
+      question: "Listen carefully to the following passage about Caesar, which I will read twice, then respond in English to the questions that follow: \t<latin>antequam Caesar Rubicōnem transierat, dum Galliam vincēbat, commentāriōs ad Urbem mīserat, in quibus dē mōtibus exercituum et proeliīs magnīs et mōribus hostium narrābat. commentāriōs legentibus, Caesar dux optimus et sapiens vīsus est.</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "What kind of leader does Caesar seem to be for those reading his commentaries?"
+        answer: "VERY GOOD / THE BEST / WISE"
+      - question: "Identify one of the specific things Caesar told about in his writings?"
+        answer: "MOVEMENT(S) OF ARMIES / TROOPS / SOLDIERS // GREAT / LARGE BATTLES \t\t// CUSTOMS / MORALS / CHARACTER OF (HIS) ENEMIES"
+  - tossup:
+      question: "The failure of what man’s marriages to Meta and Chalciope led him to “unloose his wineskin” with the encouragement of Pittheüs by sleeping with Aethra, the future mother of Theseüs?\t"
+      answer: "AEGEÜS"
+    boni:
+      - question: "As soon as Aegeüs returned home from Troezen, he encountered Medea, who convinced him that Theseüs would likely side with what man’s sons for control of Athens?"
+        answer: "PALLAS’"
+      - question: "What did Aegeüs recognize at a banquet that prompted him to save Theseüs from poisoning just in time?\t"
+        answer: "SWORD / SANDALS"

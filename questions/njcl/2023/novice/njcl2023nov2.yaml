@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Translate the following sentence from English to Latin: “They will conquer the province.”\t"
+      answer: "<latin>PRŌVINCIAM VINCE(N)T / SUPERĀBUNT / SUPERĀBIT</latin>"
+    boni:
+      - question: "Translate the following sentence from English to Latin using <latin>necesse</latin>: “You need to flee,” which, translated literally, would be “It is necessary for you to flee”"
+        answer: "<latin>NECESSE EST TIBI/VŌBĪS (EF)FUGERE</latin>"
+      - question: "Translate the following sentence from English to Latin using <latin>licet</latin>: “The dogs are not allowed to run,” which, translated literally, would be “It is not allowed for the dogs to run.”"
+        answer: "<latin>CANIBUS CURRERE NŌN LICET</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then answer IN ENGLISH the questions that follow:  \t<latin>Canis, ferēns cibum in ōre, vīdit imāginem suam in aquā clārissimā. Canis putābat sē alterum canem vidēre. Cōnstituit rapere cibum alterīus canis et ōs latē aperuit. Cibus quem portābat in aquam cecidit</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "What happened to the food that the dog had been carrying in its mouth?"
+        answer: "IT FELL INTO THE WATER"
+      - question: "This story could be summed up by the Latin statement: <latin>Haec fābula nōs omnēs dē perīculīs avāritiae monet.</latin> According to this, what does this story warn us about?"
+        answer: "(THE DANGERS OF) GREED / AVARICE"
+  - tossup:
+      question: "What man, who had previously served as a quaestor in Sicily, thwarted the Catilinarian \t\tconspiracy through his famous orations as consul in 63 BC? \t"
+      answer: "(M. TULLIUS) CICERO"
+    boni:
+      - question: "What two word Latin phrase was used to indicate that Cicero was the first of his family to  \tserve as consul?\t"
+        answer: "<latin>NOVUS HOMŌ</latin>"
+      - question: "In what town in Latium were both Cicero and Marius born?\t"
+        answer: "ARPINUM"
+  - tossup:
+      question: "Macaria, Tlepolemus, Telephus, and Hyllus were all children of what son of Alcmene and the king of the gods, a hero who performed many labors?\t"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Who accidentally caused Heracles’s death by spreading the poisoned blood of a centaur on one of Heracles’s cloaks?\t"
+        answer: "DEIANEIRA"
+      - question: "Deianeira had spread the poisoned blood on Heracles’ cloak because this centaur had tricked her into thinking his blood would reignite the hero’s love for her. Who was this treacherous centaur?\t"
+        answer: "NESSUS"
+  - tossup:
+      question: "Which of the following, if any, does not belong because of meaning: <latin>homō, persōna, caput, vir</latin>?\t"
+      answer: "<latin>CAPUT</latin>"
+    boni:
+      - question: "Which of the following, if any, does not belong because of meaning: <latin>dīcō, nōlō, vocō, clāmō</latin>?\t"
+        answer: "<latin>NŌLŌ</latin>"
+      - question: "Which of the following, if any, does not belong because of meaning: <latin>magnus, grandis, ingēns, celer</latin>?\t"
+        answer: "CELER  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Including varieties such as Pentelic, Parian, and Numidian yellow that ranged from pure white to bright colors, what building material was imported from around the empire to face the exterior and interior of lavish Roman buildings?\t"
+      answer: "MARBLE / <latin>MARMOR</latin>"
+    boni:
+      - question: "Parian marble, a white variety, was quarried on the island of Paros and transported to Rome by ship. In what sea is Paros located?\t \t\t"
+        answer: "AEGEAN (SEA) (prompt on “Mediterranean”)"
+      - question: "Red porphyry and pink granite were other decorative stones widely used in Rome and imported extensively by the Julio-Claudians. From what recently added province did these stones originate?\t"
+        answer: "EGYPT / <latin>AEGYPTUS</latin>"
+  - tossup:
+      question: "What king, after he founded both the Isthmian games and Corinth, had his wife give him an improper burial so that he might cheat death, causing him to be punished by endlessly rolling a boulder up a hill? \t"
+      answer: "SISYPHUS"
+    boni:
+      - question: "What other cunning man, the grandfather of Odysseus, stole Sisyphus’s cattle but was forced to return them after Sisyphus successfully reclaimed the cattle by pointing out the brands he had placed under their hoofs?\t"
+        answer: "AUTOLYCUS"
+      - question: "Which Olympian, known as a thief in his own right, was the father of Autolycus? \t\t"
+        answer: "HERMES"
+  - tossup:
+      question: "Last year, the movie <title>Jurassic World: Dominion</title> was released. What is the Latin noun at the root of “dominion”? \t"
+      answer: "<latin>DOMUS / DOMINUS</latin>"
+    boni:
+      - question: "The action film <title>Ambulance</title> also came out last year. What is the Latin verb and its meaning at the root of “ambulance”?"
+        answer: "<latin>AMBULŌ, AMBULARE</latin> - TO WALK"
+      - question: "The horror movie <title>The Visitor</title> came out in October of 2022. What is the Latin verb and its meaning at the root of “visitor”?"
+        answer: "<latin>VĪSITŌ, VĪSITARE</latin> - TO VISIT, GO TO SEE // \t<latin>VĪSŌ, VĪSERE</latin>- TO SEE, BEHOLD, VISIT // <latin>VIDEŌ, VIDĒRE</latin> - TO SEE / LOOK AT "
+  - tossup:
+      question: "Who murdered his uncles Toxeus and Plexippus because they did not want Atalanta to receive the trophies of the Calydonian boar hunt, which he had led?\t"
+      answer: "MELEAGER"
+    boni:
+      - question: "Who was Meleager’s mother, who killed him by burning the log which was tied to his life to get revenge for her brothers’ deaths?\t"
+        answer: "ALTH(A)EA"
+      - question: "Who was Meleager’s father, who offended Artemis so much by not offering sacrifices to her that she sent the boar to Calydon?\t"
+        answer: "OENEUS"
+  - tossup:
+      question: "Also known as a <latin>tunica exterior</latin> and viewed as a symbol of their status in the household, what floor-length garment was worn over an inner tunic by Roman women?\t"
+      answer: "<latin>STOLA</latin>"
+    boni:
+      - question: "What material was commonly used in face make-up by elite Roman women to achieve the effect of pale white skin?\t"
+        answer: "(WHITE) LEAD / CHALK / MARL"
+      - question: "In addition to their role as a decoration, what practical purpose did <latin>fibulae</latin> serve?\t \t\t"
+        answer: "PIN / FASTENER / HOLDING CLOTHING IN PLACE / CLOTHING-CEMENT"
+  - tossup:
+      question: "When recognized by the moderator, perform or describe the following commands: <latin>Surge et terram tange</latin>.\t"
+      answer: "STUDENT GETS UP AND TOUCHES THE GROUND."
+    boni:
+      - question: "Now perform or describe this command: <latin>Salūtāte caelum</latin>. \t\t"
+        answer: "TWO OR MORE STUDENTS GREET THE SKY."
+      - question: "Now perform or describe these commands: <latin>Dux, surge et ambulā ad alteram factiōnem certāminis. Tum, dīc eīs, “Bonam fortūnam!”</latin>  \t"
+        answer: "THE CAPTAIN STANDS, WALKS TO ANOTHER TEAM, AND SAYS “GOOD LUCK!”"
+  - tossup:
+      question: "What ancient people were the first to capture an emperor of Rome when Valerian was defeated in 260 AD by the forces of Shapur I, whose empire encompassed modern-day Iraq and Iran?\t"
+      answer: "PERSIAN(S) / SASSANID(S) / SASANIAN(S) [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "Pictured here is a coin of a recently confirmed emperor of Rome in the chaotic tumult of the late third century. Emperor Sponsian was a self-proclaimed emperor around Dacia in the 260s. What is the Latin term for the headpiece that adorns his head on the obverse face on the left?"
+        answer: "<latin>CORŌNA (RADIĀTA) / DIADĒMA</latin> "
+      - question: "What is the Latin term for the denomination of currency seen here?"
+        answer: "<latin>AUREUS</latin>"
+  - tossup:
+      question: "Translate <emphasis>only</emphasis> the form of the pronoun <latin>ego</latin> in the following Latin sentence: <latin>praemia bona mihi dabuntur.</latin>\t"
+      answer: "TO / FOR ME"
+    boni:
+      - question: "In the sentence, “My books have gone missing,” how would you use a possessive adjective to say in Latin, “my”?\t"
+        answer: "<latin>MEĪ / MEA</latin>"
+      - question: "In the following Latin sentence, give the form of the pronoun <latin>nōs</latin> to make the following sentence mean “Surely our parents don’t trust us”: <latin>num parentēs ____ crēdunt?</latin>\t"
+        answer: "<latin>NŌBĪS</latin>"
+  - tossup:
+      question: "What woman, after ensuring her infant brother’s escape from Mycenae and from the murderous plot of their mother Clytemnestra, helped him avenge the death of their father Agamemnon?\t"
+      answer: "ELECTRA"
+    boni:
+      - question: "Clytemnestra plotted to kill Agamemnon because he had tried to kill what daughter of theirs to gain favorable winds for the journey to Troy?\t"
+        answer: "IPHIGEN(E)IA / IPHIANASSA"
+      - question: "Who was Clytemnestra’s lover and Agamemnon’s cousin who helped the Mycenean queen take revenge on her husband?\t"
+        answer: "AEGISTHUS"
+  - tossup:
+      question: "For the noun <latin>flūmen</latin>, provide the accusative singular form so that it fits the sentence “Let’s go to the river.”\t"
+      answer: "<latin>FLŪMEN</latin>"
+    boni:
+      - question: "For the noun <latin>flūmen</latin>, provide the accusative plural form so that it fits the sentence “Bears walk across rivers.”\t"
+        answer: "<latin>FLŪMINA</latin>"
+      - question: "For the noun <latin>flūmen</latin>, provide the genitive singular form so that it fits the sentence “the size of the river is amazing.”\t"
+        answer: "<latin>FLŪMINIS  SCORE CHECK</latin>"
+  - tossup:
+      question: "What English word, which comes from the Latin word <latin>tangō, tangere</latin>, meaning “to touch,” is used to describe something that is “able to be touched”? \t \t\t"
+      answer: "TANGIBLE / TACTILE"
+    boni:
+      - question: "Coming from the Latin word <latin>lavō, lavāre</latin> meaning “to wash,” what English noun is another word for a bathroom?\t"
+        answer: "LAV(ATORY)"
+      - question: "What English word, which comes from a Latin noun meaning “spouse,” is an adjective denoting marriage or the relationship of a married couple?\t"
+        answer: "MARITAL / CONJUGAL"
+  - tossup:
+      question: "A sea creature called Cetus was sent by Poseidon to attack what Ethiopian princess, the daughter of King Cepheus and future wife of Perseus?\t"
+      answer: "ANDROMEDA"
+    boni:
+      - question: "What boastful mother of Andromeda would later be turned into a constellation?\t\t"
+        answer: "CASSIOP(E)IA"
+      - question: "Before the sea monster was sent after her, Andromeda was betrothed to what man, Cepheus’s brother and Andromeda’s uncle?\t"
+        answer: "PHINEUS"
+  - tossup:
+      question: "Give the English translation for the motto of the state of New York, which, in Latin is “<latin>Excelsior</latin>.”\t"
+      answer: "(EVER / ALWAYS) HIGHER / UPWARD"
+    boni:
+      - question: "Give the English translation for the motto of the state of North Carolina, which, in Latin is “<latin>Esse quam vidērī</latin>.”\t"
+        answer: "TO BE RATHER THAN TO SEEM"
+      - question: "Now give the Latin for the motto of the state of New Mexico, the English translation of which can be given as “it grows by going.”\t"
+        answer: "<latin>CRESCIT EUNDŌ</latin>"
+  - tossup:
+      question: "In order to avoid a full-on war with neighboring Alba Longa, what man sent the three Horatii brothers to represent Rome while serving as its third king?\t"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "What triplets represented Alba Longa in this engagement?\t"
+        answer: "CURIATII / CURIATIANS"
+      - question: "Following the victory of the Horatii, what treacherous Alban dictator provoked additional \tfighting between Rome and Fidenae, causing Tullus Hostilius to have him torn asunder?\t\t\t"
+        answer: "METTIUS FUFETIUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What is the form of the verb <latin>dīcō, dīcere</latin> that means “they say?”\t"
+      answer: "<latin>DĪCIT / DĪCUNT</latin>"
+    boni:
+      - question: "What is the form of the verb <latin>dīcō, dīcere</latin> that means “I said?”\t"
+        answer: "<latin>DĪXĪ / DĪCĒBAM</latin>"
+      - question: "What is the form of the verb <latin>dīcō, dīcere</latin> that means “you had said?”\t\t"
+        answer: "<latin>DĪXERĀS / DĪXERĀTIS</latin>"

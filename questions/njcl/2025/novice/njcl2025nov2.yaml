@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "On what common object would the following three phrases be found: <latin>annuit coeptīs</latin>, <latin>novus ordō saeclōrum</latin>, and <latin>ē plūribus ūnum</latin>?\t \t\t"
+      answer: "A DOLLAR BILL / THE GREAT SEAL OF THE UNITED STATES (OF AMERICA)"
+    boni:
+      - question: "What is the English meaning of <latin>ē plūribus ūnum</latin>?\t"
+        answer: "OUT OF / FROM MANY ONE"
+      - question: "What is the English meaning of <latin>annuit coeptīs</latin>? \t\t"
+        answer: "HE HAS FAVORED / NODDED AT OUR UNDERTAKINGS"
+  - tossup:
+      question: "What English word, derived from the Latin word for “lion”, refers to a lizard-like reptile notable for its ability to change color?\t"
+      answer: "CHAMELEON"
+    boni:
+      - question: "What English word, derived from the Latin words for “pig” and “fish”, refers to another animal, a type of blunt-headed, thick-bodied, small-toothed whale that looks similar to a dolphin?\t"
+        answer: "PORPOISE"
+      - question: "What English word, derived from the Latin word for “bird”, refers to another animal, a very large flightless bird with a long neck and legs that inhabits parts of Africa? \t\t"
+        answer: "OSTRICH"
+  - tossup:
+      question: "Made of gold, silver, lead, leather, or cloth depending on what the family could afford, what amulets were worn by Roman boys for good luck?\t"
+      answer: "<latin>BULLA(E)</latin>"
+    boni:
+      - question: "To what family gods did a Roman boy dedicate his <latin>bulla</latin> before he assumed the <latin>toga virīlis</latin>?\t"
+        answer: "<latin>LARĒS</latin>"
+      - question: "Roman girls did not traditionally wear a <latin>bulla</latin> but an amulet called a <latin>lūnula</latin>.  When did a Roman girl put aside this good luck charm?\t \t\t"
+        answer: "THE EVE OF HER MARRIAGE / WHEN SHE GOT MARRIED"
+  - tossup:
+      question: "Using the noun <latin>poēta</latin>, translate the form for “poets” in the sentence “Our teacher read to us the most famous works of the Roman poets.”\t"
+      answer: "<latin>POĒTĀRUM</latin>"
+    boni:
+      - question: "Give the form of the adjective <latin>Rōmānus</latin> that would match “poets” in that sentence.\t\t"
+        answer: "<latin>RŌMĀNŌRUM</latin>"
+      - question: "Now give the Latin for the phrase “to us” in that sentence.\t"
+        answer: "<latin>NŌBĪS</latin>"
+  - tossup:
+      question: "Aeneas had a number of women in his life who appear in the <title>Aeneid</title>. Who was his first wife, the mother of Ascanius, who did not survive the fall of Troy?\t"
+      answer: "CREUSA"
+    boni:
+      - question: "Aeneas’ second romantic relationship came with a woman who had fled her own homeland and built a new city for her people. Who was this founder and queen of Carthage?\t"
+        answer: "DIDO / ELISSA"
+      - question: "Once he arrived in Italy, Aeneas was promised the hand of what daughter of Latinus, leading to Aeneas and the Trojans going to war with the local Italian tribes?\t"
+        answer: "LAVINIA  SCORE CHECK"
+  - tossup:
+      question: "What emperor faced attacks from the Sarmatians, Marcomanni, and Quadi, but is perhaps best known for his Stoic work titled <title>Meditations</title> which he began in 174 AD?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "In what year did Marcus Aurelius die of the plague, ending his reign and the period of the Five Good Emperors?"
+        answer: "180 AD"
+      - question: "What man served as co-Augustus with Marcus Aurelius until 169 AD?"
+        answer: "LUCIUS VERUS"
+  - tossup:
+      question: "Which of the following words, if any, does NOT belong due to meaning: <latin>carmen, custos, iūdex, magus,</latin> and <latin>mercātor</latin>?\t"
+      answer: "<latin>CARMEN</latin>"
+    boni:
+      - question: "Which of the words from the tossup means someone who knows how to practice magic?\t \t\t"
+        answer: "<latin>MAGUS</latin>"
+      - question: "Which of the following words does NOT belong due to meaning: <latin>atrium, cloāca, cubiculum,</latin> and <latin>culīna</latin>?\t"
+        answer: "<latin>CLOĀCA</latin>"
+  - tossup:
+      question: "Who was the father of Orestes and Iphigenia, husband of Clytemnestra, and leader of the Greek forces in the Trojan War?\t"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Of what Peloponnesian city was Agamemnon the king?\t"
+        answer: "MYCENAE / ARGOS"
+      - question: "What brother of Agamemnon was king of Sparta and the first husband of Helen?\t\t"
+        answer: "MENELAÜS"
+  - tossup:
+      question: "Provide the superlative form for <latin>bonus</latin>, meaning “best.”\t"
+      answer: "<latin>OPTIMUS</latin>"
+    boni:
+      - question: "Change <latin>optimus</latin> to be comparative and neuter, so that it means “a better thing.”\t"
+        answer: "<latin>MELIUS</latin>"
+      - question: "Change <latin>melius</latin> to be feminine, dative, and plural, so that it means “for the better women.”\t"
+        answer: "<latin>MELIŌRIBUS</latin>"
+  - tossup:
+      question: "In order to avoid a full-on war with neighboring Alba Longa, what king of Rome sent the three Horatii brothers to represent the city?\t"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "What triplets represented Alba Longa in this engagement?\t"
+        answer: "CURIATII / CURIATIANS"
+      - question: "What treacherous Alban ruler was said to have conspired with the town of Veii against \tthe Romans, for which he was gruesomely executed after Rome won the ensuing battle? \t\t"
+        answer: "METT(I)US FUFETIUS  SCORE CHECK"
+  - tossup:
+      question: "Using the verb <latin>superō</latin>, say in Latin “she will overcome,” which is the third person \t\tsingular future active indicative form.\t"
+      answer: "<latin>SUPERĀBIT</latin>"
+    boni:
+      - question: "Now make <latin>superābit</latin> perfect tense, meaning “he has overcome.”\t"
+        answer: "<latin>SUPERĀVIT</latin>"
+      - question: "Change <latin>superāvit</latin> to the passive voice with a neuter subject, meaning “it has been overcome.”\t"
+        answer: "<latin>SUPERĀTUM (EST)</latin>"
+  - tossup:
+      question: "Translate only the prepositional phrase in this sentence: <latin>pīrātae ad magna saxa nāvigāvērunt</latin>.\t"
+      answer: "TO / TOWARD THE BIG / GREAT / LARGE ROCKS"
+    boni:
+      - question: "Translate only the ablative phrase in this sentence: <latin>murmillō mūrem gladiō suō dēpulsit</latin>.\t"
+        answer: "WITH / BY (MEANS OF) HIS (OWN) SWORD"
+      - question: "Translate only the vocative phrase in this sentence: <latin>cāre Lūcī, mihi maximē placet tē iterum vidēre!</latin>\t"
+        answer: "(MY) DEAR / SWEET LUCIUS // (HEY) CARUS LUCIUS"
+  - tossup:
+      question: "What former client of the Metelli defied them during his tribuneship in 119 BC and is famous for his victories against the Cimbri and Teutones and for holding 7 consulships?\t \t\t"
+      answer: "(C.) MARIUS"
+    boni:
+      - question: "What was the Latin term for men like Marius who rose to the consulship despite having no consular ancestors?\t"
+        answer: "<latin>NOVUS HOMŌ / NOVĪ HOMINĒS</latin>"
+      - question: "To bolster his image, Marius married into what Patrician family? \t"
+        answer: "<latin>GĒNS IŪLIA / IŪLIUS / IŪLIĪ /</latin> JULIAN FAMILY"
+  - tossup:
+      question: "Perhaps surprisingly, more of Heracles’ labors involve capturing rather than killing monsters! The most dramatic of these was possibly his capture of what three-headed guardian dog of the Underworld?\t"
+      answer: "CERBERUS"
+    boni:
+      - question: "Another labor involved capturing what creature, the father of the Minotaur, who was menacing the lands around Knossos?\t"
+        answer: "CRETAN BULL"
+      - question: "In another labor, what creature did Heracles chase for a year before catching it on Mt. Artemision and angering Artemis because he broke one of its golden horns?\t\t"
+        answer: "CERYNI(TI)AN HIND / STAG / DEER"
+  - tossup:
+      question: "Which of the following, if any, is NOT derived from the same Latin root as the others: Mediterranean, multimedia, mulch, medieval?\t"
+      answer: "MULCH"
+    boni:
+      - question: "From what Latin word with what meaning are Mediterranean, multimedia and medieval derived?"
+        answer: "<latin>MEDIUS</latin> - MIDDLE"
+      - question: "What other English word, also from <latin>medius</latin>, means “to reconcile differences”?"
+        answer: "MEDIATE"
+  - tossup:
+      question: "What two instructions is your teacher giving you if she says: <latin>aperīte librōs et legite pāginam octāvam, omnēs</latin>? \t\t"
+      answer: "(EVERYONE) OPEN (YOUR) BOOKS AND READ PAGE EIGHT [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "Unfortunately, the class is not as cooperative as the teacher would like. <latin>Lūcius multa rogat et respondet sed manum nōn tollit</latin>. Give the letter of the “Classroom Expectation” that he is breaking."
+        answer: "G"
+      - question: "Give the letter of the other “Classroom Expectation” that the students are breaking now:  <latin>Iūlia et Marcia magnīs vōcibus clāmant</latin>."
+        answer: "C / E"
+  - tossup:
+      question: "Which daughter of Cadmus is perhaps most well-known as the parent of Dionysus with Zeus?\t"
+      answer: "SEMELE"
+    boni:
+      - question: "Semele’s mother, the wife of Cadmus, was herself the daughter of Ares and Aphrodite. Who was she?\t"
+        answer: "HARMONIA"
+      - question: "Not all the royal family were fans of Dionysus. What king of Thebes banned the worship of his cousin Dionysus and was later torn limb from limb by his mother and aunts? \t\t"
+        answer: "PENTHEUS"
+  - tossup:
+      question: "What city of Apulia, strategically located on the “heel” of Italy, was the southern endpoint of the <latin>Via Appia</latin> and the major port city to the east on the Adriatic Sea?\t\t"
+      answer: "BRUNDISIUM / BRINDISI"
+    boni:
+      - question: "What city, about 120 miles south of Rome and known for its gladiatorial schools, was the original endpoint of the <latin>Via Appia</latin> in 312 BC?\t"
+        answer: "(SANTA MARIA) CAPUA (VETERE)"
+      - question: "On its way from Capua to Brundisium, the <latin>Via Appia</latin> passes through what other port city of Apulia, located on the western side of the “heel,” whose people turned to King Pyrrhus of Epirus for help against the Romans?\t"
+        answer: "TARENTUM / TARANTO"
+  - tossup:
+      question: "Poetically known as having “the face that launched a thousand ships,” whose abduction was the purported cause of the Trojan War?\t"
+      answer: "HELEN (OF TROY / SPARTA)"
+    boni:
+      - question: "Who was the wife of King Priam and the mother of many Trojan royals including Cassandra, Paris, and Hector?\t"
+        answer: "HECUBA / HECABE"
+      - question: "Who was the wife of Hector and the mother of Astyanax?\t"
+        answer: "ANDROMACHE  SCORE CHECK"
+  - tossup:
+      question: "Here’s another incident in the life of <latin>Flāvia</latin>! Listen carefully to the following passage, which I will read twice, then respond in English to the questions that follow: \t<latin>Flāvia cum amīcā ambulat et inquit, “āh, necesse est nōbīs ad lātrīnam īre. sed haec latrīna semper est occupāta, quod hominēs diū manent.” tum amīca Flāviam ad aliam latrīnam dūcit. puellae statim intrant, nam nullī hominēs adsunt</latin>"
+      answer: "REREAD"
+    boni:
+      - question: "Why is the first bathroom always occupied?"
+        answer: "PEOPLE STAY FOR A LONG TIME"
+      - question: "How does Flavia find the less busy bathroom?"
+        answer: "THE FRIEND LEADS FLAVIA THERE / THE FRIEND KNOWS ABOUT IT"

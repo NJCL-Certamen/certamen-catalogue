@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Rōmānī mūrōs celeriter aedificāvērunt.</latin>\t\t"
+      answer: "THE ROMANS (HAVE) BUILT / DID BUILD (THEIR) WALLS QUICKLY"
+    boni:
+      - question: "Translate the following sentence from Latin to English:  <latin>Līvia natāre in marī amat.</latin>\t\t"
+        answer: "LIVIA LOVES SWIMMING / TO SWIM IN THE SEA"
+      - question: "Translate the following sentence from Latin to English: <latin>Flūmina altissima transīrī nōn possunt.</latin>\t"
+        answer: "THE VERY DEEP / DEEPEST RIVERS \tARE NOT ABLE TO / CANNOT BE CROSSED"
+  - tossup:
+      question: "Ohio has no Latin motto, but what nearby state has the motto “<latin>sī quaeris amoenam paeninsūlam circumspice</latin>”?\t"
+      answer: "MICHIGAN"
+    boni:
+      - question: "What US state, whose flagship school was vanquished by The Ohio State in the College Football Playoff, has the motto “<latin>ālīs volat propriīs</latin>”?\t"
+        answer: "OREGON"
+      - question: "The motto of Miami University, which you might have seen around, is <latin>prōdesse quam conspicī</latin>. What state has a motto with a similar structure that means “to be rather than to seem”?\t"
+        answer: "NORTH CAROLINA"
+  - tossup:
+      question: "Who was the Greek goddess of the hunt and the wilderness and the twin sister of Apollo?\t \t\t"
+      answer: "ARTEMIS"
+    boni:
+      - question: "What goddess, herself the daughter of the titans Coeus and Phoebe, was the mother of Artemis and Apollo?\t"
+        answer: "LETO"
+      - question: "What two giants did Artemis trick into killing each other as they chased her while she was disguised as a deer?\t"
+        answer: "OTUS AND EPHIALTES / THE ALOADAE"
+  - tossup:
+      question: "<latin>Quāle aedificium est? In hōc aedificiō, sunt mētae, spīna, et carcerēs. Aurīgae equōs agunt et spectātōrēs clāmant.</latin> \t"
+      answer: "CIRCUS"
+    boni:
+      - question: "<latin>Quāle aedificium est? In hōc aedificiō sunt statuae deōrum. ibi hominēs deōs colunt, et pontificēs sacrificia igne faciunt.</latin> \t"
+        answer: "TEMPLUM / DĒLŪBRUM / AEDĒS / FĀNUM"
+      - question: "<latin>Quāle aedificium est? In hōc aedificiō, hominēs sē exercent in palaestrā, in aquā \tsedent, et strigilēs habent.</latin> \t"
+        answer: "BAL(I)NEA(E) / THERMAE"
+  - tossup:
+      question: "Provide the form of <latin>hic, haec, hoc</latin> which agrees with the noun <latin>rēbus</latin>.\t"
+      answer: "<latin>HĪS</latin>"
+    boni:
+      - question: "Now make <latin>hīs rēbus</latin> genitive, meaning “of these things”.\t"
+        answer: "<latin>HĀRUM RĒRUM</latin>"
+      - question: "Now make <latin>hārum rērum</latin> singular, meaning “of this thing”.\t"
+        answer: "<latin>HUIUS REĪ</latin>"
+  - tossup:
+      question: "Who led the men who killed the six-armed Gegeneës, stayed for a time on the island of \t\tLemnos, and rescued Phineus from the Harpies while journeying to seize the Golden \t\tFleece?\t"
+      answer: "JASON"
+    boni:
+      - question: "Who ruled the island of Lemnos when the Argonauts visited and later gave birth to two of Jason’s children?\t"
+        answer: "HYPSIPYLE"
+      - question: "Which twin sons of Boreas drove away the Harpies from Phineus’ table?"
+        answer: "ZETES"
+  - tossup:
+      question: "Which of these is a synonym of <latin>multus</latin>: <latin>nullus</latin>, <latin>plūrēs</latin>, <latin>paucī</latin>, <latin>rārus</latin>?\t"
+      answer: "<latin>PLŪRĒS</latin>"
+    boni:
+      - question: "What Latin adjective means “others,” typically appearing in the plural?\t\t"
+        answer: "<latin>CĒTERĪ / ALIĪ</latin>"
+      - question: "Give another Latin adjective besides <latin>cēterus</latin> and <latin>alius</latin> that can mean “the remaining.”\t\t"
+        answer: "<latin>RELIQUUS / RESIDUUS / SUPERSTES</latin>"
+  - tossup:
+      question: "Both Rhodes and Capri served as places of retreat for what man, whom Augustus begrudgingly named his successor?\t"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What nephew of his was Tiberius forced to adopt as his heir, though the young man did not live to assume power?\t"
+        answer: "GERMANICUS"
+      - question: "What grandson of his did Tiberius make co-heir with Caligula, only for him to meet an untimely end?\t"
+        answer: "TIBERIUS GEMELLUS"
+  - tossup:
+      question: "Based on its derivation, which of the following musical terms tells you to play loudly: alto, forte, lento, solo, tempo?\t"
+      answer: "FORTE"
+    boni:
+      - question: "Which of these musical terms tells you that you have a voice higher than a tenor but deeper than a soprano: alto, diminuendo, lento, solo, or tempo?\t"
+        answer: "ALTO"
+      - question: "Which of these musical terms tells you to play or sing out, as you are the only one performing a particular part of a piece: diminuendo, grave [GRAW-vay], lento, solo, or tempo?\t"
+        answer: "SOLO"
+  - tossup:
+      question: "What hero from the Trojan War, whose father was an Argonaut that also participated in the Calydonian Boar Hunt named Laertes, took twenty years to return from Troy? \t\t"
+      answer: "ODYSSEUS / ULYSSES / ULIXES"
+    boni:
+      - question: "Who was Odysseus’ mother, the daughter of the thief Autolycus?\t"
+        answer: "ANTICLEIA"
+      - question: "Who was Odysseus’ nurse, who recognized him by a scar on his thigh when he returned to Ithaca in disguise?\t"
+        answer: "EURYCLEIA  SCORE CHECK"
+  - tossup:
+      question: "Which verb does not belong because of tense: <latin>aberat, posuerat, scripserat, temptāverat?</latin>\t"
+      answer: "ABERAT"
+    boni:
+      - question: "Which verb does not belong because of tense: <latin>capit, dūcit, pōnit, scripsit?</latin>\t\t"
+        answer: "SCRIPSIT"
+      - question: "Which verb does not belong because of tense: <latin>docēmus, legēmus, respondēmus, tenēmus?</latin>\t"
+        answer: "LEGĒMUS"
+  - tossup:
+      question: "What mortal cheated death by chaining Thanatos up but was eventually punished in the Underworld by being forced to roll a boulder up a hill but never reaching the top?\t\t"
+      answer: "SISYPHUS"
+    boni:
+      - question: "Who else was punished either for stealing ambrosia or for trying to trick the gods into eating his son by being forced to stand in a pool of water he could never quite drink under a tree of fruit he could never quite reach to eat?\t"
+        answer: "TANTALUS"
+      - question: "And who was punished for burning his father-in-law and assaulting Hera on Mt. Olympus by being tied to an eternally spinning, burning, flying wheel?\t"
+        answer: "IXION"
+  - tossup:
+      question: "Occupy, emancipate, receive, accept, and capable are all derived from what Latin verb with what meaning?\t"
+      answer: "<latin>CAPIŌ</latin> - TO TAKE"
+    boni:
+      - question: "Contagion, entire, and integer are all derived from what Latin verb with what meaning?"
+        answer: "<latin>TANGŌ</latin> - TO TOUCH"
+      - question: "Subsidy, siege, and obsess are all derived from what Latin verb with what meaning?"
+        answer: "<latin>SEDEŌ</latin> - TO SIT "
+  - tossup:
+      question: "When recognized, perform or describe the following command: <latin>vocā ad spectātōrēs “tempus cēnae!”</latin>\t"
+      answer: "PLAYER SHOULD CALL TO SPECTATORS, “DINNERTIME!”"
+    boni:
+      - question: "Perform or describe the following command: <latin>rogāte Anglicē moderātōrem “quid vīs consūmere?”</latin>\t"
+        answer: "MULTIPLE PLAYERS SHOULD ASK THE MODERATOR  \t\t“WHAT DO YOU WANT TO EAT?”"
+      - question: "Act out or describe the following sentence: <latin>vōs in forō estis et cibum emitis.</latin>\t\t"
+        answer: "MULTIPLE PLAYERS SHOULD PRETEND THEY ARE BUYING FOOD IN A \tMARKET"
+  - tossup:
+      question: "What type of toga, first assumed on the <latin>Līberālia</latin> around a male’s sixteenth birthday, was worn by senators without a curule magistracy and most adult male Roman citizens?"
+      answer: "<latin>TOGA VIRĪLIS / TOGA PŪRA</latin> [PASS OUT <emphasis>VISUAL</emphasis>] You now have 5 seconds to inspect the visual."
+    boni:
+      - question: "Here you can see a variety of styles of Roman togas. On the far left, labeled A, is a <latin>toga virīlis</latin>. Identify by letter and Latin name the toga type that would have been worn by Roman boys before they were old enough to don the <latin>toga virīlis</latin> and by senators with a curule magistracy."
+        answer: "B: <latin>TOGA PRAETEXTA</latin>"
+      - question: "Identify by letter and Latin name the toga type that was worn by Roman citizens while mourning or in times of crisis."
+        answer: "E: <latin>TOGA PULLA / TOGA SORDIDA</latin>"
+  - tossup:
+      question: "Which noun does not belong due to case?  <latin>amīcum, equum, rēgum, saxum</latin>"
+      answer: "RĒGUM "
+    boni:
+      - question: "Which noun does not belong due to case?  <latin>annīs, causīs, fēminīs, uxōris</latin>"
+        answer: "UXŌRIS "
+      - question: "Which noun does not belong due to case?  <latin>ducī, puerī, servī, templī</latin>"
+        answer: "DUCĪ"
+  - tossup:
+      question: "Here’s another incident in the life of <latin>Flāvia</latin>. Listen carefully to the following passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>in thermīs māter īrāta clāmābat, “Flāvia! Flāvia! ubi es? discēde ē thermīs et curre domum!” aqua calida tamen Flāviam dēlectābat, et puella sub aquā sedēbat. māter eam per thermās quaerēbat sed nōn conspēxit.</latin>   "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>quālis aqua puellae placēbat?</latin>"
+        answer: "CALIDA "
+      - question: "<latin>quid fēcit māter dum puella sē in aquā cēlat?</latin>"
+        answer: "(PER THERMĀS FLĀVIAM / PUELLAM / FĪLIAM / EAM) QUAERĒBAT // \t\tFLĀVIAM / PUELLAM / FĪLIAM / EAM NŌN CONSPĒXIT "
+  - tossup:
+      question: "All Gaul is divided into three parts… unless you also count the two Roman provinces that pre-dated Caesar’s Gallic Wars. What mountain range separated these two provinces, as indicated by their Latin names, <latin>Gallia Cisalpīna</latin> and <latin>Gallia Transalpīna</latin>?\t \t\t"
+      answer: "ALPS / <latin>ALPĒS</latin>"
+    boni:
+      - question: "<latin>Gallia Cisalpīna</latin> can be further divided into <latin>Gallia Cispadāna</latin> and <latin>Gallia Transpadāna</latin>. What is the modern name of the river to which these names refer?\t"
+        answer: "PO"
+      - question: "What did the Romans call Paris, the modern capital of France?\t"
+        answer: "LUTETIA"
+  - tossup:
+      question: "What daughter of a famous dyer was such a skilled weaver that she boasted her skill was greater than even Athena’s?\t"
+      answer: "ARACHNE"
+    boni:
+      - question: "Athena wouldn’t take that lightly, of course, and so when Arachne challenged her to a weaving contest, Athena agreed. Athena weaved a scene of four separate contests between gods and mortals; what was the theme of Arachne’s weaving?\t\t"
+        answer: "GODS BEHAVING BADLY (accept equivalents, \t\tespecially male gods committing sexual assault)"
+      - question: "Predictably, Athena did not react well to this and ripped Arachne’s work to shreds. But when Arachne hanged herself in shame, how did Athena take pity on her? \t\t"
+        answer: "TURNED HER INTO A SPIDER  SCORE CHECK"
+  - tossup:
+      question: "What son of Mummia Achaica held commands in Aquitania, Upper Germany, and Spain, was invited by Vindex to replace the sitting emperor, and eventually did so with the help of the praetorian prefect Nymphidius Sabinus, who turned the praetorians against Nero? \t\t"
+      answer: "(SER. SULPICIUS) GALBA"
+    boni:
+      - question: "What commander on the Rhine on January 1st 69 AD became the first to declare himself in revolt against Galba?\t"
+        answer: "(A.) VITELLIUS"
+      - question: "Who overthrew Galba with the help of the praetorians before Vitellius could reach Rome?\t"
+        answer: "(M. SALVIUS) OTHO"

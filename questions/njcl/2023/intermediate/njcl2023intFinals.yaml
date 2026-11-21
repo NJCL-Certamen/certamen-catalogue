@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "When recognized by the spotter, perform or describe the following commands: <latin>Surge, et simulā āleam iacere et flūmen trānsīre.</latin> \t\t"
+      answer: "STUDENT GETS UP, THEN PRETENDS TO ROLL A DIE (OR MAKE \t\tAN IRREVERSIBLE DECISION OR INVADE ITALY) AND CROSS A RIVER"
+    boni:
+      - question: "<latin>Surgite et, mē spectantēs, dīcite Anglicē, “Nōs moritūrī tē salūtāmus.”</latin>  \t"
+        answer: "AT LEAST TWO STUDENTS STAND, LOOK AT THE READER,  AND SAY “WE WHO ARE ABOUT TO DIE SALUTE YOU.”"
+      - question: "<latin>Surgite, duo ex vōbīs, et clāmantēs, pugnāte sīcut rētiārius et andabata</latin>"
+        answer: "TWO STUDENTS STAND, SHOUT, AND PRETEND TO  FIGHT LIKE A RETIARIUS (WITH NET AND TRIDENT) AND AN  ANDABATA (AS IF EYES ARE COVERED)"
+  - tossup:
+      question: "Athena, disguised as Antenor’s son Laodocus, encourages what son of Lycaon to fire an arrow at Menelaüs, thus breaking the fragile truce between the Greeks and Trojans? \t\t"
+      answer: "PANDARUS"
+    boni:
+      - question: "What son of Asclepius tends to Menelaüs’ wound? \t\t"
+        answer: "MACHAON"
+      - question: "Pandarus’ father, Lycaon, ordered him to go to Troy as a charioteer, not a bowman. When speaking to Aeneas in the <title>Iliad</title>, what reason does Pandarus cite for not bringing horses? \t\t"
+        answer: "FEARED HIS HORSES WOULD NOT HAVE ENOUGH FOOD / FODDER (TO EAT)"
+  - tossup:
+      question: "Which of the following, if any, is an antonym for <latin>commoror</latin>: <latin>impediō, ēvadō, hiemō, recordor</latin>?\t"
+      answer: "ĒVADŌ"
+    boni:
+      - question: "Which of the following, if any, is an antonym for <latin>adipiscor</latin>: <latin>ūtor, possum, relinquō, rīdeō</latin>?\t"
+        answer: "<latin>RELINQUŌ</latin>"
+      - question: "Which of the following, if any, is an antonym for <latin>lateō: moneō, sustineō, valeō, pateō</latin>?\t\t"
+        answer: "PATEŌ"
+  - tossup:
+      question: "Provide the form of the Latin verb <latin>patior</latin> that is necessary to translate the following sentence into Latin: Lucia, you can endure any hardship!\t"
+      answer: "<latin>PATĪ</latin>"
+    boni:
+      - question: "Provide the form of the Latin verb <latin>audeō</latin> necessary to translate the following sentence into Latin: Why did I ever dare to defy the law?\t"
+        answer: "<latin>AUSUS/A/UM SUM // AUDĒBAM</latin>"
+      - question: "Provide the form of the Latin verb <latin>fīdō</latin> necessary to translate the following sentence into Latin: We suddenly feared that Lucius had never trusted us at all.\t"
+        answer: "<latin>FĪSUS ESSET</latin>"
+  - tossup:
+      question: "The Romans stationed a legion at Poetovio on the Drava after Tiberius and Germanicus \tdefeated a revolt in Pannonia and Dalmatia that was led by two leaders with what name?\t\t"
+      answer: "BATO(S) / <latin>BATŌ(NĒS)</latin>"
+    boni:
+      - question: "What group of people boasted 75,000 warriors under the rule of Maroboduus, who helped pave the way for the Batones?\t"
+        answer: "MARCOMANNI (prompt on “Suebi”)"
+      - question: "What widow of Asander and later Polemon ruled southern Russia near the former Pontic kingdom on good terms with Augustus until her death in 7 AD?\t"
+        answer: "DYNAMIS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What was the goal of the labor of Heracles described here: on the way there, Heracles stopped in Mysia and aided the Mariandyni. On the way back, he stopped at Troy. In between those stops, he retrieved an item from Themiscyra. \t\t"
+      answer: "(TO GET THE) GIRDLE OF HIPPOLYTA"
+    boni:
+      - question: "What daughter of Eurystheus requested the girdle, inspiring Eurystheus to assign the labor? \t"
+        answer: "ADMETE"
+      - question: "What brother of the king of the Bebryces did Heracles kill while fighting on behalf of the Mariandyni?\t"
+        answer: "MYGDON"
+  - tossup:
+      question: "Translate the following Latin sentence into English: <latin>illī montēs tantī sunt ut avēs sōlae ibi habitent.</latin>\t"
+      answer: "THOSE MOUNTAINS ARE SO GREAT / BIG / LARGE  \t\tTHAT ONLY BIRDS LIVE THERE / IN THAT PLACE"
+    boni:
+      - question: "Translate the following Latin sentence into English: <latin>intrā montēs, hominibus tot equī sunt ut nūllās herbās vidēre possimus.</latin>\t"
+        answer: "WITHIN THE MOUNTAINS,  \t\tTHE MEN HAVE SO MANY HORSES / \t\tTHERE ARE SO MANY HORSES FOR THE MEN  \t\tTHAT WE ARE NOT ABLE TO SEE ANY GRASS(ES) / \t\tTHAT WE ARE ABLE TO SEE NO GRASS(ES)"
+      - question: "Translate the following Latin sentence into English: <latin>in montēs iter faciās ut variōs lapidēs videās.</latin>\t"
+        answer: "YOU SHOULD / MIGHT / OUGHT (TO) TRAVEL INTO  \t\tTHE MOUNTAINS (IN ORDER) TO SEE THE \tVARIOUS / DIFFERENT STONES"
+  - tossup:
+      question: "What general marched from the Adriatic through the land of the Vestini and Paeligni, capturing Corfinium, and later completed the siege of Asculum during the Italian War?\t\t"
+      answer: "POMPEIUS / POMPEY STRABO"
+    boni:
+      - question: "What Italian leader’s death at the hands of Quintus Metellus Pius in 88 BC effectively ended the Italian War?\t"
+        answer: "(Q.) POPPAEDIUS / SILO"
+      - question: "What temporary capital of the Italian rebels had Papius Mutilus captured in Campania,  \tforcing the rebels to relocate to Aesernia?\t"
+        answer: "BOVIANUM (VETUS)"
+  - tossup:
+      question: "The death of what man, the son of Hipponoüs and Astynome, caused his wife Evadne to throw herself onto his pyre when the Seven Against Thebes were cremated?\t"
+      answer: "CAPANEÜS"
+    boni:
+      - question: "What son of Capaneüs and Evadne marched with the Epigoni and was also a member of the Argive contingent at Troy?\t"
+        answer: "STHENELUS"
+      - question: "What son of Sthenelus seduced Diomedes’ wife Aegialeia while Sthenelus and Diomedes were at Troy?\t"
+        answer: "COMETES"
+  - tossup:
+      question: "Listen carefully to the following Latin passage, which I will read twice, then answer in Latin the questions that follow.  \t<latin>Via tendēns in tumulum Aegyptiōrum antīquōrum fīēbat angustior et angustior Aureliā procēdente. Tum Aurēlia nihil aliud in mūrō invēnit. Puella mīrāta est ubi essent pictūrae et rēs aurō factae. puella sibi dīxit: “Hoc mīrābile est! nihil adest.” Subitō, Aurēlia clāmōrem amīcorum audīvit. Incipiēbat exīre ē tumulō, sed iānua statim clausa est. Aurēlia timēns vidēre audīreque nihil poterat …</latin> REREAD  The question:  <latin>Appropinquāns ad fīnem tumulī, quid Aurēlia in murō vīdit?</latin>"
+      answer: "NIHIL (ALIUD)"
+    boni:
+      - question: "<latin>Quālis erat via ad intimam partem tumulī?</latin> \t\t"
+        answer: "ANGUSTA // ANGUSTIOR (ET ANGUSTIOR) // ANGUSTISSIMA // PLĒNA RĒRUM AUREĀRUM"
+      - question: "<latin>Aurēliā exīre temptante, quid statim accidit?</latin>\t \t\t"
+        answer: "IANUA CLAUSA EST"
+  - tossup:
+      question: "For the phrase <latin>quaedam alta</latin> <latin>turris</latin>, provide the accusative singular form so that it fits the sentence “The heroines set off towards a certain high tower.”\t \t\t"
+      answer: "QUANDAM ALTAM TURRIM / TURREM"
+    boni:
+      - question: "For the phrase <latin>quaedam alta</latin> <latin>turris</latin>, provide the genitive plural form so that it fits the sentence “The structure of certain high towers is sound.”\t \t\t"
+        answer: "QUĀRUNDAM ALTĀRUM TURRIUM"
+      - question: "For the phrase <latin>quaedam alta</latin> <latin>turris</latin>, provide the ablative singular form so that it fits the sentence “With a certain high tower destroyed, the queen’s castle fell.”\t \t\t"
+        answer: "QUĀDAM ALTĀ TURRĪ / TURRE"
+  - tossup:
+      question: "What Roman, in the same year that the Aetolians were making peace with Philip V of Macedon, solidified his control over Carthiginian Spain with the Battle of Ilipa? \t\t"
+      answer: "(P. CORNELIUS) SCIPIO AFRICANUS"
+    boni:
+      - question: "By 211 BC, Africanus’ father and uncle had defeated Hasdrubal twice. What city did they capture in Spain in that year?\t"
+        answer: "SAGUNTUM"
+      - question: "In 204 BC, even as Scipio landed in Africa, the Carthaginians commissioned Mago to reinvade Italy after raising fresh troops in what archipelago, which Quintus Caecilius Metellus later cleared of pirates?\t"
+        answer: "BALEARIC (ISLANDS)"
+  - tossup:
+      question: "Anyone who has studied the science of linguistics is familiar with the International \t \tPhonetic Alphabet or IPA, a guide to recording and producing every possible speech \tsound made by humans. The majority of the IPA deals with the production of pulmonic \tsounds. According to their name, what is the power source for pulmonic sounds? \t\t"
+      answer: "<latin>PULMŌ(NĒS)</latin> / LUNG(S)"
+    boni:
+      - question: "Continuing with terms on the IPA chart, with what speech articulators are labiodental sounds made?\t"
+        answer: "<latin>LABIUM/A ET DĒNS/DENTĒS</latin> // LIPS AND TEETH"
+      - question: "Of plosive, nasal, fricative, or approximant, based on the name’s Latin roots, what type of sounds are made with a rushing or rubbing of air through a small space?\t"
+        answer: "FRICATIVE"
+  - tossup:
+      question: "Translate the following sentence from English to Latin: If people were always happy, they would now be smiling.\t"
+      answer: "<latin>SĪ POPULĪ/AE / HOMINĒS / HŪMĀNĪ/AE  \t\tFĒLĪCĒS / LAETĪ/AE / BEĀTĪ/AE  \t\tSEMPER ESSENT, NUNC (SUB)RIDĒRENT</latin>"
+    boni:
+      - question: "Translate the following sentence from English to Latin: If I should see your home, it would please me.\t"
+        answer: "<latin>SĪ DOMUM / VĪLLAM / SĒDEM TUAM /  \t\tAEDĒS TUĀS / TĒCTUM TUUM VIDEAM /  \t\tSPECTEM / SENTIAM, MIHI PLACEAT / MĒ DELECTET</latin>"
+      - question: "Translate the following sentence from English to Latin: If that wild animal had attacked us, we would have wept.\t"
+        answer: "<latin>SĪ ILLE FERUS / ILLUD FERUM (ANIMAL)  \t\tNŌS ADORTUS ESSET / AGGRESSUS ESSET /  \t\tIMPETUM FĒCISSET / OPPUGNĀVISSET, FLĒVISSEMUS</latin>"
+  - tossup:
+      question: "What man, who emerged from a succession dispute with Sceiron as the king of Megara, relied on his purple lock of hair to protect his city when Minos laid siege to it?\t"
+      answer: "NISUS"
+    boni:
+      - question: "What king of the Taphians had a similar golden hair that guaranteed his continued survival?"
+        answer: "PTERELAÜS"
+      - question: "Name the daughters of Nisus and Pterelaüs respectively who cut off their fathers’ hair for love."
+        answer: "SCYLLA AND COMAETHO"
+  - tossup:
+      question: "What is the Latin name of the objects pictured here? They were used in a variety of table games, some of which determined the <latin>arbiter bibendī</latin> at a <latin>convīvium</latin> and others that were simple gambling affairs.\t"
+      answer: "<latin>TĀLUS /</latin> <latin>TĀLĪ</latin>"
+    boni:
+      - question: "Look closely at the <latin>tālī</latin>. Assuming that the second <latin>tālus</latin> from the left has a value of one, what is the Latin name for this throw?\t"
+        answer: "VENUS"
+      - question: "What was the name of the cup or small box one could use either to store <latin>tālī</latin> or throw them?\t"
+        answer: "<latin>FRITILLUS</latin>"
+  - tossup:
+      question: "This year, the TV show “The Age of Influence” was released on Hulu. From what Latin verb with what meaning does “influence” come?\t \t\t"
+      answer: "FLUŌ, <latin>FLUERE</latin> - TO FLOW, STREAM"
+    boni:
+      - question: "The show “Vortex” was also released on Netflix. From what Latin verb with what meaning does “vortex” come?"
+        answer: "<latin>VERTŌ, VERTERE</latin> - TO TURN (TO/BACK), DIRECT"
+      - question: "The fourth season of the popular show “Succession” came out a few months ago. From what Latin verb with what meaning does “succession” come?"
+        answer: "<latin>(SUC)CĒDŌ, (SUC)CĒDERE</latin> - TO GO (FROM), YIELD, WITHDRAW, DEPART"
+  - tossup:
+      question: "Acting under the title “<latin>māter Augustī et castrōrum</latin>,” what woman essentially ruled with the aid of the jurist Ulpian before being killed in 235 AD along with her son Alexander Severus?\t"
+      answer: "JULIA MAMAEA"
+    boni:
+      - question: "Under Mamaea’s reforms, Elagabalus’ black stone was sent back to Syria to what \t\tcity, where the family dynasty and cult of the sun god originated? \t"
+        answer: "EMESA / HOMS"
+      - question: "In 230 AD, what Persian king overran Mesopotamia and captured Nisibis and Carrhae,  \tforcing Alexander’s eastern campaign?\t"
+        answer: "ARDASHIR (I)"
+  - tossup:
+      question: "Just as he “raised a golden, two-handled cup to his lips,” what man was repaid for his assault on a beggar with a thrown chair when Odysseus shot him as the first slain suitor? \t\t"
+      answer: "ANTINOÜS"
+    boni:
+      - question: "What priest grabbed Odysseus’ knees and begged for mercy but was not spared by Odysseus, who reasoned that he had often prayed that Odysseus’ return be delayed? \t\t"
+        answer: "LEODES"
+      - question: "Name the two men, a bard and a page, whom Odysseus did spare. \t\t"
+        answer: "PHEMIUS AND MEDON"
+  - tossup:
+      question: "<latin>Dīc mihi Anglicē nōmen lūdī quem dēscrībō. In lūdō sunt duo exercitūs. Rēx exercituī dēfendendus est, sed persōna potentissima in lūdō rēgīna est. Sunt quoque equitēs, castella, et peditēs.</latin>\t"
+      answer: "CHESS"
+    boni:
+      - question: "<latin>Dīc mihi Anglicē nōmen lūdī quem dēscrībō. In lūdō, multī hominēs plūrimam pecūniam habēre volunt. Ergō, loca emunt ac domūs et tabernās aedificant. Nonnumquam necesse est īre in carcerem</latin>!\t"
+        answer: "MONOPOLY"
+      - question: "<latin>Dīc mihi Anglicē nōmen lūdī quem dēscrībō. In lūdō, multī autoraedās agunt! Agere in “via īridis” possunt, et ut vincant, hominēs conchās et banānās iaciunt. Sī quis ē viā cadit, testūdō nūbem agit et auxilium fert.</latin>\t"
+        answer: "MARIO KART"

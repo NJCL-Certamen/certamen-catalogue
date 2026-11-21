@@ -1,0 +1,136 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Advanced"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "From whom did Cicero take the term Philippics?"
+      answer: "DEMOSTHENES"
+    boni:
+      - question: "7676 What nomen was shared by two of Cicero's clients?"
+        answer: "ROSCIUS (Sextus Roscius of Ameria and Quintus Roscius the actor)"
+      - question: "Who of his contemporaries was Cicero's arch rival in oratory?"
+        answer: "HORTENSIUS"
+  - tossup:
+      question: "."
+      answer: "Change ferunt to singular. FERT"
+    boni:
+      - question: "."
+        answer: "285 Change fers to plural. FERTIS"
+      - question: "."
+        answer: "Change ferebar to subjunctive. FERRER"
+  - tossup:
+      question: "What is unusual about the neuter noun castra?"
+      answer: "IT IS PLURAL IN FORM BUT SINGULAR IN MEANING"
+    boni:
+      - question: "957 What is odd about locus?"
+        answer: "IT IS USUALLY MASCULINE WHEN SINGULAR BUT NEUTER WHEN PLURAL"
+      - question: "What is odd about vulgus?"
+        answer: "IT LOOKS MASCULINE BUT IS NEUTER"
+  - tossup:
+      question: "."
+      answer: "Quote in Latin the first line of the Aeneid. ARMA VIRUMQUE CANO TROIAE QUI PRIMUS AB ORIS"
+    boni:
+      - question: "."
+        answer: "7712 Quote the first seven words of Caesar's De Bello Gallico. GALLIA EST OMNIS DIVISA IN PARTES TRES"
+      - question: "Quote the first sentence of Cicero's first oration against Catiline. QUO USQUE TANDEM ABUTERE, CATILINA, PATIENTIA NOSTRA?"
+        answer: "undefined"
+  - tossup:
+      question: "What public enemy of Rome was the grandfather, great-grandfather and great-great-grandfather of Roman emperors?"
+      answer: "MARC ANTONY"
+    boni:
+      - question: "5722 What wife of Antony was the mother of the mother of the oldest of those emperors?"
+        answer: "OCTAVIA"
+      - question: "What three emperors were descended from Antony's and Octavia's daughter Antonia?"
+        answer: "CLAUDIUS, CALIGULA AND NERO"
+  - tossup:
+      question: "What two heroes of mythology had to fight against warriors sprung from dragon's teeth?"
+      answer: "JASON AND CADMUS"
+    boni:
+      - question: "2727 What two characters threw golden apples?"
+        answer: "HIPPOMENES (MILANION) AND ERIS"
+      - question: "Atalanta and Hippomenes (Milanion) offended Aphrodite; how were they punished?"
+        answer: "TURNED INTO LIONS"
+  - tossup:
+      question: "What Latin verb is the root of the English noun “parsimony”?"
+      answer: "PARCO, PARCERE"
+    boni:
+      - question: "141 What Latin verb is the root of “alimony”?"
+        answer: "ALO, ALERE"
+      - question: "What Latin noun is the basic root of “testimony”?"
+        answer: "TESTIS"
+  - tossup:
+      question: "What was the name of a Roman bride's wedding gown?"
+      answer: "TUNICA RECTA"
+    boni:
+      - question: "5676 What was the name of her veil, called so because of its color?"
+        answer: "FLAMMEUM"
+      - question: "What was the nodus Herculaneus?"
+        answer: "THE KNOT WITH WHICH THE WOOLEN BAND AROUND HER WAIST WAS TIED (HUSBAND UNTIES IT)"
+      - question: "."
+        answer: "-2"
+      - question: "."
+        answer: "Distinguish between equus and eques. EQUUS=HORSE EQUES=KNIGHT, CAVALRYMAN"
+  - tossup:
+      question: "What distinguished Roman was born January 3, 106 BC, near the town of Arpinum?"
+      answer: "CICERO"
+    boni:
+      - question: "5255 Give Cicero's full name. MARCUS TULLIUS CICERO What is the Latin title of his essay on old age?"
+        answer: "DE SENECTUTE"
+  - tossup:
+      question: "Who wrote The Golden Ass?"
+      answer: "APULEIUS"
+  - tossup:
+      question: "What book title might be translated Fabula de duabis urbibus?"
+      answer: "A TALE OF TWO CITIES"
+    boni:
+      - question: "56 What book is Senex et Mare? THE OLD MAN AND THE SEA What book is Uvae Irae?"
+        answer: "THE GRAPES OF WRATH"
+  - tossup:
+      question: "What is the present participle of eo?"
+      answer: "IENS"
+  - tossup:
+      question: "What rhetorical device makes Achilles into Pelides?"
+      answer: "PATRONYMIC."
+    boni:
+      - question: "By what device does Vergil call the Trojan horse instar montis?"
+        answer: "HYPERBOLE"
+  - tossup:
+      question: "Which of Rome's kings disappeared in a storm?"
+      answer: "ROMULUS"
+  - tossup:
+      question: "What Latin noun is the root of the English verb “extirpate”?"
+      answer: "STIRP"
+    boni:
+      - question: "164 What is the meaning of the Latin noun at the root of the English verb “eradicate”? ROOT What is the meaning of the Latin noun at the root of the English verb “incinerate”?"
+        answer: "ASH"
+  - tossup:
+      question: "Who stole Heracles' cattle?"
+      answer: "CACUS"
+    boni:
+      - question: "2636 Who stole the cattle of his own brother Apollo? HERMES/MERCURY What did Hermes give Apollo to appease him?"
+        answer: "THE NEW LYRE"
+  - tossup:
+      question: "What was the relationship of Hestia, Hera and Demeter?"
+      answer: "SISTERS"
+  - tossup:
+      question: "What is the term for the combination of the future passive participle and a form of sum?"
+      answer: "PASSIVE PERIPHRASTIC"
+    boni:
+      - question: "230 What does this construction show? NECESSITY, OBLIGATIO What case usually shows agent with this construction?"
+        answer: "DATIVE"
+      - question: "."
+        answer: "-3"
+  - tossup:
+      question: "Where did Jason go find the Golden Fleece?"
+      answer: "COLCHIS (AEA)"
+    boni:
+      - question: "2998 Who had brought it there?"
+        answer: "PHRIXUS"
+      - question: "Who was Phrixus' sister?"
+        answer: "HELLE"
+      - question: "."
+        answer: "-4"
+      - question: "."
+        answer: "#"

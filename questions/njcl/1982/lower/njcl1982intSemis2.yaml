@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Intermediate"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "On what mountain lived a boar which Hercules had to capture?"
+      answer: "MOUNT ERYMANTHUS"
+    boni:
+      - question: "Near what lake in Arcadia lived fierce birds that he had to destroy?"
+        answer: "LAKE STYMPHALUS"
+      - question: "What was the name of the serpent that guarded the golden apples of the Hesperides?"
+        answer: "LADON"
+  - tossup:
+      question: "All the prophecies of the future of Rome were contained in what books acquired by King Tarquinius Priscus?"
+      answer: "THE SIBYLLINE BOOKS"
+    boni:
+      - question: "What happened to them in 83 BC?"
+        answer: "THEY WERE BURNED IN A FIRE CAUSED BY RIOTS"
+      - question: "Where had they been stored until that time?"
+        answer: "IN THE TEMPLE OF JUPITER OPTIMUS MAXIMUS (JUPITER CAPITOLINUS)"
+  - tossup:
+      question: "What even more alliterative Latin proverb has been translated into the alliterative English \"Forewarned is forearmed\"?"
+      answer: "<latin>PRAEMONITUS, PRAEMUNITUS</latin>"
+    boni:
+      - question: "What is the translation of the formulaic phrase <latin>di duint</latin>?"
+        answer: "MAY THE GODS GRANT IT"
+      - question: "What is the classical Latin form for <latin>duint</latin>?"
+        answer: "<latin>DENT</latin>"
+  - tossup:
+      question: "What is the third person singular perfect active indicative of <latin>cado</latin>?"
+      answer: "<latin>CECIDIT</latin>"
+    boni:
+      - question: "What is the same form of <latin>caedo</latin>?"
+        answer: "<latin>CECIDIT</latin>"
+      - question: "What is the same form of <latin>cano</latin>?"
+        answer: "<latin>CECINIT</latin>"
+  - tossup:
+      question: "How do you say \"one mile\" in Latin?"
+      answer: "MILLE PASSUS"
+    boni:
+      - question: "How do you say \"two miles\"?"
+        answer: "<latin>DUO MILIA PASSUUM</latin>"
+      - question: "How do you say \"ten miles\"?"
+        answer: "<latin>DECEM MILIA PASSUUM</latin>"
+  - tossup:
+      question: "Which of the following English words is not derived from the verb <latin>fero</latin>: transfer, furtive, translate, fertile, ablative?"
+      answer: "FURTIVE"
+    boni:
+      - question: "What Latin verb is at the root of the English word tractor?"
+        answer: "TRAHO"
+      - question: "What Latin verb is at the root of the English \"occasion\"?"
+        answer: "<latin>CADO</latin> (<latin>OCCIDO</latin>)"
+  - tossup:
+      question: "What type of genitives are tui, nostri and vestri?"
+      answer: "OBJECTIVE"
+    boni:
+      - question: "Give the partitive genitive forms of <latin>nos</latin> and <latin>vos</latin>."
+        answer: "<latin>NOSTRUM, VESTRUM</latin>"
+      - question: "A genitive is often used to express indefinite value, but what case is used to express a definite price with verbs of buying and selling?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Who was the unjustly accused son of Theseus?"
+      answer: "HIPPOLYTUS"
+    boni:
+      - question: "Who had accused him?"
+        answer: "HIS STEPMOTHER PHAEDRA"
+      - question: "Which divinity granted Theseus' wish that Hippolytus die?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What is the tense of the subjunctive in a present contrary-to-fact condition?"
+      answer: "IMPERFECT"
+    boni:
+      - question: "Translate into English: <latin>Nisi vidissem, non credidissem</latin>."
+        answer: "IF I HADN'T SEEN IT, I WOULDN'T HAVE BELIEVED IT."
+      - question: "Translate into Latin: \"If I were wise, I wouldn't be here.\""
+        answer: "<latin>SI SAPIENS ESSEM, NON ADESSEM</latin> (or <latin>ABESSEM</latin>)"
+  - tossup:
+      question: "What was the birthplace of Apollo and Artemis?"
+      answer: "DELOS"
+    boni:
+      - question: "Who was their mother?"
+        answer: "LETO"
+      - question: "Where was Apollo's most important oracle?"
+        answer: "DELPHI"
+  - tossup:
+      question: "What Asian goddess had a temple in Rome on the Palatine Hill?"
+      answer: "CYBELE"
+    boni:
+      - question: "The worship of Cybele was originally tended at Rome by Oriental priests. What emperor opened her priesthood to citizens?"
+        answer: "CLAUDIUS"
+      - question: "What body of officials oversaw the priesthood and worship of Cybele?"
+        answer: "THE QUINDECIMVIRI"
+  - tossup:
+      question: "What is the meaning of the Latin noun <latin>sanguis</latin>?"
+      answer: "BLOOD"
+    boni:
+      - question: "What English adjective derived from it means \"optimistic\"?"
+        answer: "SANGUINE"
+      - question: "What English derivative means \"bloodthirsty\"?"
+        answer: "SANGUINARY"
+  - tossup:
+      question: "What is the Latin noun for \"grandfather\"?"
+      answer: "<latin>AVUS</latin>"
+    boni:
+      - question: "What is the Latin noun for \"uncle\"?"
+        answer: "<latin>AVUNCULUS</latin>"
+      - question: "What is the Latin noun for \"nephew\" or \"grandson\"?"
+        answer: "<latin>NEPOS</latin>"
+  - tossup:
+      question: "Why was Anchises crippled?"
+      answer: "JUPITER STRUCK HIM WITH A THUNDERBOLT FOR BOASTING OF VENUS' LOVE."
+    boni:
+      - question: "Name an omen that convinced Anchises to leave the burning Troy."
+        answer: "FLAMES ON ASCANIUS' HAIR, COMET, THUNDER WHEN HE ASKED FOR CONFIRMATION"
+      - question: "When the oracle on Delos told Aeneas that he should seek his ancient mother, Anchises interprets this to mean that they should sail where?"
+        answer: "CRETE"
+  - tossup:
+      question: "What Roman road would you have taken from Rome to Brundisium?"
+      answer: "<latin>VIA APPIA</latin>"
+    boni:
+      - question: "What road would you have taken north to Ariminum?"
+        answer: "<latin>VIA FLAMINIA</latin>"
+      - question: "What road, known as the Salt Road, would you have taken northeast to Reate?"
+        answer: "<latin>VIA SALARIA</latin>"
+  - tossup:
+      question: "What is the Latin root of the English verb \"destroy\"?"
+      answer: "<latin>(DE)STRUO</latin>"
+    boni:
+      - question: "What is the Latin root of the English verb \"incarcerate\"?"
+        answer: "<latin>CARCER</latin>"
+      - question: "What Latin verb is the root of the English verb \"reign\"?"
+        answer: "<latin>REGNO</latin>"
+  - tossup:
+      question: "What would be the syncopated form of <latin>portavisse</latin>?"
+      answer: "<latin>PORTASSE</latin>"
+    boni:
+      - question: "What verb form can mean \"you are being watched\" or, syncopated, \"you will have watched\"?"
+        answer: "<latin>SPECTARIS</latin>"
+      - question: "What verb form can mean \"you are being watched,\" \"be watched,\" or \"to watch\"?"
+        answer: "<latin>SPECTARE</latin>"
+  - tossup:
+      question: "Why was the kingdom of Scyros noteworthy to both Achilles and Theseus?"
+      answer: "ACHILLES WAS HIDDEN THERE; THESEUS WAS MURDERED THERE"
+    boni:
+      - question: "What king hid Achilles?"
+        answer: "LYCOMEDES"
+      - question: "What king murdered Theseus?"
+        answer: "LYCOMEDES"
+  - tossup:
+      question: "What law gave plebiscita legal force?"
+      answer: "THE LEX HORTENSIA"
+    boni:
+      - question: "What law allowed intermarriage between plebeians and patricians?"
+        answer: "THE LEX CANULEIA"
+      - question: "What tribune passed in 88 BC a law giving the command against Mithridates to Marius and thus provoking Sulla to march on Rome?"
+        answer: "SULPICIUS RUFUS"
+  - tossup:
+      question: "What eminent Republican was so opposed to Julius Caesar that he killed himself in 46 BC?"
+      answer: "CATO THE YOUNGER (UTICENSIS)"
+    boni:
+      - question: "What was his nationality, by which he is normally differentiated from his ancestor, Cato the Censor?"
+        answer: "UTICENSIS"
+      - question: "What is his ancestor's most famous dictum?"
+        answer: "CARTHAGO DELENDA EST"

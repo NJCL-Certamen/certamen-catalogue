@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Novice"
+round: "ROUND C1"
+questions:
+  - tossup:
+      question: "What English adverb is at the root of the Englsih verb ”procrastinate“?"
+      answer: "CRAS"
+    boni:
+      - question: "105 What does <latin>cras</latin> mean?"
+        answer: "TOMORROW"
+      - question: "What means ”yesterday“?"
+        answer: "HERI"
+  - tossup:
+      question: "What hero performed twelve labors for the wicked king Eurystheus?"
+      answer: "HERACLES/HERCULES"
+    boni:
+      - question: "3152 What beast did Heracles fight in the region of Nemea?"
+        answer: "A LION"
+      - question: "What beast did he fight on Mount Erymanthus?"
+        answer: "A BOAR"
+  - tossup:
+      question: ""
+      answer: "Change <latin>ego</latin> to plural. NOS"
+    boni:
+      - question: ""
+        answer: "791 Change <latin>vobis</latin> to singular. TIBI or TE"
+      - question: ""
+        answer: "Change <latin>sibi</latin> to plural. SIBI"
+  - tossup:
+      question: "What was the full name of the great delayer against Hannibal?"
+      answer: "QUINTUS FABIUS MAXIMUS CUNCTATOR"
+    boni:
+      - question: "5050 Where was Hannibal's great defeat in 202 BC?"
+        answer: "ZAMA"
+      - question: "What name was given to a Scipio to commemorate his victories against Carthage?"
+        answer: "AFRICANUS"
+  - tossup:
+      question: "What is the meaning of the Latin noun at the root of ”canine“?"
+      answer: "DOG"
+    boni:
+      - question: "1104 What means like a cat?"
+        answer: "FELINE"
+      - question: "What does ”leonine“ mean?"
+        answer: "LIKE A LION"
+  - tossup:
+      question: "What date is assigned to the legendary founding of Rome?"
+      answer: "753 BC"
+    boni:
+      - question: "5830 How many kings ruled Rome?"
+        answer: "SEVEN"
+      - question: "Who was Romulus' successor?"
+        answer: "NUMA POMPILIUS"
+  - tossup:
+      question: ""
+      answer: "In the sentence, ”I arrived on the third day,“ translate ”on the third day.“ DIE TERTIO"
+    boni:
+      - question: "186 What construction is this?"
+        answer: "ABLATIVE OF TIME WHEN (POINT IN TIME)"
+      - question: ""
+        answer: "Translate ”I was walking for three hours.“ TRES HORAS AMBULABAM"
+  - tossup:
+      question: "If the form <latin>haec</latin> is singular, what then must be its plural?"
+      answer: "HAE"
+    boni:
+      - question: "911 If <latin>haec</latin> is plural, what must be its singular?"
+        answer: "HOC"
+      - question: "What is the opposite of <latin>haec</latin>?"
+        answer: "ILLA"
+  - tossup:
+      question: "What part of speech is the Latin word <latin>diu</latin>?"
+      answer: "ADVERB"
+    boni:
+      - question: "707 The word <latin>deus</latin>?"
+        answer: "NOUN"
+      - question: "The word <latin>dives</latin>?"
+        answer: "ADJECTIVE"
+  - tossup:
+      question: "What were Odysseus' men turned into?"
+      answer: "SWINE"
+    boni:
+      - question: "2629 By whom?"
+        answer: "CIRCE"
+      - question: "Who helped Odysseus escape her spell?"
+        answer: "HERMES"
+  - tossup:
+      question: "What book title might be rendered into Latin as <latin>Bellum et Pax</latin>?"
+      answer: "WAR AND PEACE"
+    boni:
+      - question: "50 <latin>Cui Tintinnabula Sonat</latin>?"
+        answer: "FOR WHOM THE BELL TOLLS"
+      - question: "<latin>Maleficium et POena</latin>?"
+        answer: "CRIME AND PUNISHMENT"
+  - tossup:
+      question: ""
+      answer: "Complete this analogy: Artemis:Diana::Athena: MINERVA"
+    boni:
+      - question: "3043 Which goddess was sometimes called Cyntherea?"
+        answer: "VENUS/APHRODITE"
+      - question: "What goddess was sometimes called Cynthia?"
+        answer: "DIANA/ARTEMIS"
+  - tossup:
+      question: ""
+      answer: "The goddess of discord was not invited to a wedding but"
+    boni:
+      - question: "brought a gift anyway. Who was getting married?"
+        answer: "PELEUS AND THETIS"
+      - question: "2526 What did she bring?"
+        answer: "A GOLDEN APPLE"
+      - question: "What in English was inscribed on the apple?"
+        answer: "FOR THE FAIREST"
+  - tossup:
+      question: "What Roman commander died at Carrhae?"
+      answer: "CRASSUS"
+    boni:
+      - question: "5272 What symbolic objects were captured by the enemy?"
+        answer: "THE EAGLES OR STANDARDS"
+      - question: "What was Crassus' political office at the time?"
+        answer: "<emphasis>TRIUMVIR</emphasis> PROCONSUL"
+  - tossup:
+      question: "What was the first of a Roman month called?"
+      answer: "THE KALENDS"
+    boni:
+      - question: "5187 What were the other two reckoning points?"
+        answer: "IDES AND NONES"
+  - tossup:
+      question: "What Latin verb means ”to warn“?"
+      answer: "MONERE"
+    boni:
+      - question: "595 What Latin verb means ”to fortify“?"
+        answer: "MUNIRE"
+      - question: "What is the English for mulier?"
+        answer: "WOMAN"
+  - tossup:
+      question: "According to mythology, who was turned into a laurel?"
+      answer: "DAPHNE"
+    boni:
+      - question: "3304 Whom was Daphne fleeing?"
+        answer: "APOLLO"
+      - question: "Who was her father?"
+        answer: "PENEUS"
+  - tossup:
+      question: "How do you translate the interrogative cur?"
+      answer: "WHY"
+    boni:
+      - question: "587 Translate these into Latin: Where are you? UBI ES?"
+        answer: "ESTIS"
+      - question: "Where are you going? QUO IS?"
+        answer: "(VADIS)"
+  - tossup:
+      question: "On what hill did Romulus place his settlement?"
+      answer: "PALATINE"
+    boni:
+      - question: ""
+        answer: "5128 Five points for three, ten for all six: name the other hills."
+      - question: ""
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "What is the gender of an infinitive?"
+      answer: "NEUTER"
+    boni:
+      - question: ""
+        answer: "308 For what other verbal does the infinitive supply the nominative"
+      - question: "case?"
+        answer: "GERUND"
+      - question: "What is the genitive gerund of puto?"
+        answer: "PUTANDI"
+      - question: ""
+        answer: "#"

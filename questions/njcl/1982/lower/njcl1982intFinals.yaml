@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Intermediate"
+round: Finals
+questions:
+
+  - tossup:
+      question: "What is the perfect active infinitive of frango?"
+      answer: "FREGISSE"
+    boni:
+      - question: "Of tango?"
+        answer: "TETIGISSE"
+      - question: "Of iungo?"
+        answer: "IUNXISSE"
+  - tossup:
+      question: "Who excavated Troy in the 19th century?"
+      answer: "HEINRICH SCHLIEMANN"
+    boni:
+      - question: "What other city, which Homer called “rich in gold,” did Schliemann excavate?"
+        answer: "MYCENAE"
+      - question: "What name is given to the main entry gate of Mycenae?"
+        answer: "THE LION GATE"
+  - tossup:
+      question: "Who claimed Hecuba as his prize when Troy fell?"
+      answer: "ODYSSEUS (ULYSSES)"
+    boni:
+      - question: "What happened to Hecuba in Thrace?"
+        answer: "SHE WENT INSANE or SHE WAS TURNED INTO A BITCH or SHE WAS STONED TO DEATH BY THE THRACIANS"
+      - question: "Of how many of Priam's children was Hecuba the mother?"
+        answer: "NINETEEN"
+  - tossup:
+      question: "What day in ancient Rome was leap day instead of Feb. 29?"
+      answer: "FEBRUARY 24TH WAS 48 HOURS LONG EVERY FOURTH YEAR"
+    boni:
+      - question: "The addition of what two months to the Roman calendar explains why September is the ninth month, not the seventh as its name would indicate?"
+        answer: "JANUARY AND FEBRUARY"
+      - question: "By Roman reckoning, on what day is an American president inaugurated?"
+        answer: "A.D.XIII KAL. FEB. (Jan.20)"
+  - tossup:
+      question: "Who was beloved by Galatea and slain by Polyphemus?"
+      answer: "ACIS"
+    boni:
+      - question: "Who was the father of Acis?"
+        answer: "FAUNUS"
+      - question: "Into what did Galatea transform Acis?"
+        answer: "A RIVER FROM HIS BLOOD"
+  - tossup:
+      question: "What Latin ablative absolute is still used in English to mean \"with the necessary changes having been made\"?"
+      answer: "<latin>MUTATIS MUTANDIS</latin>"
+    boni:
+      - question: "What does the frequent dictionary notation q.v. stand for?"
+        answer: "QUOD VIDE"
+      - question: "What does qq.v. stand for?"
+        answer: "QUAE VIDE"
+  - tossup:
+      question: "Some Romans placed words of good omen over the doors of their houses. What does this phrase mean: <latin>Nihil intret mali</latin>?"
+      answer: "MAY NO EVIL ENTER"
+    boni:
+      - question: "Often a dog was chained inside the ostium, but in some homes a picture of a dog was painted on the wall or worked in mosaic on the floor. Give the warning with this picture in Latin and English."
+        answer: "<latin>CAVE CANEM</latin>. BEWARE THE DOG."
+      - question: "What was the name for revered spirits of dead ancestors?"
+        answer: "DI MANES"
+  - tossup:
+      question: "What distinguishes the third principal parts of cado and caedo?"
+      answer: "THE LENGTH OF THE: CECIDI VERSUS CECIDI"
+    boni:
+      - question: "Which of them yields the English \"decide\"?"
+        answer: "<latin>CAEDO</latin>"
+      - question: "Which of them yields the English \"circumcision\"?"
+        answer: "<latin>CAEDO</latin>"
+  - tossup:
+      question: "What category of verbs includes audeo and gaudeo?"
+      answer: "SEMI-DEPONENT"
+    boni:
+      - question: "Give the perfect infinitive of <latin>audeo</latin>."
+        answer: "<latin>AUSUS ESSE</latin>"
+      - question: "Give the future infinitive of <latin>gaudeo</latin>."
+        answer: "<latin>GAVISURUS ESSE</latin>"
+  - tossup:
+      question: "On the island of the Cyclopes, what follower of Odysseus did Aeneas find?"
+      answer: "ACHAEMENIDES"
+    boni:
+      - question: "What follower of Odysseus did Aeneas find in Italy?"
+        answer: "MACAREUS"
+      - question: "Whom did Aeneas have to bury to gain good fortune?"
+        answer: "MISENUS"
+  - tossup:
+      question: "What emperor was poisoned by his wife with a dish of mushrooms?"
+      answer: "CLAUDIUS"
+    boni:
+      - question: "What Roman emperor hired an assassin to murder his mother?"
+        answer: "NERO"
+      - question: "What son of Claudius was murdered on Nero's orders?"
+        answer: "BRITANNICUS"
+  - tossup:
+      question: "Who slew the Marathonian or Cretan Bull?"
+      answer: "THESEUS"
+    boni:
+      - question: "Who helped Theseus kill the Minotaur?"
+        answer: "ARIADNE"
+      - question: "Who was Theseus' father?"
+        answer: "AEGEUS (or POSEIDON)"
+  - tossup:
+      question: "According to Ovid, what mythical queen founded Babylon?"
+      answer: "SEMIRAMIS"
+    boni:
+      - question: "What portent marked the site of Cadmus' future city?"
+        answer: "A COW LAY DOWN"
+      - question: "Who, according to legend, founded Alba Longa?"
+        answer: "ASCANIUS (IULUS)"
+  - tossup:
+      question: "Which Macedonian king entered into a pact of mutual assistance with Hannibal in 215 BC?"
+      answer: "PHILIP V"
+    boni:
+      - question: "Who was the Roman general sent to deal with Philip V?"
+        answer: "VALERIUS LAEVINUS"
+      - question: "What king of Asia Minor allied himself with Laevinus against Philip V?"
+        answer: "ATTALUS I OF PERGAMUM"
+  - tossup:
+      question: "Who would you be in English if in Latin you were an aurifex?"
+      answer: "GOLDSMITH"
+    boni:
+      - question: "What would you be if you were a pistor?"
+        answer: "BAKER"
+      - question: "If you were a latro?"
+        answer: "THIEF"
+  - tossup:
+      question: "Where did Labienus die?"
+      answer: "IN BATTLE AT MUNDA"
+    boni:
+      - question: "Who was the only Pompeyist of note to survive the Battle of Munda?"
+        answer: "SEXTUS POMPEY"
+      - question: "What year was that battle?"
+        answer: "45 BC"
+  - tossup:
+      question: "Latin-based names have been given to parts of the globe unknown to the Romans; Nova Scotia, for instance, means New Scotland. What are the Latin-based name and meaning for the island now called Taiwan?"
+      answer: "FORMOSA - BEAUTIFUL"
+    boni:
+      - question: "An African nation was founded in the nineteenth century by ex-slaves repatriating themselves from this continent to that of their ancestors. What is its name and what is its Latin root?"
+        answer: "LIBERIA - LIBER, (FREE)"
+      - question: "What is the meaning of the Latinate name Australia?"
+        answer: "THE SOUTHERN LAND"
+  - tossup:
+      question: "What bird is a columba?"
+      answer: "DOVE (PIGEON)"
+    boni:
+      - question: "With <latin>columba</latin> as its base, what was the literal meaning of a <latin>columbarium</latin>?"
+        answer: "DOVE-COTE, PIGEON-COOP"
+      - question: "What metaphorical meaning did columbarium acquire?"
+        answer: "MULTI-NICHED STRUCTURE FOR THE URNS OF THE DEAD"
+  - tossup:
+      question: "What Latin present active participle contracts to form the adjective <latin>prudens</latin>?"
+      answer: "<latin>PROVIDENS</latin>"
+    boni:
+      - question: "What Latin adjective contracts to the noun bruma?"
+        answer: "BREVISSIMA"
+      - question: "What infinitive contracts to fore?"
+        answer: "FUTURUS ESSE"
+  - tossup:
+      question: "In what declension is the present active participle declined?"
+      answer: "THIRD"
+    boni:
+      - question: "What is the only tense in which both voices of the participle exist?"
+        answer: "FUTURE"
+      - question: "A participle is half verb and half what other part of speech?"
+        answer: "ADJECTIVE"

@@ -1,0 +1,167 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "In what year did Caesar first serve as consul?"
+      answer: "59BC"
+    boni:
+      - question: "5697 In what year did Cicero first serve?"
+        answer: "63BC"
+      - question: "Pompey?"
+        answer: "70BC"
+  - tossup:
+      question: "How many participles does a regular, transitive verb have?"
+      answer: "FOUR"
+    boni:
+      - question: "449 What two participial possibilities don't exist?"
+        answer: "PRESENT PASSIVE AND PERFECT ACTIVE"
+      - question: "What is the only participle of sum?"
+        answer: "FUTURUS (FUTURE ACTIVE)"
+  - tossup:
+      question: "What part of a sentence can an intransitive verb not have?"
+      answer: "DIRECT OBJECT"
+    boni:
+      - question: "918 What part of speech joins the two halves of a pair?"
+        answer: "CONJUNCTION"
+      - question: "Which of these is <emphasis>not</emphasis> a conjunction: ut, aut, et, it, at?"
+        answer: "IT"
+  - tossup:
+      question: "What is the translation of the Latin noun <latin>lumen</latin>?"
+      answer: "LIGHT"
+    boni:
+      - question: "529 Of <latin>limen</latin>?"
+        answer: "THRESHHOLD, DOORSTEP"
+      - question: "Of <latin>numen</latin>?"
+        answer: "DIVINITY, GODHOOD"
+  - tossup:
+      question: ""
+      answer: "Distinguish betwen the nouns <latin>aura</latin> and <latin>aurum</latin>. AURA=BREEZE, AIR AURUM=GOLD"
+    boni:
+      - question: "859 What does <latin>auris</latin> mean?"
+        answer: "EAR"
+      - question: "<latin>Aureus</latin>?"
+        answer: "GOLDEN"
+  - tossup:
+      question: "What hill held the home of several emperors?"
+      answer: "PALATINE"
+    boni:
+      - question: "5112 Which of the following does <emphasis>not</emphasis> lie at the foot of the Palatine: The Forum, the Circus Maximus, The Baths of Caracalla?"
+        answer: "THE BATHS OF CARACALLA"
+      - question: "What was the Forum Boarium?"
+        answer: "THE CATTLE MARKET"
+  - tossup:
+      question: "What Latin verb is the root of ”missionary“?"
+      answer: "MITTO"
+    boni:
+      - question: "1096 Which of these is <emphasis>not</emphasis> from mitto: promise, mitigate, compromise, message?"
+        answer: "MITIGATE"
+      - question: "What two nouns from <latin>mitto</latin>, just one letter apart, mean a letter and a rocket?"
+        answer: "MISSIVE AND MISSILE"
+  - tossup:
+      question: "What battle brought the Second Punic WAr to an end?"
+      answer: "ZAMA"
+    boni:
+      - question: "5044 At what battle, supposedly fought during an earthquake, did Hanibal decimate a Roman army in 217 BC?"
+        answer: "LAKE TRASIMENE"
+      - question: "WHat Spanish town had the Carthaginians attacked to provoke the war?"
+        answer: "SAGUNTUM"
+  - tossup:
+      question: "What Latin verb is the root of the English noun ”parsimony“?"
+      answer: "PARCO, PARCERE"
+    boni:
+      - question: "141 What verb is the root of ”alimony“?"
+        answer: "ALO, ALERE"
+      - question: "What noun is the root of ”testimony“?"
+        answer: "TESTIS=WITNESS"
+  - tossup:
+      question: "Who threw Romulus and Remus into the Tiber?"
+      answer: "AMULIUS"
+    boni:
+      - question: "2589 Who set Danae and Perseus afloat in a chest?"
+        answer: "ACRISIUS"
+      - question: "Who lost a sandal helping an old lady across a river?"
+        answer: "JASON"
+  - tossup:
+      question: "Who was the first Roman emperor to be officially deified?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: ""
+        answer: "5339"
+      - question: "During whose reign was Augustus deified?"
+        answer: "TIBERIUS"
+      - question: "What emperor correctly foresaw his own deification with his last words: Vae, puto, deus fio?"
+        answer: "VESPASIAN"
+  - tossup:
+      question: "Whose daughter had to be sacrificed before the Greek forces were able to set sail for Troy?"
+      answer: "AGAMEMNON'S"
+    boni:
+      - question: "2512 What soothsayer told Agamemnon that he must sacrifice his daughter?"
+        answer: "CALCHAS"
+      - question: "From what port were the Greeks trying to sail?"
+        answer: "AULIS"
+  - tossup:
+      question: "What king of the Sabines ruled jointly with Romulus?"
+      answer: "TITUS TATIUS"
+    boni:
+      - question: "5020 Who was the only other Sabine king of Rome?"
+        answer: "NUMA POMPILIUS"
+      - question: "What had the Sabines provided for the earliest Romans?"
+        answer: "WIVES"
+  - tossup:
+      question: ""
+      answer: "Using deponent verbs, say ”I am afraid to follow.“ SEQUI VEREOR"
+    boni:
+      - question: ""
+        answer: "3 Say ”Let us follow.“ SEQUAMUR"
+      - question: ""
+        answer: "Using sequor say ”I have been followed.“ NO WAY!!!"
+  - tossup:
+      question: "What fabulous herb warded off the spells of Circe?"
+      answer: "MOLY"
+    boni:
+      - question: "2630 Who used it?"
+        answer: "ODYSSEUS"
+      - question: "Who gave it to him?"
+        answer: "HERMES"
+  - tossup:
+      question: "What was a Roman asking you if he said, Ningitne? IS IT SNOWING?"
+      answer: "102 Tell him it's raining. PLUIT"
+    boni:
+      - question: ""
+        answer: "Tell him it's thundering. TONAT"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "193 What determines its case?"
+        answer: "ITS USE IN ITS OWN CLAUSE"
+      - question: "What is the neuter accusative plural of the relative pronoun?"
+        answer: "QUAE"
+  - tossup:
+      question: "What is the 3rd person singular perfect active indicative of relinquo?"
+      answer: "RELIQUIT"
+    boni:
+      - question: ""
+        answer: "348 Change reliquit to plural. RELIQUERUNT"
+      - question: ""
+        answer: "Change reliquit to pluperfect. RELIQUERAT"
+  - tossup:
+      question: "Where did the gods live?"
+      answer: "MOUNT OLYMPUS"
+    boni:
+      - question: "2917 Near what mountain did the Cyclopes live?"
+        answer: "MOUNT AETNA"
+      - question: "On what hill did Aeneas' ally Evander live?"
+        answer: "PALATINE"
+  - tossup:
+      question: "What creature was part lion, part goat and part serpent?"
+      answer: "THE CHIMAERA"
+    boni:
+      - question: "3023 What hero killed it?"
+        answer: "BELLEROPHON"
+      - question: "What was his horse's name?"
+        answer: "PEGASUS"
+      - question: ""
+        answer: "#"

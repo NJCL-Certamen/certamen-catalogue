@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Change the phrase <latin>ingēns avis</latin> to the dative singular so that it means “for the huge bird.”  \t"
+      answer: "<latin>INGENTĪ AVĪ</latin>"
+    boni:
+      - question: "Change <latin>ingentī avī</latin> to the ablative singular so that it means “by the huge bird.”\t  \t"
+        answer: "<latin>INGENTĪ AVE / AVĪ</latin>"
+      - question: "Change <latin>ingentī ave</latin> to the accusative plural so that it means “the huge birds.”\t   \t"
+        answer: "<latin>INGENTĒS / INGENTĪS AVĒS / AVĪS</latin>"
+  - tossup:
+      question: "Tiberius Gracchus negotiated with the people of what city, who had captured the consul Gaius Hostilius Mancinus, before Scipio Aemilianus sacked it in 133 BC?\t \t\t"
+      answer: "NUMANTIA"
+    boni:
+      - question: "What man learned of the Romans’ willingness to accept bribes by serving under Aemilianus at Numantia, something which would later help him during his war against Rome which spanned from 112 to 105 BC?\t"
+        answer: "JUGURTHA"
+      - question: "What predecessor of Mancinus and consul of 141 BC was similarly besieged by the Numantines?\t"
+        answer: "QUINTUS POMPEIUS"
+  - tossup:
+      question: "What name in mythology is shared by a daughter of Creon killed by a poisoned robe and a daughter of Hecuba and Priam presumed dead after her family fled Troy?\t\t"
+      answer: "CREÜSA"
+    boni:
+      - question: "By what other name is Creüsa, daughter of Creon, known?\t"
+        answer: "GLAUCE"
+      - question: "Who had sent the poisoned robe along with her sons Mermerus and Pheres in order to ruin Glauce & Jason’s wedding?\t"
+        answer: "MEDEA"
+  - tossup:
+      question: "What European university has the Latin motto “<latin>Dominus illuminātiō mea</latin>” meaning “the Lord is my light”?\t"
+      answer: "OXFORD (UNIVERSITY)"
+    boni:
+      - question: "Speaking of light, what American college has the Latin motto “<latin>terrās irradient</latin>” meaning “they will light up the lands”?\t"
+        answer: "AMHERST (COLLEGE)"
+      - question: "What college near Amherst has the Latin motto “<latin>nōn ministrārī sed ministrāre</latin>” meaning “not to be served but to serve”?\t"
+        answer: "WELLESLEY (COLLEGE)"
+  - tossup:
+      question: "You see several emoji scenes about a farmer and an <latin>anas</latin>, or duck. Provide the letters of two scenes in order that depict the following story: <latin>prīmā luce, agricola surrēxit ut ad agrōs festīnāret. ecce anatem quandam frūmentum carpentem invēnit.</latin>"
+      answer: "F, B"
+    boni:
+      - question: "Identify the next two scenes in order by letter as the story continues: <latin>agricolā conspectō, anas in lacum dēsiluit ut sē occultāret.</latin>"
+        answer: "J, G"
+      - question: "Identify the last two scenes in order by letter as the story concludes: <latin>saxum tamen, ab agricolā ad aquam iactum, dēscendit et anatem percussit. ēheu anas, quae mortua vidēbātur, in summā aquā iacēbat.</latin>"
+        answer: "A, D"
+  - tossup:
+      question: "What grandson of Medusa had as a companion a two-headed dog, had three heads himself, and owned a herd of cattle eventually stolen by Heracles?\t\t"
+      answer: "GERYON / GERYONES"
+    boni:
+      - question: "What was the name of Geryon’s two-headed dog?\t"
+        answer: "ORTH(R)US"
+      - question: "Who was Geryon’s father, who sprang from the ground along with Pegasus after Perseus beheaded Medusa?\t"
+        answer: "CHRYSAOR"
+  - tossup:
+      question: "In book 4 of Ovid’s <title>Metamorphoses</title>, what goddess travelled to the Underworld to rouse Tisiphone, hoping that the Fury would torment the Theban princess Ino, whom she hated for having fostered Bacchus?\t"
+      answer: "JUNO"
+    boni:
+      - question: "Which brother of Sisyphus and husband of Ino did Tisiphone enrage with her serpents?\t\t"
+        answer: "ATHAMAS"
+      - question: "Which son of Ino and Athamas was murdered by his own father?\t"
+        answer: "LEARCHUS"
+  - tossup:
+      question: "Based on your knowledge of Latin roots, what kind of diet does a frugivore (FROO-jih-vor) have?\t"
+      answer: "FRUIT"
+    boni:
+      - question: "Some rodents, birds, and larger mammals can be nucivorous (new-SIH-vor-us). What does their diet mainly consist of?\t"
+        answer: "NUTS"
+      - question: "Some animals that eat fruits and nuts might also include some baccivorous (back-SIH-vor-us) dining habits. What do baccivorous animals mostly eat?\t"
+        answer: "BERRIES"
+  - tossup:
+      question: "Translate the dependent clause in the following sentence using the verb <latin>perficiō, perficere</latin> and an ablative absolute: “After the games had been finished, we stayed in the countryside.”   \t"
+      answer: "LŪDĪS / MŪNERIBUS PERFECTĪS"
+    boni:
+      - question: "Now translate the rest of that sentence.\t"
+        answer: "MĀNSIMUS / MANĒBĀMUS RŪRĪ"
+      - question: "Without using any prepositions, translate the following sentence into Latin: “We walked to Capua to see the games.”       \t"
+        answer: "<latin>CAPUAM AMBULĀBĀMUS / AMBULĀVIMUS \t\tUT LŪDŌS / MŪNERA VIDĒRĒMUS / SPECTĀRĒMUS // LŪDŌS / MŪNERA \t\tVĪSUM / SPECTĀTUM / SPECTĀTŪRĪ/AE/A / VĪSŪRĪ/AE/A // \t\tLŪDŌS SPECTĀNDĪ / VIDENDĪ CAUSĀ / GRATIĀ</latin>"
+  - tossup:
+      question: "Who, along with his son Herennius Etruscus, was defeated and killed by the Goths in 251 AD at Abrittus, becoming the first emperor to die in battle?\t"
+      answer: "DECIUS"
+    boni:
+      - question: "What Gothic king led the forces that defeated Decius at Abrittus?\t"
+        answer: "CNIVA"
+      - question: "After concluding a shameful peace with the Goths, what next emperor ruled jointly with his son Volusianus?\t"
+        answer: "TREBONIANUS GALLUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "The story of Oedipus continues. Listen carefully to the following passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>Oedipō rēge novō, urbs tōta gravī peste afflīgēbātur. ōrāculum, iterum consultum, iustitiam prō rēge mortuō poposcit. Oedipus proclāmāvit, “quisquis rēgem priōrem interfēcit, in exilium proficīscētur.” rēgīna Iöcasta tacitē hoc observābat, similitūdinem notāns vēritātemque infandam suspicāta.</latin>       "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>cui in exilium discēdendum est?</latin>"
+        answer: "EĪ / HUIC / ILLĪ / CUICUĪ QUĪ RĒGEM (PRIŌREM) INTERFĒCIT / \tINTERFĒCERAT / INTERFICIĒBAT // OEDIPŌ"
+      - question: "<latin>quid notātum est ā rēgīnā?</latin>"
+        answer: "SIMILITŪDO // SIMILITŪDINEM NOTĀVIT"
+  - tossup:
+      question: "At the funeral games for Patroclus, Achilles challenges his fellow Greeks to pair their understanding of physics with their physical skill. To what does Achilles tie a dove, asking archers to hit it without cutting the string, lest it fly away?\t \t\t"
+      answer: "MAST / SHIP / BOAT"
+    boni:
+      - question: "What important Greek leader does Nestor’s son Antilochus anger during the chariot races by nearly running him off the road, leading the elder Greek leader to complain that Antilochus’s slower horses did not deserve the prize?\t"
+        answer: "MENELAÜS"
+      - question: "Achilles offers the armor of what man, killed by Patroclus, as the prize for armed combat?\t"
+        answer: "SARPEDON"
+  - tossup:
+      question: "An invitation arrives in your mailbox that says, “Dear friend: For <latin>cēna</latin>, please wear your most colorful gown, grab your parsley crown, and head over to my <latin>domus urbāna</latin> for a fabulous evening of conversation, laughter, and drinking. I assure you that not too much water will be added to the wine.” Give the Latin term for this after-dinner event to which you are being invited.\t \t\t"
+      answer: "CŌMISSĀTIŌ / CONVĪVIUM / CŌMPŌTĀTIŌ / SYMPOSIUM"
+    boni:
+      - question: "The invitation promises strong wine at the event. Often chosen by a roll of the dice, who determined how much water to mix with the undiluted wine?\t\t"
+        answer: "<latin>RĒX BIBENDĪ // MAGISTER / MAGISTRA BIBENDĪ // ARBITER BIBENDĪ</latin>"
+      - question: "What is the term for the type of colorful gown mentioned in the invitation that a Roman would only wear privately to festive events and publicly during Saturnalia?\t\t"
+        answer: "<latin>SYNTHESIS</latin>"
+  - tossup:
+      question: "Provide the correct form of the Latin noun <latin>nox</latin> needed to translate the following sentence into Latin: “Many people have a fear of the night.”\t"
+      answer: "<latin>NOCTIS</latin>"
+    boni:
+      - question: "Provide the correct form of the Latin noun <latin>exercitus</latin> needed to translate the following sentence into Latin: “Lucius became a king with an army.”\t"
+        answer: "<latin>(CUM) EXERCITŪ</latin>"
+      - question: "Provide the correct form of the Latin noun <latin>auxilium</latin> needed to translate the following sentence into Latin: “My mother sent me as a help to your cause.”\t"
+        answer: "<latin>AUXILIŌ</latin>"
+  - tossup:
+      question: "Give an antonym of <latin>nusquam</latin>, which means “nowhere.”\t \t\t"
+      answer: "UBĪQUE / UBIVĪS / UBICUMQUE / USQUAM / PASSIM / ALICUBI / USPIAM"
+    boni:
+      - question: "Give an antonym of the adverb <latin>quō</latin>, which means “to where.”\t"
+        answer: "<latin>UNDE</latin>"
+      - question: "Give a Latin adverb or prepositional phrase that means “secretly.”\t"
+        answer: "<latin>TACITĒ /</latin> <latin>CLAM</latin> / \t\t<latin>SUB ROSĀ / FURTIM / OCCULTĒ / IN OCCULTŌ / SECRETŌ / CLANCULUM</latin>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Aglet, acute, vinaigrette, and acerbic are all derived from what Latin word with what meaning?\t"
+      answer: "<latin>ĀCER</latin> - SHARP"
+    boni:
+      - question: "What other derivative of <latin>ācer</latin> means “characterized by keen expectancy or interest”?"
+        answer: "EAGER"
+      - question: "What other Latin noun, commonly used as an English noun, is a derivative of <latin>ācer</latin> meaning “the ability to make good judgments and quick decisions”?"
+        answer: "ACUMEN"
+  - tossup:
+      question: "What woman, who once turned a man into a woodpecker, had a house that was too enticing a trap for all but Eurylochus, who left behind his fellow sailors to tell Odysseus that his search party on Aeaea had been transmogrified into pigs?\t"
+      answer: "CIRCE"
+    boni:
+      - question: "Who, described by Odysseus as a dear and trusted friend, convinced the other sailors to call out to Circe in her palace?\t"
+        answer: "POLITES"
+      - question: "What shade was the first to approach Odysseus in the Underworld after Odysseus made the sacrifices recommended by Circe?\t"
+        answer: "ELPENOR"
+  - tossup:
+      question: "<latin>Respondē aut Latīnē aut Anglicē:</latin> <latin>Quae occupātionēs erant essedāriī, secūtōrēs, et murmillōnēs?</latin>\t"
+      answer: "GLADIĀTŌR(ĒS) / GLADIATOR(S)"
+    boni:
+      - question: "<latin>Respondē Latinē: Quī gladiātor nihil vidēre poterat?</latin>"
+        answer: "ANDĀBATA  "
+      - question: "<latin>Respondē Latinē: Quī gladiātor rēte ferēbat?</latin>"
+        answer: "RĒTIĀRIUS "
+  - tossup:
+      question: "What man convinced Nicomedes IV to invade Pontus - only to be captured by Mithridates, who executed him by pouring molten gold down his throat?\t \t\t"
+      answer: "MANIUS AQUILIUS"
+    boni:
+      - question: "Manius was sent to Asia after he had put down a revolt of enslaved people on what island in 101 BC?\t"
+        answer: "SICILY"
+      - question: "Although Manius Aquilius was tasked with recognizing Nicomedes as king of Bithynia, he was also tasked to install Ariobarzanes on the throne of what neighboring kingdom? \t\t"
+        answer: "CAPPADOCIA  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "For the verb <latin>ingredior</latin>, provide a second person future tense indicative form which means “you will enter.”\t"
+      answer: "<latin>INGREDIĒRIS / INGREDIĒRE / INGREDIĒMINĪ</latin>"
+    boni:
+      - question: "Now, keeping everything else the same, change <latin>ingrediēris</latin> to the present subjunctive form which means “you may enter.”\t"
+        answer: "<latin>INGREDIĀRIS / INGREDIĀRE</latin>"
+      - question: "Now, keeping everything else the same, change <latin>ingrediāris</latin> to the pluperfect subjunctive form which can be used in a conditional sentence to mean “you would have entered.”\t\t"
+        answer: "<latin>INGRESSUS/A/UM ESSĒS</latin>"

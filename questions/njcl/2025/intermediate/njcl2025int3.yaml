@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Which of the following rooms would commonly be found in the Roman baths: <latin>larārium</latin>, <latin>peristȳlium</latin>, <latin>tepidārium</latin>, <latin>triclīnium</latin>?\t"
+      answer: "<latin>TEPIDĀRIUM</latin>"
+    boni:
+      - question: "What is the term for the heating system in the Roman baths?\t"
+        answer: "HYPOCAUST(UM/A)"
+      - question: "Which of the following emperors had baths named after them in Rome: Augustus, Diocletian, Nerva, Pertinax?\t"
+        answer: "DIOCLETIAN"
+  - tossup:
+      question: "The story of Oedipus continues. Listen carefully to the following passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>postquam virum superbum necāvit, Oedipus urbī Thēbīs appropinquāvit. subitō animal mīrābile in saxō sedens eum adlocūtum est.</latin>     "
+      answer: "REREAD"
+    boni:
+      - question: "The story continues: <latin>animal mīrābile Oedipō dīxit, “mortālis, tē laetē consūmam, nisi aenigma meum solvēs.” aenigmate audītō, Oedipus multō cum cogitātū responsum vērum dedit. animal īrātissimē ululāvit et ēvānuit.</latin> The question: <latin>quid accidet nisi Oedipus aenigma solvet?</latin>"
+        answer: "ANIMAL (EUM / OEDIPUM) CONSŪMET // (OEDIPUS) CONSŪMĒTUR "
+      - question: "<latin>quōmodo respondit Oedipus ad aenigma?</latin>"
+        answer: "(MULTŌ) CUM COGITĀTŪ / VĒRĒ"
+  - tossup:
+      question: "Who, in disguise as a maiden huntress, visits her son to give him a history lesson about Phoenician royalty and cowhides, preparing Aeneas for his first meeting with Queen Dido?\t"
+      answer: "VENUS / APHRODITE"
+    boni:
+      - question: "About which late husband of Dido does Venus tell her son Aeneas? \t\t"
+        answer: "SYCHAEUS / SYCHARBAS"
+      - question: "With what other goddess does Venus plot to have Dido fall in love with Aeneas and keep him in Carthage?\t"
+        answer: "JUNO"
+  - tossup:
+      question: "Change the phrase <latin>altum mare</latin> to the genitive singular so that it means “of the deep sea.”\t\t"
+      answer: "<latin>ALTĪ MARIS</latin>"
+    boni:
+      - question: "Change the phrase <latin>altum mare</latin> to the ablative singular so that it means “on the deep sea.”\t\t"
+        answer: "<latin>ALTŌ MARĪ</latin>"
+      - question: "Change the phrase <latin>altum mare</latin> to the ablative plural so that it means “on the deep seas.”\t\t"
+        answer: "<latin>ALTĪS MARIBUS</latin>"
+  - tossup:
+      question: "What emperor defeated Zenobia, whose city had rebelled twice, earning him the title <latin>Restitūtor Orientis</latin>, or “Restorer of the East?” \t"
+      answer: "AURELIAN"
+    boni:
+      - question: "What city did Zenobia rule in the name of her son?\t"
+        answer: "PALMYRA"
+      - question: "Zenobia consolidated political power by acting as regent for what son of hers, allowing her to rule Palmyra in all but name?\t"
+        answer: "VABALLATHUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Who refused to make a sea journey, despite urging from his grandfather Pittheus, and instead preferred to travel on foot to Athens, the city ruled by his father?\t"
+      answer: "THESEUS"
+    boni:
+      - question: "Which famous outlaw, who robbed people and kicked them off a nearby cliff, did Theseus kill on the Isthmus of Corinth?\t"
+        answer: "SCEIRON"
+      - question: "What aquatic pet of Sceiron waited at the bottom of the cliff for the unfortunate victims?\t\t"
+        answer: "(GIANT SEA) TURTLE"
+  - tossup:
+      question: "What Latin word meaning “that” IF ANY is needed to translate the following sentence into Latin: “There were so many birds that we could not see the sun”?\t"
+      answer: "<latin>UT</latin>"
+    boni:
+      - question: "What Latin word meaning “not” IF ANY is needed to translate the following sentence into Latin: “If only we had not arrived late”?\t"
+        answer: "<latin>NĒ / NŌN</latin>"
+      - question: "What Latin word meaning “that” IF ANY is needed to translate the following sentence into Latin: “Amata knew that she had won”?\t"
+        answer: "THERE IS NO NEEDED LATIN WORD"
+  - tossup:
+      question: "What U.S. state contains a school with the motto <latin>Respice</latin>, <latin>Adspice,</latin> <latin>Prōspice</latin> and has the state motto <latin>Excelsior</latin>?\t"
+      answer: "NEW YORK"
+    boni:
+      - question: "Translate the motto <latin>Respice, Adspice, Prōspice</latin>.\t\t"
+        answer: "LOOK TO THE PAST, LOOK TO THE PRESENT, LOOK TO THE FUTURE // \tLOOK BACK, LOOK AT, LOOK FORWARD"
+      - question: "What other university in New York has the Latin motto “<latin>in lūmine tuō vidēbimus lūmen</latin>”?\t"
+        answer: "COLUMBIA (UNIVERSITY)"
+  - tossup:
+      question: "Translate the following sentence into English: “<latin>Magistra discipulōs fābulās legere iussit.</latin>”\t"
+      answer: "THE TEACHER ORDERED THE STUDENTS \tTO READ / CHOOSE (THE) STORIES"
+    boni:
+      - question: "Translate the response of the students: <latin>“Hodiē labōrāre nōlumus.”</latin> \t\t"
+        answer: "WE DO NOT WANT TO WORK TODAY"
+      - question: "Translate the following sentence from Latin to English: “<latin>Lingua Latīna nōbīs intellegenda est.</latin>” \t\t"
+        answer: "WE MUST UNDERSTAND THE LATIN LANGUAGE / TONGUE //\tTHE LATIN LANGUAGE / TONGUE MUST BE UNDERSTOOD BY US"
+  - tossup:
+      question: "Which Roman king adopted the <latin>iūs fētiāle</latin>, incorporated the Janiculum Hill into the city of Rome, and founded the port city of Ostia?\t"
+      answer: "ANCUS MARCIUS"
+    boni:
+      - question: "Ancus Marcius also commissioned what structure, Rome’s first bridge across the Tiber?"
+        answer: "<latin>PŌNS SUBLICIUS</latin> "
+      - question: "Known for his religious reforms, what earlier king was the grandfather of Ancus Marcius?"
+        answer: "NUMA POMPILIUS"
+  - tossup:
+      question: "The Latin verb <latin>faciō</latin>, <latin>facere</latin> gives us many English derivatives. Based on its derivation, if something ossifies, it becomes like what?\t"
+      answer: "BONE"
+    boni:
+      - question: "Actions have consequences or ramifications. What is literally being made according to the derivation of “ramifications”?\t"
+        answer: "BRANCHES"
+      - question: "In high-stress scenarios, you might need to find some way to mollify your emotions. What does it literally mean to mollify something?\t"
+        answer: "SOFTEN / SOOTHE / CALM"
+  - tossup:
+      question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>dabunt</latin>, <latin>capiēmus</latin>, <latin>licet</latin>, <latin>postulābis</latin>?\t"
+      answer: "<latin>LICET</latin>"
+    boni:
+      - question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>aperīret</latin>, <latin>essent</latin>, <latin>stābāmus, surrēxisset</latin>?\t"
+        answer: "<latin>SURRĒXISSET</latin>"
+      - question: "Which of the following verb forms, if any, is not the same conjugation as the others: <latin>arbitror, canō, iuvō, vocō</latin>?\t"
+        answer: "<latin>CANŌ</latin>"
+  - tossup:
+      question: "Which group of women fled to Argos to avoid marrying their first cousins but are better known for their punishment in the Underworld of carrying water with leaking sieves?\t\t"
+      answer: "DANAΪD(E)S / DAUGHTERS OF DANAÜS"
+    boni:
+      - question: "Who was their uncle, who had fifty sons to match his brother Danaüs’ fifty daughters?\t\t\t"
+        answer: "AEGYPTUS"
+      - question: "Which daughter of Danaüs did not kill her husband and was not punished like the others?\t\t\t"
+        answer: "HYPERM(N)ESTRA"
+  - tossup:
+      question: "What notorious tribune burned Cicero’s house during Cicero’s exile and later disguised himself as a woman in order to infiltrate the <latin>Bona Dea</latin> festival?\t \t\t"
+      answer: "(P.) CLODIUS / CLAUDIUS (PULCHER)"
+    boni:
+      - question: "As the second wife of Julius Caesar, what influential woman and alleged lover of Clodius hosted this festival?\t"
+        answer: "POMPEIA"
+      - question: "What man, who employed a rival entourage, gave the order to kill Clodius on the Via Appia?\t"
+        answer: "(T. ANNIUS) MILO"
+  - tossup:
+      question: "The Odyssey does not open with the fall of Troy or even Odysseus and his crew’s first stop after they left Troy. Instead, it opens with the shenanigans happening in Odysseus’ absence at his palace on what island?\t"
+      answer: "ITHACA [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "This is one possible map of Odysseus’ travels in the real Mediterranean. What encounter of Odysseus and his crew is traditionally located at number 4?"
+        answer: "CYCLOPS / POLYPHEMUS"
+      - question: "While the island is sometimes depicted much closer to Ithaca itself, name at least one royal person Odysseus met while he was at the location marked with the number 13."
+        answer: "NAUSICAÄ / ALCINOUS / ARETE"
+  - tossup:
+      question: "Pollute, laundry, and lavatory are all derived from what Latin verb with what meaning? \t\t"
+      answer: "<latin>LAVŌ</latin> - TO WASH"
+    boni:
+      - question: "What derivative of <latin>lavō</latin> means “to make something thinner or weaker by adding water or another solvent to it”?"
+        answer: "DILUTE"
+      - question: "What derivative of <latin>lavō</latin> means “sumptuously rich, elaborate, or luxurious”?"
+        answer: "LAVISH"
+  - tossup:
+      question: "Give the Latin term for the optional meal, often consisting of bread, which the Romans took in the morning as their first meal of the day.\t"
+      answer: "<latin>IENTĀCULUM</latin>"
+    boni:
+      - question: "Give the Latin term for the light midday meal which took the place of <latin>cēna</latin> when the more filling <latin>cēna</latin> moved to the evening.\t"
+        answer: "<latin>PRANDIUM</latin>"
+      - question: "Although many Romans could not afford multiple-course <latin>cēnae</latin>, some were lucky enough to dine lavishly. What was the Latin term for the course where a wealthy Roman would eat fruit or pastries?\t"
+        answer: "<latin>SECUNDA MENSA</latin>"
+  - tossup:
+      question: "When recognized by the spotter, perform or describe the following commands: <latin>Surge et tē movē sīcut avis</latin>.\t"
+      answer: "STUDENT GETS UP AND MOVES LIKE A BIRD"
+    boni:
+      - question: "When recognized by the spotter, perform or describe the following commands: <latin>In terrā iacēte et vōs movēte sīcut serpentēs. Dīcite Anglicē, “nōs sumus serpēntēs.”</latin>\t\t"
+        answer: "AT LEAST TWO STUDENTS LIE ON THE FLOOR AND MOVE LIKE SNAKES,\tAND SAY, “WE ARE SNAKES”"
+      - question: "When recognized by the spotter, perform or describe the following command: <latin>Simulāte sē lavāre sīcut fēlēs</latin>.\t"
+        answer: "AT LEAST TWO STUDENTS PRETEND \tTO BATHE THEMSELVES LIKE CATS"
+  - tossup:
+      question: "Which pair of brothers killed Dirce to avenge their mother Antiope and later built the walls of the Cadmeia in Thebes?\t"
+      answer: "AMPHION AND ZETHUS"
+    boni:
+      - question: "On what mountain near Thebes were the twins Amphion and Zethus exposed as infants?\t\t"
+        answer: "(MT.) CITHAERON"
+      - question: "Who was Amphion’s wife who was killed for boasting that she had more children than Leto?\t"
+        answer: "NIOBE  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc subitō dē caelō appāret</latin>?\t"
+      answer: "<latin>FULMEN</latin>"
+    boni:
+      - question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc verbum dēmonstrat vītam sine servitūdine</latin>?\t"
+        answer: "<latin>LĪBERTAS</latin>"
+      - question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc propter vulnus sentītur</latin>? \t"
+        answer: "DOLOR"

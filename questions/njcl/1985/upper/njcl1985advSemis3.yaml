@@ -1,0 +1,194 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Advanced"
+round: "Semifinals 3"
+questions:
+
+  - tossup:
+      question: "Who was the patron of Tibullus and Ovid?"
+      answer: "M. VALERIUS MESSALA CORVINUS"
+    boni:
+      - question: "."
+        answer: "7579"
+      - question: "What was Ovid's Latin phrase for the reason for his exile?"
+        answer: "CARMEN ET ERROR"
+      - question: "Which of his poems is a didactic poem on cosmetics and skin care?"
+        answer: "MEDICAMINA FACIEI FEMINEAE"
+  - tossup:
+      question: "Who was the mortal half-brother of Heracles?"
+      answer: "IPHICLES"
+    boni:
+      - question: "."
+        answer: "2641"
+      - question: "What was miraculous about the night Heracles was conceived?"
+        answer: "ZEUS MADE IT LAST THREE TIMES LONGER THAN NORMAL"
+      - question: "Why did Hera cause Heracles to be born a few minutes after Eurystheus?"
+        answer: "ZEUS HAD DECREED THAT THE FIRST-BORN MALE OF THAT DAY WOULD RULE THE DESCENDANTS OF PERSEUS"
+  - tossup:
+      question: "What tense of the subjunctive is required for a past contrary-to-fact condition?"
+      answer: "PLUPERFECT"
+    boni:
+      - question: "."
+        answer: "336"
+      - question: "."
+        answer: "Translate to English: Si hoc facilius esset, laetior essem. IF THIS WERE EASIER, I'D BE HAPPIER."
+      - question: "."
+        answer: "Translate to English: Nisi heri vicissemus, hodie non certassemus IF WE HADN'T WON YESTERDAY, WE WOULDN'T BE PLAYING CERTAMEN TODAY."
+  - tossup:
+      question: "."
+      answer: "5328"
+    boni:
+      - question: "Who were the two Aeduan brothers with whom Caesar had dealings in the first book of his Gallic War?"
+        answer: "DUMNORIX AND DIVIACUS"
+      - question: "What was the nationality of the chieftain Orgetorix?"
+        answer: "HELVETIAN"
+      - question: "What was the nationality of Vercingetorix?"
+        answer: "ARVERNIAN"
+  - tossup:
+      question: "Where in Rome would you see the following: meta, spina, aurigae, currus, equi?"
+      answer: "AT THE CIRCUS"
+    boni:
+      - question: "."
+        answer: "5683"
+      - question: "What were the four colors of the racing factions?"
+        answer: "RED, WHITE, BLUE, GREEN"
+      - question: "What colors were added by Domitian?"
+        answer: "PURPLE AND GOLD"
+  - tossup:
+      question: "Which emperor opened the ranks of the Praetorian Guard to provincials?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "."
+        answer: "5549"
+      - question: "With whom did Septimius Severus affiliate himself by an act of ”reverse“ adoption?"
+        answer: "MARCUS AURELIUS"
+      - question: "Whom did Septimius Severus name as his heirs?"
+        answer: "HIS SONS CARACALLA AND GETA"
+  - tossup:
+      question: "."
+      answer: "Give the Latin verb root and its meaning for ”cursive.“ CURRERE, RUN"
+    boni:
+      - question: "."
+        answer: "1017"
+      - question: "."
+        answer: "Give the Latin verb root and its meaning for ”money.“ MONERE, WARN"
+      - question: "."
+        answer: "Give the Latin noun root and its meaning for ”demented.“ MENS, MIND"
+  - tossup:
+      question: "."
+      answer: "625"
+    boni:
+      - question: "."
+        answer: "Give the principal parts of the verb which is contained in the nouns caelicola, incola and agricola. COLO, COLERE, COLUI, CULTUS"
+      - question: "What is a caelicola?"
+        answer: "HEAVEN-DWELLER, GOD"
+      - question: "What English derivative of colo means ”hidden“ or ”secret“?"
+        answer: "OCCULT"
+  - tossup:
+      question: "Who was the mother of Helen?"
+      answer: "LEDA (or NEMESIS)"
+    boni:
+      - question: "."
+        answer: "2785"
+      - question: "In what guise did Zeus visit Leda?"
+        answer: "AS A SWAN"
+      - question: "Who was Leda's mortal husband?"
+        answer: "TYNDAREUS"
+  - tossup:
+      question: "."
+      answer: "Give the nominative singular of the phrase ”a similar wound.“ VULNUS SIMILE"
+    boni:
+      - question: "."
+        answer: "Change that phrase to the genitive plural. VULNERUM SIMILIUM"
+      - question: "."
+        answer: "Change the phrase to the accusative plural. VULNERA SIMILIA"
+  - tossup:
+      question: "What type of genitive appears in the phrase *amor patriae* which is generally translated ”patriotism“?"
+      answer: "SUBJECTIVE"
+    boni:
+      - question: "What type of genitive is used in the expression *dimidium hominum*?"
+        answer: "PARTITIVE or GENITIVE OF THE WHOLE"
+      - question: "."
+        answer: "Using the impersonal *miseret*, say in Latin: ”I pity the fool“"
+      - question: "."
+        answer: "STULTI/INANIS/ASINI FATUI/MULI ME MISERET"
+  - tossup:
+      question: "What is the superlative degree of carus?"
+      answer: "CARISSIMUS"
+    boni:
+      - question: "What is its comparative?"
+        answer: "CARIOR"
+      - question: "What is its positive adverb?"
+        answer: "CARE"
+  - tossup:
+      question: "Aristophanes was a prolific writer of Greek comedy. Which of his titles might be rendered in Latin as Vespae? As Nubes?"
+      answer: "THE CLOUDS"
+    boni:
+      - question: "As Ranae?"
+        answer: "THE FROGS"
+  - tossup:
+      question: "What Roman praenomen does C. stand for?"
+      answer: "GAIUS"
+    boni:
+      - question: "Cn?"
+        answer: "GNAEUS"
+      - question: "T?"
+        answer: "TITUS"
+  - tossup:
+      question: "Who wrote a lost oratorical work called the *Anticato* and a lost verse tribute to Terence?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "| What was the title of this rebuttal?"
+        answer: "| Anticato (Anticatones) |"
+      - question: "."
+        answer: "| --- | --- |"
+      - question: "| Who wrote the eighth book of Caesar's Gallic War?"
+        answer: "| AULUS HIRTIUS |"
+      - question: "| How many books are in Caesar's De Bello Civili?"
+        answer: "| THREE |"
+      - question: "| To what earlier playwright did Caesar write a tribute?"
+        answer: "| TERENCE |"
+  - tossup:
+      question: "."
+      answer: "Although both mean ”helmet,“ *galea* and *cassis* in strict terminology distinguish the materials they were made from."
+    boni:
+      - question: "What was a *galea* made from?"
+        answer: "LEATHER"
+      - question: "What was a *cassis* made from?"
+        answer: "METAL (USUALLY BRONZE)"
+      - question: "What was a soldier's *sagum* made from?"
+        answer: "CLOTH"
+  - tossup:
+      question: "Which of the following was not a direct ancestor of Aeneas: Teucer, Assaracus, Ilus, Dardanus?"
+      answer: "ILUS (AENEAS' GREAT-UNCLE)"
+    boni:
+      - question: "Who was the father of Anchises?"
+        answer: "CAPYS"
+      - question: "Besides being a distant cousin, Priam was what relation to Aeneas?"
+        answer: "FATHER-IN-LAW"
+  - tossup:
+      question: "How many of the Seven Wonders of the World were in Italy?"
+      answer: "NONE"
+    boni:
+      - question: "How many were in Asia?"
+        answer: "THREE"
+      - question: "Which were in Africa?"
+        answer: "THE PYRAMIDS AND THE PHAROS AT ALEXANDRIA"
+  - tossup:
+      question: "From whose letters do we hear first-hand about the eruption of Vesuvius?"
+      answer: "PLINY THE YOUNGER'S"
+    boni:
+      - question: "In what year was this eruption?"
+        answer: "79 AD"
+      - question: "."
+        answer: "Name two cities buried POMPEII, HERCULANEUM, STABIAE"
+  - tossup:
+      question: "Who were the three sons of Zeus and Europa?"
+      answer: "MINOS, SARPEDON, RHADAMANTHUS"
+    boni:
+      - question: "Who was Minos' wife?"
+        answer: "PASIPHAE"
+      - question: "Who were his two daughters?"
+        answer: "ARIADNE AND PHAEDRA"
+      - question: "."
+        answer: "#"

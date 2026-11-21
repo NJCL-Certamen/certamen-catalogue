@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "<latin>Respondē aut Latīnē aut Anglicē: Cuius caput Hannibal invēnit ad pedēs suōs iactātum post proelium ad flūmen Metaurum</latin>? \t\t"
+      answer: "<latin>(FRĀTRIS)</latin> <latin>HASDRUBALIS</latin> / (HIS BROTHER) HASDRUBAL(’S)"
+    boni:
+      - question: "<latin>Respondē aut Latīnē aut Anglicē:</latin> <latin>Quōmodo Hannibal mortuus est</latin>?"
+        answer: "HE COMMITTED / DIED BY SUICIDE (WITH POISON) // <latin>SĒ INTERFĒCIT</latin> // \t\t<latin>MORTEM SIBI CONSCĪVIT // NECĀVIT / OCCĪDIT / CECĪDIT //</latin> \t\t(HOMICIDE BY) POISON / <latin>VENĒNŌ</latin> // FEVER / <latin>FEBRĪ</latin>"
+      - question: "<latin>Respondē aut Latīnē aut Anglicē:</latin> <latin>Ubi Hannibal mortuus est</latin>?"
+        answer: "<latin>IN BITHYNIĀ</latin> / IN BITHYNIA [prompt on ASIA MINOR]"
+  - tossup:
+      question: "Which of the following, if any, is not derived from the same Latin root as the others: sullen, desolate, parasol, solitaire?\t"
+      answer: "PARASOL"
+    boni:
+      - question: "From what Latin word with what meaning are the other words in the tossup derived?"
+        answer: "<latin>SŌLUS/-A/-UM</latin> - ALONE / LONELY"
+      - question: "What other English word, also derived from <latin>sōlus</latin>, is a synonym for a monologue?"
+        answer: "SOLILOQUY"
+  - tossup:
+      question: "When recognized by the spotter, perform or describe the following commands: “<latin>Surge et ambābus manibus tange caput!”</latin>\t"
+      answer: "STUDENT STANDS AND TOUCHES HEAD \tWITH BOTH HANDS (OR DESCRIBES ACTION)"
+    boni:
+      - question: "When recognized by the spotter, perform or describe the following commands: “<latin>Ambābus manibus sublātīs, omnēs, dīcite Anglicē: stilōs dēponite!”</latin>    \t\t"
+        answer: "ALL STUDENTS, WITH \tBOTH HANDS IN THE AIR, SAY “PUT DOWN YOUR PENS / PENCILS”"
+      - question: "When recognized by the spotter, perform or describe the following command: “<latin>Salīte in locō singulātim!”</latin>  \t"
+        answer: "MULTIPLE STUDENTS JUMP IN PLACE ONE BY ONE"
+  - tossup:
+      question: "In Book 14 of Ovid’s <title>Metamorphoses</title>, who sadly relates to Anchises the tale of his children, because he is upset that his son Andros could not stop the Greeks from kidnapping his daughters for their power to produce corn, wine, and olive oil, leading to their transformation into doves?\t"
+      answer: "ANIUS"
+    boni:
+      - question: "Which deity both granted the daughters their powers and effected their transformation?\t\t"
+        answer: "BACCHUS / LIBER"
+      - question: "Anius also showed Anchises a pair of famous trees on Delos. Why were these trees famous?\t"
+        answer: "<emphasis>LATONA</emphasis> HAD CLUNG TO THEM WHILE <emphasis>GIVING BIRTH</emphasis>"
+  - tossup:
+      question: "Alexiares, Scythes, and Telephus were all sons of which man who spent a year in Lydia and performed mighty deeds for his cousin Eurystheus?\t"
+      answer: "HERACLES / HERCULES"
+    boni:
+      - question: "Give the name of the goddess who was the mother of Alexiares and his brother Anicetus.\t\t"
+        answer: "HEBE"
+      - question: "Give the name of the daughter of Aleus who was also the mother of Telephus.\t"
+        answer: "AUGE  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What Latin verb form meaning “I threaten” is spelled the same as a Latin adjective used in English to denote a person who is under the age of full legal responsibility, typically under 18 years old?\t"
+      answer: "<latin>MINOR</latin>"
+    boni:
+      - question: "What two Latin words meaning “evil” and “child” could you use to say “evil child” alliteratively?\t\t"
+        answer: "<latin>PRĀVUS/-A/-UM</latin> AND <latin>PRŌLĒS</latin> / <latin>PUER / PUELLA / PŪPUS / PŪPA //\tIMPROBUS/-A/-UM</latin> AND <latin>INFĀNS</latin>"
+      - question: "Using an alliterative phrase, say in Latin “proper thumb.”\t\t"
+        answer: "<latin>PROPRIUS /</latin> <latin>PROBUS POLLEX</latin>"
+  - tossup:
+      question: "Complete the following analogy: <latin>sum : eram :: arbitror : ____</latin>.\t"
+      answer: "<latin>ARBITRĀBAR</latin>"
+    boni:
+      - question: "Complete the following analogy: <latin>sum : esse :: patior : ____</latin>.\t"
+        answer: "<latin>PATĪ</latin>"
+      - question: "Complete the following analogy based on meaning: <latin>dīcō : dīctūrum :: loquor : ____</latin>.\t \t\t"
+        answer: "LOCŪTŪRUM"
+  - tossup:
+      question: "This inscription indicated the relationship among several emperors. Explain the relationship denoted by the abbreviation <latin>F</latin>."
+      answer: "HADRIAN IS THE SON OF TRAJAN"
+    boni:
+      - question: "Which Latin word in this inscription refers to the town whose citizens dedicated it?"
+        answer: "<latin>(SENATUS POPULUSQUE) ARICINUS</latin> "
+      - question: "Which of the following abbreviated words from the inscription is not in the dative case: <latin>AUG</latin>, <latin>COS</latin>, <latin>F</latin>, <latin>IMP</latin>, <latin>MAX</latin>, and <latin>POT</latin>?"
+        answer: "<latin>POT</latin> "
+  - tossup:
+      question: "How many words in the following sentence are derived from Latin: While traveling to the National Convention, I discovered many facts I had not committed to memory. \t\t"
+      answer: "SEVEN"
+    boni:
+      - question: "Identify 2 English words and their Latin roots from the tossup sentence. \t\t"
+        answer: "(SEE BELOW)"
+      - question: "Identify 2 more English words and their Latin roots from the tossup sentence.\t \t\t"
+        answer: "TRAVEL"
+  - tossup:
+      question: "The story of Oedipus continues. Listen carefully to the following passage, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>post multōs annōs, Antigonē, Oedipī fīlia, sē interrogat: “quid faciam dē frātribus meīs? ambō sunt mortuī, alter in sepulcrō iūstē positus, alter sub sōle turpiter iacēns. sī eum in terrā sepeliam, rex mē pūniat. sed timor nēminem adiuvat. fortiter faciam quod faciendum sit!” itaque noctū ex urbe discēdit ut rem efficiat.</latin>   "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>cūr timet soror?</latin>"
+        answer: "(SI FRĀTREM SEPELIAT) \t\tREX EAM / ANTIGONEM / ANTIGONAM PŪNIET / PŪNIAT // POENĀ "
+      - question: "<latin>quid ab Antigonē extrā urbem efficiētur?</latin>"
+        answer: "(EA/ANTIGONĒ) FRĀTREM SEPELIET // FRĀTER SEPELIĒTUR"
+  - tossup:
+      question: "Of Maryland, Michigan, Massachusetts, and Missouri, which one includes on its state seal a syncopated form of the verb <latin>corōnāvistī</latin>?\t"
+      answer: "MARYLAND"
+    boni:
+      - question: "Give the Latin and English for the full Latin phrase from Maryland’s state seal that includes this syncopated form of <latin>corōnāvistī</latin>. \t\t"
+        answer: "<latin>SCŪTŌ BONAE VOLUNTĀTIS TUAE CORŌNĀSTĪ NŌS</latin>, \tYOU HAVE CROWNED US WITH THE SHIELD OF YOUR GOOD WILL"
+      - question: "What other Latin phrase with two plural imperatives appears on a former state seal of Maryland?\t"
+        answer: "<latin>CRĒSCITE ET MULTIPLICĀMINĪ</latin>"
+  - tossup:
+      question: "Which Roman emperor, supported by both Gaiseric and the Roman senators, failed to reclaim Africa and was consequently executed by Ricimer, the man who had elevated him to the throne in 457 AD?\t"
+      answer: "MAJORIAN"
+    boni:
+      - question: "Which predecessor of Majorian was backed by Theodoric II and the Eastern empire, making him the first Roman emperor to be appointed by non-Romans?\t"
+        answer: "AVITUS"
+      - question: "Avitus had helped enlist the aid of Theodoric’s father when Avitus was serving as a subordinate to what well-known Roman general?\t"
+        answer: "(FLAVIUS) AETIUS"
+  - tossup:
+      question: "Which Titan had four sons: one sent to Erebus by Zeus for his arrogance, one freed from torment by Heracles, one that met both Heracles and Perseus, and one that married the first human woman in mythology?\t"
+      answer: "IAPETUS"
+    boni:
+      - question: "Which of Iapetus’ sons famously tried to trick Zeus at Mecone?\t"
+        answer: "PROMETHEUS"
+      - question: "Who was the first son mentioned in the tossup, whom Zeus sent to Erebus?\t\t"
+        answer: "MENOETIUS"
+  - tossup:
+      question: "Change the phrase <latin>ulla rēs</latin> to the genitive singular, so that it means “of any matter.”\t\t"
+      answer: "<latin>ULLĪUS REĪ</latin>"
+    boni:
+      - question: "Change the phrase <latin>ullīus reī</latin> to the genitive plural, so that it means “of the only matters.”\t\t"
+        answer: "<latin>ULLĀRUM RĒRUM</latin>"
+      - question: "Change the phrase <latin>ullārum rērum</latin> to the ablative plural, so that it means “by the only matters.”\t"
+        answer: "<latin>ULLĪS RĒBUS</latin>"
+  - tossup:
+      question: "To what man—better known for his running than his looks and a son of Eumedes—did Hector promise the horses of Achilles if he went on a night scouting expedition to the Greek camp in Book 10 of the <title>Iliad</title>?\t"
+      answer: "DOLON"
+    boni:
+      - question: "After he was quickly captured by Odysseus and Diomedes, what Trojan ally’s camp did Dolon point out as the outermost for his captors to raid?\t"
+        answer: "RHESUS’"
+      - question: "From what region near Greece did Rhesus come?\t"
+        answer: "THRACE  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Tarquinius Superbus was granted a final refuge by what ruler, who famously routed the Etruscans at the battle of Aricia in 506 BC? \t"
+      answer: "ARISTODEMUS"
+    boni:
+      - question: "What son of Lars Porsenna did Aristodemus defeat at Aricia?\t"
+        answer: "ARRUNS"
+      - question: "What city, the final refuge for Tarquinius Superbus, did Aristodemus rule?\t"
+        answer: "CUMAE"
+  - tossup:
+      question: "Provide the form of the Latin noun <latin>tempus</latin> needed to follow the preposition <latin>trans</latin>, as in the sentence “she traveled across time.”\t"
+      answer: "<latin>TEMPUS</latin>"
+    boni:
+      - question: "Provide the form of the Latin noun <latin>līmen</latin> needed to follow the preposition <latin>sub</latin>, as in the phrase “we walked up to the threshold.”\t"
+        answer: "<latin>LĪMEN</latin>"
+      - question: "Provide the plural form of the Latin noun <latin>cornū</latin> needed to follow the preposition <latin>sine</latin>, as in the phrase “without horns.”\t"
+        answer: "<latin>CORNIBUS / CORNUBUS</latin>"
+  - tossup:
+      question: "What building material, originally dried in the sun but later kiln-fired, was made from the Tiber Basin’s clay, featured distinguishing stamps, and, considered more fire-resistant than tufa, was used by the Romans to fortify the new concrete walls built after the Great Fire of 64 AD?\t"
+      answer: "BRICK"
+    boni:
+      - question: "What building material, controlled by the emperors well into the 3rd century AD, was in high demand, although much of it had to be shipped into Rome due to the scarcity of nearby quarries?\t"
+        answer: "MARBLE"
+      - question: "What building material, more durable than volcanic stone, could be used as a replacement for marble in public architecture, could feature different colors, and could be fired in a kiln to obtain the lime necessary for mixing concrete?\t"
+        answer: "LIMESTONE"
+  - tossup:
+      question: "What group of men, whose members included Sthenelus, Euryalus, Diomedes, and Thersander, marched on the city of Thebes to avenge their fathers’ deaths?\t"
+      answer: "EPIGONI"
+    boni:
+      - question: "Which of the Seven Against Thebes, who repelled an ambush of fifty men before the main siege, was Diomedes’ father?\t"
+        answer: "TYDEUS"
+      - question: "Which of the Seven Against Thebes, who bore a shield with the inscription “I will burn the city,” was Sthenelus’ father?\t"
+        answer: "CAPANEUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Translate the following sentence from Latin to English: <latin>Gubernātrix, terrās ignōtās petēns, rotam nāvis ad dextram vertit</latin>.\t"
+      answer: "THE HELMS(WO)MAN / GOVERNOR, \tSEEKING / HEADING FOR UNKNOWN / UNFAMILIAR LANDS, \tTURNS / TURNED THE WHEEL OF THE SHIP TO THE RIGHT"
+    boni:
+      - question: "Translate the following sentence from Latin to English: <latin>Cum gubernātrix nāvem in terram āridam dūxisset, ēgressa est et cibum quaesīvit</latin>.\t \t\t"
+        answer: "AFTER / WHEN / SINCE THE HELMS(WO)MAN / GOVERNOR \tHAD LED THE SHIP ONTO / INTO DRY LAND, SHE DISEMBARKED / \tLEFT AND SEARCHED FOR FOOD"
+      - question: "Translate the following sentence from Latin to English: <latin>Fēminā duce, omnēs fidēlēs nautae adiuvandī causā secūtī sunt</latin>.\t"
+        answer: "WITH THE WOMAN AS (A / THE) LEADER\tALL THE LOYAL / FAITHFUL SAILORS FOLLOWED\tFOR THE SAKE OF HELPING / TO HELP"

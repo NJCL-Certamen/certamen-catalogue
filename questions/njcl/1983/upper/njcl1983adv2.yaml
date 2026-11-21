@@ -1,0 +1,212 @@
+tournament: "NJCL Certamen"
+year: 1983
+division: "Advanced"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "What poet begins a work: <u>Maecenas, atavis edite regibus?"
+      answer: "</u> HORACE"
+    boni:
+      - question: "What is the collection?"
+        answer: "THE ODES"
+      - question: "What work begins: <u>Phoebe silvarumque potens Diana?"
+        answer: "</u>"
+      - question: "."
+        answer: "THE CARMEN SAECULARE"
+      - question: "."
+        answer: "666"
+  - tossup:
+      question: "Quot fiunt ter quattuor?"
+      answer: "DUODECIM"
+    boni:
+      - question: "What Latin noun means “one half?"
+        answer: "” DIMIDIUM"
+      - question: "How would a Roman say “three fifths?"
+        answer: "” TRES QUINTAE (PARTES)"
+      - question: "."
+        answer: "402"
+  - tossup:
+      question: "What is the third person plural pluperfect active indicative of capio?"
+      answer: "CEPERANT"
+    boni:
+      - question: "What is the first person plural imperfect passive indicative of traho?"
+        answer: "TRAHEBAMUR"
+      - question: "What is the second person singular future passive indicative of moneo?"
+        answer: "MONEBERIS"
+      - question: "."
+        answer: "5035"
+  - tossup:
+      question: "What Roman king was murdered by the sons of Ancus Martius?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "What was the fullname of the Brutus who drove out Tarquinius Superbus?"
+        answer: "LUCIUS JUNIUS BRUTUS"
+      - question: "What was the name of the wife of Servius Tullius?"
+        answer: "TARQUINIA"
+      - question: "."
+        answer: "464"
+  - tossup:
+      question: "."
+      answer: "Complete the analogy. deis : deus :: ________ : res REBUS"
+    boni:
+      - question: "."
+        answer: "Oppidorum : oppidum :: ________ : manus MANUUM"
+      - question: "."
+        answer: "Urbem : urbs :: ________ : vis VIM"
+      - question: "."
+        answer: "(DIANA)"
+      - question: "."
+        answer: "2920"
+  - tossup:
+      question: "What twins were born on the island of Delos?"
+      answer: "APOLLO AND ARTEMIS"
+    boni:
+      - question: "Who were their parents?"
+        answer: "ZEUS AND LETO (JUPITER AND LATONA)"
+      - question: "Of what was Diana the goddess?"
+        answer: "THE MOON, THE HUNT, MAIDENHOOD"
+      - question: "."
+        answer: "329"
+  - tossup:
+      question: "What construction involves the use of sum and the future active participle?"
+      answer: "THE ACTIVE PERIPHRASTIC"
+    boni:
+      - question: "What verb form is used with sum to for the passive periphrastic?"
+        answer: "THE FUTURE PASSIVE PARTICIPLE (GERUNDIVE)"
+      - question: "Of the six possible participial forms, which two are missing in Latin?"
+        answer: "PRESENT PASSIVE AND PERFECT ACTIVE"
+      - question: "."
+        answer: "7521"
+  - tossup:
+      question: "What is the Latin title of Caesar's most famous work?"
+      answer: "COMMENTARII DE BELLO GALLICO"
+    boni:
+      - question: "How many books are in it?"
+        answer: "EIGHT"
+      - question: "Who wrote the eighth?"
+        answer: "AULUS HIRTIUS"
+      - question: "."
+        answer: "498"
+  - tossup:
+      question: "What is the meaning of the idiom <u>certiorem facere?"
+      answer: "</u> INFORM"
+    boni:
+      - question: "Of the idiom inter se dare?"
+        answer: "EXCHANGE, SWAP"
+      - question: "Of the idiom <u>poenam dare?"
+        answer: "</u> PAY THE PENALTY, SUBMIT TO PUNISHMENT"
+      - question: "."
+        answer: "5171"
+  - tossup:
+      question: "What was the largest unit of the Roman army?"
+      answer: "LEGION"
+    boni:
+      - question: "Into how many cohorts was a legion divided?"
+        answer: "TEN"
+      - question: "How many men was a legion supposed to contain?"
+        answer: "SIX THOUSAND"
+      - question: "."
+        answer: "PA2"
+      - question: "."
+        answer: "5053"
+  - tossup:
+      question: "What two cities fell in 146 BC?"
+      answer: "CARTHAGE AND CORINTH"
+    boni:
+      - question: "What did the Romans call their province of Greece?"
+        answer: "ACHAIA"
+      - question: "What did they call the province that included the site of Carthage?"
+        answer: "AFRICA"
+      - question: "."
+        answer: "2556"
+  - tossup:
+      question: "What Trojan supposedly collaborated with the Greeks, opened the door in the Trojan Horse and fled Troy to found a city in Italy?"
+      answer: "ANTENOR"
+    boni:
+      - question: "What Trojan prince was treacherously murdered by his host in Thrace?"
+        answer: "POLYDORUS"
+      - question: "Who was Polydorus' sister, wife of his murderer?"
+        answer: "ILIONE"
+      - question: "."
+        answer: "663"
+  - tossup:
+      question: "What is the gender of all indeclinable nouns?"
+      answer: "NEUTER"
+    boni:
+      - question: "What is the gender of Aegyptus, Egypt?"
+        answer: "FEMININE"
+      - question: "."
+        answer: "Name two feminine fourth-declension nouns. ACUS, ANUS, COLUS, DOMUS, IDUS, MANUS, NURUS, PORTICUS, SOCRUS, TRIBUS"
+      - question: "."
+        answer: "7634"
+  - tossup:
+      question: "By what rhetorical device is Achilles called Pelides?"
+      answer: "PATRONYMIC"
+    boni:
+      - question: "What rhetorical device is used when all of Troy is called Pergama?"
+        answer: "SYNECDOCHE"
+      - question: "By what rhetorical device is the Trojan Horse called by Vergil instar montis?"
+        answer: "HYPERBOLE"
+      - question: "."
+        answer: "2656"
+  - tossup:
+      question: "Who was Perseus' grandfather who wanted to kill Perseus and his mother?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "Who was the fisherman who saved Perseus and Danae?"
+        answer: "DICTYS"
+      - question: "Who was Dictys' brother who lusted after Danae?"
+        answer: "POLYDECTES"
+      - question: "."
+        answer: "506"
+  - tossup:
+      question: "What occupation was a nutrix?"
+      answer: "NURSE"
+    boni:
+      - question: "What was a caupo?"
+        answer: "INNKEEPER"
+      - question: "What was a vestitor?"
+        answer: "TAILOR"
+      - question: "."
+        answer: "2727"
+  - tossup:
+      question: "What two heroes fought warriors which had sprung from dragon's teeth?"
+      answer: "CADMUS AND JASON"
+    boni:
+      - question: "What two characters in mythology threw golden apples?"
+        answer: "HIPPOMENES (MELANION) AND ERIS"
+      - question: "Atalanta and Hippomenes offended Aphrodite; what was their punishment?"
+        answer: "THEY WERE TURNED INTO LIONS"
+      - question: "."
+        answer: "620"
+  - tossup:
+      question: "Which of the following is not a derivative of cor: “encourage,” “record,” “coronary,” “cordial?"
+      answer: "” CORONARY"
+    boni:
+      - question: "Which, if any, of the following is from cor: corral, coral, excoriate, corduroy, coriander, cornea, succor?"
+        answer: "NONE"
+      - question: "What Latin word is the root of corral?"
+        answer: "CURRUS or CURRERE"
+      - question: "."
+        answer: "5376"
+  - tossup:
+      question: "Which two of the four emperors of 69 AD were murdered in Rome?"
+      answer: "GALBA AND VITELLIUS"
+    boni:
+      - question: "Which of the emperors of 69 AD was a previous husband of a wife of Nero?"
+        answer: "OTHO"
+      - question: "Which of the emperors of 69 AD was proclaimed emperor by the legions in Germany?"
+        answer: "VITELLIUS"
+      - question: "."
+        answer: "7627"
+  - tossup:
+      question: "Who in the Aeneid says: Durate et vosmet rebus servate secundis?"
+      answer: "AENEAS"
+    boni:
+      - question: "Who says: Tuus, o regina, quid optes Explorare labor; mihi iussa capessere fas est?"
+        answer: "AEOLUS"
+      - question: "Whom is he addressing?"
+        answer: "JUNO"
+      - question: "."
+        answer: "#"

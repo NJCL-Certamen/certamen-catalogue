@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2024
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Listen carefully to the following fable, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>ōlim</latin> <latin>cunīculum, per silvam et agrōs currentem, canis ferōx petīvit. cunīculus, quī multō celerior cane erat, facile canem ēvadere poterat. posteā amīcī canem rīdēbant, quod lentus erat. canis respondit, “ridētis, amīcī, sed certāmen nōn aequum erat. cunīculus prō vītā cucurrit; ego prō cēnā.”</latin>    "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>cūr amīcī canis rīdēbant?</latin>"
+        answer: "(QUOD) CUNĪCULUS ERAT CELERRIMUS / \tCELERIOR QUAM CANIS //  \t\t(QUOD) CUNĪCULUS FACILE FŪGIT  \t\t(QUOD) CANIS NŌN CUNICULUM CĒPIT // \t\t(QUOD) CANIS LENTUS / LENTIOR (ERAT)"
+      - question: "<latin>quid canis facere volēbat postquam cunīculum cēpit?</latin>"
+        answer: "(EUM / CUNĪCULUM) CŌNSŪMERE / (DE)VORĀRE / EDERE / ĒSSE //  \t\t(EUM / CUNĪCULUM) PRŌ CENĀ HABĒRE"
+  - tossup:
+      question: "Using the verb <latin>pellō</latin>, say in Latin “you all had pushed.”\t \t\t"
+      answer: "<latin>(VŌS OMNĒS) PEPULERĀTIS</latin>"
+    boni:
+      - question: "Using <latin>pellō</latin> once again, say in Latin “you all had been pushed.”\t \t"
+        answer: "<latin>(VŌS OMNĒS) PULSĪ/AE/A ERĀTIS</latin>"
+      - question: "Continuing to use <latin>pellō</latin>, give the infinitive that means “to be pushed.”\t\t\t"
+        answer: "<latin>PELLĪ</latin>"
+  - tossup:
+      question: "Constructed of wood and a material produced by <latin>apēs</latin>, what object was used in Roman education and business as an erasable writing surface?\t \t\t"
+      answer: "CĒRA(E) / <latin>TABULA(E) / TABELLA(E) / PUGILLĀRIS / PUGILLĀRĒS / \tPUGILLĀR(IA)</latin> / WAX TABLET(S)"
+    boni:
+      - question: "Romans would also sometimes use <latin>ātrāmentum</latin> in their writing process. What is <latin>ātrāmentum</latin> in this context?\t"
+        answer: "(BLACK / WRITING) INK"
+      - question: "After mastering the <latin>stilus</latin> and <latin>cērae</latin>, Roman students would learn how to write in ink with a pen on papyrus. What material was the pen, or <latin>calamus</latin>, usually made of?\t \t\t"
+        answer: "REED / <latin>HARUNDŌ</latin>"
+  - tossup:
+      question: "While attending the Farewell Dance, you want to request a song in Latin. What is the present active infinitive of the Latin word you would use to request “Jump” by Van Halen? \t"
+      answer: "<latin>SALĪRE / EXSULTĀRE / DĒSILĪRE</latin>"
+    boni:
+      - question: "Now you want to request “Faith” by George Michael. What Latin noun should you use to request this song title?\t"
+        answer: "<latin>FIDĒS / FIDĒLITĀS / FIDŪCIA / PIGNUS / CONFĪDENTIA</latin>"
+      - question: "You close out the night with “Breathe” by Faith Hill. What is the present active infinitive of the verb you use to request this song?\t \t\t"
+        answer: "(RE/EX/IN)SPĪRĀRE / HALĀRE / ANHELĀRE"
+  - tossup:
+      question: "When the Trojans finally reach Italy, whom does Juno call upon to cause trouble for them, since that was her specialty as a Fury? \t"
+      answer: "AL(L)ECTO / A(L)LECTO"
+    boni:
+      - question: "What queen encourages the Latin women to oppose the Trojans while she is under Alecto’s influence? \t"
+        answer: "AMATA"
+      - question: "To what man does Allecto appear in a dream, disguised as the priestess Calybe? \t\t"
+        answer: "TURNUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Marcus Claudius Marcellus and the future Scipio Africanus were among the survivors of  a battle at what small fortress town in Apulia in 216 BC?\t"
+      answer: "CANNAE"
+    boni:
+      - question: "To what city was Publius Cornelius Scipio sent in 218 BC to intercept Hannibal but missed him, allowing Hannibal to cross the Alps and invade Italy?"
+        answer: "MASSILIA / MASSALIA / MARSEILLE(S)"
+      - question: "What city, which was also a battle site in the first phase of the First Punic War, did the Romans retake in 210 BC to regain control of all of Sicily?\t \t\t"
+        answer: "AGRIGENTUM / AGRIGENTO / ACRAGAS / GIRGENTI"
+  - tossup:
+      question: "Translate the following sentence into Latin: “Roman poets wrote the most beautiful songs.”\t"
+      answer: "{<latin>POĒTAE RŌMĀNĪ // POĒTRIAE RŌMĀNAE // VATĒS RŌMĀNĪ / -AE} \t{CARMINA / POĒMATA PULCHERRIMA // CANTŪS / VERSŪS \tPULCHERRIMŌS // FĀBULĀS PULCHERRIMĀS}  \t\t{SCRĪPSĒRUNT / SCRĪBĒBANT}</latin>"
+    boni:
+      - question: "Now translate this sentence into Latin: “The songs of the poets have been very greatly praised.”\t"
+        answer: "<latin>CARMINA POĒTĀRUM {MAXIMĒ LAUDĀTA SUNT // \t\tLAUDĀTISSIMA FUĒRUNT}</latin>"
+      - question: "Finally, translate this sentence into Latin: “Which poet recited most quickly?”\t\t"
+        answer: "{<latin>QUĪ POĒTA // QUAE POĒTRIA} CELERRIMĒ {RECITĀVIT / RECITĀBAT}?</latin>"
+  - tossup:
+      question: "Barbie’s friend Ken is not alone in his deep appreciation of horses. Which Greek hero possessed a horse that was granted a voice by Hera to warn him that his doom draws nigh at the hands of Apollo and Paris?\t"
+      answer: "ACHILLES"
+    boni:
+      - question: "Which mythological horse was the offspring of Poseidon and Demeter? \t"
+        answer: "ARION"
+      - question: "What king was given divine horses as recompense for the abduction of his son, Ganymede?\t"
+        answer: "TROS / LAOMEDON"
+  - tossup:
+      question: "What emperor defeated the Carpi in Dacia during his reign from 244 to 249 AD, which included Rome’s 1000th anniversary?\t"
+      answer: "PHILIP (THE ARABIAN)"
+    boni:
+      - question: "What man defeated Philip at Verona in 249 AD, seizing the throne? \t"
+        answer: "(TRAJAN) DECIUS"
+      - question: "Decius is reported to have been the first emperor ever killed in open battle. At what battle in 251 AD was he killed by the Goths led by Kniva?\t"
+        answer: "ABRI(T)TUS"
+  - tossup:
+      question: "What mythological woman, who was not actually given a name in literature until the 1700s, was originally a statue that was created to portray the perfect woman in the eyes of her sculptor, Pygmalion?\t"
+      answer: "GALATEA"
+    boni:
+      - question: "Of what island was Pygmalion king?\t"
+        answer: "CYPRUS"
+      - question: "What daughter of Pygmalion and Galatea gave her name to a city on Cyprus?\t"
+        answer: "PAPHOS"
+  - tossup:
+      question: "Differentiate in meaning between <latin>discēdō</latin> and <latin>dēscendō</latin>.\t\t"
+      answer: "<latin>DISCĒDŌ</latin> - DEPART / LEAVE / DESERT and <latin>DĒSCENDŌ</latin> - DESCEND"
+    boni:
+      - question: "Now distinguish in meaning between the Latin nouns <latin>vir</latin> and <latin>vīs</latin>."
+        answer: "<latin>VIR</latin> - MAN / HUSBAND ; <latin>VĪS</latin> - FORCE / POWER / STRENGTH / VIOLENCE"
+      - question: "Differentiate in meaning between the Latin body parts <latin>genū</latin> and <latin>gena</latin>."
+        answer: "<latin>GENŪ</latin> - KNEE and <latin>GENA</latin> - CHEEK / JOWL / EYE(LID/SOCKET)"
+  - tossup:
+      question: "Provide the number for the scene that occurs in Book 5 of the <title>Odyssey</title>."
+      answer: "4"
+    boni:
+      - question: "Identify the person represented by the letter D."
+        answer: "HECUBA / HECABE"
+      - question: "Identify the location of the conversation between G and H, which is described in Book 3 of the <title>Iliad</title>."
+        answer: "(LOOKING DOWN FROM THE) WALLS OF TROY"
+  - tossup:
+      question: "Give an antonym of the Latin noun <latin>aestās</latin>, which means “summer.”\t"
+      answer: "<latin>HIEMS / BRŪMA</latin>"
+    boni:
+      - question: "What is the Latin word for the season “spring”?\t"
+        answer: "<latin>VĒR</latin>"
+      - question: "What Latin word can mean “season,” though it is more commonly used to refer to bad weather?\t"
+        answer: "<latin>TEMPESTĀS</latin>"
+  - tossup:
+      question: "Whose death in 118 BC led to the division of his kingdom among two legitimate sons and one illegitimate son, eventually giving rise in Numidia to the Jugurthine War?\t"
+      answer: "MICIPSA"
+    boni:
+      - question: "Jugurtha massacred the inhabitants of what city in 112 BC, precipitating the war with Rome?\t"
+        answer: "CIRTA / CONSTANTINE"
+      - question: "What commander recaptured Cirta and won a victory in the Muthul Valley before command was passed to Marius and Sulla?"
+        answer: "(Q. CAECILIUS) METELLUS NUMIDICUS"
+  - tossup:
+      question: "Complete the grammatical analogy: <latin>possum : potest :: mālō : [blank].</latin>\t"
+      answer: "MĀVULT"
+    boni:
+      - question: "Now complete this grammatical analogy: <latin>māvult : mālle :: potest: [blank].</latin>\t"
+        answer: "POSSE"
+      - question: "Now complete this grammatical analogy: <latin>posse : potuimus :: tollere : [blank].</latin>\t\t"
+        answer: "SUSTULIMUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quae via Rōmā Arīminum dūcit</latin>?   \t\t"
+      answer: "VIA FLĀMINIA / FLAMINIAN WAY"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quae via Venūsiā Tarentum dūcit?</latin>\t \t\t"
+        answer: "VIA APPIA / RĒGĪNA VIĀRUM / APPIAN WAY"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē: Quae via Rōmā Pīsam dūcit?</latin> \t\t"
+        answer: "VIA AURĒLIA / AURELIAN WAY // <latin>VIA CASSIA</latin> / CASSIAN WAY"
+  - tossup:
+      question: "Using <latin>scientia</latin> to mean “science,” say in Latin, “The happy teacher had taught the students science.” \t\t"
+      answer: "<latin>MAGISTER LAETUS / MAGISTRA LAETA DISCIPULŌS / DISCIPULĀS \tSCIENTIAM DOCUERAT</latin>"
+    boni:
+      - question: "Using the Latin verb <latin>perficiō</latin>, a compound of <latin>faciō</latin>, say in Latin: “The students will have finished the work.” \t\t"
+        answer: "<latin>DISCIPULĪ  / DISCIPULAE LABŌREM / OPUS PERFĒCERINT</latin>"
+      - question: "Making sure to use a word in the genitive case, say in Latin: “The teacher gave the students more time.” \t\t"
+        answer: "<latin>MAGISTER / MAGISTRA PLŪS TEMPORIS / THYMĪ DISCIPULĪS DEDIT</latin>"
+  - tossup:
+      question: "Whose abduction caused an invasion of Attica and occupation of the Areopagus by the Amazons until they were either defeated or battled to a draw by Theseus? \t\t"
+      answer: "ANTIOPE’S / HIPPOLYTA’S / MELANIPPE’S / GLAUCE’S"
+    boni:
+      - question: "According to some sources, Melanippe died when what other Amazon accidentally shot her?\t"
+        answer: "PENTHESILE(I)A"
+      - question: "Whose later abduction by Theseus led to an invasion of Attica by the Dioscuri? \t\t"
+        answer: "HELEN’S"
+  - tossup:
+      question: "Which of the following phrases does not mean “spontaneously”: <latin>ad libitum, nē plūs ultrā, temporis causā, ex tempore</latin>?\t"
+      answer: "<latin>NĒ PLŪS ULTRĀ</latin>"
+    boni:
+      - question: "What is the meaning of the phrase <latin>nē plūs ultrā</latin>?\t\t"
+        answer: "NOTHING MORE BEYOND // PERFECTION"
+      - question: "What three-word Latin phrase from Horace means “now is the time to drink”? \t\t"
+        answer: "<latin>NUNC EST BIBENDUM</latin>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What English noun, derived from the Latin word meaning “to rule,” refers to a violent uprising against a government or authority?\t \t\t"
+      answer: "INSURRECTION / INSURGENCY / INSURGENCE"
+    boni:
+      - question: "What English noun, derived from a Latin word meaning “to turn,” is synonymous with “nemesis” or “rival” in English?\t"
+        answer: "ADVERSARY"
+      - question: "What English word, derived from a Latin word meaning “to place” and frequently abbreviated by Gen Alpha, is also synonymous with “nemesis,” “rival,” and “adversary”?\t\t"
+        answer: "OP(PS) / OPPONENT / OPPOSITION / OPPOSER"

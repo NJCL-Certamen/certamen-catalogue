@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What literary device, from a Greek word for ‘join’ is found when a single verb is used in multiple ways within a single sentence such as the Latin <latin>crūdēlēs ārās trāiectaque pectora ferrō nūdāvit</latin>?\t"
+      answer: "ZEUGMA"
+    boni:
+      - question: "Going the other way, what literary device makes “one from two” by placing two nouns together rather than a noun-adjective pair such as the ‘tipsy jest’ of Catullus 12: <latin>in iocō atque vīnō tollis lintea neglegentiōrum</latin>?\t"
+        answer: "HENDIADYS"
+      - question: "What other literary device is demonstrated by stating actions out of order as shown by Vergil: <latin>moriāmur, et in media arma ruāmus</latin>?\t"
+        answer: "HYSTERON PROTERON"
+  - tossup:
+      question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Quid agrī Caecubī nōtissimē prōdūcēbant?</latin> \t\t"
+      answer: "ŪVĀS / VĪNUM / GRAPES / WINE"
+    boni:
+      - question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Quot cēnantēs in ūnō lectō iacēre poterant, ut mos fuit?</latin>\t"
+        answer: "ŪNUS / DUO / TRĒS / ONE / TWO / THREE"
+      - question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Cēnāns cum aequālibus, in quō lectō iacēbat hospes</latin>? <latin>in</latin> <latin>īmō</latin>, <latin>mediō</latin>, <latin>an</latin> <latin>summō?</latin>\t"
+        answer: "<latin>(IN LECTŌ) ĪMŌ /</latin> THE LOWEST (COUCH)"
+  - tossup:
+      question: "Since he had allied with Taphian pirates, what man had to be saved from an Ithacan mob by Odysseus, but forgot this when he tried to avenge his son Antinoüs with the other suitors’ parents?\t"
+      answer: "EUPEITHES"
+    boni:
+      - question: "Who ultimately killed Eupeithes with a spear throw?\t"
+        answer: "LAËRTES"
+      - question: "When Eupeithes allied with the Taphian pirates, he was attacking what Ithacan allies, whom Odysseus repeatedly claimed to have visited, befriending their king Pheidon? \t\t"
+        answer: "THESPROTIANS"
+  - tossup:
+      question: "Provide the perfect participles of <latin>alō</latin> and <latin>ulcīscor</latin>, which would mean \"nourished\" and \"having avenged.\"\t"
+      answer: "<latin>AL(I)TUS / -A / -UM & ULTUS / -A / -UM</latin> "
+    boni:
+      - question: "Change the verb form <latin>adepta sum</latin> to the present tense, which would mean \"I acquire.\""
+        answer: "<latin>ADIPĪSCOR</latin> "
+      - question: "Provide the perfect participles of <latin>metō</latin> and <latin>mētior</latin>, which would mean \"reaped\" and \"having measured.\""
+        answer: "<latin>MESSUS / -A / -UM & MĒNSUS / -A / -UM</latin>"
+  - tossup:
+      question: "Shortly before killing the Trojan warrior Aretus, what son of Diores aided Patroclus by driving Xanthus and Balius, since he was Achilles’ usual charioteer?\t"
+      answer: "AUTOMEDON"
+    boni:
+      - question: "Automedon sped up his chariot by adding the trace horse Pedasus, which had been seized from what city of Eëtion?\t"
+        answer: "CILICIAN / HYPOPLACIAN / PLACIAN THEBE(S) // \t\tTHEBE(S) UNDER PLACUS / IN ASIA MINOR / NEAR TROY"
+      - question: "After Patroclus’ funeral-games, Automedon went to fetch a gift from Achilles for what man, who had finished last in the chariot-race due to sabotage by Athena?\t"
+        answer: "EUMELUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "A circle drawn by Popilius Laenas was enough to intimidate what monarch into abandoning his attack on Alexandria, breaking from the aggression towards Egypt held by his father, Antiochus?\t"
+      answer: "ANTIOCHUS IV / EPIPHANES / EPIMANES"
+    boni:
+      - question: "By the time Antiochus IV reached the throne, the Seleucid kingdom had been decimated by the terms of the Treaty of Apamea, which his father negotiated with what Roman? \t\t"
+        answer: "(CN.) MANLIUS VULSO"
+      - question: "While he was king, Antiochus IV also made attempts to hellenize Judaea, prompting what landowner to start a revolt with his brothers, Simon and Jonathan? \t\t"
+        answer: "JUDAS MACCAB(A)EUS // JUDAH MACCABEE"
+  - tossup:
+      question: "Which of the following, if any, IS the title of a work by Plautus: <title><latin>Adelphoe</latin></title>, <title><latin>Andria</latin></title>, <title><latin>Hecyra</latin></title>, <title><latin>Phormiō</latin></title>, <title><latin>Pseudolus</latin></title>?\t"
+      answer: "<title><latin>PSEUDOLUS</latin></title>"
+    boni:
+      - question: "The characters Sosia, Mercurius, and Alcumena are found in what play of Plautus? \t\t"
+        answer: "<title><latin>AMPHITRUO</latin></title>"
+      - question: "The characters Trachalio, Palaestra, Gripus, and a chorus of fishermen are found in what other play of Plautus?\t"
+        answer: "<title><latin>RUDENS</latin></title>"
+  - tossup:
+      question: "Using a supine form, translate into Latin: At night, the moon is easier to see"
+      answer: "<latin>NOCTE / NOCTŪ / PER NOCTEM LŪNA FACILIOR VĪSŪ EST</latin>"
+    boni:
+      - question: "Using a supine form, translate into Latin: The mother sent her daughter to find her sister. \t\t"
+        answer: "MĀTER FĪLIAM (SUAM) SORŌREM (EIUS / SUAM)  \t\tINVENTUM / REPERTUM / NA(N)CTUM MĪSIT"
+      - question: "Using a supine form, translate into Latin: There were citizens who were coming to destroy the republic.\t"
+        answer: "<latin>ERANT / FUĒRUNT CĪVĒS {VENIENTĒS / \tQUĪ VENĪRENT / VENIĒBANT} REM PŪBLICAM DĒLĒTUM / PERDITUM</latin>"
+  - tossup:
+      question: "After the battle of Clastidium, Claudius Marcellus and Gnaeus Scipio worked together to capture what Insubrian capital, which would later be the site of Gallienus’ assassination and a 313 AD conference that proclaimed freedom of religion? \t\t"
+      answer: "MEDIOLANUM / MILAN"
+    boni:
+      - question: "In addition to the religious discussions, the Conference of Milan featured the marriage of Licinius and what woman, an attempt to form an alliance with her brother Constantine? \t\t"
+        answer: "CONSTANTIA"
+      - question: "Despite the marriage, war erupted between Licinius and Constantine. At what battle in Pannonia in 316 AD did Constantine defeat Licinius’ much larger army, forcing Licinius to flee before he defeated him again at Campus Ardiensis?\t"
+        answer: "CIBALAE"
+  - tossup:
+      question: "What brothers agreed that rule of Mycenae would go to whoever reversed the course of Helios, but the winner ended up feeding the loser’s sons to him, cursing their descendants?\t"
+      answer: "ATREÜS AND THYESTES"
+    boni:
+      - question: "In a previous contest, Thyestes had originally gained rule of Mycenae by duplicitously obtaining what sort of object from Atreüs?\t"
+        answer: "(GOLDEN) FLEECE"
+      - question: "The fleece had been stolen by what woman, Atreüs’ wife and Agamemon’s mother? \t\t"
+        answer: "AËROPE \t <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage about the author Suetonius, which I will read twice, then <latin>respondē Latīnē</latin> to the questions that follow: \t<latin>In opere suō praeclārissimō, Suētōnius dē factīs et facinoribus duodecim virōrum nōmen Caesarem ferentium scrīpsit. ab vītā Iuliī Caesaris usque ad vītam Domitiānī, multās rēs sordidās scelerātāsque rettulit, quō melius, ut vidētur, virōs antecēdentēs maledīceret.</latin>       "
+      answer: "REREAD"
+    boni:
+      - question: "<latin>quid tulērunt duodecim virī dē quibus Suētōnius scrīpsit?</latin>"
+        answer: "NŌMEN CAESAREM / CAESARIS / “CAESAR” "
+      - question: "<latin>quid fēcit Suētōnius ut Caesarēs modō pēiōre ostenderet?</latin>"
+        answer: "(MULTĀS) RĒS SORDIDĀS / SCELERĀTĀS RETTULIT "
+  - tossup:
+      question: "Which of the following was closest to the Stadium of Domitian in Rome: Ara Pacis, Temple of Juno Moneta, Mausoleum of Augustus, Pantheon?\t"
+      answer: "PANTHEON"
+    boni:
+      - question: "In what direction would you travel from the Stadium of Domitian to reach the Mausoleum of Hadrian?"
+        answer: "NORTHWEST [prompt on NORTH or WEST]"
+      - question: "In what direction would you travel from the Stadium of Domitian to reach the Circus Flaminius?"
+        answer: "SOUTH(EAST) [prompt on “EAST”]"
+  - tossup:
+      question: "<latin>Ubi ā mē vocāris, age hoc mandātum. Numerā Latīnē ā quinque usque ad ūnum.</latin>                                                                                                                                                  \t"
+      answer: "QUINQUE, QUATTUOR, TRĒS/TRIA, DUŌ/-AE, ŪNUS/-A/-UM"
+    boni:
+      - question: "<latin>Respondē Anglicē. Quis est maximus numerus inter ūnum et centum quī “tribus” dīvidī aequāliter potest?</latin>"
+        answer: "99"
+      - question: "<latin>Respondē aut Latīnē aut numerālibus Rōmānīs: Quot sunt septiēns septem?</latin>"
+        answer: "<latin>ŪNDĒQUINQUĀGINTĀ / QUADRĀGINTĀ (ET) NOVEM</latin> / <latin>XLIX / XLVIIII / XXXXIX / XXXXVIIII / IL</latin>"
+  - tossup:
+      question: "Excluding prefixes, provide the distinct Latin words and their meanings at the roots of detér and intér.\t"
+      answer: "INTER - <latin>TERRA</latin> - LAND \t\tDETER - <latin>(DĒ)TERREŌ</latin> - TO FRIGHTEN"
+    boni:
+      - question: "Now do the same for tentacle and tent."
+        answer: "TENTACLE - <latin>TEMPTŌ</latin> - TO TRY \t\tTENT - <latin>TENDŌ</latin> - TO STRETCH"
+      - question: "Now do the same for the verb soil and noun soil."
+        answer: "SOIL (V.) - <latin>SŪS</latin> - PIG \t\tSOIL (N.) - <latin>SOLUM</latin> - GROUND"
+  - tossup:
+      question: "Provide the metrical pattern of dactyls and spondees for the first four feet of line C according to its dactylic hexameter meter."
+      answer: "D(ACTYL) D(ACTYL) D(ACTYL) S(PONDEE DACTYL SPONDEE)"
+    boni:
+      - question: "\tProvide the metrical pattern of dactyls and spondees for the first four feet of line C according to its dactylic hexameter meter. \t\t"
+        answer: "D(ACTYL) D(ACTYL) D(ACTYL) S(PONDEE DACTYL SPONDEE)"
+      - question: "Of the remaining lines, which contains only spondees in its first four feet?\t"
+        answer: "D"
+  - tossup:
+      question: "What Roman author, whose hometown built a statue of him, defended himself from an accusation of using magic to secure a financially advantageous marriage and wrote a novel that includes the story of Cupid and Psyche, called <title><latin>Metamorphōseōn Librī</latin></title> or <title><latin>Asinus Aureus</latin></title>?\t"
+      answer: "APULEIUS"
+    boni:
+      - question: "Although we do not have solid evidence for Apuleius’s <latin>praenōmen</latin>, some scholars speculate that it is the same as the <latin>praenōmen</latin> of his novel’s main character. What is this <latin>praenōmen</latin>?\t"
+        answer: "LUCIUS"
+      - question: "Apuleius might never have been accused of magic if he had skipped a meeting with his friend Pontianus, through whom Apuleius met his wife, on a trip to Alexandria. What is the connection between Pontianus and Apuleius’s wife, Pudentilla?\t\t"
+        answer: "PUDENTILLA WAS PONTIANUS’S MOTHER"
+  - tossup:
+      question: "What commander burned Satricum in 346 BC - during the second of his 6 consulships - and took his nickname from the bird that helped him beat a Gallic man in single combat?\t\t"
+      answer: "(M. VALERIUS) CORVUS [do not accept CORVINUS]"
+    boni:
+      - question: "What Volscian town, from which the Romans later acquired the <latin>Rostra</latin>, was also defeated in 346 BC?"
+        answer: "ANTIUM / ANZIO"
+      - question: "In 300 BC, Corvus passed a law that defined and secured the right for plebeians to appeal a magistrate’s death sentence. What was the Latin term for this right? "
+        answer: "PRŌVOCĀTIŌ"
+  - tossup:
+      question: "What Latin word which means “fine dust” is spelled the same way as the English term for the powdery substance produced by flowers often resulting in allergies in humans?\t\t"
+      answer: "<latin>POLLEN</latin>"
+    boni:
+      - question: "The English term for a person who is guided by a more experienced and successful person shares a spelling with the singular present active imperative form of what Latin word meaning “to provide with a roof”?\t"
+        answer: "<latin>PRŌTEGŌ</latin> <latin>/ PRŌTEGE</latin>"
+      - question: "The Latin verb <latin>mansuētō</latin> is a compound of <latin>manus</latin> and an inceptive verb. What is the meaning of <latin>mansuētō</latin>?\t"
+        answer: "(MAKE) TAME // (MAKE) ACCUSTOM(ED) TO THE HAND"
+  - tossup:
+      question: "What single book of love elegies, known by a Greek name, was written by a man who moved to Rome in hopes of a legal and political career, although the opening word “<latin>Cynthia</latin>” reveals that the author had fallen in love along the way? \t\t"
+      answer: "(PROPERTIUS’ <title><latin>CYNTHIA) MONOBIBLOS</latin></title>"
+    boni:
+      - question: "What Roman elegist, to whom Vergil dedicated his tenth Eclogue, was appointed <latin>praefectus Aegyptī</latin> in 30 AD and wrote four books of elegies under the title <title><latin>Amōrēs</latin></title>?\t\t"
+        answer: "CORNELIUS GALLUS"
+      - question: "The <title><latin>Corpus Tibulliānum</latin></title>, most of which is attributed to Tibullus, contains five poems about his literary patron’s niece, who is in love with a man called Cerinthus. Other love notes within the <title><latin>Corpus</latin></title> are attributed to her, giving us a rare example of a Roman woman’s perspective from an actual woman. What is her name?\t"
+        answer: "SULPICIA  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "What Greek goddess, depicted in a many-breasted statue in Ionia and honored by bear-dressed youths at Brauron, had cults at Ortygia, in the giant temple at Ephesus, and on her birthplace, Delos?\t"
+      answer: "ARTEMIS"
+    boni:
+      - question: "Artemis may have been a favorite goddess of what people, helping inspire the story that she rescued the condemned Iphigeneia and deposited her amongst them?\t"
+        answer: "TAURI(ANS)"
+      - question: "A well-known shrine of Artemis at Sparta continued to be used deep into the period of the Roman Empire. Under what epithet was Artemis worshipped there? \t\t"
+        answer: "(ARTEMIS) ORTHIA"

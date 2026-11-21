@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Advanced"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "Which of the following is not a Latin derivative: art, sculpture, theatre, painting?"
+      answer: "THEATRE"
+    boni:
+      - question: "What Latin verb is at the root of paint?"
+        answer: "PINGO"
+      - question: "Of color, texture, tint and hue, which is not from Latin?"
+        answer: "HUE"
+  - tossup:
+      question: "Whom did Pompey succeed in the command against Mithridates?"
+      answer: "LUCULLUS"
+    boni:
+      - question: "What other great general fought against Mithridates with some success about twenty years before Pompey?"
+        answer: "SULLA"
+      - question: "In what year, renowned for the birth of Augustus as well as some other notable events, did Mithridates die?"
+        answer: "63 BC"
+  - tossup:
+      question: "What is the meaning of the Latin idiom velum dare?"
+      answer: "TO SET SAIL"
+    boni:
+      - question: "What is the meaning of the idiom castra ponere?"
+        answer: "TO PITCH CAMP"
+      - question: "What is the meaning of the idiom bellum gerere?"
+        answer: "TO WAGE WAR"
+  - tossup:
+      question: "What is the present singular imperative of conor?"
+      answer: "CONARE"
+    boni:
+      - question: "What is the singular present active imperative of facio?"
+        answer: "FAC"
+      - question: "What is the future singular imperative of sum?"
+        answer: "ESTO"
+  - tossup:
+      question: "Which two of the four emperors of 69 AD were murdered in Rome?"
+      answer: "GALBA AND VITELLIUS"
+    boni:
+      - question: "Which of the emperors of 69 AD was a previous husband of a wife of Nero?"
+        answer: "OTHO"
+      - question: "Which of the emperors of 69 AD was proclaimed emperor by the legions in Germany?"
+        answer: "VITELLIUS"
+  - tossup:
+      question: "What determines the number and gender of a relative pronoun?"
+      answer: "ANTECEDENT"
+    boni:
+      - question: "What determines the case of a relative pronoun?"
+        answer: "ITS USE IN ITS OWN CLAUSE"
+      - question: "Give the Latin words and their meanings from which the word \"antecedent\" comes."
+        answer: "ANTE = BEFORE; CEDO = GO, MOVE"
+  - tossup:
+      question: "What Latin words contract to a noun which means \"no one\"?"
+      answer: "<latin>NE + HOMO</latin>"
+    boni:
+      - question: "What is the Latin word?"
+        answer: "NEMO"
+      - question: "What two cases do not occur?"
+        answer: "GENITIVE AND ABLATIVE"
+  - tossup:
+      question: "What was the Ius Suffragi?"
+      answer: "THE RIGHT TOVOTE IN THE COMITIA"
+    boni:
+      - question: "What was the Ius Honorum?"
+        answer: "THE RIGHT TO HOLD PUBLIC OFFICE"
+      - question: "What was the Ius Provocationis?"
+        answer: "THE RIGHT TO APPEAL A MAGISTRATE'S DECISION"
+  - tossup:
+      question: "In the Aeneid, who says: Italiam non sponte sequor?"
+      answer: "AENEAS"
+    boni:
+      - question: "To whom?"
+        answer: "DIDO"
+      - question: "What is striking about this and 53 other lines in the poem?"
+        answer: "THEY ARE INCOMPLETE (HEMISTICHES)"
+  - tossup:
+      question: "Why were praenomina first used?"
+      answer: "BECAUSE OF THEIR REAL MEANINGS"
+    boni:
+      - question: "Give the meaning and the Latin word from which the name Gaius comes."
+        answer: "<latin>GAUDEO</latin> - REJOICE"
+      - question: "Give the origin and the meaning for the name Lucius. Give the meaning for Quintus."
+        answer: "<latin>LUX</latin> - BORN IN THE DAY; FIFTH CHILD OR SON"
+  - tossup:
+      question: "What is the nominative plural of manus?"
+      answer: "MANUS"
+    boni:
+      - question: "What is the genitive plural of pes?"
+        answer: "PEDUM"
+      - question: "What is the nominative plural of corpus?"
+        answer: "CORPORA"
+  - tossup:
+      question: "Rome is famous for being situated on how many hills?"
+      answer: "SEVEN"
+    boni:
+      - question: "How many wars did the Romans fight against the Carthaginians?"
+        answer: "THREE"
+      - question: "What was signified by the closing of the doors of the Temple of Janus?"
+        answer: "PEACE"
+  - tossup:
+      question: "Who were the parents of Cronus?"
+      answer: "URANUS AND GAIA"
+    boni:
+      - question: "What was the Roman name for Cronus?"
+        answer: "SATURN"
+      - question: "Who was the first-born of Cronus and Rhea?"
+        answer: "HESTIA"
+  - tossup:
+      question: "What two sons of Aeacus had the same mother, Endeis?"
+      answer: "TELAMON AND PELEUS"
+    boni:
+      - question: "What half-brother did they kill?"
+        answer: "PHOCUS"
+      - question: "Who was Phocus' mother?"
+        answer: "PSAMATHE"
+  - tossup:
+      question: "What literary device would be in use if the famous quotation were \"Me Tarzan, Jane you\"?"
+      answer: "CHIASMUS"
+    boni:
+      - question: "What device is the repetition of copulative conjunctions?"
+        answer: "POLYSYNDETON"
+      - question: "What is the repetition of a word at the beginning of several successive clauses?"
+        answer: "ANAPHORA"
+  - tossup:
+      question: "Where did Jason go to find the Golden Fleece?"
+      answer: "COLCHIS (AEA)"
+    boni:
+      - question: "Who had brought it there?"
+        answer: "PHRIXUS"
+      - question: "Who was Phrixus' sister?"
+        answer: "HELLE"
+  - tossup:
+      question: "Using his full name, address the poet Horace."
+      answer: "<latin>QUINTE HORATI FLACCE</latin>"
+    boni:
+      - question: "Again with his full name, address the author of <title>De Rerum Natura</title>."
+        answer: "<latin>TITE LUCRETI CARE</latin>"
+      - question: "Address the author of <title>Odi et amo</title>."
+        answer: "<latin>GAI VALERI CATULLE</latin>"
+  - tossup:
+      question: "Caesar's <title>De Bello Gallico</title> covers the events in Caesar's life during the years 58 to 50 BC. What work of Caesar's narrates the events of 49 and 48 BC?"
+      answer: "<title>De Bello Civili</title>"
+    boni:
+      - question: "What decisive battle ended Caesar's conflict with Pompey?"
+        answer: "PHARSALUS"
+      - question: "In which of his books does Caesar recount his crossing of the Rubicon?"
+        answer: "NEITHER"
+  - tossup:
+      question: "Translate the Latin: <latin>Exercitui praesum</latin>."
+      answer: "I AM IN CHARGE OF THE ARMY."
+    boni:
+      - question: "Translate: <latin>Marcum legioni praefecimus</latin>."
+        answer: "WE PUT MARCUS IN CHARGE OF THE LEGION."
+      - question: "Translate the English: \"Commanding the legion is very difficult.\""
+        answer: "<latin>LEGIONI PRAEESSE EST DIFFICILLIMUM</latin>."
+  - tossup:
+      question: "What Greek killed Paris?"
+      answer: "PHILOCTETES"
+    boni:
+      - question: "With what weapons did Philoctetes accomplish this?"
+        answer: "THE ARROWS OF HERCULES"
+      - question: "Where had Philoctetes been abandoned for most of the war?"
+        answer: "LEMNOS"

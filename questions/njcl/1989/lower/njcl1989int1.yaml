@@ -1,0 +1,180 @@
+tournament: "NJCL Certamen"
+year: 1989
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "Who was murdered and served to the gods as dinner by 3412 his father Tantalus?"
+      answer: "PELOPS"
+    boni:
+      - question: "Which deity took a bite out of Pelops?"
+        answer: "DEMETER or CERES"
+      - question: "What part of his body was replaced by the gods with one of ivory?"
+        answer: "HIS SHOULDER"
+  - tossup:
+      question: "Who was in his old age turned into a grasshopper by Aurora?"
+      answer: "3303 TITHONUS"
+    boni:
+      - question: "What divine blessing had she arranged for him?"
+        answer: "ETERNAL LIFE"
+      - question: "What had she forgotten to arrange for him?"
+        answer: "ETERNAL YOUTH"
+  - tossup:
+      question: "What praenomen is abbreviated M'?"
+      answer: "MANIUS"
+    boni:
+      - question: "748 Which one is abbreviated Cn?"
+        answer: "GNAEUS"
+      - question: "Which one is abbreviated Mam?"
+        answer: "MAMERCUS"
+  - tossup:
+      question: "Which of the Julio-Claudian emperors ruled the longest?"
+      answer: "6028 AUGUSTUS"
+    boni:
+      - question: "Which Flavian ruled the longest?"
+        answer: "DOMITIAN"
+      - question: "Which of the Five Good Emperors ruled longest?"
+        answer: "ANTONINUS PIUS"
+  - tossup:
+      question: "."
+      answer: "Name an emperor of the Severan dynasty. 5792 SEPTIMIUS SEVERUS, CARACALLA, GETA, ELEGABALUS, SEVERUS ALEXANDER"
+    boni:
+      - question: "."
+        answer: "Name another."
+      - question: "."
+        answer: "Name another."
+  - tossup:
+      question: "Who was the Roman counterpart of the Greek goddess Hestia?"
+      answer: "3272 VESTA"
+    boni:
+      - question: "What was her domain?"
+        answer: "HOME AND HEARTH"
+      - question: "What was her relationship to Zeus/Jupiter?"
+        answer: "(OLDEST) SISTER"
+  - tossup:
+      question: "What verb form often accompanies a form of possum?"
+      answer: "INFINITIVE 853"
+    boni:
+      - question: "What use of the infinitive is this?"
+        answer: "COMPLEMENTARY"
+      - question: "Which of these is an infrequent and irregular synonym for possum: quo, quaero, queo, quaeso?"
+        answer: "QUEO"
+  - tossup:
+      question: "."
+      answer: "Which of the following does not belong in this set: tres,"
+    boni:
+      - question: "."
+        answer: "-114"
+      - question: "966 tertius, tredecim, triginta?"
+        answer: "TERTIUS"
+      - question: "To what category of numbers does tertius belong?"
+        answer: "ORDINALS"
+      - question: "To what category do the others belong?"
+        answer: "CARDINALS"
+  - tossup:
+      question: "What is the compound of ab and fero?"
+      answer: "AUFERO"
+    boni:
+      - question: "912 What is its third principal part?"
+        answer: "ABSTULI"
+      - question: "What is its fourth?"
+        answer: "ABLATUS"
+  - tossup:
+      question: "."
+      answer: "1204 Complete this analogy: dono : donandi :: scribo : ____. SCRIBENDI"
+    boni:
+      - question: "."
+        answer: "Scribo : scribendi :: facio : ____. FACIENDI"
+      - question: "."
+        answer: "Scribo : scribendi :: audio : ____. AUDIENDI"
+  - tossup:
+      question: "What does the English word “patrimony” mean?"
+      answer: "LEGACY, INHERITANCE"
+    boni:
+      - question: "."
+        answer: "842"
+      - question: "What does “paucity” mean?"
+        answer: "SCARCITY, LACK, DEARTH, SHORTAGE"
+      - question: "“Impecunious”?"
+        answer: "POOR, PENNILESS"
+  - tossup:
+      question: "Where did Odysseus and his men escape from by clinging to the 3422 bellies of sheep?"
+      answer: "THE CAVE OF POLYPHEMUS"
+    boni:
+      - question: "What was the race of giant cannibals the Ithacans encountered later?"
+        answer: "LAESTRYGONIANS"
+      - question: "How many ships escaped the Laestrygonians?"
+        answer: "ONE, CARRYING ODYSSEUS"
+  - tossup:
+      question: "6024 How many cohorts were in a legion?"
+      answer: "TEN"
+    boni:
+      - question: "How many centuries were in a maniple?"
+        answer: "TWO"
+      - question: "How many maniples in a cohort?"
+        answer: "THREE"
+  - tossup:
+      question: "916 Quot bracchia tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "Quot colla tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot labia tibi sunt?"
+        answer: "DUO"
+  - tossup:
+      question: "884 What case is governed by the verb credo?"
+      answer: "DATIVE"
+    boni:
+      - question: "What case is governed by iubeo?"
+        answer: "ACCUSATIVE"
+      - question: "What case is governed by impero?"
+        answer: "DATIVE"
+  - tossup:
+      question: "."
+      answer: "1022 Name all declensions in which a noun can end with a long -a. ONLY THE FIRST"
+    boni:
+      - question: "."
+        answer: "Name all declensions in which a noun can end with a short -e. SECOND AND THIRD"
+      - question: "."
+        answer: "-115"
+      - question: "."
+        answer: "Name all declensions in which a noun can end with a short -a."
+      - question: "."
+        answer: "FIRST, SECOND, THIRD AND FOURTH"
+  - tossup:
+      question: "5786 What race made their last invasion of Italy in 225 BC?"
+      answer: "THE GAULS"
+    boni:
+      - question: "At what battle did the Romans defeat the Gauls in 225 BC?"
+        answer: "THE BATTLE OF TELAMON"
+      - question: "What road was built a few years later as part of the Roman plan to prevent another Gallic attack?"
+        answer: "THE VIA FLAMINIA"
+  - tossup:
+      question: "."
+      answer: "894 Say in Latin: “It will be sent.” MITTETUR"
+    boni:
+      - question: "."
+        answer: "Say: “They will have sent.” MISERINT"
+      - question: "."
+        answer: "Say: “She has been sent.” MISSA EST"
+  - tossup:
+      question: "3251 Who was the boatman who ferried souls across the River Styx?"
+      answer: "CHARON"
+    boni:
+      - question: "Who led souls to him?"
+        answer: "HERMES or MERCURY"
+      - question: "What Greek coin was Charon's fare?"
+        answer: "AN OBOL"
+  - tossup:
+      question: "."
+      answer: "5998 From what battle site did Caesar send his famous short"
+    boni:
+      - question: "message Veni, vidi, vici?"
+        answer: "ZELA"
+      - question: "Who was the enemy commander?"
+        answer: "PHARNACES"
+      - question: "What was the year?"
+        answer: "47 BC"
+      - question: "."
+        answer: "#"

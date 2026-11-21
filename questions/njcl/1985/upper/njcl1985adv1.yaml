@@ -1,0 +1,202 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Advanced"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "What animal raised Atalanta as a small girl?"
+      answer: "SHE-BEAR"
+    boni:
+      - question: "."
+        answer: "signature"
+      - question: "* What Thracian king owned man-eating mares?"
+        answer: "DIOMEDES"
+      - question: "* What animal ravaged Calydon?"
+        answer: "BOAR"
+      - question: "."
+        answer: "signature"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "."
+      answer: "Give the full Latin title of the book which begins: Gallia est omnis divisa in partes tres. COMMENTARII DE BELLO GALLICO"
+    boni:
+      - question: "."
+        answer: "* Give the full name of the author. GAIUS JULIUS CAESAR"
+      - question: "* How many books are in the work?"
+        answer: "EIGHT"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What son of Pelias and first cousin of Jason sailed with the Argonauts against Pelias' wishes?"
+      answer: "ACASTUS"
+    boni:
+      - question: "."
+        answer: "signature"
+      - question: "* What action did Acastus take after his father was killed by Medea?"
+        answer: "HE DROVE MEDEA AND JASON FROM IOLCUS"
+      - question: "* Who was unjustly accused of rape by Astydamia, Acastus' wife?"
+        answer: "PELEUS"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "."
+      answer: "signature"
+    boni:
+      - question: "."
+        answer: "* Name the trusted friend and advisor of Augustus who was also Vergil's patron. MAECENAS"
+      - question: "* What was the meter Vergil used to write the Aeneid?"
+        answer: "DACTYLIC HEXAMETER"
+      - question: "* How many books are in the Aeneid?"
+        answer: "TWELVE"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "From what Latin verb, with what meaning, do we get the English verb “intimidate”?"
+      answer: "TIMERE, FEAR"
+    boni:
+      - question: "."
+        answer: "signature"
+      - question: "* From what Latin adjedctive, with what meaning, do we get the English noun “levity”?"
+        answer: "LEVIS, LIGHT"
+      - question: "* From what Latin verb, with what meaning, do we get the English adjective “tangible”?"
+        answer: "TANGERE, TOUCH"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What is Aeneas looking at when he says sunt lacrimae rerum?"
+      answer: "THE FRIEZE ON THE TEMPLE OF JUNO IN CARTHAGE"
+    boni:
+      - question: "."
+        answer: "signature"
+      - question: "* On that frieze, whom does he see being dragged backward by his chariot, held to it by the reins?"
+        answer: "TROILUS"
+      - question: "* Also on that frieze, whose snowy-white tents are being invaded by Diomedes?"
+        answer: "RHESUS"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "."
+      answer: "* What type of dative occurs in the following sentence: Unus frater et una soror mihi sunt. DATIVE OF POSSESSION"
+    boni:
+      - question: "* What two types of dative occur in this sentence: Socii equites auxilio Romanis praemiserunt?"
+        answer: "DATIVE OF PURPOSE (AUXILIO) AND DATIVE OF REFERENCE (ROMANIS) - DOUBLE DATIVE"
+      - question: "."
+        answer: "* What type of dative occurs here: Servus domino servire bene debet. DATIVE WITH SPECIAL VERB"
+      - question: "."
+        answer: "signature"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "What did Achilles have in common with Aeneas, Peleus, Heracles, Jason and Aesculapius?"
+      answer: "ALL WERE STUDENTS OF CHIRON"
+    boni:
+      - question: "* Under what name did Achilles hide in the court of Lycomedes?"
+        answer: "PYRRHA"
+      - question: "* What maiden there became the mother of his son Pyrrhus?"
+        answer: "DEIDAMIA"
+      - question: "."
+        answer: "*"
+  - tossup:
+      question: "* What is the ablative singualr of the phrase “good soldier”?"
+      answer: "* BONO MILITE"
+    boni:
+      - question: "* What is the ablative singular of the phrase “better soldier”?"
+        answer: "MELIORE MILITE"
+      - question: "* “Best soldier”?"
+        answer: "OPTIMO MILITE"
+  - tossup:
+      question: "What is the Latin word for “bronze”?"
+      answer: "AES"
+    boni:
+      - question: "What idiomatic phrase means “debt”?"
+        answer: "AES ALIENUM"
+      - question: "What is the ablative singular of the phrase?"
+        answer: "AERE ALIENO"
+  - tossup:
+      question: "."
+      answer: "Translate into Latin the relative pronoun in this setnence: “I don't see the girl to whom I gave the money.” CUI"
+    boni:
+      - question: "."
+        answer: "Same instructions in these sentences:"
+      - question: "."
+        answer: "“I know the girls whose books you borrowed.” QUARUM"
+      - question: "“Who are those boys with whom you were walking?"
+        answer: "” QUIBUSCUM"
+  - tossup:
+      question: "Where were the following: Lethe, Styx, Phelegethon?"
+      answer: "HADES (UNDERWORLD)"
+    boni:
+      - question: "Who was the ferryman of the dead?"
+        answer: "CHARON"
+      - question: "Who was the three-headed guard dog?"
+        answer: "CERBERUS"
+  - tossup:
+      question: "."
+      answer: "Translate into Latin: “Let us resist the soldiers of Hannibal.” MILITIBUS HANNIBALIS RESISTAMUS"
+    boni:
+      - question: "."
+        answer: "Translate into English: Pedites pedem rettulerunt ne caperentur. THE INFANTRY RETREATED LEST THEY BE CAPTURED."
+      - question: "."
+        answer: "Flumen est tam latum ut non transire conati simus. THE RIVER IS SO WIDE THAT WE HAVEN'T TRIED TO CROSS IT."
+  - tossup:
+      question: "Who had been emperor at least 17 years before ever setting foot in Rome?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "To what city did Diocletian retire?"
+        answer: "SALONA (SPLIT, Yugoslavia)"
+      - question: "Under Diocletian's reorganization, several provinces were grouped together into a diocese. What civilian official commanded a diocese?"
+        answer: "VICARIUS"
+  - tossup:
+      question: "What two sets of brothers fought in a war between Rome and Alba Longa?"
+      answer: "THE ROMAN HORATII AND THE ALBAN CURIATII"
+    boni:
+      - question: "Why did Horatia, the sister of the Roman brothers, grieve when she learned that her brothers were victorious?"
+        answer: "BECAUSE SHE WAS BETROTHED TO ONE OF THE CURIATII"
+      - question: "What was the reaction to her grief of her one surviving brother?"
+        answer: "HE KILLED HER"
+  - tossup:
+      question: "Who in Roman history is reported to have said that he found a city of marble?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Who was Rome's first Christian emperor?"
+        answer: "CONSTANTINE"
+  - tossup:
+      question: "What is the dative plural of virtus?"
+      answer: "VIRTUTIBUS"
+    boni:
+      - question: "What is the dative singular of usus?"
+        answer: "USUI"
+      - question: "What is the dative plural of exercitus?"
+        answer: "EXERCITIBUS"
+  - tossup:
+      question: "From what work is the cena Trimalchionis?"
+      answer: "THE SATYRICON (OF PETRONIUS)"
+    boni:
+      - question: "Who is the hero of Apuleius' metamorphoses, also known as The golden Ass?"
+        answer: "LUCIUS"
+      - question: "What love story of mythology takes up almost three of the eleven books of Apuleius' Metamorphoses?"
+        answer: "CUPID AND PSYCHE"
+  - tossup:
+      question: "What was the occupation of a fullo?"
+      answer: "DRY-CLEANER, (cloth-fuller)"
+    boni:
+      - question: "Of a fur?"
+        answer: "THIEF"
+      - question: "Of a chirurgus??"
+        answer: "SURGEON"
+      - question: "."
+        answer: "Handwritten number 5087"
+  - tossup:
+      question: "Who was invited from Greece to help the people of Tarentum against the Romans?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What strategy did Pyrrhus have in common with Hannibal?"
+        answer: "WAR ELEPHANTS"
+      - question: "What later foes of Rome used blue war paint and fought from war chariots?"
+        answer: "THE BRITONS (PICTS)"
+      - question: "."
+        answer: "G:"
+      - question: "."
+        answer: "#"

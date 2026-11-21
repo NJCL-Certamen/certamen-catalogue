@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2025
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Translate only the verb in the following sentence into Latin: Marcus, tell your sisters a story!\t"
+      answer: "<latin>NARRĀ / DĪC</latin>"
+    boni:
+      - question: "Translate the phrase “don’t cry” into Latin, as in “Aurelia, don’t cry about your tunic.”\t\t"
+        answer: "<latin>NŌLĪ LACRIMĀRE</latin>"
+      - question: "Now, using the phrase <latin>necesse est</latin>, translate this entire sentence into Latin: You all need to listen to Marcus and Aurelia.\t\t"
+        answer: "<latin>NECESSE EST VŌBĪS (OMNIBUS) MARCUM ET AURĒLIAM AUDĪRE</latin>"
+  - tossup:
+      question: "Who was the god of music, prophecy, healing, and the sun, known to both the Greeks and  \tthe Romans by the same name?\t"
+      answer: "APOLLO"
+    boni:
+      - question: "Apollo was among the more competitive gods, which is saying something! Against whom did Apollo win a contest judged by the Muses, wherein Apollo played the lyre and his soon-to-be-flayed opponent played a flute?\t"
+        answer: "MARSYAS"
+      - question: "When Pan challenged Apollo, the mountain god Tmolus thought Apollo was the clear winner. However, one of Pan’s mortal followers disagreed. Who was this man, who was punished by having his ears turned into those of a donkey?\t"
+        answer: "MIDAS"
+  - tossup:
+      question: "What derivative of a Latin word meaning “night” describes animals that are active at night, like owls and bats?\t"
+      answer: "NOCTURNAL"
+    boni:
+      - question: "To navigate at night, bats use echolocation. Besides the word <latin>ēcho</latin>, what Latin noun with what meaning is at the root of echolocation?"
+        answer: "<latin>LOCUS</latin> - PLACE / SPOT / LOCATION"
+      - question: "The blood sucked by vampire bats is kept from clotting by an anticoagulant in their saliva. What Latin verb with what meaning is at the root of “anticoagulant”?"
+        answer: "<latin>AGŌ</latin> - DO / DRIVE / MOVE / LEAD / CONDUCT //  \t\t<latin>CŌGŌ</latin> - COLLECT / FORCE / COMPEL"
+  - tossup:
+      question: "Give the third person singular imperfect active indicative form of the Latin verb <latin>scrībō</latin>, which means “she was writing.”\t"
+      answer: "<latin>SCRĪBĒBAT</latin>"
+    boni:
+      - question: "Give the first person singular imperfect active indicative form of the verb <latin>sum</latin>, which means “I was.”\t"
+        answer: "<latin>ERAM</latin>"
+      - question: "Give the second person plural imperfect active indicative form of the verb <latin>faciō</latin>, which means “You all were making.”\t"
+        answer: "<latin>FACIĒBĀTIS</latin>"
+  - tossup:
+      question: "What conflict, which lasted roughly twenty-three years and ended in a naval battle at the Aegates Islands, featured the chicken-tossing antics of Claudius Pulcher? \t \t\t"
+      answer: "1ST PUNIC WAR"
+    boni:
+      - question: "From what region, in which the ancient version of our modern alphabet was created, did colonists emigrate and establish Carthage?\t"
+        answer: "PHOENICIA"
+      - question: "What disastrous battle of 249 BC followed Claudius Pulcher’s assault on the sacred chickens?\t"
+        answer: "DREPANA / TRAPANI  SCORE CHECK"
+  - tossup:
+      question: "<latin>Respondē Latīnē:</latin> <latin>Quot sunt decem minus quīnque?</latin> \t"
+      answer: "QUĪNQUE"
+    boni:
+      - question: "<latin>Respondē Latīnē: Quot sunt ūnus et decem?</latin> \t"
+        answer: "ŪNDECIM"
+      - question: "<latin>Respondē Latīnē: Quot sunt ūndecim et septem?</latin> \t"
+        answer: "DUODĒVĪGINTĪ"
+  - tossup:
+      question: "What Roman term describes examples such as <latin>Sulpicius, Iūlius, Cornēlius,</latin> and <latin>Tullius</latin>, the part of a Roman man’s name which denoted the clan to which he belonged? \t\t"
+      answer: "<latin>NŌMEN</latin> (<latin>GENTĪLE</latin> / <latin>GENTILĪCIUM</latin>)"
+    boni:
+      - question: "What term did the Romans use to refer to the name <latin>Publius</latin> as in <latin>Publius Cornēlius \t\t\tScīpiō</latin>, or <latin>Marcus</latin> as in <latin>Marcus Tullius Cicerō</latin>?\t"
+        answer: "<latin>PRAENŌMEN</latin>"
+      - question: "What term did the Romans use to refer to the name earned through extraordinary \t\t\taccomplishment, such as <latin>Africānus</latin> in <latin>Publius Cornēlius Scīpiō Africānus</latin>?\t\t\t\t\t"
+        answer: "<latin>AGNŌMEN // COGNŌMEN EX VIRTŪTE</latin>"
+  - tossup:
+      question: "Listen carefully to the following passage, which I will read twice, then respond in English to the questions that follow: \t<latin>Flāvia est puella, quae in urbe Rōmae habitat. ōlim, Flāvia pistōrem salūtat. pistor dīcit, “mihī est multus pānis, sed nēmo emit.” itaque pistor puellae pānem dat. Flāvia exclāmat “quam fēlix sum!” et pānem consūmit.</latin>  "
+      answer: "REREAD"
+    boni:
+      - question: "Where does this story take place?"
+        answer: "IN ROME"
+      - question: "In English, what does Flavia shout after receiving the bread?"
+        answer: "“HOW {LUCKY / HAPPY} I AM!” / “I AM SO {LUCKY / HAPPY}!”"
+  - tossup:
+      question: "With the help of Apollo, who was responsible for the death of Achilles in the Trojan War because he managed to shoot Achilles in his one vulnerable spot?\t"
+      answer: "PARIS"
+    boni:
+      - question: "Achilles rejoined the fighting in the Trojan War because of the death of his dear friend Patroclus. Who had killed Patroclus?\t\t"
+        answer: "HECTOR"
+      - question: "While Troy was being overrun by the Greeks, King Priam attempted to hide in a shrine with his wife and daughters, but was found there and killed by what Greek?\t \t\t"
+        answer: "NEOPTOLEMUS / PYRRHUS"
+  - tossup:
+      question: "What Roman general first exercised command when he raised a legion to join with Sulla in 83 BC, was granted command against Mithridates in 66 BC, and was assassinated on the orders of Ptolemy XIII in Egypt amidst a civil war against fellow triumvir Julius Caesar?\t"
+      answer: "POMPEY (THE GREAT) / (<latin>CN.) POMPĒIUS MAGNUS</latin>"
+    boni:
+      - question: "What other member of the first triumvirate known for his lavish displays of wealth had died in 53 BC, a few years before the civil war between Caesar and Pompey broke out? \t\t"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "Near which town in central Greece was Pompey defeated by Caesar in 48 BC, forcing him to flee to Egypt?\t"
+        answer: "PHARSALUS  SCORE CHECK"
+  - tossup:
+      question: "Using the noun <latin>māter</latin>, give the appropriate Latin form for “mother” in the sentence “I gave my mother three flowers.”\t"
+      answer: "<latin>MĀTRĪ</latin>"
+    boni:
+      - question: "Now using the noun <latin>flōs</latin>, translate “three flowers” in that same sentence, “I gave my mother three flowers.”\t"
+        answer: "<latin>TRĒS FLŌRĒS</latin>"
+      - question: "Again using <latin>māter</latin>, give the form for “mothers” in “Many mothers prefer chocolate to flowers.”\t"
+        answer: "<latin>MĀTRĒS</latin>"
+  - tossup:
+      question: "What son of Zeus and Danaë was responsible for killing Medusa?\t"
+      answer: "PERSEUS"
+    boni:
+      - question: "Danaë and Perseus were put out to sea in a chest by her father, who feared a prophecy that he would be killed by his daughter’s son. Who was this father of Danaë and grandfather of Perseus?\t"
+        answer: "ACRISIUS"
+      - question: "Fortunately for Danaë and Perseus, they were found by what fisherman when they washed up on the island of Seriphos?\t"
+        answer: "DICTYS"
+  - tossup:
+      question: "What room of the Roman house, generally dividing the public and private areas of the home, may have received its name from the Latin term for the account books and records of business transactions kept there by the <latin>paterfamiliās</latin>?\t"
+      answer: "<latin>TABLĪNUM</latin>"
+    boni:
+      - question: "Often present with the patron in the <latin>tablīnum</latin> was what type of enslaved person, whose title is taken from his job of announcing the names of clients to the <latin>paterfamiliās</latin>?  \t\t"
+        answer: "<latin>NŌMENCLĀTOR</latin>"
+      - question: "Usually located behind the <latin>tablīnum</latin>, what area of the Roman house gets its name from the Greek that literally means “columns around?” \t"
+        answer: "<latin>PERISTȲL(I)UM</latin> / PERISTYLE"
+  - tossup:
+      question: "Provide the two-letter abbreviation and the Latin phrase it stands for that indicates that \t\tyou should pay careful attention to what follows, and can be translated to “note well” in \t\tEnglish.\t"
+      answer: "N.B., <latin>NŌTĀ BENE</latin>"
+    boni:
+      - question: "When someone wishes to add something extra onto a letter they have already written, they might begin it with the abbreviation P.S. What does P.S. stand for in Latin, and what does it mean in English?\t"
+        answer: "<latin>POST SCRIPTUM</latin>, WRITTEN AFTER / AFTER WRITING"
+      - question: "What kind of thing might someone list out after using the abbreviation e.g.?\t \t\t"
+        answer: "EXAMPLES / SOMETHING FOR THE SAKE OF EXAMPLE"
+  - tossup:
+      question: "What creature was born from the blood of the decapitated Medusa and later used in an attempt to reach Mt. Olympus, which might have actually worked since he was a winged horse?\t"
+      answer: "PEGASUS"
+    boni:
+      - question: "What hero attempted to ride Pegasus to Mt. Olympus?\t \t\t"
+        answer: "BELLEROPHON(TES) / HIPPONOÜS"
+      - question: "How did Zeus cause Pegasus to throw Bellerophon before he could reach Mt. Olympus? \t\t"
+        answer: "HE SENT A (GAD)FLY/INSECT TO BITE PEGASUS  SCORE CHECK"
+  - tossup:
+      question: "Give a synonym of the verb <latin>cupiō</latin>, which means “I desire” or “I want.”\t \t\t"
+      answer: "<latin>DĒSĪDERŌ</latin> / <latin>VOLŌ</latin> (<latin>VELLE</latin>) / <latin>OPTŌ</latin>"
+    boni:
+      - question: "What one-word antonym of <latin>volō</latin> means “I do not want”?\t"
+        answer: "<latin>NŌLŌ</latin>"
+      - question: "What word, also related to <latin>volō</latin>, means “I prefer”?\t"
+        answer: "<latin>MĀLŌ</latin>"
+  - tossup:
+      question: "Although he was already married to Tatia, what king of Rome sought the companionship and advice of the water nymph Egeria to properly honor the gods with temples and festivals?\t"
+      answer: "NUMA (POMPILIUS) [PASS OUT <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "You are looking at two memes based on women of the Roman Monarchy. In image A, what woman is represented by the center figure?"
+        answer: "TANAQUIL"
+      - question: "In image B, what couple is represented by Ballerina Cappuccina and Cappuccino Assassino?"
+        answer: "TULLIA (THE YOUNGER) AND TARQUINIUS SUPERBUS"
+  - tossup:
+      question: "What English noun derived from a Latin adjective meaning “light-weight” is “a rigid bar resting on a pivot, used to help move a heavy or firmly fixed load with one end when pressure is applied to the other”?\t"
+      answer: "LEVER"
+    boni:
+      - question: "What English noun is a derivative of a Latin adjective meaning “equal” and means “a state in which opposing forces are balanced”?\t"
+        answer: "EQUILIBRIUM"
+      - question: "Levers and other simple machines operate on mechanical advantage, a method of force amplification. From what two Latin prepositions, meaning “by” and “before,” is “advantage” derived?\t"
+        answer: "<latin>Ā/AB</latin> & <latin>ANTE</latin>"
+  - tossup:
+      question: "What sister of Pasiphaë and Aeëtes lived on the island of Aeaea, where she practiced magic and hosted Odysseus for one year?\t"
+      answer: "CIRCE"
+    boni:
+      - question: "When it was finally time for Odysseus to leave Aeaea, whom did Circe advise Odysseus to seek out in the Underworld?\t"
+        answer: "TEIRESIAS"
+      - question: "Circe also advised Odysseus and his crew on how to avoid falling into the trap of what women who were notorious for luring sailors on passing ships to their deaths with their lovely voices?\t"
+        answer: "SIRENS  SCORE CHECK"
+  - tossup:
+      question: "Which noun does not belong because of gender: <latin>fābula, mensa, nauta, via</latin>?\t"
+      answer: "NAUTA"
+    boni:
+      - question: "Which noun does not belong because of gender: <latin>medicus, mūrus, oculus, tempus</latin>?\t\t"
+        answer: "TEMPUS"
+      - question: "Which noun does not belong because of gender: <latin>laurus, pons, manus, rēs</latin>?\t"
+        answer: "PONS"

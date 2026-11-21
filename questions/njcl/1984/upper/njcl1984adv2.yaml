@@ -1,0 +1,172 @@
+tournament: "NJCL Certamen"
+year: 1984
+division: "Advanced"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "What Latin noun would include these nouns: templum, regia, taberna, villa?"
+      answer: "AEDIFICIA"
+    boni:
+      - question: "...these nouns: cuprum, ferrum, aes?"
+        answer: "METALLA"
+      - question: "...these nouns: Mediolanum, Lugdunum, Neapolis?"
+        answer: "URBES/OPPIDA"
+  - tossup:
+      question: "What is the Latin abbreviation meaning ”and some others“?"
+      answer: "ET AL."
+    boni:
+      - question: "."
+        answer: "What are the Latin and English meanings of the following abbreviations:"
+      - question: "."
+        answer: "b.i.d. BIS IN DIE - TWICE A DAY"
+      - question: "."
+        answer: "Q.E.D. QUOD ERAT DEMONSTRANDUM - THAT WHICH HAD TO BE PROVEN"
+  - tossup:
+      question: "Who today goes by the title of Pontifex Maximus?"
+      answer: "THE POPE"
+    boni:
+      - question: "Who was appointed Pontifex Maximus after Caesar?"
+        answer: "LEPIDUS"
+      - question: "Who was Pontifex Maximus after Lepidus?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "What important author came from Mantua?"
+      answer: "VERGIL"
+    boni:
+      - question: "."
+        answer: "Give month, date, yr of his birth. OCTOBER 15, 70 BC"
+      - question: "When did he die?"
+        answer: "SEPTEMBER 20, 19 BC"
+  - tossup:
+      question: "For what year were Pompey and Crassus elected to the consulship?"
+      answer: "70 BC"
+    boni:
+      - question: "In the same year, whom did Cicero prosecute for extortion in Sicily?"
+        answer: "VERRES"
+      - question: "Who represented Verres at the trial?"
+        answer: "HORTENSIUS"
+  - tossup:
+      question: "Which of the following is not derived from the adjective liber: livery, delivery, deliberate, liberal?"
+      answer: "DELIBERATE"
+    boni:
+      - question: "What familiar English abbreviation is related to the root of ”deliberate“?"
+        answer: "LB=POUND"
+      - question: "When L-I-B-E-R means ”book,“ is the I long or short?"
+        answer: "SHORT"
+  - tossup:
+      question: "Who was sent in 458 BC to rescue the Roman forces trapped on Mount Algidus?"
+      answer: "L. QUINCTIUS CINCINNATUS"
+    boni:
+      - question: "What office was Cincinnatus given?"
+        answer: "THE DICTATORSHIP"
+      - question: "Whom were the Romans fighting?"
+        answer: "THE AEQUI"
+  - tossup:
+      question: "."
+      answer: "-ulus and -culus are common diminutive endings in Latin."
+    boni:
+      - question: "What Latin word used in English means ”little stone“?"
+        answer: "CALCULUS"
+      - question: "What is the literal meaning of the Latin word avunculus, which is usually translated ”uncle“?"
+        answer: "LITTLE GRANDFATHER"
+      - question: "Cicero's pet name for his daughter was ”Filiola.“ What does this mean?"
+        answer: "”DAUGHTERLING“ or some such"
+  - tossup:
+      question: "Who was transformed into a grasshopper?"
+      answer: "TITHONUS"
+    boni:
+      - question: "Who was his wife?"
+        answer: "EOS (AURORA)"
+      - question: "What king was his brother?"
+        answer: "PRIAM"
+  - tossup:
+      question: "What is the vocative of Aulus?"
+      answer: "AULE"
+    boni:
+      - question: "What is the vocative of Publius?"
+        answer: "PUBLI"
+      - question: "What is the masculine vocative singular of the adjective pius?"
+        answer: "PIE"
+  - tossup:
+      question: "Of what rhetorical device is ”not bad“ an example?"
+      answer: "LITOTES"
+    boni:
+      - question: "What device's name in literal Greek means ”one thing through two“?"
+        answer: "HENDIADYS"
+      - question: "What is the inversion of the usual order of words?"
+        answer: "ANASTROPHE (HYPERBATON is violation of word order; HYSTERON PROTERON is a reversal of ideas.)"
+  - tossup:
+      question: "What is the poetic genitive plural of deus?"
+      answer: "DEUM"
+    boni:
+      - question: "."
+        answer: "Name another second-declension substantive which can be found with a genitive plural in -um rather than -orum. VIR, NUMMUS, DIVUS, SUPERUS"
+      - question: "What word for god is almost always used for a deified human?"
+        answer: "DIVUS"
+  - tossup:
+      question: "Who am I?"
+      answer: "I was a counselor to Zeus because I could foretell the future. I created a new race out of clay. I stole fire from the gods. PROMETHEUS"
+    boni:
+      - question: "Who was Prometheus' brother?"
+        answer: "EPIMETHEUS"
+      - question: "What was Prometheus' punishment for stealing fire from the gods?"
+        answer: "CHAINED TO A MOUNTAIN, WHERE AN EAGLE ATE OUT HIS LIVER DAILY"
+  - tossup:
+      question: "What is the translation of the Latin verb form praesum?"
+      answer: "I COMMAND, I AM IN CHARGE"
+    boni:
+      - question: "."
+        answer: "Translate these sentences with praesum:"
+      - question: "."
+        answer: "Caesar is in command of the army. CAESAR EXERCITUI PRAEEST."
+      - question: "."
+        answer: "Let us command the legion. LEGIONI PRAESIMUS."
+  - tossup:
+      question: "In how many books did Livy write his history?"
+      answer: "142"
+    boni:
+      - question: "What is the work's title?"
+        answer: "AB URBE CONDITA"
+      - question: "How many books survive complete?"
+        answer: "35"
+  - tossup:
+      question: "Who were the two immortal Gorgons?"
+      answer: "STHENO AND EURYALE"
+    boni:
+      - question: "Who were the three old women who shared a tooth and an eye?"
+        answer: "THE GRAIAE"
+      - question: "Who was the betrothed of Andromeda before Perseus entered the picture?"
+        answer: "PHINEUS"
+      - question: "What Roman in the first century BC wrote a didactic poem which in part discussed an atomic theory?"
+        answer: "LUCRETIUS"
+      - question: "What is the Latin title of Lucretius' work?"
+        answer: "DE RERUM NATURA"
+      - question: "What philosophy does it espouse?"
+        answer: "EPICUREANISM"
+  - tossup:
+      question: "What Roman emperor died of a fever near the modern city of Vienna?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "Which Roman emperor's commemorative arch was erected to celebrate his conquest of Jerusalem?"
+        answer: "TITUS'"
+      - question: "Which Roman emperor was the first to wear a beard?"
+        answer: "HADRIAN"
+  - tossup:
+      question: "What mortal was both delivered from his mother's womb and killed by a wild boar?"
+      answer: "ADONIS"
+    boni:
+      - question: "What goddess loved Adonis?"
+        answer: "APHRODITE (or PERSEPHONE)"
+      - question: "To whom did Aphrodite give the infant Adonis to look after him?"
+        answer: "PERSEPHONE"
+  - tossup:
+      question: "What is the antonym of the verb claudo?"
+      answer: "APERIO"
+    boni:
+      - question: "."
+        answer: "Tell Marcus to open the door. MARCE, APERI IANUAM."
+      - question: "."
+        answer: "Tell Claudius to close the window. CLAUDI, CLAUDE FENESTRAM."
+      - question: "."
+        answer: "#"

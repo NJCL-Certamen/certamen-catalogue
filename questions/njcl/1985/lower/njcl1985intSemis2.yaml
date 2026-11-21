@@ -1,0 +1,169 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "What case is used as the subject of a historical infinitive?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "Ask in Latin: “Who taught you that?” QUIS TE ILLUD DOCUIT?"
+        answer: "Say in Latin: “We are coming to Athens.” ATHENAS VENIMUS."
+  - tossup:
+      question: "What is the Latin noun for “wife”?"
+      answer: "UXOR (CONIUNX)"
+    boni:
+      - question: "What is the Latin noun for “husband”?"
+        answer: "MARITUS (CONIUNX, VIR)"
+      - question: "What is the Latin noun for “grandfather”?"
+        answer: "AVUS"
+  - tossup:
+      question: "Who offered Death her own life in an effort to save that of her husband Admetus?"
+      answer: "ALCESTIS"
+    boni:
+      - question: "Who was the Greek god of healing?"
+        answer: "ASCLEPIUS"
+      - question: "What was the ancient name for the mountains one of which is the Rock of Gibraltar?"
+        answer: "THE PILLARS OF HERCULES"
+  - tossup:
+      question: "To what larger group do all these belong: Oreads, Dryads, Naiads, Oceanids, Nereids?"
+      answer: "NYMPHS"
+    boni:
+      - question: "What nymph was Poseidon's wife?"
+        answer: "AMPHITRITE"
+      - question: "What nymph lived on Ogygia?"
+        answer: "CALYPSO"
+  - tossup:
+      question: "What verbal noun is a defective noun of the fourth declension?"
+      answer: "THE SUPINE"
+    boni:
+      - question: "What is the only standard use of the accusative supine?"
+        answer: "PURPOSE (AFTER VERBS OF MOTION)"
+      - question: "What infinitive is formed with the supine?"
+        answer: "FUTURE PASSIVE"
+  - tossup:
+      question: "What horses were stolen by Odysseus and Diomedes to prevent the fulfilling of a prophecy?"
+      answer: "THE HORSES OF RHESUS"
+    boni:
+      - question: "What holy object did the same two Greeks steal from within Troy?"
+        answer: "THE PALLADIUM"
+      - question: "What famous Trojan was wounded by Diomedes and then rescued by a deity?"
+        answer: "AENEAS"
+  - tossup:
+      question: "What is the comparative of bonus?"
+      answer: "MELIOR"
+    boni:
+      - question: "What is the comparative of bene?"
+        answer: "MELIUS"
+      - question: "What is the superlative of bene?"
+        answer: "OPTIME"
+  - tossup:
+      question: "What English noun meaning “a sworn statement” is an unchanged Latin verb meaning “he has stated on faith”?"
+      answer: "AFFIDAVIT"
+    boni:
+      - question: "What English verb meaning “doctrine” is a Latin verb meaning “he holds”?"
+        answer: "TENET"
+      - question: "What English noun meaning “native environment” is a Latin verb meaning “he dwells”?"
+        answer: "HABITAT"
+  - tossup:
+      question: "Dido sent to Aeneas in Carthage received from Dido sheep, pigs, ewes and oxen. This particular combination of animals was used by the Romans as what sacrifice?"
+      answer: "SUOVETAURILIA"
+    boni:
+      - question: "Helenus on the shores of Epirus instructed Aeneas always to worship with his clothing in a particular arrangement. Priests even in Augustus' time performed sacrifices in the same manner. What was it?"
+        answer: "THE TOGA PULLED OVER THE HEAD (cinctus gabinus)"
+      - question: "At Cumae Aeneas promised Apollo a new temple in the new city. Who actually built a temple on the Palatine?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "."
+      answer: "Give the future passive infinitive of fero. LATUM IRI"
+    boni:
+      - question: "."
+        answer: "Using a future passive infinitive, say “I know the water will be brought.” SCIO AQUAM LATUM IR"
+  - tossup:
+      question: "For whatever reason, that construction was little used. How would a Roman more likely say that?"
+      answer: "SCIO FORE UT AQUA FERATUR. “I know that he will bring the water.” SCIO EOM AQUAM LATURUM ESSE."
+  - tossup:
+      question: "Who was changed into a kingfisher out of grief for her drowned husband?"
+      answer: "ALCYONE"
+    boni:
+      - question: "Who betrayed her father Nisus because of her passion for the attacking Minos?"
+        answer: "SCYLLA (not the monster)"
+      - question: "What was it which guaranteed Nisus' safety as long as he kept it?"
+        answer: "A PURPLE LOCK OF HAIR"
+  - tossup:
+      question: "Quot colla habes?"
+      answer: "UNUM"
+    boni:
+      - question: "Quot menta habes?"
+        answer: "UNUM"
+      - question: "Quot aures habes?"
+        answer: "DUAS"
+  - tossup:
+      question: "."
+      answer: "Say in Latin: “We have put Marcus in charge of the cavalry.” MARCUM EQUITIBUS PRAEFECIMUS."
+    boni:
+      - question: "."
+        answer: "Say: “He obeyed his father.” PATRI PARUIT."
+      - question: "."
+        answer: "Say: “He was harming the neighbors.” VICINIS NOCEBAT."
+  - tossup:
+      question: "What king, encountered by the Argonauts, challenged one of them to a boxing match?"
+      answer: "AMYCUS"
+    boni:
+      - question: "Who took him on a beat him?"
+        answer: "POLLUX"
+      - question: "Who was Amycus' father?"
+        answer: "POSEIDON"
+  - tossup:
+      question: "What group proclaimed Otho emperor on January 15, 69 AD?"
+      answer: "THE PRAETORIAN GUARD"
+    boni:
+      - question: "Of what province had Otho been governor?"
+        answer: "LUSITANIA"
+      - question: "After what defeat did Otho commit suicide?"
+        answer: "THE BATTLE OF CREMONA"
+  - tossup:
+      question: "."
+      answer: "Define coram. OPENLY, IN THE PRESENCE OF"
+    boni:
+      - question: "."
+        answer: "Define apud. WITH, AMONG, IN THE COMPANY OF"
+      - question: "."
+        answer: "Define hactenus. TO THIS PLACE, THUS FAR, HITHERTO"
+  - tossup:
+      question: "What emperor defeated Zenobia?"
+      answer: "AURELIAN"
+    boni:
+      - question: "What self-proclaimed emperor of Gaul did Aurelian defeat?"
+        answer: "TETRICUS"
+      - question: "The cult of what god did Aurelian institute?"
+        answer: "SOL INVICTUS"
+  - tossup:
+      question: "Who bequeathed his kingdom to Rome?"
+      answer: "ATTALUS (III)"
+    boni:
+      - question: "What was the name of Attalus' kingdom?"
+        answer: "PERGAMUM"
+      - question: "Where was Pergamum?"
+        answer: "ASIA MINOR (TURKEY)"
+  - tossup:
+      question: "For what year were Pompey and Crassus elected to the consulship?"
+      answer: "55 BC"
+    boni:
+      - question: "."
+        answer: "During their 1st joint consulship"
+      - question: "In the same year, what former provincial governor of Sicily was prosecuted by Cicero for extortion?"
+        answer: "VERRES"
+      - question: "Who represented Verres at this trial?"
+        answer: "HORTENSIUS"
+  - tossup:
+      question: "What Latin present active participle contracts to form the Latin adjective prudens?"
+      answer: "PROVIDENS"
+    boni:
+      - question: "What phrase contracts to hodie?"
+        answer: "HOC DIE"
+      - question: "What contracts to fore?"
+        answer: "FUTURUM ESSE"
+      - question: "."
+        answer: "#"

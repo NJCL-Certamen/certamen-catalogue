@@ -1,0 +1,170 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Round 3"
+questions:
+
+  - tossup:
+      question: "Who in 212 AD extended Roman citizenship to all free men of the Empire?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Where was Caracalla assassinated?"
+        answer: "NEAR CARRHAE"
+      - question: "Who was the ringleader of the plot and the next emperor?"
+        answer: "MACRINUS"
+  - tossup:
+      question: "To what category do these verbs belong: soleo, fido, gaudeo?"
+      answer: "SEMI-DEPONENT"
+    boni:
+      - question: "Arbitror, sequor, vereor?"
+        answer: "DEPONENT"
+      - question: "Licet and oportet?"
+        answer: "IMPERSONAL"
+  - tossup:
+      question: "What form of fortis is needed to go with pueris?"
+      answer: "FORTIBUS"
+    boni:
+      - question: "With milite?"
+        answer: "FORTI"
+      - question: "With militum?"
+        answer: "FORTIUM"
+  - tossup:
+      question: "With whom did Odysseus spend the longest time on his return voyage from Troy?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Odysseus' son by Penelope?"
+        answer: "TELEMACHUS"
+      - question: "Who was Odysseus' dog, dead of joy and age upon his master's return?"
+        answer: "ARGUS"
+  - tossup:
+      question: "What are the Latin words abbreviated AD?"
+      answer: "ANNO DOMINI"
+    boni:
+      - question: "If we used Latin instead of English for “before Christ,” what would BC become?"
+        answer: "AC (ante Christum)"
+      - question: "What does the phrase ante bellum mean?"
+        answer: "BEFORE THE WAR"
+  - tossup:
+      question: "What road ran through the Forum?"
+      answer: "THE VIA SACRA"
+    boni:
+      - question: "In a basilica, would you find a consul, a quaestor and praetor or conducting business?"
+        answer: "PRAETOR"
+      - question: "What was the speaker's platform in the Forum?"
+        answer: "ROSTRA (ROSTRUM)"
+  - tossup:
+      question: "Who were the Delian twins?"
+      answer: "APOLLO AND ARTEMIS/DIANA"
+    boni:
+      - question: "Who was their mother?"
+        answer: "LATONA/LETO"
+      - question: "What is another name for the Greek sun god?"
+        answer: "HELIOS"
+  - tossup:
+      question: "Which of these women does not belong with the others because of good old Roman virtues: Cloelia, Verginia, Tarpeia, Lucretia?"
+      answer: "TARPEIA"
+    boni:
+      - question: "Which of these was never dictator: Julius Caesar, Sulla, Octavian, Cincinnatus?"
+        answer: "OCTAVIAN"
+      - question: "Which was never emperor: Nero, Octavian, Julius Caesar, Caligula?"
+        answer: "JULIUS CAESAR"
+  - tossup:
+      question: "."
+      answer: "Give a Latin noun which sums up these: leo, cervus, taurus, ovis. ANIMALIA (QUADRUPEDES)"
+    boni:
+      - question: "."
+        answer: "For these: corvus, perdix, anas, anser. AVES"
+      - question: "."
+        answer: "For these: murex, tonsicula, tructa, pistrix. PISCES"
+  - tossup:
+      question: "Whom did Hercules kill with a lyre?"
+      answer: "LINUS"
+    boni:
+      - question: "Who was Hercules' mortal half-brother?"
+        answer: "IPHICLES"
+      - question: "Who was Iphicles' son?"
+        answer: "IOLAUS"
+  - tossup:
+      question: "Who was the mortal whom Demeter punished with insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "What had he done?"
+        answer: "CUT DOWN HER SACRED OAK (OR OAK GROVE)"
+      - question: "Who was his daughter?"
+        answer: "MESTRA"
+  - tossup:
+      question: "What law gave Pompey the command against the pirates in the Mediterranean?"
+      answer: "LEX GABINIA"
+    boni:
+      - question: "How long did it take Pompey to defeat the pirates?"
+        answer: "THREE MONTHS"
+      - question: "What command did the Lex Manilia give Pompey?"
+        answer: "AGAINST MITHRIDATES"
+  - tossup:
+      question: "What is the positive adverb of magnus?"
+      answer: "MAGNOPERE"
+    boni:
+      - question: "Of facilis?"
+        answer: "FACILE"
+      - question: "What is the superlative adverb of facilis?"
+        answer: "FACILLIME"
+  - tossup:
+      question: "What case shows duration of time?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "."
+        answer: "Translate: Caesar was fighting for three hours. CAESAR TRES HORAS PUGNABAT."
+      - question: "."
+        answer: "We were in Rome for five days. ROMAE QUINQUE DIES ERAMUS."
+  - tossup:
+      question: "Quot terga tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "Quot crura tibi sunt?"
+        answer: "DUO"
+      - question: "Quot corda tibi sunt?"
+        answer: "UNUM"
+  - tossup:
+      question: "What month was named for the mother of Mercury?"
+      answer: "MAY"
+    boni:
+      - question: "In the old calendar, what month was Quintilis?"
+        answer: "JULY"
+      - question: "What was August in the old calendar?"
+        answer: "SEXTILIS"
+  - tossup:
+      question: "What Latin noun gives us the English verb “aviate”?"
+      answer: "AVIS"
+    boni:
+      - question: "What is the English noun for a place birds are kept?"
+        answer: "AVIARY"
+      - question: "What is an apiary?"
+        answer: "A PLACE FOR BEES"
+  - tossup:
+      question: "."
+      answer: "Put into the nominative the phrase “both poets.” AMBO POETAE"
+    boni:
+      - question: "."
+        answer: "Put “both nights” into the genitive. AMBARUM NOCTIUM"
+      - question: "."
+        answer: "Put “both daughters” into the ablative. AMBABUS FILIABUS"
+  - tossup:
+      question: "Who was the founder of Rome?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Who was his twin brother?"
+        answer: "REMUS"
+      - question: "Who was their father?"
+        answer: "MARS"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "How must an appositive agree with its noun?"
+        answer: "CASE ONLY"
+      - question: "."
+        answer: "What form of laetus would complete the sentence:"
+      - question: "."
+        answer: "Rex reginaque sunt ________. LAETI"
+      - question: "."
+        answer: "#"

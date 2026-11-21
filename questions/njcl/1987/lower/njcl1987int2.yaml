@@ -1,0 +1,170 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "A Roman might have an *agnomen*, or a *cognomen ex virtute*."
+    boni:
+      - question: "What was this?"
+        answer: "A FOURTH NAME GIVEN FOR A TRAIT OR FEAT."
+      - question: "What Roman figure had the *agnomen* dives?"
+        answer: "CRASSUS"
+      - question: "What politician had the *agnomen* felix?"
+        answer: "SULLA"
+  - tossup:
+      question: "What eminent republican was so opposed to Julius Caesar that he killed himself in 46 BC?"
+      answer: "CATO THE YOUNGER"
+    boni:
+      - question: "What was his nationality, by which he is normally differentiated from his ancestor Cato the Censor?"
+        answer: "UTICENSIS"
+      - question: "What was his ancestor's most famous dictum?"
+        answer: "CARTHAGO DELENDA EST"
+  - tossup:
+      question: "How many times did Achilles chase Hector around the walls of Troy?"
+      answer: "THREE"
+    boni:
+      - question: "For how many days did Achilles drag Hector's body around the body of Patroclus?"
+        answer: "TWELVE"
+      - question: "Of what creature did Achilles sacrifice a dozen on Patroclus' funeral pyre?"
+        answer: "TROJANS"
+  - tossup:
+      question: "."
+      answer: "Say in Latin: “Listen to me!” AUDI/AUDITE ME!"
+    boni:
+      - question: "."
+        answer: "Command one person to open the window. APERI FENESTRAM"
+      - question: "."
+        answer: "Tell him to close the door. CLAUDE IANUAM."
+  - tossup:
+      question: "What is the vocative for “my son”?"
+      answer: "MI FILI"
+    boni:
+      - question: "What is the vocative for “my daughters”?"
+        answer: "MEAE FILIAE"
+      - question: "For “good boy”?"
+        answer: "BONE PUER"
+  - tossup:
+      question: "What is the antonym of *novus*?"
+      answer: "VETUS or ANTIQUUS"
+    boni:
+      - question: "What is the comparative of *vetus*?"
+        answer: "VETUSTIOR"
+      - question: "What is the superlative?"
+        answer: "VETERRIMUS"
+  - tossup:
+      question: "Who was changed into a spider by an angry Athena?"
+      answer: "ARACHNE"
+    boni:
+      - question: "Into what was Callisto changed?"
+        answer: "A BEAR"
+      - question: "Who was Callisto's son?"
+        answer: "ARCAS"
+  - tossup:
+      question: "Which of these is not related to *pugno*: impugn, pugilist, pungent, repugnant?"
+      answer: "PUNGENT"
+    boni:
+      - question: "Which of these is not akin to *amo*: amiable, amateur, amulet, enemy?"
+        answer: "AMULET"
+      - question: "Which is not form *video*: improvise, evident, previous, visible, provide?"
+        answer: "PREVIOUS"
+  - tossup:
+      question: "Who was the Cyclops blinded by Odysseus?"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "Who was Polyphemus' father?"
+        answer: "POSEIDON"
+      - question: "Who was Odysseus' father?"
+        answer: "LAERTES"
+  - tossup:
+      question: "What was the domestic political crisis of 494 BC?"
+      answer: "THE SECESSION OF THE PLEBS"
+    boni:
+      - question: "Who convinced them to return with an analogy of the city to the human body?"
+        answer: "MENENIUS"
+      - question: "What was constructed to commemorate the harmony agreed to?"
+        answer: "THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "What Latin verb is the root of “document”?"
+      answer: "DOCEO"
+    boni:
+      - question: "773 What does the verb mean?"
+        answer: "TEACH"
+      - question: "What are the principal parts of a Latin verb that means “learn”?"
+        answer: "DISCO, DISCERE, DIDICI, (DISCITURUS)"
+      - question: "."
+        answer: "NOSCO, NOSCERE, NOVI, NOTUS or some other verb"
+  - tossup:
+      question: "What noble family was expelled from Rome at the end of the monarchy?"
+      answer: "THE TARQUINS"
+    boni:
+      - question: "From what Italian people had they come?"
+        answer: "THE ETRUSCANS"
+      - question: "What was the year of their expulsion?"
+        answer: "510 BC"
+  - tossup:
+      question: "What is the mood of the verb within indirect statement?"
+      answer: "INFINITIVE"
+    boni:
+      - question: "323 What case is its subject?"
+        answer: "ACCUSATIVE"
+      - question: "What case is its direct object?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "."
+      answer: "Translate the idiom proelium committere. BEGIN BATTLE"
+    boni:
+      - question: "."
+        answer: "453 Translate memoriae mandare. MEMORIZE, COMMIT TO MEMORY"
+      - question: "."
+        answer: "Translate poenam dare. PAY/SUFFER/UNDERGO A PENALTY"
+  - tossup:
+      question: "Waht is the perfect active infinitive of fugio?"
+      answer: "FUGISSE"
+    boni:
+      - question: "354 What is the 3rd person plural future indicative of eo?"
+        answer: "IBUNT"
+      - question: "What is the same form of sum?"
+        answer: "ERUNT"
+  - tossup:
+      question: "Why is vulgus, meaning “mob” or “common crowd,” an unusual second declension noun?"
+      answer: "IT IS NEUTER WITH -US"
+    boni:
+      - question: "."
+        answer: "Translate these rare 4th declension neuters."
+      - question: "."
+        answer: "- Genu. KNEE"
+      - question: "."
+        answer: "Veru. COOKING SPIT"
+  - tossup:
+      question: "Where was Niobe queen?"
+      answer: "THEBES"
+    boni:
+      - question: "Who was her husband?"
+        answer: "AMPHION"
+      - question: "Who was her father?"
+        answer: "TANTALUS"
+  - tossup:
+      question: "Translate: Ubi est tua domus? WHERE IS YOUR HOUSE?"
+      answer: "44 Translate: Errare est humanum. TO ERR IS HUMAN"
+    boni:
+      - question: "."
+        answer: "Translate: Bis dat qui cito dat. HE GIVES TWICE WHO GIVES QUICKLY."
+  - tossup:
+      question: "Who succeeded Nero as emperor?"
+      answer: "GALBA"
+    boni:
+      - question: "For five points each, what other two emperors reigned very briefly between Nero and Vespasian?"
+        answer: "OTHO AND VITELLIUS"
+  - tossup:
+      question: "Who am I?"
+      answer: "I am a Titan; I am the brother of Atlas. I sided with Zeus in his battle against Cronus, and I brought fire to man. PROMETHEUS"
+    boni:
+      - question: "What does Prometheus mean?"
+        answer: "FORETHOUGHT"
+      - question: "Whose name means “afterthought”?"
+        answer: "EPIMETHEUS'"
+      - question: "."
+        answer: "#"

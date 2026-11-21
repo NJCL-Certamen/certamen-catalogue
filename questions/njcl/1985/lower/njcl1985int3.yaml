@@ -1,0 +1,182 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Round 3"
+questions:
+
+  - tossup:
+      question: "What was an impluvium?"
+      answer: "A RAIN BASIN IN THE FLOOR OF THE ATRIUM"
+    boni:
+      - question: "What was the compluvium?"
+        answer: "THE HOLE IN THE CEILING THROUGH WHICH THE RAIN FELL"
+      - question: "What was the courtyard in the middle of the house?"
+        answer: "PERISTYLIUM"
+  - tossup:
+      question: "Who was the one-eyed Cyclops Odysseus met on Sicily?"
+      answer: "POLYPHEMUS"
+    boni:
+      - question: "."
+        answer: "Name the princess of the Phaeacians who discovered Odysseus on the shore while doing her laundry. NAUSICAA"
+      - question: "Who was Nausicaa's father?"
+        answer: "ALCINOUS"
+  - tossup:
+      question: "For what Greek warrior did Hephaestus make special armor?"
+      answer: "ACHILLES"
+    boni:
+      - question: "Why did Achilles need new armor?"
+        answer: "HIS HAD BEEN STRIPPED OFF THE BODY OF PATROCLUS BY HECTOR"
+      - question: "Hephaestus, or Vulcan, made armor for what Trojan hero?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Who held five successive consulships from 104 to 100 BC?"
+      answer: "MARIUS"
+    boni:
+      - question: "What was Marius' political party?"
+        answer: "THE POPULARES"
+      - question: "Marius, a poor politician, became the tool of what unscrupulous demagogue?"
+        answer: "SATURNINUS"
+  - tossup:
+      question: "Who was the beloved of Pyramus?"
+      answer: "THISBE"
+    boni:
+      - question: "Where did they live?"
+        answer: "BABYLON"
+      - question: "Which of them died first?"
+        answer: "PYRAMUS"
+  - tossup:
+      question: "What was the year of Augustus' death?"
+      answer: "14 AD"
+    boni:
+      - question: "Who was his widow?"
+        answer: "LIVIA"
+      - question: "Who was his first wife?"
+        answer: "SCRIBONIA"
+  - tossup:
+      question: "What hill held the homes of several emperors?"
+      answer: "THE PALATINE"
+    boni:
+      - question: "Which of the following does not lie at the foot of the Palatine: the Forum, the Circus Maximus, the Baths of Caracalla?"
+        answer: "THE BATHS OF CARACALLA"
+      - question: "What was the Forum Boarium?"
+        answer: "THE CATTLE MARKET"
+  - tossup:
+      question: "What case is usually found after the passive voice of appello?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What is the nominative plural of deus?"
+        answer: "DI or DEI"
+      - question: "What is the nominative plural of genu?"
+        answer: "GENUA"
+  - tossup:
+      question: "What is the second person plural perfect active indiciative of vinco?"
+      answer: "VICISTIS"
+    boni:
+      - question: "."
+        answer: "Change vicistis to pluperfect subjunctive. VICISSETIS"
+      - question: "."
+        answer: "Change vicissetis to passive. VICTI ESSETIS"
+  - tossup:
+      question: "What is the nominative plural in good prose of locus?"
+      answer: "LOCA"
+    boni:
+      - question: "What is the genitive plural of mare?"
+        answer: "MARIUM"
+      - question: "What is the neuter nominative plural of vetus?"
+        answer: "VETERA"
+  - tossup:
+      question: "Who taunted the defeated Romans with the sarcastic phrase vae victis?"
+      answer: "BRENNUS"
+    boni:
+      - question: "What battle a few miles away had preceded the capture of the city?"
+        answer: "THE BATTLE OF THE RIVER ALLIA"
+      - question: "When did Brennus capture Rome?"
+        answer: "390 BC (or 387)"
+      - question: "."
+        answer: "ROUND B3, p. 2"
+  - tossup:
+      question: "."
+      answer: "Translate the phrase “amazing to say.” MIRABILE DICTU"
+    boni:
+      - question: "."
+        answer: "Translate these phrases:"
+      - question: "."
+        answer: "Flowers are beautiful to see. FLORES SUNT PULCHRI VISU."
+      - question: "."
+        answer: "Music is pleasing to hear. MUSICA EST GRATA AUDITU."
+  - tossup:
+      question: "."
+      answer: "39"
+    boni:
+      - question: "."
+        answer: "Say in Latin, “You had seen,” VIDERAS"
+      - question: "."
+        answer: "“We will hear.” AUDIEMUS"
+      - question: "."
+        answer: "“I was writing.” SCRIBEBAM"
+  - tossup:
+      question: "What creatures had snakes for hair?"
+      answer: "THE GORGONS"
+    boni:
+      - question: "Which of them was mortal?"
+        answer: "MEDUSA"
+      - question: "What deity's shield was Medusa's head placed on?"
+        answer: "ATHENA'S"
+  - tossup:
+      question: "."
+      answer: "Distinguish in meaning between summus and sumus. SUMMUS=TOP OF, HIGHEST POINT SUMUS=WE ARE"
+    boni:
+      - question: "."
+        answer: "Distinguish between hic and hic. HIC=THIS HIC=HERE, IN THIS PLACE"
+      - question: "."
+        answer: "Distinguish between sol and solus. SOL=SUN SOLUS=ALONE, ONLY"
+  - tossup:
+      question: "Who escorted the souls of the dead to Hades?"
+      answer: "HERMES (MERCURY) (PSYCHOPOMPUS)"
+    boni:
+      - question: "Who was the boatman who carried them across the Styx?"
+        answer: "CHARON"
+      - question: "What was the name of the watchdog?"
+        answer: "CERBERUS"
+  - tossup:
+      question: "A Latin word for winter, bruma, is a contraction of what?"
+      answer: "BREVISSIMA"
+    boni:
+      - question: "What Latin word, a contraction, means “I prefer”?"
+        answer: "MALO"
+      - question: "What are the elements contained in the contraction malo?"
+        answer: "MAGIS + VOLO"
+  - tossup:
+      question: "What is the gender of pax?"
+      answer: "FEMININE"
+    boni:
+      - question: "What is the gender of pons?"
+        answer: "MASCULINE"
+      - question: "What is he gender of gens?"
+        answer: "FEMININE"
+  - tossup:
+      question: "."
+      answer: "Give the Latin and the English for the abbreviation AUC."
+    boni:
+      - question: "."
+        answer: "AB URBE CONDITA - FROM THE FOUNDING OF THE CITY or"
+      - question: "."
+        answer: "ANNO URBIS CONDITAE - IN THE YEAR OF THE FOUNDED CITY"
+      - question: "."
+        answer: "Give Latin and English for Q.E.D."
+      - question: "."
+        answer: "QVOD ERAT DEMONSTRANDUM - THAT WHICH HAD TO BE PROVEN"
+      - question: "."
+        answer: "Give the Latin and English for e.g."
+      - question: "."
+        answer: "EXEMPLI GRATIA - FOR THE SAKE OF EXAMPLE"
+  - tossup:
+      question: "What part of a sentence is conspicuously lacking for an intransitive verb?"
+      answer: "DIRECT OBJECT"
+    boni:
+      - question: "What part of speech joins two halves of a pair?"
+        answer: "CONJUNCTION"
+      - question: "Which of these is not a conjunction: ut, aut, et, it, at?"
+        answer: "IT"
+      - question: "."
+        answer: "#"

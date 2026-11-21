@@ -1,0 +1,216 @@
+tournament: "NJCL Certamen"
+year: 1983
+division: "Advanced"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "Who was the first chosen heir of Augustus?"
+      answer: "MARCELLUS"
+    boni:
+      - question: "How were they related?"
+        answer: "MARCELLUS WAS HIS NEPHEW (SISTER'S SON)"
+      - question: "Who was Octavia's second husband?"
+        answer: "MARC ANTONY"
+      - question: "."
+        answer: "217"
+  - tossup:
+      question: "To what conjugation belongs the cum compound of do?"
+      answer: "THIRD"
+    boni:
+      - question: "To what conjugation belongs the cum compound of sto?"
+        answer: "FIRST"
+      - question: "What verb is a compound of do and means “sell?"
+        answer: "” VENDO"
+      - question: "."
+        answer: "7673"
+  - tossup:
+      question: "Who was the patron of Horace and Vergil?"
+      answer: "MAECENAS"
+    boni:
+      - question: "What work of Horace opens Qui fit, Maecenas?"
+        answer: "SATIRES (SERMONES)"
+      - question: "When was Horace born?"
+        answer: "65 BC (Dec. 8)"
+      - question: "."
+        answer: "5264"
+  - tossup:
+      question: "What metal, called plumbum album or “white lead” by the Romans, was mined in central Britain during the time of Caesar?"
+      answer: "TIN"
+    boni:
+      - question: "According to Caesar, what color did the Britons dye their skin in order to appear fierce in battle?"
+        answer: "BLUE"
+      - question: "How many times did Caesar visit Britain during his campaigns?"
+        answer: "TWICE"
+      - question: "."
+        answer: "654"
+  - tossup:
+      question: "."
+      answer: "Distinguish in meaning between the nouns vallēs and vallum."
+    boni:
+      - question: "."
+        answer: "VALLES = VALLEY, DEPRESSION; VALLUM = RAMPART, WALL"
+      - question: "."
+        answer: "Distinguish in meaning between the verbs pareo and pario."
+      - question: "."
+        answer: "PAREO = OBEY; PARIO = PRODUCE, GIVE BIRTH"
+      - question: "."
+        answer: "Distinguish in meaning between the adjectives lēvis and lĕvis."
+      - question: "."
+        answer: "LĒVIS = SMOOTH; LĔVIS = LIGHT INSIGNIFICANT"
+      - question: "."
+        answer: "7538"
+  - tossup:
+      question: "Which one of Cicero's early teachers did he defend in deportation proceedings?"
+      answer: "ARCHIAS"
+    boni:
+      - question: "Cicero's first extant speech, delivered in 81 BC, defended whom in a real estate case?"
+        answer: "QUINCTIUS"
+      - question: "What Roman orator was prosecuting Quinctius?"
+        answer: "HORTENSIUS"
+      - question: "."
+        answer: "763"
+  - tossup:
+      question: "What are the Latin words abbreviated AD?"
+      answer: "ANNO DOMINI"
+    boni:
+      - question: "If we used Latin instead of English for “before Christ,” what would the initials be?"
+        answer: "AC (ANTE CHRISTUM)"
+      - question: "What does the phrase ante bellum mean?"
+        answer: "BEFORE THE WAR"
+      - question: "."
+        answer: "352"
+  - tossup:
+      question: "What is the third person singular present passive indicative of facio?"
+      answer: "FIT"
+    boni:
+      - question: "."
+        answer: "Change fit to plural. FIUNT"
+      - question: "."
+        answer: "Change fiunt to imperfect subjunctive. FIERENT"
+      - question: "."
+        answer: "52"
+  - tossup:
+      question: "Responde Latine. Quot oculi tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "Quot digiti tibi sunt?"
+        answer: "DECEM (or VIGINTI)"
+      - question: "Quot nasi tibi sunt?"
+        answer: "UNUS"
+      - question: "."
+        answer: "5169"
+  - tossup:
+      question: "What hill in Rome was the site of many emperors' homes?"
+      answer: "THE PALATINE"
+    boni:
+      - question: "."
+        answer: "Five points for three, ten points for all six, name the others."
+      - question: "."
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+      - question: "."
+        answer: "PA1"
+      - question: "."
+        answer: "657"
+  - tossup:
+      question: "What is the name given to a husband's power over his wife?"
+      answer: "MANUS"
+    boni:
+      - question: "What is the term for his power over his slaves?"
+        answer: "DOMINICA POTESTAS"
+      - question: "."
+        answer: "Distinguish in meaning between the Latin nouns amita and matertera. AMITA = PATERNAL AUNT; MATERTERA = MATERNAL AUNT"
+      - question: "."
+        answer: "5044"
+  - tossup:
+      question: "What battle ended the Second Punic War?"
+      answer: "THE BATTLE OF ZAMA"
+    boni:
+      - question: "At what battle, supposedly fought during an earthquake, did Hannibal decimate a Roman army in 217 BC?"
+        answer: "LAKE TRASIMENUS"
+      - question: "What Spanish town had the Carthaginians attacked to provoke the Second Punic War?"
+        answer: "SAGUNTUM"
+      - question: "."
+        answer: "3067"
+  - tossup:
+      question: "With whom was Achilles entombed?"
+      answer: "PATROCLUS"
+    boni:
+      - question: "Whose sacrifice did the ghost of Achilles demand?"
+        answer: "POLYXENA'S"
+      - question: "What would be the result if she weren't sacrificed?"
+        answer: "THE GREEKS WOULD NOT BE ALLOWED TO RETURN HOME"
+      - question: "."
+        answer: "2597"
+  - tossup:
+      question: "Who was the founder of Rome?"
+      answer: "ROMULUS"
+    boni:
+      - question: "Who was his twin brother?"
+        answer: "REMUS"
+      - question: "Who was their father?"
+        answer: "MARS"
+      - question: "."
+        answer: "453"
+  - tossup:
+      question: "What is the first person signular future indicative of the verb eo?"
+      answer: "IBO"
+    boni:
+      - question: "What is the superlative of celeriter?"
+        answer: "CELERRIME"
+      - question: "What is the plural active imperativeof fero?"
+        answer: "FERTE"
+      - question: "."
+        answer: "2625"
+  - tossup:
+      question: "Who was the king of the Phaeacians who aided Odysseus in reaching Ithaca?"
+      answer: "ALCINOUS"
+    boni:
+      - question: "Who was Alcinous' daughter?"
+        answer: "NAUSICAA"
+      - question: "What other famous couple did Alcinous aid?"
+        answer: "JASON AND MEDEA"
+      - question: "."
+        answer: "190"
+  - tossup:
+      question: "."
+      answer: "(Fleeing dol.)"
+    boni:
+      - question: "What case is required by the preposition extra?"
+        answer: "ACCUSATIVE"
+      - question: "What is the masculine vocative singular of meus?"
+        answer: "MI"
+      - question: "Ask in Latin: “Has he been absent?"
+        answer: "” AFUITNE"
+      - question: "."
+        answer: "7623"
+  - tossup:
+      question: "What character in the Aeneid says: Parce metu, Cytherea?"
+      answer: "JUPITER"
+    boni:
+      - question: "Who is being addressed?"
+        answer: "VENUS"
+      - question: "Who says: Infandum, regina, iubes renovare dolorem?"
+        answer: "AENEAS"
+      - question: "."
+        answer: "7669"
+  - tossup:
+      question: "What Roman author was born in Bilbilis in Spain?"
+      answer: "MARTIAL"
+    boni:
+      - question: "His first published work was written for what pulic occasion?"
+        answer: "THE DEDICATION OF THE FLAVIAN AMPHITHEATRE"
+      - question: "What was the name of the work?"
+        answer: "LIBER SPECTACULORUM"
+      - question: "."
+        answer: "2857"
+  - tossup:
+      question: "Who was served the flesh of his own son at a banquet by his brother?"
+      answer: "THYESTES"
+    boni:
+      - question: "Who was responsible for serving this grisly meal?"
+        answer: "ATREUS"
+      - question: "What supernatural phenomenon did Atreus stage to gain the throne of Mycenae?"
+        answer: "THE SUN REVERSED ITS PATH THROUGH THE SKY"
+      - question: "."
+        answer: "#"

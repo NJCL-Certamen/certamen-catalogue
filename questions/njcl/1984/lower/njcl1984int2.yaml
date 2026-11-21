@@ -1,0 +1,197 @@
+tournament: "NJCL Certamen"
+year: 1984
+division: "Intermediate"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "Give the correct form of the adjective magnus to agree with the noun partis. MAGNAE"
+    boni:
+      - question: "."
+        answer: "...to agree with urbem. MAGNAM"
+      - question: "."
+        answer: "...to agree with lauros. MAGNAS"
+  - tossup:
+      question: "How did mortals receive the oracles of Zeus at Dodona?"
+      answer: "THROUGH THE RUSTLING OF THE OAK LEAVES"
+    boni:
+      - question: "That was tame compared to some of his other manifestations; how did he appear to Danae?"
+        answer: "AS A SHOWER OF GOLD"
+      - question: "How to Semele, and with what result she hadn't planned on?"
+        answer: "AS HIMSELF IN ALL HIS GLORY; SHE WAS IMMEDIATELY INCINERATED"
+  - tossup:
+      question: "."
+      answer: "Give the use of the ablative case in this sentence: Officio facto, dux discessit. ABLATIVE ABSOLUTE"
+    boni:
+      - question: "."
+        answer: "Give the use of the ablative in this: Puer cum servo venit. ACCOMPANIMENT"
+      - question: "."
+        answer: "In this: Aqua a puellis portatur. AGENT"
+  - tossup:
+      question: "."
+      answer: "Complete this analogy: unius : unus :: : tres. TRIUM"
+    boni:
+      - question: "Responde Latine. Quot fiunt octo et tres?"
+        answer: "UNDECIM"
+      - question: "."
+        answer: "Complete this analogy: primus : unus :: : tres. TERTIUS"
+  - tossup:
+      question: "What noble family was thrown out of Rome at the end of the monarchy?"
+      answer: "THE TARQUINS"
+    boni:
+      - question: "From what Italian people had they come?"
+        answer: "ETRUSCANS"
+      - question: "What was the year of their expulsion from Rome?"
+        answer: "510 BC"
+  - tossup:
+      question: "What is the perfect active infinitive of do?"
+      answer: "DEDISSE"
+    boni:
+      - question: "What is the future active infinitive of sto?"
+        answer: "STETISSE"
+      - question: "What is the perfect active infinitive of ago?"
+        answer: "EGISSE"
+  - tossup:
+      question: "Which is the unrelated word: ablative, feral, vociferous, dilate?"
+      answer: "FERAL"
+    boni:
+      - question: "Which is the unrelated word: verify, revert, versatile, anniversary?"
+        answer: "VERIFY"
+      - question: "Which is the unrelated word: stable, obstacle, stoical, constant?"
+        answer: "STOICAL"
+  - tossup:
+      question: "With whom did Odysseus spend the longest time on his return from Troy?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Odysseus' son by Penelope?"
+        answer: "TELEMACHUS"
+      - question: "Who was Odysseus' dog, who died when he saw that his master had returned?"
+        answer: "ARGUS"
+  - tossup:
+      question: "What was the civil crisis of 494 BC?"
+      answer: "THE SECESSION OF THE PLEBS"
+    boni:
+      - question: "Who convinced them to return by making an analogy of the city to the human body?"
+        answer: "MENENIUS (Agrippa)"
+      - question: "What was constructed to commemorate the harmony agreed to?"
+        answer: "THE TEMPLE OF CONCORD"
+      - question: "."
+        answer: "B"
+  - tossup:
+      question: "."
+      answer: ":"
+  - tossup:
+      question: "what case form do gerunds lack?"
+      answer: "nom"
+    boni:
+      - question: "."
+        answer: "B"
+  - tossup:
+      question: "."
+      answer: ":"
+  - tossup:
+      question: "what ob form supplies Omissip nom?"
+      answer: "inf"
+    boni:
+      - question: "."
+        answer: "244 **"
+  - tossup:
+      question: "What is the most common use of the dative case?"
+      answer: "INDIRECT OBJECT**"
+    boni:
+      - question: "Can a gerund have a direct object?"
+        answer: "NO"
+      - question: "What is the dative gerund of iacio?"
+        answer: "IACIENDO"
+  - tossup:
+      question: "What single English verb translates the Latin idiom in animo habere?"
+      answer: "INTEND"
+    boni:
+      - question: "What single English verb translates the idiom pedem referre?"
+        answer: "RETREAT"
+      - question: "What single English noun translates the idiom res novae?"
+        answer: "REVOLUTION"
+  - tossup:
+      question: "Who cursed a man with insatiable hunger for cutting down one of her sacred oaks?"
+      answer: "DEMETER"
+    boni:
+      - question: "Who was the accursed?"
+        answer: "ERYSICHTHON"
+      - question: "What did he finally eat just before she destroyed him?"
+        answer: "HIS OWN BODY"
+  - tossup:
+      question: "What Greek vowel represented the long O of Latin?"
+      answer: "OMEGA"
+    boni:
+      - question: "What was the short O?"
+        answer: "OMICRON"
+      - question: "What two Greek vowels both became E in Latin, and what is the quantity of each?"
+        answer: "ETA (LONG) AND EPSILON (SHORT)"
+  - tossup:
+      question: "Who was the mother of Hercules?"
+      answer: "ALCMENA"
+    boni:
+      - question: "Who was Hercules' mortal half-brother?"
+        answer: "IPHICLES"
+      - question: "For whom did Hercules perform his 12 labors?"
+        answer: "KING EURYSTHEUS"
+  - tossup:
+      question: "What were the duties of the quaestor?"
+      answer: "PAYMASTER, TREASURER"
+    boni:
+      - question: "What was the Roman judicial rank?"
+        answer: "PRAETOR"
+      - question: "Which office in the cursus honorum was optional?"
+        answer: "AEDILE"
+  - tossup:
+      question: "Who commanded the Greeks at Troy?"
+      answer: "AGAMEMNON"
+    boni:
+      - question: "Who was his brother, Helen's husband?"
+        answer: "MENELAUS"
+      - question: "Who were Helen's twin brothers?"
+        answer: "CASTOR AND POLLUX"
+  - tossup:
+      question: "From what battle site did Caesar send a famous 3-word message?"
+      answer: "ZELA"
+    boni:
+      - question: "What was the message?"
+        answer: "VENI, VIDI, VICI"
+      - question: "Where is Zela?"
+        answer: "PONTUS (ASIA MINOR)"
+  - tossup:
+      question: "Who was a trusted advisor to Augustus as well as his son-in-law?"
+      answer: "AGRIPPA"
+    boni:
+      - question: "Who was Augustus' promiscuous daughter to whom Agrippa was married?"
+        answer: "JULIA"
+      - question: "Who were their three sons?"
+        answer: "GAIUS, LUCIUS, POSTUMUS"
+  - tossup:
+      question: "."
+      answer: "Say hello in Latin to your friend Tiberius. SALVE, TIBER"
+  - tossup:
+      question: "What is the abbreviation for the praenomen Tiberius?"
+      answer: "TI"
+    boni:
+      - question: "What is the vocative of the name Quintus?"
+        answer: "QUINTE"
+  - tossup:
+      question: "Roman names originally had meanings. What does Rufus mean?"
+      answer: "RED-HAIRED"
+    boni:
+      - question: "What does Quintus mean?"
+        answer: "THE FIFTH CHILD"
+      - question: "What does Fabius mean?"
+        answer: "BEAN"
+  - tossup:
+      question: "."
+      answer: "Name 2 Latin diphthongs. AE, AU, EI, EU, OE, UI"
+    boni:
+      - question: "."
+        answer: "Name 2 more."
+      - question: "."
+        answer: "Name 2 more."
+      - question: "."
+        answer: "#"

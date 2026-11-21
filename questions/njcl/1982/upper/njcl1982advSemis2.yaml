@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Advanced"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "What Roman writer is known for the phrase panem et circenses?"
+      answer: "JUVENAL"
+    boni:
+      - question: "Who said <latin>Alea iacta est</latin>?"
+        answer: "JULIUS CAESAR"
+      - question: "Who first wrote <latin>Carpe diem</latin>?"
+        answer: "HORACE"
+  - tossup:
+      question: "Who defeated Maxentius in 312 AD at the Battle of the Mulvian Bridge?"
+      answer: "CONSTANTINE"
+    boni:
+      - question: "What Roman emperor gained renown by conquering Zenobia, Queen of Palmyra?"
+        answer: "AURELIAN"
+      - question: "For what structure is Aurelian remembered?"
+        answer: "A WALL AROUND ROME"
+  - tossup:
+      question: "What figure of speech is found in this quote from Cicero: <latin>Verres calumniatores apponebat, Verres adesse iubebat, Verres cognoscebat</latin>...?"
+      answer: "ANAPHORA"
+    boni:
+      - question: "Identify the device in this quote from Horace: <latin>Magno de flumine mallem</latin>."
+        answer: "ALLITERATION"
+      - question: "What figure of speech is illustrated by this quote from Vergil: <latin>Non ignara mali</latin>...?"
+        answer: "LITOTES"
+  - tossup:
+      question: "With what curse did a jealous Pasiphae afflict Minos?"
+      answer: "ANY WOMAN HE SLEPT WITH WAS POISONED"
+    boni:
+      - question: "How did Pasiphae come by her witchcraft?"
+        answer: "SHE WAS THE DAUGHTER OF HELIOS, SISTER OF CIRCE, AUNT OF MEDEA"
+      - question: "Who cured Minos of this unpleasantness?"
+        answer: "PROCRIS"
+  - tossup:
+      question: "What is the lowest region of Hades where the wickedest are punished?"
+      answer: "TARTARUS"
+    boni:
+      - question: "Who in Tartarus is tied to a wheel which ceaselessly revolves?"
+        answer: "IXION"
+      - question: "What was Ixion's crime?"
+        answer: "ATTEMPTING TO SEDUCE HERA (or MURDER)"
+  - tossup:
+      question: "Who of these was not an Argonaut: Calais, Hylas, Meleager, Perseus, Orpheus, Hercules?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who built the Argonauts' ship?"
+        answer: "ARGUS"
+      - question: "What was unusual about one beam of the ship?"
+        answer: "IT WAS FROM THE OAK AT DODONA AND IT GAVE THE ARGONAUTS ADVICE."
+  - tossup:
+      question: "What is the feminine accusative singular of the relative pronoun <latin>qui</latin>?"
+      answer: "QUAM"
+    boni:
+      - question: "What is the meaning of <latin>quamquam</latin>?"
+        answer: "ALTHOUGH"
+      - question: "What is the meaning of <latin>quia</latin>?"
+        answer: "BECAUSE"
+  - tossup:
+      question: "In what province, and with what office, did Cicero begin the cursus honorum?"
+      answer: "QUAESTOR IN SICILY"
+    boni:
+      - question: "What famous orator defended Verres?"
+        answer: "HORTENSIUS"
+      - question: "In the Civil War, was Cicero a partisan of Pompey or Caesar?"
+        answer: "POMPEY"
+  - tossup:
+      question: "What Roman author claimed to have \"three hearts\"?"
+      answer: "ENNIUS"
+    boni:
+      - question: "What did he mean?"
+        answer: "(FLUENCY IN) LATIN, GREEK AND OSCAN"
+      - question: "Which was his native tongue?"
+        answer: "OSCAN"
+  - tossup:
+      question: "What Latin adjective is a contraction of the present active participle of provideo?"
+      answer: "PRUDENS"
+    boni:
+      - question: "By way of French, what Latin compound verb gives us our verb \"pursue\"?"
+        answer: "<latin>PROSEQUOR</latin>"
+      - question: "Do “survey” and “convey” have the same root verb?"
+        answer: "NO. SURVEY = <latin>SUPER + VIDEO</latin>; CONVEY = <latin>CUM + VIARE</latin>"
+  - tossup:
+      question: "Translate the noun <latin>sagitta</latin>."
+      answer: "ARROW"
+    boni:
+      - question: "With what would you shoot a sagitta?"
+        answer: "ARCUS"
+      - question: "What was a hasta?"
+        answer: "SPEAR"
+  - tossup:
+      question: "In the sentence, “We stayed for two days,” what case would “two days” require?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What would the Latin phrase “for two days” be?"
+        answer: "DIES DUO (DUOS, DUAS)"
+      - question: "In the sentence, “We left on the third day,” what would “on the third day” be?"
+        answer: "DIE TERTIO (or TERTIA)"
+  - tossup:
+      question: "Give the accusative supine of the verb <latin>iuvo</latin>."
+      answer: "<latin>IUTUM</latin>"
+    boni:
+      - question: "Using that form, say: \"Caesar came to help the town.\""
+        answer: "<latin>CAESAR VENIT IUTUM OPPIDUM</latin>."
+      - question: "Say the same thing with a subjunctive."
+        answer: "<latin>CAESAR VENIT UT OPPIDUM IUVARET</latin>."
+  - tossup:
+      question: "What comitia in the late Republic witnessed wills and adoptions and confirmed the imperium of consuls and emperors?"
+      answer: "CURIATA"
+    boni:
+      - question: "What comitia declared war, signed peace and elected consuls?"
+        answer: "CENTURIATA"
+      - question: "What comitia passed legislation and elected quaestors and curule aediles?"
+        answer: "TRIBUTA"
+  - tossup:
+      question: "Who was crippled with a thunderbolt from Zeus because he boasted of having lain with a goddess?"
+      answer: "ANCHISES"
+    boni:
+      - question: "What sign persuaded Anchises to leave Troy?"
+        answer: "FLAMES ON ASCANIUS' HAIR, COMET, THUNDERBOLT"
+      - question: "How did Anchises leave Troy?"
+        answer: "ON AENEAS' SHOULDERS"
+  - tossup:
+      question: "What type of subjunctive is in use here: <latin>Legamus fabulam</latin>?"
+      answer: "HORTATORY"
+    boni:
+      - question: "What type of <latin>cum</latin>-clause is this: <latin>Cum non vicissemus, tamen laeti eramus</latin>?"
+        answer: "CONCESSIVE"
+      - question: "What type of subjunctive clause is this: <latin>Venimus ut consulem videremus</latin>?"
+        answer: "PURPOSE"
+  - tossup:
+      question: "Where would you find a mensa and a lectus in a Roman house?"
+      answer: "TRICLINIUM"
+    boni:
+      - question: "Which meal did the Romans eat in the triclinium?"
+        answer: "CENA"
+      - question: "What was the culina?"
+        answer: "KITCHEN"
+  - tossup:
+      question: "Who recovered the ransom which the Romans had paid to the Gauls to leave Rome standing?"
+      answer: "CAMILLUS"
+    boni:
+      - question: "To what office was Camillus appointed when the Gauls attacked Rome?"
+        answer: "DICTATOR"
+      - question: "What Volscian maiden was fastened to a javelin by her father and thrown across a river to safety?"
+        answer: "CAMILLA"
+  - tossup:
+      question: "What work of Vergil imitates the Idylls of Theocritus?"
+      answer: "THE ECLOGUES (or BUCOLICS)"
+    boni:
+      - question: "How many poems are there in the Eclogues?"
+        answer: "TEN"
+      - question: "Which of the following was published first: Books I - III of Horace's Odes, Vergil's Georgics or Horace's first book of Epistles?"
+        answer: "THE GEORGICS"
+  - tossup:
+      question: "Translate into Latin: \"We have come to see the emperor.\""
+      answer: "<latin>VENIMUS UT IMPERATOREM VIDEREMUS</latin> / <latin>VENIMUS AD IMPERATOREM VIDENDUM</latin> / <latin>VENIMUS IMPERATOREM VISUM</latin>"
+    boni:
+      - question: "Translate: \"The emperor persuaded us to come.\""
+        answer: "<latin>IMPERATOR NOBIS UT VENIREMUS PERSUASIT</latin>."
+      - question: "Translate: \"We will have to see the emperor.\""
+        answer: "<latin>IMPERATOR NOBIS VIDENDUS ERIT</latin>."

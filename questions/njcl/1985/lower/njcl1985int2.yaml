@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "Who commanded the search for the Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "Why were his men called the Argonauts?"
+        answer: "AFTER THEIR SHIP, THE ARGO"
+      - question: "What princess helped Jason to get his prize?"
+        answer: "MEDEA"
+  - tossup:
+      question: "Who stole fire for men?"
+      answer: "PROMETHEUS"
+    boni:
+      - question: "Who was the Greek god of fire?"
+        answer: "HEPHAESTUS"
+      - question: "Who was the Roman goddess whose symbol was the hearth fire?"
+        answer: "VESTA"
+  - tossup:
+      question: "As in “He is taller than I,” what is the Latin word for “is”?"
+      answer: "EST"
+    boni:
+      - question: "For “than”?"
+        answer: "QUAM"
+      - question: "For “I”?"
+        answer: "EGO"
+      - question: "."
+        answer: "IPHICLES"
+  - tossup:
+      question: "Who was Heracles' half-brother? For whom did Heracles have to perform his Twelve Labors?"
+      answer: "EURYSTHEUS"
+    boni:
+      - question: "Why did Heracles have to enslave himself to Eurystheus?"
+        answer: "IN ATONEMENT FOR THE MURDER OF HIS WIFE AND CHILDREN"
+  - tossup:
+      question: "What king of Epirus won two costly battles, at Heraclea and at Asculum, against the Romans?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "Where was Pyrrhus defeated in 275 BC?"
+        answer: "BENEVENTUM (MALVENTUM)"
+      - question: "What general, renowned for his integrity, defeated Pyrrhus there?"
+        answer: "DENTATUS"
+  - tossup:
+      question: "What case is required for the object of suadeo?"
+      answer: "DATIVE"
+    boni:
+      - question: "What is the first person singular perfect active indicative of persuadeo?"
+        answer: "PERSUASI"
+      - question: "What is the same form of respondeo?"
+        answer: "RESPONDI"
+  - tossup:
+      question: "How do you translate the interrogative cur? WHY?"
+      answer: "Translate these questions into Latin:"
+    boni:
+      - question: "Where are you, children? UBI ESTIS, LIBERI? Where are you going, slave? QUO IS, SERVE?"
+        answer: ""
+  - tossup:
+      question: "Where was the senate meeting when Caesar was assassinated?"
+      answer: "IN THE THEATRE (OR CURIA) OF POMPEY"
+    boni:
+      - question: "Pompey had built this theatre when he was consul in what year?"
+        answer: "55 BC"
+      - question: "Who was co-consul whith Pompey in 55?"
+        answer: "CRASSUS"
+  - tossup:
+      question: "."
+      answer: "Change volebam to subjunctive. VELLEM"
+    boni:
+      - question: "."
+        answer: "Change volabam to subjunctive. VOLAREM"
+      - question: "."
+        answer: "Change vetare to perfect. VETUISSE"
+  - tossup:
+      question: "Responde Latine. Quot manus habes?"
+      answer: "DUAS"
+    boni:
+      - question: "Quot genua habes?"
+        answer: "DUO"
+      - question: "Quot ora habes?"
+        answer: "UNUM"
+  - tossup:
+      question: "What Latin adverb is the root of the English verb “procrastinate?"
+      answer: "” CRAS"
+    boni:
+      - question: "What does it mean?"
+        answer: "TOMORROW"
+      - question: "What means “yesterday”?"
+        answer: "HERI"
+      - question: "."
+        answer: "ROUND B2, p. 2"
+  - tossup:
+      question: "Who built the Pantheon in 27 BC?"
+      answer: "AGRIPPA"
+    boni:
+      - question: "5646 When you've entered the Pantheon, in which direction would you look to find the oculus?"
+        answer: "UP"
+      - question: "The Pantheon is fronted with monolithic columns. What are monolithic columns?"
+        answer: "COLUMNS MADE FROM ONE PIECE OF STONE"
+  - tossup:
+      question: "What is the future participle of esse?"
+      answer: "FUTURUS"
+    boni:
+      - question: "qfl What is it sperfect infinitive?"
+        answer: "FUISSE"
+      - question: "What is its first person singular imperfect subjunctive?"
+        answer: "ESSEM"
+  - tossup:
+      question: "699 What did a latro do for a living?"
+      answer: "HE STOLE"
+    boni:
+      - question: "What occupation was a pistor?"
+        answer: "BAKER"
+      - question: "A lanius?"
+        answer: "BUTCHER, MEAT VENDOR"
+  - tossup:
+      question: "5115 Over which bridge did the Via Flaminia cross the Tiber?"
+      answer: "PONS MULVIUS"
+    boni:
+      - question: "What was the first stone bridge on the Tiber?"
+        answer: "PONS AEMILIUS"
+      - question: "What early Roman patriot defended a bridge until it could be cut down?"
+        answer: "HORATIUS"
+  - tossup:
+      question: "What is 1999 in Roman numerals?"
+      answer: "MIM (or MDCCCCLXXXXVIIII)"
+    boni:
+      - question: "bq What are these: LXXIX?"
+        answer: "79"
+      - question: "MDI?"
+        answer: "1501"
+  - tossup:
+      question: "What vowel is characteristic of a second conjugation active infinitive?"
+      answer: "LONG -E-"
+    boni:
+      - question: "221 What vowel is characteristic of a fourth conjugation active infinitive?"
+        answer: "LONG -I-"
+      - question: "."
+        answer: "Name a present active infinitive that doesn't end in -re. ESSE, POSSE, VELLE, NOLLE, MALLE, ANY DEPONENT"
+  - tossup:
+      question: "2783 What was the first task imposed on Psyche by Venus?"
+      answer: "SORTING GRAIN"
+    boni:
+      - question: "How is it done for her?"
+        answer: "ANTS DO IT"
+      - question: "What was her last task?"
+        answer: "FETCHING SOME OF PROSERPINA'S BEAUTY"
+      - question: "XIX 5163 What is carried on a viaduct?"
+        answer: "A ROAD"
+      - question: "What is carried by an aqueduct?"
+        answer: "WATER"
+      - question: "Who built Rome's first aqueduct?"
+        answer: "APPIUS CLAUDIUS"
+  - tossup:
+      question: "2603 Who were the two sons of the Alban king Silvius Proca?"
+      answer: "AMULIUS AND NUMITOR"
+    boni:
+      - question: "In order to eliminate Numitor's heirs, Amulius had the son killed and the daughter made a Vestal Virgin. Who was the daughter?"
+        answer: "RHEA SILVIA"
+      - question: "."
+        answer: "Name Rhea Silvia's two sons. ROMULUS AND REMUS"
+      - question: "."
+        answer: "#"

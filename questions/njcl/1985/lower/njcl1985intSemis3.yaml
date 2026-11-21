@@ -1,0 +1,188 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Semifinals 3"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "What is the grammatical use of me in this sentence:"
+    boni:
+      - question: "."
+        answer: "Me in periculo esse puto. SUBJECT OF INDIRECT STATEMENT"
+      - question: "What is the use of me here: Meus frater me stultior est?"
+        answer: "ABLATIVE OF COMPARISON"
+      - question: "."
+        answer: "Me magistro, discipuli multa discunt. ABLATIVE ABSOLUTE"
+  - tossup:
+      question: "."
+      answer: "What feat did all of these have in common: Heracles, Theseus,"
+    boni:
+      - question: "Aeneas, Orpheus, Psyche?"
+        answer: "THEY WENT LIVING TO HADES"
+      - question: "Why did Theseus go?"
+        answer: "TO HELP HIS FRIEND PIRITHOUS KIDNAP PERSEPHONE"
+      - question: "What was Pirithous' fate?"
+        answer: "HE SITS FOREVER IN THE CHAIR"
+      - question: "."
+        answer: "OF FORGETFULNESS TO WHICH HE STUCK IN HADES"
+  - tossup:
+      question: "Whose wife was Thetis?"
+      answer: "PELEUS'"
+    boni:
+      - question: "Whose wife was Alcmene?"
+        answer: "AMPHITRYON'S"
+      - question: "Whose wife was Niobe?"
+        answer: "AMPHION'S"
+  - tossup:
+      question: "Of what ethnic stock was Cleopatra?"
+      answer: "MACEDONIAN"
+    boni:
+      - question: "What was her family name?"
+        answer: "PTOLEMY"
+      - question: "Where was she when Caesar was assassinated?"
+        answer: "IN ROME"
+  - tossup:
+      question: "What is the meaning of the idiom castra movere?"
+      answer: "BREAK CAMP"
+    boni:
+      - question: "What idiom means “pitch camp”?"
+        answer: "CASTRA PONERE"
+      - question: "What idiom means “build a road”?"
+        answer: "VIAM MUNIRE"
+  - tossup:
+      question: "Who was AUgustus' promiscuous daughter?"
+      answer: "JULIA"
+    boni:
+      - question: "How many times was she married?"
+        answer: "THREE"
+      - question: "Which of her husbands fathered her children?"
+        answer: "AGRIPPA"
+  - tossup:
+      question: "Where would you hear the statement: “Te morituri salutamus”?"
+      answer: "AT THE GLADIATORIAL GAMES"
+    boni:
+      - question: "."
+        answer: "Translate it. WE WHO ARE ABOUT TO DIE SALUTE YOU"
+      - question: "In what structure would you attend gladiatorial games?"
+        answer: "ARENA or COLOSSEUM (not CIRCUS!)"
+  - tossup:
+      question: "."
+      answer: "What Greek warrior angered and fought with the river god"
+    boni:
+      - question: "Scamander?"
+        answer: "ACHILLES"
+      - question: "How had he angered the god?"
+        answer: "THROWN MANY TROJAN CORPSES"
+      - question: "."
+        answer: "INTO HIS WATERS"
+      - question: "What god saved Achilles from Scamander, and how?"
+        answer: "HEPHAESTUS"
+      - question: "."
+        answer: "DRIED UP SCAMANDER'S WATERS WITH HIS HEAT"
+  - tossup:
+      question: "."
+      answer: "What two characters in mythology are credited with founding"
+    boni:
+      - question: "the Olympic Games?"
+        answer: "HERACLES AND PELOPS"
+      - question: "."
+        answer: "With the help of what perfidious charioteer did Pelops win"
+      - question: "his bride Hippodamia?"
+        answer: "MYRTILUS"
+      - question: "Who was Hippodamia's father, slain by Pelops?"
+        answer: "OENOMAUS"
+  - tossup:
+      question: "What is the accusative plural of fructus?"
+      answer: "FRUCTUS"
+    boni:
+      - question: "What is the ablative plural of dea?"
+        answer: "DEABUS"
+      - question: "What is the accusative plural of animal?"
+        answer: "ANIMALIA"
+      - question: "."
+        answer: "ROUND B12, p. 2"
+  - tossup:
+      question: "What Latin ablative absolute is still used in English to mean “with the necessary changes having been made”?"
+      answer: "MUTATIS MUTANDIS"
+    boni:
+      - question: "What does the frequent dictionary notation q.v. stand for?"
+        answer: "QUOD VIDE"
+      - question: "What does qq. v. stand for?"
+        answer: "QUAE VIDE"
+  - tossup:
+      question: "Where would you be if you were visiting the House of the Golden Cupids, the House of the Gladiators and the House of the Faun?"
+      answer: "POMPEII"
+    boni:
+      - question: "Many of the public buildings in Pompeii were destroyed in 62 AD, 17 years before the eruption of Vesuvius, by another disaster. - What type of disaster was it?"
+        answer: "EARTHQUAKE"
+      - question: "The only temple in Pompeii completely rebuilt and redecorated after the 62 quake was dedicated to a foreign goddess. Who?"
+        answer: "ISIS"
+  - tossup:
+      question: "What is the translation of pecus?"
+      answer: "HERD, FLOCK"
+    boni:
+      - question: "What is the translation of pectus?"
+        answer: "BREAST, CHEST"
+      - question: "What is the translation of peritus?"
+        answer: "SKILLED"
+  - tossup:
+      question: "How did Penelope delay the requests of her suitors for three years?"
+      answer: "SHE PROMISED TO MAKE HER DECISION AFTER FINISHING A SHROUD FOR LAERTES, BUT SECRETLY UNWOVE BY NIGHT THE WORK SHE HAD COMPLETED BY DAY."
+    boni:
+      - question: "What maiden would not marry until a man had beaten her in a foot race?"
+        answer: "ATALANTA"
+      - question: "The nymph Thetis was a first unwilling to marry Peleus. How did he win her hand?"
+        answer: "HE BEAT HER IN A WRESTLING MATCH."
+  - tossup:
+      question: "What Roman commander won the Battle of Ecnomus, but lost the Battle of the Bagradas Valley and was there taken captive by the Carthaginians?"
+      answer: "REGULUS"
+    boni:
+      - question: "What war was that?"
+        answer: "THE FIRST PUNIC WAR"
+      - question: "What Roman won the Battle of the Aegates Islands and thereby the whole war?"
+        answer: "(C. LUTATIUS) CATULUS"
+  - tossup:
+      question: "."
+      answer: "Translate into Latin: “I have come to see the games.” VENI UT LUDOS VIDEREM or VENI AD LUDOS VIDENDOS or VENI LUDORUM VIDENDORUM CAUSA/GRATIA or VENI LUDOS VISUM"
+    boni:
+      - question: "."
+        answer: "Translate “I persuaded my friend to come with me.” AMICO PERSUASI UT MECUM VENIRET."
+      - question: "."
+        answer: "Translate “We will have to watch the games carefully.” LUDI NOBIS DILIGENTER (or CUM CURA) SPECTANDI ERUNT."
+  - tossup:
+      question: "Which of the following does not come from cedo: antecedent, success, secession, supersede?"
+      answer: "SUPERSEDE"
+    boni:
+      - question: "What verb is the root of “supersede”?"
+        answer: "SEDEO"
+      - question: "Which two of the following words have the same root: consensus, censorious, descend, senseless?"
+        answer: "CONSENSUS, SENSELESS"
+  - tossup:
+      question: "."
+      answer: "What ablative usage is contained in this sentence: Omnes milites mecum profecti sunt. ACCOMPANIMENT"
+    boni:
+      - question: "."
+        answer: "In these:"
+      - question: "."
+        answer: "Orationem magno studio habuit. MANNER"
+      - question: "."
+        answer: "Miles gladio usus est. SPECIAL VERB"
+  - tossup:
+      question: "What tense of the subjunctive is formed on the present active infinitive?"
+      answer: "IMPERFECT handwritten number 798"
+    boni:
+      - question: "What is the third person singular active inperfect subjunctive of condo?"
+        answer: "CONDERET"
+      - question: "What is the second person plural passive imperfect subjunctive of mitto?"
+        answer: "MITTEREMINI"
+  - tossup:
+      question: "What language is the common ancestor of Latin, Greek and our Germanic tongue?"
+      answer: "INDO-EUROPEAN handwritten number 752"
+    boni:
+      - question: "Derivatives are words which come to English from Latin; what is the term for words in Latin and English descended along different paths from the same Indo-European root?"
+        answer: "COGNATES"
+      - question: "What English verb is cognate to gnosco?"
+        answer: "KNOW"
+      - question: "."
+        answer: "#"

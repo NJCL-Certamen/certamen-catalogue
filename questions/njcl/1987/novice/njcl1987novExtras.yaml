@@ -1,0 +1,102 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Novice"
+round: "Extra Questions"
+questions:
+
+  - tossup:
+      question: "Who was the beloved of Hero?"
+      answer: "LEANDER"
+    boni:
+      - question: "How did Leander die?"
+        answer: "HE DROWNED"
+      - question: "In what body of water?"
+        answer: "THE HELLESPONT"
+  - tossup:
+      question: "."
+      answer: "Give the accusative plural of arma. ARMA"
+    boni:
+      - question: "."
+        answer: "Give the accusative plural of filius. FILIOS"
+      - question: "."
+        answer: "Give the accusative plural of puella. PUELLAS"
+  - tossup:
+      question: "What case follows the preposition cum?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "Per?"
+        answer: "ACCUSATIVE"
+      - question: "The adjective dignus?"
+        answer: "ABLATIVE (GENITIVE in coll. or poetic use)"
+  - tossup:
+      question: "What did the Romans call the Mare Nostrum?"
+      answer: "THE MEDITERRANEAN"
+    boni:
+      - question: "Rome's first province was a Mediterranean island. What was it?"
+        answer: "SICILY"
+      - question: "From what other nation did Rome get control of Sicily?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "How many wars were fought between Rome and Carthage?"
+      answer: "3"
+    boni:
+      - question: "In which did Hannibal figure?"
+        answer: "THE SECOND"
+      - question: "Who was Hannibal's father?"
+        answer: "HAMILCAR BARCA"
+  - tossup:
+      question: "What was the name of the guard dog of Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "Who was the boatman of the Styx?"
+        answer: "CHARON"
+      - question: "Who conducted souls to Charon?"
+        answer: "HERMES"
+  - tossup:
+      question: "What Roman praenomen does the abbreviation C. stand for?"
+      answer: "GAIUS"
+    boni:
+      - question: "Cn.?"
+        answer: "GNAEUS"
+      - question: "T.?"
+        answer: "TITUS"
+  - tossup:
+      question: "."
+      answer: "In the sentence, “They waged war for many years,” translate for many years into Latin. (PER) MULTOS ANNOS"
+    boni:
+      - question: "."
+        answer: "“They attacked at first light.” Translate “at first light.” PRIMA LUCE"
+      - question: "."
+        answer: "Say “on the Ides of March.” IDIBUS MARTIIS"
+  - tossup:
+      question: "How many times was Marius consul?"
+      answer: "SEVEN"
+    boni:
+      - question: "What year marked his first consulship?"
+        answer: "107 BC"
+      - question: "What year marked his last consulship?"
+        answer: "86 BC"
+  - tossup:
+      question: "Whose stables did Hercules clean as one of his labors?"
+      answer: "AUGEAS'"
+    boni:
+      - question: "In what region did he kill a lion?"
+        answer: "NEMEA"
+      - question: "Where did a band led by Meleager kill a boar?"
+        answer: "CALYDON"
+  - tossup:
+      question: "Which of these is not a Romance language: Italian, Greek, Portuguese, Spanish?"
+      answer: "GREEK"
+    boni:
+      - question: "In what Roman province did French develop?"
+        answer: "GAUL"
+      - question: "In what province did Romanian develop?"
+        answer: "DACIA"
+  - tossup:
+      question: "."
+      answer: "How would a Roman say “I have touched.” TETIGI"
+    boni:
+      - question: "."
+        answer: "How would he say, “We were being touched.” TANGEBAMUS"
+      - question: "."
+        answer: "“You (sing.) will be touched.” TANGERIS"

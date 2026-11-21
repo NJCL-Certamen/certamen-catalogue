@@ -1,0 +1,196 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Finals"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "What word would be used to translate “that” in the sentence:"
+    boni:
+      - question: "326 There's no doubt that WE CAN WIN?"
+        answer: "QUIN"
+      - question: "."
+        answer: "What word would be used to translate “that” in these:"
+      - question: "."
+        answer: "Cicero persuaded me that I should go. UT"
+      - question: "."
+        answer: "I fear that I am wrong. NE"
+  - tossup:
+      question: "."
+      answer: "Who built a city on what would later be called the Palatine"
+    boni:
+      - question: "2595 Hill and called the city Pallanteum?"
+        answer: "EVANDER"
+      - question: "Who visited him to kill a monster?"
+        answer: "HERCULES"
+      - question: "Who visited him to ask for military aid?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Which Gorgons were immortal?"
+      answer: "STHENO AND EURYALE"
+    boni:
+      - question: "."
+        answer: "2652 Who were the three old women who shared a tooth and an"
+      - question: "eye?"
+        answer: "THE GRAEAE"
+      - question: "."
+        answer: "Who was the betrothed of Andromeda when Perseus entered"
+      - question: "the picture?"
+        answer: "HER UNCLE PHINEUS"
+  - tossup:
+      question: "."
+      answer: "What grandson of Minos was pursued amorously by Minos"
+    boni:
+      - question: "3097 and his two brothers Sarpedon and Rhadamanthys?"
+        answer: "MILETUS"
+      - question: "Who was Miletus' brother?"
+        answer: "AMPHITHEMIS (or GARAMAS)"
+      - question: "."
+        answer: "What city in Caria, in Asia Minor, did Miletus conquer"
+      - question: "and rename for himself?"
+        answer: "ANACTORIA"
+  - tossup:
+      question: "."
+      answer: "What famous fight pitted three Roman brothers against"
+    boni:
+      - question: "5015 three brothers from Alba Longa?"
+        answer: "THE BATTLE OF THE HORATII AND THE CURIATII"
+      - question: "Who was the king of Alba Longa who suggested the fight?"
+        answer: "METTIUS FUFETIUS"
+      - question: "How did Tullus Hostilius put Mettius Fufetius to death?"
+        answer: "TIED A HORSE TO EACH LIMB AND..."
+  - tossup:
+      question: "."
+      answer: "What is the first person singular perfect active subjunctive"
+    boni:
+      - question: "368 of facio?"
+        answer: "FECERIM"
+      - question: "What is the accusative supine of facio?"
+        answer: "FACTUM"
+      - question: "What construction is facturi sunt?"
+        answer: "ACTIVE PERIPHRASTIC"
+  - tossup:
+      question: "."
+      answer: "The British penny is abbreviated d. What does that"
+    boni:
+      - question: "812 have to do with Roman money?"
+        answer: "IT STANDS FOR DENARIUS"
+      - question: "In a prescription, what does C mean?"
+        answer: "CUM (WITH)"
+      - question: "What does f.m. mean?"
+        answer: "MIX, MAKE A MIXTURE (FIAT MISTURA)"
+  - tossup:
+      question: "."
+      answer: "Who shared Caesar's consulship of 46 BC and succeeded"
+    boni:
+      - question: "5247 him as Pontifex Maximus?"
+        answer: "LEPIDUS"
+      - question: "Who was his co-consul in 45?"
+        answer: "NO ONE"
+      - question: "Who assumed the vacant consulship after March 15, 44 BC?"
+        answer: "P. CORNELIUS DOLABELLA, CICERO'S SON-IN-LAW"
+  - tossup:
+      question: "."
+      answer: "When you've been recognized, follow the directions."
+    boni:
+      - question: "."
+        answer: "45 Surge et pone manum sub mensa."
+      - question: "."
+        answer: "Pulsa mensam."
+      - question: "."
+        answer: "Monstra mihi calceum tuum."
+  - tossup:
+      question: "What is the basic meaning of the noun commeatus?"
+      answer: "COMING AND GOING"
+    boni:
+      - question: "What is the military usage?"
+        answer: "SUPPLIES/CARAVAN/FURLOUGH"
+      - question: "."
+        answer: "Define copiae in its military usage. TROOPS"
+  - tossup:
+      question: "."
+      answer: "Give the accusative supine of the verb iuvo. IUTUM"
+    boni:
+      - question: "."
+        answer: "Using it, say: Caesar came to help the town. CAESAR VENIT IUTUM OPPIDUM."
+      - question: "."
+        answer: "Say the same thing with the subjunctive. CAESAR VENIT UT OPPIDUM IUVARET."
+  - tossup:
+      question: "."
+      answer: "Identify the use of the subjunctive in this sentence: Scio quis veniat. INDIRECT QUESTION"
+    boni:
+      - question: "."
+        answer: "What requires the subjunctive in this sentence: Nemo est qui melius facere possit. CHARACTERISTIC"
+      - question: "."
+        answer: "Romam eamus. HORTATORY"
+  - tossup:
+      question: "Where in Rome was the temple of Aesculapius located?"
+      answer: "TIBER ISLAND"
+    boni:
+      - question: "Where did Augustus build the Temple of the Deified Caesar?"
+        answer: "IN THE FORUM ROMANUM"
+      - question: "In which imperial forum was the Temple of Mars Ultor located?"
+        answer: "THE FORUM AUGUSTUM (or AUGUSTI)"
+  - tossup:
+      question: "What is the first act of hospitality performed for a guest when he lies down to eat?"
+      answer: "HIS SANDALS ARE REMOVED"
+    boni:
+      - question: "What kind of slave was a calceator?"
+        answer: "COBBLER AND PEDICURIST"
+      - question: "."
+        answer: "Distinguish between soleae and calcei."
+      - question: "."
+        answer: "SOLEAE = SLIPPERS, SANDALS (NEVER WORN WITH THE TOGA)"
+      - question: "."
+        answer: "CALCEI = OUTER SHOES, WALKING SHOES"
+  - tossup:
+      question: "What Latin word is the root of “inoculate”?"
+      answer: "OCULUS"
+    boni:
+      - question: "What verb is the root of “innocuous”?"
+        answer: "NOCEO"
+      - question: "What noun is the root of “vaccinate”?"
+        answer: "VACCA"
+  - tossup:
+      question: "What name is more commonly applied to the emperor whose real name was M. Aurelius Antoninus?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Where was he assassinated?"
+        answer: "CARRHAE"
+      - question: "Two other famous Romans also died fighting or just after fighting the Parthians. Who were they?"
+        answer: "CRASSUS AND TRAJAN"
+  - tossup:
+      question: "What is the Latin noun for “tree”?"
+      answer: "ARBOR"
+    boni:
+      - question: "What is the genitive plural?"
+        answer: "ARBORUM"
+      - question: "What is the gender?"
+        answer: "FEMININE"
+  - tossup:
+      question: "What Greek warrior was bitten by a water snake on his way to Troy?"
+      answer: "PHILOCTETES"
+    boni:
+      - question: "What Trojan warrior was fatally wounded by Philoctetes in the last year of the war?"
+        answer: "PARIS"
+      - question: "What nymph, once loved by Paris, refused to heal him of the wound?"
+        answer: "OENONE"
+  - tossup:
+      question: "The English relative clause in this sentence can be translated with one Latin word; what would it be?"
+      answer: "The man who is talking is my teacher. LOQUENS/DICENS"
+    boni:
+      - question: "."
+        answer: "Translate “writing” in these sentences."
+      - question: "."
+        answer: "Authors earn their living by writing. SCRIBENDO"
+      - question: "."
+        answer: "Writing is very hard work. SCRIBERE"
+  - tossup:
+      question: "How many of Odysseus' men did Scylla eat?"
+      answer: "SIX"
+    boni:
+      - question: "Who was Scylla's companion monster?"
+        answer: "CHARYBDIS"
+      - question: "Where are Scylla and Charybdis?"
+        answer: "THE STRAITS OF MESSINA"

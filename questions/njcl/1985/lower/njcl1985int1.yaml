@@ -1,0 +1,172 @@
+tournament: "NJCL Certamen"
+year: 1985
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "What English noun meaning a dunce is a Latin verb form which means “we don't know”?"
+      answer: "IGNORAMUS"
+    boni:
+      - question: "What English noun for a direction in cooking is an imperative in Latin which means “take”?"
+        answer: "RECIPE"
+      - question: "What English noun for a souvenir is a Latin imperative meaning “remember”?"
+        answer: "MEMENTO"
+  - tossup:
+      question: "What Greek hero at first dressed as a girl to avoid going to war?"
+      answer: "ACHILLES"
+    boni:
+      - question: "What Greek leader feigned insanity to avoid leaving his home to go to war?"
+        answer: "ODYSSEUS"
+      - question: "Where was Odysseus' kingdom?"
+        answer: "ITHACA"
+  - tossup:
+      question: "."
+      answer: "Translate the idiom prima luce. AT DAWN"
+    boni:
+      - question: "."
+        answer: "Translate the idiom navem solvere. SET SAIL"
+      - question: "."
+        answer: "Translate memoria tenere. REMEMBER"
+  - tossup:
+      question: "On what river do you find the city of Rome?"
+      answer: "TIBER"
+    boni:
+      - question: "At the Tiber's mouth stood what port city?"
+        answer: "OSTIA (PORTUS AUGUSTI)"
+      - question: "What region of Italy are Rome and Ostia in?"
+        answer: "LATIUM"
+  - tossup:
+      question: "On what hill was Romulus' house?"
+      answer: "THE PALATINE"
+    boni:
+      - question: "."
+        answer: "Name any 3 more. AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "For what Latin words does the abbreviation NB stand?"
+      answer: "NOTA BENE"
+    boni:
+      - question: "What does Rx stand for?"
+        answer: "RECIPE"
+      - question: "What does AD stand for?"
+        answer: "ANNO DOMINI"
+  - tossup:
+      question: "What centaur instructed many heroes?"
+      answer: "CHIRON"
+    boni:
+      - question: "What city did Cadmus found?"
+        answer: "THEBES (Cadmeia)"
+      - question: "Who correctly answered the riddle of the Sphinx at Thebes?"
+        answer: "OEDIPUS"
+  - tossup:
+      question: "What case is demanded by the preposition per?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case follows sine?"
+        answer: "ABLATIVE"
+      - question: "What preposition can be suffixed to its pronoun objects to form one word?"
+        answer: "CUM"
+  - tossup:
+      question: "In the middle of the first century BC, who was the leader of business interests in Rome and probably the wealthiest man in the Roman world?"
+      answer: "CRASSUS"
+    boni:
+      - question: "What do we call the political alliance formed by Pompey, Crassus and Caesar?"
+        answer: "THE FIRST TRIUMVIRATE"
+      - question: "."
+        answer: "Give the year of the formation of that triumvirate in AUC dating. 694 AUC"
+  - tossup:
+      question: "What color is albus?"
+      answer: "WHITE (flat, not glossy)"
+    boni:
+      - question: "What is the opposite of albus?"
+        answer: "ATER (not niger)"
+      - question: "What color is rossus?"
+        answer: "RED"
+  - tossup:
+      question: "What is the perfect passive participle of gero?"
+      answer: "GESTUS"
+    boni:
+      - question: "What is the same form of sero, “sow”?"
+        answer: "SATUS"
+      - question: "What is the same form of sero, “entwine”?"
+        answer: "SERTUS"
+      - question: "What is the same form of tollo?"
+        answer: "SUBLATUS"
+      - question: "What is the same form of suffero?"
+        answer: "SUBLATUS"
+      - question: "."
+        answer: "ROUND B1, p. 2"
+  - tossup:
+      question: "What is the Latin for “I shall be touched”?"
+      answer: "TANGAR"
+    boni:
+      - question: "What is “I have been touched”?"
+        answer: "TACTUS SUM"
+      - question: "“I shall have been touched”?"
+        answer: "TACTUS ERO"
+  - tossup:
+      question: "Who succeeded Augustus?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Who succeeded Tiberius?"
+        answer: "CALIGULA"
+      - question: "Who succeeded Caligula?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "What mother and son do we see in the constellations Big Dipper and Little Dipper, also known as Ursa Major and Ursa Minor?"
+      answer: "ARCAS AND CALLISTO"
+    boni:
+      - question: "What mountainous part of Greece is named for Arcas?"
+        answer: "ARCADIA"
+      - question: "How was Arcas' grandfather punished for serving Arcas' flesh to Zeus?"
+        answer: "HE WAS TURNED INTO A WOLF"
+  - tossup:
+      question: "What was the Roman name for a place where you could find all of these: laconicum, palaestra, frigidarium, calidarium and tepidarium?"
+      answer: "THERMAE (BALNEAE)"
+    boni:
+      - question: "What was the name of the rubdown or massage room?"
+        answer: "UNCTORIUM"
+      - question: "What were the scrapers used to remove oil from the body?"
+        answer: "STRIGILES"
+  - tossup:
+      question: "What god was given the epithet “twice-born”?"
+      answer: "DIONYSUS (BACCHUS)"
+    boni:
+      - question: "Who was his mortal tutor?"
+        answer: "SILENUS"
+      - question: "Who was the first mortal to whom Bacchus gave the vine?"
+        answer: "OENEUS"
+  - tossup:
+      question: "What is the Latin for “I have run”?"
+      answer: "CUCURRI"
+    boni:
+      - question: "."
+        answer: "Translate fefelli. I HAVE DECEIVED or CHEATED."
+      - question: "."
+        answer: "Change fefelli to passive. FALSUS SUM"
+  - tossup:
+      question: "What mortal maiden was visited by Zeus in the form of a golden shower?"
+      answer: "DANAE"
+    boni:
+      - question: "Who was the child of this union?"
+        answer: "PERSEUS"
+      - question: "Who was Danae's wicked suitor, who tried to get rid of Perseus by sending him to slay Medusa?"
+        answer: "POLYDECTES (POLYDEUCES)"
+  - tossup:
+      question: "What case is governed by extra?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "By ob?"
+        answer: "ACCUSATIVE"
+      - question: "By propius?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "What is the translation of the phrase mens sana in corpore sano?"
+      answer: "A SOUND MIND IN A SOUND BODY"
+    boni:
+      - question: "What is the genitive plural of the phrase mens sana?"
+        answer: "SANARUM MENTIUM"
+      - question: "What is the genitive plural of the phrase corpore sano?"
+        answer: "CORPORUM SANORUM"
+      - question: "."
+        answer: "#"

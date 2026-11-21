@@ -1,0 +1,164 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Intermediate"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "What is the Latin noun for \"hand\"?"
+      answer: "<latin>MANUS</latin>"
+    boni:
+      - question: "What is the nominative of the phrase \"two hands\"?"
+        answer: "<latin>MANUS DUAE</latin>"
+      - question: "What is the ablative of the same phrase?"
+        answer: "MANIBUS DUABUS"
+  - tossup:
+      question: "What was a Roman asking you if he walked up to you and said, \"<latin>Ningitne?</latin>\"?"
+      answer: "IS IT SNOWING?"
+    boni:
+      - question: "Tell this clown it is raining."
+        answer: "<latin>PLUIT</latin>"
+      - question: "Tell this clown it is thundering."
+        answer: "<latin>TONAT</latin>"
+  - tossup:
+      question: "Translate the verb form <latin>audeo</latin>."
+      answer: "I DARE"
+    boni:
+      - question: "Translate the verb form <latin>audio</latin>."
+        answer: "I HEAR"
+      - question: "Translate the verb form <latin>augeo</latin>."
+        answer: "I ENLARGE, I INCREASE"
+  - tossup:
+      question: "What praenomen is abbreviated A?"
+      answer: "AULUS"
+    boni:
+      - question: "Which is abbreviated Cn?"
+        answer: "GNAEUS"
+      - question: "Which is abbreviated L?"
+        answer: "LUCIUS"
+  - tossup:
+      question: "In what months do the Ides fall on the 15th?"
+      answer: "MARCH, MAY, JULY, OCTOBER"
+    boni:
+      - question: "On what day are the Ides in the other months?"
+        answer: "THE 13TH"
+      - question: "What other reckoning point changed for these four months?"
+        answer: "THE NONES"
+  - tossup:
+      question: "What case shows duration of time?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Translate into Latin: \"Caesar was fighting for three hours.\""
+        answer: "<latin>CAESAR TRES HORAS PUGNABAT</latin>."
+      - question: "Translate into Latin: \"We were at Rome for five days.\""
+        answer: "<latin>ROMAE QUINQUE DIES ERAMUS</latin>."
+  - tossup:
+      question: "What is the vocative of Septimus?"
+      answer: "SEPTIME"
+    boni:
+      - question: "What is the vocative of Caesar?"
+        answer: "CAESAR"
+      - question: "What is the vocative of Lucius?"
+        answer: "LUCI"
+  - tossup:
+      question: "What was the year of Caesar's birth?"
+      answer: "102 or 100 BC"
+    boni:
+      - question: "Where did Caesar's partisans fight two major battles against his assassins?"
+        answer: "PHILIPPI"
+      - question: "What two men led the Caesarian forces?"
+        answer: "ANTONY AND OCTAVIAN"
+  - tossup:
+      question: "What is the Latin word for \"tree\"?"
+      answer: "<latin>ARBOR</latin>"
+    boni:
+      - question: "What is the Latin word for \"dog\"?"
+        answer: "<latin>CANIS</latin>"
+      - question: "What is the Latin word for \"cat\"?"
+        answer: "<latin>FELIS</latin>"
+  - tossup:
+      question: "Who killed Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who killed the Minotaur?"
+        answer: "THESEUS"
+      - question: "Who caused the death of the Sphinx?"
+        answer: "OEDIPUS"
+  - tossup:
+      question: "Hannibal, Catullus, and Pliny the Younger shared the experience of visiting what province?"
+      answer: "BITHYNIA"
+    boni:
+      - question: "Under what proconsul did Catullus serve in Bithynia?"
+        answer: "GAIUS MEMMIUS"
+      - question: "Under what emperor did Pliny serve as overseer in Bithynia?"
+        answer: "TRAJAN"
+  - tossup:
+      question: "What is the third person plural perfect active indicative of cognosco?"
+      answer: "COGNOVERUNT"
+    boni:
+      - question: "Change <latin>cognoverunt</latin> to the passive."
+        answer: "<latin>COGNITI SUNT</latin>"
+      - question: "Change <latin>cogniti sunt</latin> to the subjunctive."
+        answer: "<latin>COGNITI SINT</latin>"
+  - tossup:
+      question: "Into what was Adonis' mother transformed before his birth?"
+      answer: "A MYRRH TREE"
+    boni:
+      - question: "What goddess released him from the tree when he was due to be born?"
+        answer: "ILITHYIA"
+      - question: "In another version, how did an animal figure in Adonis' birth?"
+        answer: "A BOAR CHARGED THE TREE AND GASHED THE OPENING THROUGH WHICH THE BABY EMERGED."
+  - tossup:
+      question: "What Latin verb yields the English noun \"station\"?"
+      answer: "<latin>STO</latin>"
+    boni:
+      - question: "What is its perfect active infinitive?"
+        answer: "STETISSE"
+      - question: "What is its first person singular future active indicative?"
+        answer: "STABO"
+  - tossup:
+      question: "What Roman maiden swam the Tiber to freedom only to be returned to her Etruscan captors?"
+      answer: "CLOELIA"
+    boni:
+      - question: "What maiden betrayed Rome to the Sabines?"
+        answer: "TARPEIA"
+      - question: "Who was the commander of the attacking Sabines?"
+        answer: "TITUS TATIUS"
+  - tossup:
+      question: "Who was the queen of Hades?"
+      answer: "PROSERPINA / PERSEPHONE"
+    boni:
+      - question: "Who was the god of the sea?"
+        answer: "NEPTUNE / POSEIDON"
+      - question: "Whose bird is the peacock?"
+        answer: "JUNO'S / HERA'S"
+  - tossup:
+      question: "On what hill did Romulus place his settlement?"
+      answer: "PALATINE"
+    boni:
+      - question: "Five points for three, ten for all six: name the other hills."
+        answer: "AVENTINE, CAELIAN, CAPITOLINE, ESQUILINE, QUIRINAL, VIMINAL"
+  - tossup:
+      question: "Who threw the golden apple that led to the Trojan War?"
+      answer: "ERIS (DISCORDIA)"
+    boni:
+      - question: "Who threw three golden apples to distract his opponent in a race?"
+        answer: "HIPPOMENES or MELANION"
+      - question: "Who was this opponent?"
+        answer: "ATALANTA"
+  - tossup:
+      question: "Which of these traveled to Hades and never again saw the light of day: Hercules, Aeneas, Theseus, Eurydice, or Orpheus?"
+      answer: "EURYDICE"
+    boni:
+      - question: "What friend of Theseus' did he have to leave behind in Hades?"
+        answer: "PIRITHOUS"
+      - question: "Who led Aeneas into Hades?"
+        answer: "THE SIBYL"
+  - tossup:
+      question: "What case follows the preposition cum?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "The preposition per?"
+        answer: "ACCUSATIVE"
+      - question: "The adjective dignus?"
+        answer: "ABLATIVE (or GENITIVE IN COLLOQUIAL AND POETIC USE)"

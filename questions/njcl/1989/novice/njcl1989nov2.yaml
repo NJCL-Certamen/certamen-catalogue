@@ -1,0 +1,182 @@
+tournament: "NJCL Certamen"
+year: 1989
+division: "Novice"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "5593 Who was the fifth king of Rome?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "Who was his infamous son?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "Who ruled in the period between them?"
+        answer: "SERVIUS TULLIUS"
+  - tossup:
+      question: "."
+      answer: "866 Make this verb form passive: ducam. DUCAR"
+    boni:
+      - question: "."
+        answer: "Make this passive: capis. CAPERIS"
+      - question: "."
+        answer: "Make this passive: audis. AUDIRIS"
+  - tossup:
+      question: "5619 What year was called the consulship of Julius and Caesar?"
+      answer: "59 BC"
+    boni:
+      - question: "Who was Caesar's co-consul that year?"
+        answer: "MARCUS BIBULUS"
+      - question: "In what year did Caesar serve his second consulship?"
+        answer: "48 BC"
+  - tossup:
+      question: "5909 In the time of Augustus, what competition did the Romans go to the circus to see?"
+      answer: "CHARIOT RACES"
+    boni:
+      - question: "What was Rome's oldest and largest circus?"
+        answer: "CIRCUS MAXIMUS"
+      - question: "How many laps were driven in a chariot race?"
+        answer: "SEVEN"
+  - tossup:
+      question: "."
+      answer: "869 Make this phrase plural: supplicium durum. SUPPLICIA DURA"
+    boni:
+      - question: "."
+        answer: "Make this plural: montis omnis. MONTIUM OMNIUM"
+      - question: "."
+        answer: "Make this plural: navem bonam. NAVES BONAS"
+  - tossup:
+      question: "1093 Which word doesn't belong in a list of nouns: aqua, dominus, ager, vester, tempus?"
+      answer: "VESTER"
+    boni:
+      - question: "Which word doesn't belong in a list of verbs: porto, ordo, sum, amo, fero?"
+        answer: "ORDO"
+      - question: "Which word doesn't belong in a list of adjectives: bonus, laurus, acer, altus, unus?"
+        answer: "LAURUS"
+  - tossup:
+      question: "704 Which declensions are almost exclusively feminine?"
+      answer: "FIRST AND FIFTH"
+    boni:
+      - question: "."
+        answer: "Name a first-declension masculine noun. NAUTA, AGRICOLA, PIRATA, POETA, INCOLA"
+      - question: "."
+        answer: "Name a fifth-declension masculine noun. DIES, MERIDIES"
+  - tossup:
+      question: "Who was the foremost poet and musician of Greek mythology?"
+      answer: "ORPHEUS"
+    boni:
+      - question: "Who taught Orpheus the lyre?"
+        answer: "APOLLO"
+      - question: "From what peril did Orpheus by singing save all his shipmates on the Argo?"
+        answer: "THE SIRENS"
+  - tossup:
+      question: "801 In “He is taller than I,” what is the Latin word for “is”?"
+      answer: "EST"
+    boni:
+      - question: "For “than”?"
+        answer: "QUAM"
+      - question: "For “I”?"
+        answer: "EGO"
+  - tossup:
+      question: "6067 What foreign power fought Rome in the Punic Wars?"
+      answer: "CARTHAGE"
+    boni:
+      - question: "How many wars were there?"
+        answer: "THREE"
+      - question: "Where had Carthage's original settlers come from?"
+        answer: "PHOENICIA"
+  - tossup:
+      question: "914 The motto of Trinity School in New York is Labore et Virtute. What case are these nouns in?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What use of the ablative is that?"
+        answer: "MEANS"
+      - question: "The motto of the Chapin School is Fortiter et Recte. What part of speech are fortiter and recte?"
+        answer: "ADVERBS"
+  - tossup:
+      question: "."
+      answer: "1210 Supply and define the Latin verb at the root of “fragile.” FRANGO - BREAK"
+    boni:
+      - question: "What derivative of the same verb means a piece of something?"
+        answer: "FRAGMENT"
+      - question: "What derivative of the same verb means specifically a breaking of the rules?"
+        answer: "INFRACTION"
+  - tossup:
+      question: "3409 What was the home city of Agamemnon?"
+      answer: "MYCENAE"
+    boni:
+      - question: "What was the home city of Nestor?"
+        answer: "PYLOS"
+      - question: "What was the home city of Menelaus?"
+        answer: "SPARTA"
+  - tossup:
+      question: "3295 Who led the men of the the Argo?"
+      answer: "JASON"
+    boni:
+      - question: "Who was its builder?"
+        answer: "ARGUS"
+      - question: "What was Jason's goal?"
+        answer: "THE GOLDEN FLEECE"
+  - tossup:
+      question: "3395 Whom did Narcissus love most?"
+      answer: "NARCISSUS"
+    boni:
+      - question: "What nymph loved him unrequitedly?"
+        answer: "ECHO"
+      - question: "Who had cursed Echo with her speech problem?"
+        answer: "HERA/JUNO"
+  - tossup:
+      question: "What Greek deity was god of poetry and music?"
+      answer: "APOLLO"
+    boni:
+      - question: "Of marriage?"
+        answer: "HERA"
+      - question: "Of the harvest?"
+        answer: "DEMETER"
+  - tossup:
+      question: "What Roman praenomen was abbreviated D.?"
+      answer: "DECIMUS"
+    boni:
+      - question: "1115 What praenomen is taken from the name of a river?"
+        answer: "TIBERIUS"
+      - question: "How is Gaius abbreviated?"
+        answer: "C."
+  - tossup:
+      question: "."
+      answer: "Distinguish in meaning between the verbs pareo and paro."
+    boni:
+      - question: "."
+        answer: "PAREO - OBEY PARO - PREPARE, GET"
+      - question: "."
+        answer: "Distinguish in meaning between the nouns libri and liberi."
+      - question: "."
+        answer: "LIBRI = BOOKS LIBERI = CHILDREN"
+      - question: "."
+        answer: "Distinguish in meaning between mille and miles."
+      - question: "."
+        answer: "MILLE = 1000 MILES = SOLDIER"
+  - tossup:
+      question: "Who was the last of the Julio-Claudian emperors?"
+      answer: "NERO"
+    boni:
+      - question: "."
+        answer: "6032 Name the next dynasty. FLAVIAN"
+      - question: "How many emperors ruled between the Julio-Claudian and the Flavian dynasties?"
+        answer: "THREE"
+  - tossup:
+      question: "."
+      answer: "Say in Latin, “My father was a good farmer.”"
+    boni:
+      - question: "."
+        answer: "901 MEUS PATER ERAT BONUS AGRICOLA."
+      - question: "."
+        answer: "Say, “Brutus and Cassius were famous Romans.”"
+      - question: "."
+        answer: "BRUTUS ET CASSIUS ERANT ROMANI CLAR"
+  - tossup:
+      question: "."
+      answer: "Say, “We are not Roman citizens.”"
+    boni:
+      - question: "."
+        answer: "CIVES ROMANI NON SUMUS."
+      - question: "."
+        answer: "#"

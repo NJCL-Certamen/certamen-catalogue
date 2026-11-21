@@ -1,0 +1,109 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+
+  - tossup:
+      question: "When the Gauls attacked Rome in 390 or 387 BC, who led the Roman garrison in repelling the attack?"
+      answer: "M. MANLIUS CAPITOLINUS"
+    boni:
+      - question: "Manlius had been awakened by the cackling of geese. To what goddess were they sacred?"
+        answer: "JUNO"
+      - question: "Who was in his absence appointed dictator to drive the Gauls out of Rome?"
+        answer: "CAMILLUS"
+  - tossup:
+      question: "What nephew of Priam, slain by Achilles, was made immortal by Zeus?"
+      answer: "MEMNON"
+    boni:
+      - question: "Where had he been king?"
+        answer: "ETHIOPIA"
+      - question: "Who was his mother?"
+        answer: "EOS (AURORA)"
+  - tossup:
+      question: "What single Latin word means “I am present”?"
+      answer: "ADSUM"
+    boni:
+      - question: "How would a Roman say “I have been absent?"
+        answer: "” AFUI"
+      - question: "How would he say “I will survive”?"
+        answer: "SUPERERO"
+  - tossup:
+      question: "In how many declensions are feminine nouns found?"
+      answer: "ALL FIVE"
+    boni:
+      - question: "Masculine nouns?"
+        answer: "ALL FIVE"
+      - question: "Neuter nouns?"
+        answer: "2ND, 3RD and 4TH ONLY"
+  - tossup:
+      question: "What was the full name of the great delayer against Hannibal?"
+      answer: "QUINTUS FABIUS MAXIMUS CUNCTATOR"
+  - tossup:
+      question: "Where was Hannibal's great defeat in 202 BC?"
+      answer: "ZAMA"
+    boni:
+      - question: "What name was given to Scipio to commemorate his victories against Carthage?"
+        answer: "AFRICANUS"
+  - tossup:
+      question: "Who must for all eternity attempt to draw water with sieves?"
+      answer: "THE DANAIDAE"
+    boni:
+      - question: "How many of them share this fate?"
+        answer: "49"
+      - question: "What was their crime?"
+        answer: "THEY MURDERED THEIR BRIDEGROOMS ON THEIR COMMON WEDDING NIGHT"
+  - tossup:
+      question: "Which of the following is not related to the noun pes: pedal, biped, impede, pediatrician?"
+      answer: "PEDIATRICIAN"
+    boni:
+      - question: "Which of the following is not related to the verb alo: altitudo, alter, alma, alumnus?"
+        answer: "ALTER"
+      - question: "Which of these is not based on fero: ablative, different, ferocious, prefer?"
+        answer: "FEROCIOUS"
+  - tossup:
+      question: "."
+      answer: "Using disco, translate: “I have learned.” DIDICI"
+    boni:
+      - question: "."
+        answer: "Using posco, translate: “I have demanded.” POPOSCI"
+      - question: "What kind of perfect are these?"
+        answer: "REDUPLICATED"
+      - question: "."
+        answer: "Finals"
+  - tossup:
+      question: "What mountains form the backbone of Italy?"
+      answer: "APENNINES"
+    boni:
+      - question: "What mountains separate Gaul from Spain?"
+        answer: "PYRENEES"
+      - question: "What mountain range contained the Helvetians?"
+        answer: "THE JURA"
+  - tossup:
+      question: "Who was the father of Danae?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "In what king's land did Danae arrive after Acrisius expelled her?"
+        answer: "POLYDECTES'"
+      - question: "What broher of Polydectes gave shelter bo her and the infant Perseus?"
+        answer: "DICTYS"
+  - tossup:
+      question: "Quot ulnae tibi sunt?"
+      answer: "DUAE"
+    boni:
+      - question: "Quot ungues tibi sunt?"
+        answer: "DECEM (or VIGINTI)"
+      - question: "Quot renes tibi sunt?"
+        answer: "DUO"
+  - tossup:
+      question: "Which two of the following three verbs have a common root: serve, conserve, preserve?"
+      answer: "conserve and preserve"
+    boni:
+      - question: "."
+        answer: "In each of these English trios, pick out the two with the same Latin root."
+      - question: "."
+        answer: "audible, audacious, auditorium AUDIBLE AND AUDITORIUM"
+      - question: "."
+        answer: "discreet, discrete, crescent DISCRETE AND CRESCENT"
+      - question: "."
+        answer: "#"

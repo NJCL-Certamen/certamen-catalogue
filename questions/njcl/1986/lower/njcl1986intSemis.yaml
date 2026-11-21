@@ -1,0 +1,173 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "How many participles does a regular, transitive Latin verb have?"
+      answer: "FOUR"
+    boni:
+      - question: "How many more could it have, but for which Latin has no forms?"
+        answer: "TWO"
+      - question: "What two participial possibilities don't exist?"
+        answer: "PRESENT PASSIVE AND PERFECT ACTIVE"
+  - tossup:
+      question: "What brothers were political reformers in the late second century BC?"
+      answer: "GAIUS AND TIBERIUS (SEMPRONIUS) GRACCHUS"
+    boni:
+      - question: "Who was their mother?"
+        answer: "CORNELIA"
+      - question: "In a famous story, what metaphor did she use to describe them?"
+        answer: "THEY WERE HER “JEWELS”"
+  - tossup:
+      question: "Whom did Ares turn into a rooster?"
+      answer: "ALECTRYON"
+    boni:
+      - question: "Who was turned into a turtle for refusing to attend the wedding of Zeus and Hera?"
+        answer: "THE NYMPH CHELONE"
+      - question: "What playmate of the child Zeus was turned into a stone for calling little Zeus mortal?"
+        answer: "CELMUS"
+  - tossup:
+      question: "What were Caesar's words, in Latin, as he crossed the Rubicon?"
+      answer: "<latin>ALEA IACTA EST</latin>"
+    boni:
+      - question: "What was the year?"
+        answer: "49 BC"
+      - question: "What general led the opposition to Caesar in the civil war that followed?"
+        answer: "POMPEY"
+  - tossup:
+      question: "What villain either stretched or hacked up his victims to make them fit his bed?"
+      answer: "PROCRUSTES"
+    boni:
+      - question: "From what source did the giant Antaeus draw his strength?"
+        answer: "HIS MOTHER, THE EARTH"
+      - question: "How did Sinis, a highwayman eventually killed by Theseus, murder his victims?"
+        answer: "TIED THEM TO TWO BENT PINE TREES AND RELEASED THE TREES"
+  - tossup:
+      question: "What king was twice the host of Aeneas in Sicily?"
+      answer: "ACESTES (AEGESTES)"
+    boni:
+      - question: "Who was Acestes' best friend, who returned with him from Troy?"
+        answer: "ELYMUS"
+      - question: "What was Acestes' kingdom in Sicily?"
+        answer: "DREPANUM"
+  - tossup:
+      question: "To what Latin verb, with what meaning, are the nouns fas and nefas linked?"
+      answer: "FOR, FARI = SPEAK"
+    boni:
+      - question: "."
+        answer: "Give the Latin nouns and their meanings from which these English words are derived."
+      - question: "."
+        answer: "federation FOEDUS, TREATY"
+      - question: "."
+        answer: "fulminate FULMEN, THUNDER"
+  - tossup:
+      question: "."
+      answer: "Translate the verb in this sentence: “Let's remain in Athens.” MANEAMUS"
+    boni:
+      - question: "."
+        answer: "In the same sentence, translate “in Athens.” ATHENIS"
+      - question: "."
+        answer: "Make the sentence negative. ATHENIS NE MANEAMUS."
+  - tossup:
+      question: "Who were the parents of Harmonia, the wife of Cadmus?"
+      answer: "APHRODITE AND ARES (VENUS & MARS)"
+    boni:
+      - question: "Who was the father of Thetis, wife of Peleus?"
+        answer: "NEREUS"
+      - question: "Who was the father of Andromeda, wife of Perseus?"
+        answer: "CEPHEUS"
+  - tossup:
+      question: "."
+      answer: "Tell me all the English nouns which would be accusative if you translated this sentence: “For many years I have taught the language of the Ancient Romans to clever students with great zeal.” YEARS, LANGUAGE, STUDENTS"
+    boni:
+      - question: "How many prepositions would be required in that Latin sentence?"
+        answer: "NONE"
+      - question: "What other case or cases would the sentence contain?"
+        answer: "GENITIVE (ROMANS) AND ABLATIVE (ZEAL)"
+  - tossup:
+      question: "How many paces were in a Roman mile?"
+      answer: "1000"
+    boni:
+      - question: "How many Roman feet were in a Roman pace?"
+        answer: "5"
+      - question: "What unit of length was 125 paces?"
+        answer: "STADIUM"
+  - tossup:
+      question: "What is the perfect active infinitive of lego?"
+      answer: "LEGISSE"
+    boni:
+      - question: "Of intellego?"
+        answer: "INTELLEXISSE"
+      - question: "Of neglego?"
+        answer: "NEGLEXISSE"
+  - tossup:
+      question: "How many Graces were there?"
+      answer: "THREE"
+    boni:
+      - question: "What did the Greeks callethem?"
+        answer: "CHARITES"
+      - question: "Who was their mother?"
+        answer: "EURYNOME"
+  - tossup:
+      question: "."
+      answer: "Define this English noun unchanged from Latin: acumen. INTELLIGENCE, EXPERTISE"
+    boni:
+      - question: "."
+        answer: "Define these English nouns, taken unchanged from Latin:"
+      - question: "."
+        answer: "“cadaver” CORPSE"
+      - question: "."
+        answer: "“colloquium” CONFERENCE, CONVERSATION"
+  - tossup:
+      question: "Which of these nouns is out of place: coluber, volucris, anguis, serpens?"
+      answer: "VOLUCRIS"
+    boni:
+      - question: "What is a synonym for volucris?"
+        answer: "AVIS"
+      - question: "What do the other three nouns mean?"
+        answer: "SNAKE"
+  - tossup:
+      question: "As the crow flies (or, as the Romans would say, Ut corvus volat), what direction is it from Rome to Illyricum?"
+      answer: "EAST"
+    boni:
+      - question: "What sea would you cross?"
+        answer: "THE ADRIATIC"
+      - question: "What country today is roughly equivalent to ancient Illyricum?"
+        answer: "YUGOSLAVIA"
+  - tossup:
+      question: "What Latin noun is a general term for these nouns: torus, sella, lectus, mensa?"
+      answer: "SUPELLEX"
+    boni:
+      - question: "What noun contains all of these: mala, uva, fici, pruna?"
+        answer: "FRUGES/POMA"
+      - question: "What Latin noun contains all of these: vespertilio, iumentum, caper, lepus?"
+        answer: "ANIMALIA"
+      - question: "."
+        answer: "-15"
+  - tossup:
+      question: "What is the perfect active infinitive of fallo?"
+      answer: "FEFELLISSE"
+    boni:
+      - question: "749 Of pello?"
+        answer: "PEPULISSE"
+      - question: "Of ballo?"
+        answer: "BALLAVISSE"
+  - tossup:
+      question: "What was the ethnic identity of Cleopatra of Egypt?"
+      answer: "MACEDONIAN"
+    boni:
+      - question: "What two Romans did she say were the fathers of her children?"
+        answer: "JULIUS CAESAR AND MARC ANTONY"
+      - question: "How many children did she have?"
+        answer: "FOUR (1 JC, 3 MA)"
+  - tossup:
+      question: "When do you take a prescription that reads a.c.?"
+      answer: "166 BEFORE MEALS (ANTE CIBUM)"
+    boni:
+      - question: "When do you take one that says q.i.d.?"
+        answer: "FOUR TIMES DAILY (QUATER"
+      - question: "."
+        answer: "IN DIEM"
+      - question: "How do you take one that says p.o.?"
+        answer: "ORALLY - PER OS"

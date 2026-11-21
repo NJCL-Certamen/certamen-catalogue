@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1984
+division: "Advanced"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "What was the site of Ovid's exile?"
+      answer: "TOMIS, IN DACIA"
+    boni:
+      - question: "What was the site of his birth?"
+        answer: "SULMO"
+      - question: "What was the year of his birth?"
+        answer: "43 BC"
+  - tossup:
+      question: "What would you be eating if you were having <u>panis et mel</u>?"
+      answer: "BREAD & HONEY"
+    boni:
+      - question: "...if you were having a <u>crustulum</u>?"
+        answer: "A COOKIE OR PASTRY"
+      - question: "...if you were having <u>mustaceum</u>?"
+        answer: "(WEDDING) CAKE"
+  - tossup:
+      question: "What is the superlative of <u>piger</u>?"
+      answer: "PIGERRIMUS"
+    boni:
+      - question: "... of <u>humilis</u>?"
+        answer: "HUMILLIMUS"
+      - question: "...of <u>nobilis</u>?"
+        answer: "NOBILISSIMUS"
+  - tossup:
+      question: "What type of genitive appears in the phrase <u>amor patriae</u>, meaning “love of one's homeland”?"
+      answer: "OBJECTIVE"
+    boni:
+      - question: "What type of genitive is used in the expression <u>pars hominum</u>?"
+        answer: "PARTITIVE or GENITIVE OF THE WHOLE"
+      - question: "."
+        answer: "Using the impersonal <u>miseret</u>, say in Latin: “I pity you.” TUI ME MISERET."
+  - tossup:
+      question: "What even more alliterative Latin proverb has been translated into the alliterative English: “Forewarned is forearmed”?"
+      answer: "PRAEMONITUS, PRAEMUNITUS"
+    boni:
+      - question: "What is the translation of the formulaic phrase <u>di duint</u>?"
+        answer: "MAY THE GODS GRANT IT"
+      - question: "What is the classical Latin form for <u>duint</u>?"
+        answer: "DENT"
+  - tossup:
+      question: "To whom did the Greeks award Achilles' armor?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "To whom did Odysseus later give it?"
+        answer: "PYRRHUS (NEOPTOLEMUS)"
+      - question: "Who had said the Greeks could not win without Pyrrhus' help?"
+        answer: "HELENUS"
+  - tossup:
+      question: "."
+      answer: "Distinguish by their works between Seneca the Elder and Seneca the Younger. SENECA MAJOR WROTE A LOST HISTORY OF HIS OWN ERA AND WORKS ON ORATORY; SENECA MINOR WROTE ESSAYS, SATIRE, TRAGEDIES AND A LOST BIOGRAPHY OF HIS FATHER."
+    boni:
+      - question: "What was the full name of both men?"
+        answer: "LUCIUS ANNAEUS SENECA"
+      - question: "What other author was a relative of the Senecas?"
+        answer: "LUCAN"
+  - tossup:
+      question: "What relative of yours is your <u>avia</u>?"
+      answer: "GRANDMOTHER"
+    boni:
+      - question: "Who is your <u>patruus</u>?"
+        answer: "UNCLE (FATHER'S BROTHER)"
+      - question: "Who is your <u>patruelis</u>?"
+        answer: "COUSIN (father's side)"
+  - tossup:
+      question: "Where did the sons of Tarquinius Superbus go to learn why a snake had appeared from the foundations of Jupiter's temple?"
+      answer: "DELPHI"
+    boni:
+      - question: "Being ambitious men, what else did they ask the oracle?"
+        answer: "WHO WOULD NEXT RULE ROME"
+      - question: "What did the oracle answer?"
+        answer: "HE WOULD RULE WHO FIRST KISSED HIS MOTHER"
+  - tossup:
+      question: "What third-century BC Latin poet, a Greek slave from Tarentum, wrote the first Latin epic, the <u>Odissia</u>, a translation of the Odyssey?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "What Roman of the same period is called the father of Latin poetry?"
+        answer: "ENNIUS"
+      - question: "What Latin writers of the same period were adapting and imitating Greek comedy?"
+        answer: "PLAUTUS AND TERENCE"
+  - tossup:
+      question: "In what room of the house would a master's body lie in state?"
+      answer: "ATRIUM"
+    boni:
+      - question: "Where was the arca kept?"
+        answer: "TABLINUM"
+      - question: "Where did the imagines stay?"
+        answer: "THE ALAE"
+  - tossup:
+      question: "What was the name of Circe's island?"
+      answer: "AEAEA"
+    boni:
+      - question: "What son of Circe and Odysseus, in a post-Homeric version, later kills Odysseus in an accident?"
+        answer: "TELEGONUS"
+      - question: "What was the name of Calypso's island?"
+        answer: "OGYGIA"
+  - tossup:
+      question: "Which member of the First Triumvirate died a natural death?"
+      answer: "NONE"
+    boni:
+      - question: "Which died in battle?"
+        answer: "CRASSUS"
+      - question: "Which of them died first?"
+        answer: "CRASSUS"
+  - tossup:
+      question: "At what battle did the Roman general Flamininus defeat King Philip V of Macedon in 197 BC?"
+      answer: "CYNOSCEPHALAE"
+    boni:
+      - question: "Which took place first: the Third Macedonian War, the Third Punic War, or the Third Samnite War?"
+        answer: "THE THIRD SAMNITE WAR"
+      - question: "What Macedonian leader was defeated by the Romans in the Third Macedonian War?"
+        answer: "PERSEUS"
+  - tossup:
+      question: "What construction requiring the subjunctive is contained in this English sentence: “I know where you've been.”?"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "."
+        answer: "“I think that the man who lives next door is a lawyer.” RELATIVE (SUBORDINATE) CLAUSE WITHIN INDIRECT STATEMENT"
+      - question: "."
+        answer: "“We're going to the aquarium to see the dolphins.” PORPOISE CLAUSE"
+  - tossup:
+      question: "What grandson of Minos was pursued amorously by Minos and his two brothers Rhadamanthys and Sarpedon?"
+      answer: "MILETUS"
+    boni:
+      - question: "Who was Miletus' brother?"
+        answer: "AMPHITHEMIS (or GARAMAS)"
+      - question: "What city in Caria, in Asia Minor, did Miletus conquer and rename for himself?"
+        answer: "ANACTORIA"
+  - tossup:
+      question: "What is the third person singular perfect active indicative of mitto?"
+      answer: "MISIT"
+    boni:
+      - question: "."
+        answer: "Change misit to the pluperfect. MISERAT"
+      - question: "."
+        answer: "Change miserat to the future perfect passive. MISSUS ERIT"
+  - tossup:
+      question: "What was Hercules' first labor?"
+      answer: "SLAYING THE NEMEAN LION"
+    boni:
+      - question: "Who aided Hercules in his second labor, killing the Lernaean Hydra?"
+        answer: "IOLAUS, HIS NEPHEW"
+      - question: "Who was the father of Hercules' half-brother Iolaus?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "."
+      answer: "Give two people the order: “Pity your friends.” MISEREMINI AMICORUM (VESTRORUM)"
+    boni:
+      - question: "."
+        answer: "Using a gerundive, say “by making ships.” NAVIBUS FACIENDIS"
+      - question: "."
+        answer: "Use a gerundive to say “for the purpose of making ships.” AD NAVES FACIENDAS or NAVIUM FACIENDARUM CAUSA/GRATIA"
+  - tossup:
+      question: "."
+      answer: "Identify the figure of speech in this line: pulcher corpore oculis maestus. CHIASMUS"
+    boni:
+      - question: "What figure of speech is Neptune's abrupt Quos ego-?"
+        answer: "APOSIOPESIS"
+      - question: "What is a half-line of meter, such as Italiam non sponte sequor?"
+        answer: "HEMISTICH"

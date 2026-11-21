@@ -1,0 +1,174 @@
+tournament: "NJCL Certamen"
+year: 1988
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who wrote a satire in which an emperor is not deified but pumpkinified?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "7585 Who is the emperor?"
+        answer: "CLAUDIUS"
+      - question: "What is the name of the satire?"
+        answer: "APOCOLOCYNTOSIS"
+  - tossup:
+      question: "During the reign of Nero, what ruler of the Parthian Empire put his own brother on the throne of Armenia?"
+      answer: "VOLOGESES"
+    boni:
+      - question: "5875 Who was the brother?"
+        answer: "TIRIDATES"
+      - question: "In what year did Nero symbolically crown Tiridates in Rome?"
+        answer: "66AD"
+  - tossup:
+      question: ""
+      answer: "Name the three major poets who benefited from the patronage of Maecenas. VERGIL, HORACE, PROPERTIUS"
+    boni:
+      - question: "7556 What historian was personally encouraged by Augustus?"
+        answer: "LIVY"
+      - question: "Who was the literary patron of Tibullus?"
+        answer: "(VALERIUS) MESSALA CORVINUS"
+  - tossup:
+      question: "Who in the Aeneid says: Durate et vosmet rebus servate secundis?"
+      answer: "AENEAS"
+    boni:
+      - question: ""
+        answer: "7627 Who says: Tuus, o regina, quid optes"
+      - question: "Explorare labor; mihi iussa capessere fas est?"
+        answer: "AEOLUS"
+      - question: "Whom is he addressing?"
+        answer: "JUNO"
+  - tossup:
+      question: "Who was the goddess or personification of health?"
+      answer: "HYGIEIA"
+    boni:
+      - question: "3197 Who was the goddess of youth?"
+        answer: "HEBE"
+      - question: "Who was the goddess of the dawn?"
+        answer: "EOS"
+  - tossup:
+      question: "Who was the king of the Phaeacians who aided Odysseus in reaching Ithaca?"
+      answer: "ALCINOUS"
+    boni:
+      - question: "2625 Who was his wife?"
+        answer: "ARETE"
+      - question: "What famous couple did Alcinous aid?"
+        answer: "JASON AND MEDEA (FLEEING COL.)"
+  - tossup:
+      question: "Which of the following is not a Latin derivative: art, sculpture, theatre, painting?"
+      answer: "THEATRE"
+    boni:
+      - question: "770 What Latin verb is the root of paint?"
+        answer: "PINGO, PINGERE"
+      - question: "Of color, texture, tint and hue, which is not from Latin?"
+        answer: "HUE"
+  - tossup:
+      question: "What is the Latin title of Caesar's most famous work?"
+      answer: "COMMENTARII DE BELLO GALLICO"
+    boni:
+      - question: "7521 How many books are in it?"
+        answer: "EIGHT"
+      - question: "Who wrote the eighth?"
+        answer: "AULUS HIRTIUS"
+  - tossup:
+      question: "In what year was the First Triumvirate formed?"
+      answer: "60 BC"
+    boni:
+      - question: "5267 How long did it last?"
+        answer: "7 YEARS"
+      - question: "In what year was the Second formed?"
+        answer: "43 BC"
+  - tossup:
+      question: "What is the ablative gerund of eo?"
+      answer: "EUNDO"
+    boni:
+      - question: "355 What is the nominative singular of the present participle of eo?"
+        answer: "IENS"
+      - question: "What is the masculine nominative plural?"
+        answer: "EUNTES"
+  - tossup:
+      question: ""
+      answer: "Translate into the nominative the phrase “both farmers.” AMBO POETAE"
+    boni:
+      - question: ""
+        answer: "1 smcs. “"
+      - question: ""
+        answer: "farmers CFARMERS"
+      - question: ""
+        answer: "Put the phrase ”both nights“ into the genitive. AMBARUM NOCTIUM"
+      - question: ""
+        answer: "Put the phrase ”both daughters“ into the ablative. AMBABUS FILIABUS"
+  - tossup:
+      question: ""
+      answer: "What type of genitive appears in the phrase pars hominum, meaning ”some of the men.“ PARTITIVE or GENITIVE OF THE WHOLE"
+    boni:
+      - question: ""
+        answer: "208 What type of genitive appears in the phrase amor patriae, ”love of one's country.“ OBJECTIVE"
+      - question: ""
+        answer: "Using the impersonal miseret, say in Latin: ”I pity you.“ TUI ME MISERET"
+  - tossup:
+      question: "What Latin verb is at the root of the English word ”occasion“?"
+      answer: "CADO (OCCIDO)"
+    boni:
+      []
+  - tossup:
+      question: ""
+      answer: "What verb is the root of ”tracto“ TRAHO"
+    boni:
+      - question: "139 Which of these is not from fero: fertile, translate, furtive, ablative, transfer?"
+        answer: "FURTIVE"
+  - tossup:
+      question: "Who gave his name to the Spanish city of Barcelona?"
+      answer: "HAMILCAR BARCA"
+    boni:
+      - question: "5496 What modern city did the Romans call Aquincum?"
+        answer: "BUDAPEST"
+      - question: "What is the derivative name for the Roman provincial city of Aurelianensis?"
+        answer: "ORLEANS"
+  - tossup:
+      question: "What mother and son do we see in the constellations Big Dipper and Little Dipper, also known as Ursa Major and Ursa Minor?"
+      answer: "CALLISTO AND ARCAS"
+    boni:
+      - question: "3106 What mountainous part of Greece is named for Arcas?"
+        answer: "ARCADIA"
+      - question: "How was Arcas' grandfather punished for serving Arcas' flesh to Zeus?"
+        answer: "HE WAS TURNED INTO A WOLF"
+  - tossup:
+      question: "For what would a Roman matron use a flabellum?"
+      answer: "TO FAN HERSELF"
+    boni:
+      - question: "499 If a Roman called for a calamus, what does he want to do?"
+        answer: "WRITE (IT'S A PEN)"
+      - question: "A wealthy Roman might present certain acquaintances with a sportula. What type of person received it?"
+        answer: "CLIENT (IT'S FOOD)"
+  - tossup:
+      question: "What do we call the sea which the Greeks called Euxinus?"
+      answer: "BLACK SEA"
+    boni:
+      - question: "5098 In what colony on the western end of this sea did Ovid live in exile?"
+        answer: "TOMIS (TOMI)"
+      - question: "To what country on this sea did Jason travel?"
+        answer: "COLCHIS"
+  - tossup:
+      question: ""
+      answer: "What use of the dative case is seen in this sentence: Belgae sunt proximi Germanis. DATIVE WITH ADJECTIVES"
+    boni:
+      - question: ""
+        answer: "958 What ablative is here: Gladio vulneratus est. MEANS"
+      - question: "What use of the genitive is this: vir summae virtutis?"
+        answer: "DESCRIPTION"
+  - tossup:
+      question: "What is the idiomatic English translation of the Latin idiom certiorem facere?"
+      answer: "INFORM"
+    boni:
+      - question: ""
+        answer: "968 Translate the idiom Bellum gerere. WAGE WAR"
+      - question: ""
+        answer: "Translate the idiom gratias agere. GIVE THANKS, THANK"
+  - tossup:
+      question: "Bellerophon's name means he once had certain dealings with a man named Bellerus. What was Bellerophon to Bellerus?"
+      answer: "HIS KILLER"
+    boni:
+      - question: "2762 What was his name before he killed Bellerus?"
+        answer: "HIPPONOUS"
+      - question: "Who falsely accused Bellerophon of trying to seduce her?"
+        answer: "ANTIA or STHENEBOEA"

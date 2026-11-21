@@ -1,0 +1,180 @@
+tournament: "NJCL Certamen"
+year: 1989
+division: "Intermediate"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "930 What construction requiring the subjunctive is required in this sentence: “Tell me where you've been.” INDIRECT QUESTION"
+    boni:
+      - question: "."
+        answer: "“I think the man who just left is a doctor.” RELATIVE (SUBORDINATE) CLAUSE WITHIN INDIRECT STATEMENT"
+      - question: "."
+        answer: "“We're going to the aquarium to see the dolphins.” PORPOISE CLAUSE"
+  - tossup:
+      question: "."
+      answer: "660 Supply and translate the Latin noun at the root of the English adjective “lachrymose.” LACRIMA = TEAR"
+    boni:
+      - question: "."
+        answer: "Supply and translate the Latin verb at the root of the English noun “lavatory.” LAVO = WASH"
+      - question: "."
+        answer: "Supply and translate the Latin verb at the root of the English noun “laboratory.” LABORO = WORK"
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "3343 | What was the name of Aphrodite's magic garment?"
+      answer: "| CESTUS |"
+    boni:
+      - question: "."
+        answer: "| --- | --- | --- |"
+      - question: "|  | What was Zeus' shield?"
+        answer: "| AEGIS |"
+      - question: "|  | What were Hermes' sandals?"
+        answer: "| TALARIA |"
+      - question: "."
+        answer: "|"
+  - tossup:
+      question: "5908 | Who was Rome's second king?"
+      answer: "| NUMA POMPILIUS |"
+    boni:
+      - question: "|  | How many kings did Rome have?"
+        answer: "| SEVEN |"
+      - question: "|  | Who was last?"
+        answer: "| TARQUINIUS SUPERBUS |"
+  - tossup:
+      question: "1176 What is the meaning of the idiom consilium capere?"
+      answer: "ADOPT A PLAN"
+    boni:
+      - question: "The idiom poenam dare?"
+        answer: "PAY THE PENALTY, SUFFER THE PUNISHMENT"
+      - question: "The idiom certiorem facere?"
+        answer: "INFORM"
+  - tossup:
+      question: "5910 Who was Rome's second emperor?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "What dynasty was he part of?"
+        answer: "JULIO-CLAUDIAN"
+      - question: "To whom was Tiberius' mother married for 52 years?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: "5952 From the beginning of the first to the end of the last, what are the years of the Punic Wars?"
+      answer: "264 - 146 BC"
+    boni:
+      - question: "Which was ended by the Battle of Zama?"
+        answer: "THE SECOND"
+      - question: "Which gave Rome possession of Sicily?"
+        answer: "THE FIRST"
+      - question: "."
+        answer: "-117"
+  - tossup:
+      question: "What is the first person plural present active indicative of 1114 nolo?"
+      answer: "NOLUMUS"
+    boni:
+      - question: "."
+        answer: "Make that form second person plural. NON VULTIS"
+      - question: "What is the corresponding form of malo?"
+        answer: "MAVULTIS"
+  - tossup:
+      question: "What villain in mythology was known as the “club-bearer”?"
+      answer: "3217 PERIPHETES/CORYNETES"
+    boni:
+      - question: "Who was called the “stretcher”?"
+        answer: "PROCRUSTES/DAMASTES/POLYPEMON"
+      - question: "Who was known as the “pine-bender”?"
+        answer: "SINIS/PITYOCAMPTES"
+  - tossup:
+      question: "864 What case expresses time when?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What case shows time within which?"
+        answer: "ABLATIVE"
+      - question: "What case shows duration of time?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "6017 Who was Caesar's favorite lieutenant in Gaul, who later fought against him in the Civil War?"
+      answer: "T. LABIENUS"
+    boni:
+      - question: "What associate of Caesar finished his work on the Gallic campaign?"
+        answer: "AULUS HIRTIUS"
+      - question: "In what battle, the last of Caesar's career, did Labienus die?"
+        answer: "MUNDA (45 BC)"
+  - tossup:
+      question: "."
+      answer: "1127 Make mihi plural. NOBIS"
+    boni:
+      - question: "."
+        answer: "Give another singular for nobis. ME"
+      - question: "."
+        answer: "Give another plural for me. NOS"
+  - tossup:
+      question: "."
+      answer: "1121 What would be the Latin verb in this English sentence:"
+    boni:
+      - question: "."
+        answer: "“All day long yesterday it was raining.” PLUEBAT"
+      - question: "."
+        answer: "“It will rain tomorrow.” PLUET"
+      - question: "."
+        answer: "“The crops need the water; let it rain all day.” PLUAT"
+  - tossup:
+      question: "."
+      answer: "1013 In the sentence “She herself saw him,” say “him.” EUM"
+    boni:
+      - question: "."
+        answer: "In the sentence “She herself saw him,” say “herself.” IPSA"
+      - question: "."
+        answer: "In the sentence “She saw herself,” say “herself.” SE"
+  - tossup:
+      question: "3317 What act was the reason for Poseidon's hatred of Odysseus?"
+      answer: "HIS BLINDING OF THE CYCLOPS POLYPHEMUS, POSEIDON'S SON"
+    boni:
+      - question: "Who was Polyphemus' mother?"
+        answer: "THOOSA"
+      - question: "By what name did Odysseus identify himself to Polyphemus?"
+        answer: "NOMAN/OUTIS"
+      - question: "."
+        answer: "<page_number>-118</page_number>"
+  - tossup:
+      question: "Who was the son of Hector?"
+      answer: "ASTYANAX/SCAMANDRIUS"
+    boni:
+      - question: "3244 Who was Hector's wife?"
+        answer: "ANDROMACHE"
+      - question: "Who was Hector's mother?"
+        answer: "HECABE (HECUBA)"
+  - tossup:
+      question: "964 What is the Latin word for “iron”?"
+      answer: "FERRUM"
+    boni:
+      - question: "For “silver”?"
+        answer: "ARGENTUM"
+      - question: "For “gold”?"
+        answer: "AURUM"
+  - tossup:
+      question: "6039 A building still standing today in Rome testifies that Agrippa built it. What building is this?"
+      answer: "THE PANTHEON"
+    boni:
+      - question: "What emperor rebuilt it so thoroughly that it is often mistakenly credited to him?"
+        answer: "HADRIAN"
+      - question: "In what part of the city do you find the Pantheon?"
+        answer: "CAMPUS MARTIUS"
+  - tossup:
+      question: "3436 What was the land of Orpheus' birth?"
+      answer: "THRACE"
+    boni:
+      - question: "What Thracian king is sometimes cited as his father?"
+        answer: "OEAGRUS"
+      - question: "What nymph was his mother?"
+        answer: "CALLIOPE"
+  - tossup:
+      question: "705 What English verb comes from the Latin noun nihil?"
+      answer: "ANNIHILATE"
+    boni:
+      - question: "What English synonym of “annihilate” comes from radix?"
+        answer: "ERADICATE"
+      - question: "What English synonym of “annihilate” and “eradicate” comes from stirps?"
+        answer: "EXTIRPATE"
+      - question: "."
+        answer: "#"

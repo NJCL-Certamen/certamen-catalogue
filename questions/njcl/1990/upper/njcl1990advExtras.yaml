@@ -1,0 +1,69 @@
+tournament: "NJCL Certamen"
+year: 1990
+division: "Advanced"
+round: "Extra Questions"
+questions:
+
+  - tossup:
+      question: "."
+      answer: "Say in Latin “a six-foot man.” VIR SEX PEDUM"
+  - tossup:
+      question: "."
+      answer: "Make pius rex superlative in the genitive singular. PIISSIMI/PIENTISSIMI REGIS"
+  - tossup:
+      question: "."
+      answer: "Translate: Qui possunt, faciunt; qui non possunt, docent; qui non docere possunt, principales fiunt. THOSE WHO CAN, DO; THOSE WHO CAN'T TEACH; THOSE WHO CAN'T TEACH BECOME PRINCIPALS."
+  - tossup:
+      question: "Who were the peregrini in Rome?"
+      answer: "FOREIGNERS, RESIDENT ALIENS"
+  - tossup:
+      question: "What is the locative of Carthago?"
+      answer: "CARTHAGINI or CARTHAGINE"
+  - tossup:
+      question: "."
+      answer: "Make sequitur imperfect subjunctive. SEQUERETUR"
+  - tossup:
+      question: "What does the Latin noun at the base of “ruminate” mean?"
+      answer: "CUD"
+  - tossup:
+      question: "What is the Greek-derived synonym for “dictionary”?"
+      answer: "LEXICON"
+  - tossup:
+      question: "Who was the guardian of Telemachus?"
+      answer: "MENTOR"
+  - tossup:
+      question: "Who rode a golden ram to Colchis?"
+      answer: "PHRIXUS"
+  - tossup:
+      question: "Who were the Siamese twins of Greek mythology?"
+      answer: "CTEATUS AND EURYTUS (THE MOLIONIDAE)"
+  - tossup:
+      question: "What did Dionysus turn the daughters of Minyas into?"
+      answer: "BATS"
+  - tossup:
+      question: "What was the mother-city of the Syracusans?"
+      answer: "CORINTH"
+  - tossup:
+      question: "For whom was Marc Antony a flamen dialis?"
+      answer: "JULIUS CAESAR"
+  - tossup:
+      question: "Who was Messalina's lover, executed with her?"
+      answer: "GAIUS SILIUS"
+  - tossup:
+      question: "What infamous Roman incited to mutiny the troops of his brother-in-law Lucullus?"
+      answer: "CLODIUS PULCHER"
+  - tossup:
+      question: "Who was Catullus' model for Ille mi par esse deo videtur?"
+      answer: "SAPPHO"
+  - tossup:
+      question: "What Roman literary figure wrote a poem on his consulship entitled De consulatu suo?"
+      answer: "CICERO"
+  - tossup:
+      question: "What is the more common title of an epic called Bellum Civile?"
+      answer: "THE PHARSALIA"
+  - tossup:
+      question: "Who began literature in Latin by translating the Odyssey?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "."
+        answer: "#"

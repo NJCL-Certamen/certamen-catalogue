@@ -1,0 +1,168 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Novice"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "How many children did Augustus have?"
+      answer: "ONE"
+    boni:
+      - question: "What was the child's name?"
+        answer: "JULIA"
+      - question: "Who was her mother?"
+        answer: "SCRIBONIA"
+  - tossup:
+      question: "Which of the following is not derived from vir: virtue, virus, virile, triumvirate?"
+      answer: "VIRUS"
+    boni:
+      - question: "What disease in English means “crab” in Latin?"
+        answer: "CANCER"
+      - question: "What disease is a Latin word for “rage” or “madness”?"
+        answer: "RABIES"
+  - tossup:
+      question: "."
+      answer: "Translate the verb form laudaris. YOU ARE BEING PRAISED"
+    boni:
+      - question: "."
+        answer: "Translate laudamini. YOU ARE BEING PRAISED."
+      - question: "."
+        answer: "Translate laudaberis. YOU WILL BE PRAISED."
+  - tossup:
+      question: "Who succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "Who was Rome's last king?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "What was the year of his deposing?"
+        answer: "510 BC"
+  - tossup:
+      question: "Whom did Athena change into a spider?"
+      answer: "ARACHNE"
+    boni:
+      - question: "At what had Arachne claimed to be better than Athena?"
+        answer: "SPINNING AND WEAVING"
+      - question: "What did Arachne depict on her tapestry to earn the goddess' wrath?"
+        answer: "DIVINE MISDEEDS"
+  - tossup:
+      question: "Who were the parents of Persephone?"
+      answer: "ZEUS AND DEMETER"
+    boni:
+      - question: "What is Persephone's Latin name?"
+        answer: "PROSERPINA"
+      - question: "Who kidnapped her?"
+        answer: "HADES"
+  - tossup:
+      question: "Who gave Cassandra the gift of prophecy?"
+      answer: "APOLLO"
+    boni:
+      - question: "What was unusual about her prophecies?"
+        answer: "THEY WERE NEVER BELIEVED BUT ALWAYS FULFILLED"
+      - question: "Who received Cassandra as his prize after the war?"
+        answer: "AGAMEMNON"
+  - tossup:
+      question: "What name was given to the Roman spirits of the cupboard?"
+      answer: "PENATES"
+    boni:
+      - question: "Who were the spirits of the home?"
+        answer: "LARES"
+      - question: "Who were the departed spirits of the family's ancestors?"
+        answer: "MANES"
+  - tossup:
+      question: "What is the dative plural of filia?"
+      answer: "FILIABUS"
+    boni:
+      - question: "What is the phrase duo di in the ablative?"
+        answer: "DUOBUS DEIS (DIS)"
+      - question: "What is the phrase duae deae in the ablative?"
+        answer: "DUABUS DEABUS"
+  - tossup:
+      question: "What is the present passive infinitive of veho?"
+      answer: "VEHI"
+    boni:
+      - question: "Of punio?"
+        answer: "PUNIRI"
+      - question: "Of moveo?"
+        answer: "MOVERI"
+  - tossup:
+      question: "Where was Caesar's decisive victory over Pompey?"
+      answer: "PHARSALUS"
+    boni:
+      - question: "What was the year?"
+        answer: "48 BC"
+      - question: "The exact date is the same as an important date in modern military history. What was it?"
+        answer: "AUGUST 9 (NAGASAKI)"
+  - tossup:
+      question: "What is the antonym of magnus?"
+      answer: "PARVUS"
+    boni:
+      - question: "594 What is the adverb of parvus?"
+        answer: "PARUM"
+      - question: "What is the superlative of parum?"
+        answer: "MINIME"
+  - tossup:
+      question: "Who was the incestuous king of Thebes?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "2996 Who was his father?"
+        answer: "LAIUS"
+      - question: "Who was his mother/wife?"
+        answer: "JOCASTA"
+  - tossup:
+      question: "."
+      answer: "Translate “kings” in this sentence: The Romans gave their kings great power. REGIBUS"
+    boni:
+      - question: "."
+        answer: "48 The power of the kings was great. REGUM"
+      - question: "."
+        answer: "Egeria loved Numa, Rome's second king. REGEM"
+  - tossup:
+      question: "In general, what is the gender of trees?"
+      answer: "FEMININE"
+    boni:
+      - question: "247 What is the gender of months?"
+        answer: "MASCULINE"
+      - question: "What is the gender of indeclinable nouns?"
+        answer: "NEUTER"
+  - tossup:
+      question: "."
+      answer: "Give the Latin and the English for the abbreviation NB. NOTA BENE - NOTE WELL"
+    boni:
+      - question: "."
+        answer: "165 Give the Latin and English for A.D. ANNO DOMINI - IN THE YEAR OF OUR LORD"
+      - question: "."
+        answer: "Give the Latin and the English for P.S. POST SCRIPTUM - WRITTEN AFTER"
+  - tossup:
+      question: "By what do the gods swear their strongest oaths?"
+      answer: "THE RIVER STYX"
+    boni:
+      - question: "91 What is the underworld's river of forgetfulness?"
+        answer: "LETHE"
+      - question: "What is the river of fire?"
+        answer: "PHLEGETHON"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "."
+        answer: "849 What relative would be needed to translate: I saw a man whose hair was on fire. CUIUS"
+      - question: "What interrogative would be needed for: Who has just arrived?"
+        answer: "QUIS"
+  - tossup:
+      question: "What does the noun sagitta mean?"
+      answer: "ARROW"
+    boni:
+      - question: "518 What kind of bird is the anser?"
+        answer: "GOOSE"
+      - question: "A columba?"
+        answer: "DOVE"
+  - tossup:
+      question: "After the expulsion of Tarquinius Superbus, an army of Etruscans marched on Rome to try to reinstate him. What Etruscan king was supporting him?"
+      answer: "LARS PORSENA"
+    boni:
+      - question: "5624 What legendary Roman defended the Sublician Bridge to fend off the Etruscans?"
+        answer: "HORATIUS"
+      - question: "What was Horatius' agnomen and what was its meaning?"
+        answer: "COCLES - ONE-EYED"
+      - question: "."
+        answer: "#"

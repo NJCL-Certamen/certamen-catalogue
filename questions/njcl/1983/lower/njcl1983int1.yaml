@@ -1,0 +1,216 @@
+tournament: "NJCL Certamen"
+year: 1983
+division: "Intermediate"
+round: "Round 1"
+questions:
+
+  - tossup:
+      question: "On the shores of Epirus, Aeneas met what Trojan woman, formerly the wife of Hector?"
+      answer: "ANDROMACHE"
+    boni:
+      - question: "Who had claimed her as a prize when Troy fell?"
+        answer: "PYRRHUS (NEOPT.)"
+      - question: "To whom was she married in Epirus?"
+        answer: "HELENUS"
+      - question: "."
+        answer: "2903"
+  - tossup:
+      question: "What two kinships did Hera have to Zeus?"
+      answer: "WIFE AND SISTER"
+    boni:
+      - question: "How was Hades related to Zeus?"
+        answer: "BROTHER"
+      - question: "How was Demeter related to Zeus?"
+        answer: "SISTER"
+      - question: "."
+        answer: "168"
+  - tossup:
+      question: "What is 73 in Roman numerals?"
+      answer: "LXXIII"
+    boni:
+      - question: "What is 199 in Roman numerals?"
+        answer: "CIC"
+      - question: "What is 499 in Roman numerals?"
+        answer: "ID"
+      - question: "."
+        answer: "507"
+  - tossup:
+      question: "."
+      answer: "Vergil's tomb bears these words: Cecini pascua, rura, duces. Give the principal parts and English meaning of the verb in that quotation. CANO, -ERE, CECINI, CANTUS “SING”"
+    boni:
+      - question: "."
+        answer: "On Vergil's tomb one also reads: Mantua me genuit."
+      - question: "."
+        answer: "Give that verb's principal parts and meaning."
+      - question: "."
+        answer: "GIGNO, GIGNERE, GENUI, GENITUS “BEAR”"
+      - question: "Calabri rapuere also appears. In what mood is the verb rapuere?"
+        answer: "INDICATIVE"
+      - question: "."
+        answer: "246"
+  - tossup:
+      question: "What is the name of verbs with active meanings but only passive forms?"
+      answer: "DEPONENT"
+    boni:
+      - question: "."
+        answer: "Give an example of a semi-deponent verb. AUDEO, GAUDEO, SOLEO,"
+      - question: "How would a Roman say, “We have dared?"
+        answer: "” AUSI SUMUS (CON)FIDO"
+      - question: "."
+        answer: "5330"
+  - tossup:
+      question: "What early first-century BC conflict set Romans against some of their Italian allies?"
+      answer: "SOCIAL WAR (MARSIC, ITALIAN)"
+    boni:
+      - question: "What tribe was chief among the rebellious allies?"
+        answer: "MARSI"
+      - question: "What reform was the result of the Social War?"
+        answer: "CITIZENSHIP FOR THE ITALIAN SUBJECT TRIBES"
+      - question: "."
+        answer: "95"
+  - tossup:
+      question: "How would a Roman say, “one hundred miles?"
+      answer: "” CENTUM MILIA PASSUUM"
+    boni:
+      - question: "How would he say, “two hundred miles?"
+        answer: "” DUCENTA MILIA PASSUUM"
+      - question: "“One thousand miles?"
+        answer: "” MILLE MILIA PASSUUM"
+      - question: "."
+        answer: "5066"
+  - tossup:
+      question: "What was Rome's first consular year?"
+      answer: "509 BC"
+    boni:
+      - question: "Who were the first consuls?"
+        answer: "L. JUNIUS BRUTUS AND L. TARQUINIUS"
+      - question: "Who was Collatinus' wife?"
+        answer: "LUCRETIA COLLATINUS"
+      - question: "."
+        answer: "21"
+  - tossup:
+      question: "."
+      answer: "Paris was born in Troy. Say “in Troy” in Latin. TROIAE"
+    boni:
+      - question: "."
+        answer: "Agamemnon came from Mycenae. Say “from Mycenae.” MYCENIS"
+      - question: "."
+        answer: "Paris traveled to Sparta. Say “to Sparta.” SPARTAM"
+      - question: "."
+        answer: "2760"
+  - tossup:
+      question: "Who prevented Menelaus from killing Paris?"
+      answer: "APHRODITE"
+    boni:
+      - question: "How did she do it?"
+        answer: "SHE SPIRITED PARIS OFF TO HELEN'S BEDROOM IN A CLOUD OR MIST"
+      - question: "When Paris was eventually killed, who became Helen's husband?"
+        answer: "DEIPHOBUS"
+      - question: "."
+        answer: "2692"
+  - tossup:
+      question: "Who was the slayer of Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Whom did he rescue from a sea monster?"
+        answer: "ANDROMEDA"
+      - question: "What type of creature was Medusa?"
+        answer: "GORGON"
+      - question: "."
+        answer: "5029"
+  - tossup:
+      question: "Who succeeded Romulus?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: "Who was Rome's last king?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "What was the year of his deposing?"
+        answer: "510 BC"
+      - question: "."
+        answer: "5336"
+  - tossup:
+      question: "Who succeeded Tiberius?"
+      answer: "CALIGULA"
+    boni:
+      - question: "Who succeeded Nero?"
+        answer: "GALBA"
+      - question: "Who succeeded Domitian?"
+        answer: "NERVA"
+      - question: "."
+        answer: "5190"
+  - tossup:
+      question: "What Roman ceremony included a slave who had to repeat the sentence Hominem te memento?"
+      answer: "A TRIUMPHAL PROCESSION"
+    boni:
+      - question: "What building was the destination of a triumphal procession?"
+        answer: "THE TEMPLE OF JUPITER CAPITOLINUS"
+      - question: "What was the minimum number of enemy dead for a triumph?"
+        answer: "5000"
+      - question: "."
+        answer: "257"
+  - tossup:
+      question: "What is the genitive singular of fur?"
+      answer: "FURIS"
+    boni:
+      - question: "What does fur mean?"
+        answer: "THIEF"
+      - question: "What English adjective comes from it?"
+        answer: "FURTIVE"
+      - question: "."
+        answer: "682"
+  - tossup:
+      question: "What Latin noun is the root of “ignition?"
+      answer: "” IGNIS"
+    boni:
+      - question: "What Latin pronoun is the root of “identical?"
+        answer: "” IDEM"
+      - question: "What Latin adjective is the root of “integrity?"
+        answer: "” INTEGER"
+      - question: "."
+        answer: "2876"
+  - tossup:
+      question: "Who was the father of Phaethon?"
+      answer: "APOLLO"
+    boni:
+      - question: "Who was his mother?"
+        answer: "CLYMENE"
+      - question: "Into what were his weeping sisters transformed?"
+        answer: "POPLAR TREES"
+      - question: "."
+        answer: "203"
+  - tossup:
+      question: "In what ways must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "In what ways must an appositive agree with its antecedent?"
+        answer: "CASE ONLY"
+      - question: "."
+        answer: "Supply the correct form of laetus in the following sentence:"
+      - question: "."
+        answer: "Rex reginaque sunt LAETI"
+      - question: "."
+        answer: "567"
+  - tossup:
+      question: "."
+      answer: "Differentiate in meaning between odium and otium."
+    boni:
+      - question: "."
+        answer: "ODIUM = HATRED; OTIUM = PEACE, LEISURE, SPARE TIME"
+      - question: "."
+        answer: "Differentiate in meaning between pecus and pectus."
+      - question: "."
+        answer: "PECUS = FLOCK, HERD; PECTUS = HEART, CHEST, BREAST"
+      - question: "."
+        answer: "Between queror and quaero"
+      - question: "."
+        answer: "QUEROR = COMPLAIN; QUAERO = SEEK, ASK"
+      - question: "."
+        answer: "777"
+  - tossup:
+      question: "What is the positive adverb of magnus?"
+      answer: "MAGNOPERE"
+    boni:
+      - question: "Of facilis?"
+        answer: "FACILE"
+      - question: "What is the superlative adverb of facilis?"
+        answer: "FACILLIME"

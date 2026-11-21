@@ -1,0 +1,208 @@
+tournament: "NJCL Certamen"
+year: 1986
+division: "Intermediate"
+round: "Semifinals 2"
+questions:
+
+  - tossup:
+      question: "During the time of Caesar, the Romans mined a certain metal in central Britain; they called it <u>plumbum album</u> - “white lead.” What was it?"
+      answer: "TIN"
+    boni:
+      - question: "In Caesar's account, what color did the Britons paint their skin in order to appear fierce in battle?"
+        answer: "BLUE"
+      - question: "How many times did Caesar visit Britain during his campaigns?"
+        answer: "TWO"
+  - tossup:
+      question: "How does <u>cum</u> always change whenever it becomes a verbal prefix?"
+      answer: "THE -U- BECOMES -O-"
+    boni:
+      - question: "By what process does the last letter of a prefix change to match better with the first letter of the word to which it is attached?"
+        answer: "ASSIMILATION"
+      - question: "What change is undergone by <u>ab</u> when it combines with <u>teneo</u> and <u>traho</u>?"
+        answer: "S INSERTED (ABSTINEO, ABSTRAHO)"
+  - tossup:
+      question: "What was the Latin noun for the relationship between a host and his guest?"
+      answer: "HOSPITIUM"
+    boni:
+      - question: "The relationship between a patron and his clients was <u>clientela</u>. What was the name of the morning calling hour for <u>clientes</u>?"
+        answer: "SALUTATIO"
+      - question: "At the <u>salutatio</u>, a patron often gave his client a dole of food. What was this called?"
+        answer: "SPORTULA"
+  - tossup:
+      question: "What is the Latin noun for “health”?"
+      answer: "SALUS"
+    boni:
+      - question: "What is the word for “swamp”?"
+        answer: "PALUS"
+      - question: "What is the noun for “wolf”?"
+        answer: "LUPUS"
+  - tossup:
+      question: "What animals pulled the chariot of Cybele?"
+      answer: "LIONS"
+    boni:
+      - question: "What animals do we associate with the Dioscuri?"
+        answer: "HORSES"
+      - question: "Into what animals were pirates, the captors of Bacchus, transformed?"
+        answer: "DOLPHIN S"
+  - tossup:
+      question: "A second-century emperor is also famous as a philosopher, who wrote in Greek a word called <u>Meditations</u>. Who was he?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "What Roman emperor was the first to embrace Christianity?"
+        answer: "CONSTANTINE"
+      - question: "Who was emperor at the time of Christ's crucifixion?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "Of what kind of subjunctive is this an example: <u>Fabulam legamus</u>?"
+      answer: "HORTATORY"
+    boni:
+      - question: "What type of <u>cum</u>-clause is this: Cum non vicissemus, tamen laeti eramus?"
+        answer: "CONCESSIVE"
+      - question: "Is the subjunctive mandatory in a concessive <u>cum</u>-clause?"
+        answer: "YES"
+  - tossup:
+      question: "The wicked are punished in the lowest region of Hades; what is its name?"
+      answer: "TARTARUS"
+    boni:
+      - question: "Who is punished in Tartarus on a great wheel?"
+        answer: "IXION"
+      - question: "What was Ixion's crime?"
+        answer: "HE TRIED TO SEDUCE HERA (or MURDER)"
+  - tossup:
+      question: "With a long e-, what does <u>ēst</u> mean?"
+      answer: "HE EATS"
+    boni:
+      - question: "What is this verb's archaic present infinitive?"
+        answer: "<u>ESSE</u>"
+      - question: "What is its perfect active infinitive?"
+        answer: "EDISSE"
+      - question: "."
+        answer: "624"
+      - question: "."
+        answer: "-17"
+  - tossup:
+      question: "."
+      answer: "Change vidit to subjunctive. VIDERIT"
+    boni:
+      - question: "."
+        answer: "Change viderit to the passive. VISUS SIT"
+      - question: "."
+        answer: "Change visus sit to imperfect. VIDERETUR"
+  - tossup:
+      question: "."
+      answer: "What Roman went in 458 BC to rescue the Roman forces"
+    boni:
+      - question: "on Mt. Algidus?"
+        answer: "CINCINNATUS"
+      - question: "What office did he hold?"
+        answer: "CINCINNATUS"
+      - question: "Whom were the Romans fighting?"
+        answer: "THE AEDUI"
+  - tossup:
+      question: "."
+      answer: "From what verb are the following English words derived:"
+    boni:
+      - question: "pertinent, contain, tenant, tentacle?"
+        answer: "TENERE"
+      - question: "These words: convince, victim, evict?"
+        answer: "VINCERE"
+      - question: "These words: sediment, session, sedentary?"
+        answer: "SEDEO"
+  - tossup:
+      question: "."
+      answer: "What was the name of the wrestling yards adjacent to"
+    boni:
+      - question: "Roman baths?"
+        answer: "PALAESTRAE"
+      - question: "."
+        answer: "After exercising, a young Roman might head for the"
+      - question: "open-air swimming pool. What was it called?"
+        answer: "PISCINA/NATATIO"
+      - question: "What was the sub-floor heating system called?"
+        answer: "HYPOCAUST"
+  - tossup:
+      question: "."
+      answer: "Translate this sentence using the supine: “I came to"
+    boni:
+      - question: "."
+        answer: "watch.” SPECTATUM VENI"
+      - question: "."
+        answer: "TRanslate: mirabile dictu. REMARKABLE TO SAY"
+      - question: "."
+        answer: "Translate: horribile visu. HORRIBLE TO SEE"
+  - tossup:
+      question: "."
+      answer: "Whose wedding was disrupted by the battle of the Lapiths"
+    boni:
+      - question: "and the Centaurs?"
+        answer: "THAT OF PIRITHOUS AND HIPPODAMIA"
+      - question: "Who was Pirithous' best friend?"
+        answer: "THESEUS"
+      - question: "Where is Pirithous to this day?"
+        answer: "IN A CHAIR IN HADES"
+  - tossup:
+      question: "."
+      answer: "Two brothers were rewarded by Hera, whose priestess their"
+    boni:
+      - question: "."
+        answer: "mother was, with the greatest good men can have. What"
+      - question: "was that blessing?"
+        answer: "PAINLESS DEATH IN THEIR SLEEP"
+      - question: "."
+        answer: "Once in a temple of Artemis, a young man named Acontius"
+      - question: "."
+        answer: "tricked a young woman into betrothing herself to him."
+      - question: "What did he do?"
+        answer: "INSCRIBED “I SWEAR BY ARTEMIS TO"
+      - question: "."
+        answer: "MARRY ARTEMIS” ON A PIECE OF FRUIT AND THREW IT TO HER"
+      - question: "."
+        answer: "FEET. SHE PICKED IT UP, READ THE INSCRIPTION ALOUD WITHOUT"
+      - question: "."
+        answer: "THINKING, AND BY ARTEMIS' WILL HAD TO HONOR THE OATH."
+      - question: "What was this maiden's name?"
+        answer: "CYDIPPE"
+  - tossup:
+      question: "What is the present singular imperative of egredior?"
+      answer: "EGREDERE"
+    boni:
+      - question: "."
+        answer: "What is that verb's third person plural imperfect"
+      - question: "subjunctive?"
+        answer: "EGREDERENTUR"
+      - question: "."
+        answer: "Change egrederentur to pluperfect. EGRESSI ESSENT"
+  - tossup:
+      question: "What was the old name for Constantinople?"
+      answer: "BYZANTIUM"
+    boni:
+      - question: "In what year was Constantinople founded?"
+        answer: "330 AD (inaugurated) or 324 AD (founded)"
+      - question: "."
+        answer: "What was the year of Constantine's victory in the"
+      - question: "Battle of the Mulvian Bridge?"
+        answer: "312 AD"
+      - question: "."
+        answer: "-18"
+  - tossup:
+      question: "."
+      answer: "What case wouuld be needed for “water” in this sentence:"
+    boni:
+      - question: "."
+        answer: "“The horses need more water.” GENITIVE"
+      - question: "."
+        answer: "In this: “There is a great shortage of water.” GENITIVE"
+      - question: "."
+        answer: "In this: “Sieves are not very useful for drawing water.” DATIVE"
+  - tossup:
+      question: "From what animals did the Myrmidons spring?"
+      answer: "ANTS"
+    boni:
+      - question: "Where was their island home?"
+        answer: "AEGINA"
+      - question: "Who was their first king?"
+        answer: "AEACUS"
+      - question: "."
+        answer: "-19"
+      - question: "."
+        answer: "#"

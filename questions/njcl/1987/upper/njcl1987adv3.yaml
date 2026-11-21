@@ -1,0 +1,190 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Advanced"
+round: "Round 3"
+questions:
+
+  - tossup:
+      question: "In what building in Rome might you see a retiarius?"
+      answer: "THE ARENA"
+    boni:
+      - question: "852 Where might you see an auriga?"
+        answer: "THE CIRCUS"
+      - question: "Where would you see a flamen?"
+        answer: "A TEMPLE"
+  - tossup:
+      question: "."
+      answer: "Which of the following is neither descended from nor"
+    boni:
+      - question: "cognate to a Latin noun: wool, cotton, flannel, linen?"
+        answer: "COTTON"
+      - question: "."
+        answer: "The Roman city of Nimausus is now the French city of"
+      - question: "Nimes. What fabric tells us it's from Nimes?"
+        answer: "DENIM"
+      - question: "."
+        answer: "What fabric has an English name derived from the Greek"
+      - question: "word for Chinese?"
+        answer: "SILK"
+  - tossup:
+      question: "What work of Vergil is his version of the Idylls of Theocritus?"
+      answer: "THE ECLOGUES (BUCOLICS)"
+    boni:
+      - question: "7563 How many poems make up the Eclogues?"
+        answer: "TEN"
+      - question: "."
+        answer: "Which of these was published first: Books I-III of Horace's"
+      - question: "Odes, Vergil's Georgics, or Horace's first book of Epistles?"
+        answer: "THE GEORGICS"
+  - tossup:
+      question: "."
+      answer: "What prophet of Apollo was the father of the girl abducted"
+    boni:
+      - question: "3077 into concubinage by Agamemnon?"
+        answer: "CHRYSES"
+      - question: "Who was the daughter?"
+        answer: "CHRYSEIS"
+      - question: "What forced Agamemnon to give up Chryseis?"
+        answer: "APOLLO'S WRATH"
+  - tossup:
+      question: "To what office was Caesar elected in 63 BC?"
+      answer: "PONTIFEX MAXIMUS"
+    boni:
+      - question: "5230 What office was abolished after his death?"
+        answer: "DICTATOR"
+      - question: "Which emperor refused to accept the title Augustus?"
+        answer: "VITELLIUS"
+  - tossup:
+      question: "."
+      answer: "When Zeus was threatened by an uprising of the gods,"
+    boni:
+      - question: "whom did Thetis summon to defend him?"
+        answer: "BRIAREUS"
+      - question: "3031 What city's ownership was settled by Briareus?"
+        answer: "CORINTH'S"
+      - question: "."
+        answer: "What was Briareus given as a permanent assignment along"
+      - question: "with his brothers?"
+        answer: "KEEPING THE TITANS CONFINED IN TARTARUS"
+  - tossup:
+      question: "What praenomen is abbreviated P?"
+      answer: "PUBLIUS"
+    boni:
+      - question: "180 T?"
+        answer: "TITUS"
+      - question: "M'?"
+        answer: "MANIUS"
+  - tossup:
+      question: "What is the dative singular in all genders of is?"
+      answer: "EI"
+    boni:
+      - question: "987 What is the feminine accusative singular of hic?"
+        answer: "HANC"
+      - question: "What is the same form of idem?"
+        answer: "EANDEM"
+  - tossup:
+      question: "What event marks the end of the Iliad?"
+      answer: "THE BURIAL OF HECTOR"
+    boni:
+      - question: "."
+        answer: "7651 Before he died, who appeared to Hector in the guise of"
+      - question: "Deiphobus?"
+        answer: "ATHENA"
+      - question: "."
+        answer: "How many times did Achilles pursue Hector around the"
+      - question: "walls of Troy before killing him?"
+        answer: "THREE"
+  - tossup:
+      question: "Which Latin word for divinity is the standard when referring to a deified human?"
+      answer: "DIVUS"
+    boni:
+      - question: "What is the genitive plural of divus?"
+        answer: "DIVUM"
+      - question: "."
+        answer: "Name another 2nd-declension masculine substantive which can use -um instead of -orum."
+      - question: "."
+        answer: "NUMMUS, VIR, SUPERUS, DEUS"
+  - tossup:
+      question: "Which of these related English words does not come from the Latin verb vivo: vivacious, revival, victuals, vivisection?"
+      answer: "VIVISECTION (comes from adjective vivus)"
+    boni:
+      - question: "What Latin adjective is the root of the English “dime”?"
+        answer: "DECIMUS"
+      - question: "Which is not from ars: artist, inert, inertia, article?"
+        answer: "ARTICLE (from artus)"
+  - tossup:
+      question: "To whom does Cicero address De Officiis?"
+      answer: "HIS SON MARCUS"
+    boni:
+      - question: "Cicero's friend Titus Pomponius received an agnomen from his place of education. What was it?"
+        answer: "ATTICUS"
+      - question: "In what prolific year did Cicero write many philosophical works, including Consolatio, De Finibus, De Natura Deorum and the Tusculan Disputations?"
+        answer: "45 BC"
+  - tossup:
+      question: "What was the nickname of a small stone-throwing siege machine?"
+      answer: "ONAGER (“wild ass”)"
+    boni:
+      - question: "What was a small bolt-shooter, smaller than a catapult?"
+        answer: "SCORPIO"
+      - question: "What was the difference between a testudo and a pluteus?"
+        answer: "A PLUTEUS WAS A SCREEN TO PROTECT SOLDIERS CARRYING ON SIEGE OPERATIONS; A TESTUDO WAS THE SOLDIERS' INTERLOCKED SHIELDS."
+  - tossup:
+      question: "Where did Tiberius exile himself in 6 BC?"
+      answer: "RHODES"
+    boni:
+      - question: "How long was he there?"
+        answer: "SEVEN OR EIGHT YEARS"
+      - question: "What was his island retreat during his reign?"
+        answer: "CAPRI"
+  - tossup:
+      question: "What is the name given to a short poem with a clever point or “stinger”?"
+      answer: "EPIGRAM"
+    boni:
+      - question: "What Latin author is most famous for them?"
+        answer: "MARTIAL"
+      - question: "From what country did Martial come to Rome?"
+        answer: "SPAIN"
+  - tossup:
+      question: "What city's fall ended the Spanish Wars in 133 BC?"
+      answer: "NUMANTIA'S"
+    boni:
+      - question: "Who was the Roman commander?"
+        answer: "SCIPIO AEMILIANUS"
+      - question: "What city had he conquered in 146 BC?"
+        answer: "CARTHAGE"
+  - tossup:
+      question: "Who usurped the throne of Theseus while he was in the Underworld?"
+      answer: "MENESTHEUS"
+    boni:
+      - question: "With whom did Theseus' sons Acamas and Demophon live during Menestheus' reign?"
+        answer: "KING ELEPHENOR OF THE ABANTES IN EUBOEA"
+      - question: "Who was these two boys' mother?"
+        answer: "PHAEDRA"
+  - tossup:
+      question: "What animal figured at both ends of Adonis' life?"
+      answer: "WILD BOAR"
+    boni:
+      - question: "How did the boar figure in his birth?"
+        answer: "IT OPENED A GASH IN THE TREE INTO WHICH HIS MOTHER HAD BEEN TRANSFORMED AND HE WAS BORN THROUGH IT."
+      - question: "."
+        answer: "Some version say that the boar that gored him to death was a disguised god jealous of Adonis' relationship with Aphrodite. Which god. ARES or HEPHAESTUS"
+      - question: "."
+        answer: "3171"
+  - tossup:
+      question: "What is the present infinitive of the defective verb queo?"
+      answer: "QUIRE"
+    boni:
+      - question: "What is its perfect infinitive?"
+        answer: "QUISSE"
+      - question: "What is the present infinitive of prosum?"
+        answer: "PRODESSE"
+  - tossup:
+      question: "202 With what construction must the dative be used for agent?"
+      answer: "THE PASSIVE PERIPHRASTIC SHOWING OBLIGATION"
+    boni:
+      - question: "What is expressed by the ablative of the supine?"
+        answer: "RESPECT or SPECIFICATION"
+      - question: "In general, what case shows <u>definite</u> price and what other case shows <u>indefinite</u> price?"
+        answer: "DEFINITE = ABLATIVE INDEFINITE = GENITIVE"
+      - question: "."
+        answer: "#"

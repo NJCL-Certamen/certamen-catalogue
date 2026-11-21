@@ -1,0 +1,166 @@
+tournament: "NJCL Certamen"
+year: 1982
+division: "Advanced"
+round: Finals
+questions:
+
+  - tossup:
+      question: "What year was established by the 3rd-century scholar Eratosthenes as the year of Troy's fall?"
+      answer: "1184 BC"
+    boni:
+      - question: "In what decade did Schliemann discover Troy?"
+        answer: "the 1870's"
+      - question: "To what city did Schliemann take most of Troy's gold and other treasures?"
+        answer: "BERLIN (WHERE THEY DISAPPEARED IN WWII)"
+  - tossup:
+      question: "What author was born in Rudiae in Calabria?"
+      answer: "ENNIUS"
+    boni:
+      - question: "What was the year of his birth?"
+        answer: "239 BC"
+      - question: "What was the year of his death?"
+        answer: "169 BC"
+  - tossup:
+      question: "What English noun comes from the Latin verb attero?"
+      answer: "ATTRITION"
+    boni:
+      - question: "What Latin noun with its roots in <latin>ager</latin> ultimately produced the English noun \"pilgrim\"?"
+        answer: "<latin>PEREGRINUS</latin>"
+      - question: "What Latin noun is hidden in the English noun \"parapet\"?"
+        answer: "<latin>PECTUS</latin>"
+  - tossup:
+      question: "What was mustum?"
+      answer: "FRESH GRAPE JUICE"
+    boni:
+      - question: "What vessels were used for the storage of wine?"
+        answer: "AMPHORAE"
+      - question: "What was spoiled wine used for, and what was the Latin name for it?"
+        answer: "ACETUM - VINEGAR"
+  - tossup:
+      question: "What foreign general was the first to use elephants in war against Rome?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What was his kingdom?"
+        answer: "EPIRUS"
+      - question: "Where is Epirus?"
+        answer: "NW GREECE"
+  - tossup:
+      question: "When Zeus was threatened by an uprising of the gods, whom did Thetis summon to defend him?"
+      answer: "BRIAREUS"
+    boni:
+      - question: "What city's ownership was settled by Briareus?"
+        answer: "CORINTH'S"
+      - question: "What was Briareus given as a permanent assignment along with his brothers?"
+        answer: "KEEPING THE TITANS CONFINED IN TARTARUS"
+  - tossup:
+      question: "What English phrase preserves unchanged an ablative absolute and means \"with the situation reversed\"?"
+      answer: "<latin>VICE VERSA</latin>"
+    boni:
+      - question: "What English noun meaning “an accident of fortune” comes from the Latin noun in vice versa?"
+        answer: "VICISSITUDE"
+      - question: "What English adjective meaning “experienced through sympathetic participation in the experience of another” comes from the same noun?"
+        answer: "VICARIOUS"
+  - tossup:
+      question: "What emperor, soon after his accession, had executed on charges of conspiracy four generals who had been instrumental in the expansioninst policies of his predecessor?"
+      answer: "The generals were L. Quietus, Avidius Nigrinus, Palma and Celsus. HADRIAN"
+    boni:
+      - question: "What nomen did Hadrian share with his first chosen successor and with the notorious Sejanus of a century earlier?"
+        answer: "AELIUS"
+      - question: "What do we now call Hadrian's tomb?"
+        answer: "THE CASTEL SANT'ANGELO"
+  - tossup:
+      question: "Aeschylus' tragedy Agamemnon discusses the sacrifice of a maiden in order to obtain favorable winds for the Greeks to sail to Troy. What is Homer's version of this?"
+      answer: "HOMER DOESN'T MENTION IT."
+    boni:
+      - question: "What maiden did the Greeks sacrifice to get favorable winds to sail home from Troy?"
+        answer: "POLYXENA"
+      - question: "On whose tomb was Polyxena sacrificed?"
+        answer: "ACHILLES'"
+  - tossup:
+      question: "To what soldier would the corona muralis be awarded?"
+      answer: "THE FIRST OVER THE ENEMY'S WALL."
+    boni:
+      - question: "What was a falx muralis?"
+        answer: "A HOOKED DEVICE FOR LOOSENING STONES FROM A WALL."
+      - question: "What was an ordinary falx?"
+        answer: "A SICKLE OR SCYTHE"
+  - tossup:
+      question: "To whom would a poet write a propempticon?"
+      answer: "SOMEONE LEAVING ON A JOURNEY"
+    boni:
+      - question: "An epithalamion?"
+        answer: "A BRIDE AND GROOM"
+      - question: "An epinicion?"
+        answer: "A WINNER IN WAR OR ATHLETICS"
+  - tossup:
+      question: "What case is used as the subject of a historiaal infinitive?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "Ask in Latin: \"Who taught you that?\""
+        answer: "<latin>QUIS TE ILLUD DOCUIT?</latin>"
+      - question: "Say in Latin: \"We are coming to Athens.\""
+        answer: "<latin>ATHENAS VENIMUS</latin>."
+  - tossup:
+      question: "Identify the use of the subjunctive in this sentence: Tanta cum dignitate locutus est ut ab omnibus laudaretur."
+      answer: "RESULT CLAUSE"
+    boni:
+      - question: "What is the use of dignitate in that sentence?"
+        answer: "ABLATIVE OF MANNER"
+      - question: "What is the use of omnibus?"
+        answer: "ABLATIVE OF AGENT"
+  - tossup:
+      question: "Follow the directions after the spotter recognizes you."
+      answer: "FOLLOW THE DIRECTIONS IN THE LATIN SENTENCES BELOW."
+    boni:
+      - question: "<latin>Tange caput vicini tui.</latin>"
+        answer: "STUDENT SHOULD TOUCH THE HEAD OF HIS NEIGHBOR."
+      - question: "<latin>Tege oculum dextrum manu sinistra.</latin> Then: <latin>Surge, tolle genu sinistrum et tene manibus ambabus.</latin>"
+        answer: "STUDENT SHOULD COVER HIS RIGHT EYE WITH HIS LEFT HAND; THEN STUDENT SHOULD RISE, LIFT HIS LEFT KNEE AND HOLD IT WITH BOTH HANDS."
+  - tossup:
+      question: "What do the other meanings of many Roman names probably refer to?"
+      answer: "SOMETHING THE ORIGINAL POSSESSOR OF THE NAME WAS KNOWN FOR"
+    boni:
+      - question: "What Roman author's name means \"quiet\"?"
+        answer: "TACITUS"
+      - question: "What early writer's name means \"broad\" or \"flat\", and whose name could mean \"a priest of Mars\"?"
+        answer: "PLAUTUS; MARTIAL'S"
+  - tossup:
+      question: "Who was the father of Hippolochus, Isander and Laodamia?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "Who was their mother?"
+        answer: "PHILONOE"
+      - question: "Who falsely accused Bellerophon of rape?"
+        answer: "STHENEBOEA (or ANTIA)"
+  - tossup:
+      question: "Who was the son of Hercules and a princess named Astyoche or Astydamia?"
+      answer: "TLEPOLEMUS"
+    boni:
+      - question: "What king of the Dryopes was conquered by Hercules because he had attacked the Delphic Oracle?"
+        answer: "PHYLAS"
+      - question: "What son did Phylas' daughter bear Hercules?"
+        answer: "ANTIOCHUS"
+  - tossup:
+      question: "Change <latin>vis</latin> to the subjunctive."
+      answer: "VELIS"
+    boni:
+      - question: "Make <latin>velis</latin> negative."
+        answer: "NOLIS"
+      - question: "Change <latin>audeo</latin> to the archaic form of the perfect active subjunctive."
+        answer: "AUSIM"
+  - tossup:
+      question: "What Latin noun meant \"eyebrow\" and, by extension, \"haughtiness\"?"
+      answer: "SUPERCILIUM"
+    boni:
+      - question: "Which of the following does not have its root in the noun <latin>facies</latin>: surface, superficial, artificial, facade?"
+        answer: "ARTIFICIAL"
+      - question: "What is the meaning of the Latin noun pollex?"
+        answer: "THUMB (or BIG TOE)"
+  - tossup:
+      question: "What was the profession of Machaon and Podalirius?"
+      answer: "PHYSICIANS"
+    boni:
+      - question: "Who was their father?"
+        answer: "AESCULAPIUS"
+      - question: "Who was Ophiuchus?"
+        answer: "AESCULAPIUS AS THE CONSTELLATION ”SNAKE-HOLDER“"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 2023
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "For the verb <latin>aggredior</latin>, provide the feminine, third person singular, perfect subjunctive form that means “she might have approached.”\t"
+      answer: "<latin>AGGRESSA SIT</latin>"
+    boni:
+      - question: "Keeping everything else the same, change <latin>aggressa sit</latin> to the present subjunctive so that it means “she may approach.”\t"
+        answer: "<latin>AGGREDIĀTUR</latin>"
+      - question: "Keeping everything else the same, change <latin>aggrediātur</latin> to the imperfect plural so that it means “they might be approaching.”\t"
+        answer: "<latin>AGGREDERENTUR</latin>"
+  - tossup:
+      question: "Which of the following words is not derived from the same Latin root as the others: construct, instrument, stringent, structure?\t"
+      answer: "STRINGENT"
+    boni:
+      - question: "Which of the following words is not derived from the same Latin root as the others: complacent, multiply, placate, pleasure?\t"
+        answer: "MULTIPLY"
+      - question: "Of the following words, which two come from the same Latin root: deviate, trivial, venerate, vulnerable?\t"
+        answer: "DEVIATE AND TRIVIAL"
+  - tossup:
+      question: "Previously on <title>Aurelia</title>: her concerned father sent his friends to scour Egypt for his daughter, not knowing she is exploring a tomb. Now, listen carefully to the following Latin passage, which I will read twice, then <latin>RESPONDĒ LATĪNĒ</latin> to the questions which follow<latin>.  \t“Ecce!” dīxit pater Aurēliae. “Vōs omnēs diligentius quaerere dēbēbātis.” Iterum amīcī eius Aurēliam invenīre cōnātī sunt, sed frūstrā. Nihil indiciī habēbant ubi inciperent. Numquam putāvērunt Aurēliam rēs antiquās vīsitātūram esse</latin>"
+      answer: "REREAD"
+    boni:
+      - question: " \t<latin>Quid nesciēbant amīcī?</latin>"
+        answer: "(NESCIĒBANT) UBI INCIPERENT / UBI (AURELIA) ESSET"
+      - question: " \t<latin>Quālēs rēs dēlectābant Aurēliam?</latin>"
+        answer: "(RĒS) ANTIQUAE"
+  - tossup:
+      question: "At the time of his ascension, which emperor was the second oldest after Galba to be named <latin>Imperātor</latin> and was the first to practice adoption in choosing his successor? \t\t"
+      answer: "NERVA"
+    boni:
+      - question: "Where were Nerva’s ashes laid to rest, making him the last emperor to be interred there?"
+        answer: "MAUSOLEUM OF AUGUSTUS"
+      - question: "What natural phenomenon was said to have occurred on the day of Nerva’s burial?"
+        answer: "ECLIPSE (OF THE SUN) // (SOLAR) ECLIPSE"
+  - tossup:
+      question: "According to the <title>Aeneid</title>, who cornered and killed the fire-breathing giant Cacus on the future site of Rome after Cacus stole some of Geryon’s cattle from the hero?\t"
+      answer: "HERCULES"
+    boni:
+      - question: "It made sense that Hercules might pass through Italy with Geryon’s cattle because Erytheia, Geryon’s home, was believed to be part of what modern-day country?\t"
+        answer: "SPAIN"
+      - question: "When Hercules was passing through Liguria with the cattle and was attacked by a large force of Ligurians, what did Jupiter send from the sky, which gave Hercules weapons to fight off his attackers?\t"
+        answer: "STONES / ROCKS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "Using <latin>appropinquō</latin>, translate the following sentence from English to Latin: The rising sun never approaches the moon.\t"
+      answer: "<latin>SŌL ORIĒNS / SURGĒNS NUMQUAM  \t\tLŪNAE / AD LŪNAM APPROPINQUAT</latin>"
+    boni:
+      - question: "Using <latin>dīvidō</latin> with the preposition <latin>ā</latin>, translate the following sentence from English to Latin: The mountains will have divided the farmer from his cows.\t \t\t"
+        answer: "MŌNTĒS / COLLĒS / IUGA AGRICOLAM  \t\tĀ / AB VACCĪS / BŌBUS / BŪBUS / BOVIBUS (SUĪS) DĪVĪSERINT"
+      - question: "Using a comparative, translate the following sentence from English to Latin: The sailors had feared that the sea was too deep.\t \t\t"
+        answer: "NAUTAE TIMUERANT / METUERANT / VERITĪ ERANT  \tNĒ MARE / AEQUOR / PELAGUS ALTIUS ESSET //  \t\tNĒ PONTUS ALTIOR ESSET"
+  - tossup:
+      question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quī diēs festus descrībitur? caprī pellem tenentēs, virī nūdī per viās currunt et fēminās mēnse Februāriō verberant.</latin>\t"
+      answer: "LUPERCALIA"
+    boni:
+      - question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quī diēs festus dēscrībitur? Mēnse Maiō, Rōmānī dōna lārvīs et umbrīs dant.</latin>\t"
+        answer: "LEMURIA"
+      - question: "<latin>Respondē aut Anglicē aut Latīnē:</latin> <latin>Quī diēs festus dēscrībitur? Mēnse Decembrī, dominī servīs serviunt et Rōmānī dōna inter sē dant.</latin>\t"
+        answer: "SATURNALIA"
+  - tossup:
+      question: "In his search for Teiresias, Odysseus first encounters whose shade, who asks his former captain to bury him on Aeaea because he had fallen off Circe’s roof?\t"
+      answer: "ELPENOR’S"
+    boni:
+      - question: "Upon finding Teiresias, Odysseus learns that he can reach home with his crew intact if he can keep them from doing what on the island of Thrinacia? \t\t"
+        answer: "EATING / KILLING / SACRIFICING THE CATTLE OF THE SUN / HELIOS"
+      - question: "According to the <title>Odyssey</title>, where does Teiresias predict Odysseus’ death will come from? \t\t"
+        answer: "(THE) SEA"
+  - tossup:
+      question: "Distinguish in meaning between the Latin words <latin>quīdam</latin> and <latin>quidem</latin>.\t\t"
+      answer: "<latin>QUĪDAM</latin>, A CERTAIN (ONE) / SOMEONE; <latin>QUIDEM</latin>, INDEED"
+    boni:
+      - question: "Distinguish in meaning among the Latin words <latin>quisque, quisquam</latin>, and <latin>quoniam.</latin>"
+        answer: "QUISQUE, EACH (ONE) / EVERYBODY / EVERYONE;  \t\t<latin>QUISQUAM</latin>, ANY(ONE) / SOME(ONE); <latin>QUONIAM</latin>, SINCE / BECAUSE"
+      - question: "Distinguish in meaning among the Latin words <latin>unde</latin>, <latin>ūsque,</latin> and <latin>undique</latin>."
+        answer: "<latin>UNDE</latin>, FROM WHERE / WHENCE; <latin>USQUE</latin>, ALL THE WAY (TO / FROM) / UP TO; \t\t<latin>UNDIQUE</latin>, FROM ALL SIDES / ALL OVER / ON ALL SIDES"
+  - tossup:
+      question: "What Republican Roman commander escaped a charge of <latin>perduelliō</latin> due to his family’s high status after he lost 93 of 120 ships in 249 BC at the disaster of Drepana?"
+      answer: "(P.) CLAUDIUS PULCHER"
+    boni:
+      - question: "What Carthaginian admiral met Claudius’ navy at sea and forced the front line of Rome’s forces to flee, causing ships to crash into one another?\t"
+        answer: "ADHERBAL"
+      - question: "In the same year, what co-consul of Pulcher was defeated at Cape Passaro by the Punic admiral Carthalo?\t"
+        answer: "(L. IUNIUS) PULLUS  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "A son of Minos who drowned in a vat of honey, the foster father of Bellerophon, a Lycian leader who swapped armor with Diomedes, and a sea-god who fell in love with Scylla all shared what name?\t"
+      answer: "GLAUCUS"
+    boni:
+      - question: "What name was shared by the mother of Laomedon, the wife of Acrisius who bore him Danaë, the wife of Creon who killed herself in grief after the death of her son Haemon, and the Thracian nymph who died on her wedding day?\t"
+        answer: "EURYDICE"
+      - question: "What name was shared by a son of Pandion who, along with his fifty sons, rebelled against Aegeus; a Titan who was the father of Nike by Styx; a Giant who was killed and flayed by Athena; and a companion of Athena whom she accidentally killed?\t"
+        answer: "PALLAS"
+  - tossup:
+      question: "Translate this sentence into English: <latin>Medicus captīvum in carcere morientem vīsitābat.</latin>\t"
+      answer: "THE DOCTOR VISITED THE PRISONER /  \t\tCAPTIVE (WHO WAS / WHILE HE WAS) DYING IN PRISON B1."
+    boni:
+      - question: "\tTranslate this sentence into English: <latin>Captīvus, magnō cum dolōre clāmāns, caput ad medicum sustulit.</latin>\t"
+        answer: "THE PRISONER, SHOUTING / CRYING (OUT) \t\tWITH GREAT PAIN, LIFTED HIS / A / THE HEAD TOWARD THE DOCTOR B2."
+      - question: "\tTranslate this sentence into English: <latin>Medicō ēgressō, captīvus alium diem vīvet.</latin> \t\t"
+        answer: "WITH THE DOCTOR HAVING LEFT / AFTER THE DOCTOR LEFT,  \t\tTHE CAPTIVE / PRISONER WILL LIVE FOR ANOTHER DAY."
+  - tossup:
+      question: "Though he won the battles of Cyzicus, Cabira, and Tigranocerta, what commander was recalled under the Lex Manilia, ending his campaign against Mithridates VI? \t\t"
+      answer: "(L. LICINIUS) LUCULLUS"
+    boni:
+      - question: "What Armenian king and ally of Mithridates did Lucullus defeat at Tigranocerta in 69  \tBC?\t"
+        answer: "TIGRANES (II / THE GREAT)"
+      - question: "What lieutenant of Lucullus was defeated at the Battle of Zela in 67 BC?"
+        answer: "(C.) TRIARIUS"
+  - tossup:
+      question: "In Aeschylus' play <title>Seven Against Thebes</title>, this man carries a shield with the Sphinx devouring Thebans, whereas Euripides says that the same man’s shield depicts his mother firing an arrow at a wild boar. Name this man, one of the Seven Against Thebes, most often said to be the son of Atalanta and Hippomenes.\t"
+      answer: "PARTHENOPAEÜS"
+    boni:
+      - question: "The expedition of the Seven Against Thebes was able to take place because Polyneices had bribed which lady with the necklace of Harmonia?\t"
+        answer: "ERIPHYLE"
+      - question: "What son of Parthenopaeüs and member of the Epigoni shares a name with Jason’s younger brother?\t"
+        answer: "PROMACHUS"
+  - tossup:
+      question: "Please do not open the Visual until you are instructed to do so. \t"
+      answer: "[HAND OUT THE <emphasis>VISUAL</emphasis>]"
+    boni:
+      - question: "How old was Albia Nereis when she died?"
+        answer: "60"
+      - question: "Provide the full Latin and English for one of the two phrases abbreviated at the bottom of the stone."
+        answer: "<latin>HĪC SEPULTA / SĪTA (EST)</latin>, HERE (IS / LIES) BURIED // \t\t<latin>SIT TIBI TERRA LEVIS</latin>, MAY THE EARTH LIE LIGHT UPON YOU"
+  - tossup:
+      question: "<latin>Quāle animal est? Hoc animal per rūra campōsque volat, flōrēs petēns. Spīnā ācrī tē vulnerāre potest. nectar rapit et in mel dulce trānsfert.</latin>\t"
+      answer: "APIS"
+    boni:
+      - question: "<latin>Quāle animal est? Hoc animal minimum est. Eī cāseum cōnsūmere placet. Fēlēs magnopere hoc animal cōnsūmere vult.</latin>\t"
+        answer: "MUS"
+      - question: "<latin>Quāle animal est? Hoc animal in aquā terrāque habitat, et optimē salīre potest. Nōnnūllī hominēs crūra huius animālis cōnsūmere solent. Muscās ex āere linguā longissimā capit.</latin>\t"
+        answer: "RĀNA"
+  - tossup:
+      question: "Having been adopted by the king of Mysia, Teuthras, what son of Heracles and Auge approached Achilles in disguise and then demanded that Achilles heal the wound that he had inflicted?\t"
+      answer: "TELEPHUS"
+    boni:
+      - question: "Who figured out that it was in fact Achilles’ spear and not Achilles that had inflicted the wound and thus was the thing that could heal it?\t"
+        answer: "ODYSSEUS"
+      - question: "Which son of Polyneices was killed by Telephus in a prelude to the Trojan War, forcing the Greeks to return to their ships and their homes?\t"
+        answer: "THERSANDER"
+  - tossup:
+      question: "Consider the sentence: “ugly horns still make beautiful music.” Using <latin>turpis</latin>, give the Latin for “ugly horns”, which is the nominative plural.\t"
+      answer: "<latin>TURPIA CORNUA</latin>"
+    boni:
+      - question: "Change the phrase <latin>turpia cornua</latin> to the ablative plural so that it fits the sentence “the festival was worthy of ugly horns.”\t"
+        answer: "<latin>TURPIBUS CORNIBUS</latin>"
+      - question: "Change the phrase <latin>turpibus cornibus</latin> to the ablative singular so that it fits the sentence “You played a tune with an ugly horn.”\t"
+        answer: "<latin>TURPĪ CORNŪ</latin>"
+  - tossup:
+      question: "When recognized by the spotter, perform or describe the following command: <latin>simulā āctiōnēs tonsōris capillōs secantis</latin>.                                       \t\t"
+      answer: "STUDENT SHOULD PRETEND TO BE A <emphasis>BARBER</emphasis> CUTTING HAIR(S) / BEARD"
+    boni:
+      - question: "Now, perform or describe this command: <latin>simulāte āctiōnēs pistōrum pānem ē fornice extrahentium.</latin>\t"
+        answer: "<emphasis>MULTIPLE</emphasis> STUDENTS SHOULD PRETEND \t\tTO BE <emphasis>BAKERS</emphasis> TAKING BREAD OUT OF THE OVEN"
+      - question: "Now, perform or describe this command: <latin>simulāte āctiōnēs ūnius magistrae docentis et aliquōrum discipulōrum dormientium.</latin>\t"
+        answer: "STUDENTS SHOULD PRETEND  \t\tTO BE <emphasis>ONE TEACHER TEACHING</emphasis>  \t\tAND <emphasis>SEVERAL SLEEPING STUDENTS</emphasis>  <latin>SCORE CHECK</latin>"
+  - tossup:
+      question: "In what region, because of ineffectual campaigns led by the Senate from 17-20 AD, did Tiberius take charge of military operations against the deserter Tacfarinas?\t \t\t"
+      answer: "NUMIDIA (prompt on “Africa”)"
+    boni:
+      - question: "What legate of Tiberius trapped Tacfarinas in a network of small field fortifications but was recalled before the final victory?\t"
+        answer: "(IUNIUS) BLAESUS"
+      - question: "What imperial legate, the uncle of Sejanus, ultimately defeated and put Tacfarinas to death circa 24 AD?\t"
+        answer: "(P. CORNELIUS) DOLABELLA"

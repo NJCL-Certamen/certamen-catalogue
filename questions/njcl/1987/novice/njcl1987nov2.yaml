@@ -1,0 +1,172 @@
+tournament: "NJCL Certamen"
+year: 1987
+division: "Novice"
+round: "Round 2"
+questions:
+
+  - tossup:
+      question: "Which was Rome's oldest bridge?"
+      answer: "THE PONS SUBLICIUS"
+    boni:
+      - question: "5194 What religious officials were its guardians?"
+        answer: "THE PONTIFICES"
+      - question: "What garb did pontifices wear while officiating?"
+        answer: "THE TOGA PRAETEXTA"
+  - tossup:
+      question: "The preposition per governs what case?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What is the universal dative singular of is?"
+        answer: "EI"
+      - question: "What is the genitive plural of exercitus?"
+        answer: "EXERCITUUM"
+  - tossup:
+      question: "."
+      answer: "Spell P E R S E P H O N E."
+    boni:
+      - question: "."
+        answer: "Spell A P H R O D I T E."
+      - question: "."
+        answer: "Spell H E P H A E S T U S."
+  - tossup:
+      question: "What side did Neptune take in the Trojan War?"
+      answer: "THE GREEK"
+    boni:
+      - question: "What side was taken by Juno?"
+        answer: "THE GREEK"
+      - question: "By APollo?"
+        answer: "THE TROJAN"
+  - tossup:
+      question: "."
+      answer: "225 WQat are the case and its usage in this sentence:"
+    boni:
+      - question: "."
+        answer: "Stilo scribit. ABLATIVE OF MEANS"
+      - question: "."
+        answer: "A milite vulneratus sum. ABLATIVE OF AGENT"
+      - question: "."
+        answer: "Magna cum diligentia laborabamus. ABLATIVE OF MANNER"
+  - tossup:
+      question: "5129 27 BC saw the building in Rome of a still-standing temple dedicated to all the gods. What was it?"
+      answer: "THE PANTHEON"
+    boni:
+      - question: "The Pantheon has an opening to the sky at the top of its dome. What is its name, which also means “eye”?"
+        answer: "OCULUS"
+      - question: "What Roman is prominenkly named on the facade as the Pantheon's builder?"
+        answer: "M. AGRIPPA"
+  - tossup:
+      question: "."
+      answer: "Distinguish in meaning between posui and potui."
+    boni:
+      - question: "?"
+        answer: "P POSUI = I HAVE PUT POTUI = I HAVE BEEN ABLE"
+      - question: "."
+        answer: "Change posui to passive. POSITUS SUM"
+      - question: "."
+        answer: "Change potui to future perfect. POTUERO"
+  - tossup:
+      question: "What is the accusative plural of manus?"
+      answer: "MANUS"
+    boni:
+      - question: "What is the ablative singuolar of res?"
+        answer: "RE"
+      - question: "What is the ablative singular of animal?"
+        answer: "ANIMALI"
+  - tossup:
+      question: "."
+      answer: "Say in Latin, “He is loved.” AMATUR"
+    boni:
+      - question: "."
+        answer: "Change amatur to future. AMABITUR"
+      - question: "."
+        answer: "Change amatur to pluperfect. AMATUS ERAT"
+  - tossup:
+      question: "What famous Roman was born near Arpinum on January 3, 106 BC?"
+      answer: "CICERO"
+    boni:
+      - question: "."
+        answer: "Give his full name. M. TULLIUS CICERO"
+      - question: "What was the political crisis during his consulship?"
+        answer: "THE CONSPIRACY OF CATILINE"
+  - tossup:
+      question: "For whose son is the Icarian Sea named?"
+      answer: "DAEDALUS'"
+    boni:
+      - question: "Whose father gave his name to the Aegean Sea?"
+        answer: "THESEUS'"
+      - question: "Whose sister gave her name to the Hellespont?"
+        answer: "PHRIXUS'"
+  - tossup:
+      question: "What is the meaning of the adjective latus?"
+      answer: "WIDE"
+    boni:
+      - question: "What is the meaning of the noun latus?"
+        answer: "SIDE"
+      - question: "What verb uses latus as its perfect passive participle?"
+        answer: "FERO"
+  - tossup:
+      question: "."
+      answer: "Paris was born in Troy. Say “in Troy” in Latin. TROIAE"
+    boni:
+      - question: "."
+        answer: "Agamemnon came from Mycenae. Say “from Mycenae.” MYCENIS"
+      - question: "."
+        answer: "Paris traveled to Sparta. Say “to Sparta.” SPARTAM"
+  - tossup:
+      question: "What Arabic numeral is the equivalent of the Roman X?"
+      answer: "TEN"
+    boni:
+      - question: "Of M?"
+        answer: "1000"
+      - question: "Of C?"
+        answer: "100"
+  - tossup:
+      question: "What is the dative singular of cornu?"
+      answer: "CORNU"
+    boni:
+      - question: "What is the ablative singular?"
+        answer: "CORNU"
+      - question: "What is the genitive singular?"
+        answer: "CORNUS"
+  - tossup:
+      question: "After how many years did Odysseus return home?"
+      answer: "TWENTY"
+    boni:
+      - question: "What was his kingdom?"
+        answer: "ITHACA"
+      - question: "Who was his patient wife?"
+        answer: "PENELOPE"
+  - tossup:
+      question: "Who was rescued by Perseus from a sea monster?"
+      answer: "ANDROMEDA"
+    boni:
+      - question: "Who was Andromeda's vain mother?"
+        answer: "CASSIOPEIA"
+      - question: "Who was Perseus' mother?"
+        answer: "DANAE"
+  - tossup:
+      question: "What was the Roman Empire's second dynasty?"
+      answer: "THE FLAVIANS"
+    boni:
+      - question: "How many Flavians were there?"
+        answer: "THREE"
+      - question: "How were they interrelated?"
+        answer: "A FATHER AND HIS TWO SONS"
+  - tossup:
+      question: "What Latin verb is the root of the English noun “station”?"
+      answer: "STO"
+    boni:
+      - question: "What is the perfect active infinitive?"
+        answer: "STETISSE"
+      - question: "What is the first person singular future active indicative?"
+        answer: "STABO"
+  - tossup:
+      question: "How many wars did Rome fight with Carthage?"
+      answer: "THREE"
+    boni:
+      - question: "What Carthaginian general penetrated deep into Italy in the Second Punic War?"
+        answer: "HANNIBAL"
+      - question: "At whose hand did Hannibal die?"
+        answer: "HIS OWN"
+      - question: "."
+        answer: "#"

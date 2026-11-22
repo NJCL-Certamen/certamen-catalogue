@@ -117,7 +117,7 @@ questions:
         answer: "<latin>AD LIBITUM</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice; then answer in LATIN the question about it: <latin>Cum eandem fēminam pulchram amārent, Herculēs et deus flūminis cōnstituērunt inter sē pugnātūrōs esse. Quod deus flūminis Herculem potentissimum vincere nōn poterat, in serpentem sē mūtāvit. Statim Herculēs collum serpentis rapuit et vehementer pressit. Deō superātō, Herculēs fēminam pulchram in mātrimōnium dūxit. Quis ā duōbus deīs amābātur?</latin>"
-      answer: "FĒMINA (PULCHRA)"
+      answer: "<latin>FĒMINA (PULCHRA)</latin>"
     boni:
       - question: "<latin>In quāle animal deus flūminis sē mūtāvit?</latin>"
         answer: "<latin>(IN) SERPENTEM</latin>"

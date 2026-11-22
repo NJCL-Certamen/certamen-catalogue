@@ -29,7 +29,7 @@ questions:
         answer: "<latin>PATERE</latin>"
   - tossup:
       question: "What use of the genitive case is illustrated in this sentence: <latin>Catullus cupidus amōris erat</latin>"
-      answer: "WITH CERTAIN SPECIAL / ADJECTIVES / <latin>CUPIDUS</latin> / OBJECTIVE"
+      answer: "WITH SPECIAL ADJECTIVES (<latin>CUPIDUS</latin>) / OBJECTIVE"
     boni:
       - question: "What use of the genitive case is illustrated in this sentence: <latin>Fīlius oblīvīscēbātur patris patriaeque</latin>"
         answer: "AFTER VERBS OF REMEMBERING / FORGETTING"
@@ -56,7 +56,7 @@ questions:
       answer: "(C. IULIUS) VINDEX"
     boni:
       - question: "What other governor did Vindex pledge to support as emperor?"
-        answer: "(SERVIUS SULPICIUS) GALBA"
+        answer: "(SER. SULPICIUS) GALBA"
       - question: "By whom was Vindex defeated?"
         answer: "(L.) VERGINIUS RUFUS"
   - tossup:
@@ -73,7 +73,7 @@ questions:
     boni:
       - question: "What type of <latin>cum</latin>-clause is illustrated by the following Latin sentence: <latin>Quae cum ita sint, fūr damnandus est</latin>"
         answer: "CAUSAL"
-      - question: "Translate the cum clause into Latin for the following sentence: “When I go to Rome next summer, I will visit the Colosseum.”"
+      - question: "Translate the <latin>cum</latin>-clause into Latin for the following sentence: “When I go to Rome next summer, I will visit the Colosseum.”"
         answer: "<latin>CUM RŌMAM PROXIMĀ AESTĀTE EŌ / ĪBŌ / Ī(V)ERŌ</latin>"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice; then answer in ENGLISH the question about it: <latin>Iuvenis pauperem anum sedentem in rīpā vīdit. Ea statim magnā vōce iuvenem sē transportāre iussit. Iuvenis, quī anum esse pulchram deam suspicābātur, eam sustulit. Ad rīpam contrāriam īvit et onus dēposuit. At, mīrābile dictū, nōn pulchra dea, sed eadem anus adhūc erat.</latin>  Whom did the young man see sitting on the shore?"
@@ -136,7 +136,7 @@ questions:
       answer: "SEVEN"
     boni:
       - question: "Name two of them"
-        answer: "(SEE BELOW)"
+        answer: "SEE BELOW"
       - question: "Name two more"
         answer: "POLYNEICES, ADRASTUS, CAPANEUS, AMPHIARAÜS, HIPPOMEDON, PARTHENOPAEUS, AND TYDEUS"
   - tossup:

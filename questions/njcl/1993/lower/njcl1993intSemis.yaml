@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What was the non-adoptive family relationship between Augustus and his successor?"
+      answer: "STEPFATHER-STEPSON (or FATHER-IN-LAW--SON-IN-LAW)"
+    boni:
+      - question: "Between Caligula and his successor?"
+        answer: "NEPHEW - UNCLE"
+      - question: "Between Nero and his successor?"
+        answer: "NONE"
+  - tossup:
+      question: "What case shows definite price?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What case shows indefinite price or value?"
+        answer: "GENITIVE"
+      - question: "What other usage do these two cases share?"
+        answer: "DESCRIPTION/QUALITY"
+  - tossup:
+      question: "As wicked as Dirce was, what deity avenged her death?"
+      answer: "BACCHUS/DIONYSUS"
+    boni:
+      - question: "How did Dionysus punish Antiope, whose sons had killed Dirce to avenge their mother's abuse at her hands?"
+        answer: "DROVE HER MAD"
+      - question: "How did Dionysus mark the spot where Dirce had been gored by a bull?"
+        answer: "A SPRING SPRANG UP"
+  - tossup:
+      question: "Ubi haec invenis: arenam, undas, canceres?"
+      answer: "IN LITORE/ORA, AD MARE"
+    boni:
+      - question: "Ubi haec invenis: boves, agricolam, vites?"
+        answer: "IN AGRO/VILLA"
+      - question: "Ubi haec invenis: arbores, cervos, venatores?"
+        answer: "IN SILVA"
+  - tossup:
+      question: "What is the future active participle of <latin>findo</latin>?"
+      answer: "FISSURUS"
+    boni:
+      - question: "What is the future passive participle?"
+        answer: "FINDENDUS"
+      - question: "What is the perfect active infinitive?"
+        answer: "FIDISSE"
+  - tossup:
+      question: "What princess was the last delay for Odysseus?"
+      answer: "NAUSICAA"
+    boni:
+      - question: "What was the name of Nausicaa's people?"
+        answer: "PHAEACIANS"
+      - question: "Who was their king, her father?"
+        answer: "ALCINOUS"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of <latin>volucris</latin>?"
+      answer: "VOLO=FLY"
+    boni:
+      - question: "What Latin verb with what meaning is the root of <latin>voluptas</latin>?"
+        answer: "VOLO=WISH"
+      - question: "What do these nouns mean?"
+        answer: "VOLUCRIS=BIRD, VOLUPTAS=PLEASURE"
+  - tossup:
+      question: "What was the marital link between the brothers Danaus and Aegyptus?"
+      answer: "DANAUS’ 50 DAUGHTERS MARRIED AEGYPTUS’ 50 SONS"
+    boni:
+      - question: "Which bride alone of the 50 didn’t kill her groom on their wedding night?"
+        answer: "HYPERMNESTRA"
+      - question: "Who was her bridegroom?"
+        answer: "LYNCEUS"
+  - tossup:
+      question: "What is the perfect passive participle of <latin>traho</latin>?"
+      answer: "TRACTUS"
+    boni:
+      - question: "What is the perfect passive participle of <latin>trado</latin>?"
+        answer: "TRADITUS"
+      - question: "What is the perfect passive participle of <latin>trudo</latin>?"
+        answer: "TRUSUS"
+  - tossup:
+      question: "What flower did Aphrodite cause to grow out of the blood of the slain Adonis?"
+      answer: "ANEMONE (or WINDFLOWER)"
+    boni:
+      - question: "How did Adonis die?"
+        answer: "GORED BY A BOAR"
+      - question: "What other goddess also loved him?"
+        answer: "PERSEPHONE"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “tropic” and “heliotrope”?"
+      answer: "TURN"
+    boni:
+      - question: "What is the meaning of the Greek word element common to “paralyze” and “analysis”?"
+        answer: "LOOSEN, RELEASE"
+      - question: "What is the meaning of the Greek word element common to “melanin” and “melancholy”?"
+        answer: "BLACK"
+  - tossup:
+      question: "<latin>Tempus</latin> usually means “time,” of course, but less commonly it names what part of the body?"
+      answer: "TEMPLE (or HEAD or FOREHEAD)"
+    boni:
+      - question: "<latin>Calx</latin> means “pebble,” but also names what part of the body?"
+        answer: "HEEL"
+      - question: "<latin>Ōs</latin> means “mouth;” what is <latin>os</latin>?"
+        answer: "BONE"
+  - tossup:
+      question: "What god was worshiped on the Viminal with the name Viminius?"
+      answer: "JUPITER"
+    boni:
+      - question: "What was the origin of the names Viminal and Viminius?"
+        answer: "VIMEN=WILLOW TREE, OSIER"
+      - question: "From what other hill does Jupiter also draw a Latin epithet?"
+        answer: "CAPITOLINE"
+  - tossup:
+      question: "Quae pars corporis super umeros sedet?"
+      answer: "CAPUT"
+    boni:
+      - question: "Quae pars corporis aures separat?"
+        answer: "CAPUT"
+      - question: "Quae pars corporis caput et corpus iungit?"
+        answer: "COLLUM"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of the cornea in your eye?"
+      answer: "CORNU - HORN"
+    boni:
+      - question: "Your clavicle is rooted in the diminutive of what Latin noun with what meaning?"
+        answer: "CLAVIS - KEY"
+      - question: "Your mandible comes from mandere, which means what?"
+        answer: "CHEW"
+  - tossup:
+      question: "What Roman commander in Africa won important victories but then lost the campaign in 255BC?"
+      answer: "M. ATILIUS REGULUS"
+    boni:
+      - question: "Who was commanding the Carthaginians?"
+        answer: "XANTHIPPUS"
+      - question: "What was the mercenary Xanthippus’ homeland?"
+        answer: "SPARTA"
+  - tossup:
+      question: "What is the name of the Roman general killed at the Milvian Bridge in 312AD?"
+      answer: "MAXENTIUS (M. AURELIUS VALERIUS MAXENTIUS)"
+    boni:
+      - question: "Who was the Augustus who retired with Diocletian?"
+        answer: "MAXIMIAN (M. AURELIUS VALERIUS MAXIMIANUS)"
+      - question: "Licinius in 313AD finally defeated this threat to himself and Constantine. Who was he?"
+        answer: "MAXIMINUS (C. GALERIUS VALERIUS MAXIMINUS, aka Daia/Daza)"
+  - tossup:
+      question: "Which of the following would you have most likely heard from a Roman meteorologist: ager, nix, lupus, mensa?"
+      answer: "NIX"
+    boni:
+      - question: "Define nix."
+        answer: "SNOW"
+      - question: "Which of these is <emphasis>not</emphasis> a weather term: imber, gustus, tempestas, pluvius?"
+        answer: "GUSTUS"
+  - tossup:
+      question: "Before his murder on March 15, Caesar had announced his intention to depart on March 18 to begin his latest military adventure. What foe was he taking on?"
+      answer: "THE PARTHIANS"
+    boni:
+      - question: "What prophecy had the Sibylline Books supposedly given about the defeat of the Parthians?"
+        answer: "THAT THEY COULD BE BEATEN ONLY BY A “REX”"
+      - question: "Who was the Parthian king at the time of Caesar?"
+        answer: "ORODES (II)"
+  - tossup:
+      question: "What deity had the epithet “Phoebe”?"
+      answer: "ARTEMIS"
+    boni:
+      - question: "Who was called Soter, “protector and savior”?"
+        answer: "ZEUS"
+      - question: "Who was Ennosigaeus, “earth-shaker”?"
+        answer: "POSEIDON // #"

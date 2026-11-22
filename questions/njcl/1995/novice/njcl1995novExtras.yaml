@@ -1,0 +1,189 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Novice"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "In what kind of structure were munera gladiatoria performed?"
+      answer: "ARENA, AMPHITHEATRE"
+    boni:
+      - question: "Where were ludi scaenici performed?"
+        answer: "THEATRE"
+      - question: "Where were ludi circenses performed?"
+        answer: "CIRCUS"
+  - tossup:
+      question: "The best example of the use of the dome in Roman architecture is the Pantheon. Who added the dome to the Pantheon?"
+      answer: "HADRIAN"
+    boni:
+      - question: "Where outside of Rome is Hadrian's great villa complex?"
+        answer: "TIBUR (TIVOLI)"
+      - question: "Where did Hadrian complete a long unfinished great temple to Zeus?"
+        answer: "ATHENS"
+  - tossup:
+      question: ". What was the alliance of eight Latin cities of Latium against the emerging power of Rome called?"
+      answer: "LATIN LEAGUE"
+    boni:
+      - question: "At what lake did the Romans defeat the Latin League in 496 BC?"
+        answer: "REGILLUS"
+      - question: "According to tradition, who intervened in the battle on behalf of the Romans?"
+        answer: "CASTOR & POLLUX"
+  - tossup:
+      question: ". Which toga was often worn by emperors?"
+      answer: "TOGA PICTA"
+    boni:
+      - question: "Describe it."
+        answer: "CRIMSON EMBROIDERED IN GOLD"
+      - question: "Describe the toga praetexta."
+        answer: "PURPLE BORDER (HEM) ALONG CURVERD EDGE (SINUS)"
+  - tossup:
+      question: "What two social classes struggled for power in the “Conflict of Orders?"
+      answer: "” PATRICIANS & PLEBEIANS"
+    boni:
+      - question: "The plebeians did not resort to violence in the “Conflict of Orders.” How did they force the patricians to listen to their demands?"
+        answer: "SECESSION"
+      - question: "What positions developed as the spokesmen and protectors of plebeian interests?"
+        answer: "TRIBUNI PLEBIS"
+  - tossup:
+      question: "What nine sisters were in charge of the arts?"
+      answer: "MUSES"
+    boni:
+      - question: "What three sisters avenged unjust deaths?"
+        answer: "FURIES"
+      - question: "What three sisters were named Clotho, Lachesis, and Atropos?"
+        answer: "FATES"
+  - tossup:
+      question: "Who in the Underworld was condemned to carry water in jars which leaked like sieves?"
+      answer: "DANAIDAE"
+    boni:
+      - question: "What was their crime?"
+        answer: "KILLING HUSBANDS ON THEIR WEDDING NIGHT"
+      - question: "With what weapon had they murdered their bridegrooms?"
+        answer: "LONG SHARP PIN"
+  - tossup:
+      question: "Who took away Echo's normal power of speech?"
+      answer: "HERA"
+    boni:
+      - question: "Why?"
+        answer: "ECHO'S CHATTERING DISTRACTED HER FROM ZEUS & HIS LOVE AFFAIRS"
+      - question: "What ability did Hera leave with Echo?"
+        answer: "TO REPEAT LAST WORDS SPOKEN TO HER"
+  - tossup:
+      question: "What mountain god declared Apollo the winner of a music contest?"
+      answer: "TMOLUS"
+    boni:
+      - question: "Who was foolish enough to announce his disagreement with Tmolus' judgement?"
+        answer: "MIDAS"
+      - question: "How did Apollo punish Midas?"
+        answer: "GAVE HIM THE EARS OF AN ASS"
+  - tossup:
+      question: "What king of Teuthrania, a son of Hercules, repulsed the Greeks when they landed there in error on their way to Troy?"
+      answer: "TELEPHUS"
+    boni:
+      - question: "Whose spear had wounded Telephus?"
+        answer: "According to an oracle, only the rust from the spear could cure the wound. ACHILLES'"
+      - question: "How did Telephus then repay the Greeks for curing his wound?"
+        answer: "HE GUIDED THEM TO TROY"
+  - tossup:
+      question: "What use of the ablative is found in Lucius ab ursā caesus est?"
+      answer: "AGENCY"
+    boni:
+      - question: "Augustus vehēbātur ab urbe."
+        answer: "PLACE FROM WHICH"
+      - question: "Catō est Cicerōne ēloquentior."
+        answer: "COMPARISON"
+  - tossup:
+      question: ""
+      answer: "Translate: Numa was praised by all the Romans."
+    boni:
+      - question: ""
+        answer: "NUMA AB OMNIBUS RŌMĀNĪS LAUDĀBĀTUR"
+      - question: "<latin>Translate:</latin> Numa was desirous of peace. <latin>Translate:</latin> Numa was a better king than Hostilius."
+        answer: "NUMA CUPIDUS PĀCIS ERAT // NUMA RĒX MELIOR QUAM HOSTĪLIUS ERAT // NUMA RĒX MELIOR HOSTĪLIŌ ERAT"
+  - tossup:
+      question: ""
+      answer: "Listen to the following sentence, which I will read twice, and answer in Latin the question about it: Captīvī et servī quōs dominī in amphitheātrum mīsērant in mediā arēnā pugnāre cōgēbantur."
+    boni:
+      - question: "Quī servōs in amphitheātrum mīsērunt?"
+        answer: "DOMINĪ"
+      - question: "Ubi captīvī et servī pugnāvērunt? What use of the infinitive is pugnāre cōgēbantur?"
+        answer: "IN AMPHITHEĀTRŌ OR IN MEDIĀ ARĒNĀ // COMPLEMENTARY (OBJECTIVE)"
+  - tossup:
+      question: "What do we call indicative, imperative, and infinitive?"
+      answer: "MOODS"
+    boni:
+      - question: "What do we call sets of endings for nouns?"
+        answer: "DECLENSIONS"
+      - question: "What do we call sets of endings for verbs?"
+        answer: "CONJUGATIONS"
+  - tossup:
+      question: "Give a synonym of epistula."
+      answer: "LITTERAE"
+    boni:
+      - question: "Give a synonym of lītus."
+        answer: "RĪPA / ŌRA / ACTA"
+      - question: "Give a synonym of fortitūdō."
+        answer: "ANIMUS / CONSTANTIA / VIRTŪS / AUDĀCIA"
+  - tossup:
+      question: "Differentiate among cupiō, cupidus, and cupiditās."
+      answer: "CUPIŌ -- DESIRE"
+    boni:
+      - question: ""
+        answer: "CUPIDUS -- DESIROUS"
+      - question: "...among amō, amīcus, and amīcitia....among vincō, victor, and victōria."
+        answer: "CUPIDITĀS -- DESIRE // AMŌ -- LOVE // AMĪCUS -- FRIEND // AMĪCITIA -- FRIENDSHIP // VINCŌ -- CONQUER // VICTOR -- CONQUEROR // VICTŌRIA -- VICTORY"
+  - tossup:
+      question: "Differentiate in meaning between mors and mora."
+      answer: "MORS -- DEATH"
+    boni:
+      - question: ""
+        answer: "MORA -- DELAY"
+      - question: ""
+        answer: "...between ita and item. // ITA -- SO // ITEM -- LIKEWISE //...between hiems and hīberna. // HIEMS -- WINTER // HĪBERNA -- WINTER QUARTERS"
+  - tossup:
+      question: "What two compounds of faciō mean “finish?"
+      answer: "” PERFICIŌ, CŌNFICIŌ"
+    boni:
+      - question: "What compound of faciō means “kill?"
+        answer: "” INTERFICIŌ"
+      - question: "What compound of faciō means “fail?"
+        answer: "” DĒFICIŌ"
+  - tossup:
+      question: "What vegetable comes from the Latin noun for “head?"
+      answer: "” CABBAGE"
+    boni:
+      - question: "...for “root?"
+        answer: "” RADISH"
+      - question: "What fruit comes from the Latin noun for “gold?"
+        answer: "” ORANGE"
+  - tossup:
+      question: "What Romance language is spoken in the land the Romans called Hispania?"
+      answer: "SPANISH"
+    boni:
+      - question: "What Romance language is spoken in the land the Romans called Lusitania?"
+        answer: "PORTUGESE"
+      - question: "In the land the Romans called Gallia?"
+        answer: "FRENCH"
+  - tossup:
+      question: "What noun is the root of “accompany?"
+      answer: "” PANIS"
+    boni:
+      - question: "...of “accustom?"
+        answer: "” CONSUESCO"
+      - question: "...of “accountant?"
+        answer: "” PUTO"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of the English noun “coronation?"
+      answer: "” CORONA -- CROWN"
+    boni:
+      - question: "...of the English noun “carnation?"
+        answer: "” CARO -- FLESH, MEAT"
+      - question: "...of the English noun “incarceration?"
+        answer: "” CARCER -- PRISON"
+  - tossup:
+      question: "What Latin verb is the ultimate root of “defeat?"
+      answer: "” FACIO"
+    boni:
+      - question: "...of “defy?"
+        answer: "” FIDO"
+      - question: "...of “defray?"
+        answer: "” FRANGO // 21"

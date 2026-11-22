@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "How many Julio-Claudian emperors were there?"
+      answer: "FIVE"
+    boni:
+      - question: "How many Flavian emperors were there?"
+        answer: "THREE"
+      - question: "How many emperors came between the two dynasties?"
+        answer: "THREE"
+  - tossup:
+      question: "What two cases can show place where?"
+      answer: "ABLATIVE AND LOCATIVE"
+    boni:
+      - question: "What case shows place to which?"
+        answer: "ACCUSATIVE"
+      - question: "What case shows place from which?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "What did the Romans call the settlement which is now the city of Paris?"
+      answer: "LUTETIA"
+    boni:
+      - question: "The Romans called it Lacus Lemannus; what do we call it?"
+        answer: "LAKE GENEVA"
+      - question: "What do we call the Roman city of Lugdunum?"
+        answer: "LYON"
+  - tossup:
+      question: "Who was Priam's father?"
+      answer: "LAOMEDON"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was Laomedon's father? Who was Ilus' father?"
+        answer: "ILUS // TROS or DARDANUS"
+  - tossup:
+      question: ""
+      answer: "What is the construction of the adjective in this sentence:"
+    boni:
+      - question: "Semper Marcum laetum facio?"
+        answer: "PREDICATE ACCUSATIVE or PREDICATIVE or OBJECT COMPLEMENT"
+      - question: "In this sentence: Marcus saepe maestus fit?"
+        answer: "PREDICATE NOMINATIVE or SUBJECT COMPLEMENT // Using an ablative absolute, translate “Since Marcus is taller...” // MARCO ALTIORE"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “incredulous”?"
+      answer: "CREDO = BELIEVE"
+    boni:
+      - question: "Define “incredulous.”"
+        answer: "SKEPTICAL, DOUBTFUL, LOATH TO BELIEVE"
+      - question: "What noun from credo means “a belief or doctrine”?"
+        answer: "CREDO/CREED"
+  - tossup:
+      question: "What centaur had different parentage from the rest?"
+      answer: "CHIRON"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was his father? Which of Chiron's pupils did the centaur make a posthumous statue of?"
+        answer: "CRONUS // ACTAEON (FOR HIS GRIEVING DOGS)"
+  - tossup:
+      question: "What are the two groups of Roman household gods?"
+      answer: "LARES AND PENATES"
+    boni:
+      - question: "Which were deities of the cupboard?"
+        answer: "PENATES"
+      - question: "What was a family's shrine to its Lares called?"
+        answer: "LARARIUM"
+  - tossup:
+      question: "The sight of what caused Aegeus to throw himself off a cliff?"
+      answer: "BLACK SAILS"
+    boni:
+      - question: "Who had tragically forgotten to change the color of his sails?"
+        answer: "THESEUS"
+      - question: "Where was he returning from?"
+        answer: "CRETE"
+  - tossup:
+      question: "What was a commission of ten patricians empowered to do in 451BC?"
+      answer: "CODIFY ROMAN LAW"
+    boni:
+      - question: "What was the commission called?"
+        answer: "THE DECEMVIRI (LEGIBUS SCRIBUNDIS)"
+      - question: "Who was the only man to serve on the commission in both its sessions, in 451 and 450BC?"
+        answer: "APPIUS CLAUDIUS"
+  - tossup:
+      question: "With whom did Athena contend to become the patron deity of Athens?"
+      answer: "POSEIDON"
+    boni:
+      - question: "With whom did Poseidon contend to become the patron deity of Argos?"
+        answer: "HERA"
+      - question: "With whom did Poseidon contend to become the patron deity of Corinth?"
+        answer: "HELIUS/APOLLO"
+  - tossup:
+      question: "Which emperor conquered Dacia and made it into a new province?"
+      answer: "TRAJAN"
+    boni:
+      - question: "What was built in Rome to illustrate various aspects of the Dacian War?"
+        answer: "TRAJAN'S COLUMN"
+      - question: "What is the formal name for Trajan's Forum, where he set his commemorative column?"
+        answer: "THE FORUM ULPIUM"
+  - tossup:
+      question: "What monster was a whirlpool that sucked water down and spewed it back up?"
+      answer: "CHARYBDIS"
+    boni:
+      - question: "How often did this happen?"
+        answer: "THRICE DAILY"
+      - question: "On what land mass did the ancients place Charybdis?"
+        answer: "SICILY"
+  - tossup:
+      question: ""
+      answer: "Distinguish between ala and aula."
+    boni:
+      - question: ""
+        answer: "ALA= WING AULA = HALL, CASTLE"
+      - question: ""
+        answer: "Distinguish between auris and aura. // AURIS = EAR AURA = BREEZE, AIR // Distinguish between aurum and autem. // AURUM = GOLD AUTEM = HOWEVER, MOREOVER"
+  - tossup:
+      question: "How would a Roman read the cardinal number represented with a C?"
+      answer: "CENTUM"
+    boni:
+      - question: "CC?"
+        answer: "DUCENTI"
+      - question: "D?"
+        answer: "QUINGENTI (QUINCENTI in old inscriptions)"
+  - tossup:
+      question: ""
+      answer: "Translate idiomatically: quam celerrime."
+    boni:
+      - question: ""
+        answer: "AS QUICKLY AS POSSIBLE"
+      - question: "Translate the idiom quam primum. Translate qua de causa."
+        answer: "AS SOON AS POSSIBLE // FOR THIS/WHICH REASON, THEREFORE"
+  - tossup:
+      question: ""
+      answer: "Monstra mihi dentes."
+    boni:
+      - question: ""
+        answer: "PLAYER SHOULD SHOW HIS/HER TEETH."
+      - question: "Monstra mihi comam. Monstra mihi labia."
+        answer: "PLAYER SHOULD POINT TO HIS/HER HAIR. // PLAYER SHOULD POINT TO HIS/HER LIPS."
+  - tossup:
+      question: "Complete this analogy: hic : his :: qui : ______."
+      answer: "QUIBUS"
+    boni:
+      - question: "Ille : illas :: hic : ______."
+        answer: "HAS"
+      - question: "Hic : haec :: is : ______."
+        answer: "EA // ROUND C3, page 3"
+  - tossup:
+      question: "According to its etymology at least, what time of day is the ninth hour?"
+      answer: "NOON"
+    boni:
+      - question: "What coin gets its name from being a tenth of a larger unit?"
+        answer: "DIME"
+      - question: "What coin tells you it's a fourth?"
+        answer: "QUARTER"
+  - tossup:
+      question: "Make <emphasis>una puella</emphasis> genitive."
+      answer: "UNIUS PUELLAE"
+    boni:
+      - question: "Make it dative."
+        answer: "UNI PUELLAE"
+      - question: "Double <emphasis>uni puellae</emphasis>."
+        answer: "DUABUS PUELLIS // #"

@@ -1,0 +1,92 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Intermediate"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: "What tree is the <latin>quercus</latin>?"
+      answer: "OAK"
+  - tossup:
+      question: "Change <latin>auxisse</latin> to passive."
+      answer: "AUCTUS ESSE"
+  - tossup:
+      question: "Change <latin>huic viro</latin> to plural."
+      answer: "HIS VIRIS"
+  - tossup:
+      question: "<latin>Monstra mihi tuum tergum.</latin>"
+      answer: "PLAYER SHOULD TURN HIS BACK"
+  - tossup:
+      question: "What mood is found for the main verb <latin>within</latin> indirect statement?"
+      answer: "INFINITIVE"
+  - tossup:
+      question: ""
+      answer: "Translate the sentence: <latin>Coniuratores puniamus.</latin>"
+    boni:
+      - question: ""
+        answer: "LET US PUNISH THE CONSPIRATORS."
+  - tossup:
+      question: "Give 1994 in Roman numerals."
+      answer: "MCMXCIV (MDCCCCLXXXXIV)"
+  - tossup:
+      question: ""
+      answer: "Name and define the Latin noun at the root of “expectorate.”"
+    boni:
+      - question: ""
+        answer: "PECTUS = CHEST, BREAST"
+  - tossup:
+      question: ""
+      answer: "Translate the sentence: <latin>Sex nautas aegros vidi.</latin>"
+    boni:
+      - question: ""
+        answer: "I SAW SIX SICK SAILORS."
+  - tossup:
+      question: "What Latin verb is the root of “fashion”?"
+      answer: "FACIO"
+  - tossup:
+      question: "What Latin verb is formed on the same root as <latin>maestus</latin>?"
+      answer: "MAEREO"
+  - tossup:
+      question: "<latin></latin>In qua parte tui corporis sunt tali?"
+      answer: "<latin></latin> IN PEDE/PEDIBUS"
+  - tossup:
+      question: "What was the kingdom of Agamemnon?"
+      answer: "MYCENAE"
+  - tossup:
+      question: "What flower sprang from Adonis' blood?"
+      answer: "ANEMONE"
+  - tossup:
+      question: "Who was Oedipus' father?"
+      answer: "LAIUS"
+  - tossup:
+      question: "Where did Jason go to fetch the Fleece?"
+      answer: "COLCHIS (or AEA)"
+  - tossup:
+      question: "In what city did Theseus grow up?"
+      answer: "TROEZEN"
+  - tossup:
+      question: "What was the answer to the Sphinx' riddle?"
+      answer: "MAN"
+  - tossup:
+      question: "What male beloved of Apollo was turned into a tree?"
+      answer: "CYPARISSUS"
+  - tossup:
+      question: "Whose temple was found on an island in the Tiber?"
+      answer: "AESCULAPIUS'"
+  - tossup:
+      question: "What emperor had a palatial villa at Tibur, now Tivoli?"
+      answer: "HADRIAN"
+  - tossup:
+      question: "What did a <latin>tonsor</latin> do?"
+      answer: "CUT HAIR, PULL TEETH, SHAVE, SHEAR SHEEP"
+  - tossup:
+      question: "What decemvir disgraced Verginia?"
+      answer: "APPIUS CLAUDIUS"
+  - tossup:
+      question: "What was Julius Caesar's last battle?"
+      answer: "MUNDA (45BC)"
+  - tossup:
+      question: "Where did Marcellus and Tiberius serve together under Augustus in 25BC?"
+      answer: "SPAIN"
+    boni:
+      - question: ""
+        answer: "#"

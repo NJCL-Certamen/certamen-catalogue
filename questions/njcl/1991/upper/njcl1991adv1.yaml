@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What did Calypso offer Odysseus as an enticement to stay with her?"
+      answer: "IMMORTALITY"
+    boni:
+      - question: "How long did he stay with her?"
+        answer: "SEVEN YEARS"
+      - question: "Who was Calypso's father?"
+        answer: "ATLAS / OCEANUS"
+  - tossup:
+      question: "What author established hexameter as the meter for Roman satire?"
+      answer: "LUCILIUS"
+    boni:
+      - question: "Did he write satire in other meters?"
+        answer: "YES"
+      - question: "What important Roman was his great-nephew?"
+        answer: "POMPEY"
+  - tossup:
+      question: "What sacrilege was committed by lovers named Melanippus and Comaetho?"
+      answer: "THEY MADE LOVE IN ARTEMIS' TEMPLE"
+    boni:
+      - question: "What punishment did Artemis inflict on their home, Patrae?"
+        answer: "A FAMINE"
+      - question: "How was the goddess appeased?"
+        answer: "THE LOVERS WERE SACRIFICED TO HER (HUMAN SACRIFICE CONTINUED AT PATRAE FOR SOME TIME)"
+  - tossup:
+      question: "Listen to the Latin carefully, and then answer the question in Latin: <latin>Viros Romam mittemus qui regem petant. Qui regem petent</latin>?"
+      answer: "<latin>VIRI (REGEM PETENT)</latin>"
+    boni:
+      - question: "<latin>Quo viri mittentur</latin>?"
+        answer: "<latin>ROMAM</latin>"
+      - question: "<latin>Quis a viris petetur</latin>?"
+        answer: "<latin>REX</latin>"
+  - tossup:
+      question: "What Latin poet was later given the epithet <latin>doctus</latin>?"
+      answer: "CATULLUS"
+    boni:
+      - question: "What friend of his wrote a work called <title>Zmyrna</title>, much admired by Catullus?"
+        answer: "CINNA"
+      - question: "What governor of Bithynia was a friend of Catullus?"
+        answer: "GAIUS MEMMIUS"
+  - tossup:
+      question: "When Caesar became dictator for life in February of 44BC, who became his <latin>flamen</latin>?"
+      answer: "MARC(US) ANTONY / ANTONIUS"
+    boni:
+      - question: "To what quality of Caesar's was a temple decreed?"
+        answer: "HIS <latin>CLEMENTIA</latin>"
+      - question: "At what festival that same February did he refuse a crown?"
+        answer: "THE <latin>LUPERCALIA</latin>"
+  - tossup:
+      question: "Besides Minerva, who was the Roman goddess of war?"
+      answer: "BELLONA"
+    boni:
+      - question: "With what Greek deity was Bellona identified?"
+        answer: "ENYO"
+      - question: "What wife of the Roman Mars is sometimes linked with Bellona?"
+        answer: "NERIO"
+  - tossup:
+      question: "Using a supine, say in Latin: “They came to win.”"
+      answer: "<latin>VICTUM / SUPERATUM VENERUNT</latin>"
+    boni:
+      - question: "Using another supine, say “a book difficult to read.”"
+        answer: "<latin>LIBER DIFFICILIS LECTU</latin>"
+      - question: "What declension's endings are used for the supine?"
+        answer: "FOURTH"
+  - tossup:
+      question: "What magistrate's duties included the <latin>cura urbis</latin>, the <latin>cura annonae</latin> and the <latin>cura ludorum</latin>?"
+      answer: "AEDILE"
+    boni:
+      - question: "What was the original duty of the plebeian aediles?"
+        answer: "SUPERVISION OF CERES' TEMPLE (AEDES) AND CULT"
+      - question: "In which assembly were the curule aediles (i.e., the patrician ones) elected?"
+        answer: "COMITIA TRIBUTA"
+  - tossup:
+      question: "Make <latin>aufers</latin> perfect."
+      answer: "<latin>ABSTULISTI</latin>"
+    boni:
+      - question: "Make <latin>abstulisti</latin> passive."
+        answer: "<latin>ABLATUS ES</latin>"
+      - question: "Make <latin>aufers</latin> plural."
+        answer: "<latin>AUFERTIS</latin>"
+  - tossup:
+      question: "Two prepositions, <latin>versus</latin> and <latin>tenus</latin>, are remarkable for what irregularity?"
+      answer: "THEY FOLLOW THEIR OBJECTS"
+    boni:
+      - question: "What case does <latin>tenus</latin> govern?"
+        answer: "ABLATIVE (OR GENITIVE)"
+      - question: "What case does <latin>versus</latin> govern?"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "What did Trojan allies named Coroebus and Othryoneus have in common?"
+      answer: "THEY BOTH JOINED UP IN HOPES OF MARRYING CASSANDRA"
+    boni:
+      - question: "Who were the two sons Cassandra bore Agamemnon, for five points each?"
+        answer: "PELOPS AND TELEDAMUS"
+  - tossup:
+      question: "Who was the most important historian contemporary with Augustus?"
+      answer: "(T.) LIVY / LIVIUS"
+    boni:
+      - question: "What did he name his work?"
+        answer: "<latin><title>AB URBE CONDITA</title></latin>"
+      - question: "Into how many books is it divided?"
+        answer: "142"
+  - tossup:
+      question: "What is the name for the construction that uses a participle and shows obligation or necessity?"
+      answer: "PASSIVE PERIPHRASTIC"
+    boni:
+      - question: "What case in that construction shows agent?"
+        answer: "DATIVE"
+      - question: "What two cases show definite and indefinite price respectively?"
+        answer: "DEFINITE - ABLATIVE INDEFINITE - GENITIVE"
+  - tossup:
+      question: "Distinguish between <latin>nix</latin> and <latin>vix</latin>."
+      answer: "<latin>NIX</latin> - SNOW, <latin>VIX</latin> - HARDLY, BARELY"
+    boni:
+      - question: "Distinguish between <latin>pax</latin> and <latin>prex</latin>."
+        answer: "<latin>PAX</latin> - PEACE <latin>PREX</latin> - PRAYER"
+      - question: "Distinguish between <latin>nex</latin> and <latin>nux</latin>."
+        answer: "<latin>NUX</latin> - NUT <latin>NEX</latin> - MURDER, SLAUGHTER, DEATH"
+  - tossup:
+      question: "What Latin noun is the root of “colonel”?"
+      answer: "<latin>COLUMNA</latin>"
+    boni:
+      - question: "Which of these has a classical Latin root: arsenal, armistice, admiral?"
+        answer: "ARMISTICE"
+      - question: "What Latin verb is the root of “sergeant”?"
+        answer: "<latin>SERVIO, SERVIRE</latin>"
+  - tossup:
+      question: "What arch in the Forum stands just outside the <latin>Curia</latin>?"
+      answer: "THE ARCH OF SEPTIMIUS SEVERUS"
+    boni:
+      - question: "What arch commemorates the fall of Jerusalem?"
+        answer: "THE ARCH OF TITUS"
+      - question: "What arch stands between the Forum and the Colosseum?"
+        answer: "THE ARCH OF CONSTANTINE"
+  - tossup:
+      question: "Who was the consul who commanded the blockade and eventual destruction of Carthage in 146 BC?"
+      answer: "(P. CORNELIUS) SCIPIO AEMILIANUS / AFRICANUS MINOR / NUMANTIUS"
+    boni:
+      - question: "What cousin of Aemilianus was the first Roman over the wall at Carthage?"
+        answer: "TIBERIUS (SEMPRONIUS) GRACCHUS"
+      - question: "What cousin of Aemilianus served under his command at the destruction of Numantia in 133 BC?"
+        answer: "GAIUS (SEMPRONIUS) GRACCHUS"
+  - tossup:
+      question: "What author was banished from 41 to 49 AD?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "To where was he banished?"
+        answer: "CORSICA"
+      - question: "What was his alleged crime?"
+        answer: "ADULTERY WITH CALIGULA'S SISTER (JULIA LIVILLA)"
+  - tossup:
+      question: "What Latin verb is the root of “vault”?"
+      answer: "<latin>VOLVO</latin>"
+    boni:
+      - question: "What verb is the root of “fault”?"
+        answer: "<latin>FALLO</latin>"
+      - question: "What verb is the root of “assault”?"
+        answer: "<latin>SALIO</latin>"

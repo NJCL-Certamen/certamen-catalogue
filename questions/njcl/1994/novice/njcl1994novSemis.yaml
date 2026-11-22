@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What son of Poseidon blew a conch shell trumpet?"
+      answer: "TRITON"
+    boni:
+      - question: "Whom did he direct out of a lake in Africa?"
+        answer: "JASON or THE ARGONAUTS"
+      - question: "A clod of earth he gave them later became what?"
+        answer: "THE ISLAND OF THERA (CALLISTE)"
+  - tossup:
+      question: "Change the verb form <latin>regis</latin> to plural."
+      answer: "REGITIS"
+    boni:
+      - question: "Change the noun form <latin>regis</latin> to plural."
+        answer: "REGUM"
+      - question: "Change <latin>regis</latin> to perfect."
+        answer: "REXISTI"
+  - tossup:
+      question: "What Spartan mercenary was instrumental in Carthaginian success against Rome in the First Punic War?"
+      answer: "XANTHIPPUS"
+    boni:
+      - question: "Who was the defeated Roman general?"
+        answer: "REGULUS"
+      - question: "What was the year of Regulus' defeat in Africa?"
+        answer: "255BC"
+  - tossup:
+      question: "Change <latin>pater</latin> to dative."
+      answer: "PATRI"
+    boni:
+      - question: "Change <latin>patri</latin> to plural."
+        answer: "PATRIBUS"
+      - question: "Change <latin>patribus</latin> to genitive."
+        answer: "PATRUM"
+  - tossup:
+      question: "What lay at the center of a Roman <latin>castra</latin>?"
+      answer: "PRAETORIUM (general's tent, staff tent)"
+    boni:
+      - question: "In a permanent camp, the praetorium became the general's quarters. What was the name of the headquarters tent?"
+        answer: "PRINCIPIA"
+      - question: "What was the principal road through camp?"
+        answer: "VIA PRINCIPALIS"
+  - tossup:
+      question: "What is the difference between a deponent and a semi-deponent verb?"
+      answer: "DEPONENT = ENTIRELY PASSIVE IN FORM, ACTIVE IN MEANING"
+    boni:
+      - question: ""
+        answer: "SEMI-DEPONENT = DEPONENT IN PERFECT SYSTEM ONLY"
+      - question: "What is a defective verb? Give an example of a reduplicated perfect?"
+        answer: "ONE MISSING ANY FORMS - // OFTEN USED TO MEAN MISSING ENTIRE PRESENT SYSTEM // DIDICI, SPOPONDI, FEFELLI, PEPERI, ETC."
+  - tossup:
+      question: "What Latin noun is the root of “ounce”?"
+      answer: "UNCIA"
+    boni:
+      - question: "What Latin noun is the root of “pound”?"
+        answer: "PONDUS"
+      - question: "What Latin verb is the root of “pint”?"
+        answer: "PINGO"
+  - tossup:
+      question: "What hero was sent to find the Golden Fleece?"
+      answer: "JASON"
+    boni:
+      - question: "What sorceress aided him?"
+        answer: "MEDEA"
+      - question: "Name the ship he sailed on."
+        answer: "ARGO"
+  - tossup:
+      question: "What god invented the lute or cithara?"
+      answer: "APOLLO"
+    boni:
+      - question: "What satyr foolishly challenged Apollo to a competition in music?"
+        answer: "MARSYAS"
+      - question: "What was Marsyas' instrument?"
+        answer: "FLUTE"
+  - tossup:
+      question: "To what kingdom did Paris have to go to fetch Helen?"
+      answer: "SPARTA"
+    boni:
+      - question: "Who was the king?"
+        answer: "MENELAUS"
+      - question: "Where was Menelaus' brother Agamemnon king?"
+        answer: "MYCENAE"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of “donate”?"
+      answer: "DONUM = GIFT"
+    boni:
+      - question: "What verb is the most basic root of “captivate”?"
+        answer: "CAPIO"
+      - question: "Name and define the verb at the root of “derogatory”?"
+        answer: "ROGO = ASK"
+  - tossup:
+      question: "How must a relative pronoun agree with its antecedent?"
+      answer: "GENDER AND NUMBER"
+    boni:
+      - question: "What determines its case?"
+        answer: "ITS USE IN ITS OWN CLAUSE"
+      - question: "What is the process by which it sometimes shares its antecedent's case despite its function within its own clause?"
+        answer: "CASE BY ATTRACTION"
+  - tossup:
+      question: ""
+      answer: "Surge et stans in uno pede iunge manus super caput."
+    boni:
+      - question: ""
+        answer: "PLAYER SHOULD STAND ON ONE FOOT AND CLASP HANDS ABOVE (OR ON TOP OF) HIS/HER HEAD."
+      - question: "Dux, tene umeros socii tui."
+        answer: "Surgite, omnes, et ponite manus sub mentis. // WHOLE TEAM SHOULD STAND AND PUT HANDS BENEATH THEIR CHINS. // CAPTAIN SHOULD GRAB THE SHOULDERS OF A TEAMMATE. // Round C10, Page 3"
+  - tossup:
+      question: "Who was the ringleader of a conspiracy to assassinate Nero which led to the deaths of prominent authors?"
+      answer: "GAIUS CALPURNIUS PISO"
+    boni:
+      - question: "Who was commander of Gallia Lugdunensis who began a rebellion against Nero?"
+        answer: "VINDEX"
+      - question: "Who led the army that crushed Vindex' rebellion?"
+        answer: "LUCIUS VERGINIUS RUFUS"
+  - tossup:
+      question: "What animals carried Dionysus across a river and were placed in the heavens as constellations?"
+      answer: "ASSES"
+    boni:
+      - question: "What further reward did the god give to one of them?"
+        answer: "SPEECH"
+      - question: "What deity, offended by something the ass said, killed the talking mule?"
+        answer: "PRIAPUS"
+  - tossup:
+      question: "Rome's hills traditionally numbered how many?"
+      answer: "SEVEN"
+    boni:
+      - question: "Do they all lie on the same side of the Tiber?"
+        answer: "YES"
+      - question: "What bank is it - east or west?"
+        answer: "EAST"
+  - tossup:
+      question: "Which of these verbs is not in the same conjugation as the others: monstro, amo, fluo, voco?"
+      answer: "FLUO"
+    boni:
+      - question: "Which of these nouns is not of the same gender as the others: filia, arma, aqua, laurus?"
+        answer: "ARMA"
+      - question: "Which of these adjectives does not drop the -e- in its stem: noster, miser, pulcher, piger?"
+        answer: "MISER"
+  - tossup:
+      question: "What member of the First Triumvirate was the richest man in town?"
+      answer: "CRASSUS"
+    boni:
+      - question: "Where did Crassus die?"
+        answer: "THE BATTLE OF CARRHAE (PARTHIA)"
+      - question: "Who was offered but did not take the spot on the triumvirate that went to Crassus?"
+        answer: "CICERO"
+  - tossup:
+      question: "What Latin word is abbreviated vs.?"
+      answer: "VERSUS"
+    boni:
+      - question: "What Latin phrase is abbreviated ad loc.?"
+        answer: "AD LOCUM"
+      - question: "What Latin phrase is abbreviated ad val.?"
+        answer: "AD VALOREM"
+  - tossup:
+      question: "Marcus has gotten a 50 on his vocabulary quiz. What symbol is written on the top of his wax tablet?"
+      answer: "L"
+    boni:
+      - question: "What is the Latin word for “fifty”?"
+        answer: "QUINQUAGINTA"
+      - question: "What is the abbreviation for five hundred?"
+        answer: "D // #"

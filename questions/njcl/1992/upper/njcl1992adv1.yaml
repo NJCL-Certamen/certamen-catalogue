@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What verb form replaces the non-existent nominative of the gerund?"
+      answer: "THE INFINITIVE"
+    boni:
+      - question: "How many forms of the gerund are there?"
+        answer: "FOUR"
+      - question: "What variation on the gerund is fully declined and is used with object nouns?"
+        answer: "THE GERUNDIVE"
+  - tossup:
+      question: "How many letters comprise the Greek alphabet?"
+      answer: "24"
+    boni:
+      - question: "How many are vowels?"
+        answer: "7"
+      - question: ""
+        answer: "Name a pair of Greek vowels in which one is the short version and the other the long of the same Latin vowel. // EPSILON AND ETA or OMICRON AND OMEGA"
+  - tossup:
+      question: "What leader of the Lemnian women secretly saved her father's life in spite of the women's pact to kill all the men on Lemnos?"
+      answer: "HYPSIPYLE"
+    boni:
+      - question: "Who was Hypsipyle's father?"
+        answer: "THOAS"
+      - question: "To whom did she bear two sons, including the next king, Euneus?"
+        answer: "JASON"
+  - tossup:
+      question: ""
+      answer: "What case would be required for “wine” in this sentence: “Claudius had drunk enough wine but kept drinking.”"
+    boni:
+      - question: ""
+        answer: "GENITIVE"
+      - question: "Translate “more grain” in the sentence: “Egypt produced more grain than Italy.” Translate “more slaves:” “Gaul produced more slaves than Egypt.”"
+        answer: "PLUS FRUMENTI // PLURES SERVOS"
+  - tossup:
+      question: "With whom did Leucippus, an ill-fated Greek prince, fall in love?"
+      answer: "DAPHNE"
+    boni:
+      - question: "Knowing she'd spurn a direct approach, how did he arrange to keep company with her?"
+        answer: "DISGUISED HIMSELF AS A WOMAN"
+      - question: "What happened when Daphne and her companions, motivated unknowingly by a jealous Apollo, discovered Leucippus' deceit?"
+        answer: "THEY KILLED HIM"
+  - tossup:
+      question: "What is the meaning of the root verb common to “cubicle” and “incumbent”?"
+      answer: "LIE DOWN, RECLINE"
+    boni:
+      - question: "What part of your body did the Romans call <emphasis>cubitus</emphasis>, from the same root?"
+        answer: "ELBOW"
+      - question: "What piece of equipment found in a hospital's maternity ward comes from the same root?"
+        answer: "INCUBATOR"
+  - tossup:
+      question: "What Latin adverb means “for a long time”?"
+      answer: "DIU"
+    boni:
+      - question: "What is its comparative?"
+        answer: "DIUTIUS"
+      - question: "What is its superlative?"
+        answer: "DIUTISSIME"
+  - tossup:
+      question: "What is the meaning of <emphasis>quam</emphasis> in this sentence: <emphasis>Nemo cantat dulcius quam soror tua</emphasis>?"
+      answer: "THAN"
+    boni:
+      - question: "In this sentence: <emphasis>Quam fabulam miles narravit</emphasis>?"
+        answer: "WHICH, WHAT"
+      - question: "In this sentence: <emphasis>Nuntium rogavi quam celeriter huc rediisset</emphasis>?"
+        answer: "HOW"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the verbs <emphasis>condo</emphasis> and <emphasis>candeo</emphasis>."
+    boni:
+      - question: ""
+        answer: "CONDO = FOUND, ESTABLISH CANDEO = GLOW, SHINE"
+      - question: ""
+        answer: "Distinguish in meaning between <emphasis>cerno</emphasis> and <emphasis>sterno</emphasis>. // CERNO = SEE, DISCERN STERNO = PUT DOWN, STRETCH OUT, EXTEND // Distinguish in meaning between <emphasis>mentior</emphasis> and <emphasis>metior</emphasis>. // MENTIOR = LIE, DECEIVE METIOR = MEASURE, DISTRIBUTE, METE"
+  - tossup:
+      question: "What distinction could be won by a Roman general who slew an enemy leader in single combat?"
+      answer: "SPOLIA OPIMA"
+    boni:
+      - question: "To what divinity were the first <emphasis>spolia opima</emphasis> dedicated?"
+        answer: "JUPITER FERETRIUS"
+      - question: "Who won them?"
+        answer: "ROMULUS"
+  - tossup:
+      question: "What Roman woman was most likely to be Lesbia of Catullus' verses?"
+      answer: "CLODIA"
+    boni:
+      - question: "Who was her husband?"
+        answer: "METELLUS (CELER)"
+      - question: "What defendant whose name is in the title of an oration by Cicero was also one of her lovers?"
+        answer: "CAELIUS"
+  - tossup:
+      question: "Plautus and Terence wrote in what genre?"
+      answer: "COMEDY"
+    boni:
+      - question: "Which one was earlier?"
+        answer: "PLAUTUS"
+      - question: "Which one came to Rome a slave?"
+        answer: "TERENCE"
+  - tossup:
+      question: "What Trojan prince got Helen when Paris was killed?"
+      answer: "DEIPHOBUS"
+    boni:
+      - question: "How did she try to get the Greeks in the horse to betray themselves?"
+        answer: "CALLED ON THEM IMITATING THEIR WIVES’ VOICES"
+      - question: "How did she make Deiphobus an easy victim before Menelaus and Odysseus reached his house?"
+        answer: "HID ALL HIS WEAPONS"
+  - tossup:
+      question: "Who was known at Eleusis as Kore?"
+      answer: "PERSEPHONE"
+    boni:
+      - question: "What nymph witnessed the abduction of Persephone?"
+        answer: "CYANE"
+      - question: "Who told that Persephone had eaten the pomegranate seeds?"
+        answer: "ASCALAPHUS"
+  - tossup:
+      question: "What country’s crown did Tiridates go to Rome to receive?"
+      answer: "ARMENIA’S"
+    boni:
+      - question: "From what emperor?"
+        answer: "NERO"
+      - question: "Who displaced Tiridates temporarily during his reign?"
+        answer: "TIGRANES V"
+  - tossup:
+      question: "What early king, according to legend, was fathered by a burning ember?"
+      answer: "SERVIUS TULLIUS"
+    boni:
+      - question: "Who was his mother?"
+        answer: "OCRISIA"
+      - question: "Who told his mother to stand in front of a fire?"
+        answer: "TANAQUIL"
+  - tossup:
+      question: "What Roman author begins his most important work: Urbem Romam a principio reges habuere?"
+      answer: "TACITUS"
+    boni:
+      - question: "What is the work?"
+        answer: "THE ANNALES"
+      - question: "What was Tacitus’ praenomen?"
+        answer: "WE DON’T KNOW"
+  - tossup:
+      question: "In what work of Roman literature do you find Dido writing a letter to Aeneas?"
+      answer: "THE HEROIDES"
+    boni:
+      - question: "Who composed it?"
+        answer: "OVID"
+      - question: "How many letter pairs are contained in it - a woman’s letter and a man’s reply?"
+        answer: "THREE (15 more are women’s letters only)"
+  - tossup:
+      question: "What expansionist king was defeated by Lucullus in 69BC?"
+      answer: "TIGRANES I (TIGRANES THE GREAT)"
+    boni:
+      - question: "What was Tigranes’ kingdom?"
+        answer: "ARMENIA"
+      - question: "Alliance with what other eastern monarch had set Tigranes against Rome?"
+        answer: "MITHRIDATES"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of <emphasis>toga</emphasis>?"
+      answer: "TEGO = COVER"
+    boni:
+      - question: "What noun with what meaning is the root of <emphasis>solea</emphasis>, “sandal”?"
+        answer: "SOLUM = DIRT, GROUND, SOIL"
+      - question: "What noun with what meaning is akin to <emphasis>palla</emphasis>?"
+        answer: "PELLIS = SKIN, PELT, HIDE // #"

@@ -1,0 +1,205 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What structure was built to house the Minotaur?"
+      answer: "THE LABYRINTH"
+    boni:
+      - question: "Who was the architect?"
+        answer: "DAEDALUS"
+      - question: "Who was Daedalus' ill-fated son?"
+        answer: "ICARUS"
+  - tossup:
+      question: "What Byzantine emperor commissioned a major codification of Roman law?"
+      answer: "JUSTINIAN"
+    boni:
+      - question: "Who was his empress?"
+        answer: "THEODORA"
+      - question: "What general of Justinian recaptured North Africa from the Vandals?"
+        answer: "BELISARIUS"
+  - tossup:
+      question: "Make audit plural."
+      answer: "AUDIUNT"
+    boni:
+      - question: "Make audiunt future."
+        answer: "AUDIENT"
+      - question: "Make audient first person singular."
+        answer: "AUDIAM"
+  - tossup:
+      question: "Translate: “they have watched.”"
+      answer: "SPECTAVERUNT"
+    boni:
+      - question: "Translate: “they have been watched.”"
+        answer: "SPECTATI SUNT"
+      - question: "Translate: “they were being watched.”"
+        answer: "SPECTABANTUR"
+  - tossup:
+      question: "Whom did Venus send to the Underworld to fetch her a jar of Proserpina's beauty?"
+      answer: "PSYCHE"
+    boni:
+      - question: "Who was sent there to bring back the three-headed dog Cerberus?"
+        answer: "HERCULES (not HERACLES!)"
+      - question: "Who went there with his friend Theseus to kidnap Proserpina herself?"
+        answer: "PIRITHOUS"
+  - tossup:
+      question: "What sea god was a mortal transformed by eating a strange herb?"
+      answer: "GLAUCUS"
+    boni:
+      - question: "What sea nymph did Glaucus fall in love with?"
+        answer: "SCYLLA"
+      - question: "Whom did he consult on how to win Scylla's love?"
+        answer: "CIRCE"
+  - tossup:
+      question: "What city asked Pyrrhus for help against Rome?"
+      answer: "TARENTUM"
+    boni:
+      - question: "What enemy of Rome took Tarentum by treachery in 213BC?"
+        answer: "HANNIBAL"
+      - question: "What major Latin colony elsewhere in southernmost Italy led to Tarentum's decline?"
+        answer: "BRUNDISIUM"
+  - tossup:
+      question: "Translate into Latin the English word “himself” in this sentence: “He saved himself a piece of pie.”"
+      answer: "SIBI"
+    boni:
+      - question: ""
+        answer: "Do the same for these:"
+      - question: "He baked the pie himself. He burned himself on the hand baking the pie."
+        answer: "IPSE // SE"
+  - tossup:
+      question: "What Latin noun with what meaning is contained in the English adjective “significant”?"
+      answer: "SIGNUM = SIGN, SIGNAL"
+    boni:
+      - question: "What Latin base verb with what meaning is contained in the English adjective “important”?"
+        answer: "PORTO = CARRY"
+      - question: "What Latin verb with what meaning is contained in the English adjective “essential”?"
+        answer: "SUM = BE"
+  - tossup:
+      question: "What is the nominative plural of the pronoun tu?"
+      answer: "VOS"
+    boni:
+      - question: "What is the corresponding possessive adjective?"
+        answer: "VESTER"
+      - question: "What construction does Latin use instead of the prepositional phrase cum vobis?"
+        answer: "VOBISCUM"
+  - tossup:
+      question: "Spell feminine."
+      answer: "F E M I N I N E"
+    boni:
+      - question: "Spell adjective."
+        answer: "A D J E C T I V E"
+      - question: "Spell possessive."
+        answer: "P O S S E S S I V E"
+  - tossup:
+      question: "How many emperors ruled in between the Flavian dynasty and the Five Good Emperors?"
+      answer: "NONE"
+    boni:
+      - question: "Who was the last of the Flavian emperors?"
+        answer: "DOMITIAN"
+      - question: "Who was the first of the Five Good Emperors?"
+        answer: "NERVA"
+  - tossup:
+      question: "What change in his garb did a young Roman make around the age of 15?"
+      answer: "HE PUT ON THE TOGA VIRILIS"
+    boni:
+      - question: "What garment did this replace?"
+        answer: "THE TOGA PRAETEXTA"
+      - question: "What garment did he wear under either one of them?"
+        answer: "TUNICA or SUBLIGACULUM"
+  - tossup:
+      question: "Give the ablative singular of the noun liber."
+      answer: "LIBRO"
+    boni:
+      - question: "Make libro plural."
+        answer: "LIBRIS"
+      - question: "Make libris genitive."
+        answer: "LIBRORUM"
+  - tossup:
+      question: "Who followed Tiberius as emperor?"
+      answer: "CALIGULA/GAIUS"
+    boni:
+      - question: "By what other name is he sometimes known?"
+        answer: "GAIUS/CALIGULA"
+      - question: "How did Caligula die?"
+        answer: "ASSASSINATED (IN PALACE REVOLT)"
+  - tossup:
+      question: "Translate with one word: “I am here.”"
+      answer: "ADSUM"
+    boni:
+      - question: "Translate with one word: “I am asleep.”"
+        answer: "DORMIO"
+      - question: "Translate with one word: “I am in charge.”"
+        answer: "PRAESUM"
+  - tossup:
+      question: "What basic verb is the root of “sedition”?"
+      answer: "DO"
+    boni:
+      - question: "What basic verb is the root of “obsession”?"
+        answer: "SEDEO"
+      - question: "What basic verb is the root of “transition”?"
+        answer: "EO"
+  - tossup:
+      question: "What is the Latin noun for “star”?"
+      answer: "STELLA/STELLA/SIDUS"
+    boni:
+      - question: "For “sun”?"
+        answer: "SOL"
+      - question: "For “moon”?"
+        answer: "LUNA"
+  - tossup:
+      question: "What was a rota?"
+      answer: "WHEEL"
+    boni:
+      - question: "What was a biga?"
+        answer: "TWO-HORSE CHARIOT"
+      - question: "What was a iugum?"
+        answer: "YOKE"
+  - tossup:
+      question: "Who punished Cassandra with unheeded prophecy?"
+      answer: "APOLLO"
+    boni:
+      - question: "What had she done to draw his anger?"
+        answer: "SPURNED HIS AFFECTIONS"
+      - question: "What Greek leader took Cassandra captive at the end of the war?"
+        answer: "AGAMEMNON"
+  - tossup:
+      question: "What verb is the source of the English noun “audacity”?"
+      answer: "AUDEO"
+    boni:
+      - question: "What verb is the source of the English verb “augment”?"
+        answer: "AUGEO"
+      - question: "What verb is the source of the English noun “audience”?"
+        answer: "AUDIO // ROUND C2, page 3"
+  - tossup:
+      question: "Give the full name of the great orator Cicero."
+      answer: "MARCUS TULLIUS CICERO"
+    boni:
+      - question: "Who was Cicero's beloved daughter?"
+        answer: "TULLIA"
+      - question: "Who was his son?"
+        answer: "MARCUS TULLIUS CICERO"
+  - tossup:
+      question: "Spell “declension.”"
+      answer: "D E C L E N S I O N"
+    boni:
+      - question: "Spell “grammar.”"
+        answer: "G R A M M A R"
+      - question: "Spell “interrogative.”"
+        answer: "I N T E R R O G A T I V E"
+  - tossup:
+      question: "What case would you need for “friends” in this sentence: “The people in that chariot are our friends”?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "In these sentences: “We made our friends a gift.”"
+        answer: "DATIVE"
+      - question: "“We changed our plans because of our friends.”"
+        answer: "ACCUSATIVE"
+  - tossup:
+      question: "Who was the Roman goddess of the dawn?"
+      answer: "AURORA"
+    boni:
+      - question: "What did the Greeks call her?"
+        answer: "EOS"
+      - question: "Who was the goddess of the rainbow?"
+        answer: "IRIS // #"

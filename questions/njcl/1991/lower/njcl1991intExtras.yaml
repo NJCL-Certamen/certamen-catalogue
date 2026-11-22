@@ -1,0 +1,68 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "How many years are in a sesquicentennial?"
+      answer: "150"
+  - tossup:
+      question: "Pone in mensa tuum mentum."
+      answer: "PLAYER SHOULD PUT HIS/HER CHIN ON TABLE."
+  - tossup:
+      question: "What is the perfect active infinitive of fallo?"
+      answer: "FEFELLISSE"
+  - tossup:
+      question: "What are the two possible singular versions of the plural noun spebus?"
+      answer: "SPE AND SPEI"
+  - tossup:
+      question: "Translate: Animalia liberos terrebunt."
+      answer: "THE ANIMALS WILL SCARE THE CHILDREN."
+  - tossup:
+      question: "Make nollem indicative."
+      answer: "NOLEBAM"
+  - tossup:
+      question: "What Latin word means “horn of plenty”?"
+      answer: "CORNUCOPIA"
+  - tossup:
+      question: "What cases can show price?"
+      answer: "GENITIVE AND ABLATIVE"
+  - tossup:
+      question: "What is the adverb of facilis?"
+      answer: "FACILE"
+  - tossup:
+      question: "Translate: Fortasse pacem mox habebimus."
+      answer: "PERHAPS WE WILL HAVE PEACE SOON."
+  - tossup:
+      question: "What monster was confounded by Oedipus?"
+      answer: "SPHINX"
+  - tossup:
+      question: "What myth explains the dark skins of the Ethiopians?"
+      answer: "PHAETHON'S CHARIOT"
+  - tossup:
+      question: "What island was guarded by Talus?"
+      answer: "CRETE"
+  - tossup:
+      question: "What son of Minos was killed in Attica?"
+      answer: "ANDROGEUS"
+  - tossup:
+      question: "Why did Theseus go to the Underworld while still living?"
+      answer: "TO KIDNAP PERSEPHONE/PROSEPINA"
+  - tossup:
+      question: "Which public official's duties were chiefly financial?"
+      answer: "THE QUAESTOR'S"
+  - tossup:
+      question: "What relation was Caligula to his successor?"
+      answer: "NEPHEW"
+  - tossup:
+      question: "What was the year of Cicero's birth?"
+      answer: "106BC"
+  - tossup:
+      question: "What virtuous woman's disgrace and suicide precipitated the downfall of Tarquinius Superbus?"
+      answer: "LUCRETIA'S"
+  - tossup:
+      question: "What was a secunda mensa?"
+      answer: "DESSERT"
+    boni:
+      - question: ""
+        answer: "#"

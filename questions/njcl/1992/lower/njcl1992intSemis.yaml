@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who were the Dioscuri?"
+      answer: "CASTOR AND POLLUX/POLYDEUCES"
+    boni:
+      - question: "In which battle did they help the Romans?"
+        answer: "LAKE REGILLUS"
+      - question: "Who were the Romans fighting there?"
+        answer: "THE LATINS"
+  - tossup:
+      question: "A sexual insult by the son of Tarquin the Proud drove what woman to commit suicide, beseeching her husband to avenge her?"
+      answer: "LUCRETIA"
+    boni:
+      - question: "Who was her husband?"
+        answer: "L. TARQUINIUS COLLATINUS"
+      - question: "Who was her rapist?"
+        answer: "SEXTUS TARQINIUS"
+  - tossup:
+      question: "Make potes subjunctive."
+      answer: "POSSIS"
+    boni:
+      - question: "Make possis imperfect."
+        answer: "POSSES"
+      - question: "Make posses perfect."
+        answer: "POTUERIS"
+  - tossup:
+      question: "What type of dependent subjunctive clause is made negative by ut non?"
+      answer: "RESULT"
+    boni:
+      - question: "What is the usual negative for a dependent subjunctive?"
+        answer: "NE"
+      - question: "What kind of negative clause might be introduced by ut alone?"
+        answer: "FEAR"
+  - tossup:
+      question: "Name Priam's youngest son, slaughtered in Thrace for his gold."
+      answer: "POLYDORUS"
+    boni:
+      - question: "What wicked king killed him?"
+        answer: "POLYMNESTOR/POLYMESTOR"
+      - question: "How did the dead Polydorus manifest himself to Aeneas?"
+        answer: "AS A BLEEDING BUSH GROWING FROM HIS GRAVE - IT BLED AS AENEAS PULLED IT FROM THE GROUND"
+  - tossup:
+      question: "What did a Roman call his breakfast?"
+      answer: "IENTACULUM"
+    boni:
+      - question: "His lunch?"
+        answer: "PRANDIUM"
+      - question: "His dinner?"
+        answer: "CENA"
+  - tossup:
+      question: "What Latin noun with what meaning is at the root of the English adjective “medieval”?"
+      answer: "AEVUM = AGE, GENERATION"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of the English noun “renaissance”?"
+        answer: "NASCOR = BE BORN"
+      - question: "What Latin adverb with what meaning is at the root of the English adjective “modern”?"
+        answer: "MODO = NOW, RIGHT NOW"
+  - tossup:
+      question: "Name the defective verb that is a synonym for incipio."
+      answer: "COEPI"
+    boni:
+      - question: "Name the unusual semi-deponent verb that is deponent in the present system and normal in the perfect."
+        answer: "REVERTOR"
+      - question: "Name the defective verb that is a synonym for possum."
+        answer: "QUEO"
+  - tossup:
+      question: "Give the Latin verb and its meaning from which is derived the English noun “fate.”"
+      answer: "FOR = SPEAK"
+    boni:
+      - question: "Give the Latin verb and its meaning from which is derived the English noun “feat.”"
+        answer: "FACIO = DO, MAKE"
+      - question: "Give the Latin adjective and its meaning from which is derived the English noun “fete”?"
+        answer: "FESTUS = FESTIVE"
+  - tossup:
+      question: "What is the first person singular future perfect active of scribo?"
+      answer: "SCRIPSERO"
+    boni:
+      - question: "What is the third person plural perfect passive subjunctive of peto?"
+        answer: "PETITI SINT"
+      - question: "What is the third person singular imperfect active subjunctive of dico?"
+        answer: "DICERET"
+  - tossup:
+      question: "What maiden was transformed into a doe by Artemis trying to keep her from Zeus' amorous clutches?"
+      answer: "TAYGETE"
+    boni:
+      - question: "Whom did Zeus father on Taygete in spite of Artemis' efforts?"
+        answer: "LACEDAEMON"
+      - question: "What group was Taygete a member of?"
+        answer: "THE PLEIADES"
+  - tossup:
+      question: "In what later province was a revolt against Rome in 6AD led by two men named Bato?"
+      answer: "PANNONIA"
+    boni:
+      - question: "Who led the Roman force that suppressed it?"
+        answer: "TIBERIUS"
+      - question: "What member of the imperial family earned his first laurels in the suppression of this revolt?"
+        answer: "GERMANICUS"
+  - tossup:
+      question: "Quid sanguinem per corpus impellit?"
+      answer: "COR"
+    boni:
+      - question: "Qua gustamus?"
+        answer: "LINGUA"
+      - question: "Quo olfacimus?"
+        answer: "NASO"
+  - tossup:
+      question: "What king, son of a Trojan mother, gave Aeneas a friendly welcome at Eryx in Sicily?"
+      answer: "ACESTES"
+    boni:
+      - question: "Why did the Trojans hold funeral games at Eryx?"
+        answer: "IN ANCHISES' MEMORY - HIS GAMES WERE OVERDUE"
+      - question: "What act of destruction almost stranded them there?"
+        answer: "AT JUNO'S URGING, SOME OF THE WOMEN TRIED TO TORCH THE SHIPS"
+  - tossup:
+      question: ""
+      answer: "Name the henchman of Julius Caesar who died in 52BC in a riot precipitated by gang warfare."
+    boni:
+      - question: ""
+        answer: "CLODIUS"
+      - question: "Who was made sole consul to suppress the rioting?"
+        answer: "Name the leader of the rival gang and his prominent patron. // MILO AND POMPEY // POMPEY"
+  - tossup:
+      question: "What was the occupation of a fullo?"
+      answer: "DRYCLEANER"
+    boni:
+      - question: "What was the occupation of a fur?"
+        answer: "THIEF"
+      - question: "What was the occupation of a chirurqus?"
+        answer: "SURGEON"
+  - tossup:
+      question: "Though events differ widely among accounts of Cybele, who is always her consort?"
+      answer: "ATTIS"
+    boni:
+      - question: "What injury does he always suffer?"
+        answer: "CASTRATION"
+      - question: "What tree is sacred to him?"
+        answer: "PINE"
+  - tossup:
+      question: ""
+      answer: "Translate: Nos discedere iubebunt."
+    boni:
+      - question: ""
+        answer: "THEY WILL ORDER US TO LEAVE."
+      - question: ""
+        answer: "Translate: Nos prima luce Romam discedere iubebunt. // THEY WILL ORDER US TO LEAVE FOR ROME AT FIRST LIGHT. // Translate: Nostri duces nos prima luce maxima cum celeritate Romam discedere iubebunt. // OUR LEADERS WILL ORDER US TO LEAVE FOR ROME WITH THE GREATEST HASTE AT FIRST LIGHT."
+  - tossup:
+      question: "What woman, the mother of Jason, killed herself after her husband's forced suicide?"
+      answer: "ALCIMEDE"
+    boni:
+      - question: "What younger son of Alcimede was killed by Pelias, the usurper of her husband's throne?"
+        answer: "PROMACHUS"
+      - question: "What poison did Pelias force Aeson, Alcimede's husband, to drink?"
+        answer: "BULL'S BLOOD"
+  - tossup:
+      question: "Nine days after what kind of ceremony would a Roman perform a <emphasis>sacrificium novendiale</emphasis>?"
+      answer: "FUNERAL"
+    boni:
+      - question: "What part of a funeral was a <emphasis>silicernium</emphasis>?"
+        answer: "MEAL SHARED BY MOURNERS AFTER THE FUNERAL"
+      - question: "What kind of animal was sacrificed after the funeral itself?"
+        answer: "A PIG // #"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who founded the city of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "What type of animal was to indicate the site for his city?"
+        answer: "A COW"
+      - question: "What Phoenician invention did Cadmus give to the Greek world?"
+        answer: "THE ALPHABET"
+  - tossup:
+      question: "Differentiate in meaning between ūtor and uter."
+      answer: "ŪTOR -- USE, EMPLOY, MANAGE"
+    boni:
+      - question: ""
+        answer: "UTER -- WHICH (OF TWO)"
+      - question: "...between ultor and ultrā....between fullo and fulmen."
+        answer: "ULTOR -- AVENGER // ULTRĀ -- BEYOND // FULLO -- FULLER, DRY CLEANER // FULMEN -- LIGHTNING, THUNDERBOLT"
+  - tossup:
+      question: "What tense would be used to translate “command” in this sentence: The general is sending his best lieutenant to command the troops."
+      answer: "PRESENT"
+    boni:
+      - question: "The general does not fear that he has commanded poorly."
+        answer: "PERFECT"
+      - question: "The general thought that he was commanding his troops well."
+        answer: "PRESENT"
+  - tossup:
+      question: "Who tricked Hades into trying on a pair of golden handcuffs?"
+      answer: "SISYPHUS"
+    boni:
+      - question: "What could not happen as long as Hades was a prisoner?"
+        answer: "DEATH"
+      - question: "Who rescued Hades?"
+        answer: "ARES"
+  - tossup:
+      question: "Who was the first man to be given proconsular imperium without having served as consul?"
+      answer: "SCIPIO AFRICANUS (MAIOR)"
+    boni:
+      - question: "His imperium was for the command in what area?"
+        answer: "SPAIN"
+      - question: "At what battle had Scipio saved his father's life?"
+        answer: "TICINUS (RIVER)"
+  - tossup:
+      question: "Change vulnera gravia to genitive."
+      answer: "VULNERUM GRAVIUM"
+    boni:
+      - question: "Change vulnerum gravium to singular."
+        answer: "VULNERIS GRAVIS"
+      - question: "Change vulneris gravis to accusative."
+        answer: "VULNUS GRAVE"
+  - tossup:
+      question: ""
+      answer: "What two uses of the ablative are found in the following sentence:"
+    boni:
+      - question: ""
+        answer: "Prīmā lūce Rōmānī ē portū nāvigāvērunt."
+      - question: "Gāius, acceptīs litterīs, gladiō sē necāvit."
+        answer: "TIME WITHIN WHICH / WHEN / AT WHICH, PLACE FROM WHICH // ABSOLUTE, MEANS / INSTRUMENT // 4 // B2pg2 // Avaritia rēgēs aurō fruuntur. // CAUSE, SPECIAL VERBS (MEANS)"
+  - tossup:
+      question: "Who was the tutor of Jason?"
+      answer: "CHIRON"
+    boni:
+      - question: "Who was said to be the father of the Centaurs?"
+        answer: "IXION / CENTAURUS"
+      - question: "To whom did Chiron give his immortality?"
+        answer: "PROMETHEUS"
+  - tossup:
+      question: ""
+      answer: "Translate: Quīntus ad tabernam ambulāvit ad emendās novās togās."
+    boni:
+      - question: ""
+        answer: "QUINTUS WALKED TO THE SHOP TO BUY NEW TOGAS"
+      - question: "Quis est quī emere novam togam nōlit?"
+        answer: "Quīntus ancillam ad tabernam mīsit quae novās togās emeret. // QUINTUS SENT THE SLAVE GIRL TO THE SHOP TO BUY NEW TOGAS // WHO IS THERE WHO DOESN'T WANT TO BUY A NEW TOGA"
+  - tossup:
+      question: "Give a synonym of cōnor."
+      answer: "PERĪCLITOR / TEMPTŌ / EXPERIOR"
+    boni:
+      - question: "Give a synonym of dēficiō."
+        answer: "DĒSUM"
+      - question: "Give a synonym of rogō."
+        answer: "POSCŌ / PETŌ / QUAERŌ / ORŌ"
+  - tossup:
+      question: "What Latin phrase would best describe Vergil's Aeneid as his “masterpiece?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "MAGNUM OPUS"
+      - question: "Which phrase would best describe Vergil's Aeneid as a necessity of the classroom? Which phrase would best describe Vergil's Aeneid as a reference book regularly carried in the pockets of classicists?"
+        answer: "SINE QUA NON // VADE MECUM"
+  - tossup:
+      question: "In a Roman camp, what was the valetudinarium?"
+      answer: "INFIRMARY, BASE HOSPITAL, DISPENSARY"
+    boni:
+      - question: "What was the rampart that encircled the camp?"
+        answer: "VALLUM"
+      - question: "What was the main cross-street, intersecting the via prīncipālis?"
+        answer: "VIA QUINTANA"
+  - tossup:
+      question: "Who assured Penelope that her husband Odysseus was alive and returning home?"
+      answer: "ODYSSEUS DISGUISED AS A BEGGAR"
+    boni:
+      - question: "How did Odysseus prove to Penelope that he was her long-absent husband?"
+        answer: "KNEW SECRET OF THEIR BED WHICH HE HAD CARVED FROM A LIVING (OLIVE) TREE"
+      - question: "How had Odysseus won Penelope's hand in marriage?"
+        answer: "WON A FOOT RACE (IN SPARTA)"
+  - tossup:
+      question: "Who was the first emperor from the Severan dynasty?"
+      answer: "SEPTIMIUS (SEVERUS)"
+    boni:
+      - question: "Septimius was a native of Leptis Magna, in what province?"
+        answer: "AFRICA"
+      - question: "Septimius was succeeded by his two warring sons. Who killed whom?"
+        answer: "CARACALLA KILLED GETA"
+  - tossup:
+      question: "Who was the Roman governor who circumnavigated Britain?"
+      answer: "(GNAEUS IULIUS) AGRICOLA"
+    boni:
+      - question: "Where did Agricola defeat the “Scottish” Highlanders or Caledonians in AD 84?"
+        answer: "MONS GRAUPIUS"
+      - question: "Which emperor recalled Agricola in AD 84?"
+        answer: "DOMITIAN"
+  - tossup:
+      question: "What does the idiom in viam sē dāre mean?"
+      answer: "SET OUT / START OUT ON A JOURNEY"
+    boni:
+      - question: "What Latin idiom with dāre means “cheat?"
+        answer: "” VERBA DĀRE"
+      - question: "What does the idiom nōmen dāre mean?"
+        answer: "ENLIST, ENROLL, VOLUNTEER"
+  - tossup:
+      question: "The Trojan Horse was supposedly a gift to what deity?"
+      answer: "ATHENA, MINERVA, PALLAS"
+    boni:
+      - question: "Where did the Greek fleet hide after leaving the horse?"
+        answer: "(BEHIND) TENEDOS (A NEARBY ISLAND)"
+      - question: "What person did they leave behind to convince the Trojans to take the horse into the city?"
+        answer: "SINON"
+  - tossup:
+      question: "With whom did Titus Tatius rule Rome?"
+      answer: "ROMULUS"
+    boni:
+      - question: "In whose reign did the Horatii and Curiatii fight?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "Which king is credited with the building of the Regia?"
+        answer: "NUMA POMPILIUS"
+  - tossup:
+      question: "What English word for a form of bread comes via French from the Latin meaning “twice cooked?"
+      answer: "” BISCUIT"
+    boni:
+      - question: "What other form of bread comes from torreō?"
+        answer: "TOAST"
+      - question: "Of these things to eat on toast or biscuits, which is NOT a Latin derivative: jelly, jam, marmalade, preserves?"
+        answer: "JAM"
+  - tossup:
+      question: "Fac sonum rānae."
+      answer: "PLAYER SHOULD SOUND LIKE A FROG"
+    boni:
+      - question: "Stāte et simulāte sīmiās."
+        answer: "ALL PLAYERS SHOULD STAND AND ACT LIKE MONKEYS"
+      - question: "Fac sonum rēgis silvae."
+        answer: "ONE PLAYER SHOULD SOUND LIKE A LION // 6"

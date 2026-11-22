@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What two cases can show agent?"
+      answer: "DATIVE AND ABLATIVE"
+    boni:
+      - question: "What two cases can show possession?"
+        answer: "GENITIVE AND DATIVE"
+      - question: "What two cases can show description?"
+        answer: "GENITIVE AND ABLATIVE"
+  - tossup:
+      question: "What two other categories exist for numbers besides ordinal and cardinal?"
+      answer: "ADVERBIAL AND DISTRIBUTIVE"
+    boni:
+      - question: "For “two,” duo is cardinal and secundus is ordinal. Give the distributive."
+        answer: "BINI (BINAE, BINA)"
+      - question: "Give the adverbial."
+        answer: "BIS"
+  - tossup:
+      question: ""
+      answer: "Pone pollices sub mento."
+    boni:
+      - question: ""
+        answer: "PLAYER SHOULD PLACE HIS THUMBS BENEATH HIS CHIN."
+      - question: ""
+        answer: "Ponite duos digitos post quemque aurem. // ALL PLAYERS SHOULD PLACE TWO FINGERS BEHIND EACH EAR. // Dextris manibus tenete sinistros umeros post capita. // ALL PLAYERS SHOULD GRASP THEIR LEFT SHOULDERS WITH THEIR RIGHT HANDS BEHIND THEIR HEADS."
+  - tossup:
+      question: "Who was the minstrel forced to entertain Penelope's suitors?"
+      answer: "PHEMIUS"
+    boni:
+      - question: "Who was the bard singing of Troy who brought Odysseus to tears?"
+        answer: "DEMODOCUS"
+      - question: "Where did Odysseus encounter him?"
+        answer: "KING ALCINOUS' COURT ON SCHERIA"
+  - tossup:
+      question: "Who was the father of brothers named Deicoon, Creontidas and Thersimachus?"
+      answer: "HERACLES"
+    boni:
+      - question: "Who was their mother?"
+        answer: "MEGARA"
+      - question: "How did mother and sons die?"
+        answer: "KILLED BY HERACLES IN HIS MADNESS"
+  - tossup:
+      question: "What goddess turned Aeneas' ships into nymphs?"
+      answer: "CYBELE"
+    boni:
+      - question: "What was the threat to the ships she was foiling?"
+        answer: "TURNUS WAS TRYING TO BURN THEM"
+      - question: "Why was she so protective of these ships?"
+        answer: "THEY WERE MADE FROM PINES GROWN ON HER SACRED MT. IDA"
+  - tossup:
+      question: "Athena hurled a thunderbolt and destroyed the ship carrying her nemesis Ajax the Lesser, but he still managed to swim ashore. What deity then finally ended his impious life?"
+      answer: "POSEIDON"
+    boni:
+      - question: "How had Ajax protected himself from his fellow Greeks when they wanted to kill him for raping Cassandra and offending Athena?"
+        answer: "HE CLUNG TO THE STATUE OF ATHENA HE‘D OVERTURNED"
+      - question: "What did his people, the Locrians, have to do after his death to atone for his impiety?"
+        answer: "SEND TWO VIRGINS YEARLY TO SERVE ATHENA’S TEMPLE IN TROY"
+  - tossup:
+      question: "Who was the mother of the Fates?"
+      answer: "NYX or THEMIS"
+    boni:
+      - question: "What other divine trio were their sisters?"
+        answer: "THE HORAE"
+      - question: "What was the duty on Olympus of the Horae?"
+        answer: "THEY ROLLED BACK THE CLOUDS FROM THE GATES WHEN THE GODS DROVE THEIR CHARIOTS THROUGH"
+  - tossup:
+      question: "What island was Julia, Augustus’ daughter, banished to?"
+      answer: "PANDATERIA"
+    boni:
+      - question: "Who voluntarily shared Julia’s exile?"
+        answer: "HER MOTHER SCRIBONIA"
+      - question: "What divorced wife of another emperor was banished to Pandateria years later?"
+        answer: "NERO’S WIFE OCTAVIA (DAUGHTER OF CLAUDIUS AND MESSALINA)"
+  - tossup:
+      question: "What interrogative adjective expects an ordinal number?"
+      answer: "QUOTUS"
+    boni:
+      - question: "What interrogative adjective expects a cardinal number?"
+        answer: "QUOT"
+      - question: "What interrogative adjective expects a distributive number?"
+        answer: "QUOTIENS"
+  - tossup:
+      question: "What is the third principal part of lego?"
+      answer: "LEG1"
+    boni:
+      - question: "What is the third principal part of its compound neglego?"
+        answer: "NEGLEXI"
+      - question: "What is the third principal part of its compound allego?"
+        answer: "ALLEGI"
+  - tossup:
+      question: "Romani multos deos colebant, sed Iuppiter supremus inter deos erat. Quem super ceteros deos Romani colebant?"
+      answer: "IOVEM"
+    boni:
+      - question: "Cui deae pavo carus erat?"
+        answer: "IUNONI"
+      - question: "Qui deus currum per caelum agebat?"
+        answer: "APOLLO // ROUND B100, page 3"
+  - tossup:
+      question: "When Caesar built his Basilica Julia, what earlier basilica did it replace?"
+      answer: "BASILICA SEMPRONIA"
+    boni:
+      - question: "What nearby basilica was restored at the same time?"
+        answer: "BASILICA AEMILIA"
+      - question: "A column and later the Shrine of the Divine Julius marked the site of what?"
+        answer: "CAESAR'S FUNERAL PYRE"
+  - tossup:
+      question: "What basic Latin verb, with what meaning, gives us the noun “ransom”?"
+      answer: "EMO = BUY"
+    boni:
+      - question: "What compound of emo is the root of “ransom”?"
+        answer: "REDIMO"
+      - question: "What verb with what meaning is the root of “reason”?"
+        answer: "REOR = THINK"
+  - tossup:
+      question: "What flower's name means “little sword”?"
+      answer: "GLADIOLUS"
+    boni:
+      - question: "What Greek-derived name refers to plants like the sunflower?"
+        answer: "HELIOTROPE"
+      - question: "Give the three Latin roots in the word “dandelion.”"
+        answer: "DENS DE LEO"
+  - tossup:
+      question: "What did the Senate pass to deal with the violence surrounding the repeal of Gaius Gracchus' lex Rubria in 121BC?"
+      answer: "(THE FIRST) SENATUS CONSULTUM ULTIMUM"
+    boni:
+      - question: "What had the lex Rubria established?"
+        answer: "THE COLONY OF IUNONIA AT CARTHAGE"
+      - question: "Name the consul who defeated the Gracchans and executed the survivors."
+        answer: "OPIMIUS"
+  - tossup:
+      question: "Translate: Utinam rex essem!"
+      answer: "IF ONLY I WERE KING!"
+    boni:
+      - question: "What kind of wish is that?"
+        answer: "CONTRARY TO FACT"
+      - question: "Translate into Latin: “If only I weren't so good-looking!”"
+        answer: "UTINAM NE ADEO/TAM PULCHER/PULCHRA ESSEM!"
+  - tossup:
+      question: "What do compound means “lose” or “waste”?"
+      answer: "PERDO"
+    boni:
+      - question: "What do compound means “surround”?"
+        answer: "CIRCUMDO"
+      - question: "What do compound means “hand down”?"
+        answer: "TRADO"
+  - tossup:
+      question: "The Romans had several stories to explain the Lacus Curtius in the Forum. In one of them, a Sabine hero fell into the hole while fleeing Romulus' charge. Who was he?"
+      answer: "METTIUS CURTIUS"
+    boni:
+      - question: "What Roman hero had Mettius Curtius killed in single combat?"
+        answer: "HOSTUS HOSTILIUS"
+      - question: "What taunt had Mettius Curtius then hurled at the Romans, provoking Romulus' charge?"
+        answer: "HE SAID THEY WERE BETTER AT CATCHING GIRLS THAN AT FIGHTING MEN"
+  - tossup:
+      question: "Who were the priests of Mars whose name meant “leapers”?"
+      answer: "THE SALII"
+    boni:
+      - question: "What group of priests presided over treaties and declarations of war?"
+        answer: "THE FETIALES"
+      - question: "What group of priests were responsible for the worship of 15 specific old Latin deities, including Jupiter, Quirinus, Pales and Portunus?"
+        answer: "THE FLAMINES // #"

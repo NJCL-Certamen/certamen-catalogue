@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What case and number of the personal pronoun do not allow the -met suffix?"
+      answer: "GENITIVE PLURAL"
+    boni:
+      - question: "Tumet does not occur; name one of the two alternative emphatic versions of tu."
+        answer: "TUTE and TUTEMET/TUTIMET"
+      - question: "What earlier emphatic enclitic is found on me and te?"
+        answer: "- PTE"
+  - tossup:
+      question: "What Roman author wrote: <latin>Cedant arma togae</latin>?"
+      answer: "CICERO"
+    boni:
+      - question: "Who wrote: <latin>nos cedamus amori</latin>?"
+        answer: "VERGIL"
+      - question: "What more famous Latin quotation begins that line from the <latin>Eclogues</latin>?"
+        answer: "OMNIA VINCIT AMOR"
+  - tossup:
+      question: "A Latin phrase meaning “go with me” is used in English to mean a reference book. What is that phrase?"
+      answer: "VADE MECUM"
+    boni:
+      - question: "A Latin subjunctive verb form, now used in English to mean an official clearance or OK, once showed permission for a book to be printed. What is the Latin verb form?"
+        answer: "IMPRIMATUR"
+      - question: "Another Latin expression has a similar meaning because it was the Vatican's way of saying that nothing stood in the way of its being published. What is that Latin sentence?"
+        answer: "NIHIL OBSTAT"
+  - tossup:
+      question: "What historian of Rome was a Greek who was an eyewitness to the fall of Carthage?"
+      answer: "POLYBIUS"
+    boni:
+      - question: "To what Roman military leader's circle did he belong?"
+        answer: "SCIPIO AEMILIANUS' (AFRICANUS MINOR)"
+      - question: "What kind of accident took Polybius' life at an advanced age - at least 80?"
+        answer: "HE FELL OFF A HORSE"
+  - tossup:
+      question: "One Latin noun meaning “kiss” is actually a diminutive that has what literal meaning?"
+      answer: "LITTLE MOUTH (OSCULUM)"
+    boni:
+      - question: "A Latin noun for “uncle” is a diminutive that actually means what?"
+        answer: "LITTLE GRANDFATHER (AVUNCULUS)"
+      - question: "What English word for “handcuff” comes from a Latin diminutive meaning “little hand”?"
+        answer: "MANACLE"
+  - tossup:
+      question: ""
+      answer: "Without using epistula, translate the phrase “two letters” in the sentence: “Today I received two letters from my lover.”"
+    boni:
+      - question: ""
+        answer: "BINAS LITTERAS"
+      - question: "Translate “two letters” in: “There are two letters in do.” Translate “ten letters” in: “I have received ten letters from him since he left.”"
+        answer: "DUAE LITTERAE // DENAS LITTERAS"
+  - tossup:
+      question: "Who in 365BC became, according to some sources, the first plebeian dictator?"
+      answer: "C. MARCIUS RUTILUS"
+    boni:
+      - question: "Whom did he defeat?"
+        answer: "THE ETRUSCANS"
+      - question: "As a result of his victory, where could Rome build a settlement for the first time?"
+        answer: "OSTIA"
+  - tossup:
+      question: "Who were the two-eyed cannibals that plagued Odysseus?"
+      answer: "THE LAESTRYGONIANS"
+    boni:
+      - question: "What was their city where Odysseus landed?"
+        answer: "TELEPYLUS"
+      - question: "Who was their king, who ate Odysseus' herald?"
+        answer: "ANTIPHATES"
+  - tossup:
+      question: "What character of mythology was the subject of a lost play written by Julius Caesar in his youth?"
+      answer: "OEDIPUS"
+    boni:
+      - question: "What work of Cicero praises Caesar's literary talents?"
+        answer: "BRUTUS"
+      - question: "To what early writer did Caesar write a verse tribute?"
+        answer: "TERENCE"
+  - tossup:
+      question: "To help Zeus seduce what goddess did Aphrodite in the guise of an eagle pursue him in the guise of a swan?"
+      answer: "NEMESIS"
+    boni:
+      - question: "Why did Aphrodite punish Glaucus?"
+        answer: "HE WOULDN'T LET HIS MARES BREED"
+      - question: "How did she punish him?"
+        answer: "THE MARES ATE HIM"
+  - tossup:
+      question: "What later author states definitively that Catullus' Lesbia was really Clodia?"
+      answer: "APULEIUS"
+    boni:
+      - question: "In what work does he say so?"
+        answer: "APOLOGIA"
+      - question: "Against what charge was Apuleius defending himself with this rhetorical work?"
+        answer: "WITCHCRAFT // (that he had bewitched a rich widow into marrying him)"
+  - tossup:
+      question: "Livy tells us that a certain official, whose title arouses great speculation among historians, had to perform an odd ritual on the Ides of September. Who was this official?"
+      answer: "PRAETOR MAXIMUS"
+    boni:
+      - question: "What was his task that day?"
+        answer: "TO DRIVE A NAIL INTO THE WALL OF THE TEMPLE OF JUPITER CAPITOLINUS"
+      - question: "From what earlier historian does Livy tell us he drew this account?"
+        answer: "CINCIUS"
+  - tossup:
+      question: "What Roman festival included a ritual wherein young men, wearing only loincloths made of the skin of sacrificed animals, ran through the streets?"
+      answer: "LUPERCALIA"
+    boni:
+      - question: "What two animals were sacrificed?"
+        answer: "GOATS AND DOGS"
+      - question: "What was thought to be the effect when the young men hit women with strips of goatskin?"
+        answer: "MADE THEM PURE AND/OR FERTILE"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “sarcasm” and “sarcophagus”?"
+      answer: "FLESH"
+    boni:
+      - question: "What is the meaning of the Greek word element common to “mastodon” and “orthodontist”?"
+        answer: "TOOTH"
+      - question: "What is the meaning of the Greek word element common to “oxygen” and “oxymoron”?"
+        answer: "SHARP, ACUTE"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the verbs <latin>nascor</latin> and <latin>nanciscor</latin>."
+    boni:
+      - question: ""
+        answer: "NANCISCOR=FIND, OBTAIN NASCOR = BE BORN"
+      - question: "What are the other parts of <latin>nanciscor</latin>?"
+        answer: "NANCISCOR, NANCISCI, NACTUS/NANCTUS SUM // Distinguish in meaning between <latin>nanus</latin> and <latin>nasus</latin>. // NANUS=DWARF, NASUS=NOSE"
+  - tossup:
+      question: "By what more familiar name did the ancients know the promontories Abyla and Calpe?"
+      answer: "THE PILLARS OF HERACLES"
+    boni:
+      - question: "Which one is in Europe?"
+        answer: "CALPE"
+      - question: "What is the neck of water between them now called?"
+        answer: "THE STRAITS OF GIBRALTAR // ROUND A100, page 4"
+  - tossup:
+      question: "What Latin verb is the root of “quaint”?"
+      answer: "COGNOSCO"
+    boni:
+      - question: "What Latin adjective is the root of “quit”?"
+        answer: "QUIETUS"
+      - question: "What Latin verb is the root of the verb “quarrel”?"
+        answer: "QUEROR"
+  - tossup:
+      question: "What son of Hermes served as herald of the Argonauts?"
+      answer: "AETHALIDES"
+    boni:
+      - question: "What special gift did he receive from his father?"
+        answer: "FLAWLESS MEMORY"
+      - question: "What was unusual about his time in the Underworld?"
+        answer: "HIS SOUL RETURNED TO EARTH IN NEW BODIES // (Pythagoras among them)"
+  - tossup:
+      question: ""
+      answer: "Explain the subjunctive usage in the dependent clause of this sentence: Lucius est vir qui matrem vendat."
+    boni:
+      - question: ""
+        answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+      - question: ""
+        answer: "Do the same for this sentence: Lucium misi qui matrem meam vendat. // RELATIVE CLAUSE OF PURPOSE // Do the same for this sentence: Lucium qui heri discesserit matrem vendidisse fama est. // RELATIVE CLAUSE WITHIN INDIRECT STATEMENT"
+  - tossup:
+      question: "What son of Apollo was the father of three daughters whose names meant Olive, Seed and Wine?"
+      answer: "ANIUS"
+    boni:
+      - question: "With what god's blessing were these three able to produce the items they were named for?"
+        answer: "DIONYSUS'/BACCHUS'"
+      - question: "Who kidnapped them?"
+        answer: "AGAMEMNON (or THE GREEK ARMY) // #"

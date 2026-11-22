@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Which noun has a different derivation from the others: flamma, flagellum, flamen, flabellum?"
+      answer: "FLABELLUM"
+    boni:
+      - question: "What is the root verb of flabellum?"
+        answer: "FLO = BLOW"
+      - question: "What is the root verb of the others?"
+        answer: "FLAGRO = BURN"
+  - tossup:
+      question: "What Athenian statesman's fall from power opened the way for Pericles' long rule?"
+      answer: "CIMON'S"
+    boni:
+      - question: "What political ally of Pericles was instrumental in this transition but was murdered soon after he and Pericles prevailed?"
+        answer: "EPHIALTES"
+      - question: "What calamity marked the end of Pericles' rule?"
+        answer: "THE PLAGUE"
+  - tossup:
+      question: ""
+      answer: "Give in the genitive singular the superlative of pius rex."
+    boni:
+      - question: ""
+        answer: "PIISSIMI/PIENTISSIMI REGIS"
+      - question: ""
+        answer: "Make nobilis poeta superlative in the accusative plural. // NOBILISSIMOS POETAS // Make gracilis pinus superlative in the ablative singular. // GRACILLIMA PINO"
+  - tossup:
+      question: "What Latin word from one of the same roots as agricola means “deity”?"
+      answer: "CAELICOLA"
+    boni:
+      - question: "What word from one of the same roots as agricola means “traveler or foreigner”?"
+        answer: "PEREGRINUS"
+      - question: "What word from the same root as nauta means “seasickness”?"
+        answer: "NAUSEA"
+  - tossup:
+      question: "What Latin verb does “mustang” come from?"
+      answer: "MISCEO"
+    boni:
+      - question: "What Latin word does “muster” come from?"
+        answer: "MONEO"
+      - question: "What Latin noun does “mustard” come from?"
+        answer: "MUSTUM"
+  - tossup:
+      question: "What kind of subordinate clause should you be ready for if the main clause has a tam or a tantus in it?"
+      answer: "RESULT (FINAL)"
+    boni:
+      - question: "What introduces a negative result clause?"
+        answer: "UT NON (OR UT PLUS NEGATIVE)"
+      - question: "What introduces a negative purpose clause?"
+        answer: "NE"
+  - tossup:
+      question: "What kind of verbs do dicto and curso exemplify?"
+      answer: "FREQUENTATIVE"
+    boni:
+      - question: "What class of verbs is exemplified by gaudeo?"
+        answer: "SEMI-DEPONENT"
+      - question: "What class of verbs is esurio an example of?"
+        answer: "DESIDERATIVE"
+  - tossup:
+      question: ""
+      answer: "Translate idiomatically: Noli parere vaccam, vir."
+    boni:
+      - question: ""
+        answer: "DON'T HAVE A COW, MAN"
+      - question: "Translate: Lege mea labia."
+        answer: "READ MY LIPS // Translate: Qui possunt, faciunt; qui non possunt, docent; qui non docere possunt, fiunt principales. // THOSE WHO CAN, DO; THOSE WHO CAN'T, TEACH; THOSE WHO CAN'T TEACH BECOME PRINCIPALS //"
+  - tossup:
+      question: ""
+      answer: "What larger category would include andabatae, essedarii, myrmillones"
+    boni:
+      - question: "and retiarii?"
+        answer: "GLADIATORS"
+      - question: "Which of these fought with net and trident? What was the name for that trident?"
+        answer: "RETIARII // FUSCINA"
+  - tossup:
+      question: ""
+      answer: "What queen of Thesprotia was a lover or wife of Odysseus after his"
+    boni:
+      - question: "reunion with Penelope?"
+        answer: "CALLIDICE"
+      - question: "Who was their son? unable to defeat?"
+        answer: "POLYPOETES // What neighboring tribe was Odysseus, in command of the Thesprotians, // THE BRYGES (BRYGIANS)"
+  - tossup:
+      question: "Who foretold his own death on the voyage of the Argo?"
+      answer: "IDMON"
+    boni:
+      - question: "What killed him?"
+        answer: "A WILD BOAR"
+      - question: "Who was the Argo's herald?"
+        answer: "AETHALIDES"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the verbs nato and nitor."
+    boni:
+      - question: ""
+        answer: "NATO = SWIM NITOR = LEAN, RELY, REST; PRESS FORWARD, STRIVE"
+      - question: ""
+        answer: "Distinguish between the nouns nidor and nidus. // NIDUS = NEST NIDOR = VAPOR, STEAM // Distinguish between the nouns nex and nexus. // NEX = MURDER, DEATH NEXUS = FASTENING, JOINING, CONNECTION"
+  - tossup:
+      question: "Who were warned by their mother to beware a man named Blackbottom?"
+      answer: "THE CERCOPES"
+    boni:
+      - question: "Whom did she mean?"
+        answer: "HERACLES"
+      - question: "What were the Cercopes turned into?"
+        answer: "MONKEYS (or STONE MONKEYS)"
+  - tossup:
+      question: "Quod animal in arboribus canit?"
+      answer: "AVIS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Quod animal optimus amicus homini habetur? Quot vitae feli sunt?"
+        answer: "CANIS // NOVEM"
+  - tossup:
+      question: "What daughter of Teucer was an ancestress of the Trojan race?"
+      answer: "BATIA/BATEIA"
+    boni:
+      - question: "What newcomer became her husband?"
+        answer: "DARDANUS"
+      - question: "Who was her son, the father of Tros?"
+        answer: "ERICHTHONIUS"
+  - tossup:
+      question: "What cardinal number is the lowest indeclinable adjective?"
+      answer: "QUATTUOR (FOUR)"
+    boni:
+      - question: "What is the first declinable adjective after four?"
+        answer: "TWO HUNDRED (DUCENTI, -AE, -A)"
+      - question: "After ducenti, what is the lowest indeclinable multiple of 100?"
+        answer: "MILLE (1000)"
+  - tossup:
+      question: ""
+      answer: "In one version of his story, what did Tantalus steal from the gods and"
+    boni:
+      - question: "give to mortals?"
+        answer: "NECTAR AND AMBROSIA"
+      - question: "In another version, what son did he slay to feed to the gods? What deity took a bite of him by mistake?"
+        answer: "PELOPS // DEMETER/CERES"
+  - tossup:
+      question: "Who became the undisputed emperor when he defeated Carinus on the banks of the Margus River in 285AD?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "Whom did Diocletian name as his Caesar to assist in ruling the vast empire?"
+        answer: "MAXIMIAN"
+      - question: "Maximian was named Augustus for crushing a revolt in Gaul. Name the two young officers who were made Caesars in 293AD."
+        answer: "CONSTANTIUS CHLORUS AND GALERIUS"
+  - tossup:
+      question: "Who, elected to the tribunate in 103BC, became the greatest popular agitator since Gaius Gracchus?"
+      answer: "L. APPULEIUS SATURNINUS"
+    boni:
+      - question: "How did Saturninus secure the passage of his legislation?"
+        answer: "MOB VIOLENCE"
+      - question: "Whom did the Senate call upon to squash Saturninus and restore order?"
+        answer: "MARIUS"
+  - tossup:
+      question: "What future emperor offended Nero by falling asleep during his singing while touring Greece?"
+      answer: "VESPASIAN"
+    boni:
+      - question: "What prominent and wealthy freedman was very helpful early in Vespasian's career?"
+        answer: "NARCISSUS"
+      - question: "What governor of Syria was an early ally in Vespasian's ascension to the principate?"
+        answer: "MUCIANUS // #"

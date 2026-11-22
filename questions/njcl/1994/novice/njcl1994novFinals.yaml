@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "For adultery with whom did Pompey divorce his wife Mucia?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "Who was the father of his next wife?"
+        answer: "JULIUS CAESAR"
+      - question: "Who was the stepfather of his first wife?"
+        answer: "SULLA"
+  - tossup:
+      question: "(Moderator holds up three fingers.) Quot digitos tollo?"
+      answer: "TRES (DIGITOS TOLLIS)"
+    boni:
+      - question: "(Moderator holds up thumb.) Quot nomen huic est?"
+        answer: "POLLEX (ILLI EST NOMEN)"
+      - question: "(Moderator makes a fist.) Quot nomen huic est?"
+        answer: "PUGNUS (ILLI EST NOMEN)"
+  - tossup:
+      question: ""
+      answer: "Name a member of the Trojan royal house who was slain by Pyrrhus."
+    boni:
+      - question: ""
+        answer: "PRIAM, POLITES, POLYXENA, ASTYANAX, EURYPYLUS"
+      - question: ""
+        answer: "Name another. // Name another."
+  - tossup:
+      question: ""
+      answer: "Translate: “There's a very big circus in Rome.”"
+    boni:
+      - question: ""
+        answer: "EST CIRCUS MAXIMUS ROMAE."
+      - question: "Translate: “Have you seen the aqueducts of the Romans? AQUASNE ROMANORUM VIDISTI?"
+        answer: "Translate: “We have seen the river in the city.” // FLUMEN/FLUVIUM IN URBE VIDIMUS. // ” // undefined"
+  - tossup:
+      question: "What would a slave called a ciniflo do?"
+      answer: "ARRANGE A LADY'S HAIR"
+    boni:
+      - question: "What would an anteambulo do?"
+        answer: "PRECEDE HIS OWNER THROUGH"
+      - question: "What was a child's nurse called?"
+        answer: "THE STREET TO CLEAR THE WAY // NUTRIX"
+  - tossup:
+      question: "What god personifies the river that flows around the earth?"
+      answer: "OCEANUS"
+    boni:
+      - question: "Who was Oceanus' sister and mate?"
+        answer: "TETHYS"
+      - question: "To what race of divinities did they belong?"
+        answer: "TITANS"
+  - tossup:
+      question: "Several of the elements show that when their names were being abbreviated, the scientists knew their element's Latin. What element's chemical symbol is Pb?"
+      answer: "LEAD"
+    boni:
+      - question: "What was the Latin name?"
+        answer: "PLUMBUM"
+      - question: ""
+        answer: "Give the Latin and the English for the element Fe. // FERRUM = IRON"
+  - tossup:
+      question: "Which of the Julio-Claudians was oldest at the time of his accession?"
+      answer: "TIBERIUS (b. 42BC, acceded 9/14AD by Senate proclamation)"
+    boni:
+      - question: "Which one was made emperor at the age of 16?"
+        answer: "NERO"
+      - question: "Which one was made emperor at the age of 24?"
+        answer: "CALIGULA"
+  - tossup:
+      question: "Who murdered the son of his brother Numitor?"
+      answer: "AMULIUS"
+    boni:
+      - question: "Who was Amulius' and Numitor's father?"
+        answer: "SILVIUS PROCA"
+      - question: "Who was Numitor's daughter?"
+        answer: "RHEA SILVIA"
+  - tossup:
+      question: "What war ended with the Battle of the Aegates Islands?"
+      answer: "THE FIRST PUNIC WAR"
+    boni:
+      - question: "What was the year of the battle?"
+        answer: "241BC"
+      - question: "What three major islands did Rome gain control of as a result of her victory?"
+        answer: "SICILY, SARDINIA AND CORSICA"
+  - tossup:
+      question: "Who was told to carry an oar on his shoulder until someone mistook it for something else?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "What was his oar mistaken for?"
+        answer: "A WINNOWING FAN"
+      - question: "What would happen if Odysseus followed Tiresias' instructions?"
+        answer: "The seer Tiresias in Hades gave Odysseus this advice. // HE WOULD LIVE TO RIPE OLD AGE"
+  - tossup:
+      question: "What monster had a hundred snake heads, each one with a voice?"
+      answer: "TYPHOEUS/TYPHON"
+    boni:
+      - question: "What six-headed monster had dogs' heads at the waist?"
+        answer: "SCYLLA"
+      - question: "What monster had a woman's head and a lion's body?"
+        answer: "THE SPHINX"
+  - tossup:
+      question: ""
+      answer: "Make the adjective <latin>niger</latin> agree with <latin>dentis</latin>."
+    boni:
+      - question: ""
+        answer: "NIGRI DENTIS"
+      - question: "Make the adjective <latin>laetus</latin> agree with <latin>nautas</latin>. Make the adjective <latin>līber</latin> agree with <latin>militem</latin>."
+        answer: "LAETOS // LĪBERUM"
+  - tossup:
+      question: "What Latin verb is the root of both “overt” and “covert”?"
+      answer: "APERIO"
+    boni:
+      - question: "What brunch dish comes by way of French from <latin>lamella</latin>, meaning “a little plate”?"
+        answer: "OMELET"
+      - question: "What Latin noun is the root of “pageant”?"
+        answer: "PAGINA"
+  - tossup:
+      question: "What part of your body literally means “little mouse”?"
+      answer: "MUSCLE"
+    boni:
+      - question: "What muscle's name means “two-headed”?"
+        answer: "BICEPS"
+      - question: "What shape are your deltoid muscles?"
+        answer: "TRIANGULAR"
+  - tossup:
+      question: "What Latin idiom means “as soon as possible”?"
+      answer: "QUAM PRIMUM"
+    boni:
+      - question: "What means “as kindly as possible”?"
+        answer: "QUAM BENIGNISSIME"
+      - question: ""
+        answer: "Translate “as many words as possible.” // QUAM PLURIMA VERBA"
+  - tossup:
+      question: "The Latin idioms <latin>signa ferre</latin> and <latin>pedem referre</latin> are antonyms. What do they mean?"
+      answer: "SIGNA FERRE = ADVANCE PEDEM REFERRE = RETREAT"
+    boni:
+      - question: "What are the Latin antonymous idioms for “pitch camp” and “break camp”?"
+        answer: "CASTRA PONERE AND CASTRA MOVERE"
+      - question: "What are the Latin antonymous idioms for “at sunrise” and “at sunset”?"
+        answer: "PRIMĀ LUCE AND SOLIS OCCASU"
+  - tossup:
+      question: "What Roman maiden betrayed the city to a besieging army?"
+      answer: "TARPEIA"
+    boni:
+      - question: "Who were the enemy?"
+        answer: "THE SABINES"
+      - question: "What did she ask for in return?"
+        answer: "WHAT THEY WORE ON THEIR ARMS"
+  - tossup:
+      question: "What is the use of the ablative in this sentence: <latin>Caesar erat felicior Pompeio</latin>?"
+      answer: "ABLATIVE OF COMPARISON"
+    boni:
+      - question: "In this: <latin>Paucis annis Theseus saxum movebit</latin>?"
+        answer: "ABLATIVE OF TIME (or TIME WITHIN WHICH)"
+      - question: "In this: <latin>Galba interfecto, novus imperator electus est</latin>?"
+        answer: "ABLATIVE ABSOLUTE"
+  - tossup:
+      question: "What case would be required for “father” in this sentence: “I was merciful to my father's enemies”?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What case would “enemies” be in?"
+        answer: "DATIVE"
+      - question: "What use of the dative is that?"
+        answer: "DATIVE WITH SPECIAL VERB"

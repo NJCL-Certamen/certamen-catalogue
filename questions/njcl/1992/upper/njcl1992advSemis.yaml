@@ -1,0 +1,168 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who told Geryon that Heracles had stolen his cattle?"
+      answer: "MENOETES"
+    boni:
+      - question: "What was Menoetes' job?"
+        answer: "HERDSMAN OF HADES"
+      - question: "Who was Geryon's herdsman?"
+        answer: "EURYTION"
+  - tossup:
+      question: ""
+      answer: "In what tense would you find the subjunctive in this sentence:"
+    boni:
+      - question: "“Do you ever wonder why you learned to play Certamen?"
+        answer: "”"
+      - question: ""
+        answer: "PERFECT // In this: “The task was so daunting that we hadn't attempted it.” // PLUPERFECT // In this: “The task is so hard that we will not attempt it.” // PRESENT or better yet PRESENT SUBJUNCTIVE OF SUM + PARTICIPLE"
+  - tossup:
+      question: "Who tried to protect Turnus by taking the guise of Turnus' charioteer?"
+      answer: "JUTURNA"
+    boni:
+      - question: "Who was the charioteer?"
+        answer: "METISCUS"
+      - question: "Whom did Jupiter send to order her to let Turnus meet his fate?"
+        answer: "A FURY"
+  - tossup:
+      question: ""
+      answer: "Distinguish between the nouns clades and clavis."
+    boni:
+      - question: ""
+        answer: "CLADES = SLAUGHTER, DESTRUCTION CLAVIS = KEY"
+      - question: ""
+        answer: "Distinguish between calumnia and columna. // CALUMNIA = DISGRACE COLUMNA = COLUMN // Distinguish between crimen and crinis. // CRIMEN = ACCUSATION, CRIME CRINIS = LOCK, HAIR"
+  - tossup:
+      question: "Who because of the sword he was carrying was recognized by his father Thyestes?"
+      answer: "AEGISTHUS"
+    boni:
+      - question: "Who had taken the sword from Thyestes?"
+        answer: "PELOPIA"
+      - question: "Thyestes had received an oracle telling him that he would have his revenge on his brother Atreus only by doing what?"
+        answer: "FATHERING A CHILD ON HIS OWN DAUGHTER PELOPIA"
+  - tossup:
+      question: "What did the Etruscans call their kings?"
+      answer: "LUCUMO (LUCUMONES)"
+    boni:
+      - question: "What was the Greek name for the Etruscans?"
+        answer: "TYRRHENOI or TYRSENOI"
+      - question: "What symbol of an Etruscan king's authority was adopted by the Romans?"
+        answer: "FASCES // ROUND A10, page 2"
+  - tossup:
+      question: "What mood follows etsi in a concessive clause?"
+      answer: "INDICATIVE"
+    boni:
+      - question: "What mood follows the concessive quamquam?"
+        answer: "INDICATIVE"
+      - question: "What mood follows the concessive quamvis?"
+        answer: "SUBJUNCTIVE"
+  - tossup:
+      question: "What did a Roman call his mother's brother?"
+      answer: "AVUNCULUS"
+    boni:
+      - question: "What was the wife of an avunculus called?"
+        answer: "MATERTERA"
+      - question: "What noun could mean both “grandmother” and “old wives' tale”?"
+        answer: "AVIA"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of “manner”?"
+      answer: "MANUS = HAND"
+    boni:
+      - question: "What English verb comes from the phrase manu operare?"
+        answer: "MANEUVER"
+      - question: "What English barnyard noun is further contracted from “maneuver”?"
+        answer: "MANURE"
+  - tossup:
+      question: ""
+      answer: "Give in Latin Vergil's two-line verse epitaph."
+    boni:
+      - question: ""
+        answer: "MANTUA ME GENUIT; CALABRI RAPUERE; TENET NUNC"
+      - question: "PARTHENOPE. What is the meter?"
+        answer: "CECINI PASCUA, RURA, DUCES. // DACTYLIC PENTAMETER (ELEGIAC COUPLET) // Explain the meaning of me...tenet nunc Parthenope. // NAPLES HOLDS ME NOW -"
+  - tossup:
+      question: ""
+      answer: "E., MY TOMB IS THERE"
+  - tossup:
+      question: "What is the meaning of the Greek verb at the root of “emphasis”?"
+      answer: "SHOW"
+    boni:
+      - question: "What is the meaning of the Greek verb at the root of “euphemism”?"
+        answer: "SPEAK"
+      - question: "What is the meaning of the Greek verb at the root of “photograph”?"
+        answer: "WRITE"
+  - tossup:
+      question: "What foot is a dactyl in reverse: i.e., two shorts and a long?"
+      answer: "ANAPEST"
+    boni:
+      - question: "What is a trochee?"
+        answer: "LONG SHORT"
+      - question: "What is the opposite: short long?"
+        answer: "IAMBUS"
+  - tossup:
+      question: "Who is the son of Aegina and Zeus?"
+      answer: "AEACUS"
+    boni:
+      - question: "Who is the son of Io and Zeus?"
+        answer: "EPAPHUS"
+      - question: "Who are the sons of Europa and Zeus?"
+        answer: "MINOS, SARPEDON AND RHADAMANTHYS"
+  - tossup:
+      question: "Quot vesicae tibi sunt?"
+      answer: "UNA"
+    boni:
+      - question: "Quot nares tibi sunt?"
+        answer: "DUAE"
+      - question: "Quot ungues tibi sunt?"
+        answer: "DECEM or VIGINTI"
+  - tossup:
+      question: "What work of Cicero's is famous for its encomium to literature?"
+      answer: "PRO ARCHIA"
+    boni:
+      - question: "What work of Cicero's was in defense of a man accused of poisoning someone?"
+        answer: "PRO CLUENTIO"
+      - question: "What oration in three installments did Cicero deliver against confiscation and redistribution of land?"
+        answer: "DE LEGE AGRARIA or CONTRA RULLUM"
+  - tossup:
+      question: "What author was supposedly a lover of Julia Livilla, the sister of Caligula?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "What was his punishment?"
+        answer: "BANISHMENT TO CORSICA"
+      - question: "For how long was he banished?"
+        answer: "EIGHT YEARS"
+  - tossup:
+      question: "What was the exclamation, dating from prehistory, shouted in Roman wedding marches?"
+      answer: "TALASSIO"
+    boni:
+      - question: "What other word of congratulations might a guest use?"
+        answer: "FELICITER"
+      - question: "What sentence of consent and deference did the bride speak when the procession reached the couple's home?"
+        answer: "QUANDO/UBI TU GAIUS, EGO GAIA"
+  - tossup:
+      question: ""
+      answer: "Name an English synonym for “abbreviate” that also comes from brevis."
+    boni:
+      - question: ""
+        answer: "ABRIDGE"
+      - question: "What verb for “bury” comes from the noun terra? What English adjective for “unavoidable or unmovable” comes from oro, orare?"
+        answer: "INTER // INEXORABLE"
+  - tossup:
+      question: "Who proposed the title Augustus to Octavian and served as censor in 22BC?"
+      answer: "L. MUNATIUS PLANCUS"
+    boni:
+      - question: "Of what province was he governor in 44-43BC?"
+        answer: "TRANSALPINE GAUL"
+      - question: "What important colony did he found there?"
+        answer: "LUGDUNUM // ROUND A10, page 4"
+  - tossup:
+      question: "What queen’s aggression and adventurism did the Romans finally end in 229BC?"
+      answer: "TEUTA"
+    boni:
+      - question: "What was the war?"
+        answer: "THE FIRST ILLYRIAN WAR"
+      - question: "As what power‘s allies were the Illyrians defeated by the Romans in 168BC?"
+        answer: "THE MACEDONIANS’ // #"

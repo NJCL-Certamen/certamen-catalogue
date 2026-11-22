@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: ""
+      answer: "Name the sisters who were turned into a sparrow and a nightingale."
+    boni:
+      - question: ""
+        answer: "PROCNE AND PHILOMELA"
+      - question: "Who cut out the tongue of one of them? How did the sisters punish him?"
+        answer: "TEREUS // <latin>KILLED HIS SON ITYS AND SERVED HIM TO TEREUS FOR DINNER</latin>"
+  - tossup:
+      question: "What king of Arabia was killed by Heracles during the quest for the golden apples?"
+      answer: "EMATHION"
+    boni:
+      - question: "Who was Emathion's father?"
+        answer: "TITHONUS"
+      - question: "Who was Emathion's mother?"
+        answer: "EOS"
+  - tossup:
+      question: "What tenses exist in the indicative but not in the subjunctive?"
+      answer: "FUTURE AND FUTURE PERFECT"
+    boni:
+      - question: "What are the tenses of the infinitive?"
+        answer: "PRESENT, PERFECT, FUTURE"
+      - question: "What are the tenses of the imperative?"
+        answer: "PRESENT AND FUTURE"
+  - tossup:
+      question: "Who was the father of brothers named Amulius and Numitor?"
+      answer: "SILVIUS PROCA"
+    boni:
+      - question: "Which brother had the son of the other killed?"
+        answer: "AMULIUS"
+      - question: "What sons of Numitor's daughter punished Amulius for his crimes?"
+        answer: "ROMULUS AND REMUS"
+  - tossup:
+      question: "Who was the father of Zeus?"
+      answer: "CRONUS"
+    boni:
+      - question: "Who was Zeus' mother?"
+        answer: "RHEA"
+      - question: "How many Olympian sisters did Zeus have?"
+        answer: "THREE"
+  - tossup:
+      question: "Who was the emperor at the time of the birth of Christ?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "Who was the emperor at the time of Christ's crucifixion thirty-four years later?"
+        answer: "TIBERIUS"
+      - question: "Was crucifixion in common use by the Romans at this time?"
+        answer: "YES, VERY MUCH SO // Round B1, Page 2"
+  - tossup:
+      question: "What city was the capital of the province of Africa?"
+      answer: "UTICA"
+    boni:
+      - question: "Who used the city as a base in 81BC?"
+        answer: "POMPEY"
+      - question: "Whose suicide took place there?"
+        answer: "CATO THE YOUNGER'S"
+  - tossup:
+      question: ""
+      answer: "Name a month in which the Ides fall on the fifteenth."
+    boni:
+      - question: ""
+        answer: "MARCH, MAY, JULY, OCTOBER"
+      - question: ""
+        answer: "Name another. // Name another."
+  - tossup:
+      question: "Where did Pyrrhus and the Romans first fight?"
+      answer: "HERACLEA"
+    boni:
+      - question: "What was the year?"
+        answer: "280BC"
+      - question: "Who won?"
+        answer: "PYRRHUS"
+  - tossup:
+      question: "Who angered Latona with her boasts of superior fertility?"
+      answer: "NIOBE"
+    boni:
+      - question: "How many children had Niobe had?"
+        answer: "FOURTEEN (TWELVE)"
+      - question: "Where was Niobe queen?"
+        answer: "THEBES"
+  - tossup:
+      question: "To whom was Aruns Tarquinius unlucky enough to be married?"
+      answer: "TULLIA (MINOR)"
+    boni:
+      - question: "Whom did she induce to kill Aruns?"
+        answer: "TARQUINIUS SUPERBUS"
+      - question: "Whom else did Tarquinius Superbus have to kill?"
+        answer: "HER FATHER, SERVIUS TULLIUS"
+  - tossup:
+      question: "Change <latin>stas</latin> to perfect tense."
+      answer: "STETISTI"
+    boni:
+      - question: "Change <latin>stetisti</latin> to future perfect."
+        answer: "STETERIS"
+      - question: "Change <latin>steteris</latin> to imperfect."
+        answer: "STABAS"
+  - tossup:
+      question: ""
+      answer: "Name a letter in our alphabet which a Roman of Cicero's day would not have recognized."
+    boni:
+      - question: ""
+        answer: "J, U or W"
+      - question: "What letter was invented by the Romans only to transliterate the Greek upsilon? What letters did the Romans use to transliterate the Greek chi, which is written like the Roman X?"
+        answer: "Y // CH"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “monochromatic” and “chromosome”?"
+      answer: "COLOR"
+    boni:
+      - question: "Common to “chromosome” and “psychosomatic”?"
+        answer: "BODY"
+      - question: "Common to “psychosomatic” and “psychosis”?"
+        answer: "MIND, SOUL"
+  - tossup:
+      question: "What Latin noun with what meaning is at the root of “flammable”?"
+      answer: "FLAMMA = FLAME"
+    boni:
+      - question: "What Latin verb with what meaning is at the root of “incendiary”?"
+        answer: "INCENDO = BURN"
+      - question: "What Latin noun with what meaning is at the root of “incinerate”?"
+        answer: "CINIS = ASH"
+  - tossup:
+      question: "Say in Latin: “I can hear.”"
+      answer: "POSSUM AUDIRE."
+    boni:
+      - question: "Say in Latin: “I can't see.”"
+        answer: "NON POSSUM VIDERE."
+      - question: ""
+        answer: "Using an adjective, say in Latin: “We are blind.” // CAECI SUMUS"
+  - tossup:
+      question: ""
+      answer: "Make plural the phrase <latin>magnae manui</latin>."
+    boni:
+      - question: ""
+        answer: "MAGNIS MANIBUS"
+      - question: "Give another singular version of the plural phrase <latin>magnis manibus</latin>. Make <latin>magnis manibus</latin> genitive."
+        answer: "MAGNĀ MANU // MAGNARUM MANUUM"
+  - tossup:
+      question: "Dinner guests are in the dining room awaiting their dinner. What is the Latin word for their meal?"
+      answer: "CENA"
+    boni:
+      - question: "What is the Latin word for their location?"
+        answer: "TRICLINIUM"
+      - question: "What is the word for the room where the meal is being prepared?"
+        answer: "CULINA"
+  - tossup:
+      question: "What is the fourth principal part of <latin>spondeo</latin>?"
+      answer: "SPONSUS"
+    boni:
+      - question: "What is the fourth principal part of <latin>caveo</latin>?"
+        answer: "CAUTUS"
+      - question: "What is the fourth principal part of <latin>uro</latin>?"
+        answer: "USTUS"
+  - tossup:
+      question: ""
+      answer: "Translate the adverb <latin>celerius</latin>."
+    boni:
+      - question: ""
+        answer: "MORE QUICKLY (or QUICKER), RATHER QUICKLY, TOO QUICKLY"
+      - question: "Translate <latin>facillime</latin>. Translate <latin>pessime</latin>."
+        answer: "MOST EASILY, VERY EASILY // VERY BADLY, WORST // #"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Who was the father-in-law Lavinia never met?"
+      answer: "ANCHISES"
+    boni:
+      - question: "Who was her father?"
+        answer: "LATINUS"
+      - question: "Who was her original fiance?"
+        answer: "TURNUS"
+  - tossup:
+      question: "What single English verb translates the idiom pedem referre?"
+      answer: "RETREAT, WITHDRAW"
+    boni:
+      - question: "What Latin verb phrase translates the English “intend”?"
+        answer: "IN ANIMO HABERE"
+      - question: "How do you translate the idiom certiorem facere?"
+        answer: "INFORM"
+  - tossup:
+      question: "Who was the blacksmith of the gods?"
+      answer: "HEPHAESTUS/VULCAN"
+    boni:
+      - question: "Who was his divine wife?"
+        answer: "APHRODITE/VENUS"
+      - question: "Who was her divine lover?"
+        answer: "ARES/MARS"
+  - tossup:
+      question: "What is the antonym of parvus?"
+      answer: "MAGNUS (or a synonym)"
+    boni:
+      - question: "What is the adverb of parvus?"
+        answer: "PARUM"
+      - question: "What is the superlative of parum?"
+        answer: "MINIME"
+  - tossup:
+      question: "Which of your teeth are named for the animal whose teeth they resemble?"
+      answer: "CANINES"
+    boni:
+      - question: "Which of your teeth are the slicers?"
+        answer: "INCISORS"
+      - question: "Which are two-pointed?"
+        answer: "BICUSPIDS"
+  - tossup:
+      question: ""
+      answer: "Identify the case of the common noun in this famous line from Latin literature: Quo usque tandem abutere, Catilina, patientia nostra."
+    boni:
+      - question: ""
+        answer: "ABLATIVE"
+      - question: "Why is patientia ablative? What is the use of the ablative in this quote from Cicero: O fortunatam natam me consule Romam?"
+        answer: "OBJECT OF SPECIAL VERB (UTOR) // ABLATIVE ABSOLUTE"
+  - tossup:
+      question: "Who was called from his plowing to be dictator of Rome?"
+      answer: "CINCINNATUS"
+    boni:
+      - question: "What tribe had trapped a Roman army?"
+        answer: "THE AEQUI"
+      - question: "Where did the Romans defeat the Aequi?"
+        answer: "MOUNT ALGIDUS"
+  - tossup:
+      question: "Which of the following verbs does <emphasis>not</emphasis> govern the dative: suadeo, iubeo, ignosco, parco?"
+      answer: "IUBEO"
+    boni:
+      - question: ""
+        answer: "Name a synonym for <emphasis>iubeo</emphasis> that does govern the dative."
+      - question: ""
+        answer: "MANDO, IMPERO"
+  - tossup:
+      question: "What is the neuter accusative singular of <emphasis>ille</emphasis>?"
+      answer: "ILLUD"
+    boni:
+      - question: "Make <emphasis>illud</emphasis> genitive."
+        answer: "ILLIUS"
+      - question: "Make <emphasis>illius</emphasis> feminine and dative."
+        answer: "ILLI"
+  - tossup:
+      question: "A European capital sadly in the news this year is on the site of a Roman city named Singidunum. What is it now?"
+      answer: "BELGRADE"
+    boni:
+      - question: "What province was this?"
+        answer: "MOESIA"
+      - question: "What did the Romans call the river Singidunum sat beside?"
+        answer: "DANUVIUS"
+  - tossup:
+      question: "Who came to a Roman home in a <emphasis>salutatio</emphasis>?"
+      answer: "CLIENT"
+    boni:
+      - question: "What time of day did a <emphasis>salutatio</emphasis> take place?"
+        answer: "MORNING"
+      - question: "What was the name of the “care package” doled out to the client?"
+        answer: "SPORTULA"
+  - tossup:
+      question: "What important battle took place on September 2, 31BC?"
+      answer: "ACTIUM"
+    boni:
+      - question: "Who was the victor at Actium?"
+        answer: "OCTAVIAN (AUGUSTUS)"
+      - question: "Who was the loser?"
+        answer: "MARC ANTONY"
+  - tossup:
+      question: "Caesar's victory at Zela is famous for what message sent after the battle?"
+      answer: "VENI VIDI VICI"
+    boni:
+      - question: "Who was the enemy commander Caesar defeated?"
+        answer: "PHARNACES"
+      - question: "Whose son was Pharnaces?"
+        answer: "MITHRIDATES'"
+  - tossup:
+      question: "What is the genitive plural of <emphasis>civis</emphasis>?"
+      answer: "CIVIUM"
+    boni:
+      - question: "What is the genitive plural of <emphasis>canis</emphasis>?"
+        answer: "CANUM"
+      - question: "What is the genitive plural of <emphasis>caedes</emphasis>?"
+        answer: "CAEDIUM"
+  - tossup:
+      question: "Which of the Greek heroes at Troy killed himself in shame after a fit of madness?"
+      answer: "AJAX THE GREATER (TELAMONIAN)"
+    boni:
+      - question: "Who was Ajax' half-brother?"
+        answer: "TEUCER"
+      - question: "Who was Ajax' son?"
+        answer: "EURYSACES"
+  - tossup:
+      question: ""
+      answer: "Translate the participle in this sentence into Latin:"
+    boni:
+      - question: ""
+        answer: "“I admire the student answering this question.”"
+      - question: "“Do you know the names of the girls punished today?"
+        answer: "RESPONDENTEM // Supply the participles needed to translate these sentences: // ” // PUNITARUM // “Having dared to signal, you must answer the question.” // AUSUS/AUSA"
+  - tossup:
+      question: ""
+      answer: "Translate the verb in this sentence into Latin: “Girls,"
+    boni:
+      - question: ""
+        answer: "be punctual!”"
+      - question: "What case would you need for the adjective? For the noun?"
+        answer: "ESTE // NOMINATIVE // VOCATIVE"
+  - tossup:
+      question: ""
+      answer: "What English adjective meaning “subservient or sycophantic”"
+    boni:
+      - question: "comes from sequor?"
+        answer: "OBSEQUIOUS"
+      - question: "What noun for a religious group is from sequor? What verb synonymous with “chase” is from sequor?"
+        answer: "SECT // PURSUE"
+  - tossup:
+      question: ""
+      answer: "What father did the Argonauts Dryas, Ascalaphus and Ialmenus"
+    boni:
+      - question: "have in common?"
+        answer: "ARES"
+      - question: "to their father? Who was the daughter of Ares and Aphrodite?"
+        answer: "What sons of Aphrodite and Ares were war gods and companions // PHOBOS AND DEIMOS // HARMONIA"
+  - tossup:
+      question: "Atop what mountain was Heracles' funeral pyre?"
+      answer: "MOUNT OETA"
+    boni:
+      - question: ""
+        answer: "What son accompanied him there but could not bring himself to"
+      - question: "light the pyre? reward?"
+        answer: "HYLLUS // Who did light it, and received Heracles' bow and arrows as a // POEAS or his son PHILOCTETES // #"

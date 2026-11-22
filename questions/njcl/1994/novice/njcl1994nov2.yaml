@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: ""
+      answer: "Spell the case which is abbreviated gen."
+    boni:
+      - question: ""
+        answer: "G-E-N-I-T-I-V-E"
+      - question: "What case is abbreviated loc.? What case is abbreviated dat.?"
+        answer: "LOCATIVE // DATIVE"
+  - tossup:
+      question: ""
+      answer: "Name two labors of Heracles in which he has to bring his quarry back alive to Eurystheus."
+    boni:
+      - question: ""
+        answer: "CERYNITIAN HIND, ERYMANTHIAN BOAR, CERBERUS,"
+      - question: ""
+        answer: "MARES OF DIOMEDES, CATTLE OF GERYON, CRETAN BULL // Name two more. // Name two more."
+  - tossup:
+      question: "Quot oculi tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "Quot bracchia tibi sunt?"
+        answer: "DUO"
+      - question: "Quot aures tibi sunt?"
+        answer: "DUAE"
+  - tossup:
+      question: "What is an antonym of mors?"
+      answer: "VITA/NATUS"
+    boni:
+      - question: "What is an antonym of mare?"
+        answer: "TERRA/HUMUS/CAELUM"
+      - question: "What is an antonym of mitto?"
+        answer: "RECIPIO/REVOCO"
+  - tossup:
+      question: "What English adjective describes patients that can walk?"
+      answer: "AMBULATORY"
+    boni:
+      - question: "What derivative of scribo means “write about”?"
+        answer: "DESCRIBE"
+      - question: "What derivative of scribo means “write on”?"
+        answer: "INSCRIBE"
+  - tossup:
+      question: "What companion of Aeneas shared the name of Aeneas' grandfather?"
+      answer: "CAPYS"
+    boni:
+      - question: "What Italian city did he found?"
+        answer: "CAPUA"
+      - question: "What had he told the Trojans to do with the Trojan Horse?"
+        answer: "BURN IT or PUSH IT INTO THE SEA"
+  - tossup:
+      question: "Who murdered Servius Tullius?"
+      answer: "TARQUINIUS SUPERBUS"
+    boni:
+      - question: "At whose instigation?"
+        answer: "TULLIA'S"
+      - question: "How did she mistreat her father's body?"
+        answer: "DROVE HER CHARIOT OVER IT"
+  - tossup:
+      question: ""
+      answer: "Translate: <latin>Milites qui caesi sunt fortiter pugnabant.</latin>"
+    boni:
+      - question: ""
+        answer: "THE SOLDIERS WHO WERE KILLED FOUGHT BRAVELY."
+      - question: ""
+        answer: "Translate: “We have found the wives of the soldiers.” // UXORES MILITUM INVENIMUS // Translate: “We must save the lives of all the children.” // VITAE OMNIUM LIBERORUM NOBIS SERVANDAE SUNT. // VITAS OMNIUM LIBERORUM SERVARE DEBEMUS. // VITAS OMNIUM LIBERORUM NOBIS SERVARE NECESSE EST. // VITAS OMNIUM LIBERORUM NOS SERVARE OPORTET."
+  - tossup:
+      question: "To “exculpate” someone is to free him of what?"
+      answer: "GUILT"
+    boni:
+      - question: "“Exonerate” is a synonym; what is literally removed from someone exonerated?"
+        answer: "A BURDEN"
+      - question: "This might happen because a jury deliberated. Based on that word's literal meaning, what was the jury doing?"
+        answer: "WEIGHING THE FACTS, THE EVIDENCE, ETC."
+  - tossup:
+      question: "Who was the uninvited guest at the wedding of Peleus and Thetis?"
+      answer: "ERIS/DISCORDIA"
+    boni:
+      - question: "What did she bring with her?"
+        answer: "<latin>A GOLDEN APPLE</latin> MARKED “FOR THE FAIREST”"
+      - question: "Who was the son of Peleus and Thetis?"
+        answer: "ACHILLES"
+  - tossup:
+      question: "What dynasty began with the emperor Vespasian?"
+      answer: "THE FLAVIAN"
+    boni:
+      - question: "What relation was Titus, Vespasian's immediate successor, to his successor Domitian?"
+        answer: "BROTHER (BOTH WERE VESPASIAN'S SONS)"
+      - question: "Vespasian began his reign in 69AD. How many other emperors had there been that year?"
+        answer: "THREE"
+  - tossup:
+      question: "What Roman general defeated the Carthaginians to end the Second Punic War?"
+      answer: "P. CORNELIUS <latin>SCIPIO AFRICANUS</latin> MAJOR"
+    boni:
+      - question: "Where was this battle in 202BC?"
+        answer: "ZAMA"
+      - question: "Ticinus?"
+        answer: "Whose life is Scipio said to have saved at the Battle of // HIS FATHER'S"
+  - tossup:
+      question: "What noun related to the verb <latin>rego</latin> means “queen”?"
+      answer: "REGINA"
+    boni:
+      - question: "What related noun means “palace”?"
+        answer: "REGIA"
+      - question: "What related noun means “kingdom”?"
+        answer: "REGNUM"
+  - tossup:
+      question: ""
+      answer: "Name a month in which the Ides fall on the thirteenth."
+    boni:
+      - question: ""
+        answer: "JANUARY, FEBRUARY, APRIL, JUNE, AUGUST, SEPTEMBER,"
+      - question: ""
+        answer: "NOVEMBER, DECEMBER // Name another. // Name another."
+  - tossup:
+      question: "Change <latin>luporum</latin> to nominative."
+      answer: "LUPI"
+    boni:
+      - question: "Change <latin>lupi</latin> to ablative."
+        answer: "LUPIS"
+      - question: "Change <latin>lupis</latin> to singular."
+        answer: "LUPO"
+  - tossup:
+      question: ""
+      answer: "Against what troublesome foreign king were these Romans"
+    boni:
+      - question: "all sent: Sulla, Lucullus, Pompey?"
+        answer: "MITHRIDATES VI"
+      - question: "Of what country was Mithridates king? What law gave Pompey this command?"
+        answer: "PONTUS // LEX MANILIA"
+  - tossup:
+      question: "What case would follow the adjective <latin>cupidus</latin>?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What case would follow the adjective <latin>dignus</latin>?"
+        answer: "ABLATIVE (GENITIVE)"
+      - question: "What case would follow the adjective <latin>plenus</latin>?"
+        answer: "ABLATIVE (GENITIVE)"
+  - tossup:
+      question: "Change <latin>possumus</latin> to second person."
+      answer: "POTESTIS"
+    boni:
+      - question: "Change <latin>potestis</latin> to third person."
+        answer: "POSSUNT"
+      - question: "Change <latin>possunt</latin> to singular."
+        answer: "POTEST"
+  - tossup:
+      question: "Who was Zeus' oldest sister?"
+      answer: "HESTIA"
+    boni:
+      - question: "Who was his youngest sister, but still older than he?"
+        answer: "HERA"
+      - question: "their three sisters?"
+        answer: "Who was his oldest brother, but still younger than // HADES"
+  - tossup:
+      question: "What nymph detained Odysseus for seven years?"
+      answer: "CALYPSO"
+    boni:
+      - question: "Who was Odysseus' patient wife?"
+        answer: "PENELOPE"
+      - question: "What was Odysseus' island kingdom?"
+        answer: "ITHACA // #"

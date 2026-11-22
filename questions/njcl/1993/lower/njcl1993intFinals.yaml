@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Finals"
+questions:
+  - tossup:
+      question: "To what part of speech might a Roman add -met?"
+      answer: "PERSONAL PRONOUN"
+    boni:
+      - question: "For what purpose would it be added?"
+        answer: "EMPHASIS"
+      - question: "What do you call such a suffix?"
+        answer: "ENCLITIC"
+  - tossup:
+      question: "And you thought 69AD was hectic! What year in the third century AD had, depending on how you count, as many as six emperors?"
+      answer: "238AD"
+    boni:
+      - question: "What name was shared by three of them?"
+        answer: "GORDIAN"
+      - question: "What two Senators were appointed joint emperors by the Senate but after three months murdered by the Praetorian Guard?"
+        answer: "BALBINUS AND PUPIENUS MAXIMUS"
+  - tossup:
+      question: ""
+      answer: "What kind of ablative is illustrated in this sentence:"
+    boni:
+      - question: "Uno pede altior sum quam pater?"
+        answer: "DEGREE OF DIFFERENCE"
+      - question: "What kind is illustrated here: Mendicus cibo carebat? Huic militi novo gladio opus est?"
+        answer: "ABLATIVE WITH CERTAIN VERBS (CAREO) or ABLATIVE OF SEPARATION // ABLATIVE WITH SPECIAL NOUNS or ABLATIVE OF MEANS or ABLATIVE WITH OPUS EST"
+  - tossup:
+      question: "What king of the Dorians asked for Heracles’ help against an invading army?"
+      answer: "AEGIMIUS"
+    boni:
+      - question: "Who were the invaders?"
+        answer: "THE LAPITHS"
+      - question: "What reward did Heracles ask for his help in the victory?"
+        answer: "ASYLUM (LAND) FOR HIS DESCENDANTS"
+  - tossup:
+      question: "How many triumphs did Agrippa celebrate?"
+      answer: "NONE"
+    boni:
+      - question: "How many was he offered and did he decline?"
+        answer: "THREE"
+      - question: "How many times was Agrippa married?"
+        answer: "THREE"
+  - tossup:
+      question: "With a verb that means “steal,” what case is most likely for the person something is stolen from?"
+      answer: "DATIVE"
+    boni:
+      - question: "What is the name for this specific dative use?"
+        answer: "DATIVE OF SEPARATION (or OF COMPOUNDS)"
+      - question: "To what larger category does the dative of separation belong?"
+        answer: "DATIVE OF REFERENCE"
+  - tossup:
+      question: "Who created the charge of <latin>maiestas minuta</latin>, treason against the Roman people?"
+      answer: "APULEIUS SATURNINUS"
+    boni:
+      - question: "What law bearing his <latin>nomen</latin> created the crime?"
+        answer: "LEX APULEIA"
+      - question: "Who was murdered with Saturninus in the Curia?"
+        answer: "SERVILIUS GLAUCIA"
+  - tossup:
+      question: "Who was the youngest member of Odysseus' crew and met his death by falling off a roof?"
+      answer: "ELPENOR"
+    boni:
+      - question: "Whose roof was it?"
+        answer: "CIRCE'S"
+      - question: "What does Elpenor's shade in Hades ask the visiting Odysseus to do?"
+        answer: "BURY HIS CORPSE"
+  - tossup:
+      question: ""
+      answer: "Dartmouth College's motto tells you something of its location. Translate <latin>vox clamantis in deserto</latin>."
+    boni:
+      - question: ""
+        answer: "THE VOICE OF ONE CRYING IN THE WILDERNESS."
+      - question: "Translate <latin>ars gratia artis</latin>."
+        answer: "West Virginia's motto says something about both its terrain and its people. Translate <latin>montani semper liberi</latin>. // MOUNTAINEERS ARE ALWAYS FREE (MEN) // MGM's motto tells you something of its pretentions. // ART FOR ART'S SAKE"
+  - tossup:
+      question: "What adjective would a Roman use to say “Athenian”?"
+      answer: "ATHENAEUS/A/UM or ATHENIENSIS/E"
+    boni:
+      - question: "What adjective would she use to say “Corinthian”?"
+        answer: "CORINTHIUS or CORINTHIACUS or CORINTHIENSIS"
+      - question: "What adjective would she use to say “Spartan”?"
+        answer: "SPARTANUS or SPARTIACUS or SPARTICUS or SPARTIATICUS"
+  - tossup:
+      question: "Translate <latin>fenestram fregi</latin>."
+      answer: "I BROKE THE WINDOW"
+    boni:
+      - question: ""
+        answer: "Translate: “Let's break those eggs.”"
+      - question: ""
+        answer: "ILLA OVA FRANGAMUS // Translate: “Don't break your neck!” // NOLI FRANGERE TUUM COLLUM!"
+  - tossup:
+      question: "What young mortal, beloved of Apollo, accidentally killed his pet deer?"
+      answer: "CYPARISSUS"
+    boni:
+      - question: "What request did the grief-stricken youth make of Apollo?"
+        answer: "THAT HE BE ALLOWED TO DIE BUT MOURN FOREVER"
+      - question: "What was he turned into?"
+        answer: "THE CYPRESS TREE"
+  - tossup:
+      question: "What visual art form gets its name from the Muses?"
+      answer: "MOSAIC"
+    boni:
+      - question: "Which of these does <latin>not</latin> have a Latin root: artist, dancer, minstrel, sculptor?"
+        answer: "DANCER"
+      - question: "Which of these <latin>does</latin> have a Latin root: acrylic, easel, paint, charcoal?"
+        answer: "PAINT"
+  - tossup:
+      question: "What in a Roman house was a posticum?"
+      answer: "BACK DOOR, GARDEN ENTRANCE"
+    boni:
+      - question: "What would a Roman do with <latin>serae</latin> and <latin>pessuli</latin>?"
+        answer: "BOLT/BAR/LOCK THE DOOR"
+      - question: "What use did a Roman home make of metal boxes called <latin>foculi</latin>?"
+        answer: "PORTABLE SPACE HEATERS"
+  - tossup:
+      question: "Who refused to help Antigone perform the ritual of burial for their brother?"
+      answer: "HER SISTER ISMENE"
+    boni:
+      - question: "Who was the brother?"
+        answer: "POLYNICES"
+      - question: "After Antigone's death sentence for her actions, what did Ismene offer to do that Antigone refused to let her do?"
+        answer: "SHE OFFERED TO SHARE HER GUILT AND HER FATE"
+  - tossup:
+      question: ""
+      answer: "Name a use a Roman would make of an object called a <latin>tessera</latin>."
+    boni:
+      - question: ""
+        answer: "DIE, ARENA TICKET, MOSAIC PIECE, FRIENDSHIP TOKEN, MILITARY CAMP PASSWORD TOKEN."
+      - question: ""
+        answer: "Name another. // Name another."
+  - tossup:
+      question: "Who was the mother of the winds?"
+      answer: "AURORA/EOS"
+    boni:
+      - question: "Who was their father?"
+        answer: "THE TITAN ASTRAEUS"
+      - question: "What god of the morning star was also the son of Eos and Astraeus?"
+        answer: "EOSPHORUS"
+  - tossup:
+      question: "What is the meaning of the Greek noun at the root of “ostracism”?"
+      answer: "POTSHERD, POTTERY FRAGMENT"
+    boni:
+      - question: "What is the meaning of the Greek noun at the root of “ephemeral”?"
+        answer: "DAY"
+      - question: "What is the meaning of the Greek noun at the root of “euthanasia?"
+        answer: "” DEATH"
+  - tossup:
+      question: "Who was the mother of Augustus?"
+      answer: "ATIA"
+    boni:
+      - question: "After the death of Gaius Octavius, whom did she marry?"
+        answer: "L. MARCIUS PHILIPPUS"
+      - question: "consulship?"
+        answer: "What was the year of her death and Octavian's first // 43BC"
+  - tossup:
+      question: ""
+      answer: "What Latin preposition is present in “pursue” and"
+    boni:
+      - question: "“purchase”?"
+        answer: "PRO"
+      - question: "“tradition”? “estimate”?"
+        answer: "What Latin preposition is present in “trespass” and // TRANS // What Latin preposition is present in “estate” and // NONE // #"

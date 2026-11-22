@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What Latin verb with what meaning gives us the words “fragile” and “fraction”?"
+      answer: "FRANGO = BREAK"
+    boni:
+      - question: "What Latin verb with what meaning gives us “friction”?"
+        answer: "FRICO = RUB"
+      - question: "What Latin verb with what meaning gives us “fiction”?"
+        answer: "FINGO = MAKE UP, INVENT, CREATE"
+  - tossup:
+      question: "How would a Roman show a two in writing?"
+      answer: "II"
+    boni:
+      - question: "How would she write a ten?"
+        answer: "X"
+      - question: "A twenty?"
+        answer: "XX"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “hypodermic” and “hypoglycemic”?"
+      answer: "UNDER/INTO/BEHIND"
+    boni:
+      - question: "Common to “hypermetric” and “hyperactive”?"
+        answer: "ABOVE"
+      - question: "Common to “isometric” and “isosceles”?"
+        answer: "EQUAL"
+  - tossup:
+      question: "What is the first person plural perfect passive subjunctive of video?"
+      answer: "VISI SIMUS"
+    boni:
+      - question: "What is the second person singular imperfect passive subjunctive of colo?"
+        answer: "COLERERIS"
+      - question: "What is the third person plural pluperfect passive subjunctive of sentio?"
+        answer: "SENSI ESSENT"
+  - tossup:
+      question: "What use of what case would be the most economical and therefore the likeliest way to say: “When camp had been broken”?"
+      answer: "ABLATIVE ABSOLUTE"
+    boni:
+      - question: ""
+        answer: "Name two verbs that govern the ablative."
+      - question: ""
+        answer: "FRUOR, FUNGOR, VESCOR, UTOR, POTIOR, CAREO, GLORIOR // Name two more."
+  - tossup:
+      question: "What Latin verb means “set free”?"
+      answer: "LIBERO (or MANUMITTO)"
+    boni:
+      - question: "What verb means “punish”?"
+        answer: "PUNIO (or POENAM SUMERE)"
+      - question: "What verb means “kill”?"
+        answer: "NECO, CAEDO, INTERFICIO"
+  - tossup:
+      question: "Give the meaning of the Latin word for."
+      answer: "SPEAK"
+    boni:
+      - question: "Translate the adverb foris."
+        answer: "OUTDOORS"
+      - question: "Translate the adverb forsan."
+        answer: "PERHAPS"
+  - tossup:
+      question: ""
+      answer: "<latin>Monstra mihi tres digitos.</latin>"
+    boni:
+      - question: ""
+        answer: "PLAYER SHOULD SHOW THREE FINGERS."
+      - question: ""
+        answer: "<latin>Ponite tres pedes in mensa.</latin> // TEAM SHOULD PUT THREE FEET ON THE TABLE. // <latin>Ponite manus dextras in umeris dextris.</latin> // TEAM SHOULD PUT RIGHT HANDS ON RIGHT SHOULDERS."
+  - tossup:
+      question: ""
+      answer: "Tell me in Latin that you can hear."
+    boni:
+      - question: ""
+        answer: "POSSUM AUDIRE or AUDIO"
+      - question: "Command me in Latin to listen to you."
+        answer: "Tell me that you have all heard me. // (OMNES) TE AUDIVIMUS. // AUDI NOS/ME."
+  - tossup:
+      question: "What bitterly anti-Christian emperor has been named “the Apostate”?"
+      answer: "JULIAN"
+    boni:
+      - question: "In what century did he reign?"
+        answer: "FOURTH AD"
+      - question: "Who was Julian’s paternal uncle, also an emperor?"
+        answer: "CONSTANTINE"
+  - tossup:
+      question: "What Roman statesman was sent to Cyprus in 58BC to get him out of the triumvirs’ way?"
+      answer: "CATO THE YOUNGER (UTICENSIS)"
+    boni:
+      - question: "Who proposed the law that sent him there?"
+        answer: "P. CLODIUS PULCHER"
+      - question: "The loss of what battle by Pompeian forces precipitated Cato’s suicide?"
+        answer: "THAPSUS"
+  - tossup:
+      question: "Between January, 68AD, and January, 70AD, how many emperors did Rome have?"
+      answer: "FIVE"
+    boni:
+      - question: "Who was the last of them, whose reign lasted ten years?"
+        answer: "VESPASIAN"
+      - question: "How many of his sons succeeded him?"
+        answer: "TWO"
+  - tossup:
+      question: "When are the Ides of August?"
+      answer: "THE THIRTEENTH"
+    boni:
+      - question: "When are the Ides of July?"
+        answer: "THE FIFTEENTH"
+      - question: "When are the Nones of July and August?"
+        answer: "JULY 7TH, AUGUST 5TH"
+  - tossup:
+      question: "What was called the regina viarum?"
+      answer: "APPIAN WAY (VIA APPIA)"
+    boni:
+      - question: "What southern Italian city was the terminus of the extended Appian Way?"
+        answer: "BRUNDISIUM"
+      - question: "Where had it ended originally?"
+        answer: "CAPUA"
+  - tossup:
+      question: "What character from Troy was also called Scamandrius?"
+      answer: "ASTYANAX"
+    boni:
+      - question: "Who was his father?"
+        answer: "HECTOR"
+      - question: "Who was his mother?"
+        answer: "ANDROMACHE"
+  - tossup:
+      question: "What deity was the offspring of Zeus and Demeter?"
+      answer: "PERSEPHONE"
+    boni:
+      - question: "What did the Romans call her?"
+        answer: "PROSERPINA"
+      - question: "Whose wife did she unwillingly become?"
+        answer: "PLUTO'S/DIS/HADES'"
+  - tossup:
+      question: "Who was the father of Medea?"
+      answer: "AEETES"
+    boni:
+      - question: "Where In Colchis was his fortress?"
+        answer: "AEA"
+      - question: "Who was his son, killed and dismembered by Medea?"
+        answer: "ABSYRTUS"
+  - tossup:
+      question: "Who was the famous son of Peleus and Thetis?"
+      answer: "ACHILLES"
+    boni:
+      - question: "How many sons did they have?"
+        answer: "SEVEN (or ONE)"
+      - question: "Why did Zeus not marry Thetis as he had desired?"
+        answer: "HER SON WAS PROPHESIED TO BE GREATER THAN HIS FATHER"
+  - tossup:
+      question: "Who besides Demeter is sometimes called Persephone's mother?"
+      answer: "STYX"
+    boni:
+      - question: "What Titan was Styx' mate?"
+        answer: "PALLAS"
+      - question: "What monster did Styx bear Peiras?"
+        answer: "ECHIDNA"
+  - tossup:
+      question: "What noun with what meaning gives us the word “nepotism”?"
+      answer: "NEPOS = GRANDSON, NEPHEW"
+    boni:
+      - question: "What does the English word “nepotism” mean?"
+        answer: "HIRING YOUR RELATIVES, ESPECIALLY FOR A PUBLIC OFFICIAL"
+      - question: "Nepotism is often considered a form of political corruption. What verb with what meaning is the basic root of “corruption”?"
+        answer: "RUMPO=BREAK // #"

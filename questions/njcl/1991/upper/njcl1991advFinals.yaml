@@ -1,0 +1,157 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "From what general direction did Notus blow?"
+      answer: "SOUTH"
+    boni:
+      - question: "What was the southeast wind?"
+        answer: "EURUS or VOLTURNUS"
+      - question: "What was the southwest wind?"
+        answer: "AFRICUS"
+  - tossup:
+      question: "The highest decoration a Roman soldier could receive was the <emphasis>corona graminea</emphasis>. What did he have to do to get it?"
+      answer: "DELIVER A BESIEGED ARMY"
+    boni:
+      - question: "To whom was a <emphasis>corona laurea</emphasis> awarded?"
+        answer: "A TRIUMPHANT GENERAL (VICTORY OVER FOREIGN ENEMY, AT LEAST 5000 DEAD)"
+      - question: "What corona was part of a minor triumph or ovatio?"
+        answer: "CORONA MYRTEA"
+  - tossup:
+      question: "What Latin noun is the root of “pioneer”?"
+      answer: "PES"
+    boni:
+      - question: "What English noun borrowed from Spanish for “footsoldier or peasant” is the intermediate step between pes and “pioneer”?"
+        answer: "PEON"
+      - question: "What Latin noun is the root of “peasant”?"
+        answer: "PAGANUS"
+  - tossup:
+      question: "Who were the parents, according to some sources, of a daughter named Eriopis and a son named Medeius?"
+      answer: "JASON AND MEDEA"
+    boni:
+      - question: "By other sources, they had two sons named what?"
+        answer: "MERMERUS AND PHERES"
+      - question: "By still other accounts, they had three sons named what?"
+        answer: "ALCIMENES, THESSALUS AND TISANDER/TISANDRUS"
+  - tossup:
+      question: "Who was Rome's first antagonist in Asia, starting in the early second century BC?"
+      answer: "ANTIOCHUS III (THE GREAT)"
+    boni:
+      - question: "What was Antiochus' dynasty?"
+        answer: "THE SELEUCID"
+      - question: "At what already famous battle site did he suffer a great defeat by the Romans in 191BC?"
+        answer: "THERMOPYLAE"
+  - tossup:
+      question: "What Roman emperor lifted the ban on marriage by legionaries?"
+      answer: "SEPTIMIUS SEVERUS"
+    boni:
+      - question: "How did Septimius Severus reform the pretorian guard?"
+        answer: "OPENED ITS RANKS TO PROVINCIALS"
+      - question: "Septimius Severus also raised a legionary's pay from 300 denarii to what?"
+        answer: "(BY REPLACING ITS MEMBERS WITH LEGIONARIES) // DENARII"
+  - tossup:
+      question: "What was the name of the only child of the emperor Titus?"
+      answer: "A DAUGHTER JULIA"
+    boni:
+      - question: "Her mother was his second wife; his first wife, Arrecina Tertulla, was the daughter of what earlier emperor's pretorian prefect?"
+        answer: "CALIGULA'S"
+      - question: "What eastern queen had been Titus' mistress before his ascension to the principate?"
+        answer: "BERENICE"
+  - tossup:
+      question: "What Latin measurement do “ounce” and “inch” both derive from?"
+      answer: "UNCIA"
+    boni:
+      - question: "What fraction does uncia represent?"
+        answer: "ONE TWELFTH"
+      - question: "12 unciae make a pes of length or a libra of weight; what do 12 unciae of area make?"
+        answer: "A IUGERUM"
+  - tossup:
+      question: "What Roman author translated in its entirety a Greek work entitled Phaenomena?"
+      answer: "CICERO"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was the Greek author?"
+        answer: "ARATUS // Name one of Cicero's autobiographical poems. // DE CONSULATU (MEO/SUO) or de temporibus suis"
+  - tossup:
+      question: "who got his youth back for one day so that he could do battle with his late uncle's nemesis?"
+      answer: "iolaus"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "who was iolaus' father? who was the tormentor of heracles whom iolaus killed in some accounts? xi. what son of minos was fated to be killed by one of his own children? which one did so? what grandson of catreus came to his funeral, leaving portentous goings on to occur at home?"
+        answer: "iphicles // eurystheus // catreus // // althaemenes // menelaus"
+  - tossup:
+      question: "What author, also a successful general, organized the first public recitations of literature in Rome?"
+      answer: "GAIUS ASINIUS POLLIO"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What did he build with the booty from his triumph of 39BC? What other writer did he accuse of Patavinitas?"
+        answer: "ROME'S FIRST PUBLIC LIBRARY // LIVY"
+  - tossup:
+      question: "What Greek tragedian wrote two lost plays about Bellerophon?"
+      answer: "EURIPIDES"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Name them for five points each."
+        answer: "BELLEROPHON and STHENEBOEA"
+  - tossup:
+      question: "What are the components in the Latin compound verb neglego?"
+      answer: "NEC AND LEGO"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What is its third principal part? What is the compound of dis and lego?"
+        answer: "NEGLEXI // DILIGO"
+  - tossup:
+      question: "The noun glos exists only in the nominative, while mane exists only in the ablative. What do you call a noun that exists in only one case?"
+      answer: "MONOPTOTE"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What do you call a noun such as fames, which can't seem to decide what declension it's in? What is the term for a noun such as dies, which varies in gender?"
+        answer: "HETEROCLITE // HETEROGENEOUS"
+  - tossup:
+      question: "What king was driven from the Italian town of Privernum for his cruelty?"
+      answer: "METABUS"
+    boni:
+      - question: "Who was his daughter?"
+        answer: "CAMILLA"
+      - question: "How did he get her safely across a rushing river?"
+        answer: "TIED HER TO A SPEAR AND THREW IT ACROSS (WITH A PRAYER TO DIANA)"
+  - tossup:
+      question: "Translate into English: Parvus pastor patri pio paruit."
+      answer: "THE LITTLE SHEPHERD OBEYED HIS PIOUS FATHER."
+    boni:
+      - question: "Translate into alliterative Latin: Teacher, my mother prefers ripe apples."
+        answer: "MAGISTER, MEA MATER MALA MATURA MAVULT."
+      - question: "Translate into English: Nauta notus novercae nobili nocere noluit."
+        answer: "THE FAMOUS SAILOR DIDN'T WANT TO HARM HIS NOBLE STEPMOTHER."
+  - tossup:
+      question: "Octavia, lumped with Seneca's work but clearly not by him, is our only extant example of what genre?"
+      answer: "FABULA PRAETEXTA"
+    boni:
+      - question: "What character's ghost foretells Nero's doom in the piece?"
+        answer: "AGRIPPINA'S"
+      - question: "What author does Seneca make a character?"
+        answer: "SENECA HIMSELF"
+  - tossup:
+      question: "What do you get by combining a protasis and an apodosis?"
+      answer: "A CONDITIONAL SENTENCE"
+    boni:
+      - question: "What kind of conditional sentence has two pluperfect subjunctives?"
+        answer: "PAST CONTRARY TO FACT"
+      - question: "What is the more correct term for a “should-would” sentence?"
+        answer: "FUTURE LESS VIVID"
+  - tossup:
+      question: ""
+      answer: "Distinguish between iamdudum with the present tense and with the perfect tense."
+    boni:
+      - question: ""
+        answer: "WITH PRESENT = LONG SINCE, FOR A LONG TIME NOW"
+      - question: "What other iam compound is roughly synonymous? Define iamiamque."
+        answer: "WITH PERFECT = LONG AGO, LONG BEFORE // IAMPRIDEM // AT THIS VERY MOMENT, RIGHT NOW // #"

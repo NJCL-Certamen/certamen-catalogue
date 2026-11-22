@@ -1,0 +1,113 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Advanced"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: ""
+      answer: "LANGUAGE"
+  - tossup:
+      question: "What suffix denotes an inchoative verb?"
+      answer: "-SCO"
+  - tossup:
+      question: "Change <latin>loquamur</latin> to imperfect."
+      answer: "LOQUEREMUR"
+  - tossup:
+      question: "When would a verb be subjunctive within indirect statement?"
+      answer: "IF PART OF A RELATIVE OR OTHER DEPENDENT CLAUSE"
+  - tossup:
+      question: "What was the Roman date of Sunday, the first day of convention?"
+      answer: "PRIDIE KALENDAS AUGUSTAS"
+  - tossup:
+      question: "What possessive adjective matches the pronoun <latin>vos</latin>?"
+      answer: "VESTER"
+  - tossup:
+      question: "Translate the phrase <latin>tectum tollere</latin>."
+      answer: "RAISE THE ROOF"
+  - tossup:
+      question: "<latin>Monstra mihi tuam ulnam.</latin>"
+      answer: "PLAYER MUST POINT OUT HIS ELBOW"
+  - tossup:
+      question: "What Latin root verb is the source of “enclosure”?"
+      answer: "CLAUDO"
+  - tossup:
+      question: "Distinguish in meaning between the nouns <latin>pullus</latin> and <latin>pellis</latin>."
+      answer: "PULLUS = CHICKEN PELLIS = SKIN"
+  - tossup:
+      question: ""
+      answer: "Translate: <latin>Scimus nos discipulos optimos esse.</latin> WE KNOW THAT WE ARE VERY GOOD STUDENTS."
+  - tossup:
+      question: "What elements combine to make the word <latin>nihilum</latin>?"
+      answer: "NE + HILUM"
+  - tossup:
+      question: "What is the superlative of <latin>vetus</latin>?"
+      answer: "VETERRIMUS"
+  - tossup:
+      question: ""
+      answer: "MYTHOLOGY"
+  - tossup:
+      question: "Who was the closest friend of Achilles?"
+      answer: "PATROCLUS"
+  - tossup:
+      question: "Who was the bronze giant on Crete?"
+      answer: "TALUS"
+  - tossup:
+      question: "What son of Theseus was falsely accused by Phaedra?"
+      answer: "HIPPOLYTUS"
+  - tossup:
+      question: "What goddess was called Urania, “heavenly”?"
+      answer: "APHRODITE"
+  - tossup:
+      question: "What group of divine maidens were said to roll back the clouds when Zeus drove his chariot out of Olympus' gates?"
+      answer: "HORAE"
+  - tossup:
+      question: "What goddess sent the Calydonian boar to punish Oeneus for his neglect of the sacrifices due her?"
+      answer: "ARTEMIS/DIANA"
+  - tossup:
+      question: ""
+      answer: "HISTORY"
+  - tossup:
+      question: "What first-century emperor was succeeded by his two sons?"
+      answer: "VESPASIAN"
+  - tossup:
+      question: "How many balls were used in trigon?"
+      answer: "TWO"
+  - tossup:
+      question: "Where did 300 Spartans fight the Persians?"
+      answer: "THERMOPYLAE"
+  - tossup:
+      question: "What city summoned Pyrrhus to help them against the Romans?"
+      answer: "TARENTUM"
+  - tossup:
+      question: "What was the year of Caesar's first invasion of Britain?"
+      answer: "55BC"
+  - tossup:
+      question: "What nephew of Scipio Africanus Minor built Rome's first triumphal arch in c120BC?"
+      answer: "Q. FABIUS MAXIMUS ALLOBROGICUS"
+  - tossup:
+      question: "What emperor served for 22 days in 238AD?"
+      answer: "GORDIAN I"
+  - tossup:
+      question: ""
+      answer: "LITERATURE"
+  - tossup:
+      question: "Who wrote the <latin>Theogony</latin>?"
+      answer: "HESIOD"
+  - tossup:
+      question: "What is the other Latin title of the <latin><latin>Ars Poetica</latin></latin>?"
+      answer: "(<latin>EPISTOLA</latin>) <latin>AD PISONES</latin>"
+  - tossup:
+      question: "What is the other Latin title of the <latin><latin>Pharsalia</latin></latin>?"
+      answer: "BELLUM CIVILE"
+  - tossup:
+      question: "Whom does Aeneas address as <latin>O terque quaterque beati</latin>?"
+      answer: "THOSE WHO DIED DEFENDING TROY"
+  - tossup:
+      question: "Who wrote the <latin><latin>Bellum Iugurthinum</latin></latin>?"
+      answer: "GAIUS SALLUSTIUS CRISPUS"
+  - tossup:
+      question: "What was the full name of the author we call Quintilian?"
+      answer: "M. FABIUS QUINTILIANUS"
+    boni:
+      - question: ""
+        answer: "#"

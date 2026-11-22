@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Change <latin>misissem</latin> to indicative."
+      answer: "MISERAM"
+    boni:
+      - question: "Change <latin>miseram</latin> to future perfect."
+        answer: "MISERO"
+      - question: "Change <latin>misero</latin> to passive."
+        answer: "MISSUS ERO"
+  - tossup:
+      question: "What are all of the following: <latin>betae</latin>, <latin>fabae</latin>, <latin>carotae</latin>, <latin>brassicae</latin>, <latin>lactuca</latin>?"
+      answer: "VEGETABLES"
+    boni:
+      - question: "What are <latin>fabae</latin>?"
+        answer: "BEANS"
+      - question: "What is <latin>lactuca</latin>?"
+        answer: "LETTUCE"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between <latin>hortus</latin> and <latin>hortor</latin>."
+    boni:
+      - question: ""
+        answer: "HORTUS = GARDEN HORTOR = URGE, ENCOURAGE"
+      - question: ""
+        answer: "Distinguish in meaning between <latin>humus</latin> and <latin>fumus</latin>. // HUMUS = DIRT, GROUND FUMUS = SMOKE // Distinguish in meaning between <latin>hīc</latin> and <latin>hūc</latin>. // HĪC = HERE, IN THIS PLACE HŪC = HITHER, TO THIS PLACE"
+  - tossup:
+      question: "What short-term emperor, hailed in 249AD, conducted an empire-wide persecution of the Christians?"
+      answer: "DECIUS"
+    boni:
+      - question: "After which of the Five Good Emperors did he mean to model himself?"
+        answer: "TRAJAN"
+      - question: "What barbarian tribe under a chieftain named Cniva defeated Decius?"
+        answer: "THE GOTHS"
+  - tossup:
+      question: "What early Latin tragedian was born in Pisaurum?"
+      answer: "L. ACCIUS"
+    boni:
+      - question: "In what year?"
+        answer: "170BC"
+      - question: "What earlier tragedian, 50 years older, was a friend of Accius?"
+        answer: "M. PACUVIUS"
+  - tossup:
+      question: "What praenomen was shared by Vergil and Ovid?"
+      answer: "PUBLIUS"
+    boni:
+      - question: "What was Vergil's cognomen?"
+        answer: "MARO"
+      - question: "What was Ovid's cognomen?"
+        answer: "NASO // Round A3, Page 2"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “phenomenon” and “epiphany”?"
+      answer: "SHOW, APPEAR"
+    boni:
+      - question: "Common to “helicopter” and “pterodactyl”?"
+        answer: "WING"
+      - question: "Common to “pterodactyl” and “dactylic”?"
+        answer: "FINGER"
+  - tossup:
+      question: "What literary device is in use when Vergil says Mercury rows through the air with his wings?"
+      answer: "METAPHOR"
+    boni:
+      - question: "For five points each, what two devices are in use when Ovid begins a description with <latin>haud aliter quam</latin>?"
+        answer: "LITOTES AND SIMILE"
+  - tossup:
+      question: "Which two of Cicero's orations against Catiline were delivered in the same place?"
+      answer: "THE SECOND AND THIRD"
+    boni:
+      - question: "What was the Latin name for this place?"
+        answer: "THE ROSTRA"
+      - question: "Where was the fourth delivered?"
+        answer: "THE TEMPLE OF CONCORD"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “ruins”?"
+      answer: "RUO = FALL, COLLAPSE; RUSH"
+    boni:
+      - question: "What Latin adjective with what meaning is the root of “rudiment”?"
+        answer: "RUDIS = ROUGH, UNFORMED"
+      - question: "What Latin verb with what meaning is the root of “route” (spell)?"
+        answer: "RUMPO = BREAK"
+  - tossup:
+      question: "What king of Ethiopia was an ally of the Trojans?"
+      answer: "MEMNON"
+    boni:
+      - question: "Who killed Memnon?"
+        answer: "ACHILLES"
+      - question: "Who was Memnon's mother?"
+        answer: "EOS/AURORA"
+  - tossup:
+      question: "Which of the following does not have the same root as the others: “coven,” “convenient,” “covey,” “covenant”?"
+      answer: "COVEY"
+    boni:
+      - question: "What compound verb is the root of “coven” and “covenant”?"
+        answer: "CONVENIO"
+      - question: "What verb is the root of “covey”?"
+        answer: "CUBO, CUBARE"
+  - tossup:
+      question: "Who were the parents of Phobos and Deimos?"
+      answer: "ARES AND APHRODITE or MARS AND VENUS"
+    boni:
+      - question: "Who was Aphrodite's son by Dionysus?"
+        answer: "PRIAPUS"
+      - question: "What son of Aphrodite was sometimes said to have been sired by Poseidon?"
+        answer: "ERYX"
+  - tossup:
+      question: "In a forum in Rome honoring what emperor will you find a column commemorating his conquest beyond the Adriatic?"
+      answer: "TRAJAN"
+    boni:
+      - question: "What land did he conquer, as depicted on the column?"
+        answer: "DACIA"
+      - question: "What is the Latin name of the forum?"
+        answer: "FORUM TRAIANI or FORUM ULPIUM"
+  - tossup:
+      question: "Where in central Italy will you find three magnificent and well-preserved Doric temples - two to Hera and one to Athena?"
+      answer: "PAESTUM"
+    boni:
+      - question: "What did the Greeks call this colony?"
+        answer: "POSIDONIA"
+      - question: "What Greek city in Italy founded this colony?"
+        answer: "SYBARIS"
+  - tossup:
+      question: "Change the verb form <latin>laudem</latin> to plural."
+      answer: "LAUDEMUS"
+    boni:
+      - question: "Change the noun form <latin>laudem</latin> to plural."
+        answer: "LAUDES"
+      - question: "Change the verb form <latin>laudes</latin> to plural."
+        answer: "LAUDETIS"
+  - tossup:
+      question: "When Autolycus stole Sisyphus' cattle, what did Sisyphus do in retaliation?"
+      answer: "<latin>SEDUCED HIS DAUGHTER ANTICLEA</latin>"
+    boni:
+      - question: "What son then borne by Anticlea may or may not have been Sisyphus'?"
+        answer: "ODYSSEUS"
+      - question: "What man, Anticlea's husband, do some sources, Homer included, make Odysseus' father?"
+        answer: "LAERTES"
+  - tossup:
+      question: "What river god was Narcissus' father?"
+      answer: "CEPHISSUS"
+    boni:
+      - question: "What nymph was Narcissus' mother?"
+        answer: "LIRIOPE"
+      - question: "What was Tiresias' response when Liriope asked if Narcissus would have a long life?"
+        answer: "“HE WILL IF HE NEVER KNOWS HIMSELF”"
+  - tossup:
+      question: ""
+      answer: "Translate: Miror cur illud roges."
+    boni:
+      - question: ""
+        answer: "I WONDER WHY YOU ASK (or ARE ASKING) THAT."
+      - question: ""
+        answer: "Translate: “I wonder why you asked that.” // MIROR CUR ILLUD ROGAVERIS. // Translate: “I was wondering why you had asked that.” // MIRABAR CUR ILLUD ROGAVISSES. // Round A3, Page 4"
+  - tossup:
+      question: "What punishment caused a man's name to be removed from inscriptions?"
+      answer: "DAMNATIO MEMORIAE"
+    boni:
+      - question: "What limitation did this place on a man's praenomen?"
+        answer: "IT COULD NOT BE USED AGAIN IN HIS FAMILY"
+      - question: ""
+        answer: "Name an emperor so punished after his death. // DOMITIAN, ELAGABALUS, COMMODUS // #"

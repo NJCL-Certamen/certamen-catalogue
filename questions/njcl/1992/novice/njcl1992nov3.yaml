@@ -1,0 +1,125 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What was a folium?"
+      answer: "LEAF/PAGE"
+    boni:
+      - question: "What was herba?"
+        answer: "GRASS"
+      - question: "What was a radix?"
+        answer: "ROOT (or RADISH)"
+  - tossup:
+      question: "What princess had to be sacrificed before the Greeks could sail to Troy?"
+      answer: "IPHIGENIA"
+    boni:
+      - question: "On what pretense did Agamemnon have Iphigenia sent to him?"
+        answer: "SHE WAS SUPPOSEDLY TO WED ACHILLES"
+      - question: "What was the seaport where the Greeks were becalmed?"
+        answer: "AULIS"
+  - tossup:
+      question: "Whose bird was the owl?"
+      answer: "ATHENA’S/MINERVA’S"
+    boni:
+      - question: "Whose was the dove?"
+        answer: "APHRODITE’S/VENUS’"
+      - question: "Whose was the eagle?"
+        answer: "ZEUS’/JUPITER’S"
+  - tossup:
+      question: "Who was hailed as restitutor orbis?"
+      answer: "AURELIAN"
+    boni:
+      - question: "What self-proclaimed emperor of Gaul did he defeat to win that title?"
+        answer: "TETRICUS"
+      - question: "What was the year?"
+        answer: "274AD"
+  - tossup:
+      question: "Who were the two sons of Livia?"
+      answer: "DRUSUS AND TIBERIUS"
+    boni:
+      - question: "Whom did Drusus marry?"
+        answer: "ANTONIA MINOR"
+      - question: "Who was their first son?"
+        answer: "GERMANICUS"
+  - tossup:
+      question: "In what year did Roman soldiers fight each other at the Battles of Philippi?"
+      answer: "42BC"
+    boni:
+      - question: "What commander won?"
+        answer: "MARC ANTONY"
+      - question: "Who lost?"
+        answer: "CASSIUS AND BRUTUS (THE TYRANNICIDES)"
+  - tossup:
+      question: "Tell someone not to laugh."
+      answer: "NOLI RIDERE"
+    boni:
+      - question: "Tell two people to sing."
+        answer: "CANTATE/CANITE"
+      - question: "Tell them to cry."
+        answer: "FLETE/LACRIMATE"
+  - tossup:
+      question: "Who had to lift a great rock before he could meet his father?"
+      answer: "THESEUS"
+    boni:
+      - question: "What lay beneath the rock?"
+        answer: "A SWORD AND SANDALS"
+      - question: "Who was Theseus’ mother?"
+        answer: "AETHRA // ROUND C3, page 2"
+  - tossup:
+      question: "Who was Heracles' mortal half-brother?"
+      answer: "IPHICLES"
+    boni:
+      - question: "Who was their mother?"
+        answer: "ALCMENE"
+      - question: "Who was Alcmene's husband?"
+        answer: "AMPHITRYON"
+  - tossup:
+      question: "What tense is used to show action now incomplete but completed by some future time?"
+      answer: "FUTURE PERFECT"
+    boni:
+      - question: "What tense shows action already completed at some past time?"
+        answer: "PLUPERFECT"
+      - question: "What tense shows actions occurring repeatedly in the past?"
+        answer: "IMPERFECT"
+  - tossup:
+      question: "What Latin noun is the root of “semester”?"
+      answer: "MENSIS"
+    boni:
+      - question: "What adjective is the other root of that word?"
+        answer: "SEX"
+      - question: "What noun is the root of “term”?"
+        answer: "TERMINUS"
+  - tossup:
+      question: ""
+      answer: "Sitting near you at the next table is a fully-staffed, all-girl certamen team. Count them out loud."
+    boni:
+      - question: ""
+        answer: "UNA, DUAE, TRES, QUATTUOR"
+      - question: "Your other opponents are a fully-staffed, all-boy team. Count them out loud."
+        answer: "UNUS, DUO, TRES, QUATTUOR // Now count them again, just their heads. // UNUM, DUO, TRIA, QUATTUOR"
+  - tossup:
+      question: "To postpone her suitors, what did Penelope work on by day and secretly undo at night?"
+      answer: "A SHROUD FOR LAERTES (HER FATHER-IN-LAW)"
+    boni:
+      - question: "After the suitors discovered her deception, she agreed to choose the man who could perform what feat of strength and skill?"
+        answer: "(STRING ODYSSEUS' BOW AND) SHOOT AN ARROW THROUGH TWELVE AX-HEADS"
+      - question: "Who finally accomplished this feat?"
+        answer: "ODYSSEUS (IN DISGUISE)"
+  - tossup:
+      question: "How would a Roman say, “I will believe”?"
+      answer: "CREDAM"
+    boni:
+      - question: "How would he say, “I said”?"
+        answer: "DIXI/FATUS SUM/LOCUTUS SUM"
+      - question: "How would he say, “We saw”?"
+        answer: "VIDIMUS/CREVIMUS"
+  - tossup:
+      question: "What month is named for the Roman god of war?"
+      answer: "MARCH"
+    boni:
+      - question: "What month is named for the god with two faces?"
+        answer: "JANUARY"
+      - question: "What month is named for a fourth-conjugation verb?"
+        answer: "APRIL // #"

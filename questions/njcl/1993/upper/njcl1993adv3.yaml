@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the verbs <latin>crepo</latin> and <latin>repo</latin>."
+    boni:
+      - question: ""
+        answer: "CREPO=RATTLE, CREAK, CRACK, RUSTLE REPO=CRAWL, CREEP"
+      - question: ""
+        answer: "Distinguish in meaning between the verbs <latin>flo</latin> and <latin>fluo</latin>. // FLO = BLOW, FLUO = FLOW // Distinguish in meaning between the verbs <latin>fleo</latin> and <latin>flecto</latin>. // FLEO = WEEP, FLECTO = BEND, BOW, CURVE"
+  - tossup:
+      question: ""
+      answer: "Translate into Latin: “I will follow the army.”"
+    boni:
+      - question: ""
+        answer: "EXERCITUM SEQUAR."
+      - question: "“We followed the ships.”"
+        answer: "NAVES SECUTI SUMUS. // “The Roman ships followed the ship of the pirates.” // NAVES ROMANAE NAVEM PIRATARUM SECUTAE SUNT."
+  - tossup:
+      question: "What Latin noun is the root of “ceiling”?"
+      answer: "CAELUM"
+    boni:
+      - question: "What Latin noun is the root of “foyer”?"
+        answer: "FOCUS"
+      - question: "What is the meaning of the late Latin verb that is the root of “parlor”?"
+        answer: "SPEAK"
+  - tossup:
+      question: "What Greek city controls the isthmus connecting the Peloponnesus to the rest of Greece?"
+      answer: "CORINTH"
+    boni:
+      - question: "What is the name of its acropolis?"
+        answer: "ACROCORINTH"
+      - question: "Was Corinth an ally or enemy of Athens at the outbreak of the Peloponnesian War in 431BC?"
+        answer: "ENEMY"
+  - tossup:
+      question: ""
+      answer: "With the adjective in the superlative, give the ablative singular of the phrase <latin>iter facile</latin>."
+    boni:
+      - question: ""
+        answer: "ITINERE FACILLIMO"
+      - question: "With the adjective in the comparative, give the genitive plural of the phrase <latin>malum vulnus</latin>."
+        answer: "PEIORUM VULNERUM // With the adjective in the superlative, give the genitive singular of the phrase <latin>nox idonea</latin>. // NOCTIS MAXIME IDONEAE"
+  - tossup:
+      question: "Make <latin>nolo</latin> subjunctive."
+      answer: "NOLIM"
+    boni:
+      - question: "Make <latin>nolim</latin> imperfect."
+        answer: "NOLLEM"
+      - question: "Make <latin>nollem</latin> perfect."
+        answer: "NOLUERIM // ROUND A3, page 2"
+  - tossup:
+      question: "What deity's festival was August 23?"
+      answer: "VULCAN'S"
+    boni:
+      - question: "What was his festival called?"
+        answer: "VOLCANALIA"
+      - question: "What bizarre sacrificial practice marked the Volcanalia?"
+        answer: "LIVE FISH FROM THE TIBER WERE FLUNG INTO A FIRE"
+  - tossup:
+      question: ""
+      answer: "In the sentence, “In my youth I went to Greece many times,” use the verb eo to translate “I went.”"
+    boni:
+      - question: ""
+        answer: "IBAM"
+      - question: "Translate the verb in “If I had gone more often, I could have seen more beautiful temples.”"
+        answer: "Translate the verb in “I went to Greece once last year.” // II/IVI // IISSEM/ĪSSEM/IVISSEM"
+  - tossup:
+      question: "What case is used with secundum when it means “according to”?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What two cases can be found with tenus, which means “as far as” or “up to”?"
+        answer: "GENITIVE AND ACCUSATIVE"
+      - question: "What is even odder about tenus?"
+        answer: "IT IS POSTPOSITIVE"
+  - tossup:
+      question: "What grandfather gave Odysseus his name?"
+      answer: "AUTOLYCUS"
+    boni:
+      - question: "Who was Autolycus' daughter, Odysseus' mother?"
+        answer: "ANTICLEA"
+      - question: "Who seduced Anticlea to punish Autolycus for stealing his cattle, and so may have been Odysseus' father?"
+        answer: "SISYPHUS"
+  - tossup:
+      question: "Which of these flowers is from Latin, not Greek: azalea, dandelion, chrysanthemum, rhododendron?"
+      answer: "DANDELION"
+    boni:
+      - question: "What Latin verb is the root of “pansy”?"
+        answer: "PENDO (PENSO)"
+      - question: "Which of these is from Latin: poinsettia, lily, zinnia, tulip?"
+        answer: "LILY"
+  - tossup:
+      question: "What did Cicero call his work whose title is sometimes given as De Senectute?"
+      answer: "CATO MAIOR"
+    boni:
+      - question: "This work is a dialogue among Cato and two of his friends. Name one of them."
+        answer: "LAELIUS and"
+      - question: "De Senectute is patterned after what work by Plato?"
+        answer: "SCIPIO AEMILIANUS (AFRICANUS MINOR) // THE REPUBLIC // ROUND A3, page 3"
+  - tossup:
+      question: ""
+      answer: "Give the full name of the Roman poet who wrote love poems to Lesbia."
+    boni:
+      - question: ""
+        answer: "GAIUS VALERIUS CATULLUS"
+      - question: "As a member of the staff of Memmius, governor of the province of Bithynia in 57BC, Catullus visited whose grave? One of Catullus’ most famous love poems is addressed to his lover’s pet; what kind of animal was it?"
+        answer: "HIS BROTHER’S // A SPARROW"
+  - tossup:
+      question: "Where does an oracle, addressing them as <latin>Dardanidae duri</latin>, tell the Trojans: <latin>Antiquam exquirite matrem</latin>?"
+      answer: "DELOS"
+    boni:
+      - question: "Who promptly misinterprets the oracle?"
+        answer: "ANCHISES"
+      - question: "Where does he think it means?"
+        answer: "CRETE"
+  - tossup:
+      question: "What early Roman poet was called by a later and greater poet his “lantern”?"
+      answer: "LUCILIUS"
+    boni:
+      - question: "Who called him that?"
+        answer: "HORACE"
+      - question: "What genre did they share?"
+        answer: "SATIRE"
+  - tossup:
+      question: "What king sheltered Daedalus after he had escaped from Crete?"
+      answer: "COCALUS"
+    boni:
+      - question: "What task did Minos use to ferret out Daedalus?"
+        answer: "THREADING A SPIRAL SEASHELL"
+      - question: "What was he supposed to have fashioned out of gold for display in Aphrodite’s shrine at Eryx in Sicily?"
+        answer: "A HONEYCOMB"
+  - tossup:
+      question: "What two characters served as cupbearers for the gods?"
+      answer: "HEBE AND GANYMEDE"
+    boni:
+      - question: "After Zeus shanghaied Ganymede to serve the gods on Olympus, who went to Ganymede’s father to inform him of the honor bestowed upon the youth?"
+        answer: "HERMES"
+      - question: "What gift was given to Ganymede’s father as recompense?"
+        answer: "A PAIR OF IMMORTAL MARES and/or // A GOLDEN VINE FASHIONED BY HEPHAESTUS // ROUND A3, page 4"
+  - tossup:
+      question: "Which of the following emperors did not receive a <latin>damnatio memoriae</latin>: Domitian, Caligula, Commodus, Pertinax?"
+      answer: "CALIGULA"
+    boni:
+      - question: "Whose actions prevented the Senate from passing such a decree on Caligula?"
+        answer: "CLAUDIUS'"
+      - question: "Which of these emperors was condemned to death by the Senate: Nero, Galba, Otho?"
+        answer: "NERO"
+  - tossup:
+      question: "What man was punished by Demeter with insatiable hunger?"
+      answer: "ERYSICHTHON"
+    boni:
+      - question: "How did he raise money to buy food?"
+        answer: "SOLD HIS DAUGHTER OVER AND OVER; SHE KEPT CHANGING SHAPE AND ESCAPING HER OWNERS, ONLY TO BE SOLD AGAIN"
+      - question: "What was the daughter’s name?"
+        answer: "MESTRA"
+  - tossup:
+      question: "What Carthaginian general was defeated in a battle at the Metaurus River?"
+      answer: "HASDRUBAL (HASDRUBAL BARCA)"
+    boni:
+      - question: "What was the year?"
+        answer: "207BC"
+      - question: "What rebellion in Africa did he put down between engagements with the Romans?"
+        answer: "SYPHAX' INSURRECTION // #"

@@ -1,0 +1,125 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Who was elected pontifex maximus during Cicero's consulship?"
+      answer: "JULIUS CAESAR"
+    boni:
+      - question: "What Asian enemy of Rome took his own life that year?"
+        answer: "MITHRIDATES"
+      - question: "Also in the same year, what Roman general besieged and captured Jerusalem?"
+        answer: "POMPEY"
+  - tossup:
+      question: "Ask in Latin: “Where am I”? UBI SUM?"
+      answer: ""
+    boni:
+      - question: "Ask: “Where am I going?"
+        answer: "”"
+      - question: "QUO EO? Ask: “Where have I come from? UNDE VENI?"
+        answer: "” // undefined"
+  - tossup:
+      question: "Who was Troy's last king?"
+      answer: "PRIAM"
+    boni:
+      - question: "Who was his queen?"
+        answer: "HECUBA"
+      - question: "Who was his bravest and strongest son?"
+        answer: "HECTOR"
+  - tossup:
+      question: "What Latin imperative is abbreviated cf?"
+      answer: "CONFER"
+    boni:
+      - question: "What adverb is abbreviated ibid?"
+        answer: "IBIDEM"
+      - question: "What command is abbreviated q.v.?"
+        answer: "QUOD VIDE"
+  - tossup:
+      question: "What would a Roman call his version of a fast-food joint?"
+      answer: "THERMOPOLIUM"
+    boni:
+      - question: "What did the Romans call allium?"
+        answer: "GARLIC"
+      - question: "The meat of what animal was eaten only by the poorest classes?"
+        answer: "GOAT"
+  - tossup:
+      question: "What would a Roman farmer call his field?"
+      answer: "AGER"
+    boni:
+      - question: "What noun would he use for himself?"
+        answer: "AGRICOLA"
+      - question: "What did he call his horse?"
+        answer: "EQUUS"
+  - tossup:
+      question: "What is the dative plural of pater?"
+      answer: "PATRIBUS"
+    boni:
+      - question: ""
+        answer: "Make patribus singular."
+      - question: ""
+        answer: "PATRI // Make patri ablative. // PATRE"
+  - tossup:
+      question: "The Domus Aurea of Nero lay in the valley between what two hills?"
+      answer: "PALATINE AND ESQUILINE"
+    boni:
+      - question: "Which emperor had a palatial villa which you can still visit at Tibur, now Tivoli?"
+        answer: "HADRIAN"
+      - question: "Whose villa can you see on Capri?"
+        answer: "TIBERIUS'"
+  - tossup:
+      question: "How many kings ruled Rome?"
+      answer: "SEVEN"
+    boni:
+      - question: "What elected official replaced the king?"
+        answer: "CONSUL"
+      - question: "What was a consul's term of office?"
+        answer: "ONE YEAR"
+  - tossup:
+      question: "Who took another ten years to get home after the ten years of the Trojan War?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "Where was his home?"
+        answer: "ITHACA"
+      - question: "Who was his faithful wife who awaited him there?"
+        answer: "PENELOPE"
+  - tossup:
+      question: "What was the relationship of Hestia, Hera and Demeter?"
+      answer: "SISTERS"
+    boni:
+      - question: "Which one was a virgin goddess?"
+        answer: "HESTIA"
+      - question: "Which one bore Zeus only one child?"
+        answer: "DEMETER"
+  - tossup:
+      question: "What narrow strait, meaning “cow crossing,” was named for the transformed Io?"
+      answer: "THE BOSPORUS"
+    boni:
+      - question: "What son did Zeus finally father on her, after all her wandering?"
+        answer: "EPAPHUS"
+      - question: "Whom did she encounter in her long trek and receive prophecy from?"
+        answer: "PROMETHEUS"
+  - tossup:
+      question: "What is a lupus?"
+      answer: "WOLF"
+    boni:
+      - question: "What is a lepus?"
+        answer: "RABBIT, HARE"
+      - question: "What is a lapis?"
+        answer: "STONE"
+  - tossup:
+      question: "Who gave Minos the Cretan bull?"
+      answer: "POSEIDON/NEPTUNE"
+    boni:
+      - question: "How did Poseidon punish Minos for not sacrificing it as expected?"
+        answer: "MADE PASIPHAE PASSIONATE FOR IT"
+      - question: "Who captured the bull live?"
+        answer: "HERACLES"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “inspire”?"
+      answer: "SPIRO = BREATHE"
+    boni:
+      - question: "What Latin verb with what meaning is the root of “imbibe”?"
+        answer: "BIBO = DRINK"
+      - question: "What Latin verb with what meaning is the root of “infuse”?"
+        answer: "FUNDO = POUR // #"

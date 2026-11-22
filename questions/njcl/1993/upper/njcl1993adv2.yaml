@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Advanced"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Who persuaded Semele to ask her lover Zeus to appear to her as he did to Hera?"
+      answer: "HERA"
+    boni:
+      - question: "In whose guise was Hera?"
+        answer: "BEROE, SEMELE’S NURSE"
+      - question: "What deity took the baby born of Zeus’ thigh to Ino for care?"
+        answer: "HERMES"
+  - tossup:
+      question: "Who wrote an epic with a hero named Aeneas?"
+      answer: "VERGIL"
+    boni:
+      - question: "What was Vergil’s full name?"
+        answer: "P. VERGILIUS MARO"
+      - question: "What was the name of the poem?"
+        answer: "THE AENEID"
+  - tossup:
+      question: "What Titaness was mother of the Fates?"
+      answer: "THEMIS"
+    boni:
+      - question: "What other divine trio did she bear?"
+        answer: "HORAE or SEASONS or HOURS"
+      - question: "Who preceded her as Zeus’ consort?"
+        answer: "METIS"
+  - tossup:
+      question: "What Numidian in the second and third decades AD carried on a guerrilla war and brigandage against Rome?"
+      answer: "TACFARINAS"
+    boni:
+      - question: "Who finally defeated and killed him in 24AD?"
+        answer: "P. CORNELIUS DOLABELLA"
+      - question: "Three proconsuls had won victories against Tacfarinas without ending his raids. Which one of the three was proclaimed <latin>imperator</latin> by his troops?"
+        answer: "Q. JUNIUS BLAESUS // (21AD, the last private citizen to receive that honor)"
+  - tossup:
+      question: "Who instituted dactylic hexameter as the meter of the Latin epic?"
+      answer: "Q. ENNIUS"
+    boni:
+      - question: "What is the title of his epic on Roman history?"
+        answer: "THE ANNALES"
+      - question: "In how many books is the <latin>Annales</latin> written?"
+        answer: "EIGHTEEN"
+  - tossup:
+      question: "What son of Pelias defied his father’s wishes and joined the Argonauts at the last minute?"
+      answer: "ACASTUS"
+    boni:
+      - question: "Who declined the leadership of the Argonauts, insisting that the honor belonged to Jason?"
+        answer: "HERACLES/HERCULES"
+      - question: "What deity provided the Argo’s talking prow?"
+        answer: "ATHENA/MINERVA"
+  - tossup:
+      question: "Between what two hills is the Circus Maximus?"
+      answer: "PALATINE AND AVENTINE"
+    boni:
+      - question: "On what highway is the Circus of Maxentius?"
+        answer: "THE APPIAN WAY"
+      - question: "Where was the Circus Flaminius?"
+        answer: "IN THE CAMPUS MARTIUS"
+  - tossup:
+      question: "Make <latin>facit</latin> passive."
+      answer: "FIT"
+    boni:
+      - question: "Make <latin>fit</latin> perfect."
+        answer: "FACTUM EST"
+      - question: "Make <latin>fit</latin> imperfect."
+        answer: "FIEBAT"
+  - tossup:
+      question: ""
+      answer: "Translate into idiomatic English this Latin sentence:"
+    boni:
+      - question: ""
+        answer: "Nobis bene ludendum est."
+      - question: "Translate this into English: Discipuli digni laude omnes sumus."
+        answer: "WE MUST PLAY WELL // WE ARE ALL STUDENTS WORTHY OF PRAISE. // Translate: Magistrorum nostrorum numquam obliviscemur. // WE SHALL NEVER FORGET OUR TEACHERS."
+  - tossup:
+      question: "What did the name Lucipor tell you about its owner?"
+      answer: "THAT LUCIPOR WAS LUCIUS’ SLAVE"
+    boni:
+      - question: "What word does the suffix -por represent?"
+        answer: "PUER"
+      - question: "How did an adopted man’s name end?"
+        answer: "-ANUS"
+  - tossup:
+      question: ""
+      answer: "Who in the Aeneid says: Tune ille Aeneas quem..."
+    boni:
+      - question: "Venus genuit?"
+        answer: "DIDO"
+      - question: "In what had Aeneas been hidden just prior to Dido’s words? Who accompanied him in this cloud?"
+        answer: "A CLOUD OR MIST // ACHATES"
+  - tossup:
+      question: "Where would you find a pulvinus and a lodix?"
+      answer: "ON A BED/IN A BEDROOM"
+    boni:
+      - question: "What is a pulvinus?"
+        answer: "A PILLOW/CUSHION"
+      - question: "What is a lodix?"
+        answer: "BLANKET/BEDSPREAD"
+  - tossup:
+      question: ""
+      answer: "Complete this sentence with the correct form of sum:"
+    boni:
+      - question: ""
+        answer: "Si rex essem, imperium mihi ______."
+      - question: "Nemo est qui eum quam te ______. Non erat dubium quin orator Caesarem ______."
+        answer: "ESSET // Complete this sentence with the correct form of malo: // MALIT // Complete this sentence with the correct form of laudo: // LAUDARET"
+  - tossup:
+      question: "What English adjective meaning “talkative” comes from loquor?"
+      answer: "LOQUACIOUS"
+    boni:
+      - question: "What noun meaning “result” comes from sequor?"
+        answer: "CONSEQUENCE"
+      - question: "What adjective meaning “sane” or “lucid” comes from reor?"
+        answer: "RATIONAL"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “formidable”?"
+      answer: "FORMIDO = FEAR"
+    boni:
+      - question: "What Latin verb with what meaning is the root of “terrible”?"
+        answer: "TERREO = FRIGHTEN"
+      - question: "What Latin verb with what meaning is the root of “digestible”?"
+        answer: "GERO = CONDUCT, CARRY ON"
+  - tossup:
+      question: "What oration of Cicero is also known as De imperio Gnaei Pompei?"
+      answer: "PRO LEGE MANILIA"
+    boni:
+      - question: "What was the year?"
+        answer: "66BC"
+      - question: "Against what threat did this give Pompey command?"
+        answer: "MITHRIDATES"
+  - tossup:
+      question: "What is the Latin word for “arrow”?"
+      answer: "SAGITTA"
+    boni:
+      - question: "What is the Latin word for “narrow”?"
+        answer: "ANGUSTUS"
+      - question: "What is the Latin word for “sparrow”?"
+        answer: "PASSER"
+  - tossup:
+      question: ""
+      answer: "Using a supine, translate “in order to buy bread.”"
+    boni:
+      - question: ""
+        answer: "EMPTUM PANEM"
+      - question: ""
+        answer: "Say the same thing, using a gerundive phrase. // AD EMENDUM PANEM or PANIS EMENDI CAUSA/GRATIA // Now say the same with a gerundive in a different case. // PANIS EMENDI CAUSA/GRATIA or AD EMENDUM PANEM"
+  - tossup:
+      question: "Who was the wife of Heracles' half-brother Iphicles?"
+      answer: "AUTOMEDUSA"
+    boni:
+      - question: "How did Amphitryon recognize Iphicles as the son of his flesh?"
+        answer: "BY THE CHILD'S TERROR WHEN THE SERPENTS ATTACKED THE BABIES IN THEIR CRADLE"
+      - question: "Iphicles died in his and Heracles' attack against what usurper on the throne of Sparta?"
+        answer: "HIPPOCOON // ROUND A2, page 4"
+  - tossup:
+      question: ""
+      answer: "During the Social War, what city did Rome's rebellious"
+    boni:
+      - question: "allies make the capital of Italia?"
+        answer: "CORFINUM/CORFINIUM/ITALIA"
+      - question: "in the Social War? example and remained consul for 85 and 84?"
+        answer: "What law led to peace with many of the rebellious allies // LEX JULIA, 90BC // What consular colleague of Marius in 86BC followed his // L. CORNELIUS CINNA // #"

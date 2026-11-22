@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "After <emphasis>si</emphasis>, <emphasis>nisi</emphasis>, <emphasis>num</emphasis> and <emphasis>ne</emphasis>, what prefix falls away from certain indefinite pronouns?"
+      answer: "ALI"
+    boni:
+      - question: "What kind of direct question is introduced by <emphasis>num</emphasis>?"
+        answer: "ONE EXPECTING THE ANSWER NO"
+      - question: "What word introduces a questions expecting “yes”?"
+        answer: "NONNE"
+  - tossup:
+      question: "What did F stand for in a Roman inscription?"
+      answer: "FILIUS"
+    boni:
+      - question: "What did N stand for in a Roman inscription?"
+        answer: "NEPOS"
+      - question: "What was abbreviated <emphasis>cos</emphasis>?"
+        answer: "CONSUL"
+  - tossup:
+      question: "When Lycaon and his sons offended Zeus, what was Lycaon turned into?"
+      answer: "A WOLF"
+    boni:
+      - question: "Of Lycaon's fifty sons, who alone was spared the thunderbolt because of his piety?"
+        answer: "NYCTIMUS"
+      - question: "What nephew of Nyctimus gave the land we know it by?"
+        answer: "ARCAS (ARCADIA)"
+  - tossup:
+      question: "What is the third person plural future active indicative of <emphasis>timeo</emphasis>?"
+      answer: "TIMEBUNT"
+    boni:
+      - question: "Make that first person."
+        answer: "TIMEBIMUS"
+      - question: "Make <emphasis>timebimus</emphasis> singular."
+        answer: "TIMEBO"
+  - tossup:
+      question: "Which of the Seven against Thebes was the son of Atalanta?"
+      answer: "PARTHENOPAEUS"
+    boni:
+      - question: "Who killed him?"
+        answer: "PERICLYMENUS (or ASPHODICUS or AMPHIDICUS)"
+      - question: "Which of the Epigoni was Parthenopaeus' son?"
+        answer: "PROMACHUS"
+  - tossup:
+      question: "What enemy commander was defeated at the Battle of Zama?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "For what power was Hannibal fighting?"
+        answer: "CARTHAGE"
+      - question: "What was the year?"
+        answer: "202BC"
+  - tossup:
+      question: ""
+      answer: "Name and define the Latin noun at the base of the Latin adjective <emphasis>egregius</emphasis>, which means “excellent” or “distinguished.”"
+    boni:
+      - question: ""
+        answer: "GREX = FLOCK, HERD"
+      - question: "What English verb for “gather” comes from that Latin noun? What English verb for “remove from a group” has the same root?"
+        answer: "CONGREGATE // SEGREGATE"
+  - tossup:
+      question: "During the Republic, what sacred documents were kept in a special vault on the Capitoline Hill?"
+      answer: "THE SIBYLLINE BOOKS"
+    boni:
+      - question: "How many of these books had the Sibyl originally offered Tarquin?"
+        answer: "NINE"
+      - question: "What happened in 83BC to the three he bought from her?"
+        answer: "THEY WERE DESTROYED IN A FIRE"
+  - tossup:
+      question: "Who brought the Golden Fleece, still on the live sheep, to Colchis?"
+      answer: "PHRIXUS"
+    boni:
+      - question: "Who was Phrixus' sister, who fell off and perished during the journey?"
+        answer: "HELLE"
+      - question: "Who was the father of these two?"
+        answer: "ATHAMAS"
+  - tossup:
+      question: "What was the chief silver coin of the Romans?"
+      answer: "DENARIUS"
+    boni:
+      - question: "What metal was originally used to make the as?"
+        answer: "BRONZE/COPPER"
+      - question: "What metal was used to make an aureus?"
+        answer: "GOLD"
+  - tossup:
+      question: "What is the ablative singular of mare?"
+      answer: "MARI"
+    boni:
+      - question: "What is the ablative singular of spes?"
+        answer: "SPE"
+      - question: "What is the ablative singular of situs?"
+        answer: "SITU"
+  - tossup:
+      question: "Quot frontes tibi sunt?"
+      answer: "UNA"
+    boni:
+      - question: "Quot menta tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot mentes tibi sunt?"
+        answer: "UNA"
+  - tossup:
+      question: ""
+      answer: "Spell Clytemnestra C L Y T E M N E S T R A"
+    boni:
+      - question: "Spell Agamemnon."
+        answer: "A G A M E M N O N"
+      - question: "Spell Iphigenia."
+        answer: "I P H I G E N I A"
+  - tossup:
+      question: "Translate “was sleeping” in this sentence: “I knew that she was sleeping”?"
+      answer: "DORMIRE"
+    boni:
+      - question: "What form of that verb would you need to make it: “I knew that she had been sleeping”?"
+        answer: "DORMIVISSE"
+      - question: "“I knew that she would be sleeping.”"
+        answer: "DORMITURAM ESSE"
+  - tossup:
+      question: "Which of these doesn’t have the same root as the others: value, vault, revolt, volume?"
+      answer: "VALUE"
+    boni:
+      - question: "What is the root meaning of the verb the others come from?"
+        answer: "ROLL, TURN"
+      - question: "available, prevail, valor?"
+        answer: "Which of these is not from the same root as “value:” // AVAILABLE"
+  - tossup:
+      question: "What are the Latin nouns for “boy” and “girl”?"
+      answer: "PUER AND PUELLA"
+    boni:
+      - question: "To what adults would you apply these terms?"
+        answer: "SLAVES"
+      - question: "What is the standard word for “slave”?"
+        answer: "SERVUS"
+  - tossup:
+      question: "What is the Latin noun for “danger”?"
+      answer: "PERICULUM"
+    boni:
+      - question: "What is the Latin noun for “assistance”?"
+        answer: "AUXILIUM"
+      - question: "What is the Latin verb for “save”?"
+        answer: "SERVO"
+  - tossup:
+      question: "Who was the father of the Muses?"
+      answer: "ZEUS/JUPITER"
+    boni:
+      - question: "Who was their mother?"
+        answer: "MNEMOSYNE"
+      - question: "How many were there?"
+        answer: "NINE"
+  - tossup:
+      question: ""
+      answer: "My brother, my son and my son’s son were all emperors."
+    boni:
+      - question: "Who am I?"
+        answer: "DRUSUS"
+      - question: "Who was Drusus’ father-in-law? Who was Drusus’ wife’s mother?"
+        answer: "MARC ANTONY // OCTAVIA"
+  - tossup:
+      question: "Where was Caesar‘s final victory over Vercingetorix?"
+      answer: "ALESIA"
+    boni:
+      - question: "What town of the Arverni was the site of Vercingetorix’ defeat of Caesar earlier that year?"
+        answer: "GERGOVIA"
+      - question: "What was that year?"
+        answer: "52BC // #"

@@ -1,7 +1,7 @@
 ---
 name: touch-up-certamen-round-yaml
 description: "Use when cleaning up, proofreading, repairing, or polishing an existing Certamen round YAML file, especially when removing placeholders, fixing misplaced questions or answers, preserving accepted answer variants, or completing the standard 20-question structure."
-tools: [read, edit, search]
+tools: [read, edit, search, execute]
 ---
 
 # Touch Up Certamen Round YAML

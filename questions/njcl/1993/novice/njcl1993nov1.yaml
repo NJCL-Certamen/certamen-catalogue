@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What is the second person singular perfect active indicative of ceno?"
+      answer: "CENAVISTI"
+    boni:
+      - question: "What is the same form of cano?"
+        answer: "CECINISTI"
+      - question: "What is the same form of conor?"
+        answer: "CONATUS ES"
+  - tossup:
+      question: "What would a Roman call our first name?"
+      answer: "PRAENOMEN"
+    boni:
+      - question: "Of a Roman's three names, which one identified his gens?"
+        answer: "HIS NOMEN (THE MIDDLE ONE)"
+      - question: "Which one identified his more immediate branch of that gens?"
+        answer: "THE COGNOMEN (THE LAST ONE)"
+  - tossup:
+      question: "Who was the Roman king of the gods?"
+      answer: "JUPITER"
+    boni:
+      - question: "Where was his throne?"
+        answer: "MOUNT OLYMPUS"
+      - question: "What was his Greek name?"
+        answer: "ZEUS"
+  - tossup:
+      question: "What is the ablative plural of urbs?"
+      answer: "URBIBUS"
+    boni:
+      - question: "What is the ablative plural of hospes?"
+        answer: "HOSPITIBUS"
+      - question: "What is the ablative plural of passus?"
+        answer: "PASSIBUS"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of the nouns “decision” and “incision”?"
+      answer: "CAEDO=CUT"
+    boni:
+      - question: "What Latin verb with what meaning is the root of the nouns “delusion” and “illusion”?"
+        answer: "LUDO = PLAY"
+      - question: "What Latin verb with what meaning is the root of the nouns “depression” and “impression”?"
+        answer: "PREMO=PRESS, CRUSH"
+  - tossup:
+      question: "What is the gender of nauta?"
+      answer: "MASCULINE"
+    boni:
+      - question: ""
+        answer: "For five points each, name two other first-declension masculine common nouns."
+      - question: ""
+        answer: "PIRATA, INCOLA, AGRICOLA, POETA, AURIGA, SCRIBA, VERNA"
+  - tossup:
+      question: "What preposition goes with an ablative of agent?"
+      answer: "A/AB"
+    boni:
+      - question: "What preposition goes with a dative of agent?"
+        answer: "NONE"
+      - question: "What preposition goes with an ablative of means?"
+        answer: "NONE"
+  - tossup:
+      question: "Quot digiti tibi sunt?"
+      answer: "DECEM (or VIGINTI)"
+    boni:
+      - question: "Quot capita tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot oculi tibi sunt?"
+        answer: "DUO"
+  - tossup:
+      question: "Where in the Roman world did Q. Sertorius lead a rebellion?"
+      answer: "SPAIN (or LUSITANIA or CELTIBERIA or HISPANIA ULTERIOR)"
+    boni:
+      - question: "Who was sent to quell the rebellion?"
+        answer: "POMPEY or METELLUS PIUS"
+      - question: "How was the rebellion finally crushed?"
+        answer: "SERTORIUS WAS MURDERED BY ONE OF HIS FOLLOWERS (M. PERPERNA)"
+  - tossup:
+      question: "Why do we remember the year 79AD?"
+      answer: "THE ERUPTION OF VESUVIUS or THE DEATH OF VESPASIAN"
+    boni:
+      - question: "Why do we remember the year 31BC?"
+        answer: "THE BATTLE OF ACTIUM"
+      - question: "Why do we remember the year 69AD?"
+        answer: "YEAR OF FOUR EMPERORS"
+  - tossup:
+      question: "How many wars did the Romans fight with the Carthaginians?"
+      answer: "THREE"
+    boni:
+      - question: "How many did they fight with the Samnites?"
+        answer: "THREE"
+      - question: "How many times did Caesar invade Britain?"
+        answer: "TWICE"
+  - tossup:
+      question: "What was the group whose members were Stheno, Euryale and Medusa?"
+      answer: "THE GORGONS"
+    boni:
+      - question: "What was the important distinction between Medusa and her two sisters?"
+        answer: "THEY WERE IMMORTAL; SHE WASN’T"
+      - question: "What goddess gave Perseus the shield he used as a mirror to slay Medusa?"
+        answer: "ATHENA (MINERVA)"
+  - tossup:
+      question: "What was the name of Pluto’s dog?"
+      answer: "CERBERUS"
+    boni:
+      - question: "How many heads did Cerberus have?"
+        answer: "THREE"
+      - question: "What did Cerberus guard?"
+        answer: "THE GATES OF HADES"
+  - tossup:
+      question: "What case follows a Latin preposition showing simple location?"
+      answer: "ABLATIVE (or AD/PROPE/APUD/INTER/POST/ANTE + ACCUSATIVE)"
+    boni:
+      - question: "What case follows a preposition showing forward motion?"
+        answer: "ACCUSATIVE"
+      - question: "What case follows a preposition showing motion away from?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "Who gave the people of Attica the olive tree to win their devotion?"
+      answer: "ATHENA (MINERVA)"
+    boni:
+      - question: "Who was her divine competitor?"
+        answer: "POSEIDON (NEPTUNE)"
+      - question: "What relation was she to him?"
+        answer: "NIECE"
+  - tossup:
+      question: "What emperor soon after accession commanded his brother Geta's murder?"
+      answer: "CARACALLA"
+    boni:
+      - question: "Who was their father?"
+        answer: "SEPTIMIUS SEVERUS"
+      - question: "What ringleader of Caracalla's assassins succeeded him?"
+        answer: "M. OPELLIUS MACRINUS"
+  - tossup:
+      question: "Who wounded Venus at Troy?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Who unsuccessfully requested aid from Diomedes against Aeneas a decade later?"
+        answer: "TURNUS"
+      - question: "Who killed Turnus?"
+        answer: "AENEAS"
+  - tossup:
+      question: "Give the meaning of the verb mitto."
+      answer: "SEND"
+    boni:
+      - question: "Give the meaning of the verb muto."
+        answer: "CHANGE"
+      - question: "Give the meaning of the verb metuo."
+        answer: "FEAR"
+  - tossup:
+      question: ""
+      answer: "Give the command in Latin: “Don't look!”"
+    boni:
+      - question: ""
+        answer: "NOLI/NOLITE SPECTARE!"
+      - question: ""
+        answer: "Say: “We are not afraid.” // NON TIMEMUS or TERRITI NON SUMUS // Say: “The angry dog didn't scare us.” // CANIS IRATUS NOS NON TERRUIT."
+  - tossup:
+      question: ""
+      answer: "Name and define the Latin noun root of “terrain.”"
+    boni:
+      - question: ""
+        answer: "TERRA = EARTH, GROUND, LAND"
+      - question: "What does the English adjective “arboreal” mean? What does “sylvan” mean?"
+        answer: "IN or RELATING TO TREES // IN or RELATING TO THE FOREST // #"

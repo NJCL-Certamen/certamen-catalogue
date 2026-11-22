@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Novice"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "Where did Theseus abandon Ariadne?"
+      answer: "NAXOS (DIA)"
+    boni:
+      - question: "What deity rescued and married her?"
+        answer: "DIONYSUS (BACCHUS)"
+      - question: "Whom did Theseus marry after his return home?"
+        answer: "HIPPOLYTA/PHAEDRA/ANTIOPE"
+  - tossup:
+      question: "What is the Latin noun for “foot”?"
+      answer: "PES"
+    boni:
+      - question: "What is the Latin noun for “hand”?"
+        answer: "MANUS"
+      - question: "What is the Latin noun for “arm”?"
+        answer: "BRACCHIUM"
+  - tossup:
+      question: "Whose reign as emperor lasted only 66 days in 193AD?"
+      answer: "DIDIUS JULIANUS'"
+    boni:
+      - question: "How had Didius Julianus become emperor?"
+        answer: "HE BOUGHT THE THRONE, AUCTIONED BY THE PRETORIANS"
+      - question: "Who marched on Rome to depose and succeed Didius?"
+        answer: "SEPTIMIUS SEVERUS"
+  - tossup:
+      question: "Translate the noun lectus."
+      answer: "BED, COUCH"
+    boni:
+      - question: "Translate the noun laurus."
+        answer: "LAUREL TREE"
+      - question: "Translate the noun lupus."
+        answer: "WOLF"
+  - tossup:
+      question: "What is the dative singular of the phrase <latin>vita brevis</latin>?"
+      answer: "VITAE BREVI"
+    boni:
+      - question: "What is the ablative singular?"
+        answer: "VITĀ BREVI"
+      - question: "What is the genitive plural?"
+        answer: "VITARUM BREVIUM"
+  - tossup:
+      question: "Translate dormiunt."
+      answer: "THEY ARE SLEEPING/ASLEEP"
+    boni:
+      - question: "Translate vocabatis."
+        answer: "YOU WERE CALLING"
+      - question: "Translate ducemus."
+        answer: "WE WILL LEAD"
+  - tossup:
+      question: "Who was the founder of Thebes?"
+      answer: "CADMUS"
+    boni:
+      - question: "Who was his sister?"
+        answer: "EUROPA"
+      - question: "Who was his wife?"
+        answer: "HARMONIA"
+  - tossup:
+      question: "What symbol of a Roman leader's authority was composed of rods and an axe?"
+      answer: "THE FASCES"
+    boni:
+      - question: "What power of the king did the rods symbolize?"
+        answer: "THE POWER TO SCOURGE/PUNISH"
+      - question: "What power did the axe symbolize?"
+        answer: "THE POWER TO EXECUTE"
+  - tossup:
+      question: "Who was the messenger of the gods?"
+      answer: "HERMES/MERCURY"
+    boni:
+      - question: "What did he always carry?"
+        answer: "THE CADUCEUS"
+      - question: "Who was Hera's usual messenger?"
+        answer: "IRIS"
+  - tossup:
+      question: "Who died first: Julius Caesar, Pompey, Antony, Cicero?"
+      answer: "POMPEY"
+    boni:
+      - question: "In what battle was Pompey finally defeated by Caesar?"
+        answer: "PHARSALUS"
+      - question: "In what country did Pompey meet his death?"
+        answer: "EGYPT"
+  - tossup:
+      question: "What derivative of puer means “childish”?"
+      answer: "PUERILE"
+    boni:
+      - question: "What derivative from a Latin noun means “babyish”?"
+        answer: "INFANTILE"
+      - question: "What derivative from a Latin noun means “slavish”?"
+        answer: "SERVILE"
+  - tossup:
+      question: "How many emperors ruled in between the Flavian dynasty and the Five Good Emperors?"
+      answer: "NONE"
+    boni:
+      - question: "Who was the last of the Flavians?"
+        answer: "DOMITIAN"
+      - question: "Who was the first of the Five Good Emperors?"
+        answer: "NERVA"
+  - tossup:
+      question: "What nymph was changed into a bear?"
+      answer: "CALLISTO"
+    boni:
+      - question: "Who was her son?"
+        answer: "ARCAS"
+      - question: "What are the Latin names for the constellations into which the two of them were transformed?"
+        answer: "URSA MINOR AND URSA MAJOR"
+  - tossup:
+      question: "Who sent two serpents to kill the infant Heracles?"
+      answer: "HERA"
+    boni:
+      - question: "Who was the mother of Heracles?"
+        answer: "ALCMENA"
+      - question: "What was the nine-headed monster he killed?"
+        answer: "THE HYDRA"
+  - tossup:
+      question: "What is the Roman numeral for 500?"
+      answer: "D"
+    boni:
+      - question: "What is the Roman numeral for 1000?"
+        answer: "M"
+      - question: "What is the Roman numeral for 50?"
+        answer: "L"
+  - tossup:
+      question: "What is the present passive singular imperative of celo?"
+      answer: "CELARE"
+    boni:
+      - question: "Make it plural."
+        answer: "CELAMINI"
+      - question: "Make that active."
+        answer: "CELATE"
+  - tossup:
+      question: "What city, about sixteen miles away, was Rome’s seaport?"
+      answer: "OSTIA"
+    boni:
+      - question: "What other seaport was the departure point from Italy to Greece?"
+        answer: "BRUNDISIUM"
+      - question: "What was Athens' seaport?"
+        answer: "PIRAEUS"
+  - tossup:
+      question: ""
+      answer: "Translate: Mei amici in lacu natant."
+    boni:
+      - question: ""
+        answer: "MY FRIENDS ARE SWIMMING IN THE LAKE."
+      - question: "TOMORROW WE WILL CATCH ENOUGH FISH AND MAKE THE FAMILY’S DINNER."
+        answer: "Pisces in flumine hodie mordent. // THE FISH IN THE RIVER ARE BITING TODAY. // Cras satis piscium capiemus et cenam familiae parabimus. // (or MAKE DINNER FOR THE FAMILY)"
+  - tossup:
+      question: "What English derivative of the Latin verb <latin>rego</latin> is the name for the house in which a minister or parish priest lives?"
+      answer: "RECTORY"
+    boni:
+      - question: "What derivative of <latin>rego</latin> is the name of a person who rules during the absence or disability of a monarch?"
+        answer: "REGENT"
+      - question: "What derivative of <latin>rego</latin> is the name for the steerable, lighter-than-air craft nicknamed a blimp?"
+        answer: "DIRIGIBLE"
+  - tossup:
+      question: "How many voices are there in Latin?"
+      answer: "TWO"
+    boni:
+      - question: "Name them."
+        answer: "ACTIVE AND PASSIVE"
+      - question: "Which one is used when the subject experiences the action of the verb?"
+        answer: "PASSIVE // #"

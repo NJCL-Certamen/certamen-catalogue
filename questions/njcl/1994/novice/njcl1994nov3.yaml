@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "How many people traditionally attended a full-sized Roman dinner party?"
+      answer: "NINE"
+    boni:
+      - question: "How many couches were they on?"
+        answer: "THREE"
+      - question: "What was the room called?"
+        answer: "TRICLINIUM"
+  - tossup:
+      question: "What Latin noun for “mound” or “defensive earthwork” is the root of an English verb for “overstate” or “stretch the truth”?"
+      answer: "AGGER (spell)"
+    boni:
+      - question: "Spell the English verb."
+        answer: "EXAGGERATE"
+      - question: "What Latin verb is the root of agger?"
+        answer: "GERO"
+  - tossup:
+      question: "What is an antonym of parvus?"
+      answer: "MAGNUS"
+    boni:
+      - question: "What is an antonym of lentus?"
+        answer: "CELER/RAPIDUS/VELOX"
+      - question: "What is an antonym of citra?"
+        answer: "TRANS/ULTRA"
+  - tossup:
+      question: "What are hiberna?"
+      answer: "(AN ARMY'S) WINTER QUARTERS"
+    boni:
+      - question: "What is the root noun that means “winter”?"
+        answer: "HIEMS"
+      - question: "What is the antonym of hiems?"
+        answer: "AESTAS"
+  - tossup:
+      question: "What office was created in 443BC to maintain the roll of citizens?"
+      answer: "CENSOR"
+    boni:
+      - question: "How many censors were elected to serve each term?"
+        answer: "TWO"
+      - question: "What was the term of office for censors?"
+        answer: "EIGHTEEN MONTHS"
+  - tossup:
+      question: ""
+      answer: "Translate: “My teacher is here with me.”"
+    boni:
+      - question: "MEUS MAGISTER MECUM ADEST."
+        answer: "(or MEA MAGISTRA)"
+      - question: ""
+        answer: "Translate: Nos quattuor amici sumus. // WE FOUR ARE FRIENDS. // Translate: “We have learned the Latin language well.” // LATINAM LINGUAM BENE DIDICIMUS/NOVIMUS."
+  - tossup:
+      question: "What English noun familiar to farmers comes from <latin>traho</latin>?"
+      answer: "TRACTOR"
+    boni:
+      - question: "What Latin verb meaning “plow” gives us “arable”?"
+        answer: "ARO"
+      - question: "<latin>agricola</latin>?"
+        answer: "What Latin noun with what meaning is the root of // AGER = FIELD, FARM"
+  - tossup:
+      question: "Who was the boatman who carried the souls of the dead across the Styx?"
+      answer: "CHARON"
+    boni:
+      - question: "What was the region of Hades for virtuous souls?"
+        answer: "THE ELYSIAN FIELDS"
+      - question: "What was the region for the wicked?"
+        answer: "TARTARUS"
+  - tossup:
+      question: "What deity punished Ino and Athamas with madness?"
+      answer: "HERA"
+    boni:
+      - question: "What had they done to offend her?"
+        answer: "<latin>THEY SHELTERED DIONYSUS, SON OF SEMELE, INO'S SISTER</latin>"
+      - question: "How did Athamas' madness manifest itself?"
+        answer: "HE SHOT AND KILLED HIS SON LEARCHUS"
+  - tossup:
+      question: "What lover in mythology turned the mulberry red with his blood?"
+      answer: "PYRAMUS"
+    boni:
+      - question: "From whose blood sprang the anemone?"
+        answer: "ADONIS"
+      - question: "What youth was killed by a discus thrown by Apollo and was turned by the grief-stricken god into a flower?"
+        answer: "HYACINTHUS"
+  - tossup:
+      question: "Which of the following was not an emperor: Caligula, Claudius, Germanicus, Tiberius?"
+      answer: "GERMANICUS"
+    boni:
+      - question: "What was the relationship of Germanicus to Claudius?"
+        answer: "BROTHER"
+      - question: "What was the relationship of Germanicus to Caligula?"
+        answer: "FATHER"
+  - tossup:
+      question: "What two groups of brothers fought each other during the war between the Romans and the Albans?"
+      answer: "THE HORATII AND THE CURIATII"
+    boni:
+      - question: "During whose reign was the city of Alba Longa destroyed?"
+        answer: "TULLUS HOSTILIUS"
+      - question: "How did the Romans execute Mettius Fufetius, the king of the Albans?"
+        answer: "TIED HIM BETWEEN TWO CHARIOTS AND..."
+  - tossup:
+      question: "Change <latin>vixerat</latin> to present."
+      answer: "VIVIT"
+    boni:
+      - question: "Change <latin>vivit</latin> to plural."
+        answer: "VIVUNT"
+      - question: "Change <latin>vivunt</latin> to future perfect."
+        answer: "VIXERINT // Round C3, Page 3"
+  - tossup:
+      question: "In which declensions can you find masculine nouns?"
+      answer: "ALL FIVE"
+    boni:
+      - question: "In which declensions can you find feminine nouns?"
+        answer: "ALL FIVE"
+      - question: "In which declensions can you find neuter nouns?"
+        answer: "SECOND, THIRD AND FOURTH"
+  - tossup:
+      question: "What Latin phrase with what meaning is abbreviated p.a.?"
+      answer: "PER ANNUM"
+    boni:
+      - question: "What Latin phrase is abbreviated h.a.?"
+        answer: "HOC ANNO"
+      - question: "What Latin phrase is abbreviated p.d.?"
+        answer: "PER DIEM"
+  - tossup:
+      question: "Name a mood in which you find Latin verbs."
+      answer: "INDICATIVE, IMPERATIVE, INFINITIVE, SUBJUNCTIVE"
+    boni:
+      - question: ""
+        answer: "Name another."
+      - question: ""
+        answer: "Name another."
+  - tossup:
+      question: "Who led the Myrmidons at Troy?"
+      answer: "ACHILLES"
+    boni:
+      - question: "From what creatures had the Myrmidons sprung?"
+        answer: "ANTS"
+      - question: "Who prayed for the repopulation of his island Aegina and received as an answer this transformation?"
+        answer: "KING AEACUS"
+  - tossup:
+      question: "Who made the first lyre?"
+      answer: "HERMES/MERCURY"
+    boni:
+      - question: "What did he use for a frame?"
+        answer: "TURTLE SHELL"
+      - question: "To whom did he give the lyre?"
+        answer: "APOLLO"
+  - tossup:
+      question: "In what two years were Pompey and Crassus co-consuls?"
+      answer: "70BC AND 55BC"
+    boni:
+      - question: "In what year was Pompey sole consul?"
+        answer: "52BC"
+      - question: "What province was he given at the time of his second consulate?"
+        answer: "SPAIN"
+  - tossup:
+      question: "Change spes to accusative singular."
+      answer: "SPEM"
+    boni:
+      - question: "Change <latin>spem</latin> to genitive."
+        answer: "SPEI"
+      - question: "Change <latin>spei</latin> to ablative."
+        answer: "SPE // #"

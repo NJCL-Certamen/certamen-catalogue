@@ -1,0 +1,285 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Advanced"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Who killed himself in 183 or 182 BC to avoid being handed over to the Romans?"
+      answer: "HANNIBAL"
+    boni:
+      - question: "What was his method of suicide?"
+        answer: "POISON"
+      - question: "What kingdom was giving him asylum?"
+        answer: "BITHYNIA"
+  - tossup:
+      question: "How many days in 55 BC did Caesar's men require to build their first bridge over the Rhine?"
+      answer: "TEN"
+    boni:
+      - question: "In what year did Caesar make his first expedition to Britain?"
+        answer: "55 BC"
+      - question: "What British chieftain did Caesar defeat in his second expedition?"
+        answer: "CASSIVELAUNUS"
+  - tossup:
+      question: "What fellow tribune temporarily vetoed Tiberius Gracchus' land act?"
+      answer: "M. OCTAVIUS"
+    boni:
+      - question: "What counteraction did Tiberius take against M. Octavius?"
+        answer: "HE HAD HIM DEPOSED BY THE CONCILIUM PLEBI"
+      - question: "What exconsul led the mob that clubbed Tiberius to death?"
+        answer: "SCIPIO NASICA"
+  - tossup:
+      question: "The peace of Nicias was negotiated in 421 BC between what two Greek city-states?"
+      answer: "ATHENS AND SPARTA"
+    boni:
+      - question: "Who was Nicias' rival, before his death in 422 BC?"
+        answer: "CLEON"
+      - question: "Their rivalry followed the death in 429 BC of what Athenian leader?"
+        answer: "PERICLES"
+  - tossup:
+      question: "During the Republican period there were only four bridges over the Tiber. What bridge connected the eastern, or right, bank to Tiber Island?"
+      answer: "PONS FABRICIUS"
+    boni:
+      - question: "What bridge connected the western, or left, bank to Tiber Island?"
+        answer: "PONS CESTUS"
+      - question: "What two bridges were just south of Tiber Island?"
+        answer: "PONS AEMILIUS & PONS SUBLICIUS"
+  - tossup:
+      question: "What native Italian metre was used in epics by Naevius and Livius Andronicus?"
+      answer: "SATURNIAN"
+    boni:
+      - question: "What is the title of Naevius' epic?"
+        answer: "BELLUM PUNICUM"
+      - question: "What Roman writer first used dactylic hexameter?"
+        answer: "ENNIUS"
+  - tossup:
+      question: "<latin></latin>What is the subject of Ovid's poem entitled <latin>Fasti</latin>?"
+      answer: "<latin></latin> ROMAN FEAST DATES & HOLIDAYS"
+    boni:
+      - question: "<latin></latin>In what metre is it written?"
+        answer: "<latin></latin> ELEGIAC COUPLETS"
+      - question: "<latin></latin>Why are only the first six books extant?"
+        answer: "<latin></latin> COMPOSITION STOPPED WHEN OVID WAS EXILED (PERHAPS A DRAFT OF THE LAST SIX BOOKS WAS WRITTEN)"
+  - tossup:
+      question: "<latin></latin>Whom did Cicero support in his speech <latin>Pro Lege Manilia</latin>?"
+      answer: "<latin></latin> POMPEY"
+    boni:
+      - question: "<latin></latin>Whom did Cicero attack in his so-called <latin>Philippics</latin>?"
+        answer: "<latin></latin> MARK ANTONY"
+      - question: "<latin></latin>Whom did Cicero prosecute for extortion in Sicily in 80 BC?"
+        answer: "<latin></latin> VERRRES"
+  - tossup:
+      question: "<latin></latin>What is the literary genre common to Horace, Lucilius, and Juvenal?"
+      answer: "<latin></latin> SATIRE"
+    boni:
+      - question: "<latin>Put the above in chronological order.</latin>"
+        answer: "LUCILIUS, HORACE, JUVENAL"
+      - question: "<latin></latin>What is the meter of satire?"
+        answer: "<latin></latin> DACTYLIC HEXAMETER"
+  - tossup:
+      question: "<latin></latin>What Roman wrote the <latin>Thebaid</latin>, an epic on the royal house of Thebes?"
+      answer: "<latin></latin> P. PAPINIUS STATIUS"
+    boni:
+      - question: "<latin></latin>What work of his is a miscellany of verses on various topics?"
+        answer: "<latin></latin> <latin>SILVAE</latin>"
+      - question: "<latin></latin>Which emperor did Statius flatter in many of his works?"
+        answer: "<latin></latin> DOMITIAN"
+  - tossup:
+      question: "<latin></latin>What second-century AD orator devised the <latin>elocutio novella</latin>?"
+      answer: "<latin></latin> FRONTO (M. CORNELIUS FRONTO)"
+    boni:
+      - question: "<latin></latin>Of what emperor was Fronto a close friend, faithful correspondent, and former tutor?"
+        answer: "<latin></latin> MARCUS AURELIUS"
+      - question: "<latin></latin>In what other author's work does Fronto often appear leading philological discussions?"
+        answer: "<latin></latin> IN AULUS GELLIUS' <latin>NOCTES ATTICAE</latin>"
+  - tossup:
+      question: "<latin></latin>What giant was given renewed strength when he touched the earth?"
+      answer: "<latin></latin> ANTAEUS"
+    boni:
+      - question: "<latin></latin>Who was his mother?"
+        answer: "<latin></latin> GAEA"
+      - question: "<latin></latin>Who killed him?"
+        answer: "<latin></latin> HERACLES"
+  - tossup:
+      question: "<latin></latin>What group included members named Aello, Ocypete, Podarge, and Celaeno?"
+      answer: "<latin></latin> HARPIES"
+    boni:
+      - question: "<latin></latin>Who were their parents?"
+        answer: "<latin></latin> THAUMAS AND ELECTRA (AN OCEANID)"
+      - question: "<latin></latin>Which one bore Achilles' horses after mating with Zephyrus?"
+        answer: "<latin></latin> PODARGE"
+  - tossup:
+      question: "By some accounts, what queen of Lydia kept Heracles enslaved for three years?"
+      answer: "OMPHALE"
+    boni:
+      - question: "What indignity did he undergo in her service?"
+        answer: "HAD TO WEAR WOMEN'S CLOTHES"
+      - question: "What son did Omphale bear him?"
+        answer: "and/or HAD TO PERFORM WOMEN'S TASKS (SPINNING) // LAMOS"
+  - tossup:
+      question: "In one version of the Dionysus myth, whose heart was fed to Semele?"
+      answer: "ZAGREUS'"
+    boni:
+      - question: "In what form had the baby been unsuccessfully disguised?"
+        answer: "AS A KID/GOAT"
+      - question: "Who rescued the heart after the Titans tore the baby to pieces?"
+        answer: "ATHENA"
+  - tossup:
+      question: "Which of the Seven against Thebes did Zeus cause to be swallowed up by the earth?"
+      answer: "AMPHIARAUS"
+    boni:
+      - question: "Who was Amphiaraus' treacherous wife?"
+        answer: "ERIPHYLE"
+      - question: "Who bribed her to bring Amphiaraus into the campaign?"
+        answer: "POLYNICES"
+  - tossup:
+      question: "Change ambō bovēs to dative."
+      answer: "AMBŌBUS BŌBUS (BŪBUS)"
+    boni:
+      - question: ""
+        answer: "or AMBĀBUS BŌBUS (BŪBUS)"
+      - question: "Change gravis sitis to accusative. Change ācre poema to accusative plural."
+        answer: "GRAVEM SITIM // ĀCRIA POEMATA"
+  - tossup:
+      question: "What use of the subjunctive is found in this excerpt from Cicero's Pro Cluentio: Quō mē vertam nesciō."
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "What use of the subjunctive is found in this excerpt from Cicero's In Verrem: Quō mē vertam?"
+        answer: "DELIBERATIVE"
+      - question: "What use of the subjunctive is found in this excerpt from Cicero's Pro Cluentio: Efficiam ut intellegātis."
+        answer: "SUBSTANTIVE RESULT (CONSECUTIVE) CLAUSE"
+  - tossup:
+      question: "What is the perfect active infinitive of abdō?"
+      answer: "ABDIDISSE"
+    boni:
+      - question: "Change abdidisse to passive."
+        answer: "ABDITUS/A/UM ESSE"
+      - question: "Change abditus esse to future."
+        answer: "ABDITUM ĪRĪ or ABDITUS FORE"
+  - tossup:
+      question: ""
+      answer: "Translate: Prōcōnsul prōvinciam tam bene regēbat ut ab omnibus dīligerētur."
+    boni:
+      - question: ""
+        answer: "THE PROCONSUL WAS RULING THE PROVINCE // THE PROCONSUL WAS THE THAT RULING PROVINCE SO WELL HE WAS LOVED BY EVERYBODY"
+      - question: "Iūdex mē rogāvit num mentīrer."
+        answer: "THE JUDGE ASKED ME WHETHER I WAS LYING // Pontifex cīvibus imperāvit ut deōs immortālēs precārentur. // THE PONTIFEX ORDERED THE CITIZENS TO PRAY TO THE IMMORTAL GODS"
+  - tossup:
+      question: ""
+      answer: "Listen carefully to the following paragraph, which I will read twice, and answer in English the question about it. Ōlim Catullus, poēta Rōmānus antīquus, fēminam, Clōdiā nōmine, adeō concupiscēbat ut multa carmina compōneret. Ūnum ex nōtissimīs carminibus incipit “Vīvāmus, mea Lesbia, atque amēmus.”"
+    boni:
+      - question: "Whom did Catullus lust after?"
+        answer: "A WOMAN BY THE NAME OF CLODIA"
+      - question: "What did he do about his desire? How does one of the poems begin?"
+        answer: "HE WROTE MANY (VERY FAMOUS) POEMS // LET US LIVE, MY LESBIA, AND LET US LOVE"
+  - tossup:
+      question: "What conjunction would be used to translate this sentence: There is no doubt that negative clauses of doubting are easy to spot."
+      answer: "QUĪN"
+    boni:
+      - question: "Are you afraid that you haven't learned fearing clauses?"
+        answer: "UT"
+      - question: "A good student will learn this construction to get a better grasp on grammar."
+        answer: "QUŌ"
+  - tossup:
+      question: ""
+      answer: "Give a synonym of luctor."
+    boni:
+      - question: ""
+        answer: "Give a synonym of quiēscō."
+      - question: ""
+        answer: "Give a synonym of ovō. // CONTENDŌ / NĪTOR // TACEŌ / SĪLEŌ // LAETOR / GAUDEŌ"
+  - tossup:
+      question: ""
+      answer: "Give an antonym of culmen."
+    boni:
+      - question: ""
+        answer: "Give an antonym of siccus."
+      - question: ""
+        answer: "Give an antonym of prīmō. // SOLUM, FUNDUS // ŪVIDUS / MADIDUS / ŪMIDUS // DĒNIQUE / DĒMUM / POSTRĒMO"
+  - tossup:
+      question: ""
+      answer: "Differentiate in meaning between cornū and corōna."
+    boni:
+      - question: ""
+        answer: "CORNŪ -- HORN"
+      - question: ""
+        answer: "CORŌNA -- CROWN //...between saltō and saltem. // SALTŌ -- DANCE // SALTEM -- AT LEAST //...between caedēs and aedēs. // CAEDĒS -- SLAUGHTER // AEDĒS -- HOUSE, TEMPLE"
+  - tossup:
+      question: ""
+      answer: "Differentiate between palus and pālus."
+    boni:
+      - question: ""
+        answer: "PALUS -- SWAMP"
+      - question: ""
+        answer: "23 // AEx_5$ //...between nitor and nītor. //...between cēdō and cedo. // PĀLUS -- PALE // NITOR -- BRIGHTNESS // NĪTOR -- STRIVE ON, LEAN // CĒDŌ -- YIELD // CEDO -- GIVE HERE!"
+  - tossup:
+      question: "What is the difference in meaning between genus and tenus?"
+      answer: "GENUS -- KIND"
+    boni:
+      - question: ""
+        answer: "TENUS -- AS FAR AS"
+      - question: "...among umquam and quamquam?"
+        answer: "...between for and forās. // FOR -- SPEAK // FORĀS -- OUT OF DOORS // UMQUAM -- EVER // QUAMQUAM -- ALTHOUGH // TAMQUAM -- JUST AS"
+  - tossup:
+      question: "Which of the following fish, if any, comes from Latin: flounder, halibut, salmon, shark?"
+      answer: "SALMON"
+    boni:
+      - question: "Which of the following fish, if any, comes from Latin: marlin, bass, guppy, trout?"
+        answer: "TROUT"
+      - question: "Which of the following fish, if any, does NOT come from Latin: mullet, tuna, tarpon, sole?"
+        answer: "TARPON"
+  - tossup:
+      question: "What Latin noun is the root of “corset?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "CORPUS"
+      - question: "What Latin noun is the root of “corsage? What Latin verb is the root of “corsair?"
+        answer: "” // CORPUS // ” // CURRO"
+  - tossup:
+      question: ""
+      answer: "Which of the following, if any, does NOT have the same Latin root as the others:"
+    boni:
+      - question: "grotto, crypt, grotesque, critical?"
+        answer: "CRITICAL"
+      - question: "What Latin verb with what meaning is the root of the noun “chance? What Latin noun with what meaning is the root of the English verb “praise?"
+        answer: "” // CADO -- FALL // ” // PRETIUM -- PRICE"
+  - tossup:
+      question: "What Latin compound verb is the root of “deceit?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "DECIPIO"
+      - question: "...of “decree?...of “decrease?"
+        answer: "” // DECERNO // ” // DECRESCO"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “bigamy” and “polygamy?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "SPOUSE"
+      - question: "...common to “rhinoceros” and “rhinoplasty?...common to “cryptic” and “apocryphal?"
+        answer: "” NOSE // ” HIDDEN"
+  - tossup:
+      question: "What is the meaning of the Greek root common to “anecdote” and “antidote?"
+      answer: "” GIVE"
+    boni:
+      - question: "What is the meaning of the Greek prefix ana-, with which the an- alpha privative is often confused?"
+        answer: "UP, BACK, AGAIN"
+      - question: "What is the literal meaning of “anecdotal” material?"
+        answer: "NOT GIVEN OUT (i.e., unpublished)"
+  - tossup:
+      question: "What Latin verb is the root of “accrue?"
+      answer: "” CRESCO"
+    boni:
+      - question: "...of “rescue?"
+        answer: "” QUATIO"
+      - question: "...of “issue?"
+        answer: "” EO (EXEO)"
+  - tossup:
+      question: "What verb with what meaning is the root of “exult?"
+      answer: "” SALIO -- LEAP"
+    boni:
+      - question: "What adjective derived from salio means “off the subject” or “unplanned?"
+        answer: "” DESULTORY"
+      - question: "What adjective derived from salio means “prurient” or “lecherous?"
+        answer: "” SALACIOUS // 25"

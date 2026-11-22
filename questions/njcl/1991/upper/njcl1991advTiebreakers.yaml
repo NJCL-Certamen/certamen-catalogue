@@ -1,0 +1,83 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Advanced"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: "What Latin verb is the root of the noun “paint”?"
+      answer: "PINGO"
+  - tossup:
+      question: "What is the perfect active infinitive of sumo?"
+      answer: "SUMPSISSE"
+  - tossup:
+      question: "Translate: Multi servi Tiberio erant."
+      answer: "TIBERIUS HAD MANY SLAVES"
+  - tossup:
+      question: "Give a synonym for mare."
+      answer: "PONTUS, AEQUOR, FLUCTUS"
+  - tossup:
+      question: "Make fuissetis present."
+      answer: "SITIS"
+  - tossup:
+      question: "Make bene superlative."
+      answer: "OPTIME"
+  - tossup:
+      question: "Sta et tange aures socii tui."
+      answer: "PLAYER SHOULD STAND AND TOUCH HIS/TEAMMATE'S EARS."
+  - tossup:
+      question: "What is the Latin with its English meaning abbreviated in footnotes as ibid?"
+      answer: "IBIDEM = IN THE SAME PLACE"
+  - tossup:
+      question: "What else do the 5 verbs governing the ablative have in common?"
+      answer: "THEY ARE ALL DEPONENT"
+  - tossup:
+      question: "What Latin noun, meaning what, is at the root of the English word “humble”?"
+      answer: "GROUND"
+  - tossup:
+      question: "Who was Medusa's two-legged offspring?"
+      answer: "CHRYSAOR"
+  - tossup:
+      question: "Whose priest was Laocoon?"
+      answer: "POSEIDON'S/NEPTUNE'S"
+  - tossup:
+      question: "Who was Daedalus' very talented nephew?"
+      answer: "PERDIX (TALUS)"
+  - tossup:
+      question: "Which of the three judges in the Underworld was not a brother of the other two?"
+      answer: "AEACUS"
+  - tossup:
+      question: "Who was the father of the Pleiades?"
+      answer: "ATLAS"
+  - tossup:
+      question: "What enemy force captured Rome in 455AD?"
+      answer: "THE VANDALS"
+  - tossup:
+      question: "Name in order the three sons-in-law of the Emperor Augustus."
+      answer: "MARCELLUS, AGRIPPA, TIBERIUS"
+  - tossup:
+      question: "What pretorian prefect replaced the treacherous Sejanus?"
+      answer: "MACRO"
+  - tossup:
+      question: "What was the year of the two battles at Philippi?"
+      answer: "42BC"
+  - tossup:
+      question: "What region of Greece is Thebes in?"
+      answer: "BOEOTIA"
+  - tossup:
+      question: "Who wrote Attic Nights?"
+      answer: "AULUS GELLIUS"
+  - tossup:
+      question: "In whose work does an emperor become a pumpkin?"
+      answer: "SENECA THE YOUNGER'S"
+  - tossup:
+      question: "What is the great work of Pliny the Elder?"
+      answer: "THE NATURAL HISTORY"
+  - tossup:
+      question: "What honorific metaphor did Horace apply to Lucilius?"
+      answer: "HIS “LANTERN”"
+  - tossup:
+      question: "Whose work begins Urbem Romam a principio reges habuere?"
+      answer: "TACITUS'"
+    boni:
+      - question: ""
+        answer: "#"

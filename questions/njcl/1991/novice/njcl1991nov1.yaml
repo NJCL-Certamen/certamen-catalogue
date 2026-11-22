@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What name was shared by two warriors of the Trojan War, one called the Greater and one the Lesser?"
+      answer: "AJAX"
+    boni:
+      - question: "What was the kingdom of Ajax the Greater?"
+        answer: "SALAMIS"
+      - question: "Who was his concubine in the Greek camp?"
+        answer: "TECMESSA"
+  - tossup:
+      question: "What faithless mortal lover bore Apollo the god Asclepius?"
+      answer: "CORONIS"
+    boni:
+      - question: "What creature reported her infidelity to Apollo?"
+        answer: "A CROW"
+      - question: "Whom, in some versions, did Apollo ask to slay Coronis?"
+        answer: "ARTEMIS"
+  - tossup:
+      question: ""
+      answer: "Distinguish between lavo and levo."
+    boni:
+      - question: ""
+        answer: "LAVO = WASH LEVŌ = LIFT, RAISE"
+      - question: ""
+        answer: "Distinguish between the adjectives latus and laetus. // LATUS = WIDE LAETUS = HAPPY // Distinguish between the conjunctions at and aut. // AT = BUT, YET AUT = OR"
+  - tossup:
+      question: "Where was Jugurtha from?"
+      answer: "NUMIDIA"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "His war with Rome started over the capture of what town? Who personally captured Jugurtha?"
+        answer: "CIRTA // SULLA"
+  - tossup:
+      question: "What English adjective composed of Latin elements means “one-sided”?"
+      answer: "UNILATERAL"
+    boni:
+      - question: "What means “three-sided”?"
+        answer: "TRILATERAL"
+      - question: "Which of your teeth have two points?"
+        answer: "BICUSPIDS"
+  - tossup:
+      question: "What is the Latin term for “marketplace”?"
+      answer: "FORUM"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What was the forum boarium? What was the forum piscatorium?"
+        answer: "MEAT OR CATTLE MARKET // FISH MARKET"
+  - tossup:
+      question: ""
+      answer: "Say in English: Marcus militibus praeest."
+    boni:
+      - question: ""
+        answer: "MARCUS IS IN CHARGE OF THE SOLDIERS."
+      - question: "Say: “I will obey my father.” Say: “You have harmed the horses.”"
+        answer: "PATRI MEO PAREBO. // EQUIS NOCUIST"
+  - tossup:
+      question: "Who had cursed Echo with her speech problem?"
+      answer: "JUNO/HERA"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Whom did Echo love unrequitedly? Whom did Narcissus love most?"
+        answer: "NARCISSUS // NARCISSUS"
+  - tossup:
+      question: "Who was the mother of a woman named Paphos and the wife of Pygmalion?"
+      answer: "GALATEA"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who became the mother of a son named Epaphus after she was restored to her female figure? What city in Egypt with an American namesake did Epaphus name for his wife?"
+        answer: "IO // MEMPHIS"
+  - tossup:
+      question: "Translate pauci amici."
+      answer: "FEW FRIENDS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Translate pauci ex amicis. Translate amicus sex pedum."
+        answer: "A FEW OF THE FRIENDS // A FRIEND SIX FEET TALL"
+  - tossup:
+      question: "Which of these is not from sto: stage, stadium, stanza, status?"
+      answer: "STADIUM"
+    boni:
+      - question: "Which of these is not from sto: cost, costume, constant?"
+        answer: "COSTUME"
+      - question: "What verb is the root of “costume” and “custom”?"
+        answer: "CONSUESCO"
+  - tossup:
+      question: "Define the verb loqui."
+      answer: "TO SPEAK"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Define loquax. Define colloquium."
+        answer: "TALKATIVE, LOQUACIOUS // MEETING, CONVERSATION, CONFERENCE"
+  - tossup:
+      question: "What is the Latin phrase abbreviated e.g.?"
+      answer: "EXEMPLI GRATIA"
+    boni:
+      - question: "What is abbreviated i.e.?"
+        answer: "ID EST"
+      - question: "What is abbreviated QED?"
+        answer: "QUOD ERAT DEMONSTRANDUM"
+  - tossup:
+      question: "What was the natural disaster of 79AD?"
+      answer: "THE ERUPTION OF VESUVIUS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was emperor at the time? What author wrote a surviving eyewitness account?"
+        answer: "TITUS // PLINY THE YOUNGER"
+  - tossup:
+      question: "What is the superlative degree of durus?"
+      answer: "DURISSIMUS"
+    boni:
+      - question: ""
+        answer: "271"
+      - question: "What is its comparative degree? What is its positive adverb?"
+        answer: "DURIOR // DURE"
+  - tossup:
+      question: "What king of Rome chose the first Vestal Virgins?"
+      answer: "NUMA POMPILIUS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What king built the Pons Sublicius? What king built the Curia?"
+        answer: "ANCUS MARCIUS // TULLUS HOSTILIUS"
+  - tossup:
+      question: ""
+      answer: "When we refer to the Year of the Four Emperors, we are usually assumed"
+    boni:
+      - question: ""
+        answer: "to mean 69AD. What year in the second century AD may have had the same"
+      - question: "dubious distinction? What two emperors had reigns that began and ended in 193AD?"
+        answer: "193AD // PERTINAX AND DIDIUS JULIANUS"
+  - tossup:
+      question: "Who married Meleager's sister Deianeira?"
+      answer: "HERACLES"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was responsible for Meleager's death? What centaur played an important part in Heracles' death?"
+        answer: "ALTHAEA, HIS MOTHER // NESSUS"
+  - tossup:
+      question: "Translate the interrogative quomodo. HOW?"
+      answer: "IN WHAT FASHION"
+    boni:
+      - question: ""
+        answer: "216"
+      - question: "What interrogative introduces a question expecting the answer “no”? What introduces one expecting “yes”?"
+        answer: "NUM // NONNE"
+  - tossup:
+      question: "Domi is often a Latin student's introduction to what case?"
+      answer: "LOCATIVE"
+    boni:
+      - question: "What is the locative of Roma?"
+        answer: "ROMAE"
+      - question: "What is the locative of humus?"
+        answer: "HUMI // #"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What Latin noun is preserved whenever you are served hors-d'oeuvres?"
+      answer: "OPUS"
+    boni:
+      - question: "What Latin adverb is preserved?"
+        answer: "FORĪS"
+      - question: "What Latin preposition is preserved?"
+        answer: "DĒ"
+  - tossup:
+      question: "What lovers' myth appears in the fourth Georgic?"
+      answer: "ORPHEUS & EURYDICE"
+    boni:
+      - question: "What lovers' myth appears in Books 4-6 of Apuleius?"
+        answer: "CUPID & PSYCHE"
+      - question: "What lovers' myth is included in Catullus' epyllion on the marriage of Peleus and Thetis?"
+        answer: "THESEUS & ARIADNE"
+  - tossup:
+      question: ""
+      answer: "What type of clause is found in the following sentence: Nihil est quod discere nequeāmus."
+    boni:
+      - question: ""
+        answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+      - question: "Translate: Who is there who cannot speak in Latin?"
+        answer: "Translate the sentence in the toss-up. // THERE IS NOTHING WHICH WE CANNOT LEARN // QUIS EST QUĪ LATĪNĒ NŌN LOQUĀTUR // or QUIS EST QUĪN LATĪNĒ LOQUĀTUR"
+  - tossup:
+      question: "What contemporary historian was wholly uncritical in his treatment of both Sejanus and the emperor Tiberius?"
+      answer: "GAIUS VELLEIUS PATERCULUS"
+    boni:
+      - question: "What was the title of his work?"
+        answer: "HISTORIAE ROMANAE"
+      - question: "Velleius interrupted his historical narrative with digressions on other subjects. Give the topic of one of these digressions."
+        answer: "ROMAN COLONIZATION / ROMAN PROVINCES / LATIN LITERATURE (EARLY, CICERONIAN, AUGUSTAN)"
+  - tossup:
+      question: "Against which emperor's life did the so-called “four consulars” conspire?"
+      answer: "HADRIAN"
+    boni:
+      - question: "Who ordered the execution of the four consulars?"
+        answer: "SENATE (or ATTIANUS, HADRIAN'S PRAETORIAN PREFECT)"
+      - question: "Name one of these consulars. LUSIUS QUIETUS / A. L. PUELILIUS CELSUS / C."
+        answer: "CORNELIUS PALMA // AVIDIUS // 16 // A100 pg2"
+  - tossup:
+      question: ""
+      answer: "Differentiate in meaning between nōn nihil and nihil nōn."
+    boni:
+      - question: ""
+        answer: "NŌN NIHIL -- SOMETHING"
+      - question: ""
+        answer: "NIHIL NŌN -- EVERYTHING //...between nōn numquam and numquam nōn. // NŌN NUMQUAM -- SOMETIMES // NUMQUAM NŌN -- ALWAYS //...between nōn nūllī and nūllī nōn. // NŌN NŪLLĪ -- SOME // NŪLLĪ NŌN -- EVERY"
+  - tossup:
+      question: "Who was responsible for the first free distribution of grain to the Roman populace?"
+      answer: "PUBLIUS CLODIUS PULCHER"
+    boni:
+      - question: "What office did Clodius hold when he initiated the grain dole?"
+        answer: "TRIBUNUS PLEBIS"
+      - question: "By whom was Clodius murdered?"
+        answer: "MILO"
+  - tossup:
+      question: ""
+      answer: "What use of the accusative is found in this sentence: Parentēs puerōs elementa docent."
+    boni:
+      - question: ""
+        answer: "DOUBLE"
+      - question: ""
+        answer: "herbam mella sapiunt. // COGNATE // Ārdentis oculōs suffecti sanguine et igni. // SPECIFICATION, SYNECHDOCHICAL, GREEK"
+  - tossup:
+      question: "What is the meaning of the Greek verb at the root of “sarcasm?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "BITE / CUT / FLESH"
+      - question: "...“polemical?...“rheumatism?"
+        answer: "” // WAR // ” // STREAM / FLUX"
+  - tossup:
+      question: ""
+      answer: "Listen carefully to the following paragraph, which I will read twice, and answer in English the question about it. Ut in silvā cum amīcō ambulābam, subitō coepit sē exuere et omnia vestīmenta iuxtā arborem pōnere. Cum illa vestīmenta lapidea fierent, stābam tamquam mē mortuus. Coepit fierī lupus, ululāre. Cavē putētis mē iocārī – meus amīcus est versipellis!"
+    boni:
+      - question: "What does the friend of the narrator do after he takes off his clothes?"
+        answer: "HE PLACES THEM NEXT TO A TREE"
+      - question: "What is the admonition the narrator gives at the end of the story?"
+        answer: "Describe the reaction of the narrator to this event. // HE WAS SCARED TO DEATH // DON'T THINK I'M JOKING // (-- MY FRIEND'S A WEREWOLF)"
+  - tossup:
+      question: "What nephew of Medea aided Jason and arranged their first meeting?"
+      answer: "ARGUS"
+    boni:
+      - question: "Who was Argus' mother, Medea's sister?"
+        answer: "CHALCIOPE (or IOPHOSSA)"
+      - question: "Who was Chalciope's husband, Argus' father?"
+        answer: "PHRIXUS"
+  - tossup:
+      question: "What was the name of Geryon's herdsman?"
+      answer: "EURYTION"
+    boni:
+      - question: "What was the vessel Heracles sailed in to reach Geryon's island?"
+        answer: "A GOLDEN CUP / GOBLET"
+      - question: "Who gave it to him?"
+        answer: "HELIOS or OCEANUS"
+  - tossup:
+      question: "What Thracian princess was turned into an almond tree when she hanged herself in grief?"
+      answer: "PHYLLIS"
+    boni:
+      - question: "Who was her husband, of whose return she despaird?"
+        answer: "DEMOPHON (or ACAMAS)"
+      - question: "When he did finally return, finding his wife a tree, what did he do?"
+        answer: "KISSED IT, WHEREUPON IT LEAVED FOR THE FIRST TIME"
+  - tossup:
+      question: "What is a Roman about to do if he crosses the pons into the saepta?"
+      answer: "VOTE"
+    boni:
+      - question: "What is the Latin phrase for a citizen's right to vote?"
+        answer: "IUS SUFFRAGI"
+      - question: "Suffragium derives from the verb frango. Why?"
+        answer: "BALLOTS WERE ORIGINALLY FRAGMENTS OF POTTERY"
+  - tossup:
+      question: "What Greek poet wrote odes in praise of victorious athletes?"
+      answer: "PINDAR"
+    boni:
+      - question: "What city was Pindar's hometown?"
+        answer: "THEBES"
+      - question: "What honor did Alexander the Great pay Pindar when he was in Thebes in 335 BC?"
+        answer: "HE ORDERED THE CITY RAZED BUT PINDAR'S HOUSE PRESERVED"
+  - tossup:
+      question: "What mortal helped Apollo and Poseidon build Troy's walls?"
+      answer: "AEACUS"
+    boni:
+      - question: "What portent occurred with the three sections of the wall?"
+        answer: "THREE SNAKES APPEARED, AND ONE CRAWLED THROUGH AEACUS' SECTION"
+      - question: "What prophecy did Apollo make as a result?"
+        answer: "THAT AEACUS' DESCENDANTS WOULD DESTROY THE CITY"
+  - tossup:
+      question: ""
+      answer: "Translate: Utinam nē in Graeciam hāc aestāte adīrēmus."
+    boni:
+      - question: ""
+        answer: "WOULD THAT WE WEREN'T GOING TO GREECE THIS SUMMER"
+      - question: "Quid hōc homine crūdēli faciāmus? WHAT ARE WE TO DO WITH THIS CRUEL MAN?"
+        answer: "18 // A100 pg4 // Forsitan quaerātis quī ille carnifex sit. // PERHAPS YOU MAY ASK WHO THAT BUTCHER IS //"
+  - tossup:
+      question: "Differentiate in meaning between ruber and rōbur."
+      answer: "RUBER -- RED, RUDDY"
+    boni:
+      - question: ""
+        answer: "RŌBUR -- OAK, OAK-WOOD"
+      - question: "...between fuscus and fustis?...between fiscus and ficus?"
+        answer: "FUSCUS -- DARK // FUSTIS -- CLUB, STICK // FISCUS -- BASKET, MONEY BOX, IMPERIAL TREASURY // FĪCUS -- FIG-TREE"
+  - tossup:
+      question: "Who was the tribune whose request in 462 BC for a written code of law eventually resulted in the Laws of the Twelve Tables?"
+      answer: "TERENTILIUS HARSA"
+    boni:
+      - question: "In what year was a commission appointed to write such a code?"
+        answer: "BC"
+      - question: "<latin></latin> What was the full name of this commission? DECEMVIRI LEGIBUS SCRIBUNDIS or scribendis?"
+        answer: "undefined"
+  - tossup:
+      question: "Who, because of his extensive writings on medicine, was called Cicero medicorum?"
+      answer: "CELSUS"
+    boni:
+      - question: "During which emperor's reign did he write?"
+        answer: "TIBERIUS'"
+      - question: "What Greek physician and author greatly influenced Celsus' writings?"
+        answer: "HIPPOCRATES // 19"

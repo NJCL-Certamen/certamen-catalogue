@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Spell Calypso."
+      answer: "CALYPSO"
+    boni:
+      - question: "Spell Ogygia."
+        answer: "OGYGIA"
+      - question: "Spell Odysseus."
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What case would you need for the word “children” in this sentence: “The children were frightened by the wolf”?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What case would “children” be in this sentence: “The wolf was protecting her cubs from the children.”"
+        answer: "ABLATIVE"
+      - question: "Give and explain the case of “children” in: “The wolf's lair was near the children.”"
+        answer: "DATIVE (or ACCUSATIVE WITH AD OR PROPE)"
+  - tossup:
+      question: "What deity was called Phoebus?"
+      answer: "APOLLO"
+    boni:
+      - question: "Who was Argeiphontes, “the slayer of Argus”?"
+        answer: "HERMES"
+      - question: "Who was called “the cloud-gatherer”?"
+        answer: "ZEUS"
+  - tossup:
+      question: "Translate dedisti."
+      answer: "YOU GAVE, YOU HAVE GIVEN"
+    boni:
+      - question: "Translate steterat."
+        answer: "HE HAD STOOD"
+      - question: "Translate tetigerimus."
+        answer: "WE SHALL HAVE TOUCHED"
+  - tossup:
+      question: "In what form did Zeus visit Europa?"
+      answer: "AS A BULL"
+    boni:
+      - question: "In what form did he visit Alcmena?"
+        answer: "AS HER HUSBAND AMPHITRYON"
+      - question: "What happened when he showed his true form to Semele?"
+        answer: "SHE WAS INCINERATED"
+  - tossup:
+      question: "Translate rota."
+      answer: "WHEEL"
+    boni:
+      - question: "Translate raeda."
+        answer: "COVERED WAGON, STAGECOACH"
+      - question: "Translate rana."
+        answer: "FROG"
+  - tossup:
+      question: "What vowel appears nowhere in the inflections of the first declension?"
+      answer: "O (or Y)"
+    boni:
+      - question: "What vowel does not appear in any of the second-declension neuter endings?"
+        answer: "E (or Y)"
+      - question: "In what ending does U appear in every declension?"
+        answer: "GENITIVE PLURAL"
+  - tossup:
+      question: "What is the ablative singular of manus?"
+      answer: "MANU"
+    boni:
+      - question: "What is the ablative plural?"
+        answer: "MANIBUS"
+      - question: "What is the genitive plural?"
+        answer: "MANUUM"
+  - tossup:
+      question: "What Latin name was given to the ten commissioners who wrote the code of the Twelve Tables?"
+      answer: "DECEMVIRI"
+    boni:
+      - question: "Who was the only person to serve on both sessions of the decemviri?"
+        answer: "APPLIUS CLAUDIUS"
+      - question: "Who supposedly was killed by her own father to save her from Appius Claudius' lust?"
+        answer: "VERGINIA"
+  - tossup:
+      question: "What does the noun vicus mean?"
+      answer: "VILLAGE"
+    boni:
+      - question: "The adjective vicinus?"
+        answer: "NEARBY, NEIGHBORING"
+      - question: "The verb vinco?"
+        answer: "CONQUER"
+  - tossup:
+      question: "What emperor raised a wall around Rome in the 270s AD?"
+      answer: "AURELIAN (L. DOMITIUS AURELIANUS)"
+    boni:
+      - question: "Who was Aurelian's immediate predecessor?"
+        answer: "CLAUDIUS II (CLAUDIUS GOTHICUS)"
+      - question: "What earlier emperor did Aurelian help Claudius II depose?"
+        answer: "GALLIENUS"
+  - tossup:
+      question: "Translate: Mei servi mox liberabuntur."
+      answer: "MY SLAVES WILL SOON BE SET FREE."
+    boni:
+      - question: "Translate: Servi Romae multa opera faciebant."
+        answer: "SLAVES IN ROME USED TO PERFORM MANY TASKS."
+      - question: "Translate: Romani servos e multis terris recipiebant."
+        answer: "THE ROMANS BROUGHT SLAVES BACK FROM MANY LANDS."
+  - tossup:
+      question: "Which of Marc Antony's wives was Augustus' sister?"
+      answer: "OCTAVIA"
+    boni:
+      - question: "Their daughter Antonia Minor married Livia's son Drusus and bore what future emperor?"
+        answer: "CLAUDIUS"
+      - question: "Which of Antony's wives bore him three children, with the sons named Alexander and Ptolemy, and the daughter named for herself?"
+        answer: "CLEOPATRA"
+  - tossup:
+      question: "Name and define the Latin noun at the root of “abundant.”"
+      answer: "UNDA=WAVE"
+    boni:
+      - question: "What English adjective meaning “everywhere” comes from a Latin adverb meaning just that?"
+        answer: "UBIQUITOUS"
+      - question: "What Latin verb is the root of the English noun “feat”?"
+        answer: "FACIO"
+  - tossup:
+      question: ""
+      answer: "Name a modern title derived from the name Caesar."
+    boni:
+      - question: ""
+        answer: "CZAR, KAISER"
+      - question: "What state has a name that comes from Caesar?"
+        answer: "Name another. // NEW JERSEY (CAESAREA → JERSEY)"
+  - tossup:
+      question: "Who were the parents of Paris?"
+      answer: "PRIAM AND HECABE/HECUBA"
+    boni:
+      - question: "By what other name was Paris known?"
+        answer: "ALEXANDER"
+      - question: "What herdsman of Priam raised Paris?"
+        answer: "AGELAUS"
+  - tossup:
+      question: "Annexed by Rome in 58BC, the island of Cyprus was attached to what mainland province?"
+      answer: "CILICIA"
+    boni:
+      - question: "To whom did Caesar give Cyprus in 47BC?"
+        answer: "CLEOPATRA"
+      - question: "Who made it a senatorial province?"
+        answer: "AUGUSTUS"
+  - tossup:
+      question: ""
+      answer: "Give the Latin and the English meaning for the abbreviation et al."
+    boni:
+      - question: ""
+        answer: "ET ALIA = AND OTHERS, AND OTHER THINGS"
+      - question: ""
+        answer: "or ET ALII = AND OTHERS, AND OTHER PEOPLE // or ET ALIBI = AND ELSEWHERE // Give the Latin and the English meaning for the abbreviation pro tem. // PRO TEMPORE= FOR THE TIME (BEING) // Give the Latin and the English for e.g. // EXEMPLI GRATIA=FOR (THE SAKE OF) EXAMPLE"
+  - tossup:
+      question: ""
+      answer: "Who killed these characters: Cercyon, Periphates,"
+    boni:
+      - question: "Phaea, Sciron, Sinis and Procrustes?"
+        answer: "THESEUS"
+      - question: "How did Sinis molest travelers? How did Procrustes molest travelers?"
+        answer: "HE WAS THE PINE-BENDER // WITH THE PROCRUSTEAN BED"
+  - tossup:
+      question: "Of the reckoning points within a month of the Roman calendar, which one is stable month after month?"
+      answer: "THE KALENDS"
+    boni:
+      - question: "Of the other two, which one must remain a fixed number of days before the other?"
+        answer: "THE NONES"
+      - question: "What is that number, by Roman counting?"
+        answer: "NINE // #"

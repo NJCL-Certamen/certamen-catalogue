@@ -1,0 +1,171 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Advanced"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "Nine tragedies survive from what Roman playwright of the first century AD?"
+      answer: "SENECA THE YOUNGER"
+    boni:
+      - question: "What historical tragedy on the reign of Nero is included with his work but clearly not his?"
+        answer: "OCTAVIA"
+      - question: "Who is the target of his Apocolocyntosis?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "Who was the father of Penelope, so attached that he almost accompanied Penelope and Odysseus on their honeymoon?"
+      answer: "ICARIUS"
+    boni:
+      - question: "What Naiad was Icarius’ wife, Penelope’s mother?"
+        answer: "PERIBOEA"
+      - question: "Who was Penelope’s sister?"
+        answer: "IPHTHIME"
+  - tossup:
+      question: "What was a basilica?"
+      answer: "LAW COURT"
+    boni:
+      - question: "What was a taberna?"
+        answer: "SHOP, STORE"
+      - question: "What were thermae?"
+        answer: "BATHS"
+  - tossup:
+      question: "The title Cunctator was given to a general who fought against Hannibal. What was his real name?"
+      answer: "Q. FABIUS MAXIMUS (VERRUCOSUS)"
+    boni:
+      - question: "How many times was he dictator?"
+        answer: "TWICE"
+      - question: "How many times was he consul?"
+        answer: "FIVE"
+  - tossup:
+      question: "Aeneas found which of Odysseus’ followers on the island of the Cyclopes?"
+      answer: "ACHAEMENIDES"
+    boni:
+      - question: "Aeneas found what island deserted and plague-ridden because of the sacrilegious acts of its king upon his return from Troy?"
+        answer: "CRETE"
+      - question: "What had King Idomeneus done to offend the gods?"
+        answer: "SACRIFICED HIS OWN SON FOR HIS RETURN HOME (FIRST THING HE SAW ON SHORE)"
+  - tossup:
+      question: "In 56BC, Publius Crassus, the son of the triumvir Crassus, subdued one of the three main regions of Gaul. Which one?"
+      answer: "AQUITANIA"
+    boni:
+      - question: "Where did Crassus, Pompey and Caesar meet in 56BC to renew the triumvirate?"
+        answer: "LUCCA"
+      - question: "Both Crassi, father and son, died fighting the Parthians in 53BC. Whom did Cornelia, Publius’ widow, marry shortly thereafter?"
+        answer: "POMPEY"
+  - tossup:
+      question: "What Latin compound verb means “sell,” as in “Sears sells appliances”?"
+      answer: "VENDO"
+    boni:
+      - question: "What means “sell” as in “Appliances sell well at Sears”?"
+        answer: "VENEO"
+      - question: "What defective noun is the root of both verbs?"
+        answer: "VENUM"
+  - tossup:
+      question: "Listen carefully to the sentence and answer in Latin the question about it, using only the information given. Puer, cum agrum transiret, leonem vidit. Quid egit puer?"
+      answer: "LEONEM VIDIT"
+    boni:
+      - question: "A quo leo visus est?"
+        answer: "A PUERO"
+      - question: "Quid accidebat quando puer leonem vidit?"
+        answer: "(PUER) AGRUM TRANSIBAT"
+  - tossup:
+      question: "What Roman historian lived from 86 to 35BC?"
+      answer: "SALLUST"
+    boni:
+      - question: "Both of Sallust's surviving works have titles beginning with what Latin word?"
+        answer: "BELLUM"
+      - question: "Of what province was Sallust governor?"
+        answer: "AFRICA NOVA (NUMIDIA)"
+  - tossup:
+      question: ""
+      answer: "Using only defective verbs, translate: I am beginning to remember."
+    boni:
+      - question: ""
+        answer: "MEMINISSE COEP"
+  - tossup:
+      question: ""
+      answer: "Translate meminerint."
+    boni:
+      - question: ""
+        answer: "THEY WILL REMEMBER or MAY THEY REMEMBER"
+      - question: ""
+        answer: "Translate it as a different mood."
+  - tossup:
+      question: "Who begins one of his poems Cenabis bene, mi Fabulle?"
+      answer: "CATULLUS"
+    boni:
+      - question: "Name two things which the poet goes on to say Fabullus must bring with him in order to dine well?"
+        answer: "HIS OWN FOOD, WINE, GIRL, WIT, LAUGHTER"
+      - question: "What does Catullus say will be the result of the wonderful perfume which Catullus will provide?"
+        answer: "FABULLUS WILL WISH HE WAS ALL NOSE"
+  - tossup:
+      question: "Who was the last Roman author to write satire in a meter other than dactylic hexameter?"
+      answer: "ENNIUS"
+    boni:
+      - question: "What author was Ennius' nephew?"
+        answer: "PACUVIUS"
+      - question: "What was the year of Ennius' death?"
+        answer: "169BC"
+  - tossup:
+      question: "What two forms are not found in the singular declension of nemo?"
+      answer: "GENITIVE AND ABLATIVE"
+    boni:
+      - question: "What two forms are rare or missing from the singular declension of vis?"
+        answer: "GENITIVE AND DATIVE"
+      - question: "What two forms are rare or missing from the singular declension of the noun preserved in the expression vice versa?"
+        answer: "NOMINATIVE AND DATIVE"
+  - tossup:
+      question: "What base verb with what meaning is the root of “redeem”?"
+      answer: "EMO = BUY"
+    boni:
+      - question: "Of “rescue”?"
+        answer: "QUATIO = SHAKE, AGITATE"
+      - question: "Of “restrain”?"
+        answer: "STRINGO = DRAW, CONSTRICT, PULL, STRETCH"
+  - tossup:
+      question: "How many men should have been in a full-strength legion?"
+      answer: "6000"
+    boni:
+      - question: "How many centuries were in a cohort?"
+        answer: "6"
+      - question: "How many men in a century?"
+        answer: "100"
+  - tossup:
+      question: "What Greek warrior at Troy wounded two deities?"
+      answer: "DIOMEDES"
+    boni:
+      - question: "Which two?"
+        answer: "APHRODITE AND ARES"
+      - question: "What other deity guided Diomedes' spear into Ares?"
+        answer: "ATHENA"
+  - tossup:
+      question: "What deity was conceived when Uranus' severed genitals fell into the sea?"
+      answer: "APHRODITE"
+    boni:
+      - question: ""
+        answer: "Name a group born from the blood the hit the ground."
+      - question: ""
+        answer: "GIANTS, ERINYES (FURIES), MELIAE (ASH NYMPHS) // Name another."
+  - tossup:
+      question: "What case name comes from a compound of fero?"
+      answer: "ABLATIVE"
+    boni:
+      - question: "What case name has the assimilated prefix ad?"
+        answer: "ACCUSATIVE"
+      - question: "What verb is the root of “genitive”?"
+        answer: "GIGNO"
+  - tossup:
+      question: "Who was Domitian's wife, who arranged for his assassination?"
+      answer: "DOMITIA"
+    boni:
+      - question: "Who was the palace slave who stabbed him?"
+        answer: "STEPHANUS"
+      - question: "Who was the pretorian commander in league with Domitia?"
+        answer: "PETRONIUS SECUNDUS"
+  - tossup:
+      question: "What is the third person singular pluperfect passive subjunctive of <emphasis>vinco</emphasis>?"
+      answer: "VICTUS ESSET"
+    boni:
+      - question: "Change <emphasis>victus esset</emphasis> to active."
+        answer: "VICISSET"
+      - question: "Change <emphasis>vicisset</emphasis> to perfect."
+        answer: "VICERIT // #"

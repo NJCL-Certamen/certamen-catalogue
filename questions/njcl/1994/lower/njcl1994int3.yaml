@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What case normally follows <latin>super</latin>?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What case normally follows <latin>apud</latin>?"
+        answer: "ACCUSATIVE"
+      - question: "What case normally follows <latin>satis</latin>?"
+        answer: "GENITIVE"
+  - tossup:
+      question: "What ablative absolute would be best translated as “under my leadership”?"
+      answer: "ME DUCE/DUCENTE"
+    boni:
+      - question: "How would you translate the ablative absolute <latin>te meque consulibus</latin>?"
+        answer: "WHEN/IF YOU AND I WERE CONSULS"
+      - question: ""
+        answer: "Translate the ablative absolute <latin>mutatis mutandis</latin>. // WITH THE NECESSARY CHANGES (HAVING BEEN) MADE"
+  - tossup:
+      question: "Who organized the resistance of central Gaul to Caesar in 52BC?"
+      answer: "VERCINGETORIX"
+    boni:
+      - question: "After what siege did Vercingetorix surrender?"
+        answer: "ALESIA"
+      - question: "What ultimately happened to Vercingetorix?"
+        answer: "HE WAS EXECUTED (AFTER BEING PARADED IN CAESAR'S TRIUMPH)"
+  - tossup:
+      question: "What name did Octavian receive when he was born?"
+      answer: "GAIUS OCTAVIUS"
+    boni:
+      - question: "After his adoption by Julius Caesar, what did his name become?"
+        answer: "GAIUS JULIUS CAESAR OCTAVIANUS"
+      - question: "When did the Senate make him Augustus?"
+        answer: "27BC"
+  - tossup:
+      question: "What does the Greek prefix <latin>mono-</latin> mean?"
+      answer: "ONE, SINGLE"
+    boni:
+      - question: "The prefix <latin>hemi-</latin>?"
+        answer: "HALF"
+      - question: "The prefix <latin>iso-</latin>?"
+        answer: "EQUAL"
+  - tossup:
+      question: "What is the gender of <latin>vulnus</latin>?"
+      answer: "NEUTER"
+    boni:
+      - question: "What is the gender of <latin>artus</latin>?"
+        answer: "MASCULINE"
+      - question: "What is the declension of <latin>artus</latin>?"
+        answer: "FOURTH"
+  - tossup:
+      question: ""
+      answer: "What adjective in English for “wordy” comes from a"
+    boni:
+      - question: "Latin adjective based on the noun for “word”?"
+        answer: "VERBOSE"
+      - question: "What is the Latin noun? means “word for word”?"
+        answer: "VERBUM // What Latin adverb is borrowed directly from Latin and // VERBATIM"
+  - tossup:
+      question: "As Livy tells us, what was Rome's first stone bridge?"
+      answer: "THE PONS AEMILIUS"
+    boni:
+      - question: "It dates from what year?"
+        answer: "179BC"
+      - question: "What bridge came next?"
+        answer: "PONS MULVIUS (109BC)"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the noun <latin>natus</latin> and the the adjective <latin>notus</latin>."
+    boni:
+      - question: ""
+        answer: "NATUS = SON, BIRTH NOTUS = FAMOUS, NOTED"
+      - question: ""
+        answer: "Distinguish in meaning between the verbs <latin>nascor</latin> and <latin>nato</latin>. // NATO = SWIM NASCOR = BE BORN // Distinguish in meaning between the nouns <latin>naufragium</latin> and <latin>naumachia</latin>. // NAUFRAGIUM = SHIPWRECK NAUMACHIA = NAVAL BATTLE"
+  - tossup:
+      question: "What would a slave called a <latin>cinerarius</latin> do?"
+      answer: "FIX A LADY'S HAIR"
+    boni:
+      - question: "What would <latin>adversitores</latin> do?"
+        answer: "SEE ROMANS HOME (AFTER EVENING ENGAGEMENTS)"
+      - question: "What was the term for a slave dealer?"
+        answer: "LENO or MANGO or VENALICIUS"
+  - tossup:
+      question: "What is the negative of <latin>ut</latin> in a purpose clause?"
+      answer: "NE"
+    boni:
+      - question: "What is the negative of <latin>ut</latin> in a result clause?"
+        answer: "UT...NON"
+      - question: "What would be the Latin instead of <latin>ut...non</latin> in: “It's so hot that no one is in the street”?"
+        answer: "UT...NEMO"
+  - tossup:
+      question: "What deity takes the guise of Ascanius to soften Dido's heart toward Aeneas?"
+      answer: "CUPID/AMOR/EROS"
+    boni:
+      - question: "What deity came to Aeneas to remind him to move on from Carthage?"
+        answer: "MERCURY/HERMES"
+      - question: "What deity persuade the Trojan women to set fire to their ships?"
+        answer: "JUNO/HERA"
+  - tossup:
+      question: "What Latin noun is the root of “venom”?"
+      answer: "VENENUM"
+    boni:
+      - question: "What Latin noun is the root of “poison”?"
+        answer: "POTIO"
+      - question: "What is the meaning of the Greek noun at the ultimate root of “toxic”?"
+        answer: "BOW"
+  - tossup:
+      question: "What object of Apollo's affections was turned into a tree?"
+      answer: "DAPHNE (or CYPARISSUS)"
+    boni:
+      - question: "What kind of tree?"
+        answer: "LAUREL (or CYPRESS)"
+      - question: "What lover did Apollo kill for her infidelity?"
+        answer: "CORONIS"
+  - tossup:
+      question: "Change <latin>laudarem</latin> to present."
+      answer: "LAUDEM"
+    boni:
+      - question: "Change <latin>laudem</latin> to perfect."
+        answer: "LAUDAVERIM"
+      - question: "Change <latin>laudaverim</latin> to passive."
+        answer: "LAUDATUS SIM"
+  - tossup:
+      question: "Change <latin>noscimus</latin> to perfect."
+      answer: "NOVIMUS"
+    boni:
+      - question: "Change <latin>discit</latin> to perfect."
+        answer: "DIDICIT"
+      - question: "Change <latin>miscet</latin> to perfect."
+        answer: "MISCUIT"
+  - tossup:
+      question: "What man in Greek mythology, like Noah, survived a great flood?"
+      answer: "DEUCALION"
+    boni:
+      - question: "Who was his wife?"
+        answer: "PYRRHA"
+      - question: "What did they realize were meant when an oracle referred to their mother's bones?"
+        answer: "THE STONES (OF MOTHER EARTH)"
+  - tossup:
+      question: "What daughter of Proteus told a Greek chieftain how to get information out of her father?"
+      answer: "INO/IDOTHEA"
+    boni:
+      - question: "Who was the Greek?"
+        answer: "MENELAUS"
+      - question: "What guise did Menelaus adopt to waylay Proteus?"
+        answer: "SEAL"
+  - tossup:
+      question: "What daughter of Minos fell in love with and aided Theseus?"
+      answer: "ARIADNE"
+    boni:
+      - question: "What other daughter of Minos later married Theseus?"
+        answer: "PHAEDRA"
+      - question: "What son of Minos was killed by a bull, prompting vengeance against Athens?"
+        answer: "ANDROGEOS"
+  - tossup:
+      question: "What important event took place in 476AD?"
+      answer: "THE FALL OF THE WESTERN EMPIRE (OF ROME)"
+    boni:
+      - question: "What city fell in 1453AD?"
+        answer: "CONSTANTINOPLE/BYZANTIUM"
+      - question: "Who was the last emperor in the west?"
+        answer: "ROMULUS AUGUSTULUS // #"

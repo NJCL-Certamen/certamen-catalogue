@@ -1,0 +1,83 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Advanced"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Monstra mihi pugnum."
+      answer: "PLAYER SHOULD SHOW A FIST."
+  - tossup:
+      question: "Translate: Nos paenitet. In sinum vestri ducis noster dux vomuisse videtur. WE'RE SORRY."
+      answer: "OUR PRESIDENT SEEMS TO HAVE PUKED IN YOUR PRIME MINISTER'S LAP."
+  - tossup:
+      question: "Distinguish between the nouns cinis and fraxinus."
+      answer: "CINIS = ASH, CINDER FRAXINUS = ASH TREE"
+  - tossup:
+      question: "What kind of creature was a vespertilio?"
+      answer: "A BAT"
+  - tossup:
+      question: "What two cases can show price?"
+      answer: "GENITIVE AND ABLATIVE"
+  - tossup:
+      question: "What word for “although” introduces an admitted fact, usually limited to the indicative?"
+      answer: "QUAMQUAM"
+  - tossup:
+      question: "Make fingo perfect."
+      answer: "FINXI"
+  - tossup:
+      question: "Make the noun metum plural."
+      answer: "METUS"
+  - tossup:
+      question: "What is the meaning of the Greek verb from which “theatre” and “theory” are derived?"
+      answer: "WATCH, LOOK AT"
+  - tossup:
+      question: "What does “oviparous” tell you about an animal?"
+      answer: "THAT IT BEARS ITS YOUNG IN THE FORM OF EGGS"
+  - tossup:
+      question: "Who was widowed when Protesilaus fell at Troy?"
+      answer: "LAODAMIA"
+  - tossup:
+      question: "What mistress of Hades was crushed underfoot by Persephone?"
+      answer: "MENTHE"
+  - tossup:
+      question: "Who was the mother of the Pleiades?"
+      answer: "PLEIONE"
+  - tossup:
+      question: "Who was the son of Deucalion and Pyrrha?"
+      answer: "HELLEN"
+  - tossup:
+      question: "In one version, what king had all fifty of his daughters sleep with Heracles?"
+      answer: "THESPIUS"
+  - tossup:
+      question: "By what request would a dinner guest signal his readiness to leave?"
+      answer: "HE WOULD ASK FOR HIS SHOES"
+  - tossup:
+      question: "What battle was summarized by Veni vidi vici?"
+      answer: "ZELA"
+  - tossup:
+      question: "What Sabine co-ruled with Romulus?"
+      answer: "TITUS TATIUS"
+  - tossup:
+      question: "Who was the real father of Scipio Africanus Minor?"
+      answer: "L. AEMILIUS PAULLUS"
+  - tossup:
+      question: "Who was governor of Hispania Tarraconensis from 60AD until his accession to the principate?"
+      answer: "GALBA"
+  - tossup:
+      question: "What was Catullus' birthplace?"
+      answer: "VERONA"
+  - tossup:
+      question: "In whose mouth does Vergil put the directive Tu regere imperio populos, Romane, memento?"
+      answer: "ANCHISES'"
+  - tossup:
+      question: "Who was the friend to whom Cicero wrote so many letters?"
+      answer: "T. POMPONIUS ATTICUS"
+  - tossup:
+      question: "What historical work was called by its author Ab excessu divi Augusti?"
+      answer: "TACITUS' ANNALS"
+  - tossup:
+      question: "What work by Hesiod is continued by a later writer's Catalog of Women?"
+      answer: "THEOGONY"
+    boni:
+      - question: ""
+        answer: "#"

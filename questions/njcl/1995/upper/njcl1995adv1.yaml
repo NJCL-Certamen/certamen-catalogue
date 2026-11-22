@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What sea goddess was Neptune's wife?"
+      answer: "AMPHITRITE"
+    boni:
+      - question: "Who was their son, the trumpeter of the sea?"
+        answer: "TRITON"
+      - question: "What was Triton's trumpet?"
+        answer: "(CONCH) SHELL"
+  - tossup:
+      question: "What historian won the friendship of Augustus, in spite of his preference for the republican constitution?"
+      answer: "LIVY"
+    boni:
+      - question: "What is the Latin title of Livy's history?"
+        answer: "AB URBE CONDITA"
+      - question: "What was unusual about how the Ab Urbe Condita was published?"
+        answer: "PUBLISHED IN INSTALLMENTS"
+  - tossup:
+      question: "What war resulted when Rome's Italian allies were refused citizenship?"
+      answer: "SOCIAL / MARSIC / ITALIC"
+    boni:
+      - question: "Whose proposal to enfranchise the Italians led to his assassination?"
+        answer: "(M. LIVIUS) DRUSUS THE YOUNGER"
+      - question: "Give the full name of the consul who carried the lex Iulia in 90 BC granting Roman citizenship to Latin and Italian communities."
+        answer: "LUCIUS IULIUS CAESAR (consul 90 BC)"
+  - tossup:
+      question: "What queen was defeated by Aurelian?"
+      answer: "ZENOBIA"
+    boni:
+      - question: "Where was she queen?"
+        answer: "PALMYRA"
+      - question: "She succeeded her murdered husband. What was his name?"
+        answer: "ODAENATHUS"
+  - tossup:
+      question: "Which centaur entertained Heracles but started a riot with some wine?"
+      answer: "PHOLUS"
+    boni:
+      - question: "What teacher of Heracles was killed in the riot?"
+        answer: "CHIRON"
+      - question: "For whom did Heracles perform his labors?"
+        answer: "EURYSTHEUS"
+  - tossup:
+      question: "How many books of the De Bello Gallico were written by Caesar?"
+      answer: "SEVEN"
+    boni:
+      - question: "Who wrote the eighth book?"
+        answer: "AULUS HIRTIUS"
+      - question: "In what capacity had Aulus Hirtius served Caesar?"
+        answer: "ONE OF HIS LIEUTENANTS IN GAUL"
+  - tossup:
+      question: "Give the date of the festival of the Lupercalia in Rome."
+      answer: "FEBRUARY 15"
+    boni:
+      - question: "What two animals were sacrificed?"
+        answer: "A GOAT AND A DOG"
+      - question: "What Italian god was the honoree?"
+        answer: "FAUNUS"
+  - tossup:
+      question: "Who was the daughter of Priam to whom Apollo gave the gift of prophecy?"
+      answer: "CASSANDRA"
+    boni:
+      - question: "Who was Cassandra's mother?"
+        answer: "HECUBA/HECABE"
+      - question: "Who was Cassandra's brother who also had the powers of prophecy?"
+        answer: "HELENUS"
+  - tossup:
+      question: "Complete this analogy Nōlō : nōn vult :: mālō : ________."
+      answer: "MĀVULT"
+    boni:
+      - question: "Complete this analogy Mālō : mālit :: queō : ________."
+        answer: "QUEAT"
+      - question: "Complete this analogy Queō : queat :: ōdī : ________."
+        answer: "ŌDERIT"
+  - tossup:
+      question: "Who was the first Roman emperor to leave office alive?"
+      answer: "DIOCLETIAN"
+    boni:
+      - question: "What was the year of his abdication?"
+        answer: "AD 305"
+      - question: "Who abdicated with him?"
+        answer: "MAXIMIAN (HIS WESTERN CO-AUGUSTUS)"
+  - tossup:
+      question: "Distinguish in meaning between lūceō and lūgeō."
+      answer: "LŪCEŌ -- SHINE, BE LIGHT, GLITTER"
+    boni:
+      - question: ""
+        answer: "LŪGEŌ -- MOURN"
+      - question: "What 3rd principal part do lūceō and lūgeō share? What verb, lūceō or lūgeō, does not have a 4th principal part?"
+        answer: "LUXĪ // LŪCEŌ"
+  - tossup:
+      question: "Change fuissēs to imperfect."
+      answer: "ESSĒS"
+    boni:
+      - question: "Change essēs to present."
+        answer: "SĪS"
+      - question: "Besides being a form of sum, esse, sīs has the possibility of being a contraction of what two words?"
+        answer: "SĪ VĪS"
+  - tossup:
+      question: "Whose first known work celebrated the opening of the Colosseum?"
+      answer: "MARTIAL'S"
+    boni:
+      - question: "What was the title of this work?"
+        answer: "<latin>LIBER SPECTACULORUM</latin>"
+      - question: "Martial's next published work was entitled <latin>Xenia</latin>. For what purpose were these short poems written?"
+        answer: "TO ACCOMPANY GIFTS (GIVEN AT SATURNALIA)"
+  - tossup:
+      question: "You may or may not know that Aeneas was not really a Trojan. Of what kindred people was Aeneas the prince?"
+      answer: "DARDANIANS"
+    boni:
+      - question: "In what year of the war did Aeneas and the Dardanians ally themselves with the Trojans and join the fighting?"
+        answer: "NINTH"
+      - question: "What caused Aeneas to join the Trojans fighting the Greeks?"
+        answer: "ACHILLES RAIDED HIS CATTLE"
+  - tossup:
+      question: "<latin>Monstrā mihi tua labra.</latin>"
+      answer: "PLAYER SHOULD SHOW HIS LIPS"
+    boni:
+      - question: ""
+        answer: "<latin>Prōtrūdite, omnēs, vestra labra inferiōra.</latin>"
+      - question: ""
+        answer: "ALL PLAYERS SHOULD THRUST OUT THEIR LOWER LIPS // <latin>Perflāte aurā vestra labra.</latin> // PLAYERS SHOULD WHISTLE OR AT LEAST ATTEMPT IT"
+  - tossup:
+      question: ""
+      answer: "Listen carefully to the following sentences, which I will read twice, and answer in Latin the question about them. Dum cīvēs Rōmānī sacrificium in dēlūbrō clāmōsō spectant, iuvenis subitō prōsiluit audax. “Rēs novae coepērunt.” clāmābat. “Nunc cīvitātī serviētis!”"
+    boni:
+      - question: "Quī cīvitātī serviētis?"
+        answer: "CĪVĒS / ROMANI / CIVES ROMANI"
+      - question: "Quid cīvēs faciēbant? In quālī dēlūbrō erat sacrificium?"
+        answer: "SACRIFICIUM SPECTĀBANT // CLĀMŌSŌ"
+  - tossup:
+      question: "What is Vergil's ten-poem collection of pastoral poetry entitled?"
+      answer: "ECLOGUES/BUCOLICS"
+    boni:
+      - question: "What work did he compose next?"
+        answer: "GEORGICS"
+      - question: "What is the general subject matter of the Georgics?"
+        answer: "AGRICULTURE, FARMING (not COUNTRY LIFE)"
+  - tossup:
+      question: ""
+      answer: "Translate: Cīvēs Rōmam vēnērunt questum iniūriās."
+    boni:
+      - question: ""
+        answer: "THE CITIZENS CAME TO ROME TO COMPLAIN OF WRONGS"
+      - question: "What kind of construction is questum?"
+        answer: "SUPINE // Translate: Quaerunt quid optimum factū sit. // THEY ASK WHAT IS (IT) BEST TO DO"
+  - tossup:
+      question: "Give an antonym of primo."
+      answer: "DENIQUE / DEMUM / POSTREMO"
+    boni:
+      - question: "Give an antonym of siccus."
+        answer: "UVIDUS / MADIDUS / UMIDUS"
+      - question: "Give an antonym of culmen."
+        answer: "SOLUM / FUNDUS"
+  - tossup:
+      question: "Which, if any, of the following is NOT derived from the same Latin root as the others: affable, infant, preface, facet, fate."
+      answer: "FACET"
+    boni:
+      - question: "...torch, distort, torment, torque, tortuous."
+        answer: "TORCH"
+      - question: "...point, puncture, punt, pungent, pivot."
+        answer: "PUNT // 3"

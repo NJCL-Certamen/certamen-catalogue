@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Advanced"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Change <latin>es</latin> to subjunctive."
+      answer: "SIS"
+    boni:
+      - question: "Change <latin>sis</latin> to perfect."
+        answer: "FUERĪS"
+      - question: "Change <latin>fuerīs</latin> to plural."
+        answer: "FUERĪTIS"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “energy” and “ergometer”?"
+      answer: "WORK"
+    boni:
+      - question: "Common to “liturgy” and “litany”?"
+        answer: "PRAYER"
+      - question: "Common to “bicycle” and “cyclops”?"
+        answer: "WHEEL, CIRCLE"
+  - tossup:
+      question: "What is the name of the epic of Lucretius?"
+      answer: "<latin>DE RERUM NATURA</latin>/<latin>ON THE NATURE OF THINGS</latin>"
+    boni:
+      - question: "How many books does it contain?"
+        answer: "SIX"
+      - question: "What school of philosophy does it explain and espouse?"
+        answer: "EPICUREANISM"
+  - tossup:
+      question: "What son of Antenor fought off Achilles' attack on the Scaean Gate?"
+      answer: "AGENOR"
+    boni:
+      - question: "What god saved Agenor and in his guise took his place?"
+        answer: "APOLLO"
+      - question: "What Greek chieftains, out of gratitude for Antenor's earlier hospitality, saved the lives of him and his surviving family as Troy fell?"
+        answer: "ODYSSEUS AND MENELAUS"
+  - tossup:
+      question: "What deity had the epithet Gaieochos, “the earth holder”?"
+      answer: "POSEIDON"
+    boni:
+      - question: "Who was Eubouleus, “he of good advice”?"
+        answer: "HADES"
+      - question: "Who was Ergane, “the worker”?"
+        answer: "ATHENA"
+  - tossup:
+      question: "What compound Latin verb is the root of the English verb “aid”?"
+      answer: "ADIUVARE"
+    boni:
+      - question: "What irregular Latin verb is the root of the English noun “adage”?"
+        answer: "AIO"
+      - question: "What Latin noun is the basis for “adjourn”?"
+        answer: "DIES"
+  - tossup:
+      question: "Quid avis aedificat?"
+      answer: "NIDUM"
+    boni:
+      - question: "Ubi avis nidum facit?"
+        answer: "IN ARBORE"
+      - question: "Quā materiā avis nidum facit?"
+        answer: "RAMIS/LUTO/VIRGIS/VIMINIBUS/FOLIIS/PAPYRO/FILIS"
+  - tossup:
+      question: "What rhetorical device is the repeated use of a consonant sound?"
+      answer: "ALLITERATION/CONSONANCE"
+    boni:
+      - question: "What is the repetition of a vowel sound?"
+        answer: "ASSONANCE"
+      - question: "What is the repetition of the same word at the beginning of successive phrases or clauses?"
+        answer: "ANAPHORA"
+  - tossup:
+      question: "Whose shade is the first Odysseus encounters in Hades?"
+      answer: "ELPENOR'S"
+    boni:
+      - question: "How did Elpenor die?"
+        answer: "HE FELL OFF CIRCE'S ROOF DRUNK"
+      - question: "What does Elpenor want to tell Odysseus?"
+        answer: "THAT HE NEEDS A PROPER BURIAL BACK IN AEAEA"
+  - tossup:
+      question: "Which of Cicero's works is also known as the Laelius?"
+      answer: "DE AMICITIA/ON FRIENDSHIP"
+    boni:
+      - question: ""
+        answer: "Which one is also known as the Cato Maior"
+      - question: "What lost work by Cicero was written out of grief over the death of his daughter Tullia?"
+        answer: "DE SENECTUTE/ON OLD AGE // DE CONSOLATIONE"
+  - tossup:
+      question: ""
+      answer: "To what group do the following names all refer: Dirae,"
+    boni:
+      - question: "Semnae, Erinyes, Eumenides?"
+        answer: "THE FURIES"
+      - question: ""
+        answer: "For five points each, name two of the Furies. // MEGAERA, ALECTO, TISIPHONE"
+  - tossup:
+      question: ""
+      answer: "What kind of subjunctive is found in this example:"
+    boni:
+      - question: "Nemo est qui hoc dubitet?"
+        answer: "RELATIVE CLAUSE OF CHARACTERISTIC"
+      - question: ""
+        answer: "Translate this sentence after the verb form scivimus: // “We knew that he was remaining at home.” // EUM DOMI MANERE // Translate this sentence after the verb form scivimus: // “We knew why he was remaining at home.” // CUR DOMI MANERET"
+  - tossup:
+      question: ""
+      answer: "Define the English noun “inhumation.”"
+    boni:
+      - question: ""
+        answer: "BURIAL IN THE GROUND"
+      - question: "Define “cinerary.” Define “lugubrious.”"
+        answer: "COMPOSED OF/PERTAINING TO ASHES // GLOOMY, MOURNFUL"
+  - tossup:
+      question: "What landmark event in Octavian's life took place the year of Cicero's consulship?"
+      answer: "HIS BIRTH"
+    boni:
+      - question: "What was the year?"
+        answer: "63BC"
+      - question: "His father Gaius Octavius died in what year?"
+        answer: "59BC"
+  - tossup:
+      question: "Who was the mother of Agrippina the Elder?"
+      answer: "JULIA THE ELDER, DAUGHTER OF AUGUSTUS"
+    boni:
+      - question: "Who was this Julia's mother?"
+        answer: "SCRIBONIA"
+      - question: "Which emperor was the son of Agrippina the Younger?"
+        answer: "NERO"
+  - tossup:
+      question: "Rome's earliest extant literature was an adaptation of the Odyssey into Latin. Who wrote it?"
+      answer: "LIVIUS ANDRONICUS"
+    boni:
+      - question: "What was the metre?"
+        answer: "SATURNIAN"
+      - question: "What city was Livius from?"
+        answer: "TARENTUM"
+  - tossup:
+      question: "What irregular form keeps <latin>dea</latin> and <latin>deus</latin> from having any forms in common?"
+      answer: "DEABUS"
+    boni:
+      - question: "What form other than <latin>deorum</latin> is a genitive plural form of <latin>deus</latin>?"
+        answer: "DEUM"
+      - question: "What is the genitive plural of <latin>dea</latin>?"
+        answer: "DEARUM"
+  - tossup:
+      question: "What holiday gave slaves temporary freedom?"
+      answer: "THE SATURNALIA"
+    boni:
+      - question: "On what date did it begin?"
+        answer: "DECEMBER 17"
+      - question: "What presents were typical of the Saturnalia?"
+        answer: "WAX CANDLES OR POTTERY FIGURINES (SIGILLARIA)"
+  - tossup:
+      question: "What hero of the Samnite Wars was consul five times between 322 and 295BC and dictator in 315BC?"
+      answer: "Q. FABIUS MAXIMUS RULLIANUS"
+    boni:
+      - question: "Besides the Samnites, over what enemy was he granted a triumph?"
+        answer: "GAULS AND/OR ETRUSCANS"
+      - question: "orders?"
+        answer: "What dictator punished him in 325BC for fighting against // PAPIRIUS CURSOR"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the nouns <latin>aper</latin> and <latin>apis</latin>."
+    boni:
+      - question: ""
+        answer: "APER = BOAR, APIS = BEE"
+      - question: ""
+        answer: "Distinguish in meaning between the nouns <latin>acer</latin> and <latin>acus</latin>. // ACER = MAPLE TREE, ACUS = NEEDLE // Distinguish in meaning between the nouns <latin>barca</latin> and <latin>bucca</latin>. // BARCA = BOAT, BUCCA = CHEEK // #"

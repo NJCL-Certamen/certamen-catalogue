@@ -1,0 +1,178 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What was the twelfth and last labor of Heracles?"
+      answer: "TO FETCH CERBERUS FROM HADES"
+    boni:
+      - question: "In what religious rite did he take part in order to prepare for this labor?"
+        answer: "INITIATED INTO ELEUSINIAN MYSTERIES"
+      - question: "What was Eurystheus' reaction when Heracles brough Cerberus to him?"
+        answer: "JUMPED INTO A JAR FROM FRIGHT"
+  - tossup:
+      question: "(Moderator holds up two fingers) Ask me in Latin, “How many fingers are you holding up?” QUOT DIGITŌS TOLLIS (LEVAS / SUSTINES/ (DE)MONSTRAS / OSTENDIS)?"
+      answer: "Dic mihi Latīnē quot digitōs tollam."
+    boni:
+      - question: ""
+        answer: "DUO(S) (DIGITŌS TOLLIS)"
+      - question: "Quot digitī mihi sunt?"
+        answer: "DECEM (VĪGINTĪ)"
+  - tossup:
+      question: "Which, if any, of the following is NOT derived from pingō: picture, paint, pink, pixel?"
+      answer: "PINK"
+    boni:
+      - question: "Which of these IS from pingō: panther, pansy, pinto?"
+        answer: "PINTO"
+      - question: "What English noun meaning “a source of color” is from pingō?"
+        answer: "PIGMENT"
+  - tossup:
+      question: "With what Roman leader is the phrase primus inter pares first associated?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "What title of leadership did he prefer for himself to imperator?"
+        answer: "PRINCEPS"
+      - question: "When did the Senate give him the name Augustus?"
+        answer: "27 BC (Jan. 16)"
+  - tossup:
+      question: "Who was the philosopher-emperor who ruled from AD 161 to 180?"
+      answer: "MARCUS AURELIUS"
+    boni:
+      - question: "Who was his loony son and successor?"
+        answer: "(L. AELIUS AURELIUS) COMMODUS"
+      - question: "Who was Marcus' co-emperor for the first 8 years of his principate?"
+        answer: "(L.) VERUS"
+  - tossup:
+      question: "Some Latin nouns have been given the privilege of having plural? different meanings in the singular and plural. What does aqua mean in the singular and plural?"
+      answer: "AQUA -- WATER, AQUEDUCT"
+    boni:
+      - question: ""
+        answer: "AQUAE -- MINERAL SPRINGS, SPA"
+      - question: "What does auxilium mean in the singular and plural? What does rostrum mean in the singular and plural?"
+        answer: "AUXILIUM -- HELP // AUXILIA -- AUXILIARIES, REINFORCEMENTS // ROSTRUM -- BEAK, PROW // ROSTRA -- SPEAKER'S PLATFORM // 1 // B1pg2"
+  - tossup:
+      question: "According to Ovid, what two people fell in love with Narcissus?"
+      answer: "ECHO AND NARCISSUS HIMSELF"
+    boni:
+      - question: "According to Ovid, what goddess fell in love with Adonis?"
+        answer: "VENUS or PROSERPINA"
+      - question: "According to Ovid, what sea divinity loved Scylla before she was changed into a monster?"
+        answer: "GLAUCUS or POSEIDON"
+  - tossup:
+      question: ""
+      answer: "Besides her anger over the judgement of Paris, Hera resented the Trojans because they"
+    boni:
+      - question: "were descended from which of Zeus' lovers?"
+        answer: "ELECTRA (ONE OF THE PLEIADES)"
+      - question: "Who was Electra's son by Zeus and one of Troy's progenitors? What did Zeus throw from Olympus while pursuing Electra?"
+        answer: "DARDANUS // THE PALLADIUM"
+  - tossup:
+      question: "Who in mythology fashioned a lyre from a tortoise shell?"
+      answer: "HERMES (MERCURY)"
+    boni:
+      - question: "To whom did he give the lyre?"
+        answer: "APOLLO"
+      - question: "Why did he need to appease Apollo?"
+        answer: "HE HAD BEEN CAUGHT RED-HANDED STEALING HIS SACRED CATTLE"
+  - tossup:
+      question: "Translate quam in this sentence: Quam pulcherrima est urbs Rōma!"
+      answer: "HOW"
+    boni:
+      - question: "Translate quam in this sentence: Rōma erat multō pulchrior quam Carthāgō."
+        answer: "THAN"
+      - question: ""
+        answer: "Translate the quam phrase in this sentence: Carthāgō ā Rōmā quam celerrimē victa est. // AS QUICKLY AS POSSIBLE"
+  - tossup:
+      question: "What Roman holiday began on December 17?"
+      answer: "SATURNALIA"
+    boni:
+      - question: "Why did slaves look forward to it?"
+        answer: "SWITCH PLACE WITH THEIR MASTERS /"
+      - question: "What was the Latin name for Saturnalia presents?"
+        answer: "THEY COULD DO AS THEY WANTED FOR A DAY // SIGILLARIA"
+  - tossup:
+      question: "Change rēs pūblicās to singular."
+      answer: "REM PŪBLICAM"
+    boni:
+      - question: "Change rem pūblicam to genitive."
+        answer: "REĪ PŪBLICAE"
+      - question: "Change reī pūblicae to plural."
+        answer: "RĒRUM PŪBLICĀRUM"
+  - tossup:
+      question: "Give an antonym of orior."
+      answer: "RUŌ / CADŌ / DĒCIDŌ / DĒLĀBOR / OCCIDŌ"
+    boni:
+      - question: "Give an antonym of fateor."
+        answer: "DIFFITEOR / NEGŌ / TACEO / SILEO"
+      - question: "Give an antonym of nāscor."
+        answer: "MORIOR / PEREŌ / OBEŌ / DĒCĒDŌ // 2 // B1 Pg3"
+  - tossup:
+      question: ""
+      answer: "Use a gerundive to restate the following Latin sentence: necesse est mihi Latīnam discere"
+    boni:
+      - question: ""
+        answer: "LATĪNA MIHI DISCENDA EST"
+      - question: "What use of the dative is found in Latīna mihi discenda est? What use of the dative is found in Necesse est mihi Latīnam discere?"
+        answer: "AGENCY // REFERENCE"
+  - tossup:
+      question: "What deity's sacred geese awoke the defenders during Brennus' attack on the Capitoline?"
+      answer: "JUNO'S"
+    boni:
+      - question: "What already distinguished Roman hero attacked Brennus' forces after they left Rome with their ransom?"
+        answer: "(M. FURIUS) CAMILLUS"
+      - question: "How long had the Gauls occupied the Capitol?"
+        answer: "SEVEN MONTHS"
+  - tossup:
+      question: "Who tamed Pegasus?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: "What monster did Bellerophon slay?"
+        answer: "THE CHIMAERA"
+      - question: "With what act did Bellerophon, later in his life, anger the gods?"
+        answer: "HE TRIED TO FLY PEGASUS TO OLYMPUS"
+  - tossup:
+      question: "Who delivered Caesar's funeral oration?"
+      answer: "MARC ANTONY"
+    boni:
+      - question: "How many sesterces did Caesar's will leave to every Roman citizen?"
+        answer: "300"
+      - question: "Who was Caesar's widow?"
+        answer: "CALPURNIA"
+  - tossup:
+      question: ""
+      answer: "Walk through a cemetery and it becomes obvious that even the dead know their Latin."
+    boni:
+      - question: ""
+        answer: "Probably the most popular graveyard abbreviation is R."
+  - tossup:
+      question: ""
+      answer: "P. Give the Latin and English for R."
+  - tossup:
+      question: "P."
+      answer: "REQUIESCAT IN PACE -- MAY HE REST IN PEACE"
+    boni:
+      - question: ""
+        answer: "What is the meaning of H."
+  - tossup:
+      question: "S., which stands for Hic Iacet Sepultus?"
+      answer: "HERE LIES BURIED"
+    boni:
+      - question: "What is the meaning of S.T.T.L., which stands for Sit Tibi Terra Levis?"
+        answer: "MAY THE LAND (DIRT / SOIL / EARTH) BE LIGHT FOR (ON) YOU"
+  - tossup:
+      question: "Change arbitrābar to plural."
+      answer: "ARBITRĀBĀMUR"
+    boni:
+      - question: "Change arbitrābāmur to future."
+        answer: "ARBITRĀBIMUR"
+      - question: "Change arbitrābimur to subjunctive."
+        answer: "DOES NOT EXIST"
+  - tossup:
+      question: "Say in Latin, “Bread and honey.”"
+      answer: "PĀNIS ET MEL"
+    boni:
+      - question: "...“Salt and pepper.”"
+        answer: "SĀL ET PIPER"
+      - question: "...“Wine and cheese.”"
+        answer: "VĪNUM ET CĀSEUS // 3"

@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "Who was Hannibal’s father?"
+      answer: "HAMILCAR BARCA"
+    boni:
+      - question: "What pledge did Hannibal make to his father?"
+        answer: "TO FIGHT ROME ALL HIS LIFE"
+      - question: "How many sons did Hamilcar Barca have?"
+        answer: "THREE"
+  - tossup:
+      question: "Define salūs, salūtis."
+      answer: "HEALTH, SAFETY, WELFARE"
+    boni:
+      - question: "Define the noun solea."
+        answer: "SANDAL, SHOE"
+      - question: "Define the verb soleo, solere."
+        answer: "BE ACCUSTOMED TO"
+  - tossup:
+      question: "Who instructed Heracles on the lyre?"
+      answer: "LINUS"
+    boni:
+      - question: "Who was Heracles’ wife, the woman responsible for his death?"
+        answer: "DEIANIRA"
+      - question: "Who was the centaur whose blood poisoned Heracles?"
+        answer: "NESSUS"
+  - tossup:
+      question: "Which of the following is not a sibling of the other three: Zeus, Hestia, Hephaestus, Hera?"
+      answer: "HEPHAESTUS"
+    boni:
+      - question: "Who was Hephaestus’ mother?"
+        answer: "HERA"
+      - question: "Who was Hephaestus’ wife?"
+        answer: "APHRODITE (AGLAIA, CHARIS)"
+  - tossup:
+      question: "Into what did Dionysus turn his maenads into as punishment for their killing Orpheus?"
+      answer: "(OAK) TREES"
+    boni:
+      - question: "Who was punished with madness for raping a maenad named Coronis?"
+        answer: "BUTES"
+      - question: "How did the mad Butes end his life?"
+        answer: "JUMPED INTO A WELL"
+  - tossup:
+      question: "Fac sonum asini."
+      answer: "HEEHAW"
+    boni:
+      - question: "Fac sonum equi."
+        answer: "NEIGH"
+      - question: "Fac sonum tauri."
+        answer: "MOO"
+  - tossup:
+      question: "In whose likeness was the statue for which the Colosseum was nicknamed?"
+      answer: "NERO’S"
+    boni:
+      - question: "What was the Latin name of his palace at that site?"
+        answer: "DOMUS AUREA"
+      - question: "What emperor began the Colosseum?"
+        answer: "VESPASIAN"
+  - tossup:
+      question: "Translate <latin>miles</latin>."
+      answer: "SOLDIER"
+    boni:
+      - question: "Translate <latin>pedes</latin>."
+        answer: "FOOTSOLDIER, INFANTRYMAN"
+      - question: "Translate <latin>eques</latin>."
+        answer: "HORSESOLDIER, CAVALRYMAN"
+  - tossup:
+      question: "Who was the beloved of Hero?"
+      answer: "LEANDER"
+    boni:
+      - question: "How did Leander die?"
+        answer: "DROWNED"
+      - question: "Swimming across what body of water did he die?"
+        answer: "THE HELLESPONT"
+  - tossup:
+      question: "What case is needed for Rome in this sentence: “Messengers carried the news of the victory through the city of Rome”?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: ""
+        answer: "What case is needed for Rome in these sentences:"
+      - question: "“News of the victory was happily received by the consuls in Rome”? “They set out from Rome to join the army”?"
+        answer: "LOCATIVE // ABLATIVE"
+  - tossup:
+      question: "What mountain range in northwest Africa is named for a Titan?"
+      answer: "THE ATLAS MOUNTAINS"
+    boni:
+      - question: "Who changed Atlas into a mountain?"
+        answer: "PERSEUS"
+      - question: "How did he do so?"
+        answer: "SHOWED HIM THE HEAD OF MEDUSA"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between <latin>mane</latin> and <latin>manē</latin>."
+    boni:
+      - question: ""
+        answer: "MANE=(IN THE) MORNING, MANĒ=STAY!"
+      - question: ""
+        answer: "Distinguish in meaning between <latin>feci</latin> and <latin>fici</latin>. // FECI = I DID/MADE, FICI=FIG TREES, FIG TREE'S // Distinguish in meaning between <latin>tegi</latin> and <latin>tetigi</latin>, which are two different verbs in different forms. // TEGI=TO BE COVERED, TETIGI=I TOUCHED"
+  - tossup:
+      question: "What prominent Roman of the first century BC had the agnomen Felix?"
+      answer: "SULLA"
+    boni:
+      - question: "What praenomen, also meaning “lucky,” did Sulla give his son?"
+        answer: "FAUSTUS"
+      - question: "What was the cognomen Pompey gave himself?"
+        answer: "MAGNUS"
+  - tossup:
+      question: "What case is needed for the relative pronoun in this sentence: “Caesar was the most famous of the Romans who governed Gaul”?"
+      answer: "NOMINATIVE"
+    boni:
+      - question: "What number is needed for the relative pronoun?"
+        answer: "PLURAL"
+      - question: "What is the antecedent of the relative pronoun?"
+        answer: "ROMANS"
+  - tossup:
+      question: "From what Latin verb do “ditty” and “ditto” come?"
+      answer: "DICO"
+    boni:
+      - question: "What Latin noun with what meaning is preserved in “enjoy”?"
+        answer: "GAUDIUM=JOY"
+      - question: "What Latin noun with what meaning is preserved in “endow”?"
+        answer: "DOS=DOWRY"
+  - tossup:
+      question: "What is the locative of Athenae?"
+      answer: "ATHENIS"
+    boni:
+      - question: "What is the locative of Carthago?"
+        answer: "CARTHAGINI or CARTHAGINE"
+      - question: "What is the locative of Ostia?"
+        answer: "OSTIAE/OSTIIS"
+  - tossup:
+      question: "What English word for Mt. Etna or Mt. Vesuvius comes from the Roman god of fire?"
+      answer: "VOLCANO"
+    boni:
+      - question: "What name for a grain product reminds us of the Roman goddess of agriculture?"
+        answer: "CEREAL"
+      - question: "What adjective for “dark and gloomy” comes from the name of one of the Underworld’s rivers?"
+        answer: "STYGIAN"
+  - tossup:
+      question: "What is the genitive plural of lex?"
+      answer: "LEGUM"
+    boni:
+      - question: "What is the genitive plural of legio?"
+        answer: "LEGIONUM"
+      - question: "What is the genitive plural of legumen?"
+        answer: "LEGUMINUM"
+  - tossup:
+      question: "What was the crimson-edged toga of magistrates and young boys?"
+      answer: "TOGA PRAETEXTA"
+    boni:
+      - question: "What was the brightly colored toga of a triumphing general?"
+        answer: "TOGA PICTA"
+      - question: "What was the plain white toga of manhood?"
+        answer: "TOGA VIRILIS (or PURA or LIBERA)"
+  - tossup:
+      question: "What king built the first drainage system for the growing city of Rome?"
+      answer: "TARQUINIUS PRISCUS"
+    boni:
+      - question: "What king built the Cloaca Maxima?"
+        answer: "TARQUINIUS SUPERBUS or TARQUINIUS PRISCUS"
+      - question: "What temple did Tarquinius Superbus begin?"
+        answer: "THE TEMPLE OF JUPITER CAPITOLINUS // #"

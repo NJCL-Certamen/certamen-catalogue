@@ -1,0 +1,156 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What is the meaning of quod in this sentence: Quod praemium sperabas? WHAT? or WHICH?"
+      answer: "What does quod mean in this: Nocte ex urbe discessit quod inimicos timebat. BECAUSE"
+    boni:
+      - question: "Quod tu fecisti, nemo damnare potest."
+        answer: "WHAT or THAT WHICH"
+  - tossup:
+      question: "Define flere."
+      answer: "TO WEEP"
+    boni:
+      - question: "Define fluere."
+        answer: "TO FLOW"
+      - question: "Define flare."
+        answer: "TO BLOW"
+  - tossup:
+      question: "What form of the adjective malus would agree with the noun vulnus?"
+      answer: "MALUM"
+    boni:
+      - question: "With vulnere?"
+        answer: "MALO"
+      - question: "With vulnerum?"
+        answer: "MALORUM"
+  - tossup:
+      question: "What type of dependent clause is this: Mirantur quid rex sciat?"
+      answer: "INDIRECT QUESTION"
+    boni:
+      - question: "What type is this: Scivi servos vinum facere."
+        answer: "INDIRECT STATEMENT"
+      - question: ""
+        answer: "Change that sentence so that the clause is introduced by cur. // SCIVI CUR SERVI VINUM FACERENT."
+  - tossup:
+      question: "Who would a Roman go to for a shave?"
+      answer: "TONSOR"
+    boni:
+      - question: "Which emperor reintroduced the beard to fashion?"
+        answer: "HADRIAN"
+      - question: "What were these all types of: strophium, cingulum and zona?"
+        answer: "BELT/SASH/GIRDLE"
+  - tossup:
+      question: "What Greek king did Tarentum summon to its aid in 280BC?"
+      answer: "PYRRHUS"
+    boni:
+      - question: "What was Pyrrhus' secret weapon?"
+        answer: "ELEPHANTS"
+      - question: "Where was his second “Pyrrhic” victory?"
+        answer: "ASCULUM"
+  - tossup:
+      question: "What Latin verb gives us the word “dative”?"
+      answer: "DO"
+    boni:
+      - question: "What Latin noun gives us the word “nominative”?"
+        answer: "NOMEN"
+      - question: "What is the base verb that gives us “ablative”?"
+        answer: "FERO"
+  - tossup:
+      question: "What honorific title was bestowed on Cicero, Julius Caesar and Augustus?"
+      answer: "PATER PATRIAE"
+    boni:
+      - question: "For what victory was this title given to Caesar?"
+        answer: "MUNDA"
+      - question: "Who was the first emperor - one of the few - to refuse the title?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: ""
+      answer: "Give the Latin and the English meaning that is abbreviated A.D."
+    boni:
+      - question: ""
+        answer: "ANNO DOMINI = IN THE YEAR OF THE LORD"
+      - question: "Do the same for N.B. Do the same for P.S."
+        answer: "NOTA BENE = NOTE WELL // POST SCRIPTUM = WRITTEN AFTERWARD"
+  - tossup:
+      question: "What Latin verb is the root of “poise”? PENDO What Latin noun is the root of “poison”? POTIO What Latin verb is the root of “prison”?"
+      answer: "PRAEHENDO"
+  - tossup:
+      question: "Give the two supine forms of rideo."
+      answer: "RISUM AND RISU"
+    boni:
+      - question: "Which would you need to say: “We came here to laugh.”"
+        answer: "RISUM"
+      - question: ""
+        answer: "Translate: Verba Vergili sunt facilia amatu. // VERGIL'S WORDS ARE EASY TO LOVE."
+  - tossup:
+      question: "Who made pigs of Odysseus' men?"
+      answer: "CIRCE"
+    boni:
+      - question: "Who gave Odysseus an herb to counter the spell?"
+        answer: "HERMES"
+      - question: "What was that herb?"
+        answer: "MOLY"
+  - tossup:
+      question: "Who was the founder of Mycenae?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who saved Perseus and Danae from the sea?"
+        answer: "DICTYS"
+      - question: "What former suitor of Andromeda did Perseus turn to stone?"
+        answer: "PHINEUS"
+  - tossup:
+      question: "Agamemnon built a temple to persuade whom to join his expedition?"
+      answer: "CALCHAS"
+    boni:
+      - question: "To whom was the temple dedicated?"
+        answer: "ARTEMIS"
+      - question: "What occurrence at Aulis told Calchas that the war would last ten years?"
+        answer: "A SNAKE ATE A SPARROW AND HER 8 BABIES (AND WAS THEN TURNED TO STONE)"
+  - tossup:
+      question: "Which of the Flavian emperors was assassinated in 96AD?"
+      answer: "DOMITIAN"
+    boni:
+      - question: "Who was the first of the Julio-Claudian emperors to die by the sword?"
+        answer: "CALIGULA"
+      - question: "Which emperor of the Severan dynasty was killed by his own brother?"
+        answer: "GETA"
+  - tossup:
+      question: ""
+      answer: "Translate this sentence: Latinam iamdudum discimus."
+    boni:
+      - question: ""
+        answer: "WE'VE BEEN LEARNING LATIN A LONG TIME."
+      - question: ""
+        answer: "Translate: I hope that I will read Latin always. // SPERO ME LATINAM SEMPER LECTURUM/AM ESSE. // Translate: There's no doubt that I will always enjoy Latin. // DUBIUM NON EST QUIN SEMPER LATINA FRUAR."
+  - tossup:
+      question: ""
+      answer: "Distinguish between the nouns regia and regio."
+    boni:
+      - question: ""
+        answer: "REGIA = PALACE REGIO = REGION"
+      - question: ""
+        answer: "Distinguish between the verbs aperio and reperio. // APERIO = OPEN, REVEAL REPERIO = FIND, LEARN, DISCOVER // Distinguish between the nouns later and latus. // LATER = BRICK LATUS = SIDE"
+  - tossup:
+      question: "Who coached Peleus in winning Thetis' love?"
+      answer: "CHIRON"
+    boni:
+      - question: "What hidden object did Chiron help Peleus find?"
+        answer: "PELEUS' SWORD"
+      - question: "Who had hidden it?"
+        answer: "ACASTUS // signature // ROUND B2, page 3"
+  - tossup:
+      question: "Which of the Muses mocked Aphrodite for her love of the mortal Adonis?"
+      answer: "CLIO"
+    boni:
+      - question: "In revenge, with whom did Aphrodite make Clio fall in love? Who was their son?"
+        answer: "PIERUS HYACINTHUS"
+  - tossup:
+      question: "What famous river did the Romans call the Tamesis?"
+      answer: "THE THAMES"
+    boni:
+      - question: "What did they call the Sequana?"
+        answer: "THE SEINE"
+      - question: "What did they call the Rhodanus?"
+        answer: "THE RHONE // #"

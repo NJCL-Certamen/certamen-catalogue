@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "Quot genua tibi sunt?"
+      answer: "DUO"
+    boni:
+      - question: "Quot colla tibi sunt?"
+        answer: "UNUM"
+      - question: "Quot tali tibi sunt?"
+        answer: "DUO"
+  - tossup:
+      question: "Which of the emperors of 69AD died by his own hand?"
+      answer: "OTHO"
+    boni:
+      - question: "Who was Otho's wife before she was Nero's?"
+        answer: "POPPAEA SABINA"
+      - question: "Where had Nero made Otho governor to get him out of the way?"
+        answer: "LUSITANIA"
+  - tossup:
+      question: "Which of these birds has a Latin root: parrot, sparrow, eagle, robin?"
+      answer: "EAGLE"
+    boni:
+      - question: "Name and define the noun at the basic root of “canary.”"
+        answer: "CANIS = DOG"
+      - question: "Name and define the noun at the basic root of “oriole.”"
+        answer: "AURUM = GOLD"
+  - tossup:
+      question: "What Latin verb form can mean either “I fly” or “I wish”?"
+      answer: "VOLO"
+    boni:
+      - question: "What is the infinitive that means “to fly”?"
+        answer: "VOLARE"
+      - question: "What is the infinitive that means “to wish”?"
+        answer: "VELLE"
+  - tossup:
+      question: "Who was the river god who struggled in many shapes while wrestling with Heracles for the love of Deianeira?"
+      answer: "ACHELOUS"
+    boni:
+      - question: "Who was the grandson of Poseidon who assumed many shapes while fighting Heracles in defense of Pylos?"
+        answer: "PERICLYMENUS"
+      - question: "Who was the sea god who assumed many shapes when seized for questioning by Menelaus?"
+        answer: "PROTEUS"
+  - tossup:
+      question: "Who was Odysseus' loyal swineherd?"
+      answer: "EUMAEUS"
+    boni:
+      - question: "Who was his equally disloyal goatherd?"
+        answer: "MELANTHEUS"
+      - question: "Who was the cowherd who with Eumaeus killed the treacherous Melantheus after the deaths of the suitors?"
+        answer: "PHILOETIUS"
+  - tossup:
+      question: "What Latin word is sometimes abbreviated ca?"
+      answer: "CIRCA"
+    boni:
+      - question: ""
+        answer: "For five points each, name two things that the simple letter C can stand for."
+      - question: ""
+        answer: "CIRCA, CENTUM (100), CUM, GAIUS, CONDEMNO, CONGIUS"
+  - tossup:
+      question: "What title was bestowed on Cicero for exposing the Catilinarian conspiracy?"
+      answer: "PATER PATRIAE"
+    boni:
+      - question: "After what battle was Julius Caesar awarded that same title?"
+        answer: "MUNDA"
+      - question: "In what year was Augustus awarded the title?"
+        answer: "2BC"
+  - tossup:
+      question: "What famous patrician was going to head the Volscian army against Rome until his mother and wife persuaded him not to?"
+      answer: "CORIOLANUS"
+    boni:
+      - question: "Who was his mother?"
+        answer: "VETURIA"
+      - question: "Who was his wife?"
+        answer: "VOLUMNIA"
+  - tossup:
+      question: "What is the genitive singular of nox?"
+      answer: "NOCTIS"
+    boni:
+      - question: "What is the genitive singular of nux?"
+        answer: "NUCIS"
+      - question: "What is the genitive singular of grex?"
+        answer: "GREGIS"
+  - tossup:
+      question: "What grandson of Minos led the Cretans at Troy?"
+      answer: "IDOMENEUS"
+    boni:
+      - question: "What rash vow to what deity did Idomeneus make when threatened by a storm on the way home?"
+        answer: "HE SWORE TO APOLLO THAT HE'D SACRIFICE THE FIRST LIVING CREATURE HE SAW ON SHORE"
+      - question: "What did that creature turn out to be?"
+        answer: "HIS OWN SON"
+  - tossup:
+      question: "What did the Romans break into two categories: indutus and amictus?"
+      answer: "CLOTHING"
+    boni:
+      - question: "Which category included the toga?"
+        answer: "AMICTUS"
+      - question: "What do the two words mean?"
+        answer: "INDUTUS = PUT ON // AMICTUS = WRAPPED AROUND (AMBO + IACIO)"
+  - tossup:
+      question: "What queen of the Lemnian women greeted Jason and his men?"
+      answer: "HYPSIPYLE"
+    boni:
+      - question: "What adviser of Hypsipyle advised her to offer the Argonauts more than just provisions (wink wink, nudge nudge)?"
+        answer: "POLYXO"
+      - question: "What Argonaut shamed his fellows into leaving the receptive women of Lemnos and continuing the expedition?"
+        answer: "HERACLES"
+  - tossup:
+      question: "Who was the first emperor not drawn from Senatorial rank?"
+      answer: "MACRINUS"
+    boni:
+      - question: "Who defeated and succeeded Macrinus?"
+        answer: "ELAGABALUS/HELIOGABALUS/BASSIANUS/M. AURELIUS ANTONINUS"
+      - question: "Whose son was Elagabalus alleged to be in order to bolster his claim to the principate?"
+        answer: "CARACALLA'S"
+  - tossup:
+      question: ""
+      answer: "What case would be required for “father” in this sentence: “I was merciful to my father's enemies.”"
+    boni:
+      - question: ""
+        answer: "GENITIVE"
+      - question: "What case would “enemies” be in? What use of the dative is that?"
+        answer: "DATIVE // WITH SPECIAL VERB"
+  - tossup:
+      question: "What Latin root verb gives us our verb “summon”?"
+      answer: "MONEO"
+    boni:
+      - question: "What summons to court is the Latin phrase “under penalty”?"
+        answer: "SUB POENA"
+      - question: "What English verb for “hate” comes from a Latin verb for calling the gods to witness in anger?"
+        answer: "DETEST"
+  - tossup:
+      question: "What god was called Zagreus in one version of his creation?"
+      answer: "DIONYSUS/BACCHUS"
+    boni:
+      - question: "Who was Zagreus' mother?"
+        answer: "PERSEPHONE/PROSERPINA"
+      - question: "Who tore the baby apart at Hera's instigation?"
+        answer: "THE TITANS"
+  - tossup:
+      question: "Who were fabri?"
+      answer: "ENGINEERS (BRIDGES, ETC.)/SMITHS/ARTISANS"
+    boni:
+      - question: "Who were speculatores?"
+        answer: "SPIES/SCOUTS/EXPLORERS"
+      - question: "Who were funditores?"
+        answer: "SLINGMEN"
+  - tossup:
+      question: "In how many tenses do imperatives exist?"
+      answer: "TWO"
+    boni:
+      - question: "In how many tenses do infinitives exist?"
+        answer: "THREE"
+      - question: "In how many tenses do participles exist?"
+        answer: "THREE"
+  - tossup:
+      question: "In what kind of object would you find a penult?"
+      answer: "A WORD"
+    boni:
+      - question: "What is a penult?"
+        answer: "THE NEXT TO THE LAST SYLLABLE"
+      - question: "What is the last syllable called?"
+        answer: "ULTIMA // #"

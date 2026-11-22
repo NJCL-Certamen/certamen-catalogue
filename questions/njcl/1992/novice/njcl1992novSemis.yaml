@@ -1,0 +1,205 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "As with many English verbs, the meaning of the verb <latin>gero</latin> depends on its direct object. When the object is <latin>negotium</latin>, what is a good translation for <latin>gero</latin>?"
+      answer: "CONDUCT, CARRY ON, DO"
+    boni:
+      - question: "What if the object is <latin>togam</latin>?"
+        answer: "WEAR"
+      - question: "What is the object is <latin>bellum</latin>?"
+        answer: "WAGE, CONDUCT"
+  - tossup:
+      question: "What is the Latin word for “dog”?"
+      answer: "CANIS"
+    boni:
+      - question: "For his friend the cat?"
+        answer: "FELIS or FELES"
+      - question: "For his friend the tree?"
+        answer: "ARBOR"
+  - tossup:
+      question: "What god slept with Althaea with her husband’s acquiescence and so may have fathered her daughter?"
+      answer: "DIONYSUS"
+    boni:
+      - question: "Who was Althaea’s accommodating husband?"
+        answer: "OENEUS"
+      - question: "Who was the daughter?"
+        answer: "DEIANEIRA"
+  - tossup:
+      question: "In what public building did you find Rome’s mint?"
+      answer: "THE TEMPLE OF JUNO MONETA"
+    boni:
+      - question: "What hill was it on?"
+        answer: "THE CAPITOLINE"
+      - question: "What was the Latin name for the Capitoline’s citadel?"
+        answer: "ARX"
+  - tossup:
+      question: "What case does the preposition <latin>propter</latin> govern?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "Extra?"
+        answer: "ACCUSATIVE"
+      - question: "Prae?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: "When Leto was due to give birth to her divine twins, who tried to foil the birth by keeping Ilithyia away?"
+      answer: "HERA"
+    boni:
+      - question: "Other goddesses foiled Hera by bribing Ilithyia with what?"
+        answer: "A GOLD NECKLACE"
+      - question: "What serving girl tricked Ilithyia into allowing Heracles to be born, in spite of Hera’s machinations?"
+        answer: "GALANTHIS"
+  - tossup:
+      question: "What derivative of <latin>iocus</latin> is an ornament you might wear?"
+      answer: "JEWEL"
+    boni:
+      - question: "What derivative of <latin>focus</latin> is a source of energy?"
+        answer: "FUEL"
+      - question: "What derivative of <latin>socius</latin> is a popular sport?"
+        answer: "SOCCER"
+  - tossup:
+      question: "Give a Roman the command to run."
+      answer: "CURRE"
+    boni:
+      - question: "Give two Romans the same order."
+        answer: "CURRITE"
+      - question: "Tell them to sit."
+        answer: "SEDETE"
+  - tossup:
+      question: "What foreign king became an ally of Tarquinius Superbus?"
+      answer: "LARS PORSENNA"
+    boni:
+      - question: "Of what Etruscan city was Lars king?"
+        answer: "CLUSIUM"
+      - question: "What Roman hero tried to assassinate Lars Porsenna?"
+        answer: "C. MUCIUS SCAEVOLA"
+  - tossup:
+      question: "Which of Rome's important offices was judicial in nature?"
+      answer: "THE PRAETORSHIP"
+    boni:
+      - question: "Which office was financial in nature?"
+        answer: "QUAESTORSHIP"
+      - question: "What number of years was supposed to elapse between two consular terms?"
+        answer: "TEN"
+  - tossup:
+      question: "What is the dative singular of <latin>filius</latin>?"
+      answer: "FILIO"
+    boni:
+      - question: "Make <latin>filio</latin> accusative."
+        answer: "FILIUM"
+      - question: "Make <latin>filium</latin> plural."
+        answer: "FILIOS"
+  - tossup:
+      question: "What did the Romans call Scotland?"
+      answer: "CALEDONIA (SCOTIA)"
+    boni:
+      - question: "What did the Romans call France?"
+        answer: "GALLIA (GAUL)"
+      - question: "What did the Romans call Spain?"
+        answer: "HISPANIA"
+  - tossup:
+      question: "What praenomen has the abbreviation D?"
+      answer: "DECIMUS"
+    boni:
+      - question: "The abbreviation M'?"
+        answer: "MANIUS"
+      - question: "The abbreviation Sp?"
+        answer: "SPURIUS"
+  - tossup:
+      question: "What god gave Midas the golden touch?"
+      answer: "DIONYSUS/BACCHUS"
+    boni:
+      - question: "For what was the god thanking Midas?"
+        answer: "SHELTERING SILENUS"
+      - question: "What river washed away the cursed gift?"
+        answer: "PACTOLUS"
+  - tossup:
+      question: "What subjunctive tense shows completed action after a primary tense main verb?"
+      answer: "PERFECT"
+    boni:
+      - question: "After a secondary tense main verb?"
+        answer: "PLUPERFECT"
+      - question: "What show incomplete action after a secondary verb?"
+        answer: "IMPERFECT"
+  - tossup:
+      question: "Make taedet perfect."
+      answer: "TAEDUIT or TAESUM EST"
+    boni:
+      - question: "Make ridere perfect."
+        answer: "RISISSE"
+      - question: "Make mordere perfect."
+        answer: "MOMORDISSE"
+  - tossup:
+      question: "What hero beheaded Medusa?"
+      answer: "PERSEUS"
+    boni:
+      - question: "What group was Medusa part of?"
+        answer: "GORGONS"
+      - question: "What fearsome power did they have?"
+        answer: "A GLANCE AT THEM TURNED MORTALS TO STONE"
+  - tossup:
+      question: "What was Pompey‘s praenomen?"
+      answer: "GNAEUS"
+    boni:
+      - question: "What was Cicero’s praenomen?"
+        answer: "MARCUS"
+      - question: "What was Crassus’ praenomen?"
+        answer: "MARCUS"
+  - tossup:
+      question: "What patronym refers to Agamemnon and Menelaus?"
+      answer: "THE ATRIDAE"
+    boni:
+      - question: "Who was the murderous wife of Agamemnon?"
+        answer: "CLYTEMNESTRA"
+      - question: "Who was the unfaithful wife of Menelaus?"
+        answer: "HELEN"
+  - tossup:
+      question: "Who married his own widowed former stepmother-in-law?"
+      answer: "TIBERIUS"
+    boni:
+      - question: "Explain."
+        answer: "HIS SECOND WIFE JULIA WAS THE WIDOW OF HIS"
+      - question: "What name was shared by the brother and the son of Tiberius?"
+        answer: "FIRST WIFE‘S (VIPSANIA’S) FATHER (AGRIPPA). // DRUSUS"
+  - tossup:
+      question: "What new method of warfare was Pyrrhus the first to use against the Romans?"
+      answer: "ELEPHANTS"
+    boni:
+      - question: "What was the last battle between Pyrrhus and the Romans?"
+        answer: "BENEVENTUM"
+      - question: "What was the year?"
+        answer: "275BC"
+  - tossup:
+      question: "What Roman king captured Alba Longa?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "Who were the Roman triplets that fought in this battle?"
+        answer: "THE HORATII"
+      - question: "Who were their Alban counterparts?"
+        answer: "THE CURIATII"
+  - tossup:
+      question: ""
+      answer: "Using the Latin verb iubeo, give the correct form of “stay” in this sentence: “My mother told me to stay.”"
+    boni:
+      - question: ""
+        answer: "MANERE"
+      - question: "What change would using impero mandate? What pronoun for “me” would the sentence with impero need?"
+        answer: "MANEREM // MIHI"
+  - tossup:
+      question: "What Latin verb is the root of “survey”?"
+      answer: "VIDEO"
+    boni:
+      - question: "What Latin verb is the root of “surveillance”?"
+        answer: "VIGILO"
+      - question: "What Latin verb is the root of “survive”?"
+        answer: "VIVO"
+  - tossup:
+      question: "Make bonos comparative."
+      answer: "MELIORES"
+    boni:
+      - question: ""
+        answer: "Give two other positive forms for which meliores would be the comparative."
+      - question: ""
+        answer: "BONI, BONAE, BONAS // #"

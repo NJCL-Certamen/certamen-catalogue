@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Name a case which can show description."
+      answer: "GENITIVE (ABLATIVE)"
+    boni:
+      - question: "Name another."
+        answer: "ABLATIVE (GENITIVE)"
+      - question: "What two cases can show possession?"
+        answer: "GENITIVE & DATIVE"
+  - tossup:
+      question: "Differentiate in meaning between audiō and audāx."
+      answer: "AUDIO -- HEAR"
+    boni:
+      - question: ""
+        answer: "AUDĀX -- BOLD"
+      - question: "...between audeō and augeō....between aurōra and aurīga."
+        answer: "AUDEŌ -- DARE // AUGEŌ -- INCREASE // AURŌRA -- DAWN // AURĪGA -- CHARIOTEER"
+  - tossup:
+      question: "Which of the emperors of AD 69 lived to see AD 70?"
+      answer: "VESPASIAN"
+    boni:
+      - question: "Who had immediately preceeded him?"
+        answer: "VITELLIUS"
+      - question: "Who immediately preceeded Vitellius?"
+        answer: "OTHO"
+  - tossup:
+      question: "Who was given the agnomen “Africanus” for his victory over the Carthaginians in 202 BC?"
+      answer: "(P. CORNELIUS) SCIPIO"
+    boni:
+      - question: "Where did Scipio defeat Hannibal in 202 BC?"
+        answer: "ZAMA (REGIA)"
+      - question: "Scipio was victorious in part because of the cavalry of what Numidian ally?"
+        answer: "MASSINISSA"
+  - tossup:
+      question: "Whose eyes were placed by Hera in the tail of the peacock?"
+      answer: "ARGUS'"
+    boni:
+      - question: "Who had killed Argus?"
+        answer: "HERMES"
+      - question: "Whom had the hundred-eyed Argus been guarding?"
+        answer: "IO"
+  - tossup:
+      question: "Who led the famous slave revolt of 73 - 71 BC?"
+      answer: "SPARTACUS"
+    boni:
+      - question: "What Roman general was most instrumental in his defeat?"
+        answer: "(M. LICINIUS) CRASSUS"
+      - question: "What other general “mopped up” after Crassus?"
+        answer: "(CN.) POMPEY"
+  - tossup:
+      question: "Change rapiunt to imperfect."
+      answer: "RAPIĒBANT"
+    boni:
+      - question: "Change rapiēbant to passive."
+        answer: "RAPIĒBANTUR"
+      - question: "Change rapiēbantur to future."
+        answer: "RAPIENTUR // 1 // calendar 40%, signature 34%, other 22%"
+  - tossup:
+      question: "Translate the motto of Kansas, Ad astra per aspera."
+      answer: "TO THE STARS THROUGH DIFFICULTIES"
+    boni:
+      - question: "Translate the motto of Oklahoma, Labor omnia vincit."
+        answer: "WORK CONQUERS ALL"
+      - question: "Translate the motto of Alabama, Audēmus iūra nostra dēfendere."
+        answer: "WE DARE TO DEFEND OUR RIGHTS"
+  - tossup:
+      question: "Respondē Latīnē: Estne Ītalia īnsula?"
+      answer: "NŌN (MINIMĒ)"
+    boni:
+      - question: "Respondē Latīnē: Quot oculī mihi sunt?"
+        answer: "DUO"
+      - question: "Quae praenōmina vōbīs sunt?"
+        answer: "ALL TEAM MEMBERS SHOULD GIVE THEIR NAMES"
+  - tossup:
+      question: "Translate: Marcus nāvigābat sub pontem."
+      answer: "MARCUS WAS SAILING UNDER THE BRIDGE"
+    boni:
+      - question: "Translate: Marcus nāvigābat ā ponte."
+        answer: "MARCUS WAS SAILING AWAY FROM THE BRIDGE"
+      - question: "Translate: Marcus nāvigāvit in pontem."
+        answer: "MARCUS SAILED INTO THE BRIDGE"
+  - tossup:
+      question: "Who was fated to appear wearing only one shoe?"
+      answer: "JASON"
+    boni:
+      - question: "How had he lost his other shoe?"
+        answer: "FORDING A STREAM (ANAURUS)"
+      - question: "Whom did he help across the stream?"
+        answer: "[THE DISGUISED] HERA (JUNO)"
+  - tossup:
+      question: "Which, if any, of the following words does NOT come from the same Latin root as the others: potion, possibility, essence, absent, entity?"
+      answer: "POTION"
+    boni:
+      - question: "From what Latin verb does “potion” derive?"
+        answer: "PŌTŌ, PŌTĀRE"
+      - question: "What derivative of sum, esse means “one who typifies a larger group?"
+        answer: "” REPRESENTATIVE"
+  - tossup:
+      question: "In what part of the house did a Roman keep the wax masks of his ancestors? (or ATRIUM) What is the Latin term for these wax masks?"
+      answer: "IMAGINES"
+    boni:
+      - question: "What group of society lost the right to keep and display imagines?"
+        answer: "CONDEMNED CRIMINALS"
+  - tossup:
+      question: "Who could be found sleeping on Mt. Latmos?"
+      answer: "ENDYMION"
+    boni:
+      - question: "Who was his lover?"
+        answer: "SELENE (LUNA)"
+      - question: "Who was Selene's sister?"
+        answer: "EOS (AURORA)"
+  - tossup:
+      question: "Give a synonym of <latin>propinquus</latin>."
+      answer: "FĪNITIMUS / VICINUS"
+    boni:
+      - question: "Give a synonym of <latin>clārus</latin>."
+        answer: "NŌBILIS / NŌTUS / INLUSTRIS / CELEBER / NOTABILIS"
+      - question: "Give a synonym of <latin>fortitūdō</latin>."
+        answer: "ANIMUS / CONSTANTIA / VIRTŪS / AUDĀCIA"
+  - tossup:
+      question: "What mountain range separates northern Italy from the rest of Europe?"
+      answer: "ALPS"
+    boni:
+      - question: "What mountain range separates Spain from Gaul?"
+        answer: "PYRENEES"
+      - question: "What mountain range runs up and down peninsular Italy like a backbone?"
+        answer: "APENNINES"
+  - tossup:
+      question: "What Latin noun is the root of Mr. and Mrs.?"
+      answer: "MAGISTER"
+    boni:
+      - question: "What Latin noun is the root of “regalia?"
+        answer: "” RĒX"
+      - question: "What Latin verb is the root of a woman's “dress?"
+        answer: "” DĪRIGŌ (REGŌ)"
+  - tossup:
+      question: "Which of the Greek heroes at Troy was known for his wily cleverness?"
+      answer: "ODYSSEUS"
+    boni:
+      - question: "To whom did Odysseus pretend insanity?"
+        answer: "PALAMEDES"
+      - question: "Which of Odysseus' clever ideas resulted in the sack of Troy?"
+        answer: "WOODEN HORSE"
+  - tossup:
+      question: "What do U , W, and J have in common?"
+      answer: "NOT FOUND IN ANCIENT ROMAN ALPHABET"
+    boni:
+      - question: "What letter of the ancient Roman alphabet corresponds to the “W” sound?"
+        answer: "“V” (NOT “U” BECAUSE IT DIDN'T EXIST)"
+      - question: "What Roman letter's use as a consonant led to the use of “J” in transcriptions of manuscripts?"
+        answer: "“I”"
+  - tossup:
+      question: "What hero wore a lion's head as a helmet and its pelt as a cloak?"
+      answer: "HĒRACLĒS / HERCULES"
+    boni:
+      - question: "Some sources say the pelt is that of the Nemean Lion. What other lion is sometimes named as the donor?"
+        answer: "THESPIAN LION / CITHAERONIAN LION"
+      - question: "How many sons did Heracles have by King Thespius' daughters?"
+        answer: "50 // 3"

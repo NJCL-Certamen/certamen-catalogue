@@ -1,0 +1,86 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Advanced"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: "What is the perfect active infinitive of <latin>gigno</latin>?"
+      answer: "GENUISSE"
+  - tossup:
+      question: "Make <latin>tollit</latin> perfect."
+      answer: "SUSTULIT"
+  - tossup:
+      question: "Translate: <latin>Quod nomen cani tuo est?</latin> WHAT IS YOUR DOG’S NAME?"
+      answer: "undefined"
+  - tossup:
+      question: "Using idiomatic Latin, ask the question: “What time is it?"
+      answer: "”"
+    boni:
+      - question: "QUOTA HORA EST?"
+        answer: "undefined"
+  - tossup:
+      question: "What Latin verb is the base root of “deliver”?"
+      answer: "LIBERO"
+  - tossup:
+      question: "Translate <latin>ingens</latin>."
+      answer: "HUGE, ENORMOUS"
+  - tossup:
+      question: "What Latin verb is the root of “depict”?"
+      answer: "PINGO"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “cephalopod” and “encephalitis”?"
+      answer: "HEAD"
+  - tossup:
+      question: "Translate <latin>culpa</latin>."
+      answer: "FAULT, BLAME, GUILT"
+  - tossup:
+      question: "What is the Latin name for indirect discourse?"
+      answer: "ORATIO OBLIQUA"
+  - tossup:
+      question: "Who was Clytemnestra’s bastard lover?"
+      answer: "AEGISTHUS"
+  - tossup:
+      question: "Who was Theseus’ father?"
+      answer: "AEGEUS"
+  - tossup:
+      question: "Who ws Oedipus’ real father?"
+      answer: "LAIUS"
+  - tossup:
+      question: "What deity protected thieves?"
+      answer: "HERMES/MERCURY"
+  - tossup:
+      question: "Who was Alcmena’s father?"
+      answer: "ELECTRYON"
+  - tossup:
+      question: "What was the year of Varus’ disaster?"
+      answer: "9AD"
+  - tossup:
+      question: "Where did Cicero go in his exile?"
+      answer: "MACEDONIA"
+  - tossup:
+      question: "Who was the first Roman king to be succeeded by his son-in-law?"
+      answer: "TARQUINIUS PRISCUS"
+  - tossup:
+      question: "What war included the Battle of the Caudine Forks?"
+      answer: "THE SECOND SAMNITE WAR"
+  - tossup:
+      question: "What was the Roman course we’d call dessert?"
+      answer: "SECUNDA MENSA"
+  - tossup:
+      question: "What Roman wrote the Apocolocyntosis?"
+      answer: "SENECA THE YOUNGER"
+  - tossup:
+      question: "Whose death had a profound effect on Cicero’s writing?"
+      answer: "HIS DAUGHTER TULLIA’S"
+  - tossup:
+      question: "Who loved his <latin>ager</latin> Sabinus?"
+      answer: "HORACE"
+  - tossup:
+      question: "What Greek tragedian wrote Medea?"
+      answer: "EURIPIDES"
+  - tossup:
+      question: "What literary device is the expression “not bad”?"
+      answer: "LITOTES"
+    boni:
+      - question: ""
+        answer: "#"

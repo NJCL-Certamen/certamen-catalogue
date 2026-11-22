@@ -1,0 +1,68 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: "Spell the vocative of Publius."
+      answer: "PUBLI"
+  - tossup:
+      question: "Make tollere perfect."
+      answer: "SUSTULISSE"
+  - tossup:
+      question: "Translate peperi."
+      answer: "I GAVE BIRTH, I PRODUCED"
+  - tossup:
+      question: "Fac sonum agni."
+      answer: "BAAA"
+  - tossup:
+      question: "What verb is the root of “reply”?"
+      answer: "PLICO=FOLD"
+  - tossup:
+      question: "What adjective is the root of “amenity”?"
+      answer: "AMOENUS=PLEASANT"
+  - tossup:
+      question: "Translate funus."
+      answer: "FUNERAL"
+  - tossup:
+      question: "What is the Latin word for “helmet”?"
+      answer: "CASSIS/GALEA"
+  - tossup:
+      question: "Explain the ablative use in this sentence: Galli odio pugnabant."
+      answer: "CAUSE"
+  - tossup:
+      question: "Explain the use of the subjunctive in this sentence: Intellego cur adeo Latinam ames."
+      answer: "INDIRECT QUESTION"
+  - tossup:
+      question: "What god has goat feet?"
+      answer: "PAN (SILENUS/FAUNUS)"
+  - tossup:
+      question: "Who was Asclepius' mother?"
+      answer: "CORONIS"
+  - tossup:
+      question: "Who was Niobe's husband?"
+      answer: "AMPHION"
+  - tossup:
+      question: "What deity had followers called maenads?"
+      answer: "DIONYSUS/BACCHUS"
+  - tossup:
+      question: "What princess of Troy was sacrificed on Achilles' tomb?"
+      answer: "POLYXENA"
+  - tossup:
+      question: "What did the Romans call the spirits of their dead ancestors?"
+      answer: "MANES"
+  - tossup:
+      question: "What road ran through the Forum Romanum?"
+      answer: "VIA SACRA (or VIA NOVA or ARGILETUM)"
+  - tossup:
+      question: "Who was the emperor Claudius' son?"
+      answer: "BRITANNICUS"
+  - tossup:
+      question: "In what years did Julius Caesar invade Britain?"
+      answer: "55 AND 54BC"
+  - tossup:
+      question: "In what year did the Second Punic War end?"
+      answer: "202BC (or )"
+    boni:
+      - question: ""
+        answer: "#"

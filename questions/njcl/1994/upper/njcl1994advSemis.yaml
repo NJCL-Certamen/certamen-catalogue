@@ -1,0 +1,171 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Advanced"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What was the standard Roman equivalent of the old western stagecoach?"
+      answer: "RAEDA/RĒDA"
+    boni:
+      - question: "What was the standard uncovered two-wheeled carriage?"
+        answer: "CISIUM"
+      - question: "What vehicle bore the spoils of war in a triumphal procession?"
+        answer: "PETORITUM"
+  - tossup:
+      question: ""
+      answer: "Name a poetic device illustrated by <latin>Aeneid</latin>"
+  - tossup:
+      question: ""
+      answer: ":"
+  - tossup:
+      question: ""
+      answer: "<latin>una salus victis nullam sperare salutem</latin>."
+    boni:
+      - question: ""
+        answer: "POLYPTOTON, IRONY, ALLITERATION, ASSONANCE, CONSONANCE, ANTITHESIS, ELLIPSIS"
+      - question: ""
+        answer: "Name another. // Name another."
+  - tossup:
+      question: "What river god repaid a favor by opening a spring on Acrocorinth?"
+      answer: "ASOPUS"
+    boni:
+      - question: "To whom did he grant this favor?"
+        answer: "<latin>SISYPHUS</latin>, CORINTH'S KING"
+      - question: "What had Sisyphus done for Asopus?"
+        answer: "TOLD HIM THAT ZEUS WAS CARRYING OFF ASOPUS' DAUGHTER AEGINA"
+  - tossup:
+      question: "What omen from Zeus foretold the success of the Troy-bound Greeks but deeply offended Artemis?"
+      answer: "<latin>TWO EAGLES, REPRESENTING THE ATRIDAE, TORE APART A PREGNANT HARE</latin>"
+    boni:
+      - question: "What was Artemis' retribution?"
+        answer: "SHE STOPPED THE WINDS"
+      - question: "If you believe the version in which Artemis rescued Iphigenia, where did she take her?"
+        answer: "<latin>LAND OF THE TAURIANS</latin> (IN CRIMEA, RULED BY KING THOAS)"
+  - tossup:
+      question: "What participle is the root of “exploit”?"
+      answer: "EXPLICITUS"
+    boni:
+      - question: "What Latin noun did “commence” commence with?"
+        answer: "INITIUM"
+      - question: "What Latin noun does “appease” derive from?"
+        answer: "PAX"
+  - tossup:
+      question: "After they became co-kings of Epirus in 297BC, whom did Pyrrhus quickly remove?"
+      answer: "NEOPTOLEMUS"
+    boni:
+      - question: "What stepdaughter of Ptolemy II was Pyrrhus' first wife?"
+        answer: "ANTIGONE"
+      - question: "What companion of Alexander drove Pyrrhus back from Macedonia?"
+        answer: "LYSIMACHUS"
+  - tossup:
+      question: "What ally of Aeneas killed Camilla?"
+      answer: "ARRUNS"
+    boni:
+      - question: "Who killed Arruns in return?"
+        answer: "DIANA"
+      - question: "What tribe did Camilla lead?"
+        answer: "VOLSCI"
+  - tossup:
+      question: "What did the Greeks call the Graces?"
+      answer: "CHARITES"
+    boni:
+      - question: "What is their usual number?"
+        answer: "THREE"
+      - question: "Who was their mother?"
+        answer: "EURYNOME"
+  - tossup:
+      question: "Change vis to imperfect."
+      answer: "VOLEBAS"
+    boni:
+      - question: "Change vis to subjunctive."
+        answer: "VELĪS"
+      - question: "Change vis to perfect."
+        answer: "VOLUISTI"
+  - tossup:
+      question: ""
+      answer: "Translate: Līberi videndi, non audiendi sunt."
+    boni:
+      - question: ""
+        answer: "CHILDREN SHOULD BE SEEN AND NOT HEARD."
+      - question: ""
+        answer: "Translate: Amor verbum est tantum iv litterarum. // LOVE IS JUST A FOUR-LETTER WORD. (Bob Dylan) // Veritas est optimum consilium. // HONESTY IS THE BEST POLICY."
+  - tossup:
+      question: "What consul died a hero at the Roman defeat at Lake Trasimene?"
+      answer: "GAIUS FLAMINIUS"
+    boni:
+      - question: "In his first consulship, what Gallic tribe did he defeat?"
+        answer: "THE INSUBRES"
+      - question: "What river did he cross in violation of a Senate order?"
+        answer: "THE PADUS/PO"
+  - tossup:
+      question: "What term refers to a noun whose gender doesn't change, regardless of the real sex of the named object - <latin>vulpes</latin>, for example, which means “fox” and is always feminine?"
+      answer: "EPICENE"
+    boni:
+      - question: ""
+        answer: "What term refers to nouns with flexible gender - <latin>coniunx</latin>,"
+      - question: "for example? What epicene noun means “rabbit” and is always masculine, whatever the bunny's persuasion?"
+        answer: "COMMON // LEPUS, LEPORIS"
+  - tossup:
+      question: "What Roman poet died in exile in Utica in BC or so?"
+      answer: "GNAEUS <latin>NAEVIUS</latin>"
+    boni:
+      - question: "What was his most important work, written in his old age?"
+        answer: "<latin>BELLUM PUNICUM</latin>/<latin>THE PUNIC WAR</latin>"
+      - question: "What genre, tragedies written on Roman historical material, did Naevius pioneer?"
+        answer: "<latin>FABULAE PRAETEXTAE</latin> // Round A10, Page 3"
+  - tossup:
+      question: "Which of these best translates the word “anyone”: quisque, quidam, quisquam, quidque?"
+      answer: "QUISQUAM"
+    boni:
+      - question: "What does <latin>quisque</latin> mean?"
+        answer: "EACH, EVERY"
+      - question: "What does <latin>quidam</latin> mean?"
+        answer: "A CERTAIN ONE"
+  - tossup:
+      question: "Which of these does not have a Latin root: “cue” (as in billiards), “hue” (as in a shade of color), “due” (as in owed), “sue” (as in take to court)?"
+      answer: "HUE"
+    boni:
+      - question: "What verb is the root of “due”?"
+        answer: "DEBEO"
+      - question: "What verb is the root of “sue”?"
+        answer: "SEQUOR"
+  - tossup:
+      question: "Change <latin>nolunt</latin> to singular."
+      answer: "NON VULT"
+    boni:
+      - question: "Change <latin>non vult</latin> to subjunctive."
+        answer: "NOLIT"
+      - question: "Change <latin>nolit</latin> to pluperfect."
+        answer: "NOLUISSET"
+  - tossup:
+      question: "What emperor was captured by the Persians at Edessa and never heard from again?"
+      answer: "VALERIAN"
+    boni:
+      - question: "What was the year?"
+        answer: "260AD"
+      - question: "Who was Valerian's son and successor?"
+        answer: "GALLIENUS"
+  - tossup:
+      question: "Which of the following plural nouns is defective in the singular: copiae, litterae, moenia, loca?"
+      answer: "MOENIA"
+    boni:
+      - question: "Distinguish in meaning between the singular and plural forms of <latin>littera</latin>."
+        answer: "LITTERA = LETTER (e.g., A)"
+      - question: "Distinguish in meaning between the singular and plural forms of <latin>impedimentum</latin>."
+        answer: "LITTERAE = EPISTLE, LITERATURE, LETTERS (A,B,C) // IMPEDIMENTUM = OBSTACLE, // HINDRANCE IMPEDIMENTA = (MILITARY) BAGGAGE"
+  - tossup:
+      question: ""
+      answer: "Name a poet in the circle of Gaius Memmius."
+    boni:
+      - question: ""
+        answer: "LUCRETIUS, CATULLUS, CINNA"
+      - question: ""
+        answer: "Name another. // Name another."
+  - tossup:
+      question: "In what Greek comedy do Athenian women swear to withhold sex until the men make peace?"
+      answer: "LYSISTRATA"
+    boni:
+      - question: "In what comedy do women disguised as men take over the <latin>ecclesia</latin>?"
+        answer: "ECCLESIAZUSAE"
+      - question: "In what comedy do dead tragedians in the Underworld compete for the crown?"
+        answer: "FROGS // #"

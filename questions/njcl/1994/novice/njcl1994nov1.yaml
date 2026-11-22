@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "What deity had an oracle at Delphi?"
+      answer: "APOLLO or THEMIS or GAIA"
+    boni:
+      - question: "Who was Apollo's twin sister?"
+        answer: "ARTEMIS/DIANA"
+      - question: "On what island were these twins born?"
+        answer: "DELOS"
+  - tossup:
+      question: "What was the name given to the bundle of rods enclosing an axe and carried by attendants as a symbol of authority?"
+      answer: "FASCES"
+    boni:
+      - question: "What attendants carried an official's fasces?"
+        answer: "LI CTORES"
+      - question: "What were the rods called?"
+        answer: "VIRGAE"
+  - tossup:
+      question: "What case's most basic use is as the indirect object?"
+      answer: "DATIVE"
+    boni:
+      - question: "What case goes with the prepositions in and sub when they show no motion?"
+        answer: "ABLATIVE"
+      - question: "What case goes with prepositions that show motion away from?"
+        answer: "ABLATIVE"
+  - tossup:
+      question: ""
+      answer: "Name the members of the First Triumvirate."
+    boni:
+      - question: ""
+        answer: "CAESAR, POMPEY, CRASSUS"
+      - question: "In what year was the triumvirate formed? To what office was Caesar elected for 59BC?"
+        answer: "60BC // CONSULSHIP"
+  - tossup:
+      question: "Change pellitis to singular."
+      answer: "PELLIS"
+    boni:
+      - question: "Change pellis to passive."
+        answer: "PELLERIS"
+      - question: "Change pelleris to future."
+        answer: "PELLĒRIS"
+  - tossup:
+      question: ""
+      answer: "Name a labor of Heracles in which he has to kill a creature."
+    boni:
+      - question: ""
+        answer: "THE HYDRA or THE NEMEAN LION"
+      - question: "Name a labor in which he had to bring Eurystheus an inanimate object."
+        answer: "Name the other. // HIPPOLYTE'S GIRDLE, GOLDEN APPLES"
+  - tossup:
+      question: "What was the common adventure of Tiphys, Lynceus, Orpheus, Castor, Zetes and Calais?"
+      answer: "THEY WERE ALL ARGONAUTS"
+    boni:
+      - question: "Of what city was Jason the rightful king?"
+        answer: "IOLCUS"
+      - question: "Who told Jason how to avoid the Symplegades?"
+        answer: "PHINEUS // Round C1, Page 2"
+  - tossup:
+      question: "What would a Roman mean if he said <latin>Tempestas bona est</latin>?"
+      answer: "THE WEATHER IS NICE"
+    boni:
+      - question: "How would he in one word say, “It's raining”?"
+        answer: "PLUIT"
+      - question: "How would he in one word say, “It's snowing”?"
+        answer: "NINGIT"
+  - tossup:
+      question: "What sign of the Zodiac is Aries?"
+      answer: "RAM"
+    boni:
+      - question: "What is the Bull?"
+        answer: "TAURUS"
+      - question: "What are the Fish?"
+        answer: "PISCES"
+  - tossup:
+      question: "What two Greek leaders at Troy were brothers who had married sisters?"
+      answer: "MENALAUS AND AGAMEMNON"
+    boni:
+      - question: "Who was the wife of Menelaus?"
+        answer: "HELEN"
+      - question: "Who was the wife of Agamemnon?"
+        answer: "CLYTEMNESTRA"
+  - tossup:
+      question: "The rape of what woman precipitated the end of the Roman monarchy?"
+      answer: "LUCRETIA"
+    boni:
+      - question: "Who raped her?"
+        answer: "SEXTUS TARQUINIUS"
+      - question: "Who was her husband?"
+        answer: "TARQUINIUS COLLATINUS"
+  - tossup:
+      question: "Who opened Pandora's box?"
+      answer: "PANDORA"
+    boni:
+      - question: "What was finally left in it?"
+        answer: "HOPE"
+      - question: "Who was Pandora's husband?"
+        answer: "EPIMETHEUS"
+  - tossup:
+      question: "Who was Rome's first Christian emperor?"
+      answer: "CONSTANTINE"
+    boni:
+      - question: ""
+        answer: "What Latin phrase supposedly appeared to Constantine,"
+      - question: "assuring him victory? Constantine became emperor early in what century?"
+        answer: "IN HOC SIGNO VINCES // THE FOURTH CENTURY AD"
+  - tossup:
+      question: "Who was the first emperor of Rome?"
+      answer: "AUGUSTUS"
+    boni:
+      - question: "After what naval battle did Augustus emerge as the sole power in Rome?"
+        answer: "ACTIUM"
+      - question: "What was the year of the Battle of Actium?"
+        answer: "31BC"
+  - tossup:
+      question: ""
+      answer: "Translate: <latin>Stamus in valle.</latin>"
+    boni:
+      - question: ""
+        answer: "WE ARE STANDING IN THE VALLEY"
+      - question: ""
+        answer: "Translate: <latin>Stamus in vallo.</latin> // WE ARE STANDING ON THE WALL/RAMPART. // Translate: <latin>Stetimus in colle.</latin> // WE STOOD ON THE HILL."
+  - tossup:
+      question: "What Latin noun with what meaning is the root of the English verb “decapitate”?"
+      answer: "CAPUT = HEAD"
+    boni:
+      - question: "What word for the headings in a book comes from caput?"
+        answer: "CHAPTERS"
+      - question: "What derivative means the upper-case form of letters?"
+        answer: "CAPITAL(IZED)"
+  - tossup:
+      question: "What Latin noun means “forest”?"
+      answer: "SILVA"
+    boni:
+      - question: "What Latin noun means “sand”?"
+        answer: "ARENA/HARENA"
+      - question: "What Latin noun means “tree”?"
+        answer: "ARBOR"
+  - tossup:
+      question: "What does the English adjective “omniscient” mean?"
+      answer: "ALL-KNOWING"
+    boni:
+      - question: "What does “omnipotent” mean?"
+        answer: "ALL-POWERFUL"
+      - question: "What does “omnivorous” mean?"
+        answer: "ALL-DEVOURING, ALL-EATING"
+  - tossup:
+      question: "Change ventus to dative."
+      answer: "VENTO"
+    boni:
+      - question: "Change vento to plural."
+        answer: "VENTIS"
+      - question: "Change ventis to accusative."
+        answer: "VENTOS"
+  - tossup:
+      question: "What case would follow the adjective memor?"
+      answer: "GENITIVE"
+    boni:
+      - question: "What case would follow the adjective idoneus?"
+        answer: "DATIVE"
+      - question: "What case would follow the adjective perītus?"
+        answer: "ABLATIVE OR GENITIVE // #"

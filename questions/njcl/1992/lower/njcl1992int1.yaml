@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Round 1"
+questions:
+  - tossup:
+      question: "Make <latin>fiunt</latin> perfect."
+      answer: "FACTI SUNT"
+    boni:
+      - question: "Make <latin>malunt</latin> singular."
+        answer: "MAVULT"
+      - question: "Make <latin>mavult</latin> subjunctive."
+        answer: "MALIT"
+  - tossup:
+      question: "Who was executed in Rome on New Year's Day, 104BC?"
+      answer: "JUGURTHA"
+    boni:
+      - question: "Of what kingdom was Jugurtha the undisputed ruler after killing off his brothers?"
+        answer: "NUMIDIA"
+      - question: "Under what Roman commander had Jugurtha served at Numantia?"
+        answer: "SCIPIO AEMILIANUS (AFRICANUS MINOR or NUMANTINUS)"
+  - tossup:
+      question: "What case would you need for “water” in this sentence: “The soldiers suffered from a shortage of water.”"
+      answer: "GENITIVE"
+    boni:
+      - question: "“Cupped hands are suitable for dipping water.”"
+        answer: "DATIVE"
+      - question: "“The slaves are bringing more water.”"
+        answer: "GENITIVE"
+  - tossup:
+      question: "Which of these words is not from Latin: flail, trail, tail, fail?"
+      answer: "TAIL"
+    boni:
+      - question: "What verb with what meaning is the root of “frail”?"
+        answer: "FRANGO = BREAK"
+      - question: "What noun with what meaning is the root of “flail”?"
+        answer: "FLAGELLUM = WHIP"
+  - tossup:
+      question: "What was the name of the series of offices for a Roman statesman?"
+      answer: "CURSUS HONORUM"
+    boni:
+      - question: "What office began the <latin>cursus</latin>?"
+        answer: "QUAESTORSHIP"
+      - question: "What office was usually the pinnacle?"
+        answer: "CONSULSHIP"
+  - tossup:
+      question: "What was the year that saw the expulsion of the Tarquins?"
+      answer: "510BC"
+    boni:
+      - question: "From what tribe did the Tarquins come to Rome?"
+        answer: "ETRUSCANS"
+      - question: "What was the first year of the consuls in Rome?"
+        answer: "509BC"
+  - tossup:
+      question: "What deity turned Minyas' daughters into bats?"
+      answer: "DIONYSUS/BACCHUS"
+    boni:
+      - question: "What Athenian follower of Dionysus was beaten to death by his neighbors after he got them drunk?"
+        answer: "ICARIUS"
+      - question: "Who was Icarius' daughter, who hanged herself out of grief at her father's death?"
+        answer: "ERIGONE"
+  - tossup:
+      question: ""
+      answer: "Translate the statement: “We were swimming.”"
+    boni:
+      - question: ""
+        answer: "NATABAMUS/NABAMUS"
+      - question: ""
+        answer: "Make it: “We were swimming in the river in the country.” // IN FLUVIO/FLUMINE RURI NABAMUS/NATABAMUS. // Make it: “We were swimming in the river in the country with our friends who had come from Rome.” // IN FLUVIO/FLUMINE RURI CUM NOSTRIS AMICIS QUI ROMA VENERANT // NABAMUS/NATABAMUS."
+  - tossup:
+      question: "Who was the Roman moon goddess?"
+      answer: "DIANA"
+    boni:
+      - question: "Who was the Roman god of war?"
+        answer: "MARS"
+      - question: "Who was the Roman goddess of war?"
+        answer: "MINERVA/BELLONA"
+  - tossup:
+      question: "Which of these is <emphasis>not</emphasis> from a Latin root: garish, nourish, polish, relish?"
+      answer: "GARISH"
+    boni:
+      - question: "Which of these <emphasis>is</emphasis> from a classical Latin root: garnish, tarnish, finish, prudish?"
+        answer: "FINISH"
+      - question: "Which of these is from a Latin root: burnish, furnish, embellish, refurbish?"
+        answer: "EMBELLISH"
+  - tossup:
+      question: "What Latin pronoun means “I”?"
+      answer: "EGO"
+    boni:
+      - question: "What means “we”?"
+        answer: "NOS"
+      - question: "What means “you” singular?"
+        answer: "TU"
+  - tossup:
+      question: "Translate the Latin noun verbum."
+      answer: "WORD (VERB)"
+    boni:
+      - question: "Translate os, oris."
+        answer: "MOUTH"
+      - question: "Translate os, ossis."
+        answer: "BONE"
+  - tossup:
+      question: "What is the feminine accusative singular of hic?"
+      answer: "HANC"
+    boni:
+      - question: "Make hanc plural."
+        answer: "HAS"
+      - question: "Make hanc masculine."
+        answer: "HUNC"
+  - tossup:
+      question: "From what year to what year was Octavian continuously consul?"
+      answer: "31 TO 23BC"
+    boni:
+      - question: "What son of a famous father shared the consulship with Augustus in the fall of 30BC?"
+        answer: "MARCUS TULLIUS CICERO"
+      - question: "What was the term for a consul appointed to complete the term of another?"
+        answer: "CONSUL SUFFECTUS"
+  - tossup:
+      question: "Which of the following was not among the Argonauts: Calais, Hylas, Perseus, Orpheus, Heracles?"
+      answer: "PERSEUS"
+    boni:
+      - question: "Who built the Argonauts’ ship?"
+        answer: "ARGUS"
+      - question: "What tree sacred to Zeus provided one beam of the ship?"
+        answer: "THE OAK AT DODONA"
+  - tossup:
+      question: "Which member of the First Triumvirate died a natural death?"
+      answer: "NONE OF THEM"
+    boni:
+      - question: "Which one died in battle?"
+        answer: "CRASSUS"
+      - question: "Which one died first?"
+        answer: "CRASSUS"
+  - tossup:
+      question: "How would a Roman give one person the order to follow?"
+      answer: "SEQUERE"
+    boni:
+      - question: "How would he say to one person, “Don’t follow”?"
+        answer: "NOLI SEQUI"
+      - question: "How would he tell two people to follow?"
+        answer: "SEQUIMINI"
+  - tossup:
+      question: "When Alcmena told her husband Amphitryon that he’d slept with her the night before, and he knew otherwise, who told him her previous bedpartner had been Zeus?"
+      answer: "TIRESIAS"
+    boni:
+      - question: "Who at Hera’s orders tried to keep Alcmena from delivering Heracles?"
+        answer: "EILITHYIA"
+      - question: "Who was turned into a weasel for foiling Eilithyia’s and Hera’s plans?"
+        answer: "GALANTHIS"
+  - tossup:
+      question: "During what event did Eris throw the infamous golden apple?"
+      answer: "THE WEDDING OF PELEUS AND THETIS"
+    boni:
+      - question: "What fight disrupted the wedding of Pirithous and Hippodamia?"
+        answer: "THE BATTLE OF THE LAPITHS AND CENTAURS"
+      - question: "Who was the king of the Lapiths?"
+        answer: "PIRITHOUS"
+  - tossup:
+      question: "What case is standard in exclamations?"
+      answer: "ACCUSATIVE"
+    boni:
+      - question: "What construction generally calls for the dative of agent?"
+        answer: "PASSIVE PERIPHRASTIC"
+      - question: "What participle do you find in that construction?"
+        answer: "FUTURE PASSIVE // #"

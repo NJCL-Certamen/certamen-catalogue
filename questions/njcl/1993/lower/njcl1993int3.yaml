@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "What summer movie might a Roman call Sodalitas?"
+      answer: "THE FIRM"
+    boni:
+      - question: "Which one might be Multa Turba de Nihilo?"
+        answer: "MUCH ADO ABOUT NOTHING"
+      - question: "What movie from last year might be Cohors Sua Propria?"
+        answer: "A LEAGUE OF THEIR OWN"
+  - tossup:
+      question: "What Roman king was credited with building the first Senate house?"
+      answer: "TULLUS HOSTILIUS"
+    boni:
+      - question: "Who instituted the Senate itself?"
+        answer: "ROMULUS"
+      - question: "According to tradition, who instituted the twelve-month calendar?"
+        answer: "NUMA POMPILIUS"
+  - tossup:
+      question: "Who had given Ajax the Greater the sword he used to kill himself?"
+      answer: "HECTOR"
+    boni:
+      - question: "What had Ajax given Hector in the swap?"
+        answer: "A SWORDBELT"
+      - question: "Who persuaded the reluctant Greek leaders to give Ajax a decent burial?"
+        answer: "ODYSSEUS"
+  - tossup:
+      question: "What Latin adjective means “dead”?"
+      answer: "MORTUUS"
+    boni:
+      - question: "What Latin noun means “death”?"
+        answer: "MORS"
+      - question: "What Latin verb means “die”?"
+        answer: "MORIOR"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “theology” and “apotheosis”?"
+      answer: "GOD"
+    boni:
+      - question: "What is the meaning of the Greek word element common to “pyromaniac” and “pyrotechnics”?"
+        answer: "FIRE"
+      - question: "What is the meaning of the Greek word element common to “biology” and “symbiosis”?"
+        answer: "LIFE"
+  - tossup:
+      question: "Make videor future."
+      answer: "VIDEBOR"
+    boni:
+      - question: "Make videbor future perfect."
+        answer: "VISUS ERO"
+      - question: "Make videor subjunctive."
+        answer: "VIDEAR"
+  - tossup:
+      question: "Who was the father of Danae?"
+      answer: "ACRISIUS"
+    boni:
+      - question: "In the land of what king did Danae come ashore after Acrisius cast her adrift?"
+        answer: "POLYDECTES"
+      - question: "What brother of Polydectes gave shelter to Danae and the infant Perseus?"
+        answer: "DICTYS"
+  - tossup:
+      question: "What is the antonym of <latin>aestas</latin>?"
+      answer: "HIEMS or BRUMA"
+    boni:
+      - question: "What is the antonym of <latin>autumnus</latin>?"
+        answer: "VER"
+      - question: "What is the antonym of <latin>ops</latin>?"
+        answer: "INOPIA, FAMES, PAUPERTAS, EGESTAS"
+  - tossup:
+      question: "How would a Roman ask: “Where are your friends”? UBI SUNT TUI AMICI?"
+      answer: ""
+    boni:
+      - question: "How would he say: “I see your slaves”?"
+        answer: "TUOS SERVOS VIDEO."
+      - question: "How would he say: “Send your slaves into the house”?"
+        answer: "MITTE TUOS SERVOS IN CASAM."
+  - tossup:
+      question: "To fetch what did Heracles travel to Hades?"
+      answer: "CERBERUS"
+    boni:
+      - question: "To fetch what did Psyche travel to Hades?"
+        answer: "SOME OF PERSEPHONE'S BEAUTY"
+      - question: "Underworld?"
+        answer: "What did Aeneas have to find to gain admittance to the // THE GOLDEN BOUGH"
+  - tossup:
+      question: "What prominent family supported the career of Marius?"
+      answer: "THE METELLI (or THE JULII)"
+    boni:
+      - question: "How did Marius join Caesar's family?"
+        answer: "HE MARRIED JULIA, CAESAR'S AUNT"
+      - question: "Where did Marius begin his military career?"
+        answer: "NUMANTIA"
+  - tossup:
+      question: "Make <latin>certamen</latin> plural."
+      answer: "CERTAMINA"
+    boni:
+      - question: "Make <latin>gradus</latin> dative singular."
+        answer: "GRADUI"
+      - question: "Make <latin>pondus</latin> dative singular."
+        answer: "PONDER1"
+  - tossup:
+      question: "Who slew the Chimaera?"
+      answer: "BELLEROPHON"
+    boni:
+      - question: ""
+        answer: "Describe the Chimaera."
+      - question: "How did Bellerophon offend the gods?"
+        answer: "LION'S HEAD, GOAT'S BODY, SERPENT'S TAIL // HE TRIED TO FLY PEGASUS TO MOUNT OLYMPUS"
+  - tossup:
+      question: ""
+      answer: "What tense of the subjunctive would be required in:"
+    boni:
+      - question: "“It's raining so hard I don't want to leave”?"
+        answer: "PRESENT"
+      - question: "I didn't want to leave”? left this morning”?"
+        answer: "What tense would be required in: “It was raining so hard // IMPERFECT // What tense or tenses of the subjunctive would be required // in: “If it hadn't been raining so hard, I would have // PLUPERFECT IN BOTH CLAUSES"
+  - tossup:
+      question: "What aptly named goddess, the daughter of a Titan and an Oceanid, helped Zeus to victory over the Titans?"
+      answer: "NIKE"
+    boni:
+      - question: "What Titan was her father?"
+        answer: "PALLAS"
+      - question: "What daughter of Oceanus was her mother?"
+        answer: "STYX"
+  - tossup:
+      question: "Spell Jugurtha."
+      answer: "J U G U R T H A"
+    boni:
+      - question: "Spell Mithridates."
+        answer: "M I T H R I D A T E S"
+      - question: "Spell Pyrrhus."
+        answer: "P Y R R H U S"
+  - tossup:
+      question: "What is the literal translation of agenda?"
+      answer: "THINGS WHICH MUST BE DONE"
+    boni:
+      - question: "What form of what Latin verb is it?"
+        answer: "FUTURE PASSIVE PARTICIPLE (or GERUNDIVE) OF AGO"
+      - question: "What do you call corrections that have to be made?"
+        answer: "CORRIGENDA"
+  - tossup:
+      question: "What deity’s temple - <latin>aedes</latin> - gave the original <latin>aediles</latin> their title?"
+      answer: "CERES'"
+    boni:
+      - question: "What privilege, the <latin>ius imaginum</latin>, was the aedileship the lowest office to bestow?"
+        answer: "THE RIGHT TO KEEP DEATH MASKS IN THE HOME"
+      - question: "What phrase referred to the aedile’s responsibility as city manager?"
+        answer: "CURA URBIS"
+  - tossup:
+      question: "How does a Roman represent the word <latin>quinque</latin>?"
+      answer: "V"
+    boni:
+      - question: "How does he represent the word <latin>quinquaginta</latin>?"
+        answer: "L"
+      - question: "How does he represent the word <latin>quindecim</latin>?"
+        answer: "XV"
+  - tossup:
+      question: ""
+      answer: "Give the Latin word and its meaning from which comes the English word “culinary.”"
+    boni:
+      - question: ""
+        answer: "CULINA = KITCHEN"
+      - question: "Milk. Honey."
+        answer: "These are items found in a kitchen; tell me what you’d call them in a <latin>culina</latin>: // LAC // MEL // #"

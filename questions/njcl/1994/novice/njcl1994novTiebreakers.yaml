@@ -1,0 +1,86 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Novice"
+round: "Tiebreakers"
+questions:
+  - tossup:
+      question: "What declension is marked by the genitive singular ending -is?"
+      answer: "THE THIRD"
+  - tossup:
+      question: "Change audīs to passive."
+      answer: "AUDĪRIS"
+  - tossup:
+      question: "What is the antonym of odium?"
+      answer: "AMOR"
+  - tossup:
+      question: "What is the genitive plural of senex?"
+      answer: "SENUM"
+  - tossup:
+      question: "Monstra mihi tuum collum."
+      answer: "PLAYER SHOULD POINT TO HIS NECK"
+  - tossup:
+      question: "Distinguish in meaning between the adjectives novus and novem."
+      answer: "NOVUS = NEW NOVEM = NINE"
+  - tossup:
+      question: "What case is abbreviated abl.?"
+      answer: "ABLATIVE"
+  - tossup:
+      question: "What case is used for the noun of direct address?"
+      answer: "VOCATIVE"
+  - tossup:
+      question: "What Latin noun with what meaning is the root of “anniversary”?"
+      answer: "ANNUS = YEAR"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of “meritorious”?"
+      answer: "MEREO/MEREOR = EARN, DESERVE"
+  - tossup:
+      question: "What is the vocative singular of socius?"
+      answer: "SOCI"
+  - tossup:
+      question: "What do you share with a comrade, based on the word's etymology?"
+      answer: "A ROOM"
+  - tossup:
+      question: "Quot colla vobis omnibus sunt?"
+      answer: "QUATTUOR"
+  - tossup:
+      question: "Change vehes to perfect."
+      answer: "VEXISTI"
+  - tossup:
+      question: "What maiden's kidnapping led to the seasons?"
+      answer: "PERSEPHONE'S"
+  - tossup:
+      question: "Who solved the Sphinx' riddle?"
+      answer: "OEDIPUS"
+  - tossup:
+      question: "What god ruled the Underworld?"
+      answer: "HADES"
+  - tossup:
+      question: "Who was Heracles' nephew and companion?"
+      answer: "IOLAUS"
+  - tossup:
+      question: "Whom did Jason carry across a stream?"
+      answer: "THE DISGUISED HERA/JUNO"
+  - tossup:
+      question: "In what form did the god Aesculapius come to Rome?"
+      answer: "SNAKE"
+  - tossup:
+      question: "What river divides Latium from Etruria?"
+      answer: "THE TIBER"
+  - tossup:
+      question: "Who was Hannibal's brother?"
+      answer: "HASDRUBAL or MAGO"
+  - tossup:
+      question: "What was the toga worn by preteen boys?"
+      answer: "TOGA PRAETEXTA"
+  - tossup:
+      question: "Where did Caesar say, “The die is cast”?"
+      answer: "AT THE RUBICON"
+  - tossup:
+      question: "What trusted associate of Augustus was the father of Tiberius' first wife?"
+      answer: "M. VIPSANIUS AGRIPPA"
+  - tossup:
+      question: "Who was a son-in-law first of Agrippa and then of Augustus?"
+      answer: "TIBERIUS"
+    boni:
+      - question: ""
+        answer: "#"

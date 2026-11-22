@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1991
+division: "Novice"
+round: "Semifinals"
+questions:
+  - tossup:
+      question: "What job did Tiphys and Ancaeus hold?"
+      answer: "HELMSMAN ON THE ARGO"
+    boni:
+      - question: "How did Tiphys die?"
+        answer: "OF ILLNESS DURING THE VOYAGE"
+      - question: "How did Ancaeus die?"
+        answer: "ON THE CALYDONIAN BOAR HUNT"
+  - tossup:
+      question: "Whom did Pluto kidnap to be his queen?"
+      answer: "PROSERPINA"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was her mother? Who was her father?"
+        answer: "CERES // JUPITER"
+  - tossup:
+      question: "Against whom did Rome wage war in 193-189BC?"
+      answer: "ANTIOCHUS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Who was the nominal commander of the Roman army sent against Antiochus? At what battle was Antiochus defeat and his army destroyed?"
+        answer: "LUCIUS SCIPIO (AFRICANUS' BROTHER) // MAGNESIA"
+  - tossup:
+      question: ""
+      answer: "Distinguish between vir and ver."
+    boni:
+      - question: ""
+        answer: "VIR = MAN VER = SPRING"
+      - question: ""
+        answer: "Distinguish between the verb flo and the noun flos. // FLO = BLOW FLOS = FLOWER // Distinguish between the first conjugation verbs velo and volo. // VELO = HIDE, CONCEAL, COVER VOLO = FLY"
+  - tossup:
+      question: "Which Roman magistrates, though lacking imperium and the right to an escort of lictors, controlled public morals and supervised public areas and buildings?"
+      answer: "CENSORS"
+    boni:
+      - question: "How many censors were elected at one time and for what term of office?"
+        answer: "TWO FOR EIGHTEEN MONTHS"
+      - question: "How often did the censors take the census?"
+        answer: "EVERY FIVE YEARS"
+  - tossup:
+      question: "What Latin base verb is the root of “assess”?"
+      answer: "SEDEO"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What verb is the root of “access”? What verb is the root of “abscess”?"
+        answer: "CEDO // CEDO"
+  - tossup:
+      question: "What kind of genitive is illustrated in the phrase plus vini?"
+      answer: "PARTITIVE or OF THE WHOLE"
+    boni:
+      - question: "What kind of genitive is this: Magni amicitiam tuam aestimo?"
+        answer: "PRICE or VALUE"
+      - question: "What kind of genitive is in this phrase: praemium virtutis?"
+        answer: "OBJECTIVE"
+  - tossup:
+      question: "Make magna urbs dative singular."
+      answer: "MAGNAE URBI"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Make quercus alta genitive plural. Make locus frequens accusative plural."
+        answer: "QUERCUUM ALTARUM // LOCA FREQUENTIA"
+  - tossup:
+      question: "Who was Achilles' wartime concubine?"
+      answer: "BRISEIS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Achilles had killed her husband and carried her off. Who was her husband? Where were Mynes and Briseis king and queen?"
+        answer: "MYNES // LYRNESSUS"
+  - tossup:
+      question: "Define coquo."
+      answer: "COOK"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Define coquus. Define culina."
+        answer: "A COOK // KITCHEN"
+  - tossup:
+      question: ""
+      answer: "What Latin leader was conceived when a spark flew out of the fire"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "into his mother's lap? What god did he claim as his father? What Italian city did he found with Vulcan's protection?"
+        answer: "CAECULUS // VULCAN // PRAENESTE"
+  - tossup:
+      question: "How many times did Sulla and his army march on Rome?"
+      answer: "THREE TIMES"
+    boni:
+      - question: "Why did Sulla march on Rme in 88BC?"
+        answer: "HE HAD BEEN DEPRIVED OF HIS COMMAND AGAINST MITHRIDATES"
+      - question: "Who led the resistance to Sulla's march on Rome in 83-82BC?"
+        answer: "CARBO"
+  - tossup:
+      question: ""
+      answer: "Who was the only emperor of the first century AD to be succeeded by"
+    boni:
+      - question: "his natural son?"
+        answer: "VESPASIAN"
+      - question: "Who was his son? Who succeeded Titus, and what was their relationship?"
+        answer: "TITUS // HIS BROTHER DOMITIAN"
+  - tossup:
+      question: "Quot calceos geris?"
+      answer: "DUO/DUOS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "Quot subligacula geris?"
+        answer: "UNUM // Dic et monstra quot anulos geris. // PLAYER MUST SAY AND SHOW HOW MANY RINGS HE/SHE IS WEARING."
+  - tossup:
+      question: ""
+      answer: "Give the correct form of pax for this sentence: Audivi ________"
+    boni:
+      - question: ""
+        answer: "factam esse."
+      - question: "For this sentence: Erat cupidus ________. For this sentence: Studebant ________."
+        answer: "PACEM // PACIS // PACI"
+  - tossup:
+      question: "What god had the epithet Ennosigaeus?"
+      answer: "POSEIDON"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What does that mean? Who was Xenios?"
+        answer: "EARTHSHAKER // ZEUS"
+  - tossup:
+      question: "What did the initials Sp. in a Roman name mean?"
+      answer: "SPURIUS"
+    boni:
+      - question: ""
+        answer: ""
+      - question: "What praenomen was abbreviated A? What praenomen was Q?"
+        answer: "AULUS // QUINTUS // ROUND C10, page 3"
+  - tossup:
+      question: ""
+      answer: "Which is not the same part of speech as the rest: consequere,"
+    boni:
+      - question: "producere, magnopere, accipere?"
+        answer: "MAGNOPERE"
+      - question: "What part of speech is it? An adverb in what degree?"
+        answer: "ADVERB // POSITIVE"
+  - tossup:
+      question: ""
+      answer: "What modern nation occupies the northern and eastern shores of the"
+    boni:
+      - question: "ancient Pontus Euxinus?"
+        answer: "THE SOVIET UNION ~~or THE UKRAINE~~ (NOT RUSSIA!)"
+      - question: "What do we call the Pontus Euxinus?"
+        answer: "THE BLACK SEA // Name two of the four land masses which enclose the Tyrrhenian Sea. // ITALY, SARDINIA, CORSICA, SICILY"
+  - tossup:
+      question: ""
+      answer: "Translate this sentence: Hanc calamitatem providi."
+    boni:
+      - question: ""
+        answer: "I FORESAW THIS CALAMITY."
+      - question: ""
+        answer: "Translate: Huic calamitati providi. // I PROVIDED FOR THIS CALAMITY. // Translate: Huius calamitatis meminero. // I SHALL REMEMBER (BE MINDFUL OF) THIS CALAMITY. // #"

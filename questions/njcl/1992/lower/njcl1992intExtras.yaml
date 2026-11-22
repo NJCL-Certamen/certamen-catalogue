@@ -1,0 +1,68 @@
+tournament: "NJCL Certamen"
+year: 1992
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "What is the Latin noun for the spoke of a wheel?"
+      answer: "RADIUS"
+  - tossup:
+      question: "Translate the verb haereo."
+      answer: "CLING, STICK, ADHERE"
+  - tossup:
+      question: "What is the accusative singular of fur?"
+      answer: "FUREM"
+  - tossup:
+      question: "Make haurire perfect."
+      answer: "HAUSISSE"
+  - tossup:
+      question: "What are the two datives in the double dative?"
+      answer: "PURPOSE AND REFERENCE"
+  - tossup:
+      question: "What kind of conditional sentence does “If I were you” represent?"
+      answer: "(PRESENT) CONTRARY TO FACT"
+  - tossup:
+      question: "Translate the sentence: Romae tres annos iam habito."
+      answer: "I'VE LIVED IN ROME FOR THREE YEARS ALREADY."
+  - tossup:
+      question: "Translate this sentence into Latin: Roman girls did not learn in schools."
+      answer: "PUELLAE ROMANAE IN LUDIS/SCHOLIS NON DISCEBANT."
+  - tossup:
+      question: "What Latin noun is the root of the English verb “record”?"
+      answer: "COR"
+  - tossup:
+      question: "What Latin verb is the root of the English noun “treason”?"
+      answer: "TRADO"
+  - tossup:
+      question: "Who was Pandora's husband?"
+      answer: "EPIMETHEUS"
+  - tossup:
+      question: "Who was the daughter of Agamemnon and Clytemnestra?"
+      answer: "ELECTRA"
+  - tossup:
+      question: "What king of Corinth was Oedipus' foster father?"
+      answer: "POLYBUS"
+  - tossup:
+      question: "Who was the brother Medea murdered to slow her father's pursuit?"
+      answer: "ABSYRTUS"
+  - tossup:
+      question: "Of what was Melpomene the muse?"
+      answer: "TRAGEDY"
+  - tossup:
+      question: "Who was Julius Caesar's widow?"
+      answer: "CALPURNIA"
+  - tossup:
+      question: "What woman's death was instrumental in ending the rule of the decemviri?"
+      answer: "VERGINIA'S"
+  - tossup:
+      question: "What was the exact date of the Emperor Claudius' birth?"
+      answer: "AUGUST 1, 10BC"
+  - tossup:
+      question: "What king's reign separated those of the two Etruscan kings of Rome?"
+      answer: "SERVIUS TULLIUS'"
+  - tossup:
+      question: "What Roman garment seems to have been closest to our poncho?"
+      answer: "THE PAENULA"
+    boni:
+      - question: ""
+        answer: "#"

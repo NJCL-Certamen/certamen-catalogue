@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Novice"
+round: "Finals"
+questions:
+  - tossup:
+      question: "For what year was Tiberius Gracchus first elected tribune?"
+      answer: "133BC"
+    boni:
+      - question: "Name two prominent noblemen who supported Tiberius’ land law. APP."
+        answer: "CLAUDIUS PULCHER"
+      - question: "P. P."
+        answer: "LICINIUS CRASSUS DIVES MUCIANUS // MUCIUS SCAEVOLA"
+  - tossup:
+      question: "Whose death at Athens necessitated a periodic tribute of seven maidens and seven youths?"
+      answer: "ANDROGEUS"
+    boni:
+      - question: "Who was Androgeus’ father?"
+        answer: "MINOS"
+      - question: "What king of Athens had had a part in Androgeus’ death?"
+        answer: "AEGEUS"
+  - tossup:
+      question: "What does the idiom <latin>verba dare</latin> mean?"
+      answer: "DECEIVE, TRICK"
+    boni:
+      - question: "What does the idiom manus dare mean?"
+        answer: "SURRENDER, ACQUIESCE, YIELD"
+      - question: "What does the idiom fabulam dare mean?"
+        answer: "PRODUCE/EXHIBIT A PLAY"
+  - tossup:
+      question: "What eastern power did Aurelian destroy in 273AD?"
+      answer: "PALMYRA"
+    boni:
+      - question: "Who was the ruler of Palmyra?"
+        answer: "ZENOBIA"
+      - question: "What husband had been killed on this ambitious woman’s orders?"
+        answer: "ODAENATHUS"
+  - tossup:
+      question: "Which of Caesar’s wives left him a widower?"
+      answer: "CORNELIA"
+    boni:
+      - question: "Which of them did he leave a widow?"
+        answer: "CALPURNIA"
+      - question: "Which one bore him his only legitimate child?"
+        answer: "CORNELIA"
+  - tossup:
+      question: "Who was the first husband of Julia, daughter of Augustus?"
+      answer: "MARCELLUS"
+    boni:
+      - question: "Who was her second?"
+        answer: "AGRIPPA"
+      - question: "Who was her third?"
+        answer: "TIBERIUS"
+  - tossup:
+      question: "Which of these would you be most likely to hear from a <latin>medicus</latin>: lacus, aestas, arx, morbus?"
+      answer: "MORBUS"
+    boni:
+      - question: "Which of these might your <latin>medicus</latin> ask to examine: auris, rus, custos, vicus?"
+        answer: "AURIS"
+      - question: "Which of these would he be unlikely to ask to see: anguis, lingua, sanguis, unguis?"
+        answer: "ANGUIS"
+  - tossup:
+      question: ""
+      answer: "Tell me in Latin: “Rome is a beautiful city in Italy.”"
+    boni:
+      - question: ""
+        answer: "ROMA EST URBS PULCHRA IN ITALIA."
+      - question: ""
+        answer: "Italy today is a large country in Europe. // ITALIA HODIE EST PATRIA MAGNA IN EUROPA. // Germany is now larger than Italy. // GERMANIA NUNC EST MAIOR ITALIA (QUAM ITALIA)"
+  - tossup:
+      question: "In a curious whim of derivation, what English word do you find where three Latin roads come together?"
+      answer: "TRIVIA"
+    boni:
+      - question: "What English adjective for “detailed” or “mystifying” comes from arca?"
+        answer: "ARCANE"
+      - question: "What English noun for “details” comes from minuo?"
+        answer: "MINUTIAE"
+  - tossup:
+      question: "What kind of pronoun are tu and ego?"
+      answer: "PERSONAL"
+    boni:
+      - question: "What kind of pronoun refers back to the sentence's subject?"
+        answer: "REFLEXIVE"
+      - question: "What kind of pronoun modifies and specifies a noun?"
+        answer: "DEMONSTRATIVE"
+  - tossup:
+      question: "In English it's a noun for a legal document, but in Latin it's a verb that means “he has sworn.” What is the word?"
+      answer: "AFFIDAVIT"
+    boni:
+      - question: "What English legal term is a Latin phrase that means “under penalty”?"
+        answer: "SUB POENA"
+      - question: "What English legal term is a Latin ablative phrase meaning “in good faith”?"
+        answer: "BONA FIDE"
+  - tossup:
+      question: ""
+      answer: "We are in the tonsor's establishment. Translate into Latin: “Show me your teeth, Marcus.”"
+    boni:
+      - question: ""
+        answer: "MONSTRA MIHI TUOS DENTES, MARCE."
+      - question: ""
+        answer: "“Marcus has 30 white teeth.” // TRIGINTA DENTES CANDIDI MARCO SUNT or // MARCUS DENTES TRIGINTA CANDIDOS HABET. // “Marcus has lost two teeth this year.” // MARCUS DUO/DUOS DENTES HOC ANNO AMISIT."
+  - tossup:
+      question: "What is the adverb of potens?"
+      answer: "POTENTER"
+    boni:
+      - question: "What is the comparative adverb?"
+        answer: "POTENTIUS"
+      - question: "What is the superlative adverb?"
+        answer: "POTENTISSIME"
+  - tossup:
+      question: "What rare praenomen is abbreviated K?"
+      answer: "KAESO"
+    boni:
+      - question: ""
+        answer: "Distinguish the abbreviations for Tiberius and Titus."
+      - question: ""
+        answer: "TI = TIBERIUS, T = TITUS // Distinguish the abbreviations for Marcus and Manius. // M = MARCUS, M' = MANIUS"
+  - tossup:
+      question: "What was the name of Circe's island?"
+      answer: "AEAEA"
+    boni:
+      - question: "How long was Odysseus there?"
+        answer: "ONE YEAR"
+      - question: "What god helped him to defy Circe's magic?"
+        answer: "HERMES"
+  - tossup:
+      question: ""
+      answer: "Name two living mortals who entered and left the Underworld."
+    boni:
+      - question: ""
+        answer: "ADONIS, AENEAS, HERACLES, ODYSSEUS, ORPHEUS, PSYCHE, THESEUS"
+      - question: ""
+        answer: "Name two more. // Name two more."
+  - tossup:
+      question: "To win whose hand in marriage did a suitor have to yoke a lion and a boar to a chariot?"
+      answer: "ALCESTIS'"
+    boni:
+      - question: "What did her husband find when he forgot to sacrifice to Artemis at his wedding?"
+        answer: "HIS BED/BEDROOM FULL OF SNAKES"
+      - question: "How did Apollo get for his friend Admetus the prophecy that he wouldn't have to die if someone would die for him?"
+        answer: "APOLLO GOT THE FATES DRUNK AND GOT THE OFFER OUT OF THEM"
+  - tossup:
+      question: "What period of time was the nundinae?"
+      answer: "9 DAYS (or 8)"
+    boni:
+      - question: "What was a baby's naming day called?"
+        answer: "DIES LUSTRICUS (or DIES NOMINUM or NOMINALIA)"
+      - question: "What were the gifts given to the kid on the dies lustricus called?"
+        answer: "CREPUNDIA"
+  - tossup:
+      question: "What mythological character suckled the baby Zeus?"
+      answer: "AMALTHEA"
+    boni:
+      - question: "What nymph brought the baby to the goat Amalthea?"
+        answer: "ADRASTEA"
+      - question: "What mountain did this take place on?"
+        answer: "IDA (or DICTE)"
+  - tossup:
+      question: "What is the plural of <latin>illud</latin>?"
+      answer: "ILLA"
+    boni:
+      - question: "What is the plural of <latin>illā</latin>?"
+        answer: "ILLIS"
+      - question: "What is the plural of <latin>illă</latin>?"
+        answer: "ILLAE // #"

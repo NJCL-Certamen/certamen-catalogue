@@ -1,0 +1,213 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Intermediate"
+round: "Extra Questions"
+questions:
+  - tossup:
+      question: "Whose pet white fawn was regarded by the Lusitanians as a sign of divine protection?"
+      answer: "SERTORIUS"
+    boni:
+      - question: "Whose failed coup in Italy in 78-77 BC supplied disaffected officers to Sertorius' cause?"
+        answer: "LEPIDUS"
+      - question: "By whom was Sertorius murdered in 72 BC?"
+        answer: "M. PERPERNA"
+  - tossup:
+      question: "What sacred object supposedly fell from the sky as a gift from Jupiter to Numa?"
+      answer: "THE ANCILE, MARS' FIGURE-8 SHIELD"
+    boni:
+      - question: "What priestly order wore replicas of it?"
+        answer: "SALII"
+      - question: "What god besides Mars was their order connected with?"
+        answer: "HERCULES or QUIRINUS"
+  - tossup:
+      question: "What two proven commanders vied for the command of the East against Mithridates?"
+      answer: "GAIUS MARIUS & LUCIUS CORNELIUS SULLA"
+    boni:
+      - question: "What tribune, in return for political support, secured the passage of a law transferring the command from Sulla to Marius?"
+        answer: "SULPICIUS RUFUS"
+      - question: "How did Sulla respond to the loss of this command?"
+        answer: "MARCHED ON ROME & TOOK THE CITY BY FORCE"
+  - tossup:
+      question: "Who divorced his wife for adultery with Julius Caesar and shortly thereafter married Caesar's daughter?"
+      answer: "POMPEY (GNAEUS POMPEIUS MAGNUS)"
+    boni:
+      - question: ""
+        answer: "Name Caesar's daughter."
+      - question: "What political alliance did the marriage of Pompey and Julia strengthen?"
+        answer: "JULIA // FIRST TRIUMVIRATE"
+  - tossup:
+      question: "Which emperor closed all pagan temples in AD 391?"
+      answer: "THEODOSIUS I (THE GREAT)"
+    boni:
+      - question: "Name the bishop of Milan who exerted great influence over Theodosius?"
+        answer: "AMBROSE"
+      - question: "What work by what author did Ambrose revise as <latin>de officiis ministrorum</latin>?"
+        answer: "CICERO'S DE OFFICIIS"
+  - tossup:
+      question: "Who was the faithful companion of Aeneas?"
+      answer: "ACHATES"
+    boni:
+      - question: "Who was Aeneas' Trojan wife?"
+        answer: "CREUSA"
+      - question: "Who was Creusa's father?"
+        answer: "PRIAM"
+  - tossup:
+      question: "What was the breastplate of Zeus and Athena called?"
+      answer: "AEGIS"
+    boni:
+      - question: "Whose head was depicted in the center of the aegis?"
+        answer: "MEDUSA'S"
+      - question: "Who made the aegis?"
+        answer: "HEPHAESTUS"
+  - tossup:
+      question: "Who was the maiden rescued by Perseus from a sea monster?"
+      answer: "ANDROMEDA"
+    boni:
+      - question: "Who was her mother?"
+        answer: "CASSIOPEIA"
+      - question: "Why was she being sacrificed to the sea monster?"
+        answer: "CASSIOPEIA HAD SAID THAT SHE // (EITHER HERSELF OR HER DAUGHTER) // WAS AS BEAUTIFUL AS THE NEREIDS"
+  - tossup:
+      question: "What deity protected the original oracle at Delphi before Apollo took it over?"
+      answer: "GAIA"
+    boni:
+      - question: "What guise did Apollo take to compel a ship full of Cretans to divert to Delphi and become his first priests there?"
+        answer: "A DOLPHIN"
+      - question: "What was the name of the first Pythia?"
+        answer: "PHENOMOE"
+  - tossup:
+      question: "What goddess plagued the women of Lemnos with a foul odor?"
+      answer: "APHRODITE"
+    boni:
+      - question: "What queen of the island received the Argonauts?"
+        answer: "HYPSIPYLE"
+      - question: "Who were the two sons Hypsipyle bore to Jaon?"
+        answer: "EUNEOS AND THAOS / NEBROPHONUS / DEIPHYLUS"
+  - tossup:
+      question: ""
+      answer: "Listen carefully to the following paragraph, which I will read twice, and answer in English the question about it. Hieme orienti, Caesar in Britanniam proficīscī contendit quod Britannicī auxilia Gallīs dedērunt. Quā dē causā volēbat in īnsulā perspicere genus hominum, cognōscere loca, mōrēs, lēgēs."
+    boni:
+      - question: "When did Caesar go to Britain?"
+        answer: "IN THE BEGINNING OF WINTER"
+      - question: "What had the Britains recently done for the Gauls? What did Caesar want to learn about in Britain?"
+        answer: "GIVEN THEM AID // THEIR PLACES, CUSTOMS, AND LAWS // 20 // BE_x p.3"
+  - tossup:
+      question: ""
+      answer: "Listen carefully to the following sentence, which I will read twice, and answer in Latin the question about it. Helvētiī, omnium rērum inopiā adductī, lēgātōs dē dēditiōne ad Caesarem mīsērunt."
+    boni:
+      - question: "Quī ad Caesarem mīssī sunt?"
+        answer: "LĒGĀTĪ"
+      - question: "Quā dē causā lēgātī ad Caesarem mīssī sunt? Cur Helvētiī dēdidērunt?"
+        answer: "(DĒ) DĒDITIŌNE // OMNIUM RĒRUM INOPIĀ ADDUCTĪ SUNT"
+  - tossup:
+      question: "Change aggrediēbantur to subjunctive."
+      answer: "AGGREDERENTUR"
+    boni:
+      - question: "Change aggrederentur to present."
+        answer: "AGGREDIANTUR"
+      - question: "Change aggrediantur to perfect."
+        answer: "AGGRESSĪ SINT"
+  - tossup:
+      question: "Change magnum iter to dative."
+      answer: "MAGNŌ ITINERĪ"
+    boni:
+      - question: "Change magnō itinerī to plural."
+        answer: "MAGNĪS ITINERIBUS"
+      - question: "Change magnis itineribus to genitive."
+        answer: "MAGNŌRUM ITINERUM"
+  - tossup:
+      question: "What use of the infinitive is found in this sentence: Dolēre malum est."
+      answer: "SUBJECTIVE"
+    boni:
+      - question: "Oblīvīscī nōn possum quae volō."
+        answer: "COMPLEMENTARY"
+      - question: "Volō tē dīcere."
+        answer: "OBJECTIVE"
+  - tossup:
+      question: ""
+      answer: "What use of the subjunctive is found in this sentence: Hōs latrōnēs interficiāmus."
+    boni:
+      - question: ""
+        answer: "HORTATORY"
+      - question: "Quid agam, iūdicēs? quō mē vertam? Utinam mē mortuum vīdissēs."
+        answer: "DELIBERATIVE // OPTATIVE"
+  - tossup:
+      question: "Give a synonym of cōnor."
+      answer: "PERĪCLITOR / TEMPTŌ / EXPERIOR"
+    boni:
+      - question: "Give a synonym of dēficiō."
+        answer: "DĒSUM"
+      - question: "Give a synonym of rogō."
+        answer: "POSCŌ / PETŌ / QUAERŌ"
+  - tossup:
+      question: "Give an antonym of nēmō."
+      answer: "ALIQUIS / QUIS / QUISPIAM"
+    boni:
+      - question: "Give an antonym of silentium."
+        answer: "CLĀMOR / SONITUS / STREPITUS"
+      - question: "Give an antonym of victor."
+        answer: "CAPTĪVUS"
+  - tossup:
+      question: "Differentiate in meaning between ita and item."
+      answer: "ITA -- SO, ITEM -- LIKEWISE"
+    boni:
+      - question: ""
+        answer: "...between orior and ōrdior."
+      - question: ""
+        answer: "ORIOR -- RISE // ŌRDIOR -- BEGIN //...between oblīvīscor and ulcīscor. // OBLĪVĪSCOR -- FORGET // ULCĪSCOR -- AVENGE"
+  - tossup:
+      question: "What two compounds of cēdō mean “leave?"
+      answer: "” EXCĒDŌ, DISCĒDŌ"
+    boni:
+      - question: "What compound of cēdō means “approach?"
+        answer: "” ACCĒDŌ"
+      - question: "What compound of cēdō means “yield?"
+        answer: "” CONCĒDŌ"
+  - tossup:
+      question: "What Latin noun related to fruor means “enjoyment?"
+      answer: "” FRŪCTUS"
+    boni:
+      - question: "What Latin noun related to iungō means “spouse?"
+        answer: "” CONIŪNX"
+      - question: "What Latin adjective related to pariō means “whirlwind?"
+        answer: "” TURBŌ"
+  - tossup:
+      question: "What Latin verb with what meaning is the root of the English verb “imbibe?"
+      answer: "” BIBŌ -- DRINK"
+    boni:
+      - question: "What derivative English adjective means “prone to drink?"
+        answer: "” BIBULOUS"
+      - question: "What French-influenced derivative means “a substance for drinking?"
+        answer: "” BEVERAGE"
+  - tossup:
+      question: "A minister is sometimes called a “pastor.” What does that Latin noun mean?"
+      answer: "SHEPHERD"
+    boni:
+      - question: "What verb is it based on?"
+        answer: "PASCOR"
+      - question: "What staple of Italian food is derived from pascor?"
+        answer: "PASTA"
+  - tossup:
+      question: "What verb with what meaning is the root of “liable” (spell)?"
+      answer: "LIGO -- TIE, BIND"
+    boni:
+      - question: "What noun with what meaning is the root of “libel?"
+        answer: "” LIBER -- BOOK"
+      - question: "What noun with what meaning is the root of “lieutenant?"
+        answer: "” LOCUS -- PLACE"
+  - tossup:
+      question: "What Latin verb is the root of “vanquish?"
+      answer: "” VINCO"
+    boni:
+      - question: "...of “vault?"
+        answer: "” VOLVO"
+      - question: "...of “vaunt?"
+        answer: "” VANITAS"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “atom” and “appendectomy?"
+      answer: "” CUT"
+    boni:
+      - question: "...common to “lithograph” and “monolith?"
+        answer: "” STONE"
+      - question: "...common to “orthopedic” and “orthodox?"
+        answer: "” STRAIGHT, RIGHT // 22"

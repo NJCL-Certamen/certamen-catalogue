@@ -1,0 +1,168 @@
+tournament: "NJCL Certamen"
+year: 1993
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "What is the Greek derivative synonymous with “dictionary”?"
+      answer: "LEXICON"
+    boni:
+      - question: "What is the meaning of the Latin verb at the root of “dictionary”?"
+        answer: "SAY, SPEAK"
+      - question: "What is the meaning of the Greek verb at the root of “lexicon”?"
+        answer: "SAY, SPEAK"
+  - tossup:
+      question: "What are the third and fourth principal parts of <latin>pello, pellere</latin>?"
+      answer: "PEPULI, PULSUM"
+    boni:
+      - question: "What are the third and fourth principal parts of <latin>fallo, fallere</latin>?"
+        answer: "FEFELLI, FALSUM"
+      - question: "Of <latin>vello, vellere</latin>?"
+        answer: "VULSI (VOLSI), VULSUM"
+  - tossup:
+      question: ""
+      answer: "Give in the nominative the phrase “one word.”"
+    boni:
+      - question: ""
+        answer: "UNUM VERBUM/VOCABULUM"
+      - question: "Double that."
+        answer: "DUO VERBA // Multiply <latin>duo verba</latin> by"
+  - tossup:
+      question: ""
+      answer: "DUO MILIA VERBORUM"
+  - tossup:
+      question: "What tenses of the main verb are always included in the term “primary”?"
+      answer: "PRESENT, FUTURE, FUTURE PERFECT"
+    boni:
+      - question: "What tense of the subjunctive shows completed action after a primary main verb?"
+        answer: "PERFECT"
+      - question: "What tense shows incomplete action after a primary main verb?"
+        answer: "PRESENT"
+  - tossup:
+      question: "Which of these verbs isn't fourth conjugation: <latin>punio, potior, fodio, finio</latin>?"
+      answer: "FODIO"
+    boni:
+      - question: "Which of these verbs isn't second conjugation: <latin>creo, fleo, reor, tueor</latin>?"
+        answer: "CREO"
+      - question: "Which of these infinitives doesn't belong to a deponent verb: <latin>pati, gradi, condi, mirari</latin>?"
+        answer: "CONDI"
+  - tossup:
+      question: "What Ithacan noble was guardian and tutor to Telemachus in Odysseus' absence?"
+      answer: "MENTOR"
+    boni:
+      - question: "What divinity came to Telemachus in Mentor's form?"
+        answer: "ATHENA"
+      - question: "Where did Telemachus go first to seek news of his father?"
+        answer: "PYLOS (TO NESTOR)"
+  - tossup:
+      question: "What is the Latin noun for “dinner”?"
+      answer: "CENA"
+    boni:
+      - question: "For “lunch”?"
+        answer: "PRANDIUM"
+      - question: "For “breakfast”?"
+        answer: "IENTACULUM"
+  - tossup:
+      question: "Who sent Heracles on his twelve labors?"
+      answer: "EURYSTHEUS"
+    boni:
+      - question: "What was the first of these?"
+        answer: "KILLING THE NEMEAN LION"
+      - question: "Who was the Amazon queen whose girdle Heracles had to obtain?"
+        answer: "HIPPOLYTA"
+  - tossup:
+      question: "Who led the anti-Caesar faction among the Aedui?"
+      answer: "DUMNORIX"
+    boni:
+      - question: "Who was his pro-Caesar brother?"
+        answer: "DIVITIACUS"
+      - question: "What king of the Suebi had defeated the Aedui in 58BC?"
+        answer: "ARIOVISTUS"
+  - tossup:
+      question: "What is the perfect active infinitive of sum?"
+      answer: "FUISSE"
+    boni:
+      - question: "What is the perfect active infinitive of possum?"
+        answer: "POTUISSE"
+      - question: "What is the perfect active infinitive of absum?"
+        answer: "AFUISSE"
+  - tossup:
+      question: "Roman citizens seeking public office had to follow what sequence of posts?"
+      answer: "CURSUS HONORUM (or QUAESTOR/PRAETOR/CONSUL)"
+    boni:
+      - question: "What official in the cursus administered justice?"
+        answer: "PRAETOR"
+      - question: "What official was a public treasurer?"
+        answer: "QUAESTOR"
+  - tossup:
+      question: "What Latin verb with what meaning does the English noun “sect” derive from?"
+      answer: "SEQUOR = FOLLOW"
+    boni:
+      - question: "What verb with what meaning does “insect” derive from?"
+        answer: "SECO = CUT"
+      - question: "What verb does “sex” derive from?"
+        answer: "SECO=CUT"
+  - tossup:
+      question: "How many children/siblings did Oedipus have?"
+      answer: "FOUR"
+    boni:
+      - question: "Name the males."
+        answer: "ETEOCLES AND POLYNICES"
+      - question: "Name the females."
+        answer: "ISMENE AND ANTIGONE"
+  - tossup:
+      question: ""
+      answer: "“The Olympics are held on the fifth day of convention.”"
+    boni:
+      - question: "How do you say “on the fifth day”?"
+        answer: "QUINTO DIE"
+      - question: "“It rained for four days.” How do you say “for four days”? “We've sat here for one hour.” How do you say “for one hour”?"
+        answer: "QUATTUOR DIES // UNAM HORAM"
+  - tossup:
+      question: "What did Arachne portray in her tapestry?"
+      answer: "DIVINE MISDEEDS AND FOLLIES"
+    boni:
+      - question: "What did Athena portray in hers?"
+        answer: "THE FATES OF ARROGANT OR PRESUMPTUOUS MORTALS"
+      - question: "How did Arachne try to escape Athena's wrath?"
+        answer: "HANGED HERSELF"
+  - tossup:
+      question: "Which of these is <latin>not</latin> from Latin: cage, gauge, page, rage?"
+      answer: "GAUGE"
+    boni:
+      - question: "What Latin noun is the root of “page”?"
+        answer: "PAGINA"
+      - question: "What Latin noun is the root of “cage”?"
+        answer: "CAVEA"
+  - tossup:
+      question: "What god was called Zeus Katachthonius, “the Zeus of the Underworld”?"
+      answer: "HADES"
+    boni:
+      - question: "Who was Lenaeus, “the of the wine press”?"
+        answer: "DIONYSUS"
+      - question: "Who was Paeon, “the healer”?"
+        answer: "APOLLO"
+  - tossup:
+      question: "What two important cities fell to Rome in 146BC?"
+      answer: "CARTHAGE AND CORINTH"
+    boni:
+      - question: "What commander sacked Corinth?"
+        answer: "L. MUMMIUS ACHAICUS"
+      - question: "What commander sacked Carthage?"
+        answer: "P. CORNELIUS SCIPIO AEMILIANUS AFRICANUS NUMANTINUS // (AFRICANUS MINOR)"
+  - tossup:
+      question: "What emperor was the grandson of Germanicus?"
+      answer: "NERO"
+    boni:
+      - question: "What emperor was the son of Germanicus?"
+        answer: "CALIGULA"
+      - question: "What emperor was the brother of Germanicus?"
+        answer: "CLAUDIUS"
+  - tossup:
+      question: "What is the region of Italy in which Rome lies?"
+      answer: "LATIUM"
+    boni:
+      - question: "What is Latium's chief river?"
+        answer: "THE TIBER"
+      - question: "What region is Pompeii in?"
+        answer: "CAMPANIA // #"

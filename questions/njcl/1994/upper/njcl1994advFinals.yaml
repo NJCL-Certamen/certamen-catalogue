@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Advanced"
+round: "Finals"
+questions:
+  - tossup:
+      question: "What queen did Idomeneus leave behind?"
+      answer: "MEDA"
+    boni:
+      - question: "What Cretan seduced and murdered her?"
+        answer: "LEUCUS"
+      - question: "Who was the Greek bent on revenge who put Leucus up to it?"
+        answer: "NAUPLIUS (AVENGING THE DEATH OF HIS SON PALAMEDES)"
+  - tossup:
+      question: "Who slew herself when she realized she'd borne her son Aegisthus to her own father?"
+      answer: "PELOPIA"
+    boni:
+      - question: "Whom did Aegisthus slay with the sword still wet with his mother's blood?"
+        answer: "ATREUS"
+      - question: "Who was Aegisthus' father and grandfather?"
+        answer: "THYESTES"
+  - tossup:
+      question: "Of what largely poetic use of the genitive is <latin>integer vitae</latin> an example?"
+      answer: "GENITIVE OF SPECIFICATION"
+    boni:
+      - question: "What use of the genitive is talentum auri?"
+        answer: "GENITIVE OF MATERIAL/SUBSTANCE"
+      - question: "Desiderium oti (“desire for leisure”) illustrates what use?"
+        answer: "OBJECTIVE GENITIVE or GENITIVE OF THE OBJECT"
+  - tossup:
+      question: "What were columns in female form called?"
+      answer: "CARYATIDS"
+    boni:
+      - question: "What prominent building on the Acropolis had them?"
+        answer: "ERECHTHEUM"
+      - question: "What were the male equivalents called?"
+        answer: "ATLANTES"
+  - tossup:
+      question: "In correct order, what three important literary figures were all married to a woman named Terentia?"
+      answer: "CICERO, SALLUST, MESSALA CORVINUS"
+    boni:
+      - question: "To what age did she live?"
+        answer: "YEARS"
+      - question: "How many children did she bear Cicero?"
+        answer: "TWO"
+  - tossup:
+      question: "In Ovid, what nursing mother was turned into a black poplar or lotus as she tried to pick lotus flowers?"
+      answer: "DRYOPE"
+    boni:
+      - question: "Who was her baby?"
+        answer: "AMPHISSUS"
+      - question: "Andraemon?"
+        answer: "What was the gist of Dryope's last words to her husband // TAKE CARE OF THE BABY AND DON'T LET HIM PICK FLOWERS // Round A100, Page 2"
+  - tossup:
+      question: "What tyrant began the dynasty under which Corinth knew its greatest prosperity and power?"
+      answer: "CYPSELUS"
+    boni:
+      - question: "What was the dynasty it supplanted?"
+        answer: "BACCHIAD"
+      - question: "To what city did the last Bacchiad, Demaratus, go into exile?"
+        answer: "TARQUINII // (WHERE HE SUPPOSEDLY FATHERED TARQUINIUS PRISCUS)"
+  - tossup:
+      question: "Of what verb form is <latin>danunt</latin> an archaism?"
+      answer: "DANT"
+    boni:
+      - question: "Of what verb form is <latin>duas</latin> an archaism?"
+        answer: "DES"
+      - question: "Of what verb form is <latin>dasi</latin> an archaism?"
+        answer: "DARI"
+  - tossup:
+      question: "Which of these is not from the same root as the others: “ball” (a formal dance), “ballad,” “ballistic,” “ballet”?"
+      answer: "BALLISTIC"
+    boni:
+      - question: "What is the meaning of the Latin verb <latin>ballo</latin>?"
+        answer: "DANCE"
+      - question: "What is the meaning of the Greek verb <latin>βαλλω</latin>?"
+        answer: "THROW"
+  - tossup:
+      question: "These four verbs have first principal parts that rhyme. Which two also have second principal parts that rhyme: <latin>eo, fleo, queo, creo</latin>?"
+      answer: "EO AND QUEO"
+    boni:
+      - question: "What is the second part of <latin>queo</latin>?"
+        answer: "QUIRE"
+      - question: "What is the second part of <latin>creo</latin>?"
+        answer: "CREARE"
+  - tossup:
+      question: ""
+      answer: "Translate: <latin>Non erant tot libri Romae quot Athenis.</latin>"
+    boni:
+      - question: ""
+        answer: "THERE WEREN'T AS MANY BOOKS IN ROME AS IN ATHENS."
+      - question: "Translate: “There were more books in Athens than in Rome.”"
+        answer: "ERANT PLURES LIBRI ATHENIS QUAM ROMAE. // “The Romans had more authority than the Athenians.” // ROMANI PLUS AUCTORITATIS QUAM ATHENIENSES HABEBANT. // ROMANI PLUS AUCTORITATIS ATHENIENSIBUS HABEBANT. // PLUS AUCTORITATIS ROMANIS QUAM ATHENIENSIBUS ERAT."
+  - tossup:
+      question: "What two men on Augustus' orders edited and published the Aeneid after Vergil's death?"
+      answer: "PLOTIUS TUCCA AND VARIUS RUFUS"
+    boni:
+      - question: "Which one wrote a lost tragedy performed to much acclaim at the games in celebration of the victory at Actium?"
+        answer: "VARIUS RUFUS"
+      - question: "What was its title, which it shared with two other Roman tragedies?"
+        answer: "<latin>THYESTES</latin> // Round A100, Page 3"
+  - tossup:
+      question: "What genre of plays were low-life comedies that sometimes followed tragedies and parodied them?"
+      answer: "ATELLAN FARCES"
+    boni:
+      - question: "From what subgenre of Greek comedy were the themes drawn?"
+        answer: "NEW COMEDY"
+      - question: ""
+        answer: "Name one of the two most prominent writers of Atellan farce at its height during the time of Sulla. // LUCIUS POMPONIUS, NOVIUS"
+  - tossup:
+      question: "Which of the Graces do some sources make the wife of Hephaestus?"
+      answer: "CHARIS or AGLAIA"
+    boni:
+      - question: "What youngest Grace did Hera promise as bride to Hypnos?"
+        answer: "PASITHEA"
+      - question: "What did Hera want Hypnos to do during the Trojan War and why?"
+        answer: "PUT ZEUS TO SLEEP SO THE PRO-GREEK GODS COULD MEDDLE ON THE GREEKS' BEHALF."
+  - tossup:
+      question: "From an adjective meaning “swift,” what is the name for a “flying soldier” who attacked the enemy with gadfly tactics?"
+      answer: "VELES, VELITIS M"
+    boni:
+      - question: "What kind of soldier was a funditor?"
+        answer: "SLINGMAN"
+      - question: "What were archers called?"
+        answer: "SAGITTARII"
+  - tossup:
+      question: "Who commanded the Parthians in their victory at Carrhae in 53BC?"
+      answer: "SURENAS"
+    boni:
+      - question: "Whom had he removed from the throne?"
+        answer: "MITHRIDATES III"
+      - question: "Whom did he restore to the throne?"
+        answer: "ORODES II // (WHO HAD SURENAS EXECUTED)"
+  - tossup:
+      question: "What Latin adjectival prefix lurks in the English word “balance”?"
+      answer: "BI-"
+    boni:
+      - question: "Which of these words is not based on bi-: “bipedal,” “bikini,” “bicuspid,” “bicameral”?"
+        answer: "BIKINI"
+      - question: "The Greek noun at the root of “bibliography” of course means “book,” but what is the root of the Greek noun βιβλιος?"
+        answer: "THE TYRIAN CITY OF <latin>BYBLOS</latin>, WHENCE PAPYRUS WAS EXPORTED // Round A100, Page 4"
+  - tossup:
+      question: "What Roman author made the historical observation that, although earlier emperors had been masters of the people (<latin>domini civium</latin>), they'd been slaves of their own freedmen (<latin>servi libertorum</latin>)?"
+      answer: "PLINY THE YOUNGER"
+    boni:
+      - question: "In praise of what emperor did Pliny the Younger write the <latin>Panegyricus</latin>?"
+        answer: "TRAJAN"
+      - question: "Thrice married but childless, Pliny nevertheless received from Trajan what dispensation?"
+        answer: "<latin>IUS TRIUM LIBERORUM</latin>"
+  - tossup:
+      question: "What consul led the Romans in the destruction of Corinth?"
+      answer: "L. <latin>MUMMIUS</latin> ACHAICUS"
+    boni:
+      - question: "Who had preceded him in this command?"
+        answer: "Q. CAECILIUS <latin>METELLUS</latin> MACEDONICUS"
+      - question: "With whom did Mummius share the consulship of 142BC?"
+        answer: "P. CORNELIUS <latin>SCIPIO AEMILIANUS</latin> AFRICANUS (MINOR) NUMANTINUS"
+  - tossup:
+      question: "What animal's Greek name is found in the noun “chameleon”?"
+      answer: "LION"
+    boni:
+      - question: "According to the etymology, where is the lion in the word “chameleon”?"
+        answer: "ON THE GROUND"
+      - question: "The word “Arctic” comes from the Greek noun for what animal?"
+        answer: "BEAR // #"

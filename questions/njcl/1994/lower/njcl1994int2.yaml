@@ -1,0 +1,163 @@
+tournament: "NJCL Certamen"
+year: 1994
+division: "Intermediate"
+round: "Round 2"
+questions:
+  - tossup:
+      question: "The code of Roman law framed in the middle of the fifth century BC is called what?"
+      answer: "THE LAWS OF THE TWELVE TABLES"
+    boni:
+      - question: "How many men were commissioned to write them?"
+        answer: "TEN"
+      - question: "Who dominated this commission in its second year?"
+        answer: "APPIUS CLAUDIUS"
+  - tossup:
+      question: "Change <latin>itis</latin> to subjunctive."
+      answer: "EATIS"
+    boni:
+      - question: "Change <latin>eatis</latin> to imperfect."
+        answer: "IRETIS"
+      - question: "Change <latin>iretis</latin> to perfect."
+        answer: "IERĪTIS/IVERĪTIS"
+  - tossup:
+      question: ""
+      answer: "What Roman king, according to later Roman scholars,"
+    boni:
+      - question: "C&S was also known by the Etruscan name Mastarna?"
+        answer: "pp40-41 SERVIUS TULLIUS"
+      - question: "Was Servius Tullius' Roman name plebeian or patrician? What large construction project was his namesake legacy?"
+        answer: "PLEBEIAN // THE SERVIAN WALL"
+  - tossup:
+      question: "What Amazon queen came to the Trojans' assistance?"
+      answer: "PENTHESILEA"
+    boni:
+      - question: "Who killed her but fell in love with the body?"
+        answer: "ACHILLES"
+      - question: "Who mocked Achilles for this and promptly paid with his life?"
+        answer: "THERSITES"
+  - tossup:
+      question: "To whom was Tiberius originally married?"
+      answer: "VIPSANIA"
+    boni:
+      - question: "Who was her father?"
+        answer: "M. VIPSANIUS <latin>AGRIPPA</latin>"
+      - question: "Whose daughter did Tiberius marry after divorcing Vipsania?"
+        answer: "AUGUSTUS'"
+  - tossup:
+      question: ""
+      answer: "Make <latin>femina</latin> plural in this sentence and make all other changes necessary: <latin>Femina quam vidi pulchra est.</latin>"
+    boni:
+      - question: ""
+        answer: "FEMINAE QUAS VIDI PULCHRAE SUNT."
+      - question: "Dux in castris mansit."
+        answer: "Change this sentence to make the subject plural: // Hic miles qui vulneratus erat in viā cecidit. // HI MILITES QUI VULNERATI ERANT IN VIĀ CECIDERUNT. // Change this sentence to make the verb future: // DUX IN CASTRIS MANEBIT. // Round B2, Page 2"
+  - tossup:
+      question: "What woman of mythology gave birth to her own grandchildren?"
+      answer: "JOCASTA"
+    boni:
+      - question: "Who were the brothers of Ismene and Antigone who were also their uncles?"
+        answer: "POLYNICES AND ETEOCLES"
+      - question: "Who was their uncle without being their brother?"
+        answer: "CREON"
+  - tossup:
+      question: "Which of his sisters besides Hera bore Zeus a child?"
+      answer: "DEMETER"
+    boni:
+      - question: "Who was the child?"
+        answer: "PERSEPHONE"
+      - question: "From what island did Hades kidnap Persephone?"
+        answer: "SICILY"
+  - tossup:
+      question: "What is the meaning of the Greek word element common to “pedagogy” and “orthopedist”?"
+      answer: "CHILD"
+    boni:
+      - question: "Common to “democracy” and “epidemic”?"
+        answer: "PEOPLE"
+      - question: "Common to “hemophilia” and “anemia”?"
+        answer: "BLOOD"
+  - tossup:
+      question: "What was the last naval battle of Roman history?"
+      answer: "ACTIUM"
+    boni:
+      - question: "For five points each, where did Augustus put his two main naval bases?"
+        answer: "MISENUM AND RAVENNA"
+  - tossup:
+      question: ""
+      answer: "Name and define the Latin noun at the root of “disturbance.”"
+    boni:
+      - question: ""
+        answer: "TURBA = CROWD"
+      - question: "What English derivative of turba means “chaotic” or “tumultuous”? What related derivative is a part of a motor?"
+        answer: "TURBULENT // TURBINE"
+  - tossup:
+      question: "Change lumen to plural."
+      answer: "LUMINA"
+    boni:
+      - question: "Change lumina to genitive."
+        answer: "LUMINUM"
+      - question: "Change luminum to singular."
+        answer: "LUMINIS"
+  - tossup:
+      question: "Where did the assassins of Caesar make their final, fatal stand against the forces of Antony and Octavian?"
+      answer: "PHILIPPI"
+    boni:
+      - question: "What was the year?"
+        answer: "42BC"
+      - question: "In what modern country is Philippi?"
+        answer: "GREECE"
+  - tossup:
+      question: "What is the translation of the Latin noun <latin>sagitta</latin>?"
+      answer: "ARROW"
+    boni:
+      - question: "What is <latin>frumentum</latin>?"
+        answer: "GRAIN"
+      - question: "What is <latin>litus</latin>?"
+        answer: "SEASHORE, COAST"
+  - tossup:
+      question: "Who turned Arethusa into a spring?"
+      answer: "ARTEMIS/DIANA"
+    boni:
+      - question: "How did Heracles use Arethusa's lover Alpheus?"
+        answer: "HE CHANNELED HIM (WITH PENEIUS) TO CLEAN AUGEAS' STABLES"
+      - question: "What famous Greek city did the Alpheus flow past?"
+        answer: "OLYMPIA"
+  - tossup:
+      question: ""
+      answer: "Distinguish in meaning between the nouns <latin>hasta</latin> and <latin>hostis</latin>."
+    boni:
+      - question: ""
+        answer: "HASTA = SPEAR HOSTIS = ENEMY"
+      - question: "Distinguish in meaning between the nouns <latin>moles</latin> and <latin>miles</latin>."
+        answer: "MILES = SOLDIER MOLES = MASS, PILE, DAM // With both first A's long, distinguish in meaning between the singular <latin>māla</latin> and <latin>mālum</latin>. // MALA = CHEEK MALUM = APPLE"
+  - tossup:
+      question: ""
+      answer: "What is the use of the accusative in this sentence:"
+    boni:
+      - question: "<latin>Linguam Latinam</latin> omnes <latin>amamus</latin>?"
+        answer: "DIRECT OBJECT"
+      - question: "In this sentence: <latin>Omnes scimus linguam Latinam vivere</latin>?"
+        answer: "SUBJECT OF INFINITIVE (WITHIN INDIRECT STATEMENT) // In this sentence: <latin>Meus magister multos annos vivet</latin>. // DURATION OF TIME"
+  - tossup:
+      question: "What Roman official had the power of the veto?"
+      answer: "TRIBUNE"
+    boni:
+      - question: "What does <latin>veto</latin> mean in Latin?"
+        answer: "I FORBID"
+      - question: "Whose interests was the tribunate originally established to protect?"
+        answer: "THE PEOPLE, PLEBEIANS"
+  - tossup:
+      question: "What case would you need to translate “copper” in this sentence: “There is less copper in pennies than there used to be”?"
+      answer: "GENITIVE"
+    boni:
+      - question: ""
+        answer: "For five points each, use two different Latin phrases to translate “no silver” in this sentence: “There's no silver in quarters any longer.”"
+      - question: ""
+        answer: "NULLUM ARGENTUM, NIHIL ARGENTI"
+  - tossup:
+      question: "What verb with what meaning is the root of “source”?"
+      answer: "SURGO = RISE"
+    boni:
+      - question: "What adjective with what meaning is the root of “force”?"
+        answer: "FORTIS = BRAVE, STRONG"
+      - question: "What noun with what meaning is the root of “endorse”?"
+        answer: "DORSUM = BACK // #"

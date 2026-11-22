@@ -1,0 +1,165 @@
+tournament: "NJCL Certamen"
+year: 1995
+division: "Novice"
+round: "Round 3"
+questions:
+  - tossup:
+      question: "In our modern consumer society, what Latin phrase best indicates that one should be suspicious of a used car salesperson?"
+      answer: "CAVEAT EMPTOR"
+    boni:
+      - question: "What phrase has been brought into prominence by consumer advocates like Ralph Nader?"
+        answer: "CAVEAT VENDITOR"
+      - question: "Venditor derives from the verb vendō, which is a contraction of what two words?"
+        answer: "VĒNUM + DŌ"
+  - tossup:
+      question: "What was the curse of Cassandra?"
+      answer: "(UNERRING BUT) UNHEEDED PROPHECIES"
+    boni:
+      - question: "What had she done to earn this curse?"
+        answer: "SCORNED THE AFFECTIONS OF APOLLO"
+      - question: "What was her fate after the Trojan War?"
+        answer: "SHE WAS TAKEN HOME BY AGAMEMNON AND MURDERED WITH HIM"
+  - tossup:
+      question: "From whom were Phrixus and Helle fleeing?"
+      answer: "INO (need name)"
+    boni:
+      - question: "Who were their parents?"
+        answer: "ATHAMAS AND NEPHELE"
+      - question: "Whom did Phrixus marry?"
+        answer: "CHALCIOPE"
+  - tossup:
+      question: "What couple reared Oedipus?"
+      answer: "POLYBUS AND MEROPE/PERIBOEA"
+    boni:
+      - question: "Why did Oedipus curse his sons?"
+        answer: "THEY GAVE HIM THE SLAVES' PORTION OF A SACRIFICE / SERVED A MEAL ON LAIUS' DISHES WHICH HAD BEEN CURSED"
+      - question: "Where did Oedipus die?"
+        answer: "COLONUS"
+  - tossup:
+      question: ""
+      answer: "Translate this sentence into English: Mīles hostem necāvit."
+    boni:
+      - question: ""
+        answer: "THE SOLDIER KILLED / HAS KILLED / DID KILL THE ENEMY"
+      - question: "If the enemy had been killed with a sword, in which case would gladius have been expressed?"
+        answer: "Change Mīles hostem necāvit to the passive, making all the necessary changes. // HOSTIS Ā MĪLITE NECĀTUS EST // ABLATIVE"
+  - tossup:
+      question: "According to tradition, on which hill did Romulus found the settlement which became Rome?"
+      answer: "PALATINE"
+    boni:
+      - question: "On which hill did he establish an asylum for all fugitives?"
+        answer: "CAPITOLINE"
+      - question: "Where did Romulus get women for his settlement?"
+        answer: "(STOLE THEM) FROM SABINES"
+  - tossup:
+      question: "Change duo oppida to dative."
+      answer: "DUŌBUS OPPIDĪS"
+    boni:
+      - question: "Change centum oppida to dative."
+        answer: "CENTUM OPPIDĪS"
+      - question: "Give the dative of “three thousand towns.”"
+        answer: "TRIBUS MĪLIBUS OPPIDŌRUM"
+  - tossup:
+      question: "Differentiate in meaning between coquō and cōgō."
+      answer: "COQUŌ -- COOK"
+    boni:
+      - question: ""
+        answer: "CŌGŌ -- BRING TOGETHER"
+      - question: "What preposition and verb come together to form cōgō? Terra-cotta, meaning “cooked earth,” is an Italian phrase used to describe certain types of ceramic works. Say in Latin, “cooked earth.”"
+        answer: "CUM + AGŌ // TERRA COCTA"
+  - tossup:
+      question: "Translate this sentence into Latin: “Quintus, do you fear your teacher?"
+      answer: "”"
+    boni:
+      - question: ""
+        answer: "QUINTE, TIMĒSNE / METUISNE / VERERISNE TUUM(-AM) MAGISTRUM (-AM)"
+      - question: "Translate this sentence into Latin: “Lucius, you don't fear your teacher, do you? Translate this sentence into Latin: “Marcus, why do you fear your teacher?"
+        answer: "” // LUCĪ, NUM TIMĒS TUUM MAGISTRUM (TUAM MAGISTRAM) // ” // MARCE, CŪR TIMĒS TUUM MAGISTRUM (TUAM MAGISTRAM)"
+  - tossup:
+      question: "To what class would a Roman belong if he used the title vir clarissimus?"
+      answer: "SENATORIAL / PATRICIAN / OPTIMATES"
+    boni:
+      - question: "How did one become a senator?"
+        answer: "ELECTION TO MAGISTRACY (QUAESTORSHIP) OR BY FIAT OF EMPEROR"
+      - question: "What was the financial requirement to be a senator?"
+        answer: "ONE MILLION SESTERCES"
+  - tossup:
+      question: "Who was carried off to Hades by her uncle?"
+      answer: "PERSEPHONE / PROSERPINA / KORE"
+    boni:
+      - question: "Who were the parents of Persephone?"
+        answer: "ZEUS AND DEMETER"
+      - question: "Where was she when Hades nabbed her, according to Ovid?"
+        answer: "SICILY (AT VALE OF [H]ENNA)"
+  - tossup:
+      question: ""
+      answer: "In AD 9, what Roman general with his army was annihilated by the Germans in the"
+    boni:
+      - question: "Teutoberg Forest?"
+        answer: "(P. QUINCTILIUS) VARUS"
+      - question: "How many legions was he leading? Who was the German commander?"
+        answer: "THREE // ARMINIUS / HERMAN"
+  - tossup:
+      question: "What two words combine to form nāvigō?"
+      answer: "NĀVIS + AGŌ"
+    boni:
+      - question: "What two words combine to form princeps?"
+        answer: "PRĪMUS / PRĪMUM + CAPIŌ"
+      - question: "What two words combine to form merīdiēs?"
+        answer: "MEDIUS + DIĒS"
+  - tossup:
+      question: "Name a Latin diphthong."
+      answer: "AE, AU, EI, EU, OE, UI"
+    boni:
+      - question: ""
+        answer: "IN EARLY LATIN AI, OI, OU"
+      - question: ""
+        answer: "Name two more. // Name two more."
+  - tossup:
+      question: "What Latin abbreviation is often found at the end of mathematical proofs and means “that which had to be proved?"
+      answer: "” Q.E.D."
+    boni:
+      - question: "What Latin abbreviation is often found at the end of letters?"
+        answer: "P.S. (RSVP not acceptable)"
+      - question: "What Latin abbreviation is often found on many old paintings?"
+        answer: "PIN"
+  - tossup:
+      question: "Why did the Carthaginian queen Dido commit suicide?"
+      answer: "BECAUSE AENEAS LEFT HER"
+    boni:
+      - question: "Whom did Dido trick into helping prepare her funeral pyre?"
+        answer: "(HER SISTER) ANNA"
+      - question: "Where do Aeneas and Dido meet again?"
+        answer: "UNDERWORLD (FIELDS OF MOURNING)"
+  - tossup:
+      question: "What is the 3rd person plural, pluperfect active, indicative of legō, legere?"
+      answer: "LĒGERANT"
+    boni:
+      - question: "Change lēgerant to imperfect."
+        answer: "LEGĒBANT"
+      - question: "Change legēbant to passive."
+        answer: "LEGĒBANTUR"
+  - tossup:
+      question: "What English derivative of the Latin words sōl and stāre is the name for the days each year when the sun exhibits no apparent northward or southward motion?"
+      answer: "SOLSTICE"
+    boni:
+      - question: "What are the two Latin roots and their meanings that yield “equinox?"
+        answer: "”"
+      - question: "What English adjective from the Latin word for “spring” describes the spring equinox?"
+        answer: "AEQUUS -- EQUAL / NOX -- NIGHT // VERNAL"
+  - tossup:
+      question: "Who was made dictator for the purpose of redrafting the republican constitution in 81 BC?"
+      answer: "SULLA"
+    boni:
+      - question: "From what order did Sulla add 300 new members to the Senate?"
+        answer: "EQUESTRIAN"
+      - question: "What group did Sulla bar from holding a praetorship or higher office?"
+        answer: "(PLEBEIAN) TRIBUNES"
+  - tossup:
+      question: "What river separates Latium and Etruria?"
+      answer: "THE TIBER"
+    boni:
+      - question: "What town sits at its mouth?"
+        answer: "OSTIA (ANTIQUA)"
+      - question: "What body of water, a subdivision of the Mediterranean, does it empty into?"
+        answer: "THE TYRRHENIAN SEA (MARE TUSCUM / MARE INFERUM) // 9"

@@ -53,7 +53,7 @@ questions:
         answer: "DUODĒVĪGINTĪ"
   - tossup:
       question: "What Roman term describes examples such as <latin>Sulpicius, Iūlius, Cornēlius,</latin> and <latin>Tullius</latin>, the part of a Roman man’s name which denoted the clan to which he belonged? \t\t"
-      answer: "<latin>NŌMEN</latin> (<latin>GENTĪLE</latin> / <latin>GENTILĪCIUM</latin>)"
+      answer: "<latin>NŌMEN</latin> (<latin>GENTĪLE / GENTILĪCIUM</latin>)"
     boni:
       - question: "What term did the Romans use to refer to the name <latin>Publius</latin> as in <latin>Publius Cornēlius \t\t\tScīpiō</latin>, or <latin>Marcus</latin> as in <latin>Marcus Tullius Cicerō</latin>?\t"
         answer: "<latin>PRAENŌMEN</latin>"
@@ -125,7 +125,7 @@ questions:
         answer: "HE SENT A (GAD)FLY/INSECT TO BITE PEGASUS  SCORE CHECK"
   - tossup:
       question: "Give a synonym of the verb <latin>cupiō</latin>, which means “I desire” or “I want.”\t \t\t"
-      answer: "<latin>DĒSĪDERŌ</latin> / <latin>VOLŌ</latin> (<latin>VELLE</latin>) / <latin>OPTŌ</latin>"
+      answer: "<latin>DĒSĪDERŌ / VOLŌ</latin> (<latin>VELLE</latin>) / <latin>OPTŌ</latin>"
     boni:
       - question: "What one-word antonym of <latin>volō</latin> means “I do not want”?\t"
         answer: "<latin>NŌLŌ</latin>"

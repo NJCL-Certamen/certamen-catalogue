@@ -52,12 +52,12 @@ questions:
       - question: "<latin>Quid Anglicē significat angustus</latin>?\t \t\t"
         answer: "NARROW / CONTRACTED / STRAIT / SMALL / SHORT"
   - tossup:
-      question: "Consider the following list of words about enslaved people in ancient Rome: <latin>fugitīvus</latin>, \t<latin>vicārius</latin>, <latin>lībertus</latin>, <latin>pecūlium, paedagōgus</latin>. Which of those words referred to a formerly-enslaved person who had been freed?\t"
+      question: "Consider the following list of words about enslaved people in ancient Rome: <latin>fugitīvus</latin>, \t<latin>vicārius, lībertus, pecūlium, paedagōgus</latin>. Which of those words referred to a formerly-enslaved person who had been freed?\t"
       answer: "<latin>LĪBERTUS</latin>"
     boni:
-      - question: "Which of the words <latin>fugitīvus</latin>, <latin>vicārius</latin>, <latin>lībertus</latin>, <latin>pecūlium, paedagōgus</latin> referred to the property enslaved people were sometimes allowed to hold at their owner’s discretion?\t\t"
+      - question: "Which of the words <latin>fugitīvus, vicārius, lībertus, pecūlium, paedagōgus</latin> referred to the property enslaved people were sometimes allowed to hold at their owner’s discretion?\t\t"
         answer: "<latin>PECŪLIUM</latin>"
-      - question: "Which of the words <latin>fugitīvus</latin>, <latin>vicārius</latin>, <latin>lībertus</latin>, <latin>pecūlium, paedagōgus</latin> referred to a person who was enslaved by someone who was themselves enslaved?\t"
+      - question: "Which of the words <latin>fugitīvus, vicārius, lībertus, pecūlium, paedagōgus</latin> referred to a person who was enslaved by someone who was themselves enslaved?\t"
         answer: "<latin>VICĀRIUS</latin>"
   - tossup:
       question: "Give an antonym of the Latin noun <latin>hostis</latin>, which means “enemy.”\t \t\t"

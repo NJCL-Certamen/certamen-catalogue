@@ -3,15 +3,14 @@ year: 1982
 division: "Intermediate"
 round: Finals
 questions:
-
   - tossup:
-      question: "What is the perfect active infinitive of frango?"
-      answer: "FREGISSE"
+      question: "What is the perfect active infinitive of <latin>frango</latin>?"
+      answer: "<latin>FREGISSE</latin>"
     boni:
-      - question: "Of tango?"
-        answer: "TETIGISSE"
-      - question: "Of iungo?"
-        answer: "IUNXISSE"
+      - question: "What is the perfect active infinitive of <latin>tango</latin>?"
+        answer: "<latin>TETIGISSE</latin>"
+      - question: "What is the perfect active infinitive of <latin>iungo</latin>?"
+        answer: "<latin>IUNXISSE</latin>"
   - tossup:
       question: "Who excavated Troy in the 19th century?"
       answer: "HEINRICH SCHLIEMANN"
@@ -22,7 +21,7 @@ questions:
         answer: "THE LION GATE"
   - tossup:
       question: "Who claimed Hecuba as his prize when Troy fell?"
-      answer: "ODYSSEUS (ULYSSES)"
+      answer: "ODYSSEUS / ULYSSES"
     boni:
       - question: "What happened to Hecuba in Thrace?"
         answer: "SHE WENT INSANE or SHE WAS TURNED INTO A BITCH or SHE WAS STONED TO DEATH BY THE THRACIANS"
@@ -46,30 +45,30 @@ questions:
         answer: "A RIVER FROM HIS BLOOD"
   - tossup:
       question: "What Latin ablative absolute is still used in English to mean \"with the necessary changes having been made\"?"
-      answer: "<latin>MUTATIS MUTANDIS</latin>"
+      answer: "<latin>MUTATĪS MUTANDĪS</latin>"
     boni:
       - question: "What does the frequent dictionary notation q.v. stand for?"
-        answer: "QUOD VIDE"
+        answer: "<latin>QUOD VIDE</latin>"
       - question: "What does qq.v. stand for?"
-        answer: "QUAE VIDE"
+        answer: "<latin>QUAE VIDE</latin>"
   - tossup:
       question: "Some Romans placed words of good omen over the doors of their houses. What does this phrase mean: <latin>Nihil intret mali</latin>?"
       answer: "MAY NO EVIL ENTER"
     boni:
       - question: "Often a dog was chained inside the ostium, but in some homes a picture of a dog was painted on the wall or worked in mosaic on the floor. Give the warning with this picture in Latin and English."
-        answer: "<latin>CAVE CANEM</latin>. BEWARE THE DOG."
+        answer: "<latin>CAVE CANEM</latin> - BEWARE THE DOG."
       - question: "What was the name for revered spirits of dead ancestors?"
-        answer: "DI MANES"
+        answer: "<latin>DI MANES</latin>"
   - tossup:
       question: "What distinguishes the third principal parts of cado and caedo?"
-      answer: "THE LENGTH OF THE: CECIDI VERSUS CECIDI"
+      answer: "THE LENGTH OF THE: <latin>CECIDI</latin> VERSUS <latin>CECĪDI</latin>"
     boni:
       - question: "Which of them yields the English \"decide\"?"
         answer: "<latin>CAEDO</latin>"
       - question: "Which of them yields the English \"circumcision\"?"
         answer: "<latin>CAEDO</latin>"
   - tossup:
-      question: "What category of verbs includes audeo and gaudeo?"
+      question: "What category of verbs includes <latin>audeo</latin> and <latin>gaudeo</latin>?"
       answer: "SEMI-DEPONENT"
     boni:
       - question: "Give the perfect infinitive of <latin>audeo</latin>."
@@ -99,7 +98,7 @@ questions:
       - question: "Who helped Theseus kill the Minotaur?"
         answer: "ARIADNE"
       - question: "Who was Theseus' father?"
-        answer: "AEGEUS (or POSEIDON)"
+        answer: "AEGEUS / POSEIDON"
   - tossup:
       question: "According to Ovid, what mythical queen founded Babylon?"
       answer: "SEMIRAMIS"
@@ -107,7 +106,7 @@ questions:
       - question: "What portent marked the site of Cadmus' future city?"
         answer: "A COW LAY DOWN"
       - question: "Who, according to legend, founded Alba Longa?"
-        answer: "ASCANIUS (IULUS)"
+        answer: "ASCANIUS / IULUS"
   - tossup:
       question: "Which Macedonian king entered into a pact of mutual assistance with Hannibal in 215 BC?"
       answer: "PHILIP V"
@@ -117,12 +116,12 @@ questions:
       - question: "What king of Asia Minor allied himself with Laevinus against Philip V?"
         answer: "ATTALUS I OF PERGAMUM"
   - tossup:
-      question: "Who would you be in English if in Latin you were an aurifex?"
+      question: "Who would you be in English if in Latin you were an <latin>aurifex</latin>?"
       answer: "GOLDSMITH"
     boni:
-      - question: "What would you be if you were a pistor?"
+      - question: "What would you be if you were a <latin>pistor</latin>?"
         answer: "BAKER"
-      - question: "If you were a latro?"
+      - question: "If you were a <latin>latro</latin>?"
         answer: "THIEF"
   - tossup:
       question: "Where did Labienus die?"
@@ -134,28 +133,28 @@ questions:
         answer: "45 BC"
   - tossup:
       question: "Latin-based names have been given to parts of the globe unknown to the Romans; Nova Scotia, for instance, means New Scotland. What are the Latin-based name and meaning for the island now called Taiwan?"
-      answer: "FORMOSA - BEAUTIFUL"
+      answer: "<latin>FORMOSA</latin> - BEAUTIFUL"
     boni:
       - question: "An African nation was founded in the nineteenth century by ex-slaves repatriating themselves from this continent to that of their ancestors. What is its name and what is its Latin root?"
-        answer: "LIBERIA - LIBER, (FREE)"
+        answer: "LIBERIA - <latin>LIBER</latin>, (FREE)"
       - question: "What is the meaning of the Latinate name Australia?"
         answer: "THE SOUTHERN LAND"
   - tossup:
-      question: "What bird is a columba?"
+      question: "What bird is a <latin>columba</latin>?"
       answer: "DOVE (PIGEON)"
     boni:
       - question: "With <latin>columba</latin> as its base, what was the literal meaning of a <latin>columbarium</latin>?"
         answer: "DOVE-COTE, PIGEON-COOP"
-      - question: "What metaphorical meaning did columbarium acquire?"
+      - question: "What metaphorical meaning did <latin>columbarium</latin> acquire?"
         answer: "MULTI-NICHED STRUCTURE FOR THE URNS OF THE DEAD"
   - tossup:
       question: "What Latin present active participle contracts to form the adjective <latin>prudens</latin>?"
       answer: "<latin>PROVIDENS</latin>"
     boni:
-      - question: "What Latin adjective contracts to the noun bruma?"
-        answer: "BREVISSIMA"
-      - question: "What infinitive contracts to fore?"
-        answer: "FUTURUS ESSE"
+      - question: "What Latin adjective contracts to the noun <latin>bruma</latin>?"
+        answer: "<latin>BREVISSIMA</latin>"
+      - question: "What infinitive contracts to <latin>fore</latin>?"
+        answer: "<latin>FUTURUS ESSE</latin>"
   - tossup:
       question: "In what declension is the present active participle declined?"
       answer: "THIRD"

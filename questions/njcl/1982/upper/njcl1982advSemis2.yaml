@@ -5,13 +5,13 @@ round: "Semifinals 2"
 questions:
 
   - tossup:
-      question: "What Roman writer is known for the phrase panem et circenses?"
+      question: "What Roman writer is known for the phrase <latin>panem et circenses</latin>?"
       answer: "JUVENAL"
     boni:
       - question: "Who said <latin>Alea iacta est</latin>?"
-        answer: "JULIUS CAESAR"
+        answer: "(C.) JULIUS CAESAR"
       - question: "Who first wrote <latin>Carpe diem</latin>?"
-        answer: "HORACE"
+        answer: "(Q.) HORATIUS / HORACE (FLACCUS)"
   - tossup:
       question: "Who defeated Maxentius in 312 AD at the Battle of the Mulvian Bridge?"
       answer: "CONSTANTINE"
@@ -29,10 +29,10 @@ questions:
       - question: "What figure of speech is illustrated by this quote from Vergil: <latin>Non ignara mali</latin>...?"
         answer: "LITOTES"
   - tossup:
-      question: "With what curse did a jealous Pasiphae afflict Minos?"
+      question: "With what curse did a jealous Pasiphaë afflict Minos?"
       answer: "ANY WOMAN HE SLEPT WITH WAS POISONED"
     boni:
-      - question: "How did Pasiphae come by her witchcraft?"
+      - question: "How did Pasiphaë come by her witchcraft?"
         answer: "SHE WAS THE DAUGHTER OF HELIOS, SISTER OF CIRCE, AUNT OF MEDEA"
       - question: "Who cured Minos of this unpleasantness?"
         answer: "PROCRIS"
@@ -43,79 +43,79 @@ questions:
       - question: "Who in Tartarus is tied to a wheel which ceaselessly revolves?"
         answer: "IXION"
       - question: "What was Ixion's crime?"
-        answer: "ATTEMPTING TO SEDUCE HERA (or MURDER)"
+        answer: "ATTEMPTING TO SEDUCE HERA // MURDER"
   - tossup:
-      question: "Who of these was not an Argonaut: Calais, Hylas, Meleager, Perseus, Orpheus, Hercules?"
+      question: "Who of these was not an Argonaut: Calaïs, Hylas, Meleager, Perseus, Orpheus, Hercules?"
       answer: "PERSEUS"
     boni:
       - question: "Who built the Argonauts' ship?"
         answer: "ARGUS"
       - question: "What was unusual about one beam of the ship?"
-        answer: "IT WAS FROM THE OAK AT DODONA AND IT GAVE THE ARGONAUTS ADVICE."
+        answer: "IT WAS FROM THE OAK AT DODONA AND IT GAVE THE ARGONAUTS ADVICE"
   - tossup:
       question: "What is the feminine accusative singular of the relative pronoun <latin>qui</latin>?"
-      answer: "QUAM"
+      answer: "<latin>QUAM</latin>"
     boni:
       - question: "What is the meaning of <latin>quamquam</latin>?"
         answer: "ALTHOUGH"
       - question: "What is the meaning of <latin>quia</latin>?"
         answer: "BECAUSE"
   - tossup:
-      question: "In what province, and with what office, did Cicero begin the cursus honorum?"
-      answer: "QUAESTOR IN SICILY"
+      question: "In what province, and with what office, did Cicero begin the <latin>cursus honorum</latin>?"
+      answer: "<latin>QUAESTOR</latin> IN SICILY"
     boni:
       - question: "What famous orator defended Verres?"
         answer: "HORTENSIUS"
       - question: "In the Civil War, was Cicero a partisan of Pompey or Caesar?"
-        answer: "POMPEY"
+        answer: "(CN.) POMPEIUS / POMPEY (MAGNUS)"
   - tossup:
       question: "What Roman author claimed to have \"three hearts\"?"
-      answer: "ENNIUS"
+      answer: "(Q.) ENNIUS"
     boni:
       - question: "What did he mean?"
         answer: "(FLUENCY IN) LATIN, GREEK AND OSCAN"
       - question: "Which was his native tongue?"
         answer: "OSCAN"
   - tossup:
-      question: "What Latin adjective is a contraction of the present active participle of provideo?"
-      answer: "PRUDENS"
+      question: "What Latin adjective is a contraction of the present active participle of <latin>provideo</latin>?"
+      answer: "<latin>PRUDENS</latin>"
     boni:
       - question: "By way of French, what Latin compound verb gives us our verb \"pursue\"?"
         answer: "<latin>PROSEQUOR</latin>"
       - question: "Do “survey” and “convey” have the same root verb?"
-        answer: "NO. SURVEY = <latin>SUPER + VIDEO</latin>; CONVEY = <latin>CUM + VIARE</latin>"
+        answer: "NO (SURVEY - <latin>SUPER + VIDEO</latin>; CONVEY - <latin>CUM + VIARE</latin>)"
   - tossup:
       question: "Translate the noun <latin>sagitta</latin>."
       answer: "ARROW"
     boni:
-      - question: "With what would you shoot a sagitta?"
-        answer: "ARCUS"
-      - question: "What was a hasta?"
+      - question: "With what would you shoot a <latin>sagitta</latin>?"
+        answer: "<latin>ARCUS</latin>"
+      - question: "What was a <latin>hasta</latin>?"
         answer: "SPEAR"
   - tossup:
       question: "In the sentence, “We stayed for two days,” what case would “two days” require?"
       answer: "ACCUSATIVE"
     boni:
       - question: "What would the Latin phrase “for two days” be?"
-        answer: "DIES DUO (DUOS, DUAS)"
+        answer: "<latin>DIES DUO / DUOS / DUAS</latin>"
       - question: "In the sentence, “We left on the third day,” what would “on the third day” be?"
-        answer: "DIE TERTIO (or TERTIA)"
+        answer: "<latin>DIE TERTIO / TERTIA</latin>"
   - tossup:
       question: "Give the accusative supine of the verb <latin>iuvo</latin>."
       answer: "<latin>IUTUM</latin>"
     boni:
       - question: "Using that form, say: \"Caesar came to help the town.\""
-        answer: "<latin>CAESAR VENIT IUTUM OPPIDUM</latin>."
+        answer: "<latin>CAESAR VENIT IUTUM OPPIDUM</latin>"
       - question: "Say the same thing with a subjunctive."
-        answer: "<latin>CAESAR VENIT UT OPPIDUM IUVARET</latin>."
+        answer: "<latin>CAESAR VENIT UT OPPIDUM IUVARET</latin>"
   - tossup:
-      question: "What comitia in the late Republic witnessed wills and adoptions and confirmed the imperium of consuls and emperors?"
-      answer: "CURIATA"
+      question: "What <latin>comitia</latin> in the late Republic witnessed wills and adoptions and confirmed the imperium of consuls and emperors?"
+      answer: "<latin>CURIATA</latin>"
     boni:
-      - question: "What comitia declared war, signed peace and elected consuls?"
-        answer: "CENTURIATA"
-      - question: "What comitia passed legislation and elected quaestors and curule aediles?"
-        answer: "TRIBUTA"
+      - question: "What <latin>comitia</latin> declared war, signed peace and elected consuls?"
+        answer: "<latin>CENTURIATA</latin>"
+      - question: "What <latin>comitia</latin> passed legislation and elected quaestors and curule aediles?"
+        answer: "<latin>TRIBUTA</latin>"
   - tossup:
       question: "Who was crippled with a thunderbolt from Zeus because he boasted of having lain with a goddess?"
       answer: "ANCHISES"
@@ -133,12 +133,12 @@ questions:
       - question: "What type of subjunctive clause is this: <latin>Venimus ut consulem videremus</latin>?"
         answer: "PURPOSE"
   - tossup:
-      question: "Where would you find a mensa and a lectus in a Roman house?"
-      answer: "TRICLINIUM"
+      question: "Where would you find a <latin>mensa</latin> and a <latin>lectus</latin> in a Roman house?"
+      answer: "<latin>TRICLINIUM</latin>"
     boni:
-      - question: "Which meal did the Romans eat in the triclinium?"
-        answer: "CENA"
-      - question: "What was the culina?"
+      - question: "Which meal did the Romans eat in the <latin>triclinium</latin>?"
+        answer: "<latin>CENA</latin>"
+      - question: "What was the <latin>culina</latin>?"
         answer: "KITCHEN"
   - tossup:
       question: "Who recovered the ransom which the Romans had paid to the Gauls to leave Rome standing?"
@@ -149,18 +149,18 @@ questions:
       - question: "What Volscian maiden was fastened to a javelin by her father and thrown across a river to safety?"
         answer: "CAMILLA"
   - tossup:
-      question: "What work of Vergil imitates the Idylls of Theocritus?"
-      answer: "THE ECLOGUES (or BUCOLICS)"
+      question: "What work of Vergil imitates the <title>Idylls</title> of Theocritus?"
+      answer: "THE <title>ECLOGUES / BUCOLICS</title>"
     boni:
-      - question: "How many poems are there in the Eclogues?"
+      - question: "How many poems are there in the <title>Eclogues</title>?"
         answer: "TEN"
-      - question: "Which of the following was published first: Books I - III of Horace's Odes, Vergil's Georgics or Horace's first book of Epistles?"
-        answer: "THE GEORGICS"
+      - question: "Which of the following was published first: Books I - III of Horace's <title>Odes</title>, Vergil's <title>Georgics</title> or Horace's first book of <title>Epistles</title>?"
+        answer: "THE <title>GEORGICS</title>"
   - tossup:
       question: "Translate into Latin: \"We have come to see the emperor.\""
-      answer: "<latin>VENIMUS UT IMPERATOREM VIDEREMUS</latin> / <latin>VENIMUS AD IMPERATOREM VIDENDUM</latin> / <latin>VENIMUS IMPERATOREM VISUM</latin>"
+      answer: "<latin>VENIMUS UT IMPERATOREM VIDEREMUS / VENIMUS AD IMPERATOREM VIDENDUM / VENIMUS IMPERATOREM VISUM</latin>"
     boni:
       - question: "Translate: \"The emperor persuaded us to come.\""
-        answer: "<latin>IMPERATOR NOBIS UT VENIREMUS PERSUASIT</latin>."
+        answer: "<latin>IMPERATOR NOBIS UT VENIREMUS PERSUASIT</latin>"
       - question: "Translate: \"We will have to see the emperor.\""
-        answer: "<latin>IMPERATOR NOBIS VIDENDUS ERIT</latin>."
+        answer: "<latin>IMPERATOR NOBIS VIDENDUS ERIT</latin>"

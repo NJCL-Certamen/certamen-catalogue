@@ -3,16 +3,15 @@ year: 1982
 division: "Advanced"
 round: "Extra Questions"
 questions:
-
   - tossup:
-      question: "What is the genitive plural of senex?"
-      answer: "SENUM"
+      question: "What is the genitive plural of <latin>senex</latin>?"
+      answer: "<latin>SENUM</latin>"
   - tossup:
       question: "What two Latin nouns with different stems share the nominative singular <latin>frons</latin>?"
       answer: "<latin>FRONS, FRONTIS</latin> (F) and <latin>FRONS, FRONDIS</latin> (F)"
   - tossup:
-      question: "Given that haec is plural, what must be its singular?"
-      answer: "HOC"
+      question: "Given that <latin>haec</latin> is plural, what must be its singular?"
+      answer: "<latin>HOC</latin>"
   - tossup:
       question: "The Latin word for barber is <latin>tonsor</latin>. What is the meaning of the Latin noun from which we get \"barber\"?"
       answer: "BEARD"
@@ -30,10 +29,10 @@ questions:
       answer: "<latin>AEGROTO</latin>"
   - tossup:
       question: "What is the accusative singular of <latin>sitis</latin>?"
-      answer: "SITIM"
+      answer: "<latin>SITIM</latin>"
   - tossup:
       question: "What is the perfect passive participle of <latin>sepelio</latin>?"
-      answer: "SEPULTUS"
+      answer: "<latin>SEPULTUS</latin>"
   - tossup:
       question: "What is the next declinable number after three?"
       answer: "TWO HUNDRED"
@@ -41,7 +40,7 @@ questions:
       question: "In what year did the Flavian dynasty begin?"
       answer: "69 AD"
   - tossup:
-      question: "Who called his writings a farrago?"
+      question: "Who called his writings a <latin>farrago</latin>?"
       answer: "JUVENAL"
   - tossup:
       question: "What was the name of Odysseus' faithful dog?"
@@ -54,13 +53,13 @@ questions:
       answer: "IMPERFECT"
   - tossup:
       question: "What is the perfect active infinitive of <latin>pario</latin>?"
-      answer: "PEPERISSE"
+      answer: "<latin>PEPERISSE</latin>"
   - tossup:
       question: "What is the case of the adjective in this quote: <latin>O fortunati, quorum iam moenia surgunt!</latin>"
       answer: "VOCATIVE"
   - tossup:
       question: "What term do epic poets substitute for <latin>imperator</latin>, and why?"
-      answer: "INDUPERATOR - IMPERATOR WON'T SCAN IN DAC. HE"
+      answer: "<latin>INDUPERATOR</latin> - <latin>IMPERATOR</latin> WON'T SCAN IN DAC. HE"
   - tossup:
       question: "Who bought the Empire at auction in 193 AD?"
       answer: "DIDIUS JULIANUS"
@@ -89,11 +88,11 @@ questions:
       question: "Who assassinated Caligula?"
       answer: "CASSIUS CHAEREA"
   - tossup:
-      question: "What noun encompasses all of these: sciurus, vespertilio, lepus, caper?"
+      question: "What noun encompasses all of these: <latin>sciurus, vespertilio, lepus, caper</latin>?"
       answer: "ANIMALIA"
   - tossup:
       question: "What two superlatives exist for <latin>pius</latin>?"
-      answer: "PIISSIMUS AND PIENTISSIMUS"
+      answer: "<latin>PIISSIMUS</latin> AND <latin>PIENTISSIMUS</latin>"
   - tossup:
       question: "How would you say in Latin: \"He is the best of us all\"?"
       answer: "<latin>EST OPTIMUS NOSTRUM OMNIUM</latin>"

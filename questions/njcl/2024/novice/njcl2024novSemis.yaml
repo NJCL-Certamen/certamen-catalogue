@@ -34,7 +34,7 @@ questions:
       - question: "What was the Latin term for the wax likenesses of ancestors which were displayed in the \t\t\tatrium?\t"
         answer: "<latin>IMĀGINĒS</latin>"
       - question: "What was architecturally distinctive about the style of atrium called <latin>testūdinātum</latin>? \t\t\t\t"
-        answer: "NO <latin>COMPLUVIUM</latin> / <latin>IMPLUVIUM</latin> / HOLE IN ROOF // FULLY ROOFED / \t\tHAD ANOTHER FLOOR ABOVE (prompt on “shaped like a tortoise/shell”)"
+        answer: "NO <latin>COMPLUVIUM / IMPLUVIUM</latin> / HOLE IN ROOF // FULLY ROOFED / \t\tHAD ANOTHER FLOOR ABOVE (prompt on “shaped like a tortoise/shell”)"
   - tossup:
       question: "Translate the following sentence from Latin to English: <latin>Ad patriam septem diēbus perveniēmus.</latin>\t"
       answer: "WE WILL REACH / ARRIVE AT / TO THE / OUR HOMELAND /  \t\tCOUNTRY (WITH)IN SEVEN DAYS"
@@ -135,7 +135,7 @@ questions:
       question: "<latin>Secundum, praeter, apud</latin>, and <latin>ad</latin> are all prepositions governing what case? \t\t"
       answer: "ACCUSATIVE"
     boni:
-      - question: "Which of the following prepositions cannot govern the same case as the others: <latin>cōram</latin>, <latin>tenus</latin>, <latin>prō, cis</latin>?\t"
+      - question: "Which of the following prepositions cannot govern the same case as the others: <latin>cōram, tenus, prō, cis</latin>?\t"
         answer: "CIS"
       - question: "Some ablative words like <latin>causā</latin> and <latin>grātiā</latin> are used similarly to prepositions. When they are, what case usually accompanies them?\t"
         answer: "GENITIVE"

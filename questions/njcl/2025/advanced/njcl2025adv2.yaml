@@ -52,7 +52,7 @@ questions:
       - question: "What work of Cato is a historical work starting with the foundation of Rome?\t\t"
         answer: "<title><latin>ORĪGINĒS</latin></title>"
   - tossup:
-      question: "Which of the following Latin abbreviations can be replaced with <latin>i.e.</latin> in footnotes: <latin>cf.</latin>, <latin>ibid.</latin>, <latin>s.v.</latin>, <latin>viz.</latin>?           \t"
+      question: "Which of the following Latin abbreviations can be replaced with <latin>i.e.</latin> in footnotes: <latin>cf., ibid., s.v., viz.</latin>?           \t"
       answer: "<latin>VIZ.</latin> [PASS OUT <emphasis>VISUAL</emphasis>]"
     boni:
       - question: "Give the title of the text referenced by the abbreviation in footnote 3."

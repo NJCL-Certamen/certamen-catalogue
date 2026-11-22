@@ -3,7 +3,6 @@ year: 1982
 division: "Intermediate"
 round: "Semifinals 2"
 questions:
-
   - tossup:
       question: "On what mountain lived a boar which Hercules had to capture?"
       answer: "MOUNT ERYMANTHUS"
@@ -49,11 +48,11 @@ questions:
       answer: "FURTIVE"
     boni:
       - question: "What Latin verb is at the root of the English word tractor?"
-        answer: "TRAHO"
+        answer: "<latin>TRAHO</latin>"
       - question: "What Latin verb is at the root of the English \"occasion\"?"
-        answer: "<latin>CADO</latin> (<latin>OCCIDO</latin>)"
+        answer: "<latin>CADO (OCCIDO)</latin>"
   - tossup:
-      question: "What type of genitives are tui, nostri and vestri?"
+      question: "What type of genitives are <latin>tui, nostri</latin> and <latin>vestri</latin>?"
       answer: "OBJECTIVE"
     boni:
       - question: "Give the partitive genitive forms of <latin>nos</latin> and <latin>vos</latin>."
@@ -75,7 +74,7 @@ questions:
       - question: "Translate into English: <latin>Nisi vidissem, non credidissem</latin>."
         answer: "IF I HADN'T SEEN IT, I WOULDN'T HAVE BELIEVED IT."
       - question: "Translate into Latin: \"If I were wise, I wouldn't be here.\""
-        answer: "<latin>SI SAPIENS ESSEM, NON ADESSEM</latin> (or <latin>ABESSEM</latin>)"
+        answer: "<latin>SI SAPIENS ESSEM, NON ADESSEM / ABESSEM</latin>"
   - tossup:
       question: "What was the birthplace of Apollo and Artemis?"
       answer: "DELOS"
@@ -91,7 +90,7 @@ questions:
       - question: "The worship of Cybele was originally tended at Rome by Oriental priests. What emperor opened her priesthood to citizens?"
         answer: "CLAUDIUS"
       - question: "What body of officials oversaw the priesthood and worship of Cybele?"
-        answer: "THE QUINDECIMVIRI"
+        answer: "THE <latin>QUINDECIMVIRI</latin>"
   - tossup:
       question: "What is the meaning of the Latin noun <latin>sanguis</latin>?"
       answer: "BLOOD"
@@ -150,10 +149,10 @@ questions:
         answer: "LYCOMEDES"
   - tossup:
       question: "What law gave plebiscita legal force?"
-      answer: "THE LEX HORTENSIA"
+      answer: "THE <latin>LEX HORTENSIA</latin>"
     boni:
       - question: "What law allowed intermarriage between plebeians and patricians?"
-        answer: "THE LEX CANULEIA"
+        answer: "THE <latin>LEX CANULEIA</latin>"
       - question: "What tribune passed in 88 BC a law giving the command against Mithridates to Marius and thus provoking Sulla to march on Rome?"
         answer: "SULPICIUS RUFUS"
   - tossup:
@@ -163,4 +162,4 @@ questions:
       - question: "What was his nationality, by which he is normally differentiated from his ancestor, Cato the Censor?"
         answer: "UTICENSIS"
       - question: "What is his ancestor's most famous dictum?"
-        answer: "CARTHAGO DELENDA EST"
+        answer: "<latin>CARTHAGO DELENDA EST</latin>"

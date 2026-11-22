@@ -3,7 +3,6 @@ year: 1982
 division: "Intermediate"
 round: "Semifinals"
 questions:
-
   - tossup:
       question: "Change the verb form <latin>malo</latin> to the plural."
       answer: "<latin>MALUMUS</latin>"
@@ -16,10 +15,10 @@ questions:
       question: "What is the translation of the saying: <latin>Mens sana in corpore sano</latin>?"
       answer: "A HEALTHY MIND IN A HEALTHY BODY"
     boni:
-      - question: "What is the genitive plural of the phrase sana mens?"
-        answer: "SANARUM MENTIUM"
-      - question: "What is the genitive plural of the phrase sanum corpus?"
-        answer: "SANORUM CORPORUM"
+      - question: "What is the genitive plural of the phrase <latin>sana mens</latin>?"
+        answer: "<latin>SANARUM MENTIUM</latin>"
+      - question: "What is the genitive plural of the phrase <latin>sanum corpus</latin>?"
+        answer: "<latin>SANORUM CORPORUM</latin>"
   - tossup:
       question: "Who was served the flesh of his own sons at a banquet?"
       answer: "THYESTES"
@@ -43,13 +42,13 @@ questions:
       - question: "Which divinity was honored by a temple at Ephesus?"
         answer: "ARTEMIS"
       - question: "Who was honored by the Colossus of Rhodes?"
-        answer: "APOLLO or HELIOS"
+        answer: "APOLLO / HELIOS"
   - tossup:
       question: "Tradition says that Hercules founded Herculaneum on his return from Spain. Why had he gone there?"
       answer: "TO FETCH THE CATTLE OF GERYON"
     boni:
       - question: "What physical deformity did Geryon have?"
-        answer: "THREE BODIES AND/OR THREE HEADS"
+        answer: "THREE BODIES / THREE HEADS"
       - question: "What deformity did Geryon's dog Orthos have?"
         answer: "TWO HEADS"
   - tossup:
@@ -85,7 +84,7 @@ questions:
       - question: "What is the Latin phrase meaning \"hard to do\"?"
         answer: "<latin>DIFFICILE ACTU / FACTU</latin>"
   - tossup:
-      question: "What type of verbs are <latin>piget</latin>, <latin>pudet</latin>, <latin>miseret</latin>, and <latin>taedet</latin>?"
+      question: "What type of verbs are <latin>piget, pudet, miseret</latin>, and <latin>taedet</latin>?"
       answer: "IMPERSONAL"
     boni:
       - question: "Translate into English: <latin>Me poetae miseret</latin>."
@@ -141,13 +140,13 @@ questions:
       - question: "What privilege was granted a Vestal Virgin who passed a condemned criminal on his way to be executed?"
         answer: "SHE COULD PARDON HIM ON THE SPOT."
   - tossup:
-      question: "Responde Latine. Take the number of Muses, multiply by the number of Fates, add the number of Gorgons, and divide by the number of eyes the Gray Women had."
-      answer: "TRIGINTA"
+      question: "<latin>Responde Latine</latin>: Take the number of Muses, multiply by the number of Fates, add the number of Gorgons, and divide by the number of eyes the Gray Women had."
+      answer: "<latin>TRIGINTA</latin>"
     boni:
-      - question: "Responde Latine. How long did the Trojan War last?"
-        answer: "DECEM ANNOS"
-      - question: "Responde Latine. Take the number of Hercules' labors, subtract the number of Furies, and multiply by the number of Olympian deities."
-        answer: "CENTUM (ET) OCTO or OCTO ET CENTUM"
+      - question: "<latin>Responde Latine</latin>: How long did the Trojan War last?"
+        answer: "<latin>DECEM ANNOS</latin>"
+      - question: "<latin>Responde Latine</latin>: Take the number of Hercules' labors, subtract the number of Furies, and multiply by the number of Olympian deities."
+        answer: "<latin>CENTUM (ET) OCTO / OCTO ET CENTUM</latin>"
   - tossup:
       question: "For what Greek warrior did Hephaestus make new armor?"
       answer: "ACHILLES"

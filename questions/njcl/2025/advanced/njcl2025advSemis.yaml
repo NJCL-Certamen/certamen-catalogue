@@ -17,7 +17,7 @@ questions:
     boni:
       - question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Quot cēnantēs in ūnō lectō iacēre poterant, ut mos fuit?</latin>\t"
         answer: "ŪNUS / DUO / TRĒS / ONE / TWO / THREE"
-      - question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Cēnāns cum aequālibus, in quō lectō iacēbat hospes</latin>? <latin>in</latin> <latin>īmō</latin>, <latin>mediō</latin>, <latin>an</latin> <latin>summō?</latin>\t"
+      - question: "<latin>Respondē Latīnē aut Anglicē:</latin> <latin>Cēnāns cum aequālibus, in quō lectō iacēbat hospes</latin>? <latin>in</latin> <latin>īmō, mediō, an</latin> <latin>summō?</latin>\t"
         answer: "<latin>(IN LECTŌ) ĪMŌ /</latin> THE LOWEST (COUCH)"
   - tossup:
       question: "Since he had allied with Taphian pirates, what man had to be saved from an Ithacan mob by Odysseus, but forgot this when he tried to avenge his son Antinoüs with the other suitors’ parents?\t"
@@ -106,7 +106,7 @@ questions:
       - question: "<latin>Respondē Anglicē. Quis est maximus numerus inter ūnum et centum quī “tribus” dīvidī aequāliter potest?</latin>"
         answer: "99"
       - question: "<latin>Respondē aut Latīnē aut numerālibus Rōmānīs: Quot sunt septiēns septem?</latin>"
-        answer: "<latin>ŪNDĒQUINQUĀGINTĀ / QUADRĀGINTĀ (ET) NOVEM</latin> / <latin>XLIX / XLVIIII / XXXXIX / XXXXVIIII / IL</latin>"
+        answer: "<latin>ŪNDĒQUINQUĀGINTĀ / QUADRĀGINTĀ (ET) NOVEM / XLIX / XLVIIII / XXXXIX / XXXXVIIII / IL</latin>"
   - tossup:
       question: "Excluding prefixes, provide the distinct Latin words and their meanings at the roots of detér and intér.\t"
       answer: "INTER - <latin>TERRA</latin> - LAND \t\tDETER - <latin>(DĒ)TERREŌ</latin> - TO FRIGHTEN"

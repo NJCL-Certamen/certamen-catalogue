@@ -4,7 +4,7 @@ division: "Intermediate"
 round: "Round 3"
 questions:
   - tossup:
-      question: "Which of the following rooms would commonly be found in the Roman baths: <latin>larārium</latin>, <latin>peristȳlium</latin>, <latin>tepidārium</latin>, <latin>triclīnium</latin>?\t"
+      question: "Which of the following rooms would commonly be found in the Roman baths: <latin>larārium, peristȳlium, tepidārium, triclīnium</latin>?\t"
       answer: "<latin>TEPIDĀRIUM</latin>"
     boni:
       - question: "What is the term for the heating system in the Roman baths?\t"
@@ -60,7 +60,7 @@ questions:
       - question: "What Latin word meaning “that” IF ANY is needed to translate the following sentence into Latin: “Amata knew that she had won”?\t"
         answer: "THERE IS NO NEEDED LATIN WORD"
   - tossup:
-      question: "What U.S. state contains a school with the motto <latin>Respice</latin>, <latin>Adspice,</latin> <latin>Prōspice</latin> and has the state motto <latin>Excelsior</latin>?\t"
+      question: "What U.S. state contains a school with the motto <latin>Respice, Adspice,</latin> <latin>Prōspice</latin> and has the state motto <latin>Excelsior</latin>?\t"
       answer: "NEW YORK"
     boni:
       - question: "Translate the motto <latin>Respice, Adspice, Prōspice</latin>.\t\t"
@@ -84,7 +84,7 @@ questions:
       - question: "Known for his religious reforms, what earlier king was the grandfather of Ancus Marcius?"
         answer: "NUMA POMPILIUS"
   - tossup:
-      question: "The Latin verb <latin>faciō</latin>, <latin>facere</latin> gives us many English derivatives. Based on its derivation, if something ossifies, it becomes like what?\t"
+      question: "The Latin verb <latin>faciō, facere</latin> gives us many English derivatives. Based on its derivation, if something ossifies, it becomes like what?\t"
       answer: "BONE"
     boni:
       - question: "Actions have consequences or ramifications. What is literally being made according to the derivation of “ramifications”?\t"
@@ -92,10 +92,10 @@ questions:
       - question: "In high-stress scenarios, you might need to find some way to mollify your emotions. What does it literally mean to mollify something?\t"
         answer: "SOFTEN / SOOTHE / CALM"
   - tossup:
-      question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>dabunt</latin>, <latin>capiēmus</latin>, <latin>licet</latin>, <latin>postulābis</latin>?\t"
+      question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>dabunt, capiēmus, licet, postulābis</latin>?\t"
       answer: "<latin>LICET</latin>"
     boni:
-      - question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>aperīret</latin>, <latin>essent</latin>, <latin>stābāmus, surrēxisset</latin>?\t"
+      - question: "Which of the following verb forms, if any, is not the same tense as the others: <latin>aperīret, essent, stābāmus, surrēxisset</latin>?\t"
         answer: "<latin>SURRĒXISSET</latin>"
       - question: "Which of the following verb forms, if any, is not the same conjugation as the others: <latin>arbitror, canō, iuvō, vocō</latin>?\t"
         answer: "<latin>CANŌ</latin>"
@@ -156,10 +156,10 @@ questions:
       - question: "Who was Amphion’s wife who was killed for boasting that she had more children than Leto?\t"
         answer: "NIOBE  <latin>SCORE CHECK</latin>"
   - tossup:
-      question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc subitō dē caelō appāret</latin>?\t"
+      question: "Of <latin>invidia, coluber, dolor, lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc subitō dē caelō appāret</latin>?\t"
       answer: "<latin>FULMEN</latin>"
     boni:
-      - question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc verbum dēmonstrat vītam sine servitūdine</latin>?\t"
+      - question: "Of <latin>invidia, coluber, dolor, lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc verbum dēmonstrat vītam sine servitūdine</latin>?\t"
         answer: "<latin>LĪBERTAS</latin>"
-      - question: "Of <latin>invidia</latin>, <latin>coluber</latin>, <latin>dolor</latin>, <latin>lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc propter vulnus sentītur</latin>? \t"
+      - question: "Of <latin>invidia, coluber, dolor, lībertas</latin>, and <latin>fulmen</latin>, which is described in the following sentence: <latin>hoc propter vulnus sentītur</latin>? \t"
         answer: "DOLOR"

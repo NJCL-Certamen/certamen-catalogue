@@ -3,7 +3,6 @@ year: 1982
 division: "Intermediate"
 round: "Round 1"
 questions:
-
   - tossup:
       question: "Translate into Latin the sentence: \"I am running.\""
       answer: "<latin>CURRO</latin>"
@@ -24,26 +23,26 @@ questions:
       question: "What modern nation corresponds to ancient Gaul?"
       answer: "FRANCE"
     boni:
-      - question: "What modern nation corresponds to ancient Helvetia?"
+      - question: "What modern nation corresponds to ancient <latin>Helvetia</latin>?"
         answer: "SWITZERLAND"
-      - question: "What modern nation corresponds to ancient Hibernia?"
+      - question: "What modern nation corresponds to ancient <latin>Hibernia</latin>?"
         answer: "IRELAND"
   - tossup:
       question: "What did the Romans call the relationship between a host and a guest?"
       answer: "<latin>HOSPITIUM</latin>"
     boni:
       - question: "<latin>Clientela</latin> was the name of the relationship between a patron and his clients. By what name was the morning calling hour of clients known?"
-        answer: "SALUTATIO"
+        answer: "<latin>SALUTATIO</latin>"
       - question: "At the <latin>salutatio</latin>, a patron often gave his client a dole of food. What was this called?"
-        answer: "SPORTULA"
+        answer: "<latin>SPORTULA</latin>"
   - tossup:
-      question: "Quot aures habes?"
-      answer: "DUAS"
+      question: "<latin>Quot aures habes</latin>?"
+      answer: "<latin>DUAS</latin>"
     boni:
-      - question: "Quot iecora habes?"
-        answer: "UNUM"
-      - question: "Quot pulmones habes?"
-        answer: "DUO (or DUOS)"
+      - question: "<latin>Quot iecora habes</latin>?"
+        answer: "<latin>UNUM</latin>"
+      - question: "<latin>Quot pulmones habes</latin>?"
+        answer: "<latin>DUO / DUOS</latin>"
   - tossup:
       question: "What king succeeded Romulus?"
       answer: "NUMA POMPILIUS"
@@ -53,16 +52,16 @@ questions:
       - question: "Who succeeded Tullus Hostilius?"
         answer: "ANCUS MARCIUS"
   - tossup:
-      question: "What type of verbs are sequor and hortor?"
+      question: "What type of verbs are <latin>sequor</latin> and <latin>hortor</latin>?"
       answer: "DEPONENT"
     boni:
       - question: "What is the first person singular perfect subjunctive of <latin>sequor</latin>?"
         answer: "<latin>SECUTUS SIM</latin>"
-      - question: "What is the third person plural future indicative of hortor?"
+      - question: "What is the third person plural future indicative of <latin>hortor</latin>?"
         answer: "<latin>HORTABUNTUR</latin>"
   - tossup:
       question: "What was the Latin noun for the Romans' main meal of the day?"
-      answer: "CENA"
+      answer: "<latin>CENA</latin>"
     boni:
       - question: "What is the Latin noun for \"lunch\"?"
         answer: "<latin>PRANDIUM</latin>"
@@ -77,13 +76,13 @@ questions:
       - question: "Who was his third?"
         answer: "CALPURNIA"
   - tossup:
-      question: "What is the nominative plural of locus?"
-      answer: "LOCA"
+      question: "What is the nominative plural of <latin>locus</latin>?"
+      answer: "<latin>LOCA</latin>"
     boni:
-      - question: "What is the genitive plural of mare?"
-        answer: "MARIUM"
-      - question: "What is the neuter nominative plural of vetus?"
-        answer: "VETERA"
+      - question: "What is the genitive plural of <latin>mare</latin>?"
+        answer: "<latin>MARIUM</latin>"
+      - question: "What is the neuter nominative plural of <latin>vetus</latin>?"
+        answer: "<latin>VETERA</latin>"
   - tossup:
       question: "How many maniples composed a Roman legion?"
       answer: "THIRTY"
@@ -91,23 +90,23 @@ questions:
       - question: "What was the army division between a legion and a maniple?"
         answer: "COHORT"
       - question: "Roman cavalrymen were called equites; what were infantrymen called?"
-        answer: "PEDITES"
+        answer: "<latin>PEDITES</latin>"
   - tossup:
       question: "On what island did Jason find the Golden Fleece?"
       answer: "COLCHIS"
     boni:
       - question: "What was the name of Colchis' king?"
-        answer: "AEETES"
+        answer: "AEËTES"
       - question: "Who was his daughter?"
         answer: "MEDEA"
   - tossup:
       question: "Who was the father of Hannibal?"
-      answer: "HAMILCAR BARCA"
+      answer: "HAMILCAR (BARCA)"
     boni:
       - question: "Who was the great delayer against Hannibal?"
-        answer: "Q. FABIUS MAXIMUS CUNCTATOR"
+        answer: "(Q.) FABIUS MAXIMUS / CUNCTATOR"
       - question: "What general received the name Africanus to commemorate his victory over Carthage?"
-        answer: "P. CORNELIUS SCIPIO"
+        answer: "(P. CORNELIUS) SCIPIO"
   - tossup:
       question: "What Latin noun gives us the English verb \"aviate\"?"
       answer: "<latin>AVIS</latin>"
@@ -123,7 +122,7 @@ questions:
       - question: "What nymph loved Narcissus?"
         answer: "ECHO"
       - question: "What deity had cursed Echo with the iniability to initiate speece?"
-        answer: "JUNO/HERA"
+        answer: "JUNO / HERA"
   - tossup:
       question: "What nine-headed monster was slain by Hercules as his second labor?"
       answer: "HYDRA"
@@ -137,16 +136,16 @@ questions:
       answer: "LAOCOÖN"
     boni:
       - question: "Why?"
-        answer: "HE HAD SPEARED THE WOODEN HORSE AND TOLD THE TROJANS NOT TO TRUST IT."
+        answer: "HE HAD SPEARED THE WOODEN HORSE AND TOLD THE TROJANS NOT TO TRUST IT"
       - question: "Whose priest was Laocoon?"
         answer: "APOLLO'S OR NEPTUNE'S"
   - tossup:
-      question: "What part of speech is the Latin word diu?"
+      question: "What part of speech is the Latin word <latin>diu</latin>?"
       answer: "ADVERB"
     boni:
-      - question: "The word deus?"
+      - question: "The word <latin>deus</latin>?"
         answer: "NOUN"
-      - question: "The word dives?"
+      - question: "The word <latin>dives</latin>?"
         answer: "ADJECTIVE"
   - tossup:
       question: "Who was the boatman of the Styx?"

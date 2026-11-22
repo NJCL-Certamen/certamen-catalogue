@@ -39,9 +39,9 @@ questions:
       question: "Which of the following is the closest synonym of <latin>precor</latin>: <latin>potior, populor, postulō, plicō</latin>?  \t"
       answer: "<latin>POSTULŌ</latin>"
     boni:
-      - question: "Which of the following IF ANY could not be considered a synonym of <latin>geminō</latin>: <latin>iungō</latin>, <latin>dūplicō, conferō, nectō</latin>?\t"
+      - question: "Which of the following IF ANY could not be considered a synonym of <latin>geminō</latin>: <latin>iungō, dūplicō, conferō, nectō</latin>?\t"
         answer: "THEY ALL BELONG"
-      - question: "Which of the following IF ANY could not be considered a synonym of <latin>prōdō</latin>: <latin>rotō</latin>, <latin>prōmō, pariō</latin>, <latin>relinquō</latin>?\t"
+      - question: "Which of the following IF ANY could not be considered a synonym of <latin>prōdō</latin>: <latin>rotō, prōmō, pariō, relinquō</latin>?\t"
         answer: "<latin>ROTŌ</latin>"
   - tossup:
       question: "Using <latin>nancīscor</latin>, say in Latin: If only I had obtained more money!\t \t\t"

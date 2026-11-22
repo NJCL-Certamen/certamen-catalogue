@@ -48,7 +48,7 @@ questions:
       answer: "<latin>MINOR</latin>"
     boni:
       - question: "What two Latin words meaning “evil” and “child” could you use to say “evil child” alliteratively?\t\t"
-        answer: "<latin>PRĀVUS/-A/-UM</latin> AND <latin>PRŌLĒS</latin> / <latin>PUER / PUELLA / PŪPUS / PŪPA //\tIMPROBUS/-A/-UM</latin> AND <latin>INFĀNS</latin>"
+        answer: "<latin>PRĀVUS/-A/-UM</latin> AND <latin>PRŌLĒS / PUER / PUELLA / PŪPUS / PŪPA //\tIMPROBUS/-A/-UM</latin> AND <latin>INFĀNS</latin>"
       - question: "Using an alliterative phrase, say in Latin “proper thumb.”\t\t"
         answer: "<latin>PROPRIUS /</latin> <latin>PROBUS POLLEX</latin>"
   - tossup:
@@ -65,7 +65,7 @@ questions:
     boni:
       - question: "Which Latin word in this inscription refers to the town whose citizens dedicated it?"
         answer: "<latin>(SENATUS POPULUSQUE) ARICINUS</latin> "
-      - question: "Which of the following abbreviated words from the inscription is not in the dative case: <latin>AUG</latin>, <latin>COS</latin>, <latin>F</latin>, <latin>IMP</latin>, <latin>MAX</latin>, and <latin>POT</latin>?"
+      - question: "Which of the following abbreviated words from the inscription is not in the dative case: <latin>AUG, COS, F, IMP, MAX</latin>, and <latin>POT</latin>?"
         answer: "<latin>POT</latin> "
   - tossup:
       question: "How many words in the following sentence are derived from Latin: While traveling to the National Convention, I discovered many facts I had not committed to memory. \t\t"

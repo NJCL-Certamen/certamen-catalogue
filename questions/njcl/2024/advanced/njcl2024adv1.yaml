@@ -16,7 +16,7 @@ questions:
       answer: "<latin>MŪNUS</latin>"
     boni:
       - question: "Provide the form of the Latin noun <latin>mūnus</latin> needed for this sentence, if you were to use <latin>oblīvīscor</latin> as the main verb: “Do not forget the gifts!” \t"
-        answer: "<latin>MŪNERUM</latin> / <latin>MŪNERA</latin>"
+        answer: "<latin>MŪNERUM / MŪNERA</latin>"
       - question: "Provide the form of the Latin noun <latin>mūnus</latin> needed for this sentence: “Cicero intended that toga as a gift for his brother.”\t"
         answer: "<latin>MŪNERĪ / MŪNUS</latin>"
   - tossup:

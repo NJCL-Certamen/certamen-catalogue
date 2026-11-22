@@ -3,10 +3,9 @@ year: 1982
 division: "Intermediate"
 round: "Extra Questions"
 questions:
-
   - tossup:
       question: "What is the Latin noun for \"river\"?"
-      answer: "FLUMEN or FLUVIUS or AMNIS"
+      answer: "<latin>FLUMEN / FLUVIUS / AMNIS</latin>"
   - tossup:
       question: "What is the meaning of the Latin noun <latin>latus</latin>?"
       answer: "SIDE"
@@ -15,10 +14,10 @@ questions:
       answer: "FOUR"
   - tossup:
       question: "What is the superlative of <latin>pulcher</latin>?"
-      answer: "PULCHERRIMUS"
+      answer: "<latin>PULCHERRIMUS</latin>"
   - tossup:
       question: "Who was Perseus' mother?"
-      answer: "DANAE"
+      answer: "DANAË"
   - tossup:
       question: "Who sent Hercules on his labors?"
       answer: "EURYSTHEUS"
@@ -30,13 +29,13 @@ questions:
       answer: "4TH & 5TH"
   - tossup:
       question: "What is the perfect active infinitive of <latin>pendo</latin>?"
-      answer: "PEPENDISSE"
+      answer: "<latin>PEPENDISSE</latin>"
   - tossup:
       question: "What is the genitive plural of <latin>canis</latin>?"
-      answer: "CANUM"
+      answer: "<latin>CANUM</latin>"
   - tossup:
       question: "What is the superlative of <latin>nobilis</latin>?"
-      answer: "NOBILISSIMUS"
+      answer: "<latin>NOBILISSIMUS</latin>"
   - tossup:
       question: "Who was Theseus' mother?"
       answer: "AETHRA"
@@ -54,28 +53,28 @@ questions:
       answer: "FIRST AND FIFTH"
   - tossup:
       question: "What is the Latin noun for \"milk\"?"
-      answer: "LAC (LACTIS, N)"
+      answer: "<latin>LAC (LACTIS</latin>, N)"
   - tossup:
       question: "What is the perfect active infinitive of <latin>vincio</latin>?"
-      answer: "VINXISSE"
+      answer: "<latin>VINXISSE</latin>"
   - tossup:
       question: "What was the odd nature of Athena's birth?"
       answer: "SHE SPRANGE FULLY-GROWN AND FULLY-ARMED FROM ZEUS' BROW"
   - tossup:
       question: "What creature nursed the infant Zeus?"
-      answer: "THE GOAT AMALTHEA"
+      answer: "THE GOAT AMALTHEIA"
   - tossup:
       question: "What holiday was celebrated February 15?"
-      answer: "LUPERCALIA"
+      answer: "<latin>LUPERCALIA</latin>"
   - tossup:
       question: "What Latin idiom means \"punish\"?"
       answer: "<latin>POENAM SUMERE</latin>"
   - tossup:
       question: "What is the superlative of <latin>humilis</latin>?"
-      answer: "HUMILLIMUS"
+      answer: "<latin>HUMILLIMUS</latin>"
   - tossup:
-      question: "What is the locative of Carthago?"
-      answer: "CARTHAGINI"
+      question: "What is the locative of <latin>Carthago</latin>?"
+      answer: "<latin>CARTHAGINI</latin>"
   - tossup:
       question: "What is the meaning of the Latin noun <latin>folium</latin>?"
       answer: "LEAF"
@@ -90,19 +89,19 @@ questions:
       answer: "SERVIUS TULLIUS"
   - tossup:
       question: "Assuming that haec is singular, what must be its plural?"
-      answer: "HAE"
+      answer: "<latin>HAE</latin>"
   - tossup:
       question: "Follow the directions: <latin>Morde pollicem dextrum.</latin>"
       answer: "STUDENT SHOULD BITE HIS RIGHT THUMB."
   - tossup:
-      question: "What was a rumen?"
+      question: "What was a <latin>rumen</latin>?"
       answer: "AN ANIMAL'S CUD"
   - tossup:
       question: "The Romans divided the day into horae; how did they divide the night?"
-      answer: "INTO VIGILIAE"
+      answer: "INTO <latin>VIGILIAE</latin>"
   - tossup:
       question: "Who was the Roman god of medicine?"
-      answer: "AESCULAPIUS (APOLLO)"
+      answer: "AESCULAPIUS / APOLLO"
   - tossup:
       question: "Who was Hercules' mortal foster father?"
       answer: "AMPHITRYON"

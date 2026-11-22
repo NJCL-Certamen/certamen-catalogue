@@ -14,14 +14,14 @@ questions:
         answer: "BERLIN (WHERE THEY DISAPPEARED IN WWII)"
   - tossup:
       question: "What author was born in Rudiae in Calabria?"
-      answer: "ENNIUS"
+      answer: "(Q.) ENNIUS"
     boni:
       - question: "What was the year of his birth?"
         answer: "239 BC"
       - question: "What was the year of his death?"
         answer: "169 BC"
   - tossup:
-      question: "What English noun comes from the Latin verb attero?"
+      question: "What English noun comes from the Latin verb <latin>attero</latin>?"
       answer: "ATTRITION"
     boni:
       - question: "What Latin noun with its roots in <latin>ager</latin> ultimately produced the English noun \"pilgrim\"?"
@@ -29,13 +29,13 @@ questions:
       - question: "What Latin noun is hidden in the English noun \"parapet\"?"
         answer: "<latin>PECTUS</latin>"
   - tossup:
-      question: "What was mustum?"
+      question: "What was <latin>mustum</latin>?"
       answer: "FRESH GRAPE JUICE"
     boni:
       - question: "What vessels were used for the storage of wine?"
-        answer: "AMPHORAE"
+        answer: "<latin>AMPHORAE</latin>"
       - question: "What was spoiled wine used for, and what was the Latin name for it?"
-        answer: "ACETUM - VINEGAR"
+        answer: "<latin>ACETUM</latin> - VINEGAR"
   - tossup:
       question: "What foreign general was the first to use elephants in war against Rome?"
       answer: "PYRRHUS"
@@ -56,15 +56,15 @@ questions:
       question: "What English phrase preserves unchanged an ablative absolute and means \"with the situation reversed\"?"
       answer: "<latin>VICE VERSA</latin>"
     boni:
-      - question: "What English noun meaning “an accident of fortune” comes from the Latin noun in vice versa?"
+      - question: "What English noun meaning “an accident of fortune” comes from the Latin noun in <latin>vice versa</latin>?"
         answer: "VICISSITUDE"
       - question: "What English adjective meaning “experienced through sympathetic participation in the experience of another” comes from the same noun?"
         answer: "VICARIOUS"
   - tossup:
       question: "What emperor, soon after his accession, had executed on charges of conspiracy four generals who had been instrumental in the expansioninst policies of his predecessor?"
-      answer: "The generals were L. Quietus, Avidius Nigrinus, Palma and Celsus. HADRIAN"
+      answer: "HADRIAN (The generals were L. Quietus, Avidius Nigrinus, Palma and Celsus)"
     boni:
-      - question: "What nomen did Hadrian share with his first chosen successor and with the notorious Sejanus of a century earlier?"
+      - question: "What <latin>nomen</latin> did Hadrian share with his first chosen successor and with the notorious Sejanus of a century earlier?"
         answer: "AELIUS"
       - question: "What do we now call Hadrian's tomb?"
         answer: "THE CASTEL SANT'ANGELO"
@@ -77,23 +77,23 @@ questions:
       - question: "On whose tomb was Polyxena sacrificed?"
         answer: "ACHILLES'"
   - tossup:
-      question: "To what soldier would the corona muralis be awarded?"
-      answer: "THE FIRST OVER THE ENEMY'S WALL."
+      question: "To what soldier would the <latin>corona muralis</latin> be awarded?"
+      answer: "THE FIRST OVER THE ENEMY'S WALL"
     boni:
-      - question: "What was a falx muralis?"
-        answer: "A HOOKED DEVICE FOR LOOSENING STONES FROM A WALL."
-      - question: "What was an ordinary falx?"
-        answer: "A SICKLE OR SCYTHE"
+      - question: "What was a <latin>falx muralis</latin>?"
+        answer: "A HOOKED DEVICE FOR LOOSENING STONES FROM A WALL"
+      - question: "What was an ordinary <latin>falx</latin>?"
+        answer: "A SICKLE / SCYTHE"
   - tossup:
-      question: "To whom would a poet write a propempticon?"
+      question: "To whom would a poet write a <latin>propempticon</latin>?"
       answer: "SOMEONE LEAVING ON A JOURNEY"
     boni:
-      - question: "An epithalamion?"
+      - question: "To whom would a poet write an <latin>epithalamion</latin>?"
         answer: "A BRIDE AND GROOM"
-      - question: "An epinicion?"
+      - question: "To whom would a poet write an <latin>epinicion</latin>?"
         answer: "A WINNER IN WAR OR ATHLETICS"
   - tossup:
-      question: "What case is used as the subject of a historiaal infinitive?"
+      question: "What case is used as the subject of a historical infinitive?"
       answer: "NOMINATIVE"
     boni:
       - question: "Ask in Latin: \"Who taught you that?\""
@@ -101,27 +101,27 @@ questions:
       - question: "Say in Latin: \"We are coming to Athens.\""
         answer: "<latin>ATHENAS VENIMUS</latin>."
   - tossup:
-      question: "Identify the use of the subjunctive in this sentence: Tanta cum dignitate locutus est ut ab omnibus laudaretur."
+      question: "Identify the use of the subjunctive in this sentence: <latin>Tanta cum dignitate locutus est ut ab omnibus laudaretur</latin>."
       answer: "RESULT CLAUSE"
     boni:
-      - question: "What is the use of dignitate in that sentence?"
+      - question: "What is the use of <latin>dignitate</latin> in that sentence?"
         answer: "ABLATIVE OF MANNER"
-      - question: "What is the use of omnibus?"
+      - question: "What is the use of <latin>omnibus</latin>?"
         answer: "ABLATIVE OF AGENT"
   - tossup:
-      question: "Follow the directions after the spotter recognizes you."
-      answer: "FOLLOW THE DIRECTIONS IN THE LATIN SENTENCES BELOW."
+      question: "Follow the directions after the spotter recognizes you: <latin>Tange caput vicini tui.</latin>"
+      answer: "STUDENT SHOULD TOUCH THE HEAD OF HIS NEIGHBOR"
     boni:
-      - question: "<latin>Tange caput vicini tui.</latin>"
-        answer: "STUDENT SHOULD TOUCH THE HEAD OF HIS NEIGHBOR."
-      - question: "<latin>Tege oculum dextrum manu sinistra.</latin> Then: <latin>Surge, tolle genu sinistrum et tene manibus ambabus.</latin>"
-        answer: "STUDENT SHOULD COVER HIS RIGHT EYE WITH HIS LEFT HAND; THEN STUDENT SHOULD RISE, LIFT HIS LEFT KNEE AND HOLD IT WITH BOTH HANDS."
+      - question: "<latin>Tege oculum dextrum manu sinistra.</latin>"
+        answer: "STUDENT SHOULD COVER HIS RIGHT EYE WITH HIS LEFT HAND"
+      - question: "<latin>Surge, tolle genu sinistrum et tene manibus ambabus.</latin>"
+        answer: "STUDENT SHOULD RISE, LIFT HIS LEFT KNEE AND HOLD IT WITH BOTH HANDS."
   - tossup:
       question: "What do the other meanings of many Roman names probably refer to?"
       answer: "SOMETHING THE ORIGINAL POSSESSOR OF THE NAME WAS KNOWN FOR"
     boni:
       - question: "What Roman author's name means \"quiet\"?"
-        answer: "TACITUS"
+        answer: "TACITUS'"
       - question: "What early writer's name means \"broad\" or \"flat\", and whose name could mean \"a priest of Mars\"?"
         answer: "PLAUTUS; MARTIAL'S"
   - tossup:
@@ -129,9 +129,9 @@ questions:
       answer: "BELLEROPHON"
     boni:
       - question: "Who was their mother?"
-        answer: "PHILONOE"
+        answer: "PHILONOË"
       - question: "Who falsely accused Bellerophon of rape?"
-        answer: "STHENEBOEA (or ANTIA)"
+        answer: "STHENEBOEA (or ANTEIA)"
   - tossup:
       question: "Who was the son of Hercules and a princess named Astyoche or Astydamia?"
       answer: "TLEPOLEMUS"
@@ -142,25 +142,25 @@ questions:
         answer: "ANTIOCHUS"
   - tossup:
       question: "Change <latin>vis</latin> to the subjunctive."
-      answer: "VELIS"
+      answer: "<latin>VELIS</latin>"
     boni:
       - question: "Make <latin>velis</latin> negative."
-        answer: "NOLIS"
+        answer: "<latin>NOLIS</latin>"
       - question: "Change <latin>audeo</latin> to the archaic form of the perfect active subjunctive."
-        answer: "AUSIM"
+        answer: "<latin>AUSIM</latin>"
   - tossup:
       question: "What Latin noun meant \"eyebrow\" and, by extension, \"haughtiness\"?"
-      answer: "SUPERCILIUM"
+      answer: "<latin>SUPERCILIUM</latin>"
     boni:
       - question: "Which of the following does not have its root in the noun <latin>facies</latin>: surface, superficial, artificial, facade?"
         answer: "ARTIFICIAL"
-      - question: "What is the meaning of the Latin noun pollex?"
-        answer: "THUMB (or BIG TOE)"
+      - question: "What is the meaning of the Latin noun <latin>pollex</latin>?"
+        answer: "THUMB / BIG TOE"
   - tossup:
-      question: "What was the profession of Machaon and Podalirius?"
+      question: "What was the profession of Machaon and Podaleirius?"
       answer: "PHYSICIANS"
     boni:
       - question: "Who was their father?"
-        answer: "AESCULAPIUS"
-      - question: "Who was Ophiuchus?"
-        answer: "AESCULAPIUS AS THE CONSTELLATION ”SNAKE-HOLDER“"
+        answer: "ASCLEPIUS / AESCULAPIUS"
+      - question: "Who was <latin>Ophiuchus</latin>?"
+        answer: "ASCLEPIUS / AESCULAPIUS AS THE CONSTELLATION ”SNAKE-HOLDER“"

@@ -3,21 +3,20 @@ year: 1982
 division: "Advanced"
 round: "Round 1"
 questions:
-
   - tossup:
-      question: "What meter is used by Vergil in the Aeneid?"
+      question: "What meter is used by Vergil in the <title>Aeneid</title>?"
       answer: "DACTYLIC HEXAMETER"
     boni:
-      - question: "In the first line of the poem, what is the term for the pause between cano and Troiae?"
-        answer: "CAESURA"
+      - question: "In the first line of the poem, what is the term for the pause between <latin>cano</latin> and <latin>Troiae</latin>?"
+        answer: "<latin>CAESURA</latin>"
       - question: "What is the term for the accented part of a foot - that is, the initial long syllable?"
-        answer: "THESIS"
+        answer: "<latin>THESIS</latin>"
   - tossup:
       question: "What author was the son-in-law of the Roman general Agricola?"
-      answer: "TACITUS"
+      answer: "(CORNELIUS) TACITUS"
     boni:
       - question: "Which of the works of Tacitus chronicles the reigns of the last 4 Julio-Claudian emperors?"
-        answer: "THE ANNALS (AB EXCESSU DIVI AUGUSTI)"
+        answer: "<title>THE ANNALS / <latin>ANNALES / AB EXCESSU DIVI AUGUSTI</latin></title>"
       - question: "What Silver Age author wrote two lettersto Tacitus on the eruption of Vesuvius?"
         answer: "PLINY THE YOUNGER"
   - tossup:
@@ -45,12 +44,12 @@ questions:
       - question: "What island does he call Ortygia?"
         answer: "DELOS (or a small island near Syracuse)"
   - tossup:
-      question: "What occupation was a carnifex?"
+      question: "What occupation was a <latin>carnifex</latin>?"
       answer: "EXECUTIONER"
     boni:
-      - question: "What occupation was a tibicen?"
+      - question: "What occupation was a <latin>tibicen</latin>?"
         answer: "FLUTE-PLAYER"
-      - question: "What occupation was a caupo?"
+      - question: "What occupation was a <latin>caupo</latin>?"
         answer: "INNKEEPER"
   - tossup:
       question: "Say in Latin, \"a six-foot wall.\""
@@ -69,15 +68,15 @@ questions:
       - question: "What other god had participated in the building of Troy's walls?"
         answer: "APOLLO"
   - tossup:
-      question: "Responde Latine. Add the number of Hercules' labors to the number of Rome's hills. Subtract the number of consuls who served at one time and the number of Rome's kings. Add the number of Punic Wars and the number of Fates. Divide by the number of eyes Janus had."
+      question: "<latin>Responde Latine</latin>: Add the number of Hercules' labors to the number of Rome's hills. Subtract the number of consuls who served at one time and the number of Rome's kings. Add the number of Punic Wars and the number of Fates. Divide by the number of eyes Janus had."
       answer: "QUATTUOR"
     boni:
-      - question: "Multiply the number of Graiae by the number of Graces. Add the number of Muses. Responde Latine."
-        answer: "DUODEVIGINTI"
-      - question: "Add the number of declensions to the number of conjugations. Responde Latine."
-        answer: "NOVEM"
+      - question: "Multiply the number of Graiae by the number of Graces. Add the number of Muses. <latin>Responde Latine</latin>."
+        answer: "<latin>DUODEVIGINTI</latin>"
+      - question: "Add the number of declensions to the number of conjugations. <latin>Responde Latine</latin>."
+        answer: "<latin>NOVEM</latin>"
   - tossup:
-      question: "How many books are there in the Commentarii de Bello Gallico?"
+      question: "How many books are there in the <title><latin>Commentarii de Bello Gallico</latin></title>?"
       answer: "EIGHT"
     boni:
       - question: "How many are Caesar's work?"
@@ -88,25 +87,25 @@ questions:
       question: "In Caesar's army, what were the exploratores?"
       answer: "SCOUTS"
     boni:
-      - question: "What were the speculatores?"
+      - question: "What were the <latin>speculatores</latin>?"
         answer: "SPIES"
-      - question: "What were decuriones?"
+      - question: "What were <latin>decuriones</latin>?"
         answer: "OFFICERS IN CHARGE OF CAVALRY UNITS"
   - tossup:
       question: "Who was the father of Alcestis?"
       answer: "PELIAS"
     boni:
-      - question: "#a080 What supposedly impossible task had Pelias required of a suitor for his daughter?"
+      - question: "What supposedly impossible task had Pelias required of a suitor for his daughter?"
         answer: "HARNESSING A LION AND A BOAR TO A CHARIOT"
       - question: "Who helped Admetus to accomplish this?"
         answer: "APOLLO"
   - tossup:
-      question: "What is the gender of pax?"
+      question: "What is the gender of <latin>pax</latin>?"
       answer: "FEMININE"
     boni:
-      - question: "What is the gender of pons?"
+      - question: "What is the gender of <latin>pons</latin>?"
         answer: "MASCULINE"
-      - question: "What is the gender of dens?"
+      - question: "What is the gender of <latin>dens</latin>?"
         answer: "MASCULINE"
   - tossup:
       question: "What tense of the subjunctive would be needed to translate \"They will fight in order to capture the city\"?"
@@ -118,7 +117,7 @@ questions:
         answer: "PRESENT"
   - tossup:
       question: "What two gods, mindful of a prophecy, arranged for Thetis to wed Peleus?"
-      answer: "ZEUS AND POSEIDON"
+      answer: "ZEUS / JUPITER AND POSEIDON / NEPTUNE"
     boni:
       - question: "Who had prophesied that Thetis' son would be greater than his father?"
         answer: "PROMETHEUS OR THEMIS"
@@ -133,13 +132,13 @@ questions:
       - question: "Who was Alexander's father?"
         answer: "PHILIP II"
   - tossup:
-      question: "What case is required after suadeo?"
+      question: "What case is required after <latin>suadeo</latin>?"
       answer: "DATIVE"
     boni:
-      - question: "What is the first person singular perfect active indiciative of persuadeo?"
-        answer: "PERSUASI"
-      - question: "What is the same form of respondeo?"
-        answer: "RESPONDI"
+      - question: "What is the first person singular perfect active indiciative of <latin>persuadeo</latin>?"
+        answer: "<latin>PERSUASI</latin>"
+      - question: "What is the same form of <latin>respondeo</latin>?"
+        answer: "<latin>RESPONDI</latin>"
   - tossup:
       question: "Give the dative singular of <latin>opus</latin>."
       answer: "<latin>OPERI</latin>"

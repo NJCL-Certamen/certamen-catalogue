@@ -6,7 +6,7 @@ questions:
 
   - tossup:
       question: "What Greek sculptor made marble statues for the Parthenon?"
-      answer: "PHIDIAS"
+      answer: "PHEIDIAS"
     boni:
       - question: "What British nobleman took much statuary from the Parthenon back to Britain?"
         answer: "LORD ELGIN"
@@ -22,31 +22,31 @@ questions:
         answer: "PARAGRAPH"
   - tossup:
       question: "Who was Cicero's intimate friend and recipient of many of his letters?"
-      answer: "TITUS POMPONIUS ATTICUS"
+      answer: "(T. POMPONIUS) ATTICUS"
     boni:
       - question: "How had he received the cognomen Atticus?"
         answer: "FROM STUDYING IN ATHENS"
       - question: "Whose wife was Atticus' sister?"
-        answer: "QUINTUS TULLIUS CICERO'S"
+        answer: "QUINTUS (TULLIUS) CICERO'S"
   - tossup:
       question: "As part of what conspiracy was Seneca the Younger forced by Nero to take his own life?"
       answer: "THE PISONIAN CONSPIRACY"
     boni:
       - question: "Who was Seneca the Younger's author nephew?"
-        answer: "LUCAN"
+        answer: "(M. ANNAEUS) LUCAN(US)"
       - question: "Where was Lucan born?"
-        answer: "CORDUBA, SPAIN, LIKE BOTH SENECAE"
+        answer: "CORDUBA, SPAIN (LIKE BOTH SENECAE)"
   - tossup:
       question: "What do we call verbs which only exist in the third person singular or the infinitive?"
       answer: "IMPERSONAL"
     boni:
       - question: "Translate: <latin>Contendere oportet</latin>."
         answer: "IT IS NECESSARY TO HASTEN"
-      - question: "<latin>Liberis nocere non decet</latin>."
+      - question: "Translate: <latin>Liberis nocere non decet</latin>."
         answer: "IT IS NOT SEEMLY TO HARM CHILDREN."
   - tossup:
       question: "Who was killed in 53 BC at Carrhae fighting against the Parthians?"
-      answer: "CRASSUS"
+      answer: "(M. LICINIUS) CRASSUS"
     boni:
       - question: "Who was planning to avenge Crassus' defeat and murder when he himself was killed?"
         answer: "CAESAR"
@@ -61,7 +61,7 @@ questions:
       - question: "A dodecagon?"
         answer: "TWELVE"
   - tossup:
-      question: "Who wrote <title>Odi et amo</title>?"
+      question: "Who wrote <latin>Odi et amo</latin>?"
       answer: "CATULLUS"
     boni:
       - question: "Where was he born?"
@@ -86,12 +86,12 @@ questions:
         answer: "FAUNUS"
   - tossup:
       question: "What was the name for the cold room in a Roman bath?"
-      answer: "FRIGIDARIUM"
+      answer: "<latin>FRIGIDARIUM</latin>"
     boni:
       - question: "What was the hot room?"
-        answer: "CAL(I)DARIUM"
+        answer: "<latin>CAL(I)DARIUM</latin>"
       - question: "What was the warm room?"
-        answer: "TEPIDARIUM"
+        answer: "<latin>TEPIDARIUM</latin>"
   - tossup:
       question: "With what construction must the dative be used to show agent?"
       answer: "PASSIVE PERIPHRASTIC or GERUNDIVE SHOWING OBLIGATION"
@@ -101,21 +101,21 @@ questions:
       - question: "In general, what case is used to show definite price, as opposed to what case for indefinite price?"
         answer: "DEFINITE - ABLATIVE, INDEF - GENITIVE"
   - tossup:
-      question: "Who in Rome was a lanius?"
-      answer: "BUTCHER (or EXECUTIONER)"
+      question: "Who in Rome was a <latin>lanius</latin>?"
+      answer: "BUTCHER / EXECUTIONER"
     boni:
-      - question: "What was a pistor?"
+      - question: "What was a <latin>pistor</latin>?"
         answer: "BAKER"
-      - question: "Who was an argentarius?"
-        answer: "BANKER or SILVERSMITH"
+      - question: "Who was an <latin>argentarius</latin>?"
+        answer: "BANKER / SILVERSMITH"
   - tossup:
-      question: "What is the perfect active infinitive of fugio?"
-      answer: "FUGISSE"
+      question: "What is the perfect active infinitive of <latin>fugio</latin>?"
+      answer: "<latin>FUGISSE</latin>"
     boni:
-      - question: "What is the third person plural future indicative of eo?"
-        answer: "IBUNT"
-      - question: "What is the same form of sum?"
-        answer: "ERUNT"
+      - question: "What is the third person plural future indicative of <latin>eo</latin>?"
+        answer: "<latin>IBUNT</latin>"
+      - question: "What is the same form of <latin>sum</latin>?"
+        answer: "<latin>ERUNT</latin>"
   - tossup:
       question: "What was the name of the road along which victorious generals rode in their triumphs?"
       answer: "<latin>VIA SACRA</latin>"
@@ -123,10 +123,10 @@ questions:
       - question: "What famous Roman general received the triumph over Mithridates?"
         answer: "POMPEY"
       - question: "What general received four triumphs in one month?"
-        answer: "JULIUS CAESAR"
+        answer: "(C.) JULIUS CAESAR"
   - tossup:
       question: "After the Greeks left Aulis, where in Asia Minor did they land first in error?"
-      answer: "MYSIA (TEUTHRANIA)"
+      answer: "MYSIA / TEUTHRANIA"
     boni:
       - question: "What king of Teuthrania, a son of Hercules, repulsed them there?"
         answer: "TELEPHUS"
@@ -137,9 +137,9 @@ questions:
       answer: "ABSYRTUS"
     boni:
       - question: "Who was their father?"
-        answer: "AEETES"
-      - question: "Who were Aeetes' sisters?"
-        answer: "CIRCE AND PASIPHAE"
+        answer: "AEËTES"
+      - question: "Who were Aeëtes' sisters?"
+        answer: "CIRCE AND PASIPHAË"
   - tossup:
       question: "What herb did Hermes give Odysseus to guard against Circe's powers?"
       answer: "MOLY"
@@ -147,20 +147,20 @@ questions:
       - question: "Of Odysseus' men who went to Circe's palace, who alone was not turned into a pig?"
         answer: "EURYLOCHUS"
       - question: "Who gave Odysseus a veil to wrap around himself to keep from drowning?"
-        answer: "LEUCOTHEA (INO)"
+        answer: "LEUCOTHEA / INO"
   - tossup:
       question: "Who bequeathed his kingdom to Rome?"
-      answer: "ATTALUS (ATTALUS III)"
+      answer: "ATTALUS (III)"
     boni:
       - question: "What was the name of Attalus' kingdom?"
         answer: "PERGAMUM"
       - question: "Where was Pergamum?"
         answer: "ASIA MINOR"
   - tossup:
-      question: "What is the contracted form of atque?"
-      answer: "AC"
+      question: "What is the contracted form of <latin>atque</latin>?"
+      answer: "<latin>AC</latin>"
     boni:
-      - question: "Amabo and sodes are Latin ways to say what?"
+      - question: "<latin>Amabo</latin> and <latin>sodes</latin> are Latin ways to say what?"
         answer: "PLEASE"
       - question: "Despite its appearance, what mood is the conversational word <latin>cedo</latin>?"
-        answer: "IMPERATIVE (PLURAL IS CETTE!)"
+        answer: "IMPERATIVE (PLURAL IS <latin>CETTE</latin>!)"

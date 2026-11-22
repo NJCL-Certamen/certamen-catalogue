@@ -3,7 +3,6 @@ year: 1982
 division: "Intermediate"
 round: "Round 2"
 questions:
-
   - tossup:
       question: "What is the Latin noun for \"hand\"?"
       answer: "<latin>MANUS</latin>"
@@ -11,7 +10,7 @@ questions:
       - question: "What is the nominative of the phrase \"two hands\"?"
         answer: "<latin>MANUS DUAE</latin>"
       - question: "What is the ablative of the same phrase?"
-        answer: "MANIBUS DUABUS"
+        answer: "<latin>MANIBUS DUABUS</latin>"
   - tossup:
       question: "What was a Roman asking you if he walked up to you and said, \"<latin>Ningitne?</latin>\"?"
       answer: "IS IT SNOWING?"
@@ -53,16 +52,16 @@ questions:
       - question: "Translate into Latin: \"We were at Rome for five days.\""
         answer: "<latin>ROMAE QUINQUE DIES ERAMUS</latin>."
   - tossup:
-      question: "What is the vocative of Septimus?"
-      answer: "SEPTIME"
+      question: "What is the vocative of <latin>Septimus</latin>?"
+      answer: "<latin>SEPTIME</latin>"
     boni:
-      - question: "What is the vocative of Caesar?"
-        answer: "CAESAR"
-      - question: "What is the vocative of Lucius?"
-        answer: "LUCI"
+      - question: "What is the vocative of <latin>Caesar</latin>?"
+        answer: "<latin>CAESAR</latin>"
+      - question: "What is the vocative of <latin>Lucius</latin>?"
+        answer: "<latin>LUCI</latin>"
   - tossup:
       question: "What was the year of Caesar's birth?"
-      answer: "102 or 100 BC"
+      answer: "102 / 100 BC"
     boni:
       - question: "Where did Caesar's partisans fight two major battles against his assassins?"
         answer: "PHILIPPI"
@@ -89,12 +88,12 @@ questions:
       answer: "BITHYNIA"
     boni:
       - question: "Under what proconsul did Catullus serve in Bithynia?"
-        answer: "GAIUS MEMMIUS"
+        answer: "(C.) MEMMIUS"
       - question: "Under what emperor did Pliny serve as overseer in Bithynia?"
         answer: "TRAJAN"
   - tossup:
-      question: "What is the third person plural perfect active indicative of cognosco?"
-      answer: "COGNOVERUNT"
+      question: "What is the third person plural perfect active indicative of <latin>cognosco</latin>?"
+      answer: "<latin>COGNOVERUNT</latin>"
     boni:
       - question: "Change <latin>cognoverunt</latin> to the passive."
         answer: "<latin>COGNITI SUNT</latin>"
@@ -105,7 +104,7 @@ questions:
       answer: "A MYRRH TREE"
     boni:
       - question: "What goddess released him from the tree when he was due to be born?"
-        answer: "ILITHYIA"
+        answer: "EILEITHYIA"
       - question: "In another version, how did an animal figure in Adonis' birth?"
         answer: "A BOAR CHARGED THE TREE AND GASHED THE OPENING THROUGH WHICH THE BABY EMERGED."
   - tossup:
@@ -113,9 +112,9 @@ questions:
       answer: "<latin>STO</latin>"
     boni:
       - question: "What is its perfect active infinitive?"
-        answer: "STETISSE"
+        answer: "<latin>STETISSE</latin>"
       - question: "What is its first person singular future active indicative?"
-        answer: "STABO"
+        answer: "<latin>STABO</latin>"
   - tossup:
       question: "What Roman maiden swam the Tiber to freedom only to be returned to her Etruscan captors?"
       answer: "CLOELIA"
@@ -151,14 +150,14 @@ questions:
       answer: "EURYDICE"
     boni:
       - question: "What friend of Theseus' did he have to leave behind in Hades?"
-        answer: "PIRITHOUS"
+        answer: "PEIRITHOÜS"
       - question: "Who led Aeneas into Hades?"
         answer: "THE SIBYL"
   - tossup:
-      question: "What case follows the preposition cum?"
+      question: "What case follows the preposition <latin>cum</latin>?"
       answer: "ABLATIVE"
     boni:
-      - question: "The preposition per?"
+      - question: "The preposition <latin>per</latin>?"
         answer: "ACCUSATIVE"
-      - question: "The adjective dignus?"
+      - question: "The adjective <latin>dignus</latin>?"
         answer: "ABLATIVE (or GENITIVE IN COLLOQUIAL AND POETIC USE)"

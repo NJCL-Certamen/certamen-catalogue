@@ -9,7 +9,7 @@ questions:
       answer: "THEATRE"
     boni:
       - question: "What Latin verb is at the root of paint?"
-        answer: "PINGO"
+        answer: "<latin>PINGO</latin>"
       - question: "Of color, texture, tint and hue, which is not from Latin?"
         answer: "HUE"
   - tossup:
@@ -21,21 +21,21 @@ questions:
       - question: "In what year, renowned for the birth of Augustus as well as some other notable events, did Mithridates die?"
         answer: "63 BC"
   - tossup:
-      question: "What is the meaning of the Latin idiom velum dare?"
+      question: "What is the meaning of the Latin idiom <latin>velum dare</latin>?"
       answer: "TO SET SAIL"
     boni:
-      - question: "What is the meaning of the idiom castra ponere?"
+      - question: "What is the meaning of the idiom <latin>castra ponere</latin>?"
         answer: "TO PITCH CAMP"
-      - question: "What is the meaning of the idiom bellum gerere?"
+      - question: "What is the meaning of the idiom <latin>bellum gerere</latin>?"
         answer: "TO WAGE WAR"
   - tossup:
-      question: "What is the present singular imperative of conor?"
-      answer: "CONARE"
+      question: "What is the present singular imperative of <latin>conor</latin>?"
+      answer: "<latin>CONARE</latin>"
     boni:
-      - question: "What is the singular present active imperative of facio?"
-        answer: "FAC"
-      - question: "What is the future singular imperative of sum?"
-        answer: "ESTO"
+      - question: "What is the singular present active imperative of <latin>facio</latin>?"
+        answer: "<latin>FAC</latin>"
+      - question: "What is the future singular imperative of <latin>sum</latin>?"
+        answer: "<latin>ESTO</latin>"
   - tossup:
       question: "Which two of the four emperors of 69 AD were murdered in Rome?"
       answer: "GALBA AND VITELLIUS"
@@ -51,33 +51,33 @@ questions:
       - question: "What determines the case of a relative pronoun?"
         answer: "ITS USE IN ITS OWN CLAUSE"
       - question: "Give the Latin words and their meanings from which the word \"antecedent\" comes."
-        answer: "ANTE = BEFORE; CEDO = GO, MOVE"
+        answer: "<latin>ANTE</latin> - BEFORE; <latin>CEDO</latin> - GO, MOVE"
   - tossup:
       question: "What Latin words contract to a noun which means \"no one\"?"
       answer: "<latin>NE + HOMO</latin>"
     boni:
       - question: "What is the Latin word?"
-        answer: "NEMO"
+        answer: "<latin>NEMO</latin>"
       - question: "What two cases do not occur?"
         answer: "GENITIVE AND ABLATIVE"
   - tossup:
-      question: "What was the Ius Suffragi?"
-      answer: "THE RIGHT TOVOTE IN THE COMITIA"
+      question: "What was the <latin>Ius Suffragi</latin>?"
+      answer: "THE RIGHT TO VOTE IN THE <latin>COMITIA</latin>"
     boni:
-      - question: "What was the Ius Honorum?"
+      - question: "What was the <latin>Ius Honorum</latin>?"
         answer: "THE RIGHT TO HOLD PUBLIC OFFICE"
-      - question: "What was the Ius Provocationis?"
+      - question: "What was the <latin>Ius Provocationis</latin>?"
         answer: "THE RIGHT TO APPEAL A MAGISTRATE'S DECISION"
   - tossup:
-      question: "In the Aeneid, who says: Italiam non sponte sequor?"
+      question: "In the <title>Aeneid</title>, who says: <latin>Italiam non sponte sequor</latin>?"
       answer: "AENEAS"
     boni:
-      - question: "To whom?"
+      - question: "To whom does Aeneas say <latin>Italiam non sponte sequor</latin>?"
         answer: "DIDO"
       - question: "What is striking about this and 53 other lines in the poem?"
         answer: "THEY ARE INCOMPLETE (HEMISTICHES)"
   - tossup:
-      question: "Why were praenomina first used?"
+      question: "Why were <latin>praenomina</latin> first used?"
       answer: "BECAUSE OF THEIR REAL MEANINGS"
     boni:
       - question: "Give the meaning and the Latin word from which the name Gaius comes."
@@ -85,13 +85,13 @@ questions:
       - question: "Give the origin and the meaning for the name Lucius. Give the meaning for Quintus."
         answer: "<latin>LUX</latin> - BORN IN THE DAY; FIFTH CHILD OR SON"
   - tossup:
-      question: "What is the nominative plural of manus?"
-      answer: "MANUS"
+      question: "What is the nominative plural of <latin>manus</latin>?"
+      answer: "<latin>MANUS</latin>"
     boni:
-      - question: "What is the genitive plural of pes?"
-        answer: "PEDUM"
-      - question: "What is the nominative plural of corpus?"
-        answer: "CORPORA"
+      - question: "What is the genitive plural of <latin>pes</latin>?"
+        answer: "<latin>PEDUM</latin>"
+      - question: "What is the nominative plural of <latin>corpus</latin>?"
+        answer: "<latin>CORPORA</latin>"
   - tossup:
       question: "Rome is famous for being situated on how many hills?"
       answer: "SEVEN"
@@ -109,7 +109,7 @@ questions:
       - question: "Who was the first-born of Cronus and Rhea?"
         answer: "HESTIA"
   - tossup:
-      question: "What two sons of Aeacus had the same mother, Endeis?"
+      question: "What two sons of Aeacus had the same mother, Endeïs?"
       answer: "TELAMON AND PELEUS"
     boni:
       - question: "What half-brother did they kill?"
@@ -126,7 +126,7 @@ questions:
         answer: "ANAPHORA"
   - tossup:
       question: "Where did Jason go to find the Golden Fleece?"
-      answer: "COLCHIS (AEA)"
+      answer: "COLCHIS / AEA"
     boni:
       - question: "Who had brought it there?"
         answer: "PHRIXUS"
@@ -142,7 +142,7 @@ questions:
         answer: "<latin>GAI VALERI CATULLE</latin>"
   - tossup:
       question: "Caesar's <title>De Bello Gallico</title> covers the events in Caesar's life during the years 58 to 50 BC. What work of Caesar's narrates the events of 49 and 48 BC?"
-      answer: "<title>De Bello Civili</title>"
+      answer: "<title><latin>De Bello Civili</latin></title>"
     boni:
       - question: "What decisive battle ended Caesar's conflict with Pompey?"
         answer: "PHARSALUS"

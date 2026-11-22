@@ -449,6 +449,114 @@ links:
   year: 1981
   division: Advanced
   round: Round 1
+- rel: 1992 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Finals
+- rel: 1992 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992int1.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Round 1
+- rel: 1992 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992int3.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Round 3
+- rel: 1992 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Semifinals
+- rel: 1992 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992int2.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Round 2
+- rel: 1992 NJCL Certamen Intermediate Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/lower/njcl1992intExtras.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Intermediate
+  round: Extra Questions
+- rel: 1992 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Finals
+- rel: 1992 NJCL Certamen Novice Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992novExtras.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Extra Questions
+- rel: 1992 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992nov3.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Round 3
+- rel: 1992 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992nov1.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Round 1
+- rel: 1992 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992nov2.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Round 2
+- rel: 1992 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/novice/njcl1992novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Novice
+  round: Semifinals
+- rel: 1992 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992adv2.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Round 2
+- rel: 1992 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Finals
+- rel: 1992 NJCL Certamen Advanced Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992advExtras.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Extra Questions
+- rel: 1992 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992adv3.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Round 3
+- rel: 1992 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992adv1.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Round 1
+- rel: 1992 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1992/upper/njcl1992advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1992
+  division: Advanced
+  round: Semifinals
 - rel: 2008 NJCL Certamen Intermediate Round 3
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2008/intermediate/njcl2008int3.yaml
   tournament: NJCL Certamen
@@ -521,6 +629,114 @@ links:
   year: 2008
   division: Advanced
   round: Round 2
+- rel: 1991 NJCL Certamen Intermediate Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991intExtras.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Extra Questions
+- rel: 1991 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Finals
+- rel: 1991 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991int3.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Round 3
+- rel: 1991 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991int2.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Round 2
+- rel: 1991 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991int1.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Round 1
+- rel: 1991 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/lower/njcl1991intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Intermediate
+  round: Semifinals
+- rel: 1991 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991nov1.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Round 1
+- rel: 1991 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Semifinals
+- rel: 1991 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991nov2.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Round 2
+- rel: 1991 NJCL Certamen Novice Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991novExtras.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Extra Questions
+- rel: 1991 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Finals
+- rel: 1991 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/novice/njcl1991nov3.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Novice
+  round: Round 3
+- rel: 1991 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Semifinals
+- rel: 1991 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991adv2.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Round 2
+- rel: 1991 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991adv3.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Round 3
+- rel: 1991 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Finals
+- rel: 1991 NJCL Certamen Advanced Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991advTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Tiebreakers
+- rel: 1991 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1991/upper/njcl1991adv1.yaml
+  tournament: NJCL Certamen
+  year: 1991
+  division: Advanced
+  round: Round 1
 - rel: 2015 NJCL Certamen Intermediate Round 3
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2015/intermediate/njcl2015int3.yaml
   tournament: NJCL Certamen
@@ -863,6 +1079,114 @@ links:
   year: 2005
   division: Advanced
   round: Round 3
+- rel: 1994 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Finals
+- rel: 1994 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Semifinals
+- rel: 1994 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994int3.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Round 3
+- rel: 1994 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994int1.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Round 1
+- rel: 1994 NJCL Certamen Intermediate Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994intTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Tiebreakers
+- rel: 1994 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/lower/njcl1994int2.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Intermediate
+  round: Round 2
+- rel: 1994 NJCL Certamen Novice Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994novTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Tiebreakers
+- rel: 1994 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994nov3.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Round 3
+- rel: 1994 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Finals
+- rel: 1994 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994nov2.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Round 2
+- rel: 1994 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994nov1.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Round 1
+- rel: 1994 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/novice/njcl1994novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Novice
+  round: Semifinals
+- rel: 1994 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994adv2.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Round 2
+- rel: 1994 NJCL Certamen Advanced Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994advTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Tiebreakers
+- rel: 1994 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994adv1.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Round 1
+- rel: 1994 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Finals
+- rel: 1994 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994adv3.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Round 3
+- rel: 1994 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1994/upper/njcl1994advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1994
+  division: Advanced
+  round: Semifinals
 - rel: 1987 NJCL Certamen Intermediate Round 1
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1987/lower/njcl1987int1.yaml
   tournament: NJCL Certamen
@@ -2153,6 +2477,114 @@ links:
   year: 1990
   division: Advanced
   round: Extra Questions
+- rel: 1995 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Intermediate
+  round: Semifinals
+- rel: 1995 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995int1.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Intermediate
+  round: Round 1
+- rel: 1995 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995int3.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Intermediate
+  round: Round 3
+- rel: 1995 NJCL Certamen Intermediate Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995intExtras.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Intermediate
+  round: Extra Questions
+- rel: 1995 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Finals
+- rel: 1995 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/lower/njcl1995int2.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Intermediate
+  round: Round 2
+- rel: 1995 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995nov1.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Round 1
+- rel: 1995 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Semifinals
+- rel: 1995 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995nov2.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Round 2
+- rel: 1995 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Finals
+- rel: 1995 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995nov3.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Round 3
+- rel: 1995 NJCL Certamen Novice Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/novice/njcl1995novExtras.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Novice
+  round: Extra Questions
+- rel: 1995 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Semifinals
+- rel: 1995 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995adv3.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Round 3
+- rel: 1995 NJCL Certamen Advanced Extra Questions
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995advExtras.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Extra Questions
+- rel: 1995 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995adv2.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Round 2
+- rel: 1995 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Finals
+- rel: 1995 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1995/upper/njcl1995adv1.yaml
+  tournament: NJCL Certamen
+  year: 1995
+  division: Advanced
+  round: Round 1
 - rel: 1982 NJCL Certamen Intermediate Finals
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1982/lower/njcl1982intFinals.yaml
   tournament: NJCL Certamen
@@ -2225,6 +2657,114 @@ links:
   year: 1982
   division: Advanced
   round: Round 1
+- rel: 1993 NJCL Certamen Intermediate Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993int1.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Round 1
+- rel: 1993 NJCL Certamen Intermediate Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993intTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Tiebreakers
+- rel: 1993 NJCL Certamen Intermediate Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993int3.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Round 3
+- rel: 1993 NJCL Certamen Intermediate Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993intSemis.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Semifinals
+- rel: 1993 NJCL Certamen Intermediate Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993intFinals.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Finals
+- rel: 1993 NJCL Certamen Intermediate Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/lower/njcl1993int2.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Intermediate
+  round: Round 2
+- rel: 1993 NJCL Certamen Novice Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993nov3.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Round 3
+- rel: 1993 NJCL Certamen Novice Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993novTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Tiebreakers
+- rel: 1993 NJCL Certamen Novice Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993novSemis.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Semifinals
+- rel: 1993 NJCL Certamen Novice Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993nov2.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Round 2
+- rel: 1993 NJCL Certamen Novice Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993nov1.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Round 1
+- rel: 1993 NJCL Certamen Novice Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/novice/njcl1993novFinals.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Novice
+  round: Finals
+- rel: 1993 NJCL Certamen Advanced Tiebreakers
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993advTiebreakers.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Tiebreakers
+- rel: 1993 NJCL Certamen Advanced Round 1
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993adv1.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Round 1
+- rel: 1993 NJCL Certamen Advanced Finals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993advFinals.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Finals
+- rel: 1993 NJCL Certamen Advanced Round 2
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993adv2.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Round 2
+- rel: 1993 NJCL Certamen Advanced Semifinals
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993advSemis.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Semifinals
+- rel: 1993 NJCL Certamen Advanced Round 3
+  href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/1993/upper/njcl1993adv3.yaml
+  tournament: NJCL Certamen
+  year: 1993
+  division: Advanced
+  round: Round 3
 - rel: 2003 NJCL Certamen Intermediate Round 2
   href: https://raw.githubusercontent.com/NJCL-Certamen/certamen-catalogue/refs/heads/main/questions/njcl/2003/lower/njcl2003int2.yaml
   tournament: NJCL Certamen

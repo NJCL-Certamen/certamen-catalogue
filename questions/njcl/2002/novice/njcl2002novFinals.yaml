@@ -36,7 +36,7 @@ questions:
       - question: "What would the abbreviation <latin>p.</latin> denote?"
         answer: "HE DIED (<latin>PERIIT</latin>)"
   - tossup:
-      question: "When you are recognized by the spotter, perform the following commands: <latin>Surge et tange umerum sociī</latin>"
+      question: "When you are recognized by the spotter, perform the following commands: <latin>Surge et tange umerum sociī</latin>."
       answer: "STUDENT SHOULD RISE AND TOUCH THE SHOULDER OF A TEAMMATE (* any form of contact–even hitting, punching–may be acceptable)"
     boni:
       - question: "<latin>Surgite, plaudite, et cantāte Anglicē</latin>"
@@ -47,10 +47,10 @@ questions:
       question: "Of the words <latin>rētiārius, vigil, augur, rēx</latin>, and <latin>haruspex</latin> which does the following Latin sentence describe? <latin>Est nocturnus custōs quī urbem custōdit</latin>"
       answer: "<latin>VIGIL</latin>"
     boni:
-      - question: ". . . <latin>Hic adversus murmillōnem saepe pugnat</latin>"
-        answer: "RĒTIĀRIUS"
-      - question: ". . . <latin>Est vir quī ex avibus futūrum dīvīnat</latin>"
-        answer: "AUGUR"
+      - question: "Of the words <latin>rētiārius, vigil, augur, rēx</latin>, and <latin>haruspex</latin> which does the following Latin sentence describe? <latin>Hic adversus murmillōnem saepe pugnat</latin>"
+        answer: "<latin>RĒTIĀRIUS</latin>"
+      - question: "Of the words <latin>rētiārius, vigil, augur, rēx</latin>, and <latin>haruspex</latin> which does the following Latin sentence describe? <latin>Est vir quī ex avibus futūrum dīvīnat</latin>"
+        answer: "<latin>AUGUR</latin>"
   - tossup:
       question: "Why did Odysseus dig a pit at the junction of the Acheron, Periphlegethon, and Cocytus rivers?"
       answer: "TO SUMMON THE SOUL(S) OF THE DEAD / TO CONSULT TEIRESIAS"
@@ -71,9 +71,9 @@ questions:
       question: "What use of the genitive case is found in the following sentence: <latin>Publius, quī fortis est, plūs pecūniae habēre vult</latin>"
       answer: "PARTITIVE / GEN. OF THE WHOLE"
     boni:
-      - question: "<latin>Tiberis est flūmen omnium pulcherrimum</latin>"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Tiberis est flūmen omnium pulcherrimum</latin>"
         answer: "PARTITIVE / GEN. OF THE WHOLE"
-      - question: "<latin>Amor pacis melior est quam bellī</latin>"
+      - question: "What use of the genitive case is found in the following sentence: <latin>Amor pacis melior est quam bellī</latin>"
         answer: "OBJECTIVE"
   - tossup:
       question: "Give the Latin and the English meaning for the abbreviation <latin>stat</latin>"
@@ -90,27 +90,30 @@ questions:
       - question: "Whom did the emperor commemorated by arch “A” defeat to complete his mastery of the western portion of the Roman empire?"
         answer: "MAXENTIUS"
       - question: "The emperor of arch “A” was proclaimed emperor by his troops in the same city where emperor “C” died. What city was this?"
-        answer: "YORK/EBORACUM"
-  - tossup:
-      question: "What emperor is honored by the oldest existing arch in the Roman Forum?"
-      answer: "TITUS (FLAVIUS VESPASIANUS)"
-    boni:
-      - question: "The Arch of Constantine next to the Colosseum commemorates his victory over whom?"
-        answer: "MAXENTIUS"
-      - question: "Constantine was proclaimed emperor by his troops in the same city where Septimius Severus died. What city was this?"
-        answer: "YORK/EBORACUM"
+        answer: "YORK / EBORACUM"
+    alternate:
+      tossup:
+        question: "What emperor is honored by the oldest existing arch in the Roman Forum?"
+        answer: "TITUS (FLAVIUS VESPASIANUS)"
+      boni:
+        - question: "The Arch of Constantine next to the Colosseum commemorates his victory over whom?"
+          answer: "MAXENTIUS"
+        - question: "Constantine was proclaimed emperor by his troops in the same city where Septimius Severus died. What city was this?"
+          answer: "YORK / EBORACUM"
   - tossup:
       question: "Give an antonym of <latin>negōtium</latin>"
       answer: "<latin>ŌTIUM, LĪBERTĀS, VACĀTIŌ, IMMŪNITĀS, FERIAE</latin>"
     boni:
-      - question: ". . . of <latin>rūs</latin>"
+      - question: "Give an antonym of <latin>rūs</latin>"
         answer: "<latin>URBS, OPPIDUM, CĪVITĀS</latin>"
-      - question: ". . . of <latin>fraus</latin>"
+      - question: "Give an antonym of <latin>fraus</latin>"
         answer: "<latin>VĒRITĀS, HONOR/-OS, HONESTĀS, VĒRUM, FIDĒS</latin>"
   - tossup:
-      question: "Which of the following, if any, is NOT derived from <latin>avis</latin>? auspices, aviator, avian, avuncular, avionics AVUNCULAR From what ultimate Latin noun, with what meaning, is “avuncular” derived?"
-      answer: "<latin>AVUS</latin>, GRANDFATHER"
+      question: "Which of the following, if any, is NOT derived from <latin>avis</latin>: auspices, aviator, avian, avuncular, avionics?"
+      answer: "AVUNCULAR"
     boni:
+      - question: "From what ultimate Latin noun, with what meaning, is “avuncular” derived?"
+        answer: "<latin>AVUS</latin> - GRANDFATHER"
       - question: "What Latin verb combines with <latin>avis</latin> to give English \"auspices\"?"
         answer: "<latin>(A-)SPICIŌ, SPECTŌ</latin>"
   - tossup:
@@ -123,7 +126,7 @@ questions:
         answer: "CACUS"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN ENGLISH the question that follows. <latin>Ōlim mōnstrum saevissimum ē marī cotīdiē veniēbat atque hominēs dēvorābat quod quīdam rēx deum maris offenderat. Rēx igitur ōrāculum cōnsuluit. Ōrāculum dīxit, “Necesse est tibi fīliam tuam mōnstrō trādere.” Fīlia, quae ā mōnstrō interficī nōlēbat, patrī inquit, “Tē ipsum sacrificā,” et cum amīcīs suīs discessit.</latin>  Why did the king consult the oracle?"
-      answer: "A (VERY SAVAGE/SEA) MONSTER WAS EATING HIS PEOPLE"
+      answer: "A (VERY SAVAGE / SEA) MONSTER WAS EATING HIS PEOPLE"
     boni:
       - question: "What did the oracle tell the king to do in order to get rid of the sea monster?"
         answer: "SACRIFICE HIS DAUGHTER / HAND OVER HIS DAUGHTER TO THE MONSTER"
@@ -144,7 +147,7 @@ questions:
       - question: "Periphetes was also called Corynetes because of what item he carried?"
         answer: "A (BRONZE) CLUB"
       - question: "What sort of animal was the beast called Phaea, which Theseus killed at Crommyon?"
-        answer: "A BOAR/SOW/PIG"
+        answer: "A BOAR / SOW / PIG"
   - tossup:
       question: "Translate the following sentence into English: <latin>Tria capita Cerberō canī erant</latin>"
       answer: "CERBERUS THE <emphasis>DOG</emphasis> HAD THREE HEADS"

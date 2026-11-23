@@ -13,32 +13,34 @@ questions:
         answer: "CORINTH"
   - tossup:
       question: "Translate “friend’s” into Latin for the following sentence: “For three days I traveled with my friend’s family to Athens.”"
-      answer: "<latin>AMĪCĪ / AMĪCAE / AMĪCŌRUM</latin>"
+      answer: "<latin>AMĪCĪ / AMĪCAE / AMĪCŌRUM / AMĪCĀRUM</latin>"
     boni:
-      - question: "or <latin>AMĪCĀRUM</latin> (cannot tell difference orally in English sentence) What use of the ablative is found in the toss-up sentence?"
+      - question: "What use of the ablative is found in the toss-up sentence?"
         answer: "ACCOMPANIMENT (prompt if “prepositional phrase” given)"
-      - question: "For that sentence, translate “to Athens”into Latin?"
+      - question: "For that sentence, translate “to Athens” into Latin?"
         answer: "<latin>ATHĒNĀS</latin>"
   - tossup:
-      question: "Which of the following words are synonymous: impugn, postulate, capitulate, denigrate, exacerbate IMPUGN & DENIGRATE Which of the words in the toss-up means “to aggravate”?"
-      answer: "EXACERBATE"
+      question: "Which of the following words are synonymous: impugn, postulate, capitulate, denigrate, exacerbate?"
+      answer: "IMPUGN & DENIGRATE"
     boni:
+      - question: "Which of the words in the toss-up means “to aggravate”?"
+        answer: "EXACERBATE"
       - question: "Which of the words in the toss-up means “to assume to be true”?"
         answer: "POSTULATE"
   - tossup:
       question: "After fighting the battle of Silva Arsia with help from Veii and Tarquinii, whose aid did Tarquinius Superbus seek next?"
-      answer: "LARS PORSENNA"
+      answer: "LARS PORSENA"
     boni:
       - question: "Whose wife was Lucretia, the woman whose defilement increased the Roman’s distaste for kings?"
         answer: "(TARQUINIUS) COLLATINUS"
-      - question: "Who was Porsenna’s son who led the Etruscan force which was defeated at Aricia?"
+      - question: "Who was Porsena’s son who led the Etruscan force which was defeated at Aricia?"
         answer: "ARRUNS"
   - tossup:
       question: "Listen carefully to the following passage about Horatius, which I will read twice, and answer IN LATIN the question that follows: <latin>Horātius contrā multōs hostēs pōntem dēfendit. Dum magnā virtūte impetum sustinet, Aliī mīlitēs Rōmānī pōntem dēlēvērunt. Tum Horātius, quī multa vulnera habēbat, deum flūminis invocāvit et dē pōnte in aquam saluit. Quō modō sustinēbat Horātius impetum?</latin>"
-      answer: "MAGNĀ <latin>VIRTŪTE / FORTITER</latin>"
+      answer: "<latin>MAGNĀ VIRTŪTE / FORTITER</latin>"
     boni:
-      - question: "Quī <latin>pontem dēlēvērunt?</latin>"
-        answer: "(ALIĪ) MĪLITĒS RŌMĀNĪ"
+      - question: "<latin>Quī pontem dēlēvērunt?</latin>"
+        answer: "<latin>(ALIĪ) MĪLITĒS RŌMĀNĪ</latin>"
       - question: "<latin>Quid fēcit Horātius postquam deum flūminis invocāverat?</latin> "
         answer: "<latin>(DĒ PONTE) IN AQUAM / IN FLŪMEN SALUIT</latin>"
   - tossup:
@@ -48,10 +50,10 @@ questions:
       - question: "Translate into English: <latin>pecūnia, quam puella āmīserat, subitō inventa est.</latin> "
         answer: "THE MONEY, WHICH THE GIRL HAD LOST, WAS SUDDENLY FOUND"
       - question: "Translate into English: <latin>postquam pecūnia inventa est, puella magnopere gaudēbat</latin>"
-        answer: "AFTER THE MONEY WAS/HAS BEEN FOUND, THE GIRL GREATLY REJOICED"
+        answer: "AFTER THE MONEY WAS / HAS BEEN FOUND, THE GIRL GREATLY REJOICED"
   - tossup:
       question: "As a stalling tactic, which of his rivals did Septimius Severus appoint as heir in AD 193?"
-      answer: "(DECIMUS CLODIUS) ALBINUS"
+      answer: "(D. CLODIUS) ALBINUS"
     boni:
       - question: "Whose forces were defeated by Septimius Severus near Cyzicus in the winter of AD 193?  "
         answer: "(C.) PESCENNIUS NIGER’S"
@@ -61,9 +63,9 @@ questions:
       question: "Give a synonym of <latin>verberō</latin>"
       answer: "<latin>PULSŌ, CAEDŌ, MULCŌ, ĪCIŌ, ĪCŌ</latin>"
     boni:
-      - question: "of <latin>vocō</latin>"
+      - question: "Give a synonym of <latin>vocō</latin>"
         answer: "<latin>CLĀMŌ, APPELLŌ, NŌMINŌ, DĪCŌ</latin>"
-      - question: "of <latin>inquit</latin>"
+      - question: "Give a synonym of <latin>inquit</latin>"
         answer: "<latin>DĪCIT, AIT, NARRAT, LOQUITUR, FĀTUR</latin> (or any other common form of these words)"
   - tossup:
       question: "Who was the only child of Zeus and Demeter?"
@@ -80,14 +82,6 @@ questions:
       - question: "You are looking at two pictures of Roman statues. In what sort of ceremony is the Roman in picture “A” participating?"
         answer: "A FUNERAL"
       - question: "Examine the item that the Roman boy is wearing around his neck in picture “B.” During what type of ceremony would an adult male wear that item?"
-        answer: "A TRIUMPH"
-  - tossup:
-      question: "Romans were very ceremonial people. During what sort of ceremony would a <latin>iunctiō dextrārum</latin> take place?"
-      answer: "A WEDDING"
-    boni:
-      - question: "During what type of ceremony would a person wear a dark tunic pulled over the head?"
-        answer: "A FUNERAL"
-      - question: "During what type of ceremony would a Roman man wear his childhood ēbulla’?"
         answer: "A TRIUMPH"
   - tossup:
       question: "During the reign of Domitian, which two temples stood directly in front of the <latin>tabularium</latin> at the foot of the Capitoline hill?"
@@ -122,7 +116,7 @@ questions:
       - question: "Who sent Theseus on the mission to kill this bull?"
         answer: "AEGEUS"
   - tossup:
-      question: "Which of the following, if any, is NOT derived from <latin>capiō</latin>? caper, caption, catch, deceit, occupy CAPER (fr. <latin>caper</latin>, goat) What derivative of <latin>capiō</latin> means \"the instructions for preparing a certain meal\"?"
+      question: "Which of the following, if any, is NOT derived from <latin>capiō</latin>: caper, caption, catch, deceit, occupy CAPER (fr. <latin>caper</latin>, goat) What derivative of <latin>capiō</latin> means \"the instructions for preparing a certain meal\"?"
       answer: "RECIPE"
     boni:
       - question: "What derivative of <latin>capiō</latin> means \"an idea\"?"
@@ -145,7 +139,7 @@ questions:
         answer: "SCYLLA"
   - tossup:
       question: "Who took over Lucullus’ command in the East in 66 BC?"
-      answer: "POMPEY (THE GREAT)"
+      answer: "(CN.) POMPEIUS / POMPEY (THE GREAT / MAGNUS)"
     boni:
       - question: "Whom had Lucullus restored as king of Armenia after defeating Tigranes?"
         answer: "ANTIOCHUS (XIII)"
@@ -161,7 +155,7 @@ questions:
         answer: "<latin>QUĀRUNDAM</latin>"
   - tossup:
       question: "What is the Latin motto of the United States of America?"
-      answer: "Ē <latin>PLŪRIBUS ŪNUM</latin>"
+      answer: "<latin>Ē PLŪRIBUS ŪNUM</latin>"
     boni:
       - question: "For five points each, give the two Latin mottoes and their English meanings which appear on the great seal of the United States"
-        answer: "<latin>ANNUIT COEPTĪS</latin> / HE (GOD) HAS FAVORED OUR UNDERTAKING(S). <latin>NOVUS ŌRDŌ SECLŌRUM</latin>"
+        answer: "<latin>ANNUIT COEPTĪS</latin> - HE (GOD) HAS FAVORED OUR UNDERTAKING(S); <latin>NOVUS ŌRDŌ SECLŌRUM</latin> - A NEW ORDER OF THE AGES"

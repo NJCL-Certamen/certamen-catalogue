@@ -5,7 +5,7 @@ round: "Semifinals"
 questions:
   - tossup:
       question: "Whose blood was the cause of Heracles’ death?"
-      answer: "(THE CENTAUR) NESSUS / THE HYDRAS"
+      answer: "(THE CENTAUR) NESSUS / THE HYDRA'S"
     boni:
       - question: "Who had spread this blood on a tunic for Heracles?"
         answer: "DEIAN(E)IRA"
@@ -17,8 +17,8 @@ questions:
     boni:
       - question: "Where in ancient Rome would you go to visit all these places: Temple of Magna Mater, Temple of Apollo, Domus Augustana & the house of Livia?"
         answer: "PALATINE HILL"
-      - question: "Where would you go to visit Pompey’s theater, the Saepta Julia and the Pantheon?"
-        answer: "CAMPUS MARTIUS"
+      - question: "Where would you go to visit Pompey’s theater, the <latin>Saepta Julia</latin> and the Pantheon?"
+        answer: "<latin>CAMPUS MARTIUS</latin>"
   - tossup:
       question: "What use of the ablative case can be found in the following sentence: <latin>Līberī cum celeritāte ad lūdum īvērunt</latin>?"
       answer: "MANNER"
@@ -44,11 +44,13 @@ questions:
       - question: "Which Roman general defeated Perseus at Pydna in 168 BC?"
         answer: "(L. AEMILIUS) PAULLUS"
   - tossup:
-      question: "Give an antonym of the adjective <latin>fortis</latin>. (afraid): <latin>TIMIDUS, PAVIDUS, IGNĀVUS</latin>; (weak): <latin>INFIRMUS, DĒBILIS, INVALIDUS, LANGUIDUS, CONFECTUS, AEGER</latin>  . . . of <latin>tardus</latin>"
-      answer: "<latin>CELER, RAPIDUS, AGILIS, ALACER, PROMPTUS, VĒLOX, CITUS, MATŪRUS, CALLIDUS, INTELLIGENS, PRŪDENS</latin>"
+      question: "Give an antonym of the adjective <latin>fortis</latin>."
+      answer: "<latin>TIMIDUS / PAVIDUS / IGNĀVUS / INFIRMUS / DĒBILIS / INVALIDUS / LANGUIDUS / CONFECTUS / AEGER</latin>"
     boni:
-      - question: ". . . of <latin>nūllus</latin>"
-        answer: "<latin>ŪLLUS, OMNIS/ OMNĒS, NŌNNŪLLUS, ALIQUĪ/ ALIQUIS, ALIUS, ALIQUOT, MULTUS / MULTĪ</latin>"
+      - question: "Give an antonym of <latin>tardus</latin>"
+        answer: "<latin>CELER / RAPIDUS / AGILIS / ALACER / PROMPTUS / VĒLOX / CITUS / MATŪRUS / CALLIDUS / INTELLIGENS / PRŪDENS</latin>"
+      - question: "Give an antonym of <latin>nūllus</latin>"
+        answer: "<latin>ŪLLUS / OMNIS / OMNĒS / NŌNNŪLLUS / ALIQUĪ/ ALIQUIS / ALIUS / ALIQUOT / MULTUS / MULTĪ</latin>"
   - tossup:
       question: "Into what was Daphne transformed?"
       answer: "A LAUREL TREE"
@@ -62,7 +64,7 @@ questions:
       answer: "<latin>IŪVIMUS</latin>"
     boni:
       - question: "Change <latin>iūvimus</latin> to the passive"
-        answer: "<latin>IŪTĪ / -AE / -A SUMUS</latin>"
+        answer: "<latin>IŪTĪ/-AE/-A SUMUS</latin>"
       - question: "Change <latin>iūtī sumus</latin> to the imperfect"
         answer: "<latin>IUVĀBĀMUR</latin>"
   - tossup:
@@ -70,17 +72,17 @@ questions:
       answer: "<latin>STŌ, STĀRE</latin> - STAND"
     boni:
       - question: "What derivative of <latin>stō, stare</latin> means “characterized by a fixed condition”?"
-        answer: "STATIC, STANDING, CONSISTENT, STABLE, CONSTANT"
+        answer: "STATIC / STANDING / CONSISTENT / STABLE / CONSTANT"
       - question: "What derivative of <latin>stō, stare</latin> means “an upright prop or support”?"
-        answer: "STANCHION, STAND, STABILIZER"
+        answer: "STANCHION / STAND / STABILIZER"
   - tossup:
       question: "<latin>Dēscrībāmus nunc proprietātēs dictiōnum in hāc sententiā: “Ecce! imperātor adest.” Cuius generis est “imperātor”?</latin>"
-      answer: "MASCULĪNĪ"
+      answer: "<latin>MASCULĪNĪ</latin>"
     boni:
       - question: "<latin>Quae pars ōrātiōnis est “ecce”?</latin>"
-        answer: "INTERIĒCTIŌ"
+        answer: "<latin>INTERIĒCTIŌ</latin>"
       - question: "<latin>“Adest”, dīc persōnam tertiam plūrālem</latin>"
-        answer: "ADSUNT"
+        answer: "<latin>ADSUNT</latin>"
   - tossup:
       question: "Who is represented on this family tree by the letter “D”?"
       answer: "CREUSA"
@@ -99,7 +101,7 @@ questions:
         answer: "GANYMEDE"
   - tossup:
       question: "Who was appointed to a dictatorship which he could retain until his death, or until he wished to resign, with the specific goal of redrafting the constitution in 82 BC?"
-      answer: "(L. CORNELIUS) SULLA"
+      answer: "(L. CORNELIUS) SULLA (FELIX)"
     boni:
       - question: "Part of Sulla’s reform program was a revision of the court system. What sort of criminal cases would a <latin>quaestiō dē maiestāte</latin> judge?"
         answer: "TREASON"
@@ -111,7 +113,7 @@ questions:
     boni:
       - question: "Translate into English: <latin>Nōnne gladiātōrēs fortiōrēs leōnibus sunt?</latin>"
         answer: "SURELY THE GLADIATORS ARE BRAVER/STRONGER THAN THE LIONS? / THE GLADIATORS ARE BRAVER / STRONGER THAN THE LIONS, AREN’T THEY?"
-      - question: "Translate into English: <latin>Marce, cūr fortiter pugnāre nōn potes?</latin> "
+      - question: "Translate into English: <latin>Marce, cūr fortiter pugnāre nōn potes?</latin>"
         answer: "MARCUS, WHY ARE YOU NOT ABLE TO FIGHT BRAVELY?"
   - tossup:
       question: "Who were the parents of Astyanax?"
@@ -120,15 +122,15 @@ questions:
       - question: "By what other name was Astyanax known?"
         answer: "SCAMANDRIUS"
       - question: "Whose concubine did Andromache become immediately after the Trojan War?"
-        answer: "NEOPTOLEMUS’/PYRRHUS’"
+        answer: "NEOPTOLEMUS’ / PYRRHUS’"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question that follows: <latin>Dux mīlitēs suōs convocāvit et clamāvit, “Septem annōs bellum contrā hostēs</latin>   <latin>gerēbāmus. Hodiē et victōria et glōria nōbīscum in pugnā erunt.” Rōmānī hostēs facillimē superāvērunt atque nox fuit fīnis proeliī. Quam diū mīlitēs contrā hostēs in bellō gerēbant?</latin>"
-      answer: "SEPTEM ANNŌS"
+      answer: "<latin>SEPTEM ANNŌS</latin>"
     boni:
-      - question: "In sententiā <latin>ducis, quae rēs cum mīlitibus hodiē erunt?</latin> "
+      - question: "<latin>In sententiā ducis, quae rēs cum mīlitibus hodiē erunt?</latin> "
         answer: "<latin>(ET) VICTŌRIA ET GLŌRIA</latin>"
       - question: "<latin>Quō modō Rōmānī hostēs superāvērunt?</latin>"
-        answer: "FACILLIMĒ <latin>/ FACILE</latin>"
+        answer: "<latin>FACILLIMĒ / FACILE</latin>"
   - tossup:
       question: "At a slave auction what was the term for the scroll or sign hanging from the slave’s neck describing his skills or deficiencies?"
       answer: "<latin>TITULUS</latin>"
@@ -136,7 +138,7 @@ questions:
       - question: "At a slave auction, what did it mean if a slave for sale wore a <latin>pilleus</latin>?"
         answer: "THE SELLER MADE NO GUARANTEES/THE PURCHASER ASSUMED ALL RISKS"
       - question: "For what other ceremony would a slave wear a <latin>pilleus</latin>?"
-        answer: "<latin>MANŪMISSIŌ/</latin>MANUMISSION/FREEDOM CEREMONY"
+        answer: "<latin>MANŪMISSIŌ</latin> / MANUMISSION / FREEDOM CEREMONY"
   - tossup:
       question: "Change the verb form <latin>rapit</latin> to the future tense"
       answer: "<latin>RAPIET</latin>"

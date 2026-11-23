@@ -7,15 +7,15 @@ questions:
       question: "Give the Latin verb at the ultimate root of the English noun \"conjugation.\""
       answer: "<latin>IUNGŌ</latin>"
     boni:
-      - question: "of \"adjective.\""
+      - question: "Give the Latin verb at the ultimate root of \"adjective.\""
         answer: "<latin>IACIŌ</latin>"
       - question: "What English part of speech, used to convey emotion, is also derived from <latin>iaciō</latin>?"
         answer: "INTERJECTION"
   - tossup:
-      question: "Who set DANAË and Perseus adrift in a box?"
+      question: "Who set Danaë and Perseus adrift in a box?"
       answer: "ACRISIUS (prompt if “father” is given)"
     boni:
-      - question: "Which fisherman rescued DANAË and her son from the sea?"
+      - question: "Which fisherman rescued Danaë and her son from the sea?"
         answer: "DICTYS"
       - question: "Who sent Perseus on his mission to fetch Medusa’s head?"
         answer: "POLYDECTES"
@@ -37,15 +37,15 @@ questions:
         answer: "<latin>MISERŌ LEŌNĪ</latin>"
   - tossup:
       question: "For what occasion would a Roman father hang a <latin>bulla</latin> around his child’s neck?"
-      answer: "<latin>SUSCEPTIŌ / DIĒS LŪSTRICUS / DIĒS NŌMINUM /</latin>"
+      answer: "<latin>SUSCEPTIŌ / DIĒS LŪSTRICUS / DIĒS NŌMINUM / NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY"
     boni:
-      - question: "<latin>NŌMINĀLIA</latin> / DAY OF NAMING / PURIFICATION DAY The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
+      - question: "The <latin>bulla</latin> was supposed to ward off the evil eye. What was the Latin term for this “evil eye”?"
         answer: "<latin>FASCINĀTIŌ</latin>"
       - question: "What is the Latin term for the toys and ornaments strung together worn by infants?"
         answer: "<latin>CREPUNDIA</latin>"
   - tossup:
       question: "After the fall of Troy, who ravaged Cassandra in Athena’s temple?"
-      answer: "AJAX OILEUS/LESSER"
+      answer: "OILEAN / SMALL(ER) / LESS(ER) / LOCRIAN AJAX"
     boni:
       - question: "Whose concubine did Cassandra become after the war?"
         answer: "AGAMEMNON’S"
@@ -77,19 +77,19 @@ questions:
         answer: "PYTHIAN GAMES"
   - tossup:
       question: "Listen carefully to the following passage, which I will read twice, and answer IN LATIN the question about it: <latin>Rēgēs populum Rōmānum diū regēbant. Ultimus rēx, quem Rōmānī appellābant Superbum, erat crūdēlis et populum terrēbat. Tandem Rōmānī Superbum ex urbe expulērunt. Quem Rōmānī ex urbe expulērunt?</latin>"
-      answer: "SUPERBUM / RĒGEM (ULTIMUM)"
+      answer: "<latin>SUPERBUM / RĒGEM (ULTIMUM)</latin>"
     boni:
-      - question: "Vērum aut falsum: Superbus ab omnibus amābātur"
-        answer: "FALSUM"
-      - question: "Quālis erat Superbus?"
-        answer: "SUPERBUS / CRŪDĒLIS / <latin>TERRIBILIS</latin>"
+      - question: "<latin>Vērum aut falsum: Superbus ab omnibus amābātur</latin>"
+        answer: "<latin>FALSUM</latin>"
+      - question: "<latin>Quālis erat Superbus</latin>?"
+        answer: "<latin>SUPERBUS / CRŪDĒLIS / TERRIBILIS</latin>"
   - tossup:
       question: "What is the Latin noun at the ultimate root of “crown” and \"coronary.\""
       answer: "<latin>CORŌNA</latin>"
     boni:
-      - question: ". . . of \"corset.\""
+      - question: "What is the Latin noun at the ultimate root of \"corset.\""
         answer: "<latin>CORPUS</latin>"
-      - question: ". . . of \"corner.\""
+      - question: "What is the Latin noun at the ultimate root of \"corner.\""
         answer: "<latin>CORNŪ</latin>"
   - tossup:
       question: "During which war did the following battles take place: Baecula, Ilipa, Trebia, Lake Trasimene, Cannae?"
@@ -101,27 +101,25 @@ questions:
         answer: "(TI.) SEMPRONIUS LONGUS"
   - tossup:
       question: "What was the name of the fiery river in the Underworld?"
-      answer: "(PYRO) PHLEGETHON"
+      answer: "(PYRO-)PHLEGETHON"
     boni:
       - question: "According to some accounts, across which river, besides the Styx, did Charon do his ferrying?"
         answer: "ACHERON"
       - question: "What role did Minos, Rhadamanthys and Aeacus play in the Underworld?"
         answer: "JUDGES OF THE DEAD"
   - tossup:
-      question: "Translate into Latin: I have walked for three days"
+      question: "Translate into Latin: I have walked for three days."
       answer: "<latin>TRĒS DIĒS AMBULĀVĪ</latin>"
     boni:
-      - question: "Translate into Latin: We will arrive in three days"
+      - question: "Translate into Latin: We will arrive in three days."
         answer: "<latin>TRIBUS DIĒBUS ADVENIĒMUS / PERVENIĒMUS</latin>"
-      - question: "Translate into Latin: They arrived on the fourth day"
+      - question: "Translate into Latin: They arrived on the fourth day."
         answer: "<latin>QUARTŌ DIĒ ADVĒNĒRUNT / PERVĒNĒRUNT</latin>"
   - tossup:
       question: "A tombstone for a certain Scaterius Celer begins “<latin>Nihil sumus et fuimus</latin>”. Translate that into English"
-      answer: "WE ARE NOTHING, AND WE HAVE BEEN / WERE (NOTHING) (Posted here as a reference. Do not read)"
+      answer: "WE ARE NOTHING, AND WE HAVE BEEN / WERE (NOTHING) (Posted here as a reference. Do not read <latin>Scaterius Celer Nihil sumus et fuimus. Mortales respice, lector. In nihil ab nihilo quam cito recidimus. L. Scaterius Amethystus ex testamento fecit</latin>)"
     boni:
-      - question: "<latin>Scaterius Celer Nihil sumus et fuimus. Mortales respice, lector. In nihil ab nihilo quam cito recidimus.</latin> "
-        answer: "<latin>L.</latin>"
-      - question: "Scaterius Amethystus ex testamento fecit  What does this inscription urge the reader to do?"
+      - question: "What does this inscription urge the reader to do?"
         answer: "THINK ABOUT THOSE WHO ARE MORTAL - “LOOK BACK AT THE MORTALS”"
       - question: "How did Scaterius’ relative know to make this inscription?"
         answer: "IN HIS WILL"
@@ -129,9 +127,9 @@ questions:
       question: "Give a synonym of <latin>iānua</latin>"
       answer: "<latin>ŌSTIUM, FORIS, PORTA</latin>"
     boni:
-      - question: ". . . of <latin>pictūra</latin>"
+      - question: "Give a synonym of <latin>pictūra</latin>"
         answer: "<latin>IMĀGŌ, SPECIĒS</latin>"
-      - question: ". . . of <latin>vīlla</latin>"
+      - question: "Give a synonym of <latin>vīlla</latin>"
         answer: "<latin>DOMUS, HABITĀTIŌ, CASA, AEDĒS, TĒCTUM</latin>"
   - tossup:
       question: "Who, along with 300 of his supporters, was clubbed to death on the Capitoline hill in 133 BC?"
@@ -146,9 +144,9 @@ questions:
       answer: "AEOLUS"
     boni:
       - question: "Which wind was not in that bag?"
-        answer: "ZEPHYR(US)/THE WEST WIND"
+        answer: "ZEPHYR(US) / THE WEST WIND"
       - question: "Where were Odysseus and his men just before the bag of winds was opened?"
-        answer: "NEAR/WITHIN SIGHT OF ITHACA"
+        answer: "NEAR / WITHIN SIGHT OF ITHACA"
   - tossup:
       question: "Who in 29 BC celebrated triumphs on 3 successive days?"
       answer: "OCTAVIAN / OCTAVIUS / AUGUSTUS"
@@ -157,9 +155,9 @@ questions:
         answer: "ACTIUM, EGYPT, & DALMATIA"
   - tossup:
       question: "Give the Latin and the English meaning for the abbreviation <latin>cf</latin>"
-      answer: "CONFER - COMPARE"
+      answer: "<latin>CONFER</latin> - COMPARE"
     boni:
-      - question: "Give the Latin and the English for the abbreviation <latin>c.</latin> when it is used before dates"
+      - question: "Give the Latin and the English for the abbreviation <latin>c.</latin> when it is used before dates."
         answer: "<latin>CIRCĀ / CIRCITER / CIRCUM</latin> - ABOUT, APPROXIMATELY, AROUND"
-      - question: "Give the Latin and the English for the abbreviation <latin>con</latin>"
-        answer: "<latin>CONIUNX</latin>"
+      - question: "Give the Latin and the English for the abbreviation <latin>con</latin>."
+        answer: "<latin>CONIUNX</latin> - SPOUSE / WIFE / HUSBAND"

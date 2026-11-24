@@ -112,7 +112,7 @@ questions:
       answer: "<latin>IŪLIA EST PULCHRIOR / BELLA QUAM LĪVIA / IŪLIA EST PULCHRIOR / BELLIOR LĪVIĀ</latin>"
     boni:
       - question: "Translate into Latin: Livia is much smarter than Julia"
-        answer: "<latin>LĪVIA MULTŌ CALLIDIOR EST QUAM IŪLIA / LĪVIA MULTŌ CALLIDIOR IŪLIĀ EST</latin> (Other options include <latin>INTELLIGENTIOR</latin>, <latin>PRŪDENTIOR</latin>, and <latin>SAPIENTIOR</latin>)"
+        answer: "<latin>LĪVIA MULTŌ CALLIDIOR EST QUAM IŪLIA / LĪVIA MULTŌ CALLIDIOR IŪLIĀ EST</latin> (Other options include <latin>INTELLIGENTIOR, PRŪDENTIOR</latin>, and <latin>SAPIENTIOR</latin>)"
       - question: "Translate into Latin: Livia is a girl of great beauty"
         answer: "<latin>LĪVIA EST PUELLA MAGNĀ PULCHRITŪDINE / FORMĀ MAGNAE PULCHRITŪDINIS / FORMAE</latin>"
   - tossup:
